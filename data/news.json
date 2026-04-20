@@ -1,0 +1,33 @@
+{
+  "provider": "GNews via GitHub Actions",
+  "updatedAt": "2026-04-20T00:00:00Z",
+  "windowLabel": "GitHub Pages 互換版",
+  "categories": {
+    "general": {
+      "jp": [
+        {
+          "title": "サンプル日本ニュース1",
+          "description": "これは news.json の配置確認用サンプルです。GitHub Actions で自動更新に置き換わります。",
+          "url": "https://example.com/jp1",
+          "source": {
+            "name": "Sample JP"
+          },
+          "publishedAt": "2026-04-20T00:00:00Z",
+          "language": "ja"
+        }
+      ],
+      "world": [
+        {
+          "title": "Sample world headline",
+          "description": "This is sample data for GitHub Pages. Replace it with automated updates from GitHub Actions.",
+          "url": "https://example.com/world1",
+          "source": {
+            "name": "Sample World"
+          },
+          "publishedAt": "2026-04-20T00:00:00Z",
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
