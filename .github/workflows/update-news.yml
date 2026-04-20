@@ -1,0 +1,25 @@
+name: Update news.json
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    env:
+      GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Update news data
+        run: node scripts/update-news.cjs
