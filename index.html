@@ -1,10 +1,9 @@
-
 <!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>News Wire2 GNews + Browser Translator</title>
+  <title>News Wire</title>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Noto+Sans+JP:wght@400;700&family=Space+Mono:wght@700&display=swap" rel="stylesheet">
   <style>
     * { box-sizing: border-box; }
@@ -17,45 +16,82 @@
     button, input, select { font: inherit; }
     a { color: inherit; }
     .hidden { display: none !important; }
-    .screen { min-height: 100svh; position: relative; --topChromeHeight: 172px; --bottomBarHeight: 34px; }
-    .center-wrap { min-height: 100svh; display: flex; align-items: center; justify-content: center; padding: 20px; }
-    .card { width: 100%; max-width: 560px; text-align: center; }
-    .title { font-family: 'Space Mono', monospace; font-size: 28px; color: #00ffb4; margin: 0 0 8px; letter-spacing: -1px; }
-    .subtitle { color: rgba(255,255,255,0.45); font-size: 14px; margin-bottom: 12px; }
-    .muted { color: rgba(255,255,255,0.35); font-size: 12px; line-height: 1.7; }
-    .btn {
-      border: none; border-radius: 12px; background: linear-gradient(135deg, #00ffb4, #00d4aa);
-      color: #0d1117; padding: 14px 16px; width: 100%; font-size: 15px; font-weight: 700; cursor: pointer;
+
+    .screen {
+      min-height: 100svh;
+      position: relative;
+      --topChromeHeight: 172px;
+      --bottomBarHeight: 34px;
+      --sectionGap: 130px;
     }
-    .btn.secondary {
-      background: rgba(255,255,255,0.05); color: rgba(255,255,255,0.8);
+
+    .top-chrome {
+      position: sticky;
+      top: 0;
+      z-index: 5;
+      background: linear-gradient(180deg, rgba(13,17,23,0.98) 0%, rgba(13,17,23,0.96) 80%, rgba(13,17,23,0.86) 100%);
+      backdrop-filter: blur(10px);
+      transition: transform 0.28s ease, opacity 0.28s ease, max-height 0.28s ease;
+      transform: translateY(0);
+      opacity: 1;
+      overflow: hidden;
+      max-height: 400px;
+    }
+
+    .top-reveal-hint {
+      position: fixed;
+      top: 8px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 6;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: rgba(13,17,23,0.75);
       border: 1px solid rgba(255,255,255,0.08);
+      color: rgba(255,255,255,0.6);
+      font-size: 11px;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.2s ease;
     }
-    .btn.small { width: auto; padding: 7px 12px; border-radius: 8px; font-size: 12px; }
-    .config-box {
-      margin: 18px 0 24px; padding: 16px; border: 1px solid rgba(255,255,255,0.08);
-      border-radius: 16px; background: rgba(255,255,255,0.03); text-align: left;
+
+    .content-area {
+      padding-top: 0;
+      padding-bottom: calc(var(--bottomBarHeight, 34px) + 10px);
+      min-height: calc(100svh - var(--topChromeHeight, 172px));
+      transition: min-height 0.28s ease;
     }
-    .field { margin-bottom: 12px; }
-    .field label { display: block; font-size: 12px; color: rgba(255,255,255,0.55); margin-bottom: 6px; }
-    .field input, .field select {
-      width: 100%; padding: 10px 12px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.08);
-      background: rgba(255,255,255,0.04); color: #fff; outline: none;
+
+    #mainScreen.ui-collapsed.vertical-mode .top-chrome {
+      transform: translateY(calc(-1 * var(--topChromeHeight, 172px)));
+      opacity: 0.01;
+      pointer-events: none;
+      max-height: 0;
     }
-    .field input::placeholder { color: rgba(255,255,255,0.25); }
-    .hint {
-      margin-top: 8px; padding: 10px 12px; border-radius: 10px;
-      background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.05);
-      color: rgba(255,255,255,0.45); font-size: 11px; line-height: 1.6;
+    #mainScreen.ui-collapsed.vertical-mode .top-reveal-hint { opacity: 1; }
+    #mainScreen.ui-collapsed.vertical-mode .content-area {
+      min-height: calc(100svh - var(--bottomBarHeight, 34px));
     }
+
     .header {
-      padding: 16px 20px 0; display: flex; flex-wrap: wrap; align-items: center; gap: 10px;
-      position: relative; z-index: 2;
+      padding: 16px 20px 0;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 10px;
+      position: relative;
+      z-index: 2;
     }
     .header-right { margin-left: auto; display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
-    .control-select {
-      padding: 7px 10px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.08);
-      background: rgba(255,255,255,0.04); color: rgba(255,255,255,0.82); font-size: 12px; outline: none;
+    .control-select, .main-tools-btn {
+      padding: 7px 10px;
+      border-radius: 8px;
+      border: 1px solid rgba(255,255,255,0.08);
+      background: rgba(255,255,255,0.04);
+      color: rgba(255,255,255,0.82);
+      font-size: 12px;
+      outline: none;
+      cursor: pointer;
     }
     .chip-row { padding: 12px 20px 6px; display: flex; gap: 6px; overflow-x: auto; -webkit-overflow-scrolling: touch; }
     .chip {
@@ -69,22 +105,29 @@
       background: rgba(255,80,80,0.08); border: 1px solid rgba(255,80,80,0.2);
       color: #ff8a8a; font-size: 12px; line-height: 1.6;
     }
-    .info {
-      margin: 12px 20px; padding: 12px 16px; border-radius: 10px;
-      background: rgba(120,180,255,0.08); border: 1px solid rgba(120,180,255,0.2);
-      color: #a9d0ff; font-size: 12px; line-height: 1.6;
-    }
+
+    .glow1, .glow2 { position: fixed; border-radius: 50%; pointer-events: none; }
+    .glow1 { top: -200px; right: -200px; width: 600px; height: 600px; background: radial-gradient(circle, rgba(0,255,180,0.04) 0%, transparent 70%); }
+    .glow2 { bottom: -200px; left: -200px; width: 500px; height: 500px; background: radial-gradient(circle, rgba(100,140,255,0.03) 0%, transparent 70%); }
+
     .section-label { display: flex; align-items: center; gap: 8px; padding: 0 24px; margin-bottom: 4px; flex-wrap: wrap; }
     .section-name { font-family: 'Space Mono', monospace; font-size: 12px; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase; }
     .section-meta { font-size: 10px; color: rgba(255,255,255,0.28); }
+
     .ticker-wrap { overflow: hidden; width: 100%; position: relative; padding: 4px 0; }
     .ticker-track { display: flex; gap: 16px; white-space: nowrap; will-change: transform; }
-    .list-wrap { padding: 4px 20px 0; height: calc((100svh - var(--topChromeHeight, 172px) - var(--bottomBarHeight, 34px) - 112px) / 2); min-height: 220px; overflow: hidden; position: relative; }
+
+    .list-wrap {
+      padding: 4px 20px 0;
+      height: calc((100svh - var(--topChromeHeight, 172px) - var(--bottomBarHeight, 34px) - var(--sectionGap, 130px)) / 2);
+      min-height: 220px; overflow: hidden; position: relative;
+    }
     .list-column { display: flex; flex-direction: column; gap: 12px; will-change: transform; }
     .list-column .news-card { width: 100%; max-width: none; min-width: 0; }
+
     .news-card {
       flex-shrink: 0; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08);
-      border-radius: 12px; padding: 12px 16px 12px 16px; max-width: 380px; min-width: 280px;
+      border-radius: 12px; padding: 12px 16px; max-width: 380px; min-width: 280px;
       cursor: pointer; text-align: left; transition: all 0.25s ease; position: relative;
     }
     .news-card:hover {
@@ -111,14 +154,13 @@
     .loading { text-align: center; padding: 30px 20px; color: rgba(255,255,255,0.25); font-size: 13px; }
     .spinner { width: 20px; height: 20px; border: 2px solid rgba(0,255,180,0.15); border-top-color: #00ffb4; border-radius: 50%; animation: spin 0.8s linear infinite; margin: 0 auto 10px; }
     .spinner.blue { border-color: rgba(100,140,255,0.15); border-top-color: #648cff; }
+
     .statusbar {
       position: fixed; bottom: 0; left: 0; right: 0; padding: 8px 20px;
       background: linear-gradient(transparent, #0d1117 40%); display: flex; justify-content: space-between;
       align-items: center; font-size: 10px; color: rgba(255,255,255,0.22); flex-wrap: wrap; gap: 4px; z-index: 3;
     }
-    .glow1, .glow2 { position: fixed; border-radius: 50%; pointer-events: none; }
-    .glow1 { top: -200px; right: -200px; width: 600px; height: 600px; background: radial-gradient(circle, rgba(0,255,180,0.04) 0%, transparent 70%); }
-    .glow2 { bottom: -200px; left: -200px; width: 500px; height: 500px; background: radial-gradient(circle, rgba(100,140,255,0.03) 0%, transparent 70%); }
+
     .modal {
       position: fixed; inset: 0; z-index: 1000; background: rgba(0,0,0,0.75); backdrop-filter: blur(12px);
       display: flex; align-items: center; justify-content: center; padding: 20px; animation: fadeIn 0.2s ease;
@@ -136,75 +178,17 @@
     .modal-img { width: 100%; border-radius: 10px; margin-bottom: 20px; max-height: 240px; object-fit: cover; }
     .modal-title { font-size: 20px; font-weight: 700; color: #e0ffe8; line-height: 1.4; margin: 0 0 12px; }
     .modal-desc { font-size: 14px; color: rgba(255,255,255,0.65); line-height: 1.7; margin-bottom: 16px; white-space: pre-wrap; }
-    .modal-orig {
-      font-size: 12px; color: rgba(255,255,255,0.42); line-height: 1.7; margin-bottom: 20px;
-      padding-top: 14px; border-top: 1px solid rgba(255,255,255,0.06);
-    }
     .modal-footer { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; }
     .article-link {
       background: linear-gradient(135deg, #00ffb4, #00d4aa); color: #0d1117; padding: 8px 20px;
       border-radius: 8px; font-size: 13px; font-weight: 700; text-decoration: none;
     }
-    .provider-badge, .translation-badge {
+
+    .provider-badge {
       font-size: 10px; padding: 3px 8px; border-radius: 999px; background: rgba(255,255,255,0.05);
       border: 1px solid rgba(255,255,255,0.08); color: rgba(255,255,255,0.55);
     }
 
-    .top-chrome {
-      position: sticky;
-      top: 0;
-      z-index: 5;
-      background: linear-gradient(180deg, rgba(13,17,23,0.98) 0%, rgba(13,17,23,0.96) 80%, rgba(13,17,23,0.86) 100%);
-      backdrop-filter: blur(10px);
-      transition: transform 0.28s ease, opacity 0.28s ease, max-height 0.28s ease;
-      transform: translateY(0);
-      opacity: 1;
-      overflow: hidden;
-    }
-    .top-reveal-hint {
-      position: fixed;
-      top: 8px;
-      left: 50%;
-      transform: translateX(-50%);
-      z-index: 6;
-      padding: 6px 10px;
-      border-radius: 999px;
-      background: rgba(13,17,23,0.75);
-      border: 1px solid rgba(255,255,255,0.08);
-      color: rgba(255,255,255,0.6);
-      font-size: 11px;
-      pointer-events: none;
-      opacity: 0;
-      transition: opacity 0.2s ease;
-    }
-    .content-area {
-      padding-top: 0;
-      padding-bottom: calc(var(--bottomBarHeight, 34px) + 10px);
-      min-height: calc(100svh - var(--topChromeHeight, 172px));
-      transition: margin-top 0.28s ease, min-height 0.28s ease;
-    }
-    .main-tools-btn {
-      padding: 7px 10px;
-      border-radius: 8px;
-      border: 1px solid rgba(255,255,255,0.08);
-      background: rgba(255,255,255,0.04);
-      color: rgba(255,255,255,0.82);
-      font-size: 12px;
-      cursor: pointer;
-    }
-    #mainScreen.ui-collapsed.vertical-mode .top-chrome {
-      transform: translateY(calc(-1 * var(--topChromeHeight, 172px)));
-      opacity: 0.01;
-      pointer-events: none;
-      max-height: 0;
-    }
-    #mainScreen.ui-collapsed.vertical-mode .top-reveal-hint {
-      opacity: 1;
-    }
-    #mainScreen.ui-collapsed.vertical-mode .content-area {
-      margin-top: calc(-1 * var(--topChromeHeight, 172px));
-      min-height: calc(100svh - var(--bottomBarHeight, 34px));
-    }
     input[type="range"] { accent-color: #00ffb4; }
     ::-webkit-scrollbar { height: 0; width: 0; }
     @keyframes fadeIn { from { opacity: 0 } to { opacity: 1 } }
@@ -212,45 +196,11 @@
   </style>
 </head>
 <body>
-  <div id="startScreen" class="screen center-wrap">
-    <div class="card">
-      <div style="font-size:48px; margin-bottom:8px;">⚡</div>
-      <h1 class="title">NEWS WIRE2</h1>
-      <p class="subtitle">GNews + ブラウザ内蔵翻訳API</p>
-
-      <div class="config-box">
-        <div class="field">
-          <label for="gnewsKey">GNews API Key</label>
-          <input id="gnewsKey" type="password" placeholder="GNewsのAPIキーを入力" />
-        </div>
-        <div class="field">
-          <label for="maxResults">取得件数</label>
-          <select id="maxResults">
-            <option value="10" selected>10件</option>
-            <option value="25">25件（追加ページ取得）</option>
-            <option value="50">50件（追加ページ取得）</option>
-            <option value="100">100件（追加ページ取得）</option>
-          </select>
-        </div>
-        <div class="hint">
-          海外ニュースは GNews で英語記事を取得し、ブラウザの Translator API が使える環境では日本語に翻訳します。<br>
-          未対応ブラウザ・非セキュア環境・翻訳モデル未利用時は原文表示にフォールバックします。
-        </div>
-      </div>
-
-      <p class="muted" style="margin-bottom: 24px;">
-        単一HTMLのため、APIキーはブラウザ内で使用されます。<br>
-        GNews Free は localhost での利用や件数上限などの制約があります。
-      </p>
-      <button id="startBtn" class="btn">ニュースを取得する →</button>
-    </div>
-  </div>
-
-  <div id="mainScreen" class="screen hidden">
+  <div id="mainScreen" class="screen">
     <div class="glow1"></div>
     <div class="glow2"></div>
 
-    <div id="topRevealHint" class="top-reveal-hint">↑ カーソルを上へ移動するとヘッダー再表示</div>
+    <div id="topRevealHint" class="top-reveal-hint">ヘッダー再表示: 画面上端にカーソルを移動</div>
     <div id="topChrome" class="top-chrome">
       <header class="header">
         <div style="display:flex; align-items:center; gap:8px;">
@@ -280,48 +230,45 @@
             <span style="font-size:10px; color:rgba(255,255,255,0.35)">🐇</span>
           </div>
           <button id="toggleHeaderBtn" class="main-tools-btn" type="button">ヘッダー非表示</button>
-          <span class="provider-badge">GNews only</span>
-          <span id="translationBadge" class="translation-badge">翻訳状態を確認中</span>
-          <button id="refreshBtn" class="btn secondary small">更新</button>
+          <span class="provider-badge">data/news.json</span>
+          <button id="refreshBtn" class="main-tools-btn" type="button">再読込</button>
         </div>
       </header>
 
       <div id="chipRow" class="chip-row"></div>
       <div id="errorBox" class="error hidden"></div>
-      <div id="infoBox" class="info hidden" aria-hidden="true"></div>
     </div>
 
     <div id="contentArea" class="content-area">
-    <div style="margin-top:12px;">
-      <div class="section-label">
-        <span style="font-size:14px;">🇯🇵</span>
-        <span class="section-name" style="color:#00ffb4;">Japan</span>
-        <span id="jpCount" class="section-meta"></span>
+      <div style="margin-top:12px;">
+        <div class="section-label">
+          <span style="font-size:14px;">🇯🇵</span>
+          <span class="section-name" style="color:#00ffb4;">Japan</span>
+          <span id="jpCount" class="section-meta"></span>
+        </div>
+        <div id="jpLoading" class="loading"><div class="spinner"></div>日本のニュースを読み込み中…</div>
+        <div id="jpTicker" class="ticker-wrap hidden"><div id="jpTrack" class="ticker-track"></div></div>
+        <div id="jpList" class="list-wrap hidden"><div id="jpListColumn" class="list-column"></div></div>
       </div>
-      <div id="jpLoading" class="loading hidden"><div class="spinner"></div>日本のニュースを取得中…</div>
-      <div id="jpTicker" class="ticker-wrap hidden"><div id="jpTrack" class="ticker-track"></div></div>
-      <div id="jpList" class="list-wrap hidden"><div id="jpListColumn" class="list-column"></div></div>
-    </div>
 
-    <div class="divider"></div>
+      <div class="divider"></div>
 
-    <div>
-      <div class="section-label">
-        <span style="font-size:14px;">🌍</span>
-        <span class="section-name" style="color:#648cff;">World</span>
-        <span id="worldCount" class="section-meta"></span>
-        <span id="worldTranslationMeta" class="section-meta"></span>
+      <div>
+        <div class="section-label">
+          <span style="font-size:14px;">🌍</span>
+          <span class="section-name" style="color:#648cff;">World</span>
+          <span id="worldCount" class="section-meta"></span>
+        </div>
+        <div id="worldLoading" class="loading"><div class="spinner blue"></div>海外ニュースを読み込み中…</div>
+        <div id="worldTicker" class="ticker-wrap hidden"><div id="worldTrack" class="ticker-track"></div></div>
+        <div id="worldList" class="list-wrap hidden"><div id="worldListColumn" class="list-column"></div></div>
       </div>
-      <div id="worldLoading" class="loading hidden"><div class="spinner blue"></div>海外ニュースを取得中…</div>
-      <div id="worldTicker" class="ticker-wrap hidden"><div id="worldTrack" class="ticker-track"></div></div>
-      <div id="worldList" class="list-wrap hidden"><div id="worldListColumn" class="list-column"></div></div>
-    </div>
 
-    <div class="statusbar">
-      <span id="statusCount">🇯🇵 0件 · 🌍 0件</span>
-      <span id="statusTime"></span>
-      <span>10分おき自動更新</span>
-    </div>
+      <div class="statusbar">
+        <span id="statusCount">🇯🇵 0件 · 🌍 0件</span>
+        <span id="statusTime">更新: --</span>
+        <span>GitHub Pages 静的配信</span>
+      </div>
     </div>
   </div>
 
@@ -332,7 +279,6 @@
       <div id="modalIndex" class="index-badge" style="margin-bottom: 14px;"></div>
       <h2 id="modalTitle" class="modal-title"></h2>
       <p id="modalDesc" class="modal-desc"></p>
-      <div id="modalOriginal" class="modal-orig hidden"></div>
       <div class="modal-footer">
         <span id="modalMeta" style="font-size:12px; color:rgba(255,255,255,0.35);"></span>
         <a id="modalLink" class="article-link" href="#" target="_blank" rel="noopener noreferrer">元記事を読む →</a>
@@ -341,9 +287,7 @@
   </div>
 
   <script>
-    const FETCH_INTERVAL = 10 * 60 * 1000;
-    const GNEWS_DELAY_MS = 1200;
-    const CATEGORIES = [
+    const DEFAULT_CATEGORIES = [
       { id: 'general', label: '総合' },
       { id: 'technology', label: 'テクノロジー' },
       { id: 'business', label: 'ビジネス' },
@@ -353,84 +297,48 @@
     ];
 
     const state = {
-      started: false,
       category: 'general',
+      availableCategories: DEFAULT_CATEGORIES.slice(),
       japanArticles: [],
       worldArticles: [],
-      loadingJP: false,
-      loadingWorld: false,
-      error: '',
-      info: '',
-      lastUpdated: null,
-      nextUpdate: null,
-      countdown: '',
-      speed: 50,
-      gnewsKey: '',
       maxResults: 10,
+      speed: 50,
       viewMode: 'horizontal',
-      translatorStatus: 'unknown',
-      translator: null,
-      translationCache: new Map(),
-      translationAttempted: false,
-      translationSucceeded: false,
       selected: null,
-      refreshTimer: null,
-      countdownTimer: null,
+      rawData: null,
       uiCollapsed: false,
       uiHideTimer: null,
+      lastUpdated: null,
     };
 
     const animators = [];
     const $ = (id) => document.getElementById(id);
 
-    function sleep(ms) {
-      return new Promise((resolve) => setTimeout(resolve, ms));
-    }
-
     function saveConfig() {
-      localStorage.setItem('newswire-gnews-translator-config', JSON.stringify({
-        gnewsKey: state.gnewsKey,
+      localStorage.setItem('newswire-static-config', JSON.stringify({
         maxResults: state.maxResults,
-        viewMode: state.viewMode
+        viewMode: state.viewMode,
+        speed: state.speed,
+        category: state.category
       }));
     }
 
     function loadConfig() {
       try {
-        const raw = localStorage.getItem('newswire-gnews-translator-config');
+        const raw = localStorage.getItem('newswire-static-config');
         if (!raw) return;
         const conf = JSON.parse(raw);
-        if (typeof conf.gnewsKey === 'string') {
-          state.gnewsKey = conf.gnewsKey;
-          $('gnewsKey').value = conf.gnewsKey;
-        }
-        if (conf.maxResults) {
-          state.maxResults = Number(conf.maxResults);
-          $('maxResults').value = String(conf.maxResults);
-        }
-        if (conf.viewMode === 'horizontal' || conf.viewMode === 'vertical') {
-          state.viewMode = conf.viewMode;
-        }
+        if ([10, 25, 50, 100].includes(Number(conf.maxResults))) state.maxResults = Number(conf.maxResults);
+        if (conf.viewMode === 'horizontal' || conf.viewMode === 'vertical') state.viewMode = conf.viewMode;
+        if (typeof conf.speed === 'number') state.speed = conf.speed;
+        if (typeof conf.category === 'string') state.category = conf.category;
       } catch (_) {}
     }
 
     function setError(message) {
-      state.error = message || '';
       const box = $('errorBox');
-      box.textContent = state.error;
-      box.classList.toggle('hidden', !state.error);
-    }
-
-    function setInfo(message) {
-      state.info = '';
-      const box = $('infoBox');
-      box.textContent = '';
-      box.classList.add('hidden');
-    }
-
-    function getCategoryQuery(category) {
-      if (category === 'general') return '';
-      return category;
+      box.textContent = message || '';
+      box.classList.toggle('hidden', !message);
     }
 
     function toDisplayTime(iso) {
@@ -449,260 +357,75 @@
 
     function normalizeArticle(article, index, total, region) {
       return {
-        title: article.title || '',
-        description: article.description || '',
+        title: article.title || article.headline || '無題',
+        description: article.description || article.summary || '',
         url: article.url || '#',
-        source: { name: article.source?.name || article.source?.name || article.source?.title || 'GNews' },
-        publishedAt: article.publishedAt || article.published_at || new Date().toISOString(),
-        image: article.image || null,
+        source: { name: article.source?.name || article.source || 'News' },
+        publishedAt: article.publishedAt || article.published_at || article.date || '',
+        image: article.image || article.imageUrl || null,
         index,
         total,
-        region,
-        originalTitle: article.originalTitle || article.title || '',
-        originalDescription: article.originalDescription || article.description || '',
-        translated: Boolean(article.translated),
+        region
       };
     }
 
-    async function fetchTopHeadlines(region, category) {
-      if (!state.gnewsKey) throw new Error('GNews APIキー未設定');
-
-      const desired = Math.max(1, Number(state.maxResults || 10));
-      const collected = [];
-      const seen = new Set();
-      let page = 1;
-      let totalArticles = null;
-      let perPage = desired;
-      let warnedAboutPlan = false;
-
-      while (collected.length < desired && page <= 10) {
-        const remaining = desired - collected.length;
-        const requestMax = Math.min(perPage, remaining);
-        const params = new URLSearchParams({
-          apikey: state.gnewsKey,
-          category: category,
-          max: String(requestMax),
-          page: String(page),
-          nullable: 'description,image'
-        });
-
-        if (region === 'japan') {
-          params.set('country', 'jp');
-          params.set('lang', 'ja');
-        } else {
-          params.set('lang', 'en');
-        }
-
-        const url = `https://gnews.io/api/v4/top-headlines?${params.toString()}`;
-
-        let response;
-        try {
-          response = await fetch(url, { method: 'GET' });
-        } catch (err) {
-          throw new Error('Failed to fetch');
-        }
-
-        let data = null;
-        try {
-          data = await response.json();
-        } catch (_) {}
-
-        if (!response.ok) {
-          let message = `HTTP ${response.status}`;
-          if (Array.isArray(data?.errors)) {
-            message = data.errors.join(' / ') || message;
-          } else if (typeof data?.errors === 'string') {
-            message = data.errors || message;
-          } else if (data?.errors && typeof data.errors === 'object') {
-            message = Object.values(data.errors).flat().filter(Boolean).join(' / ') || message;
-          } else if (typeof data?.message === 'string' && data.message) {
-            message = data.message;
-          }
-          throw new Error(message);
-        }
-
-        const pageArticles = Array.isArray(data?.articles) ? data.articles : [];
-        totalArticles = Number.isFinite(Number(data?.totalArticles)) ? Number(data.totalArticles) : totalArticles;
-
-        if (page === 1 && pageArticles.length > 0 && pageArticles.length < requestMax) {
-          perPage = pageArticles.length;
-          warnedAboutPlan = desired > pageArticles.length;
-        }
-
-        for (const article of pageArticles) {
-          const key = article?.url || `${article?.title || ''}__${article?.publishedAt || article?.published_at || ''}`;
-          if (seen.has(key)) continue;
-          seen.add(key);
-          collected.push(article);
-          if (collected.length >= desired) break;
-        }
-
-        if (!pageArticles.length) break;
-        if (totalArticles !== null && collected.length >= totalArticles) break;
-        if (perPage <= 0 || pageArticles.length < perPage) break;
-
-        page += 1;
-        if (collected.length < desired) {
-          await sleep(GNEWS_DELAY_MS);
-        }
+    function extractCategoryMap(payload) {
+      if (payload && payload.categories && typeof payload.categories === 'object') {
+        return payload.categories;
       }
-
-      if (warnedAboutPlan && collected.length < desired) {
-        console.info(`GNews returned fewer articles than requested (${collected.length}/${desired}). This can depend on plan limits or available articles.`);
-      }
-
-      return collected.map((article, i) => normalizeArticle(article, i + 1, collected.length, region));
-    }
-
-    function detectTranslationSupportBasics() {
-      if (!window.isSecureContext) {
-        return { ok: false, reason: '翻訳APIは secure context（https または localhost）でのみ利用可能' };
-      }
-      if (typeof window.Translator === 'undefined') {
-        return { ok: false, reason: 'このブラウザは Translator API に未対応' };
-      }
-      return { ok: true, reason: '' };
-    }
-
-    async function prepareTranslatorFromUserAction() {
-      const basic = detectTranslationSupportBasics();
-      if (!basic.ok) {
-        state.translatorStatus = 'unsupported';
-        state.translator = null;
-        updateTranslationStatusUI();
-        setInfo(`海外ニュース翻訳: ${basic.reason}。原文表示で継続します。`);
-        return;
-      }
-
-      try {
-        state.translatorStatus = 'checking';
-        updateTranslationStatusUI();
-
-        // create() はユーザー操作起点が求められるため、Start ボタン直後に優先して試行する
-        state.translator = await window.Translator.create({
-          sourceLanguage: 'en',
-          targetLanguage: 'ja'
-        });
-        state.translatorStatus = 'ready';
-        updateTranslationStatusUI();
-        setInfo('海外ニュース翻訳: ブラウザ内蔵翻訳が利用可能です。対応記事は日本語表示します。');
-      } catch (err) {
-        let reason = err?.message || '初期化失敗';
-        try {
-          if (typeof window.Translator.availability === 'function') {
-            const availability = await window.Translator.availability({
-              sourceLanguage: 'en',
-              targetLanguage: 'ja'
-            });
-            if (availability === 'unavailable' || availability === null) {
-              reason = 'ブラウザ翻訳モデルを利用できません';
-              state.translatorStatus = 'unavailable';
-            } else {
-              state.translatorStatus = 'failed';
-            }
-          } else {
-            state.translatorStatus = 'failed';
-          }
-        } catch (_) {
-          state.translatorStatus = 'failed';
-        }
-        state.translator = null;
-        updateTranslationStatusUI();
-        setInfo(`海外ニュース翻訳: ${reason}。原文表示で継続します。`);
-      }
-    }
-
-    function updateTranslationStatusUI() {
-      const badge = $('translationBadge');
-      const meta = $('worldTranslationMeta');
-      const map = {
-        unknown: ['翻訳状態を確認中', ''],
-        checking: ['翻訳確認中', ''],
-        ready: ['翻訳ON', '日本語化あり'],
-        unsupported: ['翻訳OFF', '原文表示'],
-        unavailable: ['翻訳OFF', '原文表示'],
-        failed: ['翻訳OFF', '原文表示'],
+      const fallback = {};
+      fallback.general = {
+        jp: payload?.japan || payload?.jp || [],
+        world: payload?.world || payload?.global || []
       };
-      const [text, sub] = map[state.translatorStatus] || ['翻訳OFF', '原文表示'];
-      badge.textContent = text;
-      meta.textContent = sub;
+      return fallback;
     }
 
-    async function translateText(text) {
-      if (!text || !state.translator) return text || '';
-      const cached = state.translationCache.get(text);
-      if (cached) return cached;
-      const translated = await state.translator.translate(text);
-      state.translationCache.set(text, translated);
-      return translated;
+    function getAvailableCategories(map) {
+      const ids = Object.keys(map || {});
+      if (!ids.length) return DEFAULT_CATEGORIES.slice(0, 1);
+      return ids.map((id) => {
+        const found = DEFAULT_CATEGORIES.find((c) => c.id === id);
+        return found || { id, label: id };
+      });
     }
 
-    async function translateWorldArticlesIfPossible(articles) {
-      if (!state.translator) return articles;
-      const translatedArticles = [];
-
-      for (const article of articles) {
-        try {
-          const translatedTitle = await translateText(article.originalTitle || article.title || '');
-          const translatedDesc = await translateText(article.originalDescription || article.description || '');
-          translatedArticles.push({
-            ...article,
-            title: translatedTitle || article.title,
-            description: translatedDesc || article.description,
-            translated: true
-          });
-          state.translationAttempted = true;
-          state.translationSucceeded = true;
-        } catch (_) {
-          translatedArticles.push(article);
-        }
-      }
-      return translatedArticles;
+    function selectArticles(categoryId) {
+      const categoryMap = extractCategoryMap(state.rawData);
+      const group = categoryMap[categoryId] || categoryMap.general || { jp: [], world: [] };
+      const jpRaw = Array.isArray(group.jp) ? group.jp : [];
+      const worldRaw = Array.isArray(group.world) ? group.world : [];
+      const jp = jpRaw.slice(0, state.maxResults).map((a, i) => normalizeArticle(a, i + 1, Math.min(jpRaw.length, state.maxResults), 'japan'));
+      const world = worldRaw.slice(0, state.maxResults).map((a, i) => normalizeArticle(a, i + 1, Math.min(worldRaw.length, state.maxResults), 'world'));
+      state.japanArticles = jp;
+      state.worldArticles = world;
     }
 
     function renderCategoryChips() {
       const row = $('chipRow');
       row.innerHTML = '';
-      CATEGORIES.forEach((cat) => {
+      state.availableCategories.forEach((cat) => {
         const btn = document.createElement('button');
         btn.className = `chip ${state.category === cat.id ? 'active' : ''}`;
         btn.textContent = cat.label;
         btn.addEventListener('click', () => {
           if (state.category === cat.id) return;
           state.category = cat.id;
-          renderCategoryChips();
-          fetchAll(true);
+          saveConfig();
+          renderData();
         });
         row.appendChild(btn);
       });
     }
 
-
     function updateTopChromeHeight() {
       const main = $('mainScreen');
       const topChrome = $('topChrome');
       if (!main || !topChrome) return;
-      const rect = topChrome.getBoundingClientRect();
-      const height = Math.max(0, Math.ceil(rect.height || topChrome.offsetHeight || 0));
-      if (height > 0) {
-        main.style.setProperty('--topChromeHeight', `${height}px`);
-      }
-      const statusbar = document.querySelector('.statusbar');
-      if (statusbar) {
-        const statusHeight = Math.max(0, Math.ceil(statusbar.getBoundingClientRect().height || statusbar.offsetHeight || 0));
-        if (statusHeight > 0) {
-          main.style.setProperty('--bottomBarHeight', `${statusHeight}px`);
-        }
-      }
-    }
-
-    function updateTopChromeHeight() {
-      const main = $('mainScreen');
-      const topChrome = $('topChrome');
-      if (!main || !topChrome) return;
-      const rect = topChrome.getBoundingClientRect();
-      const height = Math.max(0, Math.ceil(rect.height || topChrome.offsetHeight || 0));
-      main.style.setProperty('--topChromeHeight', `${height}px`);
+      const effectiveHeight = state.uiCollapsed && state.viewMode === 'vertical'
+        ? 0
+        : Math.max(0, Math.ceil(topChrome.getBoundingClientRect().height || topChrome.offsetHeight || 0));
+      main.style.setProperty('--topChromeHeight', `${effectiveHeight}px`);
       const statusbar = document.querySelector('.statusbar');
       if (statusbar) {
         const statusHeight = Math.max(0, Math.ceil(statusbar.getBoundingClientRect().height || statusbar.offsetHeight || 0));
@@ -713,10 +436,9 @@
     function setUICollapsed(collapsed) {
       state.uiCollapsed = !!collapsed;
       const main = $('mainScreen');
-      if (!main) return;
       main.classList.toggle('ui-collapsed', state.uiCollapsed && state.viewMode === 'vertical');
-      requestAnimationFrame(updateTopChromeHeight);
       $('toggleHeaderBtn').textContent = state.uiCollapsed && state.viewMode === 'vertical' ? 'ヘッダー表示' : 'ヘッダー非表示';
+      requestAnimationFrame(updateTopChromeHeight);
     }
 
     function clearUIHideTimer() {
@@ -728,60 +450,18 @@
 
     function scheduleVerticalUICollapse(delay = 2600) {
       clearUIHideTimer();
-      if (state.viewMode !== 'vertical' || !$('mainScreen') || $('mainScreen').classList.contains('hidden')) {
+      if (state.viewMode !== 'vertical') {
         setUICollapsed(false);
         return;
       }
-      state.uiHideTimer = setTimeout(() => {
-        setUICollapsed(true);
-      }, delay);
+      state.uiHideTimer = setTimeout(() => setUICollapsed(true), delay);
     }
 
     function revealVerticalUI() {
       if (state.viewMode !== 'vertical') return;
       setUICollapsed(false);
-      $('toggleHeaderBtn').textContent = 'ヘッダー非表示';
       scheduleVerticalUICollapse();
     }
-
-    function applyViewMode() {
-      const horizontal = state.viewMode === 'horizontal';
-      $('viewModeSelect').value = state.viewMode;
-      $('speedControl').classList.remove('hidden');
-      $('mainScreen').classList.toggle('vertical-mode', !horizontal);
-      requestAnimationFrame(updateTopChromeHeight);
-      $('toggleHeaderBtn').textContent = state.uiCollapsed && state.viewMode === 'vertical' ? 'ヘッダー表示' : 'ヘッダー非表示';
-
-      const sections = [
-        { ticker: $('jpTicker'), list: $('jpList'), hasItems: state.japanArticles.length > 0 },
-        { ticker: $('worldTicker'), list: $('worldList'), hasItems: state.worldArticles.length > 0 }
-      ];
-
-      sections.forEach(({ ticker, list, hasItems }) => {
-        if (!hasItems) {
-          ticker.classList.add('hidden');
-          list.classList.add('hidden');
-          return;
-        }
-        ticker.classList.toggle('hidden', !horizontal);
-        list.classList.toggle('hidden', horizontal);
-      });
-
-      stopAnimators();
-      if (horizontal) {
-        setUICollapsed(false);
-        clearUIHideTimer();
-        if (state.japanArticles.length > 0) resetTickerAnimator($('jpTrack'));
-        if (state.worldArticles.length > 0) resetTickerAnimator($('worldTrack'));
-      } else {
-        setUICollapsed(false);
-        if (state.japanArticles.length > 0) resetVerticalAnimator($('jpListColumn'));
-        if (state.worldArticles.length > 0) resetVerticalAnimator($('worldListColumn'));
-        scheduleVerticalUICollapse(3200);
-      }
-      requestAnimationFrame(updateTopChromeHeight);
-    }
-
 
     function createNewsCard(article) {
       const btn = document.createElement('button');
@@ -802,18 +482,17 @@
 
       const meta = document.createElement('div');
       meta.className = 'news-meta';
-      const translatedMark = article.region === 'world' ? (article.translated ? ' · 日本語表示' : ' · 原文') : '';
-      meta.textContent = `${article.source?.name || 'GNews'}${article.publishedAt ? ` · ${toDisplayTime(article.publishedAt)}` : ''}${translatedMark}`;
+      meta.textContent = `${article.source?.name || 'News'}${article.publishedAt ? ` · ${toDisplayTime(article.publishedAt)}` : ''}`;
 
       btn.append(index, title, desc, meta);
       btn.addEventListener('click', () => openModal(article));
       return btn;
     }
 
-    function mountTicker(region, articles) {
-      const wrap = region === 'japan' ? $('jpTicker') : $('worldTicker');
+    function mountSection(region, articles) {
+      const ticker = region === 'japan' ? $('jpTicker') : $('worldTicker');
       const track = region === 'japan' ? $('jpTrack') : $('worldTrack');
-      const listWrap = region === 'japan' ? $('jpList') : $('worldList');
+      const list = region === 'japan' ? $('jpList') : $('worldList');
       const listColumn = region === 'japan' ? $('jpListColumn') : $('worldListColumn');
       const countEl = region === 'japan' ? $('jpCount') : $('worldCount');
       const loadingEl = region === 'japan' ? $('jpLoading') : $('worldLoading');
@@ -823,49 +502,31 @@
       listColumn.innerHTML = '';
 
       if (!articles.length) {
-        wrap.classList.add('hidden');
-        listWrap.classList.add('hidden');
+        ticker.classList.add('hidden');
+        list.classList.add('hidden');
         countEl.textContent = '0件';
-        updateStatusBar();
         return;
       }
 
       countEl.textContent = `${articles.length}件`;
-
       const doubled = [...articles, ...articles];
-      doubled.forEach((article) => {
-        track.appendChild(createNewsCard(article));
-      });
-
-      doubled.forEach((article) => {
-        listColumn.appendChild(createNewsCard(article));
-      });
-
-      track.dataset.region = region;
+      doubled.forEach((article) => track.appendChild(createNewsCard(article)));
+      doubled.forEach((article) => listColumn.appendChild(createNewsCard(article)));
       track.dataset.speedFactor = region === 'japan' ? '1' : '0.8';
-      listColumn.dataset.region = region;
       listColumn.dataset.speedFactor = region === 'japan' ? '0.7' : '0.56';
-      applyViewMode();
-      updateStatusBar();
+    }
+
+    function stopAnimators() {
+      animators.forEach((item) => {
+        item.active = false;
+        if (item.rafId) cancelAnimationFrame(item.rafId);
+        if (item.element) item.element.style.transform = item.axis === 'y' ? 'translateY(0px)' : 'translateX(0px)';
+      });
+      animators.length = 0;
     }
 
     function resetTickerAnimator(track) {
-      const existing = animators.find((item) => item.element === track);
-      if (existing) {
-        existing.active = false;
-        if (existing.rafId) cancelAnimationFrame(existing.rafId);
-      }
-
-      const stateAnim = {
-        element: track,
-        active: true,
-        offset: 0,
-        lastTs: null,
-        paused: false,
-        rafId: null,
-        axis: 'x',
-      };
-
+      const stateAnim = { element: track, active: true, offset: 0, lastTs: null, paused: false, rafId: null, axis: 'x' };
       const wrap = track.parentElement;
       wrap.onmouseenter = () => { stateAnim.paused = true; };
       wrap.onmouseleave = () => { stateAnim.paused = false; };
@@ -888,28 +549,12 @@
         }
         stateAnim.rafId = requestAnimationFrame(step);
       };
-
       animators.push(stateAnim);
       stateAnim.rafId = requestAnimationFrame(step);
     }
 
     function resetVerticalAnimator(listColumn) {
-      const existing = animators.find((item) => item.element === listColumn);
-      if (existing) {
-        existing.active = false;
-        if (existing.rafId) cancelAnimationFrame(existing.rafId);
-      }
-
-      const stateAnim = {
-        element: listColumn,
-        active: true,
-        offset: 0,
-        lastTs: null,
-        paused: false,
-        rafId: null,
-        axis: 'y',
-      };
-
+      const stateAnim = { element: listColumn, active: true, offset: 0, lastTs: null, paused: false, rafId: null, axis: 'y' };
       const wrap = listColumn.parentElement;
       wrap.onmouseenter = () => { stateAnim.paused = true; };
       wrap.onmouseleave = () => { stateAnim.paused = false; };
@@ -932,28 +577,49 @@
         }
         stateAnim.rafId = requestAnimationFrame(step);
       };
-
       animators.push(stateAnim);
       stateAnim.rafId = requestAnimationFrame(step);
     }
 
-    function stopAnimators() {
-      animators.forEach((item) => {
-        item.active = false;
-        if (item.rafId) cancelAnimationFrame(item.rafId);
-        if (item.element) item.element.style.transform = item.axis === 'y' ? 'translateY(0px)' : 'translateX(0px)';
+    function applyViewMode() {
+      const horizontal = state.viewMode === 'horizontal';
+      $('viewModeSelect').value = state.viewMode;
+      $('mainScreen').classList.toggle('vertical-mode', !horizontal);
+      const sections = [
+        { ticker: $('jpTicker'), list: $('jpList'), hasItems: state.japanArticles.length > 0 },
+        { ticker: $('worldTicker'), list: $('worldList'), hasItems: state.worldArticles.length > 0 }
+      ];
+      sections.forEach(({ ticker, list, hasItems }) => {
+        if (!hasItems) {
+          ticker.classList.add('hidden');
+          list.classList.add('hidden');
+          return;
+        }
+        ticker.classList.toggle('hidden', !horizontal);
+        list.classList.toggle('hidden', horizontal);
       });
-      animators.length = 0;
+
+      stopAnimators();
+      if (horizontal) {
+        setUICollapsed(false);
+        clearUIHideTimer();
+        if (state.japanArticles.length) resetTickerAnimator($('jpTrack'));
+        if (state.worldArticles.length) resetTickerAnimator($('worldTrack'));
+      } else {
+        setUICollapsed(false);
+        if (state.japanArticles.length) resetVerticalAnimator($('jpListColumn'));
+        if (state.worldArticles.length) resetVerticalAnimator($('worldListColumn'));
+        scheduleVerticalUICollapse(3200);
+      }
+      requestAnimationFrame(updateTopChromeHeight);
     }
 
     function openModal(article) {
-      state.selected = article;
       $('modalIndex').textContent = `${article.index}/${article.total}`;
       $('modalTitle').textContent = article.title || '';
       $('modalDesc').textContent = article.description || '';
-      $('modalMeta').textContent = `${article.source?.name || 'GNews'}${article.publishedAt ? ` · ${toDisplayDateTime(article.publishedAt)}` : ''}${article.region === 'world' ? (article.translated ? ' · 日本語表示' : ' · 原文表示') : ''}`;
+      $('modalMeta').textContent = `${article.source?.name || 'News'}${article.publishedAt ? ` · ${toDisplayDateTime(article.publishedAt)}` : ''}`;
       $('modalLink').href = article.url || '#';
-
       const img = $('modalImg');
       if (article.image) {
         img.src = article.image;
@@ -962,153 +628,64 @@
         img.src = '';
         img.classList.add('hidden');
       }
-
-      const original = $('modalOriginal');
-      if (article.region === 'world' && article.translated && ((article.originalTitle && article.originalTitle !== article.title) || (article.originalDescription && article.originalDescription !== article.description))) {
-        original.innerHTML =
-          `<strong>原文タイトル</strong><br>${escapeHtml(article.originalTitle || '')}<br><br>` +
-          `<strong>原文概要</strong><br>${escapeHtml(article.originalDescription || '')}`;
-        original.classList.remove('hidden');
-      } else {
-        original.innerHTML = '';
-        original.classList.add('hidden');
-      }
-
       $('modal').classList.remove('hidden');
     }
 
-    function closeModal() {
-      $('modal').classList.add('hidden');
-      state.selected = null;
-    }
-
-    function escapeHtml(value) {
-      return String(value)
-        .replaceAll('&', '&amp;')
-        .replaceAll('<', '&lt;')
-        .replaceAll('>', '&gt;')
-        .replaceAll('"', '&quot;')
-        .replaceAll("'", '&#39;');
-    }
+    function closeModal() { $('modal').classList.add('hidden'); }
 
     function updateStatusBar() {
       $('statusCount').textContent = `🇯🇵 ${state.japanArticles.length}件 · 🌍 ${state.worldArticles.length}件`;
-      const parts = [];
-      if (state.lastUpdated) parts.push(`更新: ${state.lastUpdated.toLocaleTimeString()}`);
-      if (state.countdown) parts.push(`次回: ${state.countdown}`);
-      $('statusTime').textContent = parts.join(' · ');
+      const updated = state.lastUpdated ? toDisplayDateTime(state.lastUpdated) : '--';
+      $('statusTime').textContent = `更新: ${updated}`;
     }
 
-    function startCountdown() {
-      if (state.countdownTimer) clearInterval(state.countdownTimer);
-      state.countdownTimer = setInterval(() => {
-        if (!state.nextUpdate) return;
-        const diff = state.nextUpdate.getTime() - Date.now();
-        if (diff <= 0) {
-          state.countdown = '更新中…';
-        } else {
-          const m = Math.floor(diff / 60000);
-          const s = Math.floor((diff % 60000) / 1000);
-          state.countdown = `${m}:${String(s).padStart(2, '0')}`;
-        }
-        updateStatusBar();
-      }, 1000);
+    function renderData() {
+      selectArticles(state.category);
+      renderCategoryChips();
+      mountSection('japan', state.japanArticles);
+      mountSection('world', state.worldArticles);
+      updateStatusBar();
+      applyViewMode();
+      requestAnimationFrame(updateTopChromeHeight);
     }
 
-    async function fetchAll(resetInterval = false) {
+    async function loadNewsData() {
       setError('');
-      setInfo(state.info);
-      state.translationAttempted = false;
-      state.translationSucceeded = false;
-
-      state.loadingJP = true;
-      state.loadingWorld = true;
       $('jpLoading').classList.remove('hidden');
       $('worldLoading').classList.remove('hidden');
-      $('jpTicker').classList.add('hidden');
-      $('worldTicker').classList.add('hidden');
-
-      const errors = [];
-
       try {
-        const jp = await fetchTopHeadlines('japan', state.category);
-        state.japanArticles = jp;
-        mountTicker('japan', state.japanArticles);
+        const res = await fetch(`data/news.json?t=${Date.now()}`, { cache: 'no-store' });
+        if (!res.ok) throw new Error(`news.json の取得に失敗 (${res.status})`);
+        const data = await res.json();
+        state.rawData = data;
+        state.availableCategories = getAvailableCategories(extractCategoryMap(data));
+        if (!state.availableCategories.some((c) => c.id === state.category)) {
+          state.category = state.availableCategories[0]?.id || 'general';
+        }
+        state.lastUpdated = data.updatedAt || data.generatedAt || data.lastUpdated || new Date().toISOString();
+        renderData();
       } catch (err) {
-        state.japanArticles = [];
-        mountTicker('japan', []);
-        errors.push(`🇯🇵 ${err?.message || '取得失敗'}`);
-      } finally {
-        state.loadingJP = false;
+        $('jpLoading').classList.add('hidden');
+        $('worldLoading').classList.add('hidden');
+        setError(err?.message || 'data/news.json の読み込みに失敗しました。');
       }
-
-      await sleep(GNEWS_DELAY_MS);
-
-      try {
-        const world = await fetchTopHeadlines('world', state.category);
-        const translated = await translateWorldArticlesIfPossible(world);
-        state.worldArticles = translated.map((item, i) => ({ ...item, index: i + 1, total: translated.length }));
-        mountTicker('world', state.worldArticles);
-      } catch (err) {
-        state.worldArticles = [];
-        mountTicker('world', []);
-        errors.push(`🌍 ${err?.message || '取得失敗'}`);
-      } finally {
-        state.loadingWorld = false;
-      }
-
-      const now = new Date();
-      state.lastUpdated = now;
-      state.nextUpdate = new Date(now.getTime() + FETCH_INTERVAL);
-      updateStatusBar();
-      requestAnimationFrame(updateTopChromeHeight);
-
-      if (errors.length) setError(errors.join(' / '));
-
-      if (resetInterval) {
-        if (state.refreshTimer) clearInterval(state.refreshTimer);
-        state.refreshTimer = setInterval(() => fetchAll(false), FETCH_INTERVAL);
-      }
-    }
-
-    async function startApp() {
-      state.gnewsKey = $('gnewsKey').value.trim();
-      state.maxResults = Number($('maxResults').value || '10');
-      if (!state.gnewsKey) {
-        setError('GNews APIキーを入力してください。');
-        return;
-      }
-
-      saveConfig();
-      $('maxResultsMain').value = String(state.maxResults);
-      $('viewModeSelect').value = state.viewMode;
-      $('startScreen').classList.add('hidden');
-      $('mainScreen').classList.remove('hidden');
-      state.started = true;
-
-      renderCategoryChips();
-      updateTranslationStatusUI();
-      await prepareTranslatorFromUserAction();
-      requestAnimationFrame(updateTopChromeHeight);
-      startCountdown();
-      await fetchAll(true);
-      requestAnimationFrame(updateTopChromeHeight);
     }
 
     function bindEvents() {
-      $('startBtn').addEventListener('click', startApp);
-      $('refreshBtn').addEventListener('click', async () => {
-        if (!state.started) return;
-        if (state.refreshTimer) clearInterval(state.refreshTimer);
-        await fetchAll(true);
-      });
+      $('refreshBtn').addEventListener('click', loadNewsData);
       $('speedRange').addEventListener('input', (e) => {
         state.speed = Number(e.target.value);
+        saveConfig();
       });
       $('viewModeSelect').addEventListener('change', (e) => {
         state.viewMode = e.target.value === 'vertical' ? 'vertical' : 'horizontal';
         saveConfig();
         applyViewMode();
+      });
+      $('maxResultsMain').addEventListener('change', (e) => {
+        state.maxResults = Number(e.target.value || '10');
+        saveConfig();
+        renderData();
       });
       $('toggleHeaderBtn').addEventListener('click', () => {
         if (state.viewMode !== 'vertical') {
@@ -1119,34 +696,19 @@
         }
         const nextCollapsed = !state.uiCollapsed;
         setUICollapsed(nextCollapsed);
-        $('toggleHeaderBtn').textContent = nextCollapsed ? 'ヘッダー表示' : 'ヘッダー非表示';
-        if (!nextCollapsed) {
-          scheduleVerticalUICollapse(4000);
-        } else {
-          clearUIHideTimer();
-        }
+        if (!nextCollapsed) scheduleVerticalUICollapse(4000);
+        else clearUIHideTimer();
       });
-      $('topChrome').addEventListener('mousemove', () => revealVerticalUI());
-      $('topChrome').addEventListener('mouseenter', () => revealVerticalUI());
-      $('topChrome').addEventListener('touchstart', () => revealVerticalUI(), { passive: true });
+      $('topChrome').addEventListener('mousemove', revealVerticalUI);
+      $('topChrome').addEventListener('mouseenter', revealVerticalUI);
+      $('topChrome').addEventListener('touchstart', revealVerticalUI, { passive: true });
       document.addEventListener('mousemove', (e) => {
         if (state.viewMode === 'vertical' && e.clientY <= 96) revealVerticalUI();
       });
       document.addEventListener('touchstart', (e) => {
-        if (state.viewMode !== 'vertical') return;
         const touch = e.touches && e.touches[0];
-        if (touch && touch.clientY <= 96) revealVerticalUI();
+        if (state.viewMode === 'vertical' && touch && touch.clientY <= 96) revealVerticalUI();
       }, { passive: true });
-      $('maxResultsMain').addEventListener('change', async (e) => {
-        const next = Number(e.target.value || '10');
-        if (next === state.maxResults) return;
-        state.maxResults = next;
-        $('maxResults').value = String(next);
-        saveConfig();
-        if (!state.started) return;
-        if (state.refreshTimer) clearInterval(state.refreshTimer);
-        await fetchAll(true);
-      });
       $('closeModal').addEventListener('click', closeModal);
       $('modal').addEventListener('click', (e) => {
         if (e.target === $('modal')) closeModal();
@@ -1154,32 +716,21 @@
       document.addEventListener('keydown', (e) => {
         if (e.key === 'Escape') closeModal();
       });
-      window.addEventListener('resize', () => {
-        requestAnimationFrame(updateTopChromeHeight);
-      });
-      window.addEventListener('orientationchange', () => {
-        requestAnimationFrame(updateTopChromeHeight);
-      });
       window.addEventListener('resize', () => requestAnimationFrame(updateTopChromeHeight));
+      window.addEventListener('orientationchange', () => requestAnimationFrame(updateTopChromeHeight));
       window.addEventListener('beforeunload', () => {
         stopAnimators();
-        if (state.refreshTimer) clearInterval(state.refreshTimer);
-        if (state.countdownTimer) clearInterval(state.countdownTimer);
         clearUIHideTimer();
-        if (state.translator && typeof state.translator.destroy === 'function') {
-          try { state.translator.destroy(); } catch (_) {}
-        }
       });
     }
 
     loadConfig();
-    bindEvents();
-    renderCategoryChips();
     $('maxResultsMain').value = String(state.maxResults);
     $('viewModeSelect').value = state.viewMode;
-    applyViewMode();
+    $('speedRange').value = String(state.speed);
+    bindEvents();
+    loadNewsData();
     requestAnimationFrame(updateTopChromeHeight);
-    updateTranslationStatusUI();
   </script>
 </body>
 </html>
