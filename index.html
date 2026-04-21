@@ -1,9 +1,10 @@
+
 <!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>News Wire</title>
+  <title>News Wire GNews + Browser Translator</title>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Noto+Sans+JP:wght@400;700&family=Space+Mono:wght@700&display=swap" rel="stylesheet">
   <style>
     * { box-sizing: border-box; }
@@ -13,483 +14,1172 @@
       color: #fff; font-family: 'DM Sans', 'Noto Sans JP', sans-serif;
     }
     body { overflow-x: hidden; }
-    button, select, input { font: inherit; }
-    a { color: inherit; text-decoration: none; }
-    .app { min-height: 100svh; position: relative; padding-bottom: 44px; }
+    button, input, select { font: inherit; }
+    a { color: inherit; }
+    .hidden { display: none !important; }
+    .screen { min-height: 100svh; position: relative; --topChromeHeight: 172px; --bottomBarHeight: 34px; }
+    .center-wrap { min-height: 100svh; display: flex; align-items: center; justify-content: center; padding: 20px; }
+    .card { width: 100%; max-width: 560px; text-align: center; }
+    .title { font-family: 'Space Mono', monospace; font-size: 28px; color: #00ffb4; margin: 0 0 8px; letter-spacing: -1px; }
+    .subtitle { color: rgba(255,255,255,0.45); font-size: 14px; margin-bottom: 12px; }
+    .muted { color: rgba(255,255,255,0.35); font-size: 12px; line-height: 1.7; }
+    .btn {
+      border: none; border-radius: 12px; background: linear-gradient(135deg, #00ffb4, #00d4aa);
+      color: #0d1117; padding: 14px 16px; width: 100%; font-size: 15px; font-weight: 700; cursor: pointer;
+    }
+    .btn.secondary {
+      background: rgba(255,255,255,0.05); color: rgba(255,255,255,0.8);
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+    .btn.small { width: auto; padding: 7px 12px; border-radius: 8px; font-size: 12px; }
+    .config-box {
+      margin: 18px 0 24px; padding: 16px; border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 16px; background: rgba(255,255,255,0.03); text-align: left;
+    }
+    .field { margin-bottom: 12px; }
+    .field label { display: block; font-size: 12px; color: rgba(255,255,255,0.55); margin-bottom: 6px; }
+    .field input, .field select {
+      width: 100%; padding: 10px 12px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.08);
+      background: rgba(255,255,255,0.04); color: #fff; outline: none;
+    }
+    .field input::placeholder { color: rgba(255,255,255,0.25); }
+    .hint {
+      margin-top: 8px; padding: 10px 12px; border-radius: 10px;
+      background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.05);
+      color: rgba(255,255,255,0.45); font-size: 11px; line-height: 1.6;
+    }
+    .header {
+      padding: 16px 20px 0; display: flex; flex-wrap: wrap; align-items: center; gap: 10px;
+      position: relative; z-index: 2;
+    }
+    .header-right { margin-left: auto; display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+    .control-select {
+      padding: 7px 10px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.08);
+      background: rgba(255,255,255,0.04); color: rgba(255,255,255,0.82); font-size: 12px; outline: none;
+    }
+    .chip-row { padding: 12px 20px 6px; display: flex; gap: 6px; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+    .chip {
+      flex-shrink: 0; padding: 6px 14px; border-radius: 20px; border: 1px solid rgba(255,255,255,0.08);
+      background: rgba(255,255,255,0.03); color: rgba(255,255,255,0.45); font-size: 12px; font-weight: 600;
+      cursor: pointer; transition: all 0.2s;
+    }
+    .chip.active { border-color: rgba(0,255,180,0.3); background: rgba(0,255,180,0.1); color: #00ffb4; }
+    .error {
+      margin: 12px 20px; padding: 12px 16px; border-radius: 10px;
+      background: rgba(255,80,80,0.08); border: 1px solid rgba(255,80,80,0.2);
+      color: #ff8a8a; font-size: 12px; line-height: 1.6;
+    }
+    .info {
+      margin: 12px 20px; padding: 12px 16px; border-radius: 10px;
+      background: rgba(120,180,255,0.08); border: 1px solid rgba(120,180,255,0.2);
+      color: #a9d0ff; font-size: 12px; line-height: 1.6;
+    }
+    .section-label { display: flex; align-items: center; gap: 8px; padding: 0 24px; margin-bottom: 4px; flex-wrap: wrap; }
+    .section-name { font-family: 'Space Mono', monospace; font-size: 12px; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase; }
+    .section-meta { font-size: 10px; color: rgba(255,255,255,0.28); }
+    .ticker-wrap { overflow: hidden; width: 100%; position: relative; padding: 4px 0; }
+    .ticker-track { display: flex; gap: 16px; white-space: nowrap; will-change: transform; }
+    .list-wrap { padding: 4px 20px 0; height: calc((100svh - var(--topChromeHeight, 172px) - var(--bottomBarHeight, 34px) - 112px) / 2); min-height: 220px; overflow: hidden; position: relative; }
+    .list-column { display: flex; flex-direction: column; gap: 12px; will-change: transform; }
+    .list-column .news-card { width: 100%; max-width: none; min-width: 0; }
+    .news-card {
+      flex-shrink: 0; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 12px; padding: 12px 16px 12px 16px; max-width: 380px; min-width: 280px;
+      cursor: pointer; text-align: left; transition: all 0.25s ease; position: relative;
+    }
+    .news-card:hover {
+      background: rgba(255,255,255,0.08); border-color: rgba(0,255,180,0.3);
+      transform: translateY(-2px); box-shadow: 0 6px 24px rgba(0,255,180,0.08);
+    }
+    .index-badge {
+      display: inline-flex; align-items: center; justify-content: center; min-width: 44px;
+      padding: 2px 8px; border-radius: 999px; border: 1px solid rgba(255,255,255,0.08);
+      background: rgba(255,255,255,0.05); color: rgba(255,255,255,0.7); font-size: 10px; font-weight: 700;
+      margin-bottom: 8px;
+    }
+    .news-title {
+      font-size: 13px; font-weight: 700; color: #e0ffe8; white-space: normal; line-height: 1.45;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+      font-family: 'Noto Sans JP', 'DM Sans', sans-serif;
+    }
+    .news-desc {
+      font-size: 11px; color: rgba(255,255,255,0.58); margin-top: 7px; line-height: 1.5; white-space: normal;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .news-meta { font-size: 11px; color: rgba(255,255,255,0.38); margin-top: 7px; }
+    .divider { margin: 12px 24px; height: 1px; background: linear-gradient(90deg, transparent, rgba(255,255,255,0.06), transparent); }
+    .loading { text-align: center; padding: 30px 20px; color: rgba(255,255,255,0.25); font-size: 13px; }
+    .spinner { width: 20px; height: 20px; border: 2px solid rgba(0,255,180,0.15); border-top-color: #00ffb4; border-radius: 50%; animation: spin 0.8s linear infinite; margin: 0 auto 10px; }
+    .spinner.blue { border-color: rgba(100,140,255,0.15); border-top-color: #648cff; }
+    .statusbar {
+      position: fixed; bottom: 0; left: 0; right: 0; padding: 8px 20px;
+      background: linear-gradient(transparent, #0d1117 40%); display: flex; justify-content: space-between;
+      align-items: center; font-size: 10px; color: rgba(255,255,255,0.22); flex-wrap: wrap; gap: 4px; z-index: 3;
+    }
     .glow1, .glow2 { position: fixed; border-radius: 50%; pointer-events: none; }
     .glow1 { top: -200px; right: -200px; width: 600px; height: 600px; background: radial-gradient(circle, rgba(0,255,180,0.04) 0%, transparent 70%); }
     .glow2 { bottom: -200px; left: -200px; width: 500px; height: 500px; background: radial-gradient(circle, rgba(100,140,255,0.03) 0%, transparent 70%); }
-    .topbar {
-      position: sticky; top: 0; z-index: 20;
-      background: linear-gradient(180deg, rgba(13,17,23,0.98) 0%, rgba(13,17,23,0.95) 85%, rgba(13,17,23,0.84) 100%);
-      backdrop-filter: blur(10px); padding: 14px 18px 8px; border-bottom: 1px solid rgba(255,255,255,0.05);
-    }
-    .row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
-    .brand { display: flex; align-items: center; gap: 8px; }
-    .brand h1 {
-      margin: 0; font-family: 'Space Mono', monospace; font-size: 18px;
-      color: #00ffb4; letter-spacing: -0.6px;
-    }
-    .tools { margin-left: auto; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
-    .panel {
-      display: flex; align-items: center; gap: 6px; padding: 6px 10px; border-radius: 10px;
-      background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08);
-    }
-    .panel label { font-size: 11px; color: rgba(255,255,255,0.48); }
-    .panel select, .panel input[type="range"] {
-      background: transparent; color: rgba(255,255,255,0.88); border: none; outline: none;
-    }
-    .btn {
-      border: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.04); color: rgba(255,255,255,0.82);
-      padding: 7px 11px; border-radius: 10px; cursor: pointer;
-    }
-    .tabs {
-      display: flex; gap: 6px; overflow-x: auto; padding: 12px 18px 0; -webkit-overflow-scrolling: touch;
-    }
-    .tab {
-      flex-shrink: 0; padding: 7px 14px; border-radius: 999px; border: 1px solid rgba(255,255,255,0.08);
-      background: rgba(255,255,255,0.03); color: rgba(255,255,255,0.52); cursor: pointer; font-size: 12px; font-weight: 600;
-    }
-    .tab.active {
-      border-color: rgba(0,255,180,0.28); background: rgba(0,255,180,0.11); color: #00ffb4;
-    }
-    .notice, .error {
-      margin: 12px 18px 0; padding: 12px 14px; border-radius: 12px; font-size: 12px; line-height: 1.6;
-      border: 1px solid transparent;
-    }
-    .notice { background: rgba(120,180,255,0.08); color: #b9d6ff; border-color: rgba(120,180,255,0.18); }
-    .error { background: rgba(255,80,80,0.08); color: #ff9a9a; border-color: rgba(255,80,80,0.18); }
-    .content { padding-top: 10px; }
-    .section-head {
-      display: flex; align-items: center; gap: 8px; padding: 0 22px; margin: 8px 0 6px;
-    }
-    .section-title {
-      font-family: 'Space Mono', monospace; font-size: 12px; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase;
-    }
-    .section-meta { font-size: 10px; color: rgba(255,255,255,0.32); }
-    .divider {
-      margin: 12px 22px; height: 1px; background: linear-gradient(90deg, transparent, rgba(255,255,255,0.06), transparent);
-    }
-    .ticker-wrap, .list-wrap {
-      width: 100%; overflow: hidden; position: relative;
-    }
-    .ticker-wrap { padding: 4px 0; }
-    .ticker-track { display: flex; gap: 16px; white-space: nowrap; will-change: transform; }
-    .list-wrap { padding: 0 18px; height: calc((100svh - 190px) / 2); min-height: 220px; }
-    .list-track { display: flex; flex-direction: column; gap: 12px; will-change: transform; }
-    .card {
-      flex-shrink: 0; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08);
-      border-radius: 12px; padding: 12px 16px; min-width: 280px; max-width: 380px; text-align: left;
-      cursor: pointer; transition: .22s ease; position: relative;
-    }
-    .list-track .card { max-width: none; min-width: 0; width: 100%; }
-    .card:hover {
-      background: rgba(255,255,255,0.08); border-color: rgba(0,255,180,0.25);
-      transform: translateY(-2px); box-shadow: 0 6px 24px rgba(0,255,180,0.08);
-    }
-    .badge {
-      display: inline-flex; align-items: center; justify-content: center; min-width: 44px;
-      padding: 2px 8px; border-radius: 999px; font-size: 10px; font-weight: 700;
-      color: rgba(255,255,255,0.72); background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.08);
-      margin-bottom: 8px;
-    }
-    .title {
-      font-size: 13px; font-weight: 700; color: #e0ffe8; line-height: 1.45; white-space: normal;
-      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
-    }
-    .desc {
-      font-size: 11px; color: rgba(255,255,255,0.58); margin-top: 7px; line-height: 1.55; white-space: normal;
-      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
-    }
-    .meta { font-size: 11px; color: rgba(255,255,255,0.38); margin-top: 7px; }
-    .empty { padding: 28px 22px; color: rgba(255,255,255,0.32); font-size: 13px; }
-    .statusbar {
-      position: fixed; left: 0; right: 0; bottom: 0; z-index: 15;
-      display: flex; justify-content: space-between; gap: 6px; flex-wrap: wrap; align-items: center;
-      padding: 8px 18px; background: linear-gradient(transparent, #0d1117 45%); color: rgba(255,255,255,0.26); font-size: 10px;
-    }
     .modal {
-      position: fixed; inset: 0; z-index: 1000; background: rgba(0,0,0,0.76); backdrop-filter: blur(12px);
-      display: none; align-items: center; justify-content: center; padding: 20px;
+      position: fixed; inset: 0; z-index: 1000; background: rgba(0,0,0,0.75); backdrop-filter: blur(12px);
+      display: flex; align-items: center; justify-content: center; padding: 20px; animation: fadeIn 0.2s ease;
     }
-    .modal.show { display: flex; }
     .modal-card {
-      position: relative; width: 100%; max-width: 620px; max-height: 82vh; overflow: auto; padding: 30px;
-      border-radius: 18px; border: 1px solid rgba(255,255,255,0.1);
-      background: linear-gradient(160deg, #1a1f2e 0%, #0d1117 100%); box-shadow: 0 24px 64px rgba(0,0,0,0.5);
+      background: linear-gradient(160deg, #1a1f2e 0%, #0d1117 100%); border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 16px; max-width: 600px; width: 100%; max-height: 82vh; overflow: auto; padding: 32px;
+      position: relative; box-shadow: 0 24px 64px rgba(0,0,0,0.5);
     }
-    .close {
-      position: absolute; top: 14px; right: 14px; width: 32px; height: 32px; border-radius: 50%;
-      border: none; background: rgba(255,255,255,0.08); color: #fff; cursor: pointer;
+    .close-btn {
+      position: absolute; top: 16px; right: 16px; background: rgba(255,255,255,0.08); border: none;
+      border-radius: 50%; width: 32px; height: 32px; color: #fff; font-size: 16px; cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
     }
-    .modal-title { font-size: 20px; font-weight: 700; color: #e0ffe8; line-height: 1.45; margin: 0 0 12px; }
-    .modal-desc { font-size: 14px; color: rgba(255,255,255,0.66); line-height: 1.75; margin-bottom: 18px; white-space: pre-wrap; }
-    .modal-orig { font-size: 12px; color: rgba(255,255,255,0.44); line-height: 1.7; margin-bottom: 18px; }
-    .modal-footer { display: flex; justify-content: space-between; gap: 12px; align-items: center; flex-wrap: wrap; }
-    .link-btn {
-      background: linear-gradient(135deg, #00ffb4, #00d4aa); color: #0d1117; padding: 9px 18px;
-      border-radius: 9px; font-weight: 700;
+    .modal-img { width: 100%; border-radius: 10px; margin-bottom: 20px; max-height: 240px; object-fit: cover; }
+    .modal-title { font-size: 20px; font-weight: 700; color: #e0ffe8; line-height: 1.4; margin: 0 0 12px; }
+    .modal-desc { font-size: 14px; color: rgba(255,255,255,0.65); line-height: 1.7; margin-bottom: 16px; white-space: pre-wrap; }
+    .modal-orig {
+      font-size: 12px; color: rgba(255,255,255,0.42); line-height: 1.7; margin-bottom: 20px;
+      padding-top: 14px; border-top: 1px solid rgba(255,255,255,0.06);
     }
-    @media (max-width: 700px) {
-      .tools { margin-left: 0; width: 100%; }
-      .list-wrap { height: calc((100svh - 232px) / 2); }
+    .modal-footer { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; }
+    .article-link {
+      background: linear-gradient(135deg, #00ffb4, #00d4aa); color: #0d1117; padding: 8px 20px;
+      border-radius: 8px; font-size: 13px; font-weight: 700; text-decoration: none;
     }
+    .provider-badge, .translation-badge {
+      font-size: 10px; padding: 3px 8px; border-radius: 999px; background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.08); color: rgba(255,255,255,0.55);
+    }
+
+    .top-chrome {
+      position: sticky;
+      top: 0;
+      z-index: 5;
+      background: linear-gradient(180deg, rgba(13,17,23,0.98) 0%, rgba(13,17,23,0.96) 80%, rgba(13,17,23,0.86) 100%);
+      backdrop-filter: blur(10px);
+      transition: transform 0.28s ease, opacity 0.28s ease, max-height 0.28s ease;
+      transform: translateY(0);
+      opacity: 1;
+      overflow: hidden;
+    }
+    .top-reveal-hint {
+      position: fixed;
+      top: 8px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 6;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: rgba(13,17,23,0.75);
+      border: 1px solid rgba(255,255,255,0.08);
+      color: rgba(255,255,255,0.6);
+      font-size: 11px;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.2s ease;
+    }
+    .content-area {
+      padding-top: 0;
+      padding-bottom: calc(var(--bottomBarHeight, 34px) + 10px);
+      min-height: calc(100svh - var(--topChromeHeight, 172px));
+      transition: margin-top 0.28s ease, min-height 0.28s ease;
+    }
+    .main-tools-btn {
+      padding: 7px 10px;
+      border-radius: 8px;
+      border: 1px solid rgba(255,255,255,0.08);
+      background: rgba(255,255,255,0.04);
+      color: rgba(255,255,255,0.82);
+      font-size: 12px;
+      cursor: pointer;
+    }
+    #mainScreen.ui-collapsed.vertical-mode .top-chrome {
+      transform: translateY(calc(-1 * var(--topChromeHeight, 172px)));
+      opacity: 0.01;
+      pointer-events: none;
+      max-height: 0;
+    }
+    #mainScreen.ui-collapsed.vertical-mode .top-reveal-hint {
+      opacity: 1;
+    }
+    #mainScreen.ui-collapsed.vertical-mode .content-area {
+      margin-top: calc(-1 * var(--topChromeHeight, 172px));
+      min-height: calc(100svh - var(--bottomBarHeight, 34px));
+    }
+    input[type="range"] { accent-color: #00ffb4; }
+    ::-webkit-scrollbar { height: 0; width: 0; }
+    @keyframes fadeIn { from { opacity: 0 } to { opacity: 1 } }
+    @keyframes spin { to { transform: rotate(360deg) } }
   </style>
 </head>
 <body>
-  <div class="app">
-    <div class="glow1"></div>
-    <div class="glow2"></div>
+  <div id="startScreen" class="screen center-wrap">
+    <div class="card">
+      <div style="font-size:48px; margin-bottom:8px;">⚡</div>
+      <h1 class="title">NEWS WIRE</h1>
+      <p class="subtitle">GNews + ブラウザ内蔵翻訳API</p>
 
-    <div class="topbar">
-      <div class="row">
-        <div class="brand">
-          <span style="font-size:20px;">⚡</span>
-          <h1>NEWS WIRE</h1>
+      <div class="config-box">
+        <div class="field">
+          <label for="gnewsKey">GNews API Key</label>
+          <input id="gnewsKey" type="password" placeholder="GNewsのAPIキーを入力" />
         </div>
-        <div class="tools">
-          <div class="panel">
-            <label>表示</label>
-            <select id="modeSelect">
-              <option value="horizontal">横スクロール</option>
-              <option value="vertical">縦スクロール</option>
-            </select>
-          </div>
-          <div class="panel">
-            <label>件数</label>
-            <select id="countSelect">
-              <option value="10">10</option>
-              <option value="25">25</option>
-              <option value="50">50</option>
-            </select>
-          </div>
-          <div class="panel">
-            <label>速度</label>
-            <input id="speedRange" type="range" min="15" max="120" value="50" />
-          </div>
-          <button class="btn" id="reloadBtn">再読込</button>
+        <div class="field">
+          <label for="maxResults">取得件数</label>
+          <select id="maxResults">
+            <option value="10" selected>10件</option>
+            <option value="25">25件（追加ページ取得）</option>
+            <option value="50">50件（追加ページ取得）</option>
+            <option value="100">100件（追加ページ取得）</option>
+          </select>
+        </div>
+        <div class="hint">
+          海外ニュースは GNews で英語記事を取得し、ブラウザの Translator API が使える環境では日本語に翻訳します。<br>
+          未対応ブラウザ・非セキュア環境・翻訳モデル未利用時は原文表示にフォールバックします。
         </div>
       </div>
 
-      <div class="tabs" id="tabs"></div>
-    </div>
-
-    <div id="notice" class="notice" style="display:none;"></div>
-    <div id="error" class="error" style="display:none;"></div>
-
-    <div class="content">
-      <div class="section">
-        <div class="section-head">
-          <span>🇯🇵</span>
-          <span class="section-title" style="color:#00ffb4;">Japan</span>
-          <span class="section-meta" id="jpMeta"></span>
-        </div>
-        <div id="jpContainer"></div>
-      </div>
-
-      <div class="divider"></div>
-
-      <div class="section">
-        <div class="section-head">
-          <span>🌍</span>
-          <span class="section-title" style="color:#7aa0ff;">World</span>
-          <span class="section-meta" id="worldMeta"></span>
-        </div>
-        <div id="worldContainer"></div>
-      </div>
-    </div>
-
-    <div class="statusbar">
-      <span id="statusLeft">読込中…</span>
-      <span id="statusCenter"></span>
-      <span id="statusRight"></span>
+      <p class="muted" style="margin-bottom: 24px;">
+        単一HTMLのため、APIキーはブラウザ内で使用されます。<br>
+        GNews Free は localhost での利用や件数上限などの制約があります。
+      </p>
+      <button id="startBtn" class="btn">ニュースを取得する →</button>
     </div>
   </div>
 
-  <div id="modal" class="modal">
-    <div class="modal-card">
-      <button class="close" id="closeModal">✕</button>
-      <div class="badge" id="modalIndex"></div>
-      <h2 class="modal-title" id="modalTitle"></h2>
-      <div class="modal-desc" id="modalDesc"></div>
-      <div class="modal-orig" id="modalOrig" style="display:none;"></div>
+  <div id="mainScreen" class="screen hidden">
+    <div class="glow1"></div>
+    <div class="glow2"></div>
+
+    <div id="topRevealHint" class="top-reveal-hint">↑ カーソルを上へ移動するとヘッダー再表示</div>
+    <div id="topChrome" class="top-chrome">
+      <header class="header">
+        <div style="display:flex; align-items:center; gap:8px;">
+          <span style="font-size:20px;">⚡</span>
+          <h1 style="font-family:'Space Mono', monospace; font-size:17px; color:#00ffb4; letter-spacing:-0.5px; margin:0;">NEWS WIRE</h1>
+        </div>
+        <div class="header-right">
+          <label style="display:flex; align-items:center; gap:6px; background:rgba(255,255,255,0.04); border-radius:8px; border:1px solid rgba(255,255,255,0.08); padding:4px 8px;">
+            <span style="font-size:11px; color:rgba(255,255,255,0.45)">表示</span>
+            <select id="viewModeSelect" class="control-select">
+              <option value="horizontal" selected>横スクロール</option>
+              <option value="vertical">縦スクロール</option>
+            </select>
+          </label>
+          <label style="display:flex; align-items:center; gap:6px; background:rgba(255,255,255,0.04); border-radius:8px; border:1px solid rgba(255,255,255,0.08); padding:4px 8px;">
+            <span style="font-size:11px; color:rgba(255,255,255,0.45)">件数</span>
+            <select id="maxResultsMain" class="control-select">
+              <option value="10" selected>10</option>
+              <option value="25">25</option>
+              <option value="50">50</option>
+              <option value="100">100</option>
+            </select>
+          </label>
+          <div id="speedControl" style="display:flex; align-items:center; gap:4px; background:rgba(255,255,255,0.04); border-radius:8px; border:1px solid rgba(255,255,255,0.08); padding:4px 10px;">
+            <span style="font-size:10px; color:rgba(255,255,255,0.35)">🐢</span>
+            <input id="speedRange" type="range" min="15" max="120" value="50" style="width:50px;">
+            <span style="font-size:10px; color:rgba(255,255,255,0.35)">🐇</span>
+          </div>
+          <button id="toggleHeaderBtn" class="main-tools-btn" type="button">ヘッダー非表示</button>
+          <span class="provider-badge">GNews only</span>
+          <span id="translationBadge" class="translation-badge">翻訳状態を確認中</span>
+          <button id="refreshBtn" class="btn secondary small">更新</button>
+        </div>
+      </header>
+
+      <div id="chipRow" class="chip-row"></div>
+      <div id="errorBox" class="error hidden"></div>
+      <div id="infoBox" class="info hidden" aria-hidden="true"></div>
+    </div>
+
+    <div id="contentArea" class="content-area">
+    <div style="margin-top:12px;">
+      <div class="section-label">
+        <span style="font-size:14px;">🇯🇵</span>
+        <span class="section-name" style="color:#00ffb4;">Japan</span>
+        <span id="jpCount" class="section-meta"></span>
+      </div>
+      <div id="jpLoading" class="loading hidden"><div class="spinner"></div>日本のニュースを取得中…</div>
+      <div id="jpTicker" class="ticker-wrap hidden"><div id="jpTrack" class="ticker-track"></div></div>
+      <div id="jpList" class="list-wrap hidden"><div id="jpListColumn" class="list-column"></div></div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div>
+      <div class="section-label">
+        <span style="font-size:14px;">🌍</span>
+        <span class="section-name" style="color:#648cff;">World</span>
+        <span id="worldCount" class="section-meta"></span>
+        <span id="worldTranslationMeta" class="section-meta"></span>
+      </div>
+      <div id="worldLoading" class="loading hidden"><div class="spinner blue"></div>海外ニュースを取得中…</div>
+      <div id="worldTicker" class="ticker-wrap hidden"><div id="worldTrack" class="ticker-track"></div></div>
+      <div id="worldList" class="list-wrap hidden"><div id="worldListColumn" class="list-column"></div></div>
+    </div>
+
+    <div class="statusbar">
+      <span id="statusCount">🇯🇵 0件 · 🌍 0件</span>
+      <span id="statusTime"></span>
+      <span>10分おき自動更新</span>
+    </div>
+    </div>
+  </div>
+
+  <div id="modal" class="modal hidden">
+    <div class="modal-card" id="modalCard">
+      <button id="closeModal" class="close-btn">✕</button>
+      <img id="modalImg" class="modal-img hidden" alt="">
+      <div id="modalIndex" class="index-badge" style="margin-bottom: 14px;"></div>
+      <h2 id="modalTitle" class="modal-title"></h2>
+      <p id="modalDesc" class="modal-desc"></p>
+      <div id="modalOriginal" class="modal-orig hidden"></div>
       <div class="modal-footer">
-        <span id="modalMeta" style="font-size:12px; color:rgba(255,255,255,0.38);"></span>
-        <a id="modalLink" class="link-btn" target="_blank" rel="noopener noreferrer">元記事を読む →</a>
+        <span id="modalMeta" style="font-size:12px; color:rgba(255,255,255,0.35);"></span>
+        <a id="modalLink" class="article-link" href="#" target="_blank" rel="noopener noreferrer">元記事を読む →</a>
       </div>
     </div>
   </div>
 
   <script>
+    const FETCH_INTERVAL = 10 * 60 * 1000;
+    const GNEWS_DELAY_MS = 1200;
     const CATEGORIES = [
-      { id: "general", label: "総合" },
-      { id: "technology", label: "テクノロジー" },
-      { id: "business", label: "ビジネス" },
-      { id: "entertainment", label: "エンタメ" },
-      { id: "sports", label: "スポーツ" },
-      { id: "science", label: "サイエンス" },
+      { id: 'general', label: '総合' },
+      { id: 'technology', label: 'テクノロジー' },
+      { id: 'business', label: 'ビジネス' },
+      { id: 'entertainment', label: 'エンタメ' },
+      { id: 'sports', label: 'スポーツ' },
+      { id: 'science', label: 'サイエンス' },
     ];
 
     const state = {
-      data: null,
-      category: localStorage.getItem("news_category") || "general",
-      mode: localStorage.getItem("news_mode") || "horizontal",
-      count: Number(localStorage.getItem("news_count") || 10),
-      speed: Number(localStorage.getItem("news_speed") || 50),
-      modalArticle: null,
+      started: false,
+      category: 'general',
+      japanArticles: [],
+      worldArticles: [],
+      loadingJP: false,
+      loadingWorld: false,
+      error: '',
+      info: '',
+      lastUpdated: null,
+      nextUpdate: null,
+      countdown: '',
+      speed: 50,
+      gnewsKey: '',
+      maxResults: 10,
+      viewMode: 'horizontal',
+      translatorStatus: 'unknown',
       translator: null,
-      translatorAvailable: false,
-      translationAttempted: false
+      translationCache: new Map(),
+      translationAttempted: false,
+      translationSucceeded: false,
+      selected: null,
+      refreshTimer: null,
+      countdownTimer: null,
+      uiCollapsed: false,
+      uiHideTimer: null,
     };
 
-    const tabsEl = document.getElementById("tabs");
-    const modeSelect = document.getElementById("modeSelect");
-    const countSelect = document.getElementById("countSelect");
-    const speedRange = document.getElementById("speedRange");
-    const reloadBtn = document.getElementById("reloadBtn");
-    const noticeEl = document.getElementById("notice");
-    const errorEl = document.getElementById("error");
-    const jpContainer = document.getElementById("jpContainer");
-    const worldContainer = document.getElementById("worldContainer");
+    const animators = [];
+    const $ = (id) => document.getElementById(id);
 
-    modeSelect.value = state.mode;
-    countSelect.value = String(state.count);
-    speedRange.value = String(state.speed);
-
-    function fmtTime(iso) {
-      if (!iso) return "";
-      const d = new Date(iso);
-      if (Number.isNaN(d.getTime())) return "";
-      return d.toLocaleString("ja-JP", { month:"2-digit", day:"2-digit", hour:"2-digit", minute:"2-digit" });
+    function sleep(ms) {
+      return new Promise((resolve) => setTimeout(resolve, ms));
     }
 
-    function escapeHtml(s="") {
-      return s.replace(/[&<>"']/g, (ch) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":"&#39;"}[ch]));
+    function saveConfig() {
+      localStorage.setItem('newswire-gnews-translator-config', JSON.stringify({
+        gnewsKey: state.gnewsKey,
+        maxResults: state.maxResults,
+        viewMode: state.viewMode
+      }));
     }
 
-    function setNotice(text) {
-      noticeEl.style.display = text ? "block" : "none";
-      noticeEl.textContent = text || "";
+    function loadConfig() {
+      try {
+        const raw = localStorage.getItem('newswire-gnews-translator-config');
+        if (!raw) return;
+        const conf = JSON.parse(raw);
+        if (typeof conf.gnewsKey === 'string') {
+          state.gnewsKey = conf.gnewsKey;
+          $('gnewsKey').value = conf.gnewsKey;
+        }
+        if (conf.maxResults) {
+          state.maxResults = Number(conf.maxResults);
+          $('maxResults').value = String(conf.maxResults);
+        }
+        if (conf.viewMode === 'horizontal' || conf.viewMode === 'vertical') {
+          state.viewMode = conf.viewMode;
+        }
+      } catch (_) {}
     }
 
-    function setError(text) {
-      errorEl.style.display = text ? "block" : "none";
-      errorEl.textContent = text || "";
+    function setError(message) {
+      state.error = message || '';
+      const box = $('errorBox');
+      box.textContent = state.error;
+      box.classList.toggle('hidden', !state.error);
     }
 
-    function renderTabs() {
-      tabsEl.innerHTML = CATEGORIES.map(c => `
-        <button class="tab ${c.id === state.category ? 'active' : ''}" data-cat="${c.id}">${c.label}</button>
-      `).join("");
-      tabsEl.querySelectorAll(".tab").forEach(btn => {
-        btn.addEventListener("click", () => {
-          state.category = btn.dataset.cat;
-          localStorage.setItem("news_category", state.category);
-          render();
+    function setInfo(message) {
+      state.info = '';
+      const box = $('infoBox');
+      box.textContent = '';
+      box.classList.add('hidden');
+    }
+
+    function getCategoryQuery(category) {
+      if (category === 'general') return '';
+      return category;
+    }
+
+    function toDisplayTime(iso) {
+      if (!iso) return '';
+      const dt = new Date(iso);
+      if (Number.isNaN(dt.getTime())) return '';
+      return dt.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+    }
+
+    function toDisplayDateTime(iso) {
+      if (!iso) return '';
+      const dt = new Date(iso);
+      if (Number.isNaN(dt.getTime())) return '';
+      return dt.toLocaleString();
+    }
+
+    function normalizeArticle(article, index, total, region) {
+      return {
+        title: article.title || '',
+        description: article.description || '',
+        url: article.url || '#',
+        source: { name: article.source?.name || article.source?.name || article.source?.title || 'GNews' },
+        publishedAt: article.publishedAt || article.published_at || new Date().toISOString(),
+        image: article.image || null,
+        index,
+        total,
+        region,
+        originalTitle: article.originalTitle || article.title || '',
+        originalDescription: article.originalDescription || article.description || '',
+        translated: Boolean(article.translated),
+      };
+    }
+
+    async function fetchTopHeadlines(region, category) {
+      if (!state.gnewsKey) throw new Error('GNews APIキー未設定');
+
+      const desired = Math.max(1, Number(state.maxResults || 10));
+      const collected = [];
+      const seen = new Set();
+      let page = 1;
+      let totalArticles = null;
+      let perPage = desired;
+      let warnedAboutPlan = false;
+
+      while (collected.length < desired && page <= 10) {
+        const remaining = desired - collected.length;
+        const requestMax = Math.min(perPage, remaining);
+        const params = new URLSearchParams({
+          apikey: state.gnewsKey,
+          category: category,
+          max: String(requestMax),
+          page: String(page),
+          nullable: 'description,image'
         });
+
+        if (region === 'japan') {
+          params.set('country', 'jp');
+          params.set('lang', 'ja');
+        } else {
+          params.set('lang', 'en');
+        }
+
+        const url = `https://gnews.io/api/v4/top-headlines?${params.toString()}`;
+
+        let response;
+        try {
+          response = await fetch(url, { method: 'GET' });
+        } catch (err) {
+          throw new Error('Failed to fetch');
+        }
+
+        let data = null;
+        try {
+          data = await response.json();
+        } catch (_) {}
+
+        if (!response.ok) {
+          let message = `HTTP ${response.status}`;
+          if (Array.isArray(data?.errors)) {
+            message = data.errors.join(' / ') || message;
+          } else if (typeof data?.errors === 'string') {
+            message = data.errors || message;
+          } else if (data?.errors && typeof data.errors === 'object') {
+            message = Object.values(data.errors).flat().filter(Boolean).join(' / ') || message;
+          } else if (typeof data?.message === 'string' && data.message) {
+            message = data.message;
+          }
+          throw new Error(message);
+        }
+
+        const pageArticles = Array.isArray(data?.articles) ? data.articles : [];
+        totalArticles = Number.isFinite(Number(data?.totalArticles)) ? Number(data.totalArticles) : totalArticles;
+
+        if (page === 1 && pageArticles.length > 0 && pageArticles.length < requestMax) {
+          perPage = pageArticles.length;
+          warnedAboutPlan = desired > pageArticles.length;
+        }
+
+        for (const article of pageArticles) {
+          const key = article?.url || `${article?.title || ''}__${article?.publishedAt || article?.published_at || ''}`;
+          if (seen.has(key)) continue;
+          seen.add(key);
+          collected.push(article);
+          if (collected.length >= desired) break;
+        }
+
+        if (!pageArticles.length) break;
+        if (totalArticles !== null && collected.length >= totalArticles) break;
+        if (perPage <= 0 || pageArticles.length < perPage) break;
+
+        page += 1;
+        if (collected.length < desired) {
+          await sleep(GNEWS_DELAY_MS);
+        }
+      }
+
+      if (warnedAboutPlan && collected.length < desired) {
+        console.info(`GNews returned fewer articles than requested (${collected.length}/${desired}). This can depend on plan limits or available articles.`);
+      }
+
+      return collected.map((article, i) => normalizeArticle(article, i + 1, collected.length, region));
+    }
+
+    function detectTranslationSupportBasics() {
+      if (!window.isSecureContext) {
+        return { ok: false, reason: '翻訳APIは secure context（https または localhost）でのみ利用可能' };
+      }
+      if (typeof window.Translator === 'undefined') {
+        return { ok: false, reason: 'このブラウザは Translator API に未対応' };
+      }
+      return { ok: true, reason: '' };
+    }
+
+    async function prepareTranslatorFromUserAction() {
+      const basic = detectTranslationSupportBasics();
+      if (!basic.ok) {
+        state.translatorStatus = 'unsupported';
+        state.translator = null;
+        updateTranslationStatusUI();
+        setInfo(`海外ニュース翻訳: ${basic.reason}。原文表示で継続します。`);
+        return;
+      }
+
+      try {
+        state.translatorStatus = 'checking';
+        updateTranslationStatusUI();
+
+        // create() はユーザー操作起点が求められるため、Start ボタン直後に優先して試行する
+        state.translator = await window.Translator.create({
+          sourceLanguage: 'en',
+          targetLanguage: 'ja'
+        });
+        state.translatorStatus = 'ready';
+        updateTranslationStatusUI();
+        setInfo('海外ニュース翻訳: ブラウザ内蔵翻訳が利用可能です。対応記事は日本語表示します。');
+      } catch (err) {
+        let reason = err?.message || '初期化失敗';
+        try {
+          if (typeof window.Translator.availability === 'function') {
+            const availability = await window.Translator.availability({
+              sourceLanguage: 'en',
+              targetLanguage: 'ja'
+            });
+            if (availability === 'unavailable' || availability === null) {
+              reason = 'ブラウザ翻訳モデルを利用できません';
+              state.translatorStatus = 'unavailable';
+            } else {
+              state.translatorStatus = 'failed';
+            }
+          } else {
+            state.translatorStatus = 'failed';
+          }
+        } catch (_) {
+          state.translatorStatus = 'failed';
+        }
+        state.translator = null;
+        updateTranslationStatusUI();
+        setInfo(`海外ニュース翻訳: ${reason}。原文表示で継続します。`);
+      }
+    }
+
+    function updateTranslationStatusUI() {
+      const badge = $('translationBadge');
+      const meta = $('worldTranslationMeta');
+      const map = {
+        unknown: ['翻訳状態を確認中', ''],
+        checking: ['翻訳確認中', ''],
+        ready: ['翻訳ON', '日本語化あり'],
+        unsupported: ['翻訳OFF', '原文表示'],
+        unavailable: ['翻訳OFF', '原文表示'],
+        failed: ['翻訳OFF', '原文表示'],
+      };
+      const [text, sub] = map[state.translatorStatus] || ['翻訳OFF', '原文表示'];
+      badge.textContent = text;
+      meta.textContent = sub;
+    }
+
+    async function translateText(text) {
+      if (!text || !state.translator) return text || '';
+      const cached = state.translationCache.get(text);
+      if (cached) return cached;
+      const translated = await state.translator.translate(text);
+      state.translationCache.set(text, translated);
+      return translated;
+    }
+
+    async function translateWorldArticlesIfPossible(articles) {
+      if (!state.translator) return articles;
+      const translatedArticles = [];
+
+      for (const article of articles) {
+        try {
+          const translatedTitle = await translateText(article.originalTitle || article.title || '');
+          const translatedDesc = await translateText(article.originalDescription || article.description || '');
+          translatedArticles.push({
+            ...article,
+            title: translatedTitle || article.title,
+            description: translatedDesc || article.description,
+            translated: true
+          });
+          state.translationAttempted = true;
+          state.translationSucceeded = true;
+        } catch (_) {
+          translatedArticles.push(article);
+        }
+      }
+      return translatedArticles;
+    }
+
+    function renderCategoryChips() {
+      const row = $('chipRow');
+      row.innerHTML = '';
+      CATEGORIES.forEach((cat) => {
+        const btn = document.createElement('button');
+        btn.className = `chip ${state.category === cat.id ? 'active' : ''}`;
+        btn.textContent = cat.label;
+        btn.addEventListener('click', () => {
+          if (state.category === cat.id) return;
+          state.category = cat.id;
+          renderCategoryChips();
+          fetchAll(true);
+        });
+        row.appendChild(btn);
       });
     }
 
-    async function initTranslator() {
-      if (state.translationAttempted) return;
-      state.translationAttempted = true;
-      try {
-        if (!("Translator" in window) || typeof window.Translator.create !== "function") return;
-        const translator = await window.Translator.create({
-          sourceLanguage: "en",
-          targetLanguage: "ja"
-        });
-        state.translator = translator;
-        state.translatorAvailable = true;
-      } catch (_) {}
-    }
 
-    async function maybeTranslateArticle(article) {
-      if (!article) return article;
-      const lang = (article.language || "").toLowerCase();
-      if (!state.translatorAvailable || lang === "ja") return article;
-      const out = { ...article };
-      try {
-        if (out.title) out.title_ja = await state.translator.translate(out.title);
-      } catch (_) {}
-      try {
-        if (out.description) out.description_ja = await state.translator.translate(out.description);
-      } catch (_) {}
-      return out;
-    }
-
-    async function loadData() {
-      setError("");
-      const res = await fetch(`./data/news.json?v=${Date.now()}`, { cache: "no-store" });
-      if (!res.ok) throw new Error(`news.json の取得に失敗しました (${res.status})`);
-      const data = await res.json();
-      if (!data || !data.categories) throw new Error("news.json の形式が不正です");
-      state.data = data;
-
-      if (state.translatorAvailable) {
-        const world = (((state.data.categories || {})[state.category] || {}).world || []);
-        const translated = [];
-        for (const article of world) {
-          translated.push(await maybeTranslateArticle(article));
+    function updateTopChromeHeight() {
+      const main = $('mainScreen');
+      const topChrome = $('topChrome');
+      if (!main || !topChrome) return;
+      const rect = topChrome.getBoundingClientRect();
+      const height = Math.max(0, Math.ceil(rect.height || topChrome.offsetHeight || 0));
+      if (height > 0) {
+        main.style.setProperty('--topChromeHeight', `${height}px`);
+      }
+      const statusbar = document.querySelector('.statusbar');
+      if (statusbar) {
+        const statusHeight = Math.max(0, Math.ceil(statusbar.getBoundingClientRect().height || statusbar.offsetHeight || 0));
+        if (statusHeight > 0) {
+          main.style.setProperty('--bottomBarHeight', `${statusHeight}px`);
         }
-        state.data.categories[state.category].world = translated;
       }
     }
 
-    function getArticles(region) {
-      const categoryBlock = (state.data?.categories || {})[state.category] || {};
-      const arr = categoryBlock[region] || [];
-      return arr.slice(0, state.count);
-    }
-
-    function buildCards(articles, regionLabel) {
-      if (!articles.length) return `<div class="empty">記事がありません。</div>`;
-      const doubled = [...articles, ...articles];
-      const cards = doubled.map((a, i) => {
-        const originalIndex = (i % articles.length) + 1;
-        const total = articles.length;
-        const title = a.title_ja || a.title || "";
-        const desc = a.description_ja || a.description || "";
-        return `
-          <button class="card" data-region="${regionLabel}" data-index="${originalIndex - 1}">
-            <div class="badge">${originalIndex}/${total}</div>
-            <div class="title">${escapeHtml(title)}</div>
-            <div class="desc">${escapeHtml(desc)}</div>
-            <div class="meta">${escapeHtml(a.source?.name || "")}${a.publishedAt ? " · " + escapeHtml(fmtTime(a.publishedAt)) : ""}</div>
-          </button>
-        `;
-      }).join("");
-
-      if (state.mode === "horizontal") {
-        return `<div class="ticker-wrap"><div class="ticker-track">${cards}</div></div>`;
+    function updateTopChromeHeight() {
+      const main = $('mainScreen');
+      const topChrome = $('topChrome');
+      if (!main || !topChrome) return;
+      const rect = topChrome.getBoundingClientRect();
+      const height = Math.max(0, Math.ceil(rect.height || topChrome.offsetHeight || 0));
+      main.style.setProperty('--topChromeHeight', `${height}px`);
+      const statusbar = document.querySelector('.statusbar');
+      if (statusbar) {
+        const statusHeight = Math.max(0, Math.ceil(statusbar.getBoundingClientRect().height || statusbar.offsetHeight || 0));
+        if (statusHeight > 0) main.style.setProperty('--bottomBarHeight', `${statusHeight}px`);
       }
-      return `<div class="list-wrap"><div class="list-track">${cards}</div></div>`;
     }
 
-    function attachCardEvents(container, regionKey) {
-      container.querySelectorAll(".card").forEach(btn => {
-        btn.addEventListener("click", () => {
-          const idx = Number(btn.dataset.index || "0");
-          const articles = getArticles(regionKey);
-          openModal(articles[idx], idx, articles.length);
-        });
+    function setUICollapsed(collapsed) {
+      state.uiCollapsed = !!collapsed;
+      const main = $('mainScreen');
+      if (!main) return;
+      main.classList.toggle('ui-collapsed', state.uiCollapsed && state.viewMode === 'vertical');
+      requestAnimationFrame(updateTopChromeHeight);
+      $('toggleHeaderBtn').textContent = state.uiCollapsed && state.viewMode === 'vertical' ? 'ヘッダー表示' : 'ヘッダー非表示';
+    }
+
+    function clearUIHideTimer() {
+      if (state.uiHideTimer) {
+        clearTimeout(state.uiHideTimer);
+        state.uiHideTimer = null;
+      }
+    }
+
+    function scheduleVerticalUICollapse(delay = 2600) {
+      clearUIHideTimer();
+      if (state.viewMode !== 'vertical' || !$('mainScreen') || $('mainScreen').classList.contains('hidden')) {
+        setUICollapsed(false);
+        return;
+      }
+      state.uiHideTimer = setTimeout(() => {
+        setUICollapsed(true);
+      }, delay);
+    }
+
+    function revealVerticalUI() {
+      if (state.viewMode !== 'vertical') return;
+      setUICollapsed(false);
+      $('toggleHeaderBtn').textContent = 'ヘッダー非表示';
+      scheduleVerticalUICollapse();
+    }
+
+    function applyViewMode() {
+      const horizontal = state.viewMode === 'horizontal';
+      $('viewModeSelect').value = state.viewMode;
+      $('speedControl').classList.remove('hidden');
+      $('mainScreen').classList.toggle('vertical-mode', !horizontal);
+      requestAnimationFrame(updateTopChromeHeight);
+      $('toggleHeaderBtn').textContent = state.uiCollapsed && state.viewMode === 'vertical' ? 'ヘッダー表示' : 'ヘッダー非表示';
+
+      const sections = [
+        { ticker: $('jpTicker'), list: $('jpList'), hasItems: state.japanArticles.length > 0 },
+        { ticker: $('worldTicker'), list: $('worldList'), hasItems: state.worldArticles.length > 0 }
+      ];
+
+      sections.forEach(({ ticker, list, hasItems }) => {
+        if (!hasItems) {
+          ticker.classList.add('hidden');
+          list.classList.add('hidden');
+          return;
+        }
+        ticker.classList.toggle('hidden', !horizontal);
+        list.classList.toggle('hidden', horizontal);
       });
-      attachAutoScroll(container, state.mode, state.speed, regionKey === "jp" ? 1 : 0.85);
-    }
 
-    function attachAutoScroll(container, mode, speed, factor) {
-      const wrap = container.querySelector(mode === "horizontal" ? ".ticker-wrap" : ".list-wrap");
-      const track = container.querySelector(mode === "horizontal" ? ".ticker-track" : ".list-track");
-      if (!wrap || !track) return;
-
-      let raf = null;
-      let last = null;
-      let pos = 0;
-      let paused = false;
-      const resetAt = () => mode === "horizontal" ? track.scrollWidth / 2 : track.scrollHeight / 2;
-
-      function step(ts) {
-        if (!last) last = ts;
-        const dt = ts - last;
-        last = ts;
-        if (!paused) {
-          pos -= (speed * factor * dt) / 1000;
-          const half = resetAt();
-          if (half > 0 && pos <= -half) pos = 0;
-          track.style.transform = mode === "horizontal" ? `translateX(${pos}px)` : `translateY(${pos}px)`;
-        }
-        raf = requestAnimationFrame(step);
-      }
-
-      wrap.addEventListener("mouseenter", () => paused = true);
-      wrap.addEventListener("mouseleave", () => paused = false);
-      wrap.addEventListener("touchstart", () => paused = true, { passive: true });
-      wrap.addEventListener("touchend", () => setTimeout(() => paused = false, 1200), { passive: true });
-
-      raf = requestAnimationFrame(step);
-    }
-
-    function openModal(article, index, total) {
-      if (!article) return;
-      document.getElementById("modalIndex").textContent = `${index + 1}/${total}`;
-      document.getElementById("modalTitle").textContent = article.title_ja || article.title || "";
-      document.getElementById("modalDesc").textContent = article.description_ja || article.description || "";
-      const origBlock = document.getElementById("modalOrig");
-      const hasTranslated = (article.title_ja || article.description_ja) && ((article.title_ja !== article.title) || (article.description_ja !== article.description));
-      if (hasTranslated) {
-        origBlock.style.display = "block";
-        origBlock.textContent = `原文: ${(article.title || "")}${article.description ? "\n\n" + article.description : ""}`;
+      stopAnimators();
+      if (horizontal) {
+        setUICollapsed(false);
+        clearUIHideTimer();
+        if (state.japanArticles.length > 0) resetTickerAnimator($('jpTrack'));
+        if (state.worldArticles.length > 0) resetTickerAnimator($('worldTrack'));
       } else {
-        origBlock.style.display = "none";
-        origBlock.textContent = "";
+        setUICollapsed(false);
+        if (state.japanArticles.length > 0) resetVerticalAnimator($('jpListColumn'));
+        if (state.worldArticles.length > 0) resetVerticalAnimator($('worldListColumn'));
+        scheduleVerticalUICollapse(3200);
       }
-      document.getElementById("modalMeta").textContent = `${article.source?.name || ""}${article.publishedAt ? " · " + fmtTime(article.publishedAt) : ""}`;
-      document.getElementById("modalLink").href = article.url || "#";
-      document.getElementById("modal").classList.add("show");
+      requestAnimationFrame(updateTopChromeHeight);
     }
 
-    function render() {
-      renderTabs();
-      const jp = getArticles("jp");
-      const world = getArticles("world");
 
-      jpContainer.innerHTML = buildCards(jp, "jp");
-      worldContainer.innerHTML = buildCards(world, "world");
+    function createNewsCard(article) {
+      const btn = document.createElement('button');
+      btn.className = 'news-card';
+      btn.type = 'button';
 
-      attachCardEvents(jpContainer, "jp");
-      attachCardEvents(worldContainer, "world");
+      const index = document.createElement('div');
+      index.className = 'index-badge';
+      index.textContent = `${article.index}/${article.total}`;
 
-      document.getElementById("jpMeta").textContent = `${jp.length}件`;
-      document.getElementById("worldMeta").textContent = `${world.length}件`;
-      document.getElementById("statusLeft").textContent = `🇯🇵 ${jp.length}件 · 🌍 ${world.length}件`;
-      document.getElementById("statusCenter").textContent = state.data?.updatedAt ? `更新: ${fmtTime(state.data.updatedAt)}` : "";
-      document.getElementById("statusRight").textContent = state.data?.windowLabel ? state.data.windowLabel : "";
-      const provider = state.data?.provider ? `取得元: ${state.data.provider}` : "";
-      const translation = state.translatorAvailable ? "翻訳: ブラウザ内蔵API" : "翻訳: 未対応環境では原文表示";
-      setNotice([provider, translation].filter(Boolean).join(" · "));
+      const title = document.createElement('div');
+      title.className = 'news-title';
+      title.textContent = article.title || '無題';
+
+      const desc = document.createElement('div');
+      desc.className = 'news-desc';
+      desc.textContent = article.description || '';
+
+      const meta = document.createElement('div');
+      meta.className = 'news-meta';
+      const translatedMark = article.region === 'world' ? (article.translated ? ' · 日本語表示' : ' · 原文') : '';
+      meta.textContent = `${article.source?.name || 'GNews'}${article.publishedAt ? ` · ${toDisplayTime(article.publishedAt)}` : ''}${translatedMark}`;
+
+      btn.append(index, title, desc, meta);
+      btn.addEventListener('click', () => openModal(article));
+      return btn;
     }
 
-    reloadBtn.addEventListener("click", async () => {
+    function mountTicker(region, articles) {
+      const wrap = region === 'japan' ? $('jpTicker') : $('worldTicker');
+      const track = region === 'japan' ? $('jpTrack') : $('worldTrack');
+      const listWrap = region === 'japan' ? $('jpList') : $('worldList');
+      const listColumn = region === 'japan' ? $('jpListColumn') : $('worldListColumn');
+      const countEl = region === 'japan' ? $('jpCount') : $('worldCount');
+      const loadingEl = region === 'japan' ? $('jpLoading') : $('worldLoading');
+
+      loadingEl.classList.add('hidden');
+      track.innerHTML = '';
+      listColumn.innerHTML = '';
+
+      if (!articles.length) {
+        wrap.classList.add('hidden');
+        listWrap.classList.add('hidden');
+        countEl.textContent = '0件';
+        updateStatusBar();
+        return;
+      }
+
+      countEl.textContent = `${articles.length}件`;
+
+      const doubled = [...articles, ...articles];
+      doubled.forEach((article) => {
+        track.appendChild(createNewsCard(article));
+      });
+
+      doubled.forEach((article) => {
+        listColumn.appendChild(createNewsCard(article));
+      });
+
+      track.dataset.region = region;
+      track.dataset.speedFactor = region === 'japan' ? '1' : '0.8';
+      listColumn.dataset.region = region;
+      listColumn.dataset.speedFactor = region === 'japan' ? '0.7' : '0.56';
+      applyViewMode();
+      updateStatusBar();
+    }
+
+    function resetTickerAnimator(track) {
+      const existing = animators.find((item) => item.element === track);
+      if (existing) {
+        existing.active = false;
+        if (existing.rafId) cancelAnimationFrame(existing.rafId);
+      }
+
+      const stateAnim = {
+        element: track,
+        active: true,
+        offset: 0,
+        lastTs: null,
+        paused: false,
+        rafId: null,
+        axis: 'x',
+      };
+
+      const wrap = track.parentElement;
+      wrap.onmouseenter = () => { stateAnim.paused = true; };
+      wrap.onmouseleave = () => { stateAnim.paused = false; };
+      wrap.ontouchstart = () => { stateAnim.paused = true; };
+      wrap.ontouchend = () => { setTimeout(() => { stateAnim.paused = false; }, 1500); };
+
+      const step = (ts) => {
+        if (!stateAnim.active) return;
+        if (stateAnim.lastTs === null) stateAnim.lastTs = ts;
+        const dt = ts - stateAnim.lastTs;
+        stateAnim.lastTs = ts;
+        if (!stateAnim.paused) {
+          const speedFactor = Number(track.dataset.speedFactor || '1');
+          const width = track.scrollWidth / 2;
+          if (width > 0) {
+            stateAnim.offset -= (state.speed * speedFactor * dt) / 1000;
+            if (stateAnim.offset <= -width) stateAnim.offset = 0;
+            track.style.transform = `translateX(${stateAnim.offset}px)`;
+          }
+        }
+        stateAnim.rafId = requestAnimationFrame(step);
+      };
+
+      animators.push(stateAnim);
+      stateAnim.rafId = requestAnimationFrame(step);
+    }
+
+    function resetVerticalAnimator(listColumn) {
+      const existing = animators.find((item) => item.element === listColumn);
+      if (existing) {
+        existing.active = false;
+        if (existing.rafId) cancelAnimationFrame(existing.rafId);
+      }
+
+      const stateAnim = {
+        element: listColumn,
+        active: true,
+        offset: 0,
+        lastTs: null,
+        paused: false,
+        rafId: null,
+        axis: 'y',
+      };
+
+      const wrap = listColumn.parentElement;
+      wrap.onmouseenter = () => { stateAnim.paused = true; };
+      wrap.onmouseleave = () => { stateAnim.paused = false; };
+      wrap.ontouchstart = () => { stateAnim.paused = true; };
+      wrap.ontouchend = () => { setTimeout(() => { stateAnim.paused = false; }, 1500); };
+
+      const step = (ts) => {
+        if (!stateAnim.active) return;
+        if (stateAnim.lastTs === null) stateAnim.lastTs = ts;
+        const dt = ts - stateAnim.lastTs;
+        stateAnim.lastTs = ts;
+        if (!stateAnim.paused) {
+          const height = listColumn.scrollHeight / 2;
+          if (height > 0) {
+            const speedFactor = Number(listColumn.dataset.speedFactor || '0.7');
+            stateAnim.offset -= (state.speed * speedFactor * dt) / 1000;
+            if (stateAnim.offset <= -height) stateAnim.offset = 0;
+            listColumn.style.transform = `translateY(${stateAnim.offset}px)`;
+          }
+        }
+        stateAnim.rafId = requestAnimationFrame(step);
+      };
+
+      animators.push(stateAnim);
+      stateAnim.rafId = requestAnimationFrame(step);
+    }
+
+    function stopAnimators() {
+      animators.forEach((item) => {
+        item.active = false;
+        if (item.rafId) cancelAnimationFrame(item.rafId);
+        if (item.element) item.element.style.transform = item.axis === 'y' ? 'translateY(0px)' : 'translateX(0px)';
+      });
+      animators.length = 0;
+    }
+
+    function openModal(article) {
+      state.selected = article;
+      $('modalIndex').textContent = `${article.index}/${article.total}`;
+      $('modalTitle').textContent = article.title || '';
+      $('modalDesc').textContent = article.description || '';
+      $('modalMeta').textContent = `${article.source?.name || 'GNews'}${article.publishedAt ? ` · ${toDisplayDateTime(article.publishedAt)}` : ''}${article.region === 'world' ? (article.translated ? ' · 日本語表示' : ' · 原文表示') : ''}`;
+      $('modalLink').href = article.url || '#';
+
+      const img = $('modalImg');
+      if (article.image) {
+        img.src = article.image;
+        img.classList.remove('hidden');
+      } else {
+        img.src = '';
+        img.classList.add('hidden');
+      }
+
+      const original = $('modalOriginal');
+      if (article.region === 'world' && article.translated && ((article.originalTitle && article.originalTitle !== article.title) || (article.originalDescription && article.originalDescription !== article.description))) {
+        original.innerHTML =
+          `<strong>原文タイトル</strong><br>${escapeHtml(article.originalTitle || '')}<br><br>` +
+          `<strong>原文概要</strong><br>${escapeHtml(article.originalDescription || '')}`;
+        original.classList.remove('hidden');
+      } else {
+        original.innerHTML = '';
+        original.classList.add('hidden');
+      }
+
+      $('modal').classList.remove('hidden');
+    }
+
+    function closeModal() {
+      $('modal').classList.add('hidden');
+      state.selected = null;
+    }
+
+    function escapeHtml(value) {
+      return String(value)
+        .replaceAll('&', '&amp;')
+        .replaceAll('<', '&lt;')
+        .replaceAll('>', '&gt;')
+        .replaceAll('"', '&quot;')
+        .replaceAll("'", '&#39;');
+    }
+
+    function updateStatusBar() {
+      $('statusCount').textContent = `🇯🇵 ${state.japanArticles.length}件 · 🌍 ${state.worldArticles.length}件`;
+      const parts = [];
+      if (state.lastUpdated) parts.push(`更新: ${state.lastUpdated.toLocaleTimeString()}`);
+      if (state.countdown) parts.push(`次回: ${state.countdown}`);
+      $('statusTime').textContent = parts.join(' · ');
+    }
+
+    function startCountdown() {
+      if (state.countdownTimer) clearInterval(state.countdownTimer);
+      state.countdownTimer = setInterval(() => {
+        if (!state.nextUpdate) return;
+        const diff = state.nextUpdate.getTime() - Date.now();
+        if (diff <= 0) {
+          state.countdown = '更新中…';
+        } else {
+          const m = Math.floor(diff / 60000);
+          const s = Math.floor((diff % 60000) / 1000);
+          state.countdown = `${m}:${String(s).padStart(2, '0')}`;
+        }
+        updateStatusBar();
+      }, 1000);
+    }
+
+    async function fetchAll(resetInterval = false) {
+      setError('');
+      setInfo(state.info);
+      state.translationAttempted = false;
+      state.translationSucceeded = false;
+
+      state.loadingJP = true;
+      state.loadingWorld = true;
+      $('jpLoading').classList.remove('hidden');
+      $('worldLoading').classList.remove('hidden');
+      $('jpTicker').classList.add('hidden');
+      $('worldTicker').classList.add('hidden');
+
+      const errors = [];
+
       try {
-        reloadBtn.disabled = true;
-        await initTranslator();
-        await loadData();
-        render();
-      } catch (e) {
-        setError(e.message || "再読込に失敗しました");
+        const jp = await fetchTopHeadlines('japan', state.category);
+        state.japanArticles = jp;
+        mountTicker('japan', state.japanArticles);
+      } catch (err) {
+        state.japanArticles = [];
+        mountTicker('japan', []);
+        errors.push(`🇯🇵 ${err?.message || '取得失敗'}`);
       } finally {
-        reloadBtn.disabled = false;
+        state.loadingJP = false;
       }
-    });
 
-    modeSelect.addEventListener("change", () => {
-      state.mode = modeSelect.value;
-      localStorage.setItem("news_mode", state.mode);
-      render();
-    });
-    countSelect.addEventListener("change", () => {
-      state.count = Number(countSelect.value);
-      localStorage.setItem("news_count", String(state.count));
-      render();
-    });
-    speedRange.addEventListener("input", () => {
-      state.speed = Number(speedRange.value);
-      localStorage.setItem("news_speed", String(state.speed));
-      render();
-    });
+      await sleep(GNEWS_DELAY_MS);
 
-    document.getElementById("closeModal").addEventListener("click", () => document.getElementById("modal").classList.remove("show"));
-    document.getElementById("modal").addEventListener("click", (e) => { if (e.target.id === "modal") e.currentTarget.classList.remove("show"); });
-
-    (async () => {
       try {
-        await initTranslator();
-        await loadData();
-        render();
-      } catch (e) {
-        setError(e.message || "初期化に失敗しました");
+        const world = await fetchTopHeadlines('world', state.category);
+        const translated = await translateWorldArticlesIfPossible(world);
+        state.worldArticles = translated.map((item, i) => ({ ...item, index: i + 1, total: translated.length }));
+        mountTicker('world', state.worldArticles);
+      } catch (err) {
+        state.worldArticles = [];
+        mountTicker('world', []);
+        errors.push(`🌍 ${err?.message || '取得失敗'}`);
+      } finally {
+        state.loadingWorld = false;
       }
-    })();
+
+      const now = new Date();
+      state.lastUpdated = now;
+      state.nextUpdate = new Date(now.getTime() + FETCH_INTERVAL);
+      updateStatusBar();
+      requestAnimationFrame(updateTopChromeHeight);
+
+      if (errors.length) setError(errors.join(' / '));
+
+      if (resetInterval) {
+        if (state.refreshTimer) clearInterval(state.refreshTimer);
+        state.refreshTimer = setInterval(() => fetchAll(false), FETCH_INTERVAL);
+      }
+    }
+
+    async function startApp() {
+      state.gnewsKey = $('gnewsKey').value.trim();
+      state.maxResults = Number($('maxResults').value || '10');
+      if (!state.gnewsKey) {
+        setError('GNews APIキーを入力してください。');
+        return;
+      }
+
+      saveConfig();
+      $('maxResultsMain').value = String(state.maxResults);
+      $('viewModeSelect').value = state.viewMode;
+      $('startScreen').classList.add('hidden');
+      $('mainScreen').classList.remove('hidden');
+      state.started = true;
+
+      renderCategoryChips();
+      updateTranslationStatusUI();
+      await prepareTranslatorFromUserAction();
+      requestAnimationFrame(updateTopChromeHeight);
+      startCountdown();
+      await fetchAll(true);
+      requestAnimationFrame(updateTopChromeHeight);
+    }
+
+    function bindEvents() {
+      $('startBtn').addEventListener('click', startApp);
+      $('refreshBtn').addEventListener('click', async () => {
+        if (!state.started) return;
+        if (state.refreshTimer) clearInterval(state.refreshTimer);
+        await fetchAll(true);
+      });
+      $('speedRange').addEventListener('input', (e) => {
+        state.speed = Number(e.target.value);
+      });
+      $('viewModeSelect').addEventListener('change', (e) => {
+        state.viewMode = e.target.value === 'vertical' ? 'vertical' : 'horizontal';
+        saveConfig();
+        applyViewMode();
+      });
+      $('toggleHeaderBtn').addEventListener('click', () => {
+        if (state.viewMode !== 'vertical') {
+          state.viewMode = 'vertical';
+          $('viewModeSelect').value = 'vertical';
+          saveConfig();
+          applyViewMode();
+        }
+        const nextCollapsed = !state.uiCollapsed;
+        setUICollapsed(nextCollapsed);
+        $('toggleHeaderBtn').textContent = nextCollapsed ? 'ヘッダー表示' : 'ヘッダー非表示';
+        if (!nextCollapsed) {
+          scheduleVerticalUICollapse(4000);
+        } else {
+          clearUIHideTimer();
+        }
+      });
+      $('topChrome').addEventListener('mousemove', () => revealVerticalUI());
+      $('topChrome').addEventListener('mouseenter', () => revealVerticalUI());
+      $('topChrome').addEventListener('touchstart', () => revealVerticalUI(), { passive: true });
+      document.addEventListener('mousemove', (e) => {
+        if (state.viewMode === 'vertical' && e.clientY <= 96) revealVerticalUI();
+      });
+      document.addEventListener('touchstart', (e) => {
+        if (state.viewMode !== 'vertical') return;
+        const touch = e.touches && e.touches[0];
+        if (touch && touch.clientY <= 96) revealVerticalUI();
+      }, { passive: true });
+      $('maxResultsMain').addEventListener('change', async (e) => {
+        const next = Number(e.target.value || '10');
+        if (next === state.maxResults) return;
+        state.maxResults = next;
+        $('maxResults').value = String(next);
+        saveConfig();
+        if (!state.started) return;
+        if (state.refreshTimer) clearInterval(state.refreshTimer);
+        await fetchAll(true);
+      });
+      $('closeModal').addEventListener('click', closeModal);
+      $('modal').addEventListener('click', (e) => {
+        if (e.target === $('modal')) closeModal();
+      });
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') closeModal();
+      });
+      window.addEventListener('resize', () => {
+        requestAnimationFrame(updateTopChromeHeight);
+      });
+      window.addEventListener('orientationchange', () => {
+        requestAnimationFrame(updateTopChromeHeight);
+      });
+      window.addEventListener('resize', () => requestAnimationFrame(updateTopChromeHeight));
+      window.addEventListener('beforeunload', () => {
+        stopAnimators();
+        if (state.refreshTimer) clearInterval(state.refreshTimer);
+        if (state.countdownTimer) clearInterval(state.countdownTimer);
+        clearUIHideTimer();
+        if (state.translator && typeof state.translator.destroy === 'function') {
+          try { state.translator.destroy(); } catch (_) {}
+        }
+      });
+    }
+
+    loadConfig();
+    bindEvents();
+    renderCategoryChips();
+    $('maxResultsMain').value = String(state.maxResults);
+    $('viewModeSelect').value = state.viewMode;
+    applyViewMode();
+    requestAnimationFrame(updateTopChromeHeight);
+    updateTranslationStatusUI();
   </script>
 </body>
 </html>
