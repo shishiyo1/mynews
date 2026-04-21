@@ -3,7 +3,7 @@ name: Update news.json
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "* */3 * * *"
 
 jobs:
   update-news:
