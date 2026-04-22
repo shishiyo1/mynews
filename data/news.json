@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-04-22T07:51:00.655Z",
+  "updatedAt": "2026-04-22T10:20:11.540Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "異例のVAR介入に救われた町田、ACLエリート初挑戦初制覇に王手!! 16強から驚異の全試合無失点、前回王者との最終決戦へ",
-          "description": "[4.21 ACLE準決勝 町田 1-0 シャバブ・アルアハリ ジッダ]　AFCチャンピオンズリーグエリート(ACLE)は21日、準決勝を行い、アジア初挑戦のFC町田ゼルビアがシャバブ・アルアハリ(UAE)を1-0で破った。負傷明け...",
-          "url": "https://web.gekisaka.jp/news/acl/detail/?449919-449919-fl",
+          "title": "鉄道マンの誇りが揺らいだ大惨事 あれから21年、教壇で再出発",
+          "description": "あの日、人生は大きな分岐点を迎えた。 　乗客ら107人が死亡、重軽傷者は562人。未曽有の事故を前に、鉄道マンとしての誇りは揺らいだ。 　「自分だからこそ、伝えられることがある」。あれから21年。自問自答を重ねてきた元JR西日本社員の吉田裕さん（53）はいま、大学教授として教壇に立っている。",
+          "url": "https://mainichi.jp/articles/20260421/k00/00m/040/152000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-04-21T22:00:00Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/04/21/20260421k0000m040153000p/0c10.jpg?1",
+          "language": "ja"
+        },
+        {
+          "title": "浜田雅功の新番組がテレ朝で、ヒロド歩美とアスリートの幸福度紐解く「ウルッときてヤバかった」（コメントあり）",
+          "description": "テレビ朝日で、ダウンタウン浜田雅功の冠番組「浜田雅功とアスリート幸福論」が誕生。その第1弾が5月17日（日）に放送される。この番組はトップアスリートとして活躍したゲストが人生を幸福度で表した“幸福度グラフ”を用い、テレビ朝...",
+          "url": "https://natalie.mu/owarai/news/669205",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-04-21T22:00:00Z",
+          "image": "https://ogre.natalie.mu/media/news/owarai/2026/0421/koufukuron_01.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
+        {
+          "title": "浜田雅功、２６年ぶりテレ朝で冠番組 “格付けコンビ”ヒロド歩美アナとタッグ「浜田雅功とアスリート幸福論」５・１７放送",
+          "description": "「ダウンタウン」浜田雅功の冠番組「浜田雅功とアスリート幸福論」の第１弾が５月１７日午後１時５５分からテレビ朝日系で放送されることが２２日、分かった。浜田にとってテレ朝での冠番組は「浜ちゃんのこれが聖",
+          "url": "https://hochi.news/articles/20260421-OHT1T51257.html",
+          "source": {
+            "name": "スポーツ報知"
+          },
+          "publishedAt": "2026-04-21T22:00:00Z",
+          "image": "https://hochi.news/images/2026/04/21/20260421-OHT1I51359-L.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "綾野剛が映画「mentor」で物語の鍵を握るメンターに、磯村勇斗＆末澤誠也と共演",
+          "description": "磯村勇斗と末澤誠也（Aぇ! group）がダブル主演を務める映画「mentor（メンター）」の公開日が10月16日に決定。綾野剛が物語の鍵を握る埜本潤（のもとじゅん）を演じていることが明らかに。あわせてティザービジュアルと予告編が解禁...",
+          "url": "https://natalie.mu/eiga/news/669158",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-04-21T22:00:00Z",
+          "image": "https://ogre.natalie.mu/media/news/eiga/2026/0421/mentor_poster.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
+        {
+          "title": "西日本は夜は雨 北日本は急な雨や雷雨 広範囲で黄砂 今日4月22日(水)の天気",
+          "description": "今日4月22日(水)は、本州付近は高気圧に覆われおおむね晴れますが、西日本は夜から雨で、東日本は午後から雲が広がるでしょう。北日本は急な雨や雷雨、黄砂にも注意が必要です。",
+          "url": "https://tenki.jp/forecaster/s_ono/2026/04/22/38642.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-04-21T21:52:53Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/386/38642/main/20260422063608/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "米国株式市場＝続落、中東紛争懸念が堅調な決算への楽観打ち消す",
+          "description": "米国株式市場は続落して取引を終えた。序盤には上昇していたが、中東紛争を巡る懸念が再燃し、堅調な企業決算への楽​観を打ち消した。",
+          "url": "https://jp.reuters.com/markets/japan/TFAHKELAIBMF3FVZTFRSL4DX7M-2026-04-21/",
+          "source": {
+            "name": "Reuters"
+          },
+          "publishedAt": "2026-04-21T21:33:25Z",
+          "image": "https://www.reuters.com/resizer/v2/TT3OPXJWNBJEZAHXEO6ZQPZUNU.jpg?auth=c00002fff755047e0b26d6e1c99e25833da15a20f246788d7747e74e08c918a8&height=1005&width=1920&quality=80&smart=true",
+          "language": "ja"
+        },
+        {
+          "title": "三笘薫が5試合ぶり先発復帰、華麗タッチからのボレーは惜しくも枠外…ブライトンはチェルシー破って暫定6位に浮上",
+          "description": "[4.21 プレミアリーグ第34節 ブライトン 3-0 チェルシー]　ブライトンは21日、プレミアリーグ第34節でチェルシーに3-0で勝利して暫定6位に浮上した。前節途中出場で途中交代のMF三笘薫は問題なくメンバー入りする...",
+          "url": "https://web.gekisaka.jp/news/world/detail/?449924-449924-fl",
           "source": {
             "name": "gekisaka.jp"
           },
-          "publishedAt": "2026-04-21T18:20:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/450000/449919/news_449919_1.jpg?time=20260422041940",
+          "publishedAt": "2026-04-21T20:54:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/450000/449924/news_449924_1.jpg?time=20260422055404",
           "language": "ja"
         },
         {
-          "title": "イラン、米協議参加まだ未定 バンス氏訪問見送りか 停戦期限控え混迷",
-          "description": "イランは２１日、パキスタンの首都イスラマバードで予定される米国との協議に参加するか最終決定していないと発表した。トランプ米大統領は停戦を延長するつもりはないと述べており、停戦期限切れが迫る中、不​透明感が強まっている。",
-          "url": "https://jp.reuters.com/markets/commodities/SAD7DWKKXBL5FMDZJWHCDKXAJM-2026-04-21/",
+          "title": "町田ACLE決勝進出の立役者・相馬勇紀、復帰即先発を支えた黒田監督の言葉「僕はそれに応えたくて…」",
+          "description": "[4.21 ACLE準決勝 町田 1-0 シャバブ・アルアハリ ジッダ]　サウジアラビアでのファイナルステージ初陣となった準々決勝アルイテハド戦は負傷欠場——。準決勝に照準を合わせて帰ってきたFC町田ゼルビアのMF相馬...",
+          "url": "https://web.gekisaka.jp/news/acl/detail/?449923-449923-fl",
           "source": {
-            "name": "Reuters"
+            "name": "gekisaka.jp"
           },
-          "publishedAt": "2026-04-21T17:50:48Z",
-          "image": "https://www.reuters.com/resizer/v2/K52X4GLGWNO2BMBNAQBV2W452E.jpg?auth=2a12a34ef231869fd776a47addf271cb6bb2fe7c767d92025fe3424d4d31a748&height=1005&width=1920&quality=80&smart=true",
+          "publishedAt": "2026-04-21T20:51:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/450000/449923/news_449923_1.jpg?time=20260422055124",
           "language": "ja"
         },
         {
-          "title": "『ディアブロ IV』第2弾DLC『憎悪の帝王』先行プレイ！新クラス“ウォーロック＆パラディン”に釣りまで追加、物語もハクスラもさらに濃密に",
-          "description": "ここまで“続きが見たい”と思わされた『ディアブロ』は初めて。",
-          "url": "https://www.gamespark.jp/article/2026/04/22/165485.html",
+          "title": "22日も黄砂飛来 視程悪化のおそれ 花粉と重なり体調・生活への影響に注意",
+          "description": "今日22日も昨日21日に続き、広い範囲で黄砂の飛来が予想されています。空がかすんだり、交通への影響が出る可能性もあります。さらにまだ花粉が飛散している地域もあり、体調や生活への影響に注意が必要です。",
+          "url": "https://tenki.jp/forecaster/s_ono/2026/04/22/38641.html",
           "source": {
-            "name": "Game*Spark"
+            "name": "tenki.jp"
           },
-          "publishedAt": "2026-04-21T16:00:09Z",
-          "image": "https://www.gamespark.jp/imgs/ogp_f/1119134.png",
+          "publishedAt": "2026-04-21T20:43:44Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/386/38641/main/20260422053725/large.jpg",
           "language": "ja"
         },
         {
-          "title": "米小売売上高、3月は25年3月以来の伸び ガソリン価格高騰が押し上げ",
-          "description": "米商務省が２１日発表した３月の小売売上高（季節調整済み）は、前月比１．７％増加し、伸びは２０２５年３月以来の大きさとなった。ロイター​がまとめたエコノミスト予想（１．４％増）も上回った。対イラン戦争に伴いガ‌ソリン価格が上昇しガソリンスタンドの売上高が増加したほか、税還付金が他の分野での消費を下支えしたことが背景にある。堅調な小売売上高はインフレデータとともに、連邦準備理事​会（ＦＲＢ）が当面金利を据え置くことを示唆する内容となった。",
-          "url": "https://jp.reuters.com/markets/japan/YLLU2BDAGVOLZJKZQDS37QVWJQ-2026-04-21/",
+          "title": "「負け犬の遠吠えだ」「馬鹿げたクレーム」カブス監督が「大谷ルール」に「奇妙」と文句をつけロバーツ監督が「大谷のような選手を見つけてくれば」と反論した問題を巡りSNSで大論争が起きる（RONSPO）",
+          "description": "ドジャースの大谷翔平（31）が、投手とカウントされずロースター登録されている通称「大谷ルール」に対してカブスのクレイグ・カウンセル監督（55）が「奇妙だ」とクレームをつけ、デーブ・ロバーツ監督（53",
+          "url": "https://news.yahoo.co.jp/articles/edcac461f41b755323a167e112393f214e953e52",
           "source": {
-            "name": "Reuters"
+            "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-04-21T14:41:00Z",
-          "image": "https://www.reuters.com/resizer/v2/5M7I7FTLFRIUNEWUAT42OKDLQA.jpg?auth=ea3efd8d354db0ce38abba9b7f5deefd9d5fd19f9264fb96188b50621e65d1df&height=1005&width=1920&quality=80&smart=true",
-          "language": "ja"
-        },
-        {
-          "title": "宮本茂氏もサプライズで登壇。映画『ザ・スーパーマリオギャラクシー・ムービー』日本語版プレミアム試写会リポート。「頼もしく成長したマリオブラザーズの冒険を楽しんでほしい」（宮野真守さん）",
-          "description": "2026年4月24日より公開予定の映画『ザ・スーパーマリオギャラクシー・ムービー』。その日本語版プレミアム試写会の模様をリポート。",
-          "url": "https://www.famitsu.com/article/202604/72651",
-          "source": {
-            "name": "ファミ通"
-          },
-          "publishedAt": "2026-04-21T14:34:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/72651/thumbnail_CmAZ.JPG?x=1280",
-          "language": "ja"
-        },
-        {
-          "title": "『トップガン 40th Anniversary』が、トップガンの日である5月13日から21日の9日間限定で上映決定",
-          "description": "4月21日、映画『トップガン』公式は、『トップガン 40th Anniversary』の上映を発表した。\n同企画は、『トップガン』1作目の公開から40周年を迎える2026年に、トップガンの日である5月13日から9日間限定で、『トップガン』、『トップガン マーヴェリック』を上映するというものだ。発表にあわせて、両作の名シーンをまとめた予告編PVも公開されている。",
-          "url": "https://news.denfaminicogamer.jp/news/2604212t",
-          "source": {
-            "name": "電ファミニコゲーマー"
-          },
-          "publishedAt": "2026-04-21T14:13:00Z",
-          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/029eca9285b01ca07bc6940c4dee1775-691x1024.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "実はカビだらけ？ 知らなかった国際宇宙ステーションのアレコレ",
-          "description": "2024年1月27日の記事を編集して再掲載しています。2024年、国際宇宙ステーション（ISS）がテーマの映画『I.S.S.』とApple TV+のドラマ『コンステレーション』が公開。ますます宇宙への関心が高まりました。とはいえ国際宇宙ステーションと聞いても、宇宙の中継地点とか、いろんな研究をする場所、というざっくりとしたイメージしかないかもしれません。国際宇宙ステ",
-          "url": "https://www.gizmodo.jp/2026/04/13-things-you-didnt-know-about-the-international-space-jpn-4xp.html",
-          "source": {
-            "name": "ギズモード・ジャパン"
-          },
-          "publishedAt": "2026-04-21T14:00:00Z",
-          "image": "https://media.loom-app.com/gizmodo/dist/images/2024/01/24/49ff2e762b394af209f301ccc7aa6c59.jpg?w=1280&h=630&f=jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「トップガン 40th Anniversary」“トップガンの日”5月13日から9日間限定上映が決定！ スペシャルポスター＆予告編を披露",
-          "description": "トム・クルーズ主演の人気シリーズ「トップガン」の公開40周年を記念して、「トップガン」と「トップガンマーヴェリック」の興奮を再び劇場で味わえる「トップガン40thAnniversary」が、5月13日から9日間限定で上映されることが分かった",
-          "url": "https://eiga.com/news/20260421/30/",
-          "source": {
-            "name": "映画.com"
-          },
-          "publishedAt": "2026-04-21T13:01:10Z",
-          "image": "https://media.eiga.com/images/buzz/125847/fd66daa50661980b.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "《SHINJOの信条》かみ合ってくる時が来るから。そしたらもう４５連勝ぐらいしたい",
-          "description": "北海道日本ハムファイターズ、コンサドーレ札幌、レバンガ北海道などをはじめとする道内プロ・アマスポーツのニュースや話題を中心に、道新スポーツ記者のコラムなどのサイト限定記事も掲載します。",
-          "url": "https://www.doshinsports.com/article_detail/id=24821",
-          "source": {
-            "name": "道新スポーツ"
-          },
-          "publishedAt": "2026-04-21T12:37:51Z",
-          "image": "https://www.doshinsports.com/files/topics/24821_ext_01_0.png?v=1776780777",
-          "language": "ja"
-        },
-        {
-          "title": "『サイバーパンク』も4Kでイケる。VRAM16GB積みコンソール、出ます|au Webポータル",
-          "description": "Image: Playnix OSはLinuxベースのPlaynixOS。つまりSteam Deckのデスクトップ版みたいなやつ。「Playnix Console」のお値段は 1,179ユーロ（約22",
-          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260421_1776775484169065",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-04-21T12:00:00Z",
-          "image": "https://portal.st-img.jp/thumb/bd2b9669e1908987ce73734e0a8c77ad_1776775484_l.jpg",
+          "publishedAt": "2026-04-21T20:31:22Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-00010000-ronspo-000-2-view.jpg?exp=10800",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Rising star to testify in 'nightmarish' feud with Rebel Wilson",
-          "description": "An up-and-coming actor is set to testify in her defamation battle against Hollywood star Rebel Wilson over social media posts she claims painted her as a liar.",
-          "url": "https://www.1news.co.nz/2026/04/22/rising-star-to-testify-in-nightmarish-feud-with-rebel-wilson/",
-          "source": {
-            "name": "1News"
-          },
-          "publishedAt": "2026-04-21T19:50:41Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/charlotte-macinnes-c-arrives-at-federal-court-in-sydney-E7VPZIQVTJANBFLO5SWK4YVJ5Y.jpg?auth=e9dd72dbc0552a065ef1a6a66074de4f7627a19e3bd2ca95b72f1530b8d321cd&quality=70&width=600&height=315&focal=470%2C86",
-          "language": "en"
-        },
-        {
-          "title": "‘Using bail to cage Nigerians is unjust’ - Sowore criticises delay in el-Rufai's bail hearing",
-          "description": "Omoyele Sowore, human rights activists, has criticised the delay in the bail hearing for Nasir el-Rufai, former governor of Kaduna at the state high court.",
-          "url": "https://www.thecable.ng/using-bail-to-cage-nigerians-is-unjust-sowore-criticises-delay-in-el-rufais-bail-hearing/",
-          "source": {
-            "name": "TheCable"
-          },
-          "publishedAt": "2026-04-21T19:49:31Z",
-          "image": "https://www.thecable.ng/wp-content/uploads/2024/02/Sowore-e1758106609185.jpg",
-          "language": "en"
-        },
-        {
-          "title": "US aid cuts undermine HIV prevention in South Africa, report finds",
-          "description": "JOHANNESBURG, April 21 (Reuters) – U.S. funding cuts to South Africa have dismantled HIV prevention programmes just as they are needed to support the roll-out of the new prevention drug lenacapavir, a report said on Tuesday. South Africa has the world’s largest population of HIV-infected people, with about 8 million – one in five adults – living […]",
-          "url": "https://www.cnbcafrica.com/2026/us-aid-cuts-undermine-hiv-prevention-in-south-africa-report-finds",
-          "source": {
-            "name": "CNBC Africa"
-          },
-          "publishedAt": "2026-04-21T19:48:25Z",
-          "image": "https://cdn.cnbc.africa/wp-content/uploads/2026/04/OWO7WXR5BJNC7KFCF3FJ3YMH4E.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Israel marks its Memorial Day of mourning in the shadow of war",
-          "description": "Israelis have marked the country’s annual Memorial Day, a somber day of reflection with ceremonies and sirens.",
-          "url": "https://apnews.com/article/israel-war-gaza-memorial-dcf28223f7a0b9972dfe2bb3bd093794",
-          "source": {
-            "name": "AP News"
-          },
-          "publishedAt": "2026-04-21T19:48:14Z",
-          "image": "https://dims.apnews.com/dims4/default/0f70081/2147483647/strip/true/crop/8192x5459+0+3/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F39%2F9e%2Fcea3e7957cdc333980e7e09bfeef%2F34da385d167241dc815f7bf08ead57ba",
-          "language": "en"
-        },
-        {
-          "title": "I tried Honor's 'near unbreakable' mid range smartphone and it's changed my habits",
-          "description": "Honor focused on reliability, stamina and sleek ruggedness",
-          "url": "https://www.galwaybeo.ie/news/tried-honors-near-unbreakable-mid-10928403",
-          "source": {
-            "name": "Galway Beo"
-          },
-          "publishedAt": "2026-04-21T19:45:49Z",
-          "image": "https://i2-prod.galwaybeo.ie/article10928413.ece/ALTERNATES/s1200d/0_Honor-Magic-8-Lite.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Hudson-Odoi to miss the rest of Forest's season after undergoing surgery",
-          "description": "Nottingham Forest have five games remaining to retain their Premier League status, but must do so without Callum Hudson-Odoi.",
-          "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/hudson-odoi-to-miss-the-rest-of-forests-season-after-undergoing-surgery-2026-04-21",
-          "source": {
-            "name": "beIN SPORTS"
-          },
-          "publishedAt": "2026-04-21T19:44:09Z",
-          "image": "https://prod-media.beinsports.com/image/1776801603390_10b56276-7366-4afb-b58f-4b965c53fdf8.1080.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Ohio State Details Relationship that Led to Former President Walter Carter Jr.’s Resignation",
-          "description": "The university released a report that said the president, Walter Carter Jr., took trips with a podcaster and suggested that the university hire her.",
-          "url": "https://www.nytimes.com/2026/04/21/us/ohio-state-walter-carter-relationship-president-resignation.html",
-          "source": {
-            "name": "The New York Times"
-          },
-          "publishedAt": "2026-04-21T19:43:28Z",
-          "image": "https://static01.nyt.com/images/2026/04/21/multimedia/21nat-osu-vjfp/21nat-osu-vjfp-facebookJumbo.jpg",
-          "language": "en"
-        },
-        {
-          "title": "NASA's Wyche: Artemis Revolutionizes Space Exploration",
-          "description": "On March 21, 2026, NASA's Johnson Space Center Director Vanessa Wyche took the stage at the Space House event at South by Southwest in Austin, Texas",
-          "url": "https://www.miragenews.com/nasas-wyche-artemis-revolutionizes-space-1659388/",
+          "title": "Prediabetes Fat Cells May Hinder Post-Surgery Weight Loss",
+          "description": "Prediabetes may leave a lasting molecular \"footprint\" on adipose (fat) tissue which appears to make maintaining weight loss after bariatric surgery",
+          "url": "https://www.miragenews.com/prediabetes-fat-cells-may-hinder-post-surgery-1659471/",
           "source": {
             "name": "Mirage News"
           },
-          "publishedAt": "2026-04-21T19:43:00Z",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/04/vanessa-wyche-by-daniel-stoops.png?w=2048",
+          "publishedAt": "2026-04-21T22:18:00Z",
+          "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1517245386807-bb43f82c33c4%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
           "language": "en"
         },
         {
-          "title": "Fourth man charged over alleged kidnapping murder of Sydney grandfather Chris Baghsarian",
-          "description": "The 85-year-old's abduction triggered an 11-day search, with his remains later found near a golf course in Pitt Town, in the city's north-west.",
-          "url": "https://www.abc.net.au/news/2026-04-22/nsw-fourth-charged-over-chris-baghsarian-kidnapping-murder/106590888",
+          "title": "Cierra from Love Island was on track to win until old posts got her pulled from the villa",
+          "description": "What happened to Cierra from Love Island USA? Learn more about her age, background, career, and the real reason why she left the popular dating show.",
+          "url": "https://www.legit.ng/ask-legit/biographies/1706149-cierra-love-island-track-win-posts-pulled-villa/",
           "source": {
-            "name": "Australian Broadcasting Corporation"
+            "name": "Legit.ng"
           },
-          "publishedAt": "2026-04-21T19:41:59Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/29dd18e36364de9f4a385c55b271d71c?impolicy=wcms_watermark_news&cropH=128&cropW=227&xPos=0&yPos=7&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-04-21T22:17:50Z",
+          "image": "https://cdn.legit.ng/images/1200x675/6f269763cfca136b.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "Person killed in car and truck crash, part of SH1 closed between Tokoroa and Taupō",
-          "description": "A person has been killed in a crash between a car and a truck on State Highway 1 in Kinleith, in the central North Island. The crash has closed a section of...",
-          "url": "https://www.nzherald.co.nz/nz/serious-crash-closes-sh1-between-tokoroa-and-taupo/JIWLASVHNVEIRFLDCEQ6MJVKIU/",
+          "title": "Iran dismisses US ‘ploy’ after Donald Trump extends ceasefire ‘indefinitely’",
+          "description": "But United States military blockades of Strait of Hormuz to remain",
+          "url": "https://www.irishtimes.com/world/middle-east/2026/04/21/iran-dismisses-us-ploy-after-donald-trump-extends-ceasefire-indefinitely/",
           "source": {
-            "name": "NZ Herald"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-04-21T19:41:15Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/O7AJRNVE5JFPFOXZI7PLCENUFY.png?auth=1168defc2a3f4232e54445cf1c534b4b6e12c2f6bcfe914bba155e8fbfe8e027&width=1200&height=675&quality=70&smart=true",
+          "publishedAt": "2026-04-21T22:16:22Z",
+          "image": "https://www.irishtimes.com/resizer/v2/SFRLJE6IVDSZT7RCP3KHKHIAPI.jpg?smart=true&auth=e86ef4dffd875ec8774771aac0846cd061fe4087f6ced019806e158d1daee401&width=1200&height=630",
+          "language": "en"
+        },
+        {
+          "title": "Stock Market Today: Dow, S&P Live Updates for April 22",
+          "description": "US equity-index futures climbed and the dollar edged lower after President Donald Trump said he would extend the ceasefire with Iran, spurring cautious optimism among investors.",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-21/stock-market-today-dow-s-p-live-updates",
+          "source": {
+            "name": "Bloomberg.com"
+          },
+          "publishedAt": "2026-04-21T22:13:53Z",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isD9cSbNx4R8/v0/1200x675.png",
+          "language": "en"
+        },
+        {
+          "title": "Liam Rosenior: Furious Chelsea boss questions team's desire",
+          "description": "Chelsea boss Liam Rosenior strongly criticises his players after they suffer a fifth loss in a row without scoring for first time since 1912.",
+          "url": "https://www.bbc.com/sport/football/articles/cre1r39xr51o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-04-21T22:12:46Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f444/live/619c0180-3dcd-11f1-82d4-e729589e9fe9.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Girl, three, killed after being struck by ute in south-east Queensland",
+          "description": "The Forensic Crash Unit is now investigating after a Nissan Navara utility hit the child while turning righ...",
+          "url": "https://www.9news.com.au/national/caboolture-three-year-old-girl-killed-by-ute/e7ce3c9b-f8fe-4cd2-9f82-5df83385a563",
+          "source": {
+            "name": "9News"
+          },
+          "publishedAt": "2026-04-21T22:11:27Z",
+          "image": "https://imageresizer.static9.net.au/1Pe2HkUPOcybqxRBts75S4O90-A=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fb7315c05-f9ba-4077-b8c0-e2bf9cc1d9b7",
+          "language": "en"
+        },
+        {
+          "title": "‘Deserve this chance’: QLD unveil three debutants for women’s Origin series opener",
+          "description": "‘Deserve this chance’: QLD unveil three debutants for women’s Origin series opener",
+          "url": "https://www.foxsports.com.au/nrl/state-of-origin/state-of-origin-2026-queensland-maroons-womens-team-announcement-debutants-players-dropped-tamika-upton-news-videos-highlights/news-story/552147f6a6e503e70b4d8deb0f42f1a0",
+          "source": {
+            "name": "Fox Sports"
+          },
+          "publishedAt": "2026-04-21T22:10:55Z",
+          "image": "https://content.api.news/v3/images/bin/34fc5a6bcafce9428c2633957193982a",
+          "language": "en"
+        },
+        {
+          "title": "Hotpot, bubble tea and sportswear: China's new exports take on the world",
+          "description": "Made in China used to mean cheap, mass-produced goods but a new wave of Chinese brands is emerging.",
+          "url": "https://www.bbc.co.uk/news/articles/crr1ln1575lo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-04-21T22:10:22Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/88d6/live/163e6770-3a4c-11f1-9d5c-8ba507d7dbde.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Premier League: Brighton outclass woeful Chelsea in 3-0 drubbing",
+          "description": "Brighton decisively beats Chelsea 3-0, climbing to sixth in the Premier League as Chelsea's struggles continue.",
+          "url": "https://www.thehindu.com/news/national/premier-league-brighton-outclass-woeful-chelsea-in-3-0-drubbing/article70890474.ece",
+          "source": {
+            "name": "The Hindu"
+          },
+          "publishedAt": "2026-04-21T22:10:00Z",
+          "image": "https://th-i.thgim.com/public/incoming/sayki1/article70890475.ece/alternates/LANDSCAPE_1200/Britain_Premier_League_Soccer_1_523.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Apple promotes chip lead Srouji as it corners silicon in iPhones, Macs",
+          "description": "With the promotion of silicon head Johny Srouji to hardware boss, Apple is showing urgency its its effort to make custom chips for all iPhones and Macs.",
+          "url": "https://www.cnbc.com/2026/04/21/apple-promotes-chip-lead-srouji-as-it-corners-silicon-in-iphones-macs.html",
+          "source": {
+            "name": "CNBC"
+          },
+          "publishedAt": "2026-04-21T22:08:12Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108294368-1776753279890-Johny_Srouji_November_14_2023.png?v=1776753427&w=1920&h=1080",
           "language": "en"
         }
       ]
