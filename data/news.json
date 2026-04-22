@@ -1,10 +1,109 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-04-22T16:09:43.119Z",
+  "updatedAt": "2026-04-22T19:16:42.875Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "日経平均は3日続伸、中東懸念後退で最高値 ＡＩ・半導体株高い",
+          "description": "東京株式市場で日経平均は３日続伸し、前営業日比２３６円６９銭高の５万９５８５円８６銭で取引を終えた。中東情勢を巡る過度な警戒感が和らいだことを受けて、指数寄与度の大きいＡＩ（人工知能）・半導体​株の一角に買いが入り、相場を押し上げた。日経平均は取引時間中・終値ベ‌ースともに最高値を更新した。一方、プライム市場では８割超の銘柄が値下がりし、相場全体に買いが広がる展開にはならなかった。",
+          "url": "https://jp.reuters.com/markets/japan/VXIU4FM7PNMRPHVDQ43DR44MJU-2026-04-22/",
+          "source": {
+            "name": "Reuters"
+          },
+          "publishedAt": "2026-04-22T07:08:39Z",
+          "image": "https://www.reuters.com/resizer/v2/D2NE4C4LO5L6JN2X57F4ZDFDFQ.jpg?auth=d42a35e4458b6604a7a82eef138c3db79e2f0544a0905f152c94f78982e5890f&height=1005&width=1920&quality=80&smart=true",
+          "language": "ja"
+        },
+        {
+          "title": "トランプ氏、イランとの停戦延長を発表 議論の結論出るまでと",
+          "description": "アメリカのドナルド・トランプ大統領は21日、イランとの停戦を延長すると発表した。仲介国パキスタンの要請を受けたもので、和平に向けたイランの統一案が出され、議論の結論が出るまでとしている。イランの港湾に出入りする船舶に対する封鎖措置は継続するという。",
+          "url": "https://www.bbc.com/japanese/articles/cn53dg52n5no",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-04-22T06:46:10Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_japanese/bd18/live/6d9024f0-3dee-11f1-9aec-bb722aee3160.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Xbox Game Pass Ultimateの価格が月額2,750円→1,550円へと値下げ マイクロソフト「私たちが耳を傾けてきたフィードバックに応えるもの」",
+          "description": "マイクロソフトがXbox Game Pass UltimateとPC Game Passの価格改定を発表。Ultimateは月額2,750円から1,550円へ、PC Game Passは1,550円から1,300円へ値下げされる。一方で『Call of Duty』新作は発売初日での追加対象外となる。",
+          "url": "https://realsound.jp/tech/2026/04/post-2375120.html",
+          "source": {
+            "name": "Real Sound｜リアルサウンド"
+          },
+          "publishedAt": "2026-04-22T06:34:56Z",
+          "image": "https://realsound.jp/wp-content/uploads/2026/04/20260422-xboxgamepass-99.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「CAPCOM GOLDEN WEEK SALE」開催！ 大型連休にプレイしたいゲームを探しているなら今がチャンス！ カプコン人気タイトルのゲーム本編、追加コンテンツがお買い得！",
+          "description": "株式会社カプコンのプレスリリース（2026年4月22日 15時28分）「CAPCOM GOLDEN WEEK SALE」開催！　大型連休にプレイしたいゲームを探しているなら今がチャンス！　カプコン人気タイトルのゲーム本編、追加コンテンツがお買い得！",
+          "url": "https://prtimes.jp/main/html/rd/p/000005746.000013450.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-04-22T06:28:52Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/13450/5746/13450-5746-1632d6737ff33343860c200a8b80c65c-902x319.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "レバノンでキリスト像を破壊したイスラエル兵、30日間の軍事拘留に",
+          "description": "レバノン南部で、イエス・キリストの像をイスラエル兵が大型ハンマーで破壊した問題で、イスラエル国防軍（IDF）は21日、像を破壊した兵士と、その様子を撮影した兵士を、30日間の軍事拘留に処すると発表した。",
+          "url": "https://www.bbc.com/japanese/articles/c208v25v5z7o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-04-22T06:23:15Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_japanese/15d1/live/88d1cc10-3d98-11f1-92e4-6b980ce20915.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ユニバーサル・スタジオ・ジャパン 夏イベント開催決定２５周年の夏の夜を一新します！新サマー・エンターテイメント『ユニバーサル・サマー・マツリ・ナイト ～ネオン・グロウアップ～』７月１日誕生！",
+          "description": "合同会社ユー・エス・ジェイのプレスリリース（2026年4月22日 14時02分）ユニバーサル・スタジオ・ジャパン　夏イベント開催決定２５周年の夏の夜を一新します！新サマー・エンターテイメント『ユニバーサル・サマー・マツリ・ナイト ～ネオン・グロウアップ～』７月１日誕生！",
+          "url": "https://prtimes.jp/main/html/rd/p/000000827.000005761.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-04-22T05:02:26Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/5761/827/5761-827-9c63278dcdfcc9dfae8462d92bbd6bb4-1200x800.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "中東情勢、習氏のダメージ 識者語るGゼロ時代のニューノーマル",
+          "description": "世界情勢が混乱する中、中国の動向が気になる。米国とイスラエルによる対イラン軍事作戦から始まった石油の供給不安は、中国にどう響いているか。5月に迫る米中首脳会談の行方は。冷え込む日中関係に光は差すか。中国の経済や社会事情に詳しい東京財団の柯隆・主席研究員に聞いた。【聞き手・宇田川恵】",
+          "url": "https://mainichi.jp/articles/20260422/k00/00m/020/039000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-04-22T05:00:00Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/04/22/20260422ddm004070111000p/0c10.jpg?3",
+          "language": "ja"
+        },
+        {
+          "title": "『ペルソナ5 ザ・ロイヤル』が80%オフの1535円と過去最安値に。アトラスのPS、Switch向けDLソフトがお得に買えるGW",
+          "description": "『ユニコーンオーバーロード』『十三機兵防衛圏』『メタファー：リファンタジオ』も50%オフに。連休を費やして遊びたいタイトルがラインナップ",
+          "url": "https://news.denfaminicogamer.jp/news/260422u",
+          "source": {
+            "name": "電ファミニコゲーマー"
+          },
+          "publishedAt": "2026-04-22T04:35:00Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/8d13976baba0bc4e68ff3c609c1cb9c3.png",
+          "language": "ja"
+        },
+        {
+          "title": "「よかったので買い足しました」 KEYUCA（ケユカ）の“3WAYマグ”が大人気 「朝はコーヒー、夜はビール入れてる」「かわいいシルエットに一目惚れ」",
+          "description": "家具や生活雑貨を手がけ、シンプルな暮らしを提案するライフスタイルブランド「KEYUCA（ケユカ）」。日々の生活で活躍する、さまざまなアイテムを展開しています。　本記事では、ケユカから販売されている「pomaステンレスマグ 400ml」について紹介します。「pomaステンレスマグ 400ml」…",
+          "url": "https://nlab.itmedia.co.jp/research/articles/3816404/",
+          "source": {
+            "name": "ねとらぼ"
+          },
+          "publishedAt": "2026-04-22T03:20:00Z",
+          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/09/1757575960_IMG_9344.jpg",
+          "language": "ja"
+        },
         {
           "title": "外出中も、美のコンディションを保つ「BEAUTY日傘」 ReFa SUNIR SHADE（リファスニールシェード） 2026年5月25日（月）ReFa GINZAにて新発売",
           "description": "最新投稿日時:2026/04/22 12:16 - 「外出中も、美のコンディションを保つ「BEAUTY日傘」 ReFa SUNIR SHADE（リファスニールシェード） 2026年5月25日（月）ReFa GINZAにて新発売」（PR TIMES）",
@@ -15,216 +114,117 @@
           "publishedAt": "2026-04-22T03:16:57Z",
           "image": "https://prod-public-assets-minkabu.s3.amazonaws.com/news/article_media_content/urn%3Anewsml%3Aprtimes.jp%3A20260422%3A0f601f169f82c0048628118553c56eff/d29736-925-e390c63b5e55edc45c8e-0.jpg",
           "language": "ja"
-        },
-        {
-          "title": "安達優季容疑者は「ネグレクト家庭で育った」 母は祖母に安達容疑者を託し、姿を消し… 「脚の悪いおばあちゃんの面倒を見る優しい子だった」",
-          "description": "【全2回（前編／後編）の前編】\n　京都府南丹市の安達結希（ゆき）くん（11）が遺体で発見された事件で、逮捕された義父・安達優季容疑者（37）。いかなる事情や理由を本人が言おうと、決して許される罪で",
-          "url": "https://news.yahoo.co.jp/articles/1df28eeaf5261a94f05cb1675b742cd351db0eee",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-04-22T03:08:57Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-00010002-shincho-000-4-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "『ペルソナ５ ザ・ロイヤル』が過去最大80%OFF！アトラス「ゴールデンウイークセール」開催中",
-          "description": "株式会社セガのプレスリリース（2026年4月22日 12時07分）『ペルソナ５ ザ・ロイヤル』が過去最大80%OFF！アトラス「ゴールデンウイークセール」開催中",
-          "url": "https://prtimes.jp/main/html/rd/p/000007316.000005397.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-04-22T03:07:30Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/5397/7316/5397-7316-74ab0ba42db3ded2ff921abaebae5951-1200x630.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "総フォロワー数300万人超えの大人気キャラクターパペットスンスンがHappyくじに初登場！",
-          "description": "株式会社サニーサイドアップのプレスリリース（2026年4月22日 12時00分）総フォロワー数300万人超えの大人気キャラクターパペットスンスンがHappyくじに初登場！",
-          "url": "https://prtimes.jp/main/html/rd/p/000000066.000108253.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-04-22T03:00:02Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/108253/66/108253-66-3e21550a3570919ae0675c1cb3b81f74-3840x2160.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "焦点：日本で存在感増すアクティビスト、対話重視戦略で長期投資へ",
-          "description": "アクティビスト（物言う株主）たちはかつて冷ややかな対応を受けた日本市場で最近の相次ぐ成功に自信を深め、長期的な投資を計画している。",
-          "url": "https://jp.reuters.com/markets/japan/6B64ZUQHH5KAZJXBJISH6EPQ2Y-2026-04-22/",
-          "source": {
-            "name": "Reuters"
-          },
-          "publishedAt": "2026-04-22T02:39:00Z",
-          "image": "https://www.reuters.com/resizer/v2/AQVQHZT7VNKFPPDIHGOWCMLKJY.jpg?auth=2b894251946401bc10e56ebfbf0034ceb4cb01881ef028e96c9b4d676ccc26e8&height=1005&width=1920&quality=80&smart=true",
-          "language": "ja"
-        },
-        {
-          "title": "タグ・ホイヤー(TAG Heuer) 2026新作 多様なカラー、スピード、躍動感によって形作られてきたヘリテージを受け継ぐ「タグ・ホイヤー フォーミュラ1 ソーラーグラフ」にパステルシリーズが登場",
-          "description": "タグ・ホイヤー(TAG Heuer) 「2026新作 多様なカラー、スピード、躍動感によって形作られてきたヘリテージを受け継ぐ「タグ・ホイヤー フォーミュラ1 ソーラーグラフ」にパステルシリーズが登場」について詳しく紹介。正規販売店と腕時計の専門サイトGressive/グレッシブです。",
-          "url": "https://www.gressive.jp/brand/tag-heuer/news/333581",
-          "source": {
-            "name": "Gressive"
-          },
-          "publishedAt": "2026-04-22T02:30:25Z",
-          "image": "https://www.gressive.jp/sites/default/files/newsMainImage/title_2833.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ASCII.jp：ChatGPTの無料プランで障害発生",
-          "description": "OpenAIの「ChatGPT」で4月22日9時56分頃から、無料プランの一部ユーザーの会話関連機能に障害が発生。同日11時現在も継続中だ。",
-          "url": "https://ascii.jp/elem/000/004/397/4397042/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-04-22T02:16:00Z",
-          "image": "https://ascii.jp/img/2026/04/22/4456230/xl/09f520c27f90d85b.png?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "トランプ大統領また閣僚“更迭” 「戦争を始めない」破り若い世代に不満 MAGA派亀裂",
-          "description": "トランプ政権は、チャベスデレマー労働長官が辞任すると発表しました。複数のスキャンダルで調査を受けていて、事実上の更迭とみられます。イラン情勢を巡る過激な言動や政権幹部の相次ぐ解任で、トランプ大統領",
-          "url": "https://news.yahoo.co.jp/articles/6e6f258eeffc9f1cfd046c6a701f5738467375c5",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-04-22T01:57:16Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-90188943-ann-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "イランでの戦争による原油流出、衛星画像で確認 ペルシャ湾",
-          "description": "イランと米国、イスラエルによる攻撃で、ペルシャ湾地域の石油施設や船舶が被害を受ける中、海への油の流出が相次いでいる。海面に浮かぶ油が宇宙からも確認できる状態となり、専門家は差し迫った環境災害を警告している。",
-          "url": "https://www.cnn.co.jp/world/35246707.html",
-          "source": {
-            "name": "CNN"
-          },
-          "publishedAt": "2026-04-22T01:28:00Z",
-          "image": "https://www.cnn.co.jp/storage/2026/04/22/20d88df24eda2db4fe9aeeff17445a6e/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW83NWcyejgwMDAxM2I2cXdta3M2MHh1-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbzJ0bnBsMjAwMXgyNnA2Z2pnMTliajE_.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "北山宏光がシングル「ULTRA」に込めた想い、描く未来図",
-          "description": "2025年12月、株式会社ポニーキャニオンと株式会社TOBEの共同音楽レーベル「RED ON」へのレーベル移籍を発表した北山宏光（Hiromitsu Kitayama）さん。4月22日にリリースした、移籍第1弾作品「ULTRA」について、制作背景と楽曲に込めた想いを聞きました。また、ソロアーティストとしてのデビューから2年が過ぎ、現在――多岐にわたる活動がアーティスト・Hiromitsu Kitayamaにもたらすもの、そして、かなえたい夢とは。",
-          "url": "https://fan.books.rakuten.co.jp/articles/6919",
-          "source": {
-            "name": "推し楽"
-          },
-          "publishedAt": "2026-04-22T01:00:00Z",
-          "image": "https://books.r10s.jp/fan/images/oshiraku-images/20260319_oshiraku12470_ec0af4c999.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "HCL Tech, Infosys to TCS: IT stocks crash up to 10% today - What's behind the massive selloff?",
-          "description": "Shares of leading IT stocks witnessed a massive decline in the early morning trade on Wednesday, 22 April, after leading tech firm HCL Technologies' March quarter results and poor management commentary sparked a fresh selloff in the sector.",
-          "url": "https://www.livemint.com/market/stock-market-news/nifty-it-index-it-stocks-crash-up-to-9-as-hcl-tech-q4-results-disappoint-should-you-steer-clear-of-the-sector-11776830614367.html",
+          "title": "Relief to KCR as HC Junks Ghose Panel Report on Kaleshwaram",
+          "description": "The Telangana High Court on Wednesday granted major relief to Bharat Rashtra Samithi president and former Chief Minister K. Chandrashekar Rao in connection with the findings of the Justice P. C. Ghose Commission on alleged irregularities in the Kaleshwaram Lift Irrigation Project on the Godavari River.",
+          "url": "https://www.greatandhra.com/politics/telangana-news/relief-to-kcr-as-hc-junks-ghose-panel-report-on-kaleshwaram-154379",
           "source": {
-            "name": "Mint"
+            "name": "Great Andhra"
           },
-          "publishedAt": "2026-04-22T04:08:41Z",
-          "image": "https://www.livemint.com/lm-img/img/2026/04/22/1600x900/logo/IT_stocks_1776830846329_1776830846921.jpg",
+          "publishedAt": "2026-04-22T07:16:36Z",
+          "image": "https://www.greatandhra.com/newphotos11/kcr_21776842196.jpg",
           "language": "en"
         },
         {
-          "title": "Pakistan to Lower Vehicle Import Tariffs Under New Auto Policy",
-          "description": "Pakistan has agreed with the International Monetary Fund to introduce a new five-year auto sector policy that will gradually reduce tariffs on vehicle",
-          "url": "https://propakistani.pk/2026/04/22/pakistan-to-lower-vehicle-import-tariffs-under-new-auto-policy/",
+          "title": "His wedding cakes start from US$23,500. Meet the pastry chef who caters to the ultra-rich",
+          "description": "Bastien Blanc-Tailleur’s cakes are one-off, handmade and pure show-stoppers – just expect to pay a minimum of five figures for one.",
+          "url": "https://www.scmp.com/lifestyle/food-drink/article/3350851/his-wedding-cakes-start-us23500-meet-pastry-chef-who-caters-ultra-rich",
           "source": {
-            "name": "ProPakistani"
+            "name": "South China Morning Post"
           },
-          "publishedAt": "2026-04-22T04:08:35Z",
-          "image": "https://propakistani.pk/wp-content/uploads/2024/03/imported-cars.jpg",
+          "publishedAt": "2026-04-22T07:15:08Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/21/d722c90d-8287-435b-885d-5df83e2a24eb_9b16e9ff.jpg?itok=RxrxajN7&v=1776768338",
           "language": "en"
         },
         {
-          "title": "Trump says Iran wants to keep Strait of Hormuz closed to ‘save face’",
-          "description": "US President Donald Trump said Tuesday that Iran wants to keep the Strait of Hormuz closed to",
-          "url": "https://www.nation.com.pk/22-Apr-2026/trump-says-iran-wants-keep-strait-hormuz-closed-save-face",
-          "source": {
-            "name": "The Nation (Pakistan )"
-          },
-          "publishedAt": "2026-04-22T04:08:27Z",
-          "image": "https://www.nation.com.pk/digital_images/large/2026-04-22/trump-says-iran-wants-keep-strait-hormuz-closed-save-face-1776830882-2067.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Zimbabwe cedes 61% stake to JR Goddard in Victoria Falls Project",
-          "description": "CABINET has surrendered 61% stake in a joint venture with JR Goddard Private Limited for the development of bulk infrastructure project in Masuwe, Victoria Falls. Located on  1,200 hectares of state land, with the first phase (Lot 1 of Jafuta Estate) covering 271 hectares, the Masuwe Special Economic Zone is designed as a new tourism […]",
-          "url": "https://www.newzimbabwe.com/zimbabwe-cedes-61-stake-to-jr-goddard-in-victoria-falls-project/",
-          "source": {
-            "name": "NewZimbabwe.com"
-          },
-          "publishedAt": "2026-04-22T04:07:32Z",
-          "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2018/03/06225915/Victoria-Falls-e1590183374708.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Mother of hit-and-run victim appeals for driver to come forward",
-          "description": "KUCHING: A mother is appealing for the driver involved in a hit-and-run incident in late March that left her only son with his left leg amputated to come forward.",
-          "url": "https://www.thestar.com.my/news/nation/2026/04/22/mother-of-hit-and-run-victim-appeals-for-driver-to-come-forward",
-          "source": {
-            "name": "The Star"
-          },
-          "publishedAt": "2026-04-22T04:07:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/04/22/3871898.jpg",
-          "language": "en"
-        },
-        {
-          "title": "A space photo inspired the first Earth Day. I'm in awe of these iconic images of Earth taken from space",
-          "description": "A photo from 1968 inspired the first Earth Day, but that's not the only iconic space photo of Earth that everyone should see",
-          "url": "https://www.digitalcameraworld.com/photography/astrophotography/a-space-photo-inspired-the-first-earth-day-im-in-awe-of-these-iconic-images-of-earth-taken-from-space-both-modern-and-historic",
-          "source": {
-            "name": "Digital Camera World"
-          },
-          "publishedAt": "2026-04-22T04:06:48Z",
-          "image": "https://cdn.mos.cms.futurecdn.net/ds72PH7KqTGZ2sEzrXCGkn-1041-80.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Police appeal for information on missing girl, 16, last seen in Upper Thomson on April 14",
-          "description": "The 16-year-old was last seen wearing a white T-shirt, black shorts and carrying a black backpack. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/singapore/police-appeal-for-information-on-missing-girl-16-last-seen-in-upper-thomson-on-april-14",
+          "title": "National Gallery Singapore's first R18 show on South-east Asian erotic art",
+          "description": "Explore the National Gallery Singapore's first R18 exhibition, 'Passion Is Volcanic: Desire In Southeast Asian Art,' challenging perceptions of art and desire. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/life/arts/no-photos-please-national-gallery-singapore-stages-first-r18-show-on-south-east-asian-erotic-art",
           "source": {
             "name": "The Straits Times"
           },
-          "publishedAt": "2026-04-22T04:06:04Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/657595d1419f02301be5e946e508def4743a42cfd50f0e109c58646a88c2d8a1",
+          "publishedAt": "2026-04-22T07:15:00Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/128dec2deed4b7e2c0c4b496ca29044c4e5b24d765a9f2f7ca2d7c52bc6b2060",
           "language": "en"
         },
         {
-          "title": "Air NZ eyes Kerikeri for aviation engineering school in Northland",
-          "description": "Northland could soon train its own aviation engineers as a study is looking into whether Kerikeri is the right place for a high-value industry school. Air...",
-          "url": "https://www.nzherald.co.nz/northland-age/news/northland-youth-eyed-for-new-air-new-zealand-aviation-engineering-school/SHXRLLC53BC2FKGGBWPQPRCP2Q/",
+          "title": "BTS leader RM to unveil personal art collection at San Francisco Museum of Modern Art",
+          "description": "The exhibition runs from Oct 3 and features 200 works from the star's collection and the museum’s holdings. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/life/entertainment/bts-leader-rm-to-unveil-personal-art-collection-at-san-francisco-museum-of-modern-art",
           "source": {
-            "name": "NZ Herald"
+            "name": "The Straits Times"
           },
-          "publishedAt": "2026-04-22T04:04:27Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/7PU2F2ZR7JDHTPBDDTYBVEV5DI.jpg?auth=3723bc61210242fd85f7cf8efb4377291253f2748992689d59613ab0b90b7fc5&width=1200&height=675&quality=70&smart=true",
+          "publishedAt": "2026-04-22T07:15:00Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/0f8550241114d0e8ebf88831e5c6075c985728feacec1bddf1cbb0981b3bf1fb",
           "language": "en"
         },
         {
-          "title": "Warning for coeliacs as peanut M&M’s now use gluten",
-          "description": "By RNZ Life reporters of RNZ The new ingredient list for peanut M&M’s includes a product that contains gluten, meaning the candy-covered chocolates are off...",
-          "url": "https://www.nzherald.co.nz/lifestyle/warning-for-coeliacs-as-peanut-mms-now-use-gluten-containing-ingredients/6V36IH5ABZEVPGMMY7ALIAIRWI/",
+          "title": "Man I Just Wanna Go Home Review: (Microsoft) Paint Me Like One Of Your French Girls",
+          "description": "A stylish, noir-inspired narrative game with striking MS Paint visuals and 13 endings, but its short runtime keeps Man I Just Want To Go Home from greatness.",
+          "url": "https://www.nag.co.za/2026/04/22/man-i-just-wanna-go-home-review-microsoft-paint-me-like-one-of-your-french-girls/",
           "source": {
-            "name": "NZ Herald"
+            "name": "nag.co.za"
           },
-          "publishedAt": "2026-04-22T04:04:13Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/43XJ7FOAA5G6DCJRX5CI3RVP6M.jpg?auth=21fe66afab168f2d798e1305fac01043b14d9ad1809ea932eaf95078e3b572ff&width=1200&height=675&quality=70&smart=true",
+          "publishedAt": "2026-04-22T07:14:40Z",
+          "image": "https://www.nag.co.za/wp-content/uploads/2026/04/wr-review.jpg",
           "language": "en"
         },
         {
-          "title": "US tourist raped, confined to room at Karnataka homestay; owner, staff arrested",
-          "description": "Arrests made after US tourist reports alleged rape in Karnataka",
-          "url": "https://www.indiatoday.in/india/karnataka/story/us-tourist-raped-in-kodagu-homestay-two-arrested-karnataka-washington-american-woma-2899753-2026-04-22",
+          "title": "'Creativity is the basis of Judaism': Yaacov Agam, father of kinetic art, receives Israel Prize",
+          "description": "Accepting the award in the eponymous museum he helped design ahead of Wednesday's ceremony in Jerusalem, the 97-year-old creator charms admirers -- and a ToI journalist",
+          "url": "https://www.timesofisrael.com/creativity-is-the-basis-of-judaism-yaacov-agam-father-of-kinetic-art-receives-israel-prize/",
           "source": {
-            "name": "India Today"
+            "name": "The Times of Israel"
           },
-          "publishedAt": "2026-04-22T04:03:59Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/the-kodagu-homestay-owner-and-staff-have-been-arrested-by-the-karnataka-police-225855504-16x9_0.png?VersionId=5ewyAI1dS6j5bhtwEspaYdTkgUt.BSwP",
+          "publishedAt": "2026-04-22T07:14:06Z",
+          "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/IMG_2259-e1776774225347.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Over 30% of locally produced cereal contaminated",
+          "description": "A nationwide investigation into cereal mixes by the Food and Drugs Authority (FDA) in partnership with UNICEF has revealed that 30.06 percent of products on the domestic market are contaminated with unsafe levels of cadmium, while 3.68 percent...",
+          "url": "https://www.ghanaweb.com/GhanaHomePage/business/Over-30-of-locally-produced-cereal-contaminated-2031114",
+          "source": {
+            "name": "GhanaWeb"
+          },
+          "publishedAt": "2026-04-22T07:13:57Z",
+          "image": "https://cdn.ghanaweb.com/imagelib/pics/382/38230031.jpg",
+          "language": "en"
+        },
+        {
+          "title": "WHO says vaccines protected 160 million children in Pakistan over five decades",
+          "description": "ISLAMABAD: Vaccination campaigns in Pakistan have protected over 160 million children and 130 million mothers over the past five decades, the World Health Organization said on Wednesday. The milestone comes ahead of World Immunization Week between Apr. 24 and May 1, highlighting the role of vaccines in preventing disease and saving lives. Pakistan launched its Expanded Program",
+          "url": "https://www.arabnews.pk/node/2640820/pakistan",
+          "source": {
+            "name": "Arab News PK"
+          },
+          "publishedAt": "2026-04-22T07:12:25Z",
+          "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/04/22/4705186-1591392516.jpg?itok=HVIHZml4",
+          "language": "en"
+        },
+        {
+          "title": "Chulalongkorn University doctors successfully performed surgery for obstructive sleep apnea using the new HGNS technique the fourth successful surgery of this kind in Asia",
+          "description": "BANGKOK, April 22, 2026 /PRNewswire/ -- The Excellence Center for Sleep Disorders, King Chulalongkorn Memorial Hospital, Thai Red Cross Society has successfully performed surgery for obstructive sleep apnea patients using the new technique, 'HGNS,' the first in Thailand and the fourth in Asia, with three patients having completed the surgery. The procedure is suitable for patients with moderate to severe obstructive sleep apnea.",
+          "url": "https://www.manilatimes.net/2026/04/22/tmt-newswire/pr-newswire/chulalongkorn-university-doctors-successfully-performed-surgery-for-obstructive-sleep-apnea-using-the-new-hgns-technique-the-fourth-successful-surgery-of-this-kind-in-asia/2325726",
+          "source": {
+            "name": "The Manila Times"
+          },
+          "publishedAt": "2026-04-22T07:12:03Z",
+          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/22/1023781.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Why Chakwera’s mission could signal potential turning point for Tanzania",
+          "description": "When former Malawi President Lazarus Chakwera landed at Julius Nyerere International Airport on the evening of April 8, few could have predicted how quickly his visit would evolve into one of the...",
+          "url": "https://www.thecitizen.co.tz/tanzania/magazines/political-reforms/why-chakwera-s-mission-could-signal-potential-turning-point-for-tanzania-5432060",
+          "source": {
+            "name": "thecitizen.co.tz"
+          },
+          "publishedAt": "2026-04-22T07:11:43Z",
+          "image": "https://www.thecitizen.co.tz/resource/image/5432064/landscape_ratio3x2/1200/800/6dd68690a1d710569ca3cc3a5fa7d665/XZ/chakwera-s-mission-pic.jpg",
           "language": "en"
         }
       ]
