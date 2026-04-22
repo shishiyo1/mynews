@@ -1,10 +1,32 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-04-22T05:27:40.137Z",
+  "updatedAt": "2026-04-22T07:51:00.655Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "異例のVAR介入に救われた町田、ACLエリート初挑戦初制覇に王手!! 16強から驚異の全試合無失点、前回王者との最終決戦へ",
+          "description": "[4.21 ACLE準決勝 町田 1-0 シャバブ・アルアハリ ジッダ]　AFCチャンピオンズリーグエリート(ACLE)は21日、準決勝を行い、アジア初挑戦のFC町田ゼルビアがシャバブ・アルアハリ(UAE)を1-0で破った。負傷明け...",
+          "url": "https://web.gekisaka.jp/news/acl/detail/?449919-449919-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-04-21T18:20:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/450000/449919/news_449919_1.jpg?time=20260422041940",
+          "language": "ja"
+        },
+        {
+          "title": "イラン、米協議参加まだ未定 バンス氏訪問見送りか 停戦期限控え混迷",
+          "description": "イランは２１日、パキスタンの首都イスラマバードで予定される米国との協議に参加するか最終決定していないと発表した。トランプ米大統領は停戦を延長するつもりはないと述べており、停戦期限切れが迫る中、不​透明感が強まっている。",
+          "url": "https://jp.reuters.com/markets/commodities/SAD7DWKKXBL5FMDZJWHCDKXAJM-2026-04-21/",
+          "source": {
+            "name": "Reuters"
+          },
+          "publishedAt": "2026-04-21T17:50:48Z",
+          "image": "https://www.reuters.com/resizer/v2/K52X4GLGWNO2BMBNAQBV2W452E.jpg?auth=2a12a34ef231869fd776a47addf271cb6bb2fe7c767d92025fe3424d4d31a748&height=1005&width=1920&quality=80&smart=true",
+          "language": "ja"
+        },
         {
           "title": "『ディアブロ IV』第2弾DLC『憎悪の帝王』先行プレイ！新クラス“ウォーロック＆パラディン”に釣りまで追加、物語もハクスラもさらに濃密に",
           "description": "ここまで“続きが見たい”と思わされた『ディアブロ』は初めて。",
@@ -25,6 +47,17 @@
           },
           "publishedAt": "2026-04-21T14:41:00Z",
           "image": "https://www.reuters.com/resizer/v2/5M7I7FTLFRIUNEWUAT42OKDLQA.jpg?auth=ea3efd8d354db0ce38abba9b7f5deefd9d5fd19f9264fb96188b50621e65d1df&height=1005&width=1920&quality=80&smart=true",
+          "language": "ja"
+        },
+        {
+          "title": "宮本茂氏もサプライズで登壇。映画『ザ・スーパーマリオギャラクシー・ムービー』日本語版プレミアム試写会リポート。「頼もしく成長したマリオブラザーズの冒険を楽しんでほしい」（宮野真守さん）",
+          "description": "2026年4月24日より公開予定の映画『ザ・スーパーマリオギャラクシー・ムービー』。その日本語版プレミアム試写会の模様をリポート。",
+          "url": "https://www.famitsu.com/article/202604/72651",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-04-21T14:34:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/72651/thumbnail_CmAZ.JPG?x=1280",
           "language": "ja"
         },
         {
@@ -81,150 +114,117 @@
           "publishedAt": "2026-04-21T12:00:00Z",
           "image": "https://portal.st-img.jp/thumb/bd2b9669e1908987ce73734e0a8c77ad_1776775484_l.jpg",
           "language": "ja"
-        },
-        {
-          "title": "「タモリさんって全く面白くない」ヒカルの“芸人批判”にネット不快感…過去には千鳥、かまいたちも標的に（女性自身）",
-          "description": "YouTuberのヒカル（34）が自身のYouTube動画で、タモリ（80）について「全く面白くない」とコメント。ネット上で波紋が広がっている。\n問題となっているのは、4月20日に公開された動画。",
-          "url": "https://news.yahoo.co.jp/articles/ba78a3bbd4458a81dce93781b9310efa00ab99fa",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-04-21T11:46:48Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00000045-jisin-000-3-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "アップル「iPhone 18 Pro」新色ディープレッド採用か 著名リーカーが報告",
-          "description": "アップルが今年9月に発表するとうわさの「iPhone 18 Pro」には、新色としてディープレッド（深い赤）が採用される可能性が高いという。",
-          "url": "https://ascii.jp/elem/000/004/396/4396874/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-04-21T11:00:00Z",
-          "image": "https://ascii.jp/img/2026/04/21/4455723/xl/83e2e65008034f9f.png?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "日銀利上げで注目！地銀再編の軸になる5銘柄",
-          "description": "2026年4月の金融政策決定会合を前に、市場の関心は「日本銀行は利上げに踏み切るのか」に集まっています。結論から言えば、4月利上げは見送りの可能性が高く、本命は6月とみるのが現実的です。　理由は明確で、「地ならし」が不足しているからです…",
-          "url": "https://media.rakuten-sec.net/articles/-/52214",
-          "source": {
-            "name": "トウシル"
-          },
-          "publishedAt": "2026-04-21T10:30:00Z",
-          "image": "https://media.rakuten-sec.net/mwimgs/c/2/-/img_c28929d91806f2e5c2fefa4efdb2468136959.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "ASUS announces ProArt 2026 laptop lineup in the Philippines: Price and availability revealed",
-          "description": "Fresh after launching its new Zenbook line, ASUS has now revealed its ProArt laptop lineup in the Philippines for 2026.",
-          "url": "https://www.ungeek.ph/2026/04/asus-announces-proart-2026-laptop-lineup-in-the-philippines-price-and-availability-revealed/",
+          "title": "Rising star to testify in 'nightmarish' feud with Rebel Wilson",
+          "description": "An up-and-coming actor is set to testify in her defamation battle against Hollywood star Rebel Wilson over social media posts she claims painted her as a liar.",
+          "url": "https://www.1news.co.nz/2026/04/22/rising-star-to-testify-in-nightmarish-feud-with-rebel-wilson/",
           "source": {
-            "name": "UnGeek"
+            "name": "1News"
           },
-          "publishedAt": "2026-04-21T17:27:01Z",
-          "image": "https://www.ungeek.ph/wp-content/uploads/2026/04/asus-proart-lineup-laptops-philippines-2026.webp",
+          "publishedAt": "2026-04-21T19:50:41Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/charlotte-macinnes-c-arrives-at-federal-court-in-sydney-E7VPZIQVTJANBFLO5SWK4YVJ5Y.jpg?auth=e9dd72dbc0552a065ef1a6a66074de4f7627a19e3bd2ca95b72f1530b8d321cd&quality=70&width=600&height=315&focal=470%2C86",
           "language": "en"
         },
         {
-          "title": "Common gene in axolotls, mice and zebrafish may unlock human limb regrowth",
-          "description": "Investigating a common gene in three very different species – axolotls, mice and zebrafish – scientists have discovered the potential for a novel gene therapy aimed at eventually regrowing limbs in humans, according to new research published this week.",
-          "url": "https://www.news-medical.net/news/20260421/Common-gene-in-axolotls-mice-and-zebrafish-may-unlock-human-limb-regrowth.aspx",
+          "title": "‘Using bail to cage Nigerians is unjust’ - Sowore criticises delay in el-Rufai's bail hearing",
+          "description": "Omoyele Sowore, human rights activists, has criticised the delay in the bail hearing for Nasir el-Rufai, former governor of Kaduna at the state high court.",
+          "url": "https://www.thecable.ng/using-bail-to-cage-nigerians-is-unjust-sowore-criticises-delay-in-el-rufais-bail-hearing/",
           "source": {
-            "name": "News-Medical"
+            "name": "TheCable"
           },
-          "publishedAt": "2026-04-21T17:27:00Z",
-          "image": "https://www.news-medical.net/images/tags/TagImage-456-45847033825775462152-620x480.jpg",
+          "publishedAt": "2026-04-21T19:49:31Z",
+          "image": "https://www.thecable.ng/wp-content/uploads/2024/02/Sowore-e1758106609185.jpg",
           "language": "en"
         },
         {
-          "title": "6 ways your smartwatch is lying to you, according to science",
-          "description": "Calories, steps, sleep - you can track it all. But the truth is, your smartwatch is just taking a guess.",
-          "url": "https://www.rnz.co.nz/life/wellbeing/6-ways-your-smartwatch-is-lying-to-you-according-to-science",
+          "title": "US aid cuts undermine HIV prevention in South Africa, report finds",
+          "description": "JOHANNESBURG, April 21 (Reuters) – U.S. funding cuts to South Africa have dismantled HIV prevention programmes just as they are needed to support the roll-out of the new prevention drug lenacapavir, a report said on Tuesday. South Africa has the world’s largest population of HIV-infected people, with about 8 million – one in five adults – living […]",
+          "url": "https://www.cnbcafrica.com/2026/us-aid-cuts-undermine-hiv-prevention-in-south-africa-report-finds",
           "source": {
-            "name": "RNZ"
+            "name": "CNBC Africa"
           },
-          "publishedAt": "2026-04-21T17:26:07Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--GMJwbsnr--/t_tohu-badge-facebook/f_auto/q_auto/4JPTQW6_mohamed_nohassi_qcenoFmEdbQ_unsplash_1_jpg",
+          "publishedAt": "2026-04-21T19:48:25Z",
+          "image": "https://cdn.cnbc.africa/wp-content/uploads/2026/04/OWO7WXR5BJNC7KFCF3FJ3YMH4E.jpg",
           "language": "en"
         },
         {
-          "title": "Microsoft Drops Price of Xbox Game Pass Ultimate",
-          "description": "New Call of Duty games removed from day-one availability and will get added in one year later.",
-          "url": "https://za.ign.com/xbox-game-pass/230753/microsoft-drops-price-of-xbox-game-pass-ultimate",
+          "title": "Israel marks its Memorial Day of mourning in the shadow of war",
+          "description": "Israelis have marked the country’s annual Memorial Day, a somber day of reflection with ceremonies and sirens.",
+          "url": "https://apnews.com/article/israel-war-gaza-memorial-dcf28223f7a0b9972dfe2bb3bd093794",
           "source": {
-            "name": "IGN Africa"
+            "name": "AP News"
           },
-          "publishedAt": "2026-04-21T17:24:35Z",
-          "image": "https://sm.ign.com/t/ign_za/news/m/microsoft-/microsoft-drops-price-of-xbox-game-pass-ultimate_1f82.1200.jpg",
+          "publishedAt": "2026-04-21T19:48:14Z",
+          "image": "https://dims.apnews.com/dims4/default/0f70081/2147483647/strip/true/crop/8192x5459+0+3/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F39%2F9e%2Fcea3e7957cdc333980e7e09bfeef%2F34da385d167241dc815f7bf08ead57ba",
           "language": "en"
         },
         {
-          "title": "Eight coaches in five years: Kotoko’s struggle for stability deepens",
-          "description": "First, it was Abdul Karim Zito. He walked through the exit door without looking back.",
-          "url": "https://www.myjoyonline.com/eight-coaches-in-five-years-kotokos-struggle-for-stability-deepens/",
+          "title": "I tried Honor's 'near unbreakable' mid range smartphone and it's changed my habits",
+          "description": "Honor focused on reliability, stamina and sleek ruggedness",
+          "url": "https://www.galwaybeo.ie/news/tried-honors-near-unbreakable-mid-10928403",
           "source": {
-            "name": "MyJoyOnline"
+            "name": "Galway Beo"
           },
-          "publishedAt": "2026-04-21T17:24:09Z",
-          "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/images-5-4.jpeg",
+          "publishedAt": "2026-04-21T19:45:49Z",
+          "image": "https://i2-prod.galwaybeo.ie/article10928413.ece/ALTERNATES/s1200d/0_Honor-Magic-8-Lite.jpg",
           "language": "en"
         },
         {
-          "title": "Russian diplomat summoned by Latvia yet again",
-          "description": "A staffer at the Russian embassy in Rīga was summoned by the Latvian Ministry of Foreign Affairs (MFA) on April 21st, the latest in an extremely long line of similar diplomatic summonses since the sta...",
-          "url": "https://eng.lsm.lv/article/politics/diplomacy/21.04.2026-russian-diplomat-summoned-by-latvia-yet-again.a643954/",
+          "title": "Hudson-Odoi to miss the rest of Forest's season after undergoing surgery",
+          "description": "Nottingham Forest have five games remaining to retain their Premier League status, but must do so without Callum Hudson-Odoi.",
+          "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/hudson-odoi-to-miss-the-rest-of-forests-season-after-undergoing-surgery-2026-04-21",
           "source": {
-            "name": "LSM"
+            "name": "beIN SPORTS"
           },
-          "publishedAt": "2026-04-21T17:22:48Z",
-          "image": "https://static.lsm.lv/media/2025/08/large/1/reft.jpg",
+          "publishedAt": "2026-04-21T19:44:09Z",
+          "image": "https://prod-media.beinsports.com/image/1776801603390_10b56276-7366-4afb-b58f-4b965c53fdf8.1080.jpg",
           "language": "en"
         },
         {
-          "title": "Two Israeli soldiers jailed over smashing of Jesus statue in Lebanon village",
-          "description": "Israel Defense Forces say the ‘soldiers’ conduct completely deviated from IDF orders and value’",
-          "url": "https://www.theguardian.com/world/2026/apr/21/two-israeli-soldiers-jailed-over-smashing-of-jesus-statue-in-lebanon-village",
+          "title": "Ohio State Details Relationship that Led to Former President Walter Carter Jr.’s Resignation",
+          "description": "The university released a report that said the president, Walter Carter Jr., took trips with a podcaster and suggested that the university hire her.",
+          "url": "https://www.nytimes.com/2026/04/21/us/ohio-state-walter-carter-relationship-president-resignation.html",
           "source": {
-            "name": "The Guardian"
+            "name": "The New York Times"
           },
-          "publishedAt": "2026-04-21T17:22:00Z",
-          "image": "https://i.guim.co.uk/img/media/dbf9fa6f9ea88d9bce996d657cfd2c7e051822da/0_348_1066_852/master/1066.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f79851a6091255b0542e366dab792128",
+          "publishedAt": "2026-04-21T19:43:28Z",
+          "image": "https://static01.nyt.com/images/2026/04/21/multimedia/21nat-osu-vjfp/21nat-osu-vjfp-facebookJumbo.jpg",
           "language": "en"
         },
         {
-          "title": "Mike Vrabel had 'difficult conversations' over Russini photos",
-          "description": "Mike Vrabel said the Patriots and their fans will get \"the best version of me going forward\" after the New York Post published photos that appeared to show the coach embracing and holding hands with former Athletic reporter Dianna Russini.",
-          "url": "https://www.espn.com/nfl/story/_/id/48552151/mike-vrabel-says-had-difficult-conversations-dianna-russini-photos",
+          "title": "NASA's Wyche: Artemis Revolutionizes Space Exploration",
+          "description": "On March 21, 2026, NASA's Johnson Space Center Director Vanessa Wyche took the stage at the Space House event at South by Southwest in Austin, Texas",
+          "url": "https://www.miragenews.com/nasas-wyche-artemis-revolutionizes-space-1659388/",
           "source": {
-            "name": "ESPN"
+            "name": "Mirage News"
           },
-          "publishedAt": "2026-04-21T17:21:00Z",
-          "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0421%2Fr1647039_1296x729_16%2D9.jpg",
+          "publishedAt": "2026-04-21T19:43:00Z",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/04/vanessa-wyche-by-daniel-stoops.png?w=2048",
           "language": "en"
         },
         {
-          "title": "Amazon launches GLP-1 weight loss program",
-          "description": "Through Amazon Pharmacy, patients will be able to access medications including Novo Nordisk's Wegovy as well as newer oral GLP-1 options.",
-          "url": "https://www.cnbc.com/2026/04/21/amazon-glp-1-weight-loss-program.html",
+          "title": "Fourth man charged over alleged kidnapping murder of Sydney grandfather Chris Baghsarian",
+          "description": "The 85-year-old's abduction triggered an 11-day search, with his remains later found near a golf course in Pitt Town, in the city's north-west.",
+          "url": "https://www.abc.net.au/news/2026-04-22/nsw-fourth-charged-over-chris-baghsarian-kidnapping-murder/106590888",
           "source": {
-            "name": "CNBC"
+            "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-04-21T17:20:02Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108294749-1776788593535-assetsaboutamazon-1.png?v=1776790257&w=1920&h=1080",
+          "publishedAt": "2026-04-21T19:41:59Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/29dd18e36364de9f4a385c55b271d71c?impolicy=wcms_watermark_news&cropH=128&cropW=227&xPos=0&yPos=7&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Quantum Computers Could Boost AI by Processing Large Datasets More Efficiently",
-          "description": "In a new study, researchers describe a method that feeds data into quantum computers in smaller batches instead of storing entire datasets.",
-          "url": "https://decrypt.co/365030/quantum-computers-boost-ai-large-datasets",
+          "title": "Person killed in car and truck crash, part of SH1 closed between Tokoroa and Taupō",
+          "description": "A person has been killed in a crash between a car and a truck on State Highway 1 in Kinleith, in the central North Island. The crash has closed a section of...",
+          "url": "https://www.nzherald.co.nz/nz/serious-crash-closes-sh1-between-tokoroa-and-taupo/JIWLASVHNVEIRFLDCEQ6MJVKIU/",
           "source": {
-            "name": "Decrypt"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-04-21T17:18:44Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg",
+          "publishedAt": "2026-04-21T19:41:15Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/O7AJRNVE5JFPFOXZI7PLCENUFY.png?auth=1168defc2a3f4232e54445cf1c534b4b6e12c2f6bcfe914bba155e8fbfe8e027&width=1200&height=675&quality=70&smart=true",
           "language": "en"
         }
       ]
