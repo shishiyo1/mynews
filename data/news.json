@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-04-24T08:07:03.401Z",
+  "updatedAt": "2026-04-24T10:23:15.704Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "ゼンハイザー、密閉型モニター最上位「HD 480 PRO」。振動減衰システムでローエンド正確性向上",
+          "description": "ゼンハイザージャパンは、モニターヘッドフォンのフラッグシップで、密閉型の「HD 480 PRO」を24日に発売する。付属ケースの違いで2種類あり、通常モデルにはプロヘッドフォンバッグが付属し、69,300円。専用トラベルケースが付属する「HD 480 PRO PLUS」は72,600円。",
+          "url": "https://av.watch.impress.co.jp/docs/news/2104203.html",
+          "source": {
+            "name": "AV Watch"
+          },
+          "publishedAt": "2026-04-23T22:00:00Z",
+          "image": "https://av.watch.impress.co.jp/img/avw/list/2104/203/DSC08916.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "米国株式市場＝反落、イラン戦争早期終結への期待薄れる",
+          "description": "米国株式市場は不安定な取引の中、反落して取引を終えた。イラン戦争の早期終結への期待が薄れる中、投資家はまちまちの企業決算​にも注目した。ソフトウエア業界で人工知能（ＡＩ）による事業構造の破壊的変化を‌巡る懸念が再燃した。",
+          "url": "https://jp.reuters.com/markets/japan/BRKF32IMUJJ63LESRDIJFWZGYA-2026-04-23/",
+          "source": {
+            "name": "Reuters"
+          },
+          "publishedAt": "2026-04-23T21:40:29Z",
+          "image": "https://www.reuters.com/resizer/v2/IROHQ3NRBROSVH7FI43FAYHJTU.jpg?auth=f854ad8ffce9c159689377406032d5a3f2d39963ad1bec0d299237ae37ed0cf0&height=1005&width=1920&quality=80&smart=true",
+          "language": "ja"
+        },
+        {
+          "title": "GeForce NOWのLinux対応で、サポート終了のWindows 10ノートをGeForce RTX 5080級の怪物に変える",
+          "description": "NVIDIAが2026年1月29日にクラウドゲーミングサービス「GeForce NOW」のLinux版クライアントアプリを発表したが、現在そのベータテストが開始されている。これはWindows 10のサポートが終了して、眠っている旧型ノートPC活用のチャンスだ。ここでは Core i7–10510U搭載ノートPCにUbuntu環境を導入して、GeForce NOWでゲームをどこまで楽しめるのか追求していく。それは、思ったよりもずっと快適なゲーミング体験なのであった。",
+          "url": "https://pc.watch.impress.co.jp/docs/topic/special/2102426.html",
+          "source": {
+            "name": "PC Watch"
+          },
+          "publishedAt": "2026-04-23T21:30:00Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2102/426/g01.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ホルムズ海峡に関心が集まる中で訪中し、約9年半ぶりの国共トップ会談を実現させた台湾の鄭麗文(1/5)",
+          "description": "これまで台湾とは距離を置く姿勢を見せてきた米国のドナルド・トランプ大統領が、現時点で台湾についてどう考えているのか、その本音はなかなか見えてこない。　中国の軍事的脅威が高まる中で、(1/5)",
+          "url": "https://jbpress.ismedia.jp/articles/-/94448",
+          "source": {
+            "name": "JBpress"
+          },
+          "publishedAt": "2026-04-23T21:00:00Z",
+          "image": "https://jbpress.ismcdn.jp/mwimgs/d/6/1200mw/img_d66655dec46932208c69f76612010da947985.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Ado、キンプリ、なにわ男子、M!LKら日テレ音楽特番に出演 MC渡辺翔太と波瑠のコメント公開",
+          "description": "5月6日19:00より日本テレビ系で放送される渡辺翔太（Snow Man）と波瑠がMCの音楽特番「1億2000万人のありがとう 歌の感謝祭」の出演アーティストが発表された。",
+          "url": "https://natalie.mu/music/news/669522",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-04-23T21:00:00Z",
+          "image": "https://ogre.natalie.mu/media/news/music/2026/0423/musicthanksgiving_visual.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
+        {
+          "title": "インテル、4─6月売上高見通しが予想上回る ＡＩデータセンター需要が追い風",
+          "description": "米半導体大手インテルは２３日、第２・四半期（４－６月期）の売上高について１３８億─１４８億ドルと、ＬＳＥＧがまとめたアナリスト予想（１３０億７０００万ドル）を上回る見通しを示した。人工知能（ＡＩ）データセンター向けサーバーチップに対する旺盛な需要を​強調した。",
+          "url": "https://jp.reuters.com/markets/world-indices/G7CYDAVNNJMYVFGTW6KRMIOLUE-2026-04-23/",
+          "source": {
+            "name": "Reuters"
+          },
+          "publishedAt": "2026-04-23T20:56:09Z",
+          "image": "https://www.reuters.com/resizer/v2/VDXOA2CBBZKMBLIGHJFSPK6TN4.jpg?auth=3d01e60eef604ab94c47afe67adfad6c8f15cdaeaf118616b4f5959ac1863cfa&height=1005&width=1920&quality=80&smart=true",
+          "language": "ja"
+        },
+        {
+          "title": "「プレイヤーは苛立っている」Xbox新トップが厳しい現状を認めた社員向けメッセージを公開。今後のビジネスモデルや次世代機についても触れる",
+          "description": "Xboxを新たに牽引するアシャ・シャルマ氏とマット・ブーティ氏が連名で従業員向けのメッセージを公開しました。",
+          "url": "https://www.gamespark.jp/article/2026/04/24/165603.html",
+          "source": {
+            "name": "Game*Spark"
+          },
+          "publishedAt": "2026-04-23T20:20:29Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1120695.jpg",
+          "language": "ja"
+        },
         {
           "title": "庄司浩平のヒロイン宣言に白洲迅＆桜井日奈子も爆笑！「この中で一番かわいくいたい」",
           "description": "白洲迅主演のドラマ「余命3ヶ月のサレ夫」（金曜午後11：15）が本日・4月24日よりテレビ朝日系でスタート。放送直前会見には白洲、桜井日奈子、庄司浩平、新川優愛、高橋光臣が登壇し、撮影秘話や最近起きた悲劇などを語った。 　本作は国内累計1億ビューを超える大ヒットコミックを原作とした“リベンジ・ラブ […]",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-04-23T19:00:00Z",
           "image": "https://img-mdpr.freetls.fastly.net/article/ikf-/nm/ikf-oLrmF27UXPLsWM8tmsyqjXYmm6ZNpwM0cF6rkxI.jpg?width=700&disable=upscale&auto=webp&quality=80",
           "language": "ja"
-        },
-        {
-          "title": "au Webポータル芸能ニュース",
-          "description": "4月23日、人気お笑いコンビ「エレキコミック」のやついいちろう（51）が主催している、毎年恒例のイベント「YATSUI FESTIVAL! 2026」（以下、やついフェス）の出演アーティスト最終発表が",
-          "url": "https://article.auone.jp/detail/1/5/9/99_1_r_20260424_1776978458194498",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-04-23T18:22:50Z",
-          "image": "https://portal.st-img.jp/thumb/9fe268641884d2e3859dd6e57d1b0646_1776985671_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "大谷翔平「1番DH」 投打同時出場翌日のデーゲーム 直近8戦ノーアーチ＆打率・212 打線組み換え着手 2番フリーマン 4番タッカー",
-          "description": "「ジャイアンツ―ドジャース」(23日、サンフランシスコ)\n　両チームがラインアップを発表。大谷翔平投手が「1番・指名打者」で出場する。ロバーツ監督は打線の組み替えに着手し、2番で精彩を欠くカイル・",
-          "url": "https://news.yahoo.co.jp/articles/b245d9a00a90e6dfa1535fc1716418f111d73c8a",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-04-23T17:11:33Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260424-00010000-dal-000-6-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "イラン、船舶拿捕映像を公開 ホルムズ海峡の支配力強化を印象付け",
-          "description": "イランは、ホルムズ海峡で特殊部隊が貨物船を拿捕（だほ）しているとみられる映像を公開し、同海峡の支配力強化を誇示した。国営テレビが、覆面をした兵士らが高速艇で「ＭＳＣフランチェスカ号」の横に乗り付け、ロープのは​しごを登って船体に上がり、ライフルを振りかざしながら乗り込む映像を放送した。",
-          "url": "https://jp.reuters.com/markets/commodities/LUNGM2HNIJPURNPICXR55UTX7E-2026-04-23/",
-          "source": {
-            "name": "Reuters"
-          },
-          "publishedAt": "2026-04-23T16:01:40Z",
-          "image": "https://www.reuters.com/resizer/v2/FSHNPSQCYJLTVKL4YE6JCEBUYQ.jpg?auth=d226c0f127eed7c3e9293a5c8ba4c0e3804b0e8320718df7dafcd7f06a7c193e&height=1005&width=1920&quality=80&smart=true",
-          "language": "ja"
-        },
-        {
-          "title": "米総合ＰＭＩ、4月は52.0に上昇 コスト急騰でインフレ加速懸念も",
-          "description": "Ｓ＆Ｐグローバルが２３日発表した４月の米総合購買担当者景気指数（ＰＭＩ）速報値は５２．０と、前月の５０．３から上昇した。前月のほぼ横​ばいから持ち直した一方、イラン紛争でサプライ‌チェーン（供給網）が混乱し、サプライヤーの納入遅延が長期化したほか、販売価格指数は約４年ぶりの高水準となった。",
-          "url": "https://jp.reuters.com/markets/japan/IUCGJ27PAJOJBOYW264CB6WLHE-2026-04-23/",
-          "source": {
-            "name": "Reuters"
-          },
-          "publishedAt": "2026-04-23T15:34:06Z",
-          "image": "https://www.reuters.com/resizer/v2/UIRDNMWOXVIXPBYHOCPLMR4J2Q.jpg?auth=1b1f5467cf03692778d5d9e5f6f2c1c6659ce9c6fa922ba35cf7944460fb3067&height=1005&width=1920&quality=80&smart=true",
-          "language": "ja"
-        },
-        {
-          "title": "【速報】関東・中部で地震 Ｍ４．０ 東京、神奈川、埼玉、千葉、静岡などで揺れ 震源は千葉県北西部 地震が及んだ地域人口２６２９万人",
-          "description": "２３日午後１１時５３分ごろ、千葉県北西部を震源とする地震があった。最大震度２、地震の規模を示すマグニチュード（Ｍ）は４．０と推定される。震源の深さは約７０キロ。東金市、山武市、多古町などで震度１を観測した。この地震による津波の心配はない。",
-          "url": "https://www.chibanippo.co.jp/articles/1605451",
-          "source": {
-            "name": "千葉日報"
-          },
-          "publishedAt": "2026-04-23T15:01:09Z",
-          "image": "https://www.chibanippo.co.jp/img/chibanippo_img.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "世界最大のダム、満タンになると地球の自転を遅くしてしまう",
-          "description": "Image: isabel kendzior / Shutterstock 2025年5月25日の記事を編集して再掲載しています。人間は無力ではないと確信。中国の巨大ダムが、地球の自転を人間が気づかないくらい",
-          "url": "https://news.livedoor.com/article/detail/31085269/",
-          "source": {
-            "name": "ライブドアニュース"
-          },
-          "publishedAt": "2026-04-23T14:00:00Z",
-          "image": "https://news.livedoor.com/img/fb/news.png?v=20260326",
-          "language": "ja"
-        },
-        {
-          "title": "世界最大のダム、満タンになると地球の自転を遅くしてしまう",
-          "description": "2025年5月25日の記事を編集して再掲載しています。人間は無力ではないと確信。中国の巨大ダムが、地球の自転を人間が気づかないくらいほんのちょっとだけ遅らせているそうですよ。巨大ダムが地球の自転に影響？NASA（アメリカ航空宇宙局）の2005年の報告によれば、中国湖北省にある｢三峡ダム｣は、世界最大級の水力発電ダムとして知られていますが、このダムは満水時に約40立方",
-          "url": "https://www.gizmodo.jp/2026/04/the-dam-slows-down-the-earths-rotation-urm.html",
-          "source": {
-            "name": "ギズモード・ジャパン"
-          },
-          "publishedAt": "2026-04-23T14:00:00Z",
-          "image": "https://media.loom-app.com/gizmodo/dist/images/2025/05/23/shutterstock_1462094063.jpg?w=1280&h=630&f=jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Ciara Miller and Maura Higgins will compete on ‘Dancing With the Stars’",
-          "description": "'Summer House' star Ciara Miller and 'The Traitors' contestant Maura Higgins will be among the celebrities competing on 'Dancing With the Stars' this season.",
-          "url": "https://www.latimes.com/entertainment-arts/story/2026-04-23/ciara-miller-maura-higgins-dancing-with-stars-season-35-cast-dwts",
+          "title": "Pilecki Institute Opens in NYC With 'Modern Freedom'",
+          "description": "A new Lower Manhattan arts center debuts with \"Modern Freedom,\" showcasing contemporary artists from across Central and Eastern Europe.",
+          "url": "https://www.timeout.com/newyork/news/lower-manhattan-gets-a-new-arts-center-focused-on-central-and-eastern-europe-042326",
           "source": {
-            "name": "Los Angeles Times"
+            "name": "Time Out Worldwide"
           },
-          "publishedAt": "2026-04-23T20:05:57Z",
-          "image": "https://ca-times.brightspotcdn.com/dims4/default/866e925/2147483647/strip/true/crop/3000x1575+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F91%2Fc4%2F91e9e25840d6bb00a8852e780bdd%2Fciara-miller-and-maura-higgins.jpg",
+          "publishedAt": "2026-04-23T22:21:14Z",
+          "image": "https://media.timeout.com/images/106397768/image.jpg",
           "language": "en"
         },
         {
-          "title": "‘I could not be more clear’: Detail even Kyle Sandilands was missing in ‘bullying’ claims",
-          "description": "Kyle Sandilands insists he was not accused of bullying co-host Jackie “O” Henderson before he was suspended and later terminated from ARN, news.com.au understands.",
-          "url": "https://www.news.com.au/entertainment/tv/radio/i-could-not-be-more-clear-detail-even-kyle-sandilands-was-missing-in-bullying-claims/news-story/94b0265be01ee0f4c57d2a42d713e017",
+          "title": "Decoding the evolution of melodic and harmonic structure of Western music through the lens of network science",
+          "description": "Music has always been central to human culture, reflecting and shaping traditions, emotions, and societal changes. Therefore, analysing the quantitative properties of musical compositions can provide insights into specific aspects of human cultural evolution. In this study, we conduct a large-scale analysis of approximately 20,000 musical pieces rooted in Western musical practices. The resulting dataset encompasses MIDI transcriptions of works from six major macro-genres, spanning nearly four centuries of musical history. We model musical composition as weighted directed networks, enabling a systematic investigation of melodic and harmonic properties through a network-based representation of music. Our results show that different genres have distinct topological and musical properties, providing valuable insights into the origins of their differences. Moreover, a temporal analysis reveals systematic changes in network-based measures, suggesting a trend toward increasing similarity and reduced complexity in the melodic and harmonic structures. Notably, within this analytical perspective, even long-established and structurally complex genres such as Classical and Jazz display patterns that are increasingly comparable to those of more recent genres.",
+          "url": "https://www.nature.com/articles/s41598-026-42872-7?error=cookies_not_supported&code=3649a7f5-db51-4efd-850e-7fcd8795a00f",
           "source": {
-            "name": "News.com.au"
+            "name": "Nature"
           },
-          "publishedAt": "2026-04-23T20:05:23Z",
-          "image": "https://content.api.news/v3/images/bin/68182f5fcb5d5d20fd81c0ee1b4484ca",
+          "publishedAt": "2026-04-23T22:21:11Z",
+          "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-42872-7/MediaObjects/41598_2026_42872_Fig1_HTML.png",
           "language": "en"
         },
         {
-          "title": "Recognizing the Importance of Design, Content, and Delivery Features of Health Animations for Preventive Health Behaviors: Realist Review",
-          "description": "Background: Animated messages designed to promote preventive health behaviors (health animations) are a prevalent form of digital health communication globally and are used across a variety of health behaviors. Health animations are visual and can be less reliant on language, helping to reduce health literacy barriers and inequities. Being easily and inexpensively shared, they are a potentially powerful tool for disease prevention. Evidence suggests that animations can be effective in health and non–health care settings. Despite a plethora of health animations in existence and their potential reach and scale, evidence underpinning their design and application, including the potential causal mechanisms at work, is often limited or unknown.\nObjective: This realist review aimed to understand why, how, for whom, to what extent, and when health animations designed to promote preventive health behaviors work.\nMethods: The review was conducted in accordance with the Realist and Meta-narrative Evidence Syntheses: Evolving Standards (RAMESES). Peer-reviewed publications identified through database searching from inception until April 27, 2025, as well as gray literature, were considered for inclusion. Animations designed to promote preventive health behaviors in any population and evaluations using any design were included. Animations that could not be viewed, were designed to treat illness or disease, or were part of multicomponent interventions were excluded. Data were appraised for their relevance, rigor, and richness. Data syntheses sought to produce context-mechanism-outcome configurations, contributing to a program theory of health animations. International stakeholder workshops with professionals and members of the public were used to sense check findings and refine the program theory.\nResults: This review synthesized data from evaluations of 48 health animations. Within the data, design, content, and delivery constructs were identified, including audience or challenge representation, using storytelling, evoking emotion, accessibility, and other contexts. These contexts enabled the triggering of key mechanisms, such as identification, transportation into a story, attention, building self-efficacy, and cognitive processes. The evidence available for synthesis in the building of our program theory of health animations was limited by a lack of data on behavioral outcomes, meaning that the theory is largely derived from evidence of the contexts and mechanisms influencing key determinants known to affect behavior. These key determinants include behavioral intentions, skills and attitudes, and knowledge as a key factor in raising awareness of the need to change behavior.\nConclusions: This realist review advances the understanding of the impact of health animations designed to promote preventive health behaviors by providing insight into the design, content, and delivery features at work. Our program theory describes the specific contexts and mechanisms that influence evidence-based determinants of behavior and behavior change. These contexts and mechanisms, therefore, should be considered during health animation design and development processes. A set of 10 recommendations is provided to this end.\nTrial Registration: Review registration: PROSPERO CRD42023447127;",
-          "url": "https://www.jmir.org/2026/1/e79769",
+          "title": "Microsoft CEO Satya Nadella exclusive Australian interview on AI training for workers",
+          "description": "A﻿nd the man in charge says Australia is in a prime position for the major growth technology.",
+          "url": "https://www.9news.com.au/technology/microsoft-ceo-satya-nadella-exclusive-australian-workers-ai-training/ad59e869-eb6d-4b86-a5f0-5c703aed920b",
           "source": {
-            "name": "Journal of Medical Internet Research"
+            "name": "9News"
           },
-          "publishedAt": "2026-04-23T20:05:14Z",
-          "image": "https://asset.jmir.pub/assets/8472fbf866d04ca1abf32975249a6d2a.png",
+          "publishedAt": "2026-04-23T22:20:00Z",
+          "image": "https://imageresizer.static9.net.au/x3WsMwfshReMyGSo1GSvY3hXuHU=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F6ea5550a-3edc-481d-a5d6-87b9337aacef",
           "language": "en"
         },
         {
-          "title": "Intel (INTC) Q1 2026 earnings report",
-          "description": "Intel has been a Wall Street darling of late even as the business has yet to find much momentum.",
-          "url": "https://www.cnbc.com/2026/04/23/intel-intc-q1-2026-earnings-report.html",
+          "title": "Meta lines up layoffs while Microsoft offers buyouts",
+          "description": "Meta will lay off 8,000 workers while Microsoft is offering buyouts to 8,750 people, a first for the Windows maker.",
+          "url": "https://www.aljazeera.com/economy/2026/4/23/meta-lines-up-layoffs-while-microsoft-offers-buyouts",
           "source": {
-            "name": "CNBC"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-04-23T20:04:43Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108209988-1760019895734-lib-bu-tan-wafer-ultra-core-3-1024x726.jpg?v=1769029098&w=1920&h=1080",
+          "publishedAt": "2026-04-23T22:16:49Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-09T103924Z_565968379_RC2VPGAKTI7X_RTRMADP_3_EU-META-PLATFORMS-AI-ANTITRUST-1770666518.jpg?resize=1920%2C1440",
           "language": "en"
         },
         {
-          "title": "NFL Draft Talking Points: $75m mistake may be worth making; QB mystery to force giant gamble",
-          "description": "$75m mistake may be worth making; QB mystery to force giant gamble — NFL Draft Talking Pts",
-          "url": "https://www.foxsports.com.au/nfl/nfl-draft-2026-top-nfl-draft-storylines-and-what-time-does-it-start-in-australia-jeremiyah-love-rb-gamble-ty-simpson-secondbest-qb-analysis-latest-news/news-story/3f4b171672f0dd889ded75fbd0fc33d8",
+          "title": "Winnipeg mayor, councillors raise questions after Salisbury House loses contract to U.S. company",
+          "description": "Some Winnipeg city council members are questioning why a local restaurant chain lost a long-standing contract to a massive U.S.-based company.",
+          "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-golf-food-cart-contract-salisbury-house-9.7175243",
           "source": {
-            "name": "Fox Sports"
+            "name": "CBC"
           },
-          "publishedAt": "2026-04-23T20:04:24Z",
-          "image": "https://content.api.news/v3/images/bin/5ae10a89dd7aaee29a0cd6aa006da297",
+          "publishedAt": "2026-04-23T22:13:25Z",
+          "image": "https://i.cbc.ca/ais/5da7614e-e0ef-4115-b356-e2a2ea5e0ad9,1776982758715/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4253%2C2392%29%3BResize%3D620",
           "language": "en"
         },
         {
-          "title": "Weather: Orange heavy rain warning for parts of North Island",
-          "description": "Parts of Northland, Auckland and Great Barrier Island are under an orange heavy rain warning.",
-          "url": "https://www.rnz.co.nz/news/weather/593294/weather-orange-heavy-rain-warning-for-parts-of-north-island",
+          "title": "Premier League Darts 2026: Luke Littler beats Jonny Clayton to win in Liverpool",
+          "description": "Luke Littler strengthens his grip on a play-off place in the Premier League with an impressive 6-1 win over Jonny Clayton.",
+          "url": "https://www.bbc.com/sport/darts/articles/cx2v3g2qyx7o",
           "source": {
-            "name": "RNZ"
+            "name": "BBC"
           },
-          "publishedAt": "2026-04-23T20:04:03Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--fHgL4F42--/t_tohu-badge-facebook/v1776973451/4JPOJUG_rainradar_png?_a=BACCd2AD",
+          "publishedAt": "2026-04-23T22:12:54Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d057/live/0caabae0-3f5d-11f1-9408-3f7cd6d6e33c.jpg",
           "language": "en"
         },
         {
-          "title": "Instagram tests a new 'Instants' app for sharing disappearing photos",
-          "description": "The app lets users share disappearing photos with their friends that can be viewed only once and remain available for 24 hours.",
-          "url": "https://techcrunch.com/2026/04/23/instagram-tests-a-new-instants-app-for-sharing-disappearing-photos/",
+          "title": "Premier League Darts 2026: Luke Littler beats Jonny Clayton to win in Liverpool",
+          "description": "Luke Littler strengthens his grip on a play-off place in the Premier League with an impressive 6-1 win over Jonny Clayton.",
+          "url": "https://www.bbc.co.uk/sport/darts/articles/cx2v3g2qyx7o",
           "source": {
-            "name": "TechCrunch"
+            "name": "BBC"
           },
-          "publishedAt": "2026-04-23T20:03:53Z",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/04/Instants-by-IG.jpg?resize=1200,712",
+          "publishedAt": "2026-04-23T22:12:54Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d057/live/0caabae0-3f5d-11f1-9408-3f7cd6d6e33c.jpg",
           "language": "en"
         },
         {
-          "title": "Proton FLASH therapy protects healthy tissue by preserving gut microbiome",
-          "description": "Discovery at KU Cancer Center paves the way for delivering powerful, tumor-killing doses of proton therapy with minimal side effects.",
-          "url": "https://www.kumc.edu/about/news/news-archive/proton-therapy-and-microbiome.html",
+          "title": "On The Up: The Rookie stars Melissa O’Neil and Lisseth Chavez spotted in Rotorua",
+          "description": "A Rotorua worker was trying to stay professional when two actors walked through the door. Melissa O’Neil and Lisseth Chavez, who play Lucy Chen and Celina...",
+          "url": "https://www.nzherald.co.nz/rotorua-daily-post/news/on-the-up-the-rookie-stars-melissa-oneil-and-lisseth-chavez-spotted-in-rotorua/PT7GOTABXZBJ7O7KNVXYXD2QJU/",
           "source": {
-            "name": "University of Kansas Medical Center"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-04-23T20:02:33Z",
-          "image": "https://www.kumc.edu/images/news/news-microbiome.jpg",
+          "publishedAt": "2026-04-23T22:12:47Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/3ZNGSQOJRNFPJCENJVZ62T36X4.jpg?auth=916b1c24cfbaea01e008ce6c3fb6e1b0da880fae6eaa2c8c2ed6e4aab1a93a25&width=1200&height=675&quality=70&focal=535%2C847&smart=false",
           "language": "en"
         },
         {
-          "title": "Landless People’s Movement demands an end to bailouts for state-owned enterprises",
-          "description": "%%title%% %%sep%% %%primary_category%% %%sep%% %%sitename%% %%sep%% The Landless People’s Movement (LPM) is calling for state-owned enterprises (SOEs) to become financially independent and end their reliance on government bailouts.",
-          "url": "https://www.namibian.com.na/landless-peoples-movement-demands-an-end-to-bailouts-for-state-owned-enterprises/",
-          "source": {
-            "name": "The Namibian -"
-          },
-          "publishedAt": "2026-04-23T20:01:00Z",
-          "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-7.09.41-PM-1024x768.jpeg",
-          "language": "en"
-        },
-        {
-          "title": "MTN to compensate users for poor network service & upgrade",
-          "description": "MTN Nigeria will compensate subscribers for poor network service following a regulator directive. Learn about their plans for network upgrades and investme",
-          "url": "https://punchng.com/mtn-to-compensate-subscribers-for-poor-service-plans-network-upgrades/",
+          "title": "Ruto takes swipe at Nigerians' spoken English",
+          "description": "Kenyan President William Ruto criticises Nigerians' spoken English, sparking an online debate, possibly in response to comments from President Tinubu.",
+          "url": "https://punchng.com/kenyan-president-takes-swipe-at-nigerians-spoken-english/",
           "source": {
             "name": "Punch Newspapers"
           },
-          "publishedAt": "2026-04-23T20:00:41Z",
-          "image": "https://cdn.punchng.com/wp-content/uploads/2025/02/08163242/MTN-new-logo-e1663465256894.jpg",
+          "publishedAt": "2026-04-23T22:12:08Z",
+          "image": "https://cdn.punchng.com/wp-content/uploads/2022/08/15202055/William-Ruto.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Body found in burnt out car on Kapiti Coast beach",
+          "description": "The body was found after emergency services were called to a vehicle fire on the beach near Peka Peka Road.",
+          "url": "https://www.1news.co.nz/2026/04/24/body-found-in-burnt-out-car-on-kapiti-coast-beach/",
+          "source": {
+            "name": "1News"
+          },
+          "publishedAt": "2026-04-23T22:11:50Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/police-investigators-at-the-scene-of-a-burnt-out-car-on-the-TNWMETOLB5E3TN364QFUQRPHVM.jpg?auth=6932ce325fdd3ad3808aa0bcc6a2b2ccfd7301dc25de6dfc96d749eda58b7f1f&quality=70&width=600&height=315&focal=2016%2C1134",
           "language": "en"
         }
       ]
