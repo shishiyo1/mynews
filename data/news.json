@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-04-24T16:05:31.165Z",
+  "updatedAt": "2026-04-24T18:55:41.124Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "龍が如く３外伝 Dark Ties』がセールに初登場！ 『ソニックレーシング クロスワールド』も注目の「セガ GWセール」開催中！｜セガ SEGA",
+          "description": "株式会社セガは、PlayStation™Storeおよびニンテンドーeショップ、 Steamにて販売中の一部PS5／PS4／Switch／Switch2／Steam用タイトルを対象とし、期間限定で特別価格にて販売する「セガ GWセール」を開催中です。",
+          "url": "https://www.sega.jp/topics/detail/260424_1/",
+          "source": {
+            "name": "sega.jp"
+          },
+          "publishedAt": "2026-04-24T06:29:12Z",
+          "image": "https://www.sega.jp/upload_files/co/topics/2026/04/260424_1_00.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【期間限定無料プレイ】『ソニックレーシング クロスワールド』無料で遊び尽くすチャンス！フリプ実施決定、40％オフセールも",
+          "description": "PS5/PS4/Steam版『ソニックレーシング クロスワールド』が40％OFFに。Steam版には期間限定フリープレイも。",
+          "url": "https://www.gamespark.jp/article/2026/04/24/165626.html",
+          "source": {
+            "name": "Game*Spark"
+          },
+          "publishedAt": "2026-04-24T05:50:03Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1120849.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "サブスクガッツリ活用ゲーマーに朗報！「GeForce NOW」でGame PassやUbisoft+対象タイトルがわかりやすくなるアプデ",
+          "description": "ガッツリゲームを遊ぶゲーマーに。",
+          "url": "https://www.gamespark.jp/article/2026/04/24/165625.html",
+          "source": {
+            "name": "Game*Spark"
+          },
+          "publishedAt": "2026-04-24T05:40:04Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1120910.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "バリバリ伝説の“あのCB750F”に跨り、走る。",
+          "description": "有限会社プロトタイプのプレスリリース（2026年4月24日 13時59分）バリバリ伝説の“あのCB750F”に跨り、走る。",
+          "url": "https://prtimes.jp/main/html/rd/p/000000008.000026842.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-04-24T04:59:10Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/26842/8/26842-8-c303bc69bf20c9aa51055bafdcbf930d-3900x2925.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "トランプ氏、イスラエルとレバノンの停戦の3週間延長を発表 イランとの合意は「急がない」",
+          "description": "アメリカのトランプ大統領は23日、同国が仲介したイスラエルとレバノンの停戦を3週間延長すると発表した。一方、イランをめぐっては、合意を「急ぐつもりはない」と述べた。BBCとの電話取材では、イランとの戦争にイギリスが加わっていないことをあらためて批判した。",
+          "url": "https://www.bbc.com/japanese/articles/c9qdzr3gwdno",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-04-24T04:33:24Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_japanese/f07b/live/7d2a7870-3f8d-11f1-bc67-435906a637c8.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "トランプ氏、イスラエルとレバノンの停戦の3週間延長を発表 イランとの合意は「急がない」",
+          "description": "アメリカのドナルド・トランプ大統領は23日、同国が仲介したイスラエルとレバノンの停戦を3週間延長すると発表した。一方、イランをめぐっては、合意を「急ぐつもりはない」と述べた。BBCとの電話取材では、",
+          "url": "https://news.yahoo.co.jp/articles/b12f3dbb76c8e95d1742389f566893dad7c63e01",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-04-24T04:30:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260424-16150459-bbc-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "BIKERS PARADISE 7周年記念企画展 第１弾「バイクが好きになる、この空間へ」開催！ 2026年4月24日（金）〜7月5日（日）",
+          "description": "株式会社バイカーズパラダイスのプレスリリース（2026年4月24日 13時23分）BIKERS PARADISE 7周年記念企画展 第１弾「バイクが好きになる、この空間へ」開催！　2026年4月24日（金）〜7月5日（日）",
+          "url": "https://prtimes.jp/main/html/rd/p/000000026.000116177.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-04-24T04:23:09Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/116177/26/116177-26-2e30dc59e4a0058eeee2989a26153232-2550x1388.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
         {
           "title": "今年も開催！ 5月12日｢The Android Show 2026｣、モバイルOSや新端末を語る",
           "description": "Googleが毎年開催する開発者向けカンファレンスGoogle I/O。今年は5月の19日、20日に開催されます。日本時間では19日真夜中26時（20日2時）からスタート。 Googleの最新動向を知る重要なイベントです、が、今年はその前にも注目すべきイベントが！Googleの新定番？ ｢The Android Show｣ネタ元の9to5Googleが｢The Android Show: I/O",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-04-24T03:28:00Z",
           "image": "https://cimg.kgl-systems.io/camion/files/72976/thumbnail_JLBZ.jpeg?x=1280",
           "language": "ja"
-        },
-        {
-          "title": "焦点：中国、台湾野党の「声」を情報戦に活用 ＳＮＳで動画を大量拡散",
-          "description": "昨年１２月、中国が台湾の周辺で軍事演習を活発化させていた時期に、台湾の最大野党・国民党の鄭麗文党首が原因は台湾の頼清徳総統にあると非難する動画を、中国共産党系のニュースメディアが交流サイト（ＳＮＳ）に投稿した。この５１秒間の動画は中国の短編動画投稿アプリ「ＴｉｋＴｏｋ（ティックトック）」の中国版「抖音（ドウイン）」に投稿され、​フェイスブックやユーチューブなどにも拡散された。",
-          "url": "https://jp.reuters.com/world/taiwan/IOBI2MVSNRLVDIB25IXOGW3GQQ-2026-04-24/",
-          "source": {
-            "name": "Reuters"
-          },
-          "publishedAt": "2026-04-24T02:44:00Z",
-          "image": "https://www.reuters.com/resizer/v2/G7ZETYCM2VNLDFUQYHIKGYPCIM.jpg?auth=a00de26a012ae2c0b6dd4deeffcec4912d96ad13e89cc9a826e40b9e2bcb230c&height=1005&width=1920&quality=80&smart=true",
-          "language": "ja"
-        },
-        {
-          "title": "「霊視できる知人が『ユキくんは姿勢が変わり“移動”している』と…」安達結希くんの母親が友人に打ち明けていた胸中と“生存”を信じていたワケ 《京都小6死体遺棄》",
-          "description": "〈安達結希（あだち　ゆき）くん　小学5年生が行方不明になっています〉（捜索協力のポスターより）",
-          "url": "https://news.yahoo.co.jp/articles/b04ad677a944f2ef776fe704b5b17cfb264df7fb",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-04-24T02:15:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260424-00000011-pseven-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "『ソニックレーシング クロスワールド』",
-          "description": "株式会社セガは、発売中の『ソニックレーシング クロスワールド』について、PlayStation™ Storeおよび PC（Steam）にて40%OFFとなる「ゴールデンウィークセール」を開催中です。PlayStation™ Storeでは2026年5月6日（水）まで、PC（Steam）では5月8日（金）までセールを実施予定です。 また、5月1日（金）から5月5日（火）まで期間限定で、PC（Steam）にて、製品版を無料でプレイできるフリープレイイベントを実施することをお知らせいたします。",
-          "url": "https://www.sega.jp/topics/detail/260424_6/",
-          "source": {
-            "name": "sega.jp"
-          },
-          "publishedAt": "2026-04-24T02:03:00Z",
-          "image": "https://www.sega.jp/upload_files/co/topics/2026/04/260424_6_00.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Adobe Fireflyでfav meデビュー1周年をファンと共創するSNSキャンペーンを4月24日から開始",
-          "description": "アドビ株式会社のプレスリリース（2026年4月24日 11時00分）Adobe Fireflyでfav meデビュー1周年をファンと共創するSNSキャンペーンを4月24日から開始",
-          "url": "https://prtimes.jp/main/html/rd/p/000000547.000041087.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-04-24T02:00:58Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/41087/547/41087-547-2c70add9a3ca846ec9eab2c63752f3ee-2517x1027.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "「テイルズ オブ ヴェスペリア」ユーリの魔導器をモチーフにしたメタルバングルの制作を決定。4月24日（金）より予約受付開始",
-          "description": "株式会社 東栄のプレスリリース（2026年4月24日 10時48分）「テイルズ オブ ヴェスペリア」ユーリの魔導器をモチーフにしたメタルバングルの制作を決定。4月24日（金）より予約受付開始",
-          "url": "https://prtimes.jp/main/html/rd/p/000000047.000068154.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-04-24T01:48:17Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/68154/47/68154-47-3b5439c9f28686c474e5136d9a27b4f6-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "『ソニックレーシング クロスワールド』 PlayStation(R)5・Steam版が40%OFFセール開催中！5月1日よりSteamで製品版を無料で楽しめるフリープレイイベント実施",
-          "description": "株式会社セガのプレスリリース（2026年4月24日 10時40分）『ソニックレーシング クロスワールド』 PlayStation(R)5・Steam版が40%OFFセール開催中！5月1日よりSteamで製品版を無料で楽しめるフリープレイイベント実施",
-          "url": "https://prtimes.jp/main/html/rd/p/000007325.000005397.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-04-24T01:40:40Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/5397/7325/5397-7325-ca1d57e26bca5e62523fe3bd18a29321-1200x628.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "賀集利樹、要潤、友井雄亮らが集結！仮面ライダーアギト25周年「真アギト展」内覧レポ（写真11枚）",
-          "description": "特撮ドラマ「仮面ライダーアギト」の放送25周年を記念した展覧会「真アギト展」の内覧会に、映画ナタリーが潜入した。",
-          "url": "https://natalie.mu/eiga/news/669421",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-04-24T01:00:00Z",
-          "image": "https://ogre.natalie.mu/media/news/eiga/2026/0424/agito25th_20260424_01.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Two Resuscitation Fluids Led to Similar Outcomes in Kids With Septic Shock",
-          "description": "Findings offer 'reassurance' that 'isotonic fluids of any kind are totally fine,' expert says",
-          "url": "https://www.medpagetoday.com/meetingcoverage/pas/120938",
+          "title": "Zimbabwe: 'What Office Does He Hold?' - Chivayo's ZITF Appearance Alongside Mnangagwa, Boko Sparks Outrage",
+          "description": "The appearance of controversial tenderpreneur Wicknell Chivayo at the Zimbabwe International Trade Fair (ZITF) alongside President Emmerson Mnangagwa and visiting Botswana leader Duma Boko has stirred unease among Zimbabweans online.",
+          "url": "https://allafrica.com/stories/202604240094.html",
           "source": {
-            "name": "MedPage Today"
+            "name": "allAfrica.com"
           },
-          "publishedAt": "2026-04-24T04:05:28Z",
-          "image": "https://assets.medpagetoday.net/media/images/120xxx/120938.jpg",
+          "publishedAt": "2026-04-24T06:54:58Z",
+          "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
           "language": "en"
         },
         {
-          "title": "Zimbabwe Cracks Down on Student Protests",
-          "description": "Zimbabwean authorities have harassed, abducted, and arbitrarily detained student leaders protesting a proposed constitutional amendment to extend",
-          "url": "https://www.miragenews.com/zimbabwe-cracks-down-on-student-protests-1661560/",
+          "title": "Batenga Nakisozi: Uganda National Rowing head coach attains International Certification",
+          "description": "The Uganda national rowing head coach Batenga Nakisozi has completed the International Coaching Enrichment Certificate Program (ICECP).",
+          "url": "https://kawowo.com/2026/04/24/batenga-nakisozi-uganda-national-rowing-head-coach-attains-international-certification/",
           "source": {
-            "name": "Mirage News"
+            "name": "Kawowo Sports"
           },
-          "publishedAt": "2026-04-24T04:05:00Z",
-          "image": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2026/04/202604afr_zimbabawe_constitution_amendment_3.JPG?h=caf26d13&itok=ER2ltHk_",
+          "publishedAt": "2026-04-24T06:54:24Z",
+          "image": "https://kawowo.com/wp-content/uploads/2026/04/Batenga-Nakisozi-during-her-presentation.jpg",
           "language": "en"
         },
         {
-          "title": "ILO and Banda Aceh City Government collaborate to strengthen MSMEs and support the Perfume City Programme",
-          "description": "A collaborative effort to strengthen the patchouli value chain as part of realizing Banda Aceh as a Perfume City by expanding MSMEs’ access to finance, markets and digitalization.",
-          "url": "https://www.ilo.org/resource/news/ilo-and-banda-aceh-city-government-collaborate-strengthen-msmes-and-support",
+          "title": "PH, Indonesia reaffirm strategic ties at ministerial meeting",
+          "description": "MANILA, Philippines — The Philippines and Indonesia reaffirmed their longstanding partnership and expanded areas of cooperation during the 8th Ministerial Meeting of the Philippines-Indonesia Joint Commission for Bilateral Cooperation (JCBC), officials said Friday.",
+          "url": "https://www.manilatimes.net/2026/04/24/news/ph-indonesia-reaffirm-strategic-ties-at-ministerial-meeting/2327814",
           "source": {
-            "name": "International Labour Organization"
+            "name": "The Manila Times"
           },
-          "publishedAt": "2026-04-24T04:03:34Z",
-          "image": "https://www.ilo.org/sites/default/files/2026-04/ILO%20and%20City%20Government%20of%20Banda%20Aceh%20signed%20MoU%20%20in%20Indonesia.jpg",
+          "publishedAt": "2026-04-24T06:54:00Z",
+          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/24/1027383.jpg",
           "language": "en"
         },
         {
-          "title": "APC's 'exorbitant' cost of nomination forms raises corruption, integrity concerns",
-          "description": "A non-corrupt permanent secretary would need to save every naira of their salary for 13 years to afford the APC presidential form.",
-          "url": "https://www.premiumtimesng.com/news/top-news/874282-apcs-exorbitant-cost-of-nomination-forms-raises-corruption-integrity-concerns.html",
+          "title": "Grudge, turf war behind Bangsar shooting incident, says CID director",
+          "description": "KUALA LUMPUR: An old grudge and a turf war between organised crime groups are believed to be the motives behind a shooting outside an entertainment outlet along Jalan Telawi in Bangsar recently.",
+          "url": "https://www.thestar.com.my/news/nation/2026/04/24/grudge-turf-war-behind-bangsar-shooting-incident-says-cid-director",
           "source": {
-            "name": "Premium Times Nigeria"
+            "name": "The Star"
           },
-          "publishedAt": "2026-04-24T04:02:43Z",
-          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/01/FmN1uiGaUAMwVis.jpg?fit=1440%2C960&ssl=1",
+          "publishedAt": "2026-04-24T06:52:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/04/24/3875809.jpg",
           "language": "en"
         },
         {
-          "title": "Roman shipwreck reveals fascinating history of repairs throughout the Adriatic 2,200 years ago",
-          "description": "For thousands of years, humans have used a variety of waterproofing materials on ships and boats, but traditionally non-wood materials used in shipbuilding have been overlooked in the research. Now, scientist analyzed the coatings of a Roman Republic shipwreck and were able to use pollen trapped in the coatings to identify the vegetation of the landscapes where the ship was constructed and repaired successively. They found several layers of coatings were applied, likely at different ports or shipyards throughout the Adriatic Sea. The team said this work helps gain a more complete understanding of the ship’s ‘life stages’ and diverse shipbuilding traditions.",
-          "url": "https://www.eurekalert.org/news-releases/1123473",
+          "title": "MOONTON Games' MythPalz arrives in soft launch on Android in select regions, helping players connect, improve, and rank up",
+          "description": "MythPalz, a new social gaming companion from Vizta Games, is now available in soft launch on Android in select regions.",
+          "url": "https://gamingonphone.com/news/moonton-games-mythpalz-arrives-in-soft-launch-on-android-in-select-regions-helping-players-connect-improve-and-rank-up/",
           "source": {
-            "name": "EurekAlert!"
+            "name": "GamingonPhone"
           },
-          "publishedAt": "2026-04-24T04:02:43Z",
-          "image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/62e33a26-3d8b-426e-9d61-b16b491bb160/Rendition/thumbnail/Content/Public",
+          "publishedAt": "2026-04-24T06:51:29Z",
+          "image": "https://i0.wp.com/gamingonphone.com/wp-content/uploads/2026/04/mythpalz-soft-launch-cover.jpg",
           "language": "en"
         },
         {
-          "title": "JBL Celebrates 80 Years of Audio Innovation; Launches New JBL Bar Series with Dolby Atmos in India",
-          "description": "Bangalore – April 24, 2026 – As JBL marks its 80th anniversary, we celebrate a legacy not just in music, but in shaping how the world experiences cinema. From blockbuster premieres to immersive large-format screens, JBL sound has long been the leading...",
-          "url": "https://news.harman.com/releases/jbl-celebrates-80-years-of-audio-innovation-launches-new-jbl-bar-series-with-dolby-atmos-in-india",
+          "title": "Weak outlook, ‘challenging’ environment weigh on sentiment as IT stocks bleed post Q4 earnings",
+          "description": "IT stocks decline: On Friday, April 24, the NIFTY IT index tumbled as much as 1,252.2 points, or 4.15%, to hit the low of 28,872.10 against the previous close of 30,124.30 levels.",
+          "url": "https://upstox.com/news/market-news/stocks/it-stocks-bleed-after-q4-results-nifty-it-nosedives-10-in-5-sessions-top-takeaways-from-earnings/article-192685/",
           "source": {
-            "name": "HARMAN Newsroom"
+            "name": "Upstox"
           },
-          "publishedAt": "2026-04-24T04:02:31Z",
-          "image": "https://iprsoftwaremedia.com/214/files/20263/a8ad84a4e2d302a12cc987af899d27a1/69eaea533d6332ecf0d7abcc_JBL-_1300/JBL-_1300_mid.jpg",
+          "publishedAt": "2026-04-24T06:51:14Z",
+          "image": "https://assets.upstox.com/content/assets/images/news/it-stocks-tumble-april-24-2026.webp",
           "language": "en"
         },
         {
-          "title": "In Britain, 7 Unelected Lords Are Helping to Block an Assisted Dying Bill",
-          "description": "A small group in the House of Lords has proposed hundreds of amendments that are helping stymie a bill that was meant to legalize medically assisted death for the terminally ill.",
-          "url": "https://www.nytimes.com/2026/04/24/world/europe/uk-assisted-dying-bill-lords.html",
+          "title": "Respect Oburu, Atandi tells Linda Mwananchi leaders ahead of Kisumu rally",
+          "description": "Atandi warned Linda Mwananchi leaders against issuing inflammatory statements during their visit.",
+          "url": "https://www.standardmedia.co.ke/politics/article/2001546150/respect-oburu-atandi-tells-linda-mwananchi-leaders-ahead-of-kisumu-rally",
           "source": {
-            "name": "The New York Times"
+            "name": "standardmedia.co.ke"
           },
-          "publishedAt": "2026-04-24T04:01:08Z",
-          "image": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-uk-assisted-dying-top-hgcb/21int-uk-assisted-dying-top-hgcb-facebookJumbo.jpg",
+          "publishedAt": "2026-04-24T06:50:13Z",
+          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/dmwadE46R4zLwzHSh8857wlnaIyjixYwcwuwaKGX.jpg",
           "language": "en"
         },
         {
-          "title": "Caleb Downs drafted by Cowboys as first-round pick",
-          "description": "Looking to continue their defensive rebuild, the Cowboys select Caleb Downs after trading up to grab him in the 2026 NFL Draft.",
-          "url": "https://www.dallascowboys.com/news/caleb-downs-drafted-by-cowboys-as-first-round-pick",
+          "title": "Man who died after being hit by bus at Dublin Airport named",
+          "description": "Fleming was struck by a bus on Corballis Road shortly after midnight on Thursday and was pronounced dead at the scene.",
+          "url": "https://www.breakingnews.ie/ireland/man-who-died-after-being-hit-by-bus-at-dublin-airport-named-1890980.html",
           "source": {
-            "name": "Dallas Cowboys | Official Site of the Dallas Cowboys"
+            "name": "BreakingNews.ie"
           },
-          "publishedAt": "2026-04-24T04:00:41Z",
-          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/cowboys/nsymuzgcxiizyedqhg9e",
+          "publishedAt": "2026-04-24T06:49:47Z",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDRcXFwvMjMwOTQ3MTFcXFwvcnRjLWR1Ymxpbi1haXBvcnQtNS1lMTc3NzAxMjc0MDU0MC5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjE2NzljNjliZjE3NzRjMWUzYTUyOGZhOGQwMGYzODA4ODFiYjAyMzAifQ==/man-who-died-after-being-hit-by-bus-at-dublin-airport-named.jpg",
           "language": "en"
         },
         {
-          "title": "Ggaba daycare murder suspect begins defence today",
-          "description": "Okello had asked the court for a weekend adjournment to review case records and prepare his defence",
-          "url": "https://www.monitor.co.ug/uganda/news/national/ggaba-daycare-murder-suspect-begins-defence-today-5434322",
+          "title": "Chevron Championship: Nelly Korda takes lead as England's Mimi Rhodes impresses",
+          "description": "American Nelly Korda takes a two shot lead at the Chevron Championship after the first round, with England's Mimi Rhodes lying fours shots off the top on her tournament debut.",
+          "url": "https://www.bbc.com/sport/golf/articles/cp86gg43r5go",
           "source": {
-            "name": "Daily Monitor"
+            "name": "BBC"
           },
-          "publishedAt": "2026-04-24T04:00:30Z",
-          "image": "https://www.monitor.co.ug/resource/image/5434330/landscape_ratio3x2/1200/800/17d2df581c95f00107c001ce501df830/uf/latest19pix.png",
+          "publishedAt": "2026-04-24T06:48:54Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fa21/live/1550e4a0-3fa6-11f1-b7fe-5bf54e67de0f.jpg",
           "language": "en"
         },
         {
-          "title": "Connections: Sports Edition today: Hints and answers for April 24, 2026, puzzle No. 578",
-          "description": "Welcome to Connections: Sports Edition Coach — a spot to gather clues and discuss (and share) scores.",
-          "url": "https://www.nytimes.com/athletic/7224171/2026/04/24/connections-sports-edition-hints-answers-april-24-2026/",
+          "title": "Iran, US-Israel war LIVE updates: Expensive petrol is price for nuclear-free Iran, says Trump – ‘No rush on Iran deal’",
+          "description": "Iran, US-Israel war LIVE updates: Trump ruled out using nuclear weapons against Iran, saying they should never be used, but declined to give a timeline for ending the war. He compared the conflict to long US wars in Vietnam and Iraq, while tensions rose in the Strait of Hormuz. Brent crude climbed to $106.50 a barrel as markets reacted to escalating regional risks and uncertainty over peace efforts.",
+          "url": "https://www.financialexpress.com/world-news/iran-us-israel-war-live-updates-trump-ceasefire-strait-of-hormuz-blockade-pakistan-peace-talks-oil-price-today/4215539/",
           "source": {
-            "name": "The New York Times"
+            "name": "financialexpress.com"
           },
-          "publishedAt": "2026-04-24T04:00:19Z",
-          "image": "https://static01.nyt.com/athletic/uploads/wp/2026/04/23231945/04242026_ConnectionsCoach578-scaled.jpg?width=1200&height=630&fit=cover",
+          "publishedAt": "2026-04-24T06:48:12Z",
+          "image": "https://images.financialexpressdigital.com/2026/04/trumoiranisraelus.jpg",
           "language": "en"
         }
       ]
