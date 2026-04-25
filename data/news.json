@@ -1,10 +1,21 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-04-25T15:40:36.675Z",
+  "updatedAt": "2026-04-25T18:56:10.707Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "「りくりゅう」ら日本橋でパレード 五輪パラ選手、約110人が参加",
+          "description": "今年の2、3月にイタリアで開催されたミラノ・コルティナ冬季オリンピック（五輪）、パラリンピック大会に出場した日本選手団が25日、東京・日本橋で応援感謝パレードを行った。　約110人の選手が参加。選手…",
+          "url": "https://www.asahi.com/articles/ASV4T0HNDV4TUTQP004M.html",
+          "source": {
+            "name": "朝日新聞"
+          },
+          "publishedAt": "2026-04-25T06:34:40Z",
+          "image": "https://imgopt.asahi.com/ogp/AS20260425001572_comm.jpg",
+          "language": "ja"
+        },
         {
           "title": "銀座「厨子屋」リニューアル後10回目の節目となる企画展を開催。これまでの作家展とは異なる「日々のくらし」をテーマにした江口堂・初の展示会。",
           "description": "産経新聞社のニュースサイト。政治、経済、国際、社会、スポーツ、エンタメ、災害情報などの速報記事と解説記事を掲載しています。",
@@ -103,128 +114,117 @@
           "publishedAt": "2026-04-25T00:45:00Z",
           "image": "https://i.gimg.jp/cmsimg/421356.jpg",
           "language": "ja"
-        },
-        {
-          "title": "モジュール式ノートPCのFramework、初のUbuntu認証版がWindows版を上回る人気だと明かす",
-          "description": "FrameworkのノートPC新型「Laptop 13 Pro」は、Framework初のUbuntu認証取得済みノートPCであるという点でも大きな注目を集めている。しかも「Ubuntu搭載モデルがWindows搭載モデルを上回る売れ行きを見せている」とのことだ。",
-          "url": "https://gadget.phileweb.com/post-123488/",
-          "source": {
-            "name": "Gadget Gate"
-          },
-          "publishedAt": "2026-04-24T23:00:00Z",
-          "image": "https://gadget.phileweb.com/wp-content/uploads/2026/04/3ace12586dee56e6024b39e58c8c24bc.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "'Deliberate attempt to hinder full participation' - CRPL fumes over 'snub' in Anti-LGBTQ+ Bill process",
-          "description": "The Centre for Religion and Public Life (CRPL Ghana) has accused Parliament’s Constitutional and Legal Affairs Committee of deliberately frustrating stakeholder participation in discussions on the Human Sexual Human Rights and Family Values Bill,...",
-          "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Deliberate-attempt-to-hinder-full-participation-CRPL-fumes-over-snub-in-Anti-LGBTQ-Bill-process-2031524",
+          "title": "DOE, PNOC secure 21,000 MT LPG from US to strengthen supply amid Middle East crisis",
+          "description": "The Department of Energy (Department of Energy (Philippines)) and the Philippine National Oil Company (Philippine National Oil Company) have procured 21,000",
+          "url": "https://filipinotimes.net/latest-news/2026/04/25/doe-pnoc-secure-21000-mt-lpg-from-us-to-strengthen-supply-amid-middle-east-crisis/",
+          "source": {
+            "name": "The Filipino Times"
+          },
+          "publishedAt": "2026-04-25T06:56:05Z",
+          "image": "https://filipinotimes.net/wp-content/uploads/2026/04/TFT-Featured-photo-template-2026-04-25T143330.652.png",
+          "language": "en"
+        },
+        {
+          "title": "East Africa Rift Study Suggests Continent Slowly Splitting-and May Explain Fossil Richness",
+          "description": "A new study has found that the Earth’s crust beneath a key region in East Africa is thinning more than scientists previously thought—bringing the continent",
+          "url": "https://africa.dailynewsegypt.com/east-africa-rift-study-suggests-continent-slowly-splitting-and-may-explain-fossil-richness/",
+          "source": {
+            "name": "DNE Africa"
+          },
+          "publishedAt": "2026-04-25T06:55:03Z",
+          "image": "https://africa.dailynewsegypt.com/wp-content/uploads/2026/04/in-eastern-africa-the-1024x768.jpg",
+          "language": "en"
+        },
+        {
+          "title": "WHO prequalifies first-ever malaria treatment for infants",
+          "description": "On World Malaria Day on 25 April, the World Health Organisation (WHO) has announced a significant step forward in the fight against malaria with the prequalification of the first treatment developed specifically for newborns and young infants weighing between two and five kilograms, WAM reports.",
+          "url": "https://qazinform.com/news/who-prequalifies-first-ever-malaria-treatment-for-infants-728104",
+          "source": {
+            "name": "Qazinform"
+          },
+          "publishedAt": "2026-04-25T06:54:46Z",
+          "image": "https://img.inform.kz/kazinform-photobank/media/2025-04-25/1897fc88-6d74-403f-9286-88175942be61.jpeg",
+          "language": "en"
+        },
+        {
+          "title": "What Church of Pentecost Chairman said about galamsey that sparked backlash",
+          "description": "Chairman of the Church of Pentecost, Apostle Eric Nyamekye, has been in the news since April 23, 2026, after announcing that the church will no longer use rivers for baptism, but will instead use dedicated baptistries at its central assemblies.",
+          "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/What-Church-of-Pentecost-Chairman-said-about-galamsey-that-sparked-backlash-2031537",
           "source": {
             "name": "GhanaWeb"
           },
-          "publishedAt": "2026-04-25T03:38:06Z",
-          "image": "https://cdn.ghanaweb.com/imagelib/pics/708/70829523.jpg",
+          "publishedAt": "2026-04-25T06:53:07Z",
+          "image": "https://cdn.ghanaweb.com/imagelib/pics/555/55516276.jpg",
           "language": "en"
         },
         {
-          "title": "Feeling tired, bloated or always sick? Nutritionists share fruits that may help",
-          "description": "Feeling tired, bloated or sick? Nutritionists share fruits that may tackle common ailments and improve daily wellness.",
-          "url": "https://guardian.ng/life/feeling-tired-bloated-or-always-sick-nutritionists-share-fruits-that-may-help/",
+          "title": "Beaches at Sydney's Royal National Park close after dead whale brings 'significant' shark activity",
+          "description": "Several popular beaches in Sydney's Royal National Park are closed due to increased shark activity after a large whale carcass washes up on a rock platform.",
+          "url": "https://www.abc.net.au/news/2026-04-25/shark-activity-whale-carcass-found-sydney-royal-national-park/106606552",
           "source": {
-            "name": "The Guardian Nigeria News"
+            "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-04-25T03:38:05Z",
-          "image": "https://cdn.guardian.ng/wp-content/uploads/2026/04/fresh-mixed-fruits-pineapple-apples-oranges-pear-kiwi.jpg-scaled.jpg",
+          "publishedAt": "2026-04-25T06:52:39Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/d44f2ea2edff2ff6d849851580278db4?impolicy=wcms_watermark_news&cropH=2266&cropW=4028&xPos=0&yPos=379&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Iran says most missile capabilities 'unused' in war with US: Report",
-          "description": "A Defense Ministry's spokesperson said most of Iran’s missile capabilities have been",
-          "url": "https://www.nation.com.pk/25-Apr-2026/iran-says-missile-capabilities-unused-war-us-report",
+          "title": "RISE launched as sporting greats push reform amid athletics crisis",
+          "description": "Olympians, former stars and officials unite in a cross-sport movement as calls for leadership change grow over Malaysia Athletics turmoil.",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/04/25/rise-launched-as-sporting-greats-push-reform-amid-athletics-crisis",
           "source": {
-            "name": "The Nation (Pakistan )"
+            "name": "Free Malaysia Today"
           },
-          "publishedAt": "2026-04-25T03:36:44Z",
-          "image": "https://www.nation.com.pk/digital_images/large/2026-04-25/iran-says-missile-capabilities-unused-war-us-report-1777092415-8356.jpg",
+          "publishedAt": "2026-04-25T06:52:10Z",
+          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/04/24bccd74-3_rise_press_conference_moganraj_fmt_25042026-copy-2.webp",
           "language": "en"
         },
         {
-          "title": "Shots fired at three homes in Sydney, police say",
-          "description": "Police are investigating the drive-by shootings but say nobody was hurt.",
-          "url": "https://www.9news.com.au/national/nsw-crime-police-investigate-series-of-driveby-shootings-in-sydneys-south-west/c5f396db-269b-4681-9b75-c320a11e0f80",
+          "title": "M’Brace by Kamineni Hospitals Marks World Immunization Week with Awareness Drive",
+          "description": "Immunization remains one of the most significant achievements in public health, as it continues to protect individuals and communities from life-threatening infectious diseases. However, despite notable progress in vaccination programmes, […]",
+          "url": "https://theindianpractitioner.com/mbrace-by-kamineni-hospitals-marks-world-immunization-week-with-awareness-drive/",
           "source": {
-            "name": "9News"
+            "name": "The Indian Practitioner"
           },
-          "publishedAt": "2026-04-25T03:36:09Z",
-          "image": "https://imageresizer.static9.net.au/X9RHryb0bo9eYGXzrA4oAiuOkx4=/290x68:1903x975/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fb18f70ad-94d7-4e53-b7cf-894efaa4f6ce",
+          "publishedAt": "2026-04-25T06:51:32Z",
+          "image": "https://theindianpractitioner.com/wp-content/uploads/2026/04/MBrace-by-Kamineni-Hospitals-Marks-World-Immunization-Week-with-Awareness-Drive-1.jpeg",
           "language": "en"
         },
         {
-          "title": "Man admits to abandoning wife’s body in zoo incinerator in Hokkaido",
-          "description": "ASAHIKAWA, Hokkaido (Japan): A man in his 30s employed at the Asahiyama Zoo in Asahikawa, Hokkaido, has told police that he abandoned his wife's body in an incinerator at the zoo, investigative sources said Friday (April 24)",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/25/man-admits-to-abandoning-wifes-body-in-zoo-incinerator-in-hokkaido",
+          "title": "AINU Successfully Treats Incidentally Detected Kidney Cancer in Asymptomatic Patient",
+          "description": "A 42-year-old male patient underwent a routine master health check-up, during which an abdominal ultrasound incidentally revealed an approximately 8 cm mass in the left kidney. Notably, the patient had […]",
+          "url": "https://theindianpractitioner.com/ainu-successfully-treats-incidentally-detected-kidney-cancer-in-asymptomatic-patient/",
           "source": {
-            "name": "The Star"
+            "name": "The Indian Practitioner"
           },
-          "publishedAt": "2026-04-25T03:36:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/04/25/3877191.jpg",
+          "publishedAt": "2026-04-25T06:51:27Z",
+          "image": "https://theindianpractitioner.com/wp-content/uploads/2026/04/AINU-Successfully-Treats-Incidentally-Detected-Kidney-Cancer-in-Asymptomatic-Patient-1.jpeg",
           "language": "en"
         },
         {
-          "title": "Dirty Dancing: The Inside Story of the Irish-Dancing Cheating Scandal",
-          "description": "Book focuses on how reporter Ellen Coyne’s scoop grew legs and sent An Coimisiún le Rincí Gaelacha into a near-existential crisis",
-          "url": "https://www.irishtimes.com/culture/books/review/2026/04/25/dirty-dancing-the-inside-story-of-the-irish-dancing-cheating-scandal/",
+          "title": "Kylian Mbappe injury: Huge concern for Real Madrid & France as forward asks to be substituted with suspected hamstring issue",
+          "description": "Real Madrid and France face an anxious wait after Kylian Mbappe suffered a suspected hamstring injury during the draw against Real Betis.",
+          "url": "https://www.goal.com/en-ng/lists/real-madrid-kylian-mbappe-hamstring-injury-concern-france-world-cup/blta00c0ffbc968f0b3",
           "source": {
-            "name": "The Irish Times"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-04-25T03:34:34Z",
-          "image": "https://www.irishtimes.com/resizer/v2/7XQEKMV26JHLNEUEP3EQTPURKA.jpg?smart=true&auth=a5ca5e6e97eddd8af492f519240fca9b34090658ba2bf8f5f1d0fe65deb07598&width=1200&height=630",
+          "publishedAt": "2026-04-25T06:50:40Z",
+          "image": "https://assets.goal.com/images/v3/getty-2272301107/crop/MM5DGMBSGQ5DCNZQGE5G433XMU5DAORQ/GettyImages-2272301107.jpg",
           "language": "en"
         },
         {
-          "title": "Bea Alonzo secretly married to Vincent Co? Manila wedding rumors heat up online",
-          "description": "Conversation online has taken a new turn as rumors intensify that Bea Alonzo and businessman Vincent Co may have already tied the knot, quietly and away from...",
-          "url": "https://mb.com.ph/2026/04/25/bea-alonzo-secretly-married-to-vincent-co-manila-wedding-rumors-heat-up-online",
+          "title": "Kylian Mbappe injury: Huge concern for Real Madrid & France as forward asks to be substituted with suspected hamstring issue",
+          "description": "Real Madrid and France face an anxious wait after Kylian Mbappe suffered a suspected hamstring injury during the draw against Real Betis.",
+          "url": "https://www.goal.com/en-om/lists/real-madrid-kylian-mbappe-hamstring-injury-concern-france-world-cup/blta00c0ffbc968f0b3",
           "source": {
-            "name": "Manila Bulletin"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-04-25T03:33:30Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/04/25/96392.webp",
-          "language": "en"
-        },
-        {
-          "title": "FASHION PULIS: The loyal boy",
-          "description": "After being seen with Dashing Man (DM), Sexy Femme (SF) clarified that they are just friends. While showbiz followers speculated that something was brewing, SF...",
-          "url": "https://mb.com.ph/2026/04/25/fashion-pulis-the-loyal-boy",
-          "source": {
-            "name": "Manila Bulletin"
-          },
-          "publishedAt": "2026-04-25T03:33:24Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/04/25/96418.webp",
-          "language": "en"
-        },
-        {
-          "title": "Marine Biologists Solve Mystery of Deep-Sea ‘Golden Orb’",
-          "description": "New research led by the Smithsonian National Museum of Natural History suggests the ‘golden orb’ is the remains of a rarely seen species of anemone.",
-          "url": "https://www.sci.news/biology/golden-orb-mystery-14720.html",
-          "source": {
-            "name": "Sci.News"
-          },
-          "publishedAt": "2026-04-25T03:33:12Z",
-          "image": "https://cdn.sci.news/images/2023/09/image_12263f-Gulf-Alaska-Object.jpg",
-          "language": "en"
-        },
-        {
-          "title": "NBA: Lakers pull out OT win over Rockets, move to verge of sweep",
-          "description": "LeBron James and Marcus Smart recorded double-doubles as the Los Angeles Lakers took a stranglehold on their first-round playoff series against the host Houston Rockets with a 112-108 overtime victory in Game 3 on Friday.",
-          "url": "https://www.gmanetwork.com/news/sports/basketball/985287/nba-rockets-vs-lakers-april-24-2026-nba-playoffs/story/",
-          "source": {
-            "name": "GMA Network"
-          },
-          "publishedAt": "2026-04-25T03:30:41Z",
-          "image": "https://images.gmanews.tv/webpics/2026/04/2026-04-25T003056Z_1464175312_MT1USATODAY28803814_RTRMADP_3_NBA-PLAYOFFS-LOS-ANGELES-LAKERS-AT-HOUSTON-ROCKETS_2026_04_25_11_25_44.jpg",
+          "publishedAt": "2026-04-25T06:50:40Z",
+          "image": "https://assets.goal.com/images/v3/getty-2272301107/crop/MM5DGMBSGQ5DCNZQGE5G433XMU5DAORQ/GettyImages-2272301107.jpg",
           "language": "en"
         }
       ]
