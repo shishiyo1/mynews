@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-04-25T13:08:44.922Z",
+  "updatedAt": "2026-04-25T15:40:36.675Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "銀座「厨子屋」リニューアル後10回目の節目となる企画展を開催。これまでの作家展とは異なる「日々のくらし」をテーマにした江口堂・初の展示会。",
+          "description": "産経新聞社のニュースサイト。政治、経済、国際、社会、スポーツ、エンタメ、災害情報などの速報記事と解説記事を掲載しています。",
+          "url": "https://www.sankei.com/pressrelease/prtimes/TMS52J4IZFOCTM32S62ZWKGCOQ/",
+          "source": {
+            "name": "産経ニュース"
+          },
+          "publishedAt": "2026-04-25T03:00:00Z",
+          "image": "https://www.sankei.com/resizer/v2/https%3A%2F%2Fdpgdieoe6npux.cloudfront.net%2Fprtimes%2FOFYLELMIVJNVXF4VKIORKRRYAY?auth=85115331a03784b9944119bbdcdcbc6ee90eb876e4717eb2b6ba01fff2099246&quality=50&smart=true&width=1200&height=675",
+          "language": "ja"
+        },
+        {
+          "title": "新宿で水餃子食べ放題900円！ ガチ中華・福怡軒の「おまけビュッフェ」がコスパ良し / ガチ中華ランチ紀行：第27回",
+          "description": "世の物価上昇に伴いランチでの外食価格も上がっている今日この頃。普通の定食で1000円オーバー？　だったら同じ1000円前後で食べ放題が楽しめるガチ中華ランチはコスパが …",
+          "url": "https://rocketnews24.com/2026/04/25/2753192/",
+          "source": {
+            "name": "ロケットニュース24"
+          },
+          "publishedAt": "2026-04-25T02:55:46Z",
+          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/04/hukui5.jpg?w=1200&h=630&crop=1",
+          "language": "ja"
+        },
+        {
+          "title": "細木数子の娘「Netflixドラマ、許可なかった」「母に黒い交際なんてない」「中学2年でお見合いさせられた」視聴率女王の“裏”の顔明かす",
+          "description": "占い師として一世を風靡し、2021年に死去した細木数子。4月27日には彼女の人生を描いたドラマ「地獄に堕ちるわよ」がNetflixで配信される。『ABEMA エンタメ』の密着企画「NO MAKE」は",
+          "url": "https://news.tv-asahi.co.jp/news_geinou/articles/900189167.html",
+          "source": {
+            "name": "テレ朝NEWS"
+          },
+          "publishedAt": "2026-04-25T02:30:00Z",
+          "image": "https://news.tv-asahi.co.jp/articles_img/900189167_1920.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「ビジュいいじゃん」 佐野勇斗が魅せる、対照的な表情。OCEAN TRICO新ビジュアル＆インタビュー動画を解禁！",
+          "description": "株式会社フィッツコーポレーションのプレスリリース（2026年4月25日 11時00分）「ビジュいいじゃん」　佐野勇斗が魅せる、対照的な表情。OCEAN TRICO新ビジュアル＆インタビュー動画を解禁！",
+          "url": "https://prtimes.jp/main/html/rd/p/000000187.000015815.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-04-25T02:00:01Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/15815/187/15815-187-212c7248d0462d04ea5bb5ba4a06f4d2-2511x1123.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "ゴールデンウィークにこそ推したいゲーム5作品",
+          "description": "今年もやってきました、ゴールデンウィーク。家族や友達と旅行に行く方もいれば、お家でまったり映画やドラマを楽しむ! という方もいると思います。｢せっかくの連休だけど何するか迷うなぁ…｣という方は、ゲームに没頭する時間を設けてみてはいかがでしょうか？PlayStation 5やNintendo Switch 2などの家庭ゲーム機で遊べる話題のアクションゲーム作品をピックアップしました。",
+          "url": "https://www.gizmodo.jp/2026/04/golden-week-action-games-2026.html",
+          "source": {
+            "name": "ギズモード・ジャパン"
+          },
+          "publishedAt": "2026-04-25T02:00:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/24/shutterstock_2268730757.png?w=1280&h=630&f=jpg",
+          "language": "ja"
+        },
+        {
+          "title": "JAXA油井亀美也宇宙飛行士インタビュー ISS長期滞在で感じた「地球の尊さ」と民間利用の可能性",
+          "description": "sorae編集部は2026年4月23日、JAXA東京事務所にて油井宇宙飛行士へのインタビューを実施。長期間のISS滞在で感じた地球の尊さから、日本独自の有人宇宙輸送の未来まで、日本の宇宙開発に対する熱い想いを伺いました",
+          "url": "https://sorae.info/space/20260425-jaxa-yui-kimiya.html",
+          "source": {
+            "name": "sorae 宇宙へのポータルサイト"
+          },
+          "publishedAt": "2026-04-25T01:57:22Z",
+          "image": "https://sorae.info/wp-content/uploads/2026/04/jaxa-yui-kimiya-interview-2026-04-24-1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "トランプ、居眠りしているような姿を会合中に再び見せる。検査をした方がいいとの指摘も",
+          "description": "バイデン前大統領を「スリーピー・ジョー」と揶揄してきたトランプ氏だが、またも会合中にうとうとするような姿を見せた。",
+          "url": "https://www.huffingtonpost.jp/entry/trump-nod-off_jp_69ebefbae4b0f3a433cb2ae2",
+          "source": {
+            "name": "ハフポスト"
+          },
+          "publishedAt": "2026-04-25T01:24:02Z",
+          "image": "https://img.huffingtonpost.com/asset/69ec0f0d1400005a3becb351.jpeg?cache=3HpGDB1ZCv&ops=1200_630",
+          "language": "ja"
+        },
         {
           "title": "Windows更新が35日制限のまま無制限リセット、企業IT管理者を揺さぶる矛盾設計",
           "description": "MicrosoftはWindows Updateのユーザー体験を改善するため、2026年4月24日にWindows Insider向けに複数の変更を発表した。初回セットアップ時の更新スキップ、最大35日先までの一時停止と終了日の無制限リセット、電源メニューの再設計、月次再起動の統合などが含まれる。これにより、一般ユーザーは作業中断を避けやすくなり、企業IT部門は延期権限の管理という新たな課題に直面する。",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-04-24T23:00:00Z",
           "image": "https://gadget.phileweb.com/wp-content/uploads/2026/04/3ace12586dee56e6024b39e58c8c24bc.jpg",
           "language": "ja"
-        },
-        {
-          "title": "《なぜ義父は結希くんを殺害したか》「自分から乱暴やるとは考えられない」安達優季容疑者の親友が困惑「断れないタイプ」文化祭の出来事とは【京都・遺体遺棄】（NEWSポストセブン）",
-          "description": "「高校の同級生で、親友で。\"すごく優しくてええやつ\"って記憶が残ってるんで……」──遺体で発見された安達結希くん（11）の養父・安達優季容疑者（37）を知る人物は、戸惑いを隠しきれない様子で苦しい胸",
-          "url": "https://news.yahoo.co.jp/articles/d48005f5125d75585184d77e4f6ddc131e8e4a90",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-04-24T22:15:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260425-00000002-pseven-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【Netflix「地獄に堕ちるわよ」インタビュー前編】戸田恵梨香、細木数子役は「まさか自分が」 年代別の演じ分け・自ら提案した“癖”…徹底した役作りに伊藤沙莉「説得力がすごかった」",
-          "description": "【Netflixシリーズ「地獄に堕ちるわよ」（4月27日より世界独占配信）戸田恵梨香×伊藤沙莉インタビュー前編】「まさか細木数子を自分が演じるとは夢にも思わず、本当に驚きました」",
-          "url": "https://mdpr.jp/interview/detail/4770233",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-04-24T22:00:00Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/TpuA/nm/TpuALb5pS029ot5DppjBOQ94HqBHJUarFQuIzRBzde4.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "米イランが協議再開模索、パキスタンに外相と特使 直接交渉不透明",
-          "description": "イランのアラグチ外相は２４日、米国との和平協議再開に向けた提案について交渉するため、仲介国パキスタンの首都イスラマバードに到着​した。ただ、現地で米国の交渉担当者と直接協議を行うかは不明で、まずパキスタン‌と会談を行う見通し。",
-          "url": "https://jp.reuters.com/markets/commodities/F4HT4YDWLRJ63DSAQJLMXXM5TM-2026-04-24/",
-          "source": {
-            "name": "Reuters"
-          },
-          "publishedAt": "2026-04-24T21:13:00Z",
-          "image": "https://www.reuters.com/resizer/v2/QR4YGLFEBBNEJJIKV2KZI4FJBI.jpg?auth=90d62a2a4b5990e0991b64ae87e12f6d568d0f70aedf7023a0de92d97a8b80a2&height=1005&width=1920&quality=80&smart=true",
-          "language": "ja"
-        },
-        {
-          "title": "「変えないと地獄に落ちるわよ」細木数子氏からの通告で改名も仕事は激減…芸人・おさる（54）が語る“意外な感謝”（女性自身）",
-          "description": "4月27日からNetflixで配信が始まるドラマ『地獄に堕ちるわよ』。作家・占術家である細木数子氏（享年83）の波瀾万丈な人生を、戸田恵梨香（37）主演で描く同ドラマは配信前から話題沸騰だ。作中では",
-          "url": "https://news.yahoo.co.jp/articles/5cf6fce5754df83bc7b7c4d06007bd9645bd3b5f",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-04-24T21:00:02Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260425-00000001-jisin-000-3-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "米国株式市場＝Ｓ＆Ｐとナスダック最高値、インテル急伸 イラン協議期待も追い風",
-          "description": "米国株式市場は反発し、Ｓ＆Ｐ５００種株価指数とナスダック総合株価指数が過去最高値で取引を終えた。米国とイランの戦闘終結に向けた交渉が週末の間に行われるとの期待感に加え、半導体大手イン​テルが急伸するなど半導体関連株が上昇したことで、相場全体が押し上げられた。",
-          "url": "https://jp.reuters.com/markets/japan/ZAFPAMNAENOS5H5CFHB53YPTWQ-2026-04-24/",
-          "source": {
-            "name": "Reuters"
-          },
-          "publishedAt": "2026-04-24T20:53:21Z",
-          "image": "https://www.reuters.com/resizer/v2/ONX7TABELBM3HBJ7SJ5UQEKXFI.jpg?auth=a135902028f0b4266edb2bcf0b6d99e0c39882ac749df22a11d2f0907f5ddd7b&height=1005&width=1920&quality=80&smart=true",
-          "language": "ja"
-        },
-        {
-          "title": "「村上が抜けたのもプラスに」 ヤクルトが“ビリケツ下馬評”を覆した理由",
-          "description": "ほとんどの評論家たちが最下位と予想していたヤクルトがリーグ首位に立っている（4月23日現在）。",
-          "url": "https://news.yahoo.co.jp/articles/1b303f29df153081949b03e7a2a99b1a58e99fe2",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-04-24T20:48:45Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260425-01445931-shincho-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "「田鎖ブラザーズ」切りつけられた少女の正体判明 病室のネームプレートに注目集まる「一致した」「まだ何か隠してそう」",
-          "description": "俳優の岡田将生が主演を務めるTBS系金曜ドラマ「田鎖ブラザーズ」（毎週金曜よる10時～）の第2話が、24日に放送された。切りつけられた少女の正体が判明し、話題を呼んでいる。＜※ネタバレあり＞",
-          "url": "https://mdpr.jp/drama/detail/4770336",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-04-24T14:37:32Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/cmtJ/nm/cmtJT3ObcHCpZTttztTxxCjFLgey_ztOCeKFdnStRBo.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "EPL: Kiwi Chris Wood scores for Nottingham Forest against Sunderland",
-          "description": "The fit-again striker admits he's relieved to find the net in Nottingham Forest's trouncing of Sunderland.",
-          "url": "https://www.rnz.co.nz/news/sport/593409/epl-kiwi-chris-wood-scores-for-nottingham-forest-against-sunderland",
-          "source": {
-            "name": "RNZ"
-          },
-          "publishedAt": "2026-04-25T01:06:52Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s---5jj_qgM--/t_tohu-badge-facebook/v1777076933/4JPMBZY_AFP__20260424__fletcher_sunderla260424_np7bj__v1__HighRes__SunderlandVNottinghamFore_jpg?_a=BACCd2AD",
-          "language": "en"
-        },
-        {
-          "title": "Kamonnan Thiamphanit: Man charged with murder after extradition from UAE",
-          "description": "Kamonnan Thiamphanit, 27, who was also known as Angela, was stabbed in Westminster in 2024.",
-          "url": "https://www.bbc.co.uk/news/articles/ce9mkxy0drro",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-04-25T01:06:37Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3855/live/9daa5b90-4043-11f1-825b-b326ba12ad7f.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Helena Bonham Carter Exits White Lotus Season 4 Cast",
-          "description": "Helena Bonham Carter has departed The White Lotus season 4 cast, The Hollywood Reporter has confirmed.",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/helena-bonham-carter-exits-white-lotus-season-4-1236575513/",
-          "source": {
-            "name": "The Hollywood Reporter"
-          },
-          "publishedAt": "2026-04-25T01:02:33Z",
-          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/GettyImages-2152632908-e1769842355889.jpg?w=1440&h=810&crop=1",
-          "language": "en"
-        },
-        {
-          "title": "Trump news at a glance: as president’s relations with Nato fray, EU leaders explore their options",
-          "description": "Brussels officials will draw up a plan on how to use the EU’s little-known mutual assistance pact in the event of a foreign attack",
-          "url": "https://www.theguardian.com/us-news/2026/apr/24/trump-news-at-a-glance-latest-updates-today",
-          "source": {
-            "name": "The Guardian"
-          },
-          "publishedAt": "2026-04-25T01:02:00Z",
-          "image": "https://i.guim.co.uk/img/media/59af251369c7ceeb1304c7350c45f4f8c1b67cf1/432_0_4361_3491/master/4361.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5a4b6399ec28cc52bab0733af5a8571",
-          "language": "en"
-        },
-        {
-          "title": "Keep Your Files Private With This No-Scan 1TB Cloud Storage",
-          "description": "Through April 30 at 11:59PM PT, you can get a lifetime 1TB subscription to Koofr Cloud Storage for A$223 using code KOOFR at checkout (though prices may change at any time).",
-          "url": "https://au.lifehacker.com/tech/118245/keep-your-files-private-with-this-no-scan-1tb-cloud-storage",
-          "source": {
-            "name": "Lifehacker"
-          },
-          "publishedAt": "2026-04-25T01:01:54Z",
-          "image": "https://sm.lifehacker.com/t/lifehacker_au/photo/default/koofr_t58x.1200.png",
-          "language": "en"
-        },
-        {
-          "title": "Air New Zealand plane in Auckland with mechanical issues forces flights to divert",
-          "description": "Air New Zealand says a plane had a fault with its braking system and is being assessed by engineers.",
-          "url": "https://www.rnz.co.nz/news/business/593408/air-new-zealand-plane-in-auckland-with-mechanical-issues-forces-flights-to-divert",
-          "source": {
-            "name": "RNZ"
-          },
-          "publishedAt": "2026-04-25T01:01:12Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--txxbI5GL--/t_tohu-badge-facebook/v1657353918/4LOWEV8_Air_NZ_jpg?_a=BACCd2AD",
-          "language": "en"
-        },
-        {
-          "title": "Museveni launches Chinese factory in Karamoja to boost",
-          "description": "President Yoweri Kaguta Museveni, accompanied by former Prime Minister of Ethiopia Hailemariam Desalegn Boshe, on Friday, April 24, 2026, presided over the launch of Phase One of a 6,000-tonne cement clinker production line by Yaobai Cement at Nanduget.",
-          "url": "https://www.newvision.co.ug/category/news/museveni-launches-chinese-factory-in-karamoja-NV_232458_042026",
-          "source": {
-            "name": "NewVision.co.ug"
-          },
-          "publishedAt": "2026-04-25T01:00:05Z",
-          "image": "https://newvision-media.s3.amazonaws.com/cms/70b6bf47-5924-45d0-9688-6e23fe97e836.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Teen boy dead, 2 suspects wanted",
-          "description": "A 16-year-old boy is dead, and two armed suspects are wanted following a shooting in a downtown Hamilton mall on Friday afternoon.",
-          "url": "https://www.cp24.com/local/hamilton/2026/04/25/16-year-old-boy-killed-in-hamilton-mall-shooting-2-armed-suspects-sought/",
-          "source": {
-            "name": "CP24"
-          },
-          "publishedAt": "2026-04-25T01:00:00Z",
-          "image": "https://www.cp24.com/resizer/v2/KQRU3WUEXVHQ3N6KRUYRTGAXKY.png?smart=true&auth=94e1474c268df5837a08e1b8a0a2ccf89d0ab99e1d4a2e3da4130301ba2392f8&width=1200&height=630",
-          "language": "en"
-        },
-        {
-          "title": "Anti-gay Bill: AIDS Commission defends distribution of lubricants",
-          "description": "The Ghana AIDS Commission has formally addressed concerns regarding the distribution of lubricants, stating that these items are critical components of the national HIV prevention strategy and are not intended to promote any specific group or...",
-          "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Anti-gay-Bill-AIDS-Commission-defends-distribution-of-lubricants-2031511",
+          "title": "'Deliberate attempt to hinder full participation' - CRPL fumes over 'snub' in Anti-LGBTQ+ Bill process",
+          "description": "The Centre for Religion and Public Life (CRPL Ghana) has accused Parliament’s Constitutional and Legal Affairs Committee of deliberately frustrating stakeholder participation in discussions on the Human Sexual Human Rights and Family Values Bill,...",
+          "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Deliberate-attempt-to-hinder-full-participation-CRPL-fumes-over-snub-in-Anti-LGBTQ-Bill-process-2031524",
           "source": {
             "name": "GhanaWeb"
           },
-          "publishedAt": "2026-04-25T00:58:06Z",
-          "image": "https://cdn.ghanaweb.com/imagelib/pics/128/12887740.jpg",
+          "publishedAt": "2026-04-25T03:38:06Z",
+          "image": "https://cdn.ghanaweb.com/imagelib/pics/708/70829523.jpg",
           "language": "en"
         },
         {
-          "title": "Israel and Hezbollah exchange strikes despite ceasefire extension with Lebanon",
-          "description": "Fighting continues between Israeli forces and Hezbollah fighters. This occurs despite a recent announcement of a three-week ceasefire extension. Israeli strikes in southern Lebanon caused casualties. Hezbollah targeted an Israeli armored personnel carrier. US President Donald Trump had announced the ceasefire extension. Israeli Prime Minister Benjamin Netanyahu accused Hezbollah of sabotage.",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-and-hezbollah-exchange-strikes-despite-ceasefire-extension-with-lebanon/articleshow/130506441.cms?from=mdr",
+          "title": "Feeling tired, bloated or always sick? Nutritionists share fruits that may help",
+          "description": "Feeling tired, bloated or sick? Nutritionists share fruits that may tackle common ailments and improve daily wellness.",
+          "url": "https://guardian.ng/life/feeling-tired-bloated-or-always-sick-nutritionists-share-fruits-that-may-help/",
           "source": {
-            "name": "The Economic Times"
+            "name": "The Guardian Nigeria News"
           },
-          "publishedAt": "2026-04-25T00:55:56Z",
-          "image": "https://img.etimg.com/thumb/msid-130506448,width-1200,height-630,imgsize-244546,overlay-economictimes/articleshow.jpg",
+          "publishedAt": "2026-04-25T03:38:05Z",
+          "image": "https://cdn.guardian.ng/wp-content/uploads/2026/04/fresh-mixed-fruits-pineapple-apples-oranges-pear-kiwi.jpg-scaled.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Iran says most missile capabilities 'unused' in war with US: Report",
+          "description": "A Defense Ministry's spokesperson said most of Iran’s missile capabilities have been",
+          "url": "https://www.nation.com.pk/25-Apr-2026/iran-says-missile-capabilities-unused-war-us-report",
+          "source": {
+            "name": "The Nation (Pakistan )"
+          },
+          "publishedAt": "2026-04-25T03:36:44Z",
+          "image": "https://www.nation.com.pk/digital_images/large/2026-04-25/iran-says-missile-capabilities-unused-war-us-report-1777092415-8356.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Shots fired at three homes in Sydney, police say",
+          "description": "Police are investigating the drive-by shootings but say nobody was hurt.",
+          "url": "https://www.9news.com.au/national/nsw-crime-police-investigate-series-of-driveby-shootings-in-sydneys-south-west/c5f396db-269b-4681-9b75-c320a11e0f80",
+          "source": {
+            "name": "9News"
+          },
+          "publishedAt": "2026-04-25T03:36:09Z",
+          "image": "https://imageresizer.static9.net.au/X9RHryb0bo9eYGXzrA4oAiuOkx4=/290x68:1903x975/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fb18f70ad-94d7-4e53-b7cf-894efaa4f6ce",
+          "language": "en"
+        },
+        {
+          "title": "Man admits to abandoning wife’s body in zoo incinerator in Hokkaido",
+          "description": "ASAHIKAWA, Hokkaido (Japan): A man in his 30s employed at the Asahiyama Zoo in Asahikawa, Hokkaido, has told police that he abandoned his wife's body in an incinerator at the zoo, investigative sources said Friday (April 24)",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/25/man-admits-to-abandoning-wifes-body-in-zoo-incinerator-in-hokkaido",
+          "source": {
+            "name": "The Star"
+          },
+          "publishedAt": "2026-04-25T03:36:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/04/25/3877191.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Dirty Dancing: The Inside Story of the Irish-Dancing Cheating Scandal",
+          "description": "Book focuses on how reporter Ellen Coyne’s scoop grew legs and sent An Coimisiún le Rincí Gaelacha into a near-existential crisis",
+          "url": "https://www.irishtimes.com/culture/books/review/2026/04/25/dirty-dancing-the-inside-story-of-the-irish-dancing-cheating-scandal/",
+          "source": {
+            "name": "The Irish Times"
+          },
+          "publishedAt": "2026-04-25T03:34:34Z",
+          "image": "https://www.irishtimes.com/resizer/v2/7XQEKMV26JHLNEUEP3EQTPURKA.jpg?smart=true&auth=a5ca5e6e97eddd8af492f519240fca9b34090658ba2bf8f5f1d0fe65deb07598&width=1200&height=630",
+          "language": "en"
+        },
+        {
+          "title": "Bea Alonzo secretly married to Vincent Co? Manila wedding rumors heat up online",
+          "description": "Conversation online has taken a new turn as rumors intensify that Bea Alonzo and businessman Vincent Co may have already tied the knot, quietly and away from...",
+          "url": "https://mb.com.ph/2026/04/25/bea-alonzo-secretly-married-to-vincent-co-manila-wedding-rumors-heat-up-online",
+          "source": {
+            "name": "Manila Bulletin"
+          },
+          "publishedAt": "2026-04-25T03:33:30Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/04/25/96392.webp",
+          "language": "en"
+        },
+        {
+          "title": "FASHION PULIS: The loyal boy",
+          "description": "After being seen with Dashing Man (DM), Sexy Femme (SF) clarified that they are just friends. While showbiz followers speculated that something was brewing, SF...",
+          "url": "https://mb.com.ph/2026/04/25/fashion-pulis-the-loyal-boy",
+          "source": {
+            "name": "Manila Bulletin"
+          },
+          "publishedAt": "2026-04-25T03:33:24Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/04/25/96418.webp",
+          "language": "en"
+        },
+        {
+          "title": "Marine Biologists Solve Mystery of Deep-Sea ‘Golden Orb’",
+          "description": "New research led by the Smithsonian National Museum of Natural History suggests the ‘golden orb’ is the remains of a rarely seen species of anemone.",
+          "url": "https://www.sci.news/biology/golden-orb-mystery-14720.html",
+          "source": {
+            "name": "Sci.News"
+          },
+          "publishedAt": "2026-04-25T03:33:12Z",
+          "image": "https://cdn.sci.news/images/2023/09/image_12263f-Gulf-Alaska-Object.jpg",
+          "language": "en"
+        },
+        {
+          "title": "NBA: Lakers pull out OT win over Rockets, move to verge of sweep",
+          "description": "LeBron James and Marcus Smart recorded double-doubles as the Los Angeles Lakers took a stranglehold on their first-round playoff series against the host Houston Rockets with a 112-108 overtime victory in Game 3 on Friday.",
+          "url": "https://www.gmanetwork.com/news/sports/basketball/985287/nba-rockets-vs-lakers-april-24-2026-nba-playoffs/story/",
+          "source": {
+            "name": "GMA Network"
+          },
+          "publishedAt": "2026-04-25T03:30:41Z",
+          "image": "https://images.gmanews.tv/webpics/2026/04/2026-04-25T003056Z_1464175312_MT1USATODAY28803814_RTRMADP_3_NBA-PLAYOFFS-LOS-ANGELES-LAKERS-AT-HOUSTON-ROCKETS_2026_04_25_11_25_44.jpg",
           "language": "en"
         }
       ]
