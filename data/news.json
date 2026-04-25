@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-04-25T09:54:52.679Z",
+  "updatedAt": "2026-04-25T13:08:44.922Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "Windows更新が35日制限のまま無制限リセット、企業IT管理者を揺さぶる矛盾設計",
+          "description": "MicrosoftはWindows Updateのユーザー体験を改善するため、2026年4月24日にWindows Insider向けに複数の変更を発表した。初回セットアップ時の更新スキップ、最大35日先までの一時停止と終了日の無制限リセット、電源メニューの再設計、月次再起動の統合などが含まれる。これにより、一般ユーザーは作業中断を避けやすくなり、企業IT部門は延期権限の管理という新たな課題に直面する。",
+          "url": "https://xenospectrum.com/windows-update-pause-reset-management/",
+          "source": {
+            "name": "XenoSpectrum"
+          },
+          "publishedAt": "2026-04-25T00:46:27Z",
+          "image": "https://media.xenospectrum.com/large_windows_11_speed_up_95393a9827.webp",
+          "language": "ja"
+        },
+        {
+          "title": "香妻陣一朗の14本はまるで契約選手？「QUANTUM ◆◆◆ MAX」「DAMASCUS」に「クロムツアーX」",
+          "description": "◇国内男子◇前澤杯 MAEZAWA CUP ◇MZ GOLF CLUB（千葉）◇6652yd（パー72） 「MZ」の文字が入ったキャップをかぶり、「UNITED ARROWS GOLF」のキャディバッグに加えて同社のウェアをまとう香妻陣一朗",
+          "url": "https://news.golfdigest.co.jp/news/tgt/jgto/article/190458/1/",
+          "source": {
+            "name": "GDOゴルフニュース"
+          },
+          "publishedAt": "2026-04-25T00:45:00Z",
+          "image": "https://i.gimg.jp/cmsimg/421356.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "モジュール式ノートPCのFramework、初のUbuntu認証版がWindows版を上回る人気だと明かす",
+          "description": "FrameworkのノートPC新型「Laptop 13 Pro」は、Framework初のUbuntu認証取得済みノートPCであるという点でも大きな注目を集めている。しかも「Ubuntu搭載モデルがWindows搭載モデルを上回る売れ行きを見せている」とのことだ。",
+          "url": "https://gadget.phileweb.com/post-123488/",
+          "source": {
+            "name": "Gadget Gate"
+          },
+          "publishedAt": "2026-04-24T23:00:00Z",
+          "image": "https://gadget.phileweb.com/wp-content/uploads/2026/04/3ace12586dee56e6024b39e58c8c24bc.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "《なぜ義父は結希くんを殺害したか》「自分から乱暴やるとは考えられない」安達優季容疑者の親友が困惑「断れないタイプ」文化祭の出来事とは【京都・遺体遺棄】（NEWSポストセブン）",
+          "description": "「高校の同級生で、親友で。\"すごく優しくてええやつ\"って記憶が残ってるんで……」──遺体で発見された安達結希くん（11）の養父・安達優季容疑者（37）を知る人物は、戸惑いを隠しきれない様子で苦しい胸",
+          "url": "https://news.yahoo.co.jp/articles/d48005f5125d75585184d77e4f6ddc131e8e4a90",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-04-24T22:15:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260425-00000002-pseven-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【Netflix「地獄に堕ちるわよ」インタビュー前編】戸田恵梨香、細木数子役は「まさか自分が」 年代別の演じ分け・自ら提案した“癖”…徹底した役作りに伊藤沙莉「説得力がすごかった」",
+          "description": "【Netflixシリーズ「地獄に堕ちるわよ」（4月27日より世界独占配信）戸田恵梨香×伊藤沙莉インタビュー前編】「まさか細木数子を自分が演じるとは夢にも思わず、本当に驚きました」",
+          "url": "https://mdpr.jp/interview/detail/4770233",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-04-24T22:00:00Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/TpuA/nm/TpuALb5pS029ot5DppjBOQ94HqBHJUarFQuIzRBzde4.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
         {
           "title": "米イランが協議再開模索、パキスタンに外相と特使 直接交渉不透明",
           "description": "イランのアラグチ外相は２４日、米国との和平協議再開に向けた提案について交渉するため、仲介国パキスタンの首都イスラマバードに到着​した。ただ、現地で米国の交渉担当者と直接協議を行うかは不明で、まずパキスタン‌と会談を行う見通し。",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-04-24T14:37:32Z",
           "image": "https://img-mdpr.freetls.fastly.net/article/cmtJ/nm/cmtJT3ObcHCpZTttztTxxCjFLgey_ztOCeKFdnStRBo.jpg?width=700&disable=upscale&auto=webp&quality=80",
           "language": "ja"
-        },
-        {
-          "title": "デビュー戦ファーストプレーでスーパー弾…水戸の流経柏ルーキーMF安藤晃希がみせた名手DF突破の“野心”「抜けば絶対に自分の名前が広がる」",
-          "description": "[4.24 J1百年構想リーグ第12節 FC東京 5-2 水戸 味スタ]　高卒ルーキーがデビュー戦で大きな輝きを放った。水戸ホーリーホックのMF安藤晃希は1-4で迎えた後半24分の途中出場からプロ初ゴール。「負けている状況だった...",
-          "url": "https://web.gekisaka.jp/news/jleague/detail/?450065-450065-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-04-24T13:59:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/451000/450065/news_450065_1.jpg?time=20260424230407",
-          "language": "ja"
-        },
-        {
-          "title": "【ＮＹ為替オープニング】米イラン和平再再協議の可能性、原油動向、ミシガン大消費者信頼感に注視｜FX・為替ニュース",
-          "description": "■注目ポイント ・イスラエル、レバノンは停戦、3週間延長 ・英・3月小売売上高：＋0.7％、2月-0.4％ ・独・4月IFO企業景況感指数：景気見通しは23年8月来で最低 ・米・4月ミシガン大学消費者マ",
-          "url": "https://zai.diamond.jp/articles/-/487826",
-          "source": {
-            "name": "ザイFX！"
-          },
-          "publishedAt": "2026-04-24T13:36:00Z",
-          "image": "https://zai.diamond.jp/mwimgs/9/e/-/img_9e47ac79ce2cf237f05d70fc22e16d45110540.png",
-          "language": "ja"
-        },
-        {
-          "title": "【ボクシング】井上尚弥ｖｓ中谷潤人、特別編集版ドキュメンタリーを２８日から限定配信 ２５日からテレビＣＭも全国放映",
-          "description": "ＮＴＴドコモの映像配信サービス「Ｌｅｍｉｎｏ」が２４日、５月２日に東京ドームで開催される「ＮＴＴドコモｐｒｅｓｅｎｔｓ　Ｌｅｍｉｎｏ　ＢＯＸＩＮＧ　ダブル世界タイトルマッチ　井上尚弥ｖｓ中谷潤人」",
-          "url": "https://news.yahoo.co.jp/articles/15dc07b7df9d650e0803abda6c0db8c7c212aa91",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-04-24T13:14:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260424-04241401-sph-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "「全色持っているレベルでヘビロテしてる」 ユニクロの“2990円パンツ”に絶賛の声 「汗をかいてもサラッとして快適」「何枚リピ買いしたか覚えてない」",
-          "description": "ユニクロで販売されている“ジョガーパンツ”が、ウルトラストレッチ機能を備えており着心地が良いと人気となっています。　本記事では、そんな「ウルトラストレッチアクティブジョガーパンツ」が上位となった「パンツ（レディース）」ランキングを紹介します。調査概要調査日2026年4月22日調査対象…",
-          "url": "https://nlab.itmedia.co.jp/research/articles/3821149/",
-          "source": {
-            "name": "ねとらぼ"
-          },
-          "publishedAt": "2026-04-24T13:10:00Z",
-          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/08/1754621894_8a24481edccab8172590418d529d9167.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "新しい歴史が始まる…大橋和也・寺西拓人W主演「AmberS」明日開幕（会見レポート）",
-          "description": "大橋和也と寺西拓人がW主演を務めるEX THEATER ARIAKE OPENING LINEUP「AmberS -アンバース-」が、明日4月25日に東京・EX THEATER ARIAKE（東京ドリームパーク内）で開幕する。これに先駆け、本日24日に初日前会見が行われ、キャスト...",
-          "url": "https://natalie.mu/stage/news/669649",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-04-24T12:51:00Z",
-          "image": "https://ogre.natalie.mu/media/news/stage/2026/0424/DSC_5766.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Monty Python's Terry Jones nude statue to be unveiled in Colwyn Bay",
-          "description": "Sir Michael Palin said his fellow Python star Jones would have found the statue \"very funny indeed\".",
-          "url": "https://www.bbc.co.uk/news/articles/cpvxe049zwpo",
+          "title": "EPL: Kiwi Chris Wood scores for Nottingham Forest against Sunderland",
+          "description": "The fit-again striker admits he's relieved to find the net in Nottingham Forest's trouncing of Sunderland.",
+          "url": "https://www.rnz.co.nz/news/sport/593409/epl-kiwi-chris-wood-scores-for-nottingham-forest-against-sunderland",
+          "source": {
+            "name": "RNZ"
+          },
+          "publishedAt": "2026-04-25T01:06:52Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s---5jj_qgM--/t_tohu-badge-facebook/v1777076933/4JPMBZY_AFP__20260424__fletcher_sunderla260424_np7bj__v1__HighRes__SunderlandVNottinghamFore_jpg?_a=BACCd2AD",
+          "language": "en"
+        },
+        {
+          "title": "Kamonnan Thiamphanit: Man charged with murder after extradition from UAE",
+          "description": "Kamonnan Thiamphanit, 27, who was also known as Angela, was stabbed in Westminster in 2024.",
+          "url": "https://www.bbc.co.uk/news/articles/ce9mkxy0drro",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-04-24T21:54:07Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b32b/live/7e2a8090-3f0f-11f1-9aab-c976736c58b1.jpg",
+          "publishedAt": "2026-04-25T01:06:37Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3855/live/9daa5b90-4043-11f1-825b-b326ba12ad7f.jpg",
           "language": "en"
         },
         {
-          "title": "Oil Falls on Renewed Iran Talk Hopes",
-          "description": "Oil prices dipped as potential US-Iran talks raised hopes for restored flows.",
-          "url": "https://www.rigzone.com/news/wire/oil_falls_on_renewed_iran_talk_hopes-24-apr-2026-183538-article/",
+          "title": "Helena Bonham Carter Exits White Lotus Season 4 Cast",
+          "description": "Helena Bonham Carter has departed The White Lotus season 4 cast, The Hollywood Reporter has confirmed.",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/helena-bonham-carter-exits-white-lotus-season-4-1236575513/",
           "source": {
-            "name": "Rigzone"
+            "name": "The Hollywood Reporter"
           },
-          "publishedAt": "2026-04-24T21:53:00Z",
-          "image": "https://images.rigzone.com/images/news/articles/Oil-Falls-on-Renewed-Iran-Talk-Hopes-183538-1200x628.png",
+          "publishedAt": "2026-04-25T01:02:33Z",
+          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/GettyImages-2152632908-e1769842355889.jpg?w=1440&h=810&crop=1",
           "language": "en"
         },
         {
-          "title": "A Banker Is Offering His $4.8 Million California Estate Just to Get Some Anthropic Shares",
-          "description": "Tech banker Storm Duncan already owns shares of Anthropic but wants to double down on the hot AI company.",
-          "url": "https://www.businessinsider.com/trade-his-4-8-million-estate-for-anthropic-shares-2026-4",
+          "title": "Trump news at a glance: as president’s relations with Nato fray, EU leaders explore their options",
+          "description": "Brussels officials will draw up a plan on how to use the EU’s little-known mutual assistance pact in the event of a foreign attack",
+          "url": "https://www.theguardian.com/us-news/2026/apr/24/trump-news-at-a-glance-latest-updates-today",
           "source": {
-            "name": "Business Insider"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-04-24T21:53:00Z",
-          "image": "https://i.insider.com/69ebd94a367066d7c2970ddd?width=832&format=jpeg",
+          "publishedAt": "2026-04-25T01:02:00Z",
+          "image": "https://i.guim.co.uk/img/media/59af251369c7ceeb1304c7350c45f4f8c1b67cf1/432_0_4361_3491/master/4361.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5a4b6399ec28cc52bab0733af5a8571",
           "language": "en"
         },
         {
-          "title": "Anne Hathaway praised after casually dropping Arabic phrase in interview",
-          "description": "Anne Hathaway was praised after saying the Arabic phrase “Inshallah” in an interview with People.",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/anne-hathaway-praised-casually-dropping-215127941.html",
+          "title": "Keep Your Files Private With This No-Scan 1TB Cloud Storage",
+          "description": "Through April 30 at 11:59PM PT, you can get a lifetime 1TB subscription to Koofr Cloud Storage for A$223 using code KOOFR at checkout (though prices may change at any time).",
+          "url": "https://au.lifehacker.com/tech/118245/keep-your-files-private-with-this-no-scan-1tb-cloud-storage",
           "source": {
-            "name": "Yahoo"
+            "name": "Lifehacker"
           },
-          "publishedAt": "2026-04-24T21:51:27Z",
-          "image": "https://s.yimg.com/os/en/upworthy_219/8a9ac39f6cad05f8572411736c29f532",
+          "publishedAt": "2026-04-25T01:01:54Z",
+          "image": "https://sm.lifehacker.com/t/lifehacker_au/photo/default/koofr_t58x.1200.png",
           "language": "en"
         },
         {
-          "title": "Nikki Cross Announces WWE Departure, Zoey Stark & Alba Fyre Reportedly Gone",
-          "description": "Nikki Cross, Zoey Stark, and Alba Fyre are three names reportedly among the WWE departures being reported on Friday.",
-          "url": "https://www.wrestlinginc.com/2156699/wwe-releases-nikki-cross-zoey-stark-alba-fyre/",
+          "title": "Air New Zealand plane in Auckland with mechanical issues forces flights to divert",
+          "description": "Air New Zealand says a plane had a fault with its braking system and is being assessed by engineers.",
+          "url": "https://www.rnz.co.nz/news/business/593408/air-new-zealand-plane-in-auckland-with-mechanical-issues-forces-flights-to-divert",
           "source": {
-            "name": "Wrestling Inc."
+            "name": "RNZ"
           },
-          "publishedAt": "2026-04-24T21:50:19Z",
-          "image": "https://www.wrestlinginc.com/img/gallery/wwe-releases-nikki-cross-zoey-stark-alba-fyre/l-intro-1777067667.jpg",
+          "publishedAt": "2026-04-25T01:01:12Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--txxbI5GL--/t_tohu-badge-facebook/v1657353918/4LOWEV8_Air_NZ_jpg?_a=BACCd2AD",
           "language": "en"
         },
         {
-          "title": "5 takeaways as Darcy Graham 'magic' helps continue Scots' revival against South Africans",
-          "description": "Following a 33-28 victory for Edinburgh over the Sharks in the United Rugby Championship (URC), here's our five takeaways from the game.",
-          "url": "https://www.planetrugby.com/news/edinburgh-v-sharks-five-takeaways-as-moment-of-magic-helps-scots-to-rare-feat-and-ends-injury-hit-south-africans-hopes",
+          "title": "Museveni launches Chinese factory in Karamoja to boost",
+          "description": "President Yoweri Kaguta Museveni, accompanied by former Prime Minister of Ethiopia Hailemariam Desalegn Boshe, on Friday, April 24, 2026, presided over the launch of Phase One of a 6,000-tonne cement clinker production line by Yaobai Cement at Nanduget.",
+          "url": "https://www.newvision.co.ug/category/news/museveni-launches-chinese-factory-in-karamoja-NV_232458_042026",
           "source": {
-            "name": "Planet Rugby"
+            "name": "NewVision.co.ug"
           },
-          "publishedAt": "2026-04-24T21:46:52Z",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/04/24224318/Edinburgh-wing-Darcy-Graham-and-Sharks-scrum-half-Jaden-Hendrikse-Alamy.jpg",
+          "publishedAt": "2026-04-25T01:00:05Z",
+          "image": "https://newvision-media.s3.amazonaws.com/cms/70b6bf47-5924-45d0-9688-6e23fe97e836.jpg",
           "language": "en"
         },
         {
-          "title": "Snow system expected to dump more on Sask. before moving on",
-          "description": "Northern areas are \"still getting hit and they continue to be hit the hardest,\" meteorologist says.",
-          "url": "https://www.cbc.ca/news/canada/saskatchewan/spring-snow-sask-april-24-9.7176289",
+          "title": "Teen boy dead, 2 suspects wanted",
+          "description": "A 16-year-old boy is dead, and two armed suspects are wanted following a shooting in a downtown Hamilton mall on Friday afternoon.",
+          "url": "https://www.cp24.com/local/hamilton/2026/04/25/16-year-old-boy-killed-in-hamilton-mall-shooting-2-armed-suspects-sought/",
           "source": {
-            "name": "CBC"
+            "name": "CP24"
           },
-          "publishedAt": "2026-04-24T21:46:08Z",
-          "image": "https://i.cbc.ca/ais/362615e6-b80b-4f3f-961e-d9d5ad9e8038,1777060989834/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1589%2C3024%2C1701%29%3BResize%3D620",
+          "publishedAt": "2026-04-25T01:00:00Z",
+          "image": "https://www.cp24.com/resizer/v2/KQRU3WUEXVHQ3N6KRUYRTGAXKY.png?smart=true&auth=94e1474c268df5837a08e1b8a0a2ccf89d0ab99e1d4a2e3da4130301ba2392f8&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
-          "description": "Hamas says the Israeli escalation represents the failure of the international community to uphold the truce in Gaza.",
-          "url": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire",
+          "title": "Anti-gay Bill: AIDS Commission defends distribution of lubricants",
+          "description": "The Ghana AIDS Commission has formally addressed concerns regarding the distribution of lubricants, stating that these items are critical components of the national HIV prevention strategy and are not intended to promote any specific group or...",
+          "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Anti-gay-Bill-AIDS-Commission-defends-distribution-of-lubricants-2031511",
           "source": {
-            "name": "Al Jazeera"
+            "name": "GhanaWeb"
           },
-          "publishedAt": "2026-04-24T21:45:30Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-23T090332Z_650461050_RC2TUKAURP6Z_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1777064124.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-04-25T00:58:06Z",
+          "image": "https://cdn.ghanaweb.com/imagelib/pics/128/12887740.jpg",
           "language": "en"
         },
         {
-          "title": "Ardal O'Hanlon recalls fallout from interview joke",
-          "description": "Ardal O'Hanlon has recalled how a joke he made in an interview more than 20 years ago ended up becoming a tabloid headline.",
-          "url": "https://www.rte.ie/entertainment/2026/0424/1570102-ardal-ohanlon-recalls-fallout-from-interview-joke/",
+          "title": "Israel and Hezbollah exchange strikes despite ceasefire extension with Lebanon",
+          "description": "Fighting continues between Israeli forces and Hezbollah fighters. This occurs despite a recent announcement of a three-week ceasefire extension. Israeli strikes in southern Lebanon caused casualties. Hezbollah targeted an Israeli armored personnel carrier. US President Donald Trump had announced the ceasefire extension. Israeli Prime Minister Benjamin Netanyahu accused Hezbollah of sabotage.",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-and-hezbollah-exchange-strikes-despite-ceasefire-extension-with-lebanon/articleshow/130506441.cms?from=mdr",
           "source": {
-            "name": "RTE.ie"
+            "name": "The Economic Times"
           },
-          "publishedAt": "2026-04-24T21:45:12Z",
-          "image": "https://www.rte.ie/images/0024467f-1600.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Study Has Warning About Missed Hepatitis B Shots at Birth",
-          "description": "About 90% of infants infected at birth go on to develop chronic infection",
-          "url": "https://www.medpagetoday.com/pediatrics/vaccines/120960",
-          "source": {
-            "name": "MedPage Today"
-          },
-          "publishedAt": "2026-04-24T21:43:42Z",
-          "image": "https://assets.medpagetoday.net/media/images/120xxx/120960.jpg",
+          "publishedAt": "2026-04-25T00:55:56Z",
+          "image": "https://img.etimg.com/thumb/msid-130506448,width-1200,height-630,imgsize-244546,overlay-economictimes/articleshow.jpg",
           "language": "en"
         }
       ]
