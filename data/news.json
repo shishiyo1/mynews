@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-04-26T07:42:38.573Z",
+  "updatedAt": "2026-04-26T09:54:51.345Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "NEWS・増田貴久、黒木華、Aぇ! group・小島健、ACEes・那須雄登、松下洸平らが参戦『真剣遊戯！THEバトルSHOW』",
+          "description": "4月27日（月）、櫻井翔さんがMCを務める『真剣遊戯！THEバトルSHOW』が放送されます。各6人で構成されるアイドル俳優軍と芸人バラエティ軍が、番組オリジナルのゲームで真剣勝負を繰り広げます。櫻井翔さんが、『真剣遊戯！THEバトルSHOW』の初回収録の手応えや、番組にかける思いを語りました。 出演は、以下の通り。主宰：櫻井翔アイドル俳優軍：黒木華、小島健（Aぇ! group）、那須雄登（ACEes）、増田貴久（NEWS）、松下洸平、松田宣浩芸人バラエティ軍：岩井勇気（ハライチ）、王林、岡部大（ハナコ）、澤部佑（ハライチ）、杉谷拳士、やす子（五十音順／敬称略）両軍が挑戦する遊戯は、瞬発力と判…",
+          "url": "https://mezamashi.media/articles/-/287843",
+          "source": {
+            "name": "めざましmedia"
+          },
+          "publishedAt": "2026-04-25T21:30:00Z",
+          "image": "https://mezamashi.ismcdn.jp/mwimgs/7/e/1200xm/img_7e611bb91dea9a92c9e8e5f2aaa82d73595034.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "高市・片山・小池 3人の女性トップリーダーが抱く共通の危機感 “カネの移し替え”対立に変化の兆し",
+          "description": "これまで、地方税財政をめぐって国と東京都は長く平行線をたどってきた。東京都は、都内で生み出された税財源が地方に再配分される現行制度について、「何に使われ、どんな効果があったのか見えにくい」と問題提起",
+          "url": "https://news.yahoo.co.jp/articles/d2664830e353bdfabdc2de6700c1035b08803b19",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-04-25T21:05:33Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260426-01135731-fnn-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "ヤーレンズが6都市巡る単独ライブツアー、明日チケット一般発売",
+          "description": "ヤーレンズの単独ライブツアー「10ナンバーズ・からっと」のチケットが明日4月27日（月）正午にチケプラで一般発売される。",
+          "url": "https://natalie.mu/owarai/news/669712",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-04-25T20:00:00Z",
+          "image": "https://ogre.natalie.mu/media/news/owarai/2026/0425/10numbers.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
         {
           "title": "大谷翔平「1番DH」 佐々木朗希が今季初勝利懸けて元ソフトB右腕と投げ合い ラッシング先発マスク 3番マンシー 10連勝中カブス鈴木誠也「5番右翼」",
           "description": "「ドジャース―カブス」(25日、ロサンゼルス)\n　両チームがラインアップを発表。大谷翔平投手が「1番・指名打者」で出場し、佐々木朗希投手が今季初勝利を懸けて先発のマウンドに立つ。佐々木と同じメジャ",
@@ -81,150 +114,117 @@
           "publishedAt": "2026-04-25T11:21:03Z",
           "image": "https://av.watch.impress.co.jp/img/avw/list/2104/749/DSC09264.jpg",
           "language": "ja"
-        },
-        {
-          "title": "【広島】新井貴浩監督「本当によくしのいだ」野手使い切りドロー「つぎ込むと決めていた」最後は新人２イニング（スポーツ報知）",
-          "description": "◆ＪＥＲＡセ・リーグ　阪神２―２広島（２５日・甲子園）\n　広島は９回に追いつき、今季初の引き分けに持ち込んだ。ベンチ入りの野手は全員出場。１―１で迎えた８回に中崎が押し出し四球。勝ち越しを許したが",
-          "url": "https://news.yahoo.co.jp/articles/77622ff468147307c40d8ffc27dfe5cea0913333",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-04-25T10:55:05Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260425-04251398-sph-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "『FGO』に★5キャスター「フランチェスカ（フランソワ）・プレラーティ」が実装！成田良悟氏がシナリオ執筆のコラボイベントが開催",
-          "description": "「剽滅十字前線 アンティオキア」、シナリオは成田良悟氏が執筆。「ヒッポリュテ」は★4英霊で実装",
-          "url": "https://news.denfaminicogamer.jp/news/260425x",
-          "source": {
-            "name": "電ファミニコゲーマー"
-          },
-          "publishedAt": "2026-04-25T10:39:00Z",
-          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/2e77e1c843f920ad2715fa7c3c9b35fc.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【中日】起用ピタリの井上監督「昨日悔しがっていた鵜飼と板山を外す選択肢なかった」／一問一答",
-          "description": "中日は今季2度目の連勝を飾った。首位ヤクルト相手に今季初のカード勝ち越し、借金も「11」まで減らした。試合が動いたのは2回。プロ11年目板山祐太郎内野手（32… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/baseball/news/202604250001487.html",
-          "source": {
-            "name": "nikkansports.com"
-          },
-          "publishedAt": "2026-04-25T10:09:49Z",
-          "image": "https://www.nikkansports.com/baseball/news/img/202604250001487-w500_0.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "One police officer dead after Chicago hospital shooting",
-          "description": "Officials say the suspect in the shooting, which left another officer in critical condition, has been taken into custody",
-          "url": "https://www.theguardian.com/us-news/2026/apr/25/one-police-officer-dead-after-chicago-hospital-shooting",
-          "source": {
-            "name": "The Guardian"
-          },
-          "publishedAt": "2026-04-25T19:41:30Z",
-          "image": "https://i.guim.co.uk/img/media/f8aa1b459b2ef1fb487dc7bf7575dc59055e49c0/564_0_4454_3563/master/4454.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c83b6b4ad7e556e054cad3d5a645279e",
-          "language": "en"
-        },
-        {
-          "title": "Lotto and Lotto Plus results: Saturday, 25 April 2026",
-          "description": "A total of R93 million in jackpots is up for grabs tonight. Here are your Lotto and Lotto Plus results for 25 April 2026.",
-          "url": "https://www.citizen.co.za/lotto/lotto-and-lotto-plus-results-saturday-25-april-2026/",
-          "source": {
-            "name": "The Citizen"
-          },
-          "publishedAt": "2026-04-25T19:40:41Z",
-          "image": "https://media.citizen.co.za/wp-content/uploads/2026/04/lotto-results-25-April.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Ensign restoration has WWI flag taking pride of place in Nowra museum",
-          "description": "A century-old red Australian flag that once led young men on a 100-kilometre march to enlist for World War I now takes pride of place in a museum in Nowra.",
-          "url": "https://www.abc.net.au/news/2026-04-26/red-ensign-restoration-nowra-museum-wwi-flag/106568438",
-          "source": {
-            "name": "Australian Broadcasting Corporation"
-          },
-          "publishedAt": "2026-04-25T19:40:14Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/558944334cd376b048abd752fb8c2e09?impolicy=wcms_watermark_news&cropH=1120&cropW=1991&xPos=48&yPos=0&width=862&height=485&imformat=generic",
-          "language": "en"
-        },
-        {
-          "title": "Winning Lotto numbers LIVE: Full National Lottery results with Thunderball on 25 April",
-          "description": "The April 25 Lotto draw will take place at 8pm - and its jackpot 'must be won'.",
-          "url": "https://www.express.co.uk/news/uk/2198398/national-lottery-winning-numbers-25-april-live",
-          "source": {
-            "name": "Daily Express"
-          },
-          "publishedAt": "2026-04-25T19:38:00Z",
-          "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/6884306.jpg",
-          "language": "en"
-        },
-        {
-          "title": "NASA Artemis II Astronaut Christina Koch praises Ghana experience - 'My study abroad in Ghana was life-changing'",
-          "description": "NASA astronaut Christina Koch has described her study abroad experience in Ghana as the most life-changing moment of her life. Read more.",
-          "url": "https://www.pulse.com.gh/story/nasa-artemis-ii-astronaut-christina-koch-praises-ghana-experience-my-study-abroad-in-ghana-was-life-changing-2026042511330895757",
-          "source": {
-            "name": "Pulse Ghana"
-          },
-          "publishedAt": "2026-04-25T19:37:55Z",
-          "image": "https://sportal365images.com/process/smp-images-production/pulse.com.gh/25042026/978c1e92-418c-43ab-bada-bfc5fdbc3638.jpg?operations=crop(1:0:275:154),autocrop(1200:630)",
-          "language": "en"
-        },
-        {
-          "title": "What new Google Messages features are rolling out [April 2026]",
-          "description": "Like other Google apps, Messages for Android A/B tests many features. It can take the RCS/SMS client a rather long...",
-          "url": "https://9to5google.com/2026/04/25/new-google-messages-features/",
-          "source": {
-            "name": "9to5Google"
-          },
-          "publishedAt": "2026-04-25T19:36:00Z",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-messages-logo-circle-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "language": "en"
-        },
-        {
-          "title": "Al-Qaeda-linked group claims responsibility for deadly attacks across Mali",
-          "description": "The al-Qaida-linked militant group JNIM claimed responsibility for the attacks on Bamako's international airport and four other cities in central and northern Mali on its website Azallaq.",
-          "url": "https://www.cbc.ca/news/world/attacks-mali-capital-9.7177256",
+          "title": "Ottawa Charge earns final PWHL playoff spot with 3-0 victory over Toronto Sceptres",
+          "description": "Ottawa Charge downs Toronto Sceptres 3-0 to secure\nfinal Professional Women's Hockey League playoff spot.",
+          "url": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-ottawa-charge-toronto-sceptres-april-25-9.7172902",
           "source": {
             "name": "CBC"
           },
-          "publishedAt": "2026-04-25T19:35:49Z",
-          "image": "https://i.cbc.ca/ais/f39920b0-4514-4faf-8622-440cd2084fd3,1777113993631/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C174%2C2886%2C1623%29%3BResize%3D620",
+          "publishedAt": "2026-04-25T21:54:16Z",
+          "image": "https://i.cbc.ca/ais/9299e445-3c10-488b-a91e-7cb603099ec9,1777149553358/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C294%2C5657%2C3182%29%3BResize%3D620",
           "language": "en"
         },
         {
-          "title": "Teenage motorcyclist killed in Cloghan road tragedy",
-          "description": "A teenage motorcyclist has died following a tragic collision in Cloghan.He was killed when the motorcycle he was riding collided with a car at approximately 4:3...",
-          "url": "https://www.donegaldaily.com/lead-stories/teenage-motorcyclist-killed-in-cloghan-road-tragedy-631603",
+          "title": "Megan Thee Stallion blasts Klay Thompson for cheating. 'Bye yall'",
+          "description": "Megan Thee Stallion put her now ex-boyfriend Klay Thompson on full blast writing \"Cheating, had me around your whole family playing house.\"",
+          "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/04/25/megan-thee-stallion-and-klay-thompson-break-up-cheating/89798419007/",
           "source": {
-            "name": "Donegal Daily"
+            "name": "USA Today"
           },
-          "publishedAt": "2026-04-25T19:31:58Z",
-          "image": "https://img.resized.co/donegaldaily/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAyNFxcXC8xMVxcXC9jYW5kbGUtMTAyNHg1MzYucG5nXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAyNlxcXC8wM1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZDdhYTg3M2RiZjRkZTc2MmFhZjhhMGZiMGM4NTFmMGZmMWQ1YTBhNyJ9/teenage-motorcyclist-killed-in-cloghan-road-tragedy.png",
+          "publishedAt": "2026-04-25T21:54:00Z",
+          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/07/09/SFTW/84522639007-mix-collage-09-jul-20250232-pm-9139.jpg?crop=2485,1397,x148,y0&width=2485&height=1397&format=pjpg&auto=webp",
           "language": "en"
         },
         {
-          "title": "Teenage motorcyclist dies after crash in Co Donegal",
-          "description": "A teenager has died following a crash involving a car and a motorbike in Co Donegal this afternoon.",
-          "url": "https://www.rte.ie/news/ireland/2026/0425/1570211-crash-death-donegal/",
+          "title": "Police officer killed, another in critical condition in shooting at Chicago hospital",
+          "description": "One police officer was killed in the line of duty and another was critically injured in a shooting at a Chicago hospital by a suspect who was brought in to the emergency department, officials said.",
+          "url": "https://www.nbcnews.com/news/crime-courts/two-police-officers-shot-chicago-hospital-one-critical-condition-rcna342077",
           "source": {
-            "name": "RTE.ie"
+            "name": "NBC News"
           },
-          "publishedAt": "2026-04-25T19:31:42Z",
-          "image": "https://www.rte.ie/images/001ef833-1600.jpg",
+          "publishedAt": "2026-04-25T21:53:23Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260425-chicago-shooting-ww-1407-1c3e4e.jpg",
           "language": "en"
         },
         {
-          "title": "Sydney Sweeney flings underwear at surprise Stagecoach appearance as she sings with country star",
-          "description": "The “Euphoria” bombshell popped up smack in the middle of the desert Friday, turning heads and sparking a frenzy at the Stagecoach country music festival in Indio, California.",
-          "url": "https://www.yahoo.com/entertainment/music/articles/sydney-sweeney-flings-underwear-surprise-193134260.html",
+          "title": "What counts as the woods? Judge axes Nova Scotia’s ban that defied ‘commonsense definitions’",
+          "description": "The court sided with a Canadian hiker who deliberately challenged the order imposed to curb spread of wildfires",
+          "url": "https://www.theguardian.com/world/2026/apr/25/canada-nova-scotia-wildfire-woods-ban",
           "source": {
-            "name": "Yahoo"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-04-25T19:31:34Z",
-          "image": "https://s.yimg.com/ny/api/res/1.2/9CcpXqor1Oe.UW.idKvwDg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/california_post_772/d1a871073bf9109010312c316f4a3f32",
+          "publishedAt": "2026-04-25T21:53:00Z",
+          "image": "https://i.guim.co.uk/img/media/6c3c8a2e594b8e6ceaf7fd148e6d38a75956c270/380_0_4718_3773/master/4718.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=125ac94f66cf7aeab25637fcc851a938",
+          "language": "en"
+        },
+        {
+          "title": "Man City player ratings vs Southampton: Nico Gonzalez golazo and devastating Jeremy Doku keep treble hopes alive as Pep Guardiola's second string survive huge FA Cup semi-final scare",
+          "description": "Rating the Manchester City players from their FA Cup semi-final win over Southampton",
+          "url": "https://www.goal.com/en-us/lists/man-city-player-ratings-vs-southampton-nico-gonzalez-jeremy-doku/blt454d0752c775cd9b",
+          "source": {
+            "name": "Goal.com"
+          },
+          "publishedAt": "2026-04-25T21:52:43Z",
+          "image": "https://assets.goal.com/images/v3/blt0195a96290191fb2/MCI.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Michael Jackson Biopic Director Paid Millions After Reshoots Cut Abuse",
+          "description": "The 'Michael' director and producer behind the Michael Jackson biopic were reportedly paid millions more after reshoots cut abuse allegations.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/michael-director-producer-paid-millions-reshoots-cut-abuse-1236577257/",
+          "source": {
+            "name": "The Hollywood Reporter"
+          },
+          "publishedAt": "2026-04-25T21:50:36Z",
+          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/11/001-mkt-001-cin-v0009-cnpt-1002.jpg?crop=0px%2C0px%2C2997px%2C1679px&resize=1440%2C810",
+          "language": "en"
+        },
+        {
+          "title": "Scientists Shocked to Discover Dinosaur Footprints in South Africa",
+          "description": "Scientists have discovered dinosaur footprints along South Africa’s coastline, offering new evidence that dinosaurs continued to live in southern Africa",
+          "url": "https://propakistani.pk/2026/04/26/scientists-shocked-to-discover-dinosaur-footprints-in-south-africa/",
+          "source": {
+            "name": "ProPakistani"
+          },
+          "publishedAt": "2026-04-25T21:49:26Z",
+          "image": "https://propakistani.pk/wp-content/uploads/2026/04/Dinosaur-Footprints.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Mother and child die after 'getting into difficulty' in water at west London park",
+          "description": "The woman and young boy were recovered from the water but died at the scene",
+          "url": "https://www.standard.co.uk/news/london/elthorne-park-river-deaths-met-police-b1280000.html",
+          "source": {
+            "name": "London Evening Standard"
+          },
+          "publishedAt": "2026-04-25T21:49:13Z",
+          "image": "https://static.standard.co.uk/2026/04/25/19/38/River-Brent-Elthorne-Park.png?width=1200&auto=webp&quality=75",
+          "language": "en"
+        },
+        {
+          "title": "Man dead after shooting in Toronto parking lot, police search for suspects",
+          "description": "A 30-year-old man is dead after a shooting in Toronto’s west end late Friday night. Police are searching for three suspects who fled the scene in a vehicle.",
+          "url": "https://globalnews.ca/news/11817325/man-dead-toronto-shooting-scarlettwood/",
+          "source": {
+            "name": "Global News"
+          },
+          "publishedAt": "2026-04-25T21:48:27Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/04/Screenshot-2026-04-25-170019.png?w=720&h=379&crop=1",
+          "language": "en"
+        },
+        {
+          "title": "Hundreds protest police inaction after pizzeria murder: 'This is a wake-up call'",
+          "description": "Teen suspected of murdering Pizza Hut worker in Petah Tikva caught on camera holding a knife covered in blood shortly after the Independence Day stabbing",
+          "url": "https://www.timesofisrael.com/hundreds-protest-police-inaction-after-pizzeria-murder-this-is-a-wake-up-call/",
+          "source": {
+            "name": "The Times of Israel"
+          },
+          "publishedAt": "2026-04-25T21:48:00Z",
+          "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/F260425AVS52.jpg",
           "language": "en"
         }
       ]
