@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-04-26T15:43:11.787Z",
+  "updatedAt": "2026-04-26T18:57:42.911Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【ポケモンGO】GOパス5月のリワード内容と挑戦期間",
+          "description": "ポケモンGOのGOパス5月のリワード内容と挑戦期間です。有料のGOパスデラックスのリワードについてもまとめていますので参考にしてください。",
+          "url": "https://pokemongo.gamewith.jp/article/show/558232",
+          "source": {
+            "name": "GameWith"
+          },
+          "publishedAt": "2026-04-26T06:10:16Z",
+          "image": "https://img.gamewith.jp/article/thumbnail/rectangle/558232.png?date=1777081993",
+          "language": "ja"
+        },
+        {
+          "title": "『ペルソナ５ ザ・ロイヤル』が80％オフの1535円。『shapez』は90％オフでわずか120円。今週の高割引率PCゲーム",
+          "description": "本稿ではSteamにてこの1週間でセールが開始されたタイトルのうち、特に割引率の高いゲームに焦点を当てて紹介する。",
+          "url": "https://automaton-media.com/articles/newsjp/steam-sale-20260426-439867/",
+          "source": {
+            "name": "AUTOMATON"
+          },
+          "publishedAt": "2026-04-26T05:59:38Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/04/steam-sale-20260426-439867-header.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "FX・為替相場の注目指標や予想を解説",
+          "description": "■4月27日～の週の為替相場の焦点(ユーロドル及びドル円中心)▼今週の金融政策の発表→日本(28日)、英国(30日)、ユーロ圏(30日)、米国(29日)、カナダ(29日)の金融政策の発表あり▼今週の米国の経済指標の発表→28日(火)の消費者信頼感指数、30日(木)のPCEデフレーターと第1四半期GDP【速報値】、1日(金)のISM製造業指数がメイン▼今週の米国の…",
+          "url": "https://zai.diamond.jp/articles/-/487859",
+          "source": {
+            "name": "ザイFX！"
+          },
+          "publishedAt": "2026-04-26T05:56:00Z",
+          "image": "https://zai.diamond.jp/mwimgs/4/1/-/img_41bb095c9772cb2c40b3bac7aa167bfe272816.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "今日26日夜 近畿は雨で雷雨の所も ゴールデンウィーク前半は曇りや雨の日が多い",
+          "description": "今日26日の夜は、近畿では広く雨が降り、雷を伴って激しく降る所もあるでしょう。明日27日の朝には雨はやみますが、その後も5月3日ごろにかけて、曇りや雨の日が多くなる見込みです。",
+          "url": "https://tenki.jp/forecaster/kimura/2026/04/26/38691.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-04-26T05:19:54Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/386/38691/main/20260426150141/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ホワイトハウス記者夕食会で発砲、CNNアンカーが「恐ろしい」体験振り返る 数メートル先に銃撃犯",
+          "description": "（CNN）　米ホワイトハウス記者協会夕食会のメイン会場の外で発砲が起きた時、CNNのウルフ・ブリッツァー氏は銃撃犯からわずか数メートルの位置にいた。\nブリッツァー氏はヒルトンホテル上層階の宴会場の",
+          "url": "https://news.yahoo.co.jp/articles/54acc10797c91ab4018a661ce91de2d0fb9725bb",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-04-26T03:58:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260426-35246913-cnn-000-5-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "「とにかく軽くてラク」 モンベルの“超軽量マイボトル”が高評価 「飲みやすいのにキャップを外せば洗いやすい」「シンプルでおしゃれ」",
           "description": "mont-bell（モンベル）は、日本発のアウトドアブランド。幅広いアウトドアシーンで活躍するさまざまなアイテムを展開しており、中にはタウンユースでも使いやすいアイテムもそろっています。　本記事では、そんなモンベルから販売されている超軽量で持ち運びやすいマイボトル「スクエアボトル アクティブ 0.5L」につ…",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-04-26T01:00:18Z",
           "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/04/IMG_7062.jpg?w=1200&h=630&crop=1",
           "language": "ja"
-        },
-        {
-          "title": "純正だけが選択肢じゃない。PS4・PS3・PC対応の進化系ワイヤレスコントローラー新登場",
-          "description": "LivelyLifeライブリーライフ株式会社のプレスリリース:純正だけが選択肢じゃない。PS4・PS3・PC対応の進化系ワイヤレスコントローラー新登場",
-          "url": "https://www.atpress.ne.jp/news/9223547",
-          "source": {
-            "name": "アットプレス"
-          },
-          "publishedAt": "2026-04-26T01:00:00Z",
-          "image": "https://www.atpress.ne.jp/attachments/mQS2NYyynfNltNwHpOGx.png",
-          "language": "ja"
-        },
-        {
-          "title": "純正だけが選択肢じゃない。PS4・PS3・PC対応の進化系ワイヤレスコントローラー新登場",
-          "description": "PS4・PS3・PC対応のワイヤレスゲームコントローラー。ダブルモーター振動、6軸ジャイロ、タッチパッド搭載で、純正品より低価格。ボイスチャット対応で長く使える次世代モデル。",
-          "url": "https://newscast.jp/smart/news/9223547",
-          "source": {
-            "name": "newscast.jp"
-          },
-          "publishedAt": "2026-04-26T01:00:00Z",
-          "image": "https://www.atpress.ne.jp/attachments/mQS2NYyynfNltNwHpOGx.png",
-          "language": "ja"
-        },
-        {
-          "title": "仮面ライダー“ゼッツエクスドリーム” “極限の夢”ビジュアル解禁！",
-          "description": "仮面ライダーシリーズ公式サイトです。令和仮面ライダー第7作となる「仮面ライダーゼッツ」や前作品「仮面ライダーガヴ」などの番組や映画の紹介は勿論、グッズ・玩具やイベントの情報など、シリーズ全般の情報を掲載しています。",
-          "url": "https://www.kamen-rider-official.com/news_articles/3149",
-          "source": {
-            "name": "仮面ライダーWEB【公式】"
-          },
-          "publishedAt": "2026-04-26T00:37:07Z",
-          "image": "https://www.kamen-rider-official.com/uploads/news_article/s3_main_image/3149/c9418d72-eded-41bc-a925-76963c63410c.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "DFMがプレイオフ進出決定！プレッシャーの中で辛くも掴んだ勝利、ウェイレイのナーフやロールチェンジをyatsukaとNorthernLightsが語る【VCT Pacific 2026 Stage 1 合同インタビュー】",
-          "description": "VCT Pacific 2026 Stage 1 DAY 11でDFMがVARRELと対戦。試合後に行われた合同インタビューの模様をお届けします。",
-          "url": "https://fistbump-news.jp/article/2026/04/26/2360.html",
-          "source": {
-            "name": "FISTBUMP"
-          },
-          "publishedAt": "2026-04-26T00:00:03Z",
-          "image": "https://fistbump-news.jp/imgs/ogp_f/14554.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「最近、PCが重い…」なら試して。Windows PCのファイルをギガ単位でスッキリさせるお掃除術",
-          "description": "あなたのPC、最近なんだか重くないですか？その原因、実は見えない「隠れゴミ」ファイルが原因かもしれません。",
-          "url": "https://www.lifehacker.jp/article/2604-delete-windows-temp-folders-now/",
-          "source": {
-            "name": "ライフハッカー・ジャパン"
-          },
-          "publishedAt": "2026-04-26T00:00:00Z",
-          "image": "https://media.loom-app.com/loom/2025/06/12/7aaa78ab-4716-478d-92ef-aaec488ef62e/original.jpg?w=1200&h=630&f=jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Scientists Mapped Gray Hair to Stress Timelines. When Stress Ended, Pigment Returned Mid-Shaft (The Mechanism Is Fascinating)",
-          "description": "Gray hair isn't just a symptom of getting older.",
-          "url": "https://boxlifemagazine.com/antioxidant-treatment-reverses-gray-hair/",
+          "title": "Manchester City late show sinks Southampton to reach FA Cup final",
+          "description": "City will face Leeds or Chelsea in the final on May 16.",
+          "url": "https://www.newindianexpress.com/sport/football/2026/Apr/26/manchester-city-late-show-sinks-southampton-to-reach-fa-cup-final",
           "source": {
-            "name": "BoxLife Magazine"
+            "name": "The New Indian Express"
           },
-          "publishedAt": "2026-04-26T03:42:30Z",
-          "image": "https://boxlifemagazine.com/wp-content/uploads/2026/04/file-247.jpeg",
+          "publishedAt": "2026-04-26T06:54:49Z",
+          "image": "https://media.newindianexpress.com/newindianexpress%2F2026-04-26%2F7739gk9v%2FAP26115660955348.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
           "language": "en"
         },
         {
-          "title": "Nikola Jokic Could Face NBA Penalty After McDaniels Scuffle",
-          "description": "Nikola Jokic could draw NBA review after confronting Jaden McDaniels during Nuggets-Timberwolves. Here’s what the league rules allow.",
-          "url": "https://heavy.com/sports/nba/denver-nuggets/nikola-jokic-jaden-mcdaniels-news/",
+          "title": "7 Major PS5 Games Releasing in May 2026: Complete Release List",
+          "description": "Get ready for a huge month of gaming. Discover the 7 major PS5 games releasing in May 2026, plus highly anticipated April launch of Saros.",
+          "url": "https://www.techjuice.pk/7-major-ps5-games-releasing-in-may-2026-complete-release-list/",
           "source": {
-            "name": "heavy.com"
+            "name": "TechJuice"
           },
-          "publishedAt": "2026-04-26T03:37:00Z",
-          "image": "https://heavy.com/wp-content/uploads/2026/04/GettyImages-2272341503.jpg?quality=65&strip=all&w=1200",
+          "publishedAt": "2026-04-26T06:52:39Z",
+          "image": "https://www.techjuice.pk/wp-content/uploads/2026/04/7-major-ps5-games-releasing-in-may-2026-complete-release-list-techjuice-232004.jpg",
           "language": "en"
         },
         {
-          "title": "NASA's SpaceX Crew-13 pays homage to Apollo 13 on mission patch",
-          "description": "NASA has assigned its first crew to launch on a mission \"13\" since Apollo 13 \"had a problem\" on the way to the moon. Rather than give into triskaidekaphobia, the crew is embracing it by including nods to the Apollo 13 patch within their own Crew-13 insignia.",
-          "url": "http://www.collectspace.com/news/news-042526a-crew-13-mission-patch-apollo-13-nasa-spacex.html",
+          "title": "5 key questions ahead of the season resumption in Miami",
+          "description": "F1.com's Lawrence Barretto assesses the five key questions that remain ahead of the season getting underway again at the Miami Grand Prix.",
+          "url": "https://www.formula1.com/en/latest/article/5-key-questions-ahead-of-the-season-resumption-in-miami.HtLCDVZVJiW4GW3tgMa5c",
           "source": {
-            "name": "collectSPACE.com"
+            "name": "Formula 1"
           },
-          "publishedAt": "2026-04-26T03:36:37Z",
-          "image": "https://www.collectspace.com/images/news-042526a-fb.jpg",
+          "publishedAt": "2026-04-26T06:52:00Z",
+          "image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Miscellaneous/5%20key%20questions%20header.webp",
           "language": "en"
         },
         {
-          "title": "VCAT approves fast food restaurant on High Street",
-          "description": "VCAT found against the local council, overruling concerns that the McDonald’s would harm High Street’s cultural identity, small businesses and pedestrian safety.",
-          "url": "https://www.theage.com.au/national/victoria/mcdonald-s-green-lit-for-world-s-coolest-street-after-fast-food-giant-s-appeal-20260425-p5zr16.html",
+          "title": "‘Serves them right’: Kelantan rep boasts motorcycle convoy used ‘lorong tikus’ to evade police road blocks",
+          "description": "KOTA BHARU, April 26 — A motorcycle convoy in Kelantan held without the approval of the police was proclaimed a success by the organising assemblyman after its participants used...",
+          "url": "https://www.malaymail.com/news/malaysia/2026/04/26/serves-them-right-kelantan-rep-boasts-motorcycle-convoy-used-lorong-tikus-to-evade-police-road-blocks/217753",
           "source": {
-            "name": "The Age"
+            "name": "Malay Mail"
           },
-          "publishedAt": "2026-04-26T03:36:04Z",
-          "image": "https://static.ffx.io/images/$zoom_0.4696207407407407%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_196%2C$y_154/t_crop_custom/q_86%2Cf_auto/625e3d759746417352f7098280a9551f7eb90581",
+          "publishedAt": "2026-04-26T06:50:06Z",
+          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/04/26/337701.jpg",
           "language": "en"
         },
         {
-          "title": "Advocate calls for 'common sense' after fine threat for using accessible zone without permit",
-          "description": "Disability advocate and wheelchair user Shane Hryhorec is calling for Adelaide Airport to use a common sense approach after being threatened with a fine for using an accessible pick-up zone without a permit.",
-          "url": "https://www.abc.net.au/news/2026-04-26/advocate-threatened-with-fine-at-airport-disability-parking-zone/106607748",
+          "title": "Kenya underscores need to expand surgical care as government launches first National Surgical Services Strategic Plan",
+          "description": "Government has underscored the importance of expanding access to safe and affordable surgical care is central to strengthening Kenya’s health system and advancing Universal Health Coverage.",
+          "url": "https://www.kbc.co.ke/kenya-underscores-need-to-expand-surgical-care-as-government-launches-first-national-surgical-services-strategic-plan/",
           "source": {
-            "name": "Australian Broadcasting Corporation"
+            "name": "KBC Digital"
           },
-          "publishedAt": "2026-04-26T03:34:44Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/8ae54e059e18bf814b008c549e30ba41?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-04-26T06:50:05Z",
+          "image": "https://www.kbc.co.ke/wp-content/uploads/2026/04/MOH.jpg",
           "language": "en"
         },
         {
-          "title": "Trump says injured officer in 'great shape' after shooter stormed security at correspondents' dinner",
-          "description": "US president says suspect is in custody as he shares security footage of what appears to be the start of the shooting.",
-          "url": "https://www.bbc.co.uk/news/live/c1je28p42ret",
+          "title": "Qwen AI Glasses Witness Grand Opening of China Intangible Cultural Heritage Crafts Exhibition at Milan Design Week",
+          "description": "On April 20, the China Intangible Cultural Heritage (ICH) Crafts Exhibition opened at the Milan University. Co-curated by Italian curator Davide Rampello and...",
+          "url": "https://www.businesswire.com/news/home/20260424313156/en/Qwen-AI-Glasses-Witness-Grand-Opening-of-China-Intangible-Cultural-Heritage-Crafts-Exhibition-at-Milan-Design-Week",
+          "source": {
+            "name": "Business Wire"
+          },
+          "publishedAt": "2026-04-26T06:50:00Z",
+          "image": "https://mms.businesswire.com/media/20260424313156/en/2785181/22/Picture1.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Trump unhurt and suspect in custody after shots fired at White House correspondents' dinner",
+          "description": "The US president is rushed out of the event at a Washington hotel, as police say the man, 31, had multiple weapons and was a \"lone actor\".",
+          "url": "https://www.bbc.com/news/live/c1je28p42ret",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-04-26T03:34:06Z",
+          "publishedAt": "2026-04-26T06:48:55Z",
           "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5762/live/253db800-4110-11f1-ac78-2112837ce2aa.jpg",
           "language": "en"
         },
         {
-          "title": "Ampang police looking for man accused of objecting to azan",
-          "description": "SHAH ALAM: Police have opened an investigation into an individual accused of objecting to the call to prayer (azan) and the holding of Friday prayers at a surau in Taman Seraya, Ampang.",
-          "url": "https://www.thestar.com.my/news/nation/2026/04/26/ampang-police-looking-for-man-accused-of-objecting-to-azan",
+          "title": "The state of play at Haas after three rounds of the 2026 season",
+          "description": "Haas have raised some eyebrows in 2026 so far, with Ollie Bearman delivering some very strong results. But can the American team stay at the top of the midfield after the coming races?",
+          "url": "https://www.formula1.com/en/latest/article/the-state-of-play-at-haas-after-three-rounds-of-the-2026-season.3G15teoYvJ7j4LxNjtu8dN",
           "source": {
-            "name": "The Star"
+            "name": "Formula 1"
           },
-          "publishedAt": "2026-04-26T03:34:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/04/26/3878358.jpeg",
+          "publishedAt": "2026-04-26T06:47:00Z",
+          "image": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Haas/TEAM%20PREVIEWSHALF%20TERM%20REPORTS%20V1%20(32).webp",
           "language": "en"
         },
         {
-          "title": "Timberwolves' Donte DiVincenzo reportedly diagnosed with torn Achilles, Anthony Edwards undergoing testing on knee",
-          "description": "Less than 2 minutes into the game, Minnesota lost DiVincenzo to a non-contact lower leg injury. Then, just before halftime, Edwards left the game after an awkward landing on his left leg.",
-          "url": "https://sports.yahoo.com/nba/article/timberwolves-donte-divincenzo-reportedly-diagnosed-with-torn-achilles-anthony-edwards-undergoing-testing-on-knee-011747704.html",
-          "source": {
-            "name": "Yahoo Sports"
-          },
-          "publishedAt": "2026-04-26T03:34:00Z",
-          "image": "https://s.yimg.com/ny/api/res/1.2/jbI4I5WwCmcaGLmoG.5KYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-04/0039e771-a19e-4e1a-a4d7-309f1f7842c5",
-          "language": "en"
-        },
-        {
-          "title": "Six passengers injured after engine failure forces evacuation of SWISS Delhi",
-          "description": "A SWISS flight from Delhi to Zurich aborted takeoff and was evacuated after an engine failure and fire. Six passengers were hospitalized with injuries sustained during the emergency evacuation using slides. The airline is arranging onward travel and accommodation for all affected passengers.",
-          "url": "https://economictimes.indiatimes.com/nri/latest-updates/delhi-airport-incident-six-passengers-injured-after-engine-failure-forces-evacuation-of-swiss-delhi-zurich-flight/articleshow/130525947.cms?from=mdr",
-          "source": {
-            "name": "The Economic Times"
-          },
-          "publishedAt": "2026-04-26T03:32:04Z",
-          "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-125856,resizemode-75,msid-130525947/nri/latest-updates/delhi-airport-incident-six-passengers-injured-after-engine-failure-forces-evacuation-of-swiss-delhi-zurich-flight.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Trump rushed to safety as gunshots disrupt Washington press dinner",
-          "description": "Shots were fired as US President Donald Trump attended a media gala in Washington on Saturday night, with the gunman detained",
-          "url": "https://www.vanguardngr.com/2026/04/trump-rushed-to-safety-as-gunshots-disrupt-washington-press-dinner/",
+          "title": "Trump evacuated as shooter opens fire at Washington gala",
+          "description": "US Secret Service agents bundled Donald Trump from the stage as shots rang out Saturday evening at a media gala, in what the president later described as an attack by a \"would-be assassin.\"",
+          "url": "https://www.vanguardngr.com/2026/04/trump-evacuated-as-shooter-opens-fire-at-washington-gala/",
           "source": {
             "name": "Vanguard News"
           },
-          "publishedAt": "2026-04-26T03:31:59Z",
-          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/07/AFP__20240714__363Z3R2__v1__Preview__UsVotePoliticsTrump-e1777174268365.jpg",
+          "publishedAt": "2026-04-26T06:45:26Z",
+          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/04/Screenshot-2026-04-26-074342.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Saints show no mercy in triple",
+          "description": "St Kilda was clinical in its 101-point win over West Coast",
+          "url": "https://www.afl.com.au/news/1506656/st-kilda-saints-show-no-mercy-to-west-coast-eagles-with-triple-figure-drubbing",
+          "source": {
+            "name": "afl.com.au"
+          },
+          "publishedAt": "2026-04-26T06:44:29Z",
+          "image": "https://resources.afl.com.au/afl/photo/2026/04/26/f754b1dd-4c1f-4e32-90ab-8beb1cbe8578/DCPs8WJ8.jpg",
           "language": "en"
         }
       ]
