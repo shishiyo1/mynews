@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-04-28T19:43:38.547Z",
+  "updatedAt": "2026-04-28T21:59:33.083Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "ゴールデンウィークの天気 30日～1日は大雨に警戒 2日は晴れて東京27℃予想",
+          "description": "今年のゴールデンウィークは、晴天は続かず、度々雨となりそうです。特に、大雨に警戒が必要なのが、30日(木)～5月1日(金)です。沖縄や九州～関東の太平洋側では横殴りの雨に警戒が必要です。一方、晴れる日は夏日が続出し、2日(土)は東京都心で最高気温27℃の予想です。朝と日中の気温差が大きくなる時期です。重ね着など服装でうまく調節しましょう。",
+          "url": "https://tenki.jp/forecaster/r_fukutomi/2026/04/28/38726.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-04-28T09:24:15Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/387/38726/main/20260428174113/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『ソニックレーシング クロスワールド』に「真島吾朗」参戦 GW期間限定中は無料で遊び放題",
+          "description": "セガは『ソニックレーシング クロスワールド』の無料アップデート「真島吾朗（キャプテン真島）」を4月30日より配信。オリジナルマシン「ゴロー丸」や『龍が如く』楽曲4曲も追加される。",
+          "url": "https://realsound.jp/tech/2026/04/post-2381231.html",
+          "source": {
+            "name": "Real Sound｜リアルサウンド"
+          },
+          "publishedAt": "2026-04-28T08:56:59Z",
+          "image": "https://realsound.jp/wp-content/uploads/2026/04/20260428-majima_sonic-99.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "押し入れの奥から未使用ゲーム機が続々 「いつか遊ぶ用」のコレクションに反響「凄いお宝の数々」",
+          "description": "押し入れの奥から出てきた未使用ゲーム機が、Xで話題になっています。\n投稿したのは、「@soranotateana」さんです。\n当ポストは執筆時点で42万3000件を超えて表示されており、「凄いお",
+          "url": "https://news.yahoo.co.jp/articles/0bdd87802f9332e5870533889b30d040e51cad28",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-04-28T08:40:51Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260428-00122482-toushin-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "[Denon 展示店舗情報] DENON HOMEシリーズの体験可能店舗が拡大",
+          "description": "株式会社ディーアンドエムホールディングスのプレスリリース（2026年4月28日 17時00分）[Denon 展示店舗情報] DENON HOMEシリーズの体験可能店舗が拡大",
+          "url": "https://prtimes.jp/main/html/rd/p/000000581.000003601.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-04-28T08:00:04Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/3601/581/3601-581-3cce04542bcef73cf6a344ad6ef13a9f-3900x2601.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "ふぉ～ゆ～×「水曜どうでしょう」藤村D、ローカル20局連携の新番組「ふぉゆどう」スタート（動画 / コメントあり）",
+          "description": "ふぉ～ゆ～と、北海道テレビ放送（HTB）「水曜どうでしょう」のディレクター・藤村忠寿氏がタッグを組む新番組「ふぉゆどう」が、5月3日からTOKYO MXほか全国のローカル局約20局で放送を開始する。",
+          "url": "https://natalie.mu/stage/news/670103",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-04-28T08:00:00Z",
+          "image": "https://ogre.natalie.mu/media/news/stage/2026/0428/foyudoKV_fix.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
+        {
+          "title": "MEGUMIプロデュース、片山友希主演「FUJIKO」伊ウディネ・ファーイースト映画祭で5分間のスタンディングオベーション！（映画.com）",
+          "description": "ヨーロッパ最大級のアジア映画祭として知られる第28回ウディネ・ファーイースト映画祭メインコンペティション部門に正式出品されたMEGUMIプロデュース、片山友希主演映画「FUJIKO」のワールドプレ",
+          "url": "https://news.yahoo.co.jp/articles/5f05b144efb98aafeb9ed6b3a5c50b2a4889d47e",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-04-28T08:00:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260428-00000015-eiga-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "（まとめ）日経平均は619円安で3営業日ぶりに反落 祝日明けの米テック決算に注目",
           "description": "東京市場まとめ1.概況日経平均は5円安の60,531円と反落して取引を開始しました。序盤は上昇する場面が見られたものの、前日に終値で初の6万円台に乗せるなど急ピッチの株高の反動から、次第に利益確定の売りが優勢となりました。もっとも、前場の下値は限定的で299円安....",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-04-28T06:03:45Z",
           "image": "https://news.mynavi.jp/techplus/article/20260428-4396820/ogp_images/ogp.jpg",
           "language": "ja"
-        },
-        {
-          "title": "9月1日就任、Apple新CEOが発表する初プロダクトは…折りたたみiPhone|au Webポータル",
-          "description": "Image: 三浦一紀 - Generated with ChatGPT 5.2 企業トップとして、Apple（アップル）を4兆ドル（約636兆円）企業へと成長させたティム・クックCEOの退任が、今月",
-          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260428_1777360161881537",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-04-28T06:00:00Z",
-          "image": "https://portal.st-img.jp/assets/img/article_ogp.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "9月1日就任、Apple新CEOが発表する初プロダクトは…折りたたみiPhone",
-          "description": "企業トップとして、Apple（アップル）を4兆ドル（約636兆円）企業へと成長させたティム・クックCEOの退任が、今月発表されました。後任は現在ハードウェアエンジニアリング担当上級副社長を務めるジョン・ターナス氏。9月1日付けで、ターナス氏がCEOに就任します。新CEOとともにスポットライトを浴びるのは…Apple事情通で知られるBloombergのマーク・ガーマン氏いわく、ジョン・ターナス氏が",
-          "url": "https://www.gizmodo.jp/2026/04/apple-is-setting-its-new-ceo-up-to-be-synonymous-with-the-2000-foldable-iphone-report-says.html",
-          "source": {
-            "name": "ギズモード・ジャパン"
-          },
-          "publishedAt": "2026-04-28T06:00:00Z",
-          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/28/260312foldableiPhone_1280.jpg_1280.jpg?w=1280&h=630&f=jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『ソニックレーシング クロスワールド』 無料アップデート「真島吾朗（キャプテン真島）」4月30日（木）配信開始！「龍が如く キャプテン真島フェスタ」も開催決定！",
-          "description": "［株式会社セガ］株式会社セガは、発売中の『ソニックレーシング クロスワールド』について、無料アップデート「真島吾朗（キャプテン真島）（『龍が如く』シリーズ）」の配信を2026年4月30日（木）より開始することをお知らせいたします。また、5月1日（金）より期間限定のコラボイベント「龍が如く キャプテン真島フェスタ」を開催予定です。イベント期間中にフェスタポイントをためると、コラボイベントならではの特別なゲーム内アイテムが手に入ります。あわせて、無料アップデート「真島吾朗（キャプテン真島）」を紹介す…",
-          "url": "https://www.jiji.com/jc/article?k=000007336.000005397&g=prt",
-          "source": {
-            "name": "時事ドットコム"
-          },
-          "publishedAt": "2026-04-28T05:16:00Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/5397/7336/5397-7336-487fd21557dbcfd434723ee998ffc8c2-1920x1080.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "バナナマン日村勇紀、休養を発表 「心身の回復を第一に」所属事務所が説明【発表全文】",
-          "description": "バナナマン日村勇紀、休養を発表　「心身の回復を第一に」所属事務所が説明【発表全文】（ORICON NEWS）　お笑いコンビ・バナナマンの日村勇紀（53）が28日、所属事務所の公式サイトを通じて、当面の間休養することを発表した。 　所…",
-          "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2451715?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-04-28T05:07:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/oricon/m_oricon-2451715.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Windows 11の不満解消へ Microsoftの最優先プロジェクト「Windows K2」とは何か：Windowsフロントライン（1/2 ページ）",
-          "description": "機能追加よりも「品質とパフォーマンス」を最優先へ。Microsoftが進めるWindows 11の改善プロジェクト「Windows K2」を読み解く。 (1/2)",
-          "url": "https://www.itmedia.co.jp/pcuser/articles/2604/28/news065.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-04-28T05:00:00Z",
-          "image": "https://image.itmedia.co.jp/pcuser/articles/2604/28/cover_news065.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「マジでびっくりした」「綺麗すぎ」Ado テレビでの“初顔出し”に視聴者騒然",
-          "description": "【女性自身】4月27日夜放送の音楽番組『CDTVライブ！ライブ！』（TBS系）に歌手のAdo（23）が出演。3月に発表した新曲「アイ・アイ・ア」、代表曲「踊」と2月に発表した「ビバリウム」の3曲を披露した。’20年10月に「うっせぇわ」でメジャーデビューしたAdo。翌’21年3月には同曲のMV再生回数は1億回を突破し、同年の「新語・流行語大賞」の年間トップテンに選出されるなど社会現象に。一方で、ライブも含め、",
-          "url": "https://jisin.jp/entertainment/entertainment-news/2581130/",
-          "source": {
-            "name": "女性自身"
-          },
-          "publishedAt": "2026-04-28T04:30:00Z",
-          "image": "https://img.jisin.jp/uploads/2026/04/ado_fb.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Njombe gears up for 30,000 workers on May Day",
-          "description": "ARUSHA: ABOUT 30,000 workers from various trade unions under the Trade Union Congress of Tanzania (TUCTA) are expected to participate in this year’s national International Workers’ Day (Mei Mosi) celebrations at the national level in Njombe Region. This was revealed by TUCTA President Tumaini Nyamhokya in an interview yesterday. Mr Nyamhokya said this year’s national",
-          "url": "https://dailynews.co.tz/njombe-gears-up-for-30000-workers-on-may-day/",
+          "title": "Ternus's AI Strategy Shift Explained",
+          "description": "Apple's incoming CEO John Ternus is targeting 10 new product categories. Here's what that means for your enterprise device strategy.",
+          "url": "https://www.uctoday.com/devices-workspace-tech/apple-john-ternus-ceo-hardware-ai-strategy-shift/",
           "source": {
-            "name": "dailynews.co.tz"
+            "name": "UC Today"
           },
-          "publishedAt": "2026-04-28T07:43:40Z",
-          "image": "https://dailynews.co.tz/wp-content/uploads/2025/04/Nyamhokya.webp",
+          "publishedAt": "2026-04-28T09:59:24Z",
+          "image": "http://www.uctoday.com/wp-content/uploads/2026/04/Devices-and-workspace-tech-6.png",
           "language": "en"
         },
         {
-          "title": "Chelsea manager: Andoni Iraola, Marco Silva and Xabi Alonso among candidates to replace Liam Rosenior at Stamford Bridge",
-          "description": "Andoni Iraola, Marco Silva and Xabi Alonso fit the bill of a proven track record and/or Premier League experience Chelsea are looking for to replace Liam Rosenior; Chelsea will not rush into an appointment, with Calum McFarlane expected to remain in charge until the end of the season",
-          "url": "https://www.skysports.com/football/news/11668/13537464/chelsea-manager-andoni-iraola-marco-silva-and-xabi-alonso-among-candidates-to-replace-liam-rosenior-at-stamford-bridge",
+          "title": "How to watch Atletico Madrid v Arsenal on TV",
+          "description": "Find out how to watch Atlético de Madrid v Arsenal in the Champions League semi-final first leg on April 29",
+          "url": "https://www.arsenal.com/news/how-watch-atletico-madrid-v-arsenal-tv",
           "source": {
-            "name": "Sky Sports"
+            "name": "Arsenal.com"
           },
-          "publishedAt": "2026-04-28T07:43:34Z",
-          "image": "https://e0.365dm.com/26/04/1600x900/skysports-premier-league-chelsea_7232854.jpg?20260428083825",
+          "publishedAt": "2026-04-28T09:59:18Z",
+          "image": "https://www.arsenal.com/sites/default/files/styles/desktop_16x9/public/images/GettyImages-2271345980%20Cropped_yd2mrvof.jpg?h=6d0de24f&auto=webp&itok=4zgFTOBM",
           "language": "en"
         },
         {
-          "title": "YouTuber uses night vision camera to record footage of giant sea creatures 700ft below “Black Magic Island”",
-          "description": "A YouTuber captured footage of a giant ray and a shark species never before seen in the wild at the depths of the Indian Ocean below Nusa Penida, Bali",
-          "url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/youtuber-uses-night-vision-camera-to-record-footage-of-giant-sea-creatures-700ft-below-black-magic-island",
+          "title": "Eternal Q4 results: Net profit jumps 346% to ₹174 crore; Blinkit fuels 196% YoY revenue rise",
+          "description": "Eternal recorded a 346% surge in Q4 PAT, and a 196% YoY rise in revenues, largely driven by the strong performance of the company’s quick commerce business.",
+          "url": "https://upstox.com/news/market-news/earnings/eternal-q4-results-net-profit-jumps-346-to-174-crore-blinkit-fuels-196-yo-y-revenue-rise/article-192850/",
           "source": {
-            "name": "Digital Camera World"
+            "name": "Upstox"
           },
-          "publishedAt": "2026-04-28T07:43:03Z",
-          "image": "https://cdn.mos.cms.futurecdn.net/wjrccU7rCkjFVXa4jZSCZd-2100-80.jpg",
+          "publishedAt": "2026-04-28T09:59:03Z",
+          "image": "https://assets.upstox.com/content/assets/images/news/eternalsharepricetoday.webp",
           "language": "en"
         },
         {
-          "title": "King Charles and Donald Trump 'are related' as bombshell family link uncovered",
-          "description": "As King Charles and Queen Camilla begin a four-day state visit in the US amid increased transatlantic tensions, a remarkable discovery may well help to mend ties",
-          "url": "https://www.mirror.co.uk/news/royals/king-charles-donald-trump-are-37078965",
+          "title": "Watch the awkward moment after Cynthia Erivo 'walks off stage' during one-woman",
+          "description": "Cynthia Erivo halted her solo West End show Dracula last night after catching an audience member filming her.",
+          "url": "https://metro.co.uk/2026/04/28/cynthia-erivo-stops-one-woman-west-end-show-call-audience-member-filming-28147545/",
           "source": {
-            "name": "The Mirror"
+            "name": "Metro.co.uk"
           },
-          "publishedAt": "2026-04-28T07:43:00Z",
-          "image": "https://i2-prod.mirror.co.uk/article37079135.ece/ALTERNATES/s1200d/0_King-Charles-III-And-Queen-Camilla-Begin-State-Visit-To-The-United-States-Of-America.jpg",
+          "publishedAt": "2026-04-28T09:59:00Z",
+          "image": "https://metro.co.uk/wp-content/uploads/2026/03/GettyImages-2262181006-d7e2_1777389499.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
           "language": "en"
         },
         {
-          "title": "Ex-Foreign Office chief says he thought Mandelson’s Epstein links were ‘potentially difficult’ but he was not consulted - UK politics live",
-          "description": "Philip Barton gives evidence to foreign affairs committee, with Morgan McSweeney due later this morning, ahead of vote this afternoon",
-          "url": "https://www.theguardian.com/politics/live/2026/apr/28/keir-starmer-labour-peter-mandelson-vetting-morgan-mcsweeney-kemi-badenoch-vote-uk-politics-latest-news-updates",
+          "title": "Hot Chocolate founder Tony Wilson, who co-wrote You Sexy Thing, dies aged 89",
+          "description": "The Trinidad-born musician wrote soulful hits including You Sexy Thing and Emma in the 1970s.",
+          "url": "https://www.bbc.co.uk/news/articles/czx26yvgw64o",
           "source": {
-            "name": "The Guardian"
+            "name": "BBC"
           },
-          "publishedAt": "2026-04-28T07:42:00Z",
-          "image": "https://i.guim.co.uk/img/media/0c9c077d86cb88acf64a57b57d751f83460c168e/927_3_3752_3003/master/3752.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8a0d58af923c9078b7db4c0b90dc1e2a",
+          "publishedAt": "2026-04-28T09:58:36Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ab3/live/053d26f0-42df-11f1-9cf2-2b2a184d3db3.jpg",
           "language": "en"
         },
         {
-          "title": "'Don't Argue Like This' : Supreme Court Rebukes Lawyer In Sabarimala Reference Hearing",
-          "description": "The Supreme Court on Tuesday rebuked an advocate for making irrelevant and extraneous submissions in the Sabarimala reference hearing.The 9-judge bench asked Advocate Ashwini Upadhyay several times to...",
-          "url": "https://www.livelaw.in/top-stories/dont-argue-like-this-supreme-court-rebukes-lawyer-in-sabarimala-reference-hearing-532024",
+          "title": "Uganda detains 231 foreigners in crackdown on possible human trafficking",
+          "description": "Ugandan authorities say they have detained dozens of foreigners in a crackdown on illegal migration that was likely linked to human traffickers and cyberscam operations",
+          "url": "https://www.washingtonpost.com/world/2026/04/28/uganda-migration-trafficking-arrests-cyberscam/09d688e8-42e7-11f1-b19d-32431046b5b4_story.html",
           "source": {
-            "name": "Live Law"
+            "name": "The Washington Post"
           },
-          "publishedAt": "2026-04-28T07:41:38Z",
-          "image": "https://www.livelaw.in/h-upload/2026/01/05/644622-750x450630714-750x450600602-750x450557432-supreme-court-of-india-sc-2.jpg",
+          "publishedAt": "2026-04-28T09:58:13Z",
+          "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RUGLRTKULZB6XPESJMXXJVLTDI.jpeg&w=1440",
           "language": "en"
         },
         {
-          "title": "EU Weighs Giving US Data for Fewer Travel Restrictions",
-          "description": "The EU is negotiating a framework that could allow the US to search national databases across the bloc as the price for keeping visa-free travel.",
-          "url": "https://en.tempo.co/read/2100773/eu-weighs-giving-us-data-for-fewer-travel-restrictions",
+          "title": "Ukraine hammers Russian Black Sea oil facilities",
+          "description": "“There is another serious state of emergency in Tuapse after an attack by enemy drones,” says local governor.",
+          "url": "https://www.politico.eu/article/ukraine-bombs-russias-oil-export-hub-in-tuapse-on-the-black-sea-again/",
           "source": {
-            "name": "Tempo.co English"
+            "name": "politico.eu"
           },
-          "publishedAt": "2026-04-28T07:41:32Z",
-          "image": "https://statik.tempo.co/data/2023/12/10/id_1261917/1261917_720.jpg",
+          "publishedAt": "2026-04-28T09:58:00Z",
+          "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/04/28/12918954.jpg",
           "language": "en"
         },
         {
-          "title": "Level Infinite launches Gangstar Mirage City exclusively in PH",
-          "description": "Level Infinite has launched a brand new mobile title exclusively available in the Philippines: Gangstar Mirage City.",
-          "url": "https://www.gadgetmatch.com/level-infinite-launches-gangstar-mirage-city-exclusively-in-ph/",
+          "title": "Nikola Jokic Joins LeBron James as Only Players in NBA History to Do This",
+          "description": "Nikola Jokic joins LeBron James in rare NBA playoff history after a dominant Game 5. Here’s what it means for the Nuggets moving forward.",
+          "url": "https://heavy.com/sports/nba/denver-nuggets/nikola-jokic-joins-lebron-james-as-only-players-in-nba-history-to-do-this/",
           "source": {
-            "name": "GadgetMatch"
+            "name": "heavy.com"
           },
-          "publishedAt": "2026-04-28T07:41:30Z",
-          "image": "https://www.gadgetmatch.com/wp-content/uploads/2026/04/level-infinite-gangstar-mirage-city-philippines-exclusive-mobile-20260428-1000x600.jpg",
+          "publishedAt": "2026-04-28T09:57:20Z",
+          "image": "https://heavy.com/wp-content/uploads/2026/04/GettyImages-2268338333-1-e1777303500785.jpg?quality=65&strip=all",
           "language": "en"
         },
         {
-          "title": "Sennheiser Spectera on the road with Ed Sheeran’s ‘The Loop’ global stadium tour",
-          "description": "Monitor engineer and RF tech Dave White puts Sennheiser’s wideband wireless ecosystem to the test in demanding live conditions",
-          "url": "https://newsroom.sennheiser.com/sennheiser-spectera-on-the-road-with-ed-sheerans-the-loop-global-stadium-tour",
+          "title": "Athens shooting: 89-year-old alleged gunman on the run, Greek media reports",
+          "description": "A gunman opened fire at a social security office and at a courthouse in central Athens on Tuesday, wounding several people, Greek authorities said. A police operation was underway to locate the gunman, who Greek media reported was an 89-year-old man.",
+          "url": "https://edition.cnn.com/2026/04/28/europe/athens-shooting-greece-intl",
           "source": {
-            "name": "Sennheiser"
+            "name": "CNN"
           },
-          "publishedAt": "2026-04-28T07:40:00Z",
-          "image": "https://cdn.uc.assets.prezly.com/00fe7314-d8b7-4f56-be2a-787dd49152c9/-/preview/600x600/",
+          "publishedAt": "2026-04-28T09:56:18Z",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26118353728509.jpg?c=16x9&q=w_800,c_fill",
           "language": "en"
         },
         {
-          "title": "Turn.io opens applications for Chat for Health Accelerator 2026",
-          "description": "The Chat for Health Accelerator 2026 hopes to make primary healthcare more accessible in the global south.",
-          "url": "https://htxt.co.za/2026/04/turn-io-opens-applications-for-chat-for-health-accelerator-2026/",
+          "title": "Zomato parent Eternal Q4 Results 2026: Net profit soars 346% to ₹174 crore - Key Highlights",
+          "description": "Eternal, parent company of Zomato, reported a 346% increase in consolidated net profit for Q4FY26, reaching ₹174 crore. Revenue from operations also surged by 196.5% to ₹17,292 crore compared to the same quarter last year.",
+          "url": "https://www.livemint.com/market/stock-market-news/zomato-parent-eternal-q4-results-2026-net-profit-soars-346-to-rs-174-crore-key-highlights-11777366807792.html",
           "source": {
-            "name": "htxt.co.za"
+            "name": "Mint"
           },
-          "publishedAt": "2026-04-28T07:39:59Z",
-          "image": "https://htxt.co.za/wp-content/uploads/2026/04/Chat-for-Health-2026_AI_Chat_Voice.jpg",
+          "publishedAt": "2026-04-28T09:55:12Z",
+          "image": "https://www.livemint.com/lm-img/img/2026/04/28/1600x900/Zomato_Q4_Results_1777371892997_1777371893110.jpg",
           "language": "en"
         }
       ]
