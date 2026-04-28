@@ -1,10 +1,109 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-04-28T16:54:03.605Z",
+  "updatedAt": "2026-04-28T19:43:38.547Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "（まとめ）日経平均は619円安で3営業日ぶりに反落 祝日明けの米テック決算に注目",
+          "description": "東京市場まとめ1.概況日経平均は5円安の60,531円と反落して取引を開始しました。序盤は上昇する場面が見られたものの、前日に終値で初の6万円台に乗せるなど急ピッチの株高の反動から、次第に利益確定の売りが優勢となりました。もっとも、前場の下値は限定的で299円安....",
+          "url": "https://media.monex.co.jp/articles/-/29268",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-04-28T07:32:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "日経平均は3日ぶり反落、利益確定売り 日銀会合結果も重し",
+          "description": "東京株式市場で日経平均は３営業日ぶりに反落し、前営業日比６１９円９０銭安の５万９９１７円４６銭で取引を終えた。前日の日経平均の急騰をけん引した人工知能（ＡＩ）や半導体関連の一角が利益確定売りに押されたほか、​日銀の展望リポートがタカ派的だったとの見方も投資家心理の重しとなった。半面、‌バリュー株は底堅く推移し、ＴＯＰＩＸは３日続伸した。決算を材料視した物色も広がった。",
+          "url": "https://jp.reuters.com/markets/japan/OL6GRDJGLVMJ5NYN2YCMSVTY3I-2026-04-28/",
+          "source": {
+            "name": "Reuters"
+          },
+          "publishedAt": "2026-04-28T07:14:27Z",
+          "image": "https://www.reuters.com/resizer/v2/M4CR6HK5YRI5JDHB3QPMG233SA.jpg?auth=f4f0d40b0e2a2e06e57ad23ba19d7263bfbd56f23c4e4a867631793070f9b5e3&height=1005&width=1920&quality=80&smart=true",
+          "language": "ja"
+        },
+        {
+          "title": "『ソニックレーシング クロスワールド』にて無料アップデート「真島吾朗（キャプテン真島）」を4月30日に配信決定！",
+          "description": "ASCII.jp － ゲーム",
+          "url": "https://ascii.jp/elem/000/004/398/4398921/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-04-28T06:55:00Z",
+          "image": "https://ascii.jp/img/2026/04/28/4459698/xl/f701f02ddbc3eb0d.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "OISTなど、藤原定家の文献と年輪から鎌倉時代の太陽プロトン現象を特定",
+          "description": "沖縄科学技術大学院大学(OIST)など5者は、予測が難しく危険な「太陽プロトン現象」を効率的に探索する新たなアプローチを構築し、より多くの事象の特性を理解するための基盤を築くことに成功したと発表した。",
+          "url": "https://news.mynavi.jp/techplus/article/20260428-4396820/",
+          "source": {
+            "name": "マイナビニュース"
+          },
+          "publishedAt": "2026-04-28T06:03:45Z",
+          "image": "https://news.mynavi.jp/techplus/article/20260428-4396820/ogp_images/ogp.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "9月1日就任、Apple新CEOが発表する初プロダクトは…折りたたみiPhone|au Webポータル",
+          "description": "Image: 三浦一紀 - Generated with ChatGPT 5.2 企業トップとして、Apple（アップル）を4兆ドル（約636兆円）企業へと成長させたティム・クックCEOの退任が、今月",
+          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260428_1777360161881537",
+          "source": {
+            "name": "au Webポータル"
+          },
+          "publishedAt": "2026-04-28T06:00:00Z",
+          "image": "https://portal.st-img.jp/assets/img/article_ogp.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "9月1日就任、Apple新CEOが発表する初プロダクトは…折りたたみiPhone",
+          "description": "企業トップとして、Apple（アップル）を4兆ドル（約636兆円）企業へと成長させたティム・クックCEOの退任が、今月発表されました。後任は現在ハードウェアエンジニアリング担当上級副社長を務めるジョン・ターナス氏。9月1日付けで、ターナス氏がCEOに就任します。新CEOとともにスポットライトを浴びるのは…Apple事情通で知られるBloombergのマーク・ガーマン氏いわく、ジョン・ターナス氏が",
+          "url": "https://www.gizmodo.jp/2026/04/apple-is-setting-its-new-ceo-up-to-be-synonymous-with-the-2000-foldable-iphone-report-says.html",
+          "source": {
+            "name": "ギズモード・ジャパン"
+          },
+          "publishedAt": "2026-04-28T06:00:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/28/260312foldableiPhone_1280.jpg_1280.jpg?w=1280&h=630&f=jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『ソニックレーシング クロスワールド』 無料アップデート「真島吾朗（キャプテン真島）」4月30日（木）配信開始！「龍が如く キャプテン真島フェスタ」も開催決定！",
+          "description": "［株式会社セガ］株式会社セガは、発売中の『ソニックレーシング クロスワールド』について、無料アップデート「真島吾朗（キャプテン真島）（『龍が如く』シリーズ）」の配信を2026年4月30日（木）より開始することをお知らせいたします。また、5月1日（金）より期間限定のコラボイベント「龍が如く キャプテン真島フェスタ」を開催予定です。イベント期間中にフェスタポイントをためると、コラボイベントならではの特別なゲーム内アイテムが手に入ります。あわせて、無料アップデート「真島吾朗（キャプテン真島）」を紹介す…",
+          "url": "https://www.jiji.com/jc/article?k=000007336.000005397&g=prt",
+          "source": {
+            "name": "時事ドットコム"
+          },
+          "publishedAt": "2026-04-28T05:16:00Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/5397/7336/5397-7336-487fd21557dbcfd434723ee998ffc8c2-1920x1080.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "バナナマン日村勇紀、休養を発表 「心身の回復を第一に」所属事務所が説明【発表全文】",
+          "description": "バナナマン日村勇紀、休養を発表　「心身の回復を第一に」所属事務所が説明【発表全文】（ORICON NEWS）　お笑いコンビ・バナナマンの日村勇紀（53）が28日、所属事務所の公式サイトを通じて、当面の間休養することを発表した。 　所…",
+          "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2451715?redirect=1",
+          "source": {
+            "name": "ｄメニューニュース"
+          },
+          "publishedAt": "2026-04-28T05:07:00Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/picture/oricon/m_oricon-2451715.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Windows 11の不満解消へ Microsoftの最優先プロジェクト「Windows K2」とは何か：Windowsフロントライン（1/2 ページ）",
+          "description": "機能追加よりも「品質とパフォーマンス」を最優先へ。Microsoftが進めるWindows 11の改善プロジェクト「Windows K2」を読み解く。 (1/2)",
+          "url": "https://www.itmedia.co.jp/pcuser/articles/2604/28/news065.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-04-28T05:00:00Z",
+          "image": "https://image.itmedia.co.jp/pcuser/articles/2604/28/cover_news065.jpg",
+          "language": "ja"
+        },
         {
           "title": "「マジでびっくりした」「綺麗すぎ」Ado テレビでの“初顔出し”に視聴者騒然",
           "description": "【女性自身】4月27日夜放送の音楽番組『CDTVライブ！ライブ！』（TBS系）に歌手のAdo（23）が出演。3月に発表した新曲「アイ・アイ・ア」、代表曲「踊」と2月に発表した「ビバリウム」の3曲を披露した。’20年10月に「うっせぇわ」でメジャーデビューしたAdo。翌’21年3月には同曲のMV再生回数は1億回を突破し、同年の「新語・流行語大賞」の年間トップテンに選出されるなど社会現象に。一方で、ライブも含め、",
@@ -15,216 +114,117 @@
           "publishedAt": "2026-04-28T04:30:00Z",
           "image": "https://img.jisin.jp/uploads/2026/04/ado_fb.jpg",
           "language": "ja"
-        },
-        {
-          "title": "千原せいじ、1年半ぶりの登場 変わりすぎた姿に驚きの連続「叩かれるとこうなるのか…」",
-          "description": "ニュース｜　千原兄弟の千原せいじが、きょう28日放送のABCテレビ『相席食堂』（後11：10　※関西ローカル）に出演する。　今回は、およそ１年半ぶりに「相席食堂」に帰ってきた千原せいじの相席旅を届ける。どじょうすくい踊りで知られる安来節発祥の地、島根県安来市にやって来たのは、11回目の出演となる“ミスター相席食堂”こと千原せいじ。ことあるごとに登場していたが、わけあって、およそ1年半ぶりに『相席食堂』に帰って来た。",
-          "url": "https://www.oricon.co.jp/news/2451640/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-04-28T03:30:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2452000/2451640/20260428_105056_p_o_11120977.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Valveの新型コントローラー「Steam Controller」5月5日発売",
-          "description": "Valveは、PC向けゲームコントローラー「Steam Controller」を日本時間の5月5日午前2時に発売する。日本ではKOMODO STATIONが取り扱う。価格は未発表。",
-          "url": "https://pc.watch.impress.co.jp/docs/news/2105226.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-04-28T03:06:33Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2105/226/01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『バイオハザード レクイエム』発売後インタビュー｜レオンの指輪、まだ見つかっていない要素、今後のミニゲーム、DLC等いろいろ",
-          "description": "レオンの指輪、まだ見つかっていない要素、今後のミニゲーム、DLCについて教えてください！ 『バイオハザード レクイエム』開発陣に発売後の反響や今後について直接聞いてきた",
-          "url": "https://news.denfaminicogamer.jp/interview/260428c",
-          "source": {
-            "name": "電ファミニコゲーマー"
-          },
-          "publishedAt": "2026-04-28T03:00:00Z",
-          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/image7-13.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "メラニア・トランプ、米TV司会者の解雇を要求。自身をネタにしたジョークをめぐり「卑怯者」と非難（ハフポスト日本版）",
-          "description": "アメリカのファーストレディ、メラニア・トランプ氏が4月27日、コメディアンでテレビ司会者のジミー・キンメル氏のジョークを非難し、同氏の解雇をテレビ局ABCに求めた。\nメラニア氏が問題視したのは、2",
-          "url": "https://news.yahoo.co.jp/articles/ef0748fe105ea90f08d41bde62076cc5bd56397e",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-04-28T02:50:09Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260428-00010016-huffpost-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "サムスン「Galaxy Z Fold8 Wide」は画面が幅広でカメラは小さく？最新リーク情報",
-          "description": "サムスンは次期「Galaxy Z Fold8」と「Galaxy Z Fold8 Wide」で自撮りカメラを小型化し、画面を大型化する可能性があるとの内部情報が報じられている。",
-          "url": "https://japan.cnet.com/article/35246981/",
-          "source": {
-            "name": "CNET Japan"
-          },
-          "publishedAt": "2026-04-28T02:43:00Z",
-          "image": "https://japan.cnet.com/storage/2026/04/28/3f3eabb7d2a7cbbe7a877b4bc027b2c3/selfie-gettyimages-2201334744_1280x960.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "≪旭山動物園・遺体焼却か≫「ワンちゃんをとても可愛がっていた…」愛犬家の夫、直前に自宅で起きた“謎の事故”で妻は「車を見ませんでしたか？」園は5月1日に開園予定も「捜査は終わるのか」（集英社オンライン）",
-          "description": "旭川市旭山動物園の30代男性職員が「妻の遺体を園内の焼却炉で焼いた」と供述している事件で、3月下旬ごろとみられる時期にこの職員の家に車が突っ込む事故があり、その直後に行方がわからなくなっている30代",
-          "url": "https://news.yahoo.co.jp/articles/842ad8a7c58a296ae5c0dd76cbb3203ec7151e4f",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-04-28T02:39:16Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260428-00257398-shueisha-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "SF映画じゃん？ ARディスプレイ搭載のバイク用ヘルメット",
-          "description": "2025年12月3日の記事を編集して再掲載しています。 まるで『アイアンマン』な視野がバイク乗りをお助け。自動車運転ではナビや計器類の確認は、目線をホンのちょっとズラすだけ。だけどバイクは一瞬目線を外して下を見ないと、それができません。運転に余裕がないと確認できないんです。前を向いたまま情報が得られるのが、HUD（ヘッドアップ・ディスプレイ）。スマートグラスみたい",
-          "url": "https://www.gizmodo.jp/2026/04/gt-air-3-smart-inq.html",
-          "source": {
-            "name": "ギズモード・ジャパン"
-          },
-          "publishedAt": "2026-04-28T02:35:00Z",
-          "image": "https://media.loom-app.com/gizmodo/dist/images/2025/12/01/251202_eyelights.jpg?w=1280&h=630&f=jpg",
-          "language": "ja"
-        },
-        {
-          "title": "マクロスコープ：安保3文書改定、政府内で語られ始めた「工夫と財源論」",
-          "description": "政府が年内の改定を目指す国家安全保障戦略などの「安全保障関連３文書」は、新たな防衛費の規模と財源が大きな論点の一つになる。仮に再び「防衛増税」が必要となれば国民への丁寧な説明は不可欠だ。厳しさを増す安全保障環境の下、防衛費の安定的な確保をどう実現するか、政府内ではすでに財源を‌巡る議論が交わされ始めている。",
-          "url": "https://jp.reuters.com/world/japan/GDUFJDU3FVMSXEVKIDBUQWFGAQ-2026-04-28/",
-          "source": {
-            "name": "Reuters"
-          },
-          "publishedAt": "2026-04-28T02:31:00Z",
-          "image": "https://www.reuters.com/resizer/v2/LVHGZNH3WZOZRCTIKRZPSQCJBI.jpg?auth=02445a37a7a5192feaa8acbafc8c03d2947a1d739c951bd72592d5fa32390e57&height=1005&width=1920&quality=80&smart=true",
-          "language": "ja"
-        },
-        {
-          "title": "《捜索ポスターの写真にも違和感…》「行方不明の当日に『拡散しないで』と…」安達結希くん失踪直後に広まっていた「不審なうわさ」（NEWSポストセブン）",
-          "description": "3月23日から行方不明になっていた安達結希くん（11）の遺体が、京都府南丹市内の山林で発見された事件。死体遺棄の疑いで逮捕されたのは、養父の安達優季容疑者（37）だった。",
-          "url": "https://news.yahoo.co.jp/articles/ce962ccc98dbc5903d42fec868044fd64bd2377e",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-04-28T02:15:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260428-00000008-pseven-000-1-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Teachers threaten strike over low salaries, issue 14",
-          "description": "Teachers have given the government a 14-day ultimatum to review their salaries, warning that the reopening of schools next month could be disrupted if no meaningful action is taken. The educators are the latest group of civil servants to confront the government over wages, following recent protests by nurses. The growing discontent comes despite the […]",
-          "url": "https://www.newzimbabwe.com/teachers-threaten-strike-over-low-salaries-issue-14-day-ultimatum/",
+          "title": "Njombe gears up for 30,000 workers on May Day",
+          "description": "ARUSHA: ABOUT 30,000 workers from various trade unions under the Trade Union Congress of Tanzania (TUCTA) are expected to participate in this year’s national International Workers’ Day (Mei Mosi) celebrations at the national level in Njombe Region. This was revealed by TUCTA President Tumaini Nyamhokya in an interview yesterday. Mr Nyamhokya said this year’s national",
+          "url": "https://dailynews.co.tz/njombe-gears-up-for-30000-workers-on-may-day/",
           "source": {
-            "name": "NewZimbabwe.com"
+            "name": "dailynews.co.tz"
           },
-          "publishedAt": "2026-04-28T04:54:03Z",
-          "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2026/04/28055353/IMG-20260428-WA0002.jpg",
+          "publishedAt": "2026-04-28T07:43:40Z",
+          "image": "https://dailynews.co.tz/wp-content/uploads/2025/04/Nyamhokya.webp",
           "language": "en"
         },
         {
-          "title": "Demand for rare metals fuels vehicle thefts in Malaysia",
-          "description": "Vehicles left unattended, especially overnight, are among the most vulnerable. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/asia/se-asia/demand-for-rare-metals-fuels-vehicle-thefts-in-malaysia",
+          "title": "Chelsea manager: Andoni Iraola, Marco Silva and Xabi Alonso among candidates to replace Liam Rosenior at Stamford Bridge",
+          "description": "Andoni Iraola, Marco Silva and Xabi Alonso fit the bill of a proven track record and/or Premier League experience Chelsea are looking for to replace Liam Rosenior; Chelsea will not rush into an appointment, with Calum McFarlane expected to remain in charge until the end of the season",
+          "url": "https://www.skysports.com/football/news/11668/13537464/chelsea-manager-andoni-iraola-marco-silva-and-xabi-alonso-among-candidates-to-replace-liam-rosenior-at-stamford-bridge",
           "source": {
-            "name": "The Straits Times"
+            "name": "Sky Sports"
           },
-          "publishedAt": "2026-04-28T04:53:55Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3acede075821486253bea26b72143531ec4ca56ea37b429745969a966c45caba",
+          "publishedAt": "2026-04-28T07:43:34Z",
+          "image": "https://e0.365dm.com/26/04/1600x900/skysports-premier-league-chelsea_7232854.jpg?20260428083825",
           "language": "en"
         },
         {
-          "title": "PSU bank stocks fall up to 3%. How RBI’s ECL directions can impact lenders",
-          "description": "PSU bank stocks fell up to 3% on Tuesday after RBI confirmed the rollout of the Expected Credit Loss (ECL) framework from April 2027, triggering concerns over higher provisioning and capital impact. Brokerages warn of a potential 5–10% hit to net worth, though phased implementation may soften the immediate blow.",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/bank-of-baroda-sbi-other-psu-bank-stocks-fall-up-to-3-how-rbis-ecl-directions-can-impact-lenders/articleshow/130569800.cms?from=mdr",
+          "title": "YouTuber uses night vision camera to record footage of giant sea creatures 700ft below “Black Magic Island”",
+          "description": "A YouTuber captured footage of a giant ray and a shark species never before seen in the wild at the depths of the Indian Ocean below Nusa Penida, Bali",
+          "url": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/youtuber-uses-night-vision-camera-to-record-footage-of-giant-sea-creatures-700ft-below-black-magic-island",
           "source": {
-            "name": "The Economic Times"
+            "name": "Digital Camera World"
           },
-          "publishedAt": "2026-04-28T04:53:33Z",
-          "image": "https://img.etimg.com/thumb/msid-130569786,width-1200,height-630,imgsize-17022,overlay-etmarkets/articleshow.jpg",
+          "publishedAt": "2026-04-28T07:43:03Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/wjrccU7rCkjFVXa4jZSCZd-2100-80.jpg",
           "language": "en"
         },
         {
-          "title": "Optimizing a powerful tool for measuring brain activity",
-          "description": "Clinicians use electroencephalography (EEG) to assess brain activity in epilepsy and sleep pathologies, and this powerful tool has shown promise for other conditions.",
-          "url": "https://www.news-medical.net/news/20260428/Sleep-and-age-shape-EEG-brain-signals-during-wakefulness.aspx",
+          "title": "King Charles and Donald Trump 'are related' as bombshell family link uncovered",
+          "description": "As King Charles and Queen Camilla begin a four-day state visit in the US amid increased transatlantic tensions, a remarkable discovery may well help to mend ties",
+          "url": "https://www.mirror.co.uk/news/royals/king-charles-donald-trump-are-37078965",
           "source": {
-            "name": "News-Medical"
+            "name": "The Mirror"
           },
-          "publishedAt": "2026-04-28T04:53:00Z",
-          "image": "https://www.news-medical.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+          "publishedAt": "2026-04-28T07:43:00Z",
+          "image": "https://i2-prod.mirror.co.uk/article37079135.ece/ALTERNATES/s1200d/0_King-Charles-III-And-Queen-Camilla-Begin-State-Visit-To-The-United-States-Of-America.jpg",
           "language": "en"
         },
         {
-          "title": "Viral Video: Deepika Padukone And Ranveer Singh Make First Public Appearance After Second Pregnancy News",
-          "description": "Ranveer Singh was also seen helping Deepika Padukone step out of the car and walking beside her as they headed inside",
-          "url": "https://www.ndtv.com/entertainment/viral-video-deepika-padukone-and-ranveer-singh-make-first-public-appearance-after-second-pregnancy-news-11418681",
+          "title": "Ex-Foreign Office chief says he thought Mandelson’s Epstein links were ‘potentially difficult’ but he was not consulted - UK politics live",
+          "description": "Philip Barton gives evidence to foreign affairs committee, with Morgan McSweeney due later this morning, ahead of vote this afternoon",
+          "url": "https://www.theguardian.com/politics/live/2026/apr/28/keir-starmer-labour-peter-mandelson-vetting-morgan-mcsweeney-kemi-badenoch-vote-uk-politics-latest-news-updates",
           "source": {
-            "name": "NDTV"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-04-28T04:52:08Z",
-          "image": "https://c.ndtvimg.com/2026-04/6770k4n_deepika-padukone_625x300_28_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+          "publishedAt": "2026-04-28T07:42:00Z",
+          "image": "https://i.guim.co.uk/img/media/0c9c077d86cb88acf64a57b57d751f83460c168e/927_3_3752_3003/master/3752.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8a0d58af923c9078b7db4c0b90dc1e2a",
           "language": "en"
         },
         {
-          "title": "'Forced guard to recite kalma': Maharashtra's knife-wielding 'lone wolf' attacker wanted to join ISIS",
-          "description": "India News: NEW DELHI: A 31-year-old man accused of stabbing two security guards in Maharashtra’s Thane district is under investigation for what officials suspect.",
-          "url": "https://timesofindia.indiatimes.com/india/forced-guard-to-recite-kalma-maharashtra-knife-wielding-lone-wolf-attacker-wanted-to-join-isis/articleshow/130569666.cms",
+          "title": "'Don't Argue Like This' : Supreme Court Rebukes Lawyer In Sabarimala Reference Hearing",
+          "description": "The Supreme Court on Tuesday rebuked an advocate for making irrelevant and extraneous submissions in the Sabarimala reference hearing.The 9-judge bench asked Advocate Ashwini Upadhyay several times to...",
+          "url": "https://www.livelaw.in/top-stories/dont-argue-like-this-supreme-court-rebukes-lawyer-in-sabarimala-reference-hearing-532024",
           "source": {
-            "name": "The Times of India"
+            "name": "Live Law"
           },
-          "publishedAt": "2026-04-28T04:52:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-130569757,width-1280,height-720,imgsize-1973862,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-04-28T07:41:38Z",
+          "image": "https://www.livelaw.in/h-upload/2026/01/05/644622-750x450630714-750x450600602-750x450557432-supreme-court-of-india-sc-2.jpg",
           "language": "en"
         },
         {
-          "title": "Nigerian athletes decry neglect, demand competitions, funding",
-          "description": "Nigeria’s track and field athletes have intensified calls for urgent reforms, decrying what they describe as neglect, inconsistent competition structures, and inadequate funding from the Athletics Federation of Nigeria, warning that their...",
-          "url": "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/Nigerian-athletes-decry-neglect-demand-competitions-funding-2031876",
+          "title": "EU Weighs Giving US Data for Fewer Travel Restrictions",
+          "description": "The EU is negotiating a framework that could allow the US to search national databases across the bloc as the price for keeping visa-free travel.",
+          "url": "https://en.tempo.co/read/2100773/eu-weighs-giving-us-data-for-fewer-travel-restrictions",
           "source": {
-            "name": "GhanaWeb"
+            "name": "Tempo.co English"
           },
-          "publishedAt": "2026-04-28T04:51:38Z",
-          "image": "https://cdn.ghanaweb.com/imagelib/pics/553/55367053.jpg",
+          "publishedAt": "2026-04-28T07:41:32Z",
+          "image": "https://statik.tempo.co/data/2023/12/10/id_1261917/1261917_720.jpg",
           "language": "en"
         },
         {
-          "title": "Lisa Kudrow Says the 'Friends' Writers Fantasized About Her Co-Stars",
-          "description": "Lisa Kudrow says the 'Friends' writers were 'mostly men' who would stay 'up late discussing their sexual fantasies.'",
-          "url": "https://variety.com/2026/tv/news/lisa-kudrow-friends-writers-men-sexual-fantasies-co-stars-1236731869/",
+          "title": "Level Infinite launches Gangstar Mirage City exclusively in PH",
+          "description": "Level Infinite has launched a brand new mobile title exclusively available in the Philippines: Gangstar Mirage City.",
+          "url": "https://www.gadgetmatch.com/level-infinite-launches-gangstar-mirage-city-exclusively-in-ph/",
           "source": {
-            "name": "Variety"
+            "name": "GadgetMatch"
           },
-          "publishedAt": "2026-04-28T04:50:00Z",
-          "image": "https://variety.com/wp-content/uploads/2026/04/GettyImages-2268413402.jpg?crop=0px%2C44px%2C3000px%2C1687px&resize=1000%2C563",
+          "publishedAt": "2026-04-28T07:41:30Z",
+          "image": "https://www.gadgetmatch.com/wp-content/uploads/2026/04/level-infinite-gangstar-mirage-city-philippines-exclusive-mobile-20260428-1000x600.jpg",
           "language": "en"
         },
         {
-          "title": "Woman questions Prudential's head of life claims in lawsuit seeking brain surgery payout as insurer responds",
-          "description": "Ms Cai Yunhong questioned Prudential's head of life claims on the way her policy documents were drafted, alleging that they were \"convoluted\" and \"full of ambiguities\".",
-          "url": "https://www.channelnewsasia.com/singapore/woman-questions-prudential-life-claims-head-insurer-responds-6085366",
+          "title": "Sennheiser Spectera on the road with Ed Sheeran’s ‘The Loop’ global stadium tour",
+          "description": "Monitor engineer and RF tech Dave White puts Sennheiser’s wideband wireless ecosystem to the test in demanding live conditions",
+          "url": "https://newsroom.sennheiser.com/sennheiser-spectera-on-the-road-with-ed-sheerans-the-loop-global-stadium-tour",
           "source": {
-            "name": "CNA"
+            "name": "Sennheiser"
           },
-          "publishedAt": "2026-04-28T04:50:00Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--Bg_BLorZ--/c_crop,h_900,w_1600,x_0,y_143/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/12/jem_0152.jpg?itok=zLClqFoS",
+          "publishedAt": "2026-04-28T07:40:00Z",
+          "image": "https://cdn.uc.assets.prezly.com/00fe7314-d8b7-4f56-be2a-787dd49152c9/-/preview/600x600/",
           "language": "en"
         },
         {
-          "title": "Here's your first look at Gemini's new 'Proactive Assistance' feature",
-          "description": "Google is developing a new Proactive Assistance feature for Gemini to delivers timely, context-aware suggestions even before you ask.",
-          "url": "https://www.androidauthority.com/google-gemini-proactive-assistance-3661314/",
+          "title": "Turn.io opens applications for Chat for Health Accelerator 2026",
+          "description": "The Chat for Health Accelerator 2026 hopes to make primary healthcare more accessible in the global south.",
+          "url": "https://htxt.co.za/2026/04/turn-io-opens-applications-for-chat-for-health-accelerator-2026/",
           "source": {
-            "name": "Android Authority"
+            "name": "htxt.co.za"
           },
-          "publishedAt": "2026-04-28T04:49:59Z",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-4.jpg",
+          "publishedAt": "2026-04-28T07:39:59Z",
+          "image": "https://htxt.co.za/wp-content/uploads/2026/04/Chat-for-Health-2026_AI_Chat_Voice.jpg",
           "language": "en"
         }
       ]
