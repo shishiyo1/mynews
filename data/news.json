@@ -1,10 +1,32 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-04-30T03:23:59.240Z",
+  "updatedAt": "2026-04-30T08:24:22.331Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "情報BOX：パウエル米ＦＲＢ議長の会見要旨",
+          "description": "米連邦準備理事会（ＦＲＢ）は２８─２９日に開催した連邦公開市場委員会（ＦＯＭＣ）でフェデラルファンド（ＦＦ）金利の誘導目標を３．５０─３．７５％に据え置くと決定した。据え置きは３会合連続。",
+          "url": "https://jp.reuters.com/markets/japan/MKN773UDRJNLFEFDPVOH6AYX5M-2026-04-29/",
+          "source": {
+            "name": "Reuters"
+          },
+          "publishedAt": "2026-04-29T19:38:37Z",
+          "image": "https://www.reuters.com/resizer/v2/E62VUG3X3NLUFFYTJILJ7L4RZE.jpg?auth=99db681ddb9b49ebfa51a794443db889a542b55223745cb57bf41785c86c2dc6&height=1005&width=1920&quality=80&smart=true",
+          "language": "ja"
+        },
+        {
+          "title": "大谷翔平「1番DH」 投手専念104球一夜明けデーゲームで打者復帰 3番パヘス サイ・ヤング賞右腕アルカンタラと対決 昨季2本塁打",
+          "description": "「ドジャース―マーリンズ」(29日、ロサンゼルス)\n　ドジャースがラインアップを発表。前夜に投手専念で6回、今季最多104球を投げた大谷翔平投手が一夜明けのデーゲームで「1番・指名打者」で出場す",
+          "url": "https://news.yahoo.co.jp/articles/62dae0a6105b8c77317d73b33827b5ad9edd2848",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-04-29T16:41:43Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260430-00010000-dal-000-4-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "那須川天心、武尊の〝引退KO勝利〟直後にプロフ画像更新 ファン「伝わる人には伝わってる」",
           "description": "格闘技イベント「ONE SAMURAI 1」（29日、東京・有明アリーナ）が開催され、メインイベントで行われた「フライ級キックボクシング世界暫定王座決定戦」にて、K-1元3階級制覇王者の武尊（34）＝team VASILEUS＝が、ロッタ…",
@@ -39,6 +61,17 @@
           "language": "ja"
         },
         {
+          "title": "Mrs. GREEN APPLEは風を踊らせ、風に導かれる旅人になった",
+          "description": "NHK連続テレビ小説「風、薫る」の主題歌であるMrs. GREEN APPLE「風と町」のミュージックビデオがYouTubeで公開された。",
+          "url": "https://natalie.mu/music/news/670252",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-04-29T12:59:00Z",
+          "image": "https://ogre.natalie.mu/media/news/music/2026/0429/mrsgreenapple_mvthumb.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
+        {
           "title": "武尊が男泣き「うれしいしかない」引退試合で劇的５回ＴＫＯ勝ち！“ムエタイの伝説”ロッタンから計４度ダウン奪い圧巻リベンジ 妻・川口葵見守る中、完全燃焼",
           "description": "「ＯＮＥ　ＳＡＭＵＲＡＩ　１」（２９日、有明アリーナ）\n　Ｋ－１元３階級制覇王者の武尊（３４）が現役最終戦で“ムエタイの伝説”ロッタンとフライ級キックボクシング暫定王座決定戦で５回ＴＫＯ勝ち。ベ",
           "url": "https://news.yahoo.co.jp/articles/705ac5a25088343ff213d209a8b7d8f5e9fd36b6",
@@ -61,6 +94,17 @@
           "language": "ja"
         },
         {
+          "title": "武尊、「引退試合」でロッタンに５ラウンドＴＫＯで勝つ…昨年３月「惨敗」リベンジ達成で絶叫「どこの団体が強いんじゃない…格闘技が強いんです」…４・２９有明アリーナ",
+          "description": "世界最大の格闘技団体「ＯＮＥ　Ｃｈａｍｐｉｏｎｓｈｉｐ」は２９日、有明アリーナで「ＯＮＥ　ＳＡＭＵＲＡＩ　１　フライ級キックボクシング暫定王座決定戦　ロッタン　ＶＳ　武尊」を開催した。",
+          "url": "https://hochi.news/articles/20260429-OHT1T51323.html",
+          "source": {
+            "name": "スポーツ報知"
+          },
+          "publishedAt": "2026-04-29T12:51:00Z",
+          "image": "https://hochi.news/images/2026/04/29/20260429-OHT1I51624-L.jpg",
+          "language": "ja"
+        },
+        {
           "title": "秋田県内４月のクマ目撃、２０２５年の４倍超 山に帰らず市街地に？",
           "description": "秋田県のマップシステム「クマダス」には１日以降、３５０件以上のクマの目撃情報が投稿され、４月としては過去最多ペースとなっている。市街地での出没も相次ぎ、県は人身被害の発生が懸念される状況だとして「ツ…",
           "url": "https://www.sakigake.jp/news/article/20260429AK0036/",
@@ -70,161 +114,117 @@
           "publishedAt": "2026-04-29T12:30:00Z",
           "image": "https://www.sakigake.jp/images/news-entry/20260429ak0036_01_l.jpg",
           "language": "ja"
-        },
-        {
-          "title": "ONE（ワン）武尊vsロッタン 結果・速報｜2026年4月29日 ONE SAMURAI 1 全試合結果を速報しています",
-          "description": "【速報】ONE SAMURAI 1（ワン サムライ1）2026年4月29日、武尊vsロッタン フライ級キックボクシング暫定世界王者決定戦の試合結果を速報。若松佑弥、吉成名高、与座優貴ほか全15試合の結果・判定・KO情報を随時更新。",
-          "url": "https://efight.jp/result-20260429_1705923",
-          "source": {
-            "name": "イーファイト"
-          },
-          "publishedAt": "2026-04-29T11:11:51Z",
-          "image": "https://efight.jp/wp-content/uploads/2026/04/main2-e1777437801422.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【不具合・復旧済み】一部情報における表示遅延が発生している",
-          "description": "【不具合・復旧済み】一部情報における表示遅延が発生しているのページです。WINTICKET(ウィンチケット)は、競輪(KEIRIN)のライブ映像の視聴・投票が可能なインターネット投票サービス。全競輪場のライブ映像も無料配信。AIによる競輪予想や、競輪選手データ、レース日程・結果など投票に役立つデータを提供。スマホアプリも登場。サイバーエージェントグループの安心・安全運営体制。ABEMAとも連動。サービス内で、WINTICKETミッドナイト競輪が視聴可能。",
-          "url": "https://www.winticket.jp/keirin/topics/3MWVxx6WbNUXhsKYuMyVxA",
-          "source": {
-            "name": "WINTICKET"
-          },
-          "publishedAt": "2026-04-29T10:11:00Z",
-          "image": "https://www.winticket.jp/assets/791b3d/ogp.png",
-          "language": "ja"
-        },
-        {
-          "title": "ゆうちゃみ、大きめの骨折隠して映画『アギト』撮影へ 仮面ライダーに変身",
-          "description": "動画ニュース｜　タレントのゆうちゃみが29日、都内で行われた仮面ライダー生誕55周年記念作の映画『アギト－超能力戦争－』初日舞台あいさつに登壇。同作の衣装合わせをする3日前に骨折していたことを告白した。　本作は、平成以降の仮面ライダー作品でいまだ破られることのない史上最高平均視聴率（11.7％）を誇り、その人気から平成仮面ライダー初の劇場版も製作され、シリーズの未来を切り開いた金字塔『仮面ライダーアギト』の劇場版最新作。タイトルから「仮面ライダー」を外し、既存の枠にとらわれない新機軸の作品として制作された大人が楽しめる超能力アクション大作となる。",
-          "url": "https://www.oricon.co.jp/news/2451560/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-04-29T09:45:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2452000/2451560/20260429_185448_p_o_77921253.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "目黒蓮、全アクションを習得『SAKAMOTO DAYS』スタントチームが見た美しさの理由",
-          "description": "累計発行部数1,500万部を突破する鈴木祐斗の人気漫画を、目黒蓮主演で実写化する映画『SAKAMOTO DAYS』（全国公開中）。",
-          "url": "https://www.cinematoday.jp/news/N0154610",
-          "source": {
-            "name": "シネマトゥデイ"
-          },
-          "publishedAt": "2026-04-29T09:13:00Z",
-          "image": "https://img.cinematoday.jp/a/m2Klcr3KNpiZ/_size_r1200x630/_v_1777368998/main.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "out approach could reinvigorate Dublin",
-          "description": "Dublin can confound the critics and get past Louth in this weekend's Leinster SFC semi-final, but only by taking the game to the provincial holders and introducing a bit of \"madness\" to their approach.",
-          "url": "https://www.rte.ie/sport/football/2026/0429/1570908-fenton-all-out-approach-could-reinvigorate-dublin/",
+          "title": "Apple's AI Smart Glasses Likely to Support Hand Gesture Controls",
+          "description": "Apple is developing a set of AI smart glasses to rival products like the Meta Ray-Bans, and MacRumors has learned a few more details about Apple's work on the device from an inside source. The AI glasses will include two cameras. A high-resolution camera will be included for capturing photos and videos that can be shared on social media and used like iPhone photos. A second lower-resolution wide-angle lens will read hand gestures and provide visual input for Siri.",
+          "url": "https://www.macrumors.com/2026/04/29/apple-ai-smart-glasses-gesture-control/",
           "source": {
-            "name": "RTE.ie"
+            "name": "MacRumors"
           },
-          "publishedAt": "2026-04-29T15:23:42Z",
-          "image": "https://www.rte.ie/images/00244bc0-1600.jpg",
+          "publishedAt": "2026-04-29T20:23:48Z",
+          "image": "https://images.macrumors.com/t/IOJi4npc5_A6CRKZamRwRJdS7kk=/1920x/article-new/2025/07/Apple-Galsses-Feature-Redux-2.jpg",
           "language": "en"
         },
         {
-          "title": "'Evita' Starring Rachel Zegler Coming To Broadway In Spring 2027",
-          "description": "Director/producer Jamie Lloyd's Evita revival starring Rachel Zegler will come to Broadway in spring 2027, producers announced today. The announcement confirms recent speculation fueled by various clues and social media hints.",
-          "url": "https://deadline.com/2026/04/evita-rachel-zegler-broadway-2-1236875848/",
+          "title": "Senate moves to overhaul Police Trust Fund, proposes new funding streams",
+          "description": "The Senate has begun legislative action to strengthen funding for the Nigeria Police, considering a bill that seeks to repeal and re-enact the Police Trust…",
+          "url": "https://pmnewsnigeria.com/2026/04/29/senate-moves-to-overhaul-police-trust-fund-proposes-new-funding-streams/",
           "source": {
-            "name": "Deadline"
+            "name": "P.M. News"
           },
-          "publishedAt": "2026-04-29T15:23:00Z",
-          "image": "https://deadline.com/wp-content/uploads/2025/07/GettyImages-2220796576-1.jpg?w=1024",
+          "publishedAt": "2026-04-29T20:22:54Z",
+          "image": "https://cdn.pmnewsnigeria.com/wp-content/uploads/2025/12/QAYmBa9P-Senate.jpg",
           "language": "en"
         },
         {
-          "title": "CISA adds Microsoft, ConnectWise vulnerabilities to active exploitation catalog",
-          "description": "Russia has used one of the flaws, security experts said, while North Korea has used the other.",
-          "url": "https://www.cybersecuritydive.com/news/cisa-microsoft-connectwise-kev-update/818817/",
+          "title": "VIDEO: shooting star lights up Nanaimo sky",
+          "description": "NANAIMO - The mid-Island was glowing green and blue on Wednesday, after a suspected meteor was caught on camer...",
+          "url": "https://nanaimonewsnow.com/2026/04/29/video-shooting-star-lights-up-nanaimo-sky/",
           "source": {
-            "name": "Cybersecurity Dive"
+            "name": "NanaimoNewsNOW"
           },
-          "publishedAt": "2026-04-29T15:22:22Z",
-          "image": "https://imgproxy.divecdn.com/KaUPWOP9EUOw32dZjDO7PH2eerJzbsxu8hxNDPk0xD8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSVNBX2hlYWRlci5qcGc=.webp",
+          "publishedAt": "2026-04-29T20:21:24Z",
+          "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2317/files/2026/04/6c6c4cf6-3ef4-4ec2-87d3-6d2e0c4400ed-5-1200x675.jpg",
           "language": "en"
         },
         {
-          "title": "US lawmakers questioning Pete Hegseth about Iran war budget",
-          "description": "Pete Hegseth and Chairman of the Joint Chiefs of Staff Dan Caine are testifying before lawmakers about the Pentagon's ask for $1.5trn (£1.1trn).",
-          "url": "https://www.bbc.co.uk/news/live/ce9pz9lxn3dt",
+          "title": "IDF chief says there's ‘no ceasefire’ in south Lebanon amid continued fighting with Hezbollah",
+          "description": "Trump reportedly pushing back on Israeli efforts to limit talks with Beirut, return to large-scale war; 1 million Lebanese will face food insecurity in coming months, monitor warns",
+          "url": "https://www.timesofisrael.com/idf-chief-says-theres-no-ceasefire-in-south-lebanon-amid-continued-fighting-with-hezbollah/",
           "source": {
-            "name": "BBC"
+            "name": "The Times of Israel"
           },
-          "publishedAt": "2026-04-29T15:21:47Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f494/live/465e7a30-43e3-11f1-ab33-71d613cbf6ef.jpg",
+          "publishedAt": "2026-04-29T20:18:52Z",
+          "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/bc6f414d-19b6-45d1-b607-7c9c8f4f050e-1.jpg",
           "language": "en"
         },
         {
-          "title": "Mount Etna is like no other volcano on Earth, representing 'a new type of volcanism,' new research reveals",
-          "description": "Mount Etna's strange lava has long perplexed scientists, but new research reveals that the volcano formed in a bizarre way — making it unlike any other known volcano on Earth.",
-          "url": "https://www.livescience.com/planet-earth/volcanoes/mount-etna-is-like-no-other-volcano-on-earth-new-research-reveals",
+          "title": "Tinubu: Borrowing is not leprosy - Nigeria will take loans when necessary",
+          "description": "President Bola Tinubu says his administration will continue to borrow whenever necessary, insisting that loans...",
+          "url": "https://www.thecable.ng/tinubu-borrowing-is-not-leprosy-nigeria-will-take-loans-when-necessary/",
           "source": {
-            "name": "Live Science"
+            "name": "TheCable"
           },
-          "publishedAt": "2026-04-29T15:21:28Z",
-          "image": "https://cdn.mos.cms.futurecdn.net/UpkiZWvPcvUQfUAU5ZisfP-1920-80.jpg",
+          "publishedAt": "2026-04-29T20:16:00Z",
+          "image": "https://www.thecable.ng/wp-content/uploads/2026/02/President-Tinubu.jpeg",
           "language": "en"
         },
         {
-          "title": "William and Kate share new family photo on 15th wedding anniversary",
-          "description": "Prince William and Kate Middleton were married at Westminster Abbey in London in 2011, in a ceremony watched by an estimated billion people worldwide.",
-          "url": "https://globalnews.ca/news/11821993/william-and-kate-wedding-anniversary-family-photo/",
+          "title": "Marching against migration: The rise of a new populist player",
+          "description": "Draped in civic language and national symbols, March and March is reshaping anti-foreigner politics — with carefully staged activism and a leader-centric movement at its core.",
+          "url": "https://www.dailymaverick.co.za/article/2026-04-29-marching-against-migration-the-rise-of-a-new-populist-player/",
           "source": {
-            "name": "Global News"
+            "name": "Daily Maverick"
           },
-          "publishedAt": "2026-04-29T15:20:00Z",
-          "image": "https://globalnews.ca/wp-content/uploads/2026/04/Untitled-design-48.png?crop=0px%2C67px%2C1023px%2C541px&resize=720%2C379&quality=65&strip=all",
+          "publishedAt": "2026-04-29T20:15:20Z",
+          "image": "https://cdn.dailymaverick.co.za/i/0VoEHbYpD9BoTbOmAXPEXr7U6KI=/800x0/smart/filters:strip_exif()/file/attachments/orphans/ED_606569_219428.jpg",
           "language": "en"
         },
         {
-          "title": "SA surgeon performs Africa’s first lymphatic bypass for Alzheimer’s",
-          "description": "A Pretoria surgeon who this month carried out the continent’s first experimental lymphovenous bypass on an Alzheimer’s patient said there had been early signs of improvement, but that the procedure was still investigational, reports News24. Dr Ben Moodie, a reconstructive and plastic surgeon at Cintocare Hospital in Pretoria, said the procedure was performed on 7 […]",
-          "url": "https://www.medicalbrief.co.za/sa-surgeon-performs-africas-first-lymphatic-bypass-for-alzheimers/",
+          "title": "Brady Tkachuk says it's distracting to have to reaffirm his commitment to Ottawa",
+          "description": "Ottawa Senators captain Brady Tkachuk says he's frustrated at having to answer repeated questions about his future and that having to justify his commitment to his team has become a distraction.",
+          "url": "https://www.cbc.ca/news/canada/ottawa/brady-tkachuk-ottawa-senators-distract-frustrating-interview-9.7181579",
           "source": {
-            "name": "Juta MedicalBrief"
+            "name": "CBC"
           },
-          "publishedAt": "2026-04-29T15:19:04Z",
-          "image": "https://www.medicalbrief.co.za/wp-content/uploads/2022/07/Medical-Brief-Juta-Logo-Favicon-16x16-1.png",
+          "publishedAt": "2026-04-29T20:14:17Z",
+          "image": "https://i.cbc.ca/ais/98b972b9-752c-4746-9db1-ada8d4ab58a4,1777482568425/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C365%2C7807%2C4391%29%3BResize%3D620",
           "language": "en"
         },
         {
-          "title": "7 killed after wall collapses near Bengaluru hospital, compensation announced",
-          "description": "A wall of an adjoining building collapsed near Bowring and Lady Curzon Medical College in Bengaluru, killing seven people and injuring seven others.",
-          "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-wall-collapse-bowring-hospital-dead-injured-ex-gratia-siddaramaiah-2903447-2026-04-29",
+          "title": "“Malcolm in the Middle”'s Justin Berfield Feels 'Bad’ About Renewed Attention on Erik Per Sullivan After He Left Hollywood",
+          "description": "Per Sullivan, now 34, did not return for the four-episode revival, 'Malcolm in the Middle: Life’s Still Unfair', opting to stay out of the spotlight",
+          "url": "https://malaysia.news.yahoo.com/malcolm-middle-justin-berfield-feels-201341115.html",
           "source": {
-            "name": "India Today"
+            "name": "Yahoo News Malaysia"
           },
-          "publishedAt": "2026-04-29T15:17:33Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/7-killed-after-wall-collapses-near-bengaluru-hospital--compensation-announced-290759558-16x9_0.jpg?VersionId=EjFBDj.wVTg6htNu_FKfPBCE.Yspq4rB",
+          "publishedAt": "2026-04-29T20:13:41Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/6BRBHadIRBPEDY2yFtnJmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/0fe984491ec8cbd658d33304835020f6",
           "language": "en"
         },
         {
-          "title": "Progress and Gaps in Neurological Services Highlighted in Wexford",
-          "description": "Wexford's local radio station",
-          "url": "https://www.southeastradio.ie/news/wexford/progress-and-gaps-in-neurological-services-highlighted-in-wexford/",
-          "source": {
-            "name": "South East Radio"
-          },
-          "publishedAt": "2026-04-29T15:17:03Z",
-          "image": "https://mmo.aiircdn.com/277/68b5d4dd01b39.png",
-          "language": "en"
-        },
-        {
-          "title": "Attempts to rescue Timmy the stranded whale ‘inadvisable’, experts say",
-          "description": "Month-long mission to save animal in Baltic sea off Germany has attracted national frenzy",
-          "url": "https://www.theguardian.com/world/2026/apr/29/rescue-stranded-timmy-whale-germany-inadvisable",
+          "title": "Trump and Putin discuss Iran war and float temporary Ukraine ceasefire in call",
+          "description": "Russian president welcomed decision to extend Iran ceasefire in what US president said was a ‘very good conversation’",
+          "url": "https://www.theguardian.com/world/2026/apr/29/trump-and-putin-discuss-iran-war-and-float-temporary-ukraine-ceasefire-in-call",
           "source": {
             "name": "The Guardian"
           },
-          "publishedAt": "2026-04-29T15:17:00Z",
-          "image": "https://i.guim.co.uk/img/media/fb638a96280a375d69f8f75a5b898e93ab6cc306/368_0_5288_4231/master/5288.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de99cb35c29df22f638950ad5b988f9b",
+          "publishedAt": "2026-04-29T20:13:00Z",
+          "image": "https://i.guim.co.uk/img/media/8600340aec10fc83d0fd6542b1259aeab3cceadc/237_100_1088_871/master/1088.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4683e9b972d49da791f3988e391394be",
+          "language": "en"
+        },
+        {
+          "title": "Wastewater data suggests meth use is at a record high. Here’s why we don’t need to panic",
+          "description": "Wastewater data can only measure the volume of drugs consumed, not the number of people using them or the level of harm they experience.",
+          "url": "https://theconversation.com/wastewater-data-suggests-meth-use-is-at-a-record-high-heres-why-we-dont-need-to-panic-281735",
+          "source": {
+            "name": "The Conversation"
+          },
+          "publishedAt": "2026-04-29T20:12:32Z",
+          "image": "https://images.theconversation.com/files/732914/original/file-20260429-57-nsa07x.jpg?ixlib=rb-4.1.0&rect=0%2C456%2C5472%2C2736&q=45&auto=format&w=1356&h=668&fit=crop",
           "language": "en"
         }
       ]
