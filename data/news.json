@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-04-30T19:25:22.907Z",
+  "updatedAt": "2026-04-30T21:57:13.814Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "Radeon/IntelビデオカードやベアボーンPCなどASRockパーツがお得！AmazonスマイルSALE",
+          "description": "Amazon.co.jpにて、「スマイルSALE」が4月30日（木）～5月3日（日）23:59までの期間で開催。",
+          "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2105941.html",
+          "source": {
+            "name": "AKIBA PC Hotline!"
+          },
+          "publishedAt": "2026-04-30T09:40:00Z",
+          "image": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2105/941/s1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "鈴木福が運転免許取得を報告「MTだよ」のこだわり、「40万円ジャケット」のセンスで注目される“車選び”（SmartFLASH）｜ｄメニューニュース",
+          "description": "鈴木福が運転免許取得を報告「MTだよ」のこだわり、「40万円ジャケット」のセンスで注目される“車選び”（SmartFLASH） \n《今日は4/29（よいふくの日）ということで　良い報告を…　運転免許を取得しました!!》\n \n　俳優の鈴木福が4月29日、…",
+          "url": "https://topics.smt.docomo.ne.jp/article/smartflash/entertainment/smartflash-405672?redirect=1",
+          "source": {
+            "name": "ｄメニューニュース"
+          },
+          "publishedAt": "2026-04-30T09:05:00Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/picture/smartflash/m_smartflash-405672.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "明日1日は警報級の大雨 天気急変・落雷のおそれ ゴールデンウィークは短い周期で雨",
+          "description": "明日5月1日は広く雨や雷雨で、局地的に非常に激しく降るでしょう。低気圧や前線が通過した後も明後日2日にかけて大気の状態が非常に不安定で、東日本や西日本では天気の急変や落雷などに注意が必要です。3日も西から雨が降り、ゴールデンウィークは短い周期で天気が変わりそうです。",
+          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/04/30/38751.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-04-30T09:03:40Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/387/38751/main/20260430172742/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Microsoft、DOS 1.0のソースコードと開発関連資料を公開",
+          "description": "Microsoftは2026年4月28日、86-DOS 1.00/PC-DOS 1.00のカーネルコードを含む最も初期のDOS開発に関する資料をGitHub上で公開した。",
+          "url": "https://gihyo.jp/article/2026/04/early-dos-history",
+          "source": {
+            "name": "gihyo.jp"
+          },
+          "publishedAt": "2026-04-30T07:40:00Z",
+          "image": "https://gihyo.jp/assets/images/ICON/2026/2839_early-dos-story.png",
+          "language": "ja"
+        },
+        {
+          "title": "「MUSIC AWARDS JAPAN 2026」ノミネート発表 最優秀楽曲賞にHANA、米津玄師、サカナクション、アイナ・ジ・エンド、M!LK",
+          "description": "国内最大規模の国際音楽賞「MUSIC AWARDS JAPAN 2026」のノミネート作品 / アーティストが発表された。",
+          "url": "https://natalie.mu/music/news/670189",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-04-30T07:34:00Z",
+          "image": "https://ogre.natalie.mu/media/news/music/2026/0302/MAJ2026_logo.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
         {
           "title": "（まとめ）原油高や米利下げ期待のはく落が重荷となり日経平均は続落 引け後は東京エレクやレーザーテック決算など",
           "description": "東京市場まとめ1.概況日経平均は432円安の59,484円と続落して取引を開始しました。米国における利下げ期待の後退や、中東情勢の不透明感を背景とした原油高の上昇が重荷となりました。前場は一進一退で推移し、612円安の59,304円で前引けとなりました。後場も軟調な展開...",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-04-30T04:45:13Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260430-34300391-nksports-000-5-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "ちゃんみな「子どもが生まれてからは『生きないと』と思うようになった」 迷った時は「ワクワクするほうを優先」〈徹子の部屋きょう出演〉",
-          "description": "30日放送の「徹子の部屋」（テレビ朝日系・午後1時）は、初登場となるラッパーのちゃんみな。結婚や出産を経て芽生えた心境の変化や、生活を支え続けてくれた家族とのエピソードを語る。過去によく読まれたち…",
-          "url": "https://dot.asahi.com/articles/-/281813?page=1",
-          "source": {
-            "name": "AERA DIGITAL"
-          },
-          "publishedAt": "2026-04-30T04:00:00Z",
-          "image": "https://aeradot.ismcdn.jp/mwimgs/e/0/1200xm/img_e0d99bae06e70d39811389053ce9bdc0689985.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "見逃さずにおきたい、俳優・目黒蓮のターニングポイント 映画評論家・関口裕子の考察【「SAKAMOTO DAYS」ネタバレあり】",
-          "description": "目黒蓮が主演を務めた「SAKAMOTODAYS」が4月29日に全国451館で封切られ、観客動員30万人、興行収入4億円を突破する大ヒットスタートを切った。目黒の前作「劇場版トリリオンゲーム」に関する考察記事を執筆した映画評論家の関口裕子氏(",
-          "url": "https://eiga.com/news/20260430/10/",
-          "source": {
-            "name": "映画.com"
-          },
-          "publishedAt": "2026-04-30T04:00:00Z",
-          "image": "https://media.eiga.com/images/buzz/126054/98f06ccc96596bc9.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Snow Man目黒蓮、相棒・高橋文哉とは「ずっと一緒」一時帰国で“異例の2日連続”舞台挨拶生中継【SAKAMOTO DAYS】",
-          "description": "Snow Manの目黒蓮、俳優の高橋文哉が30日、都内で行われた映画「SAKAMOTO DAYS」公開記念舞台挨拶に登壇。仲の良さをアピールした。",
-          "url": "https://mdpr.jp/cinema/detail/4773240",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-04-30T03:40:04Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/fZBo/wm/fZBodZLKwE28FMD5aGKfEBEdtMIPTGx_EoF7CWXgLqI.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "iPhone 18 Proのカメラに可変絞りの噂再び。今年のカメラはよさそうだ",
-          "description": "Image: Apple 4つのアップデートが訪れる…かも？今秋登場が期待されているiPhone 18 Proシリーズ。すでにいろいろな方向からその仕様についての噂が聞こえていますが（噂まとめはこちら",
-          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260430_1777521685562581",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-04-30T03:30:00Z",
-          "image": "https://portal.st-img.jp/thumb/22e3552bea657cb4f3a7e426270076d8_1777522599_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "PS4/PS5向け「PS Plusフリープレイ」5月にて話題のソウルライク『明末：ウツロノハネ』配布へ。傑作2D高難度アクション『九日ナインソール』など人気作ずらり",
-          "description": "ソニー・インタラクティブエンタテインメントは4月30日、PlayStation Plus加入者向けの5月のフリープレイ提供コンテンツ情報を公開した。",
-          "url": "https://automaton-media.com/articles/newsjp/psplus-20260430-440581/",
-          "source": {
-            "name": "AUTOMATON"
-          },
-          "publishedAt": "2026-04-30T03:16:20Z",
-          "image": "https://automaton-media.com/wp-content/uploads/2026/04/psplus-20260430-440581-header-1.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Lifesaving skills drive launched to curb drowning in Dar es Salaam",
-          "description": "The government, in collaboration with the Agness Swimming Foundation (ASF), has launched a major campaign to prevent drowning by equipping students with swimming and water rescue skills across...",
-          "url": "https://www.thecitizen.co.tz/tanzania/sports/lifesaving-skills-drive-launched-to-curb-drowning-in-dar-es-salaam-5441584",
+          "title": "Nightclub promoter believed to be intended target of botched kidnapping",
+          "description": "Police believe the kidnapping of a Malvern man was a failed attempt to target a promoter behind some of Melbourne’s most popular nightclub events.",
+          "url": "https://www.theage.com.au/national/victoria/nightclub-promoter-believed-to-be-intended-target-of-botched-kidnapping-20260430-p5zsp3.html",
           "source": {
-            "name": "thecitizen.co.tz"
+            "name": "The Age"
           },
-          "publishedAt": "2026-04-30T07:24:18Z",
-          "image": "https://www.thecitizen.co.tz/resource/image/5441590/landscape_ratio3x2/1200/800/b4fd94046d8af93ba9885f3997b17354/sF/lifesaving-pic.jpg",
+          "publishedAt": "2026-04-30T09:57:12Z",
+          "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/28f3a1c33f28416a78aedb7b0e65bbf7aabacd9a",
           "language": "en"
         },
         {
-          "title": "FINAS 2026 Summit Sets The Stage For Action On Financing Africa’s Food Systems",
-          "description": "Speaking during the official media launch of FINAS 2026 Summit, Dr. Paul Ronoh, Principal Secretary, State Department of Agriculture, noted that the summit",
-          "url": "https://africa.com/finas-2026-summit-sets-the-stage-for-action-on-financing-africas-food-systems/",
+          "title": "Civilians or Hezbollah: Who did Israel hit on Lebanon’s ‘Black Wednesday’?",
+          "description": "Israel says it targeted Hezbollah, but experts say the evidence proves otherwise.",
+          "url": "https://www.aljazeera.com/news/2026/4/30/civilians-or-hezbollah-who-did-israel-hit-on-lebanons-black-wednesday",
           "source": {
-            "name": "Africa.com"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-04-30T07:23:00Z",
-          "image": "https://africa.com/wp-content/uploads/2026/04/FINAS-2026-Summit.jpg",
+          "publishedAt": "2026-04-30T09:56:14Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69d6a3a418d63-1775674276.jpg?resize=1920%2C1440",
           "language": "en"
         },
         {
-          "title": "DCI Officers Foil Drug Trafficking Plot on Nairobi-Nakuru Highway",
-          "description": "Preliminary investigations suggest that the seized narcotics were destined for the streets of Nairobi, where they were to be broken down for wider distribution. - Kenya breaking news | Kenya news today | Capitalfm.co.ke",
-          "url": "https://www.capitalfm.co.ke/news/2026/04/dci-officers-foil-drug-trafficking-plot-on-nairobi-nakuru-highway/",
+          "title": "Witness tells court former Perlis MB Azlan Man received RM1.06m from cancelled state-funded travel packages",
+          "description": "KUALA LUMPUR, April 30 — The Sessions Court was told today that there were elements of misappropriation of Perlis state government property when Datuk Seri Azlan Man received...",
+          "url": "https://www.malaymail.com/news/malaysia/2026/04/30/witness-tells-court-former-perlis-mb-azlan-man-received-rm106m-from-cancelled-state-funded-travel-packages/218287",
           "source": {
-            "name": "Capitalfm.co.ke"
+            "name": "Malay Mail"
           },
-          "publishedAt": "2026-04-30T07:22:53Z",
-          "image": "https://www.capitalfm.co.ke/news/files/2026/04/DCI-nets-anti-narcotics.jpg",
+          "publishedAt": "2026-04-30T09:53:49Z",
+          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/04/30/338476.JPG",
           "language": "en"
         },
         {
-          "title": "Navigating the translational labyrinth of the gut microbiota",
-          "description": "Modern gut microbiota research, enabled by high-throughput sequencing, has established gastrointestinal microbial communities as integral components of host biology across the animals and humans. Animal studies established their roles in polysaccharide fermentation, nutrient utilization, and host physiology, while human investigations linked microbiota variation to metabolic and inflammatory conditions. The Gut Microbiota Collection ( https://www.nature.com/collections/jhdjahhcea ) brings together studies across host species, populations, and systems to offer more insights in how diet, geography, and host physiology shape microbiota composition and function.",
-          "url": "https://www.nature.com/articles/s41598-026-49409-y?error=cookies_not_supported&code=0607f47e-9337-4d3a-8208-20953b969ac9",
+          "title": "Shebeshxt remains behind bars as court dismisses bail bid",
+          "description": "The Polokwane Magistrate’s Court has refused bail for controversial Limpopo artist Lehlogonolo Chauke, known as Shebeshxt",
+          "url": "https://sundayworld.co.za/news/shebeshxt-remains-in-jail-as-court-dismisses-bail-bid-on-no-new-facts-finding/",
           "source": {
-            "name": "Nature"
+            "name": "sundayworld.co.za"
           },
-          "publishedAt": "2026-04-30T07:20:52Z",
-          "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+          "publishedAt": "2026-04-30T09:53:32Z",
+          "image": "https://sundayworld-prod-s3-bucket.s3.eu-west-1.amazonaws.com/wp-content/uploads/2025/11/12133751/The-troublesome-musician-Lehlogonolo-Chauke-Aka-Shebeshxt-scaled.jpg",
           "language": "en"
         },
         {
-          "title": "Supreme Court Reserves Judgment On Congress Leader Pawan Khera's Plea For Anticipatory Bail In Assam Police FIR",
-          "description": "The Supreme Court on Thursday reserved judgment on the petition filed by Congress leader Pawan Khera seeking anticipatory bail in connection with the FIR registered by Assam Police on the complaint by...",
-          "url": "https://www.livelaw.in/top-stories/supreme-court-reserves-judgment-on-congress-leader-pawan-kheras-plea-for-anticipatory-bail-in-assam-police-fir-532324",
+          "title": "Samsung Galaxy A57 5G Delivers Everyday Value with Smarter Performance and Long-Lasting Battery",
+          "description": "From dropped signals on busy commutes to the familiar anxiety of a battery slipping into the red, everyday smartphone frustrations continue to shape how people",
+          "url": "https://news.samsung.com/uk/samsung-galaxy-a57-5g-delivers-everyday-value-with-smarter-performance-and-long-lasting-battery",
           "source": {
-            "name": "Live Law"
+            "name": "samsung.com"
           },
-          "publishedAt": "2026-04-30T07:20:24Z",
-          "image": "https://www.livelaw.in/h-upload/2023/02/23/460381-pawan-khera-and-sc.jpg",
+          "publishedAt": "2026-04-30T09:52:47Z",
+          "image": "https://img.global.news.samsung.com/uk/wp-content/uploads/2026/04/pc_kv_932x524-1.jpg",
           "language": "en"
         },
         {
-          "title": "CM Afridi links war on terror to KP education loss",
-          "description": "CM Sohail Afridi says the war on terror left a generation in KP illiterate, as he announces skills reforms and discusses EU cooperation.",
-          "url": "https://www.pakistantoday.com.pk/2026/04/30/afridi-blames-war-on-terror-for-education-setback-in-kp",
+          "title": "‘Not necessary to humiliate me with arrest’: Pawan Khera in SC amid passport row case",
+          "description": "India News: NEW DELHI: Congress leader Pawan Khera on Thursday told the Supreme Court of India it was “not necessary to humiliate him with arrest” in the passport.",
+          "url": "https://timesofindia.indiatimes.com/india/not-necessary-to-humiliate-me-by-arrest-pawan-khera-in-sc-amid-passport-row-case/articleshow/130628146.cms",
           "source": {
-            "name": "Pakistan Today"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-04-30T07:20:00Z",
-          "image": "https://i.dawn.com/large/2026/04/300948348df86b5.webp",
+          "publishedAt": "2026-04-30T09:52:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-130628197,width-1280,height-720,imgsize-138326,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "11 Best Moments From 2026 Billboard Women in Music",
-          "description": "Go inside the empowering night with the 11 best moments from the 2026 Billboard Women in Music Awards.",
-          "url": "https://www.billboard.com/lists/2026-billboard-women-in-music-awards-recap-best-moments/",
-          "source": {
-            "name": "Billboard"
-          },
-          "publishedAt": "2026-04-30T07:19:39Z",
-          "image": "https://www.billboard.com/wp-content/uploads/2026/04/P105Z7R5-e1777534537434.jpg?w=1024",
-          "language": "en"
-        },
-        {
-          "title": "Disney+ to broadcast live men’s Champions League games for the first time",
-          "description": "Disney has secured the live rights in several European countries, including Sweden, for the 2027-31 cycle",
-          "url": "https://www.theguardian.com/football/2026/apr/30/disney-plus-live-champions-league-games-europe-auction",
+          "title": "Hegseth faces further grilling over war costs as Iranian supreme leader releases fresh US threats - US politics live",
+          "description": "Defense secretary to be quizzed in Senate as Khamenei says foreigners have no place in Gulf ‘except at bottom of its waters’",
+          "url": "https://www.theguardian.com/us-news/live/2026/apr/30/donald-trump-pete-hegseth-iran-war-oil-king-charles-latest-news-updates",
           "source": {
             "name": "The Guardian"
           },
-          "publishedAt": "2026-04-30T07:18:00Z",
-          "image": "https://i.guim.co.uk/img/media/420df2cda01ed2c793ac4ce2a5d4076f4c4f995b/1947_285_4049_3239/master/4049.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b09089fd4285dd13fa73fc4433aa9e49",
+          "publishedAt": "2026-04-30T09:51:00Z",
+          "image": "https://i.guim.co.uk/img/media/2b7f665380e05709c0c633680bc508172f69bd05/459_0_4318_3455/master/4318.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0693216f53a28ed1603aa023f24beb5b",
           "language": "en"
         },
         {
-          "title": "down exercise linked to better balance and agility",
-          "description": "A Japanese study suggests that a daily exercise routine people can perform on the floor may enhance balance and mobility, and could have use for older adults or those in rehabilitation settings.",
-          "url": "https://www.medicalnewstoday.com/articles/10-minute-daily-floor-based-workout-could-improve-balance-agility",
+          "title": "IHC to hear petition seeking access to Bushra Bibi on Monday",
+          "description": "The Islamabad High Court (IHC) has fixed a petition for hearing that seeks access to Bushra Bibi, the wife of PTI founder Imran Khan. Justice Arbab Muhammad Tahir",
+          "url": "https://www.nation.com.pk/30-Apr-2026/ihc-hear-petition-seeking-access-bushra-bibi-monday",
           "source": {
-            "name": "Medical News Today"
+            "name": "The Nation (Pakistan )"
           },
-          "publishedAt": "2026-04-30T07:17:24Z",
-          "image": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/05/daily-exercise-GettyImages-2252316757-Facebook.jpg",
+          "publishedAt": "2026-04-30T09:50:00Z",
+          "image": "https://www.nation.com.pk/digital_images/large/2026-04-30/ihc-hear-petition-seeking-access-bushra-bibi-monday-1777542583-2950.jpg",
           "language": "en"
         },
         {
-          "title": "Ministers under pressure to tackle antisemitism after Golders Green terror attack - live updates",
-          "description": "The government has announced £25m to increase security for Jewish communities",
-          "url": "https://www.theguardian.com/uk-news/live/2026/apr/30/golders-green-terror-incident-security-jewish-community-safety-latest-news",
+          "title": "Fronteras Comunes: Community and Collaboration to Tackle Plastic Pollution",
+          "description": "As the Break Free From Plastic (BFFP) movement marks its 10th anniversary, we highlight how the work of Fronteras Comunes from Mexico demonstrates that collective action can elevate local demands to the global advocacy arena",
+          "url": "https://www.breakfreefromplastic.org/2026/04/30/fronteras-comunes-community-and-collaboration-to-tackle-plastic-pollution/",
           "source": {
-            "name": "The Guardian"
+            "name": "Break Free From Plastic"
           },
-          "publishedAt": "2026-04-30T07:17:12Z",
-          "image": "https://i.guim.co.uk/img/media/9642b922d8c22f0bab97a9251834aa45f43f7619/1020_1038_5788_4630/master/5788.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a4750ac6073a50c0b4ba5ae28b69c71d",
+          "publishedAt": "2026-04-30T09:49:19Z",
+          "image": "https://www.breakfreefromplastic.org/wp-content/uploads/2026/04/Primer-encuentro-BFFP-en-Mexico-2022-.webp",
+          "language": "en"
+        },
+        {
+          "title": "Ukraine Strikes Deep Inside Russia Amid Talks Of Temporary Cease-Fire",
+          "description": "Ukraine has hit an oil facility and industrial site in Russia's Perm region, roughly 1,500 kilometers from the Ukrainian border, according to Russian officials, as US President Donald Trump and Vladimir Putin discussed a potential temporary cease-fire aimed at pausing the four-year war in Ukraine.",
+          "url": "https://www.rferl.org/a/ukraine-strikes-russia-oil-cease-fire-talks/33745974.html",
+          "source": {
+            "name": "Radio Free Europe/Radio Liberty"
+          },
+          "publishedAt": "2026-04-30T09:49:09Z",
+          "image": "https://gdb.rferl.org/f78becbb-a1a9-4ec9-9b70-25ffc5678aa4_cx0_cy14_cw0_w1200_h630.jpg",
           "language": "en"
         }
       ]
