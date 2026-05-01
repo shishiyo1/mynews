@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-01T13:22:31.412Z",
+  "updatedAt": "2026-05-01T15:58:24.164Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "『フォートナイト』iPhone版がついに日本で配信開始。「Epic Games Store」も使用可能に",
+          "description": "2025年12月施行のスマホ新法によって実施。あわせて『Rocket League Sideswipe』も提供する",
+          "url": "https://news.denfaminicogamer.jp/news/260501s",
+          "source": {
+            "name": "電ファミニコゲーマー"
+          },
+          "publishedAt": "2026-05-01T03:58:00Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/main-2.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Copy Fail：9年間見過ごされていたLinuxカーネルの脆弱性、エクスプロイトも公開（CVE-2026-31431）",
+          "description": "Copy Fail：9年間見過ごされていたLinuxカーネルの脆弱性、エクスプロイトも公開（CVE-2026-31431）｜Google、Gemini CLIのRCE脆弱性に対処 CVSSスコアは10.0",
+          "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/45427/",
+          "source": {
+            "name": "株式会社マキナレコード"
+          },
+          "publishedAt": "2026-05-01T03:55:43Z",
+          "image": "https://codebook.machinarecord.com/wp-content/uploads/2026/05/2023583-linux-1962898_640.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "イギリス政府、テロ脅威レベルを引き上げ ユダヤ系コミュニティーへの攻撃相次ぐ",
+          "description": "イギリス政府は4月30日、同国のテロ脅威レベルを5段階中4番目に高い「深刻」に引き上げた。テロ脅威レベルが「深刻」と判断されたのは2022年2月以来で、これは、今後6カ月以内にテロ攻撃が起きる可能性が非常に高いと判断したことを意味する。イギリスではこのところ、ユダヤ人コミュニティーを標的とした攻撃が相次いでいる。29日にはロンドン北部でユダヤ系の男性2人が刺される事件が発生。ロンドン警視庁は、この事件をテロ事件として捜査している。",
+          "url": "https://www.bbc.com/japanese/articles/cj0p4584lllo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-05-01T03:30:55Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_japanese/9ba4/live/12d58d20-44c4-11f1-9273-a335ca8f6d64.png",
+          "language": "ja"
+        },
+        {
+          "title": "【ボクシング】山中慎介が「井上尚弥vs中谷潤人」の勝敗を予想 \"モンスター\"が勝った場合の「もう１試合」の相手も考察した",
+          "description": "山中慎介が語る井上尚弥vs中谷潤人　後編（前編：山中慎介が分析　井上尚弥が中谷潤人との相性を「最悪」と言った理由　試合展開は「距離」がカギ＞＞）　５月２日、東京ドームのメインイベントで、世界スーパーバンタム級４団体統一王者の井上尚弥が中…",
+          "url": "https://sportiva.shueisha.co.jp/clm/othersports/fight/2026/05/01/vs_3/",
+          "source": {
+            "name": "webスポルティーバ"
+          },
+          "publishedAt": "2026-05-01T02:35:00Z",
+          "image": "https://sportiva.shueisha.co.jp/clm/othersports/fight/2026/images/b9c2effb0e7971c3c2e9735e34cd9f8311ff6b4b.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "最新の漆黒B850マザーボードは64MB BIOS搭載で将来のCPU換装も安心！AM5を長く使ってコスト削減したい人に魅力あるリフレッシュモデルを紹介",
+          "description": "次世代CPUへの対応を強化したMSIの新マザーボード「B850 TOMAHAWK」新作をレビュー。64MB BIOS ROM搭載で将来のAM5換装も安心。5GbEやWi-Fi 7など最新の規格を網羅し、コストをGPUに回す「賢い自作」の基盤としての実力を検証する。",
+          "url": "https://ascii.jp/elem/000/004/398/4398253/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-05-01T02:30:00Z",
+          "image": "https://ascii.jp/img/2026/04/26/4458612/xl/4e12e3a8483394f6.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "残念…iPhone 18無印はProとの差ありすぎな価格抑える仕様か",
+          "description": "iPhone 17が大盤振る舞いすぎた？今秋にリリース期待のiPhone 18シリーズをめぐるリーク合戦。もしかすると、いわゆる無印モデルのiPhone 18を狙うユーザーは、厳しい選択を強いられることになるかもしれませんよ。ディスプレイが残念な仕様に？9to5Macは、iPhone 18についての新たなリークを報じました。有名リーカーのFixed Focus DigitalがWeiboに投稿し",
+          "url": "https://www.gizmodo.jp/2026/05/iphone-18-spec-down-low-price.html",
+          "source": {
+            "name": "ギズモード・ジャパン"
+          },
+          "publishedAt": "2026-05-01T02:00:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/30/20260409igaka00.jpg_1280.jpg?w=1280&h=630&f=jpg",
+          "language": "ja"
+        },
+        {
+          "title": "宇野昌磨・ときどがプロeスポーツチーム『VARREL』に加入！チームリブランディングで新たなスタート",
+          "description": "株式会社CELLORBのプレスリリース（2026年5月1日 10時30分）宇野昌磨・ときどがプロeスポーツチーム『VARREL』に加入！チームリブランディングで新たなスタート",
+          "url": "https://prtimes.jp/main/html/rd/p/000000040.000113895.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-05-01T01:30:02Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/113895/40/113895-40-a64c81ba008662d2539b30ff04966e05-1682x979.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
         {
           "title": "夢のマイホームに泥棒、一変した男性の生活 相次ぐ被害の対策は？",
           "description": "自然豊かな土地に建てた夢のマイホームが泥棒に入られた――。　埼玉県内で4月以降、住人の就寝時などに民家に侵入する「忍び込み」による窃盗被害が相次いでいる。行田市の会社員の男性（47）は、4月26日未…",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-05-01T00:00:39Z",
           "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/04/ja_jp_gth_main_main_vertical_27x40_rgb_predate_1.jpg?w=580&h=305&crop=1",
           "language": "ja"
-        },
-        {
-          "title": "世界唯一「プラダを着た悪魔」アフタヌーンティー、大阪で…全11品で映画再現",
-          "description": "関西のおいしい、楽しい、知りたい…がいっぱい。関西人による、関西が好きな人のための、関西を24時間遊ぶニュースサイトです。",
-          "url": "https://www.lmaga.jp/news/2026/05/1051809/",
-          "source": {
-            "name": "Lmaga.jp"
-          },
-          "publishedAt": "2026-04-30T23:11:54Z",
-          "image": "https://www.lmaga.jp/wp-content/uploads/2026/04/waldorfprada_202604_1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「大阪都構想どうする」揺れる維新市議団 2度の否決「呪縛」に",
-          "description": "大阪市を廃止して特別区に再編する議論を前に進めていいか。 　「大阪都構想」を党是に掲げる地域政党「大阪維新の会」内で、大阪市議団が決断を迫られている。 　構想の制度案をつくる「法定協議会（法定協）」設置の可否を巡り、党のトップは早急な態度表明を期待する。",
-          "url": "https://mainichi.jp/articles/20260429/k00/00m/040/131000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-04-30T23:00:00Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/04/29/20260429k0000m040132000p/0c10.jpg?2",
-          "language": "ja"
-        },
-        {
-          "title": "米アップル、4─6月期売上高見通し予想上回る 株価3％以上上昇",
-          "description": "米アップルが３０日発表した第２・四半期（３月２８日まで）決算は、ｉＰｈｏｎｅ販売が供給面での制約を受けたものの、ノートパソコン「ＭａｃＢｏｏｋ（マックブック）」の需要が堅調だったことで、売上高と１株利益が予想​を上回った。",
-          "url": "https://jp.reuters.com/markets/world-indices/FU2SXGV6JNLEDDACOFCTOKTGSU-2026-04-30/",
-          "source": {
-            "name": "Reuters"
-          },
-          "publishedAt": "2026-04-30T22:47:39Z",
-          "image": "https://www.reuters.com/resizer/v2/UY2L47U42JLIVOXKIFQPLMYAHM.jpg?auth=5e0e62d5500e390bc60d98ccf6aafb79313f70d523f566ba233c0bc436f38d5c&height=1005&width=1920&quality=80&smart=true",
-          "language": "ja"
-        },
-        {
-          "title": "５月１日の東京株式市場見通し＝反発後はもみ合いか 速報",
-          "description": "予想レンジ：５万８９００円－６万円（４月３０日終値５万９２８４円９２銭）　５月１日の東京株式は反発後、もみ合いとなりそう。３０日の米国株高を受けて、買い先行が見込まれる。ただ、東京株式市場はゴールデ・・・",
-          "url": "https://kabushiki.jp/news/747023",
-          "source": {
-            "name": "kabushiki.jp"
-          },
-          "publishedAt": "2026-04-30T22:47:00Z",
-          "image": "https://kabushiki.jp/ogp.png",
-          "language": "ja"
-        },
-        {
-          "title": "世界卓球2026ロンドン 大会3日目（4月30日） 男子団体、予選リーグハイライト",
-          "description": "「世界卓球2026ロンドン　大会3日目（4月30日）　男子団体、予選リーグハイライト」の記事詳細。強くなるためのポイントが満載の卓球情報サイト「卓球レポート」の公式サイトです。世界卓球や全日本卓球などの速報も配信しています。",
-          "url": "https://www.butterfly.co.jp/takurepo/tournament/detail/028163.html",
-          "source": {
-            "name": "バタフライ卓球用品"
-          },
-          "publishedAt": "2026-04-30T22:19:43Z",
-          "image": "https://www.butterfly.co.jp/takurepo/tournament/item/260430-wc-mt.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "低気圧の雨雲が東・北日本へ 大雨も 西日本は所々で雷雨 今日5月1日(金)の天気",
-          "description": "今日5月1日(金)は、低気圧や前線に伴う雨雲が東日本から北日本へと次第に広がるでしょう。太平洋側を中心に雨脚が強まり、大雨となる所もありそうです。風も強まります。西日本では晴れ間もありますが、天気が変わりやすく、所々で雷雨となりそうです。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/05/01/38755.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-04-30T22:09:45Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/387/38755/main/20260501062828/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "あなたの中にいる「ネアンデルタール人」は本当に存在するのか？",
-          "description": "「内なるネアンデルタール人」は、私たちが自分自身を語るための物語になった。うつ、糖尿病、新型コロナの重症化——さまざまな疾患との関連が報告され、遺伝子検査会社はその「度合い」まで数値化した。だが、その前提となる交配説は本当に正しいのか。2人の研究者が、定説を支える仮定そのものを問い直す。",
-          "url": "https://www.technologyreview.jp/s/381026/the-problem-with-thinking-youre-part-neanderthal/",
-          "source": {
-            "name": "MITテクノロジーレビュー"
-          },
-          "publishedAt": "2026-04-30T22:00:07Z",
-          "image": "https://www.technologyreview.jp/wp-content/uploads/sites/2/2026/04/Neanderthals_finals-top-1400x787.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "SA government needs certainty on LIV Golf by October, premier says",
-          "description": "The SA Premier says the government is \"monitoring\" the situation regarding LIV Golf closely, and would need a guarantee of its future in Adelaide by October.",
-          "url": "https://www.abc.net.au/news/2026-05-01/sa-premier-responds-to-liv-golf-funding-collapse/106629386",
+          "title": "Mystery species tentatively identified after West Coast discovery",
+          "description": "The species was first found at Banks Peninsula in 1951.",
+          "url": "https://www.1news.co.nz/2026/05/01/mystery-species-tentatively-identified-after-west-coast-discovery/",
           "source": {
-            "name": "Australian Broadcasting Corporation"
+            "name": "1News"
           },
-          "publishedAt": "2026-05-01T01:21:59Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/729900da68aa6f903d06fb14e7780977?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=126&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-05-01T03:57:36Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/the-unknown-species-tentatively-identified-as-potamilla-alba-QTRPOAXRCNDHRMTEFPKV4CEUAI.jpg?auth=1ae1c0fd355e4cf2f4d6e126d8db329bca486eed812b6d6bb7ad8eaa2bffec56&quality=70&width=600&height=315&focal=1702%2C937",
           "language": "en"
         },
         {
-          "title": "Mumbai Pune Missing Link Project opens on May 1. Why is it significant?",
-          "description": "Discover the significance of the Mumbai-Pune Missing Link Project, reducing travel time and enhancing safety on India's first expressway.",
-          "url": "https://www.thehindu.com/news/national/maharashtra/mumbai-pune-missing-link-project-opens-on-may-1-why-is-it-significant/article70925371.ece",
-          "source": {
-            "name": "The Hindu"
-          },
-          "publishedAt": "2026-05-01T01:19:39Z",
-          "image": "https://th-i.thgim.com/public/incoming/l9f531/article70927324.ece/alternates/LANDSCAPE_1200/PTI04_26_2026_000683B.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Over 7,000 turn up for Rain Rave day one, KL police chief warns public against misconduct",
-          "description": "KUALA LUMPUR, May 1 — The opening of the Rain Rave Water Music Festival (RRWMF), held in conjunction with Visit Malaysia Year 2026, saw a massive turnout with over 7,000...",
-          "url": "https://www.malaymail.com/news/malaysia/2026/05/01/over-7000-turn-up-for-rain-rave-day-one-kl-police-chief-warns-public-against-misconduct/218322",
-          "source": {
-            "name": "Malay Mail"
-          },
-          "publishedAt": "2026-05-01T01:19:20Z",
-          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/05/01/338532.jpg",
-          "language": "en"
-        },
-        {
-          "title": "linked families returning to Australia, law expert says",
-          "description": "A week since a group of 13 Australian women and children with ties to former Islamic State fighters left a Syrian refugee camp for Australia, they remain in the capital Damascus in a state of limbo.",
-          "url": "https://www.abc.net.au/news/2026-05-01/australia-has-no-legal-way-to-block-isis-brides-law-expert-says/106629468",
-          "source": {
-            "name": "Australian Broadcasting Corporation"
-          },
-          "publishedAt": "2026-05-01T01:18:58Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/c936d6b729138933d5d2c04c1ba340f7?impolicy=wcms_watermark_news&cropH=1540&cropW=2738&xPos=0&yPos=105&width=862&height=485&imformat=generic",
-          "language": "en"
-        },
-        {
-          "title": "US invites NZ to help reopen the Strait of Hormuz",
-          "description": "The United States has invited New Zealand to join forces with a number of other countries to reopen the Strait of Hormuz.",
-          "url": "https://www.rnz.co.nz/news/top/593978/us-invites-nz-to-help-reopen-the-strait-of-hormuz",
-          "source": {
-            "name": "RNZ"
-          },
-          "publishedAt": "2026-05-01T01:18:02Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--J2B_pgUn--/t_tohu-badge-facebook/v1777593533/4JPGNHR_Winston_Peters_and_trump_jpg?_a=BACCd2AD",
-          "language": "en"
-        },
-        {
-          "title": "Trump administration says war in Iran ‘terminated’ due to ceasefire, in bid to dodge Congress",
-          "description": "Interpretation would allow White House to avoid the need to seek congressional approval",
-          "url": "https://www.theglobeandmail.com/world/article-trump-iran-war-ceasefire-congress/",
-          "source": {
-            "name": "The Globe and Mail"
-          },
-          "publishedAt": "2026-05-01T01:15:02Z",
-          "image": "https://www.theglobeandmail.com/resizer/v2/6CKKQMUXTFGLBJFMFR5CF62LLQ.jpg?auth=ef9d224ae5bd96778b895f7a54c1d2d0b919f35fbbe1f81e4ea7d7d9559b3f8b&width=1200&height=800&quality=80&smart=true",
-          "language": "en"
-        },
-        {
-          "title": "Yuqi returns, Aaron-Soh back as M'sia field Kai Wun-Sze Fei for showdown",
-          "description": "PETALING JAYA: China's Shi Yuqi is back, and so are Malaysia's Aaron Chia-Soh Wooi Yik as both teams name strong line-ups for their Thomas Cup quarter-final clash on May 1 at 4pm (Malaysian time).",
-          "url": "https://www.thestar.com.my/sport/badminton/2026/05/01/yuqi-returns-aaron-soh-back-as-m039sia-field-kai-wun-sze-fei-for-showdown",
-          "source": {
-            "name": "The Star"
-          },
-          "publishedAt": "2026-05-01T01:15:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/05/01/3886855.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Golders Green suspect named as Essa Suleiman",
-          "description": "Somali-born British man arrested over anti-Semitic terror attack named as Essa Suleiman",
-          "url": "https://www.telegraph.co.uk/news/2026/04/30/golders-green-suspect-named-golders-essa-suleiman/",
-          "source": {
-            "name": "The Telegraph"
-          },
-          "publishedAt": "2026-05-01T01:14:00Z",
-          "image": "https://www.telegraph.co.uk/content/dam/news/2026/04/30/TELEMMGLPICT000481739420_17775571422170_trans_NvBQzQNjv4BqZnBkQNuIGhRCxEs6yynR0XzSI78FR86YnJR-t-LMNSk.jpeg?impolicy=OG-Standard",
-          "language": "en"
-        },
-        {
-          "title": "Centre hikes commercial LPG prices by Rs 993 amid global energy crisis",
-          "description": "India Business News: NEW DELHI: The Centre on Friday increased the 19 kg commercial cylinder price by Rs 993 across the country, news agency ANI reported, citing sources.T.",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/centre-hikes-commercial-lpg-prices-by-rs-993-amid-global-energy-crisis/articleshow/130662655.cms",
+          "title": "IPL 2026 ultimate face-off: Can Mitchell Starc stop Vaibhav Sooryavanshi’s rampage?",
+          "description": "Cricket News: Vaibhav Sooryavanshi is set to clash against Delhi Capitals tonight, and one of the most aggressive battles of the night could be the mighty face-off .",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-ultimate-face-off-can-mitchell-starc-stop-vaibhav-sooryavanshis-rampage/articleshow/130668548.cms",
           "source": {
             "name": "The Times of India"
           },
-          "publishedAt": "2026-05-01T01:14:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-130662605,width-1280,height-720,imgsize-636552,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-05-01T03:56:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-130668890,width-1280,height-720,imgsize-1322234,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Protective orders require Utah 'Bachelorette' and ex-boyfriend to stay 100 feet apart",
-          "description": "Utah reality TV star Taylor Frankie Paul and her former boyfriend were each granted their requests for a protective order Thursday as changes to parent time are still being considered.",
-          "url": "https://www.ksl.com/article/51491501/protective-orders-require-utah-bachelorette-and-ex-boyfriend-to-stay-100-feet-apart",
+          "title": "HAL Chairman & Managing Director D K Sunil steps down",
+          "description": "Hindustan Aeronautics Ltd. announced that Dr. D K Sunil has stepped down as Chairman and Managing Director upon his superannuation on April 30, 2026. He had assumed these leadership roles in September 2024. The company made this announcement through a regulatory filing on Friday.",
+          "url": "https://economictimes.indiatimes.com/news/defence/hal-chairman-managing-director-d-k-sunil-steps-down-hindustan-aeronautics-ltd/articleshow/130669779.cms?from=mdr",
           "source": {
-            "name": "KSL News"
+            "name": "The Economic Times"
           },
-          "publishedAt": "2026-05-01T01:12:56Z",
-          "image": "https://img.ksl.com/slc/3150/315026/31502668.jpg?filter=kslv2/responsive_story_lg",
+          "publishedAt": "2026-05-01T03:55:58Z",
+          "image": "https://img.etimg.com/thumb/msid-130669790,width-1200,height-630,imgsize-65598,overlay-etdefence/articleshow.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Zuckerberg links Meta layoffs to AI spending, won't rule out more cuts",
+          "description": "Meta CEO Mark Zuckerberg says the company's latest round of roughly 8,000 layoffs is driven by increased AI infrastructure spending, not its shift toward an AI-native structure.",
+          "url": "https://www.foxbusiness.com/technology/zuckerberg-says-meta-layoffs-tied-ai-spending-wont-rule-out-future-cuts",
+          "source": {
+            "name": "Fox Business"
+          },
+          "publishedAt": "2026-05-01T03:55:00Z",
+          "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/10/0/0/mark-zuckerberg-meta-fox-news.jpg?ve=1&tl=1",
+          "language": "en"
+        },
+        {
+          "title": "Samsung plans to launch Galaxy Book laptops with Android and One UI",
+          "description": "We've received exclusive information about Samsung's plans to launch multiple Galaxy Book laptops running Android 17 and One UI 9. - SamMobile",
+          "url": "https://www.sammobile.com/news/samsung-galaxy-books-laptops-android-one-ui/",
+          "source": {
+            "name": "SamMobile"
+          },
+          "publishedAt": "2026-05-01T03:55:00Z",
+          "image": "https://www.sammobile.com/wp-content/uploads/2026/01/Samsung-Galaxy-Book-6-Hands-On14-1200x675.jpg",
+          "language": "en"
+        },
+        {
+          "title": "AGF backs suit for political party deregistration in Nigeria",
+          "description": "Nigeria's Attorney General supports a lawsuit seeking the political party deregistration of the ADC, Accord, and others over alleged constitutional breache",
+          "url": "https://punchng.com/agf-backs-suit-seeking-deregistration-of-adc-accord-others/",
+          "source": {
+            "name": "Punch Newspapers"
+          },
+          "publishedAt": "2026-05-01T03:53:00Z",
+          "image": "https://cdn.punchng.com/wp-content/uploads/2025/05/30185655/n.jpeg",
+          "language": "en"
+        },
+        {
+          "title": "OpenAI tells ChatGPT models to stop talking about goblins",
+          "description": "ChatGPT-maker OpenAI has had to instruct some of its AI tools to stop talking about goblins, after finding the term had randomly crept into responses.",
+          "url": "https://www.myjoyonline.com/openai-tells-chatgpt-models-to-stop-talking-about-goblins/",
+          "source": {
+            "name": "MyJoyOnline"
+          },
+          "publishedAt": "2026-05-01T03:52:42Z",
+          "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/image-1325.png",
+          "language": "en"
+        },
+        {
+          "title": "China's dark matter detection satellite sheds new light on cosmic rays",
+          "description": "China's Dark Matter Particle Explorer (DAMPE) satellite, also nicknamed \"Wukong\" (Monkey King), has achieved a major breakthrough in cosmic ray research, reporting for the first time the observation of the charge-dependent limit of cosmic ray acceleration, and providing key evidence for the existence of a \"super particle accelerator\" near Earth.",
+          "url": "https://news.cgtn.com/news/2026-05-01/China-s-dark-matter-detection-satellite-sheds-new-light-on-cosmic-rays-1MMKMjzWTWo/p.html",
+          "source": {
+            "name": "news.cgtn.com"
+          },
+          "publishedAt": "2026-05-01T03:47:26Z",
+          "image": "https://news.cgtn.com/news/2026-05-01/China-s-dark-matter-detection-satellite-sheds-new-light-on-cosmic-rays-1MMKMjzWTWo/img/0450e757064f438da9f83c8475b2603a/0450e757064f438da9f83c8475b2603a-750.png",
+          "language": "en"
+        },
+        {
+          "title": "DOTr suspends ride-hailing driver onboarding as firms exceed limits",
+          "description": "Discrepancies between the number of motorcycle taxi drivers on the ground and those reported by ride-hailing firms surfaced during the rollout of government cash aid in April amid rising fuel costs",
+          "url": "https://www.rappler.com/philippines/dotr-suspends-driver-onboarding-ride-hailing-firms-exceed-limits/",
+          "source": {
+            "name": "Rappler"
+          },
+          "publishedAt": "2026-05-01T03:46:22Z",
+          "image": "https://www.rappler.com/tachyon/2023/06/edsa-traffic-june-14-2023-202.jpg",
+          "language": "en"
+        },
+        {
+          "title": "A 47-point halftime lead! Knicks enjoy a rout for the ages over Hawks in Game 6",
+          "description": "By TIM REYNOLDS The biggest halftime lead in NBA playoff history. The most points and most lopsided win in New York Knicks postseason history, too. By any measure, what the Knicks did to the Atlanta Hawks was a historic blowout. The final score: Knicks 140, Hawks 89 on Thursday night in Game 6 of the […]",
+          "url": "https://www.baltimoresun.com/2026/04/30/a-47-point-halftime-lead-knicks-enjoy-a-rout-for-the-ages-over-hawks-in-game-6/",
+          "source": {
+            "name": "Baltimore Sun"
+          },
+          "publishedAt": "2026-05-01T03:46:18Z",
+          "image": "https://www.baltimoresun.com/wp-content/uploads/2026/04/Knicks_Hawks_Basketball_67833-1.jpg?w=1024&h=683",
           "language": "en"
         }
       ]
