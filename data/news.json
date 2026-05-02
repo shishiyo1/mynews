@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-02T13:15:47.689Z",
+  "updatedAt": "2026-05-02T15:49:41.118Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "仙台で5月史上初の30メートル超の暴風 2日夕方まで警戒 交通への影響も",
+          "description": "今日2日は東北の太平洋側を中心に風が強く、仙台では朝に最大瞬間風速31.2メートルと台風並みの暴風が吹きました。仙台市で最大瞬間風速が30m/s以上となったのは、7年ぶりのことで、5月としては初めてです。東北の太平洋側では夕方にかけて西よりの非常に強い風が吹くでしょう。建物への被害や飛来物に警戒が必要です。また、交通機関への影響にもお気をつけください。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/05/02/38770.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-02T02:35:04Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/387/38770/main/20260502111326/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "日本選手通算1000本塁打 村上宗隆両リーグ単独最多13号で達成！ パイオニア野茂英雄から28年",
+          "description": "日本選手通算1000本塁打　村上宗隆両リーグ単独最多13号で達成！　パイオニア野茂英雄から28年（スポニチアネックス）　◇インターリーグ　ホワイトソックス―パドレス（2026年5月1日　サンディエゴ）　大リーグの日本選手による通算1000本塁打が、1日…",
+          "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20260502-0157?redirect=1",
+          "source": {
+            "name": "ｄメニューニュース"
+          },
+          "publishedAt": "2026-05-02T02:22:00Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/picture/sponichi/m_sponichi-spngoo-20260502-0157.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "アメリカ、ドイツ駐留部隊を5000人削減へ 両国首脳がイラン戦争めぐり対立するなか",
+          "description": "米国防総省は1日、ドイツから米軍兵士5000人を撤収させる計画を発表した。ドナルド・トランプ大統領とフリードリヒ・メルツ首相はこのところ、イランとの戦争への対応をめぐり、お互いを非難している。アメリカは現在、ドイツに3万6000人以上の兵士を駐留させている。トランプ大統領はまた、イタリアとスペインからも米軍を撤収させる可能性にも言及した。",
+          "url": "https://www.bbc.com/japanese/articles/c7074178998o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-05-02T02:20:56Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_japanese/0164/live/dc716660-45c1-11f1-bc8a-0f0673df4e2f.jpg",
+          "language": "ja"
+        },
         {
           "title": "英語学習アプリ「1000時間ヒアリングマラソン」に新シリーズが登場！",
           "description": "株式会社アルクのプレスリリース（2026年5月2日 10時00分）英語学習アプリ「1000時間ヒアリングマラソン」に新シリーズが登場！",
@@ -81,150 +114,117 @@
           "publishedAt": "2026-05-01T23:33:00Z",
           "image": "https://www.nikkansports.com/baseball/mlb/news/img/202605020000021-w500_0.jpg",
           "language": "ja"
-        },
-        {
-          "title": "【辛口】占い業界の末端にいた人間が『地獄に堕ちるわよ』全話を見た正直な感想→「物足りない」",
-          "description": "占い界の女帝・細木数子の半生に迫るNetflixシリーズ『地獄に堕ちるわよ』。 先日、前半の第4話まで見た感想を「まるでヴィランの朝ドラみたいだ」と書いた。 実は私は …",
-          "url": "https://rocketnews24.com/2026/05/02/2758013/",
-          "source": {
-            "name": "ロケットニュース24"
-          },
-          "publishedAt": "2026-05-01T23:00:54Z",
-          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/05/ja_jp_gth_main_main_vertical_27x40_rgb_predate_1.jpg?w=580&h=305&crop=1",
-          "language": "ja"
-        },
-        {
-          "title": "焦点：ウクライナを脅かす攻撃ドローン「シャヘド」、迎撃作戦の最前線",
-          "description": "ウクライナ北東部の霧深い野原。バンの後部に置かれたスクリーン上の赤と黄色の点を、４人のウクライナ兵がじっと見つめている。手元には迎撃用ドローンと、夜を乗り切るためのエナジードリンクがある。",
-          "url": "https://jp.reuters.com/world/ukraine/KKPWNM3UC5LDFHTQFEDGU6IEKY-2026-05-01/",
-          "source": {
-            "name": "Reuters"
-          },
-          "publishedAt": "2026-05-01T22:57:45Z",
-          "image": "https://www.reuters.com/resizer/v2/NODZPBIEKVM7POUOMBZSA75GWE.jpg?auth=37d9ecd11ba43c46aa0c4fed9f1c701a7333b2b45bfa47e181219c4507f19577&height=1005&width=1920&quality=80&smart=true",
-          "language": "ja"
-        },
-        {
-          "title": "井上尚弥vs中谷潤人、何時から？視聴方法は 【きょう】ボクシング世界戦、Leminoで独占配信",
-          "description": "ボクシングのビッグマッチ「井上尚弥vs中谷潤人」（2026年5月2日・東京ドーム）は午後3時に配信開始、メインイベントは午後8時〜9時ごろ開始見込み。W世界戦として、井上拓真vs井岡一翔のタイトルマッチも行われる。視聴は「Lemino」の独占PPV配信で、地上波や他サービスでは視聴不可。料金や視聴方法、試合時間の目安をまとめた。",
-          "url": "https://www.fukuishimbun.co.jp/articles/-/2591447",
-          "source": {
-            "name": "福井新聞社"
-          },
-          "publishedAt": "2026-05-01T22:30:00Z",
-          "image": "https://fki.ismcdn.jp/mwimgs/2/e/-/img_2eb009ea4883ec5f479b6b90ec63a346265211.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Mother, teen daughter killed in Kota Tinggi crash",
-          "description": "KOTA TINGGI: A mother and her teenage daughter were killed in a two-vehicle accident at KM71 of Jalan Johor Baru–Mersing here on Friday (May 1).",
-          "url": "https://www.thestar.com.my/news/nation/2026/05/02/mother-teen-daughter-killed-in-kota-tinggi-crash",
-          "source": {
-            "name": "thestar.com.my"
-          },
-          "publishedAt": "2026-05-02T01:09:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/05/02/3888206.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Trump news at a glance: US troops to be pulled from Germany as president’s feud with Nato allies intensifies",
-          "description": "Pentagon says withdrawal is expected to be completed over the next six to 12 months – key US politics stories from Friday, 1 May at a glance",
-          "url": "https://www.theguardian.com/us-news/2026/may/01/trump-news-at-a-glance-latest-updates-today",
-          "source": {
-            "name": "The Guardian"
-          },
-          "publishedAt": "2026-05-02T01:09:00Z",
-          "image": "https://i.guim.co.uk/img/media/ec835f1c2f37901bba12263a355baeeec098c534/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0d5ffd66e67f30d532051c09dfa331d8",
-          "language": "en"
-        },
-        {
-          "title": "Interest rates, inflation; RBA hikes crushes first-home housing dream",
-          "description": "Couples trying to break into the housing market could be $73,100 worse off as successive interest rate hikes smash their borrowing capacity.",
-          "url": "https://www.news.com.au/finance/economy/interest-rates/interest-rate-hikes-slash-firsthome-buyer-borrowing-capacity-by-thousands/news-story/5677a960d8162be1f032ade7ba97edf7",
+          "title": "US politics, Iran War live: Donald Trump withdraws troops from Germany, mocks Mexico’s leader",
+          "description": "The United States is withdrawing 5000 troops from one of its closest allies in Europe, Germany, after the country’s Chancellor offered a withering assessment of the Iran War earlier this week.",
+          "url": "https://www.news.com.au/world/north-america/us-politics/us-politics-iran-war-live-donald-trump-claims-conflict-has-been-terminated-as-he-tries-to-avoid-seeking-congresss-approval/live-coverage/1c5f19c24a0c3d70a83c821152647513",
           "source": {
             "name": "News.com.au"
           },
-          "publishedAt": "2026-05-02T01:08:54Z",
-          "image": "https://content.api.news/v3/images/bin/ad9336dcd6a5907c21c2d3874f328975",
+          "publishedAt": "2026-05-02T03:48:16Z",
+          "image": "https://content.api.news/v3/images/bin/886503677dc0a581ea8084d3936748de",
           "language": "en"
         },
         {
-          "title": "Viral office worker Jim Clifford sparks Gen Z vs Boomer work debate",
-          "description": "A Boomer struggling to work with an injured leg in a suit has evidently exposed a huge generational divide.",
-          "url": "https://www.news.com.au/lifestyle/real-life/news-life/a-clip-of-a-man-walking-to-work-has-exposed-a-huge-generational-divide/news-story/707d2f789af4b04bdd2ad3693aa83c13",
+          "title": "Exclusive: Tszyu-Spence Jr. agree to weight terms in lengthy crunch meeting after roadblock",
+          "description": "EXCLUSIVE: Tszyu agrees to weight terms in lengthy crunch meeting after roadblock",
+          "url": "https://www.foxsports.com.au/boxing/boxing-2026-tim-tszyu-errol-spence-jr-fight-to-be-fought-at-158-pounds-issue-resolved-after-lengthy-meeting-in-las-vegas-tim-tszyus-heaviest-fight-weight-in-8-years-boxing-news/news-story/427bbd3faf7a2faa4470f1986584b17c",
           "source": {
-            "name": "News.com.au"
+            "name": "Fox Sports"
           },
-          "publishedAt": "2026-05-02T01:05:21Z",
-          "image": "https://content.api.news/v3/images/bin/d5aa4b5fdb07de523c78e5dec6c9f956",
+          "publishedAt": "2026-05-02T03:47:01Z",
+          "image": "https://content.api.news/v3/images/bin/081e6ffd6dca83d1d5edf87af10e21b6",
           "language": "en"
         },
         {
-          "title": "Gaza aid mission turns violent: Ten Malaysians in flotilla freed in Greece after claims of attack in custody",
-          "description": "KUALA LUMPUR, May 2 — Ten Malaysian delegates from the Sumud Nusantara Command Center (SNCC), who were detained in international waters near the Greek island of Crete on...",
-          "url": "https://www.malaymail.com/news/malaysia/2026/05/02/gaza-aid-mission-turns-violent-ten-malaysians-in-flotilla-freed-in-greece-after-claims-of-attack-in-custody/218430",
+          "title": "Meet Chucarosaurus: The colossal dinosaur so massive its fossils cracked roads; now reshaping the story of the Titanosaurs",
+          "description": "Trending News: Patagonia, a region in southern South America has been extremely influential in revealing information about titanosaur dinosaurs to the world. It has .",
+          "url": "https://timesofindia.indiatimes.com/etimes/trending/meet-chucarosaurus-the-colossal-dinosaur-so-massive-its-fossils-cracked-roads-now-reshaping-the-story-of-the-titanosaurs/articleshow/130709434.cms",
           "source": {
-            "name": "Malay Mail"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-05-02T01:04:53Z",
-          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/05/02/338694.JPG",
+          "publishedAt": "2026-05-02T03:46:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-130709504,width-1280,height-720,imgsize-32056,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Yeo Bee Yin backs Rain Rave festival, says ‘moral policing’ hurts tourism push",
-          "description": "KUALA LUMPUR, May 2 — Former minister Yeo Bee Yin has defended the Rain Rave Water Music Festival (RRWMF) amid ongoing backlash, saying critics should not overreact and...",
-          "url": "https://www.malaymail.com/news/malaysia/2026/05/02/yeo-bee-yin-backs-rain-rave-festival-says-moral-policing-hurts-tourism-push/218433",
+          "title": "Astronomers finally solve the gamma-Cas X-ray mystery after 50 years",
+          "description": "A decades-old cosmic mystery has finally been cracked: the strange X-rays coming from the bright star gamma-Cas are caused by a hidden stellar companion feeding off it. Using cutting-edge observations from the XRISM space mission, astronomers discovered that an unseen white dwarf star is siphoning material from gamma-Cas, heating it to extreme temperatures and producing powerful X-ray emissions. This breakthrough resolves a puzzle that has baffled scientists since the 1970s and sheds new light on how these unusual stellar pairs form and evolve.",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260501052856.htm",
           "source": {
-            "name": "Malay Mail"
+            "name": "ScienceDaily"
           },
-          "publishedAt": "2026-05-02T01:04:53Z",
-          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/05/02/338695.JPG",
+          "publishedAt": "2026-05-02T03:45:07Z",
+          "image": "https://www.sciencedaily.com/images/1920/gamma-cas-and-its-hungry-white-dwarf-companion.webp",
           "language": "en"
         },
         {
-          "title": "Clarity Act text lets crypto firms offer stablecoin rewards while shielding bank yield",
-          "description": "The text released Friday blocks crypto firms from offering stablecoin yield offerings that look like bank deposits, but \"bona fide\" transactions are allowed.",
-          "url": "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield",
+          "title": "This laser turns metal into a star-like plasma in trillionths of a second",
+          "description": "In a striking glimpse into extreme physics, scientists have captured the split-second chaos that unfolds when powerful laser flashes blast matter into a superheated plasma. By combining two cutting-edge lasers, researchers were able to track how copper atoms lose and regain electrons in trillionths of a second, creating and dissolving highly charged ions in a rapid, almost cinematic sequence.",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260501052854.htm",
           "source": {
-            "name": "CoinDesk"
+            "name": "ScienceDaily"
           },
-          "publishedAt": "2026-05-02T01:04:52Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/2f93526f6b1d3f1b790b8c45bd17a412b28f6121-7455x4972.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+          "publishedAt": "2026-05-02T03:45:07Z",
+          "image": "https://www.sciencedaily.com/images/1920/xfel-photon-energy-hot-plasma.webp",
           "language": "en"
         },
         {
-          "title": "born father to be deported to New Zealand from Australia as a 501",
-          "description": "A man born in Africa who has lived in Australia since age 12 and has multiple convictions has told family he would take his own life if deported to New...",
-          "url": "https://www.nzherald.co.nz/nz/african-born-father-to-be-deported-to-new-zealand-from-australia-as-a-501/AQBTQBYVTRE3LMOPMKGREVWUUI/",
+          "title": "Netflix Reveals 10 Confirmed Narnia Cast Members, Including Ciarán Hinds",
+          "description": "A new press release from Netflix has officially confirmed the main cast members for Greta Gerwig’s upcoming adaptation of ‘The...",
+          "url": "https://www.narniaweb.com/2026/05/netflix-reveals-10-confirmed-narnia-cast-members-including-ciaran-hinds/",
           "source": {
-            "name": "NZ Herald"
+            "name": "NarniaWeb"
           },
-          "publishedAt": "2026-05-02T01:03:32Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/CGFQDHJQGVA77K42Q52VHLR7NU.jpg?auth=76c77a1bb22c15f9f499a9520d6ec817851bb2470fd70d2570e65813a83f6891&width=1200&height=675&quality=70&focal=936%2C425&smart=false",
+          "publishedAt": "2026-05-02T03:44:36Z",
+          "image": "https://www.narniaweb.com/wp-content/uploads/2026/05/Ciaran-Hinds-Academy-Awards-Red-Carpet-GettyImages-1388061876-H-2023.webp",
           "language": "en"
         },
         {
-          "title": "Gerry Conway, creator of the Punisher in Spider-Man comics, dies at 73",
-          "description": "Marvel praises Conway’s ‘undeniable and indelible impact’ of celebrated comic book writer who also worked for DC",
-          "url": "https://www.theguardian.com/culture/2026/may/01/gerry-conway-punisher-spider-man-comics",
+          "title": "threatening injuries after reports of caravan park brawl involving knives",
+          "description": "A man has been airlifted to hospital with life-threatening injuries after being stabbed during a wild brawl at a caravan park in a small Victorian town.",
+          "url": "https://www.abc.net.au/news/2026-05-02/caravan-park-stabbing-victoria-police/106634526",
           "source": {
-            "name": "The Guardian"
+            "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-05-02T01:03:00Z",
-          "image": "https://i.guim.co.uk/img/media/1a97acda896c189d3e06752b94376222f2d78443/104_0_1040_832/master/1040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e6f828b311f932fe60ce8790d3a784a8",
+          "publishedAt": "2026-05-02T03:43:15Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/f9eb564322c4a4e5bc64895cf85fee35?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "NIA visits Mumbai Press Club after it suspends three members over Bhima Koregaon accused gathering",
-          "description": "The agency sought documents related to a January event attended by Bhima Koregaon accused out on bail, after the club suspended three members for allegedly facilitating it, a charge they deny, with former president Gurbir Singh calling it politically motivated ahead of club elections.",
-          "url": "https://indianexpress.com/article/cities/mumbai/nia-visits-mumbai-press-club-after-it-suspends-three-members-over-bhima-koregaon-accused-gathering-10666744/",
+          "title": "Maya Wertheimer opens up about marriage crisis, anxiety, life under fire",
+          "description": "Host and actress shares crisis with husband Assaf Zamir, couples therapy that helped them recover and being named Israel’s most trusted influencer",
+          "url": "https://www.ynetnews.com/culture/article/rycf752611g",
           "source": {
-            "name": "The Indian Express"
+            "name": "ynetnews"
           },
-          "publishedAt": "2026-05-02T01:02:22Z",
-          "image": "https://images.indianexpress.com/2026/05/NIA-2.jpg",
+          "publishedAt": "2026-05-02T03:43:00Z",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/26/HJfCqyPjT11e/HJfCqyPjT11e_1338_95_1663_937_0_large.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Kenya Newspapers Review: Opposition Eyes United Front as Kalonzo",
+          "description": "Explore key Kenyan national developments, including Labour Day celebrations, political shifts, and the tragic killing of Joseph Mutemi amidst rising border violence.",
+          "url": "https://www.tuko.co.ke/kenya/624974-kenya-newspapers-review-opposition-eyes-united-front-kalonzo-sifuna-ticket-lead-early-talks/",
+          "source": {
+            "name": "Tuko News"
+          },
+          "publishedAt": "2026-05-02T03:41:59Z",
+          "image": "https://cdn.tuko.co.ke/images/1200x675/4a53778408067847.jpeg?v=1",
+          "language": "en"
+        },
+        {
+          "title": "Trump says US Navy acting 'like pirates' to carry out naval blockade of Iranian ports",
+          "description": "Iran has blocked nearly all ships passing through the Strait of Hormuz apart from its own since the start of the war.",
+          "url": "https://dunyanews.tv/en/World/949247-trump-says-us-navy-acting-like-pirates-to-carry-out-naval-blockade-o",
+          "source": {
+            "name": "Dunya News"
+          },
+          "publishedAt": "2026-05-02T03:36:10Z",
+          "image": "https://img.dunyanews.tv/news/2026/May/05-02-26/news_big_images/949247_78860481.jpg",
           "language": "en"
         }
       ]
