@@ -1,10 +1,21 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-02T05:38:44.566Z",
+  "updatedAt": "2026-05-02T07:47:09.206Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "トランプ氏、ＥＵ車関税25％に引き上げ 欧州委「あらゆる選択肢検討」",
+          "description": "トランプ米大統領は１日、欧州連合（ＥＵ）は米国との貿易協定を順守していないと主張し、ＥＵから輸入する自動車とトラックにかける関税を来週から２５％に引き上げると表明した。",
+          "url": "https://jp.reuters.com/world/us/NECRXVTUWVIT7D5ZTF5O7DGUZA-2026-05-01/",
+          "source": {
+            "name": "Reuters"
+          },
+          "publishedAt": "2026-05-01T18:37:57Z",
+          "image": "https://www.reuters.com/resizer/v2/6F2OTXBL2VIJTDQEKLJRRZ2ZRY.jpg?auth=27caf77c666f76d5a60666d938db1e47c24e849b411418732418171545de073f&height=1005&width=1920&quality=80&smart=true",
+          "language": "ja"
+        },
         {
           "title": "『Apex Legends』シーズン29「オーバークロック」追加の新レジェンド・アクセルはとにかくスピード感が気持ちいい！【先行キャプチャーイベントレポ】",
           "description": "アクセルはスライディングと設置型アビリティで高速移動が可能！敵を逃すな！",
@@ -103,128 +114,117 @@
           "publishedAt": "2026-05-01T12:00:00Z",
           "image": "https://portal.st-img.jp/thumb/4909bafa67a0ea11b11d97892d5708de_1777636995_l.jpg",
           "language": "ja"
-        },
-        {
-          "title": "為替介入、原油高主導の円安問題視 連休前の薄商い狙った政府・日銀",
-          "description": "政府・日銀は円買い介入に踏み切った。原油価格の高騰をきっかけにした一方的な円安を食い止めるのが狙いだ。中東情勢は緊迫が続き、日米金利差など経済環境に変化はない。介入で円安トレンドが変わるとの見方は乏しい。あらためて円売りの動きをけん制「大型連休はまだまだ序盤だ」1年9カ月ぶりの円買い介入から一晩明けた1日朝、財務省に登庁した三村淳財務官は集まった記者団にこう告げた。介入の有無には言及しなか",
-          "url": "https://www.nikkei.com/article/DGXZQOUA011U60R00C26A5000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-05-01T10:28:25Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2972271001052026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.59&fp-y=0.26&h=630&w=1200&s=b12ef9e11e59bf4f55d4dbeeec79c5b4",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "CKM Syndrome Linked to Cancer. How to Lower Your Risk",
-          "description": "People with cardiovascular-kidney-metabolic (CKM) syndrome have a higher risk of developing cancer, according to a new study. Experts say that adopting healthy lifestyle habits can help offer some protection.",
-          "url": "https://www.healthline.com/health-news/ckm-syndrome-higher-cancer-risk",
+          "title": "Alabama Governor Calls Special Session to Adopt New House Maps",
+          "description": "Gov. Kay Ivey said a map that would give Republicans an additional House seat cannot be enacted without Supreme Court action, but she wants to be ready if that happens.",
+          "url": "https://www.nytimes.com/2026/05/01/us/elections/special-session-redistricting-alabama.html",
           "source": {
-            "name": "Healthline"
+            "name": "The New York Times"
           },
-          "publishedAt": "2026-05-01T17:33:40Z",
-          "image": "https://media.post.rvohealth.io/wp-content/uploads/2026/05/Cardiovascular-Disease-Stocksy_txp00d01d6cWvG400_Medium_308410-Facebook.jpg",
+          "publishedAt": "2026-05-01T19:46:20Z",
+          "image": "https://static01.nyt.com/images/2026/05/01/multimedia/01nat-alabama-redistricting-pbkc/01nat-alabama-redistricting-pbkc-facebookJumbo.jpg",
           "language": "en"
         },
         {
-          "title": "Arsenal line-up vs Fulham decided as Myles Lewis-Skelly unleashed in new role",
-          "description": "football.london reporters select their Arsenal starting XIs for the Premier League clash against Fulham",
-          "url": "https://www.football.london/arsenal-fc/news/arsenal-lineup-fulham-injury-news-33874281",
+          "title": "May Day: Akpabio hails Nigerian workers' resilience, patriotism",
+          "description": "The Nation Newspaper May Day: Akpabio hails Nigerian workers' resilience, patriotism",
+          "url": "https://thenationonlineng.net/may-day-akpabio-hails-nigerian-workers-resilience-patriotism/",
           "source": {
-            "name": "Football London"
+            "name": "The Nation Newspaper"
           },
-          "publishedAt": "2026-05-01T17:33:28Z",
-          "image": "https://i2-prod.football.london/article33874268.ece/ALTERNATES/s1200d/0_GettyImages-2253605905.jpg",
+          "publishedAt": "2026-05-01T19:45:46Z",
+          "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2025/11/04184730/Akpabio.jpg",
           "language": "en"
         },
         {
-          "title": "Devil Wears Prada 2 And More",
-          "description": "This week in TV and movie news, “The Devil Wears Prada 2” is worth a watch, why one of the best shows right now is a time travel series on Hallmark, and much more.",
-          "url": "https://www.buzzfeed.com/noradominick/weekend-tv-movie-recommendations-5-1-26",
+          "title": "linked Australian families in Syria",
+          "description": "Four Australian women, their children and grandchildren are stuck in limbo in Syria after leaving a refugee camp for family members of suspected Islamic State fighters. This is what we know about them.",
+          "url": "https://www.abc.net.au/news/2026-05-02/who-are-the-australians-from-al-roj-isis-camp-in-syria/106629466",
           "source": {
-            "name": "BuzzFeed"
+            "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-05-01T17:31:02Z",
-          "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-04/30/03/thumb/BsE90Wz5s.jpg?crop=1250:654;0,0%26downsize=1250:*",
+          "publishedAt": "2026-05-01T19:41:57Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/203d71fe7b19ddf64e3c1a75eb86a496?impolicy=wcms_watermark_news&cropH=1705&cropW=3031&xPos=0&yPos=0&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Charles tamed Trump while rebuking Trumpism in ego-flattering masterstroke",
-          "description": "King skillfully appeals to Republicans fond of Britain and Democrats anxious about rules-based order in state visit",
-          "url": "https://www.theguardian.com/us-news/2026/may/01/king-charles-trump-visit",
+          "title": "Rebel checkpoints reported around Mali’s capital, northern town seized",
+          "description": "JNIM and Tuareg separatists continue their attacks against Mali’s military government.",
+          "url": "https://www.aljazeera.com/news/2026/5/1/rebel-checkpoints-reported-mali-capital-town-seized",
           "source": {
-            "name": "The Guardian"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-05-01T17:31:00Z",
-          "image": "https://i.guim.co.uk/img/media/22d5f15cf2c1c98c28d414f901876a3175d16e3a/209_0_2091_1673/master/2091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d684dfb2a9f55fd6102a09c0e3e8bb80",
+          "publishedAt": "2026-05-01T19:41:18Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_69f4ec53-1777658963.jpg?resize=1200%2C675",
           "language": "en"
         },
         {
-          "title": "UEFA Women's Europa Cup final winners: Häcken",
-          "description": "Follow all the latest UEFA Women's Europa Cup 2025/2026 news from the official UEFA.com site. Includes latest news stories, videos, match reports and much more.",
-          "url": "https://www.uefa.com/womenseuropacup/news/02a4-204b8a43563f-ac4405dde37d-1000--uefa-women-s-europa-cup-final-winners-hacken/",
+          "title": "Worm-like fossils from ancient China reveal odd ancient ecosystem",
+          "description": "Fossils in China reveal early life that predates animals and show that ancient ecosystems were more complex than previously thought",
+          "url": "https://www.earth.com/news/worm-like-fossils-from-ancient-china-open-a-strange-window-into-life-before-animals/",
           "source": {
-            "name": "UEFA.com"
+            "name": "Earth.com"
           },
-          "publishedAt": "2026-05-01T17:30:44Z",
-          "image": "https://editorial.uefa.com/resources/02a5-2085a77679bd-1e0acf882b6b-1000/hammarby_if_v_bk_hacken_ff_-_uefa_women_s_europa_cup_2026_final_second_leg.jpeg",
+          "publishedAt": "2026-05-01T19:41:15Z",
+          "image": "https://cff2.earth.com/uploads/2026/04/29091449/ancient-worm-like-fossils-early-life-china.jpg",
           "language": "en"
         },
         {
-          "title": "Sourav Ganguly on Bengal poll outcome: 'Even Ma Durga ...'",
-          "description": "Majority of exit poll predictions suggest that the Bharatiya Janata Party (BJP) has an edge over the ruling TMC. However, Today's Chanakya has predicted a massive win for BJP, predicting a tally of 192+ for the saffron party.",
-          "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/elections/assembly-election/west-bengal/sourav-ganguly-on-bengal-poll-outcome-even-ma-durga-article-13905656.html",
-          "source": {
-            "name": "Moneycontrol.com"
-          },
-          "publishedAt": "2026-05-01T17:30:23Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260501153652_Ganguly.jpg",
-          "language": "en"
-        },
-        {
-          "title": "KeNHA outlines steps towards reconstruction of Nithi Bridge",
-          "description": "The redesign and realignment of the bridge is expected to promote safety and stability.",
-          "url": "https://www.the-star.co.ke/news/2026-05-01-kenha-outlines-nithi-bridge-rebuild-plan",
-          "source": {
-            "name": "the-star.co.ke"
-          },
-          "publishedAt": "2026-05-01T17:28:26Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/05/e168a173-597c-44fe-81cf-fdd120cb0d30.jpg?1777667777192",
-          "language": "en"
-        },
-        {
-          "title": "Here's Where Your Backyard Was 300 Million Years Ago",
-          "description": "We may use terms like \"grounded\" and terra firma to mean stability and consistency but geology laughs at that notion.",
-          "url": "http://www.science20.com/news_staff/heres_where_your_backyard_was_300_million_years_ago-257763",
-          "source": {
-            "name": "Science 2.0"
-          },
-          "publishedAt": "2026-05-01T17:26:19Z",
-          "image": "https://www.science20.com/files/images/paleolatitude.png",
-          "language": "en"
-        },
-        {
-          "title": "Nigerians and Ghanaians convicted in US: Department of Justice release names of Nigerians, Ghanaians, odas wey dem convict for $215m scam",
-          "description": "Out of di 25 defendants, some of dem na Nigerians and Ghanaians and plenti US citizens dey among dem wey plead guilty say dem do di fraud.",
-          "url": "https://www.bbc.com/pidgin/articles/cp8p1yn83gro",
+          "title": "Jewish Londoners tell of fear and resilience",
+          "description": "Community reflects on the impact of the Golders Green stabbings and security concerns for London's Jews.",
+          "url": "https://www.bbc.com/news/articles/c74r8nme2pvo",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-05-01T17:25:55Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_pidgin/a644/live/ea5fe390-457c-11f1-806d-8d4b5ff877ff.png",
+          "publishedAt": "2026-05-01T19:40:45Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a7d8/live/030bd3f0-4590-11f1-a9a8-25cedec53657.jpg",
           "language": "en"
         },
         {
-          "title": "Retire? New AC Milan Deal? Luka Modrić's Big Decision As World Cup Looms",
-          "description": "Luka Modric is facing a major decision about his future as he prepares to lead Croatia at the World Cup.",
-          "url": "https://www.foxsports.com/stories/soccer/new-contract-or-retire-luka-modric-future-prediction-made-at-40-years-of-age-with-ballon-dor-winning-real-madrid-legend-nursing-an-injury-at-ac-milan",
+          "title": "Golders Green attack: Jewish Londoners tell of fear and resilience",
+          "description": "Community reflects on the impact of the Golders Green stabbings and security concerns for London's Jews.",
+          "url": "https://www.bbc.co.uk/news/articles/c74r8nme2pvo",
           "source": {
-            "name": "FOX Sports"
+            "name": "BBC"
           },
-          "publishedAt": "2026-05-01T17:23:43Z",
-          "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/05/1408/814/FotoJet20-202026-03-09T074203.821.jpg?ve=1&tl=1",
+          "publishedAt": "2026-05-01T19:40:45Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a7d8/live/030bd3f0-4590-11f1-a9a8-25cedec53657.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Widespread genetic exchange in disease-causing parasites revealed",
+          "description": "Mississippi State University biologist Matthew W. Brown is part of an international research team whose latest findings, published this spring in the Proceedings of the National Academy of Sciences, are reshaping scientific understanding of how parasitic organisms evolve and ultimately spread disease.",
+          "url": "https://phys.org/news/2026-05-widespread-genetic-exchange-disease-parasites.html",
+          "source": {
+            "name": "Phys.org"
+          },
+          "publishedAt": "2026-05-01T19:40:02Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/insect-bite.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Academy Bans AI Actors & Writers from Award",
+          "description": "The Academy of Motion Picture Arts and Sciences has set new AI Oscars rules, making AI-generated actors and screenplays ineligible for awards.",
+          "url": "https://punchng.com/ai-actors-writers-not-eligible-for-oscars-academy/",
+          "source": {
+            "name": "Punch Newspapers"
+          },
+          "publishedAt": "2026-05-01T19:39:22Z",
+          "image": "https://cdn.punchng.com/wp-content/uploads/2023/03/13062335/Oscars.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Oscars to Screenwriters: You Gotta Be Human",
+          "description": "The Academy has updated its rules for how artificial intelligence is used, including one that says all screenplays must be humanly created",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/oscars-screenwriters-gotta-human-193825607.html",
+          "source": {
+            "name": "Yahoo"
+          },
+          "publishedAt": "2026-05-01T19:38:25Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/sj80IWn7TjuwpMYbEu2Kfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/rollingstone.com/354d22fe47104141685a4f379f1c41c8",
           "language": "en"
         }
       ]
