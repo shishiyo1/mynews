@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-02T07:47:09.206Z",
+  "updatedAt": "2026-05-02T09:59:11.007Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "1日の米国市場ダイジェスト：米国株式市場はまちまち、ハイテクが支える(フィスコ)",
+          "description": "■NY株式：米国株式市場はまちまち、ハイテクが支える\n米国株式市場はまちまち。ダウ平均は152.87ドル安の49499.27ドル、ナスダックは222.14ポイント高の25114.45で取引を終了した。\nイランが和平に向け新提案をパキスタンに提示したと...",
+          "url": "https://finance.yahoo.co.jp/news/detail/ee6cfc8bb83f07ed4576ce135b22ecf4c92e0ad8",
+          "source": {
+            "name": "Yahoo!ファイナンス"
+          },
+          "publishedAt": "2026-05-01T21:51:22Z",
+          "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+          "language": "ja"
+        },
+        {
+          "title": "2日は東海や関東で30℃に迫る暑さ 3日は蒸し暑く 室内でも熱中症対策を",
+          "description": "今日2日(土)は九州から関東を中心に前日より気温が高く、東海や関東では最高気温が30℃に迫る所もあるでしょう。3日(日・憲法記念日)はムシムシとした暑さに変わります。外のレジャーだけでなく、室内でも熱中症のリスクが高まるため、対策をしてください。",
+          "url": "https://tenki.jp/forecaster/a_aoyama/2026/05/02/38768.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-01T21:51:04Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/387/38768/main/20260502062353/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ＮＹ市場サマリー（1日）ドル対円で週間下落、利回り低下 Ｓ＆Ｐ・ナスダック最高値",
+          "description": "＜為替＞　ドル／円が週間で２月以来の大幅な下落を記録する基調にある。前日に政府・日銀が為替介入を実施したとみられることが背景。\n三村淳財務官は１日、外為市場で投機的な動きが続いているとの見方に変わりはないと発言した。nL6N41E00Q\n三村氏の発言を受け、ドルは対円で約１５７．１円から一時１５５．４９円まで急落したが、その後は下げ幅を一部縮小した。終盤では０．２６％高の１５７．０４円。\n日本が大型連休に入る中、アナリストの間では、当局が再び円を支えるために介入に踏み切る可能​性があるとの見方が出ている。\nユーロは１．１７２１ドルで横ばい。週間ベースでは２週連続の上昇に向かっている。\nポンドは終盤は０．１６％安の１．１３５８０３ドルとなり、４週連続の上昇が途切れる見通し。\nドルは対スイスフランで０．０３％安の０．７８１５０フランとなり、２週‌連続の下落に向かっている。",
+          "url": "https://jp.reuters.com/markets/japan/B5DWOHC46JOARNHQVZQHR2D6JE-2026-05-01/",
+          "source": {
+            "name": "Reuters"
+          },
+          "publishedAt": "2026-05-01T21:21:04Z",
+          "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+          "language": "ja"
+        },
+        {
+          "title": "原因は「BeReal」？ 新入社員“情報漏えいラッシュ”、「SNS禁止」だけでは止まらないワケ：古田拓也「今更聞けないお金とビジネス」",
+          "description": "2026年春、複数の企業で新入社員によるSNS経由の情報漏えいが相次いで報告されている。企業は同対策するべきか。",
+          "url": "https://www.itmedia.co.jp/business/articles/2605/02/news016.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-05-01T21:00:00Z",
+          "image": "https://image.itmedia.co.jp/business/articles/2605/02/cover_news016.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "米国株式市場＝Ｓ＆Ｐとナスダック最高値、好決算・原油安が追い風",
+          "description": "米国株式市場は、堅調な企業決算と原油安を追い風に、Ｓ＆Ｐ総合５００種とナスダック総合が最高値を更新して取引を終えた。ナスダックはハイテク株の上昇が主導。両指数は６週連続で上昇し、週​間ベースでの連騰は２０２４年１０月以来の長さとなった。ただ、ダウ工業株３０種小幅安で終了した。",
+          "url": "https://jp.reuters.com/markets/japan/W7P2QRBTJJKMDANBHPXHIGGIU4-2026-05-01/",
+          "source": {
+            "name": "Reuters"
+          },
+          "publishedAt": "2026-05-01T20:50:24Z",
+          "image": "https://www.reuters.com/resizer/v2/ONX7TABELBM3HBJ7SJ5UQEKXFI.jpg?auth=a135902028f0b4266edb2bcf0b6d99e0c39882ac749df22a11d2f0907f5ddd7b&height=1005&width=1920&quality=80&smart=true",
+          "language": "ja"
+        },
+        {
+          "title": "手越祐也が率いるロックバンド・T.N.T、初の日本武道館公演開催「今からすごくワクワク」【コメント全文】（オリコン）",
+          "description": "歌手・タレントの手越祐也がボーカルを務めるロックバンド・T.N.T（ティー・エヌ・ティー）が、「T.N.T SPECIAL ONEMAN LIVE at 日本武道館『SUPERNOVA』」を202",
+          "url": "https://news.yahoo.co.jp/articles/cc0de897ea859e6f3243e909a942ccb75ff45285",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-01T20:09:43Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00000327-oric-000-6-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "トランプ氏、ＥＵ車関税25％に引き上げ 欧州委「あらゆる選択肢検討」",
           "description": "トランプ米大統領は１日、欧州連合（ＥＵ）は米国との貿易協定を順守していないと主張し、ＥＵから輸入する自動車とトラックにかける関税を来週から２５％に引き上げると表明した。",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-05-01T14:34:00Z",
           "image": "https://img.topics.smt.news.goo.ne.jp/picture/tennis365/m_tennis365-202605_157342.jpg",
           "language": "ja"
-        },
-        {
-          "title": "【指揮官一問一答】ヤクルト・池山隆寛監督、サイクル安打の丸山和郁に「もともとは外野のバックアップだったけど…」 自身も1990年に達成",
-          "description": "（セ・リーグ、ヤクルト16―5DeNA、6回戦、ヤクルト6勝、1日、神宮）ヤクルトはともに今季最多の20安打、16得点で快勝した。「1番・右翼」で先発出場した丸山和郁外野手（26）が史上73人目、78度目のサイクル安打を達成。「2番・中堅…",
-          "url": "https://www.sanspo.com/article/20260501-MYFTZA7LPJL6TN24CNKWQI6KEA/?outputType=theme_swallows",
-          "source": {
-            "name": "サンスポ"
-          },
-          "publishedAt": "2026-05-01T13:23:32Z",
-          "image": "https://www.sanspo.com/resizer/v2/6LK5VHSUKZNGDDABCESA3J3TUU.jpg?auth=20abee5153da4dbabf685da783a2224f3eb12a82ea4ead8ad6a38ad0e4a7e64f&quality=50&focal=1340%2C1515&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "【●虎将トーク】阪神・藤川監督、4戦未勝利の今季の村上「悲観することもない」「まあまあっていう感じ」1番岡城の狙い「それは言えない」",
-          "description": "（セ・リーグ、阪神3ー5巨人、6回戦、巨人4勝2敗、甲子園）阪神が巨人戦3連敗。中5日登板の村上頌樹投手（27）が二回無死からの連続四球と死球で満塁を招き、平山功太内野手（22）の中前打で2点を献上。三回無死一、二塁ではボビー・ダルベック…",
-          "url": "https://www.sanspo.com/article/20260501-DKZMK47BNVLGHFEB35U5AOLB6Y/?outputType=theme_tigers",
-          "source": {
-            "name": "サンスポ"
-          },
-          "publishedAt": "2026-05-01T13:02:17Z",
-          "image": "https://www.sanspo.com/resizer/v2/WIVU6BFKJFM2VK6BMT7EKRN6ZM.jpg?auth=05deefb12aec24cc13446a784f51f7ad998aca9bbdafd6c7aadc8fcceae117da&quality=50&focal=869%2C494&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "【巨人】田中将大、黒田博樹に並ぶ歴代２位の日米通算２０３勝 今季無傷の３連勝…“虎キラー”ダルベック、トップタイ７号３ラン 首位・阪神に１・５ゲーム差",
-          "description": "◆ＪＥＲＡセ・リーグ　阪神３―５巨人（１日・甲子園）\n　巨人が敵地で阪神に完勝し、甲子園では今季３戦３勝とした。先発の田中将大投手が６回途中３失点と試合をつくり、黒田博樹に並ぶ歴代２位の日米通算２",
-          "url": "https://news.yahoo.co.jp/articles/480bbbe188b13192a91ac77c63e10ad7a2d05566",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-01T12:33:55Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260501-05011369-sph-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "福生市“ハンマー殴打”男を逮捕 母親「安心した」 習志野市のアパートに…居住者との関係性わからず",
-          "description": "東京都福生市で、ハンマーで少年を殴るなどし、逃走していた男が1日午後、殺人未遂の疑いで逮捕されました。逮捕を受けて、母親が取材に応じました。",
-          "url": "https://news.ntv.co.jp/category/society/29dda234a55b49ff978a075a2ffd6c55",
-          "source": {
-            "name": "日テレNEWS NNN"
-          },
-          "publishedAt": "2026-05-01T12:30:01Z",
-          "image": "https://news.ntv.co.jp/gimage/n24/articles/2cb5dfa7d2e34a54a0913f61fb0c87fa/20260501-175935-099-ch03-09-5376f1a8-1.jpg?w=1200",
-          "language": "ja"
-        },
-        {
-          "title": "映画『プラダを着た悪魔2』キャストのファッション解説、人気ブランドを着こなす主演2人の衣装",
-          "description": "おしゃれ好きにも、映画好きにも支持される映画『プラダを着た悪魔』。2006年に公開された同作は、ファッション業界を牽引するトップ誌『ランウェイ』に就職したアンドレア(アンディ)・サックスが、カリスマ編...",
-          "url": "https://www.fashion-press.net/news/146001",
-          "source": {
-            "name": "ファッションプレス"
-          },
-          "publishedAt": "2026-05-01T12:00:00Z",
-          "image": "https://www.fashion-press.net/img/news/146001/top.jpg?1777482737",
-          "language": "ja"
-        },
-        {
-          "title": "シームレスに聴き倒せる！極上「オープンイヤータイプイヤホン」7選【大人のための最新オーディオ大全】|au Webポータル",
-          "description": "【大人のための最新オーディオ大全】 ながら聴き需要や安全性志向、フィットネスブームが重なって急成長しているオープンイヤータイプイヤホン。e☆イヤホンのゆーでぃさんは「ユーザーが重視しているのは、装着感",
-          "url": "https://article.auone.jp/detail/1/3/7/177_7_r_20260501_1777636995137625",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-05-01T12:00:00Z",
-          "image": "https://portal.st-img.jp/thumb/4909bafa67a0ea11b11d97892d5708de_1777636995_l.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Alabama Governor Calls Special Session to Adopt New House Maps",
-          "description": "Gov. Kay Ivey said a map that would give Republicans an additional House seat cannot be enacted without Supreme Court action, but she wants to be ready if that happens.",
-          "url": "https://www.nytimes.com/2026/05/01/us/elections/special-session-redistricting-alabama.html",
+          "title": "'The Apprentice' Reboot \"Not In Active Development\" At Amazon, Executive Says",
+          "description": "'The Apprentice' Reboot \"Not In Active Development\" At Amazon, its Head of Unscripted and Documentary Television Jenn Levy said on May 1.",
+          "url": "https://deadline.com/2026/05/the-apprentice-reboot-status-amazon-1236878552/",
           "source": {
-            "name": "The New York Times"
+            "name": "Deadline"
           },
-          "publishedAt": "2026-05-01T19:46:20Z",
-          "image": "https://static01.nyt.com/images/2026/05/01/multimedia/01nat-alabama-redistricting-pbkc/01nat-alabama-redistricting-pbkc-facebookJumbo.jpg",
+          "publishedAt": "2026-05-01T21:59:00Z",
+          "image": "https://deadline.com/wp-content/uploads/2025/03/The-Apprentice.jpg?w=1024",
           "language": "en"
         },
         {
-          "title": "May Day: Akpabio hails Nigerian workers' resilience, patriotism",
-          "description": "The Nation Newspaper May Day: Akpabio hails Nigerian workers' resilience, patriotism",
-          "url": "https://thenationonlineng.net/may-day-akpabio-hails-nigerian-workers-resilience-patriotism/",
-          "source": {
-            "name": "The Nation Newspaper"
-          },
-          "publishedAt": "2026-05-01T19:45:46Z",
-          "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2025/11/04184730/Akpabio.jpg",
-          "language": "en"
-        },
-        {
-          "title": "linked Australian families in Syria",
-          "description": "Four Australian women, their children and grandchildren are stuck in limbo in Syria after leaving a refugee camp for family members of suspected Islamic State fighters. This is what we know about them.",
-          "url": "https://www.abc.net.au/news/2026-05-02/who-are-the-australians-from-al-roj-isis-camp-in-syria/106629466",
-          "source": {
-            "name": "Australian Broadcasting Corporation"
-          },
-          "publishedAt": "2026-05-01T19:41:57Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/203d71fe7b19ddf64e3c1a75eb86a496?impolicy=wcms_watermark_news&cropH=1705&cropW=3031&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-          "language": "en"
-        },
-        {
-          "title": "Rebel checkpoints reported around Mali’s capital, northern town seized",
-          "description": "JNIM and Tuareg separatists continue their attacks against Mali’s military government.",
-          "url": "https://www.aljazeera.com/news/2026/5/1/rebel-checkpoints-reported-mali-capital-town-seized",
-          "source": {
-            "name": "Al Jazeera"
-          },
-          "publishedAt": "2026-05-01T19:41:18Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_69f4ec53-1777658963.jpg?resize=1200%2C675",
-          "language": "en"
-        },
-        {
-          "title": "Worm-like fossils from ancient China reveal odd ancient ecosystem",
-          "description": "Fossils in China reveal early life that predates animals and show that ancient ecosystems were more complex than previously thought",
-          "url": "https://www.earth.com/news/worm-like-fossils-from-ancient-china-open-a-strange-window-into-life-before-animals/",
-          "source": {
-            "name": "Earth.com"
-          },
-          "publishedAt": "2026-05-01T19:41:15Z",
-          "image": "https://cff2.earth.com/uploads/2026/04/29091449/ancient-worm-like-fossils-early-life-china.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Jewish Londoners tell of fear and resilience",
-          "description": "Community reflects on the impact of the Golders Green stabbings and security concerns for London's Jews.",
-          "url": "https://www.bbc.com/news/articles/c74r8nme2pvo",
+          "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+          "description": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+          "url": "https://www.bbc.co.uk/news/articles/c0729d374mxo",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-05-01T19:40:45Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a7d8/live/030bd3f0-4590-11f1-a9a8-25cedec53657.jpg",
+          "publishedAt": "2026-05-01T21:58:05Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a8dd/live/e72463a0-45a8-11f1-8b1d-7de6bec82bf2.jpg",
           "language": "en"
         },
         {
-          "title": "Golders Green attack: Jewish Londoners tell of fear and resilience",
-          "description": "Community reflects on the impact of the Golders Green stabbings and security concerns for London's Jews.",
-          "url": "https://www.bbc.co.uk/news/articles/c74r8nme2pvo",
+          "title": "PM says he has 'nothing more to add' over Peters Iran clash",
+          "description": "Christopher Luxon says he has nothing further to add after a bombshell document release from Winston Peters' office.",
+          "url": "https://www.1news.co.nz/2026/05/01/pm-says-he-has-nothing-more-to-add-over-peters-iran-clash/",
           "source": {
-            "name": "BBC"
+            "name": "1News"
           },
-          "publishedAt": "2026-05-01T19:40:45Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a7d8/live/030bd3f0-4590-11f1-a9a8-25cedec53657.jpg",
+          "publishedAt": "2026-05-01T21:56:50Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/christopher-luxon-and-winston-peters-photo-rnz-samuel-rillst-FKZNAL7F5BEQFPF5LTM3Q5MSJI.jpg?auth=1e544bb28fe0adc2db42459c7f8b50086576df70c9228a36b735c5796748e8dc&quality=70&width=600&height=315&focal=772%2C310",
           "language": "en"
         },
         {
-          "title": "Widespread genetic exchange in disease-causing parasites revealed",
-          "description": "Mississippi State University biologist Matthew W. Brown is part of an international research team whose latest findings, published this spring in the Proceedings of the National Academy of Sciences, are reshaping scientific understanding of how parasitic organisms evolve and ultimately spread disease.",
-          "url": "https://phys.org/news/2026-05-widespread-genetic-exchange-disease-parasites.html",
+          "title": "Solana Price Prediction: Where Is SOL Headed Now?",
+          "description": "Solana is trading near a key support zone after reaching the short term target area on the 4 hour chart. Now, buyers need a strong bounce above the green signal line to show that $SOL",
+          "url": "https://cryptonews.net/news/analytics/32794910/",
           "source": {
-            "name": "Phys.org"
+            "name": "Cryptonews.net"
           },
-          "publishedAt": "2026-05-01T19:40:02Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/insect-bite.jpg",
+          "publishedAt": "2026-05-01T21:56:21Z",
+          "image": "https://cnews24.ru/uploads/75b/75bd7c64e9635e719a1d4fc649f435bd3b7a61d1.jpg",
           "language": "en"
         },
         {
-          "title": "Academy Bans AI Actors & Writers from Award",
-          "description": "The Academy of Motion Picture Arts and Sciences has set new AI Oscars rules, making AI-generated actors and screenplays ineligible for awards.",
-          "url": "https://punchng.com/ai-actors-writers-not-eligible-for-oscars-academy/",
+          "title": "Your smart TV may be tracking everything you watch-Here’s how to stop it",
+          "description": "Smart TVs use ACR to track viewing habits across all inputs, raising privacy concerns for users. Learn how to disable tracking features.",
+          "url": "https://www.consumeraffairs.com/news/your-smart-tv-may-be-tracking-everything-you-watchheres-how-to-stop-it-050126.html",
           "source": {
-            "name": "Punch Newspapers"
+            "name": "ConsumerAffairs"
           },
-          "publishedAt": "2026-05-01T19:39:22Z",
-          "image": "https://cdn.punchng.com/wp-content/uploads/2023/03/13062335/Oscars.jpg",
+          "publishedAt": "2026-05-01T21:56:15Z",
+          "image": "https://media.consumeraffairs.com/files/news/smart_TV_may_be_tracking_everything_you_watch_CA-midj-2026.png",
           "language": "en"
         },
         {
-          "title": "Oscars to Screenwriters: You Gotta Be Human",
-          "description": "The Academy has updated its rules for how artificial intelligence is used, including one that says all screenplays must be humanly created",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/oscars-screenwriters-gotta-human-193825607.html",
+          "title": "Meryl Streep Says 'We Tend to Marvel-ize the Movies Now': 'So Boring'",
+          "description": "Meryl Streep argues that the dominance of superhero storytelling has led to less nuanced character work across the industry.",
+          "url": "https://variety.com/2026/film/news/meryl-streep-marvel-ize-movies-boring-devil-wears-prada-1236735833/",
           "source": {
-            "name": "Yahoo"
+            "name": "Variety"
           },
-          "publishedAt": "2026-05-01T19:38:25Z",
-          "image": "https://s.yimg.com/ny/api/res/1.2/sj80IWn7TjuwpMYbEu2Kfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/rollingstone.com/354d22fe47104141685a4f379f1c41c8",
+          "publishedAt": "2026-05-01T21:56:00Z",
+          "image": "https://variety.com/wp-content/uploads/2026/04/MCDDEWE_WD012.jpg?w=1000&h=563&crop=1",
+          "language": "en"
+        },
+        {
+          "title": "Judge rebukes prosecutors for moving forward with detention proceedings for accused correspondents' dinner gunman",
+          "description": "A federal judge scolded prosecutors for pushing to move forward with detention proceedings for accused correspondents' dinner gunman Cole Allen, even though Allen agreed to remain in custody.",
+          "url": "https://www.cbsnews.com/news/judge-rebukes-prosecutors-accused-correspondents-dinner-gunman/",
+          "source": {
+            "name": "CBS News"
+          },
+          "publishedAt": "2026-05-01T21:54:36Z",
+          "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/28/bbe9f5d4-ae21-4fba-bd04-369dc76edf4d/thumbnail/1200x630g1/6274dc914edd71df514d21c3538b81c2/ec4782b9-795b-4a88-b1de-58f6d33e1c8e.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Peter Kay show stopped and 19-year-old in custody after ‘suspicious bag’ found",
+          "description": "Comedian pulled from stage in Birmingham about 45 minutes into performance and audience told to leave",
+          "url": "https://www.theguardian.com/culture/2026/may/01/peter-kay-show-stopped-and-19-year-old-in-custody-after-suspicious-bag-found",
+          "source": {
+            "name": "The Guardian"
+          },
+          "publishedAt": "2026-05-01T21:54:00Z",
+          "image": "https://i.guim.co.uk/img/media/c3416bf06381d9cee4988be68bf798369d1f273b/0_0_1989_1591/master/1989.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3f4aa76fc93a2421cff44e1cb814f3b5",
+          "language": "en"
+        },
+        {
+          "title": "Megyn Kelly Turns on Trump in Stunning Kimmel Reversal",
+          "description": "Kelly previously condemned Kimmel for his “out of line” jokes.",
+          "url": "https://www.thedailybeast.com/obsessed/megyn-kelly-turns-on-donald-trump-in-stunning-jimmy-kimmel-reversal/",
+          "source": {
+            "name": "The Daily Beast"
+          },
+          "publishedAt": "2026-05-01T21:53:00Z",
+          "image": "https://www.thedailybeast.com/resizer/v2/ZXGAO6BIPRD43IYEVHL6H772VU.png?smart=true&auth=44c8ad9ac85b9caf678a3db4565036d9cf56c0bd5adc3ffe277025f97a8c3496&width=1200&height=630",
+          "language": "en"
+        },
+        {
+          "title": "WWE News, AEW News, Pro Wrestling Backstage News",
+          "description": "Who is Jacob Fatu speaking to?",
+          "url": "https://www.fightful.com/wrestling/jacob-fatu-on-the-phone-with-mystery-caller-ahead-of-wwe-smackdown/",
+          "source": {
+            "name": "Fightful"
+          },
+          "publishedAt": "2026-05-01T21:51:18Z",
+          "image": "https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/03/22073157/jacob-fatu-wwe.jpg?v=20260501214615",
           "language": "en"
         }
       ]
