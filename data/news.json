@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-03T03:25:50.147Z",
+  "updatedAt": "2026-05-03T08:03:15.797Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "学生におくる「学びのツボ」5選 量子・資産形成・デジタルリスク…",
+          "description": "日本経済新聞社の執筆陣が様々な分野の学び方について解説します。大型連休中にも少しだけ「学び」の時間をつくってみませんか。量子力学や数学、お金との付き合い方、デジタル利用の法的リスクなど「学びのツボ」を紹介します。量子力学を知れば未来が見える　極微の世界の法則は常識はずれ量子コンピューターや量子暗号、量子センサー……。「量子」が関係する先端技術のニュースを目にする機会が増えました。人工知能（AI）や核融合とともに、経済や社会を大きく変えうる技術と期待を集めています。基盤となる量子力学は難しい学問ですが、目には見えない世界の法則を知ることは未来の技術を理解する近道になります。…記事を読む",
+          "url": "https://www.nikkei.com/article/DGXZQOCD305Y10Q6A430C2000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-05-02T20:00:00Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2965644030042026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.96&fp-y=0.09&h=630&w=1200&s=0a0928b2032ee9feb2f51e6eb7ba9993",
+          "language": "ja"
+        },
+        {
+          "title": "世界卓球2026ロンドン 大会5日目（5月2日） 女子団体ステージ1A第2マッチ 日本はフランスに勝って2連勝",
+          "description": "「世界卓球2026ロンドン　大会5日目（5月2日）　女子団体ステージ1A第2マッチ　日本はフランスに勝って2連勝」の記事詳細。強くなるためのポイントが満載の卓球情報サイト「卓球レポート」の公式サイトです。世界卓球や全日本卓球などの速報も配信しています。",
+          "url": "https://www.butterfly.co.jp/takurepo/tournament/detail/028177.html",
+          "source": {
+            "name": "バタフライ卓球用品"
+          },
+          "publishedAt": "2026-05-02T19:48:43Z",
+          "image": "https://www.butterfly.co.jp/takurepo/tournament/item/260502-wc-wt2.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "SUPER EIGHT安田章大が発起人のアイドル音楽フェス『The ONE』STARTOアーティストが夢コラボ 大倉忠義もサプライズ出演【代表者コメント】",
+          "description": "ニュース｜　SUPER EIGHTの安田章大が発起人を務めるSTARTO ENTERTAINMENTのライブイベント・アイドル音楽フェス『The ONE ～一音一生～』が2日、横浜アリーナで開催された。安田のほか、WEST.の重岡大毅、神山智洋、濱田崇裕（濱＝異体字）、Travis Japan（宮近海斗、川島如恵留、松倉海斗、B&ZAIが参加のもと、グループの壁を超えて音楽でひとつとなった。　安田とSUPER EIGHT大倉忠義が総合プロデューサーを務めフェス形式で行われた今回のイベントでは“音で語り合う”というコンセプトのもと、それぞれがメインとなるステージに加え、ここだけのコラボパフォーマンスも展開。バンドスタイルが魅力のグループ。ダンスが魅力のグループがかけ合って、すべてのエンターテインメントが凝縮されたロックでPOPなフェスとなった。",
+          "url": "https://www.oricon.co.jp/news/2452374/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-05-02T19:00:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2453000/2452374/20260502_234012_p_o_17996612.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "安田章大、WEST.、トラジャ、B&ZAIがバンドでダンスで続々コラボのSTARTOフェス「The ONE」大倉忠義もサプライズ登場",
+          "description": "安田章大（SUPER EIGHT）が発起人を務めるライブイベント「アイドル音楽フェス The ONE ～一音一生～」の2日目が、昨日5月2日に神奈川・横浜アリーナで開催された。",
+          "url": "https://natalie.mu/music/news/670711",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-05-02T19:00:00Z",
+          "image": "https://ogre.natalie.mu/media/news/music/2026/0503/_Y3_0496-2.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
+        {
+          "title": "ランド・ノリスが王者の貫禄で完勝、ピアストリ2位でマクラーレン1",
+          "description": "マクラーレンが1-2フィニッシュ。アロンソがオーバーテイクを決め、16位完走",
+          "url": "https://jp.motorsport.com/f1/news/formula1-2026-rd4-miami-gp-sprint-race-report/10817352/",
+          "source": {
+            "name": "motorsport.com 日本版｜モータースポーツ情報サイト"
+          },
+          "publishedAt": "2026-05-02T16:54:31Z",
+          "image": "https://cdn-8.motorsport.com/images/amp/25d3VZl0/s6/lando-norris-mclaren-2.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "渡辺美里が7年ぶりアルバム「Birthday」発表、21年ぶり“聖地”でのライブも（写真15枚）",
+          "description": "渡辺美里が昨日5月2日にライブツアー「渡辺美里 ULTRA POP スペシャル ～じゃじゃ馬40th～」のファイナル公演を開催。このライブの中で、ニューアルバム「Birthday」のリリースを発表した。",
+          "url": "https://natalie.mu/music/news/670712",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-05-02T16:03:00Z",
+          "image": "https://ogre.natalie.mu/media/news/music/2026/0503/NZ9_7692.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
         {
           "title": "世界卓球2026ロンドン 大会5日目（5月2日） 男子団体ステージ1Aがスタート 日本はドイツに敗れ、初戦を落とす",
           "description": "「世界卓球2026ロンドン　大会5日目（5月2日）　男子団体ステージ1Aがスタート　日本はドイツに敗れ、初戦を落とす」の記事詳細。強くなるためのポイントが満載の卓球情報サイト「卓球レポート」の公式サイトです。世界卓球や全日本卓球などの速報も配信しています。",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-05-02T12:32:00Z",
           "image": "https://f.image.geki.jp/data/image/news/2560/451000/450589/news_450589_1.jpg?time=20260502213239",
           "language": "ja"
-        },
-        {
-          "title": "菅沼菜々 首位で最終日へ ｜JLPGA｜日本女子プロゴルフ協会",
-          "description": "一般社団法人日本女子プロゴルフ協会(JLPGA)の公式サイトです。",
-          "url": "https://www.lpga.or.jp/news/info/81227",
-          "source": {
-            "name": "日本女子プロゴルフ協会"
-          },
-          "publishedAt": "2026-05-02T12:11:15Z",
-          "image": "https://cdn.lpga.or.jp/lpga/cms/2026/05/02/xl/3e44d2eb517bed6b2280bf72d420d5b66849b254.jpg?1777734513",
-          "language": "ja"
-        },
-        {
-          "title": "【ラウンド速報】井上拓真vs井岡一翔 Lemino（レミノ）ボクシング WBC世界バンタム級タイトルマッチ",
-          "description": "プロボクシング・ダブル世界タイトルマッチ（2日、東京ドーム）〝セミセミ〟となる第5試合のWBC世界バンタム級タイトルマッチは、初防衛を目指す王者の井上拓真（30）＝大橋＝が、同級4位の井岡一翔（37）＝志成＝の挑戦を受ける。井岡が王座を奪…",
-          "url": "https://www.sanspo.com/article/20260502-74UFVCT6DFEGJFLOIMSM7DX7U4/?outputType=theme_fight",
-          "source": {
-            "name": "サンスポ"
-          },
-          "publishedAt": "2026-05-02T11:27:29Z",
-          "image": "https://www.sanspo.com/resizer/v2/QEXJ2HIG6RP45OLDV3MOHMTIXY.jpg?auth=9895041d6b4200d2871e963bb69d4d47f7d4b533c74fe5c5483c339667a116d0&quality=50&focal=1794%2C770&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "「五等分の花嫁」2つの新作アニメを発表、小説「春夏秋冬」のアニメ化と新作OVA（動画あり）",
-          "description": "春場ねぎ「五等分の花嫁」の新作アニメプロジェクトが始動。小説「五等分の花嫁【春夏秋冬】」のTVアニメ化と、新作OVAの制作が発表された。",
-          "url": "https://natalie.mu/comic/news/670692",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-05-02T11:00:00Z",
-          "image": "https://ogre.natalie.mu/media/news/comic/2026/0502/5hanayome_newanimepj_visual.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
-        },
-        {
-          "title": "「横浜国際映画祭」に北村匠海、あの、草川拓弥ら登場！“審査員”丸山隆平は「僕なりに満遍なく」審査（イベントレポート / 写真52枚）",
-          "description": "「第4回 横浜国際映画祭」が5月1日に開幕。本日5月2日に神奈川・赤レンガパークでこの映画祭のレッドカーペットが行われ、丸山隆平（SUPER EIGHT）、北村匠海（DISH//）、草川拓弥（超特急）、あの、高尾颯斗（ONE N' ONLY）、藤原樹...",
-          "url": "https://natalie.mu/music/news/670685",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-05-02T10:25:00Z",
-          "image": "https://ogre.natalie.mu/media/news/music/2026/0502/DSC_4820.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
-        },
-        {
-          "title": "閑散としたモスクワのショッピングモールが物語る、ロシア経済の苦境（CNN.co.jp）",
-          "description": "モスクワ（CNN）　中流階級が暮らすモスクワ郊外の住宅街。きらびやかなショッピングモールのアトリウムには、エネルギッシュなポップミュージックが鳴り響いている。しかし買い物客の賑わいを彩るはずだった音",
-          "url": "https://news.yahoo.co.jp/articles/a183f16674ed7ea32308bd725bb14319f130c5d8",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-02T09:53:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-35247131-cnn-000-3-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "三重県、奈良県、和歌山県で震度4の地震 津波の心配なし",
-          "description": "2日午後6時28分頃、奈良県を震源とするマグニチュード5.7の地震が発生し、三重県、奈良県、和歌山県で最大震度4を観測しました。この地震による津波の心配はありません。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/05/02/38777.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-05-02T09:35:17Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/387/38777/main/20260502183518/large.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Game-Changing HIV Prevention: SA Prepares Rollout of Six-Month Injectable Lenacapavir",
-          "description": "Lenacapavir represents a fundamental shift from traditional HIV prevention strategies, which have largely relied on daily oral pre-exposure prophylaxis (PrEP) or frequent clinical interventions.",
-          "url": "https://www.devdiscourse.com/article/health/3894255-game-changing-hiv-prevention-sa-prepares-rollout-of-six-month-injectable-lenacapavir",
+          "title": "Lando Norris wins Miami Sprint race from Oscar Piastri in huge McLaren statement as F1 title race takes big twist",
+          "description": "McLaren sends huge sprint statement in stunning 1-2 as F1 title race takes big twist",
+          "url": "https://www.foxsports.com.au/motorsport/formula-one/f1-2026-lando-norris-wins-miami-grand-prix-sprint-from-oscar-piastri-in-mclaren-statement-results-finishing-order-video/news-story/79d502c148c2af6f8ddb941b4fe17ba3",
           "source": {
-            "name": "Devdiscourse"
+            "name": "Fox Sports"
           },
-          "publishedAt": "2026-05-02T15:25:42Z",
-          "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_07_2024_04_52_33_8519886.png&width=920&format=jpeg",
+          "publishedAt": "2026-05-02T20:02:06Z",
+          "image": "https://content.api.news/v3/images/bin/56c852659539339908ec79ffbfda4378",
           "language": "en"
         },
         {
-          "title": "Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date",
-          "description": "According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of 25,082 dengue cases have been reported across Sri Lanka so far in 2026.",
-          "url": "https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than",
+          "title": "Guy Montgomery: ‘One fan took us back to his house and showed us all his guns’",
+          "description": "The host of Guy Montgomery’s Guy Mont Spelling Bee on saying goodbye to former sidekick Aaron Chen, how he became friendly with Jacinda Ardern, and his secret to falling asleep",
+          "url": "https://www.theguardian.com/culture/2026/may/02/comedian-guy-montgomery-interview",
           "source": {
-            "name": "Outbreak News Today"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-05-02T15:24:24Z",
-          "image": "https://substackcdn.com/image/fetch/$s_!H82W!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9bbad97a-3546-485f-87d2-913f7768dd0e_515x327.png",
+          "publishedAt": "2026-05-02T20:02:00Z",
+          "image": "https://i.guim.co.uk/img/media/56923e50f38127aa874d2ac239017a7a19efba41/736_0_2808_2247/master/2808.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8bb771d3b39e1813a6d411609d6ae3c9",
           "language": "en"
         },
         {
-          "title": "Iran military official says war with with US ‘likely’ to restart as Trump 'not satisfied' with Tehran's proposal",
-          "description": "The draft proposal was delivered to the US via mediator Pakistan on Thursday evening, the state media reported. | World News",
-          "url": "https://www.hindustantimes.com/world-news/iran-military-official-says-war-with-with-us-likely-to-restart-as-trump-rejects-tehrans-proposal-101777726595563.html",
+          "title": "‘The happiest time of life is as you get older’: can positive thinking help you age better?",
+          "description": "More trips around the sun does not mean inevitable decline, new research suggests – and having a optimistic outlook can even bring improvements",
+          "url": "https://www.theguardian.com/science/2026/may/03/getting-older-ageing-happiest-time-of-life",
           "source": {
-            "name": "Hindustan Times"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-05-02T15:23:42Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/05/02/550x309/US-POLITICS-DINNER-TRUMP-6_1777728760170_1777728774028.jpg",
+          "publishedAt": "2026-05-02T20:02:00Z",
+          "image": "https://i.guim.co.uk/img/media/e9c4a2945c136696ac0a32aaecc24f443d8f5cb7/0_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=219e9696557eb50a034a4c97b499e243",
           "language": "en"
         },
         {
-          "title": "CAF confirm dates for 2027 AFCON",
-          "description": "\"We have worked hard to ensure that the AFCON is held in East Africa, and our commitment remains unwavering.",
-          "url": "https://www.vanguardngr.com/2026/05/caf-confirm-dates-for-2027-afcon/",
+          "title": "Under a cloud: the growing resentment against the massive datacentres sprouting across Australian cities",
+          "description": "Residents say massive, noisy AI factories with unknown environmental impacts are being rushed into development right next to their homes",
+          "url": "https://www.theguardian.com/technology/2026/may/03/ai-datacentres-australia-opposition",
           "source": {
-            "name": "Vanguard News"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-05-02T15:22:11Z",
-          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/04/AFP__20260408__A77M84T__v2__MidRes__FblAfrica2025CafSen.jpg",
+          "publishedAt": "2026-05-02T20:02:00Z",
+          "image": "https://i.guim.co.uk/img/media/598ef0e6661ea75f1a88e26cef9621abfba031e4/776_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=53426bd62a3184c3f096c043dce38451",
           "language": "en"
         },
         {
-          "title": "Arsenal women's player ratings vs Lyon: Lotte Wubben-Moy and Kim Little lapses prove costly as late heartbreak ends the Gunners' Women's Champions League title defence",
-          "description": "Arsenal's Women's Champions League title defence came to an end in Lyon on Saturday, as the eight-time winners exacted their revenge on the Gunners after losing to them at this stage last season.",
-          "url": "https://www.goal.com/en/lists/arsenal-women-player-ratings-lyon-lotte-wubben-moy-kim-little-womens-champions-league-title-defence-ends/blt49523f0977cf4387",
+          "title": "Sydney is awash with shared ebikes. Is Australia finally falling in love with Lime?",
+          "description": "The number of shared ebikes has quadrupled in less than two years, with the lion’s share in Sydney. Operators say they need government help to meet demand",
+          "url": "https://www.theguardian.com/world/2026/may/03/australia-shared-ebikes-lime-bikes",
           "source": {
-            "name": "Goal.com"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-05-02T15:21:57Z",
-          "image": "https://assets.goal.com/images/v3/blt3c377506b496ca42/GOAL%20-%20Multiple%20Images%20-%203%20Stacked%20-%20Facebook.jpg",
+          "publishedAt": "2026-05-02T20:02:00Z",
+          "image": "https://i.guim.co.uk/img/media/04114853da3f0e6d1a6933eacbab8d6f66904731/421_0_2461_1969/master/2461.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa1d7294668f8fda18480420162fe6fb",
           "language": "en"
         },
         {
-          "title": "Arsenal women's player ratings vs Lyon: Lotte Wubben-Moy and Kim Little lapses prove costly as late heartbreak ends the Gunners' Women's Champions League title defence",
-          "description": "Arsenal's Women's Champions League title defence came to an end in Lyon on Saturday, as the eight-time winners exacted their revenge on the Gunners after losing to them at this stage last season.",
-          "url": "https://www.goal.com/en-ng/lists/arsenal-women-player-ratings-lyon-lotte-wubben-moy-kim-little-womens-champions-league-title-defence-ends/blt49523f0977cf4387",
+          "title": "The moment I knew: ‘We didn’t speak the same language but somehow we understood each other’",
+          "description": "When Federica met Oskar, she thought their Google translate-powered romance would be brief, but soon they were planning their future restaurant together",
+          "url": "https://www.theguardian.com/lifeandstyle/2026/may/02/moment-knew-didnt-speak-same-language-understood-each-other",
           "source": {
-            "name": "Goal.com"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-05-02T15:21:51Z",
-          "image": "https://assets.goal.com/images/v3/blt3c377506b496ca42/GOAL%20-%20Multiple%20Images%20-%203%20Stacked%20-%20Facebook.jpg",
+          "publishedAt": "2026-05-02T20:02:00Z",
+          "image": "https://i.guim.co.uk/img/media/6ce8bd93f63ac3cc34fdf01d700a45d28e4fed73/147_0_3206_2564/master/3206.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2df5562c1fceff575b8ebb06fa416fb6",
           "language": "en"
         },
         {
-          "title": "Macroeconomic stability on paper means little without jobs - Danso",
-          "description": "Daniel Danso, former Volta Regional Chairman of the Civil and Local Government Staff Association, Ghana (CLOGSAG), says macroeconomic stability alone is meaningless unless it translates into jobs, increased incomes, and sustainable livelihoods for...",
-          "url": "https://www.ghanaweb.com/GhanaHomePage/business/Macroeconomic-stability-on-paper-means-little-without-jobs-Danso-2032564",
+          "title": "‘Dave is for Dave’: One Nation may gain its first elected MP in Farrer but would he survive in Hanson’s orbit?",
+          "description": "David Farley is not your typical One Nation candidate – restrained on migration and conscious of climate. But history beckons in Saturday’s byelection",
+          "url": "https://www.theguardian.com/australia-news/2026/may/03/farrer-byelection-one-nation-mp-dave-farley-ntwnfb",
           "source": {
-            "name": "GhanaWeb"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-05-02T15:20:53Z",
-          "image": "https://cdn.ghanaweb.com/imagelib/pics/606/60674674.jpg",
+          "publishedAt": "2026-05-02T20:02:00Z",
+          "image": "https://i.guim.co.uk/img/media/17bee274e72762fabcddf23ccf946a4dc2025d5c/499_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a43e0cbdab60c651539e094adcfc26c0",
           "language": "en"
         },
         {
-          "title": "Weather Authority Alert Day: stormy weather continues to bring much-needed rainfall",
-          "description": "While this rain won’t bring much relief to our exceptional and extreme drought, it will help contain the Highway 82 fire in Brantley County. We’ll take all the moisture we can get!",
-          "url": "https://www.news4jax.com/weather/2026/05/02/weather-authority-alert-day-strong-to-severe-storms-expected-throughout-saturday-windy-with-needed-rainfall/",
+          "title": "Toronto police seek suspect after 3 Jewish members fired at with replica gun",
+          "description": "Toronto police are looking for a suspect who allegedly fired a replica firearm at three members of the Jewish community in North York on Thursday.",
+          "url": "https://www.cp24.com/local/toronto/2026/05/02/suspect-in-vehicle-fired-at-jewish-community-members-with-replica-gun-toronto-police/",
           "source": {
-            "name": "News4JAX"
+            "name": "CP24"
           },
-          "publishedAt": "2026-05-02T15:20:42Z",
-          "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/Z6DQN34IRRABBFOC3NS6HBZPV4.png?_a=DATAg1fkZAA0",
+          "publishedAt": "2026-05-02T20:01:58Z",
+          "image": "https://www.cp24.com/resizer/v2/G6MCJ5VBUJDH7ENIYXLCM7HYSE.png?smart=true&auth=e9804d10ac81d90d875b26fa4e18b45e20cf476ae179638ee9ba7cc2d1d29e18&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "US politics, Iran War live: Iran war ‘likely’ to restart, senior Tehran official warns",
-          "description": "Welcome to our live coverage of the US and Israel’s war with Iran.",
-          "url": "https://www.news.com.au/world/middle-east/us-politics-iran-war-live-iran-war-likely-to-restart-senior-tehran-official-warns/live-coverage/493e1994a6f520e06ec98a99f4dc4dd8",
+          "title": "Warriors v Eels player ratings: Speedsters provide missing ingredient as win",
+          "description": "Ben Francis rates the New Zealand Warriors’ performance in their 36-14 win over the Parramatta Eels in Sydney. 1. Taine Tuaupiki - 7 Produced another...",
+          "url": "https://www.nzherald.co.nz/sport/rugby-league/warriors/warriors-v-eels-player-ratings-speedsters-provide-missing-ingredient-as-win-streak-continues/premium/4GDPC6OTEFBO7JQBRF5QDL74OI/",
           "source": {
-            "name": "News.com.au"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-05-02T15:18:56Z",
-          "image": "https://content.api.news/v3/images/bin/eb3838b6a0c09cedfcf8ddf30c2455db",
+          "publishedAt": "2026-05-02T20:01:54Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/DLXCFM7TVND6PNW4E7R4LGNFS4.jpg?auth=be03c9200c0cf981cbf2cc8bfb164893a763fe3de1e75fe7dff1ce4fdb06a182&width=1200&height=675&quality=70&focal=930%2C158&smart=false",
           "language": "en"
         },
         {
-          "title": "Splash Organisation is Seeking a Regional Manager, Behaviour Change",
-          "description": "Splash is an international development organisation established in 2007 and headquartered in Seattle, USA. Over the past 15 years, it has reached nearly one",
-          "url": "https://www.globalsouthopportunities.com/2026/05/02/organisation/",
+          "title": "Telemedicine Visits Tied to Fewer Antibiotics for Respiratory Infections",
+          "description": "Findings for virtual visits with primary care suggested high quality",
+          "url": "https://www.medpagetoday.com/primarycare/uritheflu/121074",
           "source": {
-            "name": "Global South Opportunities"
+            "name": "MedPage Today"
           },
-          "publishedAt": "2026-05-02T15:18:18Z",
-          "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/05/Splash.jpg",
+          "publishedAt": "2026-05-02T20:00:33Z",
+          "image": "https://assets.medpagetoday.net/media/images/121xxx/121074.jpg",
           "language": "en"
         }
       ]
