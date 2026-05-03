@@ -1,10 +1,32 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-03T08:03:15.797Z",
+  "updatedAt": "2026-05-03T10:06:24.225Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "A級戦犯の素顔は…93歳の現代史家・秦郁彦さんが語る東京裁判",
+          "description": "「ははあ、あのへんが裁判官の席」 　天井の高い室内を見回しながら、現代史家の秦郁彦さん（93）はつぶやいた。 　2025年12月、東京・市ケ谷の防衛省。極東国際軍事裁判（東京裁判）が行われた法廷に、秦さんは立っていた。",
+          "url": "https://mainichi.jp/articles/20260501/k00/00m/040/356000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-05-02T21:30:00Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/05/01/20260501k0000m040442000p/0c10.jpg?1",
+          "language": "ja"
+        },
+        {
+          "title": "相葉雅紀、“仲良し後輩”七五三掛龍也に「可愛いなぁ」“あざとポーズ”にタジタジの一幕も",
+          "description": "相葉雅紀が日本各地に出向き、土地の素晴らしさや旬の食材を学んでいく『相葉マナブ』。本日5月3日（日）放送の同番組の舞台は、神奈川県逗子市。ゲストには番組初登場となる七五三掛龍也（Travis Japan）を迎え、小峠英二（バイきんぐ）、岡部大（ハナコ）、",
+          "url": "https://post.tv-asahi.co.jp/post-742802/",
+          "source": {
+            "name": "テレ朝POST"
+          },
+          "publishedAt": "2026-05-02T21:05:40Z",
+          "image": "https://post.tv-asahi.co.jp/wp-content/uploads/2026/05/aib1.jpg",
+          "language": "ja"
+        },
         {
           "title": "学生におくる「学びのツボ」5選 量子・資産形成・デジタルリスク…",
           "description": "日本経済新聞社の執筆陣が様々な分野の学び方について解説します。大型連休中にも少しだけ「学び」の時間をつくってみませんか。量子力学や数学、お金との付き合い方、デジタル利用の法的リスクなど「学びのツボ」を紹介します。量子力学を知れば未来が見える　極微の世界の法則は常識はずれ量子コンピューターや量子暗号、量子センサー……。「量子」が関係する先端技術のニュースを目にする機会が増えました。人工知能（AI）や核融合とともに、経済や社会を大きく変えうる技術と期待を集めています。基盤となる量子力学は難しい学問ですが、目には見えない世界の法則を知ることは未来の技術を理解する近道になります。…記事を読む",
@@ -92,139 +114,117 @@
           "publishedAt": "2026-05-02T14:16:00Z",
           "image": "https://www.jiji.com/news2/kiji_photos/202605/20260502atG6S_o.jpg",
           "language": "ja"
-        },
-        {
-          "title": "2561日ぶりJ1先発…浦和MF安部裕葵、長かったブランクの先で「この7年間くらい、考える習慣がなかったので」",
-          "description": "[5.2 J1百年構想第13節 浦和 2-0 千葉 埼玉]　Jリーグでの先発出場は鹿島アントラーズ時代の2019年4月28日以来2561日ぶり——。度重なる負傷を乗り越えた浦和レッズのMF安部裕葵が23年夏の浦和加入後最長となる62...",
-          "url": "https://web.gekisaka.jp/news/jleague/detail/?450599-450599-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-05-02T14:11:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/451000/450599/news_450599_1.jpg?time=20260502232128",
-          "language": "ja"
-        },
-        {
-          "title": "浦和FW小森飛絢が“チェンジャー”起用で2戦連発! 古巣相手のゴールパフォ反省「決めても喜ばないつもりだった」",
-          "description": "[5.2 J1百年構想第13節 浦和 2-0 千葉 埼玉]　強烈な左足一閃で古巣のゴールをこじ開けた。浦和レッズのFW小森飛絢は1-0で迎えた後半19分、ペナルティエリア外でMF安居海渡からの縦パスを受けると、対面のMF...",
-          "url": "https://web.gekisaka.jp/news/jleague/detail/?450589-450589-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-05-02T12:32:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/451000/450589/news_450589_1.jpg?time=20260502213239",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Lando Norris wins Miami Sprint race from Oscar Piastri in huge McLaren statement as F1 title race takes big twist",
-          "description": "McLaren sends huge sprint statement in stunning 1-2 as F1 title race takes big twist",
-          "url": "https://www.foxsports.com.au/motorsport/formula-one/f1-2026-lando-norris-wins-miami-grand-prix-sprint-from-oscar-piastri-in-mclaren-statement-results-finishing-order-video/news-story/79d502c148c2af6f8ddb941b4fe17ba3",
-          "source": {
-            "name": "Fox Sports"
-          },
-          "publishedAt": "2026-05-02T20:02:06Z",
-          "image": "https://content.api.news/v3/images/bin/56c852659539339908ec79ffbfda4378",
-          "language": "en"
-        },
-        {
-          "title": "Guy Montgomery: ‘One fan took us back to his house and showed us all his guns’",
-          "description": "The host of Guy Montgomery’s Guy Mont Spelling Bee on saying goodbye to former sidekick Aaron Chen, how he became friendly with Jacinda Ardern, and his secret to falling asleep",
-          "url": "https://www.theguardian.com/culture/2026/may/02/comedian-guy-montgomery-interview",
+          "title": "Man charged over bomb hoax after Peter Kay show evacuated",
+          "description": "Arena in Birmingham cleared after report of suspicious bag, with comedian pulled from stage mid-performance",
+          "url": "https://www.theguardian.com/culture/2026/may/02/peter-kay-bomb-hoax-birmingham-man-charged",
           "source": {
             "name": "The Guardian"
           },
-          "publishedAt": "2026-05-02T20:02:00Z",
-          "image": "https://i.guim.co.uk/img/media/56923e50f38127aa874d2ac239017a7a19efba41/736_0_2808_2247/master/2808.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8bb771d3b39e1813a6d411609d6ae3c9",
+          "publishedAt": "2026-05-02T22:06:00Z",
+          "image": "https://i.guim.co.uk/img/media/61abc46aef3209c76e5c28b253fab5320fe6062e/385_0_2658_2126/master/2658.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=82428fa9c8fd1b1b6eb7bd9aa6ea3211",
           "language": "en"
         },
         {
-          "title": "‘The happiest time of life is as you get older’: can positive thinking help you age better?",
-          "description": "More trips around the sun does not mean inevitable decline, new research suggests – and having a optimistic outlook can even bring improvements",
-          "url": "https://www.theguardian.com/science/2026/may/03/getting-older-ageing-happiest-time-of-life",
+          "title": "Flower Moon 2026: Astrophotographers Capture May’s Full Moon in Bloom",
+          "description": "The May 2026 Flower Moon shines across the globe. Explore a collection of astrophotos capturing its many moods and settings.",
+          "url": "https://orbitaltoday.com/2026/05/03/flower-moon-2026-astrophotographers-capture-mays-full-moon-in-bloom/",
           "source": {
-            "name": "The Guardian"
+            "name": "Orbital Today"
           },
-          "publishedAt": "2026-05-02T20:02:00Z",
-          "image": "https://i.guim.co.uk/img/media/e9c4a2945c136696ac0a32aaecc24f443d8f5cb7/0_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=219e9696557eb50a034a4c97b499e243",
+          "publishedAt": "2026-05-02T22:04:55Z",
+          "image": "https://orbitaltoday.com/wp-content/uploads/2026/05/Flower-Moon-in-Bloom3-1.jpg",
           "language": "en"
         },
         {
-          "title": "Under a cloud: the growing resentment against the massive datacentres sprouting across Australian cities",
-          "description": "Residents say massive, noisy AI factories with unknown environmental impacts are being rushed into development right next to their homes",
-          "url": "https://www.theguardian.com/technology/2026/may/03/ai-datacentres-australia-opposition",
+          "title": "Barcelona on verge of Liga title, Villarreal secure top four",
+          "description": "Robert Lewandowski and Ferran Torres took Barcelona to the brink of the La Liga title with late goals to earn them a 2-1 win at Osasuna on Saturday.",
+          "url": "https://www.france24.com/en/live-news/20260502-barcelona-on-verge-of-liga-title-villarreal-secure-top-four",
           "source": {
-            "name": "The Guardian"
+            "name": "France 24"
           },
-          "publishedAt": "2026-05-02T20:02:00Z",
-          "image": "https://i.guim.co.uk/img/media/598ef0e6661ea75f1a88e26cef9621abfba031e4/776_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=53426bd62a3184c3f096c043dce38451",
+          "publishedAt": "2026-05-02T22:03:00Z",
+          "image": "https://s.france24.com/media/display/b52bdeb2-4672-11f1-8a05-005056a97e36/w:1280/p:16x9/c7a8bfe5dff081ada4a91f05b9313255fda6d792.jpg",
           "language": "en"
         },
         {
-          "title": "Sydney is awash with shared ebikes. Is Australia finally falling in love with Lime?",
-          "description": "The number of shared ebikes has quadrupled in less than two years, with the lion’s share in Sydney. Operators say they need government help to meet demand",
-          "url": "https://www.theguardian.com/world/2026/may/03/australia-shared-ebikes-lime-bikes",
+          "title": "'I Wasn't Going to Do Something Illegal' - Reggie Fils-Aimé Remembers the Phone Call That Made Nintendo Stop Working With Amazon During the DS Era",
+          "description": "\"You're not going to push me around.\"",
+          "url": "https://sea.ign.com/nintendo-switch-2-unofficial-name/242280/i-wasnt-going-to-do-something-illegal-reggie-fils-aime-remembers-the-phone-call-that-made-nintendo-s",
           "source": {
-            "name": "The Guardian"
+            "name": "IGN Southeast Asia"
           },
-          "publishedAt": "2026-05-02T20:02:00Z",
-          "image": "https://i.guim.co.uk/img/media/04114853da3f0e6d1a6933eacbab8d6f66904731/421_0_2461_1969/master/2461.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa1d7294668f8fda18480420162fe6fb",
+          "publishedAt": "2026-05-02T22:00:33Z",
+          "image": "https://sm.ign.com/t/ign_ap/news/i/i-wasnt-go/i-wasnt-going-to-do-something-illegal-reggie-fils-aime-remem_nh7v.1200.jpg",
           "language": "en"
         },
         {
-          "title": "The moment I knew: ‘We didn’t speak the same language but somehow we understood each other’",
-          "description": "When Federica met Oskar, she thought their Google translate-powered romance would be brief, but soon they were planning their future restaurant together",
-          "url": "https://www.theguardian.com/lifeandstyle/2026/may/02/moment-knew-didnt-speak-same-language-understood-each-other",
+          "title": "What Mikel Arteta said about Viktor Gyokeres and Myles Lewis-Skelly after Arsenal hammered Fulham",
+          "description": "Viktor Gyokeres and Myles Lewis-Skelly were both in fine form as Arsenal beat Fulham and Mikel Arteta is delighted with both.",
+          "url": "https://www.arsenalinsider.com/news/what-mikel-arteta-said-about-viktor-gyokeres-and-myles-lewis-skelly-after-arsenal-hammered-fulham/",
           "source": {
-            "name": "The Guardian"
+            "name": "Arsenal Insider"
           },
-          "publishedAt": "2026-05-02T20:02:00Z",
-          "image": "https://i.guim.co.uk/img/media/6ce8bd93f63ac3cc34fdf01d700a45d28e4fed73/147_0_3206_2564/master/3206.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2df5562c1fceff575b8ebb06fa416fb6",
+          "publishedAt": "2026-05-02T22:00:28Z",
+          "image": "https://cdn1.arsenalinsider.com/uploads/19/2026/05/GettyImages-2273691802-scaled.jpg",
           "language": "en"
         },
         {
-          "title": "‘Dave is for Dave’: One Nation may gain its first elected MP in Farrer but would he survive in Hanson’s orbit?",
-          "description": "David Farley is not your typical One Nation candidate – restrained on migration and conscious of climate. But history beckons in Saturday’s byelection",
-          "url": "https://www.theguardian.com/australia-news/2026/may/03/farrer-byelection-one-nation-mp-dave-farley-ntwnfb",
+          "title": "How Modern Airspace Closures Quietly Reshuffled Global Aviation",
+          "description": "There have been multiple airspace closures in recent years - what impact have these had on the commercial aviation industry?",
+          "url": "https://simpleflying.com/modern-airspace-closures-reshuffled-global-aviation/",
           "source": {
-            "name": "The Guardian"
+            "name": "Simple Flying"
           },
-          "publishedAt": "2026-05-02T20:02:00Z",
-          "image": "https://i.guim.co.uk/img/media/17bee274e72762fabcddf23ccf946a4dc2025d5c/499_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a43e0cbdab60c651539e094adcfc26c0",
+          "publishedAt": "2026-05-02T22:00:18Z",
+          "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/airspace-closure.jpg?w=1600&h=900&fit=crop",
           "language": "en"
         },
         {
-          "title": "Toronto police seek suspect after 3 Jewish members fired at with replica gun",
-          "description": "Toronto police are looking for a suspect who allegedly fired a replica firearm at three members of the Jewish community in North York on Thursday.",
-          "url": "https://www.cp24.com/local/toronto/2026/05/02/suspect-in-vehicle-fired-at-jewish-community-members-with-replica-gun-toronto-police/",
+          "title": "US airlines step up as Spirit winds down",
+          "description": "Spirit Airlines has shut down immediately, cancelling all flights amid soaring fuel costs and ending customer service.",
+          "url": "https://www.freemalaysiatoday.com/category/highlight/2026/05/03/us-airlines-step-up-as-spirit-winds-down",
           "source": {
-            "name": "CP24"
+            "name": "Free Malaysia Today"
           },
-          "publishedAt": "2026-05-02T20:01:58Z",
-          "image": "https://www.cp24.com/resizer/v2/G6MCJ5VBUJDH7ENIYXLCM7HYSE.png?smart=true&auth=e9804d10ac81d90d875b26fa4e18b45e20cf476ae179638ee9ba7cc2d1d29e18&width=1200&height=630",
+          "publishedAt": "2026-05-02T22:00:07Z",
+          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/05/7831c397-spirit-airline-03052026.webp",
           "language": "en"
         },
         {
-          "title": "Warriors v Eels player ratings: Speedsters provide missing ingredient as win",
-          "description": "Ben Francis rates the New Zealand Warriors’ performance in their 36-14 win over the Parramatta Eels in Sydney. 1. Taine Tuaupiki - 7 Produced another...",
-          "url": "https://www.nzherald.co.nz/sport/rugby-league/warriors/warriors-v-eels-player-ratings-speedsters-provide-missing-ingredient-as-win-streak-continues/premium/4GDPC6OTEFBO7JQBRF5QDL74OI/",
+          "title": "Kate Ceberano, Gurrumul, Spiderbait among 2026 ARIA Hall of Fame inductees",
+          "description": "For the first time in more than a decade, multiple artists are being inducted into the ARIA Hall of Fame.",
+          "url": "https://www.abc.net.au/news/2026-05-03/aria-hall-of-fame-2026-inductees-gurrumul-spiderbait-vika-linda/106632608",
           "source": {
-            "name": "NZ Herald"
+            "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-05-02T20:01:54Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/DLXCFM7TVND6PNW4E7R4LGNFS4.jpg?auth=be03c9200c0cf981cbf2cc8bfb164893a763fe3de1e75fe7dff1ce4fdb06a182&width=1200&height=675&quality=70&focal=930%2C158&smart=false",
+          "publishedAt": "2026-05-02T22:00:07Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/1d4a9e3acf7de45f022964980a8a985a?impolicy=wcms_watermark_news&cropH=788&cropW=1400&xPos=0&yPos=364&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Telemedicine Visits Tied to Fewer Antibiotics for Respiratory Infections",
-          "description": "Findings for virtual visits with primary care suggested high quality",
-          "url": "https://www.medpagetoday.com/primarycare/uritheflu/121074",
+          "title": "Health experts warn untreated STIs driving infertili",
+          "description": "The experts reported a growing number of patients suffering from infections such as gonorrhoea, syphilis and chlamydia, noting that if left untreated, these infections can cause severe reproductive complications, including pelvic inflammatory disease in women and reduced sperm quality in men.",
+          "url": "https://www.newvision.co.ug/category/health/health-experts-warn-untreated-stis-driving-in-NV_232941_052026",
           "source": {
-            "name": "MedPage Today"
+            "name": "NewVision.co.ug"
           },
-          "publishedAt": "2026-05-02T20:00:33Z",
-          "image": "https://assets.medpagetoday.net/media/images/121xxx/121074.jpg",
+          "publishedAt": "2026-05-02T22:00:05Z",
+          "image": "https://newvision-media.s3.amazonaws.com/cms/9ec82726-d644-4050-b3eb-169412939031.jpg",
+          "language": "en"
+        },
+        {
+          "title": "One year on: How three first-term MPs navigate packed schedules, public scrutiny and life on the ground",
+          "description": "A year after GE2025, CNA speaks to three MPs to find out how they have adjusted to life in the public eye.",
+          "url": "https://www.channelnewsasia.com/singapore/ge2025-shawn-loh-hazlina-muhaimin-mp-pap-wp-6095856",
+          "source": {
+            "name": "CNA"
+          },
+          "publishedAt": "2026-05-02T22:00:00Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--RAJ0gHQ---/c_crop,h_1728,w_3072,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/02/img_3817.jpg?itok=mefF98lT",
           "language": "en"
         }
       ]
