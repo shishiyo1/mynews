@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-04T14:05:17.826Z",
+  "updatedAt": "2026-05-04T16:47:42.791Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "メルツ氏、在独米軍削減と自身のトランプ氏批判「何の関連もない」",
+          "description": "【ベルリン=杜師康佑】ドイツのメルツ首相は3日、公共放送ARDで米国が在独米軍5000人を削減すると決めたことについて、自身の過去の米国批判とは「何の関連性もない」と述べた。トランプ米大統領とは「協力関係を諦めない」と強調した。米国防総省は1日、ヘグセス国防長官がドイツに駐留する5000人の米軍部隊を撤収するよう命じたと明らかにしていた。トランプ大統領は2日に「5000人よりもっと多く減らす」",
+          "url": "https://www.nikkei.com/article/DGXZQOGR032E90T00C26A5000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-05-04T04:19:49Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2977108003052026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-y=0.43&h=630&w=1200&s=da10914caae1f81c524c845d355794b3",
+          "language": "ja"
+        },
+        {
+          "title": "マザーボードのランキングは、安定人気のASRockがエントリークラスを中心に上位を占めた！ ソフマップ・ドットコム販売ランキング（4月1日～15日）",
+          "description": "マザーボードのランキングは、安定人気のASRockがエントリークラスを中心に上位を占めた！ PCパーツを買う前に、2026年4月1日～15日に売れたベスト5（ソフマップ・ドットコム協力）をチェックしよう！",
+          "url": "https://ascii.jp/elem/000/004/397/4397812/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-05-04T04:00:00Z",
+          "image": "https://ascii.jp/img/2026/04/24/4457603/xl/a72fd9e9e619550f.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "“3W解禁”とシャフト一新 菅沼菜々、ギア改革でつかんだ浜野連覇【勝者のギア】",
+          "description": "やはり好相性。菅沼菜々が貫禄の独走劇で通算4勝目を果たした。 - 2026 NTTドコモビジネスレディス",
+          "url": "https://www.alba.co.jp/articles/category/tour/jlpga/post/4m6bt9ag-2/",
+          "source": {
+            "name": "ALBA Net"
+          },
+          "publishedAt": "2026-05-04T03:15:04Z",
+          "image": "https://d2bo6f45ymcdv9.cloudfront.net/images/large/0vjE4ul4BcoSGl8km7zf.jpg?ver=52gT",
+          "language": "ja"
+        },
+        {
+          "title": "パスタの「ソース不足問題」に終止符。ホットランドが展開する『ワイルドレッドパスタ』はソースが器から溢れて “ラーメン化” していた",
+          "description": "お店でパスタを食べている時、「ソースが少ないな……」と不満に思ったことはないだろうか。最後の方はほぼ素の麺を食べているような気分になり、なんとも言えない寂しさが …",
+          "url": "https://rocketnews24.com/2026/05/04/2755792/",
+          "source": {
+            "name": "ロケットニュース24"
+          },
+          "publishedAt": "2026-05-04T03:00:20Z",
+          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/04/hwildredp.jpg?w=1200&h=630&crop=1",
+          "language": "ja"
+        },
+        {
+          "title": "再建築不可物件という言葉を知っていますか？【アンケート結果発表】：時事ドットコム",
+          "description": "［株式会社ドリームプランニング］（株）ドリームプランニング（神奈川県横浜市中区／代表取締役：高橋樹人）が運営する不動産のお悩み解決サイト「負動産買取センター」では不動産に興味関心を持つ方を対象に再建築不可物件に関するアンケートを実施「再建築不可物件」という言葉の認知度に関するアンケート調査の背景と目的 再建築不可物件は安価に取得できる反面、建て替えができない致命的な制限を持つ特殊な不動産です。しかし、その意味やリスクを知らないまま相続や購入をしてしまい、後になって「活用や売却を誰に相談すべきか」…",
+          "url": "https://www.jiji.com/jc/article?k=000000108.000118875&g=prt",
+          "source": {
+            "name": "時事ドットコム"
+          },
+          "publishedAt": "2026-05-04T02:46:00Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/118875/108/118875-108-719cb0607c0657015d8b7def2395e9ce-1024x768.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "iPhone基本の「き」 第701回 iPhoneの”便利だけどおせっかい”を減らす方法 - スクショ後のプレビュー画面をスキップする方法",
+          "description": "iPhoneにはユーザーの利便性を考えた様々な機能がありますが、人によってはそれが煩わしく感じられたり、かえって利便性を損ねたりする場合もあるかもしれません。そうした”便利だけどおせっかい”な機能の設",
+          "url": "https://article.auone.jp/detail/1/3/7/37_7_r_20260504_1777861411845959",
+          "source": {
+            "name": "au Webポータル"
+          },
+          "publishedAt": "2026-05-04T02:15:00Z",
+          "image": "https://portal.st-img.jp/thumb/ccb34ac311eb0b1441bfb163d6739af4_1777861411_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Watch LIFE NEWS｜ウオッチライフを楽しむ時計総合ニュースサイト",
+          "description": "スイスの高級時計マニュファクチュールである“IWCシャフハウゼン”は、有人宇宙飛行向けにゼロから設計したツールウオッチ“パイロット・ウォッチ・ベンチュラー・バーティカル・ドライブ”を発表した。",
+          "url": "https://www.powerwatch.jp/2026/05/04/iwc-26/",
+          "source": {
+            "name": "Watch LIFE NEWS"
+          },
+          "publishedAt": "2026-05-04T02:10:19Z",
+          "image": "https://www.powerwatch.jp/wp496/wp-content/uploads/2026/04/IW328601-1.jpg",
+          "language": "ja"
+        },
         {
           "title": "ギャグ漫画『ELDEN RING 黄金樹への道』第82話が公開。突然のメリナとの別れ。褪夫のこれからの旅はどうなる!?",
           "description": "アクションRPG『エルデンリング』をもとにしたギャグ漫画作品『ELDEN RING 黄金樹への道』が、“COMIC Hu（コミックヒュー）”にて2026年5月4日に更新され、新たに第82話が公開となった。",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-05-04T00:33:00Z",
           "image": "https://fnn.ismcdn.jp/mwimgs/e/6/600/img_e60d868e7ed494a8b35e466e1410df477485.jpg",
           "language": "ja"
-        },
-        {
-          "title": "日本代表MF鈴木唯人が激しいファウル受けて負傷交代…フライブルク指揮官が状態説明「あまり良くない」",
-          "description": "フライブルクのMF鈴木唯人が3日、ブンデスリーガ第32節のボルフスブルク戦(△1-1)で右肩付近を痛めて負傷交代を余儀なくされた。　鈴木はUEFAヨーロッパリーグ(EL)準決勝第1戦のブラガ戦に続く先発出場。リーグ...",
-          "url": "https://web.gekisaka.jp/news/world/detail/?450719-450719-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-05-04T00:19:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/451000/450719/news_450719_1.jpg?time=20260504091957",
-          "language": "ja"
-        },
-        {
-          "title": "バークシャー、バフェット氏退任後初の総会 アベル氏「賢明な投資」約束",
-          "description": "米投資会社バークシャー・ハサウェイは２日、著名投資家ウォーレン・バフェット氏が最高経営​責任者（ＣＥＯ）を退いてから初の年次株主総会を開催した。バフェッ‌ト氏の後継者となったグレッグ・アベルＣＥＯは、官僚主義に縛られることなく賢明な投資を行い、巨額の手元資金を運用していくと株主に約束した。",
-          "url": "https://jp.reuters.com/markets/world-indices/5P4BNPAB4ZOTRJDAYMQWK2ZLEE-2026-05-04/",
-          "source": {
-            "name": "Reuters"
-          },
-          "publishedAt": "2026-05-04T00:11:00Z",
-          "image": "https://www.reuters.com/resizer/v2/L33RHPXDZNK7FEIPSF652DIHSI.jpg?auth=1615daf20d695e320fe388f3e8363a7f0bc4ad7bf9e809cfe8059712e707d22e&height=1005&width=1920&quality=80&smart=true",
-          "language": "ja"
-        },
-        {
-          "title": "ASUS「ZenBook SORA 16」レビュー、学生向けから大きくジャンプアップしたSnapdragon X2 Elite ExtremeノートPC",
-          "description": "ASUS JAPANから4月8日に発売された新型ノートPC「ZenBook SORA 16」の実機をお借りできたので、レビューをお送りします。2025年に日本市場向けとして新ブランドとして登場したZenBook SORAシリーズの2026年モデルで",
-          "url": "https://news.livedoor.com/article/detail/31173585/",
-          "source": {
-            "name": "ライブドアニュース"
-          },
-          "publishedAt": "2026-05-04T00:11:00Z",
-          "image": "https://image.news.livedoor.com/newsimage/stf/c/e/ce800_1223_5ac8ad89dd3f1fc027eb7d39b2e36675.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "再建築不可物件という言葉を知っていますか？【アンケート結果発表】",
-          "description": "株式会社ドリームプランニングのプレスリリース（2026年5月4日 09時00分）再建築不可物件という言葉を知っていますか？【アンケート結果発表】",
-          "url": "https://prtimes.jp/main/html/rd/p/000000108.000118875.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-05-04T00:00:01Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/118875/108/118875-108-719cb0607c0657015d8b7def2395e9ce-1024x768.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "再建築不可物件という言葉を知っていますか？【アンケート結果発表】",
-          "description": "産経新聞社のニュースサイト。政治、経済、国際、社会、スポーツ、エンタメ、災害情報などの速報記事と解説記事を掲載しています。",
-          "url": "https://www.sankei.com/pressrelease/prtimes/UVP2QRJLANIM5M3S7QJDZXORFI/",
-          "source": {
-            "name": "産経ニュース"
-          },
-          "publishedAt": "2026-05-04T00:00:00Z",
-          "image": "https://www.sankei.com/resizer/v2/https%3A%2F%2Fdpgdieoe6npux.cloudfront.net%2Fprtimes%2FBE52JHZRBFJTDDCDWNSE7N4EF4?auth=8e82a26a9a8d4c6a4b5623887021709cc1b5126c33f0640bc9dbcd77728ead21&quality=50&smart=true&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "「風、薫る」エンジン全開なバーンズ先生（エマ・ハワード）に朝ドラファン沸く！「ロッテンマイヤー来た」「ジゴク」不潔NGで洋髪強制に（1/2ページ）",
-          "description": "女優の見上愛が一ノ瀬りん、上坂樹里が大家直美という2人のヒロインを演じるNHK連続テレビ小説「風、薫る」（総合など）の第26回が放送された4日、視聴者の間で梅岡女学校付属看護婦養成所にやってきた看護担当の教師・バーンズ（エマ・ハワード）が…",
-          "url": "https://www.iza.ne.jp/article/20260504-36YDG35OYFHJ7CN55KWMUFQOHQ/",
-          "source": {
-            "name": "イザ！"
-          },
-          "publishedAt": "2026-05-03T23:44:28Z",
-          "image": "https://www.iza.ne.jp/resizer/v2/2GDLEYD7BJFX5EXMORKH65AYJM.jpg?auth=c4bff9e38ac6d38c48f8a72cd4c5d981bfffb541d0a3a220c5a5c079cda8d7ed&quality=50&focal=2604%2C1085&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "『JAPAN JAM 2026』5月4日公演が強風の影響で中止 5月5日公演の開催可否については協議中",
-          "description": "『JAPAN JAM 2026』の5月4日公演について、開催中止が発表された。　主催者によると、強風の影響により会場内の安全確保が困難と判断したことに加え、交通機関のダイヤにも大幅な乱れが生じていることから中止を決定したという。参加者、出演アーティスト、スタッフの安全を最優先に考えた結果の判…",
-          "url": "https://realsound.jp/2026/05/post-2385981.html",
-          "source": {
-            "name": "リアルサウンド"
-          },
-          "publishedAt": "2026-05-03T23:31:02Z",
-          "image": "https://realsound.jp/wp-content/uploads/2026/05/20260503-jam-999.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Health Workers Brace For Death By A Thousand Cuts",
-          "description": "Pharmacists expect a reduction in drug dispensing supply and cuts to more effective medicines, ahead of plans to gut health spending by RM4.65 billion (10% of MOH’s budget). Doctors refuse to work for free if on-call claims are barred in allowance cuts.",
-          "url": "https://codeblue.galencentre.org/2026/05/health-workers-brace-for-death-by-a-thousand-cuts/",
+          "title": "Cops prefer intervention measures to save minors from committing crimes after viral Las Piñas video",
+          "description": "Police would prefer intervention plans than law enforcement actions on the minors involved in the viral video of alleged harassment of passengers of a jeepney...",
+          "url": "https://mb.com.ph/2026/05/04/cops-prefer-intervention-measures-to-save-minors-from-committing-crimes-after-viral-las-pinas-video",
           "source": {
-            "name": "CodeBlue"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-05-04T02:04:41Z",
-          "image": "https://codeblue.galencentre.org/wp-content/uploads/2022/12/HRPB-pharmacy-3_nov-2022.jpeg",
+          "publishedAt": "2026-05-04T04:47:40Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/04/98442.webp",
           "language": "en"
         },
         {
-          "title": "We'll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
-          "description": "Within hours he'd thrown up a website — a janky, one-hour job, by his own admission — and by Sunday, 36,000 \"founding patrons\" had pledged nearly $23 million, crashing his servers in the process.",
-          "url": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
+          "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+          "description": "The World Health Organization said one case of hantavirus infection had been confirmed, with five more suspected cases under investigation.",
+          "url": "https://ca.news.yahoo.com/three-die-virus-outbreak-atlantic-183812566.html",
           "source": {
-            "name": "TechCrunch"
+            "name": "Yahoo News Canada"
           },
-          "publishedAt": "2026-05-04T02:02:25Z",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273585200.jpg?resize=1200,800",
+          "publishedAt": "2026-05-04T04:46:00Z",
+          "image": "https://s.yimg.com/os/en/bbc_us_articles_995/985d45818c0fc5508111a2bb023787bb",
           "language": "en"
         },
         {
-          "title": "This Will Be Your BFF If You Hate Airplane Headphones",
-          "description": "Airplane headphones are annoying. Ditch them for good with this affordable, easy-to-use device.",
-          "url": "https://www.buzzfeed.com/leighweingus/this-tiny-device-will-be-your-best-friend-if-you-hate",
+          "title": "India's Modi faces key test as vote count underway",
+          "description": "Vote counting in key Indian state elections was underway Monday under tight security, with the focus on West Bengal, where Prime Minister Narendra Modi's party is hoping for crucial gains.",
+          "url": "https://www.france24.com/en/live-news/20260504-india-s-modi-faces-key-test-as-vote-count-underway",
           "source": {
-            "name": "BuzzFeed"
+            "name": "France 24"
           },
-          "publishedAt": "2026-05-04T02:01:05Z",
-          "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-04/24/20/thumb/yirP3NGJ3.jpg?crop=1690:885;0,31%26downsize=1250:*",
+          "publishedAt": "2026-05-04T04:45:14Z",
+          "image": "https://s.france24.com/media/display/0a3cc874-4774-11f1-be53-005056a90284/w:1280/p:16x9/db2a8b5b389ab969a9fa69ac53ba11bd7d29715f.jpg",
           "language": "en"
         },
         {
-          "title": "Stocks edge up in Asia, oil flat amid Middle East uncertainty",
-          "description": "South Korean stocks catch up with tech rally, S&P futures flat",
-          "url": "https://profit.pakistantoday.com.pk/2026/05/04/stocks-edge-up-in-asia-oil-flat-amid-middle-east-uncertainty/",
+          "title": "The Day After Tomorrow - Forecasters Warn of Dramatic Weather Change",
+          "description": "In the second half of the week, calmer weather is expected, with light winds and moderate temperatures.",
+          "url": "https://news.inbox.eu/1507e0o-the-day-after-tomorrow-forecasters-warn-of-dramatic-weather-change?language=en",
           "source": {
-            "name": "Profit by Pakistan Today"
+            "name": "Inbox.eu"
           },
-          "publishedAt": "2026-05-04T02:00:37Z",
-          "image": "https://profit.pakistantoday.com.pk/wp-content/uploads/2021/10/Profit-logo-round-300x300.jpg",
+          "publishedAt": "2026-05-04T04:45:11Z",
+          "image": "https://news.inbox.eu/w/img/40/a9/40a97da880d7d934cc.webp",
           "language": "en"
         },
         {
-          "title": "truths' against Usaid went global",
-          "description": "Musk, others used Usaid's transparency against it.",
-          "url": "https://m.malaysiakini.com/news/774207",
+          "title": "Chen Hanwei recounts finding out he's adopted: 'My mum was afraid I wouldn't want her anymore'",
+          "description": "Chen Hanwei had suspected he was adopted since he was in his twenties but the confirmation came only years later.The 56-year-old actor, who is a Singapore Permanent Resident, debuted as a sales livestreamer on May 1 and recounted his adoption story in his livestream on May 2.He said: \"I remember when I was in my twenties, I received a call...",
+          "url": "https://www.asiaone.com/entertainment/chen-hanwei-adopted-mother-livestream",
           "source": {
-            "name": "Malaysiakini"
+            "name": "AsiaOne"
           },
-          "publishedAt": "2026-05-04T02:00:28Z",
-          "image": "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2026/05/38cddba21dee7c1cd339d0bb35ec34c7.jpg=s600",
+          "publishedAt": "2026-05-04T04:45:00Z",
+          "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/May2026/260504_Chenhanweiadopted.jpg?itok=UVLw5KDD",
           "language": "en"
         },
         {
-          "title": "How we make it work: Taranaki couple’s three weddings and long Covid love story",
-          "description": "Bill Shera loves telling people he’s been married three times – once out of necessity, once for celebration’s sake and once to renew a commitment made 20...",
-          "url": "https://www.nzherald.co.nz/lifestyle/how-we-make-it-work-taranaki-couples-three-weddings-and-long-covid-love-story/N3V6HPAGABAJ5LZYISLCRC2NSY/",
+          "title": "Fact Check: Claim That PCR Tests Are a Scam Debunked",
+          "description": "Fact check - The claim is not based on scientific facts because it is based on conspiracy theories.",
+          "url": "https://en.tempo.co/read/2101734/fact-check-claim-that-pcr-tests-are-a-scam-debunked",
           "source": {
-            "name": "NZ Herald"
+            "name": "Tempo.co English"
           },
-          "publishedAt": "2026-05-04T02:00:21Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/3SWKGUFWKVE5JE5H3Q5F3RQPNI.jpg?auth=9ccb4235ddfafd45ccb0c1fa97485be52fa4d5a8baf64c8223c1f82124e50397&width=1200&height=675&quality=70&focal=1407%2C1500&smart=false",
+          "publishedAt": "2026-05-04T04:44:26Z",
+          "image": "https://statik.tempo.co/data/2026/05/04/id_1471729/1471729_720.jpg",
           "language": "en"
         },
         {
-          "title": "Aussie council bans controversial parking act in major crackdown",
-          "description": "A council has approved a trial to stop residents from parking trailers and caravans in several streets. Find out how the ban works.",
-          "url": "https://au.news.yahoo.com/aussie-council-bans-controversial-parking-act-in-major-crackdown-020033048.html",
+          "title": "Baby who died on mother's chest not regularly checked by midwife",
+          "description": "The incident occurred when the baby was placed on his mother's chest for breastfeeding and skin-to-skin contact after birth.",
+          "url": "https://www.rnz.co.nz/news/top/594212/baby-who-died-on-mother-s-chest-not-regularly-checked-by-midwife",
           "source": {
-            "name": "Yahoo News Australia"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-05-04T02:00:00Z",
-          "image": "https://s.yimg.com/ny/api/res/1.2/AQdH3..Mg.2HA_GAwymt.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/trailer-parking-changes_1797.png",
+          "publishedAt": "2026-05-04T04:43:24Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--gkuaZlOl--/t_tohu-badge-facebook/v1652056792/4LSIN28_copyright_image_292894?_a=BACCd2AD",
           "language": "en"
         },
         {
-          "title": "Could restructuring water molecules benefit our health?",
-          "description": "Rearranging the geometry of water molecules might be able to affect how it interacts with our body for better health.",
-          "url": "https://www.thestar.com.my/lifestyle/health/womens-world/2026/05/04/could-restructuring-water-molecules-benefit-our-health",
+          "title": "Baby who died on mother's chest not regularly checked by midwife",
+          "description": "The incident occurred when the baby was placed on his mother's chest for breastfeeding and skin-to-skin contact after birth.",
+          "url": "https://www.rnz.co.nz/news/health/594212/baby-who-died-on-mother-s-chest-not-regularly-checked-by-midwife",
           "source": {
-            "name": "The Star"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-05-04T02:00:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/05/01/3887024.png",
+          "publishedAt": "2026-05-04T04:43:24Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--gkuaZlOl--/t_tohu-badge-facebook/v1652056792/4LSIN28_copyright_image_292894?_a=BACCd2AD",
           "language": "en"
         },
         {
-          "title": "ReactOS Gets Unified Installer Image And A New Storage Stack",
-          "description": "Although the ReactOS project is in no rush to dethrone Windows as the desktop operating system of choice, this doesn't mean that some real changes aren't happening. Most recently two big changes got m...",
-          "url": "https://hackaday.com/2026/05/03/reactos-gets-unified-installer-image-and-a-new-storage-stack/",
+          "title": "making session turned into something more",
+          "description": "Guard Against HPV’s Because She Can gathers women for a creative wellness experience rooted in self-care and prevention Mug-making has quietly become a",
+          "url": "https://manilastandard.net/good-life/314735356/this-mug-making-session-turned-into-something-more.html",
           "source": {
-            "name": "Hackaday"
+            "name": "Manila Standard"
           },
-          "publishedAt": "2026-05-04T02:00:00Z",
-          "image": "https://hackaday.com/wp-content/uploads/2025/10/reactos-desktop-had.jpg",
+          "publishedAt": "2026-05-04T04:42:20Z",
+          "image": "https://cdn.manilastandard.net/wp-content/uploads/2026/05/hpv-mug-making.png",
           "language": "en"
         },
         {
-          "title": "House panel to vote on report finalizing VP Sara Duterte impeachment case",
-          "description": "Bookmark this page to watch the livestream on Monday, May 4, at 10 am",
-          "url": "https://www.rappler.com/philippines/video-house-committee-votes-report-approving-sara-duterte-impeachment-case-may-2026/",
+          "title": "Shooting at lakeside party in Oklahoma sends at least 12 to hospitals",
+          "description": "Police and hospital officials say a shooting at a party at a lake near Oklahoma City has sent at least 12 people to hospitals.",
+          "url": "https://apnews.com/article/oklahoma-edmond-arcadia-lake-party-shooting-2bcf01e21af70e114b6132765252a8a1",
           "source": {
-            "name": "Rappler"
+            "name": "AP News"
           },
-          "publishedAt": "2026-05-04T01:58:55Z",
-          "image": "https://www.rappler.com/tachyon/2026/04/congress-hearing-sara-suterte-impeachment-april-29-2026-021-scaled.jpg",
+          "publishedAt": "2026-05-04T04:42:00Z",
+          "image": "https://dims.apnews.com/dims4/default/36ca936/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F35%2F72%2Fff370b63458deb2917c934b15df4%2Fe30207430edf4ddd87d0e1c2f79cd81e",
           "language": "en"
         }
       ]
