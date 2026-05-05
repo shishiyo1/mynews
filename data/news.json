@@ -1,10 +1,32 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-05T02:52:20.203Z",
+  "updatedAt": "2026-05-05T05:45:26.657Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "WACK所属グループASPが解散、5年の活動を終えそれぞれの未来へ（ライブレポート / 写真12枚 / 動画あり）",
+          "description": "WACK所属のガールズグループ・ASPが本日5月4日に東京・Spotify O-WESTにてラストツアー「This is ASP's final tour」の最終公演を開催。約5年にわたる活動に幕を下ろした。",
+          "url": "https://natalie.mu/music/news/670855",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-05-04T14:54:00Z",
+          "image": "https://ogre.natalie.mu/media/news/music/2026/0504/asp_live0504_11.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
+        {
+          "title": "「スター・ウォーズの日」と 『マンダロリアン・アンド・グローグー』の公開を盛大にお祝い！約三千人のSWファンが横浜・みなとみらいに大集結！",
+          "description": "永尾柚乃さん＆森川智之さん＆インパルス板倉さん＆佐々木久美さんがファンと共に「スター・ウォーズの日」と『マンダロリアン・アンド・グローグー』の公開を盛大にお祝い！カウントダウンの瞬間に空が晴れ、陽が差す奇跡も｜『スター・ウォーズ／マンダロリアン・アンド・グローグー』５月22日(金)公開",
+          "url": "https://starwars.disney.co.jp/movie/mandalorian-grogu/news/20260504_02",
+          "source": {
+            "name": "Disney.jp"
+          },
+          "publishedAt": "2026-05-04T14:43:38Z",
+          "image": "https://lumiere-a.akamaihd.net/v1/images/0504_yaa_0223_28a6c2ba.jpeg?region=0%2C91%2C1753%2C987",
+          "language": "ja"
+        },
         {
           "title": "ダイソーの鈴丸ビーズに丸カンを通し、つなげると…… 完成した“高見えアイテム”に「メチャクチャ可愛い」「やってみたくなった」",
           "description": "100円ショップ「ダイソー」のビーズで簡単に作れる“高見えイヤリング”が「可愛いです」「参考になります」とYouTubeで話題です。初心者でも挑戦しやすい丁寧な解説が注目を集めています。https://www.youtube.com/watch?v=RqBhgFx5oAg100均鈴丸ビーズを高見えさせる…",
@@ -92,139 +114,117 @@
           "publishedAt": "2026-05-04T11:43:00Z",
           "image": "https://thedigestweb.com/files/topics/113918_ext_04_0_L.jpg",
           "language": "ja"
-        },
-        {
-          "title": "ドラマ『銀河の一票』を手がけるプロデューサー・佐野亜裕美インタビュー「物語を投じる覚悟」",
-          "description": "『大豆田とわ子と三人の元夫』『エルピス』など数々の話題作を手がけるドラマプロデューサーの佐野亜裕美。彼女が担当",
-          "url": "https://numero.jp/20260504-ayumisano/",
-          "source": {
-            "name": "Numero TOKYO"
-          },
-          "publishedAt": "2026-05-04T11:03:30Z",
-          "image": "https://numero.jp/wp-content/uploads/2026/04/7a02944232f54fcc5457105e6a446f5a.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "アップル「iPhone Ultra」発表か 折りたたみモデルを新ブランドに",
-          "description": "アップルは今後1年のあいだに、新たな2機種を「Ultra（ウルトラ）」ブランドとして展開する予定だという。",
-          "url": "https://ascii.jp/elem/000/004/399/4399759/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-05-04T11:00:00Z",
-          "image": "https://ascii.jp/img/2026/05/01/4461526/xl/89c0e0c80502a3c4.png?20200122",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "stop performance in Guinness World record bid",
-          "description": "The Nation Newspaper Abuja DJ completes 72-hour non-stop performance in Guinness World record bid",
-          "url": "https://thenationonlineng.net/abuja-dj-completes-72-hour-non-stop-performance-in-guinness-world-record-bid/",
+          "title": "Confirmed Line-Ups: Everton vs Manchester City (Premier League)",
+          "description": "Manchester City face Everton at the Hill Dickinson Stadium on Monday night as they look to keep the pressure on Arsenal at the top of the Premier League tablePep Guardiola‘s side enter the game six ...",
+          "url": "https://sports.yahoo.com/articles/confirmed-line-ups-everton-vs-174500767.html",
           "source": {
-            "name": "The Nation Newspaper"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-05-04T14:52:16Z",
-          "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/05/04153322/VDJ-Modi.jpg",
+          "publishedAt": "2026-05-04T17:45:00Z",
+          "image": "https://s.yimg.com/os/en/city_xtra_articles_863/26dc976a358c7e7c61eb34418b800dda",
           "language": "en"
         },
         {
-          "title": "Zambia wants U.S. deal tying health funding to strategic minerals access to be negotiated separately",
-          "description": "Zambia has rejected a U.S. proposal linking health funding to access to its critical minerals | Business Insider Africa",
-          "url": "https://africa.businessinsider.com/local/markets/zambia-wants-us-deal-tying-health-funding-to-strategic-minerals-access-to-be/szefnmx",
+          "title": "In the early 1900s, cavers in Western Australia found massive bones and unearthed Mammoth Cave, a lost world of giant fossils",
+          "description": "Science News: Explore Mammoth Cave in Western Australia, home to unique prehistoric fossils and evidence of ancient human interactions with megafauna. Learn about arboreal kangaroos and the cave's rich history as a palaeontological wonder.",
+          "url": "https://timesofindia.indiatimes.com/science/in-the-early-1900s-cavers-in-western-australia-found-massive-bones-and-unearthed-mammoth-cave-a-lost-world-of-giant-fossils/articleshow/130772408.cms",
           "source": {
-            "name": "Business Insider Africa"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-05-04T14:48:44Z",
-          "image": "https://ocdn.eu/pulscms-transforms/1/o9zktkpTURBXy9lMGM5ZWE0ZjY5M2FjNzY5MjgxYjQzMDcxYzdlMjkwMi5wbmeSlQMNAM0C_M0BrpMFzQSwzQJ2",
+          "publishedAt": "2026-05-04T17:45:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-130773996,width-1280,height-720,imgsize-99336,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Jake Paul responds to Olivia Rodrigo's 'SNL' monologue joke about him",
-          "description": "Jake Paul doesn't mind that his former co-star Olivia Rodrigo made fun of him in her Saturday Night Live monologue.In the monologue, Olivia recalled working with Jake on Disney show called Bizaardvark...",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/jake-paul-responds-olivia-rodrigos-144733526.html",
+          "title": "Dozens of Sask. communities grapple with torrent of spring flooding",
+          "description": "The Saskatchewan Public Safety Agency said there are 15 active local emergencies in the province, with the possibility of more on the way as dozens of communities grapple with a torrent of spring flooding.",
+          "url": "https://www.cbc.ca/news/canada/saskatchewan/spring-flooding-melfort-english-river-roads-washed-out-9.7186776",
           "source": {
-            "name": "Yahoo"
+            "name": "CBC"
           },
-          "publishedAt": "2026-05-04T14:47:33Z",
-          "image": "https://s.yimg.com/os/en/abc_audio_244/ab6bf7258c3cb4463883d4496004c0de",
+          "publishedAt": "2026-05-04T17:44:37Z",
+          "image": "https://i.cbc.ca/ais/60deccce-6b2f-48a2-bf6b-299cbed58580,1777908790828/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3BResize%3D620",
           "language": "en"
         },
         {
-          "title": "Don Little Speaks About His Dating Life: \"I Don't Believe Anyone Can Genuinely Love Me\"",
-          "description": "Kumawood actor Don Little opened up about insecurities affecting his dating life, revealing he doesn't believe anyone can genuinely love him despite his fame.",
-          "url": "https://yen.com.gh/entertainment/celebrities/303922-don-speaks-dating-life-i-dont-genuinely-love/",
+          "title": "2027 Elections: FG reaffirms commitment to press freedom",
+          "description": "commitment to protecting press freedom and ensuring a safe environment for journalists as Nigeria prepares for the 2027 general elections",
+          "url": "https://guardian.ng/news/2027-elections-fg-reaffirms-commitment-to-press-freedom/",
           "source": {
-            "name": "Yen News"
+            "name": "The Guardian Nigeria News"
           },
-          "publishedAt": "2026-05-04T14:47:30Z",
-          "image": "https://cdn.yen.com.gh/images/1200x675/3bcee2a5c9bc38ea.jpeg?v=1",
+          "publishedAt": "2026-05-04T17:43:00Z",
+          "image": "https://cdn.guardian.ng/wp-content/uploads/2026/03/Minister-of-Information-and-National-Orientation-Mohammed-Idris-1.webp",
           "language": "en"
         },
         {
-          "title": "Evacuations planned as suspected hantavirus outbreak traps 150 on ship off Cape Verde",
-          "description": "Medics were working on Monday to evacuate two people with symptoms of the deadly hantavirus after a",
-          "url": "https://ntvkenya.co.ke/news/evacuations-planned-as-suspected-hantavirus-outbreak-traps-150-on-ship-off-cape-verde/",
+          "title": "Kid Cudi Drops M.I.A. From Tour After 'Offensive Remarks' as Opener",
+          "description": "Kid Cudi has dropped M.I.A. from his Rebel Ragers Tour after she made 'offensive remarks' while serving as opener at a recent gig.",
+          "url": "https://www.rollingstone.com/music/music-news/kid-cudi-drops-mia-tour-offensive-remarks-opening-act-1235557235/",
           "source": {
-            "name": "NTV Kenya"
+            "name": "Rolling Stone"
           },
-          "publishedAt": "2026-05-04T14:47:15Z",
-          "image": "https://static.ntvkenya.co.ke/uploads/2026/05/2026-05-04T062510Z_87233319_RC2NJEA5ITP6_RTRMADP_3_CRUISESHIP-HANTAVIRUS-1320x740.jpg",
+          "publishedAt": "2026-05-04T17:42:58Z",
+          "image": "https://www.rollingstone.com/wp-content/uploads/2026/05/kid-cudi-fires-mia.jpg?crop=0px%2C16px%2C1800px%2C1014px&resize=1600%2C900",
           "language": "en"
         },
         {
-          "title": "GTA 6 final push before release causes intense crunch at Rockstar Games",
-          "description": "GTA 6 crunch reports claim quality assurance staff are working late nights as Rockstar pushes to meet its November release deadline.",
-          "url": "https://www.tweaktown.com/news/111433/gta-6-final-push-before-release-causes-intense-crunch-at-rockstar-games/index.html",
+          "title": "Deadly China air crash caused by fuel shut off",
+          "description": "Black box data could bolster claim that jet was intentionally downed, killing 132",
+          "url": "https://www.telegraph.co.uk/us/news/2026/05/04/deadly-china-air-crash-caused-by-fuel-shut-off/",
           "source": {
-            "name": "TweakTown"
+            "name": "The Telegraph"
           },
-          "publishedAt": "2026-05-04T14:47:06Z",
-          "image": "https://static.tweaktown.com/news/1/1/111433_1_gta-6-developers-are-working-until-3am-to-make-the-crunch-before-november-release_full.png",
+          "publishedAt": "2026-05-04T17:42:00Z",
+          "image": "https://www.telegraph.co.uk/content/dam/en-us/news/2026/05/04/TELEMMGLPICT000290415888_17779082473050_trans_NvBQzQNjv4BqBoRgYRM7K8uYQTEhtyslV7cI2NGwkbHrb4X4zjXsAHk.jpeg?impolicy=OG-Standard",
           "language": "en"
         },
         {
-          "title": "Irish flotilla activist claims she was grabbed by the hair and cable-tied by Israeli commandos",
-          "description": "Catriona Graham alleges Israeli forces used violence with impunity when intercepting the Global Sumud Flotilla",
-          "url": "https://www.irishtimes.com/ireland/2026/05/04/irish-flotilla-activist-claims-she-was-grabbed-by-the-hair-and-cable-tied-by-israeli-commandos/",
+          "title": "3rd Annual Findings From Field Symposium Breakthroughs",
+          "description": "Students had the opportunity to practice their science communication skills during the poster session portion of the Findings from the Field",
+          "url": "https://www.miragenews.com/3rd-annual-findings-from-field-symposium-1666998/",
           "source": {
-            "name": "The Irish Times"
+            "name": "Mirage News"
           },
-          "publishedAt": "2026-05-04T14:46:43Z",
-          "image": "https://www.irishtimes.com/resizer/v2/HEWRJZXSNVBT3C5UNPQFFFGPLM.jpeg?smart=true&auth=3a7353874fb9c86432a90ee91c4fb7e2c9958d140cfcab3e6eaeaf919657ebfa&width=1200&height=630",
+          "publishedAt": "2026-05-04T17:42:00Z",
+          "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/Findings_field_symposium_lene.jpg?w=1584&h=1660&fit=clip&crop=faces%2Cfocalpoint",
           "language": "en"
         },
         {
-          "title": "The Next Samsung Laptop Could Actually Make Chromebooks Exciting, for Once",
-          "description": "To compete against the MacBook Neo, Samsung could rely on 'Aluminum OS'—the merging of Android and ChromeOS.",
-          "url": "https://gizmodo.com/the-next-samsung-laptop-could-actually-make-chromebooks-exciting-for-once-2000754122",
+          "title": "Ronald Breaker Named FAS Dean Of Science",
+          "description": "Ronald Breaker, a pioneering biochemist and longtime leader in the sciences at Yale, has been named the next dean of science in Yale's Faculty of Arts",
+          "url": "https://www.miragenews.com/ronald-breaker-named-fas-dean-of-science-1667000/",
           "source": {
-            "name": "Gizmodo"
+            "name": "Mirage News"
           },
-          "publishedAt": "2026-05-04T14:45:50Z",
-          "image": "https://gizmodo.com/app/uploads/2026/01/samsung-galaxybook6-1-1200x675.jpg",
+          "publishedAt": "2026-05-04T17:42:00Z",
+          "image": "https://news.yale.edu/sites/default/files/styles/opengraph_image/public/2026-05/YN_ronald-breaker.jpg?h=8f91226c&itok=yBK9N2zE",
           "language": "en"
         },
         {
-          "title": "Judge tells Trump officials not to cut trees at historic Washington golf course",
-          "description": "A federal judge is telling the U.S. government not to cut down more than 10 trees without first providing notice amid a legal dispute at a historic Washington golf course that President Donald Trump plans to renovate.",
-          "url": "https://apnews.com/article/trump-east-potomac-golf-course-442c7772c96d9574b95bd2dc068694cb",
+          "title": "Apple confirms iOS 26.5 Messages app adds RCS end",
+          "description": "iOS 26.5’s RC is available now, and Apple has confirmed that the update will bring a key RCS upgrade we’ve been waiting for.",
+          "url": "https://9to5mac.com/2026/05/04/apple-confirms-ios-26-5-messages-app-adds-rcs-end-to-end-encryption/",
           "source": {
-            "name": "AP News"
+            "name": "9to5Mac"
           },
-          "publishedAt": "2026-05-04T14:45:00Z",
-          "image": "https://dims.apnews.com/dims4/default/13edcd5/2147483647/strip/true/crop/4597x3063+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3a%2F56%2F614555cda2da4fb3c0ede88dc47d%2F5df1d7912eaf43ed9e2a8a88257288a9",
+          "publishedAt": "2026-05-04T17:41:00Z",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/messages-app-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
           "language": "en"
         },
         {
-          "title": "Smaller Than Earth Habitability Model (STEHM): The Lower Size Limit for Atmosphere Retention in the Habitable Zone",
-          "description": "Welcome to Astrobiology.com",
-          "url": "https://astrobiology.com/2026/05/smaller-than-earth-habitability-model-stehm-the-lower-size-limit-for-atmosphere-retention-in-the-habitable-zone.html",
+          "title": "US Destroys 6 Iranian Small Boats, Shoots Down Missiles And Drones",
+          "description": "US Admiral Brad Cooper said he \"strongly advised\" Iranian forces to remain clear of US military assets as it launches the operation.",
+          "url": "https://www.ndtv.com/world-news/us-israel-iran-war-us-destroys-6-iranian-small-boats-shoots-down-missiles-and-drones-11449106",
           "source": {
-            "name": "astrobiology.com"
+            "name": "NDTV"
           },
-          "publishedAt": "2026-05-04T14:44:18Z",
-          "image": "https://astrobiology.com/wp-content/uploads/2026/05/Smaller-Than-Earth.png",
+          "publishedAt": "2026-05-04T17:40:45Z",
+          "image": "https://c.ndtvimg.com/2026-04/polsoeik_us-missiles-afp_625x300_24_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
           "language": "en"
         }
       ]
