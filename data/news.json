@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-06T03:21:27.748Z",
+  "updatedAt": "2026-05-06T08:28:49.754Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "メガドンキの片隅に置かれていた「ご自由にお持ち帰りください」コーナー 意外な中身に目を疑う",
+          "description": "MEGAドン・キホーテ（メガドンキ）で無料提供されていたものが、Threadsで話題になっています。\n投稿したのは、「@knj41jp」さんです。\n当ポストは執筆時点で20万件を超えて表示されて",
+          "url": "https://news.yahoo.co.jp/articles/0cbb5e5f80ea046f5f24ac29a63cc96218bbb18e",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-05T20:23:42Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260506-00122831-toushin-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "京都男児遺体、父親を殺人容疑で再逮捕へ 関係性めぐりトラブルか",
+          "description": "京都府南丹市の山中に市立園部小の安達結希（ゆき）さん（当時11）の遺体が遺棄された事件で、父親の安達優季（ゆうき）容疑者（37）=死体遺棄容疑で逮捕=と結希さんの間に、関係性をめぐるトラブルがあった…",
+          "url": "https://www.asahi.com/articles/ASV553RX4V55PTIL003M.html",
+          "source": {
+            "name": "朝日新聞"
+          },
+          "publishedAt": "2026-05-05T20:00:00Z",
+          "image": "https://imgopt.asahi.com/ogp/AS20260505003097_comm.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "対イラン軍事作戦の目的達成、ホルムズ開放は「防衛作戦」＝米国務長官（ロイター）",
+          "description": "Steve Holland\n［ワシントン　５日　ロイター］ - - ルビオ米国務長官は５日の記者会見で、米軍の対イラン軍事作戦について、濃縮ウランの確保がまだ実現していないにもかかわらず、目的を達",
+          "url": "https://news.yahoo.co.jp/articles/9702e903ee3ad4e01f0b846c21a5ad0edb8713fb",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-05T19:35:59Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260506-00000010-reut-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "ハンタウイルス、クルーズ船でヒト間感染の可能性 一般へのリスク低いとＷＨＯ",
           "description": "世界保健機関（ＷＨＯ）は５日、ハンタウイルスの感染を確認または感染の疑いがある症例が７人発生したクルーズ船で、ヒトからヒトへの感染が起きた可能性があると​の見解を示した。その上で一般市民へのリスクは低いと改めて表明した。",
@@ -81,150 +114,117 @@
           "publishedAt": "2026-05-05T09:52:53Z",
           "image": "https://www.tv-tokyo.co.jp/tabletennis/assets/2026/05/MD_W%20%282%29-thumb-1920x1280-60113.jpg",
           "language": "ja"
-        },
-        {
-          "title": "「Claude Mythos」を開発したアンソロピックCEOが断言「AIバブルはまだまだスケールしていく」",
-          "description": "英紙「フィナンシャル・タイムズ」の記者が昼食を共にしながらインタビューする人気連載に、AI開発の最前線に立つアンソロピックCEOダリオ・アモデイが登場。限定公開した「Mythos」の可能性とリスクか",
-          "url": "https://news.yahoo.co.jp/articles/aeb15e5c4b5d911194d933ada001a08a09ed59ec",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-05T09:40:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-00000004-courrier-000-3-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【ボクシング】井上尚弥と中谷潤人、濃密な12Rを振り返る──尚弥「望む声があるなら第2弾も全然あり」（ゴング格闘技）",
-          "description": "2026年5月2日（土）、東京ドームにて『THEDAY』（Lemino配信）が開催された。\n　5万5千人を集めた同大会のメインイベントでは、32戦全勝同士、日本ボクシング史上最高のスーパーファイ",
-          "url": "https://news.yahoo.co.jp/articles/1e7f833a3a7a2bd0723bafcac4b15fba0d49600f",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-05T09:29:05Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-00010001-gkakutogi-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "なこなこカップル離婚理由は？なごみ・こーくんの現在と今後",
-          "description": "人気YouTuberなこなこカップルが離婚を発表。9年の関係に何があったのか。なごみ・こーくんの現在と背景を整理。",
-          "url": "https://coki.jp/article/column/76658/",
-          "source": {
-            "name": "coki.jp"
-          },
-          "publishedAt": "2026-05-05T09:05:24Z",
-          "image": "https://coki.jp/wp-content/uploads/2026/05/ef9f6d1cf435dddc47f7cbf1754a9d28.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "The Supreme Court may force Trump to take a position on mifepristone",
-          "description": "The return of abortion to the Supreme Court is testing President Donald Trump’s strategy of avoiding the issue as the anti-abortion advocates grow increasingly frustrated that his administration hasn’t done more to crack down on access to mifepristone, the drug approved to terminate pregnancies.",
-          "url": "https://www.cnn.com/2026/05/05/politics/mifepristone-abortion-trump-political-pressure",
+          "title": "Sabalenka believes players will boycott grand slams to ‘fight for our rights’",
+          "description": "Aryna Sabalenka believes that the top tennis players will boycott grand slam tournaments in an attempt to resolve their dispute with the four events",
+          "url": "https://www.theguardian.com/sport/2026/may/05/aryna-sabalenka-tennis-grand-slam-boycott-prize-money",
           "source": {
-            "name": "CNN"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-05-05T15:21:12Z",
-          "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2257839081.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2026-05-05T20:28:00Z",
+          "image": "https://i.guim.co.uk/img/media/06e16bea3312b3b7e93a057c8d90745a2b00edb0/651_0_3253_2603/master/3253.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bd65a30bd5f248150698166259539379",
           "language": "en"
         },
         {
-          "title": "TVK chief Vijay has requested Congress support to form TN govt: KC Venugopal",
-          "description": "TVK emerged as the single largest party in the assembly elections, winning 108 seats, but remains 10 short of the majority mark needed to stake claim to power.| India News",
-          "url": "https://www.hindustantimes.com/india-news/tvk-chief-vijay-has-reached-out-to-congress-seeking-support-to-form-govt-in-tamil-nadu-says-kc-venugopal-101777994183257.html",
+          "title": "Thierno Barry provides human touch with fresh twist in title race full of uncertainties",
+          "description": "Manchester City did not choke at Everton to hand Arsenal the advantage but it was another reminder the Premier League’s random qualities are still key",
+          "url": "https://www.theguardian.com/football/2026/may/05/manchester-city-arsenal-premier-league-pep-guardiola-mikel-arteta",
           "source": {
-            "name": "Hindustan Times"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-05-05T15:20:24Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/05/05/550x309/ANI-20260504390-0_1777986991530_1777987032557_1777994514052.jpg",
+          "publishedAt": "2026-05-05T20:28:00Z",
+          "image": "https://i.guim.co.uk/img/media/0ca4c7fdec257339ed599bc681665846fc756f4e/44_0_3759_3007/master/3759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=1eafed2f7e295a00add7fa23048cea35",
           "language": "en"
         },
         {
-          "title": "Kaspersky suspects Chinese hackers planted a backdoor into Daemon Tools in 'widespread' attack",
-          "description": "The cybersecurity company says it's seen thousands of infection attempts, and at least a dozen successful hacks after users installed malicious versions of the popular Windows software.",
-          "url": "https://techcrunch.com/2026/05/05/kaspersky-suspects-chinese-hackers-planted-a-backdoor-into-daemon-tools-in-widespread-attack/",
+          "title": "Xbox To Retire Features That Don't Align With Future Plans, Starting With Copilot AI",
+          "description": "\"We will stop development of Copilot on console\" - Following reports earlier today that Asha Sharma had hired new leaders for Team Xbox, the boss has shared ...",
+          "url": "https://www.purexbox.com/news/2026/05/xbox-to-retire-features-that-dont-align-with-future-plans-starting-with-copilot-ai",
           "source": {
-            "name": "TechCrunch"
+            "name": "Pure Xbox"
           },
-          "publishedAt": "2026-05-05T15:20:24Z",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-591881449.jpg?resize=1200,799",
+          "publishedAt": "2026-05-05T20:27:00Z",
+          "image": "https://images.purexbox.com/745a09b9e6139/large.jpg",
           "language": "en"
         },
         {
-          "title": "Understanding how lasers can rapidly magnetize fusion plasmas",
-          "description": "The mechanism that can cause a rapidly expanding plasma—the superhot state of matter harnessed in fusion energy systems—to spontaneously generate its own magnetic fields was identified through a new set of simulations. This improves our understanding of naturally occurring plasmas in our universe and advances the development of fusion systems based on an approach called direct-drive inertial fusion.",
-          "url": "https://phys.org/news/2026-05-lasers-rapidly-magnetize-fusion-plasmas.html",
+          "title": "5 things to watch on the ASX 200 on Wednesday",
+          "description": "Computershare Ltd (ASX: CPU) and WiseTech Global Ltd (ASX: WTC) shares will be on watch on the ASX 200 on Wednesday...",
+          "url": "https://www.fool.com.au/2026/05/06/5-things-to-watch-on-the-asx-200-on-wednesday-06-may-2026/",
           "source": {
-            "name": "Phys.org"
+            "name": "The Motley Fool Australia"
           },
-          "publishedAt": "2026-05-05T15:20:07Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/understanding-how-lase.jpg",
+          "publishedAt": "2026-05-05T20:27:00Z",
+          "image": "https://www.fool.com.au/wp-content/uploads/2021/04/Wheelchair-watching-stocks-1200x675.jpg",
           "language": "en"
         },
         {
-          "title": "Blue Origin moon lander completes testing at NASA vacuum chamber",
-          "description": "Also known as Endurance, MK1 is an uncrewed cargo lander. It's a commercial demonstration mission to advance Human Landing System capabilities in support of NASA's Artemis program. The tests in Chamber A represent a public-private partnership model, with Blue Origin conducting work through a reimbursable Space Act Agreement.",
-          "url": "https://phys.org/news/2026-05-blue-moon-lander-nasa-vacuum.html",
+          "title": "Patriots Urge Present Generation to Replicate Glorious Victory with Development",
+          "description": "Addis Ababa, May 5, 2026 (ENA) —The present generation should repeat the victory achieved by their forefathers in protecting the sovereignty and territorial integrity of the country with development, members of the Ethiopian Patriots Association said.\nThe 85th Victory Day was celebrated at the Victory Monument Square in Arat Kilo, Addis Ababa today.\nSpeaking to ENA on the occasion, Mekonnen Meshesha, a patriot, said our forefathers and foremothers have protected the sovereignty of the country with great sacrifice and handed it over to the current generation.\nAccording to him, this precious price paid for sovereignty has become a symbol of freedom not only for Ethiopians but also for oppressed peoples of the world.\nMekonnen further stated that this victory and dignity can have a lasting meaning when the present generation repeats the glorious victory achieved by their forefathers through development.\nThe generation has the responsibility to hand over to the future generation the country that they inherited, the patriot added.\nTherefore, he advised the generation to hand over Ethiopia to the next generation with dignity by getting educated and working tirelessly day and night.\nSimilarly, the other patriot, Sergeant Dibaba Chala noted that since heroism is not only limited to battlefields; the youths have to collaborate in making poverty history.\nThe other patriot, Yidnekachew Bantemulu, said the youths have to protect the country and develop it equipped with the valor of their forefathers.\nFor her part, the patriot Seble Nigatu commended the youths for engaging in development and innovation, encouraging them to strengthen their activities.",
+          "url": "https://www.ena.et/web/eng/w/eng_8782308",
           "source": {
-            "name": "Phys.org"
+            "name": "ENA English"
           },
-          "publishedAt": "2026-05-05T15:20:04Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/blue-origin-moon-lande.jpg",
+          "publishedAt": "2026-05-05T20:26:14Z",
+          "image": "https://www.ena.et/documents/42142/0/687039305_1443861414452135_1220397844798109357_n.jpg/0b27e5bf-913f-edef-d808-ca7a66bb8c25?version=1.0&t=1778012654806&download=true",
           "language": "en"
         },
         {
-          "title": "Scientists rewrite human history with recent groundbreaking DNA discovery",
-          "description": "For decades, scientists believed modern humans came from one ancestral group in Africa.",
-          "url": "https://www.uniladtech.com/science/news/scientists-rewrite-human-history-dna-854130-20260505",
+          "title": "Truist Championship props: Bank on another strong performance from Si Woo Kim at Quail Hollow",
+          "description": "Multiple prop bet opportunities flood the market at DraftKings Sportsbook this week at the Truist Championship outside Charlotte. Following a one-year absence,",
+          "url": "https://www.pgatour.com/article/news/betting-dfs/2026/05/05/best-bets-props-picks-draftkings-fantasy-golf-advice-truist-championship-xander-schauffele-rory-mcilroy-si-woo-kim",
           "source": {
-            "name": "UNILAD Tech"
+            "name": "PGA Tour"
           },
-          "publishedAt": "2026-05-05T15:19:38Z",
-          "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltb5d92757ac1ee045/blt3788452e2e17d0d6/69fa0a161ba8173781d46551/dna-discovery-rewrite.png?crop=1200,675,x0,y0",
+          "publishedAt": "2026-05-05T20:26:13Z",
+          "image": "https://res.cloudinary.com/pgatour-prod/w_1200,h_628,c_fill,f_auto,q_auto/pgatour/news/editorial/2026/05/05/siwookim-props.jpg",
           "language": "en"
         },
         {
-          "title": "Off Path Tourist Villages Increasingly Popular With Bali Holidaymakers",
-          "description": "There is one kind of day trip that we see is missing from the Bali travel trending reels, and that is tourism villages.",
-          "url": "https://thebalisun.com/off-path-tourist-villages-increasingly-popular-with-bali-holidaymakers/",
+          "title": "'We Need To Evolve How We Work' - Xbox CEO Announces She's Bringing In New Leaders",
+          "description": "To address consumer and technical expertise - Xbox boss Asha Sharma is making another major move today, as she's reportedly told employees in a company memo ...",
+          "url": "https://www.purexbox.com/news/2026/05/we-need-to-evolve-how-we-work-xbox-ceo-announces-shes-bringing-in-new-leaders",
           "source": {
-            "name": "The Bali Sun"
+            "name": "Pure Xbox"
           },
-          "publishedAt": "2026-05-05T15:19:31Z",
-          "image": "https://thebalisun.com/wp-content/uploads/2026/05/Off-Path-Tourist-Villages-Increasingly-Popular-With-Bali-Holidaymakers-.jpg",
+          "publishedAt": "2026-05-05T20:26:00Z",
+          "image": "https://images.purexbox.com/d5c2c6b196157/large.jpg",
           "language": "en"
         },
         {
-          "title": "Man who killed pensioner with ‘back spin kick’ jailed for five years",
-          "description": "Charles McCaughley (69) was ‘going home with a bag of chips’ when attacked by Joshua Rush in Dublin in 2021",
-          "url": "https://www.irishtimes.com/crime-law/courts/2026/05/05/man-who-killed-pensioner-with-back-spin-kick-jailed-for-five-years/",
+          "title": "Police say shooting at shopping center outside Dallas leaves 2 dead, 3 injured",
+          "description": "It was not a random act of violence and the attacker knew the victims, Carrollton Police Chief Roberto Arredondo said.",
+          "url": "https://www.pbs.org/newshour/nation/police-say-shooting-at-shopping-center-outside-dallas-leaves-2-dead-3-injured",
           "source": {
-            "name": "The Irish Times"
+            "name": "PBS"
           },
-          "publishedAt": "2026-05-05T15:19:13Z",
-          "image": "https://www.irishtimes.com/resizer/v2/JRDKP4XCFVXGQMFB7KB3MIOUTM.jpg?smart=true&auth=ee8711b959e6d5388c1149f2a57bfc809a9d2b08a80ed05b6195e96ab928f1b5&width=1200&height=630",
+          "publishedAt": "2026-05-05T20:25:29Z",
+          "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/03/2021-01-17T163923Z_220380404_MT1USATODAY15446809_RTRMADP_3_NEWS-INAUGURATION-HEIGHTENED-SECURITY-AND-INAUGURATION-PREPARATION-IN-WASHINGTON-DC-1024x587.jpg",
           "language": "en"
         },
         {
-          "title": "Veteran film producer RB Choudary dies in fatal car crash near Udaipur; Rajinikanth mourns his friend's loss",
-          "description": "Veteran film producer RB Choudary has died in a fatal car crash near Udaipur on Tuesday. Reports suggest the accident took place around 3 pm. The exac.",
-          "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/veteran-film-producer-rb-choudhary-dies-in-fatal-car-crash-near-udaipur-rajinikanth-mourns-his-friends-loss/articleshow/130832741.cms",
+          "title": "Oil execs, climate groups decry slow pace of Alberta MOU, though differ on carbon tax",
+          "description": "Five of Canada’s largest oilsands producers and clean energy groups are separately criticizing the federal and Alberta governments for slow progress on finalizing aspects of the energy deal signed last year.",
+          "url": "https://www.bnnbloomberg.ca/business/2026/05/05/oil-execs-climate-groups-decry-slow-pace-of-alberta-mou-though-differ-on-carbon-tax/",
           "source": {
-            "name": "The Times of India"
+            "name": "BNN Bloomberg"
           },
-          "publishedAt": "2026-05-05T15:17:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-130832780,width-1280,height-720,imgsize-72190,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-05-05T20:25:02Z",
+          "image": "https://www.bnnbloomberg.ca/resizer/v2/CLHAYU7GWCUXYQAC46OG34M74E.jpg?smart=true&auth=5fa84ddfd558642ffd416cbcbd506396c7b806aacb64c478382a389e3d4d0fa0&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Ganduje recognises Sanusi as Emir of Kano",
-          "description": "Former Kano State Governor, Abdullahi Umar Ganduje, on Tuesday, publicly recognised Alhaji Muhammadu Sanusi II as the Emir of Kano and Chairman of the Kano...",
-          "url": "https://dailytrust.com/breaking-ganduje-recognises-sanusi-as-emir-of-kano/",
+          "title": "How the Met Gala Transformed Into the Tacky 'Bezos Ball'",
+          "description": "The Met Gala has been cheapened by the mark of Jeff Bezos and a general decline in Hollywood's creative output",
+          "url": "https://variety.com/2026/scene/columns/met-gala-2026-tacky-jeff-bezos-lauren-sanchez-bad-bunny-1236738216/",
           "source": {
-            "name": "Daily Trust"
+            "name": "Variety"
           },
-          "publishedAt": "2026-05-05T15:16:08Z",
-          "image": "https://dailytrust.com/wp-content/uploads/2021/06/Ganduje-1.jpg",
+          "publishedAt": "2026-05-05T20:24:00Z",
+          "image": "https://variety.com/wp-content/uploads/2026/05/GF1_0439.jpg?w=1000&h=563&crop=1",
           "language": "en"
         }
       ]
