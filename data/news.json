@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-06T14:17:36.191Z",
+  "updatedAt": "2026-05-06T16:42:51.957Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "韓国株、半導体株主導で最高値更新 サムスンが「1兆ドルクラブ」入り",
+          "description": "６日午前の韓国株式市場では、人工知能（ＡＩ）関連の旺盛​な需要を背景に半導体株が上昇‌し、総合株価指数（ＫＯＳＰＩ）が初めて７０００を突破し最高値を更新。サムスン電子の時価総額が１兆​ドルの大台を突破した。",
+          "url": "https://jp.reuters.com/markets/japan/NO2WWHYGX5NUVHKCOVRHQNLCJM-2026-05-06/",
+          "source": {
+            "name": "Reuters"
+          },
+          "publishedAt": "2026-05-06T03:03:00Z",
+          "image": "https://www.reuters.com/resizer/v2/BZWMNV3ZZVKF7PYOSINSZDTBTI.jpg?auth=5bbb1b860728e947100afe28aa990a95c6e302061768c8cbad9964f5da3c2d44&height=1005&width=1920&quality=80&smart=true",
+          "language": "ja"
+        },
+        {
+          "title": "Apple Intelligence、iOS 27で好みのサードパーティAIモデルを使用可能になるかも？",
+          "description": "アップルの次期バージョンのOSでは、ユーザーがApple Intelligenceで使用するAIモデルを選択可能になるかもしれません。",
+          "url": "https://www.techno-edge.net/article/2026/05/06/5042.html",
+          "source": {
+            "name": "テクノエッジ TechnoEdge"
+          },
+          "publishedAt": "2026-05-06T03:02:53Z",
+          "image": "https://www.techno-edge.net/imgs/ogp_f/31242.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ビュッフェを「好きな分だけ持ち帰る」という合理性 / 神戸クック・ワールドビュッフェが示す『新しい食べ放題』の在り方",
+          "description": "みんな大好き「業務スーパー」。その運営元である「神戸物産」が、実は外食事業にも力を入れているのをご存知だろうか？　スイーツビュッフェで人気の「プレミアムカルビ …",
+          "url": "https://rocketnews24.com/2026/05/06/2757914/",
+          "source": {
+            "name": "ロケットニュース24"
+          },
+          "publishedAt": "2026-05-06T03:00:36Z",
+          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/05/cookworld.jpg?w=1200&h=630&crop=1",
+          "language": "ja"
+        },
+        {
+          "title": "今秋登場と噂のiPhone 18、「無印」は「e化」する？ 低価格帯製品を充実させる可能性あるか",
+          "description": "2026年9月の発売が噂されるiPhone18シリーズ。そのうちの一つ、いわゆる「無印」のiPhone 18が「e化」するという観測が出てきた。\n　どういう意味か？\n　iPhoneには16から",
+          "url": "https://news.yahoo.co.jp/articles/95f6da33039f8790995a1a0bcf433394273cc54d",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-06T03:00:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260506-00000006-jct-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "ボーズ、「ホームオーディオを再定義」スマートスピーカーやサウンドバーを組み合わせる、新Lifestyleコレクション",
+          "description": "ボーズは米国時間の5日、「ホームオーディオを再定義する」というLifestyleコレクションを発表した。ワイヤレスのスマートスピーカー、サウンドバー、サブウーファーをラインナップしており、それらを組み合わせて使用する。日本の公式サイトで予約販売を開始しており、価格は以下の通り。",
+          "url": "https://av.watch.impress.co.jp/docs/news/2106570.html",
+          "source": {
+            "name": "AV Watch"
+          },
+          "publishedAt": "2026-05-06T02:25:11Z",
+          "image": "https://av.watch.impress.co.jp/img/avw/list/2106/570/1.jpg",
+          "language": "ja"
+        },
         {
           "title": "海王星よりも太陽から遠い天体「2002 XV93」の大気を発見 冥王星以外の太陽系外縁天体では初",
           "description": "国立天文台の有松亘講師（石垣島天文台室長）を筆頭とする、プロの天文学者とアマチュアの観測家からなる連携研究チームは、太陽系外縁天体「(612533) 2002 XV93」に極めて薄い大気が存在することを発見したとする研究成果を発表しました",
@@ -50,181 +105,126 @@
           "language": "ja"
         },
         {
-          "title": "【中谷潤人・独占インタビュー】井上尚弥戦に準備していた戦略とは？ リングでモンスターの速さを実感するも「動きに反応できる」",
-          "description": "中谷潤人が振り返る井上尚弥戦　前編　東京ドームでの井上尚弥戦を終えた世界３階級制覇王者・中谷潤人。その強さの源泉に迫る話題の書籍『超える　中谷潤人ドキュメント』を上梓したノンフィクション作家・林壮一氏による試合翌日のインタビュー。中谷潤人…",
-          "url": "https://sportiva.shueisha.co.jp/clm/othersports/fight/2026/05/06/post_44/",
+          "title": "【独占取材】中谷潤人は勝負のラウンドで「視界が二重になった」 120パーセントを出した井上尚弥戦を経て「KOアーティストを目指す」",
+          "description": "中谷潤人が振り返る井上尚弥戦　後編（前編：井上尚弥戦に準備していた戦略とは？　リングでモンスターの速さを実感するも「動きに反応できる」＞＞）　東京ドームでの井上尚弥戦を終えた世界３階級制覇王者・中谷潤人。その強さの源泉に迫る話題の書籍『…",
+          "url": "https://sportiva.shueisha.co.jp/clm/othersports/fight/2026/05/06/post_45/",
           "source": {
             "name": "webスポルティーバ"
           },
-          "publishedAt": "2026-05-06T00:45:00Z",
-          "image": "https://sportiva.shueisha.co.jp/clm/othersports/fight/2026/images/d636349c8497c06bda1a1ca4786210c0c5d9af67.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【月と木星×サウナ】5/20、月と木星が接近する夜。初夏の“星空外気浴”を楽しむ天体観測イベントを「おふろcafé かりんの湯」で開催",
-          "description": "株式会社ザファームのプレスリリース（2026年5月6日 09時14分）【月と木星×サウナ】5/20、月と木星が接近する夜。初夏の“星空外気浴”を楽しむ天体観測イベントを「おふろcafé かりんの湯」で開催",
-          "url": "https://prtimes.jp/main/html/rd/p/000000213.000020935.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-05-06T00:14:35Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/20935/213/20935-213-295d8f6dcc4d56c7e10c5164a9f208e3-1200x900.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "岡本和真、日本人ルーキー１１人目の２ケタ本塁打 デビュー３５試合で到達は村上宗隆に次ぐ２番目 “大谷翔平超え”現実味",
-          "description": "◆米大リーグ　レイズ―ブルージェイズ（５日、米フロリダ州タンパ＝トロピカーナフィールド）\n　ブルージェイズ・岡本和真内野手（２９）が５日（日本時間６日）、敵地・レイズ戦に「３番・三塁」で先発出場。",
-          "url": "https://news.yahoo.co.jp/articles/9a0bb48600fb5312d94e3135bedca06cff4b6014",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-05T23:39:14Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260506-05061024-sph-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "大塚愛が女子高生2人組ユニット・Pasmalをプロデュース（コメントあり）",
-          "description": "大塚愛が現役女子高生2人組のユニット・Pasmal（パマル）をプロデュースする。",
-          "url": "https://natalie.mu/music/news/670901",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-05-05T23:00:00Z",
-          "image": "https://ogre.natalie.mu/media/news/music/2026/0505/Pasmal_otsukaai.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
-        },
-        {
-          "title": "世界卓球2026ロンドン 大会8日目（5月5日） 男子団体はベスト16が出そろう",
-          "description": "「世界卓球2026ロンドン　大会8日目（5月5日）　男子団体はベスト16が出そろう」の記事詳細。強くなるためのポイントが満載の卓球情報サイト「卓球レポート」の公式サイトです。世界卓球や全日本卓球などの速報も配信しています。",
-          "url": "https://www.butterfly.co.jp/takurepo/tournament/detail/028188.html",
-          "source": {
-            "name": "バタフライ卓球用品"
-          },
-          "publishedAt": "2026-05-05T22:43:43Z",
-          "image": "https://www.butterfly.co.jp/takurepo/tournament/item/260505-wc-mt.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「峠を越えた？今がピーク。年下なんかに負けられない」なぜ井上尚弥は中谷潤人に「たられば」を許さなかったか…“名参謀”真吾トレーナーに聞く真実…あの「ハロー？ソーリー」事件の真相も（RONSPO）",
-          "description": "プロボクシングのスーパーバンタム級4団体統一王者の井上尚弥（33、大橋）が東京ドームでの中谷潤人（28、M.T）とのビッグマッチに3－0判定勝利して3日になるが、いまだその波紋が収まらない。井上が絶",
-          "url": "https://news.yahoo.co.jp/articles/a4b4b994f17c9f5c5b14a83e5b66c0628005129b",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-05T22:33:29Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260506-00010001-ronspo-000-2-view.jpg?exp=10800",
+          "publishedAt": "2026-05-06T00:50:00Z",
+          "image": "https://sportiva.shueisha.co.jp/clm/othersports/fight/2026/images/2c238b2525c95455e13d4daf9d98b532e477db13.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Why AFL fined Carlton for disrepute",
-          "description": "The punishment of a $75,000 fine – donated to the league’s mental health partner, to provide a philanthropic sheen – contained two major motives.",
-          "url": "https://www.theage.com.au/sport/afl/the-afl-whacked-carlton-over-elijah-hollands-but-these-questions-remain-unanswered-20260506-p5zu9b.html",
+          "title": "Hantavirus Outbreak: Authorities Evacuate Suspected Cases From Cruise Ship",
+          "description": "Two seriously ill crew members on a cruise ship stricken by a deadly hantavirus outbreak will be evacuated via Cape Verde to the Netherlands, allowing the vessel to sail on to...",
+          "url": "https://www.ndtv.com/health/suspected-hantavirus-cases-to-be-evacuated-from-cruise-ship-11454637",
           "source": {
-            "name": "The Age"
+            "name": "NDTV"
           },
-          "publishedAt": "2026-05-06T02:15:14Z",
-          "image": "https://static.ffx.io/images/$zoom_0.38215518518518515%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_79%2C$y_124/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/ae9fcacffe8044027d408e654cddb1a5868bcf3c",
+          "publishedAt": "2026-05-06T04:42:13Z",
+          "image": "https://c.ndtvimg.com/2026-05/t317sqkc_hantavirus-outbreak-on-atlantic-cruise-ship-two-crew-members-evacuated_625x300_06_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
           "language": "en"
         },
         {
-          "title": "Massive Post-Poll Violence In Sandeshkhali: Central Forces Attacked, 5 Personnel Shot During Night Patrol",
-          "description": "Violence broke out in Sandeshkhali, West Bengal, where police and central forces came under fire during a late-night patrol. Chief Election Commissioner Gyanesh Kumar has ordered strict action.",
-          "url": "https://www.republicworld.com/india/massive-post-poll-violence-in-sandeshkhali-central-forces-attacked-5-personnel-shot-during-night-patrol",
-          "source": {
-            "name": "Republic World"
-          },
-          "publishedAt": "2026-05-06T02:13:36Z",
-          "image": "https://img.republicworld.com/all_images/2026/05/massive-post-poll-violence-in-sandeshkhali-central-forces-attacked-5-personnel-shot-during-night-patrol-1778044616438-1280x720.webp",
-          "language": "en"
-        },
-        {
-          "title": "SteelSeries Arctis Nova Pro Omni: High-end gaming headset redefines audio",
-          "description": "SteelSeries Arctis Nova Pro Omni: New high-end gaming headset with Hi-Res audio, ANC, multi-device support and unlimited battery life - available now.",
-          "url": "https://basic-tutorials.com/news/steelseries-arctis-nova-pro-omni-high-end-gaming-headset-redefines-audio/",
-          "source": {
-            "name": "Basic Tutorials"
-          },
-          "publishedAt": "2026-05-06T02:13:21Z",
-          "image": "https://basic-tutorials.de/wp-content/uploads/2026/05/arctis_nova_pro_omni_midnight_blue_lifestyle_indoor_06_4k-780x439.png",
-          "language": "en"
-        },
-        {
-          "title": "Biker in 20s dies in horror crash after Proton X70 driver in his 70s loses control in Section 17 PJ",
-          "description": "KUALA LUMPUR, May 6 — A motorcyclist was killed after colliding head-on with an out-of-control sports utility vehicle (SUV) in Petaling Jaya, Selangor, yesterday...",
-          "url": "https://www.malaymail.com/news/malaysia/2026/05/06/biker-in-20s-dies-in-horror-crash-after-proton-x70-driver-in-his-70s-loses-control-in-section-17-pj/218847",
-          "source": {
-            "name": "Malay Mail"
-          },
-          "publishedAt": "2026-05-06T02:13:04Z",
-          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/05/06/339328.jpg",
-          "language": "en"
-        },
-        {
-          "title": "D23 Asia: The Ultimate Disney Fan Event to Make its Debut in Singapore in 2027",
-          "description": "Disney announced that D23 Asia: The Ultimate Disney Fan Event will take place in Singapore for the first time in 2027, marking a major milestone in the expansion of Disney’s global fan celebrations across the Asia Pacific region.",
-          "url": "https://thewaltdisneycompany.com/news/d23-asia-announcement/",
-          "source": {
-            "name": "The Walt Disney Company"
-          },
-          "publishedAt": "2026-05-06T02:12:56Z",
-          "image": "https://thewaltdisneycompany.com/app/uploads/2026/05/D23_2027_KV34-scaled.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Iranian-born man fighting removal to Nauru loses High Court challenge",
-          "description": "A man fighting plans to remove him to Nauru loses his High Court challenge, after the government's deal to have the island take in people released from indefinite immigration detention is upheld.",
-          "url": "https://www.abc.net.au/news/2026-05-06/man-fighting-removal-to-nauru-loses-high-court-challenge/106646446",
+          "title": "Women's State of Origin II teams named with Rima Butler to debut for NSW as Queensland Maroons name squad",
+          "description": "Queensland opts to name a squad, rather than a final line-up, for Women's State of Origin II, with NSW expected to hand a debut to powerful Roosters forward Rima Butler.",
+          "url": "https://www.abc.net.au/news/2026-05-06/womens-state-of-origin-game-two-team-lists/106648716",
           "source": {
             "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-05-06T02:12:28Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/bde49241d7a55267ce0fa31aa4624e46?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=561&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-05-06T04:41:15Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/f588ba7d1f191f928169d3ffa366486d?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=63&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Australia to boost cancer research with $1.9m centre",
-          "description": "Australia opens the Australian Cancer Research Foundation Centre for Dynamic Immuno‑Oncology, supported by a $1.4m (AU2m) and $501,217 (AU700,000) funding.",
-          "url": "https://healthcareasiamagazine.com/healthcare/news/australia-boost-cancer-research-19m-centre",
+          "title": "'What if she falls?' Girl dashes across Pasir Ris road, nearly gets hit by car",
+          "description": "A secondary school student was caught on dashcam footage dashing across a road in Pasir Ris and into the path of an oncoming vehicle on Tuesday (May 5).The incident happened at about 2.30pm at Pasir Ris Drive 6, in vicinity of Hai Sing Catholic School. Dashcam footage posted on Facebook group SG Road Vigilante shows a pedestrian crossing outside the...",
+          "url": "https://www.asiaone.com/singapore/hai-sing-catholic-school-student-dashes-across-road",
           "source": {
-            "name": "Healthcare Asia Magazine"
+            "name": "AsiaOne"
           },
-          "publishedAt": "2026-05-06T02:10:13Z",
-          "image": "https://healthcareasiamagazine.com/s3/files/styles/opengraph/public/2026-05/screenshot-2026-05-05-102709.png?h=46e8b71d&itok=SQX4EG66",
+          "publishedAt": "2026-05-06T04:40:14Z",
+          "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/May2026/Hai-Sing-Catholic-Schoolgirl-Dashes-Across-Road.png?itok=Wb6S6IT6",
           "language": "en"
         },
         {
-          "title": "Trump largely succeeds in upending Indiana state Senate over redistricting",
-          "description": "President Trump had backed challengers to Indiana state senators who voted against his redistricting plan — and on Tuesday, most of them won.",
-          "url": "https://www.cbsnews.com/news/trump-largely-succeeds-in-upending-indiana-state-senate-over-redistricting/",
+          "title": "Winners, losers in NBA today",
+          "description": "The NBA conference semifinals continue with a pair of games Tuesday, May 5. Here are our the winners and losers of tonight's contests.",
+          "url": "https://www.usatoday.com/story/sports/nba/playoffs/2026/05/05/winners-losers-pistons-cavaliers-lakers-thunder-game-1/89954262007/",
           "source": {
-            "name": "CBS News"
+            "name": "USA Today"
           },
-          "publishedAt": "2026-05-06T02:10:00Z",
-          "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/06/2e7c90e9-d037-48d1-b407-438088900895/thumbnail/1200x630/4a72ad17b2d88de0a63e3680a47f2584/ap26124746387487.jpg",
+          "publishedAt": "2026-05-06T04:40:00Z",
+          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/06/USAT/89956841007-sgagame-1.jpg?crop=4420,2488,x0,y221&width=3200&height=1802&format=pjpg&auto=webp",
           "language": "en"
         },
         {
-          "title": "Australia’s first Children’s Comprehensive Cancer Centre opens with $3.6 million funding boost from Minderoo",
-          "description": "Minderoo Foundation has marked the historic opening of the Minderoo Children’s Comprehensive Cancer Centre (MCCCC) with an additional $3.6 million commitment to boost cutting-edge research programs at the world‑leading facility.",
-          "url": "https://www.minderoo.org/media/australia-s-first-children-s-comprehensive-cancer-centre-opens-with-3-6-million-funding-boost-from-minderoo/",
+          "title": "Blake Lively, Justin Baldoni Received No Money in Settlement: Report",
+          "description": "No monetary compensation was reportedly exchanged in the lawsuit settlement between Blake Lively and Justin Baldoni.",
+          "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/blake-lively-justin-baldoni-no-money-settlement-1235558414/",
           "source": {
-            "name": "Minderoo Foundation"
+            "name": "Rolling Stone"
           },
-          "publishedAt": "2026-05-06T02:09:44Z",
-          "image": "https://cdn.minderoo.org/assets/uploads/data/site-info/favicon-32.png",
+          "publishedAt": "2026-05-06T04:37:31Z",
+          "image": "https://www.rollingstone.com/wp-content/uploads/2026/05/blake-lively-baldoni-case.jpg?w=1600&h=900&crop=1",
           "language": "en"
         },
         {
-          "title": "Samsung hits $1 trillion valuation, joining TSMC in elite club",
-          "description": "The milestone came as the South Korean company’s shares rallied as much as 11% early on Wednesday, making it only the second Asian firm after Taiwan Semiconductor Manufacturing Co. to hit the mark.",
-          "url": "https://www.moneycontrol.com/news/business/samsung-hits-1-trillion-valuation-joining-tsmc-in-elite-club-13909836.html",
+          "title": "Chris Mannix: Three Thoughts on Thunder’s Defensive Masterpiece vs. Lakers",
+          "description": "Los Angeles needs more from its backcourt if the Lakers have any chance in the Western Conference semifinals.",
+          "url": "https://www.si.com/nba/playoffs/chris-mannix-three-thoughts-on-thunder-defensive-masterpiece-vs-lakers",
           "source": {
-            "name": "Moneycontrol.com"
+            "name": "Sports Illustrated"
           },
-          "publishedAt": "2026-05-06T02:08:30Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260506015953_Samsung-El.jpg",
+          "publishedAt": "2026-05-06T04:37:22Z",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_343,y_77,w_3846,h_2163/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01kqxrzpt4fs9agnece1.jpg",
+          "language": "en"
+        },
+        {
+          "title": "New Zealand to require citizenship test for migrants from 2027",
+          "description": "May 6 (Reuters) - Migrants ⁠seeking New Zealand citizenship will need to pass ⁠a test covering topics such as government ‌and human rights from 2027, the country's internal affairs minister said on Wednesday.",
+          "url": "https://www.thestar.com.my/news/world/2026/05/06/new-zealand-to-require-citizenship-test-for-migrants-from-2027",
+          "source": {
+            "name": "The Star"
+          },
+          "publishedAt": "2026-05-06T04:37:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/05/06/3894209.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Blake Lively Received Zero Compensation in Justin Baldoni Settlement: Report",
+          "description": "Lively still has a pending motion for attorneys’ fees and damages stemming from Baldoni’s failed defamation lawsuit",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/blake-lively-received-zero-compensation-043731851.html",
+          "source": {
+            "name": "Yahoo"
+          },
+          "publishedAt": "2026-05-06T04:37:00Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/qObZXJkVkHIj_f3ZciglZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/rollingstone.com/740ea9d50c1da9ae76c2a161e1e7d4da",
+          "language": "en"
+        },
+        {
+          "title": "‘Mentally snapped’: Ex-teacher pleads guilty to frenzied knife attack",
+          "description": "Kim Ramchen said he became “unbelievably angry” in the minutes before setting on his school’s principal.",
+          "url": "https://www.theage.com.au/national/victoria/mentally-snapped-ex-teacher-pleads-guilty-to-frenzied-knife-attack-20260506-p5zu81.html",
+          "source": {
+            "name": "The Age"
+          },
+          "publishedAt": "2026-05-06T04:36:56Z",
+          "image": "https://static.ffx.io/images/$zoom_1.4567%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_546/t_crop_custom/q_86%2Cf_auto/6323a2f9d9afcb787cdf985ebf55f362467f633f",
+          "language": "en"
+        },
+        {
+          "title": "'This repeated cycle of intervention has failed' - Unions warn on NSFAS crisis",
+          "description": "The decision by Higher Education Minister Buti Manamela to place NSFAS under administration has ignited a fierce debate, with unions arguing that this move fails to address the underlying governance issues plaguing the scheme.",
+          "url": "https://iol.co.za/news/south-africa/2026-05-06-this-repeated-cycle-of-intervention-has-failed-unions-warn-on-nsfas-crisis/",
+          "source": {
+            "name": "IOL"
+          },
+          "publishedAt": "2026-05-06T04:36:37Z",
+          "image": "https://iol-prod.appspot.com/image/95efb88d6b3132e3f17657d9e1fba576304d8a1d/1000/jpeg",
           "language": "en"
         }
       ]
