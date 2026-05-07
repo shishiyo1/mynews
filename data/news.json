@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-07T16:51:49.826Z",
+  "updatedAt": "2026-05-07T19:44:50.524Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【プロレス】藤原喜明は「君程度（きみていど）」と言われて新日本を退団 新生UWFに移籍し、６万人動員の東京ドームで迎えた異種格闘技戦",
+          "description": "関節技の鬼　藤原喜明のプロレス人生（18）（連載17：前田日明が起こした長州力「顔面襲撃事件」と解雇　アントニオ猪木に「なんとかなりませんか」＞＞）　プロレスラー藤原喜明はサラリーマンを経て、23歳で旗揚げ間もない新日本プロレスに入門。…",
+          "url": "https://sportiva.shueisha.co.jp/clm/othersports/fight/2026/05/07/post_46/",
+          "source": {
+            "name": "webスポルティーバ"
+          },
+          "publishedAt": "2026-05-07T07:40:00Z",
+          "image": "https://sportiva.shueisha.co.jp/clm/othersports/fight/2026/images/25ac2e0f58410495552c230d8c7de8051bed12fa.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "完全新規IP『プラグマタ』が、発売から16日間で販売本数200万本突破！",
+          "description": "株式会社カプコンのプレスリリース（2026年5月7日 16時29分）完全新規IP『プラグマタ』が、発売から16日間で販売本数200万本突破！",
+          "url": "https://prtimes.jp/main/html/rd/p/000005768.000013450.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-05-07T07:29:37Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/13450/5768/13450-5768-0c5f0ff9a8f03ede67b53f13261bd524-3840x2160.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "【チャンピオンシッププレビューvol.1】リーグ1位の長崎は天皇杯王者のA東京と激突、ともにタレントが揃う千葉Jと群馬が対決（BASKET COUNT）",
+          "description": "5月7日からB1チャンピオンシップクォーターファイナルが開催される。\n同月7日に先陣を切って争われるのは、長崎ヴェルカ（西地区1位）vsアルバルク東京（ワイルドカード4位）。長崎はレギュラーシーズ",
+          "url": "https://news.yahoo.co.jp/articles/ac76ee2a7e2eb7b22dae60e73c66fb346261535a",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-07T07:28:14Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00010006-basket-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "マクロスコープ：為替介入、背景に連休と物価高への焦り 政府内「根本解決は困難」の声も",
+          "description": "日本政府が大型連休中、ドル売り円買いの為替介入に踏み切った。日銀が政策金利の引き上げを見送った直後に薄商いとなれば、円安の一段の進行は避けられない。長引くイラン情勢の悪化に伴う物価高騰への対処は焦眉の急でもある。政府関係者は、こうした焦りが今回の判断​に至った背景にある、と説明した。一方、政府内には高市早苗首相が掲げる「責任ある積極財政」政策を念頭に、介入に‌よって円安基調を根本的に是正するのは難しいとの声も漏れる。",
+          "url": "https://jp.reuters.com/opinion/JVTBDYQD45N7BEQ5FP6Q22VGRM-2026-05-07/",
+          "source": {
+            "name": "Reuters"
+          },
+          "publishedAt": "2026-05-07T06:37:00Z",
+          "image": "https://www.reuters.com/resizer/v2/BRJF4ZXF7VPJLNKKLBLV7V67ME.jpg?auth=109327db325cd19a00f931d315205cccde008136717cffef2a90d613df6bf84d&height=1005&width=1920&quality=80&smart=true",
+          "language": "ja"
+        },
+        {
+          "title": "Bose、新型ワイヤレススピーカーやサウンドバーなど「Lifestyle Collection」を発表",
+          "description": "Boseは、ホームオーディオの新しい製品群「LifestyleCollection」を米国で発表した。日本の公式サイトでもすでに予約販売が開始されている。今回発表された「LifestyleCollection」では、ワイヤレススピーカー、...",
+          "url": "https://news.kakaku.com/prdnews/cd=kaden/ctcd=2045/id=156152/",
+          "source": {
+            "name": "kakaku.com"
+          },
+          "publishedAt": "2026-05-07T05:20:00Z",
+          "image": "https://img1.kakaku.k-img.com/Images/news_icv/1200x630/2026050/20260507141121_270_.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "太陽系外縁の小天体に「あるはずのない」大気を発見 冥王星以外で初",
+          "description": "太陽系外縁部の小天体の周りに、薄い大気が存在することが新たに分かった。従来は、これほど小さな天体が大気を保持することはできないと考えられていた。",
+          "url": "https://www.cnn.co.jp/fringe/35247202.html",
+          "source": {
+            "name": "CNN"
+          },
+          "publishedAt": "2026-05-07T05:11:00Z",
+          "image": "https://www.cnn.co.jp/storage/2026/05/07/672e786d3daae21116e79520573a23eb/image-1-20260504193701948.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "約束された“いい音”。ソニーの超プレミアムヘッドホン｢1000X The ColleXion｣画像がリーク",
+          "description": "噂と期待が混じりあうソニーの超プレミア新型ヘッドホン｢Sony 1000X The ColleXion｣。どれほどプレミアかというと、常に世の中のヘッドホン最高峰クラスに位置するWH-1000XM6の上をいくほど。ネタ元のDealabsの署名リーカーBillbil-Kunが、1000X The ColleXionの製品画像らしきものを公開。Redditユーザーがリーク画像を入手したのだとか。 デ",
+          "url": "https://www.gizmodo.jp/2026/05/leaks-show-first-look-at-sonys-absurdly-expensive-new-wireless-headphones.html",
+          "source": {
+            "name": "ギズモード・ジャパン"
+          },
+          "publishedAt": "2026-05-07T05:00:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/05/07/Sony%27sWH-1000XM6.png?w=1280&h=630&f=jpg",
+          "language": "ja"
+        },
         {
           "title": "「復興の象徴」新庁舎建設で6千万円収受疑い 熊本・八代市議を逮捕",
           "description": "熊本県八代市が発注した新庁舎建設工事をめぐり、特定の建設業者を入札で有利にすることなどを市に働きかけて6千万円を受け取ったとして、警視庁と熊本県警の合同捜査本部は7日、八代市議で議長経験もある成松由…",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-05-07T04:07:00Z",
           "image": "https://japan.cnet.com/storage/2026/05/07/cbf6a457072d7eb011cfd0fac2706185/google-io-2025-9514_1280x960.jpg",
           "language": "ja"
-        },
-        {
-          "title": "人から人に感染するハンタウイルス「アンデス株」とは アルゼンチンで2018年に集団感染",
-          "description": "アルゼンチン南部の小さな村エプイェンで2018年、約30人が重病になり、保健当局が原因の究明に追われる事態が起きた。流行が終息するまでに、このうち11人が死亡した。 - (1/2)",
-          "url": "https://www.cnn.co.jp/fringe/35247200.html",
-          "source": {
-            "name": "CNN"
-          },
-          "publishedAt": "2026-05-07T03:39:00Z",
-          "image": "https://www.cnn.co.jp/storage/2026/05/07/ac515805ce9c6b1c8e32aadd9d147e1f/ap19011784322845.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "劇場版「名探偵コナン」4作品連続で興収100億円突破！青山剛昌のお祝いイラスト公開",
-          "description": "青山剛昌原作による劇場版「名探偵コナン ハイウェイの堕天使」が、5月6日までの公開27日間で、観客動員数740万人、興行収入108.8億円を突破。これを記念して青山による描き下ろしイラストが公開された。",
-          "url": "https://natalie.mu/comic/news/671038",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-05-07T03:35:00Z",
-          "image": "https://ogre.natalie.mu/media/news/comic/2026/0507/conan_aoyama.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
-        },
-        {
-          "title": "Nintendo Switch 2上で「YouTubeを視聴する抜け道」が発見されるも、即封じられる。あるゲームの“お知らせ欄”がインターネットへの扉に",
-          "description": "意外な方法でNintendo Switch 2上でYouTubeを一時視聴できたとするユーザー報告が投稿され、一部で注目を集めている。",
-          "url": "https://automaton-media.com/articles/newsjp/20260507-441508/",
-          "source": {
-            "name": "AUTOMATON"
-          },
-          "publishedAt": "2026-05-07T03:11:16Z",
-          "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260507-441508-header.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "関東～九州は暑い日が多い 15日頃から一段と暑く30℃以上の日も 2週間天気予報",
-          "description": "明日8日(金)は北日本を中心に雨や雷雨の所があるものの、9日(土)以降は晴れる日が多いでしょう。関東から九州では10日(日)から連日のように25℃以上の夏日となり、暑さが続きそうです。来週は一段と暑くなり、30℃以上の真夏日の所が増えるでしょう。ただ、朝晩との気温の差が大きくなる日がありそうです。重ね着をするなど、服装で上手に調節してください。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/05/07/38835.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-05-07T03:09:33Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/388/38835/main/20260507115652/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "レクサス初、EVで3列シートのSUV『TZ』世界初公開…今冬日本でも発売へ",
-          "description": "・レクサスが初のEVの3列シートSUV「TZ」を世界初公開。日本での発売は今冬頃を予定している。 ・「Driving Lounge」をコンセプトに、専用開発プラットフォームや大開口パノラマルーフで全席の快適性を追求、日本仕様の航続距離は620km（WLTCモード） ・四国産竹材を用いた「Forged bamboo」やリサイクルアルミなどサステナブル素材を採用し、循環型のクルマ作りを実現",
-          "url": "https://s.response.jp/article/2026/05/07/410948.html",
-          "source": {
-            "name": "レスポンス（Response.jp）"
-          },
-          "publishedAt": "2026-05-07T03:00:05Z",
-          "image": "https://response.jp/imgs/ogp_f/2207795.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【噂まとめ】iPhone 18が「廉価モデル」に？ Proとの差が大きくなりそう（5/7 更新）",
-          "description": "Image: MacRumors 毎年訪れる秋の風物詩、Apple（アップル）のiPhoneシリーズの登場。現行モデルはiPhone 17シリーズですが、今年はiPhone 18シリーズの登場が期待さ",
-          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260507_1778127023001941",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-05-07T03:00:00Z",
-          "image": "https://portal.st-img.jp/thumb/922cab897a53d2b4b5c34d92c994792e_1778127023_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "イラン、アメリカの提案を「検討中」 14項目の覚書で合意近づくと米報道",
-          "description": "イランの政府高官は6日、戦争を終結させるためのアメリカの提案について、「なお検討中だ」と述べた。米メディアなどはこの日、ホワイトハウスがイランとの間で14項目からなる覚書について合意に近づいているとの考えを示したと報じており、それを受けた発言。",
-          "url": "https://www.bbc.com/japanese/articles/c5y9xkwyl1no",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-05-07T02:56:02Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_japanese/b568/live/479e7760-498d-11f1-9cba-7526402c46eb.png",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Grandmother's anger after buses refuse student who forgot wallet",
-          "description": "Auckland Transport has agreed that bus drivers should not leave children behind and is following up with the company involved.",
-          "url": "https://www.rnz.co.nz/news/community/594554/grandmother-s-anger-after-buses-refuse-student-who-forgot-wallet",
+          "title": "10 strangest trees in the world and where travellers can find them",
+          "description": "Some trees are so weird that they look more like something from a fairy tale than a living plant. There are umbrella-like trees, bottle-like trees, giant mushroom-like trees, and upside down-rooted trees found all around the world. Some trees have existed for hundreds of years in tough climates, while some are filled with myths, spirituality, and mysteries. These remarkable trees are not just botanical curiosities—they are destinations in themselves, drawing photographers, hikers, nature lovers, and adventure travellers from across the globe.This list includes ten weird but amazing trees that travellers will come across all around the world.",
+          "url": "https://timesofindia.indiatimes.com/life-style/travel/things-to-do/10-strangest-trees-in-the-world-and-where-travellers-can-find-them/photostory/130884922.cms",
           "source": {
-            "name": "RNZ"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-05-07T04:51:47Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--5QXOas-O--/t_tohu-badge-facebook/v1643692165/4MV39EE_image_crop_99874?_a=BACCd2AD",
+          "publishedAt": "2026-05-07T07:44:45Z",
+          "image": "https://static.toiimg.com/thumb/msid-130884946,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Fact Check: Iran Flooding Claims Tied to US Radar Attacks Misleading",
-          "description": "Fact check - The facts show that the narrative circulating about the Iranian desert flooding is misleading.",
-          "url": "https://en.tempo.co/read/2102342/fact-check-iran-flooding-claims-tied-to-us-radar-attacks-misleading",
+          "title": "Over 6,000 illegal immigrants nabbed in Kagera",
+          "description": "KAGERA: THE Immigration Department in Kagera Region has intensified border surveillance, resulting in the apprehension of over 6,000 illegal immigrants for entering and residing in the country without valid residence permits. Kagera Regional Immigration Officer, Assistant Commissioner of Immigration (ACI), Petro Malima, said that the illegal immigrants were rounded up during an operation conducted between",
+          "url": "https://dailynews.co.tz/over-6000-illegal-immigrants-nabbed-in-kagera/",
           "source": {
-            "name": "Tempo.co English"
+            "name": "dailynews.co.tz"
           },
-          "publishedAt": "2026-05-07T04:49:19Z",
-          "image": "https://statik.tempo.co/data/2026/05/05/id_1471876/1471876_720.jpg",
+          "publishedAt": "2026-05-07T07:43:28Z",
+          "image": "https://dailynews.co.tz/wp-content/uploads/2022/09/Arrested.jpg",
           "language": "en"
         },
         {
-          "title": "Kanye Testifies at Copyright Trial, Shows Signs of Frustration",
-          "description": "Kanye West, the artist now known as Ye, testified at a copyright trial in downtown Los Angeles.",
-          "url": "https://www.rollingstone.com/music/music-news/kanye-testifies-hurricane-song-copyright-trial-1235558924/",
+          "title": "Laver Cup 2026 players take center stage in Rome",
+          "description": "The final clay-court test before Roland-Garros is underway in Rome, and for several players bound for Laver Cup London 2026, the ATP Masters 1000 offers a",
+          "url": "https://lavercup.com/news/2026/05/07/laver-cup-2026-players-take-center-stage-in-rome",
           "source": {
-            "name": "Rolling Stone"
+            "name": "Laver Cup"
           },
-          "publishedAt": "2026-05-07T04:46:24Z",
-          "image": "https://www.rollingstone.com/wp-content/uploads/2026/05/kanye-donda-trial.jpg?w=1600&h=900&crop=1",
+          "publishedAt": "2026-05-07T07:43:01Z",
+          "image": "https://lavercup.com/wp-content/uploads/2026/05/GettyImages-2153706426.jpg",
           "language": "en"
         },
         {
-          "title": "Australia A men to tour India in September-October ahead of 2027 Test tour",
-          "description": "Australia A women and Australia men's Under-19s will also tour India in September and October | ESPN.com",
-          "url": "https://www.espn.com/cricket/story/_/id/48700146/australia-men-tour-india-september-october-ahead-2027-test-tour",
+          "title": "Google is giving Search Live a much-needed glow-up",
+          "description": "The arc-based design may not stick around for long",
+          "url": "https://www.androidpolice.com/google-search-live-design-update/",
           "source": {
-            "name": "ESPN"
+            "name": "Android Police"
           },
-          "publishedAt": "2026-05-07T04:46:00Z",
-          "image": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1503110_1296x729.jpg",
+          "publishedAt": "2026-05-07T07:42:41Z",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/google-search-live.jpeg?w=1200&h=675&fit=crop",
           "language": "en"
         },
         {
-          "title": "ARN execs face investor backlash over axed $200m Kyle and Jackie O contracts",
-          "description": "ARN Media reveals \"brand safety\" concerns over the Kyle and Jackie O Show have cost the company tens of millions in advertising revenue.",
-          "url": "https://www.abc.net.au/news/2026-05-07/kyle-and-jackie-o-arn-annual-general-meeting-investor-backlash/106652588",
+          "title": "The Olive Press collapse: Fears for local olive growers and olive oil supply",
+          "description": "The leading producer of premium olive oils in New Zealand has gone into liquidation, raising concerns about the future of the local olive industry. After 27...",
+          "url": "https://www.nzherald.co.nz/nz/the-olive-press-collapse-fears-for-local-olive-growers-and-olive-oil-supply/L2P7VK3IZJGX5CAFDHU5VBYJ6U/",
+          "source": {
+            "name": "NZ Herald"
+          },
+          "publishedAt": "2026-05-07T07:42:19Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/PQRRFHZ4ZZETVMWIKAAEPM3PUY.jpg?auth=f2eaf59c127571d23c13a5cd22d7f73a1d55cc561f67ca58d121c4b3ed8bf81d&width=1200&height=675&quality=70&focal=975%2C714&smart=false",
+          "language": "en"
+        },
+        {
+          "title": "Sabarimala Reference : Live Updates From Supreme Court 9-Judge Bench Hearing [Day 13]",
+          "description": "Today is the 13th day of arguments before the 9-judge bench of the Supreme Court in the Sabarimala reference.Apart from CJI Surya Kant, the Bench comprises Justice BV Nagarathna, Justice MM Sundresh,...",
+          "url": "https://www.livelaw.in/top-stories/sabarimala-reference-live-updates-from-supreme-court-9-judge-bench-hearing-day-13-533196",
+          "source": {
+            "name": "Live Law"
+          },
+          "publishedAt": "2026-05-07T07:40:59Z",
+          "image": "https://www.livelaw.in/h-upload/2026/04/29/670602-500x300666346-750x450369009-sabarimala-and-sc-live-updates.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Brisbane Lions player Koby Evans gets four",
+          "description": "Brisbane Lions player Koby Evans is banned for four games after being found guilty of conduct unbecoming for using a homophobic slur against an opponent in the VFL.",
+          "url": "https://www.abc.net.au/news/2026-05-07/brisbane-lions-player-banned-for-four-weeks-for-homophobic-slur/106654848",
           "source": {
             "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-05-07T04:45:22Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/b3d18857b8d8d86cc813023c85f24c03?impolicy=wcms_watermark_news&cropH=496&cropW=881&xPos=0&yPos=53&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-05-07T07:39:45Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/096de10083d361e32a447e3b8d019b39?impolicy=wcms_watermark_news&cropH=1960&cropW=3484&xPos=0&yPos=393&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "US Lawmaker Urges Trump Action Over Plateau Attack",
-          "description": "A US lawmaker urges the Trump administration to take forceful action to protect Christians in Nigeria following a deadly Plateau attack on mourners.",
-          "url": "https://punchng.com/us-lawmaker-urges-trump-to-take-forceful-action-over-plateau-attack/",
+          "title": "The Australian",
+          "description": "No Cookies | The Australian",
+          "url": "https://www.theaustralian.com.au/nocookies?a=A.flavipes",
           "source": {
-            "name": "Punch Newspapers"
+            "name": "The Australian"
           },
-          "publishedAt": "2026-05-07T04:45:13Z",
-          "image": "https://cdn.punchng.com/wp-content/uploads/2025/10/31233709/Riley-Moore-1200x630.jpg",
+          "publishedAt": "2026-05-07T07:39:40Z",
+          "image": "https://www.theaustralian.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-theaustralian-169.svg",
           "language": "en"
         },
         {
-          "title": "Trump says Iran war will be 'over quickly,' stresses on Tehran not possessing nuclear weapons",
-          "description": "Trump said talks were moving forward, although Iran dismissed suggestions that a deal was imminent, stating it had not yet submitted its reply to Pakistani intermediaries.",
-          "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/trump-says-iran-war-will-be-over-quickly-stresses-on-tehran-not-possessing-nuclear-weapons-article-13911409.html",
+          "title": "Pakistan announce home ODI series against Australia",
+          "description": "The three-match series in Rawalpindi and Lahore marks Australia’s first ODI tour of Pakistan since 2022.",
+          "url": "https://www.icc-cricket.com/news/pakistan-announce-home-odi-series-against-australia",
           "source": {
-            "name": "Moneycontrol.com"
+            "name": "ICC"
           },
-          "publishedAt": "2026-05-07T04:44:55Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260324170151_Trump-New-095.jpg",
+          "publishedAt": "2026-05-07T07:39:33Z",
+          "image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nluiiyki69jqxxrengjz",
           "language": "en"
         },
         {
-          "title": "Man claims trial to assaulting wife with chair, hose and curtain rod",
-          "description": "Rosmaini Abd Raof pleads not guilty to two charges of assault in March and April.",
-          "url": "https://www.freemalaysiatoday.com/category/nation/2026/05/07/man-claims-trial-to-assaulting-wife-with-chair-hose-and-curtain-rod",
+          "title": "Trump reportedly paused Hormuz operation after Saudi Arabia denied use of its airspace",
+          "description": "US officials say Gulf states were surprised by announcement of Project Freedom, which triggered fears of renewed fighting; report: Iran expected to respond to US proposal on Thursday",
+          "url": "https://www.timesofisrael.com/trump-reportedly-paused-hormuz-operation-after-saudi-arabia-denied-use-of-its-airspace/",
           "source": {
-            "name": "Free Malaysia Today"
+            "name": "The Times of Israel"
           },
-          "publishedAt": "2026-05-07T04:44:53Z",
-          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/05/2290880e-rosmaini-abd-raof-bernama-040526-1.webp",
-          "language": "en"
-        },
-        {
-          "title": "Wei Chong says ‘I do’ ahead of Malaysian Masters",
-          "description": "PETALING JAYA: World No. 6 men's doubles shuttler Man Wei Chong began a new chapter in his life after marrying his girlfriend, Ai Ting, on Wednesday (May 6).",
-          "url": "https://www.thestar.com.my/sport/badminton/2026/05/07/wei-chong-says-i-do-ahead-of-malaysian-masters",
-          "source": {
-            "name": "The Star"
-          },
-          "publishedAt": "2026-05-07T04:44:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/05/07/3896185.jpg",
-          "language": "en"
-        },
-        {
-          "title": "US Iran war LIVE | 'Iran cannot have a nuclear weapon': Trump's message to Pope Leo before Rubio meet",
-          "description": "The proposed agreement is a one-page, 14-point memorandum aimed at ending the war and starting formal talks. | World News",
-          "url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-peace-proposal-pakistan-trump-abbas-araghchi-strait-of-hormuz-101778116298712.html",
-          "source": {
-            "name": "Hindustan Times"
-          },
-          "publishedAt": "2026-05-07T04:43:46Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/05/07/550x309/TRUMP-MILITARY-MOTHERS-0_1778117458337_1778117465535.jpg",
+          "publishedAt": "2026-05-07T07:38:27Z",
+          "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26126696870282-e1778137063752.jpg",
           "language": "en"
         }
       ]
