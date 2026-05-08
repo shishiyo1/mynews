@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-08T16:14:30.702Z",
+  "updatedAt": "2026-05-08T19:20:56.626Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "メルカリ、5月15日販売開始の日本マクドナルド社の「玩具付録」を出品禁止決定",
+          "description": "〜安心・安全なマーケットプレイスの実現のため、注意喚起・監視・出品削除などを実施〜\n株式会社メルカリ（以下、メルカリ）は、日本マクドナルド株式会社（以下、マクドナルド社）が2026年5月15日から販売するハッピーセット「ちいかわ」※1の玩具付録※2について、2026年5月15日から安心・安全な取引環境が確保できないと考えられる期間※３、出品禁止することをお知らせいたします。\nまた当該期間中は、お客さまへの注意喚起および出品監視、削除対応を実施します。繰り返し不適切な出品を行うアカウントに対しては、利用制",
+          "url": "https://about.mercari.com/press/news/articles/20260508_principles/",
+          "source": {
+            "name": "株式会社メルカリ"
+          },
+          "publishedAt": "2026-05-08T06:46:17Z",
+          "image": "https://about.mercari.com/ogimage.png",
+          "language": "ja"
+        },
+        {
+          "title": "スタジオジブリ映画『魔女の宅急便』IMAXで限定上映、4Kデジタルリマスターでキキの大冒険が蘇る",
+          "description": "不朽の名作アニメーション映画『魔女の宅急便』が、4Kデジタルリマスター版として、2026年6月19日(金)より全国のIMAX劇場で期間限定上映される。1989年に公開された、宮﨑駿監督による長編アニメ...",
+          "url": "https://www.fashion-press.net/news/146215",
+          "source": {
+            "name": "ファッションプレス"
+          },
+          "publishedAt": "2026-05-08T06:15:00Z",
+          "image": "https://www.fashion-press.net/img/news/146215/top.jpg?1778218759",
+          "language": "ja"
+        },
+        {
+          "title": "熱帯の海域で新たに熱帯低気圧(台風のたまご)が発生 梅雨前に大雨への備えを",
+          "description": "今日8日、マーシャル諸島付近で熱帯低気圧(台風のたまご)が発生しました。この熱帯低気圧が台風に発達するかは、まだ分かりませんが、これからの季節は台風の発生が増えてくるため、熱帯低気圧の動向に注意が必要です。本格的な雨のシーズンに入る前に、大雨への備えを進めておきましょう。",
+          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/05/08/38853.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-08T05:25:26Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/388/38853/main/20260508142712/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "元三菱電機エンジニア佐藤氏のスピーカー開発への思いなど掲載。『JASジャーナル2026年春号』発行",
+          "description": "一般社団法人 日本オーディオ協会が3か月に1回、オンラインで配信している機関誌『JASジャーナル』。この度、今年2回目の更新となる『JASジャーナル2026年春号』を公開した。",
+          "url": "https://www.phileweb.com/sp/news/audio/202605/08/27632.html",
+          "source": {
+            "name": "PHILE WEB"
+          },
+          "publishedAt": "2026-05-08T04:59:13Z",
+          "image": "https://www.phileweb.com/news/ogp/audio/276/21630b121fa5485d4fab409152c0db31.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「日プ新世界」釼持吉成・熊部拓斗・小清水蓮らイメチェン姿でステージ登壇【KCON JAPAN 2026】",
+          "description": "サバイバルオーディション番組「PRODUCE 101 JAPAN」の第4弾となる「PRODUCE 101 JAPAN 新世界」の練習生50人が8日、千葉・幕張メッセにて開催されたKカルチャーフェスティバル「KCON JAPAN 2026」の「X-STAGE」に出演。一部の練習生がイメージチェンジして国民プロデューサーを沸かせた。",
+          "url": "https://mdpr.jp/music/detail/4777668",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-05-08T04:30:39Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/bhGY/wm/bhGY1CRTGRJ5G1iLOfSkKXFdZNNFqKNWaWUcopZuV9k.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
         {
           "title": "高校生死亡の磐越道バス事故はなぜレンタカーだったのか 学校側とバス会社に食い違い「顧問がレンタカーと」「お願いするはずがない」 校長会見詳報",
           "description": "5月6日、磐越道で北越高校男子ソフトテニス部の部員が乗るマイクロバスがガードレールに衝突する事故があり、21人が死傷した。死亡したのは北越高校の稲垣尋斗さん(17)で、死因は失血死と判明。稲垣さんは また、バスに乗っていた5人が足の骨を折るなどの重傷を負った。ソフトテニス部は全国大会に出場するような強豪校で、福島県に遠征するためバスで移動していたという。バスには部員20人と運転手の男性1人が乗っていたが、そのナンバープレートは緑ではなく、白の「わ」ナンバー、レンタカーだった。このレンタカーの使…",
@@ -14,6 +69,17 @@
           },
           "publishedAt": "2026-05-08T03:59:00Z",
           "image": "https://fnn.ismcdn.jp/mwimgs/3/4/600/img_34504c9f04c67fb61deb3eb735145e6d860515.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ハンタウイルスで死亡のクルーズ船夫婦 アルゼンチンごみ処分場でネズミから感染か",
+          "description": "ハンタウイルスの集団感染が疑われるクルーズ船で最初に発症したオランダ人夫婦が、アルゼンチン国内でネズミと接触していた可能性があることが分かりました。",
+          "url": "https://news.yahoo.co.jp/articles/f39edc12e23e2efe305b63adbb8ce83e4345d45f",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-08T03:51:17Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-90190029-ann-000-5-view.jpg?exp=10800",
           "language": "ja"
         },
         {
@@ -48,183 +114,117 @@
           "publishedAt": "2026-05-08T03:05:00Z",
           "image": "https://www.cnn.co.jp/storage/2026/05/08/59068097d4931cbe50369e963990b5cc/2026-05-07t064639z-1957260558-rc2s3labg8z9-rtrmadp-3-cruiseship-hantavirus-departure-update.jpg",
           "language": "ja"
-        },
-        {
-          "title": "中村俊輔、まさかの落選に抗議の電話殺到 中山雅史、秋田豊のベテラン２人が逆転メンバー入り…Ｗ杯メンバー発表日韓大会編",
-          "description": "北中米Ｗ杯（日本時間６月１２日開幕）の日本代表メンバー発表会見が、１５日に行われる。８大会連続８度目のＷ杯に臨む森保ジャパンのメンバー２６人が決定する。スポーツ報知では、過去のW杯メンバー発表を振り",
-          "url": "https://article.auone.jp/detail/1/6/11/202_11_r_20260508_1778209256334160",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-05-08T03:00:00Z",
-          "image": "https://portal.st-img.jp/thumb/0bd50ebf7449dbc6504dded300fb8601_1778230141_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "瓜田純士、お笑い芸人「ブレイキングダウンはカス」発言に自虐投稿...ファンは苦言「みんな命がけでやってる」（J",
-          "description": "アウトローのカリスマこと瓜田純士氏（46）が、2026年5月6日に自身のXを更新し、お笑いコンビ「ニューヨーク」の屋敷裕政さん（40）の発言に対してか、「こんにちは『カス』です」と自虐的なコメン",
-          "url": "https://news.yahoo.co.jp/articles/576dc7e98356a4f6da27d136874118887d22e31d",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-08T02:55:56Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-00000005-jct-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "ゲルト エンゲルス監督 契約解除のお知らせ",
-          "description": "このたび、ゲルト エンゲルス監督を本日、5月8日付で契約解除しましたのでお知らせします。 ゲルト エンゲルス （GERT ENGELS）監督 プロフィール 生年月日 1957年4月26日（69歳） 出",
-          "url": "https://www.vortis.jp/news/18437/",
-          "source": {
-            "name": "徳島ヴォルティス"
-          },
-          "publishedAt": "2026-05-08T02:37:51Z",
-          "image": "https://www.vortis.jp/assets/img/ogp.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "本州は晴れる日多い 最高気温30℃くらいまで上がる日も 暑さ対策を 2週間天気",
-          "description": "この先2週間は、本州付近を中心に高気圧に覆われる日が多く、東北から九州は晴れる日が続くでしょう。気温もぐんぐん上がり、東京や名古屋は最高気温が30℃くらいまで上がる日もありそうです。まだ身体が暑さに慣れていない時期のため、こまめな水分補給や服装選びに注意が必要です。一方、沖縄や奄美は梅雨空が続くでしょう。",
-          "url": "https://tenki.jp/forecaster/s_ono/2026/05/08/38847.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-05-08T02:28:39Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/388/38847/main/20260508110143/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Ryzen AI 9と32GBメモリ搭載ミニPCが約6万円引き",
-          "description": "Amazonにおいて、MINISFORUMのミニPC「MINISFORUM AI X1 Pro-470」が直近価格から5万9,000円引きの23万5,998円で販売している。価格は乱高下しており、何度も同じセール価格で販売している。",
-          "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2107043.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-05-08T02:09:02Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2107/043/02.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ホルムズ海峡で「交戦」とイラン報道、アメリカは駆逐艦への攻撃に報復と",
-          "description": "イランの国営放送は7日、ホルムズ海峡で爆発があったと報じた。また、イランと「敵」との間で「交戦」があったと伝えた。この報道の後、アメリカ中央軍（CENTCOM）は声明で、米海軍のミサイル駆逐艦がホルムズ海峡からオマーン湾へ向けて航行する中で、「イランの攻撃を迎撃し、自衛としての攻撃で対応した」と述べた。",
-          "url": "https://www.bbc.com/japanese/articles/c0k2gk4z6j6o",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-05-08T02:01:09Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_japanese/33f5/live/7c514d70-4a78-11f1-b8a0-ddf13023a8c2.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Billie Eilish Responds to Backlash After Saying Eating Meat is 'Wrong'",
-          "description": "Billie Eilish took to social media to respond to the backlash following her comments about eating meat during an 'Elle' video interview.",
-          "url": "https://www.rollingstone.com/music/music-news/billie-eilish-responds-backlash-eating-meat-comment-1235559531/",
+          "title": "Global Oil Prices Surge as US and Iran Exchange Fire in the Strait of Hormuz",
+          "description": "Brent crude oil surged past $101 a barrel following a direct military clash between US destroyers and Iranian forces in the critical Strait of Hormuz.",
+          "url": "https://streamlinefeed.co.ke/news/global-oil-prices-surge-as-us-and-iran-exchange-fire-in-the-strait-of-hormuz",
           "source": {
-            "name": "Rolling Stone"
+            "name": "streamlinefeed.co.ke"
           },
-          "publishedAt": "2026-05-08T04:14:27Z",
-          "image": "https://www.rollingstone.com/wp-content/uploads/2026/05/billie-eillish-eating-meat-comment.jpg?w=1600&h=900&crop=1",
+          "publishedAt": "2026-05-08T07:20:44Z",
+          "image": "https://www.capitalfm.co.ke/business/files/2025/08/20211223c136d8e1204c45dbb3c534bf9a2b4b41_e2d96a11-edef-4a15-8eb7-8ca26bef49ad-1-1.jpg",
           "language": "en"
         },
         {
-          "title": "Legumes and soy foods may help reduce hypertension risk",
-          "description": "A higher dietary intake of soy and legumes is linked to a lower risk of high blood pressure, finds a pooled data analysis of the available evidence, published in the open access journal BMJ Nutrition Prevention & Health.",
-          "url": "https://www.news-medical.net/news/20260508/Legumes-and-soy-foods-may-help-reduce-hypertension-risk.aspx",
+          "title": "Inside Orlando Bloom's Romance With Swiss Model Luisa Laemmel",
+          "description": "Swiss model and psychology graduate Luisa Laemmel has captured the attention of Hollywood actor Orlando Bloom in a closely watched romance.",
+          "url": "https://streamlinefeed.co.ke/news/inside-orlando-bloom-s-romance-with-swiss-model-luisa-laemmel",
           "source": {
-            "name": "News-Medical"
+            "name": "streamlinefeed.co.ke"
           },
-          "publishedAt": "2026-05-08T04:13:00Z",
-          "image": "https://www.news-medical.net/image-handler/picture/2014/7/High_Blood_Pressure-620x480.jpg",
+          "publishedAt": "2026-05-08T07:20:44Z",
+          "image": "https://cdn.tuko.co.ke/images/1200x675/77d87664877193bf.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "Richard Lewer wins for Illuwanti Ken portrait; Gaypalani Wanambi wins Wynne Prize; Lucy Culliton wins Sulman Prize",
-          "description": "Follow along as our arts writers deliver rolling coverage of the portraiture show that “stops a nation”.",
-          "url": "https://www.theage.com.au/culture/art-and-design/archibald-prize-2026-live-who-will-win-australia-s-premier-portrait-prize-20260507-p5zuo7.html",
+          "title": "ESWATINI MOBILE ON KING’S FORTY (40) YEARS ON THRONE CELEBRATION: We didn’t ask for permission but changed the game in the telecommunication industry and stopped expensive connectivity.",
+          "description": "MBABANE: Eswatini Mobile did not arrive quietly, it arrived with intent and from day one, the company made it clear that the era of expensive, exclusionary connectivity in Eswatini was over. By aggressively introducing competitively priced data and voice bundles, Eswatini Mobile did not simply enter...",
+          "url": "https://swazilandnews.co.za/articles/34731",
           "source": {
-            "name": "The Age"
+            "name": "Swaziland News"
           },
-          "publishedAt": "2026-05-08T04:12:43Z",
-          "image": "https://static.ffx.io/images/$zoom_0.7013245033112582%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_79/t_crop_custom/q_86%2Cf_auto/cfea9178b9f2908a957a8e094da54320680e33cf1a79065a9925b8b1f9261044",
+          "publishedAt": "2026-05-08T07:20:26Z",
+          "image": "https://press.swazilandnews.co.za/wp-content/uploads/2026/05/429a248e-3288-4ebf-a77e-758de1cb4731-1.jpeg",
           "language": "en"
         },
         {
-          "title": "owned farms seized in land grab",
-          "description": "Bloomberg Zimbabwe said it was returning a number of foreign-owned farms that were seized during a violent land grab more than 25 years ago and pay compensation of $146 million. Agriculture Minister Anxious Masuka told lawmakers that the transfer involved 67 properties. Treasury data separately showed the payments would settle claims by property owners from […]",
-          "url": "https://www.newzimbabwe.com/zimbabwe-to-return-67-foreign-owned-farms-seized-in-land-grab/",
+          "title": "Aer Lingus losses almost double to €103m as CEO says it has enough fuel for summer flights",
+          "description": "That is almost double the airline's losses of €55 million in the same period last year.",
+          "url": "https://www.breakingnews.ie/ireland/aer-lingus-losses-almost-double-to-e103m-as-ceo-says-it-has-enough-fuel-for-summer-flights-1897113.html",
           "source": {
-            "name": "NewZimbabwe.com"
+            "name": "BreakingNews.ie"
           },
-          "publishedAt": "2026-05-08T04:11:37Z",
-          "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2024/10/16155649/farm.jpg",
+          "publishedAt": "2026-05-08T07:20:14Z",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMTJcXFwvMTcxNDQyMjFcXFwvRHVibGluLUFpcnBvcnQtMjgtZTE3NjU5ODI1NTY0OTAuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI1ZGY5YzAwZGY5Yjc5MDU1NTk4NDVlOWI4MzU0Mjk1NGViM2YzYzk5In0=/aer-lingus-losses-almost-double-to-103m-as-ceo-says-it-has-enough-fuel-for-summer-flights.jpg",
           "language": "en"
         },
         {
-          "title": "Key Tata Trusts meeting postponed to May 16; Board recast discussions deferred",
-          "description": "Attendees logged on for the meeting at 9 am, with Venu Srinivasan among those joining online, the people said.",
-          "url": "https://www.moneycontrol.com/news/business/key-tata-trusts-meeting-postponed-to-may-16-13912532.html",
+          "title": "Thunder's defense is breaking the Lakers, starting with Chet Holmgren and Isaiah Hartenstein",
+          "description": "Oklahoma City's defense, a vast, multilayered network of nuance, skill, aggression and precision, challenges even the smartest of opposition.",
+          "url": "https://sports.yahoo.com/nba/article/thunders-defense-breaking-the-lakers-starting-with-chet-holmgren-and-isaiah-hartenstein-070435963.html",
           "source": {
-            "name": "Moneycontrol.com"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-05-08T04:11:07Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260408120302_Tata-new.png",
+          "publishedAt": "2026-05-08T07:18:45Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/PmBXX0hW059anEk8aaUCMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-05/deada5e5-626c-4938-8025-4011ec604db7",
           "language": "en"
         },
         {
-          "title": "World Cup fans in China and India face broadcast uncertainty",
-          "description": "Broadcasters in the two countries have yet to reach deals with Fifa, just weeks before the tournament is due to start.",
-          "url": "https://www.bbc.com/news/articles/cp9py4k8mllo",
+          "title": "Celebrations for Wildlife Broadcaster",
+          "description": "David Attenborough celebrates his 100th birthday with global tributes, BBC specials, and praise for his environmental work. Discover highlights of his career.",
+          "url": "https://www.globalbankingandfinance.com/david-attenborough-turns-100-overwhelmed-birthday-wishes/",
           "source": {
-            "name": "BBC"
+            "name": "Global Banking & Finance Review"
           },
-          "publishedAt": "2026-05-08T04:10:45Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1cdf/live/88882360-4a92-11f1-8003-0be2843e54d1.jpg",
+          "publishedAt": "2026-05-08T07:18:45Z",
+          "image": "https://www.globalbankingandfinance.com/i/cloud-8bcdb1ec-6fdd-4e12-8708-a6590a2a83e1/width=1200,height=630,quality=75,format=auto,fit=cover/",
           "language": "en"
         },
         {
-          "title": "2 Singapore residents on hantavirus-hit cruise ship isolated",
-          "description": "Two Singapore residents who were on board the MV Hondius cruise ship, which reported an outbreak of Andes hantavirus, are being tested.",
-          "url": "https://globalnation.inquirer.net/321884/2-singapore-residents-on-hantavirus-hit-cruise-ship-isolated",
+          "title": "Venter back to flank as Lions aim to breach Aviva",
+          "description": "Talismanic Springbok Ruan Venter returns to his familiar loose forward role as the Lions look to defeat Leinster in Dublin on Saturday.",
+          "url": "https://www.sarugbymag.co.za/venter-back-flank-lions-aim-breach-aviva/",
+          "source": {
+            "name": "SA Rugby magazine"
+          },
+          "publishedAt": "2026-05-08T07:18:44Z",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/02/Ruan-Venter-e1770451527625.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Botswana: Global Praise Pours in for Botswana",
+          "description": "A wave of admiration and celebration has continued to pour in from across the globe following Botswana's successful hosting of the Debswana World Athletics Relays Gaborone 26 held from May 2-3.",
+          "url": "https://allafrica.com/stories/202605080017.html",
+          "source": {
+            "name": "allAfrica.com"
+          },
+          "publishedAt": "2026-05-08T07:17:08Z",
+          "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+          "language": "en"
+        },
+        {
+          "title": "Real Madrid in crisis? Valverde ruled out of El Clásico ahead of Barça clash after training-ground fight",
+          "description": "International Sports News: Real Madrid faces a crisis as midfielder Federico Valverde is ruled out of El Clásico against FC Barcelona due to a head injury from a training fight with teammate Aurélien Tchouaméni. Tensions rise within the squad as scrutiny increases around player dynamics and the head coach Álvaro Arbeloa.",
+          "url": "https://timesofindia.indiatimes.com/sports/international-sports/real-madrid-in-crisis-valverde-ruled-out-of-el-clsico-ahead-of-bara-clash-after-training-ground-fight/articleshow/130918210.cms",
+          "source": {
+            "name": "The Times of India"
+          },
+          "publishedAt": "2026-05-08T07:17:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-130952892,width-1280,height-720,imgsize-69284,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Many solons use my name for money",
+          "description": "Vice President Sara Duterte alleged that many congressmen are using her name for money, particularly in connection with her ongoing impeachment case.",
+          "url": "https://newsinfo.inquirer.net/2225360/sara-duterte-on-impeachment-many-congressmen-use-my-name-for-money",
           "source": {
             "name": "Inquirer.net"
           },
-          "publishedAt": "2026-05-08T04:10:00Z",
-          "image": "https://globalnation.inquirer.net/files/2026/05/WHO-says-two-hantavirus-cases-confirmed-five-suspected-on-cruise-ship-scaled.jpg",
-          "language": "en"
-        },
-        {
-          "title": "South African-born Central Stag Dean Foxcroft gets Black Caps test call-up",
-          "description": "By Aiden McLaughlin Dean Foxcroft dreamed big as a kid, and now one of those dreams is a step closer to reality. The Taradale-based Central Stag was the new...",
-          "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/south-african-born-central-stag-dean-foxcroft-gets-black-caps-test-call-up/ZTOY5334HZCZXKDSSHLBTYKI5M/",
-          "source": {
-            "name": "NZ Herald"
-          },
-          "publishedAt": "2026-05-08T04:07:09Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/3NEU5T5DCNBFTMMSTHRAT4A4FI.jpg?auth=a05c3ed53204179a0af2bfdfd46b3bbffdbb89357d77bd03ab4c0b7e10f44e1b&width=1200&height=675&quality=70&smart=true",
-          "language": "en"
-        },
-        {
-          "title": "Emergency trauma surgery outcomes worse for children in low-income nations",
-          "description": "Children who need life‑saving emergency surgery after a serious injury are almost six times more likely to die if in poorer countries than in wealthier ones, according to an international study led by the University of Cambridge.",
-          "url": "https://www.news-medical.net/news/20260508/Emergency-trauma-surgery-outcomes-worse-for-children-in-low-income-nations.aspx",
-          "source": {
-            "name": "News-Medical"
-          },
-          "publishedAt": "2026-05-08T04:07:00Z",
-          "image": "https://www.news-medical.net/images/tags/TagImage-3347-458389964760995353448-620x480.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Mapping Ocean With Autonomous Sensors",
-          "description": "In late October 2025, Tropical Storm Melissa moved through the Caribbean Sea with moderate winds that didn't get much attention. But on Oct. 25, aided",
-          "url": "https://www.miragenews.com/mapping-ocean-with-autonomous-sensors-1669983/",
-          "source": {
-            "name": "Mirage News"
-          },
-          "publishedAt": "2026-05-08T04:06:00Z",
-          "image": "https://news.mit.edu/sites/default/files/images/202605/MIT-Apeiron-01-press.jpg",
+          "publishedAt": "2026-05-08T07:17:00Z",
+          "image": "https://newsinfo.inquirer.net/files/2026/05/sara-duterte-netherlands-06may2026.jpg",
           "language": "en"
         }
       ]
