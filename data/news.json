@@ -1,10 +1,54 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-08T03:20:02.376Z",
+  "updatedAt": "2026-05-08T07:44:41.319Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "永野 初監督作品がブラジルで快挙 南米最大級の映画祭で“過激&独創的”部門の最優秀作品賞",
+          "description": "お笑い芸人の永野（51）の初監督映画「MAD　MASK」が毎年ブラジルで開催される南米最大級の映画祭「第22回ポルト・アレグレ国際ファンタスティック映画祭（通称ファンタスポア）」でミッドナイト部門",
+          "url": "https://news.yahoo.co.jp/articles/beed0013e155171e2110a9be2f98f68db6454b40",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-07T19:02:21Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-00000062-spnannex-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "茨城県、埼玉県で震度3の地震 津波の心配なし",
+          "description": "8日午前3時50分頃、茨城県南部を震源とするマグニチュード4.2の地震が発生し、茨城県、埼玉県で最大震度3を観測しました。この地震による津波の心配はありません。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/05/08/38844.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-07T18:56:29Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/388/38844/main/20260508035630/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "GOLDEN CONCEPTから、カーボンダイアルを採用した新作腕時計「Royal Sport Carbon」が登場。",
+          "description": "株式会社PRINCIPE priveのプレスリリース（2026年5月8日 03時20分）GOLDEN CONCEPTから、カーボンダイアルを採用した新作腕時計「Royal Sport Carbon」が登場。",
+          "url": "https://prtimes.jp/main/html/rd/p/000000833.000016079.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-05-07T18:20:02Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/16079/833/16079-833-c4d699894f0d26a80f7ce773a394006c-1040x1365.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "Google、画面がないフィットネストラッカー「Fitbit Air」発表 Geminiが“専任コーチ”に",
+          "description": "米Googleは5月7日、ウェアラブル「Fitbit」シリーズの新モデル「Google Fitbit Air」を発表した。画面を搭載しないリストバンドタイプのトラッカーで、Fitbitシリーズ最小としている。同日にGoogle ストアで予約受付を開始し、26日に発売する。価格は1万6800円。AndroidだけでなくiOSでも利用可能。",
+          "url": "https://www.itmedia.co.jp/news/articles/2605/08/news050.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-05-07T17:00:00Z",
+          "image": "https://image.itmedia.co.jp/news/articles/2605/08/cover_news050.jpg",
+          "language": "ja"
+        },
         {
           "title": "レクサスが新型ＥＶ世界初公開…３列シートのＳＵＶ、航続距離は暫定６２０キロ（読売新聞オンライン）",
           "description": "トヨタ自動車は７日、レクサスの新たな電気自動車（ＥＶ）「ＴＺ」を世界初公開した。３列シートのスポーツ用多目的車（ＳＵＶ）で、今年冬頃の発売を予定する。",
@@ -70,161 +114,117 @@
           "publishedAt": "2026-05-07T13:30:00Z",
           "image": "https://assets.winticket.jp/images/6BXd6XKGar9D2B5sEGTxaK.png",
           "language": "ja"
-        },
-        {
-          "title": "システムファイブ、スマホ用ジンバル「DJI Osmo Mobile 8P」の販売開始",
-          "description": "株式会社システムファイブのプレスリリース（2026年5月7日 21時06分）システムファイブ、スマホ用ジンバル「DJI Osmo Mobile 8P」の販売開始",
-          "url": "https://prtimes.jp/main/html/rd/p/000000242.000024840.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-05-07T12:06:14Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/24840/242/24840-242-cd759cbb58ec521f30a75272b08f81f4-1000x522.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "DJI、スマホジンバル「Osmo Mobile 8P」発売。操作部分が着脱可能なリモコンに、価格は1万8480円～",
-          "description": "DJI JAPANは、スマートフォン用ジンバル「Osmo Mobile 8P」を5月7日に発売した。価格はスタンダードコンボが1万8480円、アドバンストトラッキングコンボが2万5080円、クリエイターコンボが3万2780円。",
-          "url": "https://travel.watch.impress.co.jp/docs/news/2106379.html",
-          "source": {
-            "name": "トラベル Watch"
-          },
-          "publishedAt": "2026-05-07T12:00:00Z",
-          "image": "https://travel.watch.impress.co.jp/img/trw/list/2106/379/01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "着脱式リモコンを新搭載したスマホジンバル「Osmo Mobile 8P」",
-          "description": "DJI JAPAN株式会社は5月7日（木）、スマートフォン用ジンバル「Osmo Mobile 8P」を発売した。価格は1万8,480円から。従来モデルからフレーミング機能とトラッキング機能を大幅に強化したという。",
-          "url": "https://dc.watch.impress.co.jp/docs/news/2106855.html",
-          "source": {
-            "name": "デジカメ Watch"
-          },
-          "publishedAt": "2026-05-07T12:00:00Z",
-          "image": "https://dc.watch.impress.co.jp/img/dcw/list/2106/855/01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "アンジェラ・アキが緊急手術を報告 緊急搬送され腹膜炎と診断、手術後に「被包化胸水」を併発…ライブの延期・中止を発表",
-          "description": "アンジェラ・アキが緊急手術を報告　緊急搬送され腹膜炎と診断、手術後に「被包化胸水」を併発…ライブの延期・中止を発表（スポーツ報知）　シンガー・ソングライターのアンジェラ・アキの公式サイトが７日に更新され、緊急手術したことを報告した。４月２８日に緊急搬…",
-          "url": "https://topics.smt.docomo.ne.jp/article/hochi/entertainment/hochi-20260507-OHT1T51307?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-05-07T11:28:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/hochi/m_hochi-20260507-OHT1T51307.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Past hantavirus outbreak shows how Andes virus spreads",
-          "description": "An elderly man had just started running a fever when he walked into a birthday party in the small village of Epuyen in southwest Argentina in 2018.On November 3, 2018, the man attended a birthday part...",
-          "url": "https://sg.news.yahoo.com/past-hantavirus-outbreak-shows-andes-151935459.html",
+          "title": "New S-Works Recon EVO: Specialized redesigns its racing shoes for XC and gravel",
+          "description": "Specialized presents the new S-Works Recon EVO, a pair of XC and gravel shoes that bring the technology and fit of the Ares 2 to mountain biking.",
+          "url": "https://en.brujulabike.com/new-s-works-recon-evo-specialized-redesigns-its-racing-shoes-for-xc-and-gravel/",
           "source": {
-            "name": "Yahoo News Singapore"
+            "name": "Brujulabike.com"
           },
-          "publishedAt": "2026-05-07T15:19:35Z",
-          "image": "https://s.yimg.com/os/en/afp.com.sg/b538ed74e947e22d7de29bec00cb907f",
+          "publishedAt": "2026-05-07T19:44:24Z",
+          "image": "https://cdn.brujulabike.com/media/189328/conversions/20260126-dyarra-specializedreconevo-2006-highres-1240.jpg",
           "language": "en"
         },
         {
-          "title": "Health minister insists recruitment freeze won't hit frontline staff amid €250m HSE overspend",
-          "description": "The HSE’s chief executive has told health mangers that the service is significantly over budget.",
-          "url": "https://www.thejournal.ie/hse-the-journal-7033073-May2026/",
+          "title": "Dhumal: IPL's anti-corruption unit has flagged 'anomalies' in a report to BCCI",
+          "description": "BCCI secretary also said that in some cases, team owners and officials have been mingling with players in areas where it is not allowed",
+          "url": "https://www.espncricinfo.com/story/ipl-chairman-arun-dhumal-ipl-s-anti-corruption-unit-has-flagged-anomalies-in-a-report-to-bcci-1535785",
           "source": {
-            "name": "The Journal"
+            "name": "ESPNcricinfo"
           },
-          "publishedAt": "2026-05-07T15:19:00Z",
-          "image": "https://img2.thejournal.ie/article/7033073/river/?height=400&version=7033508",
+          "publishedAt": "2026-05-07T19:44:05Z",
+          "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/401600/401609.6.jpg",
           "language": "en"
         },
         {
-          "title": "Fact-check: No, Ukrainian drone didn't hit passenger train in Latvia",
-          "description": "Anonymous accounts have used video of a train fire from earlier this week to claim a Ukrainian drone struck a Latvian railway. Latvian authorities have refuted the claim as deliberate disinformation.",
-          "url": "https://kyivindependent.com/fact-check-no-ukrainian-drone-didnt-hit-passenger-train-in-latvia/",
+          "title": "Virat Kohli Shocked By Prince Yadav's 140.4 kmph Screamer, For 1st Time In 1,110 Days RCB Great Suffers This Blow",
+          "description": "Virat Kohli was stunned, and so was the entire Ekana Cricket Stadium. Lucknow Super Giants pacer Prince Yadav did the unthinkable",
+          "url": "https://sports.ndtv.com/ipl-2026/virat-kohli-shocked-by-prince-yadavs-140-4-kmph-screamer-for-1st-time-in-1110-days-rcb-great-suffers-this-blow-11464341",
           "source": {
-            "name": "The Kyiv Independent"
+            "name": "NDTV Sports"
           },
-          "publishedAt": "2026-05-07T15:18:05Z",
-          "image": "https://assets.kyivindependent.com/content/images/2026/05/GettyImages-1141497777_20260507-141208.jpg",
+          "publishedAt": "2026-05-07T19:44:00Z",
+          "image": "https://c.ndtvimg.com/2026-05/3sbg9h64_virat-kohli-prince-yadav_625x300_07_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
           "language": "en"
         },
         {
-          "title": "Iran imposes new rules for Hormuz in effort to cement control of key waterway",
-          "description": "Tehran has laid out a set of new rules for vessels seeking to transit the Strait of Hormuz, according to a document seen by CNN, pressing ahead with efforts to formalize control over the waterway in defiance of US warnings.",
-          "url": "https://www.cnn.com/2026/05/07/middleeast/iran-hormuz-rules-warime-gains-intl",
+          "title": "Horror bus crash shuts down N1",
+          "description": "Emergency services rushed to the scene as rescue operations continued.",
+          "url": "https://www.snl24.com/dailysun/news/a-malawian-bus-crashed-on-the-n1-near-witvlag-killing-an-unconfirmed-number-of-passengers-20260507",
           "source": {
-            "name": "CNN"
+            "name": "Daily Sun"
           },
-          "publishedAt": "2026-05-07T15:17:45Z",
-          "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2273981246.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2026-05-07T19:43:13Z",
+          "image": "https://cdn.24.co.za/files/Cms/General/d/13101/fa79a2b1f5ec497a9d3ce02825de2c3a.jpeg",
           "language": "en"
         },
         {
-          "title": "Met issues heavy rainfall alert, possible flooding as downpour intensifies across multiple regions",
-          "description": "Kenya Meteorological Department warned that moderate to heavy rains are expected across multiple regions from May 7-14, 2026, with intensification likely betwee...",
-          "url": "https://eastleighvoice.co.ke/national/346297/met-issues-heavy-rainfall-alert-possible-flooding-as-downpour-intensifies-across-multiple-regions",
+          "title": "Why We Need Patients and Community at the Center of AI Health Communication Research",
+          "description": "Holderried and colleagues tested whether artificial intelligence (AI)–generated, patient-centered information can help people understand what they need to do after being discharged from a hospital. Participants demonstrated stronger comprehension when they viewed the simplified, patient-centered information rather than a standard letter. This work adds to the available early-phase evidence of AI supporting hospital discharge communication. To meaningfully progress this area of research, we now need to carefully consider how to enhance the design and evaluation of patient-facing AI health communication tools. In this commentary, we argue that equity and consumer engagement remain underrepresented in studies on patient-facing AI health communication tools and describe possible approaches to address this issue.",
+          "url": "https://www.jmir.org/2026/1/e97577",
           "source": {
-            "name": "The Eastleigh Voice"
+            "name": "Journal of Medical Internet Research"
           },
-          "publishedAt": "2026-05-07T15:17:32Z",
-          "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/05/Floods.jpg",
+          "publishedAt": "2026-05-07T19:42:10Z",
+          "image": "https://asset.jmir.pub/assets/85a6c40e0cca364426db30e4aa89bb1f.png",
           "language": "en"
         },
         {
-          "title": "Four Western Cape contacts monitored after deadly hantavirus cruise outbreak",
-          "description": "The national health department says four contacts linked to a hantavirus outbreak aboard a cruise ship in the Atlantic Ocean are being monitored in the Western Cape.",
-          "url": "https://www.news24.com/southafrica/health-news/four-western-cape-contacts-monitored-after-deadly-hantavirus-cruise-outbreak-20260507-0894",
+          "title": "Israel is angery at Saudi Arabia, and fears a 'bad deal' that will pour billions into",
+          "description": "Trump sees renewed fire as 'last resort,' but Israel fears a deal that does not include missiles; 'The US is acting in its own interest'; Saudi Arabia blocked Trump's  Project Freedom, angering Israel;  What is a good outcome in Lebanon, and in  Gaza?",
+          "url": "https://www.ynetnews.com/article/bys4xdccbe",
           "source": {
-            "name": "News24"
+            "name": "ynetnews"
           },
-          "publishedAt": "2026-05-07T15:17:31Z",
-          "image": "https://news24cobalt.24.co.za/resources/02a5-20918e14fb6e-3acc9b63245a-1000/format/inline/afp_20260504_a9r86ea_v1_midres_capeverdehealthtourism.jpeg",
+          "publishedAt": "2026-05-07T19:41:50Z",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/05/BkcpgaD0bx/BkcpgaD0bx_0_0_850_479_0_large.jpg",
           "language": "en"
         },
         {
-          "title": "Judge clashes with Wontumi’s lawyers in court",
-          "description": "The High Court’s Criminal Court 4 on Thursday sat to continue proceedings in the trial of Ashanti Regional Chairman Bernard Antwi Boasiako, aka Chairman Wontumi, over alleged illegal mining activities linked to a concession at Samreboi.",
-          "url": "https://www.myjoyonline.com/tell-them-you-are-causing-the-delays-judge-clashes-with-wontumis-lawyers-in-court/",
+          "title": "We remain concerned about the regional impact of the conflict in (...)",
+          "description": "There is an urgent need for the Sudanese Armed Forces and the Rapid Support Forces to resume negotiations to conclude a ceasefire without delay.",
+          "url": "https://onu.delegfrance.org/we-remain-concerned-about-the-regional-impact-of-the-conflict-in-sudan",
           "source": {
-            "name": "MyJoyOnline"
+            "name": "France ONU"
           },
-          "publishedAt": "2026-05-07T15:17:15Z",
-          "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/Andy-Appiah-Kubi-1.jpg",
+          "publishedAt": "2026-05-07T19:41:37Z",
+          "image": "https://onu.delegfrance.org/IMG/arton16326.jpg?1778182458",
           "language": "en"
         },
         {
-          "title": "Chairman Wontumi files defence in Akonta Mining case, former Deputy Lands Minister to testify",
-          "description": "Chairman Wontumi has filed witness statements to open his defence in the Akonta Mining trial and is expected to call former Lands Minister George Mireku Duker as a defence witness.",
-          "url": "https://www.graphic.com.gh/news/general-news/chairman-wontumi-files-defence-in-akonta-mining-case-former-lands-minister-to-testify.html",
+          "title": "Egyptian man jailed for life over deadly US fire attack on Jewish protest",
+          "description": "A man who launched a Molotov cocktail attack on Jewish protesters in Colorado last year that killed one person and injured more than a dozen others was sentenced to life imprisonment on Thursday, US…",
+          "url": "https://www.france24.com/en/live-news/20260507-egyptian-man-pleads-guilty-to-deadly-us-fire-attack-on-jewish-protest",
           "source": {
-            "name": "Graphic Online"
+            "name": "France 24"
           },
-          "publishedAt": "2026-05-07T15:16:52Z",
-          "image": "https://www.graphic.com.gh/images/2026/Feb/17/charwontumii.jpg",
+          "publishedAt": "2026-05-07T19:41:10Z",
+          "image": "https://s.france24.com/media/display/b256115c-4a4c-11f1-9e0b-005056a97e36/w:1280/p:16x9/ff57356ef0853e1faf6d51c53147b6581f4c576d.jpg",
           "language": "en"
         },
         {
-          "title": "13 WNBA Predictions We Actually Believe for 2026",
-          "description": "From A’ja’s reign to Caitlin and Paige reshaping the game, here are 13 things that will define the WNBA’s 30th season",
-          "url": "https://www.theringer.com/2026/05/07/wnba/wnba-season-preview-2026-caitlin-clark-paige-bueckers-aja-wilson",
+          "title": "The First Cell Phone Call, 53 Years Later",
+          "description": "Martin Cooper’s first mobile call launched a revolution that turned the cellphone from a brick-sized novelty into an essential force in modern life.",
+          "url": "https://www.forbes.com/sites/timbajarin/2026/05/07/the-first-cell-phone-call-53-years-later/",
           "source": {
-            "name": "The Ringer"
+            "name": "Forbes"
           },
-          "publishedAt": "2026-05-07T15:16:33Z",
-          "image": "https://wp.theringer.com/wp-content/uploads/2026/05/cropped-wnbapredict_getty_ringer-scaled-1.jpg",
+          "publishedAt": "2026-05-07T19:41:09Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/69fcb0c246749f9e8cc19392/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
           "language": "en"
         },
         {
-          "title": "Free Air, Switches to Google Health App",
-          "description": "Fitbit has introduced the new screenless Fitbit Air tracker along with a switch from the Fitbit app to Google Health.",
-          "url": "https://wifihifi.com/fitbit-intros-the-screen-free-air-switches-fitbit-app-to-google-health-app/",
+          "title": "Iran reviewing U.S. proposal, Trump says war will end soon: Reports",
+          "description": "Senior Iranian official Mohsen Rezaee reportedly said Tehran would not let the U.S. reopen the Strait of Hormuz with \"an unrealistic plan.\"",
+          "url": "https://www.cnbc.com/2026/05/07/trump-iran-war-peace-hormuz-strait.html",
           "source": {
-            "name": "Wifi Hifi Magazine"
+            "name": "CNBC"
           },
-          "publishedAt": "2026-05-07T15:16:12Z",
-          "image": "https://wifihifi.com/wp-content/uploads/2026/05/fitbit-air-closeup.jpg",
+          "publishedAt": "2026-05-07T19:41:07Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108300757-17776546812026-05-01t165727z_482912865_rc2g0la2rpaz_rtrmadp_0_usa-trump.jpeg?v=1778186518&w=1920&h=1080",
           "language": "en"
         }
       ]
