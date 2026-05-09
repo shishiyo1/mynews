@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-09T13:21:14.946Z",
+  "updatedAt": "2026-05-09T15:54:39.842Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "英地方選で労働党が大敗、スターマー氏は続投表明 リフォームUKが各地で勝利",
+          "description": "イギリスで7日に投票が行われた地方選挙は、8日に開票が進められ、大勢が判明した。イングランドではリフォームUKが最大の勝者となり、各地で合わせて1400超の議席を獲得。歴史的に労働党と保守党が優勢だった地域で主導権を握った。一方、スターマー首相は8日夜、辞任して「国を混乱に陥れる」つもりはないと強調した。",
+          "url": "https://www.bbc.com/japanese/articles/cqxp4q73vn8o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-05-09T02:56:09Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_japanese/eeb0/live/4c463660-4ab2-11f1-abbe-696bdf3a3d1b.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Apple「A20」チップとiPhone 18シリーズの全貌：2nmプロセス移行と次世代パッケージング技術がもたらす変革",
+          "description": "iPhone 18 Pro向けA20 ProチップはTSMCの2nmプロセスと新パッケージング技術WMCMを採用し、AI処理と電力効率を大幅に向上させる。ベースモデルのiPhone 18はDRAM供給不足からWMCMを見送るが、メモリを12GBに増強し、Appleはリリースサイクルを分割してサプライチェーンの負荷分散を図る。",
+          "url": "https://xenospectrum.com/apple-a20-chip-iphone-18-pro/",
+          "source": {
+            "name": "XenoSpectrum"
+          },
+          "publishedAt": "2026-05-09T02:52:40Z",
+          "image": "https://media.xenospectrum.com/large_a20_chip_2nm_process_hero_649a03c428.webp",
+          "language": "ja"
+        },
+        {
+          "title": "瀬戸内海を望むバラが見頃 「ばらまつり」10日まで開催 香川",
+          "description": "サンポート高松のあなぶきアリーナ香川東側にあるハーバープロムナードバラ園で９日、「ばらまつり」が始まりました。約40種類の色とりどりのバラが300株ほど咲いています。今年は例年より開花が早く、先月下旬の雨でつぼみの数が増え、花つきもいいと…",
+          "url": "https://news.ksb.co.jp/article/16552303",
+          "source": {
+            "name": "KSBニュース"
+          },
+          "publishedAt": "2026-05-09T02:52:00Z",
+          "image": "https://p.potaufeu.asahi.com/4f7d-p/picture/30820723/6e4ab19985eb73a237be0ffe66d115c4.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「最初の数ラウンドは私のミスだった」敗者・中谷潤人トレーナーが告白した“2つの誤算”…「10Rのバッティングではない」井上尚弥の“想定外だった”右アッパー（Number Web）",
+          "description": "井上尚弥との激闘に敗れた中谷潤人。その戦術面を担当するのが63歳の名トレーナー、ルディ・エルナンデスである。来日したルディの取材を続け、見えた中谷陣営の“2つの誤算”とは？　【全3回の3本目/第1回",
+          "url": "https://news.yahoo.co.jp/articles/28ed84434997003d698e0998155da6a9e9641257",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-09T02:05:29Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260509-00870379-number-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "イランが新たに石油タンカーだ捕 米軍は海上封鎖突破した2隻に攻撃 応酬続く",
+          "description": "アメリカとイランの緊張が再び高まるなか、イランが新たにホルムズ海峡で石油タンカーを拿捕（だほ）したことが明らかになりました。■イランが石油タンカー拿捕　「イランとの停戦は続いている」と繰り返すトラン",
+          "url": "https://news.tv-asahi.co.jp/news_international/articles/000503873.html",
+          "source": {
+            "name": "テレ朝NEWS"
+          },
+          "publishedAt": "2026-05-09T01:46:02Z",
+          "image": "https://news.tv-asahi.co.jp/articles_img/000503873_1200.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "日欧が“地球防衛”でタッグ 小惑星「アポフィス」探査ミッションでJAXAとESAが協力へ",
+          "description": "JAXAとESAが惑星防衛分野で協力へ。小惑星アポフィスを探査するESAの「RAMSES」ミッションに、JAXAはH3ロケットによる打ち上げや観測機器で参加します",
+          "url": "https://sorae.info/space/20260509-jaxa-esa-apophys.html",
+          "source": {
+            "name": "sorae 宇宙へのポータルサイト"
+          },
+          "publishedAt": "2026-05-09T01:38:57Z",
+          "image": "https://sorae.info/wp-content/uploads/2026/05/ramses-mission-asteroid-apophis-esa-2026-05-08-1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "“ヴァンサバ”風生物進化ローグライト『Everything is Crab』がSteamで「非常に好評」スタート",
+          "description": "脚や爪、翼、触手など、125種類以上の生物のパーツを組み合わせて進化。自分だけの最強のキメラを生み出そう。5月23日まで10%オフのセール中",
+          "url": "https://news.denfaminicogamer.jp/news/260509c",
+          "source": {
+            "name": "電ファミニコゲーマー"
+          },
+          "publishedAt": "2026-05-09T01:38:00Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_ba687ab17e02d58d140e8c46282a3772a657097a.1920x1080.jpg",
+          "language": "ja"
+        },
         {
           "title": "電子レンジ調理なのに冷たい！ ニチレイの「冷やし豚しゃぶうどん＆盛岡風冷麺」を食べてみた正直な感想",
           "description": "今の時代、レンジで温めながらもキンキンに冷えたものが食べられるようになった。知る人ぞ知る存在なのが、2022年からニチレイが販売している「冷やし中華」だろう。 氷 …",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-05-09T00:00:00Z",
           "image": "https://img.topics.smt.news.goo.ne.jp/picture/friday/m_friday-467072.png",
           "language": "ja"
-        },
-        {
-          "title": "Nintendo Switch 2値上げにSNSで衝撃と悲鳴…影響は広範囲。所有者も無関係ではない？価格改定の一覧をチェック「駆け込み間に合うかな」「今までよく耐えた」の声",
-          "description": "任天堂株式会社は、2026年5月8日、Nintendo Switch 2本体をはじめとしたハードウェアとサービスで価格改定を発表しました。\nSNSでは大幅な値上げに衝撃と悲鳴が上がっています。今回",
-          "url": "https://news.yahoo.co.jp/articles/2121a2e06dcadecf8006493dd6316660ae7970a1",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-08T22:36:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260509-00123748-toushin-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【競馬予想】NHKマイルＣで２歳王者カヴァレリッツォの巻き返しはあるか？ 「同馬には弱点がある」",
-          "description": "ＧⅠ朝日杯フューチュリティＳ（以下、朝日杯FS。12月21日／阪神・芝1600ｍ）の上位４頭がこぞって出走することで注目を集める今年のＧⅠNHKマイルＣ（５月10日／東京・芝1600ｍ）。実はこうし",
-          "url": "https://news.yahoo.co.jp/articles/afa03a9e0334262bf021200472385e9c903f4773",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-08T22:16:11Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260509-01111030-sportiva-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "広島大学・千原研――活性化したがん抑制経路が「隣の細胞」をがん化させる",
-          "description": "広島大学・千原研究室らが、がん抑制経路として知られる Hippo 経路が逆に隣接細胞をがん化させる現象を EMBO Reports で報告。Dronc–Wg/Spitz シグナリングと新規アミノ酸トランスポーター Sat1/Sat2 を同定し、がん治療の標的選定に新たな視点を提示する。",
-          "url": "https://innovatopia.jp/biotechnology/bio-news/101432/",
-          "source": {
-            "name": "innovaTopia"
-          },
-          "publishedAt": "2026-05-08T22:06:28Z",
-          "image": "https://innovatopia.jp/wp-content/uploads/2026/05/Drosophila_wing_disc_illustration_202605081421.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "【ＮＨＫマイルＣ・特選有力馬チェック】アドマイヤクワッズは買うべき？（スポーツ報知）｜ｄメニューニュース",
-          "description": "【ＮＨＫマイルＣ・特選有力馬チェック】アドマイヤクワッズは買うべき？（スポーツ報知）　第３１回ＮＨＫマイルＣ・Ｇ１（５月１０日、東京競馬場・芝１６００メートル）に出走するアドマイヤクワッズ（牡３歳、栗東・…",
-          "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260508-OHT1T51077?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-05-08T22:00:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/hochi/m_hochi-20260508-OHT1T51077.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "8日の米国市場ダイジェスト：米国株式市場は反発、雇用統計を好感",
-          "description": "■NY株式：米国株式市場は反発、雇用統計を好感\n米国株式市場は反発。",
-          "url": "https://www.zaikei.co.jp/article/20260509/852742.html",
-          "source": {
-            "name": "財経新聞"
-          },
-          "publishedAt": "2026-05-08T21:55:14Z",
-          "image": "http://www.zaikei.co.jp/images/zaikei_og_image.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "熊を撃って人を怖れるようにすることが唯一の共存の道だ",
-          "description": "私の祖父、杉山甫（はじめ）は、営林署長として北海道中を回った。昔の営林署長というのは、それなりに町の中では尊敬されていて、腰には銃も身につけていたと言われている。仕事柄、山に入ることは当然よくあり、冬にはアザラシの皮をつけた木製のスキー板を...",
-          "url": "https://agora-web.jp/archives/260508073738.html",
-          "source": {
-            "name": "アゴラ 言論プラットフォーム"
-          },
-          "publishedAt": "2026-05-08T21:50:37Z",
-          "image": "https://agora-web.jp/cms/wp-content/uploads/2026/05/iStock-2247420088-e1778238007252.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ＮＹ市場サマリー（8日）Ｓ＆Ｐ・ナスダック最高値、利回り低下 ドル下落",
-          "description": "＜為替＞ ドルがユーロなどの主要通貨に対し下落した。米国とイランの敵対的行動が再燃したにもかかわらず、トランプ米大統領が停戦は維持されていると述べたことを受け、戦闘の早期終結への慎重ながらも楽観的な見方が広がり、「有事のドル買い」が和らいだ。ドルは対円でも小幅安。最近の日本政府・日銀による為​替介入のほか、当局の口先介入を受け、急激な円売りは抑制されている。",
-          "url": "https://jp.reuters.com/markets/japan/BKFLTND7XFPQBHK4MKWZUFYLSA-2026-05-08/",
-          "source": {
-            "name": "Reuters"
-          },
-          "publishedAt": "2026-05-08T21:09:37Z",
-          "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "ED raids Punjab AAP chief Aman Arora's aide, he vows to quit politics 'if found guilty'",
-          "description": "Aman Arora's, who is a minister in Punjab cabinet, name surfaced in connection with the Enforcement Directorate (ED) raid on his “close associate” on Thursday",
-          "url": "https://www.hindustantimes.com/cities/chandigarh-news/ed-raids-will-quit-politics-if-found-guilty-says-aman-arora-101778271776192.html",
-          "source": {
-            "name": "Hindustan Times"
-          },
-          "publishedAt": "2026-05-09T01:20:15Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/05/09/550x309/20260308-MOH-RK-MN-Punjab-Budget-Session-17-0_1778300428906_1778300446157.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Nintendo president apologizes for Switch 2 price increase, promises \"robust software lineup\" to make up for it",
-          "description": "Nintendo president Shuntaro Furukawa has commented on the company’s plans moving forward in light of today’s price increase announcement for Switch 2. The company intends to raise the console’s price worldwide. For example, in the U.S., it’ll be going up by $50. Price changes will be going into effect mostly in September, though it’ll be happening as early as this...",
-          "url": "https://nintendoeverything.com/nintendo-president-apologizes-for-switch-2-price-increase-promises-robust-software-lineup-to-make-up-for-it/",
-          "source": {
-            "name": "Nintendo Everything"
-          },
-          "publishedAt": "2026-05-09T01:19:30Z",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-price-increase-apology-software-lineup.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Flea Drills Down On Jazz Roots As First Solo Tour Launches In Chicago",
-          "description": "Red Hot Chili Peppers bassist and Rock and Roll Hall of Famer Flea tore through a 90 minute jazz-fueled escape, touring in support of his new solo album 'Honora.'",
-          "url": "https://www.forbes.com/sites/jimryan1/2026/05/08/flea-drills-down-on-jazz-roots-as-first-solo-tour-launches-in-chicago/",
-          "source": {
-            "name": "Forbes"
-          },
-          "publishedAt": "2026-05-09T01:18:47Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/69fe8686e3cad100da2963c9/0x0.jpg?format=jpg&crop=6300,3542,x0,y325,safe&height=900&width=1600&fit=bounds",
-          "language": "en"
-        },
-        {
-          "title": "U.S. plans evacuation flight for Americans on hantavirus ship",
-          "description": "The U.S. is coordinating an evacuation flight for Americans aboard a hantavirus-affected cruise ship in the Canary Islands.",
-          "url": "https://www.thehindu.com/news/international/us-plans-evacuation-flight-for-americans-on-hantavirus-ship/article70958003.ece",
-          "source": {
-            "name": "The Hindu"
-          },
-          "publishedAt": "2026-05-09T01:17:51Z",
-          "image": "https://th-i.thgim.com/public/incoming/nra4b1/article70958005.ece/alternates/LANDSCAPE_1200/2026-05-08T134439Z_1600268653_RC2B2LA727QZ_RTRMADP_3_CRUISESHIP-HANTAVIRUS-GUIDANCE.JPG",
-          "language": "en"
-        },
-        {
-          "title": "Scottish election 2026: Results in maps and charts",
-          "description": "A guide to how the 2026 Holyrood election panned out.",
-          "url": "https://www.bbc.co.uk/news/articles/c3e2v4n20xlo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-05-09T01:17:22Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/531b/live/f61aafd0-4b35-11f1-8e00-0f1679e20190.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Donald Trump: US will start new Hormuz operation if Iran talks fail",
-          "description": "Earlier on Saturday, a reporter asked Trump if he thought Iran was \"slow-rolling\" talks, to which the President replied, \"We'll find out soon enough.\"",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-895598",
-          "source": {
-            "name": "The Jerusalem Post"
-          },
-          "publishedAt": "2026-05-09T01:15:17Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/720166",
-          "language": "en"
-        },
-        {
-          "title": "Mum of toddler in coma after horror birthday cake accident issues heart",
-          "description": "The 14-month-old boy has been fighting for his life after inhaling the common ingredient used to decorate cakes and other desserts while his mum was making a birthday cake",
-          "url": "https://www.mirror.co.uk/news/world-news/toddler-coma-birthday-cake-update-37132597",
-          "source": {
-            "name": "The Mirror"
-          },
-          "publishedAt": "2026-05-09T01:15:00Z",
-          "image": "https://i2-prod.mirror.co.uk/article37115672.ece/ALTERNATES/s1200d/0_DUSTY-NICU.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Lt Gen N S Raja Subramani appointed next CDS; Vice Adm Krishna Swaminathan to head Navy",
-          "description": "India News: NEW DELHI: The Centre on Saturday appointed Lieutenant General N S Raja Subramani (Retd.) as India’s next Chief of Defence Staff (CDS), while Vice Adm.",
-          "url": "https://timesofindia.indiatimes.com/india/new-chief-of-defence-staff-lt-gen-n-s-raja-subramani-appointed-indias-next-cds/articleshow/130969272.cms",
+          "title": "ED raids Punjab minister Sanjeev Arora's home in money laundering case",
+          "description": "NEW DELHI/CHANDIGARH: The Enforcement Directorate (ED) on Saturday carried out fresh searches against Punjab industries minister Sanjeev Arora and som.",
+          "url": "https://timesofindia.indiatimes.com/city/chandigarh/ed-raids-punjab-minister-sanjeev-aroras-home-in-money-laundering-case/articleshow/130970380.cms",
           "source": {
             "name": "The Times of India"
           },
-          "publishedAt": "2026-05-09T01:15:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-130969340,width-1280,height-720,imgsize-75788,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-05-09T03:54:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-130972868,width-1280,height-720,imgsize-43422,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Olivia Culpo Says She's Expecting Baby No. 2 With Christian McCaffrey",
-          "description": "Olivia Culpo and Christian McCaffrey are going for two ... they just announced she's pregnant with their second child, a little over 9 months after giving birth to their first.",
-          "url": "https://www.tmz.com/2026/05/08/olivia-culpo-pregnant-with-second-baby/",
+          "title": "Wife allegedly butchers husband in deadly fight over charcoal money",
+          "description": "A quiet farming community in the Ekumfi District of the Central Region has been thrown into a state of shock and grief following the gruesome killing of a local charcoal producer, Kweku Blankson, allegedly at the hands of his wife.",
+          "url": "https://www.myjoyonline.com/wife-allegedly-butchers-husband-in-deadly-fight-over-charcoal-money/",
           "source": {
-            "name": "TMZ"
+            "name": "MyJoyOnline"
           },
-          "publishedAt": "2026-05-09T01:13:53Z",
-          "image": "https://imagez.tmz.com/image/f5/16by9/2026/05/09/f58e6b2ea6fe4cf9847db023bacd4e73_xl.jpg",
+          "publishedAt": "2026-05-09T03:52:18Z",
+          "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/bloody-knife.jpg",
           "language": "en"
         },
         {
-          "title": "WHO says six hantavirus cases confirmed so far",
-          "description": "There are six confirmed cases of hantavirus so far out of eight suspected ones following an outbreak on a cruise ship, the World Health Organization said.",
-          "url": "https://www.rte.ie/news/world/2026/0509/1572469-hantavirus-cruise-ship/",
+          "title": "Lenovo Asia Pacific Names Sumir Bhatia as First Chief Commercial Officer",
+          "description": "Lenovo appoints Sumir Bhatia as Asia Pacific's first Chief Commercial Officer to lead its new commercial hub and accelerate Hybrid AI solutions.",
+          "url": "https://www.teknogadyet.com/2026/05/lenovo-chief-commercial-officer-asia-pacific.html",
           "source": {
-            "name": "RTE.ie"
+            "name": "TeknoGadyet"
           },
-          "publishedAt": "2026-05-09T01:13:51Z",
-          "image": "https://www.rte.ie/images/00245636-1600.jpg",
+          "publishedAt": "2026-05-09T03:52:00Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigIdM3N4MQGe0-IXY_tWmcn3tv5PFh6M0vQK2_u5yAEyVrS_MFGPPu5Ly_a3atod2kiDPdZiawBLolvvzqjUQv5J1WsNvJQhls3XLgC0_D6ouLRJ5NahnUUih8C47SdwNVWk5nvuYJ2TTiAsfOS8B7-8W8AcpQV5zwMoLZ1UZ0vdspi2kM2vdw0Ig2pa33/w1600-h1600-p-k-no-nu/lenovo-appoints-sumir-bhatia-chief-commercial-officer-asia-pacific.webp",
+          "language": "en"
+        },
+        {
+          "title": "Pluto-Like World's Thin Atmosphere Poses a Mystery for Astronomers",
+          "description": "Astronomers are puzzling over another oddball on the edge of the solar system: This time, it's an icy object less than a quarter of Pluto's size with a thin atmosphere – a layer of gas that's not typically found around objects so small.",
+          "url": "https://www.universetoday.com/articles/pluto-like-worlds-thin-atmosphere-poses-a-mystery-for-astronomers",
+          "source": {
+            "name": "Universe Today"
+          },
+          "publishedAt": "2026-05-09T03:52:00Z",
+          "image": "https://www.universetoday.com/article_images/260507-tno_20260508_024353.jpg",
+          "language": "en"
+        },
+        {
+          "title": "‘The support’s been unbelievable’: Storm coach Craig Bellamy addresses media for first time since diagnosis",
+          "description": "‘The support’s been unbelievable’: Bellamy fronts media for first time since diagnosis",
+          "url": "https://www.foxsports.com.au/nrl/nrl-premiership/the-supports-been-unbelievable-storm-coach-craig-bellamy-addresses-media-for-first-time-since-diagnosis/news-story/1d4b64e9517f645aafd8a2d4d31496bb",
+          "source": {
+            "name": "Fox Sports"
+          },
+          "publishedAt": "2026-05-09T03:49:42Z",
+          "image": "https://content.api.news/v3/images/bin/cfbc5fb8bcb2f2f3a02625302bd6dc29",
+          "language": "en"
+        },
+        {
+          "title": "Los Angeles Angels vs. Toronto Blue Jays Results, Stats, and Recap",
+          "description": "CBS Sports brings you live coverage, scoring, expert picks and stats for the MLB matchup between Los Angeles Angels and Toronto Blue Jays on May 8, 2026",
+          "url": "https://www.cbssports.com/mlb/gametracker/recap/MLB_20260508_LAA@TOR/",
+          "source": {
+            "name": "CBS Sports"
+          },
+          "publishedAt": "2026-05-09T03:49:34Z",
+          "image": "https://sportsfly.cbsistatic.com/fly-573/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
+          "language": "en"
+        },
+        {
+          "title": "Journalist found dead in Colombia's conflict zone",
+          "description": "Mateo Perez, a 25-year-old Colombian reporter, reportedly went missing on May 5 after being detained by guerrilla members at a roadblock.",
+          "url": "https://www.dw.com/en/journalist-found-dead-in-colombias-conflict-zone/a-77102110",
+          "source": {
+            "name": "DW.com"
+          },
+          "publishedAt": "2026-05-09T03:48:20Z",
+          "image": "https://static.dw.com/image/76521660_6.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Champions League | Defending champions PSG's road to final",
+          "description": "PSG beat Bayern Munich in the semis, Liverpool in the quarter-finals, Chelsea in the Round of 16 and Monaco in the knockout phase to enter their second consecutive Champions League final.",
+          "url": "https://www.wionews.com/photos/champions-league-defending-champions-psg-s-road-to-final-1778221699188",
+          "source": {
+            "name": "WION"
+          },
+          "publishedAt": "2026-05-09T03:45:00Z",
+          "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260508/image-1778222713577.jpg?imwidth=1200&imheight=900",
+          "language": "en"
+        },
+        {
+          "title": "Cowan: Young, hungry and confident Canadiens beat Sabres 5-1 in Game 2",
+          "description": "Habs are now 4-0 after a playoff loss and Jakub Dobes has a 1.49 goals-against average and a .946 save percentage in those four games.",
+          "url": "https://montrealgazette.com/sports/hockey/montreal-canadiens/cowan-young-hungry-and-confident-canadiens-beat-sabres-5-1-in-game-2/",
+          "source": {
+            "name": "Montreal Gazette"
+          },
+          "publishedAt": "2026-05-09T03:39:33Z",
+          "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/05/050926-buf-spts-sabres-p1034_303016247.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Ameesha Patel's Scathing Rant On Younger Actresses And Their 'PR-Created Stardom': '2 Films A Year Don't Make You A Star'",
+          "description": "Ameesha slammed younger actresses over allegedly trying to buy the \"number one\" tag through \"PR machinery\"",
+          "url": "https://www.ndtv.com/entertainment/ameesha-patels-scathing-rant-on-younger-actresses-and-their-pr-created-stardom-2-films-a-year-dont-make-you-a-star-11470040",
+          "source": {
+            "name": "NDTV"
+          },
+          "publishedAt": "2026-05-09T03:37:21Z",
+          "image": "https://c.ndtvimg.com/2026-02/i5dioncc_ameesha-patel_625x300_17_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
           "language": "en"
         }
       ]
