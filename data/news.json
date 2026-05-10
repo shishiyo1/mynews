@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-10T13:22:04.832Z",
+  "updatedAt": "2026-05-10T15:56:23.639Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "128GB超メモリMac専用の巨大LLMエンジン「ds4」はローカル推論の常識をどう書き換えるのか。284BのDeepSeek V4 FlashをM4 Max 128GB MacBook Proの自作AIに組み込んでみた（CloseBox）",
+          "description": "Redisの作者であるSalvatore Sanfilippo（antirez）が、5月初旬にGitHubへひっそりと新しいリポジトリを公開しました。名前は『ds4』。DeepSeek V4 Flash専用のローカル推論エンジンです。",
+          "url": "https://www.techno-edge.net/article/2026/05/10/5049.html",
+          "source": {
+            "name": "テクノエッジ TechnoEdge"
+          },
+          "publishedAt": "2026-05-10T03:45:24Z",
+          "image": "https://www.techno-edge.net/imgs/ogp_f/31310.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "独立経営の「AP」がなぜ？「スウォッチ」がホーリー・トリニティと電撃コラボ 株価は年初来高値を更新",
+          "description": "独立経営の「AP」がなぜ？「スウォッチ」がホーリー・トリニティと電撃コラボ　株価は年初来高値を更新",
+          "url": "https://www.seventietwo.com/ja/business/AudemarsPiguet_Swatch_RoyalPop_20260510",
+          "source": {
+            "name": "SEVENTIE TWO"
+          },
+          "publishedAt": "2026-05-10T03:17:30Z",
+          "image": "https://www.seventietwo.com/uploads/2026/05/2a753e87afe91d72bdf8d42983fa9f71.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "開幕4戦終えて最下位。巨額投資のアストンマーティンは「今の順位に言い訳ができない」とシュタイナー（motorsport.com 日本版）",
+          "description": "新レギュレーションとなった今季のF1で、アストンマーティンは序盤戦から大きくつまずいた。かつてハースでチーム代表を務めたギュンター・シュタイナーは、多額の投資で優秀な人材も多数獲得したアストンマー",
+          "url": "https://news.yahoo.co.jp/articles/96077cec2650312074537d27bffd5b35c75fb0c7",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-10T03:06:59Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260510-00000005-msportcom-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "iPhone 18 Proの画面、より見やすく、省エネへ？",
+          "description": "Image: Apple 画面も良い進化が来そうな予感。今秋に登場（予定）のiPhone 18 Proと18 Pro Max。どんな進化が、未来がやってくるのか？ 今からさまざまな噂が飛び交っています",
+          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260510_1778386441434506",
+          "source": {
+            "name": "au Webポータル"
+          },
+          "publishedAt": "2026-05-10T03:00:00Z",
+          "image": "https://portal.st-img.jp/thumb/e1e4581caf6e0a8ab9f868137c047fb5_1778386441_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "iPhone 18 Proの画面、より見やすく、省エネへ？",
+          "description": "画面も良い進化が来そうな予感。今秋に登場（予定）のiPhone 18 Proと18 Pro Max。どんな進化が、未来がやってくるのか？ 今からさまざまな噂が飛び交っていますが、画面の仕様に関して、性能アップの噂が聞こえてきました。韓国の電子・半導体業界専門メディアTheElecによると、iPhone 18 Proシリーズには、｢LTPO+｣のOLEDパネルが採用されるとのこと。常時表示がもっと",
+          "url": "https://www.gizmodo.jp/2026/05/iphone-18-pro-ltpo-plus-display-upgrade.html",
+          "source": {
+            "name": "ギズモード・ジャパン"
+          },
+          "publishedAt": "2026-05-10T03:00:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/05/07/20260507gak00.jpg?w=1280&h=630&f=jpg",
+          "language": "ja"
+        },
+        {
+          "title": "プーチン氏、軍事パレード参加の北朝鮮軍に謝意 陸海空の混成部隊",
+          "description": "【ソウル=恩地洋介】北朝鮮の朝鮮中央通信は10日、ロシアのプーチン大統領が9日の軍事パレードに参加した朝鮮人民軍の指揮官と会い謝意を示したと報じた。10日付の朝鮮労働党機関紙「労働新聞」は北朝鮮軍の兵士が行進する写真を1面に掲載した。軍事パレードはロシアの第2次世界大戦の対ドイツ戦勝記念日に合わせて開かれた。恒例の地上兵器の隊列はなかったが、北朝鮮軍が初めて参加した。",
+          "url": "https://www.nikkei.com/article/DGXZQOGM100DL0Q6A510C2000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-05-10T02:14:42Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2993093010052026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.09&fp-y=0.6&h=630&w=1200&s=a277708fc6b5b89cdb32fca2d1934bc9",
+          "language": "ja"
+        },
+        {
+          "title": "ラーメン自販機の進化形、セブンの「セルフ式ラーメン調理マシン」は革命を起こしたコーヒーマシンになれるか？",
+          "description": "セブンイレブンは2013年に、1杯ずつ淹れたてのコーヒーを提供するコーヒーマシンを導入して大成功した。今でこそ、どこのコンビニでも手軽に淹れたてのコーヒーを飲める …",
+          "url": "https://rocketnews24.com/2026/05/10/2759448/",
+          "source": {
+            "name": "ロケットニュース24"
+          },
+          "publishedAt": "2026-05-10T02:00:53Z",
+          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/05/7ramenj.jpg?w=1200&h=630&crop=1",
+          "language": "ja"
+        },
         {
           "title": "【杉村富生の短期相場観測】 ─株価革命！次の1万円銘柄を狙う！",
           "description": "壮大な上昇相場は「嘆きの坂を駆け登る」という。５月７日の株式市場は日経平均株価が３３２０円（５．５８％）高の６万２８３３円（ザラバ高値は６万３０９１円）と急騰した。売買代金は１０兆８４００億円に膨らんだ。完全に“異次元”の景色である。しかし・・・。",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-05-09T22:40:04Z",
           "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/387/38756/main/20260510065913/large.jpg",
           "language": "ja"
-        },
-        {
-          "title": "《業界屈指の“ロケ力”も》休養中でむしろ際立つバナナマン日村勇紀の存在感 なぜ「食べるだけ」の番組が支持を集めるのか？",
-          "description": "《業界屈指の“ロケ力”も》休養中でむしろ際立つバナナマン日村勇紀の存在感　なぜ「食べるだけ」の番組が支持を集めるのか？ （NEWSポストセブン）　休養を発表したバナナマン・日村勇紀（53歳）。多数のレギュラー番組を持つ売れっ子だけに、テレビ業界にはショックの声も広が…",
-          "url": "https://topics.smt.docomo.ne.jp/article/postseven/entertainment/postseven-2108635?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-05-09T22:15:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/postseven/m_postseven-2108635.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "何がスゴい？おサイフケータイも使える超コスパスマホ「Nothing Phone(4a)」と「Nothing Phone(4a)Pro」が上陸",
-          "description": "印象的なスケルトンボディを特徴とし、日本でも知名度を伸ばしているNothing Technologyが、天王洲のWHAT CAFEにて、新製品発表会「NOTHING 2026 SPRING UPDA",
-          "url": "https://news.yahoo.co.jp/articles/d7eb98c63549e2ad062a7af78a490ab0a45b432f",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-09T22:11:20Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260510-00010000-dime-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "《業界屈指の“ロケ力”も》休養中でむしろ際立つバナナマン日村勇紀の存在感 なぜ「食べるだけ」の番組が支持を集めるのか？",
-          "description": "休養を発表したバナナマン・日村勇紀（53歳）。多数のレギュラー番組を持つ売れっ子だけに、テレビ業界にはショックの声も広がっている。その一方で、今後不在が続くことになったことでむし…",
-          "url": "https://www.news-postseven.com/archives/20260510_2108635.html?DETAIL",
-          "source": {
-            "name": "NEWSポストセブン"
-          },
-          "publishedAt": "2026-05-09T22:00:00Z",
-          "image": "https://www.news-postseven.com/uploads/2026/05/10/instagram-bananaman03.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "妹が殺された 検察は34年間、証拠を伏せた 「では、真犯人は？」",
-          "description": "福井市で1986年に起きた女子中学生殺害事件で昨夏、服役した前川彰司さん（60）の再審無罪が確定した。無罪の決め手となった証拠の一つは、34年間、捜査機関の手元に留め置かれていた。その間、遺族にとっ…",
-          "url": "https://www.asahi.com/articles/ASV581GLGV58PJLB009M.html",
-          "source": {
-            "name": "朝日新聞"
-          },
-          "publishedAt": "2026-05-09T22:00:00Z",
-          "image": "https://imgopt.asahi.com/ogp/AS20260508003772_comm.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「なぜ井上尚弥にパンチが当たらないのか？」中谷潤人が痛感した\"怪物の恐ろしさ\"「当たった！と思っても…」「すぐに学習されてしまう」（Number Web）",
-          "description": "世紀の一戦のウラ側――。中谷潤人本人が試合後に明かしたインタビュー記事の短縮版をお届けします。\n　左眼窩底骨折を負いながら、最終ラウンドのゴングが鳴り止むと同時に、中谷潤人の顔に満面の笑みが広がっ",
-          "url": "https://news.yahoo.co.jp/articles/bc30f46e38ccbb32057d373bfecac8bee70db959",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-09T21:07:04Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260510-00870386-number-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "住宅ローン、月2万円の負担増は想定内？ 若年層が直面する重い未来",
-          "description": "日銀は4月の金融政策決定会合で政策金利を0.75%に据え置いた。市場のコンセンサスによれば、日銀は遅かれ早かれ追加利上げに踏み切る。政策金利に連動する変動金利で住宅ローンを借りている人は近い将来、どれくらいの負担に直面するのか。頭の体操をするのに早すぎることはない。長期金利の大幅な上昇に伴い、足元では固定型のローン金利の方が変動型より大きく上がっている。おのずと固定型の金利水準に注目が集まりが",
-          "url": "https://www.nikkei.com/article/DGXZQOUB014HU0R00C26A5000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-05-09T20:00:00Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2978108005052026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=a53a821153a0a40f99337f2fd108e524",
-          "language": "ja"
-        },
-        {
-          "title": "美絽＆稲葉通陽（B&ZAI）W主演映画「17歳のプルーフ」公開決定 1冊の小説をきっかけに始まる青春ミステリー",
-          "description": "女優の美絽とB&ZAIの稲葉通陽が主演を務める映画『17歳のプルーフ』が、2027年2月に公開されることが決定。あわせて、ビジュアル写真とキャスト＆スタッフコメントが解禁された。",
-          "url": "https://mdpr.jp/cinema/detail/4777167",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-05-09T19:00:00Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/nlsr/nm/nlsrLRhhtOpy3B5V_G4WNvmkjrLj5y_saZ-bEJMmtMs.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Wellington Phoenix v Brisbane Roar A-League women's semi-final",
-          "description": "The Wellington side overcame a one-goal deficit to edge Brisbane Roar in extra time at Porirua.",
-          "url": "https://www.rnz.co.nz/news/sport/594763/wellington-phoenix-v-brisbane-roar-a-league-women-s-semi-final",
+          "title": "Helpful at sea? China embassy cartoon recasts actions vs Filipino fishers",
+          "description": "The Chinese Embassy in Manila responded to Philippine Coast Guard spokesperson Jay Tarriela with a cartoon portraying China as helpful at sea.",
+          "url": "https://www.philstar.com/headlines/2026/05/10/2526953/helpful-sea-china-embassy-cartoon-recasts-actions-vs-filipino-fishers",
           "source": {
-            "name": "RNZ"
+            "name": "Philstar.com"
           },
-          "publishedAt": "2026-05-10T01:19:41Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--kz-gqGWo--/t_tohu-badge-facebook/v1778390363/4JOU8CJ_260510PhoenixWmnBrisbane_45_JPG?_a=BACCd2AD",
+          "publishedAt": "2026-05-10T03:55:00Z",
+          "image": "https://media.philstar.com/photos/2026/05/10/facebook-exchange-china-embassy-jay-tarriela_2026-05-10_12-13-52.jpg",
           "language": "en"
         },
         {
-          "title": "US-Israel, Iran war LIVE updates: Iran warns US of ‘heavy assault’ if ships face more attacks; Israel continues bombing Lebanon",
-          "description": "US-Israel, Iran Live updates: Tensions between the US and Iran continue to rise as both countries push contradictory narratives amid Strait of Hormuz crisis.",
-          "url": "https://www.financialexpress.com/world-news/us-israel-iran-war-live-updates-us-expects-iran-response-on-latest-peace-plan-despite-attacks-rising-tensions-in-hormuz/4235920/",
+          "title": "Colonizers Injure Two Women, Expand Attacks Across West Bank",
+          "description": "Illegal paramilitary colonizers carried out a series of attacks across the occupied West Bank on Saturday, injuring two Palestinian women and expanding thei ...",
+          "url": "https://imemc.org/article/colonizers-injure-two-women-expand-attacks-across-west-bank/",
           "source": {
-            "name": "financialexpress.com"
+            "name": "- IMEMC News"
           },
-          "publishedAt": "2026-05-10T01:18:56Z",
-          "image": "https://images.financialexpressdigital.com/2026/05/trump-iran-war-may10.jpg",
+          "publishedAt": "2026-05-10T03:52:08Z",
+          "image": "https://imemc.org/wp-content/uploads/2026/05/colonizers_attack-e1778384022864.jpg",
           "language": "en"
         },
         {
-          "title": "Fuel price shock ripples across country",
-          "description": "Fuel price shock ripples across country",
-          "url": "https://tribune.com.pk/story/2607278/fuel-price-shock-ripples-across-country",
+          "title": "Bianca Censori returns to daring style after Kim Kardashian comparisons",
+          "description": "Bianca Censori stunned fans with a bold new look following comparisons between her style and Kim Kardashian’s Met Gala outfit. See details.",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/bianca-censori-returns-daring-style-034950416.html",
           "source": {
-            "name": "The Express Tribune"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-05-10T01:18:27Z",
-          "image": "https://i.tribune.com.pk/media/images/fuel1773994109-0/fuel1773994109-0-640x480.webp",
+          "publishedAt": "2026-05-10T03:49:00Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/dNHyjZJPvhscBwqorXbzPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/hello_us_861/220ab65821a49c2f87865cb8e51f9765",
           "language": "en"
         },
         {
-          "title": "Jacob Fatu Chokes Out Roman Reigns After Controversial Loss At WWE Backlash 2026",
-          "description": "Roman Reigns may still be World Heavyweight Champion after WWE Backlash, but it was Jacob Fatu who stood tall after choking him out with the Tongan Death Grip.",
-          "url": "https://www.wrestlinginc.com/2168808/wwe-backlash-2026-jacob-fatu-roman-reigns-controversial-loss/",
+          "title": "How cybercriminals hacked Ekurhuleni’s IT system to steal R2bn",
+          "description": "Spyware, insider access, and lack of audit trails enabled massive municipal billing scam",
+          "url": "https://www.timeslive.co.za/news/2026-05-10-how-cybercriminals-hacked-ekurhulenis-it-system-to-steal-r2bn/",
           "source": {
-            "name": "Wrestling Inc."
+            "name": "TimesLIVE"
           },
-          "publishedAt": "2026-05-10T01:18:12Z",
-          "image": "https://www.wrestlinginc.com/img/gallery/wwe-backlash-2026-jacob-fatu-roman-reigns-controversial-loss/l-intro-1778375117.jpg",
+          "publishedAt": "2026-05-10T03:48:21Z",
+          "image": "https://www.timeslive.co.za/resizer/v2/L6FZKSJ4SZECHP72BZYXDIFRNE?smart=true&auth=526858c0259633c82b3869cc287877f100888a3ee4cc65214b0f7638739a49ef&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Blake’s OT winner gives Hurricanes win in Game 4 to complete sweep over Flyers",
-          "description": "Jackson Blake scored 5:28 into overtime for his second of the game, Logan Stankoven also scored in regulation and the Carolina Hurricanes finished a four-game sweep with a 3-2 victory over the Philadelphia Flyers to advance to the Eastern Conference finals for the second straight season.",
-          "url": "https://www.tsn.ca/nhl/article/blakes-ot-winner-gives-hurricanes-win-in-game-4-to-complete-sweep-over-flyers/",
+          "title": "DSWD on red alert for Tropical Storm Caloy",
+          "description": "MANILA, Philippines —The Department of Social Welfare and Development is on red alert as it prepares for the possible impact of Tropical Storm Caloy, Secretary Rex Gatchalian said on Sunday.",
+          "url": "https://www.manilatimes.net/2026/05/10/news/dswd-on-red-alert-for-tropical-storm-caloy/2340117",
           "source": {
-            "name": "TSN"
+            "name": "The Manila Times"
           },
-          "publishedAt": "2026-05-10T01:16:00Z",
-          "image": "https://www.tsn.ca/resizer/v2/OONXTUH2HRGL5CJ4FDKJRTFUHM.jpg?smart=true&auth=dc949eee6365578660b6772ee1120419833cef5ee13955d8f9d56d7ca4bb7cc6&width=1200&height=630",
+          "publishedAt": "2026-05-10T03:45:00Z",
+          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/10/1050256.jpg",
           "language": "en"
         },
         {
-          "title": "Kachehri Chowk corridor opens for traffic",
-          "description": "Kachehri Chowk corridor opens for traffic",
-          "url": "https://tribune.com.pk/story/2607268/kachehri-chowk-corridor-opens-for-traffic",
+          "title": "Ina Raymundo's daughter Erika graduates from Berklee College of Music",
+          "description": "Ina Raymundo's firstborn, Erika, just graduated from college!",
+          "url": "https://www.gmanetwork.com/news/lifestyle/familyandrelationships/987081/ina-raymundo-erika-poturnak-berklee-college-of-music/story/",
           "source": {
-            "name": "The Express Tribune"
+            "name": "GMA Network"
           },
-          "publishedAt": "2026-05-10T01:15:47Z",
-          "image": "https://i.tribune.com.pk/media/images/91778375351-5/91778375351-5-640x480.webp",
+          "publishedAt": "2026-05-10T03:39:35Z",
+          "image": "https://images.gmanews.tv/webpics/2026/05/ina_raymundo_2026_05_10_11_38_43.jpg",
           "language": "en"
         },
         {
-          "title": "TGMA 2026: Fella Makafui's Dances to Medikal's Performance, Video Gets Fans Talking",
-          "description": "Fella Makafui captivated fans online with her joyful dance during Medikal's performance at TGMA 2026, showcasing their warm connection as ex-partners.",
-          "url": "https://yen.com.gh/entertainment/celebrities/304277-tgma-2026-fella-makfuis-unexpected-reaction-medikals-performance-sparks-reactions/",
+          "title": "5 powerful YouTube features you should start using",
+          "description": "Discover hidden YouTube features that improve search, navigation, recommendations, and screen-time management for a smarter viewing experience.",
+          "url": "https://www.samaa.tv/2087350458-5-powerful-youtube-features-you-should-start-using",
           "source": {
-            "name": "Yen News"
+            "name": "samaa tv"
           },
-          "publishedAt": "2026-05-10T01:15:47Z",
-          "image": "https://cdn.yen.com.gh/images/1200x675/1d976f1d15a4db74.jpeg?v=1",
+          "publishedAt": "2026-05-10T03:38:27Z",
+          "image": "https://images.samaa.tv/images/YouTube-2026-latest.jpg",
           "language": "en"
         },
         {
-          "title": "Cavaliers' James Harden bounces back with late takeover in Game 3",
-          "description": "James Harden endured plenty of criticism after the first two games of the Cavaliers' NBA Eastern Conference semifinal series against Detroit.",
-          "url": "https://sports.inquirer.net/675896/cavaliers-james-harden-bounces-back-with-late-takeover-in-game-3",
+          "title": "NASA And Katalyst Space Technologies Are Soon To Launch A Robotic Spacecraft, With Hopes That It Can Catch A Vital Observatory Before It Falls Back Into Our Atmosphere",
+          "description": "The best of the internet, sifted, and sorted.",
+          "url": "https://twistedsifter.com/2026/05/nasa-and-katalyst-space-technologies-are-soon-to-launch-a-robotic-spacecraft-with-hopes-that-it-can-catch-a-vital-observatory-before-it-falls-back-into-our-atmosphere/",
           "source": {
-            "name": "Inquirer.net"
+            "name": "TwistedSifter"
           },
-          "publishedAt": "2026-05-10T01:15:00Z",
-          "image": "https://sports.inquirer.net/files/2026/05/AFP__20260509__2275360448__v1__HighRes__DetroitPistonsVClevelandCavaliersGameThree.jpg",
+          "publishedAt": "2026-05-10T03:37:20Z",
+          "image": "https://twistedsifter.com/wp-content/uploads/2026/05/Copy-of-TWISTED-IMAGES-JPG-quality-75-size-180KB.jpg",
           "language": "en"
         },
         {
-          "title": "Alexa Leary out of 2026 Glasgow Commonwealth Games after disability reclassification",
-          "description": "Alexa Leary is classified out of the Commonwealth Games team as Swimming Australia names first half of squad for Glasgow 2026.",
-          "url": "https://www.abc.net.au/news/2026-05-10/alexa-leary-out-of-commonwealth-games-after-reclassification/106663094",
+          "title": "Rock fisherman dies after being swept into water north of Sydney",
+          "description": "A 41-year-old fisherman has died after being swept off rocks north of Sydney - despite wearing a floatation...",
+          "url": "https://www.9news.com.au/national/central-coast-nsw-fisherman-died/a21e339b-f05a-488f-89f6-fd9be4043d2c",
           "source": {
-            "name": "Australian Broadcasting Corporation"
+            "name": "9News"
           },
-          "publishedAt": "2026-05-10T01:12:27Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/3df0eaaf4baa0ef14cada3bdcddf53da?impolicy=wcms_watermark_news&cropH=2772&cropW=4928&xPos=0&yPos=254&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-05-10T03:35:40Z",
+          "image": "https://imageresizer.static9.net.au/Jv3Y0q6LxH_dYrD3i2oaTkhANyE=/88x0:4520x2493/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F79cfb392-e918-400c-8c1c-1d69fc501a95",
           "language": "en"
         },
         {
-          "title": "Roman Reigns Retains But Gets Demolished like AEW at WWE Backlash",
-          "description": "The Chadster witnessed Roman Reigns retain over Jacob Fatu in the WWE Backlash main event, proving once and for all that AEW could NEVER measure up!",
-          "url": "https://bleedingcool.com/tv/roman-reigns-retains-but-gets-demolished-like-aew-at-wwe-backlash/",
+          "title": "Vietnamese workers among Southeast Asia’s least engaged despite high optimism: Gallup",
+          "description": "Vietnamese workers are among the most optimistic in Southeast Asia about their lives but also the least engaged with their workplaces, according to Gallup's State of the Global Workplace 2026 report.",
+          "url": "https://news.tuoitre.vn/vietnamese-workers-among-southeast-asia-s-least-engaged-despite-high-optimism-gallup-103260509163301835.htm",
           "source": {
-            "name": "Bleeding Cool News"
+            "name": "Tuoi Tre News | The News Gateway to Vietnam"
           },
-          "publishedAt": "2026-05-10T01:10:09Z",
-          "image": "https://bleedingcool.com/wp-content/uploads/2026/05/Roman-Reigns-heroically-endures-punishment-at-the-hands-of-Jacob-Fatu-at-WWE-Backlash-2000x1125.jpg",
+          "publishedAt": "2026-05-10T03:35:00Z",
+          "image": "https://cdn2.tuoitre.vn/zoom/600_315/471584752817336320/2026/5/9/z7807265306483cb8d1f29afb3e6272d85d8661e0efdec-1778309528012760269026-177831904342851680701-293-0-1365-2047-crop-17783190983431267561882.jpg",
           "language": "en"
         }
       ]
