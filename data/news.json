@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-10T10:17:09.934Z",
+  "updatedAt": "2026-05-10T13:22:04.832Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【杉村富生の短期相場観測】 ─株価革命！次の1万円銘柄を狙う！",
+          "description": "壮大な上昇相場は「嘆きの坂を駆け登る」という。５月７日の株式市場は日経平均株価が３３２０円（５．５８％）高の６万２８３３円（ザラバ高値は６万３０９１円）と急騰した。売買代金は１０兆８４００億円に膨らんだ。完全に“異次元”の景色である。しかし・・・。",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202605100019",
+          "source": {
+            "name": "株探"
+          },
+          "publishedAt": "2026-05-10T00:15:00Z",
+          "image": "https://async.api.kabutan.jp/og_image?title=%E3%80%90%E6%9D%89%E6%9D%91%E5%AF%8C%E7%94%9F%E3%81%AE%E7%9F%AD%E6%9C%9F%E7%9B%B8%E5%A0%B4%E8%A6%B3%E6%B8%AC%E3%80%91%20%E2%94%80%E6%A0%AA%E4%BE%A1%E9%9D%A9%E5%91%BD%EF%BC%81%E6%AC%A1%E3%81%AE1%E4%B8%87%E5%86%86%E9%8A%98%E6%9F%84%E3%82%92%E7%8B%99%E3%81%86%EF%BC%81",
+          "language": "ja"
+        },
+        {
+          "title": "世界卓球2026ロンドン 大会12日目（5月9日） 男子団体、準決勝中華台北戦に勝利した日本チームのコメント",
+          "description": "「世界卓球2026ロンドン　大会12日目（5月9日）　男子団体、準決勝中華台北戦に勝利した日本チームのコメント」の記事詳細。強くなるためのポイントが満載の卓球情報サイト「卓球レポート」の公式サイトです。世界卓球や全日本卓球などの速報も配信しています。",
+          "url": "https://www.butterfly.co.jp/takurepo/tournament/detail/028232.html",
+          "source": {
+            "name": "バタフライ卓球用品"
+          },
+          "publishedAt": "2026-05-09T23:42:57Z",
+          "image": "https://www.butterfly.co.jp/takurepo/tournament/item/260509wc-mt-jp00.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "気温上昇 関東以西は25℃以上の地点増加 暑さ対策を 今日5月10日(日)の天気",
+          "description": "今日10日(日)は、北日本から西日本の広い範囲で晴れるでしょう。昨日ほどの強い風も吹かず、お出かけに良さそうです。最高気温は前日と同じか高く、関東から九州にかけて25℃以上の夏日の地点が増えるでしょう。暑さ対策を心掛けてください。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/05/10/38756.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-09T22:40:04Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/387/38756/main/20260510065913/large.jpg",
+          "language": "ja"
+        },
         {
           "title": "《業界屈指の“ロケ力”も》休養中でむしろ際立つバナナマン日村勇紀の存在感 なぜ「食べるだけ」の番組が支持を集めるのか？",
           "description": "《業界屈指の“ロケ力”も》休養中でむしろ際立つバナナマン日村勇紀の存在感　なぜ「食べるだけ」の番組が支持を集めるのか？ （NEWSポストセブン）　休養を発表したバナナマン・日村勇紀（53歳）。多数のレギュラー番組を持つ売れっ子だけに、テレビ業界にはショックの声も広が…",
@@ -81,150 +114,117 @@
           "publishedAt": "2026-05-09T19:00:00Z",
           "image": "https://img-mdpr.freetls.fastly.net/article/nlsr/nm/nlsrLRhhtOpy3B5V_G4WNvmkjrLj5y_saZ-bEJMmtMs.jpg?width=700&disable=upscale&auto=webp&quality=80",
           "language": "ja"
-        },
-        {
-          "title": "日本代表はタイ、インドネシア、そして2連覇のカタールと同組に！ アジア杯2027の組み合わせが決定",
-          "description": "アジアサッカー連盟（AFC）は9日、サウジアラビアで開催されるAFCアジアカップ2027組み合わせ抽選会を実施した。日本代表は、カタール代表、タイ代表、インド···",
-          "url": "https://www.soccer-king.jp/news/japan/national/20260510/2157640.html",
-          "source": {
-            "name": "サッカーキング"
-          },
-          "publishedAt": "2026-05-09T18:57:14Z",
-          "image": "https://www.soccer-king.jp/wp-content/uploads/2026/05/260510_Japan_01.png",
-          "language": "ja"
-        },
-        {
-          "title": "元りあるキッズ長田融季、“芸人いじめ告発”削除理由を暴露 「サバンナ高橋から消せと…」",
-          "description": "元りあるキッズ・長田融季が、中山功太への“いじめ告発”投稿を削除した理由を告白。「サバンナ高橋から消せと言われた」との発言が波紋を呼んでいる。",
-          "url": "https://coki.jp/article/column/77631/",
-          "source": {
-            "name": "coki.jp"
-          },
-          "publishedAt": "2026-05-09T18:29:51Z",
-          "image": "https://coki.jp/wp-content/uploads/2026/05/cfa8b3e1fa50b36f2dba85e72feba21e.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "菅原由勢が開始5分で一発退場…長田澪が奮闘のブレーメンは敗戦も自動降格回避！ 町田浩樹メンバー外のホッフェンハイムはCL出場権に望みつなぐ勝利",
-          "description": "ブンデスリーガ第33節が9日に行われ、ホッフェンハイムとブレーメンが対戦した。\n　チャンピオンズリーグ（CL）出場権を争う6位のホッフェンハイムと、自力での1部残留へ残り2試合で勝ち点1が必要な",
-          "url": "https://news.yahoo.co.jp/articles/8f714465dceb2970ee8c849299ca02c952976b5a",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-09T15:29:34Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260510-02157581-soccerk-000-1-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Ashanti Region to see major power upgrades by September - Energy Minister",
-          "description": "The government says it is making substantial investments in energy infrastructure to ensure a stable and resilient electricity supply in the Ashanti Region in",
-          "url": "https://www.gbcghanaonline.com/general/ashanti-region-to-see-major-power-upgrades-by-september-energy-minister/2026/",
+          "title": "Wellington Phoenix v Brisbane Roar A-League women's semi-final",
+          "description": "The Wellington side overcame a one-goal deficit to edge Brisbane Roar in extra time at Porirua.",
+          "url": "https://www.rnz.co.nz/news/sport/594763/wellington-phoenix-v-brisbane-roar-a-league-women-s-semi-final",
           "source": {
-            "name": "GBC Ghana Online"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-05-09T22:16:31Z",
-          "image": "https://i0.wp.com/www.gbcghanaonline.com/wp-content/uploads/2026/05/309479-scaled.jpg",
+          "publishedAt": "2026-05-10T01:19:41Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--kz-gqGWo--/t_tohu-badge-facebook/v1778390363/4JOU8CJ_260510PhoenixWmnBrisbane_45_JPG?_a=BACCd2AD",
           "language": "en"
         },
         {
-          "title": "5/9/26 (Roman Reigns vs. Jacob Fatu for the World Heavyweight Championship)",
-          "description": "WWE Backlash ResultsMay 9, 2026Tampa, Florida (Benchmark International Arena)Commentary: Michael Cole and Wade BarrettResults by: Mike Tedesco of…",
-          "url": "https://www.wrestleview.com/wwe-backlash/382283-live-wwe-backlash-results-may-9-2026-tampa/",
+          "title": "US-Israel, Iran war LIVE updates: Iran warns US of ‘heavy assault’ if ships face more attacks; Israel continues bombing Lebanon",
+          "description": "US-Israel, Iran Live updates: Tensions between the US and Iran continue to rise as both countries push contradictory narratives amid Strait of Hormuz crisis.",
+          "url": "https://www.financialexpress.com/world-news/us-israel-iran-war-live-updates-us-expects-iran-response-on-latest-peace-plan-despite-attacks-rising-tensions-in-hormuz/4235920/",
           "source": {
-            "name": "Wrestleview.com"
+            "name": "financialexpress.com"
           },
-          "publishedAt": "2026-05-09T22:14:26Z",
-          "image": "https://www.wrestleview.com/wp-content/uploads/2026/05/backlash-2026.jpg",
+          "publishedAt": "2026-05-10T01:18:56Z",
+          "image": "https://images.financialexpressdigital.com/2026/05/trump-iran-war-may10.jpg",
           "language": "en"
         },
         {
-          "title": "Lancaster hails 'great win' as play",
-          "description": "Connacht head coach Stuart Lancaster knows his team still have plenty of work do to but was able to bask in the satisfaction of a job well done as they secured a bonus-point win over Munster.",
-          "url": "https://www.rte.ie/sport/united-rugby-championship/2026/0509/1572559-lancaster-hails-great-win-as-play-off-dreams-alive/",
+          "title": "Fuel price shock ripples across country",
+          "description": "Fuel price shock ripples across country",
+          "url": "https://tribune.com.pk/story/2607278/fuel-price-shock-ripples-across-country",
           "source": {
-            "name": "RTE.ie"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-05-09T22:14:14Z",
-          "image": "https://www.rte.ie/images/00245702-1600.jpg",
+          "publishedAt": "2026-05-10T01:18:27Z",
+          "image": "https://i.tribune.com.pk/media/images/fuel1773994109-0/fuel1773994109-0-640x480.webp",
           "language": "en"
         },
         {
-          "title": "Delhi on high alert as intel flags terror attack threat days after Pakistan module bust",
-          "description": "Officers said that the inputs were received in the aftermath of arrest of nine members of a network linked to Shahzad Bhatti, a gangster linked to Pakistan. | Latest News Delhi",
-          "url": "https://www.hindustantimes.com/cities/delhi-news/central-delhi-bjp-head-office-receive-terror-attack-threats-101778350095716.html",
+          "title": "Jacob Fatu Chokes Out Roman Reigns After Controversial Loss At WWE Backlash 2026",
+          "description": "Roman Reigns may still be World Heavyweight Champion after WWE Backlash, but it was Jacob Fatu who stood tall after choking him out with the Tongan Death Grip.",
+          "url": "https://www.wrestlinginc.com/2168808/wwe-backlash-2026-jacob-fatu-roman-reigns-controversial-loss/",
           "source": {
-            "name": "Hindustan Times"
+            "name": "Wrestling Inc."
           },
-          "publishedAt": "2026-05-09T22:14:12Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/05/09/550x309/India-Gate-Security--3_1763613953945_1763613965520_1778365369413.jpg",
+          "publishedAt": "2026-05-10T01:18:12Z",
+          "image": "https://www.wrestlinginc.com/img/gallery/wwe-backlash-2026-jacob-fatu-roman-reigns-controversial-loss/l-intro-1778375117.jpg",
           "language": "en"
         },
         {
-          "title": "Blue Jays win big with offensive outburst against Angels",
-          "description": "The Toronto Blue Jays' bats came alive on Saturday as they dominated the Angels en route to a 14-1 victory.",
-          "url": "https://www.sportsnet.ca/mlb/article/blue-jays-win-big-with-offensive-outburst-against-angels/",
+          "title": "Blake’s OT winner gives Hurricanes win in Game 4 to complete sweep over Flyers",
+          "description": "Jackson Blake scored 5:28 into overtime for his second of the game, Logan Stankoven also scored in regulation and the Carolina Hurricanes finished a four-game sweep with a 3-2 victory over the Philadelphia Flyers to advance to the Eastern Conference finals for the second straight season.",
+          "url": "https://www.tsn.ca/nhl/article/blakes-ot-winner-gives-hurricanes-win-in-game-4-to-complete-sweep-over-flyers/",
           "source": {
-            "name": "Sportsnet"
+            "name": "TSN"
           },
-          "publishedAt": "2026-05-09T22:12:00Z",
-          "image": "https://www.sportsnet.ca/wp-content/uploads/2026/05/Untitled-design-23.jpg",
+          "publishedAt": "2026-05-10T01:16:00Z",
+          "image": "https://www.tsn.ca/resizer/v2/OONXTUH2HRGL5CJ4FDKJRTFUHM.jpg?smart=true&auth=dc949eee6365578660b6772ee1120419833cef5ee13955d8f9d56d7ca4bb7cc6&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Saturn’s Icy Rings Likely Formed from Lost Moon \"Chrysalis\"",
-          "description": "You’re a long-necked Titanosaurs grazing the plains and chomping away on tree leaves about 100 million years ago in the Early Cretaceous in what would eventually become a future Starbucks location. You look up at the night sky and notice a bright dot that seems slightly larger and brighter than usual since you’ve seen it a bunch. You grunt at your cousin (official dinosaur language) asking if he notices it, too. Your cousin grunts back that it does seem bigger and brighter and wonders what’s up.",
-          "url": "https://www.universetoday.com/articles/saturns-icy-rings-likely-formed-from-lost-moon-chrysalis",
+          "title": "Kachehri Chowk corridor opens for traffic",
+          "description": "Kachehri Chowk corridor opens for traffic",
+          "url": "https://tribune.com.pk/story/2607268/kachehri-chowk-corridor-opens-for-traffic",
           "source": {
-            "name": "Universe Today"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-05-09T22:12:00Z",
-          "image": "https://www.universetoday.com/article_images/moon_Chrysalis_disrupted_by_Saturns_gravity750px_20260509_221216.jpg",
+          "publishedAt": "2026-05-10T01:15:47Z",
+          "image": "https://i.tribune.com.pk/media/images/91778375351-5/91778375351-5-640x480.webp",
           "language": "en"
         },
         {
-          "title": "'My Father’s Shadow' dominates12th AMVCA with five major wins",
-          "description": "The 12th Africa Magic Viewers’ Choice Awards (AMVCA) held in Lagos was a historic night for the cinematic masterpiece \"My Father’s Shadow...",
-          "url": "https://businessday.ng/life-arts/article/my-fathers-shadow-dominates12th-amvca-with-five-major-wins/",
+          "title": "TGMA 2026: Fella Makafui's Dances to Medikal's Performance, Video Gets Fans Talking",
+          "description": "Fella Makafui captivated fans online with her joyful dance during Medikal's performance at TGMA 2026, showcasing their warm connection as ex-partners.",
+          "url": "https://yen.com.gh/entertainment/celebrities/304277-tgma-2026-fella-makfuis-unexpected-reaction-medikals-performance-sparks-reactions/",
           "source": {
-            "name": "Business News Nigeria"
+            "name": "Yen News"
           },
-          "publishedAt": "2026-05-09T22:11:37Z",
-          "image": "https://cdn.businessday.ng/wp-content/uploads/2026/05/IMG_3487-1.jpg",
+          "publishedAt": "2026-05-10T01:15:47Z",
+          "image": "https://cdn.yen.com.gh/images/1200x675/1d976f1d15a4db74.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "Scientists Create “Quantum Sound” Device That Works Near Absolute Zero",
-          "description": "The technology could support advances in high-speed communication systems, sensing tools, biological materials, and medical technologies.",
-          "url": "https://scitechdaily.com/scientists-create-quantum-sound-device-that-works-near-absolute-zero/",
+          "title": "Cavaliers' James Harden bounces back with late takeover in Game 3",
+          "description": "James Harden endured plenty of criticism after the first two games of the Cavaliers' NBA Eastern Conference semifinal series against Detroit.",
+          "url": "https://sports.inquirer.net/675896/cavaliers-james-harden-bounces-back-with-late-takeover-in-game-3",
           "source": {
-            "name": "SciTechDaily"
+            "name": "Inquirer.net"
           },
-          "publishedAt": "2026-05-09T22:11:16Z",
-          "image": "https://scitechdaily.com/images/Subatomic-Chaos-Quantum-Fluctuation-Physics-Material-Close.jpg",
+          "publishedAt": "2026-05-10T01:15:00Z",
+          "image": "https://sports.inquirer.net/files/2026/05/AFP__20260509__2275360448__v1__HighRes__DetroitPistonsVClevelandCavaliersGameThree.jpg",
           "language": "en"
         },
         {
-          "title": "Results of Seth Rollins vs. Bron Breakker at WWE Backlash 2026",
-          "description": "The latest WWE and AEW backstage wrestling news, rumors, opinions, and special features.",
-          "url": "https://nodq.com/news/results-of-seth-rollins-vs-bron-breakker-at-wwe-backlash-2026/",
+          "title": "Alexa Leary out of 2026 Glasgow Commonwealth Games after disability reclassification",
+          "description": "Alexa Leary is classified out of the Commonwealth Games team as Swimming Australia names first half of squad for Glasgow 2026.",
+          "url": "https://www.abc.net.au/news/2026-05-10/alexa-leary-out-of-commonwealth-games-after-reclassification/106663094",
           "source": {
-            "name": "NoDQ.com"
+            "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-05-09T22:10:37Z",
-          "image": "https://nodq.com/wp-content/uploads/2023/04/Screenshot-2023-04-15-at-09-09-12-Fpwd27OWYAA_128.jpg-JPEG-Image-1200-×-676-pixels.png",
+          "publishedAt": "2026-05-10T01:12:27Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/3df0eaaf4baa0ef14cada3bdcddf53da?impolicy=wcms_watermark_news&cropH=2772&cropW=4928&xPos=0&yPos=254&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "UFC 328 odds, picks, predictions: MMA model reveals projections for Chimaev vs. Strickland fight card for Saturday",
-          "description": "UFC heads to Newark, N.J., this week, highlighted by a middleweight title bout between defending champion and unbeaten Khamzat Chimaev and third-...",
-          "url": "https://www.sportsline.com/insiders/ufc-328-odds-picks-predictions-mma-model-reveals-projections-for-chimaev-vs-strickland-fight-card-for-saturday/",
+          "title": "Roman Reigns Retains But Gets Demolished like AEW at WWE Backlash",
+          "description": "The Chadster witnessed Roman Reigns retain over Jacob Fatu in the WWE Backlash main event, proving once and for all that AEW could NEVER measure up!",
+          "url": "https://bleedingcool.com/tv/roman-reigns-retains-but-gets-demolished-like-aew-at-wwe-backlash/",
           "source": {
-            "name": "SportsLine"
+            "name": "Bleeding Cool News"
           },
-          "publishedAt": "2026-05-09T22:10:00Z",
-          "image": "https://splnhub.cbsistatic.com/i/2026/05/08/42fa1432-9633-45ee-bd00-8f12ace39518/khamzat-chimaev-sportsline-ufc.jpg",
+          "publishedAt": "2026-05-10T01:10:09Z",
+          "image": "https://bleedingcool.com/wp-content/uploads/2026/05/Roman-Reigns-heroically-endures-punishment-at-the-hands-of-Jacob-Fatu-at-WWE-Backlash-2000x1125.jpg",
           "language": "en"
         }
       ]
