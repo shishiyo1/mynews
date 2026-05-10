@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-10T03:28:49.339Z",
+  "updatedAt": "2026-05-10T08:09:22.867Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "住宅ローン、月2万円の負担増は想定内？ 若年層が直面する重い未来",
+          "description": "日銀は4月の金融政策決定会合で政策金利を0.75%に据え置いた。市場のコンセンサスによれば、日銀は遅かれ早かれ追加利上げに踏み切る。政策金利に連動する変動金利で住宅ローンを借りている人は近い将来、どれくらいの負担に直面するのか。頭の体操をするのに早すぎることはない。長期金利の大幅な上昇に伴い、足元では固定型のローン金利の方が変動型より大きく上がっている。おのずと固定型の金利水準に注目が集まりが",
+          "url": "https://www.nikkei.com/article/DGXZQOUB014HU0R00C26A5000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-05-09T20:00:00Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2978108005052026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=a53a821153a0a40f99337f2fd108e524",
+          "language": "ja"
+        },
+        {
+          "title": "美絽＆稲葉通陽（B&ZAI）W主演映画「17歳のプルーフ」公開決定 1冊の小説をきっかけに始まる青春ミステリー",
+          "description": "女優の美絽とB&ZAIの稲葉通陽が主演を務める映画『17歳のプルーフ』が、2027年2月に公開されることが決定。あわせて、ビジュアル写真とキャスト＆スタッフコメントが解禁された。",
+          "url": "https://mdpr.jp/cinema/detail/4777167",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-05-09T19:00:00Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/nlsr/nm/nlsrLRhhtOpy3B5V_G4WNvmkjrLj5y_saZ-bEJMmtMs.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
+        {
+          "title": "日本代表はタイ、インドネシア、そして2連覇のカタールと同組に！ アジア杯2027の組み合わせが決定",
+          "description": "アジアサッカー連盟（AFC）は9日、サウジアラビアで開催されるAFCアジアカップ2027組み合わせ抽選会を実施した。日本代表は、カタール代表、タイ代表、インド···",
+          "url": "https://www.soccer-king.jp/news/japan/national/20260510/2157640.html",
+          "source": {
+            "name": "サッカーキング"
+          },
+          "publishedAt": "2026-05-09T18:57:14Z",
+          "image": "https://www.soccer-king.jp/wp-content/uploads/2026/05/260510_Japan_01.png",
+          "language": "ja"
+        },
+        {
+          "title": "元りあるキッズ長田融季、“芸人いじめ告発”削除理由を暴露 「サバンナ高橋から消せと…」",
+          "description": "元りあるキッズ・長田融季が、中山功太への“いじめ告発”投稿を削除した理由を告白。「サバンナ高橋から消せと言われた」との発言が波紋を呼んでいる。",
+          "url": "https://coki.jp/article/column/77631/",
+          "source": {
+            "name": "coki.jp"
+          },
+          "publishedAt": "2026-05-09T18:29:51Z",
+          "image": "https://coki.jp/wp-content/uploads/2026/05/cfa8b3e1fa50b36f2dba85e72feba21e.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "菅原由勢が開始5分で一発退場…長田澪が奮闘のブレーメンは敗戦も自動降格回避！ 町田浩樹メンバー外のホッフェンハイムはCL出場権に望みつなぐ勝利",
+          "description": "ブンデスリーガ第33節が9日に行われ、ホッフェンハイムとブレーメンが対戦した。\n　チャンピオンズリーグ（CL）出場権を争う6位のホッフェンハイムと、自力での1部残留へ残り2試合で勝ち点1が必要な",
+          "url": "https://news.yahoo.co.jp/articles/8f714465dceb2970ee8c849299ca02c952976b5a",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-09T15:29:34Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260510-02157581-soccerk-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "三笘薫、W杯メンバー発表直前に悲劇…ウルブス戦で左足を負傷し無念の途中交代",
           "description": "プレミアリーグ第36節が9日に行われ、ブライトンに所属する日本代表MF三笘薫はウルヴァーハンプトン戦でスタメン出場を飾ったが、負傷交代を余儀なくされた。 　ブ···",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-05-09T11:48:45Z",
           "image": "https://cdn.lpga.or.jp/lpga/cms/2026/05/09/xl/df2b4029627b720bc96177807d48a615ed649e98.jpg?1778331646",
           "language": "ja"
-        },
-        {
-          "title": "Nothing Phone (4a) Proはアルミニウムのボディとスケルトンのカメラバンプが美しい",
-          "description": "Nothingから4月22日に発売された新型スマートフォン「Nothing Phone (4a) Pro」をレビュー用にお借りしました。\n従来のモデルに採用されていた基板内部を魅せるスケルトンデザインから、航空アルミニウムをベースとしたメ…",
-          "url": "https://orefolder.jp/2026/05/nothing-phone-4a-pro-review-1/",
-          "source": {
-            "name": "OREFOLDER"
-          },
-          "publishedAt": "2026-05-09T10:05:13Z",
-          "image": "https://orefolder.jp/wp-content/uploads/2026/05/8877-e1778142818131.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "10日朝は全国的に冷える 名古屋11℃予想 霜注意報も 日中は暑くなり寒暖差が大",
-          "description": "明日10日(日)の朝は全国的に冷えるでしょう。最低気温は今朝より低く、5℃以上低くなる所もありそうです。名古屋は11℃の予想です。京都など九州から関東の市街地でも10℃を下回る所があるでしょう。九州から北海道の所々に霜注意報が発表されており、農作物の管理などに注意が必要です。一方、日中は各地で気温が上がり、暑くなるでしょう。朝と日中との気温差が大きくなりそうです。",
-          "url": "https://tenki.jp/forecaster/y_nakagawa/2026/05/09/38863.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-05-09T09:16:34Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/388/38863/main/20260509181439/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "小泉今日子「年内休養」発表なぜ（1/5ページ）",
-          "description": "女優で歌手の小泉今日子（60）が、5月10日の沖縄でのツアー最終日をもって、年内の全活動を休止することが明らかになった。自身が代表取締役を務める制作会社「明後日」の公式サイトで9日、発表された。還暦を迎え、精力的に全国を駆け抜けていた歌姫…",
-          "url": "https://www.zakzak.co.jp/article/20260509-X7GKAWQQ7RCSLIGZPISOAOCOTQ/",
-          "source": {
-            "name": "zakⅡ"
-          },
-          "publishedAt": "2026-05-09T08:57:17Z",
-          "image": "https://www.zakzak.co.jp/resizer/v2/AKXKGNTVEJJDBKGQBPLNJSKSDQ.jpg?auth=38ed1f7bec48fcfcf3e91febbdeccd8f5d88e9262b66d21bb018b9e2b2d97216&quality=50&focal=221%2C156&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "関東～九州は16日頃から30℃以上の所が一気に増える エアコンの準備を",
-          "description": "この先2週間は東北から九州で気温が平年より高いでしょう。特に来週末からは一段と暑くなり、関東から九州では30℃以上の所が一気に増えそうです。早めにエアコンのお手入れや試運転を行い、本格的な暑さに備えましょう。",
-          "url": "https://tenki.jp/forecaster/y_nakagawa/2026/05/09/38862.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-05-09T08:23:33Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/388/38862/main/20260509170535/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "米FA18によるイランタンカー攻撃、どのように行われたのか？ 煙突に精密誘導弾を撃ち込み航行不能に",
-          "description": "（CNN）　米軍の発表によると、海軍のFA18戦闘攻撃機が8日、イラン船籍のタンカー2隻の煙突に精密誘導弾を撃ち込み、航行不能にした。実戦使用されている兵器の精度の高さを示す出来事だ。\n中東での軍",
-          "url": "https://news.yahoo.co.jp/articles/8ca1ad33fa84c866b40a2701f45885871f810672",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-09T08:07:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260509-35247292-cnn-000-5-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Sammy Gyamfi insists BoG loss must be based on KPMG audited report",
-          "description": "The Member of Parliament for Ofoase-Ayirebi, Kojo Oppong Nkrumah, has been accused by the Chief Executive Officer of Goldbod, Sammy Gyamfi, of misleading the public over the reported financial losses of the Bank of Ghana (BoG).",
-          "url": "https://www.ghanaweb.com/GhanaHomePage/business/Sammy-Gyamfi-insists-BoG-loss-must-be-based-on-KPMG-audited-report-2033675",
+          "title": "Stefon Diggs fuels rekindling rumors with Cardi B with PDA moment",
+          "description": "The couple was rumored to have split back in February.",
+          "url": "https://ca.news.yahoo.com/stefon-diggs-fuels-rekindling-rumors-200837357.html",
           "source": {
-            "name": "GhanaWeb"
+            "name": "Yahoo News Canada"
           },
-          "publishedAt": "2026-05-09T15:28:07Z",
-          "image": "https://cdn.ghanaweb.com/imagelib/pics/687/68743997.jpg",
+          "publishedAt": "2026-05-09T20:08:37Z",
+          "image": "https://s.yimg.com/os/en/the_sporting_news_articles_584/e91024693265b1dd4db2756d8384426b",
           "language": "en"
         },
         {
-          "title": "Arne Slot on Liverpool boos after Chelsea draw: I can win back fans",
-          "description": "Arne Slot has backed himself to win back the Liverpool fanbase after supporters booed the Dutchman and his team during Saturday's 1-1 draw with Chelsea.",
-          "url": "https://africa.espn.com/football/story/_/id/48721300/arne-slot-liverpool-boos-chelsea-draw-win-back-fans",
+          "title": "CRISPR Technology Prevents Genetically Engineered Microbe Survival Outside Controlled Environments",
+          "description": "A new biocontainment technology uses CRISPR to control […]",
+          "url": "https://www.geneonline.com/crispr-technology-prevents-genetically-engineered-microbe-survival-outside-controlled-environments/",
           "source": {
-            "name": "ESPN"
+            "name": "geneonline.com"
           },
-          "publishedAt": "2026-05-09T15:27:30Z",
-          "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0509%2Fr1655730_1296x729_16%2D9.jpg",
+          "publishedAt": "2026-05-09T20:08:02Z",
+          "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
           "language": "en"
         },
         {
-          "title": "Brampton $70 Million Lotto Max Winner Creates Buzz Across Ontario After Massive Jackpot Hit",
-          "description": "A life-changing Ontario Lottery and Gaming Corporation jackpot has people across the province rushing to check their tickets after the winning Brampton $70",
-          "url": "https://nbsla.ca/brampton-70-million-lotto-max-winner/",
-          "source": {
-            "name": "Nbsla.ca"
-          },
-          "publishedAt": "2026-05-09T15:27:26Z",
-          "image": "https://nbsla.ca/wp-content/uploads/2026/05/Brampton-70-Million-Lotto-Max-Winner-Creates-Buzz-Across-Ontario-After-Massive-Jackpot-Hit.jpg",
-          "language": "en"
-        },
-        {
-          "title": "How to Watch Manchester City vs Brentford Live Today: Premier League Preview, Stats, Lineup",
-          "description": "Watch Manchester City vs Brentford live today with a preview, stats, lineup, live stream details, and match prediction.",
-          "url": "https://heavy.com/sports/soccer/premier-league/manchester-city-fc/how-to-watch-manchester-city-vs-brentford-live-today-premier-league-preview-stats-lineup/",
-          "source": {
-            "name": "heavy.com"
-          },
-          "publishedAt": "2026-05-09T15:26:45Z",
-          "image": "https://heavy.com/wp-content/uploads/2026/05/GettyImages-2191471991.jpg?quality=65&strip=all",
-          "language": "en"
-        },
-        {
-          "title": "Russian-Israeli sentenced to 12 years in Russia for firebomb attack on FSB office",
-          "description": "Yegor Grafov, a 26-year-old Russian-Israeli, was convicted of a 'terrorist act' and jailed; his lawyers plan to appeal, saying he acted 'under the influence of fraudsters'",
-          "url": "https://www.ynetnews.com/article/syz5ka20wl",
-          "source": {
-            "name": "ynetnews"
-          },
-          "publishedAt": "2026-05-09T15:26:39Z",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2019/12/19/9668100/9668100_0_0_1300_732_0_large.jpg",
-          "language": "en"
-        },
-        {
-          "title": "China’s Exports and Imports Set Records in April Amid High Energy Costs",
-          "description": "The country’s exports surged and its trade surplus with the United States widened ahead of President Trump’s scheduled visit next week to Beijing.",
-          "url": "https://www.nytimes.com/2026/05/09/business/china-april-trade-exports-imports.html",
+          "title": "Iran War Live Updates: Attacks Test Fragile Cease-Fire Amid U.S-Iran Negotiations",
+          "description": "The United States and Iran both say that a monthlong cease-fire is holding, despite exchanging fire in recent days, but no breakthrough had been reached in negotiations.",
+          "url": "https://www.nytimes.com/live/2026/05/09/world/iran-strikes-trump-ceasefire-hormuz",
           "source": {
             "name": "The New York Times"
           },
-          "publishedAt": "2026-05-09T15:24:47Z",
-          "image": "https://static01.nyt.com/images/2026/05/09/multimedia/09biz-china-trade-fmgh/09biz-china-trade-fmgh-facebookJumbo.jpg",
+          "publishedAt": "2026-05-09T20:06:03Z",
+          "image": "https://static01.nyt.com/images/2026/05/09/multimedia/09mideast-live-promo315pm-gbwv/09mideast-live-promo315pm-gbwv-facebookJumbo.jpg",
           "language": "en"
         },
         {
-          "title": "Dust-thunderstorm, rain likely in upper parts from May 10-12 PMD",
-          "description": "Pakistan Meteorological Department (PMD)has forecast dust-thunderstorm and rain in the upper parts of the country from May 10 (evening) to May 12 under the influence of",
-          "url": "https://www.nation.com.pk/09-May-2026/dust-thunderstorm-rain-likely-upper-parts-may-10-12-pmd",
+          "title": "Bovi, Nomzamo Recreate Funke-Toyin Snub at AMVCA 2026",
+          "description": "Watch as hosts Bovi and Nomzamo Mbatha hilariously recreate the viral Funke-Toyin snub on stage at the 2026 Africa Magic Viewers’ Choice Awards.",
+          "url": "https://punchng.com/video-bovi-nomzamo-recreate-viral-funke-toyin-snub-at-amvca/",
           "source": {
-            "name": "The Nation (Pakistan )"
+            "name": "Punch Newspapers"
           },
-          "publishedAt": "2026-05-09T15:24:06Z",
-          "image": "https://www.nation.com.pk/digital_images/large/2026-05-09/dust-thunderstorm-rain-likely-upper-parts-may-10-12-pmd-1778340237-7815.jpg",
+          "publishedAt": "2026-05-09T20:04:41Z",
+          "image": "https://cdn.punchng.com/wp-content/uploads/2026/03/30091741/IMG_2034.jpeg",
           "language": "en"
         },
         {
-          "title": "Why Abdukodir Khusanov misses Man City vs Brentford as three ruled out",
-          "description": "Manchester City will be without Rodri again for the Premier League game with Brentford and were also missing Abdukodir Khusanov",
-          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/abdukodir-khusanov-misses-man-city-33919243",
+          "title": "Philippine Consulate General",
+          "description": "Fil-Am Nurses Equip Consulate, PH Center Personnel with Life-Saving Emergency Response Skills PNA-NY facilitators demonstrate lifesaving techniques for adult and infant emergency situations NEW YORK, 09 May 2026 – The […]",
+          "url": "https://newyorkpcg.org/pcgny/2026/05/09/fil-am-nurses-equip-consulate-ph-center-personnel-with-life-saving-emergency-response-skills/",
           "source": {
-            "name": "Manchester Evening News"
+            "name": "newyorkpcg.org"
           },
-          "publishedAt": "2026-05-09T15:23:00Z",
-          "image": "https://i2-prod.manchestereveningnews.co.uk/article33854046.ece/ALTERNATES/s1200d/0_GettyImages-2272072890.jpg",
+          "publishedAt": "2026-05-09T20:03:19Z",
+          "image": "https://newyorkpcg.org/pcgny/wp-content/uploads/2026/05/20260509_085343-scaled.jpg",
           "language": "en"
         },
         {
-          "title": "Prince Harry applauded for unpublicised act of kindness",
-          "description": "Steve Pennells has taken to Instagram to express his gratitude to Prince Harry following the Duke of Sussex's recent appearance at the InterEdge Summit in Melbourne, where he spoke  about mental health and suicide...",
-          "url": "https://www.geo.tv/latest/663632-prince-harry-applauded-for-unpublicised-act-of-kindness",
+          "title": "Hurricanes player ratings: All Blacks duo dominate as Kini Naholo shines in comeback match",
+          "description": "How the Hurricanes players rated in their hard-fought 50-17 win over Moana Pasifika at North Harbour Stadium in Albany. 1. Pouri Rakete-Stones - 6 Made some...",
+          "url": "https://www.nzherald.co.nz/sport/rugby/super-rugby/hurricanes-player-ratings-all-blacks-duo-dominate-as-kini-naholo-shines-in-comeback-match/premium/2XV2Y2Y4UVA5ZLLHO77DR5AWME/",
           "source": {
-            "name": "Geo News"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-05-09T15:20:00Z",
-          "image": "https://www.geo.tv/assets/uploads/2026-05-09/663632_081612_updates.jpg",
+          "publishedAt": "2026-05-09T20:03:00Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/FWK6X76VRZAT3J4J2WNTO5ZSSU.jpg?auth=2fcef470b66866af1e5bb8897ca9898c63dc9186e4249cef84a8ecde8fc9e68c&width=1200&height=675&quality=70&focal=2921%2C2130&smart=false",
           "language": "en"
         },
         {
-          "title": "Manchester City v Brentford: Premier League - live",
-          "description": "Manchester City must defeat Brentford to keep pressure on Premier League-leading Arsenal. Join Rob Smyth",
-          "url": "https://www.theguardian.com/football/live/2026/may/09/manchester-city-v-brentford-premier-league-live",
+          "title": "Do look up: stargazing in New Zealand’s first dark sky community",
+          "description": "It took 10 years for Naseby to achieve its DarkSky International certification. Now, a night out in the tiny Otago town is like ‘a tour through the history of the universe’",
+          "url": "https://www.theguardian.com/travel/2026/may/10/new-zealand-south-island-otago-naseby-stargazing-dark-sky-community",
           "source": {
             "name": "The Guardian"
           },
-          "publishedAt": "2026-05-09T15:19:54Z",
-          "image": "https://i.guim.co.uk/img/media/d3266c006390167fc3dc358b03558e14a80c1b77/459_0_4808_3847/master/4808.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=1e1846d1e236f4df0ff94a78cde0a70a",
+          "publishedAt": "2026-05-09T20:03:00Z",
+          "image": "https://i.guim.co.uk/img/media/ced507fb7395949fcfa259c7449f4f44471a6460/0_0_3645_2916/master/3645.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fc08062a27710cc525c47ed16e9e059",
+          "language": "en"
+        },
+        {
+          "title": "Benitez sees Leviste's plenary tirade as a teachable moment; imparts advice",
+          "description": "House Deputy Speaker Bacolod City lone district Rep. Albee Benitez has cited Batangas 1st district Rep. Leandro Legarda Leviste's recent plenary rant against...",
+          "url": "https://mb.com.ph/2026/05/10/benitez-sees-levistes-plenary-tirade-as-a-teachable-moment-imparts-advice",
+          "source": {
+            "name": "Manila Bulletin"
+          },
+          "publishedAt": "2026-05-09T20:01:17Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/09/100106.webp",
+          "language": "en"
+        },
+        {
+          "title": "Lamborghini Fenomeno Roadster Unveiled as 1065 HP Hybrid V12 With No Roof",
+          "description": "The Lamborghini Fenomeno Roadster is a 1080 CV hybrid V12 masterpiece. Only 15 units of this ultra-exclusive car will be built for collectors.",
+          "url": "https://manofmany.com/culture/lamborghini-fenomeno-roadster",
+          "source": {
+            "name": "Man of Many"
+          },
+          "publishedAt": "2026-05-09T20:00:35Z",
+          "image": "https://manofmany.com/wp-content/uploads/2026/05/Lamborghini-Fenomeno-Roadster-front-three-quarter-roof-open.jpg",
+          "language": "en"
+        },
+        {
+          "title": "US sending charter flight to bring Americans home from hantavirus cruise ship",
+          "description": "Officials say at least six US states are monitoring for possible cases after several passengers from the Dutch vessel MV Hondius returned home.",
+          "url": "https://www.bbc.com/news/articles/c4g4r8pm832o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-05-09T20:00:18Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/99cf/live/801d8050-4b2b-11f1-9c04-cf3eaa449042.jpg",
           "language": "en"
         }
       ]
