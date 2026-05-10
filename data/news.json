@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-10T19:07:05.021Z",
+  "updatedAt": "2026-05-10T21:50:38.152Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "「彼らが必要です」年間の経済効果3280億円 トランプ大統領“5000人以上の削減方針”に動揺広がるドイツの町",
+          "description": "イラン情勢をめぐり批判を繰り返すドイツに対し、アメリカのトランプ大統領が駐留部隊を「5000人以上削減する」と発言し、アメリカ軍と共存するドイツの町では動揺が広がっています。\nドイツ西部の町・ラム",
+          "url": "https://news.yahoo.co.jp/articles/82e990ce011500985b5d3ddb51e05ed289cfcb2c",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-10T09:43:56Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260510-07302897-jnn-000-2-thumb.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "［磐越道バス事故･テキスト速報］北越高校が２度目の記者会見",
+          "description": "男子ソフトテニス部の生徒１人が死亡、１７人が重軽傷を負った磐越自動車道のマイクロバス事故を受け、北越高校は１０日午後６時半から、２度目の記者会見を開きます。その様子をテキスト速報でお伝えします。最新の情報が一番上に積み上がっていきま...",
+          "url": "https://www.niigata-nippo.co.jp/articles/-/827923",
+          "source": {
+            "name": "新潟日報"
+          },
+          "publishedAt": "2026-05-10T09:33:00Z",
+          "image": "https://niigata-nippo.ismcdn.jp/mwimgs/0/6/1200m/img_06d809fd746e59d79a502343d9e1e547492490.jpg?rd=202605081220",
+          "language": "ja"
+        },
+        {
+          "title": "明日11日も汗ばむ陽気の所多いが、関東甲信はにわか雨に注意 沖縄は大雨のおそれ",
+          "description": "明日11日も全国的に晴れる所が多く、紫外線に注意が必要です。東北から九州では、昼間は半袖がちょうどよいくらいの汗ばむ陽気の所が多いでしょう。ただし、関東甲信では、午後はにわか雨の可能性があります。南西諸島は曇りや雨で、先島諸島では大雨となるおそれがあります。",
+          "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/05/10/38869.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-10T09:24:29Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/388/38869/main/20260510173550/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "初代『グランツーリスモ』は何を変えたのか？レースゲームの歴史からわかる、リアルなだけでない“変化”【特集】",
+          "description": "物理エンジンにそれを制御するアナログ操作、早すぎないゲームスピードと、これまでの常識を覆す多くの革新が詰まった作品だった",
+          "url": "https://www.gamespark.jp/article/2026/05/10/166212.html",
+          "source": {
+            "name": "Game*Spark"
+          },
+          "publishedAt": "2026-05-10T09:00:04Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1126203.png",
+          "language": "ja"
+        },
+        {
+          "title": "常識を超えたコスパ。WQHD・144Hz・広色域を実現した「KTC H27T27S」、発売記念セールを実施",
+          "description": "KTC科技日本株式会社のプレスリリース（2026年5月10日 17時00分）常識を超えたコスパ。WQHD・144Hz・広色域を実現した「KTC H27T27S」、発売記念セールを実施",
+          "url": "https://prtimes.jp/main/html/rd/p/000000061.000148306.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-05-10T08:00:02Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/148306/61/148306-61-3a03877018d9adeb3d23daf1bd0f567e-1600x1600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "【ＮＨＫマイルＣ】（東京）ロデオドライブが大外から一気に交わし切ってＧＩ初制覇｜競馬実況web｜競馬｜ラジオNIKKEI",
+          "description": "【ＮＨＫマイルＣ】（東京）ロデオドライブが大外から一気に交わし切ってＧＩ初制覇｜ラジオNIKKEI：競馬番組",
+          "url": "https://www.radionikkei.jp/keiba_article/news/post_37641.html",
+          "source": {
+            "name": "radionikkei.jp"
+          },
+          "publishedAt": "2026-05-10T07:53:00Z",
+          "image": "https://www.radionikkei.jp/keiba_article/images/keiba_article-webimg-20220826a.jpg",
+          "language": "ja"
+        },
         {
           "title": "Steamセールで『戦場のヴァルキュリア４』DLC全部入りなのに80％オフの891円。物理演算・雪山リフト建設パズルは90％オフでなんと152円。今週の高割引率PCゲーム",
           "description": "本稿ではSteamにてこの1週間でセールが開始されたタイトルのうち、特に割引率の高いゲームに焦点を当てて紹介する。",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-05-10T06:00:00Z",
           "image": "https://cdfront.tower.jp/~/media/Images/Online/Common/tr_ogp.gif",
           "language": "ja"
-        },
-        {
-          "title": "火星に水が存在した、これ以上ない痕跡",
-          "description": "2023年2月21日の記事を編集して再掲載しています。 2023年、NASAの探査車キュリオシティが火星で発見した岩石。水の波によって模様が形成されており、遠い昔は火星に水が存在したことの、これまでで最も明白なエビデンスになります。 石の波模様が形成されたのは数十億年前で、その頃の火星の地表は液体の水に覆われていました。キュリオシティやパーサヴィアランスなどの",
-          "url": "https://www.gizmodo.jp/2026/05/curiosity-rover-evidence-water-on-mars-nasa-5cg.html",
-          "source": {
-            "name": "ギズモード・ジャパン"
-          },
-          "publishedAt": "2026-05-10T06:00:00Z",
-          "image": "https://media.loom-app.com/gizmodo/dist/images/2023/02/17/230217mars.jpg?w=1280&h=630&f=jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「心技体をフル回転」黄金世代・河本結が初メジャー制覇 猛追の鈴木愛ら振り切る",
-          "description": "国内女子メジャーの最終ラウンドが終了した。 - 2026 ワールドレディスチャンピオンシップ サロンパスカップ",
-          "url": "https://www.alba.co.jp/articles/category/tour/jlpga/post/s2o22ha6i/",
-          "source": {
-            "name": "ALBA Net"
-          },
-          "publishedAt": "2026-05-10T05:38:10Z",
-          "image": "https://d2bo6f45ymcdv9.cloudfront.net/images/large/b93LqQ4tfFAQqSI5weGU.jpg?ver=cwK1",
-          "language": "ja"
-        },
-        {
-          "title": "King & Prince、グループ初のトラベルバラエティー配信決定 ファン90人の前でサプライズ発表",
-          "description": "イベントに登壇したKing & Princeの永瀬廉（右）、髙橋海人【写真：ENCOUNT編集部】 永瀬廉＆髙橋海人がLAで\"まちあわせミッション\"に挑戦　King & Princeの永瀬廉と髙橋海人が10日、都内で行われたディズニープラス『King & Prince がまちあわせ in",
-          "url": "https://encount.press/archives/993428/",
-          "source": {
-            "name": "ENCOUNT"
-          },
-          "publishedAt": "2026-05-10T05:18:01Z",
-          "image": "https://encount.press/wp-content/uploads/2026/05/10145249/9663b672c90290f8699370de85808f5f.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "開始1日で中断のアメリカ軍“誘導”作戦 ホルムズ海峡周辺では“異常な動き”で港が空白に? 衝突でもトランプ氏の「停戦維持」強調の背景に米中首脳会談か トップ会談で事態の進展は【サンデーモーニング】",
-          "description": "アメリカとイランの停戦合意から既に1か月、戦闘終結に向け水面下の交渉が続いています。こうしたなか、アメリカの新たな作戦をきっかけに両国が交戦状態となり、緊張が高まりましたが、それでもなおトランプ大統",
-          "url": "https://news.yahoo.co.jp/articles/2c97dfc0d8b9aed1ad6cae8d571e32fb0b80d212",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-10T04:37:13Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260510-22650811-jnn-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "128GB超メモリMac専用の巨大LLMエンジン「ds4」はローカル推論の常識をどう書き換えるのか。284BのDeepSeek V4 FlashをM4 Max 128GB MacBook Proの自作AIに組み込んでみた（CloseBox）",
-          "description": "Redisの作者であるSalvatore Sanfilippo（antirez）が、5月初旬にGitHubへひっそりと新しいリポジトリを公開しました。名前は『ds4』。DeepSeek V4 Flash専用のローカル推論エンジンです。",
-          "url": "https://www.techno-edge.net/article/2026/05/10/5049.html",
-          "source": {
-            "name": "テクノエッジ TechnoEdge"
-          },
-          "publishedAt": "2026-05-10T03:45:24Z",
-          "image": "https://www.techno-edge.net/imgs/ogp_f/31310.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "独立経営の「AP」がなぜ？「スウォッチ」がホーリー・トリニティと電撃コラボ 株価は年初来高値を更新",
-          "description": "独立経営の「AP」がなぜ？「スウォッチ」がホーリー・トリニティと電撃コラボ　株価は年初来高値を更新",
-          "url": "https://www.seventietwo.com/ja/business/AudemarsPiguet_Swatch_RoyalPop_20260510",
-          "source": {
-            "name": "SEVENTIE TWO"
-          },
-          "publishedAt": "2026-05-10T03:17:30Z",
-          "image": "https://www.seventietwo.com/uploads/2026/05/2a753e87afe91d72bdf8d42983fa9f71.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Hantavirus: Screening ramped up at entry points, over 20,000 vessels inspected, says Dzulkefly",
-          "description": "PUTRAJAYA: Malaysia has ramped up health screenings at all international entry points, particularly in the maritime sector, to prevent hantavirus from entering the country, says Datuk Seri Dr Dzulkefly Ahmad.",
-          "url": "https://www.thestar.com.my/news/nation/2026/05/10/hantavirus-screening-ramped-up-at-entry-points-over-20000-vessels-inspected-says-dzulkefly",
+          "title": "Senate leadership change blocking VP impeachment shameful",
+          "description": "Sen. Erwin Tulfo said it would be shameful for the Senate if a leadership change occurs to block the impeachment trial of Vice President Sara Duterte.",
+          "url": "https://newsinfo.inquirer.net/2226229/tulfo-shameful-to-have-senate-leadership-change-to-block-vp-impeachment",
           "source": {
-            "name": "The Star"
+            "name": "Inquirer.net"
           },
-          "publishedAt": "2026-05-10T07:07:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/05/10/3900699.jpeg",
+          "publishedAt": "2026-05-10T09:50:00Z",
+          "image": "https://newsinfo.inquirer.net/files/2026/02/Erwin-Tulfo-10February2026.jpg",
           "language": "en"
         },
         {
-          "title": "Deepika Kumari delivers as India beat China to clinch gold in Archery World Cup Stage 2",
-          "description": "More sports News: India’s women’s recurve archery team produced a thrilling comeback to win the gold medal at the Archery World Cup Stage 2 in Shanghai on Sunday. The t.",
-          "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/deepika-kumari-delivers-as-india-beat-china-to-clinch-gold-in-archery-world-cup-stage-2/articleshow/130988412.cms",
+          "title": "Fresh charges loom for ex-NAFCO boss Hanan Aludiba - EOCO",
+          "description": "The Economic and Organised Crime Office (EOCO) is preparing to file fresh charges against former National Food Buffer Stock Company (NAFCO) Chief Executive Officer, Hanan Abdul-Wahab Aludiba, after uncovering new evidence in its investigation into...",
+          "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Fresh-charges-loom-for-ex-NAFCO-boss-Hanan-Aludiba-EOCO-2033789",
+          "source": {
+            "name": "GhanaWeb"
+          },
+          "publishedAt": "2026-05-10T09:47:48Z",
+          "image": "https://cdn.ghanaweb.com/imagelib/pics/167/16755793.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Police arrest 13 suspected gang members in Trans Nzoia",
+          "description": "Arrests are part of ongoing efforts aimed at dismantling criminal networks.",
+          "url": "https://www.the-star.co.ke/news/2026-05-10-13-suspected-gang-members-nabbed-in-trans-nzoia",
+          "source": {
+            "name": "the-star.co.ke"
+          },
+          "publishedAt": "2026-05-10T09:47:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/05/3b7b376c-ea07-4ddd-b265-d17acbb3501e.png?1778407927082",
+          "language": "en"
+        },
+        {
+          "title": "Vande Mataram song during Vijay’s swearing-in ceremony: CPI questions relegation of Tamil Thaai Vaazhthu",
+          "description": "Vande Mataram song: CPI criticises Tamil invocation song Tamil Thaai Vaazhthu's placement during Vijay's swearing-in, advocating for its prioritisation in government ceremonies.",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/vande-mataram-song-during-tn-cm-vijay-swearing-in-ceremony-cpi-questions-relegation-of-tamil-thaai-vaazhthu/article70961971.ece",
+          "source": {
+            "name": "The Hindu"
+          },
+          "publishedAt": "2026-05-10T09:46:57Z",
+          "image": "https://th-i.thgim.com/public/incoming/whcwcx/article70961985.ece/alternates/LANDSCAPE_1200/PTI05_08_2026_000212B.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Muslim couples to receive support for parenthood journey as pilot programme is made permanent",
+          "description": "A pilot programme for Muslim couples in Singapore is now permanent, offering comprehensive support for their parenthood journey. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/singapore/muslim-couples-to-receive-support-for-parenthood-journey-as-pilot-programme-is-made-permanent",
+          "source": {
+            "name": "The Straits Times"
+          },
+          "publishedAt": "2026-05-10T09:45:00Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/f8d74ebade4339b3c51708886916ad71e175f445853d48d9467c9ab287c9763f",
+          "language": "en"
+        },
+        {
+          "title": "CODE Sports",
+          "description": "No Cookies | CODE Sports",
+          "url": "https://www.codesports.com.au/nocookies?a=A.flavipes",
+          "source": {
+            "name": "Code"
+          },
+          "publishedAt": "2026-05-10T09:45:00Z",
+          "image": "https://www.codesports.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-codesports-169.svg",
+          "language": "en"
+        },
+        {
+          "title": "Daniel Dubois could take an immediate rematch against Fabio Wardley or a fight against Agit Kabayel next",
+          "description": "Daniel Dubois was crowned as the new WBO world heavyweight champion after stopping Fabio Wardley in the 11th round in Manchester; Dubois climbed off the canvas to halt Wardley after being floored twice; Promoter Frank Warren confirmed there was a rematch clause in the fight contract",
+          "url": "https://www.skysports.com/boxing/news/12183/13542205/daniel-dubois-could-take-an-immediate-rematch-against-fabio-wardley-or-a-fight-against-agit-kabayel-next",
+          "source": {
+            "name": "Sky Sports"
+          },
+          "publishedAt": "2026-05-10T09:44:55Z",
+          "image": "https://e0.365dm.com/26/05/1600x900/skysports-daniel-dubois-fabio-wardley_7244187.jpg?20260510081322",
+          "language": "en"
+        },
+        {
+          "title": "Major security scare: Explosive material found near PM Modi's event venue in Bengaluru outskirts",
+          "description": "India News: NEW DELHI: A major security scare emerged in Bengaluru on Sunday ahead of Prime Minister Narendra Modi’s visit after two gelatine sticks were found ne.",
+          "url": "https://timesofindia.indiatimes.com/india/major-security-scare-explosive-material-found-near-pm-modis-event-in-bengaluru-outskirts/articleshow/130990125.cms",
           "source": {
             "name": "The Times of India"
           },
-          "publishedAt": "2026-05-10T07:07:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-130988528,width-1280,height-720,imgsize-67062,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-05-10T09:43:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-130990120,width-1280,height-720,imgsize-572982,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Cruise ship hit by hantavirus outbreak arrives in Spain's Tenerife",
-          "description": "Eight people on board fell ill, including three who died. Hantavirus is usually spread by rodents but can in rare cases be transmitted person-to-person.",
-          "url": "https://www.cnbc.com/2026/05/10/cruise-ship-hit-by-hantavirus-outbreak-arrives-in-spains-tenerife.html",
+          "title": "Lamborghini Fenomeno Roadster Revealed With 1,065 BHP V12 Engine; Limited To Just 15 Units",
+          "description": "Lamborghini has revealed the Fenomeno Roadster, which is now the most powerful open-top production car by the brand. Limited to just 15 units worldwide, here's what the Lamborghini Fenomeno Roadster has to offer.",
+          "url": "https://www.ndtv.com/auto/lamborghini-fenomeno-roadster-revealed-with-1-065-bhp-v12-engine-limited-to-just-15-units-11474563",
           "source": {
-            "name": "CNBC"
+            "name": "NDTV"
           },
-          "publishedAt": "2026-05-10T07:06:44Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108304693-1778395391520-gettyimages-2275399730-cm2_6484-2_io7flghc.jpeg?v=1778395412&w=1920&h=1080",
+          "publishedAt": "2026-05-10T09:42:22Z",
+          "image": "https://c.ndtvimg.com/2026-05/p8j5u5dg_lamborghini-fenomeno-roadster_625x300_10_May_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=800",
           "language": "en"
         },
         {
-          "title": "Around 900 PDLs in Occ Mindoro suspected with tuberculosis",
-          "description": "Almost 900 persons deprived of liberty (PDLs) of the Sablayan Prison and Penal Farm (SPPF) in Occidental Mindoro are suspected to be suffering from...",
-          "url": "https://mb.com.ph/2026/05/10/around-900-pdls-in-occ-mindoro-suspected-with-tuberculosis",
+          "title": "Elderly woman rescued after being pinned under car near Jalan Besar",
+          "description": "The 84-year-old was taken conscious to Tan Tock Seng Hospital. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/singapore/elderly-woman-rescued-by-scdf-after-being-pinned-under-car-near-jalan-besar",
           "source": {
-            "name": "Manila Bulletin"
+            "name": "The Straits Times"
           },
-          "publishedAt": "2026-05-10T07:06:38Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/10/100182.webp",
-          "language": "en"
-        },
-        {
-          "title": "Sarawak plans to take over more federal entities, says Abang Jo",
-          "description": "Premier Abang Johari Openg says the move is important to expand the state's economic dominance.",
-          "url": "https://www.freemalaysiatoday.com/category/nation/2026/05/10/sarawak-plans-to-take-over-more-federal-entities-says-abang-jo",
-          "source": {
-            "name": "Free Malaysia Today"
-          },
-          "publishedAt": "2026-05-10T07:06:03Z",
-          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/05/b2d8184c-abang-johari-openg-ukaspic-100526.webp",
-          "language": "en"
-        },
-        {
-          "title": "Bukayo Saka 'has an aura' - Mikel Arteta backs Arsenal's 'game-changer' to inspire Premier League title success",
-          "description": "Mikel Arteta praises Bukayo Saka for his leadership and 'aura' as Arsenal chase a historic Premier League and Champions League double.",
-          "url": "https://www.goal.com/en/lists/bukayo-saka-mikel-arteta-arsenal-game-premier-league-title/blt365db8759c0d87a0",
-          "source": {
-            "name": "Goal.com"
-          },
-          "publishedAt": "2026-05-10T07:06:01Z",
-          "image": "https://assets.goal.com/images/v3/getty-2274176622/crop/MM5DGMBVGY5DCNZRHE5G433XMU5DKOBXHIYTOMQ=/GettyImages-2274176622.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Shine always, shine everywhere - the sun cannot! Updated forecast from Latvian meteorologists for Sunday",
-          "description": "At the same time, light rain is expected only occasionally in the eastern regions of the country, according to forecasts from the Latvian Environment, Geology and Meteorology Centre.",
-          "url": "https://news.inbox.eu/1508bme-shine-always-shine-everywhere-the-sun-cannot-updated-forecast-from-latvian-meteorologists-for-sunday?language=en",
-          "source": {
-            "name": "Inbox.eu"
-          },
-          "publishedAt": "2026-05-10T07:05:46Z",
-          "image": "https://news.inbox.eu/w/img/77/0f/770f034acd09a1816f.webp",
-          "language": "en"
-        },
-        {
-          "title": "Skoda Kodiaq, MG Gloster, Jeep Meridian Discounts May 2026",
-          "description": "Skoda Kodiaq, MG Gloster and Jeep Meridian SUVs are available at a discount of up to Rs 4 lakh for May 2026. Check all the details",
-          "url": "https://motoroctane.com/news/312960-3-toyota-fortuner-rivals-get-discounts-of-up-to-rs-4-lakh",
-          "source": {
-            "name": "MotorOctane"
-          },
-          "publishedAt": "2026-05-10T07:05:00Z",
-          "image": "https://motoroctane.com/wp-content/uploads/2026/05/LAUNCHED-16-1.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Mother’s Day: Prime Minister Christopher Luxon and other politicians share heartfelt tributes to mums",
-          "description": "New Zealand politicians took to social media to pay tribute to mums on Mother’s Day. From heartfelt messages to personal tributes to their own mothers, MPs...",
-          "url": "https://www.nzherald.co.nz/lifestyle/mothers-day-prime-minister-christopher-luxon-and-other-politicians-share-heartfelt-tributes-to-mums/VA3KZAADBFDELDF4TMTDL7UHUE/",
-          "source": {
-            "name": "NZ Herald"
-          },
-          "publishedAt": "2026-05-10T07:03:49Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/MEMKXQ4CDNEBXDNOC2P2GHSMXE.jpg?auth=dfbe5963fc8cbbe5fe4fbcdb451ed89015af74f24586dec8e892fe6b2b1e986e&width=1200&height=675&quality=70&smart=true",
-          "language": "en"
-        },
-        {
-          "title": "Meet Vijay's new Cabinet: Ex-IRS officer, 29-year-old actor among initial picks",
-          "description": "The list includes a 29-year-old MLA, who will become the youngest minister in the cabinet, a doctor and an ex-IRS officer, and seven other leaders. All ministers in the first list are from the TVK, with no Congress leader included.",
-          "url": "https://www.indiatoday.in/india/tamil-nadu/story/vijay-tvk-ministers-list-first-cabinet-youngest-mla-ex-irs-officer-actress-keerthana-2909393-2026-05-10",
-          "source": {
-            "name": "India Today"
-          },
-          "publishedAt": "2026-05-10T07:03:20Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/tamilaga-vettri-kazhagam-tvk-chief-c-joseph-vijay-takes-oath-as-the-tamil-nadu-chief-minister-duri-100308996-16x9_0.png?VersionId=N8e.8LWdh7vYczSEgh80v2o_1i9TOSWz",
+          "publishedAt": "2026-05-10T09:40:00Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/e4cf8969f131a6a3b430fea380e914ce041b9a23978333545dd81d2745afc291",
           "language": "en"
         }
       ]
