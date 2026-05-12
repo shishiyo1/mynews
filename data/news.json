@@ -1,10 +1,54 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-12T17:13:16.481Z",
+  "updatedAt": "2026-05-12T19:55:17.335Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "17日頃から暑さのギアが一段階上がる 東京都心30℃など5月なのに真夏日続出",
+          "description": "今週末から、暑さのギアが一段階上がります。17日(日)以降は、最高気温30℃以上の真夏日が続出となり、東京都心でも今年初めて真夏日となる予想です。まだ5月だからと油断せず、エアコンの試運転や夏服の準備、暑さに身体を慣らす暑熱順化を行いましょう。",
+          "url": "https://tenki.jp/forecaster/r_fukutomi/2026/05/12/38894.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-12T07:31:26Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/388/38894/main/20260512161828/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "今夏までにエルニーニョ現象が発生する可能性が高い 5月12日発表の監視速報",
+          "description": "気象庁は今日5月12日「エルニーニョ監視速報」を発表しました。それによりますと、エルニーニョ現象もラニーニャ現象も発生していない平常の状態と見られますが、エルニーニョ現象時の特徴に近づきつつあります。今後、夏までにエルニーニョ現象が発生する可能性が高い(90%)とみられます。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/05/12/38893.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-12T05:53:09Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/388/38893/main/20260512143026/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "関東は14日にかけて平野部でも急な雷雨 16日以降は広く30℃超え 熱中症対策を",
+          "description": "関東では、明日13日(水)と14日(木)は東京都心など平野部でもザッと強い雨の降る所があるでしょう。落雷や突風などに注意が必要です。16日(土)以降は内陸を中心に最高気温30℃以上の真夏日が続出し、熱中症の警戒レベルもアップします。涼しい環境にして、こまめに水分をとるなど、対策をしてください。",
+          "url": "https://tenki.jp/forecaster/a_aoyama/2026/05/12/38889.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-12T05:32:26Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/388/38889/main/20260512140923/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【試合結果速報】大谷翔平、2試合連続ノーヒット＆11試合ノーアーチ 佐々木朗希は六回途中3失点で2勝目ならず ドジャースは3連敗",
+          "description": "ドジャース3－9ジャイアンツ（11日、ロサンゼルス）米大リーグ、ドジャースの佐々木朗希投手（24）が先発登板し、5回0/3を投げ、6安打3失点。2四死球で球数は91球。勝敗は付かず、1勝3敗のままで防御率は5.88。大谷翔平投手（31）は…",
+          "url": "https://www.sanspo.com/article/20260512-LX4KBI3YSZGBFDN3RZEO24DTRA/?outputType=theme_mlb",
+          "source": {
+            "name": "サンスポ"
+          },
+          "publishedAt": "2026-05-12T05:25:21Z",
+          "image": "https://www.sanspo.com/resizer/v2/WVBSLZLFXFNK3PNOY3RVRMK2RE.jpg?auth=336fdac66f6180b2e8d5c55ed57b3b6398c21c96c07eb242d1e218173b18cb27&quality=50&focal=1332%2C485&width=1200&height=675",
+          "language": "ja"
+        },
         {
           "title": "【2026年6月3日(水)開催】ゲーム業界最大級のビジネスイベント『GAME FUTURE SUMMIT 2026』の全37ステージのタイムテーブルと登壇者情報の第2弾を発表！無料参加登録受付中",
           "description": "株式会社MOTTOのプレスリリース（2026年5月12日 13時50分）【2026年6月3日(水)開催】ゲーム業界最大級のビジネスイベント『GAME FUTURE SUMMIT 2026』の全37ステージのタイムテーブルと登壇者情報の第2弾を発表！無料参加登録受付中",
@@ -70,161 +114,117 @@
           "publishedAt": "2026-05-12T02:55:03Z",
           "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/05/domino7.jpg?w=1200&h=630&crop=1",
           "language": "ja"
-        },
-        {
-          "title": "大谷翔平、出るか11試合ぶり７号「１番DH」 佐々木朗希が２勝目懸け先発／速報中",
-          "description": "ドジャース大谷翔平投手は「1番DH」で先発出場、11試合ぶりの7号は出るか。佐々木朗希が今季3勝目を懸けて中8日で先発。佐々木はここまで1勝3敗、防御率5・9… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/baseball/mlb/news/202605120000070.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-05-12T02:42:00Z",
-          "image": "https://www.nikkansports.com/baseball/mlb/news/img/202605120000070-w500_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "今日12日午後は東北～九州の山沿いで急な雨や雷雨に注意 天気急変のサインは?",
-          "description": "今日12日(火)は、午前中は広い範囲で晴れていますが、午後は東北～九州の山沿いを中心に急な雨や雷雨に注意が必要です。天気急変のサインは?",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/05/12/38887.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-05-12T02:29:22Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/388/38887/main/20260512112223/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "“手元で差をつける”Apple Watchバンド「Bandee Joy」、卸仕入れプラットフォーム「goooods」に出店開始",
-          "description": "Apple Watchをファッションやライフスタイルの一部として楽しみたい大人に向けたバンドブランド「Band",
-          "url": "https://www.smartwatchlife.jp/67198/",
-          "source": {
-            "name": "Smart Watch Life"
-          },
-          "publishedAt": "2026-05-12T02:24:16Z",
-          "image": "https://www.smartwatchlife.jp/wp-content/themes/smartwatchlife/img/cmn/favicon.ico",
-          "language": "ja"
-        },
-        {
-          "title": "W杯日本代表26人予想「三笘薫はギリギリ…遠藤航が回復しないなら守田英正」「サプライズは佐藤龍之介でも塩貝健人でもなく」日本通ブラジル記者がズバリ（Number Web）",
-          "description": "5月15日、サムライブルーの森保一監督がワールドカップ(W杯)に出場する26選手を発表する。それを前にして、ブラジルメディアきっての日本通であるチアゴ・ボンテンポ記者に彼が考える26人を伝えてもら",
-          "url": "https://news.yahoo.co.jp/articles/ed7709525dd347f5c589454c8fac27d2e9278945",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-12T02:05:27Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260512-00870393-number-000-2-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "AIADMK's CV Shanmugam Faction Announces Support To TVK",
-          "description": "AIADMK's CV Shanmugam Faction Announces Support To TVK",
-          "url": "https://www.ndtv.com/india-news/aiadmks-cv-shanmugam-faction-announces-support-to-tvk-11481878",
+          "title": "'I want to be the next Hidilyn Diaz-Naranjo'",
+          "description": "A double Southeast Asian Games champion and two-time Olympian, Ando is more motivated than ever to chase the Olympic gold medal at LA 2028.",
+          "url": "https://www.olympics.com/en/news/elreen-ando-philippines-weightlifting-next-hidilyn-diaz-naranjo-exclusive",
           "source": {
-            "name": "NDTV"
+            "name": "olympics.com"
           },
-          "publishedAt": "2026-05-12T05:12:09Z",
-          "image": "https://c.ndtvimg.com/2026-05/rrin5rks_cv-shanmugan_625x300_12_May_26.jpg",
+          "publishedAt": "2026-05-12T07:55:00Z",
+          "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/f4xv6isaxefllbtwiixb",
           "language": "en"
         },
         {
-          "title": "Metabolism-Inspired Gels Mimic Heartbeat, Photosynthesis",
-          "description": "Living organisms sustain themselves through intricate metabolic processes that continuously convert energy and materials into useful functions",
-          "url": "https://www.miragenews.com/metabolism-inspired-gels-mimic-heartbeat-1671613/",
+          "title": "Why Nairobi Africa France summit bears the hallmarks of Macron-Ruto priorities",
+          "description": "The summit illustrates how climate finance, security, and AI are being used to bolster commercial interests in both Africa and France.",
+          "url": "https://www.standardmedia.co.ke/national/article/2001547604/why-nairobi-africa-france-summit-bears-the-hallmarks-of-macron-ruto-priorities",
           "source": {
-            "name": "Mirage News"
+            "name": "standardmedia.co.ke"
           },
-          "publishedAt": "2026-05-12T05:12:00Z",
-          "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1543286386-713bdd548da4%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D750%26amp%3Bq%3D80",
+          "publishedAt": "2026-05-12T07:54:00Z",
+          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/kPaoUlFSkPyyX5cZA1x8NpDJ8pOUpBn1FLfg6fzI.jpg",
           "language": "en"
         },
         {
-          "title": "Legarda vows to support new Senate President, majority and minority bloc",
-          "description": "Re-elected Senate President Pro Tempore Loren Legarda on Tuesday, May 12 expressed readiness to buckle down to work as she vowed to work amicably with the...",
-          "url": "https://mb.com.ph/2026/05/12/legarda-vows-to-support-new-senate-president-majority-and-minority-bloc",
+          "title": "Rebellion? The Ministry of Defense Goes on the Offensive and Accuses the Ruling Party of Latvia of Lying",
+          "description": "The Director of the Department of the Ministry of Defense, Guna Gavrilko, assessed the report of a 40% staff turnover in her department:",
+          "url": "https://news.inbox.eu/1508mbe-rebellion-the-ministry-of-defense-goes-on-the-offensive-and-accuses-the-ruling-party-of-latvia-of-lying?language=en",
           "source": {
-            "name": "Manila Bulletin"
+            "name": "Inbox.eu"
           },
-          "publishedAt": "2026-05-12T05:11:00Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/12/100621.webp",
+          "publishedAt": "2026-05-12T07:52:29Z",
+          "image": "https://news.inbox.eu/w/img/69/95/6995e10bdd998a229f.webp",
           "language": "en"
         },
         {
-          "title": "the moral dilemma behind MrBeast’s billion-dollar empire",
-          "description": "Although Jimmy Donaldson might have you think otherwise, exploiting people for entertainment can’t be morally offset by doing good elsewhere.",
-          "url": "https://theconversation.com/poverty-porn-the-moral-dilemma-behind-mrbeasts-billion-dollar-empire-282050",
+          "title": "Dr Wee: Finance Ministry must explain Bandar Malaysia land deal and RM46.6mil payout",
+          "description": "PETALING JAYA: The Finance Ministry must explain why a prime 75-acre plot in Bandar Malaysia was locked in for up to 30 years, yielding returns of less than 1% a year, before the deal was cancelled with RM46.6mil paid in compensation, says MCA president Datuk Seri Dr Wee Ka Siong.",
+          "url": "https://www.thestar.com.my/news/nation/2026/05/12/dr-wee-finance-ministry-must-explain-bandar-malaysia-land-deal-and-rm466mil-payout",
           "source": {
-            "name": "The Conversation"
+            "name": "The Star | Malaysia"
           },
-          "publishedAt": "2026-05-12T05:10:53Z",
-          "image": "https://images.theconversation.com/files/735225/original/file-20260512-57-12nanl.jpg?ixlib=rb-4.1.0&rect=278%2C984%2C2517%2C1258&q=45&auto=format&w=1356&h=668&fit=crop",
+          "publishedAt": "2026-05-12T07:52:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/05/12/3904283.jpg",
           "language": "en"
         },
         {
-          "title": "Canvas developer Instructure says 'agreement' reached with hackers",
-          "description": "The company at the centre of a cyber attack involving online learning platform Canvas, which is used right across Australia,  says it has reached an \"agreement\" with the hackers responsible.",
-          "url": "https://www.abc.net.au/news/2026-05-12/canvas-instructure-agreement-reached-hackers-shinyhunters/106670228",
+          "title": "Is Google down? Widespread outages reported across APAC, search broken for many users",
+          "description": "Search giant yet to respond to reports of intermittent errors lasting several hours",
+          "url": "https://www.techradar.com/computing/search-engines/is-google-down-widespread-outages-reported-across-apac-search-broken-for-many-users",
           "source": {
-            "name": "Australian Broadcasting Corporation"
+            "name": "TechRadar"
           },
-          "publishedAt": "2026-05-12T05:10:45Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/88b9731ec78e59963876b0bf65cc5fa5?impolicy=wcms_watermark_news&cropH=705&cropW=1254&xPos=511&yPos=51&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-05-12T07:51:25Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/be83179733a5f75b64a917e1fa430080-887-80.jpg",
           "language": "en"
         },
         {
-          "title": "FLYGABON launches Lagos operations, offers unbeatable deals, seamless travel to Johannesburg, 19 other destinations",
-          "description": "FLYGABON, Gabon’s national airline, has commenced flight operations from Lagos, expanding its presence in Nigeria and strengthening air connectivity",
-          "url": "https://dailypost.ng/2026/05/12/flygabon-launches-lagos-operations-offers-unbeatable-deals-seamless-travel-to-johannesburg-19-other-destinations/",
+          "title": "69 days of crude, 45 days of LPG stock: Petroleum minister Hardeep Puri assures ‘no supply issue’ amid West Asia crisis",
+          "description": "India Business News: Union petroleum and natural gas minister Hardeep Singh Puri on Tuesday soothed concerns over energy supplies across the country, saying that fuel and .",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/69-days-of-crude-45-days-of-lpg-stock-petroleum-minister-hardeep-puri-assures-no-supply-issue-amid-west-asia-crisis/articleshow/131032067.cms",
           "source": {
-            "name": "Daily Post Nigeria"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-05-12T05:10:15Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2026/05/IMG_8414.jpg",
+          "publishedAt": "2026-05-12T07:51:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-131032686,width-1280,height-720,imgsize-1289585,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Sexual crimes committed during October 7 attack documented in extensive report",
-          "description": "Civil Commission says Hamas and its collaborators weaponized bodies, families, and digital platforms during massacre and captivity.",
-          "url": "https://www.jpost.com/israel-news/article-895838",
+          "title": "Jules Neale reveals she is looking for a new home in Perth following split from Lachie Neale",
+          "description": "Jules Neale has revealed she is on the hunt for a new home in Perth to ‘begin her next chapter’.",
+          "url": "https://www.perthnow.com.au/entertainment/celebrity-gossip/jules-neale-reveals-she-is-looking-for-a-new-home-in-perth-following-split-from-lachie-neale-c-22272391",
           "source": {
-            "name": "The Jerusalem Post"
+            "name": "PerthNow"
           },
-          "publishedAt": "2026-05-12T05:09:57Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/715059",
+          "publishedAt": "2026-05-12T07:51:00Z",
+          "image": "https://images.perthnow.com.au/publication/C-22272391/427c8603ac1b776e36180cecb92bb654602ddba0-16x9-x0y1w1640h923.jpg?imwidth=1200",
           "language": "en"
         },
         {
-          "title": "Netflix cuts jokes about Lizzo’s weight, #MeToo and Riyadh Comedy Festival from Kevin Hart’s roast",
-          "description": "Comedy special aired live Sunday, closing out the streamer’s Netflix Is a Joke comedy festival",
-          "url": "https://www.the-independent.com/arts-entertainment/tv/news/kevin-hart-roast-netflix-jokes-cut-lizzo-metoo-b2974713.html",
+          "title": "Uday Kotak calls for ‘more Brahma and Mahesh, less Vishnu’ to build a powerful Indian economy",
+          "description": "According to Kotak, India must respond strategically rather than oscillating between excessive optimism and pessimism",
+          "url": "https://www.moneycontrol.com/news/india/uday-kotak-calls-for-more-brahma-and-mahesh-less-vishnu-to-build-a-powerful-indian-economy-13916296.html",
           "source": {
-            "name": "The Independent"
+            "name": "Moneycontrol.com"
           },
-          "publishedAt": "2026-05-12T05:09:00Z",
-          "image": "https://static.the-independent.com/2026/05/11/19/2151122326.jpg?width=1200&height=800&crop=1200:800",
+          "publishedAt": "2026-05-12T07:50:54Z",
+          "image": "https://images.moneycontrol.com/static-mcnews/2024/11/20241114071444_Uday-Kotak-new.jpg",
           "language": "en"
         },
         {
-          "title": "Severe weather continues to disrupt electricity in Western Cape, these areas are affected",
-          "description": "Heavy rainfall, flooding and gale force winds continue to affect the Eskom network, causing multiple unplanned power outages.",
-          "url": "https://www.citizen.co.za/news/severe-weather-continues-disrupt-electricity-western-cape-areas-affected/",
+          "title": "Inside Chloe Lukasiak's Dance Moms Exit: The Unvarnished Truth Behind the Season 4 Drama",
+          "description": "The real reason Chloe Lukasiak abandoned Dance Moms in Season 4 exposes the toxic reality of competitive dance television. The implications are staggering.",
+          "url": "https://streamlinefeed.co.ke/news/why-chloe-left-dance-moms-season-4-christi-abby-drama",
           "source": {
-            "name": "The Citizen"
+            "name": "streamlinefeed.co.ke"
           },
-          "publishedAt": "2026-05-12T05:08:39Z",
-          "image": "https://media.citizen.co.za/wp-content/uploads/2026/05/Eskom.jpg",
+          "publishedAt": "2026-05-12T07:49:51Z",
+          "image": "https://cdn.tuko.co.ke/images/1200x675/ab39fae9956ec93d.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "Rod Stewart congratulates King for putting ‘ratbag’ Trump ‘in his place’",
-          "description": "Charles appeared to laugh off Sir Rod’s comment, as Rolling Stones guitarist Ronnie Wood grinned next to them",
-          "url": "https://www.independent.co.uk/news/uk/home-news/rod-stewart-king-charles-trump-b2974712.html",
+          "title": "EU considering social media 'delay' for children, says von der Leyen",
+          "description": "An expert panel is to report back by July on what steps the EU should take to protect minors online.",
+          "url": "https://www.thejournal.ie/eu-considering-social-media-delay-for-children-von-der-leyen-7037143-May2026/",
           "source": {
-            "name": "The Independent"
+            "name": "The Journal"
           },
-          "publishedAt": "2026-05-12T05:08:00Z",
-          "image": "https://static.independent.co.uk/2026/05/12/06/download.jpg?width=1200&height=800&crop=1200:800",
+          "publishedAt": "2026-05-12T07:49:00Z",
+          "image": "https://img2.thejournal.ie/article/7037143/river/?height=400&version=7037167",
           "language": "en"
         }
       ]
