@@ -1,10 +1,32 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-12T03:27:25.515Z",
+  "updatedAt": "2026-05-12T08:42:32.603Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "山田涼介主演のドラマ「一次元の挿し木」7月スタート、200年前の人骨が義理の妹のDNAと一致（コメントあり）",
+          "description": "山田涼介（Hey! Say! JUMP）が主演を務める読売テレビ・日本テレビ系新ドラマ「一次元の挿し木」が7月にスタートする。松下龍之介の小説を実写化した同作は、ヒマラヤ山中で発掘された200年前の人骨が、失踪した義理の妹のDNAと一致し...",
+          "url": "https://natalie.mu/eiga/news/671536",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-05-11T19:00:00Z",
+          "image": "https://ogre.natalie.mu/media/news/eiga/2026/0511/ichijigen_202605.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
+        {
+          "title": "アップルとGoogle、iOS 26.5搭載のiPhoneと最新のGoogleメッセージ搭載Android間のRCSメッセージにエンドツーエンド暗号化べータ版を導入開始",
+          "description": "アップルとGooglはiOS 26.5とGoogle Messagesの最新版の間のRCSメッセージにエンドツーエンド暗号化を導入開始しました。",
+          "url": "https://www.techno-edge.net/article/2026/05/12/5054.html",
+          "source": {
+            "name": "テクノエッジ TechnoEdge"
+          },
+          "publishedAt": "2026-05-11T18:17:16Z",
+          "image": "https://www.techno-edge.net/imgs/ogp_f/31350.jpg",
+          "language": "ja"
+        },
         {
           "title": "『Forza Horizon 6』のファイルがSteamに誤って公開―海賊版プレイヤーにはゲーム内で約7,000万時間のBANが下される事態に",
           "description": "「先行アクセス権」の価値も揺らぐ？",
@@ -92,139 +114,117 @@
           "publishedAt": "2026-05-11T11:26:00Z",
           "image": "https://ogre.natalie.mu/media/news/owarai/2026/0511/DSC_0519.jpg?impolicy=twitter_card_face_crop",
           "language": "ja"
-        },
-        {
-          "title": "リチウムイオンバッテリーが充電中に爆発か 建物火災で3人ケガ 東京・板橋区",
-          "description": "11日午後、東京・板橋区で2階建ての建物が燃え、3人がケガをする火事がありました。警視庁によりますと、リチウムイオンバッテリーが充電中に爆発したとみられるということです。",
-          "url": "https://news.ntv.co.jp/category/society/f5a668b1e11143c5801750176fd2f7c8",
-          "source": {
-            "name": "日テレNEWS NNN"
-          },
-          "publishedAt": "2026-05-11T11:01:01Z",
-          "image": "https://news.ntv.co.jp/gimage/n24/articles/ffb347ba88a04b5587fe43c79ea6457e/20260511-175314-498-ch03-09-bc5172cc-1.jpg?w=1200",
-          "language": "ja"
-        },
-        {
-          "title": "タグ・ホイヤー、インディ500とのコラボレーション第13弾「タグ・ホイヤー フォーミュラ1 ソーラーグラフ x インディ500」を発表。",
-          "description": "LVMHウォッチ・ジュエリー ジャパン株式会社 タグ・ホイヤーのプレスリリース（2026年5月11日 20時00分）タグ・ホイヤー、インディ500とのコラボレーション第13弾「タグ・ホイヤー フォーミュラ1 ソーラーグラフ x インディ500」を発表。",
-          "url": "https://prtimes.jp/main/html/rd/p/000000501.000002796.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-05-11T11:00:02Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/2796/501/2796-501-663cb1ad8836267384818fd775352989-2000x2000.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "2026 NFL schedule leaks and rumors: A running list of every known game",
-          "description": "The Sunday night game for Week 1 was announced and more leaks will be coming prior to the full schedule release on Thursday.",
-          "url": "https://www.cbssports.com/nfl/news/2026-nfl-schedule-leaks-rumors/",
+          "title": "PWHL POSTPONES TONIGHT’S GAME 5 OF THE PWHL WALTER CUP PLAYOFFS BETWEEN MINNESOTA AND MONTRÉAL",
+          "description": "NEW YORK AND TORONTO (May 11, 2026) – Tonight’s Game 5 of the PWHL Walter Cup Playoffs between Minnesota and Montréal at Place Bell has been postponed due to player safety concerns related to illness.The decision was made following consultation with me...",
+          "url": "https://www.thepwhl.com/en/news/2026/may/11/pwhl-postpones-tonight-s-game-5-of-the-pwhl-walter-cup-playoffs-between-minnesota-and-montreal",
           "source": {
-            "name": "CBS Sports"
+            "name": "PWHL"
           },
-          "publishedAt": "2026-05-11T15:27:00Z",
-          "image": "https://sportshub.cbsistatic.com/i/r/2025/10/17/5f024e07-5020-4acf-8189-04772cc0cfb5/thumbnail/1200x675/46d6ddd6fe88bffcfc94c4475c051a8e/pickens.jpg",
+          "publishedAt": "2026-05-11T20:42:03Z",
+          "image": "https://res.cloudinary.com/pwhl-low/image/upload/c_fill,g_faces:auto,h_630,w_1200/q_auto/f_jpg/2526-PLY-Generic-Header-1920x1080?_a=DATAiZUqZAA0",
           "language": "en"
         },
         {
-          "title": "Ontario travellers with connections to cruise remain asymptomatic, not being tested for hantavirus",
-          "description": "Ontario’s health minister says three people in the province with connections to a deadly hantavirus outbreak are not currently being tested for the rodent-borne illness. Sylvia Jones says the three individuals — a couple in Grey Bruce and a person in Peel Region — are still asymptomatic and isolating. Jones says Ontario’s top doctor suggests […]",
-          "url": "https://toronto.citynews.ca/2026/05/11/ontario-travellers-with-connections-to-cruise-remain-asymptomatic-not-being-tested-for-hantavirus/",
+          "title": "Astronomers Unveil Most Detailed Cosmic Web Map",
+          "description": "RIVERSIDE, Calif. -- Using data from NASA's James Webb Space Telescope ( JWST ), astronomers led by researchers at the University of California",
+          "url": "https://www.miragenews.com/astronomers-unveil-most-detailed-cosmic-web-map-1671263/",
           "source": {
-            "name": "CityNews Toronto"
+            "name": "Mirage News"
           },
-          "publishedAt": "2026-05-11T15:27:00Z",
-          "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/05/97f0384434db0d9df5e4ceeb261ad0ff455538b5454a4b95e4e2fb8b66a4b607.jpg",
+          "publishedAt": "2026-05-11T20:40:00Z",
+          "image": "https://cdn1.miragenews.com/tmp_cache?cdn=cdn.pixabay.com%2Fphoto%2F2016%2F11%2F29%2F05%2F45%2Fastronomy-1867616_960_720.jpg",
           "language": "en"
         },
         {
-          "title": "Microsoft’s CFO admits she joined the tech giant without even knowing her salary-and then missed her first day of work",
-          "description": "Amy Hood accepted a Microsoft job in 2002 without knowing her salary. Two decades later, her compensation now tops $29 million.",
-          "url": "https://fortune.com/2026/05/11/microsoft-amy-hood-career-advice-duke-commencement-class-of-2026/",
+          "title": "Minimie Atsomo crowns Frimpomaa Yartel winner of ‘Laugh It Off’ creator challenge",
+          "description": "Minimie Atsomo crowns Frimpomaa Yartel winner of ‘Laugh It Off’ creator challenge",
+          "url": "https://www.graphic.com.gh/entertainment/showbiz-news/minimie-atsomo-crowns-frimpomaa-yartel-winner-of-laugh-it-off-creator-challenge.html",
           "source": {
-            "name": "Fortune"
+            "name": "Graphic Online"
           },
-          "publishedAt": "2026-05-11T15:27:00Z",
-          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-1044727208-e1778512475847.jpg?resize=1200,600",
+          "publishedAt": "2026-05-11T20:39:59Z",
+          "image": "https://www.graphic.com.gh/images/2026/Apr/30/atsomolet.jpg",
           "language": "en"
         },
         {
-          "title": "AI-powered hacking has exploded into industrial-scale threat, Google says",
-          "description": "Criminal groups and state-linked actors appear to be using commercial models to refine and scale up attacks",
-          "url": "https://www.theguardian.com/technology/2026/may/11/ai-powered-hacking-industrial-scale-threat-three-months-google",
+          "title": "NYT report finds Israel spent over $1mn on Eurovision campaign",
+          "description": "A New York Times investigation found that Israel spent more than $1 million and coordinated a state-backed campaign to influence Eurovision voting.",
+          "url": "https://www.newarab.com/news/nyt-report-finds-israel-spent-over-1mn-eurovision-campaign",
           "source": {
-            "name": "The Guardian"
+            "name": "The New Arab"
           },
-          "publishedAt": "2026-05-11T15:27:00Z",
-          "image": "https://i.guim.co.uk/img/media/88c1a20a1f0540a6ea11edf2c30b0206fa5d2710/489_0_5315_4252/master/5315.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5c22d9f572483877c0324e2cd0f31265",
+          "publishedAt": "2026-05-11T20:39:48Z",
+          "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2215090989.jpeg?itok=HFq3EkyC",
           "language": "en"
         },
         {
-          "title": "Eurovision's other Israel-related challenge: new voting rules",
-          "description": "By Francois Murphy VIENNA, May 11 (Reuters) - This week's Eurovision Song Contest, already stung by boycotts over Israeli participation, is also facing a test of new public-voting rules introduced to",
-          "url": "https://www.yahoo.com/entertainment/music/articles/eurovisions-other-israel-related-challenge-152652863.html",
+          "title": "Trisha Krishnan’s blue saree at Vijay’s swearing-in reminds fans of Aishwarya Rai Bachchan’s iconic look with Atal Bihari Vajpayee",
+          "description": "The swearing-in ceremony of Thalapathy Vijay as the Chief Minister of Tamil Nadu turned into one of the biggest talking points online this week. While.",
+          "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/trisha-krishnans-blue-saree-at-vijays-swearing-in-reminds-fans-of-aishwarya-rai-bachchans-iconic-look-with-atal-bihari-vajpayee/articleshow/131023568.cms",
           "source": {
-            "name": "Yahoo"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-05-11T15:26:52Z",
-          "image": "https://s.yimg.com/os/en/reuters_ready_entertainment_test_357/e872589d3e0b9826f94fe10373458129",
+          "publishedAt": "2026-05-11T20:37:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-131023591,width-1280,height-720,imgsize-75974,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Eurovision 2026: When is it on, who is boycotting and could Israel win?",
-          "description": "Tensions and disunity haunt the song contest as it marks its 70th anniversary in Vienna",
-          "url": "https://www.irishtimes.com/culture/music/2026/05/12/eurovision-2026-when-is-it-on-who-is-boycotting-and-could-israel-win/",
+          "title": "What they said at 2026 PGA Championship: Jordan Spieth feels closer than ever ahead of career Grand Slam attempt",
+          "description": "NEWTOWN SQUARE, Penn. — The 108th edition of the PGA Championship has officially begun its early-week procession of media obligations as the world’s top players",
+          "url": "https://www.pgatour.com/article/news/latest/2026/05/11/what-they-said-press-conferences-pga-championship-scottie-scheffler-rory-mcilroy-aronimink",
           "source": {
-            "name": "The Irish Times"
+            "name": "PGA Tour"
           },
-          "publishedAt": "2026-05-11T15:25:12Z",
-          "image": "https://www.irishtimes.com/resizer/v2/UNWC7OPV5UQPDE3EBYISPCP3YE.jpg?smart=true&auth=d63bb855ab66899a7ce216416cfced0d2a855994d65cbb60e680fe9bfcaa8c8c&width=1200&height=630",
+          "publishedAt": "2026-05-11T20:35:49Z",
+          "image": "https://res.cloudinary.com/pgatour-prod/w_1200,h_628,c_fill,f_auto,q_auto/pgatour/news/editorial/2026/05/11/spieth-presser.jpg",
           "language": "en"
         },
         {
-          "title": "EACC, FBI deepen strategic partnership to combat transnational corruption",
-          "description": "The EACC hosted the Deputy co-Director of the FBI Andrew Bailey",
-          "url": "https://www.the-star.co.ke/news/2026-05-11-eacc-fbi-deepen-ties-to-combat-transnational-graft",
+          "title": "‘Steeped in history’: Fort Garry Hotel up for sale",
+          "description": "Downtown Winnipeg’s landmark Fort Garry Hotel is up for sale.",
+          "url": "https://www.winnipegfreepress.com/breakingnews/2026/05/11/historic-fort-garry-hotel-up-for-sale",
+          "source": {
+            "name": "Winnipeg Free Press"
+          },
+          "publishedAt": "2026-05-11T20:34:44Z",
+          "image": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2026/05/4217293_web1_260511-Fort-Garry-00025.jpg?w=1600",
+          "language": "en"
+        },
+        {
+          "title": "Scientists link phosphorus spikes in ancient oceans to major mass extinctions",
+          "description": "New study reveals brief, globally coherent phosphorus spikes linked to ancient marine mass extinctions.\nThe findings highlight how nutrient-cycle disruption can contribute to ocean oxygen loss and ecosystem stress.",
+          "url": "https://www.eurekalert.org/news-releases/1127730",
+          "source": {
+            "name": "EurekAlert!"
+          },
+          "publishedAt": "2026-05-11T20:33:53Z",
+          "image": "https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png",
+          "language": "en"
+        },
+        {
+          "title": "Punjab Assembly unites to honour armed forces",
+          "description": "Punjab Assembly unites to honour armed forces",
+          "url": "https://tribune.com.pk/story/2607587/punjab-assembly-unites-to-honour-armed-forces",
+          "source": {
+            "name": "The Express Tribune"
+          },
+          "publishedAt": "2026-05-11T20:33:50Z",
+          "image": "https://i.tribune.com.pk/media/images/281777411521-1/281777411521-1-640x480.webp",
+          "language": "en"
+        },
+        {
+          "title": "Civil society demands people-first health reforms at Nairobi summit",
+          "description": "WACI Health and more than 100 groups say Africa cannot achieve true independence without stronger health systems.",
+          "url": "https://www.the-star.co.ke/health/2026-05-11-african-civil-society-demands-people-first-health-reforms-at-nairobi-summit",
           "source": {
             "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-05-11T15:24:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/05/24189ce3-e9ca-4af0-b183-6e4e205e0bf9.jpg?1778514048687",
-          "language": "en"
-        },
-        {
-          "title": "Steam Machine leak suggests 4 different models - and a queue system to stop scalpers",
-          "description": "Valve is reportedly prepping 4 Steam Machine models, along with a reservation queue to curb scalpers and bots, but there's no news on pricing.",
-          "url": "https://www.tomsguide.com/computing/gaming-desktops/steam-machine-leak-suggests-4-different-models-and-a-queue-system-to-stop-scalpers",
-          "source": {
-            "name": "Tom's Guide"
-          },
-          "publishedAt": "2026-05-11T15:23:06Z",
-          "image": "https://cdn.mos.cms.futurecdn.net/WLec9wkyEhDpZxRRLJYEqE-2560-80.jpg",
-          "language": "en"
-        },
-        {
-          "title": "5 Scenarios for Putin's Ukraine War",
-          "description": "Perspective: Vladimir Putin said he believes the Ukraine war is drawing to a conclusion. How, and even if, it will end is now the question.",
-          "url": "https://www.newsweek.com/putin-russia-ukraine-war-end-trump-zelensky-11936926",
-          "source": {
-            "name": "Newsweek"
-          },
-          "publishedAt": "2026-05-11T15:23:00Z",
-          "image": "https://assets.newsweek.com/wp-content/uploads/2026/05/05.11.26-5-Scenarios-for-Putins-Ukraine-War.jpg?w=1200&crop=1",
-          "language": "en"
-        },
-        {
-          "title": "APC Screens 98 Rivers Assembly Aspirants, Describes Exercise As Peaceful",
-          "description": "APC Screens 98 Rivers Assembly Aspirants, Describes Exercise As Peaceful",
-          "url": "https://www.channelstv.com/2026/05/11/apc-screens-98-rivers-assembly-aspirants-describes-exercise-as-peaceful/",
-          "source": {
-            "name": "Channels Television"
-          },
-          "publishedAt": "2026-05-11T15:21:29Z",
-          "image": "https://www.channelstv.com/wp-content/uploads/2024/10/APC-Flag.jpg",
+          "publishedAt": "2026-05-11T20:33:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/05/8b51af10-a13d-4ada-87a2-5dc6017ff599.png?1778553041987",
           "language": "en"
         }
       ]
