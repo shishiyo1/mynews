@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-13T14:37:54.479Z",
+  "updatedAt": "2026-05-13T17:18:33.211Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "三笘のハムストリング負傷とアーセナル戦のVAR判定 フットボールの発展がもたらした功罪",
+          "description": "三笘薫を悲劇が襲った。5月9日（現地時間、以下同）、すでに降格が決まっている最下位ウルヴァーハンプトンとのホームゲーム…",
+          "url": "https://sports.yahoo.co.jp/column/detail/2026051300001-spnavi",
+          "source": {
+            "name": "スポーツナビ"
+          },
+          "publishedAt": "2026-05-13T05:15:00Z",
+          "image": "https://sports-pctr.c.yimg.jp/dk/iwiz-sports/text/images/2026/0513/2026051300001-spnavi_1778644257_view.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "フィギュア坂本花織「一生懸命練習するのは青春」 引退会見で結婚も報告 一問一答",
+          "description": "フィギュアスケート女子で2月のミラノ・コルティナ冬季五輪銀メダルを獲得するなど活躍し、今季限りでの引退を表明している坂本花織（26）＝シスメックス＝が13日、出身地の神戸市内のホテルで記者会見し「現役で一生懸命練習するっていうのはすごく青…",
+          "url": "https://www.sankei.com/article/20260513-EDCIMZGZGVOXRO4X3MEDVMICQU/",
+          "source": {
+            "name": "産経ニュース"
+          },
+          "publishedAt": "2026-05-13T04:04:17Z",
+          "image": "https://www.sankei.com/resizer/v2/RXWFTIX4ONOVJG6HJQNWMRHFQI.jpg?auth=0d8462043b727015004325b681507f67fbe4f658362c5b6d96bff8273d9c8e51&quality=50&smart=true&width=1200&height=675",
+          "language": "ja"
+        },
+        {
+          "title": "GarminのランニングGPSウォッチ最新モデルは、初めてのランニングウォッチ『Forerunner 70』『Forerunner 170』を5月28日（木）に発売",
+          "description": "ガーミンジャパン株式会社のプレスリリース（2026年5月13日 13時00分）GarminのランニングGPSウォッチ最新モデルは、初めてのランニングウォッチ『Forerunner 70』『Forerunner 170』を5月28日（木）に発売",
+          "url": "https://prtimes.jp/main/html/rd/p/000000103.000135223.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-05-13T04:00:01Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/135223/103/135223-103-67a5f75489621e9a456a13af765eca10-2200x1450.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "『龍が如く 極３ / 龍が如く３外伝 Dark Ties』『SHINOBI 復讐の斬撃』がセールに登場！「セガ 5月スペシャルセール」開催中！",
+          "description": "株式会社セガのプレスリリース（2026年5月13日 12時54分）『龍が如く 極３ / 龍が如く３外伝 Dark Ties』『SHINOBI 復讐の斬撃』がセールに登場！「セガ 5月スペシャルセール」開催中！",
+          "url": "https://prtimes.jp/main/html/rd/p/000007365.000005397.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-05-13T03:54:30Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/5397/7365/5397-7365-39bb9401c8cd7be11936566789257249-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "磐越道バス事故から1週間 なぜ17歳の命は失われたのか “部活動の引率体制”“書面なきバス手配”…浮かび上がる複数の問題点 食い違う高校とバス会社側の意見",
+          "description": "大型連休最終日の5月6日朝、福島県郡山市の磐越自動車道で新潟市の北越高校男子ソフトテニス部の部員を乗せたマイクロバスがガードレールに衝突し、後続のワゴン車が追突する事故が発生した。この事故で部員の稲垣尋斗さん（17）が死亡し、20人が負傷した。13日で事故から1週間。事故の背景にある複数の問題が次々と明らかになっている。",
+          "url": "https://news.nsttv.com/post/20260513-00000010-nst/",
+          "source": {
+            "name": "新潟ニュース NST"
+          },
+          "publishedAt": "2026-05-13T03:06:33Z",
+          "image": "https://news.nsttv.com/wp-content/uploads/2026/05/202605133080201.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Claude Mythosがもたらすセキュリティビジネス激変の可能性 二極化していく“業界のこれから”（1/5 ページ）",
+          "description": "IT業界の話題をさらう、Anthropicのセキュリティ特化型エージェント「Claude Mythos」。MythosのようなAIスキャナーの普及がセキュリティ業界の構造にどんな変化をもたらすのか。IT組織作りに携わってきた筆者が視点から分析する。 (1/5)",
+          "url": "https://www.itmedia.co.jp/news/articles/2605/12/news077.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-05-13T03:00:00Z",
+          "image": "https://image.itmedia.co.jp/news/articles/2605/12/cover_news077.jpg",
+          "language": "ja"
+        },
         {
           "title": "Androidスマホが“おせっかいな相棒”に グーグル「Gemini Intelligence」発表",
           "description": "グーグルは5月12日、Android向けの新機能群「Gemini Intelligence」を発表した。",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-05-13T01:23:50Z",
           "image": "https://dtimes.jp/wp-content/uploads/2026/05/sub1-30.jpg",
           "language": "ja"
-        },
-        {
-          "title": "Android 17は「富裕層」を熱狂させるだろう しかし私たち庶民はどうだろうか",
-          "description": "米Googleが現地時間5月12日、開発者向けイベントに先駆けて開いた「The Android Show」では、次期OS「Android 17」のさまざまな新機能が披露された。デモを見終えた率直な感想は「便利そう」ではなく「Googleは私のことをCEO並みの高給取りだと思っているのか」だった。提示された使い方の例は、ことごとく富裕層に最適化されていたからだ。",
-          "url": "https://japan.cnet.com/article/35247433/",
-          "source": {
-            "name": "CNET Japan"
-          },
-          "publishedAt": "2026-05-13T01:15:00Z",
-          "image": "https://japan.cnet.com/storage/2026/05/13/0d2e53bf8d7adf584838a9b7765d70d9/screenshot-2026-05-12-at-20-56-06__1_.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "今週末から暑さのレベルアップ 東京都心や名古屋など30℃以上の真夏日が急増",
-          "description": "今週末から暑さのレベルがアップしそうです。東北南部や関東から西では真夏日(30℃以上)地点が急増するでしょう。甲府や熊本では15日(金)以降は連日の真夏日に。東京都心でも17日(日)と19日(火)は真夏日となりそうです。熱中症に警戒が必要です。",
-          "url": "https://tenki.jp/forecaster/t_yoshida/2026/05/13/38898.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-05-13T00:27:58Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/388/38898/main/20260513085532/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "自転車は車道用と歩道用どちらの信号に従う？",
-          "description": "2026年4月から自転車にも青切符が導入されたものの、細かな交通ルールまですべてを把握している人はまだ少ないかもしれない。では、自転車で車道を走っているとき、目の前の車両用信号が赤になったものの、歩行者用信号は青のままである場合はそのまま進行してもよいのだろうか。",
-          "url": "https://motor-fan.jp/headline/1479156/",
-          "source": {
-            "name": "Motor Fan"
-          },
-          "publishedAt": "2026-05-13T00:10:00Z",
-          "image": "https://motor-fan.jp/wp-content/uploads/2026/05/3430871_m-e1778235745410.jpg?v=1778235721",
-          "language": "ja"
-        },
-        {
-          "title": "iPhone Ultraのカラバリ、シルバー系とブルー系の2色展開？",
-          "description": "Image: 三浦一紀 - Generated with ChatGPT 5.2 色とりどりより、そっちのほうがいいまである。iPhoneの新作と言えば、カラバリも注目されるひとつ。その年のトレンドカ",
-          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260513_1778632518674751",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-05-13T00:00:00Z",
-          "image": "https://portal.st-img.jp/thumb/afb20e3ec96c99f1ebcfd4816d3c5124_1778632518_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "iPhone Ultraのカラバリ、シルバー系とブルー系の2色展開？",
-          "description": "色とりどりより、そっちのほうがいいまである。iPhoneの新作と言えば、カラバリも注目されるひとつ。その年のトレンドカラーが反映されていたり、あっと驚く色が出たり（オレンジは奇抜でしたね）、なにかと話題になりがち。しかし、今秋Apple（アップル）が計画していると噂されている折りたたみiPhone（仮称：iPhone Ultra）では、奇抜な色はなく、カラバリはシンプルな2色になるといった噂があ",
-          "url": "https://www.gizmodo.jp/2026/05/iphone-ultra-color-variation.html",
-          "source": {
-            "name": "ギズモード・ジャパン"
-          },
-          "publishedAt": "2026-05-13T00:00:00Z",
-          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/05/12/20260512fok00.jpg?w=1280&h=630&f=jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Amazon、手書きできる「Kindle Scribe」を刷新 初のカラーモデル追加 価格は？",
-          "description": "Amazonは5月12日、手書きノート機能搭載の電子書籍リーダー「Kindle Scribe」を刷新し、新シリーズとして日本で販売すると発表した。シリーズ初のカラーディスプレイを搭載した「Kindle Scribe Colorsoft」を追加し、新「Kindle Scribe」「Kindle Scribeフロントライト非搭載モデル」とあわせて3モデル展開する。価格は7万2980円から。同日からAmazon.co.jpで予約受付を開始し、出荷は6月10日を予定する。",
-          "url": "https://japan.cnet.com/article/35247414/",
-          "source": {
-            "name": "CNET Japan"
-          },
-          "publishedAt": "2026-05-12T23:54:00Z",
-          "image": "https://japan.cnet.com/storage/2026/05/13/36fbd0896557d9b77ebdcfdf798b86be/2026-05-13_8.48の画像.jpeg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Delta Goodrem Announces ‘Pure’ Album Via Universal Music",
-          "description": "Due out in November, \"Pure\" is Delta Goodrem's first album through a new deal struck with Universal Music via Better Now Records/Electrola.",
-          "url": "https://www.billboard.com/music/pop/ahead-eurovision-delta-goodrem-pure-album-1236246499/",
+          "title": "SpaceX set to debut its Starship version 3 from launch pad 2 on May 19",
+          "description": "SpaceX Starship Flight 12 debuts next generation Starship V3 and Super Heavy with Raptor 3 engines from Starbase, testing key tech for Moon and Mars missions",
+          "url": "https://www.cnbctv18.com/world/spacex-set-to-debut-its-starship-version-3-from-launch-pad-2-on-may-19-ws-l-19904573.htm",
           "source": {
-            "name": "Billboard"
+            "name": "CNBC TV18"
           },
-          "publishedAt": "2026-05-13T02:35:26Z",
-          "image": "https://www.billboard.com/wp-content/uploads/2026/05/delta-goodrem-pure-2026-1800.jpg?w=1024",
+          "publishedAt": "2026-05-13T05:18:24Z",
+          "image": "https://images.cnbctv18.com/uploads/2026/05/spacex-startship-v3-2026-05-8026178a120dcf03bd3c1682db20cf16.jpg?im=FitAndFill,width=500,height=300",
           "language": "en"
         },
         {
-          "title": "‘The pecking order’s clear’: Australia aim to send T20 World Cup into a spin with squad selection",
-          "description": "Lucy Hamilton has been favoured ahead of quick Darcie Brown, while fit-again captain Sophie Molineux will create a selection squeeze at the T20 World Cup",
-          "url": "https://www.theguardian.com/sport/2026/may/13/star-quick-omitted-with-lucy-hamilton-called-into-australias-t20-world-cup-squad",
+          "title": "Donald Gibb, 'Revenge of the Nerds' Actor, Dies at 71",
+          "description": "Donald Gibb, known for playing fraternity bro Frederick Aloysius “Ogre” Palowaski in the cult classic 'Revenge of the Nerds,' died at the age of  71.",
+          "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/donald-gibb-revenge-of-the-nerds-bloodsport-dead-obituary-1235561743/",
           "source": {
-            "name": "The Guardian"
+            "name": "Rolling Stone"
           },
-          "publishedAt": "2026-05-13T02:35:00Z",
-          "image": "https://i.guim.co.uk/img/media/7a16add6cd86b5ef02f7d2e9046bf241841dfe74/500_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c200a1da35321c63db939fc94f933a8",
+          "publishedAt": "2026-05-13T05:16:48Z",
+          "image": "https://www.rollingstone.com/wp-content/uploads/2026/05/Donald-Gibb-revenge-of-the-nerds-dead.jpg?w=1600&h=900&crop=1",
           "language": "en"
         },
         {
-          "title": "Cannabis and tobacco co-use may increase psychosis risk",
-          "description": "A new multisite study published in Nature Mental Health found that using cannabis and tobacco together increases the risk of developing psychotic disorders like schizophrenia among those considered high risk.",
-          "url": "https://www.news-medical.net/news/20260512/Cannabis-and-tobacco-co-use-may-increase-psychosis-risk.aspx",
+          "title": "P6.5 B needed to start Capiz mega dam construction",
+          "description": "ILOILO CITY – At least P6.5 billion is needed to start construction of the mega dam project in Capiz province before President Ferdinand Marcos Jr. steps down...",
+          "url": "https://mb.com.ph/2026/05/13/p65-b-needed-to-start-capiz-mega-dam-construction",
+          "source": {
+            "name": "Manila Bulletin"
+          },
+          "publishedAt": "2026-05-13T05:16:08Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/13/100869.webp",
+          "language": "en"
+        },
+        {
+          "title": "NYT Connections hints and answers for May 13. Tips to solve 'Connections' #1067.",
+          "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
+          "url": "https://mashable.com/article/nyt-connections-hint-answer-today-may-13-2026",
+          "source": {
+            "name": "Mashable"
+          },
+          "publishedAt": "2026-05-13T05:15:54Z",
+          "image": "https://helios-i.mashable.com/imagery/articles/03DlEa6Yb5Tq9dCSvaMiKcu/hero-image.fill.size_1200x675.v1778524151.jpg",
+          "language": "en"
+        },
+        {
+          "title": "'Quadrophenia Doc,' Zandra Rhodes Film Set at Frost&Jones",
+          "description": "Director Sadie Frost and producer Simon Jones launch Frost&Jones, with a Pete Townshend-backed 'Quadrophenia' doc already in production.",
+          "url": "https://variety.com/2026/film/markets-festivals/quadrophenia-doc-zandra-rhodes-frost-jones-sadie-frost-1236745644/",
+          "source": {
+            "name": "Variety"
+          },
+          "publishedAt": "2026-05-13T05:15:00Z",
+          "image": "https://variety.com/wp-content/uploads/2026/05/Sadie-Frost-Simon-Jones.jpg?w=1000&h=563&crop=1",
+          "language": "en"
+        },
+        {
+          "title": "Night of terror in Kuria as elderly man is gunned down",
+          "description": "Officers responding to reports of gunfire recovered five spent 9mm cartridges at the scene",
+          "url": "https://www.the-star.co.ke/news/2026-05-13-night-of-terror-in-kuria-as-elderly-man-is-gunned-down",
+          "source": {
+            "name": "the-star.co.ke"
+          },
+          "publishedAt": "2026-05-13T05:15:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/05/f050b5ab-31c2-4bb3-8d21-ee92b78a0336.png?1778651627115",
+          "language": "en"
+        },
+        {
+          "title": "More than 170 arrests in Met's Croydon facial recognition trial",
+          "description": "Crime reduced by 10.5% during the pilot from October 2025 to March 2026, the Metropolitan Police says.",
+          "url": "https://www.bbc.co.uk/news/articles/cddpzglzrv7o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-05-13T05:14:10Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9012/live/9359bff0-4e0d-11f1-841e-93875f0f6355.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Premier League predictions: Manchester City v Crystal Palace",
+          "description": "Who's leading after matchday 36? And what do our writer, the algorithm, a child and this week's subscriber expect from City's midweek game?",
+          "url": "https://www.nytimes.com/athletic/7272203/2026/05/13/premier-league-predictions-manchester-city-v-crystal-palace/",
+          "source": {
+            "name": "The New York Times"
+          },
+          "publishedAt": "2026-05-13T05:13:32Z",
+          "image": "https://static01.nyt.com/athletic/uploads/wp/2026/05/12034013/0715_PLPredictionsChallengeTheAthletic-1-1.png?width=1200&height=630&fit=cover",
+          "language": "en"
+        },
+        {
+          "title": "New low cost vaccine could finally stop malaria in its tracks",
+          "description": "Malaria is a deadly disease killing more than half a million people every year, but a new vaccine is showing promise as it not only offers long-lasting strong protection but also inhibits transmission of malaria by mosquitos.",
+          "url": "https://www.news-medical.net/news/20260513/New-low-cost-vaccine-could-finally-stop-malaria-in-its-tracks.aspx",
           "source": {
             "name": "News-Medical"
           },
-          "publishedAt": "2026-05-13T02:35:00Z",
-          "image": "https://www.news-medical.net/image-handler/picture/2014/7/Psychosis-620x480.jpg",
+          "publishedAt": "2026-05-13T05:13:00Z",
+          "image": "https://www.news-medical.net/image-handler/picture/2017/1/A_doctor_makes_a_vaccination_to_a_child-Yuganov_Konstantin_cdbf1b05417f45e89b8268af4858e1c9-620x480.jpg",
           "language": "en"
         },
         {
-          "title": "PM Modi Cuts Down Convoy Size Amid Fuel Conservation Push, Chief Ministers Asked To Follow Suit",
-          "description": "Sources clarified that all mandatory security arrangements and SPG protocols remain fully in force, with only the number of accompanying vehicles being rationalised",
-          "url": "https://www.news18.com/india/pm-modi-cuts-down-convoy-size-amid-fuel-conservation-push-chief-ministers-asked-to-follow-suit-ws-l-10087985.html",
+          "title": "Singapore's criminal justice policies in line with international law, calibrated to national context: MFA on UN members' anti-death penalty calls",
+          "description": "Several states at a UN review of human rights records had called on Singapore to abolish capital punishment.",
+          "url": "https://www.channelnewsasia.com/singapore/singapore-universal-periodic-review-death-penalty-human-rights-6117516",
           "source": {
-            "name": "News18"
+            "name": "CNA"
           },
-          "publishedAt": "2026-05-13T02:34:29Z",
-          "image": "https://images.news18.com/ibnlive/uploads/2026/05/modi-convoy-2026-05-cc70a3b73cdc96029351a9b24dcd2236-1200x675.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Product recall of children's toy after traces of asbestos found",
-          "description": "The Reject Shop has recalled a children's play sand toy after traces of asbestos were found within it.",
-          "url": "https://www.9news.com.au/national/reject-shop-childrens-toy-recall/1a32582d-06aa-464c-bc27-b84344b360ce",
-          "source": {
-            "name": "9News"
-          },
-          "publishedAt": "2026-05-13T02:32:28Z",
-          "image": "https://imageresizer.static9.net.au/lKrzX1i84NSsMkdgE0r35oJi12k=/0x0:1600x900/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F724d2d12-133e-4cbe-ac13-103f442c9129",
-          "language": "en"
-        },
-        {
-          "title": "11-year-old among three fined for vaping, one arrested for suspected etomidate use in Punggol",
-          "description": "A 17-year-old boy was arrested for a suspected repeat etomidate offence. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/singapore/11-year-old-among-three-fined-for-vaping-one-arrested-for-suspected-etomidate-use-in-punggol",
-          "source": {
-            "name": "The Straits Times"
-          },
-          "publishedAt": "2026-05-13T02:32:10Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/5f300b7f0148c2b015443ddc965407b5eca96846f85b9602d3e6f02b59cb5b3b",
-          "language": "en"
-        },
-        {
-          "title": "Iran says US must accept its peace plan or face 'failure'",
-          "description": "Tehran said its latest peace plan includes an end to the war on all fronts, including in Lebanon, and a halt to the US naval blockade of Iranian ports.",
-          "url": "https://dunyanews.tv/en/World/951229-iran-says-us-must-accept-its-peace-plan-or-face-'failure'",
-          "source": {
-            "name": "Dunya News"
-          },
-          "publishedAt": "2026-05-13T02:31:35Z",
-          "image": "https://img.dunyanews.tv/news/2026/May/05-13-26/news_big_images/951229_81753583.jpg",
-          "language": "en"
-        },
-        {
-          "title": "77 Stories Of High Strangeness That Might Send You Down A Late-Night Rabbit Hole",
-          "description": "This collection explores an online community tracking everything from unusual animal behavior to strange lapses in human perception. The archives map out a perspective where ancient historical riddles meet ideas about the future. Each entry uncovers a documented, unexplained event that leaves observers looking for answers on the absolute edge of conventional science. Curiosities",
-          "url": "https://www.boredpanda.com/high-strangeness-posts/",
-          "source": {
-            "name": "Bored Panda"
-          },
-          "publishedAt": "2026-05-13T02:31:02Z",
-          "image": "https://static.boredpanda.com/blog/wp-content/uploads/2026/05/high-strangeness-posts-fb.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Suspect arrested in Togo over murder of 27-year-old car dealer",
-          "description": "The Criminal Investigations Department (CID) of the Ghana Police Service has arrested a suspect in connection with the murder of 27-year-old car dealer, Yaw Osei Ashitey Amma, whose burnt body was discovered inside a vehicle at Atomic Junction on the...",
-          "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Suspect-arrested-in-Togo-over-murder-of-27-year-old-car-dealer-2034243",
-          "source": {
-            "name": "GhanaWeb"
-          },
-          "publishedAt": "2026-05-13T02:30:40Z",
-          "image": "https://cdn.ghanaweb.com/imagelib/pics/993/99398832.jpg",
-          "language": "en"
-        },
-        {
-          "title": "AI Helps Scientists Create New E.coli Strain Using Only 19 Amino Acids",
-          "description": "Scientists used AI to engineer E. coli with only 19 amino acids, unlocking new possibilities in genetics and synthetic biology.",
-          "url": "https://www.techtimes.com/articles/316546/20260512/ai-helps-scientists-create-new-ecoli-strain-using-only-19-amino-acids.htm",
-          "source": {
-            "name": "Tech Times"
-          },
-          "publishedAt": "2026-05-13T02:30:12Z",
-          "image": "https://d.techtimes.com/en/full/446080/new-research-finds-certain-disease-causing-bacteria-feeds-human-bloods-serum.jpg",
+          "publishedAt": "2026-05-13T05:12:14Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--fBtw4tZv--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/13/49573d0b-5251-43b0-b4b6-0dae46ad6b29.jpg?itok=PD_UZya7",
           "language": "en"
         }
       ]
