@@ -1,10 +1,54 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-13T19:57:26.711Z",
+  "updatedAt": "2026-05-13T22:13:55.215Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "LG、webOS搭載でYouTubeやNetflixが観られるモニター",
+          "description": "LGエレクトロニクス・ジャパンは、webOSを搭載することでYouTube、Netflix、TVerなどが単体で視聴できるモニター“LG Smart Monitor”シリーズの「32U721SB-W」、「27U511SB-W」、「24U511SB-B」を5月中旬より順次発売する。価格はすべてオープンプライス。",
+          "url": "https://pc.watch.impress.co.jp/docs/news/2108389.html",
+          "source": {
+            "name": "PC Watch"
+          },
+          "publishedAt": "2026-05-13T09:07:52Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2108/389/1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『トイ・ストーリー５』新キャラクター画像解禁！ウッディ＆バズたちがデジタルの脅威に挑む",
+          "description": "ディズニー＆ピクサー最新作『トイ・ストーリー５』から、物語の鍵を握る新キャラクターを含む場面写真が解禁となった。7月3日（金）に全国公開。",
+          "url": "https://hollywoodreporter.jp/movies/197981/",
+          "source": {
+            "name": "ハリウッド・リポーター・ジャパン"
+          },
+          "publishedAt": "2026-05-13T09:01:47Z",
+          "image": "https://hollywoodreporter.jp/wp-content/uploads/2026/05/toy-story-5-new-still1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Garminがランナー向けスマートウォッチ｢Forerunner 70・Forerunner 170｣を発表。70は最もお買い得なモデルかも？",
+          "description": "スマートウォッチのなかでも、とくに運動やウェルネスを重視する人に人気のGarmin（ガーミン）が、ランナー向けのForerunnerシリーズで新たなエントリーモデルとなるForerunner 70、Forerunner 170を発表しました。両モデルとも、本社アメリカ市場では今月15日発売。日本のGarminサイトでも、プロダクトページは公開されており、Forerunner 70は3万9800円",
+          "url": "https://www.gizmodo.jp/2026/05/forerunner70-forerunner170.html",
+          "source": {
+            "name": "ギズモード・ジャパン"
+          },
+          "publishedAt": "2026-05-13T08:00:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/05/13/260513garminforerunner70170.jpg?w=1280&h=630&f=jpg",
+          "language": "ja"
+        },
+        {
+          "title": "（まとめ）日経平均は529円高の63,272円で史上最高値を更新 引け後はソフトバンクG決算に注目",
+          "description": "東京市場まとめ1.概況日経平均は344円安の62,398円と、反落して取引を開始しました。中東情勢の不透明感や、前日の米国市場ではインフレ再加速懸念から、ハイテク株を中心に売りが出たことで、序盤は弱含む展開となりました。もっとも、好決算銘柄などへの買いが指数を....",
+          "url": "https://media.monex.co.jp/articles/-/29347",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-05-13T07:58:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
+          "language": "ja"
+        },
         {
           "title": "日産自動車、2025年度決算を発表",
           "description": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）は、2025年度通期および第4四半期決算を発表しました。",
@@ -14,6 +58,17 @@
           },
           "publishedAt": "2026-05-13T07:56:00Z",
           "image": "https://wieck-nissanao-production.s3.us-west-1.amazonaws.com/releaseInlineImages/ee8a68cd811cbcd02a198bbbb5cb509707612cd3",
+          "language": "ja"
+        },
+        {
+          "title": "ベッセント米財務長官の訪日と為替介入で円高進行。まだまだ様子見は続く？",
+          "description": "日本のゴールデンウイークの間に日本政府は為替介入（ドル売り・円買い介入）を数回実施したようです。4月30日の5兆円規模とみられる円買い介入によって、ドル円は160円台から155円台の円高に行きました。その後5月1～6日の間に、158円に…",
+          "url": "https://media.rakuten-sec.net/articles/-/52402",
+          "source": {
+            "name": "トウシル"
+          },
+          "publishedAt": "2026-05-13T07:25:00Z",
+          "image": "https://media.rakuten-sec.net/mwimgs/6/9/-/img_691f43987cee718e80582f50bf2133ff231632.jpg",
           "language": "ja"
         },
         {
@@ -59,172 +114,117 @@
           "publishedAt": "2026-05-13T06:01:00Z",
           "image": "https://fki.ismcdn.jp/mwimgs/a/5/-/img_a58d56d4352fc46ba7cbbd39217d385b72875.jpg",
           "language": "ja"
-        },
-        {
-          "title": "今日13日 あちらこちらでゲリラ雷雨発生中 明日14日にかけて急な雨や落雷に注意",
-          "description": "今日13日は、北～西日本のあちらこちらでゲリラ雷雨が発生しています。このあと夜遅くにかけて大気の状態が非常に不安定なため、山沿いだけでなく都市部も含め、急な強い雨や落雷、ひょう、激しい突風に注意が必要です。明日14日も午後を中心にゲリラ雷雨となる所があるでしょう。",
-          "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/05/13/38906.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-05-13T05:28:02Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/389/38906/main/20260513130826/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "三笘のハムストリング負傷とアーセナル戦のVAR判定 フットボールの発展がもたらした功罪",
-          "description": "三笘薫を悲劇が襲った。5月9日（現地時間、以下同）、すでに降格が決まっている最下位ウルヴァーハンプトンとのホームゲーム…",
-          "url": "https://sports.yahoo.co.jp/column/detail/2026051300001-spnavi",
-          "source": {
-            "name": "スポーツナビ"
-          },
-          "publishedAt": "2026-05-13T05:15:00Z",
-          "image": "https://sports-pctr.c.yimg.jp/dk/iwiz-sports/text/images/2026/0513/2026051300001-spnavi_1778644257_view.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "フィギュア坂本花織「一生懸命練習するのは青春」 引退会見で結婚も報告 一問一答",
-          "description": "フィギュアスケート女子で2月のミラノ・コルティナ冬季五輪銀メダルを獲得するなど活躍し、今季限りでの引退を表明している坂本花織（26）＝シスメックス＝が13日、出身地の神戸市内のホテルで記者会見し「現役で一生懸命練習するっていうのはすごく青…",
-          "url": "https://www.sankei.com/article/20260513-EDCIMZGZGVOXRO4X3MEDVMICQU/",
-          "source": {
-            "name": "産経ニュース"
-          },
-          "publishedAt": "2026-05-13T04:04:17Z",
-          "image": "https://www.sankei.com/resizer/v2/RXWFTIX4ONOVJG6HJQNWMRHFQI.jpg?auth=0d8462043b727015004325b681507f67fbe4f658362c5b6d96bff8273d9c8e51&quality=50&smart=true&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "GarminのランニングGPSウォッチ最新モデルは、初めてのランニングウォッチ『Forerunner 70』『Forerunner 170』を5月28日（木）に発売",
-          "description": "ガーミンジャパン株式会社のプレスリリース（2026年5月13日 13時00分）GarminのランニングGPSウォッチ最新モデルは、初めてのランニングウォッチ『Forerunner 70』『Forerunner 170』を5月28日（木）に発売",
-          "url": "https://prtimes.jp/main/html/rd/p/000000103.000135223.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-05-13T04:00:01Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/135223/103/135223-103-67a5f75489621e9a456a13af765eca10-2200x1450.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "『龍が如く 極３ / 龍が如く３外伝 Dark Ties』『SHINOBI 復讐の斬撃』がセールに登場！「セガ 5月スペシャルセール」開催中！",
-          "description": "株式会社セガのプレスリリース（2026年5月13日 12時54分）『龍が如く 極３ / 龍が如く３外伝 Dark Ties』『SHINOBI 復讐の斬撃』がセールに登場！「セガ 5月スペシャルセール」開催中！",
-          "url": "https://prtimes.jp/main/html/rd/p/000007365.000005397.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-05-13T03:54:30Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/5397/7365/5397-7365-39bb9401c8cd7be11936566789257249-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Mouni Roy addresses rumours of divorce with husband Suraj Nambiar",
-          "description": "Actor Mouni Roy has reacted to ongoing speculation about her personal life. The actor shared a post on Instagram, urging people to respect her privacy.",
-          "url": "https://www.indiatoday.in/movies/celebrities/story/mouni-roy-suraj-nambiar-marriage-rumours-actor-asks-media-for-privacy-2911021-2026-05-13",
+          "title": "Tata Trusts case: Bombay High Court allows withdrawal of writ petition challenging trustee structure",
+          "description": "The Bombay High Court permitted the withdrawal of a petition questioning the Sir Ratan Tata Trust's life trustee structure. The court noted the petitioner lacked the standing to file the case. The petition argued the trust's board composition violated new state laws. The challenge aimed to invalidate decisions made by the trust.",
+          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/tata-trusts-case-bombay-high-court-allows-withdrawal-of-writ-petition-challenging-trustee-structure/articleshow/131062289.cms?from=mdr",
           "source": {
-            "name": "India Today"
+            "name": "The Economic Times"
           },
-          "publishedAt": "2026-05-13T07:57:26Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/suraj-nambiar--mouni-roy-131338846-16x9_0.jpg?VersionId=2G.YolRVR2j5JqeffLNABpNczcUn9unN",
+          "publishedAt": "2026-05-13T10:13:56Z",
+          "image": "https://img.etimg.com/thumb/msid-131062460,width-1200,height-630,imgsize-141652,overlay-economictimes/articleshow.jpg",
           "language": "en"
         },
         {
-          "title": "Subaru sole distributor to pay S$164,000 to ad agency after axing Forester video project",
-          "description": "The advertising agency did a shoot in Malaysia before producing five draft videos, which were rejected by the client.",
-          "url": "https://www.channelnewsasia.com/singapore/ad-agency-wins-164k-subaru-forester-distributor-video-6118021",
+          "title": "Unveiled Morgan Supersport 400 Shatters Historic British Automotive Power Records",
+          "description": "The newly unveiled Morgan Supersport 400 reshapes British automotive engineering with a blistering 402-horsepower design. The global stakes are staggering.",
+          "url": "https://streamlinefeed.co.ke/news/unveiled-morgan-supersport-400-shatters-historic-british-automotive-power-records",
           "source": {
-            "name": "CNA"
+            "name": "streamlinefeed.co.ke"
           },
-          "publishedAt": "2026-05-13T07:57:00Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--nWbcs9zJ--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/13/istock-839053280.jpg?itok=5K16RiAK",
+          "publishedAt": "2026-05-13T10:13:46Z",
+          "image": "https://www.cityam.com/wp-content/uploads/2026/05/morgan-supersport.jpg",
           "language": "en"
         },
         {
-          "title": "U2 film new music video in Mexico City",
-          "description": "U2 delighted fans by filming the video for their new track Street of Dreams in Mexico City on Tuesday.",
-          "url": "https://www.rte.ie/entertainment/2026/0513/1573095-u2-film-new-music-video-in-mexico-city/",
+          "title": "Ghana squad World Cup 2026: Which players will make it to the showpiece in USA, Mexico and Canada?",
+          "description": "All you need to know about Ghana's squad for the 2026 FIFA World Cup.",
+          "url": "https://www.goal.com/en-sg/lists/ghana-squad-world-cup-2026/blt96bf719b2e716a5e",
           "source": {
-            "name": "RTE.ie"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-05-13T07:56:46Z",
-          "image": "https://www.rte.ie/images/00245baa-1600.jpg",
+          "publishedAt": "2026-05-13T10:13:44Z",
+          "image": "https://assets.goal.com/images/v3/getty-1935915713/crop/MM5DENZVGI5DCNJUHA5G433XMU5DGNRVHI3Q====/GettyImages-1935915713.jpg",
           "language": "en"
         },
         {
-          "title": "Tanzania unveils Sh1.2 trillion plan for new super-specialised national hospital",
-          "description": "Tanzania is preparing to undertake one of the largest healthcare infrastructure projects in its history after the government unveiled plans to construct a new specialised and super-specialised...",
-          "url": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-unveils-sh1-2-trillion-plan-for-new-super-specialised-national-hospital-5457382",
+          "title": "Barcelona threaten legal action after Florentino Perez comments on Negreira case & claims that '14 titles have been stolen' from Real Madrid",
+          "description": "The heated rivalry between Barcelona and Real Madrid has reached another boiling point after Florentino Perez launched a scathing attack on the Catalan giants regarding the Negreira case. Perez sensationally claimed that league titles have been \"stolen\" from Los Blancos, prompting an immediate and stern response from the Camp Nou board.",
+          "url": "https://www.goal.com/en-sg/lists/barcelona-threaten-legal-action-after-florentino-perez-comments-on-negreira-case-claims-14-titles-have-been-stolen-from-real-madrid/blt29abaf6d63621d64",
           "source": {
-            "name": "thecitizen.co.tz"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-05-13T07:56:31Z",
-          "image": "https://www.thecitizen.co.tz/resource/image/5457384/landscape_ratio3x2/1200/800/77e5dcc5b1a8afb9988c9d8ad87730da/rB/specialized-hospital-pic.jpg",
+          "publishedAt": "2026-05-13T10:13:44Z",
+          "image": "https://assets.goal.com/images/v3/getty-2275298465/crop/MM5DGOJZGY5DEMRUHA5G433XMU5DAORSG42A====/GettyImages-2275298465.jpg",
           "language": "en"
         },
         {
-          "title": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11",
-          "description": "Louisiana officials have agreed to a tentative $4.8 million settlement with the family of Ronald Greene, a Black motorist who died during a violent 2019 roadside arrest.",
-          "url": "https://www.nbcnews.com/health/health-news/french-hantavirus-patient-critically-ill-artificial-lung-outbreak-grow-rcna344875",
+          "title": "Mother of South African woman jailed in Thailand pins hopes on a royal pardon",
+          "description": "It has been almost six years since Lynn Blignaut’s youngest daughter was thrown into a foreign prison, 10,000km from home, for a crime she says she did not commit.",
+          "url": "https://iol.co.za/news/crime-and-courts/2026-05-13-mother-of-south-african-woman-jailed-in-thailand-pins-hopes-on-a-royal-pardon/",
           "source": {
-            "name": "NBC News"
+            "name": "IOL"
           },
-          "publishedAt": "2026-05-13T07:56:02Z",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260513-hantavirus-rs-3a63d9.jpg",
+          "publishedAt": "2026-05-13T10:13:32Z",
+          "image": "https://iol-prod.appspot.com/image/fda02fdf05358e62456836675712455f66a04e4e/1000/jpeg",
           "language": "en"
         },
         {
-          "title": "Adu-Boahene Case: Witness describes her arrest by EOCO as traumatic",
-          "description": "Mildred Donkor, the third prosecution witness, who was initially listed as an accused person but later withdrawn by the Attorney-General to testify for the state, has told the High Court that her experience during her arrest and interrogation by the...",
-          "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Adu-Boahene-Case-Witness-describes-her-arrest-by-EOCO-as-traumatic-2034286",
+          "title": "Abhishek Bachchan reacts to being called 'Shambu Raje' at a traffic signal after 'Raja Shivaji': 'It has never happened to me before'",
+          "description": "Abhishek Bachchan is basking in the success of his latest release Raja Shivaji, which hit theatres on May 1 and has continued to perform strongly at t.",
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchan-was-called-shambu-raje-at-a-traffic-signal-after-raja-shivaji-it-has-never-happened-to-me-before/articleshow/131062442.cms",
           "source": {
-            "name": "GhanaWeb"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-05-13T07:55:40Z",
-          "image": "https://cdn.ghanaweb.com/imagelib/pics/990/99069363.jpg",
+          "publishedAt": "2026-05-13T10:13:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-131062441,width-1280,height-720,imgsize-39050,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Microsoft patches 137 vulnerabilities and deploys AI scanner",
-          "description": "During May’s Patch Tuesday, Microsoft released fixes for 137 vulnerabilities in Windows, Azure, and other products.",
-          "url": "https://www.techzine.eu/news/security/141284/microsoft-patches-137-vulnerabilities-and-deploys-ai-scanner/",
+          "title": "Police warns schools against keeping cash on premises amid rising armed robberies",
+          "description": "The Zimbabwe Republic Police (ZRP) has warned school authorities and parents against transacting and keeping large sums of cash at school premises. The warning follows a rise in armed robbery cases targeting learning institutions. In one of the recent incidents, a security guard stationed at Hallingbury Primary School was killed by an armed gang believed […]",
+          "url": "https://www.newzimbabwe.com/police-warns-schools-against-keeping-cash-on-premises-amid-rising-armed-robberies/",
           "source": {
-            "name": "Techzine Global"
+            "name": "NewZimbabwe.com"
           },
-          "publishedAt": "2026-05-13T07:55:19Z",
-          "image": "https://www.techzine.eu/wp-content/uploads/2024/11/shutterstock_2399781273-scaled-1.jpg",
+          "publishedAt": "2026-05-13T10:12:27Z",
+          "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2022/08/30024446/Paul-Nyathi-1.jpeg",
           "language": "en"
         },
         {
-          "title": "Rape Allegations Addressed In New Heartbreaking Recordings Between Thai Heir “Pi” Sunit Scott And Brother",
-          "description": "Following allegations of Thai Heir “Pi” Sunit Scott raping his brother, new recordings have been released and netizens believe it confirms the allegations.",
-          "url": "https://www.koreaboo.com/news/thai-heir-pi-sunit-scott-rape-recordings-heartbreaking/",
+          "title": "Ghana squad World Cup 2026: Which players will make it to the showpiece in USA, Mexico and Canada?",
+          "description": "All you need to know about Ghana's squad for the 2026 FIFA World Cup.",
+          "url": "https://www.goal.com/en-gb/lists/ghana-squad-world-cup-2026/blt96bf719b2e716a5e",
           "source": {
-            "name": "Koreaboo"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-05-13T07:55:12Z",
-          "image": "https://image.koreaboo.com/2026/05/FD2870-7-1.jpg",
+          "publishedAt": "2026-05-13T10:12:01Z",
+          "image": "https://assets.goal.com/images/v3/getty-1935915713/crop/MM5DENZVGI5DCNJUHA5G433XMU5DGNRVHI3Q====/GettyImages-1935915713.jpg",
           "language": "en"
         },
         {
-          "title": "Is Nana Akomea implying that Ghanaians eat instability?",
-          "description": "Government spokesperson, Felix Kwakye Ofosu, has pushed back against claims by Chairman of the New Patriotic Party Select Committee on Communications, Nana Akomea, that Ghanaians do not benefit from economic stability.",
-          "url": "https://www.myjoyonline.com/is-nana-akomea-implying-that-ghanaians-eat-instability-kwakye-ofosu/",
+          "title": "Veteran CEO Joram Mwinamo Launches The Enterprise Jungle To Help African Founders Navigate Business Reality",
+          "description": "Joram Mwinamo, CEO of SNDBX International, has launched The Enterprise Jungle, a practical entrepreneurship toolkit designed to help African founders build,...",
+          "url": "https://streamlinefeed.co.ke/news/veteran-ceo-joram-mwinamo-launches-the-enterprise-jungle-to-help-african-founders-navigate-business-reality-506d02d3",
           "source": {
-            "name": "MyJoyOnline"
+            "name": "streamlinefeed.co.ke"
           },
-          "publishedAt": "2026-05-13T07:55:03Z",
-          "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/Felix-Kwakye-Ofosu-june-e1770661982258.webp",
+          "publishedAt": "2026-05-13T10:11:56Z",
+          "image": "https://nyjbuhvfbjutcfbphchh.supabase.co/storage/v1/object/public/media/c54a66eb-818a-481f-9aff-d789a9d141a1/ec586efc-81f0-4d16-b3aa-0c1d98638ffb.jpg",
           "language": "en"
         },
         {
-          "title": "Nick Teo reveals absent father in tribute to mum: 'You held up our world'",
-          "description": "With an absent parent, someone has to pick up the pieces — for Nick Teo, his mum is his hero.The local actor took to Instagram on Mother's Day (May 10) to dedicate a tribute to his single mum, where he revealed that his father \"chose to leave\" his family when he was in secondary school.The 36-year-old shared that after his...",
-          "url": "https://www.asiaone.com/entertainment/nick-teo-absent-father-tribute-mothers-day",
+          "title": "State Accelerates Massive Job Creation Through Cotton Value Chain Revival",
+          "description": "The Agriculture and Food Authority has launched an aggressive campaign to revitalize Kenya's cotton value chain, targeting massive local job creation.",
+          "url": "https://streamlinefeed.co.ke/news/why-state-is-in-rush-to-push-job-creation-in-cotton-value-chain",
           "source": {
-            "name": "AsiaOne"
+            "name": "streamlinefeed.co.ke"
           },
-          "publishedAt": "2026-05-13T07:55:00Z",
-          "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/May2026/1305_nick%20teo%20mother_ig.jpg?itok=YzKDlaeo",
+          "publishedAt": "2026-05-13T10:11:56Z",
+          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/IqXaoYqDtQVwATcyNz9JFxht1P7Sz2mkMjeWB7Oe.jpg",
           "language": "en"
         }
       ]
