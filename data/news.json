@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-13T11:30:59.437Z",
+  "updatedAt": "2026-05-13T14:37:54.479Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "株価指数先物【寄り前】 +1σまでの調整を経て押し目狙いのロング対応",
-          "description": "１２日の米国市場は、ＮＹダウが上昇した一方で、 Ｓ＆Ｐ５００、ナスダックは下落。４月の米消費者物価指数（ＣＰＩ）は前年同月比３．８％上昇と市場予想（３．７％程度）を上回った。インフレが再び加速しているとして・・・。",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202605130235",
+          "title": "Androidスマホが“おせっかいな相棒”に グーグル「Gemini Intelligence」発表",
+          "description": "グーグルは5月12日、Android向けの新機能群「Gemini Intelligence」を発表した。",
+          "url": "https://ascii.jp/elem/000/004/401/4401555/",
           "source": {
-            "name": "株探"
+            "name": "ASCII.jp"
           },
-          "publishedAt": "2026-05-12T23:11:53Z",
-          "image": "https://async.api.kabutan.jp/og_image?title=%E6%A0%AA%E4%BE%A1%E6%8C%87%E6%95%B0%E5%85%88%E7%89%A9%E3%80%90%E5%AF%84%E3%82%8A%E5%89%8D%E3%80%91%E3%80%80%2B1%CF%83%E3%81%BE%E3%81%A7%E3%81%AE%E8%AA%BF%E6%95%B4%E3%82%92%E7%B5%8C%E3%81%A6%E6%8A%BC%E3%81%97%E7%9B%AE%E7%8B%99%E3%81%84%E3%81%AE%E3%83%AD%E3%83%B3%E3%82%B0%E5%AF%BE%E5%BF%9C",
+          "publishedAt": "2026-05-13T02:30:00Z",
+          "image": "https://ascii.jp/img/2026/05/13/4465615/xl/80d92b5dd31d9e1c.png?20200122",
           "language": "ja"
         },
         {
-          "title": "誰でもできる！ Geminiを使った「プロンプト講座」：自分をモデルに『ハイブランド広告風』プロフィール画像を作ってみよう",
-          "description": "もはや生成AIは私（佐藤）にとって完全に生活の一部と化している。とくに楽曲制作を再開するきっかけになった「SUNO」は、なかば音楽プレイヤーと化し、自作の曲をこれで …",
-          "url": "https://rocketnews24.com/2026/05/13/2760135/",
+          "title": "Kindleのペン付きモデルに、初のカラー版が登場「Kindle Scribe Colorsoft」、カラーでメモ書き/ハイライトOK",
+          "description": "Amazon.co.jpは5月12日、同社の「Kindle電子書籍リーダー」の新製品を発表した。",
+          "url": "https://forest.watch.impress.co.jp/docs/serial/goodbuy/2108111.html",
           "source": {
-            "name": "ロケットニュース24"
+            "name": "窓の杜"
           },
-          "publishedAt": "2026-05-12T23:00:14Z",
-          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/05/highfashion.jpg?w=580&h=305&crop=1",
+          "publishedAt": "2026-05-13T02:06:00Z",
+          "image": "https://forest.watch.impress.co.jp/img/wf/list/2108/111/image_top.jpg",
           "language": "ja"
         },
         {
-          "title": "iPhone 18に合わせたiOS 27、ChatGPTの存在感が薄れそう",
-          "description": "Geminiへ大きく舵を切ることに！Apple（アップル）は、AI戦略で苦戦を強いられています。Apple Intelligenceに統合されたSiriが、もっと賢くなったらいいのにな～。そう願っている人は少なくないでしょう。ようやく目指してきた答えが出そろったようです。Geminiに頼る姿勢が鮮明にすでにAppleは、自前でAIモデルを完成させるのではなく、Google（グーグル）と巨額のライ",
-          "url": "https://www.gizmodo.jp/2026/05/if-you-plan-to-get-an-iphone-in-the-fall-dont-get-too-attached-to-chatgpt.html",
+          "title": "ハンタウイルス死亡者と同じ飛行機に乗っていたイタリア人男性、病院に搬送（中央日報日本語版）",
+          "description": "ハンタウイルス感染で死亡した乗客と同じ航空便に乗っていたイタリア人男性が、隔離中に感染が疑われる症状が見られたため病院に搬送された。\n12日（現地時間）の現地アンサ通信によると、イタリア南部カラブ",
+          "url": "https://news.yahoo.co.jp/articles/e587f64bccf35b33f8ec6144d2e2a42845fb9518",
           "source": {
-            "name": "ギズモード・ジャパン"
+            "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-05-12T23:00:00Z",
-          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/05/06/260506siri.jpg?w=1280&h=630&f=jpg",
+          "publishedAt": "2026-05-13T01:28:46Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260513-00000037-cnippou-000-12-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "メーカー社員、手術室で患者の体動かす 医師法に抵触か 関西医科大",
-          "description": "関西医科大学総合医療センター（大阪府守口市）の手術室で2024年、医療機器メーカーの営業担当者が医師のそばで、患者の足を持ち上げるなど医師を補助する行為をした疑いがあることがわかった。手術室で患者の…",
-          "url": "https://www.asahi.com/articles/ASV5D23GGV5DUTIL01JM.html",
+          "title": "マンダロリアンたちのシール全24種！ロッテ「スターウォーズ／ビックリマンチョコ＜マンダロリアン＆グローグー＞」",
+          "description": "ロッテから、2026年6月2日（火）より「スターウォーズ／ビックリマンチョコ＜マンダロリアン＆グローグー＞」が東日本先行で発売！ 5月22日の『スター・ウォーズ』映画公開に合わせ、約10年ぶりに再登場 ...",
+          "url": "https://dtimes.jp/post-1226954/",
           "source": {
-            "name": "朝日新聞"
+            "name": "Dtimes"
           },
-          "publishedAt": "2026-05-12T22:56:58Z",
-          "image": "https://imgopt.asahi.com/ogp/AS20260512002689_comm.jpg",
+          "publishedAt": "2026-05-13T01:23:50Z",
+          "image": "https://dtimes.jp/wp-content/uploads/2026/05/sub1-30.jpg",
           "language": "ja"
         },
         {
-          "title": "au Webポータル芸能ニュース",
-          "description": "見上愛（25）と上坂樹里（20）がダブル主演を務めるNHK連続テレビ小説『風、薫る』の第6週（5月4...",
-          "url": "https://article.auone.jp/detail/1/5/9/458_9_r_20260513_1778625017973456",
+          "title": "Android 17は「富裕層」を熱狂させるだろう しかし私たち庶民はどうだろうか",
+          "description": "米Googleが現地時間5月12日、開発者向けイベントに先駆けて開いた「The Android Show」では、次期OS「Android 17」のさまざまな新機能が披露された。デモを見終えた率直な感想は「便利そう」ではなく「Googleは私のことをCEO並みの高給取りだと思っているのか」だった。提示された使い方の例は、ことごとく富裕層に最適化されていたからだ。",
+          "url": "https://japan.cnet.com/article/35247433/",
+          "source": {
+            "name": "CNET Japan"
+          },
+          "publishedAt": "2026-05-13T01:15:00Z",
+          "image": "https://japan.cnet.com/storage/2026/05/13/0d2e53bf8d7adf584838a9b7765d70d9/screenshot-2026-05-12-at-20-56-06__1_.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "今週末から暑さのレベルアップ 東京都心や名古屋など30℃以上の真夏日が急増",
+          "description": "今週末から暑さのレベルがアップしそうです。東北南部や関東から西では真夏日(30℃以上)地点が急増するでしょう。甲府や熊本では15日(金)以降は連日の真夏日に。東京都心でも17日(日)と19日(火)は真夏日となりそうです。熱中症に警戒が必要です。",
+          "url": "https://tenki.jp/forecaster/t_yoshida/2026/05/13/38898.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-13T00:27:58Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/388/38898/main/20260513085532/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "自転車は車道用と歩道用どちらの信号に従う？",
+          "description": "2026年4月から自転車にも青切符が導入されたものの、細かな交通ルールまですべてを把握している人はまだ少ないかもしれない。では、自転車で車道を走っているとき、目の前の車両用信号が赤になったものの、歩行者用信号は青のままである場合はそのまま進行してもよいのだろうか。",
+          "url": "https://motor-fan.jp/headline/1479156/",
+          "source": {
+            "name": "Motor Fan"
+          },
+          "publishedAt": "2026-05-13T00:10:00Z",
+          "image": "https://motor-fan.jp/wp-content/uploads/2026/05/3430871_m-e1778235745410.jpg?v=1778235721",
+          "language": "ja"
+        },
+        {
+          "title": "iPhone Ultraのカラバリ、シルバー系とブルー系の2色展開？",
+          "description": "Image: 三浦一紀 - Generated with ChatGPT 5.2 色とりどりより、そっちのほうがいいまである。iPhoneの新作と言えば、カラバリも注目されるひとつ。その年のトレンドカ",
+          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260513_1778632518674751",
           "source": {
             "name": "au Webポータル"
           },
-          "publishedAt": "2026-05-12T22:36:48Z",
-          "image": "https://portal.st-img.jp/thumb/3c6307b6768f886a55f0fd87da8ffe7d_1778626797_l.jpg",
+          "publishedAt": "2026-05-13T00:00:00Z",
+          "image": "https://portal.st-img.jp/thumb/afb20e3ec96c99f1ebcfd4816d3c5124_1778632518_l.jpg",
           "language": "ja"
         },
         {
-          "title": "マクロスコープ：米中首脳会談、日本政府内に渦巻く経済改善期待と安保への懸念",
-          "description": "米国のトランプ大統領と中国の習近平国家主席が１４─１５日、北京で会談する。両首脳が直接向き合うのは昨年１０月以来だ。日本政府内からは、米中の経済関係改善を望む声が上がる。中国によるレアアース（希土類）の対日輸出規制を打開する突破口になるとの期待もあるが、日本に有利なディールの実現には懐疑的な見方が根強い。台湾問題での米中接近​を不安視する見方もある。",
-          "url": "https://jp.reuters.com/world/japan/76UEHARRLVORDGMHR4U76SEQXU-2026-05-12/",
+          "title": "iPhone Ultraのカラバリ、シルバー系とブルー系の2色展開？",
+          "description": "色とりどりより、そっちのほうがいいまである。iPhoneの新作と言えば、カラバリも注目されるひとつ。その年のトレンドカラーが反映されていたり、あっと驚く色が出たり（オレンジは奇抜でしたね）、なにかと話題になりがち。しかし、今秋Apple（アップル）が計画していると噂されている折りたたみiPhone（仮称：iPhone Ultra）では、奇抜な色はなく、カラバリはシンプルな2色になるといった噂があ",
+          "url": "https://www.gizmodo.jp/2026/05/iphone-ultra-color-variation.html",
           "source": {
-            "name": "Reuters"
+            "name": "ギズモード・ジャパン"
           },
-          "publishedAt": "2026-05-12T22:15:20Z",
-          "image": "https://www.reuters.com/resizer/v2/NBESEBJMSJICXC46KYTTI6WI5I.jpg?auth=30352c9e7bce47d3aec7d410efe5c2d4b62da735e532524837d3c2292820d146&height=1005&width=1920&quality=80&smart=true",
+          "publishedAt": "2026-05-13T00:00:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/05/12/20260512fok00.jpg?w=1280&h=630&f=jpg",
           "language": "ja"
         },
         {
-          "title": "ホストクラブ“散財”の真実は？ 細木数子の元マネジャーが明かした素顔《年収18億円、移動の車はマイバッハやロールスロイス》",
-          "description": "4月27日に配信が開始されたNetflixのオリジナルドラマ『地獄に堕ちるわよ』（全9話）が大ヒットしている。戸田恵梨香が占い師・細木数子（2021年没・享年83）の半生を怪演し、国内視聴ランキン",
-          "url": "https://news.yahoo.co.jp/articles/4d5a819a7e99874a5662426a58f68a6333c05d8f",
+          "title": "Amazon、手書きできる「Kindle Scribe」を刷新 初のカラーモデル追加 価格は？",
+          "description": "Amazonは5月12日、手書きノート機能搭載の電子書籍リーダー「Kindle Scribe」を刷新し、新シリーズとして日本で販売すると発表した。シリーズ初のカラーディスプレイを搭載した「Kindle Scribe Colorsoft」を追加し、新「Kindle Scribe」「Kindle Scribeフロントライト非搭載モデル」とあわせて3モデル展開する。価格は7万2980円から。同日からAmazon.co.jpで予約受付を開始し、出荷は6月10日を予定する。",
+          "url": "https://japan.cnet.com/article/35247414/",
           "source": {
-            "name": "Yahoo!ニュース"
+            "name": "CNET Japan"
           },
-          "publishedAt": "2026-05-12T22:12:15Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260513-00088542-bunshun-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "「おぉ～」サッカー日本代表、W杯の歴代サプライズ選出5選。日本中が驚き！？ 大逆転で大舞台に臨んだ男たち",
-          "description": "FIFAワールドカップ（W杯）2026に臨む日本代表メンバーが、15日に発表される。歴代最強とも評される今大会の日本代表だが、ここにきて主力選手の負傷離脱が相次いでおり、メンバー選考には大きな注目が集まっている。状況次第では、“サプライズ選",
-          "url": "https://www.footballchannel.jp/2026/05/13/post892338/",
-          "source": {
-            "name": "フットボールチャンネル"
-          },
-          "publishedAt": "2026-05-12T22:00:04Z",
-          "image": "https://www.footballchannel.jp/wordpress/assets/2026/05/20260513focus_EYECATCH_getty.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "中山功太「後悔の念で押し潰されています」 サバンナ高橋めぐる発言に胸中「こんな事になるとは」【全文】",
-          "description": "お笑い芸人の中山功太が12日、自身のXを更新。サバンナ・高橋茂雄への発言をめぐり、自身の思いをしたためた。\n　5日配信のABEMA『ナオキマンの都市伝説ワイドショー』で、中山は「10年間ぐらいず",
-          "url": "https://news.yahoo.co.jp/articles/fa4d469977c74679163aa17de898fb03459572be",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-12T21:40:02Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260512-00000442-oric-000-25-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "最悪な職場ストレスは「過負荷」ではなく「役割の曖昧さ」だった、60年分のデータで判明",
-          "description": "「職場でのストレス」の原因として、すぐに「残業」とか「過負荷」というワードが思い浮かぶかもしれません。\nしかし最新研究によると、人を最も消耗させるのは、単純な仕事量ではなく「自分が何を求められているのか分からない状態」かもしれません。\n米オーバーン大学（Auburn University）を中心とする研究チームは、過去60年間に行われた職場ストレス研究を大規模に分析しました。\nその結果、「役割の曖昧さ（role ambiguity）」が、他の代表的な職場ストレス要因よりも、多くの個人・組織面の結果に強く関係していることが分かったのです。\n研究は2026年4月10日に正式版として、『Journ…",
-          "url": "https://nazology.kusuguru.co.jp/archives/195066",
-          "source": {
-            "name": "ナゾロジー"
-          },
-          "publishedAt": "2026-05-12T21:32:26Z",
-          "image": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/05/1a08e4b014c3f0c482e3183fc538e5f9.jpg",
+          "publishedAt": "2026-05-12T23:54:00Z",
+          "image": "https://japan.cnet.com/storage/2026/05/13/36fbd0896557d9b77ebdcfdf798b86be/2026-05-13_8.48の画像.jpeg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Sydney Sweeney spotted at Gold Coast Airport with Scooter Braun",
-          "description": "Sydney Sweeney has popped up at an Aussie airport looking anything but her usual glamorous self.",
-          "url": "https://www.news.com.au/entertainment/celebrity-life/celebrity-photos/sydney-sweeney-spotted-at-aussie-airport-after-romantic-trip-with-boyfriend-scooter-braun/news-story/d1f2b56875b8bcfd70524dfe1ab318b4",
+          "title": "Delta Goodrem Announces ‘Pure’ Album Via Universal Music",
+          "description": "Due out in November, \"Pure\" is Delta Goodrem's first album through a new deal struck with Universal Music via Better Now Records/Electrola.",
+          "url": "https://www.billboard.com/music/pop/ahead-eurovision-delta-goodrem-pure-album-1236246499/",
           "source": {
-            "name": "News.com.au"
+            "name": "Billboard"
           },
-          "publishedAt": "2026-05-12T23:30:58Z",
-          "image": "https://content.api.news/v3/images/bin/986240de41eee8ec580550ae02e1a9ab",
+          "publishedAt": "2026-05-13T02:35:26Z",
+          "image": "https://www.billboard.com/wp-content/uploads/2026/05/delta-goodrem-pure-2026-1800.jpg?w=1024",
           "language": "en"
         },
         {
-          "title": "I don’t care about my legacy, Dr M says in award-winning documentary",
-          "description": "The 65-minute film ‘My name is Mahathir’ won a silver medal at a media festival in Berlin last week.",
-          "url": "https://www.freemalaysiatoday.com/category/nation/2026/05/13/i-dont-care-about-my-legacy-dr-m-says-in-award-winning-documentary",
+          "title": "‘The pecking order’s clear’: Australia aim to send T20 World Cup into a spin with squad selection",
+          "description": "Lucy Hamilton has been favoured ahead of quick Darcie Brown, while fit-again captain Sophie Molineux will create a selection squeeze at the T20 World Cup",
+          "url": "https://www.theguardian.com/sport/2026/may/13/star-quick-omitted-with-lucy-hamilton-called-into-australias-t20-world-cup-squad",
           "source": {
-            "name": "Free Malaysia Today"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-05-12T23:30:19Z",
-          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/05/a20e38f2-mahathir-mohamad-chan-tau-chou-emelpic-110526.webp",
+          "publishedAt": "2026-05-13T02:35:00Z",
+          "image": "https://i.guim.co.uk/img/media/7a16add6cd86b5ef02f7d2e9046bf241841dfe74/500_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c200a1da35321c63db939fc94f933a8",
           "language": "en"
         },
         {
-          "title": "IPL 2026, GT vs SRH: New shot unlocked! Washington Sundar's outrageous six shocks everyone - WATCH",
-          "description": "Cricket News: NEW DELHI: Gujarat Titans all-rounder Washington Sundar produced one of the most outrageous sixes in IPL history during the IPL 2026 clash against Sun.",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/new-shot-unlocked-washington-sundars-outrageous-six-shocks-everyone-watch/articleshow/131048162.cms",
+          "title": "Cannabis and tobacco co-use may increase psychosis risk",
+          "description": "A new multisite study published in Nature Mental Health found that using cannabis and tobacco together increases the risk of developing psychotic disorders like schizophrenia among those considered high risk.",
+          "url": "https://www.news-medical.net/news/20260512/Cannabis-and-tobacco-co-use-may-increase-psychosis-risk.aspx",
           "source": {
-            "name": "The Times of India"
+            "name": "News-Medical"
           },
-          "publishedAt": "2026-05-12T23:30:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-131048168,width-1280,height-720,imgsize-38156,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-05-13T02:35:00Z",
+          "image": "https://www.news-medical.net/image-handler/picture/2014/7/Psychosis-620x480.jpg",
           "language": "en"
         },
         {
-          "title": "Paco Park conservation roadmap gets NCCA approval",
-          "description": "The NCCA-backed conservation plan lists repairs for the historic Manila site.",
-          "url": "https://www.philstar.com/headlines/2026/05/13/2527437/paco-park-conservation-roadmap-gets-ncca-approval",
+          "title": "PM Modi Cuts Down Convoy Size Amid Fuel Conservation Push, Chief Ministers Asked To Follow Suit",
+          "description": "Sources clarified that all mandatory security arrangements and SPG protocols remain fully in force, with only the number of accompanying vehicles being rationalised",
+          "url": "https://www.news18.com/india/pm-modi-cuts-down-convoy-size-amid-fuel-conservation-push-chief-ministers-asked-to-follow-suit-ws-l-10087985.html",
           "source": {
-            "name": "Philstar.com"
+            "name": "News18"
           },
-          "publishedAt": "2026-05-12T23:30:00Z",
-          "image": "https://media.philstar.com/photos/2026/05/12/paco-park_2026-05-12_18-45-16.jpg",
+          "publishedAt": "2026-05-13T02:34:29Z",
+          "image": "https://images.news18.com/ibnlive/uploads/2026/05/modi-convoy-2026-05-cc70a3b73cdc96029351a9b24dcd2236-1200x675.jpg",
           "language": "en"
         },
         {
-          "title": "Clarity Act Watch: Washington’s 72-Hour Crunch",
-          "description": "The gloves are starting to come off as the political window closes for America’s first framework regulating digital asset markets.",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/clarity-act-watch-washingtons-72-hour-crunch-before-thursdays-crypto-markup/",
+          "title": "Product recall of children's toy after traces of asbestos found",
+          "description": "The Reject Shop has recalled a children's play sand toy after traces of asbestos were found within it.",
+          "url": "https://www.9news.com.au/national/reject-shop-childrens-toy-recall/1a32582d-06aa-464c-bc27-b84344b360ce",
           "source": {
-            "name": "PYMNTS.com"
+            "name": "9News"
           },
-          "publishedAt": "2026-05-12T23:28:43Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/05/cryptocurrency-legislation-clarity-act.jpeg",
+          "publishedAt": "2026-05-13T02:32:28Z",
+          "image": "https://imageresizer.static9.net.au/lKrzX1i84NSsMkdgE0r35oJi12k=/0x0:1600x900/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F724d2d12-133e-4cbe-ac13-103f442c9129",
           "language": "en"
         },
         {
-          "title": "Rory McIlroy reveals blindside, Jon Rahm responds to villain status",
-          "description": "‘We knew’: Rory’s blindside reveal pours fuel on LIV fire; Rahm lifts lid on hot PGA claim",
-          "url": "https://www.foxsports.com.au/golf/pga-championship/pga-championship-2026-liv-golf-future-news-rory-mcilroy-reveals-blindside-jon-rahm-responds-to-villain-status/news-story/cabde55c08843278c5466a428ceb6b73",
+          "title": "11-year-old among three fined for vaping, one arrested for suspected etomidate use in Punggol",
+          "description": "A 17-year-old boy was arrested for a suspected repeat etomidate offence. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/singapore/11-year-old-among-three-fined-for-vaping-one-arrested-for-suspected-etomidate-use-in-punggol",
           "source": {
-            "name": "Fox Sports"
+            "name": "The Straits Times"
           },
-          "publishedAt": "2026-05-12T23:27:39Z",
-          "image": "https://content.api.news/v3/images/bin/fd4a2269c0863f4b0afc90f39cb83345",
+          "publishedAt": "2026-05-13T02:32:10Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/5f300b7f0148c2b015443ddc965407b5eca96846f85b9602d3e6f02b59cb5b3b",
           "language": "en"
         },
         {
-          "title": "Africa’s Golden Future",
-          "description": "Remarks by IMF Managing Director Kristalina Georgieva at the Africa Forward Summit",
-          "url": "https://www.imf.org/en/news/articles/2026/05/12/sp051226-africas-golden-future",
+          "title": "Iran says US must accept its peace plan or face 'failure'",
+          "description": "Tehran said its latest peace plan includes an end to the war on all fronts, including in Lebanon, and a halt to the US naval blockade of Iranian ports.",
+          "url": "https://dunyanews.tv/en/World/951229-iran-says-us-must-accept-its-peace-plan-or-face-'failure'",
           "source": {
-            "name": "International Monetary Fund | IMF"
+            "name": "Dunya News"
           },
-          "publishedAt": "2026-05-12T23:26:56Z",
-          "image": "https://www.imf.org/-/media/project/imf/shared/images/news/twitter-seal.png?h=405&iar=0&w=400",
+          "publishedAt": "2026-05-13T02:31:35Z",
+          "image": "https://img.dunyanews.tv/news/2026/May/05-13-26/news_big_images/951229_81753583.jpg",
           "language": "en"
         },
         {
-          "title": "African Athletics Championships 2026: South Africa's Aiden Smith wins shot put gold on Day 1, Rwanda's Emeline Imanizabayo claims shock 5,000m gold",
-          "description": "Three gold medals were handed out on Day 1 of the African Senior Athletics Championships in Accra, Ghana. Find out the highlights of the day's action.",
-          "url": "https://www.olympics.com/en/news/african-athletics-championships-2026-south-africa-aiden-smith-shot-put-gold-day-1",
+          "title": "77 Stories Of High Strangeness That Might Send You Down A Late-Night Rabbit Hole",
+          "description": "This collection explores an online community tracking everything from unusual animal behavior to strange lapses in human perception. The archives map out a perspective where ancient historical riddles meet ideas about the future. Each entry uncovers a documented, unexplained event that leaves observers looking for answers on the absolute edge of conventional science. Curiosities",
+          "url": "https://www.boredpanda.com/high-strangeness-posts/",
           "source": {
-            "name": "olympics.com"
+            "name": "Bored Panda"
           },
-          "publishedAt": "2026-05-12T23:26:00Z",
-          "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/r2dcfzsn1d386azura6m",
+          "publishedAt": "2026-05-13T02:31:02Z",
+          "image": "https://static.boredpanda.com/blog/wp-content/uploads/2026/05/high-strangeness-posts-fb.jpg",
           "language": "en"
         },
         {
-          "title": "Iran-Israel war highlights: Iran says U.S. must accept its peace plan or face ‘failure’",
-          "description": "Follow The Hindu's live blog for the latest updates on the Iran war on May 12, 2026, as Washington awaits Tehran’s response to a U.S. peace proposal",
-          "url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-12-2026/article70968122.ece",
+          "title": "Suspect arrested in Togo over murder of 27-year-old car dealer",
+          "description": "The Criminal Investigations Department (CID) of the Ghana Police Service has arrested a suspect in connection with the murder of 27-year-old car dealer, Yaw Osei Ashitey Amma, whose burnt body was discovered inside a vehicle at Atomic Junction on the...",
+          "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Suspect-arrested-in-Togo-over-murder-of-27-year-old-car-dealer-2034243",
           "source": {
-            "name": "The Hindu"
+            "name": "GhanaWeb"
           },
-          "publishedAt": "2026-05-12T23:23:53Z",
-          "image": "https://th-i.thgim.com/public/incoming/vgx47i/article70969131.ece/alternates/LANDSCAPE_1200/2026-05-12T085351Z_804505313_RC2J7LAWLLBW_RTRMADP_3_IRAN-CRISIS-DAILY-LIFE.JPG",
+          "publishedAt": "2026-05-13T02:30:40Z",
+          "image": "https://cdn.ghanaweb.com/imagelib/pics/993/99398832.jpg",
           "language": "en"
         },
         {
-          "title": "NT government announces scope of child protection review, with retired NSW police commissioner and territory public servant to lead it",
-          "description": "The NT government has revealed the scope of a review into the territory's child protection system, and announced that it will be led by retired NSW police commissioner Karen Webb and long-standing territory public servant Greg Shanahan.",
-          "url": "https://www.abc.net.au/news/2026-05-13/nt-government-announces-who-will-lead-child-protection-review/106673282",
+          "title": "AI Helps Scientists Create New E.coli Strain Using Only 19 Amino Acids",
+          "description": "Scientists used AI to engineer E. coli with only 19 amino acids, unlocking new possibilities in genetics and synthetic biology.",
+          "url": "https://www.techtimes.com/articles/316546/20260512/ai-helps-scientists-create-new-ecoli-strain-using-only-19-amino-acids.htm",
           "source": {
-            "name": "Australian Broadcasting Corporation"
+            "name": "Tech Times"
           },
-          "publishedAt": "2026-05-12T23:23:29Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/7a6578f40fd77559be4f9d301cc10a93?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=174&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-05-13T02:30:12Z",
+          "image": "https://d.techtimes.com/en/full/446080/new-research-finds-certain-disease-causing-bacteria-feeds-human-bloods-serum.jpg",
           "language": "en"
         }
       ]
