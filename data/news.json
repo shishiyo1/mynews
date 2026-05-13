@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-13T17:18:33.211Z",
+  "updatedAt": "2026-05-13T19:57:26.711Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "日産自動車、2025年度決算を発表",
+          "description": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）は、2025年度通期および第4四半期決算を発表しました。",
+          "url": "https://global.nissannews.com/ja-JP/releases/260513-01-j",
+          "source": {
+            "name": "日産自動車ニュースルーム"
+          },
+          "publishedAt": "2026-05-13T07:56:00Z",
+          "image": "https://wieck-nissanao-production.s3.us-west-1.amazonaws.com/releaseInlineImages/ee8a68cd811cbcd02a198bbbb5cb509707612cd3",
+          "language": "ja"
+        },
+        {
+          "title": "webOS搭載で、仕事でもプライベートでも活躍する「LG Smart Monitor」シリーズ新モデル 31.5インチ4K解像度「32U721SB-W」など、計3モデルを2026年5月中旬より順次発売 企業リリース",
+          "description": "日刊工業新聞の電子版。日刊工業新聞が紙面で提供している、およそ250件の記事を毎日閲覧することができます。機械、技術、情報通信、エネルギー、産業などの専門情報をご提供します。",
+          "url": "https://www.nikkan.co.jp/releases/view/216173",
+          "source": {
+            "name": "日刊工業新聞"
+          },
+          "publishedAt": "2026-05-13T07:03:45Z",
+          "image": "https://prtimes.jp/img/23289/475/thumb/d23289-475-ecae482dc65573268f5c-8.png",
+          "language": "ja"
+        },
+        {
+          "title": "LG、webOS搭載で映像配信も楽しめる「LG Smart Monitor」の新製品、4K仕様の「32U721SB",
+          "description": "LGエレクトロニクス・ジャパンから、LG独自のwebOSを搭載した「LG Smart Monitor」シリーズの新モデルとして、31.5インチで4K解像度の「32U721SB-W」と、23.8インチでフルHD解像度の「24U511SB-B」が5月中旬に発売される。加えて、27インチでフルHD解像度の「27U511SB-W」は、少し遅れて6月中旬の登場となる。\n価格はオープンで、それぞれの想定市場価格は、32U721SB-Wは￥80,000前後、27U511SB-Wは￥43,000前後、24U511SB-Bは￥38,000前後となる。\n「LG Smart Monitor」シリーズは、独自のwebOSによって、パソコンやスマホなどの外部機器に接続しなくても、NetflixやYouTube、TVerなどの動画視聴を楽しめ、仕事からプライベートまで、使える、新コンセプトのパーソナルデバイス。...",
+          "url": "https://online.stereosound.co.jp/_ct/17839258",
+          "source": {
+            "name": "StereoSound ONLINE"
+          },
+          "publishedAt": "2026-05-13T07:03:26Z",
+          "image": "https://d1uzk9o9cg136f.cloudfront.net/f/16783364/rc/2026/05/13/6b66ae1516621a14ef051a477f6027e397218636_xlarge.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "タミヤブースに1/1オフロードカー「ランチボックスEVO.」が登場する静岡ホビーショー",
+          "description": "タミヤは、「第64回静岡ホビーショー」（ツインメッセ静岡：5月13日～17日開催）に出展。タミヤブースでは1/12スケールRCの新製品「ランチボックスEVO. 」の登場と合わせて、1/1オフロードカー「ランチボックスEVO.」を展示している。",
+          "url": "https://car.watch.impress.co.jp/docs/news/2108260.html",
+          "source": {
+            "name": "Car Watch"
+          },
+          "publishedAt": "2026-05-13T06:27:33Z",
+          "image": "https://car.watch.impress.co.jp/img/car/list/2108/260/27.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ガソリン値下がり傾向も福井など10府県では上昇 都道府県別価格一覧 2026年5月13日経産省発表",
+          "description": "経済産業省が2026年5月13日に発表した11日時点のレギュラーガソリン1リットル当たりの全国平均小売価格は169円40銭だった。4月27日時点の前回調査と比べ、30銭値下がりした。　都道府県別でみるとガソリン価格は36都道県で下がり、10府県で上昇。前回都道価格が1県だった。各都道府県のガソリン、灯油、軽油の価格をまとめた。ガソリン最新価格（都道府県別一覧）　全国平均のハイオクガソリンは30銭下がり180円20銭、軽油は20銭安くなり158円80銭だった。",
+          "url": "https://www.fukuishimbun.co.jp/articles/-/2599243",
+          "source": {
+            "name": "福井新聞社"
+          },
+          "publishedAt": "2026-05-13T06:01:00Z",
+          "image": "https://fki.ismcdn.jp/mwimgs/a/5/-/img_a58d56d4352fc46ba7cbbd39217d385b72875.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "今日13日 あちらこちらでゲリラ雷雨発生中 明日14日にかけて急な雨や落雷に注意",
+          "description": "今日13日は、北～西日本のあちらこちらでゲリラ雷雨が発生しています。このあと夜遅くにかけて大気の状態が非常に不安定なため、山沿いだけでなく都市部も含め、急な強い雨や落雷、ひょう、激しい突風に注意が必要です。明日14日も午後を中心にゲリラ雷雨となる所があるでしょう。",
+          "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/05/13/38906.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-13T05:28:02Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/389/38906/main/20260513130826/large.jpg",
+          "language": "ja"
+        },
         {
           "title": "三笘のハムストリング負傷とアーセナル戦のVAR判定 フットボールの発展がもたらした功罪",
           "description": "三笘薫を悲劇が襲った。5月9日（現地時間、以下同）、すでに降格が決まっている最下位ウルヴァーハンプトンとのホームゲーム…",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-05-13T03:54:30Z",
           "image": "https://prcdn.freetls.fastly.net/release_image/5397/7365/5397-7365-39bb9401c8cd7be11936566789257249-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
           "language": "ja"
-        },
-        {
-          "title": "磐越道バス事故から1週間 なぜ17歳の命は失われたのか “部活動の引率体制”“書面なきバス手配”…浮かび上がる複数の問題点 食い違う高校とバス会社側の意見",
-          "description": "大型連休最終日の5月6日朝、福島県郡山市の磐越自動車道で新潟市の北越高校男子ソフトテニス部の部員を乗せたマイクロバスがガードレールに衝突し、後続のワゴン車が追突する事故が発生した。この事故で部員の稲垣尋斗さん（17）が死亡し、20人が負傷した。13日で事故から1週間。事故の背景にある複数の問題が次々と明らかになっている。",
-          "url": "https://news.nsttv.com/post/20260513-00000010-nst/",
-          "source": {
-            "name": "新潟ニュース NST"
-          },
-          "publishedAt": "2026-05-13T03:06:33Z",
-          "image": "https://news.nsttv.com/wp-content/uploads/2026/05/202605133080201.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Claude Mythosがもたらすセキュリティビジネス激変の可能性 二極化していく“業界のこれから”（1/5 ページ）",
-          "description": "IT業界の話題をさらう、Anthropicのセキュリティ特化型エージェント「Claude Mythos」。MythosのようなAIスキャナーの普及がセキュリティ業界の構造にどんな変化をもたらすのか。IT組織作りに携わってきた筆者が視点から分析する。 (1/5)",
-          "url": "https://www.itmedia.co.jp/news/articles/2605/12/news077.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-05-13T03:00:00Z",
-          "image": "https://image.itmedia.co.jp/news/articles/2605/12/cover_news077.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Androidスマホが“おせっかいな相棒”に グーグル「Gemini Intelligence」発表",
-          "description": "グーグルは5月12日、Android向けの新機能群「Gemini Intelligence」を発表した。",
-          "url": "https://ascii.jp/elem/000/004/401/4401555/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-05-13T02:30:00Z",
-          "image": "https://ascii.jp/img/2026/05/13/4465615/xl/80d92b5dd31d9e1c.png?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "Kindleのペン付きモデルに、初のカラー版が登場「Kindle Scribe Colorsoft」、カラーでメモ書き/ハイライトOK",
-          "description": "Amazon.co.jpは5月12日、同社の「Kindle電子書籍リーダー」の新製品を発表した。",
-          "url": "https://forest.watch.impress.co.jp/docs/serial/goodbuy/2108111.html",
-          "source": {
-            "name": "窓の杜"
-          },
-          "publishedAt": "2026-05-13T02:06:00Z",
-          "image": "https://forest.watch.impress.co.jp/img/wf/list/2108/111/image_top.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ハンタウイルス死亡者と同じ飛行機に乗っていたイタリア人男性、病院に搬送（中央日報日本語版）",
-          "description": "ハンタウイルス感染で死亡した乗客と同じ航空便に乗っていたイタリア人男性が、隔離中に感染が疑われる症状が見られたため病院に搬送された。\n12日（現地時間）の現地アンサ通信によると、イタリア南部カラブ",
-          "url": "https://news.yahoo.co.jp/articles/e587f64bccf35b33f8ec6144d2e2a42845fb9518",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-13T01:28:46Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260513-00000037-cnippou-000-12-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "マンダロリアンたちのシール全24種！ロッテ「スターウォーズ／ビックリマンチョコ＜マンダロリアン＆グローグー＞」",
-          "description": "ロッテから、2026年6月2日（火）より「スターウォーズ／ビックリマンチョコ＜マンダロリアン＆グローグー＞」が東日本先行で発売！ 5月22日の『スター・ウォーズ』映画公開に合わせ、約10年ぶりに再登場 ...",
-          "url": "https://dtimes.jp/post-1226954/",
-          "source": {
-            "name": "Dtimes"
-          },
-          "publishedAt": "2026-05-13T01:23:50Z",
-          "image": "https://dtimes.jp/wp-content/uploads/2026/05/sub1-30.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "SpaceX set to debut its Starship version 3 from launch pad 2 on May 19",
-          "description": "SpaceX Starship Flight 12 debuts next generation Starship V3 and Super Heavy with Raptor 3 engines from Starbase, testing key tech for Moon and Mars missions",
-          "url": "https://www.cnbctv18.com/world/spacex-set-to-debut-its-starship-version-3-from-launch-pad-2-on-may-19-ws-l-19904573.htm",
+          "title": "Mouni Roy addresses rumours of divorce with husband Suraj Nambiar",
+          "description": "Actor Mouni Roy has reacted to ongoing speculation about her personal life. The actor shared a post on Instagram, urging people to respect her privacy.",
+          "url": "https://www.indiatoday.in/movies/celebrities/story/mouni-roy-suraj-nambiar-marriage-rumours-actor-asks-media-for-privacy-2911021-2026-05-13",
           "source": {
-            "name": "CNBC TV18"
+            "name": "India Today"
           },
-          "publishedAt": "2026-05-13T05:18:24Z",
-          "image": "https://images.cnbctv18.com/uploads/2026/05/spacex-startship-v3-2026-05-8026178a120dcf03bd3c1682db20cf16.jpg?im=FitAndFill,width=500,height=300",
+          "publishedAt": "2026-05-13T07:57:26Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/suraj-nambiar--mouni-roy-131338846-16x9_0.jpg?VersionId=2G.YolRVR2j5JqeffLNABpNczcUn9unN",
           "language": "en"
         },
         {
-          "title": "Donald Gibb, 'Revenge of the Nerds' Actor, Dies at 71",
-          "description": "Donald Gibb, known for playing fraternity bro Frederick Aloysius “Ogre” Palowaski in the cult classic 'Revenge of the Nerds,' died at the age of  71.",
-          "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/donald-gibb-revenge-of-the-nerds-bloodsport-dead-obituary-1235561743/",
-          "source": {
-            "name": "Rolling Stone"
-          },
-          "publishedAt": "2026-05-13T05:16:48Z",
-          "image": "https://www.rollingstone.com/wp-content/uploads/2026/05/Donald-Gibb-revenge-of-the-nerds-dead.jpg?w=1600&h=900&crop=1",
-          "language": "en"
-        },
-        {
-          "title": "P6.5 B needed to start Capiz mega dam construction",
-          "description": "ILOILO CITY – At least P6.5 billion is needed to start construction of the mega dam project in Capiz province before President Ferdinand Marcos Jr. steps down...",
-          "url": "https://mb.com.ph/2026/05/13/p65-b-needed-to-start-capiz-mega-dam-construction",
-          "source": {
-            "name": "Manila Bulletin"
-          },
-          "publishedAt": "2026-05-13T05:16:08Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/13/100869.webp",
-          "language": "en"
-        },
-        {
-          "title": "NYT Connections hints and answers for May 13. Tips to solve 'Connections' #1067.",
-          "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
-          "url": "https://mashable.com/article/nyt-connections-hint-answer-today-may-13-2026",
-          "source": {
-            "name": "Mashable"
-          },
-          "publishedAt": "2026-05-13T05:15:54Z",
-          "image": "https://helios-i.mashable.com/imagery/articles/03DlEa6Yb5Tq9dCSvaMiKcu/hero-image.fill.size_1200x675.v1778524151.jpg",
-          "language": "en"
-        },
-        {
-          "title": "'Quadrophenia Doc,' Zandra Rhodes Film Set at Frost&Jones",
-          "description": "Director Sadie Frost and producer Simon Jones launch Frost&Jones, with a Pete Townshend-backed 'Quadrophenia' doc already in production.",
-          "url": "https://variety.com/2026/film/markets-festivals/quadrophenia-doc-zandra-rhodes-frost-jones-sadie-frost-1236745644/",
-          "source": {
-            "name": "Variety"
-          },
-          "publishedAt": "2026-05-13T05:15:00Z",
-          "image": "https://variety.com/wp-content/uploads/2026/05/Sadie-Frost-Simon-Jones.jpg?w=1000&h=563&crop=1",
-          "language": "en"
-        },
-        {
-          "title": "Night of terror in Kuria as elderly man is gunned down",
-          "description": "Officers responding to reports of gunfire recovered five spent 9mm cartridges at the scene",
-          "url": "https://www.the-star.co.ke/news/2026-05-13-night-of-terror-in-kuria-as-elderly-man-is-gunned-down",
-          "source": {
-            "name": "the-star.co.ke"
-          },
-          "publishedAt": "2026-05-13T05:15:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/05/f050b5ab-31c2-4bb3-8d21-ee92b78a0336.png?1778651627115",
-          "language": "en"
-        },
-        {
-          "title": "More than 170 arrests in Met's Croydon facial recognition trial",
-          "description": "Crime reduced by 10.5% during the pilot from October 2025 to March 2026, the Metropolitan Police says.",
-          "url": "https://www.bbc.co.uk/news/articles/cddpzglzrv7o",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-05-13T05:14:10Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9012/live/9359bff0-4e0d-11f1-841e-93875f0f6355.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Premier League predictions: Manchester City v Crystal Palace",
-          "description": "Who's leading after matchday 36? And what do our writer, the algorithm, a child and this week's subscriber expect from City's midweek game?",
-          "url": "https://www.nytimes.com/athletic/7272203/2026/05/13/premier-league-predictions-manchester-city-v-crystal-palace/",
-          "source": {
-            "name": "The New York Times"
-          },
-          "publishedAt": "2026-05-13T05:13:32Z",
-          "image": "https://static01.nyt.com/athletic/uploads/wp/2026/05/12034013/0715_PLPredictionsChallengeTheAthletic-1-1.png?width=1200&height=630&fit=cover",
-          "language": "en"
-        },
-        {
-          "title": "New low cost vaccine could finally stop malaria in its tracks",
-          "description": "Malaria is a deadly disease killing more than half a million people every year, but a new vaccine is showing promise as it not only offers long-lasting strong protection but also inhibits transmission of malaria by mosquitos.",
-          "url": "https://www.news-medical.net/news/20260513/New-low-cost-vaccine-could-finally-stop-malaria-in-its-tracks.aspx",
-          "source": {
-            "name": "News-Medical"
-          },
-          "publishedAt": "2026-05-13T05:13:00Z",
-          "image": "https://www.news-medical.net/image-handler/picture/2017/1/A_doctor_makes_a_vaccination_to_a_child-Yuganov_Konstantin_cdbf1b05417f45e89b8268af4858e1c9-620x480.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Singapore's criminal justice policies in line with international law, calibrated to national context: MFA on UN members' anti-death penalty calls",
-          "description": "Several states at a UN review of human rights records had called on Singapore to abolish capital punishment.",
-          "url": "https://www.channelnewsasia.com/singapore/singapore-universal-periodic-review-death-penalty-human-rights-6117516",
+          "title": "Subaru sole distributor to pay S$164,000 to ad agency after axing Forester video project",
+          "description": "The advertising agency did a shoot in Malaysia before producing five draft videos, which were rejected by the client.",
+          "url": "https://www.channelnewsasia.com/singapore/ad-agency-wins-164k-subaru-forester-distributor-video-6118021",
           "source": {
             "name": "CNA"
           },
-          "publishedAt": "2026-05-13T05:12:14Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--fBtw4tZv--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/13/49573d0b-5251-43b0-b4b6-0dae46ad6b29.jpg?itok=PD_UZya7",
+          "publishedAt": "2026-05-13T07:57:00Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--nWbcs9zJ--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/13/istock-839053280.jpg?itok=5K16RiAK",
+          "language": "en"
+        },
+        {
+          "title": "U2 film new music video in Mexico City",
+          "description": "U2 delighted fans by filming the video for their new track Street of Dreams in Mexico City on Tuesday.",
+          "url": "https://www.rte.ie/entertainment/2026/0513/1573095-u2-film-new-music-video-in-mexico-city/",
+          "source": {
+            "name": "RTE.ie"
+          },
+          "publishedAt": "2026-05-13T07:56:46Z",
+          "image": "https://www.rte.ie/images/00245baa-1600.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Tanzania unveils Sh1.2 trillion plan for new super-specialised national hospital",
+          "description": "Tanzania is preparing to undertake one of the largest healthcare infrastructure projects in its history after the government unveiled plans to construct a new specialised and super-specialised...",
+          "url": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-unveils-sh1-2-trillion-plan-for-new-super-specialised-national-hospital-5457382",
+          "source": {
+            "name": "thecitizen.co.tz"
+          },
+          "publishedAt": "2026-05-13T07:56:31Z",
+          "image": "https://www.thecitizen.co.tz/resource/image/5457384/landscape_ratio3x2/1200/800/77e5dcc5b1a8afb9988c9d8ad87730da/rB/specialized-hospital-pic.jpg",
+          "language": "en"
+        },
+        {
+          "title": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11",
+          "description": "Louisiana officials have agreed to a tentative $4.8 million settlement with the family of Ronald Greene, a Black motorist who died during a violent 2019 roadside arrest.",
+          "url": "https://www.nbcnews.com/health/health-news/french-hantavirus-patient-critically-ill-artificial-lung-outbreak-grow-rcna344875",
+          "source": {
+            "name": "NBC News"
+          },
+          "publishedAt": "2026-05-13T07:56:02Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260513-hantavirus-rs-3a63d9.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Adu-Boahene Case: Witness describes her arrest by EOCO as traumatic",
+          "description": "Mildred Donkor, the third prosecution witness, who was initially listed as an accused person but later withdrawn by the Attorney-General to testify for the state, has told the High Court that her experience during her arrest and interrogation by the...",
+          "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Adu-Boahene-Case-Witness-describes-her-arrest-by-EOCO-as-traumatic-2034286",
+          "source": {
+            "name": "GhanaWeb"
+          },
+          "publishedAt": "2026-05-13T07:55:40Z",
+          "image": "https://cdn.ghanaweb.com/imagelib/pics/990/99069363.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Microsoft patches 137 vulnerabilities and deploys AI scanner",
+          "description": "During May’s Patch Tuesday, Microsoft released fixes for 137 vulnerabilities in Windows, Azure, and other products.",
+          "url": "https://www.techzine.eu/news/security/141284/microsoft-patches-137-vulnerabilities-and-deploys-ai-scanner/",
+          "source": {
+            "name": "Techzine Global"
+          },
+          "publishedAt": "2026-05-13T07:55:19Z",
+          "image": "https://www.techzine.eu/wp-content/uploads/2024/11/shutterstock_2399781273-scaled-1.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Rape Allegations Addressed In New Heartbreaking Recordings Between Thai Heir “Pi” Sunit Scott And Brother",
+          "description": "Following allegations of Thai Heir “Pi” Sunit Scott raping his brother, new recordings have been released and netizens believe it confirms the allegations.",
+          "url": "https://www.koreaboo.com/news/thai-heir-pi-sunit-scott-rape-recordings-heartbreaking/",
+          "source": {
+            "name": "Koreaboo"
+          },
+          "publishedAt": "2026-05-13T07:55:12Z",
+          "image": "https://image.koreaboo.com/2026/05/FD2870-7-1.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Is Nana Akomea implying that Ghanaians eat instability?",
+          "description": "Government spokesperson, Felix Kwakye Ofosu, has pushed back against claims by Chairman of the New Patriotic Party Select Committee on Communications, Nana Akomea, that Ghanaians do not benefit from economic stability.",
+          "url": "https://www.myjoyonline.com/is-nana-akomea-implying-that-ghanaians-eat-instability-kwakye-ofosu/",
+          "source": {
+            "name": "MyJoyOnline"
+          },
+          "publishedAt": "2026-05-13T07:55:03Z",
+          "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/Felix-Kwakye-Ofosu-june-e1770661982258.webp",
+          "language": "en"
+        },
+        {
+          "title": "Nick Teo reveals absent father in tribute to mum: 'You held up our world'",
+          "description": "With an absent parent, someone has to pick up the pieces — for Nick Teo, his mum is his hero.The local actor took to Instagram on Mother's Day (May 10) to dedicate a tribute to his single mum, where he revealed that his father \"chose to leave\" his family when he was in secondary school.The 36-year-old shared that after his...",
+          "url": "https://www.asiaone.com/entertainment/nick-teo-absent-father-tribute-mothers-day",
+          "source": {
+            "name": "AsiaOne"
+          },
+          "publishedAt": "2026-05-13T07:55:00Z",
+          "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/May2026/1305_nick%20teo%20mother_ig.jpg?itok=YzKDlaeo",
           "language": "en"
         }
       ]
