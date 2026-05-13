@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-13T08:46:16.487Z",
+  "updatedAt": "2026-05-13T11:30:59.437Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "土地だけで4億円！ 「B’z稲葉」の別荘が豪華過ぎて“ご近所トラブル”勃発",
-          "description": "土地だけで4億円！　「B’z稲葉」の別荘が豪華過ぎて“ご近所トラブル”勃発（デイリー新潮）　浅間山の麓に位置する長野県軽井沢町は、海外でも名高い日本有数の高級避暑地。政財界はもとより各界のセレブも足を運ぶが、全…",
-          "url": "https://topics.smt.docomo.ne.jp/article/dailyshincho/entertainment/dailyshincho-1448904?redirect=1",
+          "title": "株価指数先物【寄り前】 +1σまでの調整を経て押し目狙いのロング対応",
+          "description": "１２日の米国市場は、ＮＹダウが上昇した一方で、 Ｓ＆Ｐ５００、ナスダックは下落。４月の米消費者物価指数（ＣＰＩ）は前年同月比３．８％上昇と市場予想（３．７％程度）を上回った。インフレが再び加速しているとして・・・。",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202605130235",
           "source": {
-            "name": "ｄメニューニュース"
+            "name": "株探"
           },
-          "publishedAt": "2026-05-12T20:40:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/dailyshincho/m_dailyshincho-1448904.jpg",
+          "publishedAt": "2026-05-12T23:11:53Z",
+          "image": "https://async.api.kabutan.jp/og_image?title=%E6%A0%AA%E4%BE%A1%E6%8C%87%E6%95%B0%E5%85%88%E7%89%A9%E3%80%90%E5%AF%84%E3%82%8A%E5%89%8D%E3%80%91%E3%80%80%2B1%CF%83%E3%81%BE%E3%81%A7%E3%81%AE%E8%AA%BF%E6%95%B4%E3%82%92%E7%B5%8C%E3%81%A6%E6%8A%BC%E3%81%97%E7%9B%AE%E7%8B%99%E3%81%84%E3%81%AE%E3%83%AD%E3%83%B3%E3%82%B0%E5%AF%BE%E5%BF%9C",
           "language": "ja"
         },
         {
-          "title": "ハンガリーで政権交代が起きた理由、16年間続いたオルバン体制の終焉、今回の選挙が示す3つの教訓…政治はどう変えるものなのか？（Wedge（ウェッジ））",
-          "description": "4月12日のハンガリー議会選挙でペーテル・マジャール率いるティサが地滑り的勝利をおさめ、マジャールがオルバンに代わって首相に就くことになったが、国際戦略研究所（IISS）のグルド‐デイビス（元駐ベ",
-          "url": "https://news.yahoo.co.jp/articles/76414fb3a61e64abab030ce553da46a6a42c3c20",
+          "title": "誰でもできる！ Geminiを使った「プロンプト講座」：自分をモデルに『ハイブランド広告風』プロフィール画像を作ってみよう",
+          "description": "もはや生成AIは私（佐藤）にとって完全に生活の一部と化している。とくに楽曲制作を再開するきっかけになった「SUNO」は、なかば音楽プレイヤーと化し、自作の曲をこれで …",
+          "url": "https://rocketnews24.com/2026/05/13/2760135/",
+          "source": {
+            "name": "ロケットニュース24"
+          },
+          "publishedAt": "2026-05-12T23:00:14Z",
+          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/05/highfashion.jpg?w=580&h=305&crop=1",
+          "language": "ja"
+        },
+        {
+          "title": "iPhone 18に合わせたiOS 27、ChatGPTの存在感が薄れそう",
+          "description": "Geminiへ大きく舵を切ることに！Apple（アップル）は、AI戦略で苦戦を強いられています。Apple Intelligenceに統合されたSiriが、もっと賢くなったらいいのにな～。そう願っている人は少なくないでしょう。ようやく目指してきた答えが出そろったようです。Geminiに頼る姿勢が鮮明にすでにAppleは、自前でAIモデルを完成させるのではなく、Google（グーグル）と巨額のライ",
+          "url": "https://www.gizmodo.jp/2026/05/if-you-plan-to-get-an-iphone-in-the-fall-dont-get-too-attached-to-chatgpt.html",
+          "source": {
+            "name": "ギズモード・ジャパン"
+          },
+          "publishedAt": "2026-05-12T23:00:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/05/06/260506siri.jpg?w=1280&h=630&f=jpg",
+          "language": "ja"
+        },
+        {
+          "title": "メーカー社員、手術室で患者の体動かす 医師法に抵触か 関西医科大",
+          "description": "関西医科大学総合医療センター（大阪府守口市）の手術室で2024年、医療機器メーカーの営業担当者が医師のそばで、患者の足を持ち上げるなど医師を補助する行為をした疑いがあることがわかった。手術室で患者の…",
+          "url": "https://www.asahi.com/articles/ASV5D23GGV5DUTIL01JM.html",
+          "source": {
+            "name": "朝日新聞"
+          },
+          "publishedAt": "2026-05-12T22:56:58Z",
+          "image": "https://imgopt.asahi.com/ogp/AS20260512002689_comm.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "au Webポータル芸能ニュース",
+          "description": "見上愛（25）と上坂樹里（20）がダブル主演を務めるNHK連続テレビ小説『風、薫る』の第6週（5月4...",
+          "url": "https://article.auone.jp/detail/1/5/9/458_9_r_20260513_1778625017973456",
+          "source": {
+            "name": "au Webポータル"
+          },
+          "publishedAt": "2026-05-12T22:36:48Z",
+          "image": "https://portal.st-img.jp/thumb/3c6307b6768f886a55f0fd87da8ffe7d_1778626797_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "マクロスコープ：米中首脳会談、日本政府内に渦巻く経済改善期待と安保への懸念",
+          "description": "米国のトランプ大統領と中国の習近平国家主席が１４─１５日、北京で会談する。両首脳が直接向き合うのは昨年１０月以来だ。日本政府内からは、米中の経済関係改善を望む声が上がる。中国によるレアアース（希土類）の対日輸出規制を打開する突破口になるとの期待もあるが、日本に有利なディールの実現には懐疑的な見方が根強い。台湾問題での米中接近​を不安視する見方もある。",
+          "url": "https://jp.reuters.com/world/japan/76UEHARRLVORDGMHR4U76SEQXU-2026-05-12/",
+          "source": {
+            "name": "Reuters"
+          },
+          "publishedAt": "2026-05-12T22:15:20Z",
+          "image": "https://www.reuters.com/resizer/v2/NBESEBJMSJICXC46KYTTI6WI5I.jpg?auth=30352c9e7bce47d3aec7d410efe5c2d4b62da735e532524837d3c2292820d146&height=1005&width=1920&quality=80&smart=true",
+          "language": "ja"
+        },
+        {
+          "title": "ホストクラブ“散財”の真実は？ 細木数子の元マネジャーが明かした素顔《年収18億円、移動の車はマイバッハやロールスロイス》",
+          "description": "4月27日に配信が開始されたNetflixのオリジナルドラマ『地獄に堕ちるわよ』（全9話）が大ヒットしている。戸田恵梨香が占い師・細木数子（2021年没・享年83）の半生を怪演し、国内視聴ランキン",
+          "url": "https://news.yahoo.co.jp/articles/4d5a819a7e99874a5662426a58f68a6333c05d8f",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-05-12T20:06:18Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260513-00140590-wedge-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-05-12T22:12:15Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260513-00088542-bunshun-000-1-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "2026年は「スーパーエルニーニョ」発生の可能性、NOAA予測",
-          "description": "エルニーニョがこの春から夏にかけて始まる可能性が高まっているという米海洋大気局（NOAA）の予測を受けて、2026年は強力な「スーパーエルニーニョ」が発生する可能性があるとの見方が予報担当者のあいだで強まっている。このエルニーニョは、少なくとも過去10年間で最も勢力の強いものとなり、一部地域では過酷な干ばつを、また別の地域では激しい嵐を引き起こし、さらには地球の気温を上昇させる恐れがある。NO",
-          "url": "https://www.nikkei.com/article/DGXZQOSG278VG0X20C26A4000000/",
+          "title": "「おぉ～」サッカー日本代表、W杯の歴代サプライズ選出5選。日本中が驚き！？ 大逆転で大舞台に臨んだ男たち",
+          "description": "FIFAワールドカップ（W杯）2026に臨む日本代表メンバーが、15日に発表される。歴代最強とも評される今大会の日本代表だが、ここにきて主力選手の負傷離脱が相次いでおり、メンバー選考には大きな注目が集まっている。状況次第では、“サプライズ選",
+          "url": "https://www.footballchannel.jp/2026/05/13/post892338/",
           "source": {
-            "name": "日本経済新聞"
+            "name": "フットボールチャンネル"
           },
-          "publishedAt": "2026-05-12T20:00:00Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2952657027042026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=14b5c9888b5df4017ec79f93c10f9af7",
+          "publishedAt": "2026-05-12T22:00:04Z",
+          "image": "https://www.footballchannel.jp/wordpress/assets/2026/05/20260513focus_EYECATCH_getty.jpg",
           "language": "ja"
         },
         {
-          "title": "米津玄師「ピースサイン」がアメリカレコード協会でゴールド認定、自身3度目のRIAA認定の快挙（動画あり）",
-          "description": "米津玄師の「ピースサイン」が、アメリカレコード協会（RIAA）よりゴールド認定を受けたことが発表された。",
-          "url": "https://natalie.mu/music/news/671739",
+          "title": "中山功太「後悔の念で押し潰されています」 サバンナ高橋めぐる発言に胸中「こんな事になるとは」【全文】",
+          "description": "お笑い芸人の中山功太が12日、自身のXを更新。サバンナ・高橋茂雄への発言をめぐり、自身の思いをしたためた。\n　5日配信のABEMA『ナオキマンの都市伝説ワイドショー』で、中山は「10年間ぐらいず",
+          "url": "https://news.yahoo.co.jp/articles/fa4d469977c74679163aa17de898fb03459572be",
           "source": {
-            "name": "ナタリー"
+            "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-05-12T19:00:00Z",
-          "image": "https://ogre.natalie.mu/media/news/music/2026/0512/peacesign_RIAAgold.jpg?impolicy=twitter_card_face_crop",
+          "publishedAt": "2026-05-12T21:40:02Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260512-00000442-oric-000-25-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "EU全域で子供のSNS制限を検討 欧州委員長「2026年夏にも法案」",
-          "description": "【ブリュッセル=辻隆史】欧州連合（EU）のフォンデアライエン欧州委員長は12日、域内全域で子どものSNS利用を制限する法案を今夏にも提出することを検討していると明らかにした。中毒性のある仕組みやデザインなどが子どもの発達に悪影響を与えると主張した。フォンデアライエン氏はデンマーク・コペンハーゲンでの演説で「子どものソーシャルメディア利用を遅らせることを検討すべきだ。『最低年齢』に関する議論はも",
-          "url": "https://www.nikkei.com/article/DGXZQOGR12C3M0S6A510C2000000/",
+          "title": "最悪な職場ストレスは「過負荷」ではなく「役割の曖昧さ」だった、60年分のデータで判明",
+          "description": "「職場でのストレス」の原因として、すぐに「残業」とか「過負荷」というワードが思い浮かぶかもしれません。\nしかし最新研究によると、人を最も消耗させるのは、単純な仕事量ではなく「自分が何を求められているのか分からない状態」かもしれません。\n米オーバーン大学（Auburn University）を中心とする研究チームは、過去60年間に行われた職場ストレス研究を大規模に分析しました。\nその結果、「役割の曖昧さ（role ambiguity）」が、他の代表的な職場ストレス要因よりも、多くの個人・組織面の結果に強く関係していることが分かったのです。\n研究は2026年4月10日に正式版として、『Journ…",
+          "url": "https://nazology.kusuguru.co.jp/archives/195066",
           "source": {
-            "name": "日本経済新聞"
+            "name": "ナゾロジー"
           },
-          "publishedAt": "2026-05-12T18:38:11Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3007696012052026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=ce6a879403c8db832ca616949cef7c4c",
-          "language": "ja"
-        },
-        {
-          "title": "Googlebook誕生 Geminiを前提とした新しいノートPCが今秋発売",
-          "description": "Googleは11日(米国時間)、新たなノートPCのプラットフォーム「Googlebook」を発表した。Geminiを中核としてノートパソコンを再設計したシリーズで、Acer、ASUS、Dell、HP、Lenovoらが協力して製品を開発。2026年秋の製品発売を予定している。",
-          "url": "https://www.watch.impress.co.jp/docs/news/2107723.html",
-          "source": {
-            "name": "Impress Watch"
-          },
-          "publishedAt": "2026-05-12T17:02:00Z",
-          "image": "https://www.watch.impress.co.jp/img/ipw/list/2107/723/gb0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "中3少女、手足拘束され監禁で衰弱か 虐待容疑の両親と兄を逮捕",
-          "description": "15歳だった少女の手足には、金属製の拘束具が付けられていた。 　家族と暮らす自宅なのに、閉じ込められ、少女は衰弱した。室内の見守りカメラや、家族のスマートフォンには、そうした「監禁」の様子を映した動画が残っていたという。",
-          "url": "https://mainichi.jp/articles/20260512/k00/00m/040/330000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-05-12T17:00:00Z",
-          "image": "https://cdn.mainichi.jp/vol1/2020/03/06/20200306k0000m040235000p/0c10.jpg?3",
-          "language": "ja"
-        },
-        {
-          "title": "薄・軽・速の新「Amazon Kindle Scribe」。初のカラーモデルも",
-          "description": "Amazonは5月12日、ペンで書き込めるノート機能を搭載した電子書籍リーダー「Kindle Scribe」シリーズを刷新し、日本国内で販売すると発表した。出荷開始は6月10日を予定している。新たにカラー表示対応モデルを加え、全5モデルを展開する。価格は以下の通り。",
-          "url": "https://pc.watch.impress.co.jp/docs/news/2108044.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-05-12T15:14:16Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2108/044/1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "待望のカラー版も選べて大型化！ Amazonが「Kindle Scribe」2026年モデルを発表 Google Drive連携など機能も強化",
-          "description": "Amazonの電子書籍リーダー「Amazon Kindle Scribe」の第3世代モデルが日本で発売される。左部にあったベゼルが大きく縮小し4辺狭額縁ボディーとなった他、手頃な「フロントライト非搭載モデル」と、より上位の「カラーディスプレイモデル」も用意されることになった。",
-          "url": "https://www.itmedia.co.jp/pcuser/articles/2605/12/news146.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-05-12T13:00:00Z",
-          "image": "https://image.itmedia.co.jp/pcuser/articles/2605/12/cover_news146.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "カラーになった新「Kindle Scribe」 Googleドライブ連携などビジネス訴求",
-          "description": "Amazonは12日、大型でペンによる手書き機能を持つ電子書籍リーダー「Kindle Scribe」の新モデルを発表した。カラー電子ペーパー採用の「Kindle Scribe Colorsoft」と、モノクロ電子ペーパーの「Kindle Scribe」「同 フロントライト非搭載モデル」の3モデルで展開する。",
-          "url": "https://www.watch.impress.co.jp/docs/news/2107895.html",
-          "source": {
-            "name": "Impress Watch"
-          },
-          "publishedAt": "2026-05-12T13:00:00Z",
-          "image": "https://www.watch.impress.co.jp/img/ipw/list/2107/895/k12.jpg",
+          "publishedAt": "2026-05-12T21:32:26Z",
+          "image": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/05/1a08e4b014c3f0c482e3183fc538e5f9.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Search continues for pair in Thunder Bay, Ont., who were last seen at abandoned grain elevator",
-          "description": "Ashlynn Bottle, 23, and Nodin Skunk, 25, were last seen together at the old Pool 8 grain elevator in the 400 block of Syndicate Avenue South on April 26 in Thunder Bay, Ont., on the city’s south side. Here's what we know about ongoing efforts to locate the members of Mishkeegogamang First Nation.",
-          "url": "https://www.cbc.ca/news/canada/thunder-bay/thunder-bay-missing-pair-9.7195841",
+          "title": "Sydney Sweeney spotted at Gold Coast Airport with Scooter Braun",
+          "description": "Sydney Sweeney has popped up at an Aussie airport looking anything but her usual glamorous self.",
+          "url": "https://www.news.com.au/entertainment/celebrity-life/celebrity-photos/sydney-sweeney-spotted-at-aussie-airport-after-romantic-trip-with-boyfriend-scooter-braun/news-story/d1f2b56875b8bcfd70524dfe1ab318b4",
           "source": {
-            "name": "CBC"
+            "name": "News.com.au"
           },
-          "publishedAt": "2026-05-12T20:45:51Z",
-          "image": "https://i.cbc.ca/ais/359d87e0-1e34-4e2a-9d62-95c4c27b791d,1778628745430/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2000%2C1125%29%3BResize%3D620",
+          "publishedAt": "2026-05-12T23:30:58Z",
+          "image": "https://content.api.news/v3/images/bin/986240de41eee8ec580550ae02e1a9ab",
           "language": "en"
         },
         {
-          "title": "Hantavirus will test if the world learned anything from Covid",
-          "description": "The hantavirus outbreak is still small. But it’s a huge test for a battered public health sector.",
-          "url": "https://www.vox.com/health/488447/hantavirus-cruise-ship-outbreak-spread-response",
+          "title": "I don’t care about my legacy, Dr M says in award-winning documentary",
+          "description": "The 65-minute film ‘My name is Mahathir’ won a silver medal at a media festival in Berlin last week.",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/05/13/i-dont-care-about-my-legacy-dr-m-says-in-award-winning-documentary",
           "source": {
-            "name": "vox.com"
+            "name": "Free Malaysia Today"
           },
-          "publishedAt": "2026-05-12T20:45:00Z",
-          "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/05/GettyImages-2275667544.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "publishedAt": "2026-05-12T23:30:19Z",
+          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/05/a20e38f2-mahathir-mohamad-chan-tau-chou-emelpic-110526.webp",
           "language": "en"
         },
         {
-          "title": "Conan O’Brien to Return as Oscars Host for Third Year in a Row",
-          "description": "Conan O'Brien will host the 2027 Oscars, for the third year in a row, joining returning producers Raj Kapoor, Katy Mullan, Jeff Ross and Mike Sweeney.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/conan-obrien-host-2027-oscars-1236593897/",
+          "title": "IPL 2026, GT vs SRH: New shot unlocked! Washington Sundar's outrageous six shocks everyone - WATCH",
+          "description": "Cricket News: NEW DELHI: Gujarat Titans all-rounder Washington Sundar produced one of the most outrageous sixes in IPL history during the IPL 2026 clash against Sun.",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/new-shot-unlocked-washington-sundars-outrageous-six-shocks-everyone-watch/articleshow/131048162.cms",
           "source": {
-            "name": "The Hollywood Reporter"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-05-12T20:42:38Z",
-          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/GettyImages-2266303210-Conan-OBrien-Oscar-Host-2026-Show-H.jpg?w=1296&h=730&crop=1",
+          "publishedAt": "2026-05-12T23:30:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-131048168,width-1280,height-720,imgsize-38156,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Jamie Foxx Is Expecting His Third Child",
-          "description": "Jamie Foxx is going to be a dad for the third time. The actor is expecting his first child with girlfriend Alyce Huckstepp.",
-          "url": "https://www.thecut.com/article/jamie-foxx-expecting-third-child-alyce-huckstepp.html",
+          "title": "Paco Park conservation roadmap gets NCCA approval",
+          "description": "The NCCA-backed conservation plan lists repairs for the historic Manila site.",
+          "url": "https://www.philstar.com/headlines/2026/05/13/2527437/paco-park-conservation-roadmap-gets-ncca-approval",
           "source": {
-            "name": "The Cut"
+            "name": "Philstar.com"
           },
-          "publishedAt": "2026-05-12T20:41:44Z",
-          "image": "https://pyxis.nymag.com/v1/imgs/fdd/466/8617e53600e79532009df439a695d59fb0-jamie-foxx-2.1x.rsocial.w1200.jpg",
+          "publishedAt": "2026-05-12T23:30:00Z",
+          "image": "https://media.philstar.com/photos/2026/05/12/paco-park_2026-05-12_18-45-16.jpg",
           "language": "en"
         },
         {
-          "title": "PCOS gets a new name: What to know about the most common hormonal issue affecting women",
-          "description": "Experts say the updated name aims to improve diagnosis, reduce stigma and better reflect the condition's full impact on the body.",
-          "url": "https://abcnews.com/GMA/Wellness/pcos-gets-new-common-hormonal-issue-affecting-women/story?id=132860109",
+          "title": "Clarity Act Watch: Washington’s 72-Hour Crunch",
+          "description": "The gloves are starting to come off as the political window closes for America’s first framework regulating digital asset markets.",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/clarity-act-watch-washingtons-72-hour-crunch-before-thursdays-crypto-markup/",
           "source": {
-            "name": "ABC News - Breaking News, Latest News and Videos"
+            "name": "PYMNTS.com"
           },
-          "publishedAt": "2026-05-12T20:41:01Z",
-          "image": "https://i.abcnewsfe.com/a/7971f6fb-fe54-4410-b8fb-18249a956ba4/stock-photo-gty-sn-260511_1778536283321_hpMain_16x9.jpg?w=1600",
+          "publishedAt": "2026-05-12T23:28:43Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/05/cryptocurrency-legislation-clarity-act.jpeg",
           "language": "en"
         },
         {
-          "title": "Conan O'Brien To Return As Host Of Oscars In 2027",
-          "description": "It's a threepeat! Conan O'Brien will return as host of the Oscars for a third consecutive year.",
-          "url": "https://deadline.com/2026/05/conan-obrien-return-oscars-host-2027-1236899641/",
+          "title": "Rory McIlroy reveals blindside, Jon Rahm responds to villain status",
+          "description": "‘We knew’: Rory’s blindside reveal pours fuel on LIV fire; Rahm lifts lid on hot PGA claim",
+          "url": "https://www.foxsports.com.au/golf/pga-championship/pga-championship-2026-liv-golf-future-news-rory-mcilroy-reveals-blindside-jon-rahm-responds-to-villain-status/news-story/cabde55c08843278c5466a428ceb6b73",
           "source": {
-            "name": "Deadline"
+            "name": "Fox Sports"
           },
-          "publishedAt": "2026-05-12T20:41:00Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/03/GettyImages-2266704880.jpg?w=1024",
+          "publishedAt": "2026-05-12T23:27:39Z",
+          "image": "https://content.api.news/v3/images/bin/fd4a2269c0863f4b0afc90f39cb83345",
           "language": "en"
         },
         {
-          "title": "Lakers want LeBron James and Austin Reaves to return next season",
-          "description": "General manager Rob Pelinka says of the 41-year-old star that \"any team, including ours, would love to have LeBron James on their roster.\"",
-          "url": "https://www.latimes.com/sports/lakers/story/2026-05-12/lakers-want-lebron-james-austin-reaves-to-return-next-season",
+          "title": "Africa’s Golden Future",
+          "description": "Remarks by IMF Managing Director Kristalina Georgieva at the Africa Forward Summit",
+          "url": "https://www.imf.org/en/news/articles/2026/05/12/sp051226-africas-golden-future",
           "source": {
-            "name": "Los Angeles Times"
+            "name": "International Monetary Fund | IMF"
           },
-          "publishedAt": "2026-05-12T20:40:45Z",
-          "image": "https://ca-times.brightspotcdn.com/dims4/default/0a52e50/2147483647/strip/true/crop/5439x2855+0+385/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F74%2F0d%2Fe8f207c8434fba589db955223197%2F1553608-sp-nba-conference-semis-lakers-thunder-game-four-4765.jpg",
+          "publishedAt": "2026-05-12T23:26:56Z",
+          "image": "https://www.imf.org/-/media/project/imf/shared/images/news/twitter-seal.png?h=405&iar=0&w=400",
           "language": "en"
         },
         {
-          "title": "Preferences and Willingness to Pay for Smart Bracelets Among Chinese Pregnant and Postpartum Women: Discrete Choice Experiment",
-          "description": "Background: Pregnant and postpartum women encounter various health challenges, including physiological stress and mental health issues, which necessitate ongoing health monitoring. Smart bracelets present a promising solution; however, there is limited research on the preferences and willingness to pay (WTP) for such devices among this demographic.\nObjective: This study aimed to investigate the preferences and WTP for smart bracelet attributes among pregnant and postpartum women in China and to explore how these preferences vary by sociodemographic factors, pregnancy stage, parity, and complications.\nMethods: A cross-sectional discrete choice experiment (DCE) was conducted involving 464 pregnant and postpartum women recruited from a maternal and child health hospital in Inner Mongolia. Six key attributes were evaluated: cost, hospital backend monitoring, primary function, privacy protection, ease of use, and monitoring report frequency. A mixed logit model was used to estimate preference weights and WTP for each attribute, with subgroup analyses based on income, employment, gestational stage, parity, and other factors.\nResults: Among the 464 pregnant and postpartum women included in the final analysis (valid data rate: 96.67%), the mean age was 31.06 (SD 4.05) years. The majority of participants were of Han ethnicity (n=385, 82.97%), had a high level of education (n=422, 90.95%), resided in urban areas (n=446, 96.12%), and were employed (n=353, 76.08%). In the DCE, cost negatively impacted smart wristband preferences (β=−0.000257; =.01). Participants exhibited a strong preference for wristbands with fetal heart monitoring (β=1.275; <.001), high-level privacy protection (β=.541; <.001), and ease of use (β=.973; <.001). They were willing to pay ¥4967.45 (based on an exchange rate of US $1=CN ¥6.93) for fetal heart monitoring, ¥2975.17 for sleep monitoring, ¥2109.29 for high-level privacy protection, and ¥3437.09 for daily monitoring. Subgroup analyses indicated that preferences varied according to income, employment, pregnancy stage, parity, complications, and age.\nConclusions: The design of smart bracelets should be tailored to meet the diverse needs of pregnant and postpartum users. Key considerations include the integration of fetal heart and vital sign monitoring, the assurance of data privacy, the enhancement of usability, and the provision of cost-effective options. Understanding the specific preferences of different subgroups can guide the development of inclusive and responsive wearable health technologies for maternal care.",
-          "url": "https://www.jmir.org/2026/1/e55941",
+          "title": "African Athletics Championships 2026: South Africa's Aiden Smith wins shot put gold on Day 1, Rwanda's Emeline Imanizabayo claims shock 5,000m gold",
+          "description": "Three gold medals were handed out on Day 1 of the African Senior Athletics Championships in Accra, Ghana. Find out the highlights of the day's action.",
+          "url": "https://www.olympics.com/en/news/african-athletics-championships-2026-south-africa-aiden-smith-shot-put-gold-day-1",
           "source": {
-            "name": "Journal of Medical Internet Research (JMIR)"
+            "name": "olympics.com"
           },
-          "publishedAt": "2026-05-12T20:39:19Z",
-          "image": "https://asset.jmir.pub/assets/1205dee6dbf7d4505d99f550236ceb34.png",
+          "publishedAt": "2026-05-12T23:26:00Z",
+          "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/r2dcfzsn1d386azura6m",
           "language": "en"
         },
         {
-          "title": "Minor Footballers Fall Short Against Meath In Leinster Semi Final",
-          "description": "Minor Footballers Fall Short Against Meath In Leinster Semi Final | Get the latest Dublin GAA news, fixtures and match highlights. Stay connected with your club and county teams.",
-          "url": "https://www.dublingaa.ie/news/minor-footballers-fall-short-against-meath-in-leinster-semi-final",
+          "title": "Iran-Israel war highlights: Iran says U.S. must accept its peace plan or face ‘failure’",
+          "description": "Follow The Hindu's live blog for the latest updates on the Iran war on May 12, 2026, as Washington awaits Tehran’s response to a U.S. peace proposal",
+          "url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-12-2026/article70968122.ece",
           "source": {
-            "name": "dublingaa.ie"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-05-12T20:37:08Z",
-          "image": "https://a.storyblok.com/f/311724/1920x1280/2d5658b3d8/whatsapp-image-2026-05-12-at-19-28-25.jpeg",
+          "publishedAt": "2026-05-12T23:23:53Z",
+          "image": "https://th-i.thgim.com/public/incoming/vgx47i/article70969131.ece/alternates/LANDSCAPE_1200/2026-05-12T085351Z_804505313_RC2J7LAWLLBW_RTRMADP_3_IRAN-CRISIS-DAILY-LIFE.JPG",
           "language": "en"
         },
         {
-          "title": "How a Hantavirus Cruise Passenger Is Spending His Quarantine in Nebraska",
-          "description": "Jake Rosmarin, a travel influencer from Boston, is one of 15 passengers from the virus-stricken cruise ship who are being monitored at the National Quarantine Unit in Nebraska.",
-          "url": "https://www.nytimes.com/2026/05/12/us/hantavirus-quarantine-nebraska-travel-influencer.html",
+          "title": "NT government announces scope of child protection review, with retired NSW police commissioner and territory public servant to lead it",
+          "description": "The NT government has revealed the scope of a review into the territory's child protection system, and announced that it will be led by retired NSW police commissioner Karen Webb and long-standing territory public servant Greg Shanahan.",
+          "url": "https://www.abc.net.au/news/2026-05-13/nt-government-announces-who-will-lead-child-protection-review/106673282",
           "source": {
-            "name": "The New York Times"
+            "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-05-12T20:35:26Z",
-          "image": "https://static01.nyt.com/images/2026/05/12/us/12nat-hantavirus-passenger/12nat-hantavirus-passenger-facebookJumbo.jpg",
+          "publishedAt": "2026-05-12T23:23:29Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/7a6578f40fd77559be4f9d301cc10a93?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=174&width=862&height=485&imformat=generic",
           "language": "en"
         }
       ]
