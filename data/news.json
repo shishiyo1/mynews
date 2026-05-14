@@ -1,10 +1,109 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-14T17:02:23.788Z",
+  "updatedAt": "2026-05-14T19:47:36.742Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "横浜や名古屋でゲリラ豪雨 東北～九州は今夜遅くまで激しい雨 落雷や突風などに注意",
+          "description": "今日14日午後4時30分現在、東北から九州の所々で雨や雷雨となっていて、横浜周辺などに発達した雨雲がかかっています。今夜遅くにかけて落雷や突風、ひょう、激しい雨などに注意してください。",
+          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/05/14/38922.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-14T07:44:59Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/389/38922/main/20260514163258/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "西川貴教、LUNA SEA・真矢さんは頼もしい存在「いつかまた一緒に、きっと音楽ができる」",
+          "description": "ニュース｜　今年2月に56歳で亡くなったロックバンド・LUNA SEAのドラマー・真矢さんのお別れ会が14日、都内で行われた。　会に参列したアーティストの西川貴教が取材に対応。真矢さんについて「19、20歳からお互いバンドで切磋琢磨してきた仲なので、現世からいなくなっていることに信じられません」と悲しみを口にした。",
+          "url": "https://www.oricon.co.jp/news/2454563/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-05-14T07:36:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2455000/2454563/20260514_162455_p_o_29224024.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ホンダ、2026年3月期通期決算 売上収益は0.5％減の21兆7966億円だが、EV関連損失の1兆4536億円が影響して営業利益は4143億円の赤字に",
+          "description": "本田技研工業は5月14日、2026年3月期 通期（2025年4月1日～2026年3月31日）の決算内容を発表した。",
+          "url": "https://car.watch.impress.co.jp/docs/news/2108657.html",
+          "source": {
+            "name": "Car Watch"
+          },
+          "publishedAt": "2026-05-14T07:33:12Z",
+          "image": "https://car.watch.impress.co.jp/img/car/list/2108/657/001.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "AndroidとChromeOSを統合した「Aluminum OS」とは--現時点でわかっていること",
+          "description": "GoogleのAndroidとChromeOSが、1つのOSへと統合される。最初の搭載先は、新ノートPC「Googlebook」だ。正式名称はまだ決まっておらず、現時点では「Aluminum OS」という仮称で呼ばれている。ただし、製品として登場する頃には名前が変わる可能性が高い。",
+          "url": "https://japan.cnet.com/article/35247526/",
+          "source": {
+            "name": "CNET Japan"
+          },
+          "publishedAt": "2026-05-14T07:10:00Z",
+          "image": "https://japan.cnet.com/storage/2026/05/14/ee89cbda6bca66dae7764ccc7d3069e9/keyboard-zoom.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "「Chromebookは継続」 Googleが10年間のアップデートを改めて約束 「Googlebook」発表を受け",
+          "description": "米Googleは5月14日（現地時間）、Chromebookに対する継続的な取り組みと今後の展望を公開した。既存のChromebookに対し、今後10年間にわたる自動アップデートを継続して提供することを強調。あわせて、AI 機能を核とした次世代機「Googlebook」への移行を見据えつつ、組織における安定したデバイス運用を支える方針を示した。",
+          "url": "https://www.itmedia.co.jp/news/articles/2605/14/news109.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-05-14T06:55:00Z",
+          "image": "https://image.itmedia.co.jp/news/articles/2605/14/cover_news109.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "iPhone 18 Pro、RAM高騰の影響は控えめに？ だったらうれしい！",
+          "description": "Image: Apple 本当ならありがてえ！頑張れAppleゥ！世界中のガジェットに影響を及ぼしているRAM高騰。その影響で今までにさまざまな機器や周辺機器たちが値上げを続けています。このままだと今",
+          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260514_1778742477589808",
+          "source": {
+            "name": "au Webポータル"
+          },
+          "publishedAt": "2026-05-14T06:30:00Z",
+          "image": "https://portal.st-img.jp/thumb/e5cad8ca76c8e75f95208fadfb88e213_1778742477_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "iPhone 18 Pro、RAM高騰の影響は控えめに？ だったらうれしい！",
+          "description": "本当ならありがてえ！頑張れAppleゥ！世界中のガジェットに影響を及ぼしているRAM高騰。その影響で今までにさまざまな機器や周辺機器たちが値上げを続けています。このままだと今秋登場する新型iPhoneもひどいことに…。なんてガクブルしていたのですが、思わず応援したくなるニュース（まだ噂レベルです）が聞こえてきました。iPhone 18 Proはそこまで価格高騰しないのでは？みたいな説。GF証券の",
+          "url": "https://www.gizmodo.jp/2026/05/iphone-18-pro-price.html",
+          "source": {
+            "name": "ギズモード・ジャパン"
+          },
+          "publishedAt": "2026-05-14T06:30:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/05/13/20260513ipk00.jpg?w=1280&h=630&f=jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「りくりゅう」引退 次のエースは「ゆなすみ」ペアに 木原龍一さんは「近い将来、世界大会でメダルをとれる日は確実に来る」と激励 挫折を乗り越え、次なる目標「五輪でのメダル獲得」覚悟語る",
+          "description": "フィギュアスケート・ペアで札幌出身の長岡柚奈選手と森口澄士選手の「ゆなすみペア」。\n悔しさを乗り越えた2人は、すでに次の大舞台を見据えています。\n札幌出身の20歳、長岡柚奈選手。相棒は京都出身の森",
+          "url": "https://news.yahoo.co.jp/articles/586b6d6020842d0a05165657a73912f11e724ecb",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-14T06:23:12Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260514-22659508-hbcv-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "DJ KOOが経験した「脳卒中」のサイン。家族が異変に気づき…奇跡的に助かることに",
+          "description": "本日5月14日（木）の『林修の今知りたいでしょ！』は、2時間スペシャル。『未解決の女 警視庁文書捜査官 Season３』に出演中の沢村一樹をはじめ、岩田絵里奈、伊集院光、磯山さやかをゲスト学友に迎え、「芸能人・経験者が語る病気のサイン」をテーマに放送さ",
+          "url": "https://post.tv-asahi.co.jp/post-750685/",
+          "source": {
+            "name": "テレ朝POST"
+          },
+          "publishedAt": "2026-05-14T05:03:36Z",
+          "image": "https://post.tv-asahi.co.jp/wp-content/uploads/2026/05/hayashi0514_01_01.jpg",
+          "language": "ja"
+        },
         {
           "title": "14年ぶり＆史上2人目の70代イーグルで『73』 レギュラーラスト2試合の倉本昌弘「あしたはエージシュートを狙う」",
           "description": "＜関西オープン　初日◇14日◇茨木カンツリー倶楽部　東コース（大阪府）◇6734ヤード・パー70＞\n今季限りでレギュラーツアー引退を表明している70歳の永久シード選手、倉本昌弘が魅せた。525ヤー",
@@ -15,216 +114,117 @@
           "publishedAt": "2026-05-14T05:01:14Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260514-00000018-alba-000-3-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "米ドル/円は160円に再接近で再び大規模介入か。ベッセント・片山会談に驚きはなく、リスクオンで158円まで反発も、昨年9月の日米財務相共同声明はブラフでなさそう！｜西原宏一の「ヘッジファンドの思惑」",
-          "description": "米ドル/円は160円レベルで戻り売りを継続したい。ベッセント米財務長官と片山財務相の会談に驚きはなく、米国株高や米金利上昇とともに158円まで上昇し、介入警戒レベルまで反発した。ただ、昨年9月の日米財務相共同声明はブラフでないだろう。160円に再接近すれば再び大規模介入しそうだ。",
-          "url": "https://zai.diamond.jp/articles/-/488882",
-          "source": {
-            "name": "ザイFX！"
-          },
-          "publishedAt": "2026-05-14T04:49:00Z",
-          "image": "https://zai.diamond.jp/mwimgs/6/5/-/img_658e7c273cf028ae002c4c0f252c8530141946.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "iPhone 18 Proの背面カバー写真流出、新色「ダークチェリー」登場か",
-          "description": "iPhone 18 Pro の背面カメラカバー写真が流出し、新色ダークチェリーの採用が濃厚となった。トリプルカメラの配置は現行モデルを継承するが、可変絞り機構の搭載により厚みが増す可能性が高い。また前面はFace IDの改良により小型化が図られる見通しだ。",
-          "url": "https://gadget.phileweb.com/post-124435/",
-          "source": {
-            "name": "Gadget Gate"
-          },
-          "publishedAt": "2026-05-14T04:00:00Z",
-          "image": "https://gadget.phileweb.com/wp-content/uploads/2026/05/86b79658f92cbcba87a274d1326be67d.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "“運命の瞬間”は明日5月15日（金）14時〜 ドラマ生まれる日本代表W杯メンバー発表、過去7大会を振り返る",
-          "description": "5月15日（金）14時からFIFAワールドカップ2026に臨む日本代表メンバー26名が発表される。会見の模様はNHK総合が生中継。日本サッカー協会（JFA）の···",
-          "url": "https://www.soccer-king.jp/news/japan/national/20260514/2159089.html",
-          "source": {
-            "name": "サッカーキング"
-          },
-          "publishedAt": "2026-05-14T03:05:30Z",
-          "image": "https://www.soccer-king.jp/wp-content/uploads/2026/05/collage.png",
-          "language": "ja"
-        },
-        {
-          "title": "山本祐大に伝えた「ホークスの注意事項」。元同僚の嶺井＆上茶谷が語る新戦力の素顔",
-          "description": "DeNAからトレード加入した山本祐大はどんな人物なのか？かつての同僚、嶺井博希と上茶谷大河を直撃。嶺井が太鼓判を押したのは、グラウンド上で見せる“勝負師”の顔。上茶谷は長文のLINEで「ホークスの注意事項」を伝えたという。新戦力の人柄を、2人の言葉で徹底分析。",
-          "url": "https://taka.full-count.jp/2026/05/14/post1309490/",
-          "source": {
-            "name": "鷹フル"
-          },
-          "publishedAt": "2026-05-14T03:02:03Z",
-          "image": "https://taka.full-count.jp/wp-content/uploads/2026/05/14114704/20260514_kamityatani_minei_tg-1-560x373.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「3枚も買いました」 無印良品の“1990円パーカ”が大人気 「デザインがとにかく良い」「ダブルジップなのが最高です」",
-          "description": "無印良品で販売されている“1990円パーカ”が、軽快な着心地でおしゃれに着こなせると人気を集めています。　本記事ではそんな「婦人　スウェットフルジップパーカ」を紹介します。「婦人　スウェットフルジップパーカ」とは？画像：無印良品　無印良品の「婦人　スウェットフルジップパーカ」…",
-          "url": "https://nlab.itmedia.co.jp/research/articles/3840306/",
-          "source": {
-            "name": "ねとらぼ"
-          },
-          "publishedAt": "2026-05-14T02:20:00Z",
-          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/08/1755065869_a1262dcd9063a789c9eaf73288699406.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "シャープ、色の純度やバックライト制御が進化した量子ドット×ミニLEDアクオス「X9A」。AIキャラとの会話も",
-          "description": "シャープは、4K量子ドット/ミニLEDの液晶テレビ「AQUOS XLED」、X9Aシリーズ、X7Aシリーズ計7モデルを発表した。いずれも、新サービス「AQUOS AI」に対応する。サイズ展開は、X9Aが55型、65型、75型、X7Aが43型、50型、55型、65型。価格はオープン。市場想定価格は以下の通り。",
-          "url": "https://av.watch.impress.co.jp/docs/news/2108322.html",
-          "source": {
-            "name": "AV Watch"
-          },
-          "publishedAt": "2026-05-14T02:10:00Z",
-          "image": "https://av.watch.impress.co.jp/img/avw/list/2108/322/DSC06321.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "4K有機ELテレビ『AQUOS OLED』計8機種を発売",
-          "description": "シャープは、新サービス「AQUOS AI」に対応した4K有機ELテレビ『AQUOS OLED』の新製品＜S9A/S7Aライン＞計8機種を発売します。明るさと色彩の豊かさを両立した臨場感のある映像を実現しました。",
-          "url": "https://corporate.jp.sharp/news/260514-a.html",
-          "source": {
-            "name": "シャープ株式会社"
-          },
-          "publishedAt": "2026-05-14T02:04:03Z",
-          "image": "https://corporate.jp.sharp/system/files/2026-05/img_news20260514a_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「証拠出します」サバンナ高橋茂雄を謝罪に追い詰めた、中山功太の“余計なひと言”（FRIDAY）",
-          "description": "なぜここまでこじれたのか――。\nお笑いコンビ『サバンナ』高橋茂雄(50)が、R-1王者のピン芸人・中山功太(45)への過去の“いじめ”を認めて謝罪した。これを受けて、中山も“水に流す”ことにしたが",
-          "url": "https://news.yahoo.co.jp/articles/a2043a6f18530197fc47059c418e02014f6c613d",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-14T02:00:45Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260514-00000005-friday-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "サバンナ高橋 いじめ告発の中山功太に謝罪、八木は元芸人とも仲裁のなか…2人が完全無視した便乗告発の「元人気芸人」",
-          "description": "大騒動に発展したお笑い芸人・中山功太（45）による過去の”いじめ告発”。お笑いコンビ「サバンナ」の高橋茂雄（50）だと判明し、相方の八木真澄（51）の尽力もあって無事に解決したのだがーー。\n騒動の",
-          "url": "https://news.yahoo.co.jp/articles/d13d412147ad22f2477fa00ce66f7a17e2b9134e",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-14T02:00:06Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260514-00000016-jisin-000-5-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Who are the Japanese? Huge DNA discovery rewrites history",
-          "description": "Scientists analyzing the genomes of thousands of people across Japan discovered evidence for a previously overlooked third ancestral group, challenging the long-accepted “dual origins” theory. The newly identified ancestry appears linked to the ancient Emishi people of northeastern Japan. Researchers also uncovered inherited Neanderthal and Denisovan DNA connected to conditions like diabetes, heart disease, and cancer.",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260514003314.htm",
+          "title": "Court: Kenya Railways bosses in contempt over demolition linked to Wamatangi",
+          "description": "Court rules that te two knowingly disobeyed court orders barring interference with the disputed property",
+          "url": "https://www.the-star.co.ke/news/2026-05-14-court-railways-in-contempt-over-wamatangi-demolition",
           "source": {
-            "name": "ScienceDaily"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-05-14T05:02:17Z",
-          "image": "https://www.sciencedaily.com/images/1920/japanese-wood-mask.webp",
+          "publishedAt": "2026-05-14T07:45:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/05/33fa86ed-c5c5-43fa-b3ba-501984423ed5.jpg?1778746415357",
           "language": "en"
         },
         {
-          "title": "Women in Ireland are half as likely as men to cycle. A new report explores why",
-          "description": "Most women can cycle, but don’t feel safe doing so: ‘I think the majority of Irish drivers do not know what it’s like to be a cyclist in Ireland’",
-          "url": "https://www.irishtimes.com/ireland/dublin/2026/05/14/aggressive-car-culture-puts-women-off-cycling/",
+          "title": "PSX gains modest momentum in early trading",
+          "description": "KSE-100 climbs 254 points to near the 167,700 level",
+          "url": "https://tribune.com.pk/story/2608047/psx-gains-modest-momentum-in-early-trading",
           "source": {
-            "name": "The Irish Times"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-05-14T05:02:04Z",
-          "image": "https://www.irishtimes.com/resizer/v2/473GATSSF5DF5ODK3XMCC2FCWU.jpg?smart=true&auth=30ae90be0231174d663224b20b5f221288e8e569f1e6a47debbf146aa4884d49&width=1200&height=630",
+          "publishedAt": "2026-05-14T07:43:30Z",
+          "image": "https://i.tribune.com.pk/media/images/aaa-canva-1200x900-171768934324-4/aaa-canva-1200x900-171768934324-4-640x480.webp",
           "language": "en"
         },
         {
-          "title": "'Dragon Ball Z' Rep Yasuo Matsuo Launches IP Bay Studio",
-          "description": "Yasuo Matsuo, who brought 'Dragon Ball Z' and 'Sailor Moon' to Western audiences, launches IP Bay at the Cannes Film Market.",
-          "url": "https://variety.com/2026/film/markets-festivals/dragon-ball-z-yasuo-matsuo-ip-bay-1236747229/",
+          "title": "Gwadar University VC, Pro VC among four 'abducted'",
+          "description": "Gwadar University VC, Pro VC and two others were reportedly abducted while traveling to Quetta. Authorities have launched a search operation to trace the missing officials",
+          "url": "https://dunyanews.tv/en/Pakistan/951514-gwadar-university-vc-pro-vc-among-four-abducted-",
           "source": {
-            "name": "Variety"
+            "name": "Dunya News"
           },
-          "publishedAt": "2026-05-14T05:02:00Z",
-          "image": "https://variety.com/wp-content/uploads/2026/05/Yasuo-Matsuo-Jun-Matsuo-Frankie-Seratch.jpg?w=1000&h=563&crop=1",
+          "publishedAt": "2026-05-14T07:41:15Z",
+          "image": "https://img.dunyanews.tv/news/2026/May/05-14-26/news_big_images/951514_64661590.jpg",
           "language": "en"
         },
         {
-          "title": "'Nagi Notes' Director Koji Fukada Reunites With MK2 Films on 'Roca'",
-          "description": "MK2 Films has boarded 'Roca,' the new feature from Japanese film Koji Fukada, whose film 'Nagi Note' premieres in competition at this year's Cannes.",
-          "url": "https://variety.com/2026/film/global/nagi-notes-koji-fukada-mk2-films-manga-adaptation-roca-1236747373/",
+          "title": "Premier League title race: Manchester City keeps pressure on Arsenal with win over Crystal Palace",
+          "description": "Manchester City pressures Arsenal in the title race with a decisive 3-0 win over Crystal Palace at the Etihad Stadium.",
+          "url": "https://www.thehindu.com/sport/football/premier-league-title-race-manchester-city-keeps-pressure-on-arsenal-with-win-over-crystal-palace/article70977502.ece",
           "source": {
-            "name": "Variety"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-05-14T05:01:00Z",
-          "image": "https://variety.com/wp-content/uploads/2026/05/NagiNotes_2026-Nagi-Notes-Partners_Survivance_Momo-Film-Co.jpg?w=1000&h=563&crop=1",
+          "publishedAt": "2026-05-14T07:41:11Z",
+          "image": "https://th-i.thgim.com/public/incoming/k9oh0n/article70977508.ece/alternates/LANDSCAPE_1200/2026-05-13T194158Z_1797784306_UP1EM5D1IPX5U_RTRMADP_3_SOCCER-ENGLAND-MCI-CRY.JPG",
           "language": "en"
         },
         {
-          "title": "No prosecution over toppled Northland pylon",
-          "description": "National grid operator Transpower could have been fined up to $2 million over the toppling of a pylon in 2024.",
-          "url": "https://www.rnz.co.nz/news/regional/595240/no-prosecution-over-toppled-northland-pylon",
+          "title": "New music, more world records and a winning streak continued: Mondo Duplantis heads into 2026 Diamond League season flying high",
+          "description": "The two-time and reigning Olympic champion in pole vault from Sweden hasn't lost at any competition since August 2023. He also released his fifth music single, \"Location\", in April.",
+          "url": "https://www.olympics.com/en/news/new-music-world-records-winning-streak-mondo-duplantis-2026-diamond-league",
           "source": {
-            "name": "RNZ"
+            "name": "olympics.com"
           },
-          "publishedAt": "2026-05-14T05:00:52Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--22e_V3b3--/t_tohu-badge-facebook/v1718850783/4KOABKZ_448793977_860305532782492_6733984238067629393_ntt_jpg?_a=BACCd2AD",
+          "publishedAt": "2026-05-14T07:41:00Z",
+          "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/mvkrvog9ysmzocmud01m",
           "language": "en"
         },
         {
-          "title": "Eurovision: prominent bars join TV boycott as Jewish Council criticises RTÉ",
-          "description": "PantiBar owner says decision to stop screening contest is validated by Israel’s attempt to use it as ‘propaganda tool’",
-          "url": "https://www.irishtimes.com/culture/music/2026/05/15/eurovision-prominent-bars-join-tv-boycott-as-jewish-council-criticises-rte/",
+          "title": "Lionel Messi tallies twice early, Miami rallies on Cincinnati blunders late",
+          "description": "Lionel Messi scored his 10th and 11th goals and had an assist, German Berterame scored the go-ahead goal in the 84th minute and Inter Miami took advantage of two defensive blunders in a 5-3 victory ​over host Cincinnati on Wednesday night. Mateo Silve...",
+          "url": "https://wtaq.com/2026/05/14/lionel-messi-tallies-twice-early-miami-rallies-on-cincinnati-blunders-late/",
           "source": {
-            "name": "The Irish Times"
+            "name": "WTAQ"
           },
-          "publishedAt": "2026-05-14T05:00:33Z",
-          "image": "https://www.irishtimes.com/resizer/v2/AVKY3OTMOFGPZPCRLZSWCBAUIY.jpg?smart=true&auth=2a8dab71e74c8bcffed771e2f687f77e270ecb4131ee0087c735850a81aa1613&width=1200&height=630",
+          "publishedAt": "2026-05-14T07:40:17Z",
+          "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-05/14/2026-05-14T063301Z_1_LYNXMPEM4D0FA_RTROPTP_3_SOCCER-USA-CIN-MIA.JPG",
           "language": "en"
         },
         {
-          "title": "Europe’s household energy prices surge after Iran war: Which capitals were hit hardest?",
-          "description": "Household gas prices rose across EU capitals between early February and early April, reflecting the impact of Middle East tensions. However, electricity prices fell on average, highlighting diverging trends in Europe’s energy markets.",
-          "url": "https://www.euronews.com/business/2026/05/14/europes-household-energy-prices-surge-after-iran-war-which-capitals-were-hit-hardest",
+          "title": "Pakistan, Qatar reaffirm commitment to stronger energy cooperation",
+          "description": "Pakistan and Qatar reaffirmed strong energy ties, ensuring stable LNG supplies. Meetings highlighted timely shipments, strategic storage, and cooperation for national energy security.",
+          "url": "https://dunyanews.tv/en/Business/951519-pakistan-qatar-reaffirm-commitment-to-stronger-energy-cooperation",
           "source": {
-            "name": "Euronews.com"
+            "name": "Dunya News"
           },
-          "publishedAt": "2026-05-14T05:00:22Z",
-          "image": "https://images.euronews.com/articles/stories/09/75/56/50/1200x675_cmsv2_190db908-019d-54fb-aeb3-68596f1600a7-9755650.jpg",
+          "publishedAt": "2026-05-14T07:40:12Z",
+          "image": "https://img.dunyanews.tv/news/2026/May/05-14-26/news_big_images/951519_60038050.jpg",
           "language": "en"
         },
         {
-          "title": "WATCH: Actress becomes 'sangoma'",
-          "description": "Pietermaritzburg-born actress Luyanda Zuma says her new sangoma role on Isitha: The Enemy mirrors her self-acceptance journey.",
-          "url": "https://www.snl24.com/dailysun/celebs/miss-sa-runner-up-lands-sangoma-role-on-isitha-the-enemy-20260514",
+          "title": "South Africa sets launch date for HIV prevention drug Lenacapavir rollout",
+          "description": "The Health Department will deliver Lenacapavir stocks to depots and 360 health facilities in the high-burden districts...",
+          "url": "https://www.bizcommunity.com/article/south-africa-sets-launch-date-for-hiv-prevention-drug-lenacapavir-rollout-956224a",
           "source": {
-            "name": "Daily Sun"
+            "name": "Bizcommunity"
           },
-          "publishedAt": "2026-05-14T05:00:10Z",
-          "image": "https://cdn.24.co.za/files/Cms/General/d/13102/3e430c55453a4bb4985fd3999f786bc3.jpg",
+          "publishedAt": "2026-05-14T07:40:07Z",
+          "image": "https://biz-file.com/c/2605/810976-1200x624.jpg?5",
           "language": "en"
         },
         {
-          "title": "Live Updates: Latest from Israel, Iran, and Middle East",
-          "description": "UAE Foreign Ministry denies Netanyahu visit took place • Third round of Israel-Lebanon talks set for Thursday • Xi warns Taiwan issue can push ties with US to 'dangerous place'",
-          "url": "https://www.jpost.com/middle-east/iran-news/2026-05-14/live-updates-896134",
+          "title": "UK health secretary resigns, setting up a Labour leadership challenge to Keir Starmer",
+          "description": "Efforts to unseat British Prime Minister Keir Starmer have erupted into open rebellion. Health Secretary Wes Streeting resigned from the Cabinet on Thursday, signaling a potential leadership challenge.",
+          "url": "https://apnews.com/article/britain-politics-starmer-streeting-rayner-6bd359148664c9478ed01b36ebb6e37d",
           "source": {
-            "name": "The Jerusalem Post"
+            "name": "AP News"
           },
-          "publishedAt": "2026-05-14T05:00:05Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/720932",
+          "publishedAt": "2026-05-14T07:40:00Z",
+          "image": "https://dims.apnews.com/dims4/default/b814ca2/2147483647/strip/true/crop/2855x1902+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6b%2F98%2Fcb70e96924eb954d17ff0fc6f7fe%2F9936247cea6f4df6b35f5c9022f98216",
           "language": "en"
         },
         {
-          "title": "E-gate access to be expanded at UK airports to include younger children",
-          "description": "Children aged eight and nine returning to the UK from abroad will be able to use e-gates from 8 July.",
-          "url": "https://www.bbc.co.uk/news/articles/c89300l2934o",
+          "title": "Acer Malaysia announces latest refresh of Predator gaming line",
+          "description": "KUALA LUMPUR, May 14 — Acer Malaysia has launched a fresh wave of gaming hardware, unveiling new laptops, des...",
+          "url": "https://malaysia.news.yahoo.com/acer-malaysia-announces-latest-refresh-073939110.html",
           "source": {
-            "name": "BBC"
+            "name": "Yahoo News Malaysia"
           },
-          "publishedAt": "2026-05-14T05:00:03Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/47a9/live/4afd8a30-4f1a-11f1-b979-e3f5ac67b664.jpg",
+          "publishedAt": "2026-05-14T07:39:39Z",
+          "image": "https://s.yimg.com/os/en/mmail.com.my/5444089bcb6e132c495b91ecf4d2e281",
           "language": "en"
         }
       ]
