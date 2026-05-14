@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-14T11:13:40.973Z",
+  "updatedAt": "2026-05-14T14:17:12.291Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "FX/為替「ドル/円今日の予想」 外為どっとコム トゥデイ 2026年5月14日号",
-          "description": "昨日のドル/円は終値ベースで約0.2％上昇。米国とイランの停戦交渉が難航するとの見方から、「有事のドル買い」が入りやすい地合いが続いた。NY時間には、イランが米国の停戦案を正式に拒否したと伝わると、159.85円前後まで上昇した。その後、トランプ米大統領が「イランのエネルギー施設への攻撃開始を4月6日午後8時まで延期する」と表明したことで159.30円台へと急落する場面も見られたが、すぐに買い戻された。イラン情勢の先行きを巡る不透明感から、ドル/円は底堅い値動きが続いている。週末を控え、有事の際の対応として流動性の高いドルを確保しておきたいとの思惑が、ドルを支える一因となろう。ドル/円は市場が「重要ポイント」として意識する160.00円手前で伸び悩んでいるものの、イラン情勢に関する悪材料が160円突破のきっかけとなる可能性がある。",
-          "url": "https://www.gaitame.com/media/entry/2026/05/14/081134",
+          "title": "シャープ、色の純度やバックライト制御が進化した量子ドット×ミニLEDアクオス「X9A」。AIキャラとの会話も",
+          "description": "シャープは、4K量子ドット/ミニLEDの液晶テレビ「AQUOS XLED」、X9Aシリーズ、X7Aシリーズ計7モデルを発表した。いずれも、新サービス「AQUOS AI」に対応する。サイズ展開は、X9Aが55型、65型、75型、X7Aが43型、50型、55型、65型。価格はオープン。市場想定価格は以下の通り。",
+          "url": "https://av.watch.impress.co.jp/docs/news/2108322.html",
           "source": {
-            "name": "外為どっとコム"
+            "name": "AV Watch"
           },
-          "publishedAt": "2026-05-13T23:12:54Z",
-          "image": "https://cdn.image.st-hatena.com/image/scale/5bf81f327511f5bef32b0f52914080b84ee7a448/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgaitamesk%2F20250327%2F20250327201949.jpg",
+          "publishedAt": "2026-05-14T02:10:00Z",
+          "image": "https://av.watch.impress.co.jp/img/avw/list/2108/322/DSC06321.jpg",
           "language": "ja"
         },
         {
-          "title": "１４日の東京株式市場見通し＝しっかりした展開が続きそう 速報",
-          "description": "予想レンジ：６万２９００円－６万３７００円（１３日終値６万３２７２円１１銭）　１４日の東京株式は、しっかりした展開が続きそう。１３日の米国株式市場で、ナスダック総合指数が終値ベースの最高値を更新した・・・",
-          "url": "https://kabushiki.jp/news/749595",
+          "title": "4K有機ELテレビ『AQUOS OLED』計8機種を発売",
+          "description": "シャープは、新サービス「AQUOS AI」に対応した4K有機ELテレビ『AQUOS OLED』の新製品＜S9A/S7Aライン＞計8機種を発売します。明るさと色彩の豊かさを両立した臨場感のある映像を実現しました。",
+          "url": "https://corporate.jp.sharp/news/260514-a.html",
           "source": {
-            "name": "kabushiki.jp"
+            "name": "シャープ株式会社"
           },
-          "publishedAt": "2026-05-13T22:47:00Z",
-          "image": "https://kabushiki.jp/ogp.png",
+          "publishedAt": "2026-05-14T02:04:03Z",
+          "image": "https://corporate.jp.sharp/system/files/2026-05/img_news20260514a_0.jpg",
           "language": "ja"
         },
         {
-          "title": "大谷翔平、投手専念でジャイアンツ戦 ３勝目なるか／速報します",
-          "description": "ドジャース大谷翔平投手は投手専念で今季7試合目の登板。今季はここまで6試合37イニングを投げ2勝2敗、防御率0・97。6イニングを投げれば規定投球回に到達する… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/baseball/mlb/news/202605140000053.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-05-13T22:35:15Z",
-          "image": "https://www.nikkansports.com/mod2015/img/common/sns_nikkansports_morning_sports.png",
-          "language": "ja"
-        },
-        {
-          "title": "Amazon、ノート機能搭載の電子書籍リーダー「Kindle Scribe」を刷新。初のカラー対応モデルが登場",
-          "description": "Amazonは、ノート機能搭載の電子書籍リーダー「Kindle Scribe」シリーズの新モデルを発売する。出荷開始は6月10日の予定で、「Kindle Scribe」「Kindle Scribeフロントライト非搭載モデル」に加え、同シリーズで初めてカラー表示・書き込みに対応する「Kindle Scribe Colorsoft」の3製品がラインアップされている。",
-          "url": "https://internet.watch.impress.co.jp/docs/news/2108408.html",
-          "source": {
-            "name": "INTERNET Watch"
-          },
-          "publishedAt": "2026-05-13T22:30:00Z",
-          "image": "https://internet.watch.impress.co.jp/img/iw/list/2108/408/1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "覇権争う米中、トランプ氏と習近平氏は過去6度会談…雰囲気は対決から融和へ 「G2」も",
-          "description": "14日、北京で行われるトランプ米大統領と中国の習近平国家主席の首脳会談は、2017年春にトランプ氏の私邸に習氏を招いて実施された初会談から数えて7回目。トランプ氏の態度は、米中の覇権争いが激化する中で始まった1期目の対決姿勢と比べて、2期…",
-          "url": "https://www.sankei.com/article/20260514-3HPDAFVG4JDDLKXJSNXAFU6Q7M/",
-          "source": {
-            "name": "産経ニュース"
-          },
-          "publishedAt": "2026-05-13T22:19:56Z",
-          "image": "https://www.sankei.com/resizer/v2/V5VCISSHYJIK7HS6NPQGRQQ4FI.jpg?auth=9cc04a1fcebec6511ec4d49a75df7daf17340e87d6c80e63a88a1c70431b9c16&quality=50&smart=true&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "大谷翔平、“一刀流”投手専念で出場 あす休養日で異例の2試合連続打者封印 サイ・ヤング賞左腕と投げ合い 代役1番ベッツ DHテオ 対左腕打線 両軍ラインアップ発表",
-          "description": "「ドジャース―ジャイアンツ」(13日、ロサンゼルス)\n　両チームがラインアップを発表。大谷翔平投手が投手専念で先発のマウンドに立つ。球団が肉体的負担を軽減させるための方針に従い、今季4度目の“一",
-          "url": "https://news.yahoo.co.jp/articles/7e267659036f9dfa1bf4bff423491dd3bb659701",
+          "title": "「証拠出します」サバンナ高橋茂雄を謝罪に追い詰めた、中山功太の“余計なひと言”（FRIDAY）",
+          "description": "なぜここまでこじれたのか――。\nお笑いコンビ『サバンナ』高橋茂雄(50)が、R-1王者のピン芸人・中山功太(45)への過去の“いじめ”を認めて謝罪した。これを受けて、中山も“水に流す”ことにしたが",
+          "url": "https://news.yahoo.co.jp/articles/a2043a6f18530197fc47059c418e02014f6c613d",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-05-13T22:04:24Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260514-00010000-dal-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-05-14T02:00:45Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260514-00000005-friday-000-1-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "Microsoft、5月のセキュリティ更新を公開 認証不要の深刻な脆弱性4件に警戒：セキュリティニュースアラート",
-          "description": "Microsoftは、WindowsやOffice、Azure関連の5月分の修正を発表した。CVSS9.8以上の重大欠陥4件を含み、DNSクライアントやNetlogonなどで遠隔攻撃の恐れがあるとして、迅速な適用を呼びかけた。",
-          "url": "https://www.itmedia.co.jp/enterprise/articles/2605/14/news037.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-05-13T22:00:00Z",
-          "image": "https://image.itmedia.co.jp/enterprise/articles/2605/14/cover_news037.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "気温上昇 30℃に迫る所も 東北～九州の所々で雷雨 今日5月14日(木)の天気",
-          "description": "今日14日(木)も、日差しの力で気温がグンと上がってきます。名古屋をはじめ、30℃に迫る所もあるでしょう。暑さ対策を心掛けてください。昼前後からは、東北から九州にかけて、雨雲や雷雲が発達しやすくなるでしょう。急な強雨や雷雨に注意が必要です。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/05/14/38913.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-05-13T21:38:12Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/389/38913/main/20260514061539/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "聴く本「オーディオブック」は「読書」と同じくらい良いものか？",
-          "description": "「本を読みたい気持ちはあるけれど、時間がない」という人は少なくありません。\nそこで活用されているのが「オーディオブック」です。\n通勤中に耳で小説を聴く人もいれば、ランニング中に歴史本を聴く人もいます。\n料理をしながら自己啓発本を聴くなど、“耳の読書”は今や珍しいものではなくなりました。\nしかしここでしばしば議論になるのが、「オーディオブックは本当に“読書”と言えるのか？」という問題です。\nこの疑問について、米国のコーネル大学（Cornell University）にあるThe Bronfenbrenner Center for Translational Researchが、複数の脳科学・教…",
-          "url": "https://nazology.kusuguru.co.jp/archives/195105",
-          "source": {
-            "name": "ナゾロジー"
-          },
-          "publishedAt": "2026-05-13T21:33:32Z",
-          "image": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/05/c538c5dfc26391510ac3f8e75f3d97c4.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "デンソー「ローム買収断念」で露呈した…パワー半導体“日本勢”が勝てない苦しい理由（ビジネス＋IT）",
-          "description": "半導体大手のロームに対して買収提案を行っていたデンソーが、提案を取り下げることを発表した。ロームと東芝デバイス＆ストレージ・三菱電機との事業統合も取りざたされ、日本のパワー半導体業界再編の端緒にな",
-          "url": "https://news.yahoo.co.jp/articles/83d48a7e5eaabfa527bb133f640c22280c22c62d",
+          "title": "サバンナ高橋 いじめ告発の中山功太に謝罪、八木は元芸人とも仲裁のなか…2人が完全無視した便乗告発の「元人気芸人」",
+          "description": "大騒動に発展したお笑い芸人・中山功太（45）による過去の”いじめ告発”。お笑いコンビ「サバンナ」の高橋茂雄（50）だと判明し、相方の八木真澄（51）の尽力もあって無事に解決したのだがーー。\n騒動の",
+          "url": "https://news.yahoo.co.jp/articles/d13d412147ad22f2477fa00ce66f7a17e2b9134e",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-05-13T21:30:06Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260514-00185292-biz_plus-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-05-14T02:00:06Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260514-00000016-jisin-000-5-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "iOS 27でSiriがチャットボットに生まれ変わる？",
+          "description": "本当に今度こそ？Apple（アップル）がAIが強化されたSiriのリリースを宣言してからほぼ2年が経ちますが、どうやらやっと実現しそうです。Bloombergのマーク・ガーマン記者によると、6月開催のApple開発者向けイベントWWDC 2026では、重要な変更がいくつか予定されていて、そのほとんどがSiriをChatGPTのようなものへと進化させる点についてなんだそうです。24時間働いてくれる",
+          "url": "https://www.gizmodo.jp/2026/05/siri-total-chatbot-makeover-is-imminent-with-ios-27.html",
+          "source": {
+            "name": "ギズモード・ジャパン"
+          },
+          "publishedAt": "2026-05-14T02:00:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/05/13/A1A9528-960x640.jpg?w=1280&h=630&f=jpg",
+          "language": "ja"
+        },
+        {
+          "title": "iOS 27でSiriがチャットボットに生まれ変わる？",
+          "description": "Photo:Raymond Wong / Gizmodo US 本当に今度こそ？Apple（アップル）がAIが強化されたSiriのリリースを宣言してからほぼ2年が経ちますが、どうやらやっと実現しそうで",
+          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260514_1778727202459904",
+          "source": {
+            "name": "au Webポータル"
+          },
+          "publishedAt": "2026-05-14T02:00:00Z",
+          "image": "https://portal.st-img.jp/thumb/6b70669e9ab2818cb8ac6ecc486c207f_1778727202_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "前田大然が4試合連続ゴール! セルティックは劇的白星で最終節の“優勝決定戦”へ",
+          "description": "[5.13 スコットランド・プレミアリーグ第37節 マザーウェル 2-3 セルティック]　セルティックの日本代表FW前田大然が13日、敵地でのスコットランド・プレミアリーグ第37節マザーウェル戦(○3-2)で、今季公式戦15ゴ...",
+          "url": "https://web.gekisaka.jp/news/world/detail/?451327-451327-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-05-14T00:41:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/452000/451327/news_451327_1.jpg?time=20260514094503",
+          "language": "ja"
+        },
+        {
+          "title": "大企業向けブラウザ自動操作ツール「Cowork」、レシート読取からスプレッドシート転記まで自動化を強化",
+          "description": "株式会社ナレッジセンスのプレスリリース（2026年5月14日 09時00分）大企業向けブラウザ自動操作ツール「Cowork」、レシート読取からスプレッドシート転記まで自動化を強化",
+          "url": "https://prtimes.jp/main/html/rd/p/000000311.000073671.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-05-14T00:00:02Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/73671/311/73671-311-7773b44d9daedc4ac4d4dd2cd1bdccc5-1659x948.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "今、密かに起きている｢Windows離れ｣。“思ったより快適な移住先”とは？",
+          "description": "2026年1月24日の記事を編集して再掲載しています。 最近、PCを使っていて｢これ、本当に自分の持ち物なのかな？｣と感じることはありませんか？勝手に始まるアップデート、頼んでもいないのに表示される広告と強制されるAI機能。ネット上では今、こうしたWindows 11の振る舞いに｢もう付き合ってられない｣と見切りをつけ、Linuxへ乗り換える人がちらほら出てきてい",
+          "url": "https://www.gizmodo.jp/2026/05/some_windows_users_decide_to_change_linux-9zt.html",
+          "source": {
+            "name": "ギズモード・ジャパン"
+          },
+          "publishedAt": "2026-05-13T23:30:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/01/20/shutterstock_2150257027_.jpg?w=1280&h=630&f=jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ニデック不正、根幹の「品質」でも…ＯＢ「幹部から『この検査工程は費用の無駄だ』と言われることもあった」（読売新聞オンライン）",
+          "description": "モーター大手のニデックによる不正行為は、会計にとどまらず、事業の根幹に関わる製品の品質にまで及ぶ疑いがあることが判明した。不正の発覚後、東京証券取引所から「特別注意銘柄」に指定され、内部管理体制の",
+          "url": "https://news.yahoo.co.jp/articles/60a0a89badbe0dc5669e96c63a04538ea7512aea",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-13T23:14:49Z",
+          "image": "https://s.yimg.jp/images/news-web/versions/20260513-34a96b5/all/images/ogp_default.png",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Ring Brings Its Retinal 2K Resolution to Spotlight and Floodlight Cameras",
-          "description": "Ring's latest upgrades complete its new generation of higher-resolution cameras, now available with bright LED lights.",
-          "url": "https://www.cnet.com/home/security/ring-retinal-2k-resolution-spotlight-floodlight-cameras/",
+          "title": "Next-generation cancer therapy shows early promise as treatment candidate for glioblastoma",
+          "description": "A next-generation cancer therapy being developed at McMaster University has shown early promise as a treatment candidate for glioblastoma, the most aggressive and most common type of primary brain cancer in adults.",
+          "url": "https://www.news-medical.net/news/20260513/Next-generation-cancer-therapy-shows-early-promise-as-treatment-candidate-for-glioblastoma.aspx",
           "source": {
-            "name": "CNET"
+            "name": "News-Medical"
           },
-          "publishedAt": "2026-05-13T23:13:00Z",
-          "image": "https://www.cnet.com/a/img/resize/e17cd7d67487c68f20c78228cdc87c82cc7ea385/hub/2026/05/13/4bdf3779-95c9-419a-bcd3-3eca44888366/ring-2k-floodlight-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2026-05-14T02:17:00Z",
+          "image": "https://www.news-medical.net/image-handler/picture/2018/7/Brain_cancer%2c_3D_illustration_showing_presence_of_tumor_inside_brain_-_Kateryna_Kon_M1_6704c47fefe0477dbe1cd3351402914f-620x480.jpg",
           "language": "en"
         },
         {
-          "title": "'I was there' - AY Makun recounts heartbreaking final moments with late actor Alexx Ekubo",
-          "description": "Nigerian comedian and actor Ayodeji Richard Makun, popularly known as AY the Comedian, has joined the wave of tributes pouring in for Nollywood star Alexx Ekubo, who passed away after an illness.",
-          "url": "https://www.ghanaweb.com/GhanaHomePage/entertainment/I-was-there-AY-Makun-recounts-heartbreaking-final-moments-with-late-actor-Alexx-Ekubo-2034440",
+          "title": "Scientists discover the Southern Ocean is “sweating” more as climate change intensifies",
+          "description": "A remote island between Australia and Antarctica is showing signs of a dramatic climate transformation. Scientists found storms over Macquarie Island now unleash much heavier rainfall than they did decades ago, soaking ecosystems and altering fragile vegetation. The discovery hints that the Southern Ocean — one of Earth’s biggest climate regulators — may be changing faster than expected. Researchers say the ocean could now be cooling itself by “sweating” more moisture into the atmosphere.",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260512202337.htm",
           "source": {
-            "name": "GhanaWeb"
+            "name": "ScienceDaily"
           },
-          "publishedAt": "2026-05-13T23:12:52Z",
-          "image": "https://cdn.ghanaweb.com/imagelib/pics/382/38269924.jpg",
+          "publishedAt": "2026-05-14T02:16:35Z",
+          "image": "https://www.sciencedaily.com/images/1920/southern-ocean-rain-stormy-seas.webp",
           "language": "en"
         },
         {
-          "title": "Cavaliers, Pistons chase crucial Game 5 win",
-          "description": "Enjoy highlights and observations from Cavaliers-Pistons Game 5 with the NBA.com live blog, as the Eastern Conference Semifinals continue on ESPN.",
-          "url": "https://www.nba.com/news/live-updates-2026-nba-playoffs-eastern-conference-semifinals-cavaliers-pistons-chase-crucial-game-5-win",
+          "title": "Richmond's Round 16-22 AFL fixture revealed",
+          "description": "Three Saturday night games headline Richmond's Round 16-22 fixture drop.",
+          "url": "https://www.richmondfc.com.au/news/2020706/richmonds-round-16-22-afl-fixture-revealed",
           "source": {
-            "name": "NBA"
+            "name": "richmondfc.com.au"
           },
-          "publishedAt": "2026-05-13T23:11:24Z",
-          "image": "https://cdn.nba.com/manage/2026/05/Cade_Cunningham_1920x1080.jpg",
+          "publishedAt": "2026-05-14T02:15:07Z",
+          "image": "https://resources.richmondfc.com.au/aflc-rich/photo/2026/05/14/db368397-1ef9-45c3-8f1b-f37880be04dd/Web-49-.png",
           "language": "en"
         },
         {
-          "title": "Rivals season 2: Behind the scenes with Danny Dyer, Aidan Turner and David Tennant",
-          "description": "Dyer, Aidan Turner and David Tennant share secrets on the set of the hit show as it returns.",
-          "url": "https://www.bbc.co.uk/news/articles/cx210glmx19o",
+          "title": "SingPost Centre to get revamp, with other post office properties under review",
+          "description": "SingPost shares tumbled after its results filing, with the stock down 5.3 per cent at 35.5 cents as at 10.44am. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/business/companies-markets/singpost-centre-to-get-revamp-with-other-post-office-properties-under-review",
           "source": {
-            "name": "BBC"
+            "name": "The Straits Times"
           },
-          "publishedAt": "2026-05-13T23:10:20Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a366/live/97ca2aa0-4ed7-11f1-88a2-2b60a3feece0.jpg",
+          "publishedAt": "2026-05-14T02:14:44Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/69f2bcf08d258b5ec06f2f28d1c54d38abf00a99a00f6e1423847a769e8c0b20",
           "language": "en"
         },
         {
-          "title": "Gold ETF prices revive as investors flock on higher import duties on yellow metal",
-          "description": "Gold ETF prices surge as investors respond to higher import duties, with analysts predicting continued price increases ahead.",
-          "url": "https://www.thehindu.com/business/markets/gold-etf-prices-revive-as-investors-flock-on-higher-import-duties-on-yellow-metal/article70975417.ece",
+          "title": "A Compelling Nigerian Epic Drama",
+          "description": "Read our Segilola movie review. This Nigerian epic drama tells the tale of a ruthless villain's rise and fall. A must-watch with a star-studded cast.",
+          "url": "https://punchng.com/segilola-tragedy-of-the-power-drunk/",
           "source": {
-            "name": "The Hindu"
+            "name": "Punch Newspapers"
           },
-          "publishedAt": "2026-05-13T23:10:00Z",
-          "image": "https://th-i.thgim.com/public/incoming/pv8hhr/article70976028.ece/alternates/LANDSCAPE_1200/iStock-184997181.jpg",
+          "publishedAt": "2026-05-14T02:14:41Z",
+          "image": "https://cdn.punchng.com/wp-content/uploads/2026/05/13213344/Segulola-529x630.jpg",
           "language": "en"
         },
         {
-          "title": "Body of second U.S. soldier who went missing amid training exercise recovered in Morocco",
-          "description": "The Army identified the soldier as Spc. Mariyah Collington.",
-          "url": "https://www.cbsnews.com/news/missing-solider-morocco-body-recovered-mariyah-collington/",
+          "title": "Disgraced barrister Norman O'Bryan spared jail after attempting to overcharge Banksia Securities clients",
+          "description": "Norman O'Bryan was one of Melbourne's top barristers — until he was caught trying to overcharge his clients in a scandal described as \"one of the darkest chapters\" in Victorian legal history.",
+          "url": "https://www.abc.net.au/news/2026-05-14/disgraced-victorian-barrister-norman-o-bryan-spared-jail/106675186",
           "source": {
-            "name": "CBS News"
+            "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-05-13T23:10:00Z",
-          "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/13/0757c096-ea40-4164-92b5-bbc5721b65b5/thumbnail/1200x630/466dfed94a64342e86f71825ba05975f/collington-landscape.png",
+          "publishedAt": "2026-05-14T02:14:38Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/e4184f3372869a48852ddacda0cf0b51?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=242&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "BREAKING: Boko Haram Faction Beheads Over Seven Captives After Failed Escape Attempt In Borno, Others Forced To Watch",
-          "description": "The victims were then executed after their escape attempt failed. Sources described that their bodies were later displayed in a cruel manner inside the camp as a warning to others.",
-          "url": "https://saharareporters.com/2026/05/13/breaking-boko-haram-faction-beheads-over-seven-captives-after-failed-escape-attempt",
+          "title": "Adam Silver Explains New NBA Draft Lottery Format, Says League Has Authority to Change Odds",
+          "description": "Amid a push to eliminate tanking, NBA commissioner Adam Silver and league officials are eyeing a format that could punish teams for intentionally losing.",
+          "url": "https://bleacherreport.com/articles/25427657-adam-silver-explains-new-nba-draft-lottery-format-says-league-has-authority-change-odds",
           "source": {
-            "name": "Sahara Reporters"
+            "name": "Bleacher Report"
           },
-          "publishedAt": "2026-05-13T23:09:55Z",
-          "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
+          "publishedAt": "2026-05-14T02:14:09Z",
+          "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-05/2267824159_large_cropped.jpg?w=3800&h=2000",
           "language": "en"
         },
         {
-          "title": "Why big tech is betting on cute mascots",
-          "description": "The likes of Apple, Microsoft and Google are all putting cartoon characters centre stage.",
-          "url": "https://www.bbc.co.uk/news/articles/c99l1zzp8xzo",
+          "title": "Firefighters battle fourth-alarm blaze in Quezon City",
+          "description": "A fire that struck a residential area at East Riverside Street, Barangay Paltok, Quezon City, on Thursday morning, May 14, was raised to fourth alarm as...",
+          "url": "https://mb.com.ph/2026/05/14/qc-residential-fire-reaches-4th-alarm",
           "source": {
-            "name": "BBC"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-05-13T23:08:37Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7cd8/live/30470f70-4d28-11f1-a2b1-9f4096205c97.png",
+          "publishedAt": "2026-05-14T02:13:58Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/14/101080.webp",
           "language": "en"
         },
         {
-          "title": "Palaszczuk’s partner has first court hearing for rape case",
-          "description": "Prominent surgeon Dr Reza Adib, the partner of former Queensland premier Annastacia Palaszczuk, is facing allegations of rape and sexual assault.",
-          "url": "https://www.brisbanetimes.com.au/national/queensland/palaszczuk-s-partner-has-first-court-hearing-for-rape-case-20260506-p5zu6z.html",
+          "title": "Professor Helena Teede leads global push to rename PCOS",
+          "description": "Polycystic ovary syndrome (PCOS) has been officially renamed polyendocrine metabolic ovarian syndrome (PMOS).",
+          "url": "https://womensagenda.com.au/life/australian-researcher-professor-helena-teede-behind-global-push-to-rename-pcos/",
           "source": {
-            "name": "Brisbane Times"
+            "name": "Women's Agenda"
           },
-          "publishedAt": "2026-05-13T23:08:34Z",
-          "image": "https://static.ffx.io/images/$zoom_1.3535511982570805%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_143%2C$y_213/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/9f1c37f605bf26c1e853687bf1b175f753624321c0828bb26d00413df7e57584",
+          "publishedAt": "2026-05-14T02:13:52Z",
+          "image": "https://womensagenda.com.au/wp-content/uploads/2026/05/helena-teede.jpg",
           "language": "en"
         },
         {
-          "title": "Trump’s bizarre behaviour often gets a pass. That’s starting to change",
-          "description": "Analysis: The week isn't over. But it's already been a humdinger for the US president.",
-          "url": "https://www.rnz.co.nz/news/world/595185/trump-s-bizarre-behaviour-often-gets-a-pass-that-s-starting-to-change",
+          "title": "Professor Helena Teede leads global push to rename PCOS",
+          "description": "Polycystic ovary syndrome (PCOS) has been officially renamed polyendocrine metabolic ovarian syndrome (PMOS).",
+          "url": "https://womensagenda.com.au/latest/australian-researcher-professor-helena-teede-behind-global-push-to-rename-pcos/",
           "source": {
-            "name": "RNZ"
+            "name": "Women's Agenda"
           },
-          "publishedAt": "2026-05-13T23:08:32Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--cgIOlyIE--/t_tohu-badge-facebook/v1778713284/4JON9DP_AFP__20260513__leyden_trumplea260512_npwd4__v1__MidRes__UsPresidentDonaldTrumpTakesQ_jpg?_a=BACCd2AD",
+          "publishedAt": "2026-05-14T02:13:52Z",
+          "image": "https://womensagenda.com.au/wp-content/uploads/2026/05/helena-teede.jpg",
           "language": "en"
         }
       ]
