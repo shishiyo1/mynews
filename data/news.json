@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-15T03:38:02.487Z",
+  "updatedAt": "2026-05-15T08:50:52.655Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "ダウ平均は反発 ５万ドルを回復 エヌビディアとシスコシステムズが上昇ムード高める＝米国株概況",
+          "description": "NY株式14日（NY時間16:21）（日本時間05:21） ダウ平均　　　50063.46（+370.26　+0.75%） S＆P500　　　　7501.24（+56.99　+0.77%） ナスダック...",
+          "url": "https://fx.minkabu.jp/news/367201",
+          "source": {
+            "name": "みんかぶ FX/為替"
+          },
+          "publishedAt": "2026-05-14T20:26:40Z",
+          "image": "https://mfx-assets.s3.ap-northeast-1.amazonaws.com/news_ogp/stock.png",
+          "language": "ja"
+        },
+        {
+          "title": "今日15日も気温上昇 九州など30℃以上の所も 北海道でも25℃以上の地点が増加",
+          "description": "今日15日(金)も広く晴れて、気温が速いペースで上昇します。九州をはじめ、西日本を中心に30℃以上の真夏日の所もあるでしょう。北海道でも25℃以上の地点が増えて、内陸の一部では28℃前後まで上がる予想です。暑さ対策が欠かせません。",
+          "url": "https://tenki.jp/forecaster/yosh_ika/2026/05/15/38923.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-14T20:25:45Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/389/38923/main/20260515051533/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【オリックス】山下舜平大、米国の病院で右肘のじん帯再建術 開幕前に離脱で状態上がらず決断 来季中の完全復活目指す",
+          "description": "オリックス・山下舜平大投手（２３）が米国の病院で、右肘の靱帯（じんたい）再建術を受けたことが１４日、分かった。プロ６年目の今季は右肘のコンディション不良で開幕前に離脱。４月にはスローイングを再開し",
+          "url": "https://news.yahoo.co.jp/articles/05136f95c22c415ad871d8de4e28474836834f41",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-14T19:00:02Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260515-05141295-sph-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "『アイマス』星井美希のシカゴ単独公演が5月16日9時20分ごろよりYouTubeで無料配信",
           "description": "Anime Central 2026にて実施される「THE FUTURE SPOTLIGHT」を“全編”生中継。星井美希にとって北米のコンベンション初出演となる",
@@ -81,150 +114,117 @@
           "publishedAt": "2026-05-14T11:23:17Z",
           "image": "https://valorantnews.jp/wp-content/uploads/2025/05/MURASH-GAMING.webp",
           "language": "ja"
-        },
-        {
-          "title": "LG、USB PD 65W給電対応の27型4K液晶ディスプレイ「27U730B",
-          "description": "LGエレクトロニクス・ジャパンは、IPSパネルを搭載する27型4K液晶ディスプレイ「27U730B-B」を5月下旬より、「27U710B-B」を5月中旬より順次発売する。",
-          "url": "https://www.phileweb.com/sp/news/d-av/202605/14/65126.html",
-          "source": {
-            "name": "PHILE WEB"
-          },
-          "publishedAt": "2026-05-14T11:22:58Z",
-          "image": "https://www.phileweb.com/news/ogp/d-av/651/784e3abadba9ff707ce5dfdde034e11f.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【磐越道バス事故】「大丈夫か」「返事して」 バスに乗っていた生徒の保護者を取材 危機を感じ…生徒たちのメッセージアプリでの緊迫のやりとりが明らかに《新潟》",
-          "description": "高校生など21人が死傷した磐越道のバス事故。バスに乗っていた生徒の保護者への取材で、生徒たちが出発直後から身の危険を感じていたことがわかりました。メッセージアプリに、緊迫したやり取りが残されていました。",
-          "url": "https://news.ntv.co.jp/n/teny/category/society/te0d1dbfb7868b4a6193e6d75debc0630b",
-          "source": {
-            "name": "日テレNEWS NNN"
-          },
-          "publishedAt": "2026-05-14T11:00:15Z",
-          "image": "https://image.gallery.play.jp/teny-news/articles/594fbc797fa34b0f9377d4c218b61b2b/8c0c3acb-f5a6-4844-9caa-3d1eed40b4ac.jpg?w=1200",
-          "language": "ja"
-        },
-        {
-          "title": "「全色使い回してます」 ワークマンの“1500円ストレッチパンツ”に「周囲のウケも良かったです」「春〜秋までこれ1本って感じ」「こういうのでいいんだよ」の声",
-          "description": "春から夏にかけて、軽くて動きやすいパンツを探している人に注目なのが、ワークマンの機能系ボトム。「ウールライクストレッチパンツ」は、「シルエットが綺麗」「とにかく軽い」と評判で、日常に取り入れやすい価格も魅力です。　本記事ではそんなワークマンの「ウールライクストレッチパンツ」を紹介します。「ウ…",
-          "url": "https://nlab.itmedia.co.jp/research/articles/3841557/",
-          "source": {
-            "name": "ねとらぼ"
-          },
-          "publishedAt": "2026-05-14T11:00:00Z",
-          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/12/1764644729_fd0b65f87b0449e9df7d08b4f373b101-scaled.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Forza Horizon 6: Reviews praise racing game as best in series",
-          "description": "The Xbox studios racing game is described as one of the best ever made in its genre by critics.",
-          "url": "https://www.bbc.co.uk/news/articles/cm2pk8xmlgvo",
+          "title": "CODE Sports",
+          "description": "No Cookies | CODE Sports",
+          "url": "https://www.codesports.com.au/nocookies?a=A.flavipes",
+          "source": {
+            "name": "Code"
+          },
+          "publishedAt": "2026-05-14T20:50:06Z",
+          "image": "https://www.codesports.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-codesports-169.svg",
+          "language": "en"
+        },
+        {
+          "title": "FUNWORLD returns to National Theatre with dance, drama and debate showdown",
+          "description": "The National Theatre of Ghana is set to host an exciting edition of FUNWORLD, the family edutainment programme dedicated to nurturing creativity, promoting cultural expression, and discovering young talents across the country.",
+          "url": "https://www.ghanaweb.com/GhanaHomePage/entertainment/FUNWORLD-returns-to-National-Theatre-with-dance-drama-and-debate-showdown-2034585",
+          "source": {
+            "name": "GhanaWeb"
+          },
+          "publishedAt": "2026-05-14T20:49:53Z",
+          "image": "https://cdn.ghanaweb.com/imagelib/pics/670/67024032.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Five Italians die during cave dive in Maldives",
+          "description": "Italy says the incident happened at a depth of 50m. Maldivian rescuers have so far found one body.",
+          "url": "https://www.bbc.co.uk/news/articles/c62e0p7rd2ro",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-05-14T15:37:36Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1dea/live/b8f682f0-4fa4-11f1-95ec-23912032462e.jpg",
+          "publishedAt": "2026-05-14T20:48:26Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c108/live/0e164e80-4fd4-11f1-a2ac-8711222752cc.jpg",
           "language": "en"
         },
         {
-          "title": "Bureau for animal welfare pushes African states to improve health data systems",
-          "description": "The African Union–InterAfrican Bureau for Animal Resources has challenged African countries to strengthen animal health information systems",
-          "url": "https://www.standardmedia.co.ke/smart-harvest/article/2001547840/bureau-for-animal-welfare-pushes-african-states-to-improve-health-data-systems",
+          "title": "China Reaffirms One-China Stance with Nigeria",
+          "description": "China reiterates the one-China principle as the foundation of its diplomatic relationship with Nigeria, cautioning against any pro-Taiwan moves.",
+          "url": "https://punchng.com/china-reaffirms-one-china-stance-warns-against-taiwan-moves-in-nigeria/",
           "source": {
-            "name": "standardmedia.co.ke"
+            "name": "Punch Newspapers"
           },
-          "publishedAt": "2026-05-14T15:37:14Z",
-          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/GHKYitJ8GcMV80cRtQQ2AlhVcqy7vpJz3siUThvf.jpg",
+          "publishedAt": "2026-05-14T20:48:06Z",
+          "image": "https://cdn.punchng.com/wp-content/uploads/2023/08/10075158/china-flag.jpg",
           "language": "en"
         },
         {
-          "title": "APM coalition rumors, accuses Makinde of misleading Nigerians",
-          "description": "Nyesom Wike, Minister of the Federal Capital Territory (FCT), on Thursday rejected claims of a Peoples Democratic Party (PDP) alliance with…",
-          "url": "https://businessday.ng/news/article/2027-wike-dismisses-pdp-apm-coalition-rumors-accuses-makinde-of-misleading-nigerians/",
+          "title": "Manchester City 2-1 Manchester United: Reigan Heskey settles FA Youth Cup final with late derby goal",
+          "description": "Report as Man City beat Manchester United to win their fifth FA Youth Cup final; Reigan Heskey, son of Emile, scored the winning goal; Godwill Kukonki had cancelled out Floyd Sambas opening free-kick for City; Michael Carrick, Bruno Fernandes and Pep Guardiola among those watching on",
+          "url": "https://www.skysports.com/football/news/11095/13544111/manchester-city-2-1-manchester-united-reigan-heskey-settles-fa-youth-cup-final-with-late-derby-goal",
           "source": {
-            "name": "Business News Nigeria"
+            "name": "Sky Sports"
           },
-          "publishedAt": "2026-05-14T15:36:20Z",
-          "image": "https://cdn.businessday.ng/wp-content/uploads/2025/10/Nyesom-Wike.png",
+          "publishedAt": "2026-05-14T20:46:59Z",
+          "image": "https://e0.365dm.com/26/05/1600x900/skysports-man-city-fa-youth-cup-final_7248999.jpg?20260514214231",
           "language": "en"
         },
         {
-          "title": "Flu Virus Platforms: Breakthrough in Vaccines, Cancer Therapy",
-          "description": "A recent Views & Comments article published in Engineering highlights advances in repurposing influenza viruses as flexible therapeutic platforms for",
-          "url": "https://www.miragenews.com/flu-virus-platforms-breakthrough-in-vaccines-1673827/",
+          "title": "Cuba says CIA Director John Ratcliffe met with interior minister in Havana",
+          "description": "The visit comes as the island deals with a collapse of its energy sector amid rising tensions with the US.",
+          "url": "https://www.cnn.com/2026/05/14/americas/cia-director-meets-cuba-interior-minister-intl-latam",
           "source": {
-            "name": "Mirage News"
+            "name": "CNN"
           },
-          "publishedAt": "2026-05-14T15:36:00Z",
-          "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1579154204601-01588f351e67%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
+          "publishedAt": "2026-05-14T20:46:14Z",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-05-14t201802z-1857441591-rc279lazfbzh-rtrmadp-3-cuba-usa-plane.jpg?c=16x9&q=w_800,c_fill",
           "language": "en"
         },
         {
-          "title": "Welsh residents linked to hantavirus outbreak",
-          "description": "Public Health Wales says the risk to the general public is \"very low\".",
-          "url": "https://www.bbc.co.uk/news/articles/cy82jw63znxo",
+          "title": "Cisco drives Wall Street higher, ASX set to rise",
+          "description": "The US stock market is rising toward more records after Cisco Systems joined the parade of US companies reporting fatter profits for the start of 2026 than analysts expected.",
+          "url": "https://www.smh.com.au/business/markets/asx-set-to-rise-as-wall-street-climbs-again-20260515-p5zx6g.html",
           "source": {
-            "name": "BBC"
+            "name": "SMH.com.au"
           },
-          "publishedAt": "2026-05-14T15:35:47Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f753/live/f79dd100-4fa1-11f1-a653-99be7c4b0ffa.jpg",
+          "publishedAt": "2026-05-14T20:45:39Z",
+          "image": "https://static.ffx.io/images/$zoom_0.2066%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_104/t_crop_custom/q_86%2Cf_auto/6acbb96b8f0c7860e6f717bca0334702ca21a9c9",
           "language": "en"
         },
         {
-          "title": "Top Ways to Make Money in Forza Horizon",
-          "description": "Want to upgrade your ride and dominate the racing scene in Forza Horizon 6? Here are the best ways to make money:",
-          "url": "https://arynews.tv/boost-your-bankroll-top-ways-to-make-money-in-forza-horizon-6",
+          "title": "Who is Josh Simons, the Labour MP who quit for Andy Burnham?",
+          "description": "Makerfield MP is an ambitious Labour figure who only won the seat two years ago",
+          "url": "https://www.theguardian.com/politics/2026/may/14/who-is-josh-simons-labour-mp-andy-burnham",
           "source": {
-            "name": "ARY News"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-05-14T15:35:24Z",
-          "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Forza-Horizan-make-money.jpg",
+          "publishedAt": "2026-05-14T20:45:00Z",
+          "image": "https://i.guim.co.uk/img/media/8d5c1cf5e1bf6dabe2e1f2885669f771ed29f7cb/345_263_3792_3033/master/3792.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f13ad56fcb5d33abbc184edd58783e6c",
           "language": "en"
         },
         {
-          "title": "Carney announces plan to double electricity grid capacity by 2050",
-          "description": "Prime Minister Mark Carney announced his government’s intention to adjust clean electricity regulations on Thursday.",
-          "url": "https://nationalpost.com/news/canada/carney-announces-plan-to-double-electricity-grid-capacity-by-2050",
+          "title": "Gardaí identify and interview driver of car involved in serious hit-and-run incident in Ballymun",
+          "description": "Gardaí have identified and interviewed the driver of car involved in a serious hit-and-run road traffic collision in Dublin last month.",
+          "url": "https://www.independent.ie/irish-news/gardai-identify-and-interview-driver-of-car-involved-in-serious-hit-and-run-incident-in-ballymun/a668534176.html",
           "source": {
-            "name": "National Post"
+            "name": "The Irish Independent"
           },
-          "publishedAt": "2026-05-14T15:33:45Z",
-          "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/05/mg_0781_303004664.jpg",
+          "publishedAt": "2026-05-14T20:44:06Z",
+          "image": "https://focus.independent.ie/thumbor/UvcyEQO8uOjmawhjqjMzkesqIk0=/629x460/smart/prod-mh-ireland/0124729b-9cee-400c-afea-f35495bc2fd9/5e8db7ff-ab60-43c6-a899-db5aa75d4155/0124729b-9cee-400c-afea-f35495bc2fd9.jpg",
           "language": "en"
         },
         {
-          "title": "Challenging your mind can help maintain brain health. Here are steps the Alzheimer's Association recommends.",
-          "description": "Challenging your mind, through games and learning new skills, may help reduce your risk of dementia, according to the Alzheimer's Association. (Sponsored by the Alzheimer's Association.)",
-          "url": "https://www.cbsnews.com/news/brain-health-mental-skills-alzheimers-association/",
+          "title": "Lawmakers plan tax on NYC cash home sales, as Hochul details pied-a-terre plan",
+          "description": "The governor laid out the details of her proposed tax on NYC second homes, a month after she backed it.",
+          "url": "https://gothamist.com/news/lawmakers-plan-tax-on-nyc-cash-sales-as-hochul-details-pied-a-terre-plan",
           "source": {
-            "name": "CBS News"
+            "name": "Gothamist"
           },
-          "publishedAt": "2026-05-14T15:32:04Z",
-          "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/05/12/ba714e2c-5f0a-4131-b844-8f4ae707035d/thumbnail/1200x630/1fa4d55708407cd5974cb88cb1464f23/gettyimages-2230224656.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Anok Yai Reveals Hair Mistreatment Of Black Models",
-          "description": "“They would tug and rip our hair out like we weren’t human.”",
-          "url": "https://www.buzzfeed.com/natashajokic1/anok-yai-black-models-hair",
-          "source": {
-            "name": "BuzzFeed"
-          },
-          "publishedAt": "2026-05-14T15:31:28Z",
-          "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-05/14/15/thumb/1mTDYqbuy.jpg?crop=1250:654;0,0%26downsize=1250:*",
-          "language": "en"
-        },
-        {
-          "title": "Super-Resolution Imaging for Semiconductor Analysis",
-          "description": "The SMAL lens enables super-resolution imaging for semiconductors with clear resolution of features down to tens of nanometers.",
-          "url": "https://www.azooptics.com/Article.aspx?ArticleID=2879",
-          "source": {
-            "name": "AZoOptics"
-          },
-          "publishedAt": "2026-05-14T15:31:00Z",
-          "image": "https://www.azooptics.com/images/Article_Images/ImageForArticle_2879_17784985808145318.png",
+          "publishedAt": "2026-05-14T20:44:00Z",
+          "image": "https://api-prod.gothamist.com/images/357039/fill-1200x650|format-webp|webpquality-85/",
           "language": "en"
         }
       ]
