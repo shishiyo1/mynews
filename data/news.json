@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-15T14:10:13.722Z",
+  "updatedAt": "2026-05-15T16:55:32.737Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "近畿は暑さレベルアップ 18日は京都で34℃予想 土日のお出かけも熱中症対策を",
+          "description": "近畿地方は、今週に入り暑さが増していますが、明日16日(土)以降はさらにレベルアップするでしょう。今シーズン初めて真夏日(最高気温30℃以上)となる所が続出し、18日(月)は京都市で34℃の予想です。まだ体が暑さに慣れていないため、熱中症への対策を心がけてください。",
+          "url": "https://tenki.jp/forecaster/m_shimofuku/2026/05/15/38930.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-15T04:17:16Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/389/38930/main/20260515122037/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Type-Cケーブル1本で映像+給電。LGの27型4K液晶「27U730B-B」",
+          "description": "LGエレクトロニクス・ジャパンは、USB Type-Cに対応した27型4K(3,840×2,160ドット)液晶モニター、LG UltraFine「27U730B-B」を5月下旬に発売する。価格はオープンプライスで、実売予想価格は5万5,000円前後の見込み。",
+          "url": "https://pc.watch.impress.co.jp/docs/news/2108980.html",
+          "source": {
+            "name": "PC Watch"
+          },
+          "publishedAt": "2026-05-15T03:55:12Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2108/980/1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "FSR 4.1が旧世代Radeonでも利用可能に",
+          "description": "AMDは5月14日、超解像技術の「FSR Upscaling 4.1」がRDNA 3ベースのRadeon RX 7000シリーズでも利用可能になると発表した。7月に提供予定で、リリース時点では300以上のゲームタイトルをサポートする。",
+          "url": "https://pc.watch.impress.co.jp/docs/news/2108968.html",
+          "source": {
+            "name": "PC Watch"
+          },
+          "publishedAt": "2026-05-15T03:25:41Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2108/968/01.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ゲームとAI開発を両立。GeForce RTX 5090搭載ノート「Razer Blade 18」",
+          "description": "米Razerは5月14日(現地時間)、GeForce RTX 5090 Laptop GPUを搭載したフラグシップのノートPC「Razer Blade 18」を発表した。",
+          "url": "https://pc.watch.impress.co.jp/docs/news/2108965.html",
+          "source": {
+            "name": "PC Watch"
+          },
+          "publishedAt": "2026-05-15T03:13:18Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2108/965/1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "坂本勇人とグータッチ…広島“FA”捕手に《来年は巨人》ファン期待も“15億円捕手”は２軍ベンチの実情（週刊女性PRIME）",
+          "description": "巨人一筋20年のレジェンド・坂本勇人選手（37）の通算300号ホームランにファンが沸いた、5月13日の広島東洋カープ戦。その前日に撮られた、坂本とカープ選手のツーショット写真が巨人ファンをさらに沸",
+          "url": "https://news.yahoo.co.jp/articles/37d752a94a2b8ace8465cad43d2ed05710528d7c",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-15T03:12:17Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260515-00041672-jprime-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "サマソニ第9弾追加アーティストに加えて、いよいよステージ割を発表！",
+          "description": "SUMMER SONIC 2026 公式サイト 2026年8月14日(金)・15日(土)・16日(日)の3日間開催！TOKYO／OSAKA",
+          "url": "https://www.summersonic.com/news/2026-05-15-41385/",
+          "source": {
+            "name": "summersonic.com"
+          },
+          "publishedAt": "2026-05-15T03:03:15Z",
+          "image": "https://www.summersonic.comhttps://www.summersonic.com/wp/wp-content/uploads/2026/05/NEWS_details0515.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ASUS ROG購入者に“007新作”プレゼント、RTX 50シリーズ向け大型キャンペーン始動",
+          "description": "ASUS JAPANが、GeForce RTX 50シリーズ搭載の製品購入者に「007 First Light」のゲームコードを提供するキャンペーンを開始。",
+          "url": "https://ascii.jp/elem/000/004/402/4402319/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-05-15T03:00:00Z",
+          "image": "https://ascii.jp/img/2026/05/15/4466813/xl/d656eb7c1a432d49.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "来週の初めにかけて真夏日地点増加 熱中症注意 20日頃から曇りや雨に 2週間天気",
+          "description": "明日16日から19日にかけて、広く晴れて、気温が上がるでしょう。30℃以上の真夏日の地点が増える予想です。20日からは曇りや雨の日が多くなるでしょう。真夏日の地点は減少しますが、湿度が高く、ムシムシしそうです。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/05/15/38837.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-15T02:31:28Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/388/38837/main/20260515105635/large.jpg",
+          "language": "ja"
+        },
         {
           "title": "「何をヘラヘラしとんねん」元天才少年漫才師（40） 中山功太の“いじめ告発”便乗で謝罪も滲ませる“遺恨”…サバンナ高橋に嫌悪感露わにした過去も",
           "description": "「今日、ちょっとだけ僕に触れとかないと……。あなたの同期のことで、すんごいことになってる」\n5月14日放送の情報番組『DayDay.』（日本テレビ系）で、MCの山里亮太（49）にこう語りかけたのは",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-05-15T02:00:00Z",
           "image": "https://www.phileweb.com/news/ogp/d-av/651/741a9f8556ef3fe050d9bf23bbda85af.jpg",
           "language": "ja"
-        },
-        {
-          "title": "ハイセンス、MiniLED×量子ドット搭載4K液晶テレビ「U88Rシリーズ」。独自AIエンジンで映像や音声を最適化",
-          "description": "ハイセンスジャパンは、MiniLEDバックライトと量子ドット技術を採用した4K液晶テレビ「U88Rシリーズ」を2026年5月下旬より順次発売する。高画質エンジン「Hi-View AIエンジン Pro」や、ネイティブ144Hz対応のゲーム機能を搭載する。",
-          "url": "https://www.phileweb.com/sp/news/d-av/202605/15/65132.html",
-          "source": {
-            "name": "PHILE WEB"
-          },
-          "publishedAt": "2026-05-15T02:00:00Z",
-          "image": "https://www.phileweb.com/news/ogp/d-av/651/595bd7ce63d7eaea9825fddb586d9315.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "世界初RGB MiniLEDを実用化したハイセンスより*1 RGB MiniLED液晶搭載「RGB UXSシリーズ」を5月下旬から発売",
-          "description": "ネット・IT、ライフスタイルの最新ニュース・イベント情報・プレスリリースはNEWSCAST！！世界初RGB MiniLEDを実用化したハイセンスより*1　 RGB MiniLED液晶搭載「RGB UXSシリーズ」を5月下旬から発売",
-          "url": "https://newscast.jp/smart/news/5949445",
-          "source": {
-            "name": "Newscast.jp"
-          },
-          "publishedAt": "2026-05-15T02:00:00Z",
-          "image": "https://www.atpress.ne.jp/attachments/4tbI2p1gTAJsqQj3A9JN.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "世界初RGB MiniLEDを実用化したハイセンスより*1 RGB MiniLED液晶搭載「RGB UXSシリーズ」を5月下旬から発売",
-          "description": "ハイセンスジャパン株式会社のプレスリリース:世界初RGB MiniLEDを実用化したハイセンスより*1　 RGB MiniLED液晶搭載「RGB UXSシリーズ」を5月下旬から発売",
-          "url": "https://www.atpress.ne.jp/news/596138",
-          "source": {
-            "name": "アットプレス"
-          },
-          "publishedAt": "2026-05-15T02:00:00Z",
-          "image": "https://www.atpress.ne.jp/releases/596138/img_596138_1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「日本では人気ゼロ」なのに、中国では「富の象徴」に…Appleも今年参入と噂の「折りたたみスマホ」なぜ人気？|au Webポータル",
-          "description": "Appleが今年中に「折りたたみiPhone」を投入するとの見方が強まっています。海外では折りたたみスマホのユーザー数は増えており、特に中国ではApple以外の大手メーカーから多数の製品が販売されて",
-          "url": "https://article.auone.jp/detail/1/3/7/136_7_r_20260515_1778807900622694",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-05-15T01:10:00Z",
-          "image": "https://portal.st-img.jp/thumb/af53f39e5b4114b62eaeb75b5d2222c1_1778822382_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Samsung夏の発表会は7月22日？ ワイドな折りたたみスマホに、スマートグラスもくるか",
-          "description": "韓国メディアSeoul Economic Dailyが報じたところによれば、Samsungの新製品発表会Galaxy Unpackedが7月22日開催されるといいます。開催場所はロンドン！夏は折りたたみSamsungの新製品発表会Galaxy Unpackedは年に数回開催され、年明け一発目はフラッグシップスマホのGalaxy Sシリーズ。夏の発表会は折りたたみスマホ新モデルというのが定番。今年の",
-          "url": "https://www.gizmodo.jp/2026/05/samsung_galaxy-unpacked_july.html",
-          "source": {
-            "name": "ギズモード・ジャパン"
-          },
-          "publishedAt": "2026-05-15T01:00:00Z",
-          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/05/14/shutterstock_2719084479.jpg?w=1280&h=630&f=jpg",
-          "language": "ja"
-        },
-        {
-          "title": "静音のbe quiet!から、次世代ハイエンド構成に対応する電源ユニット「POWER ZONE 2 1200W」が登場",
-          "description": "最大94.3%の驚異的な変換効率。be quiet!からATX 3.1準拠の電源ユニット「POWER ZONE 2 1200W」が登場した。",
-          "url": "https://ascii.jp/elem/000/004/402/4402214/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-05-15T01:00:00Z",
-          "image": "https://ascii.jp/img/2026/05/14/4466488/xl/65d059d4b236b597.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "【インタビュー】山下智久、41歳のいま求める「理想の住まい」｜@DIME アットダイム",
-          "description": "嘘をつけなくなった営業マン・永瀬財地の活躍を描く話題作『正直不動産』。5月15日には待望の映画『正直不動産』が公開される。5月15日発売の小学館『DIME』では主演を務める山下智久さんの撮り下ろし10Pインタ...",
-          "url": "https://dime.jp/genre/2114961/",
-          "source": {
-            "name": "@DIME アットダイム"
-          },
-          "publishedAt": "2026-05-15T00:11:45Z",
-          "image": "https://dime.jp/wp-content/uploads/2026/05/3-12-770x433.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「外れるのはカズ、三浦カズ」「マキ」… サッカーW杯代表発表は〝サプライズ〟の歴史",
-          "description": "米国、カナダ、メキシコ共催で6月11日（日本時間12日）に開幕するサッカーのワールドカップ（Ｗ杯）北中米3カ国大会に臨む日本代表のメンバー発表が、15日午後2時から行われる。日本は初めて大舞台に立った1998年フランス大会から8大会連続の…",
-          "url": "https://www.sankei.com/article/20260515-X5K6R5FWEBAOZEQQQ2J2DCBKNA/",
-          "source": {
-            "name": "産経ニュース"
-          },
-          "publishedAt": "2026-05-15T00:00:00Z",
-          "image": "https://www.sankei.com/resizer/v2/3M6THFF74ROGNHYZKAOXESYFKA.jpg?auth=0ef6f1412998f2c55578ff8dde87f6e0198c1f0e01cc4fb1c9b3b83603a2c8c1&quality=50&focal=118%2C86&width=1200&height=675",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Google may cut free storage to 5GB but there is a way users can get full 15GB",
-          "description": "Tech News News: For over a decade, a standard Google account has come with 15GB of free cloud storage that set it apart from rivals like Apple. However, that era of t.",
-          "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-may-cut-free-storage-to-5gb-but-there-is-a-way-users-can-get-full-15gb/articleshow/131102959.cms",
+          "title": "Visa-free policy among factors attracting scammers, says IGP",
+          "description": "Khalid Ismail says the policy makes it easier for foreign criminals to operate in Malaysia.",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/05/15/visa-free-policy-among-factors-attracting-scammers-says-igp",
           "source": {
-            "name": "The Times of India"
+            "name": "Free Malaysia Today"
           },
-          "publishedAt": "2026-05-15T02:10:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-131103053,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-05-15T04:52:33Z",
+          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/11/9413430e-khalid-ismail-bernama-261125-1.webp",
           "language": "en"
         },
         {
-          "title": "Donald Trump on Xi Jinping US decline Beijing summit remark: It was about Biden",
-          "description": "Trump framed Xi’s “declining America” remark as a criticism of the Biden era, while portraying his own presidency as a period of economic revival, military strength and renewed US global dominance during the ongoing Beijing summit.",
-          "url": "https://www.indiatoday.in/world/story/donald-trump-xi-jinping-us-decline-remark-biden-beijing-summit-2912019-2026-05-15",
+          "title": "A grad student’s wild idea sparks a major aging breakthrough",
+          "description": "A casual conversation between graduate students helped spark a breakthrough in aging research at Mayo Clinic. Researchers discovered that tiny synthetic DNA molecules called aptamers can selectively attach to senescent “zombie cells,” which are linked to aging, cancer, and neurodegenerative disease. The method could eventually help scientists identify and target these cells in living tissue with far greater precision.",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260515001733.htm",
           "source": {
-            "name": "India Today"
+            "name": "ScienceDaily"
           },
-          "publishedAt": "2026-05-15T02:09:58Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/us-president-donald-trump-and-his-chinese-counterpart-xi-jinping-visit-the-temple-of-heaven-in-beiji-14205691-original-sixteen-to-nine.jpg?VersionId=4vj9uEOh3Bg1n18MVwaTQ.RiviTji2PO",
+          "publishedAt": "2026-05-15T04:52:12Z",
+          "image": "https://www.sciencedaily.com/images/1920/aptamers-zombie-cells.webp",
           "language": "en"
         },
         {
-          "title": "Call of the Wilde: Montreal Canadiens take series lead, double up Sabres 6-3",
-          "description": "After Game 5 of their series against the Buffalo Sabres, the Montreal Canadiens are only one win away from the final four. Brian Wilde has more.",
-          "url": "https://globalnews.ca/news/11850127/call-of-the-wilde-montreal-canadiens-buffalo-sabres-game-5/",
+          "title": "Asante Akyem North MP safe in Netherlands, expected to return soon - Aide",
+          "description": "The Deputy Communications Officer for the Asante Akyem North MP, Ohene Kwame Frimpong, says the legislator is safe in the Netherlands and is expected to return to Ghana soon, following his reported detention at Schiphol Airport in Amsterdam.",
+          "url": "https://www.myjoyonline.com/asante-akyem-north-mp-safe-in-netherlands-expected-to-return-soon-aide/",
           "source": {
-            "name": "Global News"
+            "name": "MyJoyOnline"
           },
-          "publishedAt": "2026-05-15T02:09:37Z",
-          "image": "https://globalnews.ca/wp-content/uploads/2026/05/CP176297564.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+          "publishedAt": "2026-05-15T04:52:08Z",
+          "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-1281.png",
           "language": "en"
         },
         {
-          "title": "Actress Rebecca Lim welcomes second child, a baby girl",
-          "description": "Rebecca Lim welcomes her second child, a baby girl, and shares how her newborn came home after medical checks as her family adjusts to life with two children.",
-          "url": "https://cnalifestyle.channelnewsasia.com/entertainment/rebecca-lim-second-child-baby-girl-583136",
+          "title": "A non-issue: M'sia won't support Jho Low's pardon bid, says Anwar",
+          "description": "PETALING JAYA: Prime Minister Datuk Seri Anwar Ibrahim said Malaysia will not consider supporting any pardon for fugitive businessman Low Taek Jho or Jho Low, describing the matter as a \"non-issue\" for Putrajaya",
+          "url": "https://www.thestar.com.my/news/nation/2026/05/15/a-non-issue-m039sia-won039t-support-jho-low039s-pardon-bid-says-anwar",
           "source": {
-            "name": "CNA Lifestyle"
+            "name": "The Star | Malaysia"
           },
-          "publishedAt": "2026-05-15T02:09:00Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--dwHjmB-E--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/14/rebecca_lim_new_baby_second_child_pregnant_again.png?itok=vcsdVWD5",
+          "publishedAt": "2026-05-15T04:52:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/05/15/3909315.jpg",
           "language": "en"
         },
         {
-          "title": "UDA's David Keter wins Emurua Dikirr by-election",
-          "description": "UDA’s David Keter wins Emurua Dikirr by-election with 18,266 votes, defeating DCP’s Vincent Kibet who got 10,760 votes; IEBC says poll recorded 66.6pc turnout.",
-          "url": "https://www.standardmedia.co.ke/rift-valley/article/2001547873/udas-david-keter-wins-emurua-dikirr-by-election",
+          "title": "Trump hails ‘fantastic’ China trade deals, signalling Boeing, oil sales",
+          "description": "US president targets ‘double-digit billions’ in farm sales and 200 Boeing jets as Beijing is said to weigh American oil imports to bypass Middle East shipping risks.",
+          "url": "https://www.scmp.com/economy/global-economy/article/3353655/trump-hails-fantastic-china-trade-deals-signalling-boeing-oil-sales",
           "source": {
-            "name": "standardmedia.co.ke"
+            "name": "South China Morning Post"
           },
-          "publishedAt": "2026-05-15T02:08:39Z",
-          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/lpzycJEwm2iSxwKNaiqVjtfeoURi4kdWW1jbBkof.jpg",
+          "publishedAt": "2026-05-15T04:51:59Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/15/0d55fb3c-ceca-43d8-950d-9bf894ad9263_1f35ad53.jpg?itok=Yq7uIt4Y&v=1778820719",
           "language": "en"
         },
         {
-          "title": "K Rd pack rape: Auckland trio jailed after German backpacker’s harrowing statement",
-          "description": "Warning: This story deals with sexual assault and may be upsetting. A young German backpacker who was raped by three strangers she met at a Karangahape Rd...",
-          "url": "https://www.nzherald.co.nz/nz/crime/k-rd-pack-rape-auckland-trio-jailed-after-german-backpackers-harrowing-statement/FJQD5IQB7RGOTGG77UGZJNRT4A/",
+          "title": "New FUSILLI tool improves gene fusion detection in pediatric leukemia",
+          "description": "Researchers have introduced a novel diagnostics method that can more sensitively detect gene fusions in B-cell acute lymphoblastic leukemia (B-ALL), the most common type of pediatric cancer, compared to other publicly available fusion detection algorithms.",
+          "url": "https://www.news-medical.net/news/20260515/New-FUSILLI-tool-improves-gene-fusion-detection-in-pediatric-leukemia.aspx",
           "source": {
-            "name": "NZ Herald"
+            "name": "News-Medical"
           },
-          "publishedAt": "2026-05-15T02:07:12Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/KRIR57R4CFDU3OFSDKTCU4NRMY.jpg?auth=1f445fe3eacd4aaab3b5a3c066e42c6c66c13e45d88014c1e41b564be0c93e10&width=1200&height=675&quality=70&focal=3348%2C1542&smart=false",
+          "publishedAt": "2026-05-15T04:51:00Z",
+          "image": "https://www.news-medical.net/image-handler/picture/2014/7/Leukemia-620x480.jpg",
           "language": "en"
         },
         {
-          "title": "Culture, gender and birth order meant I would always be in the 'sandwich generation'",
-          "description": "As the eldest daughter in a Vietnamese family, it was an unspoken expectation I would be the one to care for my aging parents.",
-          "url": "https://www.abc.net.au/news/2026-05-15/how-culture-shapes-my-life-as-a-carer/106595752",
+          "title": "Labor’s budget relies on NDIS cuts. Growth in the scheme just blew out, again",
+          "description": "Fresh data shows Labor’s efforts to control the NDIS have gone backwards this year, raising the stakes for the government and participants fighting against sweeping cuts.",
+          "url": "https://www.smh.com.au/politics/federal/this-group-championed-the-ndis-it-says-labor-is-about-to-break-its-central-promise-20260515-p5zx7x.html",
           "source": {
-            "name": "Australian Broadcasting Corporation"
+            "name": "SMH.com.au"
           },
-          "publishedAt": "2026-05-15T02:07:05Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/83924b0fc2ed58dee5929724b01859dc?impolicy=wcms_watermark_news&cropH=1962&cropW=3488&xPos=0&yPos=446&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-05-15T04:50:46Z",
+          "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_83/t_crop_custom/q_86%2Cf_auto/61a9248432c396f69960130f048a746efa9c9393",
           "language": "en"
         },
         {
-          "title": "Student dies in Reading meningitis outbreak as contacts offered antibiotics",
-          "description": "It is understood that the most recent case in Berkshire is not the same strain of MenB linked to the outbreaks in Kent in March.",
-          "url": "https://www.impartialreporter.com/news/national/26108634.student-dies-reading-meningitis-outbreak-contacts-offered-antibiotics/",
+          "title": "Labor’s budget relies on NDIS cuts. Growth in the scheme just blew out, again",
+          "description": "Fresh data shows Labor’s efforts to control the NDIS have gone backwards this year, raising the stakes for the government and participants fighting against sweeping cuts.",
+          "url": "https://www.theage.com.au/politics/federal/this-group-championed-the-ndis-it-says-labor-is-about-to-break-its-central-promise-20260515-p5zx7x.html",
           "source": {
-            "name": "The Impartial Reporter"
+            "name": "The Age"
           },
-          "publishedAt": "2026-05-15T02:06:14Z",
-          "image": "https://www.impartialreporter.com/resources/images/20919115.jpg?type=og-image",
+          "publishedAt": "2026-05-15T04:50:46Z",
+          "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_83/t_crop_custom/q_86%2Cf_auto/61a9248432c396f69960130f048a746efa9c9393",
           "language": "en"
         },
         {
-          "title": "Five Takeaways From Ravens’ 2026 Schedule",
-          "description": "The Ravens will have a chance to build early momentum and will need to be at their best down the stretch.",
-          "url": "https://www.baltimoreravens.com/news/five-takeaways-ravens-schedule-release-2026-bills-primetime",
+          "title": "National Testing Agency announces NEET-UG re-exam on June 21",
+          "description": "NTA announces NEET-UG re-exam on June 21 following cancellation due to alleged irregularities investigated by the CBI.",
+          "url": "https://www.thehindu.com/education/national-testing-agency-announces-neet-ug-re-exam-on-june-21/article70981544.ece",
           "source": {
-            "name": "Baltimore Ravens"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-05-15T02:06:12Z",
-          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/ravens/lvcjqj5mnj9osmm2aogo",
+          "publishedAt": "2026-05-15T04:48:14Z",
+          "image": "https://th-i.thgim.com/public/incoming/denjnh/article70981555.ece/alternates/LANDSCAPE_1200/20260503218L.jpg",
           "language": "en"
         },
         {
-          "title": "'Torturous for boxers': Drained Nikhat Zareen suffers shock trials exit",
-          "description": "Boxing News: PATIALA: Two-time world champion Nikhat Zareen suffered a heartbreaking exit from boxing selection trials for the upcoming CWG and Asian Games on Thur.",
-          "url": "https://timesofindia.indiatimes.com/sports/boxing/torturous-for-boxers-drained-nikhat-zareen-suffers-shock-trials-exit/articleshow/131106217.cms",
+          "title": "Ruto leads leaders in mourning Kiraitu’s daughter",
+          "description": "Ruto described the death of Anita as a heartbreaking loss, saying her passing had left an immeasurable void",
+          "url": "https://www.the-star.co.ke/news/2026-05-15-ruto-leads-leaders-in-mourning-kiraitus-daughter",
           "source": {
-            "name": "The Times of India"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-05-15T02:06:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-131106215,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-05-15T04:48:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/05/b105587d-e0be-4fd4-bd72-60d2fe3075c2.jpg?1778822753432",
           "language": "en"
         }
       ]
