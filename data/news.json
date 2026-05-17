@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-17T19:12:19.008Z",
+  "updatedAt": "2026-05-17T21:57:00.140Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "これが「最初の道の駅？」 パーキングエリアじゃん！ “高速道路みたいな一般道”で38年 高速PAから“失われつつあるもの”がここに",
+          "description": "「道の駅 発祥の地」の碑が立つ施設が、「高速道路みたいな一般道」にあります。高速道路PAでは失われつつあるものが、そこにはありました。（1/2 ページ）",
+          "url": "https://trafficnews.jp/post/664395",
+          "source": {
+            "name": "乗りものニュース"
+          },
+          "publishedAt": "2026-05-17T09:12:00Z",
+          "image": "https://trafficnews.jp/wp-content/uploads/2027/05/260511_toyosaka_01.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "日本が舞台の『Forza Horizon 6』、すでにSteam最大同接が17万人を突破 正式リリース前なのに前作「5」の2倍以上を叩き出す",
+          "description": "今後さらに増加か",
+          "url": "https://jp.ign.com/forza-horizon-6/83312/forza-horizon-6steam17-52",
+          "source": {
+            "name": "IGN Japan"
+          },
+          "publishedAt": "2026-05-17T09:03:00Z",
+          "image": "https://sm.ign.com/t/ign_jp/photo/default/forza-horizon-6-2026-05-14-13-46-10-1778767532067_fmnh.1200.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜」2026年12月19日(土)、12月20日(日)にインテックス大阪にて開催決定！",
+          "description": "ANYCOLOR株式会社のプレスリリース（2026年5月17日 18時00分）「にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜」2026年12月19日(土)、12月20日(日)にインテックス大阪にて開催決定！",
+          "url": "https://prtimes.jp/main/html/rd/p/000001504.000030865.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-05-17T09:00:02Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/30865/1504/30865-1504-85cbdfae4c663a8148964282552a4591-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "ACL2・現地リポートinリヤド／FINAL",
+          "description": "仲間を信じ、つながり合って戦い抜いた90分。掴み取った10個目の『タイトル』。AFCチャンピオンズリーグ2 2025/26決勝、アルナスル戦。『ド・アウェイ』の雰囲気が漂うキングサウードユニバーシティ",
+          "url": "https://www.gamba-osaka.net/news/index/no/20317/",
+          "source": {
+            "name": "ガンバ大阪オフィシャルサイト"
+          },
+          "publishedAt": "2026-05-17T08:04:20Z",
+          "image": "https://www.gamba-osaka.net/c/media/news/images/20317/tw_2026051716305750uda3x5n8j__0.jpg?104350",
+          "language": "ja"
+        },
+        {
+          "title": "Switch2は値上げ前に買うべき？購入すべき理由・旧価格在庫・おすすめの購入先まとめ",
+          "description": "Nintendo Switch2は値上げ前に買うのがお得？購入理由・旧価格で買える店舗を紹介。",
+          "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/should-you-buy-switch2-before-the-price-increase/blt1bcb915469b3ba8b",
+          "source": {
+            "name": "Goal.com"
+          },
+          "publishedAt": "2026-05-17T07:44:24Z",
+          "image": "https://assets.goal.com/images/v3/getty-2274346526/crop/MM5DIMRUGA5DEMZYGU5G433XMU5DAORQ/GettyImages-2274346526.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "太平洋の深海で見つかった“異常”。1,000万年前、何があった？|au Webポータル",
+          "description": "Image: Shutterstock 2025年2月25日の記事を編集して再掲載しています。ひとつの発見が壮大なスケールの異なる可能性を提示する。だから科学はやめらんない。科学者たちがまた興味深い発",
+          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260517_1779004842974926",
+          "source": {
+            "name": "au Webポータル"
+          },
+          "publishedAt": "2026-05-17T07:35:00Z",
+          "image": "https://portal.st-img.jp/thumb/8bc2e2e128b4402abacb0ba954de13fc_1779004842_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "座礁したザトウクジラ、デンマーク沖で死を確認 弱り切った状態で救出強行、動物虐待巡る論争に",
+          "description": "（CNN）　 デンマーク環境保護庁は16日、浅瀬に座礁して何週間も身動きできなくなっていた若いザトウクジラの「ティミー」について、デンマーク沖で死んでいるのが見つかったと明らかにした。ティミーは論議",
+          "url": "https://news.yahoo.co.jp/articles/0ac26f700c012d6a226d483acca7e8089a450e2b",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-17T07:13:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260517-35247612-cnn-000-6-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "18日・19日は今回の暑さのピークで猛暑日か 20日頃からまるで梅雨 2週間天気",
           "description": "18日(月)と19日(火)は広く晴れて、今回の暑さのピークとなるでしょう。広く真夏日(最高気温30℃以上)となり、全国で今年初の猛暑日(最高気温35℃以上)となる所もありそうです。一転して20日(水)以降は前線の影響で、本州付近は雨の降る日が多くなるでしょう。",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-05-17T05:16:13Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260517-22666072-jnn-000-1-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "PCごと買い替えなくていい！ グラボ換装だけで最新ゲームが激変した",
-          "description": "PC自作にかかせない多くのパーツが高騰している昨今、ゲーミングPCをまるっと買い換えるのは、なかなか厳しくなっている。そんな高騰時代に狙い目のゲーミングPCアップグレード術のひとつが、ゲームプレイに最も影響するビデオカードの換装だ。",
-          "url": "https://ascii.jp/elem/000/004/402/4402672/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-05-17T05:00:00Z",
-          "image": "https://ascii.jp/img/2026/04/30/4460533/xl/b1c28bc61ca0a3b7.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "【ドジャース】大量15得点で4連勝 大谷翔平は試合終盤に2打席連続適時打で5打点の活躍",
-          "description": "◇MLB ドジャース 15-2 エンゼルス (日本時間17日、エンゼル・スタジアム)",
-          "url": "https://news.ntv.co.jp/category/sports/0abcb9de043e46ff8a8ba55eef35490c",
-          "source": {
-            "name": "日テレNEWS NNN"
-          },
-          "publishedAt": "2026-05-17T04:38:01Z",
-          "image": "https://news.ntv.co.jp/gimage/n24/articles/63a6e1d3a163462aa664eccee113b4c1/b929a515-4cf5-44df-88c0-3ff5fe550eee.jpg?w=1200",
-          "language": "ja"
-        },
-        {
-          "title": "大谷翔平は２安打５打点の活躍、ランニング弾かと思われた一打も ドジャース４連勝／詳細",
-          "description": "大谷翔平投手（31）は、4打数2安打5打点2四球でドジャースの4連勝に貢献した。先発ロブレスキは6回2失点と好投し、チーム最多の6勝目を挙げた。ドジャース大谷… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/baseball/mlb/news/202605170000025.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-05-17T04:36:00Z",
-          "image": "https://www.nikkansports.com/baseball/mlb/news/img/202605170000025-w500_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "本田圭佑がW杯5回連続出場の同い年DF長友佑都選出に言及「刺激というか、尊敬です」「佑都の役割は…」",
-          "description": "MF本田圭佑(FCジュロン)が5回目の出場となるワールドカップメンバーに選出された同い年DF長友佑都に言及した。　本田は17日に行われた自身が発起人を務める育成年代向けの4人制サッカー大会「4v4」のキックオフ...",
-          "url": "https://web.gekisaka.jp/news/japan/detail/?451549-451549-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-05-17T04:26:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/452000/451549/news_451549_1.jpg?time=20260517140944",
-          "language": "ja"
-        },
-        {
-          "title": "パンの袋を留める“アレ”の進化版に爆笑⇒「天才の発想」「かわいいと利便性を備えてる」の声",
-          "description": "正式名称は「バッククロージャー」と言います。",
-          "url": "https://www.huffingtonpost.jp/entry/story_jp_6a0924e1e4b0a33000e22be7",
-          "source": {
-            "name": "ハフポスト"
-          },
-          "publishedAt": "2026-05-17T03:15:07Z",
-          "image": "https://img.huffingtonpost.com/asset/6a0929d81d0000ec51a13ef7.jpg?ops=1200_630",
-          "language": "ja"
-        },
-        {
-          "title": "習近平が警告する「トゥキュディデスの罠」は歴史の誤用である",
-          "description": "北京で行われたトランプ＝習近平首脳会談の冒頭、習近平国家主席は古代ギリシャの歴史家トゥキュディデスの名を持ち出した。「中国と米国は、いわゆる『トゥキュディデスの罠』を乗り越え、大国関係の新たなパラダイムを構築できるだろうか」。格調高い問いか...",
-          "url": "https://agora-web.jp/archives/260517022927.html",
-          "source": {
-            "name": "アゴラ 言論プラットフォーム"
-          },
-          "publishedAt": "2026-05-17T03:05:27Z",
-          "image": "https://agora-web.jp/cms/wp-content/uploads/2026/05/1223737b4467bb123bd62f23049b97d4-e1778984997250.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【独自】ビスブラ原田泰雅、1年前に結婚していた! “河合優実似”献身妻と腕組み「パチンコ店デート」姿",
-          "description": "「太っちょたちの希望になる」\n　2022年、相方が結婚を発表した際、追いつき、追い越せとばかりに結婚への意欲をにじませていたのは、本心だったようだ──。\n　大型連休明けの5月上旬、休みの空気がま",
-          "url": "https://news.yahoo.co.jp/articles/b9e7376d9536fbf99ab11e165b922faebf25d28e",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-17T03:00:04Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260517-00000020-flash-000-9-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Lagos assembly speaker Obasa secures APC reps ticket unopposed",
-          "description": "Lagos speaker Mudashiru Obasa is the APC candidate for the Agege federal constituency seat in the house of representatives",
-          "url": "https://www.thecable.ng/lagos-assembly-speaker-obasa-secures-apc-reps-ticket-unopposed/",
+          "title": "PBKS opt to bowl vs Jitesh-led RCB",
+          "description": "Romario Shepherd and Suyash Sharma were back for RCB",
+          "url": "https://www.espncricinfo.com/story/ipl-2026-pbks-vs-rcb-pbks-opt-to-bowl-vs-jitesh-led-rcb-1537133",
+          "source": {
+            "name": "ESPNcricinfo"
+          },
+          "publishedAt": "2026-05-17T09:56:38Z",
+          "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/417100/417109.6.jpg",
+          "language": "en"
+        },
+        {
+          "title": "WHO convenes partners to strengthen Ebola response in the Democratic Republic of the Congo",
+          "description": "The World Health Organization (WHO) is building a better future for people everywhere. Health lays the foundation for vibrant and productive communities, stronger economies, safer nations and a better world. Our work touches lives around the world every day – often in invisible ways. As the lead health authority within the United Nations (UN) system, we help ensure the safety of the air we breathe, the food we eat, the water we drink and the medicines and vaccines that treat and protect us. The Organization aims to provide every child, woman and man with the best chance to lead a healthier, longer life.",
+          "url": "https://www.afro.who.int/news/who-convenes-partners-strengthen-ebola-response-democratic-republic-congo",
+          "source": {
+            "name": "WHO | Regional Office for Africa"
+          },
+          "publishedAt": "2026-05-17T09:55:59Z",
+          "image": "https://www.afro.who.int/sites/default/files/Logo%20EN.jpg",
+          "language": "en"
+        },
+        {
+          "title": "FG launches podcast to amplify children’s voices",
+          "description": "The federal government has launched ‘FutureNow’, a podcast designed to give Nigerian children and adolescents a space to share their experiences and contribute to national discourse.",
+          "url": "https://www.thecable.ng/fg-launches-podcast-to-amplify-childrens-voices/",
           "source": {
             "name": "TheCable"
           },
-          "publishedAt": "2026-05-17T07:09:24Z",
-          "image": "https://www.thecable.ng/wp-content/uploads/2026/05/Obasa-2026-05-17-979.jpg",
+          "publishedAt": "2026-05-17T09:54:00Z",
+          "image": "https://www.thecable.ng/wp-content/uploads/2026/05/Children-podcast-2026-05-17-307.png",
           "language": "en"
         },
         {
-          "title": "VIDEO: Angry Cristiano Ronaldo refuses to pick up runner-up medal as Al-Nassr star storms down tunnel after AFC Champions League Two final loss",
-          "description": "Cristiano Ronaldo refused to collect his runner-up medal after Al-Nassr lost the AFC Champions League Two final to Gamba Osaka in Riyadh.",
-          "url": "https://www.goal.com/en-ng/lists/video-cristiano-ronaldo-refuses-runner-up-medal-nassr-afc-champions-league-two-final-loss/blt6369cf8aadfd29be",
+          "title": "Asus ROG and Xreal built the first 240Hz AR gaming glasses. They cost $849 and ship in June.",
+          "description": "The ROG Xreal R1 packs dual Sony micro-OLED displays, a 171-inch virtual screen, and Bose audio into 91 grams. Pre-orders are live on Best Buy.",
+          "url": "https://thenextweb.com/news/asus-rog-xreal-r1-240hz-ar-gaming-glasses",
           "source": {
-            "name": "Goal.com"
+            "name": "The Next Web"
           },
-          "publishedAt": "2026-05-17T07:08:44Z",
-          "image": "https://assets.goal.com/images/v3/getty-2276596447/crop/MM5DENRSGQ5DCNBXGY5G433XMU5DCOBZHI3TA===/GettyImages-2276596447.jpg",
+          "publishedAt": "2026-05-17T09:53:00Z",
+          "image": "https://media.thenextweb.com/2026/05/asus-rog-xreal-r1-240hz-ar-gaming-glasses.avif",
           "language": "en"
         },
         {
-          "title": "VIDEO: Angry Cristiano Ronaldo refuses to pick up runner-up medal as Al-Nassr star storms down tunnel after AFC Champions League Two final loss",
-          "description": "Cristiano Ronaldo refused to collect his runner-up medal after Al-Nassr lost the AFC Champions League Two final to Gamba Osaka in Riyadh.",
-          "url": "https://www.goal.com/en/lists/video-cristiano-ronaldo-refuses-runner-up-medal-nassr-afc-champions-league-two-final-loss/blt6369cf8aadfd29be",
+          "title": "Flying Scotsman returns to Great Central Railway Nottingham",
+          "description": "Flying Scotsman is back on the railway where it ran passenger services in the early 1950s.",
+          "url": "https://www.bbc.co.uk/news/articles/c23270348yjo",
           "source": {
-            "name": "Goal.com"
+            "name": "BBC"
           },
-          "publishedAt": "2026-05-17T07:08:44Z",
-          "image": "https://assets.goal.com/images/v3/getty-2276596447/crop/MM5DENRSGQ5DCNBXGY5G433XMU5DCOBZHI3TA===/GettyImages-2276596447.jpg",
+          "publishedAt": "2026-05-17T09:52:57Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1da7/live/41bf4df0-5078-11f1-b637-39d6d94b351f.jpg",
           "language": "en"
         },
         {
-          "title": "VIDEO: Angry Cristiano Ronaldo refuses to pick up runner-up medal as Al-Nassr star storms down tunnel after AFC Champions League Two final loss",
-          "description": "Cristiano Ronaldo refused to collect his runner-up medal after Al-Nassr lost the AFC Champions League Two final to Gamba Osaka in Riyadh.",
-          "url": "https://www.goal.com/en-gh/lists/video-cristiano-ronaldo-refuses-runner-up-medal-nassr-afc-champions-league-two-final-loss/blt6369cf8aadfd29be",
+          "title": "Best performing Nigerian stocks for the week ended May 15, 2026",
+          "description": "Nigerian equities closed the week ended 15 May 2026 on a positive note, as the All-Share Index advanced 2.27% to settle",
+          "url": "https://nairametrics.com/2026/05/17/best-performing-nigerian-stocks-for-the-week-ended-may-15-2026/",
           "source": {
-            "name": "Goal.com"
+            "name": "Nairametrics"
           },
-          "publishedAt": "2026-05-17T07:08:44Z",
-          "image": "https://assets.goal.com/images/v3/getty-2276596447/crop/MM5DENRSGQ5DCNBXGY5G433XMU5DCOBZHI3TA===/GettyImages-2276596447.jpg",
+          "publishedAt": "2026-05-17T09:52:23Z",
+          "image": "https://nairametrics.com/wp-content/uploads/2025/09/stock-market-analysis-digital-chart.png",
           "language": "en"
         },
         {
-          "title": "VIDEO: Angry Cristiano Ronaldo refuses to pick up runner-up medal as Al-Nassr star storms down tunnel after AFC Champions League Two final loss",
-          "description": "Cristiano Ronaldo refused to collect his runner-up medal after Al-Nassr lost the AFC Champions League Two final to Gamba Osaka in Riyadh.",
-          "url": "https://www.goal.com/en-ke/lists/video-cristiano-ronaldo-refuses-runner-up-medal-nassr-afc-champions-league-two-final-loss/blt6369cf8aadfd29be",
+          "title": "Ebola Response: Statement from the Director General, Africa CDC",
+          "description": "Geneva, 17 May 2026 On 15 May 2026, Africa CDC alerted the continent and the global community to the growing risk of regional spread of the Ebola Virus Disease (EVD) outbreak originating from Ituri province in the Democratic Republic of the Congo (DRC). The affected area is characterised by high population mobility, insecurity, and intense […]",
+          "url": "https://africacdc.org/news-item/ebola-response-statement-from-the-director-general-africa-cdc/",
           "source": {
-            "name": "Goal.com"
+            "name": "Africa CDC"
           },
-          "publishedAt": "2026-05-17T07:08:44Z",
-          "image": "https://assets.goal.com/images/v3/getty-2276596447/crop/MM5DENRSGQ5DCNBXGY5G433XMU5DCOBZHI3TA===/GettyImages-2276596447.jpg",
+          "publishedAt": "2026-05-17T09:51:54Z",
+          "image": "https://africacdc.org/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-17-at-12.41.55.jpeg",
           "language": "en"
         },
         {
-          "title": "VIDEO: Angry Cristiano Ronaldo refuses to pick up runner-up medal as Al-Nassr star storms down tunnel after AFC Champions League Two final loss",
-          "description": "Cristiano Ronaldo refused to collect his runner-up medal after Al-Nassr lost the AFC Champions League Two final to Gamba Osaka in Riyadh.",
-          "url": "https://www.goal.com/en-ug/lists/video-cristiano-ronaldo-refuses-runner-up-medal-nassr-afc-champions-league-two-final-loss/blt6369cf8aadfd29be",
+          "title": "Political cracks mar Eurovision song contest's 70th anniversary",
+          "description": "Bulgaria took the crown, but the most dramatic moment came when Israel's entry -ranked low by juries- shot to first place after the public vote, triggering a massive chorus of boos.",
+          "url": "https://www.chinadailyasia.com/hk/article/633586",
           "source": {
-            "name": "Goal.com"
+            "name": "chinadailyasia.com"
           },
-          "publishedAt": "2026-05-17T07:08:44Z",
-          "image": "https://assets.goal.com/images/v3/getty-2276596447/crop/MM5DENRSGQ5DCNBXGY5G433XMU5DCOBZHI3TA===/GettyImages-2276596447.jpg",
+          "publishedAt": "2026-05-17T09:51:48Z",
+          "image": "https://www.chinadailyhk.com/upload/main/image/2026/05/17/df92185fea6309e0c0f679367288ce2f.png",
           "language": "en"
         },
         {
-          "title": "Aukus nuclear submarine base would ‘place a massive target on our backs’, NSW labour union warns",
-          "description": "Outcry follows release of previously secret documents naming Port Kembla as preferred east coast Aukus base",
-          "url": "https://www.theguardian.com/australia-news/2026/may/17/port-kembla-nsw-aukus-nuclear-submarine-base-outcry-nsw-labour-union",
+          "title": "Activists Criticize Prabowo’s Claim Villagers Are Unaffected by Weak Rupiah",
+          "description": "The issue is not whether villagers use dollars or not, but that Indonesia’s economic structure still depends heavily on imports.",
+          "url": "https://jakartaglobe.id/business/activists-criticize-prabowos-claim-villagers-are-unaffected-by-weak-rupiah",
           "source": {
-            "name": "The Guardian"
+            "name": "Jakarta Globe"
           },
-          "publishedAt": "2026-05-17T07:06:00Z",
-          "image": "https://i.guim.co.uk/img/media/26655142c6e06d0bb36de2b6590330db678e6e1c/486_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bbd3e89f743d92a5fb9d89400af55968",
+          "publishedAt": "2026-05-17T09:51:00Z",
+          "image": "https://img2.beritasatu.com/cache/jakartaglobe/960x620-w/2025/01/1738056748-5000x3333.webp",
           "language": "en"
         },
         {
-          "title": "Senior cop held over RM5,000 extortion case",
-          "description": "Dang Wangi police chief says a complainant claimed his colleague was handcuffed until the cash was handed to the suspect at a restaurant last March.",
-          "url": "https://www.freemalaysiatoday.com/category/nation/2026/05/17/senior-cop-held-over-rm5000-extortion-case",
+          "title": "WorldSBK",
+          "description": "The #11 lost a couple of places at the start of the race but he was able to extend his winning run",
+          "url": "https://www.worldsbk.com/en/news/2026/RECOVERY+MODE+ENABLED+Bulega+responds+to+Turn+1+Lap+1+error+to+claim+victory+ahead+of+Lecuona",
           "source": {
-            "name": "Free Malaysia Today"
+            "name": "WorldSBK"
           },
-          "publishedAt": "2026-05-17T07:05:41Z",
-          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/08/853351cd-sazalee-adam-fb-270825.webp",
-          "language": "en"
-        },
-        {
-          "title": "Nine of top 10 firms lose Rs 3.12 lakh crore in mcap; rupee worries hit stocks",
-          "description": "Reliance Industries, SBI and TCS led the mcap erosion among India’s top companies as Sensex and Nifty fell amid West Asia tensions, rupee weakness and crude oil concerns.",
-          "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/nine-of-top-10-firms-lose-rs-3-12-lakh-crore-in-mcap-rupee-worries-hit-stocks-13921404.html",
-          "source": {
-            "name": "Moneycontrol.com"
-          },
-          "publishedAt": "2026-05-17T07:02:40Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260424054828_fall_market.jpg",
-          "language": "en"
-        },
-        {
-          "title": "PCOS to PMOS: All you need to know about the new name and why",
-          "description": "PCOS has been renamed Polyendocrine Metabolic Ovarian Syndrome (PMOS) after a 14-year global effort involving researchers, doctors, and patient groups.",
-          "url": "https://dubawa.org/pcos-to-pmos-all-you-need-to-know-about-the-new-name-and-why/",
-          "source": {
-            "name": "Dubawa"
-          },
-          "publishedAt": "2026-05-17T07:01:40Z",
-          "image": "https://i0.wp.com/dubawa.org/wp-content/uploads/2021/10/Dubawa-e1594194230485.jpg",
+          "publishedAt": "2026-05-17T09:51:00Z",
+          "image": "https://photos.worldsbk.com/2026/05/17/spr-report_full.jpg",
           "language": "en"
         }
       ]
