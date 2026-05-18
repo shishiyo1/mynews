@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-18T10:07:43.579Z",
+  "updatedAt": "2026-05-18T15:35:55.561Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "Windows 11、1台のPCから「複数人で音声共有」が可能に AI監視強化など最新アップデートまとめ：ITニュースピックアップ",
-          "description": "MicrosoftがWindows 11の最新プレビュー版を公開。新機能「Shared audio」による複数人での音声共有が可能になった他、タスクマネジャーのNPU監視強化、システム応答性の改善など、利便性と安定性を高める多岐にわたるアップデート内容をまとめた。",
-          "url": "https://www.itmedia.co.jp/enterprise/articles/2605/18/news021.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-05-17T22:00:00Z",
-          "image": "https://image.itmedia.co.jp/enterprise/articles/2605/18/cover_news021.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【今週発売のおすすめタイトル】『Forza Horizon 6』日本舞台のリアルレース最新作が5/19発売。『ヨッシーとフカシギの図鑑』『レゴ バットマン』など注目作も【5/18～5/24】",
-          "description": "今週（2026/5/18～5/24）に発売される注目のタイトルをピックアップ。『Forza Horizon 6』『ヨッシーとフカシギの図鑑』『レゴ バットマン：レガシー・オブ・ザ・ダークナイト』などがリリースされる。",
-          "url": "https://www.famitsu.com/article/202605/74917",
-          "source": {
-            "name": "ファミ通.com"
-          },
-          "publishedAt": "2026-05-17T22:00:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/74917/thumbnail_oOsq.jpg?x=1280",
-          "language": "ja"
-        },
-        {
-          "title": "九州～東北は晴れて季節外れの暑さ 30℃超が続出 今日5月18日(月)の天気",
-          "description": "今日18日(月)は九州から東北の広い範囲で晴れて、30℃以上の真夏日となる所が多いでしょう。北海道は雲が広がりやすく、道北の一部で夜遅くに雨が降りそうです。沖縄は梅雨の晴れ間が広がりますが、にわか雨の所があるでしょう。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/05/18/38954.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-05-17T21:52:26Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/389/38954/main/20260518061536/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "親は代弁するな…元同志社大教授が遺族に放った“暴言” 辺野古事故、広がる怒り",
-          "description": "沖縄県名護市辺野古沖で起きた、同志社国際高校の女子生徒ら2人が犠牲となった悲劇的な転覆事故。事故から2カ月が経過しようとする中、遺族の傷口をえぐり、その尊厳を根底から踏みにじるような事態が起きた。 5月17日、那覇市内で開かれた学習会で、…",
-          "url": "https://www.zakzak.co.jp/article/20260518-4DJKXTCGQ5FIFFGK7XANLGQMAQ/",
-          "source": {
-            "name": "zakⅡ"
-          },
-          "publishedAt": "2026-05-17T21:40:28Z",
-          "image": "https://www.zakzak.co.jp/resizer/v2/7EMY5D5XINOAVDEK3QOCYRQPRI.jpg?auth=73cfc744249dac67399b63fc0f09b7ed3e5582db842dd865196119933be261d0&quality=50&smart=true&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "ウクライナ、モスクワ郊外に「報復攻撃」 ドローンでの応酬激化",
-          "description": "【ウィーン=金子夏樹】ウクライナ軍は16日から17日にかけて、ロシアの首都モスクワ郊外に大規模な攻撃をしかけた。ゼレンスキー大統領はロシアがキーウを攻撃したことに対する報復措置と言明した。和平協議の機運がしぼむ中、双方の首都を狙った攻撃の応酬が激しくなっている。ロシア国防省は17日昼までの24時間で、ウクライナ軍が投入した1000機を超える無人機（ドローン）を撃墜したと公表した。ロシア側の発表",
-          "url": "https://www.nikkei.com/article/DGXZQOGR1802M0Y6A510C2000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-05-17T21:39:47Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3033026018052026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=8e4428b7ab535fce251df3f16c6c66cd",
-          "language": "ja"
-        },
-        {
-          "title": "「なぜボランチ選出は4人なのか？」守田英正と藤田譲瑠チマが“サプライズ落選”ではなかった理由「単純な人数ではない」選考に見えた、森保ジャパンの論点（Number Web）",
-          "description": "広い会見場はメンバー発表の30分以上前に全席がほぼ埋まり、会場全体は小さなザワザワ音を含む緊張感のある空気に包まれていた。負傷やコンディションの気になる候補選手が多く、メンバー発表がどうなるのか、",
-          "url": "https://news.yahoo.co.jp/articles/77725e5ed26af91fe95fba47f43ee5844789880b",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-17T21:13:05Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260518-00870465-number-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "台湾分断工作に利用された鄭麗文・国民党党首、台湾有権者との関係の転換点になる可能性も…「92年コンセンサス」が久しぶりに使われた意味とは？（Wedge（ウェッジ））",
-          "description": "演出された友好ムードの中で習近平と会談した台湾の鄭麗文・国民党党首は、中台関係を内政問題とする中国の見方を受け入れた形になり、台湾分断工作に利用された、と2026年4月12日付 Taipei Ti",
-          "url": "https://news.yahoo.co.jp/articles/1584ed16141bb6112ce7d34a5287363ed769c71d",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-17T20:00:36Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260518-00140608-wedge-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "中田カウス×霜降り明星・粗品が劇場の“新ブランド”立ち上げ「後輩に得してほしい」『よしもと粗品劇場』スタート!",
-          "description": "お笑い界の歴史にまた新たな1ページが刻まれます。 今回、上方漫才協会会長・中田カウス監修のもと、粗品（霜降り明星）が劇場の“新ブランド”となるプロジェクトを始動。その名も『よしもと粗品劇場』ーー。 はたしてどんなプロジェクトなのか。このたび会見が開かれ、カウスと粗品がその想いを述べました。 出典: FANY マガジン カウスと粗品の関係性は？ 事前情報がないなか開催された本会見。カウスは開口一番「私が粗品の教育者です」と挨拶し、笑いを誘います。続けて「粗品は、芸人が持っておかないといけない『狂気』と『愛嬌』、この2つを持っております。『狂気』と『愛嬌』がぶつかり合って化学反応を起こし、 ...",
-          "url": "https://magazine.fany.lol/276705/",
-          "source": {
-            "name": "Fany Magazine"
-          },
-          "publishedAt": "2026-05-17T20:00:00Z",
-          "image": "https://magazine.fany.lol/wp-content/uploads/2026/05/81d08b5c4e5c634dfdc6cd1aad04efbb.png",
-          "language": "ja"
-        },
-        {
-          "title": "霜降り明星・粗品プロデュースの劇場新ブランド「よしもと粗品劇場」誕生（会見レポート）",
-          "description": "霜降り明星・粗品がプロデュースする、吉本興業の劇場新ブランド「よしもと粗品劇場」が誕生。初回公演が来月6月21日（日）に東京・渋谷よしもと漫才劇場で開催される。「よしもと粗品劇場」という名目だが実際に新たな劇場ができるわ...",
-          "url": "https://natalie.mu/owarai/news/672126",
+          "title": "ミセス×M!LKが「好きすぎて滅！」コラボ、M!LKチームが用意したスペシャル衣装に3人も大興奮",
+          "description": "本日5月18日にTBS系で放送されるMrs. GREEN APPLEの冠番組「テレビ×ミセス」にM!LKがゲスト出演。ミセスの3人と大ヒット曲「好きすぎて滅！」のコラボパフォーマンスを披露する。",
+          "url": "https://natalie.mu/music/news/672415",
           "source": {
             "name": "ナタリー"
           },
-          "publishedAt": "2026-05-17T20:00:00Z",
-          "image": "https://ogre.natalie.mu/media/news/owarai/2026/0515/DSC_0750.jpg?impolicy=twitter_card_face_crop",
+          "publishedAt": "2026-05-18T03:30:00Z",
+          "image": "https://ogre.natalie.mu/media/news/music/2026/0518/0422-23-164_01-2.jpg?impolicy=twitter_card_face_crop",
           "language": "ja"
         },
         {
-          "title": "トランプ氏、イランに「再攻撃へ時計は進む」 圧力で譲歩迫る",
-          "description": "【ワシントン=甲原潤之介】トランプ米大統領は17日、イランに対し「時計は進んでいる」とSNSに投稿し、戦闘終結の交渉を巡り譲歩を迫った。「彼らは早く動いた方がいい。さもなければ何も残らなくなる」と書き込み、再攻撃を示唆して圧力をかけた。米ニュースサイト、アクシオスの取材には、イラン側が以前より良い提案を示さなければ「彼らははるかに大きな打撃を受けるだろう」と語った。イランが依然として合意を望ん",
-          "url": "https://www.nikkei.com/article/DGXZQOGN1734V0X10C26A5000000/",
+          "title": "日本が舞台の「Forza Horizon 6」軽トラで新幹線に挑む映像が話題に 世界のXboxユーザーとの感動共有も進む",
+          "description": "ASCII.jp － ゲーム",
+          "url": "https://ascii.jp/elem/000/004/402/4402789/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-05-18T03:15:00Z",
+          "image": "https://ascii.jp/img/2026/05/18/4467883/xl/aa92f13e780b941e.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "前回即完売の大反響に応え緊急再入荷！ポケモンGO(R)対応次世代デバイス「Flashman（フラッシュマン）」が完全ハードウェア制御で\"究極の直感操作\"を実現。5月18日より初夏の最速先行セール開始！：時事ドットコム",
+          "description": "［ONO貿易株式会社］～前回即完売の「Flashman」が5月18日より最速先行セールで緊急復活！完全ハードウェア制御の直感操作で、ポケ活を「画面監視」から「片手の自由」へ。Amazon大型セール前に今すぐチェック～ONO貿易株式会社（本社：東京都港区赤坂）は、前回の新発売記念・ゴールデンウィーク先取りセールにおいて予想を大幅に上回る爆発的な反響により即完売・在庫切れとなった、革新的なポケモンGO(R)対応直感操作デバイス「Flashman（フラッシュマン）（iOS限定）」について、緊急追加在庫…",
+          "url": "https://www.jiji.com/jc/article?k=000000045.000084333&g=prt",
+          "source": {
+            "name": "時事ドットコム"
+          },
+          "publishedAt": "2026-05-18T02:45:00Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/84333/45/84333-45-673266f847dcfbac9525e9a1fd967b64-1000x1000.png?width=536&quality=85%2C75&format=jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "WHOが「緊急事態」宣言、今回のエボラ出血熱流行について分かっていること",
+          "description": "世界保健機関（WHO）は17日、アフリカのコンゴ民主共和国とウガンダで流行しているエボラ出血熱について、「国際的に懸念される公衆衛生上の緊急事態」を宣言した。",
+          "url": "https://www.cnn.co.jp/world/35247624.html",
+          "source": {
+            "name": "CNN.co.jp"
+          },
+          "publishedAt": "2026-05-18T02:40:00Z",
+          "image": "https://www.cnn.co.jp/storage/2026/05/18/bd50f8e98304386179864ebeb263036e/gettyimages-2276106728.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ニデックが中国合弁解消へ EV駆動部品、永守重信氏の「拡大路線」転換",
+          "description": "ニデックが電気自動車（EV）向け駆動装置「eアクスル」で、中国企業との合弁解消に向けた協議を始めたことが18日、わかった。eアクスル事業は創業者の永守重信氏の肝煎りで、過去の拡大路線の象徴だった。同事業を大幅に縮小し構造改革に向けた戦略転換を鮮明にする。ニデックの岸田光哉社長が日本経済新聞の取材に答え、「レッドオーシャンになっているeアクスル事業からは撤退したい」と述べた。重希土類を含まないe",
+          "url": "https://www.nikkei.com/article/DGXZQOUF148AT0U6A510C2000000/",
           "source": {
             "name": "日本経済新聞"
           },
-          "publishedAt": "2026-05-17T18:58:39Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3032995017052026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.55&fp-y=0.27&h=630&w=1200&s=3fe07480e23de01189524315b2b616d2",
+          "publishedAt": "2026-05-18T02:00:00Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3033957018052026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.74&fp-y=0.3&h=630&w=1200&s=29bfc68d48b75ad45f5000881a5abe24",
+          "language": "ja"
+        },
+        {
+          "title": "新型Vision Pro、少なくとも2年は出ないぞ。…との噂",
+          "description": "Image: Apple 完全撤退。というわけではないみたいですが。チームも解散か？ みたいな話も聞こえている、Appleの空間コンピューターことXRヘッドセット「Apple Vision Pro」。",
+          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260518_1779069751770704",
+          "source": {
+            "name": "au Webポータル"
+          },
+          "publishedAt": "2026-05-18T01:30:00Z",
+          "image": "https://portal.st-img.jp/thumb/5ca9da5b8c4078a9a6e8a4497a0cac6c_1779069751_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【日産 エルグランド 新型】「威厳を取り戻したかった」デザイナーが明かす“このデザイン”になったワケ",
+          "description": "日産自動車 グローバルデザイン本部の入江慎一郎氏は、「（高級ミニバンの）市場を開拓したのは初代エルグランド。久しぶりのモデルチェンジなので、もう一度その威厳を取り戻したかった」と話す。",
+          "url": "https://s.response.jp/article/2026/05/18/411411.html",
+          "source": {
+            "name": "レスポンス（Response.jp）"
+          },
+          "publishedAt": "2026-05-18T01:05:04Z",
+          "image": "https://response.jp/imgs/ogp_f/2210720.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "田川市長の性交渉などセクハラ認定、第三者委 市長は「不倫」主張",
+          "description": "福岡県田川市の村上卓哉市長（55）をめぐり、市長秘書だった50代の女性がセクハラ被害を訴えた問題で、事実関係を究明する第三者調査委員会は18日、調査結果の報告書を市側に提出した。　報告書は、村上市長…",
+          "url": "https://www.asahi.com/articles/ASV5J2238V5JTIPE003M.html",
+          "source": {
+            "name": "朝日新聞"
+          },
+          "publishedAt": "2026-05-18T01:01:00Z",
+          "image": "https://imgopt.asahi.com/ogp/AS20260516001907_comm.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "多彩な技法でキャラクターの魅力を最大化！高付加価値なアイテム「Supre-Art（スプラート）」をODMで販売開始【株式会社トランス】",
+          "description": "株式会社トランスのプレスリリース（2026年5月18日 10時00分）多彩な技法でキャラクターの魅力を最大化！高付加価値なアイテム「Supre-Art（スプラート）」をODMで販売開始【株式会社トランス】",
+          "url": "https://prtimes.jp/main/html/rd/p/000000041.000133884.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-05-18T01:00:02Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/133884/41/133884-41-099d36e5ebf6e1a18ee8c5bc7ec08242-900x900.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "【スタートアップワールドカップ2026東京予選】先着100社限定！来場3000名イベントでの出展企業募集中！締切は5/31まで",
+          "description": "株式会社ペガサス・テック・ベンチャーズ・ジャパンのプレスリリース（2026年5月18日 10時00分）【スタートアップワールドカップ2026東京予選】先着100社限定！来場3000名イベントでの出展企業募集中！締切は5/31まで",
+          "url": "https://prtimes.jp/main/html/rd/p/000000198.000044738.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-05-18T01:00:02Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/44738/198/44738-198-3df24cabd41f131a1fd9fef5664e2454-1600x783.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Cyclists commute at sunrise on the 'beautiful' Te Ara Tupua",
-          "description": "\"I've been actually dreaming of this,\" says one rider.",
-          "url": "https://www.rnz.co.nz/news/community/595529/cyclists-commute-at-sunrise-on-the-beautiful-te-ara-tupua",
+          "title": "Aussies: Take the IGN 30 \"Generations in Play\" Survey and Tell Your Story",
+          "description": "30 years. Millions of fans. One community made it all possible - and we want to hear your story.",
+          "url": "https://in.ign.com/feature/261020/aussies-take-the-ign-30-generations-in-play-survey-and-tell-your-story",
           "source": {
-            "name": "RNZ"
+            "name": "IGN India"
           },
-          "publishedAt": "2026-05-17T22:07:39Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--txhQo9T5--/t_tohu-badge-facebook/v1779053875/4JOG3UE_20260518_074409_jpg?_a=BACCd2AD",
+          "publishedAt": "2026-05-18T03:35:01Z",
+          "image": "https://sm.ign.com/t/ign_in/feature/a/aussies-ta/aussies-take-the-ign-30-generations-in-play-survey-and-tell_ura2.1200.jpg",
           "language": "en"
         },
         {
-          "title": "India, Sweden agree to elevate bilateral ties to Strategic Partnership | highlights",
-          "description": "PM Modi Sweden Visit LIVE: Follow the latest updates of Narendra Modi's third leg of his five-nation tour, on May 17, 2026",
-          "url": "https://www.thehindu.com/news/national/narendra-modi-five-nation-tour-live-updates-uae-netherlands-sweden-norway-italy-trade-investment-west-asia-crisis/article70989625.ece",
+          "title": "Ombudsman serves suspension vs Aplasca; gets CCTV of shooting",
+          "description": "The Office of the Ombudsman on Monday served both the six-month preventive suspension against acting Senate sergeant-at-arms Mao Aplasca",
+          "url": "https://newsinfo.inquirer.net/2230520/ombudsman-serves-suspension-vs-aplasca-gets-cctv-footage-of-shooting",
           "source": {
-            "name": "The Hindu"
+            "name": "Inquirer.net"
           },
-          "publishedAt": "2026-05-17T22:07:09Z",
-          "image": "https://th-i.thgim.com/public/incoming/toe6y8/article70991232.ece/alternates/LANDSCAPE_1200/20260517474L.jpg",
+          "publishedAt": "2026-05-18T03:35:00Z",
+          "image": "https://newsinfo.inquirer.net/files/2026/05/SGT-Aplasca-14may2026.jpg",
           "language": "en"
         },
         {
-          "title": "Christchurch townhouse boom seeing half-finished developments across city",
-          "description": "And other two-bedroom units are sitting unsold in Christchurch for months, a builder says.",
-          "url": "https://www.rnz.co.nz/news/business/595528/christchurch-townhouse-boom-seeing-half-finished-developments-across-city",
+          "title": "Iron availability modulates bacteria carbon cycling in the mesopelagic",
+          "description": "The mesopelagic zone is an important boundary between the surface and the deep ocean. Heterotrophic bacteria in this region impact the attenuation of organic carbon (Corg) through its consumption and conversion back to inorganic carbon. While iron (Fe) is known to limit primary production, the impact of Fe on mesopelagic heterotrophic bacteria growth and Corg degradation is less understood. This study demonstrates serial Fe-limitation and Fe-Corg colimitation of bacteria growth within mesopelagic waters across an oligotrophic and a productive oceanic region. The addition of Fe increased the total Corg demand of mesopelagic bacteria. When Corg was supplied without additional Fe, bacterial growth efficiencies declined and production of Fe-specific chelators (siderophores) increased. Mesopelagic bacteria exhibited cellular Fe quotas substantially higher than those previously reported in surface waters and showed high plasticity in intracellular Fe when Corg stimulated growth. These findings reveal a dynamic coupling between Fe and Corg availability that may regulate bacterial metabolism in parts of the mesopelagic, with implications for basin-scale differences in Corg remineralization and Fe cycling.",
+          "url": "https://www.nature.com/articles/s41598-026-49839-8?error=cookies_not_supported&code=a781a21b-873c-4cdb-a3f5-03697c7d5a5f",
           "source": {
-            "name": "RNZ"
+            "name": "Nature"
           },
-          "publishedAt": "2026-05-17T22:06:51Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--4uWXEGUQ--/t_tohu-badge-facebook/v1644247554/4MVPT09_copyright_image_226510?_a=BACCd2AD",
+          "publishedAt": "2026-05-18T03:33:45Z",
+          "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
           "language": "en"
         },
         {
-          "title": "Trump issues dire warning to Iran to accept peace deal",
-          "description": "US president cautions ‘there won’t be anything left’ of Iran unless an agreement is reached amid escalating attacks across the region.",
-          "url": "https://www.freemalaysiatoday.com/category/highlight/2026/05/18/trump-issues-dire-warning-to-iran-to-accept-peace-deal",
+          "title": "Sreeleela's Dating Rumours, Mother Clears Air!",
+          "description": "These days, social media is turning every random coincidence into a full blown relationship story. One photo, one public appearance, and instantly",
+          "url": "https://www.gulte.com/movienews/411841/sreeleelas-dating-rumours-mother-clears-air",
           "source": {
-            "name": "Free Malaysia Today"
+            "name": "Gulte"
           },
-          "publishedAt": "2026-05-17T22:05:08Z",
-          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/05/aac034f5-donald-trump-6.jpg",
+          "publishedAt": "2026-05-18T03:33:27Z",
+          "image": "https://cdn.gulte.com/wp-content/uploads/2026/05/tilak-varma-sreeleela-.jpg",
           "language": "en"
         },
         {
-          "title": "ICC prosecutors want November start for Duterte trial",
-          "description": "PROSECUTORS at the International Criminal Court (ICC) have proposed that the trial of former president Rodrigo Duterte begin on Nov. 30, 2026, while lawyers representing victims urged judges to start proceedings earlier in September and pressed for the use of Tagalog and Cebuano interpreters to ensure affected communities can follow the case.",
-          "url": "https://www.manilatimes.net/2026/05/18/news/national/icc-prosecutors-want-november-start-for-duterte-trial/2345745",
+          "title": "Alex Calleja to bring signature brand of comedy to Japan",
+          "description": "Stand-up comedian Alex Calleja is bringing his signature brand of comedy to Japan as he gears up for a live performance at the Yokosuka Arts Theatre in",
+          "url": "https://manilastandard.net/spotlight/314740988/alex-calleja-to-bring-signature-brand-of-comedy-to-japan.html",
           "source": {
-            "name": "The Manila Times"
+            "name": "Manila Standard"
           },
-          "publishedAt": "2026-05-17T22:04:23Z",
-          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/18/1060485.jpg",
+          "publishedAt": "2026-05-18T03:33:22Z",
+          "image": "https://cdn.manilastandard.net/wp-content/uploads/2026/05/tawanan-sa-japan.jpg",
           "language": "en"
         },
         {
-          "title": "Applelotter WSET Scholarships winners 2026 announced",
-          "description": "The International Wine Education Centre and the Applelotter team announces the winners of the 2026 Applelotter WSET Scholarships.",
-          "url": "https://news.wine.co.za/News.aspx?NEWSID=46978",
+          "title": "Sabres vs. Canadiens Game 7 predictions by NHL.com staff",
+          "description": "Winner of epic series to face Hurricanes in Eastern Conference Final",
+          "url": "https://www.nhl.com/news/sabres-canadiens-game-7-nhl-com-staff-predictions",
           "source": {
-            "name": "wine.co.za"
+            "name": "NHL.com"
           },
-          "publishedAt": "2026-05-17T22:04:18Z",
-          "image": "http://images.wine.co.za/GetImage.ashx?IMAGEID=370130&ImageType=news&mode=social",
+          "publishedAt": "2026-05-18T03:32:26Z",
+          "image": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/v1779051495/prd/obppwela5ltbjbeqscnj.jpg",
           "language": "en"
         },
         {
-          "title": "East African refinery plan gains momentum as Museveni meets Dangote, backs regional integration",
-          "description": "Yoweri Museveni has thrown his support behind a proposed East African regional refinery project following talks with Aliko Dangote, signaling growing momentum for deeper energy cooperation and industrial integration across the region. | Business Insider Africa",
-          "url": "https://africa.businessinsider.com/local/markets/east-african-refinery-plan-gains-momentum-as-museveni-meets-dangote-backs-regional/s6gr9rp",
+          "title": "More private hospitals back Philhealth's expanded healthcare packages for the poor",
+          "description": "The Philippine Health Insurance Corporation (Philhealth) has initiated partnerships with private hospitals as part of the agency’s expanded healthcare...",
+          "url": "https://mb.com.ph/2026/05/18/more-private-hospitals-partners-backs-philhealths-expanded-healthcare-packages-for-the-poor",
           "source": {
-            "name": "Business Insider Africa"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-05-17T22:04:11Z",
-          "image": "https://ocdn.eu/pulscms-transforms/1/LLyktkpTURBXy8xYzM1MWVlYmUzZjEyN2RmZDBmOGJjYTAzODEwZmM1ZS5qcGeSlQMAzH_ND_3NCQGTBc0EsM0Cdg",
+          "publishedAt": "2026-05-18T03:31:39Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/18/101995.webp",
           "language": "en"
         },
         {
-          "title": "NZ Government debt costs lift as bond yields push higher",
-          "description": "New Zealand government debt servicing costs are rising as sovereigns around the world grapple with higher inflation and greater demands on the public purse....",
-          "url": "https://www.nzherald.co.nz/business/markets/nz-funding-costs-lift-as-government-bond-yields-push-higher/premium/TZ765BXL5FBYRLNAJMVWMQ3RQI/",
+          "title": "IPL 2026: Ricky Ponting Left Alone On Punjab Kings Bench After Defeat, R Ashwin Heartbroken",
+          "description": "Punjab Kings coach Ricky Ponting looked heartbroken as the franchise lost its 6th consecutive match of the IPL 2026 season.",
+          "url": "https://sports.ndtv.com/ipl-2026/heartbroken-ricky-ponting-sits-alone-in-punjab-kings-dugout-r-ashwin-says-powerful-picture-11509952",
           "source": {
-            "name": "NZ Herald"
+            "name": "NDTV Sports"
           },
-          "publishedAt": "2026-05-17T22:02:42Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/GPXMWKMJ4VHWZI33OEKBM53OFY.jpg?auth=e9d2e72df7fa019160216e244ff22c63c328afd207606c1e585fb3f171445733&width=1200&height=675&quality=70&smart=true",
+          "publishedAt": "2026-05-18T03:30:42Z",
+          "image": "https://c.ndtvimg.com/2026-05/6blcfvl4_ponting-and-ashwin_625x300_18_May_26.jpeg",
           "language": "en"
         },
         {
-          "title": "WHO Declares Ebola Outbreak in Congo and Uganda a Public Health Emergency",
-          "description": "The WHO has declared the Ebola outbreak in Congo and Uganda a public health emergency due to significant global health risks.",
-          "url": "https://thecsrjournal.in/who-declares-ebola-outbreak-congo-uganda-a-public-health-emergency/",
+          "title": "The fiscal space test",
+          "description": "Stabilisation has bought Pakistan a budget cycle; FY27 should use it to build.",
+          "url": "https://www.dawn.com/news/2001089",
           "source": {
-            "name": "The CSR Journal"
+            "name": "Dawn"
           },
-          "publishedAt": "2026-05-17T22:02:24Z",
-          "image": "https://thecsrjournal.in/wp-content/uploads/2026/05/WHO-Declares-Ebola-Outbreak-in-Congo-and-Uganda-a-Public-Health-Emergency.webp",
+          "publishedAt": "2026-05-18T03:28:50Z",
+          "image": "https://i.dawn.com/large/2026/05/18085517d642a97.webp",
           "language": "en"
         },
         {
-          "title": "Acer PH rolls out back-to-school deals on laptops, desktops",
-          "description": "Acer Philippines is offering back-to-school deals on select laptops and desktops, including up to P10,000 in vouchers and 0% installment plans.",
-          "url": "https://www.speed.ph/acer-bag-of-deals-back-to-school-promo/",
+          "title": "Korean drama Perfect Crown apologises after backlash over royal coronation inaccuracies",
+          "description": "After facing backlash from historical inaccuracies in the coronation scene, the team behind Perfect Crown has issued a formal apology.",
+          "url": "https://cnalifestyle.channelnewsasia.com/entertainment/korean-drama-perfect-crown-apology-historical-inaccuracies-disney-plus-583236",
           "source": {
-            "name": "speed.ph"
+            "name": "CNA Lifestyle"
           },
-          "publishedAt": "2026-05-17T22:02:22Z",
-          "image": "https://www.speed.ph/wp-content/uploads/Acer-Bag-of-Deals.jpg",
+          "publishedAt": "2026-05-18T03:26:43Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--snMR_q0i--/c_crop,h_516,w_917,x_90,y_53/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/18/perfect_crown.jpg?itok=bkNqqPPh",
           "language": "en"
         }
       ]
