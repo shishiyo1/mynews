@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-18T19:46:04.083Z",
+  "updatedAt": "2026-05-18T22:04:04.708Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "戦闘準備を進めるイラン 国営テレビは生放送中に発砲、集会では市民に銃の使い方を訓練",
+          "description": "イラン首都テヘランに夜が訪れ、アルボルズ山脈の頂きが闇に消えていくころ、何千人ものイラン人が決まったように街頭へと繰り出し、反米支持者の動員を目的とした国家主導の集会に参加している。 - (1/2)",
+          "url": "https://www.cnn.co.jp/world/35247646.html",
+          "source": {
+            "name": "CNN.co.jp"
+          },
+          "publishedAt": "2026-05-18T09:25:00Z",
+          "image": "https://www.cnn.co.jp/storage/2026/05/18/0ca1e4ef95568f5dc1f9dd5c0fa9adfd/gettyimages-2271249786.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『豊臣兄弟！』吉岡里帆演じる妻の “オリジナル過去” にあふれる苦言…史実から大きく逸脱した演出に「歴史軽視」の声も",
+          "description": "5月16日、NHK大河ドラマ『豊臣兄弟！』第19話「過去からの刺客」が放送された。\n　織田信長（小栗旬）は嫡男・信忠（小関裕太）に家督を譲り、安土に城を造り始める。秀吉（池松壮亮）は柴田勝家（山",
+          "url": "https://news.yahoo.co.jp/articles/8eb2f5f2881b3e0e01ae747400eedafa117a7938",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-18T08:40:08Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260518-00000032-flash-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【速報】「CT検査で見つかった肺がんの疑いを見落とす」患者の70代男性は1年4カ月後に「肺がんステージ３A」と診断 その後症状が悪化し死亡 兵庫県立はりま姫路総合医療センターで医療事故",
+          "description": "兵庫県は、県立はりま姫路総合医療センターで70代の男性患者のCT検査で見つかった肺がんの疑いを見落とす医療事故があったと発表しました。\n男性患者はその後、肺がんと診断され、治療を受けましたが死亡しました。\n■2022年3月に「肺がん疑い」と記載も確認不足で精査行われず\n発表によると、2022年1月、この男性患者が旧姫路循環器病センターで腹部大動脈瘤の手術を受けた際のCT検査で「1cm大の肺結節」との記載がありましたが、患者への説明は行われませんでした。\nそしてその2カ月後・2022年3月に、男性患者が胸部大動脈瘤の手術のため入院した際、術後のCT検査で放射線診断科医が「結節増大、肺がん疑い、呼吸器内科へのコンサルト要」と記載しました。\nしかし、入院中の主治医の確認不足により精査は行われず、2022年4月に退院。外来の主治医も入院中に対応済と認識していたため、追加対応を行いませんでした。\n■その後「肺がんのステージ3A」と診断され治療受けるも1年3カ月後に死亡\nその後男性患者は、2023年5月に閉塞性肺炎の疑いではりま姫路総合医療センターへ緊急入院となり、この肺がんの疑いに対して未対応であったことが判明。検査の結果、「肺がんのステージ3A」と診断されました。\n2023年6月から放射線治療と化学療法の併用療法を開始しましたが、2024年8月に病状が悪化し、患者は自宅で肺がんにより死亡したということです。\n■原因は「情報共有体制が十分に機能していなかった」など\n県は事故の原因について、CT検査報告書の既読確認システムは構築していたものの、重要な所見に対する対応状況までを確認するシステムが構築できていなかったと説明。\nまた、重要な診断情報について、診療科内での情報共有体制が十分に機能していなかったとしています。\n■再発防止へシステム改修も\n今後の対応として、既読管理システムに放射線診断科医が重要と判断した所見にチェックを入れる「重要」欄を作成し、主治医や医療安全部へ重要所見があることを通知するシステムに変更したということです。\nさらに、重要な診断情報について診療科内で確実に共有するため、カンファレンス等での確認および所見に対する対応記録の徹底を関係職員へ周知・教育するとしています。",
+          "url": "https://www.ktv.jp/news/articles/?id=27127",
+          "source": {
+            "name": "ktv.jp"
+          },
+          "publishedAt": "2026-05-18T08:15:00Z",
+          "image": "https://www.ktv.jp/news/data/images/27127_01.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "G7財務相会議開幕､強まる｢世界経済の逆風｣ 原油･肥料に供給リスク",
+          "description": "主要7カ国（G7）の財務相・中央銀行総裁会議が18日、仏パリで開幕した。中東危機により世界経済の「逆風」は1カ月前の想定より強まっている。G7で足並みをそろえ、原油価格や肥料供給の安定で政策協調を進める。議長国フランスのレスキュール経済・財務相、ベッセント米財務長官のほか、G7の中央銀行総裁らが参加した。日本からは片山さつき財務相と日銀の植田和男総裁が出席した。「多国間主義の有用性が疑問視さ",
+          "url": "https://www.nikkei.com/article/DGXZQOUA182NP0Y6A510C2000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-05-18T08:05:30Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3036281018052026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.48&fp-y=0.37&h=630&w=1200&s=ec445ac8ca3411b519b2b3d8823ce1ab",
+          "language": "ja"
+        },
+        {
+          "title": "「国旗を傷つけたら拘禁2年」高市総理“悲願法案”に自民党内からも「意味がない」の声…水面下でしらけムードが広がる理由（集英社オンライン）",
+          "description": "高市政権が今国会で成立を目指す「国旗損壊罪」。日本国旗を傷つける行為を法律で禁じるもので、高市早苗総理にとって制定は長年の悲願でもある。自民党内では、表だった反対論は限られているものの、水面下では懸",
+          "url": "https://news.yahoo.co.jp/articles/ec95c2314e5674edda3fed5f345f7fe9cc318f55",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-18T08:00:37Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260518-00257571-shueisha-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "4度のW杯を経験した“空気清浄機”、その真価を振り返る…後藤啓介、堂安律、森保監督も求めた“長友基準”",
+          "description": "DF長友佑都(FC東京)が、日本代表の“基準”を引き上げる。39歳で自身5度目となるワールドカップメンバー入り。ピッチ内外での存在感が改めて注目されるなか、若手選手や森保一監督が口をそろえて語るのが、“長友...",
+          "url": "https://web.gekisaka.jp/news/japan/detail/?451711-451711-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-05-18T08:00:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/452000/451711/news_451711_1.jpg?time=20260518170527",
+          "language": "ja"
+        },
+        {
+          "title": "白くて強いゲーミングPCに、MSIのディスプレーが無料で付いてくる。Ryzen 7＋Radeon 16GB＋液晶簡易水冷のSTORM製PCが狙い目！",
+          "description": "STORMでは現在、「今だけW無料 大盤振る舞いキャンペーン」を開催中。対象製品購入でMSIの120Hz対応ゲーミングモニターが付いてくるほか、全製品の送料が無料となっている。",
+          "url": "https://ascii.jp/elem/000/004/402/4402818/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-05-18T08:00:00Z",
+          "image": "https://ascii.jp/img/2026/05/18/4467928/xl/5cd40f5056340088.png?20200122",
+          "language": "ja"
+        },
         {
           "title": "PCゲーをスマホブラウザで遊ぶクラウドサービスをDLsite運営の親会社が発表。買い切りで気になるゲームをすぐ楽しめる「viviON GAMES」",
           "description": "PCゲームがスマートフォンで楽しめる、新たなクラウドゲーミングサービスが登場します。",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-05-18T07:30:00Z",
           "image": "https://cimg.kgl-systems.io/camion/files/75082/thumbnail_zFNX.jpg?x=1280",
           "language": "ja"
-        },
-        {
-          "title": "今日18日は全国で初猛暑日など記録ずくめの暑さ 24日以降もかなりの高温",
-          "description": "今日18日の日中は全国的に強い日差しが照り付け、気温が高くなりました。大分県日田市などで最高気温が35℃を超えて全国で今年初の猛暑日になったほか、真夏日地点数、夏日地点数ともに今年最多で、記録ずくめの暑さとなりました。明日19日も季節先取りに暑さになりますが、24日(日)以降もかなりの高温となる見込みで、熱中症に注意・警戒が必要です。",
-          "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/05/18/38962.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-05-18T07:15:43Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/389/38962/main/20260518171052/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "横浜vs健大高崎の好カードが間もなく開催！横浜は154キロ右腕のエースが先発！【関東大会】 ｜記事一覧｜高校野球ドットコム",
-          "description": "頑張っている球児を応援する高校野球報道サイト。コラムや試合記事など高校野球情報を公開中。",
-          "url": "https://www.hb-nippon.com/articles/13395",
-          "source": {
-            "name": "高校野球ドットコム"
-          },
-          "publishedAt": "2026-05-18T07:06:28Z",
-          "image": "https://cdn.hb-nippon.com/article-img/01KRWH0XE21T3QN7V3RHPPX1J0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「これぞボクサーミニバン最終形態！」水平対向6気筒を換装したエクシーガが凄すぎた…",
-          "description": "スバルの7人乗りミニバン「エクシーガ」に、レガシィ用の3.6L水平対向6気筒（EZ36）と5速ATを移植した驚愕の1台が登場。最大の難関だった複雑な制御系を“オートプロデュースA3”が完全攻略。カプラーオンに拘った配線処理により、アイサイトや電動パーキングブレーキまでエラーなしで正常稼働させる、まさにメーカーレベルの超大作だ。",
-          "url": "https://motor-fan.jp/article/1487570/",
-          "source": {
-            "name": "Motor Fan"
-          },
-          "publishedAt": "2026-05-18T07:00:00Z",
-          "image": "https://motor-fan.jp/wp-content/uploads/2026/05/EXIGA_EZ36_AZ015.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "高畑裕太の「不祥事」声明 当時の女性の弁護士は「突然の声明でしたので、驚いている」",
-          "description": "俳優の高畑裕太（32）が2016年に女性との間で起こした「不祥事」について発表した声明を巡り、当時、高畑、女性のそれぞれの代理人を務めた弁護士が18日、取材にコメントした。\n　女性の代理人を務め",
-          "url": "https://news.yahoo.co.jp/articles/ca79fd9f34dd69cd999f2fef15462a1fa2080b2c",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-18T06:20:28Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260518-00388649-tospoweb-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "エボラ出血熱、コンゴ民主共和国で流行 WHOが「国際的な緊急事態」宣言",
-          "description": "コンゴ民主共和国（旧ザイール）でエボラ出血熱の流行が発生しており、世界保健機関（WHO）は17日、「国際的に懸念される公衆衛生上の緊急事態」に当たると宣言した。これまでに、感染が疑われるケースが246件、死者が80人報告されているが、パンデミック（世界的大流行）の緊急事態の基準には達していないという。",
-          "url": "https://www.bbc.com/japanese/articles/c62x0yy6x0eo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-05-18T06:06:39Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_japanese/b21f/live/f9262040-5276-11f1-89a3-d1f559421220.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "26 優勝報告会（追加情報）｜ガンバ大阪オフィシャルサイト",
-          "description": "本日開催いたしますAFCチャンピオンズリーグ2 2025/26 優勝報告会に関するお知らせをさせていただきます。ご確認のほどよろしくお願い致します。【YouTubeライブ配信実施】優勝報告会の様子をガ",
-          "url": "https://www.gamba-osaka.net/news/index/no/20323/",
-          "source": {
-            "name": "ガンバ大阪オフィシャルサイト"
-          },
-          "publishedAt": "2026-05-18T05:12:24Z",
-          "image": "https://www.gamba-osaka.net/c/common/images/og_img.jpg?104350",
-          "language": "ja"
-        },
-        {
-          "title": "後場の日経平均は663円安でスタート、ソフトバンクGや東京エレクトロンなどが下落／後場の寄り付き概況(フィスコ)",
-          "description": "後場の日経平均は前営業日比663.87円安の60745.42円と前引け値（60843.09円）から下げ幅を広げて取引を開始した。ランチタイムの日経225先物は、もみ合い推移。前場の日経平均は、売りが先行し、61000円付近でのもみ合いとなったものの、中...",
-          "url": "https://finance.yahoo.co.jp/news/detail/67e7306297b81e047e93c22b11ac5eee02c9da14",
-          "source": {
-            "name": "Yahoo!ファイナンス"
-          },
-          "publishedAt": "2026-05-18T04:01:00Z",
-          "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "DOE: Use of diesel plants during red, yellow alerts may push rates slightly higher",
-          "description": "The Department of Energy (DOE) on Monday said that while there is no direct correlation between the declaration of yellow and red alerts on electricity rates, the thin power supply forced the use of more expensive diesel power plants, which could slightly raise power costs.",
-          "url": "https://www.gmanetwork.com/news/topstories/nation/988017/doe-use-of-diesel-plants-during-red-yellow-alerts-may-push-rates-slightly-higher/story/",
+          "title": "IT firm Kainos still hiring graduates despite AI job fears",
+          "description": "The chief executive of Northern Ireland's biggest software firm says they plan to take on another 200 graduates.",
+          "url": "https://sg.news.yahoo.com/firm-kainos-still-hiring-graduates-100325516.html",
           "source": {
-            "name": "GMA Network"
+            "name": "Yahoo News Singapore"
           },
-          "publishedAt": "2026-05-18T07:45:55Z",
-          "image": "https://images.gmanews.tv/webpics/2021/02/doe_2021_02_07_19_23_39.jpg",
+          "publishedAt": "2026-05-18T10:03:25Z",
+          "image": "https://s.yimg.com/os/en/bbc_us_articles_995/64f68d93b7ec1b82597074ef63dcf9ba",
           "language": "en"
         },
         {
-          "title": "Cate Blanchett laments #MeToo movement 'got killed very quickly' in Hollywood",
-          "description": "The Oscar-winning actor says Hollywood's reckoning over sexual misconduct and gender equality has stalled despite the global impact of #MeToo.",
-          "url": "https://www.abc.net.au/news/2026-05-18/cate-blanchett-laments-that-metoo-movement-got-killed-quickly/106693726",
+          "title": "Ontario university going after YouTuber for videos filmed on campus",
+          "description": "Fique Ayub Fique recorded two pranks where he affected “an exaggerated Indian accent” to interrupt lectures while cooking curry.",
+          "url": "https://nationalpost.com/news/canada/ontario-university-going-after-youtube-prankster-for-viral-videos-filmed-on-campus",
           "source": {
-            "name": "Australian Broadcasting Corporation"
+            "name": "National Post"
           },
-          "publishedAt": "2026-05-18T07:45:41Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/8580fdeafadbc79b7d812fa52ef4c5e2?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=126&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-05-18T10:02:43Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/05/Fique-Ayub-Fique-1.jpg",
           "language": "en"
         },
         {
-          "title": "Petition filed to halt fuel prices hike as activist cites illegality, economic harm",
-          "description": "A Nairobi-based activist has filed a petition in the High Court seeking orders to halt the latest fuel price increases.",
-          "url": "https://www.standardmedia.co.ke/national/article/2001548087/petition-filed-to-halt-fuel-prices-hike-as-activist-cites-illegality-economic-harm",
+          "title": "Burnham pledges not to 're-run' Brexit arguments",
+          "description": "The potential leadership challenger says he is not proposing the UK considers rejoining the EU.",
+          "url": "https://www.bbc.co.uk/news/articles/cx21en4807wo",
           "source": {
-            "name": "standardmedia.co.ke"
+            "name": "BBC"
           },
-          "publishedAt": "2026-05-18T07:44:00Z",
-          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/SPXFieVPa9B4HGJsk2aePpvEneFXD5P9TEQWQw3Z.jpg",
+          "publishedAt": "2026-05-18T10:02:11Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e439/live/be0e8700-52d9-11f1-a650-a94a8fc7de38.jpg",
           "language": "en"
         },
         {
-          "title": "Accelerating African biomedicine: Breaking research silos through translation",
-          "description": "UCT’s Faculty of Health Sciences Multi-Institute Symposium advocated for breaking academic silos to actively build a vision for the future of biomedical science in Africa.",
-          "url": "https://www.news.uct.ac.za/article/-2026-05-16-accelerating-african-biomedicine-breaking-research-silos-through-translation",
+          "title": "Fidelis Partnership teams up with Howden to streamline complex risk submissions",
+          "description": "The Fidelis Partnership has partnered with Howden to roll out a digital submission tool ​aimed at speeding up the way complex risks ‌are passed from brokers to underwriters before policies are bound, the company said on Monday.",
+          "url": "https://www.theinsurer.com/ti/news/fidelis-partnership-teams-up-with-howden-to-streamline-complex-risk-submissions-2026-05-18/",
           "source": {
-            "name": "UCT News"
+            "name": "theinsurer.com"
           },
-          "publishedAt": "2026-05-18T07:42:33Z",
-          "image": "https://www.news.uct.ac.za/images/userfiles/images/researchoffice/2026/05_May/FHS_MultiInstitute_Symposium/MultiInstituteSymposium_lead.jpg",
+          "publishedAt": "2026-05-18T10:01:51Z",
+          "image": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FVRNJICZ7GBBRJKM3QVUYCZE2VU.JPG?auth=fa1cf62e34c15bd123ac1246a14d706bdf80282cb2964e032bc0c9e2f7323c01&width=480&quality=80",
           "language": "en"
         },
         {
-          "title": "Backscreen powers Tet TV+ with with cross-gen UX",
-          "description": "Tet - the leading telco in Latvia – has relaunched its consumer Tet TV+, based on the Backscreen OTT platform. The update provides a new cross-gen interface,",
-          "url": "https://www.advanced-television.com/2026/05/18/backscreen-powers-tet-tv-with-with-cross-gen-ux/",
+          "title": "Nigerian, US forces kill over 20 ISIS fighters in fresh Borno",
+          "description": "The operation formed part of sustained offensives aimed at dismantling terrorist networks and denying insurgents safe havens in Nigeria.",
+          "url": "https://www.icirnigeria.org/nigerian-us-forces-kill-over-20-isis-fighters-in-fresh-borno-airstrikes/",
           "source": {
-            "name": "Advanced Television"
+            "name": "The ICIR"
           },
-          "publishedAt": "2026-05-18T07:42:29Z",
-          "image": "https://www.advanced-television.com/wp-content/uploads/2026/05/TetTV.png",
+          "publishedAt": "2026-05-18T10:01:45Z",
+          "image": "https://www.icirnigeria.org/wp-content/uploads/2024/10/DHQ-2.jpg",
           "language": "en"
         },
         {
-          "title": "Tribal elder among three killed in Wana bazaar IED blast; four injured",
-          "description": "Police say unidentified militants had planted explosives near area during night, which were detonated remotely and caused blast in morning",
-          "url": "https://pakobserver.net/tribal-elder-among-three-killed-in-wana-bazaar-ied-blast-four-injured/",
+          "title": "Paul Adom-Otchere speaks on how he landed GACL appointment",
+          "description": "Renowned broadcaster Paul Adom-Otchere has disclosed that he actively secured his appointment as Board Chairman of the Ghana Airports Company Limited (GACL) by directly lobbying former President Nana Addo Dankwa Akufo-Addo.",
+          "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Paul-Adom-Otchere-speaks-on-how-he-landed-GACL-appointment-2034999",
           "source": {
-            "name": "Pakistan Observer"
+            "name": "GhanaWeb"
           },
-          "publishedAt": "2026-05-18T07:42:21Z",
-          "image": "https://pakobserver.net/wp-content/uploads/2026/05/tribal-elder-among-three-killed-in-wana-bazaar-ied-blast-four-injured-pakobserver-755218-1.jpg",
+          "publishedAt": "2026-05-18T10:01:39Z",
+          "image": "https://cdn.ghanaweb.com/imagelib/pics/945/94505323.jpg",
           "language": "en"
         },
         {
-          "title": "PSX loses 2,000 points during intraday trade as bearish momentum persists",
-          "description": "Most Asian shares sink in morning trade, as Middle East impasse drives oil prices over 2pc higher.",
-          "url": "https://www.dawn.com/news/2001140",
+          "title": "Potential next United Nations Secretary-General visits Latvia",
+          "description": "On May 18th, outgoing Latvian Prime Minister Evika Siliņa met with potentially the incoming United Nations Secretary General, Rebeca Grynspan Mayufis.",
+          "url": "https://eng.lsm.lv/article/politics/diplomacy/18.05.2026-potential-next-united-nations-secretary-general-visits-latvia.a647603/",
           "source": {
-            "name": "Dawn"
+            "name": "LSM"
           },
-          "publishedAt": "2026-05-18T07:40:41Z",
-          "image": "https://i.dawn.com/large/2026/05/181237416974106.webp",
+          "publishedAt": "2026-05-18T10:01:38Z",
+          "image": "https://static.lsm.lv/media/2026/05/large/1/tc4u.jpg",
           "language": "en"
         },
         {
-          "title": "year ban for unchecked AI",
-          "description": "Platform clarifies policy around author responsibility and consequences for failing to verify AI-generated material",
-          "url": "https://www.researchinformation.info/news/arxiv-imposes-one-year-ban-for-unchecked-ai-generated-content/",
+          "title": "Tomorrow never dies for James Bond. Auditions officially underway to find the new 007",
+          "description": "Amazon MGM Studios announced that its search for the next lead of the iconic spy franchise has officially begun.",
+          "url": "https://www.thestar.com.my/lifestyle/entertainment/2026/05/18/tomorrow-never-dies-for-james-bond-auditions-officially-underway-to-find-the-new-007",
           "source": {
-            "name": "Research Information"
+            "name": "The Star | Malaysia"
           },
-          "publishedAt": "2026-05-18T07:40:29Z",
-          "image": "https://www.researchinformation.info/wp-content/uploads/2025/05/Wiley.jpeg",
+          "publishedAt": "2026-05-18T10:01:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/05/18/3913430.jpg",
           "language": "en"
         },
         {
-          "title": "Middle East crisis live: Trump warns ‘clock is ticking’ for Iran to reach peace deal",
-          "description": "US president says there ‘won’t be anything left’ of country if it doesn’t come to an agreement",
-          "url": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
+          "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
+          "description": "Live broadcasts from the Global Sumud flotilla show commandos boarding several boats trying to breach the Gaza maritime blockade.",
+          "url": "https://www.bbc.co.uk/news/articles/c142vz80553o",
           "source": {
-            "name": "The Guardian"
+            "name": "BBC"
           },
-          "publishedAt": "2026-05-18T07:39:12Z",
-          "image": "https://i.guim.co.uk/img/media/7fd55803ddea3e722fb27b8671e91314522e1711/118_0_5845_4676/master/5845.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=de907c2ff7fa9c76e01a9de967e00a28",
+          "publishedAt": "2026-05-18T10:00:47Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80c5/live/7f0ac710-529a-11f1-b14c-031b0f963228.jpg",
           "language": "en"
         },
         {
-          "title": "Person killed in two-car crash in Co Tyrone",
-          "description": "A person has died following a two-car crash in Co Tyrone yesterday morning.",
-          "url": "https://www.rte.ie/news/regional/2026/0518/1573887-tyrone-crash/",
+          "title": "New Irish Writing: Rituals by Danielle McLaughlin",
+          "description": "We present an extract from the new novel the acclaimed author of The Art of Falling and the short story collection Dinosaurs On Other Planets.",
+          "url": "https://www.rte.ie/culture/2026/0518/1572988-new-irish-writing-rituals-by-danielle-mclaughlin/",
           "source": {
             "name": "RTE.ie"
           },
-          "publishedAt": "2026-05-18T07:38:24Z",
-          "image": "https://www.rte.ie/images/0021cf7f-1600.jpg",
+          "publishedAt": "2026-05-18T10:00:33Z",
+          "image": "https://www.rte.ie/images/0024622d-1600.jpg",
           "language": "en"
         }
       ]
