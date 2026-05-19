@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-19T19:53:26.092Z",
+  "updatedAt": "2026-05-19T22:17:17.415Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "ゲームエンジンUnityとGodotの両方で「同じゲームを2つ作ってみた」開発者あらわる。迷うのでどっちでも開発、豪快比較",
+          "description": "ゲーム開発者のThomas Grové氏は5月17日、同じゲームをUnityとGodot Engineの両方で作って比較したとする動画を投稿した。",
+          "url": "https://automaton-media.com/articles/newsjp/20260519-443916/",
+          "source": {
+            "name": "AUTOMATON"
+          },
+          "publishedAt": "2026-05-19T09:33:15Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260519-443916-header2.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "今年の夏の予想 北海道は厳しい暑さになりそう",
+          "description": "今日(19日)、札幌管区気象台から北海道の今年の夏(6月～8月)の天候についての3か月予報が発表されました。それによると、北海道の今年の夏は期間を通して気温は平年より高く経過します。今年も平年と比べて暑い夏となりそうです。",
+          "url": "https://tenki.jp/forecaster/hmochida/2026/05/19/38976.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-19T09:08:18Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/389/38976/main/20260519152840/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "動画には人が次々と跳ね飛ばされていく様子が…人ごみに車が猛スピードで突っ込み4人重体、当局は移民二世の男を逮捕（イタリア）（ニューズウィーク日本版）",
+          "description": "イタリア北部の都市モデナで5月16日、男が交通量の多い通りで歩行者に車を突っ込ませ、8人が負傷した。内4人は重体となっている。\n男はその後逃走を図ったが、通行人らに取り押さえられ、警察に拘束された",
+          "url": "https://news.yahoo.co.jp/articles/515ea3c91fe38e1b667218e5818c8d1aac895f57",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-19T08:50:16Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260519-00010005-newsweek-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "『スター・ウォーズ』カフェが東京・大阪で、グローグーのぷるぷるプリン＆R2-D2型のパフェ",
+          "description": "映画『スター・ウォーズ』をテーマにしたカフェ「スター・ウォーズ カフェ：ギャラクティックダイナー(STAR WARS CAFE：Galactic Diner)」が、2026年5月28日(木)より順次、...",
+          "url": "https://www.fashion-press.net/news/146551",
+          "source": {
+            "name": "ファッションプレス"
+          },
+          "publishedAt": "2026-05-19T08:40:00Z",
+          "image": "https://www.fashion-press.net/img/news/146551/top.jpg?1779170570",
+          "language": "ja"
+        },
+        {
+          "title": "（まとめ）日経平均は265円安の60,550円で4日続落 半導体中心に利益確定の売り",
+          "description": "東京市場まとめ1.概況日経平均は386円高の61,202円と反発して取引を開始しました。序盤は堅調な推移となったものの、主力の半導体関連銘柄などに売りが出たことで前場中ごろには下落に転じました。前引けは386円安の60,429円となりました。後場も総じて上値の重い展開と...",
+          "url": "https://media.monex.co.jp/articles/-/29388",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-05-19T08:36:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "栃木の強盗殺人事件、「指示役」の偽画像が拡散 AI生成の可能性も",
+          "description": "栃木県上三川（かみのかわ）町の住宅で住人女性が殺害された強盗殺人事件をめぐり、パトカーの後部座席に乗せられた女性の画像が、「容疑者の1人」としてSNS上で拡散している。県警幹部によると、今回の事件と…",
+          "url": "https://www.asahi.com/articles/ASV5L4K0YV5LUTIL021M.html",
+          "source": {
+            "name": "朝日新聞"
+          },
+          "publishedAt": "2026-05-19T08:07:25Z",
+          "image": "https://imgopt.asahi.com/ogp/AS20260519001344_comm.jpg",
+          "language": "ja"
+        },
         {
           "title": "【男子バレー】髙橋藍はその瞬間、何を思ったか サントリーでのラストゲームを勝利で飾れず",
           "description": "髙橋藍（24歳）は、取材エリアで誰よりも長く丁寧に取材に時間を割く。値打ちがないように思える質問にも、言葉を尽くして答える。親しさの度合いはあっても、相手によって態度を変えることもない。　彼はまるで流れる水だ。定まった形はなく、それでい…",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-05-19T06:48:33Z",
           "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/389/38974/main/20260519151353/large.jpg",
           "language": "ja"
-        },
-        {
-          "title": "MacとiPadで受ける授業、実際どう？ADS認定校「聖徳学園中学・高等学校」に潜入してきた",
-          "description": "MacとiPadで受ける授業って、実際どんな空気なんだろう？ADS認定校の聖徳学園中学・高等学校に潜入し、化学・古典・100周年プロジェクトの授業から、XcodeでSNSを自作する生徒、KWN受賞の動画クリエイターまで、現場の風景をそのままレポートする。",
-          "url": "https://gori.me/mac/166265",
-          "source": {
-            "name": "ゴリミー"
-          },
-          "publishedAt": "2026-05-19T06:27:13Z",
-          "image": "https://gori.me/uploads/2026/05/Apple-Distingushed-Shotoku-Gakuen-Middle-and-High-school-65-800x534.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【トクリュウ指示役妻・卒アル入手】「善光寺で子どもを大事そうに抱いていた」竹前美結容疑者が地元で見せた“ママの顔”と、知人が語った学生時代「我が強くて反りが合わない子も…」（NEWSポストセブン）",
-          "description": "2026年5月14日、栃木県上三川町の住宅で住人の富山英子さん（69）が殺害され、家族2人が負傷した強盗殺人事件。栃木県警の合同捜査本部は17日、実行役とされる16歳の少年4人らの犯行を指示したと",
-          "url": "https://news.yahoo.co.jp/articles/847d8fea1982c89d7c5149c07a6c78748ea4b018",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-19T06:00:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260519-00000009-pseven-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "三日月と金星、木星が宵の空でランデブー、ふたご座やしし座との共演も見逃せない今週の星空",
-          "description": "「スーパームーンの新月」を経て、夜空は再びにぎやかさを取り戻す。その最初の一歩が、宵の空で繰り広げられる優美な共演だ。日没後、西の空に戻ってきた細い月が、夜空で最も明るい2つの惑星、金星と木星のそばを二晩かけて通過する。肉眼で楽しめる天体観...",
-          "url": "https://forbesjapan.com/articles/detail/97705",
-          "source": {
-            "name": "Forbes JAPAN"
-          },
-          "publishedAt": "2026-05-19T05:00:00Z",
-          "image": "https://images.forbesjapan.com/media/article/97705/images/main_image_518cf6ce9c6c8e395f1ed118323b5210b7523d6d.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ニホンザル「パンチ」のサル山に侵入、アメリカ国籍の男性2人を逮捕",
-          "description": "千葉県の市川市動植物園で17日、インターネットで有名になったニホンザルの「パンチ」が飼育されているサル山に侵入し、その様子を撮影したとして、アメリカ国籍の男性2人が逮捕された。市川警察署が発表した。",
-          "url": "https://www.bbc.com/japanese/articles/cx21pxxv984o",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-05-19T04:31:39Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_japanese/a55c/live/2dd10fb0-52b5-11f1-8340-4151f348d713.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "日本代表・前田遼一コーチ、“愛弟子”後藤啓介のW杯選出に感慨「当時から向上心がとてつもないなと」",
-          "description": "日本代表の前田遼一コーチが19日、報道陣の取材に応じ、ジュビロ磐田U-18指導者時代の教え子だった20歳FW後藤啓介のW杯メンバー入りに感慨を語った。　前田コーチは現役引退後の2021年、磐田U-18コーチで指導者...",
-          "url": "https://web.gekisaka.jp/news/japan/detail/?451737-451737-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-05-19T04:00:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/452000/451737/news_451737_1.jpg?time=20260519130048",
-          "language": "ja"
-        },
-        {
-          "title": "トランプ氏、19日に予定していた対イラン攻撃を「見送り」 湾岸諸国の要請で",
-          "description": "アメリカのトランプ大統領は18日、イランとの戦争について「現在、真剣な交渉が行われている」とし、湾岸諸国からの要請を受け、19日に予定していたイランへの軍事攻撃を見送ると発表した。",
-          "url": "https://www.bbc.com/japanese/articles/cwy2v32lx4zo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-05-19T03:31:39Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_japanese/65c4/live/93308b40-532a-11f1-89a3-d1f559421220.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "MK Party removes Nhlamulo Ndhlela as spokesperson",
-          "description": "The Umkhonto WeSizwe Party has appointed Sifiso Mahlangu as its new national spokesperson.",
-          "url": "https://www.enca.com/news-top-stories/mk-party-removes-nhlamulo-ndhlela-spokesperson",
+          "title": "Archbishop of Cebu urges Filipinos to rally behind due process",
+          "description": "The archbishop warned Filipinos not to surrender their judgment to hatred, mockery or political fanaticism, especially when the country...",
+          "url": "https://newsinfo.inquirer.net/2231241/archbishop-of-cebu-urges-filipinos-to-rally-behind-due-process",
           "source": {
-            "name": "eNCA"
+            "name": "Inquirer.net"
           },
-          "publishedAt": "2026-05-19T07:52:52Z",
-          "image": "https://www.enca.com/sites/default/files/styles/large/public/2025-07/MKP%20Spokesperson.jpg.webp?itok=6rde8Aa2",
+          "publishedAt": "2026-05-19T10:17:00Z",
+          "image": "https://newsinfo.inquirer.net/files/2026/05/Cebu-Archbishop-Alberto-Abet-Uy-09May2026.jpg",
           "language": "en"
         },
         {
-          "title": "India Squad vs Afghanistan, BCCI Announcement Live Updates: Rohit Sharma's Fitness Under Scrutiny, Big Call Expected",
-          "description": "India's squad for Afghanistan 1st Test and 3rd ODI Series LIVE Updates: Veteran opener Rohit Sharma's fitness is expected to be a major talking point when the selectors meet to finalise India's squad.",
-          "url": "https://sports.ndtv.com/cricket/india-vs-afghanistan-test-odi-squad-announcement-live-updates-ajit-agarkar-bcci-india-cricket-team-ind-vs-afg-latest-news-rohit-sharma-virat-kohli-11515449",
+          "title": "Patrick O'Donovan claims he was dropped from interview on RTÉ with minutes' notice",
+          "description": "RTÉ bosses to face grilling after revising list of the top 10 highest-earning presenters for 2024 to include Derek Mooney",
+          "url": "https://www.irishexaminer.com/news/arid-41847360.html",
           "source": {
-            "name": "NDTV Sports"
+            "name": "Irish Examiner"
           },
-          "publishedAt": "2026-05-19T07:50:32Z",
-          "image": "https://c.ndtvimg.com/2025-11/ecfh71hk_gautam-gambhir-ajit-agarkar_625x300_29_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+          "publishedAt": "2026-05-19T10:17:00Z",
+          "image": "https://www.irishexaminer.com/cms_media/module_img/10171/5085702_3_seoimageog_85600159-f741-4cc4-b583-02792cf62d3a.jpg",
           "language": "en"
         },
         {
-          "title": "Rupee plunges for eighth straight session, breaches 96.60 vs USD on rising crude, US yields",
-          "description": "The Indian rupee has reached a historic low against the US dollar. This decline is driven by escalating oil prices due to the Iran conflict and higher US Treasury yields. India's trade deficit is widening, and inflation is accelerating. The nation faces challenges in lowering its current account deficit and attracting capital. These pressures are impacting the economy significantly.",
-          "url": "https://economictimes.indiatimes.com/markets/forex/rupee-sinks-to-all-time-low-of-96-47-vs-usd-on-unrelenting-oil-pressure-weak-risk/articleshow/131194495.cms?from=mdr",
+          "title": "Ken Agyapong's daughter Yvonne Agyapong wins global award at Yale University",
+          "description": "Yvonne Agyapong, daughter of former Assin Central lawmaker, Kennedy Agyapong has bagged four top awards during the ceremony at Yale University, in Connecticut, USA.",
+          "url": "https://www.ghanaweb.com/GhanaHomePage/regional/Ken-Agyapong-s-daughter-Yvonne-Agyapong-wins-global-award-at-Yale-University-2035171",
           "source": {
-            "name": "The Economic Times"
+            "name": "GhanaWeb"
           },
-          "publishedAt": "2026-05-19T07:50:29Z",
-          "image": "https://img.etimg.com/thumb/msid-131194525,width-1200,height-630,imgsize-50634,overlay-etmarkets/articleshow.jpg",
+          "publishedAt": "2026-05-19T10:16:42Z",
+          "image": "https://cdn.ghanaweb.com/imagelib/pics/537/53789731.jpg",
           "language": "en"
         },
         {
-          "title": "Russian strike damages Ukraine Danube port as Moscow intercepts drones",
-          "description": "Russia also plans military exercises as Putin prepares for Beijing visit.",
-          "url": "https://www.aljazeera.com/news/2026/5/19/russian-strike-damages-ukraine-danube-port-as-moscow-intercepts-drones",
+          "title": "Punjabi singer Inder Kaur, kidnapped 6 days ago, found dead in Ludhiana canal",
+          "description": "The singer had left her house to buy groceries on May 13. She was allegedly kidnapped at gunpoint by the suspect, Sukhwinder Singh, on that day.",
+          "url": "https://www.indiatoday.in/india/story/inder-kaur-murder-punjabi-singer-found-dead-suspect-fled-via-nepal-2913972-2026-05-19",
           "source": {
-            "name": "Al Jazeera"
+            "name": "India Today"
           },
-          "publishedAt": "2026-05-19T07:50:15Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2023/09/2023-09-05T173027Z_2097074460_RC2C23ADC5GD_RTRMADP_3_UKRAINE-CRISIS-ATTACK-DANUBE-ROMANIA-1694069424.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-05-19T10:16:39Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/punjabi-singer-inder-kaur-found-dead-six-days-after-being-kidnapped-19143476-16x9_0.jpeg?VersionId=pNIZKM0n2XwkwHruPMeGQI1OrM9oBAQw",
           "language": "en"
         },
         {
-          "title": "Report: Jose Mourinho wants to bring Man United star to Real Madrid",
-          "description": "Mourinho Influence Could Shape Rashford FutureMarcus Rashford’s future has drifted into uncertain territory once again, with fresh reports from Spain linking the Manchester United forward to Real Ma...",
-          "url": "https://sports.yahoo.com/articles/report-jose-mourinho-wants-bring-075000395.html",
+          "title": "Sebastian Stan Slams Donald Trump and Says What’s Going on in America Is ‘Not a Laughing Matter’: ‘We’re in a Really Bad Place’",
+          "description": "Two years after his Donald Trump biopic “The Apprentice” premiered at Cannes, Sebastian Stan reflected on the role during the press conference for his new movie “Fjord,” saying America is “in a really...",
+          "url": "https://nz.news.yahoo.com/sebastian-stan-slams-donald-trump-101538382.html",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "Yahoo News New Zealand"
           },
-          "publishedAt": "2026-05-19T07:50:00Z",
-          "image": "https://s.yimg.com/os/en/epl_index_articles_253/8b4302164e121f6a853cd89411d1efee",
+          "publishedAt": "2026-05-19T10:15:38Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/EPTjEOjz2a_fXwfAZ2UniQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE7Y2Y9d2VicA--/https://media.zenfs.com/en/variety.com/3e34ca984b16aac1476f31e9970f2d00",
           "language": "en"
         },
         {
-          "title": "MP Dawood speaks after attack during fuel price protests in Meru",
-          "description": "“I thank those who have showed concern and I want to tell them I am safe.”",
-          "url": "https://www.the-star.co.ke/news/2026-05-19-mp-dawood-speaks-after-attack-during-fuel-price-demos",
+          "title": "GTA 6 Reveal And Delay Timeline Charts The Course To Pre-Orders",
+          "description": "All of GTA VI's reveals, updates, and announcements in one place.",
+          "url": "https://www.gamingbible.com/news/gta-6-reveal-and-delay-timeline-charts-the-course-to-pre-orders-232520-20260519",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "GAMINGbible"
           },
-          "publishedAt": "2026-05-19T07:50:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/05/460c9131-2992-4797-a9da-67c5d4c3ecce.jpg?1779183520500",
+          "publishedAt": "2026-05-19T10:15:30Z",
+          "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltcba3dc9d5199fa1b/6a0c372b2b7f3767cbd26e7b/gta6timeline.jpg",
           "language": "en"
         },
         {
-          "title": "President Samia Appoints Special Criminal Commission to Probe Election Violence",
-          "description": "The government has formed a three-member judicial panel to investigate the October 2025 violence, but critics call it a way to avoid real accountability.",
-          "url": "https://thechanzo.com/2026/05/19/president-samia-appoints-special-criminal-commission-to-probe-election-violence/",
+          "title": "Sindh IG vows transparency in cases against Anmol alias Pinky stretching across 'multiple domains'",
+          "description": "Provincial police chief says FIA, NCCIA part of investigations; says business of narcotics has transferred to \"cyberspace\".",
+          "url": "https://www.dawn.com/news/2001505",
           "source": {
-            "name": "The Chanzo"
+            "name": "Dawn"
           },
-          "publishedAt": "2026-05-19T07:49:03Z",
-          "image": "https://thechanzo.com/wp-content/uploads/2026/05/mAJAJI-WALIOTEULIWA1.jpg",
+          "publishedAt": "2026-05-19T10:15:04Z",
+          "image": "https://i.dawn.com/large/2026/05/19150717581ee0d.webp",
           "language": "en"
         },
         {
-          "title": "From Cavite to the global stage: Jessica Panoy's sweet journey in 'Bite Me Sweet'",
-          "description": "Pastry chef Jessica Panoy’s journey from a young home baker in Cavite to representing the Philippines on an international culinary reality show is one she...",
-          "url": "https://mb.com.ph/2026/05/19/from-cavite-to-the-global-stage-jessica-panoys-sweet-journey-in-bite-me-sweet",
+          "title": "America Is in a 'Bad Place'",
+          "description": "Sebastian Stan slammed Trump during a Cannes press conference, saying America is \"in a really, really bad place.\"",
+          "url": "https://variety.com/2026/film/festivals/sebastian-stan-slams-donald-trump-america-in-bad-place-cannes-1236753405/",
           "source": {
-            "name": "Manila Bulletin"
+            "name": "Variety"
           },
-          "publishedAt": "2026-05-19T07:47:39Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/19/102269.webp",
+          "publishedAt": "2026-05-19T10:15:00Z",
+          "image": "https://variety.com/wp-content/uploads/2026/05/sebastian-e1779185434164.jpg?w=1000&h=563&crop=1",
           "language": "en"
         },
         {
-          "title": "27 home kit inspired by iconic title",
-          "description": "Liverpool FC and adidas have unveiled the club’s new home kit for 2026-27, inspired by the iconic strip worn during the Reds’ 1989-90 title-winning season.",
-          "url": "https://www.liverpoolfc.com/news/lfc-and-adidas-unveil-2026-27-home-kit-inspired-iconic-title-winning-season",
+          "title": "Epson Introduces New Laser Display Lineup Designed for Greater Impact, Simplicity and Flexibility Across Any Space",
+          "description": "/PRNewswire/ -- Across classrooms, meeting rooms, entertainment venues and beyond, expectations are rising for display technology that delivers high-impact...",
+          "url": "https://www.prnewswire.com/news-releases/epson-introduces-new-laser-display-lineup-designed-for-greater-impact-simplicity-and-flexibility-across-any-space-302775685.html",
           "source": {
-            "name": "Liverpool FC"
+            "name": "PR Newswire"
           },
-          "publishedAt": "2026-05-19T07:46:44Z",
-          "image": "https://backend.liverpoolfc.com/sites/default/files/styles/lg/public/2026-05/2026-home-kit-main-cover_1971419853423e39c7e0a5847316b492.jpg?itok=vP8d5ZIX",
+          "publishedAt": "2026-05-19T10:15:00Z",
+          "image": "https://mma.prnewswire.com/media/2982816/Epson_Commercial_Edu_Projector.jpg?p=facebook",
           "language": "en"
         },
         {
-          "title": "Undersea volcano erupts in Papua New Guinea's Bismarck Sea prompting tsunami concerns",
-          "description": "The Titan Ridge Volcano is erupting in the Bismarck Sea, sending ash and smoke into the sky and prompting authorities to warn of possible tsunamis in the area.",
-          "url": "https://www.abc.net.au/news/2026-05-19/papua-new-guinea-volcanic-eruption-bismarck-sea/106697688",
+          "title": "High Court orders Papagomo to pay RM280,000 to Lim Guan Eng, son in defamation case",
+          "description": "KUALA LUMPUR, May 19 — The High Court has ordered blogger Wan Azri Wan Deris, better known as Papagomo, to pay RM280,000 in damages after ruling that he defamed former DAP...",
+          "url": "https://www.malaymail.com/news/malaysia/2026/05/19/high-court-orders-papagomo-to-pay-rm280000-to-lim-guan-eng-son-in-defamation-case/220531",
           "source": {
-            "name": "Australian Broadcasting Corporation"
+            "name": "Malay Mail"
           },
-          "publishedAt": "2026-05-19T07:45:53Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/e1c8f6a0c2fd079c44cd404dd48cdaa7?impolicy=wcms_watermark_news&cropH=760&cropW=1352&xPos=93&yPos=0&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-05-19T10:14:04Z",
+          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/05/19/341783.png",
           "language": "en"
         }
       ]
