@@ -1,10 +1,54 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-19T03:41:36.385Z",
+  "updatedAt": "2026-05-19T09:47:51.950Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "「W杯落選組、歴代最強では」三笘薫、守田英正、南野拓実だけでない…過去7大会と比較「選手層が厚くなったからこそ」ブラジル撃破後に森保監督は語った（Number Web）",
+          "description": "3月のサッカー日本代表英国遠征。聖地ウェンブリーでのイングランド戦勝利が大きく注目されたが――その3日前、1−0で勝利したスコットランド戦で、森保一監督は菅原由勢や後藤啓介ら、その時点で当落線上と",
+          "url": "https://news.yahoo.co.jp/articles/30c7fa55858c9d9341a501f1137ffbdebbf5d359",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-18T21:10:26Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260519-00870471-number-000-9-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "「靖国神社は閉店すべき」…過激ポストを繰り返した中国人男性が逮捕 熱海市長選に意欲、政治団体も立ち上げた真の“狙い”とは",
+          "description": "静岡県の熱海警察署は5月13日、中国籍の自称会社役員・徐浩予（じょ・こうよ）容疑者（33）をSNSでの名誉毀損容疑で逮捕した。このニュースがSNSを中心に話題となっている。なぜかといえば、この男性",
+          "url": "https://news.yahoo.co.jp/articles/0e023ae9614055f75c3be84e7d083d4c0bfc48a9",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-18T21:01:37Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260519-01454439-shincho-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "OpenAIがイーロン・マスク氏に一審勝訴、寄付の使途めぐる裁判で IPOへ前進",
+          "description": "【シリコンバレー=山田遼太郎】米連邦地裁は18日、米起業家イーロン・マスク氏が米オープンAIと幹部に対して起こした裁判で、マスク氏の訴え棄却を決定した。オープンAIは計画する新規株式公開（IPO）へ前進する。マスク氏は控訴を表明した。OpenAIをめぐる裁判　オープンAIは2015年に人類のためのAI研究機関であるNPOとして誕生し、資金調達のため営利化を進めた。設立に関与し多額を寄付したイーロン・マスク氏が、サム・アルトマン最高経営責任者（CEO）らの経営方針は設立時の使命への裏切りだと主張し、営利化差し止めや賠償金を求め24年に提訴した。",
+          "url": "https://www.nikkei.com/article/DGXZQOGN18AY90Y6A510C2000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-05-18T20:22:55Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3039584018052026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.26&fp-y=0.44&h=630&w=1200&s=fc2341adeef72aac804a8b830fac27c9",
+          "language": "ja"
+        },
+        {
+          "title": "【虎将トーク】阪神・藤川球児監督、D1位・立石正広のスタメン名言 「パッと入れてあげるっていうことが重要」",
+          "description": "阪神は18日、19日の中日戦（倉敷）に備えて岡山へ移動した。藤川球児監督（45）は、1軍に合流したドラフト1位・立石正広内野手（22）＝創価大＝を左翼でスタメン起用することを名言。主な一問一答は以下の通り。",
+          "url": "https://www.sanspo.com/article/20260519-72Z6NPOU3NPWPCQULPWGYB4IIE/?outputType=theme_tigers",
+          "source": {
+            "name": "サンスポ"
+          },
+          "publishedAt": "2026-05-18T20:00:00Z",
+          "image": "https://www.sanspo.com/resizer/v2/HSOI32HJXRIE7DQHF6VDLPRWII.jpg?auth=a21bebeac8e1972178096d868347f96f1c747ae0edf990b88e37c5ce3175f0b1&quality=50&focal=1744%2C872&width=1200&height=675",
+          "language": "ja"
+        },
         {
           "title": "「Forza Horizon 6」本日発売。日本が舞台のシリーズ最新作",
           "description": "マイクロソフトは、Xbox Series X|S/PC用レーシング「Forza Horizon 6」を5月19日に発売する。価格はダウンロード版のスタンダード エディションが9,800円、デラックス エディションが14,000円、プレミアム エディションが16,800円。パッケージ版（Xbox Series X版）の参考価格が8,900円。なお本作はGame Passにも対応している。",
@@ -70,161 +114,117 @@
           "publishedAt": "2026-05-18T12:06:00Z",
           "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
           "language": "ja"
-        },
-        {
-          "title": "嵐ラストライブに“生みの親”も入れず…最終公演で厳格化された「関係者席」に招待される“身内”の正体（週刊女性PRIME）",
-          "description": "5月15日から17日の3日間、京セラドーム大阪で行われたコンサートを終えた嵐。活動終了に向けたライブツアー『We are ARASHI』は、5月31日に開催される東京ドームの最終公演で幕を下ろし、",
-          "url": "https://news.yahoo.co.jp/articles/590fc03f65f265d9a46708202193c05b71c51930",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-18T12:00:34Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260518-00041701-jprime-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "宇宙にも虹はある？ 土星の衛星タイタンに浮かぶ“見えない虹”の可能性",
-          "description": "Image: Shutterstock 先日、電車に乗っていたら、目の前に立っていた学生たちが「すっげえ綺麗な虹！」と言いました。思わず外を見ると、空にはくっきりと見事な虹。スマホカメラを構えながら、",
-          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260518_1779107552143219",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-05-18T12:00:00Z",
-          "image": "https://portal.st-img.jp/thumb/7add08a739f3065c31f544227d18947b_1779107552_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "宇宙にも虹はある？ 土星の衛星タイタンに浮かぶ“見えない虹”の可能性",
-          "description": "先日、電車に乗っていたら、目の前に立っていた学生たちが｢すっげえ綺麗な虹！｣と言いました。思わず外を見ると、空にはくっきりと見事な虹。スマホカメラを構えながら、｢すごい。こんなに綺麗な虹が見られるなんて、地球に生まれてよかった｣と思いました。 でも、IFLSによると、虹が見られるのは地球だけとは限らないそうです。ただし、私たちが思い浮かべるような、雨上がりの空にかかるカラフルな虹とは少し違うかも",
-          "url": "https://www.gizmodo.jp/2026/05/rainbow-of-titan.html",
-          "source": {
-            "name": "ギズモード・ジャパン"
-          },
-          "publishedAt": "2026-05-18T12:00:00Z",
-          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/05/18/shutterstock_2426625741.png?w=1280&h=630&f=jpg",
-          "language": "ja"
-        },
-        {
-          "title": "栃木強盗殺人事件“指示役”夫婦逮捕 妻は赤ちゃんとホテル客室で… 「夫婦と事件当日に初めて会った」“実行役”少年供述",
-          "description": "栃木県で起きた強盗殺人事件。実行役の一部の少年は、指示役とみられる20代の夫婦について、「事件当日に初めて会った」などと話していることが新たにわかりました。",
-          "url": "https://news.ntv.co.jp/category/society/4af4bf111e924250abea2d61065f013c",
-          "source": {
-            "name": "日テレNEWS NNN"
-          },
-          "publishedAt": "2026-05-18T11:37:01Z",
-          "image": "https://news.ntv.co.jp/gimage/n24/articles/3628dc75dfc54508abc718a8d22d85b9/20260518-180613-208-ch03-09-dde36dd1-1.jpg?w=1200",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "South Africa and Botswana Step Up Economic Cooperation, With Gaborone Looking Beyond Diamonds",
-          "description": "Cyril Ramaphosa will visit Botswana on May 20-21 for bilateral talks with President Duma Boko\nThe visit comes as Botswana tries to accelerate",
-          "url": "https://www.ecofinagency.com/news/1805-55694-south-africa-and-botswana-step-up-economic-cooperation-with-gaborone-looking-beyond-diamonds",
+          "title": "Ariana crowned champion of National Theatre’s FUNWORLD dance competition",
+          "description": "The National Theatre came alive on Sunday, May 17, 2026, as it hosted the highly anticipated debut edition of this year’s flagship family edutainment programme, FUNWORLD.",
+          "url": "https://www.ghanaweb.com/GhanaHomePage/entertainment/Ariana-crowned-champion-of-National-Theatre-s-FUNWORLD-dance-competition-2035106",
           "source": {
-            "name": "Ecofin Agency"
+            "name": "GhanaWeb"
           },
-          "publishedAt": "2026-05-18T15:40:03Z",
-          "image": "https://www.ecofinagency.com/media/k2/items/cache/5b276663ebb877fbf287322741c082a9_S.jpg",
+          "publishedAt": "2026-05-18T21:47:16Z",
+          "image": "https://cdn.ghanaweb.com/imagelib/pics/413/41356718.jpg",
           "language": "en"
         },
         {
-          "title": "Pirates Expected To Promote Jhostynxon García",
-          "description": "The Pirates are calling up a hot-hitting young outfielder whom they acquired in an offseason trade. Get all the details over at MLB Trade Rumors.",
-          "url": "https://www.mlbtraderumors.com/2026/05/pirates-to-promote-jhostynxon-garcia.html",
+          "title": "King Paluta's 'Makoma' appears on University of Ghana Psychology exams",
+          "description": "A King Paluta hit has found its way from the airwaves into the examination halls of the University of Ghana.",
+          "url": "https://www.ghanaweb.com/GhanaHomePage/entertainment/King-Paluta-s-Makoma-appears-on-University-of-Ghana-Psychology-exams-2035107",
           "source": {
-            "name": "MLB Trade Rumors"
+            "name": "GhanaWeb"
           },
-          "publishedAt": "2026-05-18T15:39:57Z",
-          "image": "https://cdn.mlbtraderumors.com/files/2026/05/jhostynxon-garcia-pirates-prospect-1024x683.jpg",
+          "publishedAt": "2026-05-18T21:47:16Z",
+          "image": "https://cdn.ghanaweb.com/imagelib/pics/694/69401918.jpg",
           "language": "en"
         },
         {
-          "title": "Karuppu Box Office: Suriya starrer emerges BLOCKBUSTER with a sensational Monday hold, Scores Rs. 10 Cr plus in Tamil Nadu",
-          "description": "Karuppu is certain to hit Rs. 100 crore mark in the state. Based on this Monday hold, it could well be targeting Rs. 150 crore or so final, and that would firmly place it as a BLOCKBUSTER.",
-          "url": "https://www.pinkvilla.com/entertainment/box-office/karuppu-box-office-suriya-starrer-emerges-blockbuster-with-a-sensational-monday-hold-scores-rs-10-cr-plus-in-tamil-nadu-1403135",
+          "title": "Cameron Smith proven right as reason for Reece Walsh's State of Origin axing revealed",
+          "description": "Billy Slater's decision has raised plenty of eyebrows. Read more here.",
+          "url": "https://au.news.yahoo.com/cameron-smith-proven-right-as-reason-for-reece-walshs-state-of-origin-axing-revealed-214649785.html",
           "source": {
-            "name": "Pinkvilla"
+            "name": "Yahoo News Australia"
           },
-          "publishedAt": "2026-05-18T15:39:34Z",
-          "image": "https://www.pinkvilla.com/images/2026-05/845571545_karuppu-3.jpg",
+          "publishedAt": "2026-05-18T21:46:49Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/2c4yCXRsvx6CENbw9w.MmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDY7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/reece-walsh-cameron-smith_6567.jpg",
           "language": "en"
         },
         {
-          "title": "New LEGO Batman Game Secretly Has Rocksteady Behind It and Fans Are Hyped",
-          "description": "Rocksteady's involvement in the new LEGO Batman game has fans hoping the beloved Arkham-style Batman formula is making a comeback.",
-          "url": "https://beebom.com/new-lego-batman-game-secretly-has-rocksteady-behind-it-and-fans-are-hyped/",
+          "title": "Alexx Ekubo: Lady Shares How Actor Led Her to Christ, Speaks About Last Time She Saw Him",
+          "description": "A lady grabbed people’s attention as she shared how Alexx Ekubo led her to Christ and never judged her. She also shared what happened during their last meeting.",
+          "url": "https://www.legit.ng/people/1710636-alexx-ekubo-lady-shares-how-actor-led-christ-speaks-time-him/",
           "source": {
-            "name": "Beebom"
+            "name": "Legit.ng"
           },
-          "publishedAt": "2026-05-18T15:38:57Z",
-          "image": "https://static.beebom.com/wp-content/uploads/2026/05/LEGO-Batman-Rocksteady.jpg",
+          "publishedAt": "2026-05-18T21:42:32Z",
+          "image": "https://cdn.legit.ng/images/1200x675/135a067e90fb7bb9.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "Xabi Alonso told Liverpool job could've been his if he 'sat tight' before Chelsea agreement",
-          "description": "Xabi Alonso has long been tipped to become Liverpool manager but the Spaniard will take up a job in the Premier League with Chelsea come next season",
-          "url": "https://www.mirror.co.uk/sport/football/news/xabi-alonso-chelsea-liverpool-manager-37173124",
+          "title": "Guardiola on verge of Manchester City exit at end of Premier League season",
+          "description": "Manchester City manager Pep Guardiola is understood to be stepping down at end of season after 17 years at EPL club.",
+          "url": "https://www.aljazeera.com/sports/2026/5/18/guardiola-on-verge-of-manchester-city-exit-at-end-of-premier-league-season",
           "source": {
-            "name": "The Mirror"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-05-18T15:38:00Z",
-          "image": "https://i2-prod.mirror.co.uk/article37170816.ece/ALTERNATES/s1200d/0_GettyImages-2254095758.jpg",
+          "publishedAt": "2026-05-18T21:42:12Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/GettyImages-2276170515-1779138080.jpg?resize=1200%2C675",
           "language": "en"
         },
         {
-          "title": "Europe tests laser links as satellite comms outgrow radio",
-          "description": "Greek mountaintop ground station aims infrared beams at CubeSats in ESA-backed optical networking trial",
-          "url": "https://www.theregister.com/networks/2026/05/18/europe-tests-laser-links-as-satellite-comms-outgrow-radio/5242012",
+          "title": "How to Watch Spurs Vs. Thunder: Western Conference Finals Live Streams, Schedule, Odds",
+          "description": "The Western Conference Finals tip off soon. Learn how to watch Spurs vs. Thunder live streams online.",
+          "url": "https://www.businessinsider.com/guides/streaming/how-to-watch-western-conference-finals-nba-2026",
           "source": {
-            "name": "The Register"
+            "name": "Business Insider"
           },
-          "publishedAt": "2026-05-18T15:38:00Z",
-          "image": "https://image.theregister.com/5242044.jpg?imageId=5242044&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+          "publishedAt": "2026-05-18T21:40:46Z",
+          "image": "https://i.insider.com/6a0b748f94eb4c909fb2da62?width=1200&format=jpeg",
           "language": "en"
         },
         {
-          "title": "MG4 EV Urban Officially Launched in Pakistan",
-          "description": "MG Motor Pakistan has unveiled the new MG4 EV Urban in Pakistan, introducing an electric hatchback with a 43-kWh battery and a front-wheel-drive electric",
-          "url": "https://propakistani.pk/2026/05/18/mg4-ev-urban-officially-launched-in-pakistan/",
+          "title": "Apple Reveals Dates of Tim Cook's Final WWDC as CEO",
+          "description": "Apple's annual conference is expected to focus on AI integration in advance of the next iPhone.",
+          "url": "https://www.cnet.com/tech/apple-ceos-tim-cooks-final-wwdc/",
           "source": {
-            "name": "ProPakistani"
+            "name": "CNET"
           },
-          "publishedAt": "2026-05-18T15:37:35Z",
-          "image": "https://propakistani.pk/wp-content/uploads/2026/05/MG4-EV-urban-.jpg",
+          "publishedAt": "2026-05-18T21:40:00Z",
+          "image": "https://www.cnet.com/a/img/resize/0841dd4070fa95e817bbc104e89f0d2faf59ac5f/hub/2026/05/18/518f5506-b882-4ffa-b0d1-32e2c662e1db/apple-wwdc-2026.jpg?auto=webp&fit=crop&height=675&width=1200",
           "language": "en"
         },
         {
-          "title": "Improved App Icons Are Rolling Out Now",
-          "description": "The old icons that debuted five years ago had very little to visually differentiate them.",
-          "url": "https://www.engadget.com/2175514/googles-much-improved-app-icons-are-rolling-out-now/",
+          "title": "Could Republican Thomas Massie survive Trump's attack to oust him?",
+          "description": "The Kentucky congressman, who has crossed the president on federal spending and the Epstein files, faces Republican voters on Tuesday.",
+          "url": "https://www.bbc.co.uk/news/articles/cz924g45530o",
           "source": {
-            "name": "Engadget"
+            "name": "BBC"
           },
-          "publishedAt": "2026-05-18T15:36:55Z",
-          "image": "https://www.engadget.com/img/gallery/googles-much-improved-app-icons-are-rolling-out-now/l-intro-1779118526.jpg",
+          "publishedAt": "2026-05-18T21:39:45Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/734c/live/54ff5530-52f9-11f1-8b8c-6d33e1d5abb6.jpg",
           "language": "en"
         },
         {
-          "title": "US rejects Iran’s updated peace proposal, warns of possible war resumption: Report",
-          "description": "US rejects Iran’s updated war-ending proposal, calling it insufficient and warning it could risk resuming hostilities, Axios reported.",
-          "url": "https://www.moneycontrol.com/world/us-rejects-iran-s-updated-peace-proposal-warns-of-possible-war-resumption-report-article-13922899.html",
+          "title": "Iran announces new body to manage Strait of Hormuz as peace talks stall",
+          "description": "Iran announced a new body to oversee the Strait of Hormuz on Monday, signalling tighter control over the strategic waterway after months of disruption linked to its war with the United States and Israel.…",
+          "url": "https://www.france24.com/en/middle-east/20260518-iran-announces-new-body-to-manage-strait-of-hormuz-as-peace-talks-stall",
           "source": {
-            "name": "Moneycontrol.com"
+            "name": "France 24"
           },
-          "publishedAt": "2026-05-18T15:36:43Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260518153614_trumpnewpic.png",
+          "publishedAt": "2026-05-18T21:37:33Z",
+          "image": "https://s.france24.com/media/display/bf99101a-52b4-11f1-be72-005056bf30b7/w:1280/p:16x9/2026-05-15T084554Z-789227049-RC2M5KAY9U7E-RTRMADP-3-INDIA-ECONOMY-TRADE.jpg",
           "language": "en"
         },
         {
-          "title": "Yisak Wolday Withdraw As Candidate Ahead Of Ethiopian Election",
-          "description": "Yisak Wolday Withdraw As Candidate Ahead Of Ethiopian Election  Ethiopian News - Borkena",
-          "url": "https://borkena.com/2026/05/18/yisak-wolday-withdraw-as-candidate-ahead-of-ethiopian-election/",
+          "title": "Three things we learned from Arsenal FC win as Gunners tighten grip on Premier League title",
+          "description": "Gunners moved inches closer to a first title since 2004",
+          "url": "https://www.standard.co.uk/sport/football/arsenal-fc-premier-league-title-b1282786.html",
           "source": {
-            "name": "Borkena"
+            "name": "London Evening Standard"
           },
-          "publishedAt": "2026-05-18T15:36:26Z",
-          "image": "https://borkena.com/wp-content/uploads/2026/05/Yishak-_.jpg",
+          "publishedAt": "2026-05-18T21:37:33Z",
+          "image": "https://static.standard.co.uk/2026/05/18/22/2276966588..?width=1200&auto=webp&quality=75",
           "language": "en"
         }
       ]
