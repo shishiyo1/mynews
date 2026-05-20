@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-20T15:24:32.304Z",
+  "updatedAt": "2026-05-20T20:21:26.716Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "九州～東北でたびたび雨 21日は大雨の恐れも 関東で気温差大 2週間天気予報",
-          "description": "この先5月21日(木)〜6月2日(火)は、九州から東北でたびたび雨が降るでしょう。21日(木)は中国地方や北陸、東海、関東甲信で警報級の大雨となる恐れがあります。関東で日々の気温差が大きく、東京都心では22日(金)は最高気温が17℃と薄着ではヒンヤリしそうです。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/05/20/38984.html",
+          "title": "Mrs. GREEN APPLE「ライラック」がJASRAC賞金賞 「これからも孤独と苦しみ、ぐるぐると悩みもがきながら、楽しんでクリエイティブしていきたい」",
+          "description": "日本音楽著作権協会（JASRAC）は20日、2026年JASRAC賞の受賞作品を発表した。本賞は、音楽配信、カラオケ、CMなど、前年度にJASRACからの著作物使用料の分配額が多かった作品の作詞者",
+          "url": "https://news.yahoo.co.jp/articles/f65bc128c710c40459947805fad54777a5f4752a",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-20T08:10:02Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260520-00000474-oric-000-7-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "デミス・ハサビス、AI時代の“開発者不要論”に異議",
+          "description": "Google DeepMindのデミス・ハサビスは、AIによる生産性向上を理由に人員削減を進める企業について、「想像力が欠如している」と批判した。「Google I/O」を前に『WIRED』に語った。",
+          "url": "https://wired.jp/article/demis-hassabis-ai-layoffs-deepmind-google-io/",
+          "source": {
+            "name": "WIRED.jp"
+          },
+          "publishedAt": "2026-05-20T08:00:00Z",
+          "image": "https://media.wired.jp/photos/6a0cdf94702da650604fa4b3/16:9/w_1280,c_limit/GettyImages-2273112148.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "（まとめ）日経平均は5日続落となる746円安の59,804円 明日はエヌビディア決算",
+          "description": "東京市場まとめ1.概況日経平均は16円高の60,567円と小幅反発で取引を開始しました。もっとも、早々に下落に転じ、節目の60,000円台を割り込む水準での推移となりました。前日の米国市場では金利高を背景に、株式市場は軟調な推移となったことで日本市場でも売りが優勢の...",
+          "url": "https://media.monex.co.jp/articles/-/29396",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-05-20T07:57:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "米中首脳会談後もイラン情勢膠着、日本の財政悪化懸念も加わり再び円安に！",
+          "description": "ドル円は、再び160円に近づく動きをしています。　ドル円は、4月末の160円台での為替介入によって155円台へと約5円の円高となりました。その後、ドルは反発し、158円が防衛ラインかもしれないとみられていましたが、あっさりと158円をブ…",
+          "url": "https://media.rakuten-sec.net/articles/-/52459",
+          "source": {
+            "name": "トウシル"
+          },
+          "publishedAt": "2026-05-20T07:34:00Z",
+          "image": "https://media.rakuten-sec.net/mwimgs/5/e/-/img_5ef852cca8dcf1d7d9f88c27a107a039248982.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Google、オフィス・一般用途向けAIエージェント「Gemini Spark」を発表",
+          "description": "米Googleは5月19日（現地時間）、開催中の開発者会議「Google I/O 2026」にて、ユーザーに代わって24時間365日自律的にタスクを処理する個人向けAIエージェント「Gemini Spark」を発表した。従来のAIのように質問に答えるだけのアシスタントから、ユーザーの指示のもとで能動的に作業を実行する存在への大きな転換を図る。",
+          "url": "https://forest.watch.impress.co.jp/docs/news/2110276.html",
+          "source": {
+            "name": "窓の杜"
+          },
+          "publishedAt": "2026-05-20T07:21:21Z",
+          "image": "https://forest.watch.impress.co.jp/img/wf/list/2110/276/image1.png",
+          "language": "ja"
+        },
+        {
+          "title": "「親から許可されているんで」と休憩室でタバコをふかし…栃木強盗殺人事件で逮捕された16歳少年のアルバイト先での評判（デイリー新潮）",
+          "description": "栃木県上三川町の民家に押し入り女性を殺害したとして強盗殺人容疑で逮捕されたA少年は、高校に通いながら地元の小売店でアルバイトをしていた。同僚たちの間で問題視されていたAの「やる気のない働きぶり」と",
+          "url": "https://news.yahoo.co.jp/articles/e04eeb19937d69180955e3b362c63a4052b65900",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-20T06:41:31Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260520-01455444-shincho-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "XREALの「Project Aura」実機体験。軽量ながら「空間コンピューティング」を実現",
+          "description": "今年もGoogleの開発者会議「Google I/O」の取材にきている。",
+          "url": "https://av.watch.impress.co.jp/docs/series/rt/2110256.html",
+          "source": {
+            "name": "AV Watch"
+          },
+          "publishedAt": "2026-05-20T06:40:27Z",
+          "image": "https://av.watch.impress.co.jp/img/avw/list/2110/256/title.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「Google Antigravity 2.0」が公開 ～“AI統合IDE”から“エージェント管理アプリ”に",
+          "description": "米Googleは5月19日（現地時間）、年次の技術カンファレンス「Google I/O 2026」で「Google Antigravity 2.0」を発表した。2025年11月の初回リリース以来、初めてのメジャーバージョンアップだ。",
+          "url": "https://forest.watch.impress.co.jp/docs/news/2110125.html",
+          "source": {
+            "name": "窓の杜"
+          },
+          "publishedAt": "2026-05-20T05:31:00Z",
+          "image": "https://forest.watch.impress.co.jp/img/wf/list/2110/125/antigravity.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "梅雨の奄美で震度5強 少しの雨でも土砂災害に注意",
+          "description": "今日20日(水)昼前、鹿児島県の奄美で震度5強の強い揺れを観測する地震がありました。この地震による津波の心配はありません。梅雨の奄美地方では、この先は雨が続く見込みです。地盤の緩んでいる所では、少しの雨でも土砂災害に注意が必要です。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/05/20/38990.html",
           "source": {
             "name": "tenki.jp"
           },
-          "publishedAt": "2026-05-20T02:42:46Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/389/38984/main/20260520110941/large.jpg",
+          "publishedAt": "2026-05-20T05:13:39Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/389/38990/main/20260520140854/large.jpg",
           "language": "ja"
         },
         {
-          "title": "グーグルの検索バー、ここ数年で最大のアップデート Google I/O 2026",
-          "description": "グーグルは19日、年次開発者会議「Google I/O 2026」で検索エンジン、人工知能（AI）アシスタント「Gemini（ジェミニ）」、その他のサービス向けに多数のAI搭載機能を発表した。これは、数十年にわたる同社のビジネスモデルを人工知能の時代に合わせて刷新する最新の取り組みの一環だ。新たなインターネット時代で優位に立つべく、グーグルはユーザーがグーグル検索をする機会を減らそうとしている。",
-          "url": "https://www.cnn.co.jp/tech/35247717.html",
+          "title": "オープンワールド凡人ARPG『Outward 2』7月7日に早期アクセス配信開始へ、マルチ対応。歩くだけで過酷なファンタジー冒険、“低スぺでも動く”注目作がいよいよ来る",
+          "description": "Nine Dots Studioは5月19日、『Outward 2』の早期アクセス配信を7月7日に開始すると発表した。",
+          "url": "https://automaton-media.com/articles/newsjp/20260520-444064/",
           "source": {
-            "name": "CNN.co.jp"
+            "name": "AUTOMATON"
           },
-          "publishedAt": "2026-05-20T02:29:00Z",
-          "image": "https://www.cnn.co.jp/storage/2026/05/20/25f275b338253fdc105f121d2ec53051/gettyimages-2276578239.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Google、AIグラスを今秋発売。サムスンと共同開発",
-          "description": "Googleは、サムスンと共同開発するAIグラス「Intelligent eyewear」を今秋、一部市場で発売する。音声で操作するオーディオグラスと、必要な情報を視界内に表示するディスプレイグラスの2種類を展開する予定で、まずオーディオグラスを今秋に投入する。",
-          "url": "https://www.phileweb.com/sp/news/mobile_pc/202605/20/3745.html",
-          "source": {
-            "name": "PHILE WEB"
-          },
-          "publishedAt": "2026-05-20T02:21:56Z",
-          "image": "https://www.phileweb.com/news/ogp/mobile_pc/37/cce1d4e2c475bed308319cabcb99b5e2.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「公益通報」を問う：「この警視総監の下では働けぬ」法廷で証言の警部補、決意の退職",
-          "description": "警視庁公安部による冤罪（えんざい）「大川原化工機事件」について、現職警察官として法廷で異例の捜査批判をした警部補の男性がこの春、警視庁を自ら退職した。退職後、毎日新聞の取材に応じ、証言や退職に至る経緯を明かした。",
-          "url": "https://mainichi.jp/articles/20260519/k00/00m/040/049000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-05-20T02:00:00Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/05/19/20260519k0000m040056000p/0c10.jpg?1",
-          "language": "ja"
-        },
-        {
-          "title": "『Forza Horizon 6』プレイヤー数が370万人突破！発売から一夜で100万人以上増加も大人気すぎてサーバー接続問題も公式報告",
-          "description": "SNS上では嘆きの声があがっています。",
-          "url": "https://www.gamespark.jp/article/2026/05/20/166650.html",
-          "source": {
-            "name": "Game*Spark"
-          },
-          "publishedAt": "2026-05-20T01:38:55Z",
-          "image": "https://www.gamespark.jp/imgs/ogp_f/1130934.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "アップル、AIでアクセシビリティを大幅強化 iPhoneやVision Proに革新的な新機能が到来",
-          "description": "アップルは、さまざまな障害のある人々にとって自社製品がより役立つものになるよう設計された、複数のアップデートを発表した。",
-          "url": "https://japan.cnet.com/article/35247711/",
-          "source": {
-            "name": "CNET Japan"
-          },
-          "publishedAt": "2026-05-20T01:27:00Z",
-          "image": "https://japan.cnet.com/storage/2026/05/20/4e66d1f7eafc36f373ec92ac3fcef9dd/apple-accessibility-features-voiceover-apple-intelligence_1280x960.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "世界初デュアルディスプレイ16型ゲーミングノートPC「ROG Zephyrus Duo (GX651AX)」など、薄型軽量ゲーミングノートPC「ROG Zephyrus」シリーズ4製品9モデル発表",
-          "description": "ASUS JAPAN株式会社のプレスリリース（2026年5月20日 10時00分）世界初デュアルディスプレイ16型ゲーミングノートPC「ROG Zephyrus Duo (GX651AX)」など、薄型軽量ゲーミングノートPC「ROG Zephyrus」シリーズ4製品9モデル発表",
-          "url": "https://prtimes.jp/main/html/rd/p/000001716.000017808.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-05-20T01:00:02Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/17808/1716/17808-1716-c60e9a8e7aa4a07400556b4f9afc1bde-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "転売ヤー対策も準備中か？ Steam Machineの予約販売は4形態になる模様",
-          "description": "Image: Valve 今のゲーム業界で新しい「正解」を出し続けているValve。今年は（ホントに年内に出るのかは不安）ついに待望の据え置きゲーム機Steam Machineが発売される予定です。ゲ",
-          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260520_1779240940190006",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-05-20T01:00:00Z",
-          "image": "https://portal.st-img.jp/thumb/d13b9eb411e2dd3d306ce69bb5df0d32_1779240940_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "スタイリッシュでクリエイターも欲しくなるゲーミングノート「ROG Zephyrus」2026年モデル発表",
-          "description": "世界初となる16型デュアル・ディスプレイに薄型軽量14型のROG Zephyrus G14、16型のROG Zephyrus G16 計4製品10モデルが発売です。",
-          "url": "https://ascii.jp/elem/000/004/402/4402995/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-05-20T01:00:00Z",
-          "image": "https://ascii.jp/img/2026/05/18/4468202/xl/6e60c2a41aecf0db.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "20日～21日は九州～東北で雨 警報級の大雨の恐れも 東京は真夏日からヒンヤリへ",
-          "description": "今日20日から明日21日は前線が本州付近に延び、低気圧が通過するでしょう。九州から東北にかけて広く雨が降り、非常に激しい雨の降る所もありそうです。22日(金)も東海から東北で雨が降るでしょう。関東で日々の気温の変化が大きく、東京都心は今日20日は真夏日(最高気温30℃以上)となる予想ですが、22日(金)は17℃と薄着だとヒンヤリしそうです。",
-          "url": "https://tenki.jp/forecaster/t_yoshida/2026/05/20/38983.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-05-20T00:56:06Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/389/38983/main/20260520092339/large.jpg",
+          "publishedAt": "2026-05-20T04:41:29Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260520-444064-header.jpeg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Amitabh Bachchan sends fans love, prayers amid reports of hospitalisation: ‘Jab cheel hove shaant…’",
-          "description": "In the wee hours of Wednesday, Amitabh Bachchan took to his blog to share a poem, and chose not to address the rumours about his health.  | Bollywood",
-          "url": "https://www.hindustantimes.com/entertainment/bollywood/amitabh-bachchan-sends-fans-love-prayers-amid-reports-of-hospitalisation-abhishek-bachchan-bollywood-101779245467394.html",
+          "title": "H&M asks Singapore staff to reapply for jobs around Asia as part of restructuring",
+          "description": "In a restructuring exercise that involves moving its Southeast Asia headquarters from Singapore to Kuala Lumpur, the clothing retailer has asked staff to reapply for 178 available roles, including four in Singapore.",
+          "url": "https://www.channelnewsasia.com/singapore/hm-restructuring-employee-job-role-reapply-southeast-asia-kl-manila-vietnam-6115716",
           "source": {
-            "name": "Hindustan Times"
+            "name": "CNA"
           },
-          "publishedAt": "2026-05-20T03:24:02Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/05/20/550x309/Amitabh_Bachchan_1779245541648_1779245541844_e10fa743-8657-47c0-9b27-7effdc6e6172.png",
+          "publishedAt": "2026-05-20T08:21:00Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--rB58aq9c--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/19/lzx_5190.jpg?itok=cHVJVHzm",
           "language": "en"
         },
         {
-          "title": "As Aid Collapses and Crises Multiply, Women, Children and Adolescents Risk Being Written Out of Global Health Reform",
-          "description": "At WHA79, the Lives in the Balance dialogue highlighted a critical message: financing decisions are political decisions, and they determine whether women, children and adolescents are protected or left behind. As global health reform and health sovereignty agendas evolve, partners called for SRHR and WCAH to be explicitly protected through sustainable financing, stronger national systems and country-led action.",
-          "url": "https://pmnch.who.int/news-and-events/news/item/19-05-2026-as-aid-collapses-and-crises-multiply-women-children-and-adolescents-risk-being-written-out-of-global-health-reform",
+          "title": "Cptlux Announces New Advances in AI",
+          "description": "Cptlux today announced new advances in AI-powered information analysis, strengthening its private, invitation-only network for individuals operating at…",
+          "url": "https://pctechmag.com/2026/05/cptlux-announces-new-advances-in-ai-powered-information-analysis/",
           "source": {
-            "name": "Partnership for Maternal, Newborn and Child Health"
+            "name": "PC Tech Magazine"
           },
-          "publishedAt": "2026-05-20T03:23:42Z",
-          "image": "https://pmnch.who.int/images/librariesprovider9/thumbnails/as-aid-collapses-and-crises-multiply-women-children-and-adolescents-risk-being-written-out-of-global-health-reform.png?sfvrsn=f125daeb_1",
+          "publishedAt": "2026-05-20T08:20:23Z",
+          "image": "https://pctechmag.com/wp-content/uploads/2026/05/Screenshot_20260520_131417.jpg",
           "language": "en"
         },
         {
-          "title": "Bryson DeChambeau questions moon landing footage but believes in interdimensional beings ‘for sure’",
-          "description": "The two-time major champion has questioned whether footage of the moon landings are genuine",
-          "url": "https://www.theguardian.com/sport/2026/may/19/bryson-dechambeau-questions-moon-landing-footage-but-believes-in-interdimensional-beings-for-sure",
+          "title": "BTS Jungkook's Calvin Klein Promotions Spark Heated Debate About \"Couple Tattoo\" With aespa's Winter",
+          "description": "BTS Jungkook's recent Calvin Klein appearance has sparked a heated debate about his \"couple tattoo\" with aespa's Winter.",
+          "url": "https://www.koreaboo.com/news/bts-jungkooks-calvin-klein-sparks-heated-debate-couple-tattoo-aespas-winter/",
           "source": {
-            "name": "The Guardian"
+            "name": "Koreaboo"
           },
-          "publishedAt": "2026-05-20T03:23:00Z",
-          "image": "https://i.guim.co.uk/img/media/0c299280849523c551444295e533245f21705a04/35_0_3931_3143/master/3931.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=188404fba79e1e056edd216744221f83",
+          "publishedAt": "2026-05-20T08:20:01Z",
+          "image": "https://image.koreaboo.com/2026/05/FD2870-22.jpg",
           "language": "en"
         },
         {
-          "title": "Google revamps search for AI era, debuts coding tools",
-          "description": "Alphabet Inc’s Google is redesigning its iconic search box and adding new artificial intelligence (AI) coding tools, the latest steps in the company’s multibillion-dollar campaign to expand influence in the age of AI.",
-          "url": "https://theedgemalaysia.com/node/804250",
+          "title": "TEAMS: Hawks make Gunston call among four changes, Crows guns return",
+          "description": "The teams are in for Thursday night's clash between Hawthorn and Kuwarna at UTAS Stadium",
+          "url": "https://www.afl.com.au/news/1523231/teams-hawthorn-hawks-make-jack-gunston-call-among-four-changes-adelaide-crows-guns-riley-thilthorpe-and-callum-ah-chee-return",
           "source": {
-            "name": "The Edge Malaysia"
+            "name": "afl.com.au"
           },
-          "publishedAt": "2026-05-20T03:22:02Z",
-          "image": "https://assets.theedgemarkets.com/Google Search_20240515152240_bloomberg (confirmed)_2.jpg",
+          "publishedAt": "2026-05-20T08:20:00Z",
+          "image": "https://resources.afl.com.au/afl/photo/2026/05/20/aeffc81e-6359-4ad4-98bd-00b58f635c68/Teams2005.jpg",
           "language": "en"
         },
         {
-          "title": "Senate personnel arrive at CIDG amid shooting incident probe",
-          "description": "Personnel from the Senate arrived at the Criminal Investigation and Detection Group (CIDG) office in Camp Crame, Quezon City on Wednesday morning.",
-          "url": "https://www.gmanetwork.com/news/topstories/nation/988281/senate-personnel-arrive-at-cidg-amid-shooting-incident-probe/story/",
+          "title": "Kenyan motorist embarks on Canadian cross-country roadtrip in epic solo drive",
+          "description": "A Kenyan motorist and travel aficionado is drawing attention across Canada after embarking on an ambitious overland journey spanning thousands of kilometres from the Atlantic coast to the Pacific in a Kenyan-registered Land Rover.",
+          "url": "https://citizen.digital/article/kenyan-motorist-embarks-on-canadian-cross-country-roadtrip-in-epic-solo-drive-n383062",
           "source": {
-            "name": "GMA Network"
+            "name": "Citizen Digital"
           },
-          "publishedAt": "2026-05-20T03:20:54Z",
-          "image": "https://images.gmanews.tv/webpics/2026/05/Screenshot_2026-05-20_at_11_2026_05_20_11_14_04.png",
+          "publishedAt": "2026-05-20T08:19:11Z",
+          "image": "https://assets.citizen.digital/169263/conversions/f41added-cd5e-4968-ba0c-c7a935b4bfdf_HIuFSSwXsAAdqxR-og_image.webp",
           "language": "en"
         },
         {
-          "title": "Oil prices ease after Trump says US will end Iran war 'very quickly'",
-          "description": "Oil eased as Trump said the Iran war could end quickly, but supply disruptions and uncertainty in peace talks keep prices elevated, with Brent near $110.83/barrel",
-          "url": "https://dunyanews.tv/en/Business/952638-oil-prices-ease-after-trump-says-us-will-end-iran-war-very-quickly",
+          "title": "Fall in energy bills drives drop in UK inflation rate to 2.8%",
+          "description": "Inflation, which measures the increase in the price of something over time, remains above the Bank of England's target of 2%.",
+          "url": "https://www.bbc.com/news/live/c5y9jl1r9g9t",
           "source": {
-            "name": "Dunya News"
+            "name": "BBC"
           },
-          "publishedAt": "2026-05-20T03:20:03Z",
-          "image": "https://img.dunyanews.tv/news/2026/May/05-20-26/news_big_images/952638_63338743.jpg",
+          "publishedAt": "2026-05-20T08:18:22Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9bf0/live/aa009830-5418-11f1-b682-cf91850925ea.jpg",
           "language": "en"
         },
         {
-          "title": "Layoff Day at Meta Has Arrived",
-          "description": "Meta has begun sending layoff emails to roughly 10% of its workforce. The cuts are expected to eliminate around 8,000 roles.",
-          "url": "https://www.businessinsider.com/layoff-meta-severance-details-cobra-jobs-2026-5",
+          "title": "\"Ungrateful Human\": Toke Makinwa Drags Sandra, Frank Edoho’s Estranged Wife, After Viral Audio Leaks",
+          "description": "Media personality Toke Makinwa blasted Frank Edoho's estranged wife after a leaked phone conversation revealed surprising claims about an old business deal",
+          "url": "https://www.legit.ng/entertainment/celebrities/1710820-ungrateful-human-toke-makinwa-drags-sandra-frank-edohos-estranged-wife-viral-audio-leaks/",
           "source": {
-            "name": "Business Insider"
+            "name": "Legit.ng"
           },
-          "publishedAt": "2026-05-20T03:19:52Z",
-          "image": "https://i.insider.com/6a0c9a1fbe2e5e1daf89096f?width=1200&format=jpeg",
+          "publishedAt": "2026-05-20T08:16:27Z",
+          "image": "https://cdn.legit.ng/images/1200x675/1fed8014a84a002b.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "Ridon casts away doubts about Flores after abstention controversy in impeachment vote",
-          "description": "Bicol Saro Party-list Rep. Terry Ridon has taken up the cudgels for his fellow impeachment prosecutor Bukidnon 2nd district Rep. Jonathan Keith Flores, who...",
-          "url": "https://mb.com.ph/2026/05/20/ridon-casts-away-doubts-about-flores-after-abstention-controversy-in-impeachment-vote",
+          "title": "AFL Team Selection: Round 11 v Hawthorn",
+          "description": "Find out who’s been selected for our clash against Hawthorn.",
+          "url": "https://www.afc.com.au/news/2027577/afl-team-selection-round-11-v-hawthorn",
           "source": {
-            "name": "Manila Bulletin"
+            "name": "afc.com.au"
           },
-          "publishedAt": "2026-05-20T03:19:28Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/20/102511.webp",
+          "publishedAt": "2026-05-20T08:16:00Z",
+          "image": "https://resources.afc.com.au/aflc-adel/photo/2026/05/20/252693bf-cc8a-4273-8bcb-584406408672/Team-Selection-WEB-FB-X-1920x1080-.png",
           "language": "en"
         },
         {
-          "title": "NBA Playoffs: Knicks rally from 22 down to beat Cavaliers in OT",
-          "description": "Jalen Brunson led New York Knicks back from 22 down in the 4th quarter for 115-104 win vs Cavaliers in OT in Game 1 of the NBA playoffs.",
-          "url": "https://sports.inquirer.net/677204/nba-playoffs-knicks-rally-from-22-down-to-beat-cavs-in-ot",
+          "title": "Brothers of Bondi hero Ahmed Al Ahmed front court over alleged threatening phone call",
+          "description": "Two brothers of Ahmed Al Ahmed faced Bankstown Local Court over alleged verbal threats via the phone.",
+          "url": "https://www.abc.net.au/news/2026-05-20/nsw-bondi-hero-ahmed-al-ahmed-brothers-front-court/106703518",
           "source": {
-            "name": "Inquirer.net"
+            "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-05-20T03:19:00Z",
-          "image": "https://sports.inquirer.net/files/2026/05/AP26140056292005-scaled.jpg",
+          "publishedAt": "2026-05-20T08:15:50Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/7cd18d63d17abcb6e3e959a5bcffa895?impolicy=wcms_watermark_news&cropH=2525&cropW=4488&xPos=0&yPos=229&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Teacher claims trial to five counts of sexual offences against student, 14",
-          "description": "SEREMBAN: A 41-year-old teacher has pleaded not guilty to five sexual offence charges involving a 14-year-old student.",
-          "url": "https://www.thestar.com.my/news/nation/2026/05/20/teacher-claims-trial-to-five-counts-of-sexual-offences-against-student-14",
+          "title": "Arsenal critics not laughing now",
+          "description": "A jubilant Bukayo Saka hit back at Arsenal's critics by saying \"they're not laughing at us anymore\" as the club celebrated their first Premier League title in 22 years.",
+          "url": "https://www.rte.ie/sport/soccer/2026/0520/1574276-saka-arsenal-critics-not-laughing-now/",
           "source": {
-            "name": "thestar.com.my"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-05-20T03:19:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/05/20/3917051.jpg",
+          "publishedAt": "2026-05-20T08:15:42Z",
+          "image": "https://www.rte.ie/images/002464d8-1600.jpg",
           "language": "en"
         }
       ]
