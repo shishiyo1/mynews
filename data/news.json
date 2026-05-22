@@ -1,10 +1,109 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-22T14:42:32.012Z",
+  "updatedAt": "2026-05-22T17:09:37.292Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "『サブノーティカ 2』世界累計販売本数が400万本を突破。Steamの最高同時接続数は46万人超え、レビューも7万件超えで“非常に好評”を維持",
+          "description": "KRAFTON JAPANは『サブノーティカ 2』の世界累計販売本数が400万本を突破したことを発表。Steamでは最高同時接続プレイヤー数が46万人を超え、ユーザーレビューでも73000件以上のうち、91%が好意的評価で“非常に好評”を維持。",
+          "url": "https://www.famitsu.com/article/202605/75615",
+          "source": {
+            "name": "famitsu.com"
+          },
+          "publishedAt": "2026-05-22T05:00:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/75615/thumbnail_KNip.jpg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "カルーセル麻紀さん発症『足梗塞』痛みで歩けず“切断寸前”に 病気のサイン＆予防法",
+          "description": "気温があがり、梅雨を迎えるこれからの時期は『脳梗塞』や『心筋梗塞』に注意が必要です。",
+          "url": "https://news.tv-asahi.co.jp/news_society/articles/900191055.html",
+          "source": {
+            "name": "テレ朝NEWS"
+          },
+          "publishedAt": "2026-05-22T04:43:20Z",
+          "image": "https://news.tv-asahi.co.jp/articles_img/900191055_1200.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ついに本日『スター・ウォーズ／マンダロリアン・アンド・グローグー』劇場公開！今、Amazonで購入可能なホットなアイテムをチェック！【新作映画7年ぶり劇場公開！特集スター・ウォーズ2026】",
+          "description": "いよいよ本日より新作映画が劇場公開！新着雑誌や書籍、映像・音楽ソフトからプラモ、フィギュア、トイまで、今購入できるホットなアイテムをチェック！【特集スター・ウォーズ2026】",
+          "url": "https://hobby.dengeki.com/news/3019918/",
+          "source": {
+            "name": "電撃ホビーウェブ"
+          },
+          "publishedAt": "2026-05-22T04:30:00Z",
+          "image": "https://hobby.dengeki.com/ss/hobby/2026/04/tc_PMfwesLqhZDcG91V8FnQpK0Wf0bFKnwC_1EXPcjF5odKXU9Lmczyky3yOJkHMZ3wy.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "列島で激しい気温差 東京4月並み 19日に初猛暑日の福島市は\"やませ\"で3月並み",
+          "description": "今日22日(金)は、関東や東北で空気がひんやりとしていて、正午の気温は岩手県宮古市で9.6℃と、5月下旬としては6年ぶりに10℃未満となっています。一方、東海から西の地域では天気が回復傾向で気温が上がり、九州や四国を中心に汗ばむ暑さとなっています。日ごとの寒暖差で体調を崩さないよう注意が必要です。",
+          "url": "https://tenki.jp/forecaster/k_itoh/2026/05/22/39009.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-22T04:16:47Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/390/39009/main/20260522130454/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【フィギュア】宇野昌磨＆本田真凜がＷ会見で宣言「目標は30年五輪」アイスダンス転向、初戦10月",
+          "description": "フィギュアスケートでアイスダンス転向を電撃表明した男子の宇野昌磨さん（28）と女子の本田真凜さん（24）が22日、都内で会見した。ちょうど2年前の5月、宇野さ… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/sports/figure/news/202605220000225.html",
+          "source": {
+            "name": "日刊スポーツ"
+          },
+          "publishedAt": "2026-05-22T04:00:00Z",
+          "image": "https://www.nikkansports.com/sports/figure/news/img/202605220000225-w500_0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "後場の日経平均は1443円高でスタート、日東紡やソフトバンクGなどが上昇／後場の寄り付き概況(フィスコ)",
+          "description": "後場の日経平均は前日比1443.61円高の63127.75円と、前引け（63094.61円）とほぼ同水準でスタート。ランチタイム中の日経225先物は63070円-63180円のレンジでもみ合い。ドル・円は1ドル＝159.00-10円と午前9時頃とほぼ...",
+          "url": "https://finance.yahoo.co.jp/news/detail/6c95eff097f61c304d917b769c1f912fa1285268",
+          "source": {
+            "name": "Yahoo!ファイナンス"
+          },
+          "publishedAt": "2026-05-22T03:58:00Z",
+          "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+          "language": "ja"
+        },
+        {
+          "title": "皇后さま、「真っ白な洋服」に12万いいね 気品あふれる“真珠のネックレス”【2025年に続くコーデ】",
+          "description": "皇后さまらは5月12日、明治神宮会館（渋谷区）で「令和8年全国赤十字大会」に出席されました。宮内庁のInstagramには皇后さまの真っ白な洋服姿などが投稿され、投稿には総数で約11万6000件の“いいね”が寄せられています。画像出典：宮内庁 Instagram皇后さま、「真っ白な洋服」を着用…",
+          "url": "https://nlab.itmedia.co.jp/cont/articles/3851335/",
+          "source": {
+            "name": "ねとらぼ"
+          },
+          "publishedAt": "2026-05-22T03:20:46Z",
+          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/12/1764593406_kunaicho_jp.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ヴァニラウェアを「卒業」し、奈良の山奥で6年かけてゲームを作り続けたゲーム職人の物語",
+          "description": "初代『モンハン』や『十三機兵防衛圏』などに携わってきた男が、なぜ農村でゲームを作り続けているのか。畑を耕しながらゲームを作る「晴耕雨ゲーム制作」の先に見えたものとは",
+          "url": "https://news.denfaminicogamer.jp/interview/260522v",
+          "source": {
+            "name": "電ファミニコゲーマー"
+          },
+          "publishedAt": "2026-05-22T03:00:00Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/thumb.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "物言う株主、KADOKAWA夏野CEO解任に賛同呼びかけ 在任5年で業績悪化、「ELDEN RING」「ニコニコ」への姿勢も疑問視",
+          "description": "業績悪化は夏野氏の事業戦略の失敗によるものだとし、出版事業の業績悪化の他、子会社フロム・ソフトの「ELDEN RING」の利益流出、「ニコニコ」の競争力低下も問題視している。",
+          "url": "https://www.itmedia.co.jp/news/articles/2605/22/news086.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-05-22T02:51:00Z",
+          "image": "https://image.itmedia.co.jp/news/articles/2605/22/cover_news086.png",
+          "language": "ja"
+        },
         {
           "title": "スマホに差すだけで、最大で384kHzのPCMとDSD256のハイレゾ音源が楽しめる。iFi audioのUSB DAC内蔵 ヘッドホンアンプ「GO link 2」登場",
           "description": "エミライから、iFi audioのUSB DAC内蔵 ヘッドホンアンプ「GO link 2」（市場予想価格10,780円前後、税込）が5月29日に発売される。\nGO link 2は、スマートホンやPCをハイレゾ音楽プレーヤーへと変えてくれるUSB DAC搭載ヘッドホンアンプだ。iFi audio史上最小・最軽量のボディながらESS Sabre DACを搭載し、またクロストークを半減するS-Balanced Technology、ダイナミックレンジ拡張といった技術を凝縮・内蔵している。さらにiFi Nexisアプリ連携とので、フィルター選択やOTA更新にも対応可能だ（Android端末専用の追加機能）。\n近年のスマホでは、ハイレゾオン音源を扱える製品は登場しているが、多くのタスクをこなす関係から、オーディオ機能は後回しになりがちという。GO link 2は、デバイスの内部回路をバイパス...",
@@ -15,216 +114,117 @@
           "publishedAt": "2026-05-22T02:18:14Z",
           "image": "https://d1uzk9o9cg136f.cloudfront.net/f/16783364/rc/2026/05/21/9849071572bec5922fb470fe0a4840931b9c5fe4_xlarge.jpg",
           "language": "ja"
-        },
-        {
-          "title": "「しょまりん」始動 宇野昌磨と本田真凜、アイスダンスで冬季五輪へ挑戦＜発表全文＞",
-          "description": "フィギュアスケート・アイスダンスでの現役復帰を発表した宇野昌磨さん（28）と本田真凜さん（24）は、22日に連名でインスタグラムへ投稿したコメントで、フランス・アルプス地域での2030年冬季五輪に向けて「自分達が納得できる日々を積み重ねて…",
-          "url": "https://www.sankei.com/article/20260522-GIIXCHPDPREITE2EDMYNENESHY/",
-          "source": {
-            "name": "産経ニュース"
-          },
-          "publishedAt": "2026-05-22T01:31:58Z",
-          "image": "https://www.sankei.com/resizer/v2/ZCCWIYAP3FEZHCPKTWVFG5AWJ4.png?auth=6b6ab91ec8cd7a82f498e62c8ce3d4d9ea16d2a128e6b8001981f2523534eea0&quality=50&focal=340%2C180&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "Games Workshop、ウォーハンマーの祭典『Warhammer Skulls』10周年記念ショーケースで発表された全情報まとめを発表",
-          "description": "Games Workshop Group PLCのプレスリリース（2026年5月22日 10時27分）Games Workshop、ウォーハンマーの祭典『Warhammer Skulls』10周年記念ショーケースで発表された全情報まとめを発表",
-          "url": "https://prtimes.jp/main/html/rd/p/000000009.000101014.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-05-22T01:27:14Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/101014/9/101014-9-83c8aa8d48089df72e083d6a55f4f486-540x340.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "『サブノーティカ 2』、世界累計販売本数400万本突破。早期アクセスから5日で達成",
-          "description": "Steam最大同時接続46万人超、累計プレイ時間2857万時間を記録の大盛況。レビューも7万3000件以上を集め、91%が好評の「非常に好評」",
-          "url": "https://news.denfaminicogamer.jp/news/260522x",
-          "source": {
-            "name": "電ファミニコゲーマー"
-          },
-          "publishedAt": "2026-05-22T01:25:00Z",
-          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_e631ef3b91faacacb5a2c823d0b979083548d66f.1920x1080.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "NVIDIA=GeForceの認識はもう古い？決算から「Gaming」の文字消える",
-          "description": "米NVIDIAは5月20日(現地時間)、2027年度第1四半期(2026年2月～4月)の決算を発表した。この決算報告の中で、2026年度まで「Gaming and AI PC」として記載されていたセグメントがなくなり、「Edge Computing」になった点が注目されている。",
-          "url": "https://pc.watch.impress.co.jp/docs/news/2110806.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-05-22T01:21:43Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2110/806/1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『グランド・セフト・オートVI（GTA6）』販売元ボス、「延期はしない」とまたまた強調。マーケティングは“6月下旬以降”に本格始動へ",
-          "description": "Take-Two InteractiveのCEOを務めるtrauss Zelnick氏は、『グランド・セフト・オートVI』が11月19日に発売されることを改めて明言した。",
-          "url": "https://automaton-media.com/articles/newsjp/20260522-444529/",
-          "source": {
-            "name": "AUTOMATON"
-          },
-          "publishedAt": "2026-05-22T01:18:17Z",
-          "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260522-444529-header.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "関東の天気 今日22日は4月並みでヒンヤリ 週明けは一転して気温上昇で夏日に",
-          "description": "今日22日(金)の関東は雨や北風の影響で昼間も気温が上がらず、4月並みのヒンヤリした体感となりそうです。週末は次第に天気が回復して週明けは一転して気温上昇。来週後半は内陸部を中心に真夏日となる所もありそうです。",
-          "url": "https://tenki.jp/forecaster/s_ono/2026/05/22/39008.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-05-22T01:02:03Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/390/39008/main/20260522093948/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "iFi audio史上最小・最軽量DAC「GO link 2」。3.5mmでもクロストーク半減",
-          "description": "エミライは、iFi Audioの新製品として、小型のUSB DAC搭載ヘッドフォンアンプ「GO link 2」を5月29日に発売する。価格はオープンで、市場想定価格は10,780円前後。",
-          "url": "https://av.watch.impress.co.jp/docs/news/2110698.html",
-          "source": {
-            "name": "AV Watch"
-          },
-          "publishedAt": "2026-05-22T01:00:00Z",
-          "image": "https://av.watch.impress.co.jp/img/avw/list/2110/698/f1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "車のカーナビをスマホのように快適操作、動画・ナビ・アプリを自由に楽しめるスマート体験へ｜Ottocast感謝キャンペーン、Amazonストアで開催中。今だけ最大1万円OFFの特別セール実施中！",
-          "description": "OTTOCAST CORPORATION LIMITED 以下のような「車のストレス」を感じていませんか？・車載システムが古く、スマートな使い方ができていないと感じていませんか？・毎日の通勤や車の待ち",
-          "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/787628.html",
-          "source": {
-            "name": "宮崎日日新聞"
-          },
-          "publishedAt": "2026-05-22T01:00:00Z",
-          "image": "https://www.the-miyanichi.co.jp/contents/wp-content/themes/miyanichi/images/profile.png",
-          "language": "ja"
-        },
-        {
-          "title": "【競馬予想】オークスを勝つのは桜花賞組か、別路線組か？ ガラッと一変した「３歳牝馬ランキング」",
-          "description": "３歳牝馬ランキング（後編）一躍オークスの有力候補に浮上したラフターラインズ　photo by Koichi Miura前編◆オークスを目前にしてのスポルティーバ・オリジナル「３歳牝馬番付」＞＞　いよいよ間近に迫ってきた牝馬クラシック第…",
-          "url": "https://sportiva.shueisha.co.jp/clm/keiba/keiba/2026/05/22/post_66/",
-          "source": {
-            "name": "webスポルティーバ"
-          },
-          "publishedAt": "2026-05-22T00:50:23Z",
-          "image": "https://sportiva.shueisha.co.jp/clm/keiba/keiba/2026/images/rafter-lins.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Entire CSK Team Punished, Captain Handed Hefty Fine After Final IPL 2026 Game",
-          "description": "Ruturaj Gaikwad-led Chennai Super Kings were given a hefty penalty by the IPL Governing Council after their last game of the 2026 season against the Gujarat Titans.",
-          "url": "https://sports.ndtv.com/ipl-2026/in-final-game-of-ipl-2026-entire-csk-team-punished-over-code-of-conduct-breach-11530773",
+          "title": "Japan’s Middle East Oil Imports Drop by Two-Thirds in April",
+          "description": "Japanese oil imports plunged in April, due to the country’s heavy dependency on the currently chaotic Middle East for much of its petroleum supplies.",
+          "url": "https://www.nippon.com/en/japan-data/h02788/japan%E2%80%99s-middle-east-oil-imports-drop-by-two-thirds-in-april.html",
           "source": {
-            "name": "NDTV Sports"
+            "name": "nippon.com"
           },
-          "publishedAt": "2026-05-22T02:42:20Z",
-          "image": "https://c.ndtvimg.com/2026-05/l10spjho_ruturaj-gaikwad-csk-bcci-ipl_625x300_22_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+          "publishedAt": "2026-05-22T05:09:26Z",
+          "image": "https://www.nippon.com/en/ncommon/contents/japan-data/3008501/3008501.jpg",
           "language": "en"
         },
         {
-          "title": "Rawalpindi’s Naveed wins Caddies Cup title at Club Eighteen",
-          "description": "LAHORE  -  The Club Eighteen successfully hosted the Caddies Cup ‘Golf Development Program’, providing a major platform for emerging golfing talent",
-          "url": "https://www.nation.com.pk/22-May-2026/rawalpindi-s-naveed-wins-caddies-cup-title-club-eighteen",
+          "title": "LTM Has Issued an Offer to Acquire Randstad’s Technology and Consulting Services Business in Europe and Australia to Scale Domain-Driven Solutions and AI Services",
+          "description": "LTM has issued an offer to acquire Randstad’s Technology and Consulting Services business in Europe and Australia.",
+          "url": "https://www.businesswire.com/news/home/20260521440870/en/LTM-Has-Issued-an-Offer-to-Acquire-Randstads-Technology-and-Consulting-Services-Business-in-Europe-and-Australia-to-Scale-Domain-Driven-Solutions-and-AI-Services",
           "source": {
-            "name": "The Nation (Pakistan )"
+            "name": "Business Wire"
           },
-          "publishedAt": "2026-05-22T02:40:00Z",
-          "image": "https://www.nation.com.pk/print_images/large/2026-05-22/rawalpindi-s-naveed-wins-caddies-cup-title-club-eighteen-1779417615-2392.jpg",
+          "publishedAt": "2026-05-22T05:09:00Z",
+          "image": "https://mms.businesswire.com/media/20260521440870/en/2813031/22/LTM.jpg",
           "language": "en"
         },
         {
-          "title": "Turkish court ousts opposition leader in boost to Erdogan",
-          "description": "The 2023 party congress where Ozgur Ozel was elected leader of Turkey's opposition CHP has been declared null and void. The ruling is a legal victory for President Erdogan, but Ozel has vowed not to give in.",
-          "url": "https://www.dw.com/en/turkish-court-ousts-opposition-leader-in-boost-to-erdogan/a-77253393",
+          "title": "Roger Cook warns Kimberley fracking may be needed if Woodside's Browse gas project fails",
+          "description": "Roger Cook raises the prospect of gas fracking in WA's Kimberley region, warning the state could face future energy shortfalls if Woodside Energy's massive Browse project does not proceed.",
+          "url": "https://www.abc.net.au/news/2026-05-22/roger-cook-kimberley-fracking-threat-browse-criticism-/106710996",
           "source": {
-            "name": "DW.com"
+            "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-05-22T02:39:48Z",
-          "image": "https://static.dw.com/image/76401035_6.jpg",
+          "publishedAt": "2026-05-22T05:08:35Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/cc0d3ffad92a7cd2a4d69a3c65f7bf58?impolicy=wcms_watermark_news&cropH=2249&cropW=3998&xPos=2&yPos=0&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "1 charged for suspected impaired driving in fatal Scarborough crash",
-          "description": "Toronto police say two vehicles collided on Sheppard Avenue East between Tallpines Court and Vandorf Street around 10 p.m. Thursday.",
-          "url": "https://toronto.citynews.ca/2026/05/21/driver-arrested-for-suspected-impaired-driving-as-two-vehicle-crash-leaves-1-person-critically-injured/",
+          "title": "Occupied Territories Bill to ‘move forward’ - but without restriction on services",
+          "description": "Helen McEntee to raise EU-wide action again in Brussels as long-proposed legislation to be revived in Dáil",
+          "url": "https://www.irishtimes.com/politics/2026/05/22/occupied-territories-bill-to-move-forward-but-without-restriction-on-services/",
           "source": {
-            "name": "CityNews Toronto"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-05-22T02:39:00Z",
-          "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/05/21/sheppard-crash.jpg",
+          "publishedAt": "2026-05-22T05:07:26Z",
+          "image": "https://www.irishtimes.com/resizer/v2/CRA54ZPLMZEUFABAS5FWCMPNN4.JPG?smart=true&auth=3f2f44e5143105ae1d2308373dea9ea7c008b25b0e4b75df0cbcb9a2b4c5ba33&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Joe Hunter Says Survivor 50 Jury ‘Hated’ Him As Jeff Probst Accidentally Reveals Major Finale Twist In Wild CBS Live TV Moment",
-          "description": "The Survivor 50 finale delivered one of the wildest live television moments in reality TV history as longtime Survivor host Jeff Probst accidentally spoiled a",
-          "url": "https://nbsla.ca/joe-hunter-says-survivor-50-jury-hated-him-as-jeff-probst/",
+          "title": "Anxiety and depression drive global mental health surge to 1.2 billion, study",
+          "description": "A surge in anxiety and depression has pushed global mental health cases to 1.2 billion, highlighting a growing burden that health systems are not prepared to meet.",
+          "url": "https://www.euronews.com/health/2026/05/22/global-mental-health-surge-12-billion-study",
           "source": {
-            "name": "Nbsla.ca"
+            "name": "Euronews"
           },
-          "publishedAt": "2026-05-22T02:38:21Z",
-          "image": "https://nbsla.ca/wp-content/uploads/2026/05/Joe-Hunter-Says-Survivor-50-Jury-‘Hated-Him-as-Jeff-Probst-Accidentally-Reveals-Major-Finale-Twist-in-Wild-CBS-Live-TV-Moment.jpg",
+          "publishedAt": "2026-05-22T05:05:47Z",
+          "image": "https://images.euronews.com/articles/stories/09/76/77/79/1200x675_cmsv2_fa811ec9-786e-50c6-be29-adcdc183ce3f-9767779.jpg",
           "language": "en"
         },
         {
-          "title": "SC, DOJ, DILG launch Justice Zone in La Union",
-          "description": "Chief Justice Alexander G. Gesmundo led the launching on Thursday, May 21, of the Justice Zone (JZ) in San Fernando City, La Union where law enforcers,...",
-          "url": "https://mb.com.ph/2026/05/22/sc-doj-dilg-launch-justice-zone-in-la-union",
+          "title": "Paul McCartney, Wormhole, Pope",
+          "description": "Stephen Colbert ended CBS' Late Show with Paul McCartney, an interdimensional wormhole that sucked up the Ed Sullivan Theater and no mention of Trump.",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/stephen-colbert-late-show-final-episode-recap-1236604054/",
           "source": {
-            "name": "Manila Bulletin"
+            "name": "The Hollywood Reporter"
           },
-          "publishedAt": "2026-05-22T02:37:23Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/22/103142.webp",
+          "publishedAt": "2026-05-22T05:05:41Z",
+          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/3217085_3296-e1779426070352.jpg?w=1440&h=810&crop=1",
           "language": "en"
         },
         {
-          "title": "Sonos Play speaker review: 24-hour battery, waterproof design",
-          "description": "In recent weeks, I’ve been listening to an audio book talking about the importance of silence, giving your mind time to rest, to process the events of the day.",
-          "url": "https://www.news.com.au/technology/sonos-play-review-premium-sound-meets-portable-weatherproof-design/news-story/cf9d1571129d727404ca2a11607bfa32",
+          "title": "BTS concerts in Singapore: Tickets and dates",
+          "description": "Get the latest on BTS's December National Stadium concerts in Singapore, including ticket sales and tour dates. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/life/entertainment/tickets-to-bts-4-national-stadium-concerts-in-december-go-on-sale-june-3",
           "source": {
-            "name": "News.com.au"
+            "name": "The Straits Times"
           },
-          "publishedAt": "2026-05-22T02:37:04Z",
-          "image": "https://content.api.news/v3/images/bin/5f72b9028c30f9bb3b6aa4747a9a6738",
+          "publishedAt": "2026-05-22T05:04:41Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/059b3263e3b5e4bf3082cac1841c06c44d89fefc8a55ee11e6d0b566c3a50b5c",
           "language": "en"
         },
         {
-          "title": "Spencer Miles Was Great, Jays Win",
-          "description": "Your best source for quality Toronto Blue Jays news, rumors, analysis, stats and scores from the fan perspective.",
-          "url": "https://www.bluebirdbanter.com/toronto-blue-jays-scores/62068/spencer-miles-was-great-jays-win",
+          "title": "Pakistan names three uncapped players for ODI series against Australia",
+          "description": "Pakistan on Friday named three uncapped players in a squad of 16 for the three-match one-day cricket international home series against Australia starting next week. Wicketkeeper-batter Rohail Nazir, fast bowler Ahmed Daniyal and all-rounder Arafat Minhas have played handful of T20 internationals but have been selected for the 50-over format for the first time. Nazir and Ghazi Ghori are the two wicketkeepers in the side.",
+          "url": "https://sports.yahoo.com/articles/pakistan-names-three-uncapped-players-050433180.html",
           "source": {
-            "name": "Bluebird Banter"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-05-22T02:36:00Z",
-          "image": "https://platform.bluebirdbanter.com/wp-content/uploads/sites/41/2026/05/imagn-29022289.jpg?quality=90&strip=all&crop=0%2C10.72836736013%2C100%2C78.54326527974&w=1200",
+          "publishedAt": "2026-05-22T05:04:00Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/R62Ym0Ucpr81M8SWutvKDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/adc217b7e3e5dc778e314286f8f01484",
           "language": "en"
         },
         {
-          "title": "Vietnam to require mandatory health declarations for inbound, outbound travelers from July 1",
-          "description": "The government has issued a decree requiring inbound, outbound and transit travelers to submit health declarations in accordance with regulations. - VnExpress International",
-          "url": "https://e.vnexpress.net/news/travel/vietnam-to-require-mandatory-health-declarations-for-inbound-outbound-travelers-from-july-1-5076839.html",
+          "title": "Indonesian Palm Oil Industry Raises Concerns Over Single",
+          "description": "Indonesian palm oil businesses warn that the government’s centralized export system could disrupt established trading networks.",
+          "url": "https://jakartaglobe.id/business/indonesian-palm-oil-industry-raises-concerns-over-singlegate-export-policy",
           "source": {
-            "name": "VnExpress International"
+            "name": "Jakarta Globe"
           },
-          "publishedAt": "2026-05-22T02:35:28Z",
-          "image": "https://vcdn1-english.vnecdn.net/2026/05/22/9c7d0176af0f0851511e1724947525-5765-4156-1779415834.png?w=680&h=0&q=100&dpr=1&fit=crop&s=83Y5_GMsKuq3wFwsWudFjw",
+          "publishedAt": "2026-05-22T05:04:00Z",
+          "image": "https://img2.beritasatu.com/cache/jakartaglobe/960x620-w/2026/04/1775546559-5347x3564.webp",
           "language": "en"
         },
         {
-          "title": "Everything at Google I/O 2026: A Lot of Tech Could Come",
-          "description": "Google I/O 2026 revealed the new Gemini Era and a $100 Ultra plan. You're looking at every major 2026 announcement that matters.",
-          "url": "https://memeburn.com/everything-at-google-i-o-2026/",
+          "title": "EPRA Advances Biofuel Blending to Cut Fuel Imports, Boost Local Industry",
+          "description": "The announcement was made after a high-level stakeholder consultation bringing together oil marketers, ethanol producers, logistics firms, regulators, and manufacturers.",
+          "url": "https://www.kenyans.co.ke/news/123655-epra-advances-biofuel-blending-cut-fuel-imports-boost-local-industry",
           "source": {
-            "name": "Memeburn"
+            "name": "Kenyans.co."
           },
-          "publishedAt": "2026-05-22T02:35:26Z",
-          "image": "https://memeburn.com/wp-content/uploads/2026/05/Everything-at-Google-I-O-2026-1024x576.png",
+          "publishedAt": "2026-05-22T05:03:41Z",
+          "image": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/a_person_refuels_his_car_at_a_petrol_station.jpg?itok=p8p6V3bh",
           "language": "en"
         }
       ]
