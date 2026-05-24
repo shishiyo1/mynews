@@ -1,10 +1,21 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-24T03:45:36.245Z",
+  "updatedAt": "2026-05-24T08:31:09.803Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "趣里が鋭い観察眼を持つ税関職員に、寄せ集め集団が日本を守るドラマ「大空港～GATE24～」（コメントあり）",
+          "description": "趣里が主演を務めるテレビ朝日系新ドラマ「大空港～GATE24～」が、7月にスタートする。空港を舞台とする同作は、税関職員をはじめ各省庁の人員からなる新設チームが“最強の門番”へと覚醒し、日本の平和と安全を守るために奮闘する痛快...",
+          "url": "https://natalie.mu/eiga/news/673151",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-05-23T20:00:00Z",
+          "image": "https://ogre.natalie.mu/media/news/eiga/2026/0523/shuri_art202605.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
         {
           "title": "アロンソ「今のパフォーマンスでは将来を決められない」、苦戦続くアストンマーティン・ホンダの現状に苦悩（TopNews）",
           "description": "アストンマーティンF1のフェルナンド・アロンソは、今シーズン以降もF1でのキャリアを継続するかどうか、まだ決断していないことを認めた。\n間もなく45歳を迎えるアロンソとアストンマーティンの契約は2",
@@ -103,128 +114,117 @@
           "publishedAt": "2026-05-23T08:41:00Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260523-35247920-cnn-000-3-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "リアル日本レース『Forza Horizon 6』の機械学習AIが「不自然に速すぎる」との意見が急浮上中。“ズル”疑惑も寄せられ、公式による調査へ",
-          "description": "『Forza Horizon 6』について、「特に高難易度モードにおいて、対戦相手のAIが速すぎるという意見の調査を進めている」との開発者メッセージが公開され、話題になっている。",
-          "url": "https://automaton-media.com/articles/newsjp/20260523-444749/",
-          "source": {
-            "name": "AUTOMATON"
-          },
-          "publishedAt": "2026-05-23T08:09:09Z",
-          "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260523-444749-header.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Gov't to promote 50,000 teachers in next budget - DP Kindiki",
-          "description": "Deputy President Kithure Kindiki has said the government will promote 50,000 teachers through improved budgetary allocation in the coming financial year.",
-          "url": "https://citizen.digital/article/govt-to-promote-50000-teachers-in-next-budget-dp-kindiki-n383288",
+          "title": "Trump's $1.8 Billion DOJ Fund Sparks Claims Rush- MyPillow's Mike Lindell Seeks Millions As Ex-FBI Chief Comey Says 'I'll Be In Line'",
+          "description": "Several prominent associates and critics of President Donald Trump have expressed their intention to seek compensation from the Trump administration’s $1.8 billion “Anti-Weaponization Fund.” Allies Se...",
+          "url": "https://www.yahoo.com/news/politics/articles/trumps-1-8-billion-doj-203103195.html",
           "source": {
-            "name": "Citizen Digital"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-05-23T15:45:17Z",
-          "image": "https://assets.citizen.digital/165536/conversions/WhatsApp-Image-2026-02-25-at-17.40.18-%281%29-og_image.webp",
+          "publishedAt": "2026-05-23T20:31:03Z",
+          "image": "https://s.yimg.com/os/en/benzinga_79/e55379c7302b445b2e8a14017055d240",
           "language": "en"
         },
         {
-          "title": "Screen-Shunning Parents Turn To Audio Toys",
-          "description": "Screen-Shunning Parents Turn To Audio Toys",
-          "url": "https://www.channelstv.com/2026/05/23/screen-shunning-parents-turn-to-audio-toys/",
+          "title": "UK records hottest day of year as forecasters warn of more extreme heat",
+          "description": "Temperature reaches 30.5C in Kent as amber health alerts issued before bank holiday temperatures rise",
+          "url": "https://www.theguardian.com/uk-news/2026/may/23/uk-records-hottest-day-of-the-year-so-far-with-warnings-of-more-extreme-heat-this-weekend",
+          "source": {
+            "name": "The Guardian"
+          },
+          "publishedAt": "2026-05-23T20:31:00Z",
+          "image": "https://i.guim.co.uk/img/media/568d24d171b30069b71f1e40baf83a11b19d4c16/680_0_6833_5464/master/6833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a054e6f7037bb38a591be25901440cd5",
+          "language": "en"
+        },
+        {
+          "title": "Brighton beach sisters 'never recovered' after mum died in tragic similar circumstances",
+          "description": "Jane Adetoro, Christina Walters and Rebecca Walters, were found dead off Brighton beach earlier this month - it has since been revealed their mum died in similar circumstances",
+          "url": "https://www.manchestereveningnews.co.uk/news/uk-news/brighton-beach-sisters-never-recovered-34002505",
+          "source": {
+            "name": "Manchester Evening News"
+          },
+          "publishedAt": "2026-05-23T20:30:00Z",
+          "image": "https://i2-prod.manchestereveningnews.co.uk/article34002533.ece/ALTERNATES/s1200d/1_20260520-Op-Ledmore-Teenage-tribute.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Nigel Farage's Reform UK handed almost £15m by offshore millionaires",
+          "description": "Analysis of Electoral Commission records shows that 18 Reform donors with offshore links gave the party almost £15million in 2025 — out of a total £18.6million in registered donations",
+          "url": "https://www.mirror.co.uk/news/politics/reform-offshore-donations-farage-investigation-37194486",
+          "source": {
+            "name": "The Mirror"
+          },
+          "publishedAt": "2026-05-23T20:28:00Z",
+          "image": "https://i2-prod.mirror.co.uk/article37104334.ece/ALTERNATES/s1200d/1_Local-elections-2026.jpg",
+          "language": "en"
+        },
+        {
+          "title": "LPA trough to bring rains over Mindanao, Palawan - PAGASA",
+          "description": "The trough of a low-pressure area (LPA) will bring cloudy skies and scattered rains over parts of Mindanao and southern Philippines, with state weather bureau PAGASA warning of possible flash floods and landslides due to moderate to at times heavy rainfall.",
+          "url": "https://www.gmanetwork.com/news/weather/content/988740/lpa-trough-to-bring-rains-over-mindanao-palawan-pagasa/story/",
+          "source": {
+            "name": "GMA Network"
+          },
+          "publishedAt": "2026-05-23T20:26:31Z",
+          "image": "https://images.gmanews.tv/webpics/2026/05/Screenshot_2026-05-24_at_4_2026_05_24_04_24_54.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Tinubu Wins Landslide In Kaduna, Rivers, Others As APC Holds Presidential Primaries",
+          "description": "Tinubu Wins Landslide In Kaduna, Rivers, Others As APC Holds Presidential Primaries",
+          "url": "https://www.channelstv.com/2026/05/23/tinubu-wins-landslide-in-kaduna-rivers-others-as-apc-holds-presidential-primaries/",
           "source": {
             "name": "Channels Television"
           },
-          "publishedAt": "2026-05-23T15:42:47Z",
-          "image": "https://www.channelstv.com/wp-content/uploads/2025/12/AFP__20251209__87HC2G3__v1__MidRes__FilesAustraliaInternetBan.jpg",
+          "publishedAt": "2026-05-23T20:25:10Z",
+          "image": "https://www.channelstv.com/wp-content/uploads/2026/05/APC-presidential-primary-election3.jpg",
           "language": "en"
         },
         {
-          "title": "France bans Israel’s Ben-Gvir from entry",
-          "description": "French Foreign Minister Jean-Noël Barrot also called for EU sanctions on the far-right Israeli minister, who has been widely criticized for taunting activists aboard the Global Sumud flotilla.",
-          "url": "https://www.politico.eu/article/france-bans-israeli-minister-ben-gvir-from-entry/",
-          "source": {
-            "name": "politico.eu"
-          },
-          "publishedAt": "2026-05-23T15:40:37Z",
-          "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/05/08/GettyImages-1252159361-scaled.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Hull City vs. Middlesbrough LIVE: Championship playoff final opening up as heat continues to play big part",
-          "description": "Hull City take on Middlesbrough in the Championship playoff final. Follow it live right here with ESPN.",
-          "url": "https://www.espn.com/soccer/story/_/id/48851355/hull-city-middlesbrough-live-latest-updates-championship-playoff-final-commentary-score-result",
-          "source": {
-            "name": "ESPN"
-          },
-          "publishedAt": "2026-05-23T15:39:00Z",
-          "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0523%2Fr1662369_1296x729_16%2D9.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Africa’s digital economy push threatened by weak public systems",
-          "description": "adsMicrosoft has warned that Africa’s ambition to build a strong digital economy may fail if government systems remain slow, fragmented",
-          "url": "https://businessday.ng/technology/article/africas-digital-economy-push-threatened-by-weak-public-systems/",
-          "source": {
-            "name": "Business News Nigeria"
-          },
-          "publishedAt": "2026-05-23T15:38:32Z",
-          "image": "https://cdn.businessday.ng/wp-content/uploads/2026/05/images-2-10.jpeg",
-          "language": "en"
-        },
-        {
-          "title": "loaf bread dress – BBNaija’s Queen",
-          "description": "The Nation Newspaper AMVCA 12: Why I wore 500-loaf bread dress – BBNaija’s Queen",
-          "url": "https://thenationonlineng.net/amvca-12-why-i-wore-500-loaf-bread-dress-bbnaijas-queen/",
-          "source": {
-            "name": "The Nation Newspaper"
-          },
-          "publishedAt": "2026-05-23T15:38:11Z",
-          "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/05/23163114/bread.png",
-          "language": "en"
-        },
-        {
-          "title": "Mandalorian Has $33 Million, Obsession's Huge Second Week",
-          "description": "'Mandalorian and Grogu' makes $33 million at the box office on Friday, while 'Obsession' has a higher second week than its opening.",
-          "url": "https://variety.com/2026/film/news/box-office-mandalorian-grogu-obsession-higher-second-week-1236755554/",
-          "source": {
-            "name": "Variety"
-          },
-          "publishedAt": "2026-05-23T15:38:00Z",
-          "image": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD120.jpg?w=1000&h=563&crop=1",
-          "language": "en"
-        },
-        {
-          "title": "TV3 launches GMB@20 with GH¢200,000 cash prize, a new crown",
-          "description": "Ghana’s Most Beautiful (GMB), TV3’s flagship cultural beauty pageant, has launched activities for its 20th anniversary, with a GH¢200,000 grand cash prize, a car, an educational scholarship, a trip abroad and a fully-funded community legacy project for one selected community.",
-          "url": "https://www.graphic.com.gh/lifestyle/life/tv3-launches-gmb-20-with-ghc200-000-cash-prize-a-new-crown.html",
+          "title": "Ghana ready to engage with France on reparatory justice - Foreign Ministry",
+          "description": "Daily news from Ghana and local Accra news stories including crime, health, education and general news by Daily Graphic.",
+          "url": "https://www.graphic.com.gh/news/general-news/ghana-ready-to-engage-with-france-on-reparatory-justice-foreign-ministry.html",
           "source": {
             "name": "Graphic Online"
           },
-          "publishedAt": "2026-05-23T15:37:58Z",
-          "image": "https://www.graphic.com.gh/images/2026/May/23/GMB.jpg",
+          "publishedAt": "2026-05-23T20:24:56Z",
+          "image": "https://www.graphic.com.gh/images/2026/May/23/macron_mahama1.jpg",
           "language": "en"
         },
         {
-          "title": "Northern Regional Police arrest 24 suspects, retrieve suspected Indian hemp and Tramadol",
-          "description": "By Solomon Gumah  Tamale, May 23, GNA – The Northern Regional Special Operations Team of the Ghana Police Service has arrested 24 suspects and retrieved quantities of substances suspected to be Indian…",
-          "url": "https://gna.org.gh/2026/05/northern-regional-police-arrest-24-suspects-retrieve-suspected-indian-hemp-and-tramadol/",
+          "title": "IMF board calls performance 'exceptional'",
+          "description": "IMF board calls performance 'exceptional'",
+          "url": "https://tribune.com.pk/story/2609733/imf-board-calls-performance-exceptional",
           "source": {
-            "name": "Ghana News Agency"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-05-23T15:37:37Z",
-          "image": "https://gna.org.gh/web/wp-content/uploads/2026/05/Social-Drug-Peddling.jpg",
+          "publishedAt": "2026-05-23T20:24:30Z",
+          "image": "https://i.tribune.com.pk/media/images/imf-r1774890925-0/imf-r1774890925-0-640x480.webp",
           "language": "en"
         },
         {
-          "title": "MI sign Mahipal Lomror and Ruchit Ahir as replacements",
-          "description": "Stay updated with the latest IPL news, player announcements, match updates, team changes, and official statements from the Indian Premier League. Get verified stories, exclusive insights, and real-time updates.",
-          "url": "https://www.iplt20.com/news/4369/mi-sign-mahipal-lomror-and-ruchit-ahir-as-replacements",
+          "title": "George Russell wins F1 Canadian Grand Prix sprint race, Oscar Piastri fourth",
+          "description": "George Russell says he did nothing wrong in a hard-fought Canadian Grand Prix sprint battle with Mercedes teammate Kimi Antonelli after the Italian questioned the Briton's defending.",
+          "url": "https://www.abc.net.au/news/2026-05-24/f1-canadain-grand-prix-sprint-race-qualifying/106714692",
           "source": {
-            "name": "IPL T20"
+            "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-05-23T15:36:15Z",
-          "image": "https://documents.iplt20.com/bcci/articles/1779549539_Website_Thumbnails__54_.png?v=1.35",
+          "publishedAt": "2026-05-23T20:23:27Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/10dcc7848a3ad8c8951097d93292dcb0?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=208&width=862&height=485&imformat=generic",
+          "language": "en"
+        },
+        {
+          "title": "Lawson 'playing catch-up' in Canadian Grand Prix due to mechanical issues",
+          "description": "A hydraulic leak meant the Kiwi driver missed free practice and sprint qualifiers.",
+          "url": "https://www.1news.co.nz/2026/05/23/lawson-playing-catch-up-in-canadian-grand-prix-due-to-mechanical-issues/",
+          "source": {
+            "name": "1News"
+          },
+          "publishedAt": "2026-05-23T20:22:25Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/liam-lawson-RVE2BKIQVZED3ANY4LO7ECEBDE.jpg?auth=3c3adec0dea025d1cf382ef593b0b9aec0a4dfdde7a9e70b36abbf263bb07015&quality=70&width=600&height=315&focal=906%2C620",
           "language": "en"
         }
       ]
