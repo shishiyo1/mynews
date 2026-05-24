@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-23T21:56:30.381Z",
+  "updatedAt": "2026-05-24T03:45:36.245Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "アロンソ「今のパフォーマンスでは将来を決められない」、苦戦続くアストンマーティン・ホンダの現状に苦悩（TopNews）",
+          "description": "アストンマーティンF1のフェルナンド・アロンソは、今シーズン以降もF1でのキャリアを継続するかどうか、まだ決断していないことを認めた。\n間もなく45歳を迎えるアロンソとアストンマーティンの契約は2",
+          "url": "https://news.yahoo.co.jp/articles/578b6014ad2139b612da4409daf19ad5f2fae5ed",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-23T15:08:24Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260524-00000000-fliv-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "マイクロソフト、足でも遊べるスティックの3Dプリント用データ公開 Xboxコントローラ用アダプティブ サムスティック トッパー",
+          "description": "マイクロソフトが、通常のゲームコントローラで操作が難しい人でも遊びやすい「Adaptive サムスティック トッパー」の改良版を公開しました。",
+          "url": "https://www.techno-edge.net/article/2026/05/23/5093.html",
+          "source": {
+            "name": "テクノエッジ TechnoEdge"
+          },
+          "publishedAt": "2026-05-23T12:27:54Z",
+          "image": "https://www.techno-edge.net/imgs/ogp_f/31579.png",
+          "language": "ja"
+        },
+        {
+          "title": "【速報】沖縄県に「顕著な大雨に関する情報」 線状降水帯による非常に激しい雨",
+          "description": "23日、19時58分に「顕著な大雨に関する情報」が発表されました。沖縄県の本島中南部では「線状降水帯」によって、非常に激しい雨が同じ場所で降り続いています。命に危険が及ぶ土砂災害や洪水による災害発生の危険度が急激に高まっています。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/05/23/39025.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-23T11:12:59Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/390/39025/ogp/20260523201043/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "新結成カップル「しょまりん」の可能性 宇野昌磨と本田真凜が語っていたアイスダンスの奥深さ",
+          "description": "現役復帰しアイスダンスチーム「しょまりん」を結成することを発表した宇野昌磨と本田真凜　photo by Naozumi Tatematsu　過去20年間、フィギュアスケートはメジャー化している。高橋大輔、浅田真央というふたりのレジェンドが…",
+          "url": "https://sportiva.shueisha.co.jp/clm/othersports/figure/2026/05/23/post_45/",
+          "source": {
+            "name": "webスポルティーバ"
+          },
+          "publishedAt": "2026-05-23T10:40:16Z",
+          "image": "https://sportiva.shueisha.co.jp/clm/othersports/figure/2026/images/d8a9f682cc74f768c19155194ccf3d5b7c252925.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "本田真凜が会見で語った「宇野昌磨のパートナーになる覚悟」と過去に明かしていた「アイスダンスを断念した」理由",
+          "description": "澄んだ空気をまとい会見に臨む本田真凜　photo by Naozumi Tatematsu　5月22日、都内。本田真凜(24歳)は白のボウタイブラウスに紺のパンツスーツという出で立ちで、会見に臨んでいた。ひとつに束ねた長い髪を揺らし、背…",
+          "url": "https://sportiva.shueisha.co.jp/clm/othersports/figure/2026/05/23/post_43/",
+          "source": {
+            "name": "webスポルティーバ"
+          },
+          "publishedAt": "2026-05-23T10:35:45Z",
+          "image": "https://sportiva.shueisha.co.jp/clm/othersports/figure/2026/images/2%20%20hondamarin.jpg",
+          "language": "ja"
+        },
         {
           "title": "2勝目を狙う入谷響が首位浮上 ｜JLPGA｜日本女子プロゴルフ協会",
           "description": "一般社団法人日本女子プロゴルフ協会(JLPGA)の公式サイトです。",
@@ -50,181 +105,126 @@
           "language": "ja"
         },
         {
-          "title": "齋藤飛鳥、鮮やかな\"青のグラデーション\"着物姿で魅了 「世代を象徴する影響力で愛される俳優」と紹介",
-          "description": "オレンジカーペットに登場した齋藤飛鳥【写真：徳原隆元】 プレゼンターには有村架純、西野七瀬ら　元乃木坂46で俳優の齋藤飛鳥（27）が23日、都内で行われた「クランチロール・アニメアワード 2026」に出席。着物をまとってオレンジカーペットを歩いた。",
-          "url": "https://encount.press/archives/1001479/",
+          "title": "リアル日本レース『Forza Horizon 6』の機械学習AIが「不自然に速すぎる」との意見が急浮上中。“ズル”疑惑も寄せられ、公式による調査へ",
+          "description": "『Forza Horizon 6』について、「特に高難易度モードにおいて、対戦相手のAIが速すぎるという意見の調査を進めている」との開発者メッセージが公開され、話題になっている。",
+          "url": "https://automaton-media.com/articles/newsjp/20260523-444749/",
           "source": {
-            "name": "ENCOUNT"
+            "name": "AUTOMATON"
           },
-          "publishedAt": "2026-05-23T07:31:20Z",
-          "image": "https://encount.press/wp-content/uploads/2026/05/23162237/52977c3a20b8d76000d327211ae5edac.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「3着購入しました」 ワークマンの“580円冷感Tシャツ”が大好評 「この服しか着なくなった」「コスパ素晴らしい」",
-          "description": "暑い時季のTシャツ選びでは、薄さだけでなく、汗をかいた後も快適に過ごせるかどうかが大きなポイントになります。とくに屋外で過ごす時間が長い人や、通勤、通学、軽い運動でも汗ばみやすい人にとっては、乾きやすさや肌ざわりのよさも見逃せません。ワークマンの「氷撃冷感(R)-10℃半袖Tシャツ」は、汗に反応する冷感機能に加え、…",
-          "url": "https://nlab.itmedia.co.jp/research/articles/3849716/",
-          "source": {
-            "name": "ねとらぼ"
-          },
-          "publishedAt": "2026-05-23T05:50:00Z",
-          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/11/1763030394_logo.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "「名無し」佐藤二朗が怪物演じる工夫明かす、丸山隆平はSUPER EIGHTの名付けエピソード披露",
-          "description": "映画「名無し」の公開記念舞台挨拶が本日5月23日に東京・TOHOシネマズ 六本木ヒルズで行われ、原作・脚本・主演を担った佐藤二朗のほか、キャストの丸山隆平（SUPER EIGHT）、MEGUMI、佐々木蔵之介、監督の城定秀夫が登壇した。",
-          "url": "https://natalie.mu/eiga/news/673150",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-05-23T05:49:00Z",
-          "image": "https://ogre.natalie.mu/media/news/eiga/2026/0523/DSC00279.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
-        },
-        {
-          "title": "村上宗隆「できれば当たりたくないけど…」「たまには体を犠牲にして」メジャー初死球から一挙９得点で笑顔・・・一問一答（スポーツ報知）",
-          "description": "◆米大リーグ　ジャイアンツ４―９ホワイトソックス（２２日、米カリフォルニア州サンフランシスコ＝オラクルパーク）\n　ホワイトソックス・村上宗隆内野手（２６）が２２日（日本時間２３日）、敵地・ジャイア",
-          "url": "https://news.yahoo.co.jp/articles/1485419c3d2073df8f1a22a66ee09f325abe4345",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-23T05:20:02Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260523-05231152-sph-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "エボラ出血熱のリスク、WHOが「非常に高い」に引き上げ コンゴ民主共和国について",
-          "description": "コンゴ民主共和国（旧ザイール）で発生しているエボラ出血熱の流行をめぐり、世界保健機関（WHO）は22日、同国における公衆衛生上のリスクを「高い」から「非常に高い」に引き上げた。",
-          "url": "https://www.bbc.com/japanese/articles/c9wene4n1e1o",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-05-23T04:48:43Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_japanese/77c6/live/d4891890-5646-11f1-b682-cf91850925ea.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ドイツ人女性、元パートナーに昏睡レイプされたと告訴 16年間で少なくとも67件も大半は公訴時効",
-          "description": "【AFP＝時事】ドイツ人女性クラウディア・ブトケさん（59）が、長年にわたり当時のパートナーに薬物で昏睡状態にされた上でレイプされ、その場面を撮影されていたと告訴した。ドイツのニュース週刊誌シュピー",
-          "url": "https://news.yahoo.co.jp/articles/5957e1c42eb83239d47295f753068f176dd12430",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-23T03:55:47Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260523-00000010-jij_afp-000-2-view.jpg?exp=10800",
+          "publishedAt": "2026-05-23T08:09:09Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260523-444749-header.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "AU Representative to China Calls for Horn of Africa Reconciliation Compact",
-          "description": "He urged the AU & Intergovernmental Authority on Development to convene a formal regional dialogue process to anchor this reconciliation effort.",
-          "url": "https://thediplomaticinsight.com/au-rep-china-horn-of-africa-reconciliation/",
+          "title": "Gov't to promote 50,000 teachers in next budget - DP Kindiki",
+          "description": "Deputy President Kithure Kindiki has said the government will promote 50,000 teachers through improved budgetary allocation in the coming financial year.",
+          "url": "https://citizen.digital/article/govt-to-promote-50000-teachers-in-next-budget-dp-kindiki-n383288",
           "source": {
-            "name": "The Diplomatic Insight"
+            "name": "Citizen Digital"
           },
-          "publishedAt": "2026-05-23T09:55:42Z",
-          "image": "https://thediplomaticinsight.com/wp-content/uploads/89-17-1024x460.jpg",
+          "publishedAt": "2026-05-23T15:45:17Z",
+          "image": "https://assets.citizen.digital/165536/conversions/WhatsApp-Image-2026-02-25-at-17.40.18-%281%29-og_image.webp",
           "language": "en"
         },
         {
-          "title": "AI wealth must benefit the public, South Korea's deputy PM says",
-          "description": "South Korea's deputy PM tells CNBC there are concerns as to whether AI could worsen wealth gaps or lead to job losses.",
-          "url": "https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html",
+          "title": "Screen-Shunning Parents Turn To Audio Toys",
+          "description": "Screen-Shunning Parents Turn To Audio Toys",
+          "url": "https://www.channelstv.com/2026/05/23/screen-shunning-parents-turn-to-audio-toys/",
           "source": {
-            "name": "CNBC"
+            "name": "Channels Television"
           },
-          "publishedAt": "2026-05-23T09:54:01Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108311038-1779435113960-gettyimages-2272845687-SKOREA_GOOGLE_DEEPMIND.jpeg?v=1779435125&w=1920&h=1080",
+          "publishedAt": "2026-05-23T15:42:47Z",
+          "image": "https://www.channelstv.com/wp-content/uploads/2025/12/AFP__20251209__87HC2G3__v1__MidRes__FilesAustraliaInternetBan.jpg",
           "language": "en"
         },
         {
-          "title": "South Korea Deputy PM Warns AI Wealth Must Benefit Public",
-          "description": "Deputy Prime Minister Bae Kyung-hoon told CNBC there are concerns that artificial intelligence could widen the gap between rich and poor and lead to job losses, CNBC reports. Bae linked those concerns to recent labor tensions at **Samsung Electronics**, where a planned walkout by unionized workers was suspended after government intervention, and a tentative deal was reached with a union vote scheduled from Friday to **May 27**, CNBC says. Bae told CNBC that \"recent labor-management conflicts can also be seen as part of this broader trend\" and warned that in the AI age \"more of these super-large companies will continue to emerge,\" CNBC reports. He urged that wealth created by **AI** be used to benefit the wider public, according to CNBC.",
-          "url": "https://letsdatascience.com/news/south-korea-deputy-pm-warns-ai-wealth-must-benefit-public-f31c5fc2",
+          "title": "France bans Israel’s Ben-Gvir from entry",
+          "description": "French Foreign Minister Jean-Noël Barrot also called for EU sanctions on the far-right Israeli minister, who has been widely criticized for taunting activists aboard the Global Sumud flotilla.",
+          "url": "https://www.politico.eu/article/france-bans-israeli-minister-ben-gvir-from-entry/",
           "source": {
-            "name": "Let's Data Science"
+            "name": "politico.eu"
           },
-          "publishedAt": "2026-05-23T09:54:01Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108311038-1779435113960-gettyimages-2272845687-SKOREA_GOOGLE_DEEPMIND.jpeg?v=1779435125&w=1920&h=1080",
+          "publishedAt": "2026-05-23T15:40:37Z",
+          "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/05/08/GettyImages-1252159361-scaled.jpg",
           "language": "en"
         },
         {
-          "title": "‘Why is the govt so scared of cockroaches?’ CJP founder now says website taken down",
-          "description": "Abhijeet Dipke says ‘dictatorial behaviour is opening the eyes of India's youth.’ BJP’s Rajeev Chandrasekhar calls Cockroach Janta Party a ‘classic cross-border influence operation’ aimed at targeting Prime Minister Narendra Modi’s government",
-          "url": "https://www.telegraphindia.com/india/why-is-the-govt-so-scared-of-cockroaches-cjp-founder-now-says-website-taken-down/cid/2162031",
+          "title": "Hull City vs. Middlesbrough LIVE: Championship playoff final opening up as heat continues to play big part",
+          "description": "Hull City take on Middlesbrough in the Championship playoff final. Follow it live right here with ESPN.",
+          "url": "https://www.espn.com/soccer/story/_/id/48851355/hull-city-middlesbrough-live-latest-updates-championship-playoff-final-commentary-score-result",
           "source": {
-            "name": "Telegraph India"
+            "name": "ESPN"
           },
-          "publishedAt": "2026-05-23T09:52:10Z",
-          "image": "https://assets.telegraphindia.com/telegraph/2026/May/1779529631_cockroach.jpg",
+          "publishedAt": "2026-05-23T15:39:00Z",
+          "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0523%2Fr1662369_1296x729_16%2D9.jpg",
           "language": "en"
         },
         {
-          "title": "'I wish I had done it sooner': Why breast reductions are more popular now",
-          "description": "Ghana health news from the across the country.",
-          "url": "https://www.graphic.com.gh/news/health/i-wish-i-had-done-it-sooner-why-breast-reductions-are-more-popular-now.html",
+          "title": "Africa’s digital economy push threatened by weak public systems",
+          "description": "adsMicrosoft has warned that Africa’s ambition to build a strong digital economy may fail if government systems remain slow, fragmented",
+          "url": "https://businessday.ng/technology/article/africas-digital-economy-push-threatened-by-weak-public-systems/",
+          "source": {
+            "name": "Business News Nigeria"
+          },
+          "publishedAt": "2026-05-23T15:38:32Z",
+          "image": "https://cdn.businessday.ng/wp-content/uploads/2026/05/images-2-10.jpeg",
+          "language": "en"
+        },
+        {
+          "title": "loaf bread dress – BBNaija’s Queen",
+          "description": "The Nation Newspaper AMVCA 12: Why I wore 500-loaf bread dress – BBNaija’s Queen",
+          "url": "https://thenationonlineng.net/amvca-12-why-i-wore-500-loaf-bread-dress-bbnaijas-queen/",
+          "source": {
+            "name": "The Nation Newspaper"
+          },
+          "publishedAt": "2026-05-23T15:38:11Z",
+          "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/05/23163114/bread.png",
+          "language": "en"
+        },
+        {
+          "title": "Mandalorian Has $33 Million, Obsession's Huge Second Week",
+          "description": "'Mandalorian and Grogu' makes $33 million at the box office on Friday, while 'Obsession' has a higher second week than its opening.",
+          "url": "https://variety.com/2026/film/news/box-office-mandalorian-grogu-obsession-higher-second-week-1236755554/",
+          "source": {
+            "name": "Variety"
+          },
+          "publishedAt": "2026-05-23T15:38:00Z",
+          "image": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD120.jpg?w=1000&h=563&crop=1",
+          "language": "en"
+        },
+        {
+          "title": "TV3 launches GMB@20 with GH¢200,000 cash prize, a new crown",
+          "description": "Ghana’s Most Beautiful (GMB), TV3’s flagship cultural beauty pageant, has launched activities for its 20th anniversary, with a GH¢200,000 grand cash prize, a car, an educational scholarship, a trip abroad and a fully-funded community legacy project for one selected community.",
+          "url": "https://www.graphic.com.gh/lifestyle/life/tv3-launches-gmb-20-with-ghc200-000-cash-prize-a-new-crown.html",
           "source": {
             "name": "Graphic Online"
           },
-          "publishedAt": "2026-05-23T09:51:51Z",
-          "image": "https://www.graphic.com.gh/images/2026/May/23/Ranvia.jpg",
+          "publishedAt": "2026-05-23T15:37:58Z",
+          "image": "https://www.graphic.com.gh/images/2026/May/23/GMB.jpg",
           "language": "en"
         },
         {
-          "title": "Trump says he will not attend son's wedding",
-          "description": "US President Donald Trump has said he would not attend the wedding of his eldest son, Donald Trump Jr, to Palm Beach socialite Bettina Anderson, because he has to stay in Washington for government business.",
-          "url": "https://www.rte.ie/news/us/2026/0523/1574865-trump-wedding/",
+          "title": "Northern Regional Police arrest 24 suspects, retrieve suspected Indian hemp and Tramadol",
+          "description": "By Solomon Gumah  Tamale, May 23, GNA – The Northern Regional Special Operations Team of the Ghana Police Service has arrested 24 suspects and retrieved quantities of substances suspected to be Indian…",
+          "url": "https://gna.org.gh/2026/05/northern-regional-police-arrest-24-suspects-retrieve-suspected-indian-hemp-and-tramadol/",
           "source": {
-            "name": "RTE.ie"
+            "name": "Ghana News Agency"
           },
-          "publishedAt": "2026-05-23T09:51:45Z",
-          "image": "https://www.rte.ie/images/00246917-1600.jpg",
+          "publishedAt": "2026-05-23T15:37:37Z",
+          "image": "https://gna.org.gh/web/wp-content/uploads/2026/05/Social-Drug-Peddling.jpg",
           "language": "en"
         },
         {
-          "title": "Remains of 4 Italian divers killed in a Maldives cave dive repatriated",
-          "description": "A Maldivian government spokesperson says the remains of four Italian divers who died in an underwater cave in the Maldives have been repatriated.",
-          "url": "https://apnews.com/article/italy-divers-maldives-died-underwater-cave-ae9cedf007cd3ca3b248899c92684d36",
+          "title": "MI sign Mahipal Lomror and Ruchit Ahir as replacements",
+          "description": "Stay updated with the latest IPL news, player announcements, match updates, team changes, and official statements from the Indian Premier League. Get verified stories, exclusive insights, and real-time updates.",
+          "url": "https://www.iplt20.com/news/4369/mi-sign-mahipal-lomror-and-ruchit-ahir-as-replacements",
           "source": {
-            "name": "AP News"
+            "name": "IPL T20"
           },
-          "publishedAt": "2026-05-23T09:47:00Z",
-          "image": "https://dims.apnews.com/dims4/default/3ecf2f6/2147483647/strip/true/crop/2719x1812+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F64%2F81%2Fe657194d61a2bf8f4117993c9f0e%2F343041f5d64c4a05a692ea5064df6877",
-          "language": "en"
-        },
-        {
-          "title": "Bookkeeper accused of siphoning $8.5 million, with other clubs impacted",
-          "description": "Former bookkeeper Sutasinee McGuigan is accused of misappropriating more than $8.5 million from Prahran nightclub Revolver, as auditors investigate donations she made to Buddhist temples across Melbourne.",
-          "url": "https://www.theage.com.au/national/victoria/revolver-bookkeeper-accused-of-siphoning-8-5-million-as-other-clubs-flagged-20260523-p5zzzl.html",
-          "source": {
-            "name": "The Age"
-          },
-          "publishedAt": "2026-05-23T09:47:00Z",
-          "image": "https://static.ffx.io/images/$zoom_0.5883%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_6/t_crop_custom/q_86%2Cf_auto/fe85efff74a793137d1fc597069fcd75185d50dbfc607b8cf62f66ddb12f4bd3",
-          "language": "en"
-        },
-        {
-          "title": "Kohli refuses Head handshake after heated Hyderabad-Bengaluru clash in IPL",
-          "description": "Sunrisers Hyderabad beat Virat Kohli’s Royal Challengers Bengaluru by 55 runs, leaving former India captain fuming.",
-          "url": "https://www.aljazeera.com/sports/2026/5/23/kohli-refuses-head-handshake-after-heated-hyderabad-bengaluru-clash-in-ipl",
-          "source": {
-            "name": "Al Jazeera"
-          },
-          "publishedAt": "2026-05-23T09:44:00Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26142634436122-1779528120.jpg?resize=1920%2C1440",
-          "language": "en"
-        },
-        {
-          "title": "Somalia: Hajj Fees Do not Include Meals",
-          "description": "Officials say complaints over food services arose after Saudi authorities closed unlicensed restaurants serving Somali pilgrims",
-          "url": "https://www.dawan.africa/news/somalia-hajj-fees-do-not-include-meals",
-          "source": {
-            "name": "Dawan Africa"
-          },
-          "publishedAt": "2026-05-23T09:42:42Z",
-          "image": "https://utfs.io/f/v9D9ylrdiyZgJJ0E9hcPWRpQ9zwakMuVNoL14qSvTbhDAdmr",
+          "publishedAt": "2026-05-23T15:36:15Z",
+          "image": "https://documents.iplt20.com/bcci/articles/1779549539_Website_Thumbnails__54_.png?v=1.35",
           "language": "en"
         }
       ]
