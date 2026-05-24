@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-24T08:31:09.803Z",
+  "updatedAt": "2026-05-24T10:42:18.895Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "フェルナンド・アロンソ、カナダGP初日は好調も、2日目は控えめな結果に「少しだけ競争力が増したように感じた」",
+          "description": "アストンマーティン・ホンダのフェルナンド・アロンソは、チームが少しずつ前進していることを実感したようだ。",
+          "url": "https://jp.motorsport.com/f1/news/f1-2026-rd5-canadian-gp-qf-aston-alonso-comments/10823625/",
+          "source": {
+            "name": "motorsport.com 日本版｜モータースポーツ情報サイト"
+          },
+          "publishedAt": "2026-05-23T22:41:08Z",
+          "image": "https://cdn-2.motorsport.com/images/amp/63QmA7E2/s6/fernando-alonso-aston-martin-r.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ゲンクが伊東純也と横山歩夢のアベック弾で完封勝利!! PO2逆転首位通過、ECL予選出場争う最終決戦へ",
+          "description": "[5.23 ベルギー・リーグPO2第10節 ルーベン 0-2 ゲンク]　ゲンクは23日、ベルギー・リーグプレーオフ2第10節のルーベン戦を2-0で制した。前節終了時点で首位のスタンダール・リエージュが敗れたことで首位に浮上...",
+          "url": "https://web.gekisaka.jp/news/world/detail/?452020-452020-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-05-23T20:47:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/453000/452020/news_452020_1.jpg?time=20260524055954",
+          "language": "ja"
+        },
+        {
+          "title": "趣里、約1年半ぶりドラマ出演 7月期テレ朝・木曜ドラマ新ヒロイン抜擢",
+          "description": "俳優の趣里が、7月クールのテレビ朝日系連続ドラマ「大空港～GATE24～」（毎週木曜よる9時～9時54分）で主演を務めることが明らかになった。",
+          "url": "https://www.cinematoday.jp/news/N0154967",
+          "source": {
+            "name": "シネマトゥデイ"
+          },
+          "publishedAt": "2026-05-23T20:00:00Z",
+          "image": "https://img.cinematoday.jp/a/xqz7Bf3CPXGP/_size_r1200x630/_v_1779453678/main.jpg",
+          "language": "ja"
+        },
         {
           "title": "趣里が鋭い観察眼を持つ税関職員に、寄せ集め集団が日本を守るドラマ「大空港～GATE24～」（コメントあり）",
           "description": "趣里が主演を務めるテレビ朝日系新ドラマ「大空港～GATE24～」が、7月にスタートする。空港を舞台とする同作は、税関職員をはじめ各省庁の人員からなる新設チームが“最強の門番”へと覚醒し、日本の平和と安全を守るために奮闘する痛快...",
@@ -81,150 +114,117 @@
           "publishedAt": "2026-05-23T09:21:38Z",
           "image": "https://cdn.lpga.or.jp/lpga/cms/2026/05/23/xl/c76a93311f7a45e3de9d3c060701a2276fffdf95.jpg?1779533427",
           "language": "ja"
-        },
-        {
-          "title": "赤沢経産大臣が中国閣僚と「立ち話」 台湾有事発言後初の接触 レアアース輸出是正求める",
-          "description": "中国で開催されたAPEC＝アジア太平洋経済協力会議の会合に出席した赤沢経済産業大臣が「中国の閣僚と立ち話をした」と明らかにしました。高市総理大臣の台湾有事をめぐる発言で日中関係が冷え込んで以来、閣僚の接触は初めてです。赤沢経産大臣は23日までの2日間、中国・蘇州で21の国・地域が参加して開催されたAPEC＝アジア太平洋経済協力会議の貿易担当大臣会合に出席しました。この中で、赤沢大臣から中国の王文濤商務相に話しかけ、短時間の立ち話をしたということです。高市総理大臣の台湾有事をめぐる発言に中国が反…",
-          "url": "https://www.fnn.jp/articles/-/1049000",
-          "source": {
-            "name": "FNNプライムオンライン"
-          },
-          "publishedAt": "2026-05-23T09:03:00Z",
-          "image": "https://fnn.ismcdn.jp/mwimgs/e/7/600/img_e72648b4bd73d71e483755f64bbd035980507.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "エストニア情報機関トップ、「時間はロシアに味方していない」 戦場での損失と経済苦境でプーチン氏に圧力",
-          "description": "エストニア対外情報庁のロシン長官はCNNに対し、ロシアのプーチン大統領がウクライナとの戦争に勝利するために残された時間は尽きつつあるとの認識を示した。戦場での膠着（こうちゃく）と、ロシアの国内状況の深刻化を踏まえた発言。 - (1/2)",
-          "url": "https://www.cnn.co.jp/world/35247920.html",
-          "source": {
-            "name": "CNN"
-          },
-          "publishedAt": "2026-05-23T08:41:00Z",
-          "image": "https://www.cnn.co.jp/storage/2026/05/23/1d3b259a2043e25035acfaac01cdedd9/2026-05-17t090321z-640752712-rc2uala6cjyl-rtrmadp-3-ukraine-crisis-russia-drones-moscow.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "エストニア情報機関トップ、「時間はロシアに味方していない」 戦場での損失と経済苦境でプーチン氏に圧力",
-          "description": "タリン（CNN）　エストニア対外情報庁のロシン長官はCNNに対し、ロシアのプーチン大統領がウクライナとの戦争に勝利するために残された時間は尽きつつあるとの認識を示した。戦場での膠着（こうちゃく）と、",
-          "url": "https://news.yahoo.co.jp/articles/7c900730445a402bde868e1f81c09e032347d4b2",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-23T08:41:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260523-35247920-cnn-000-3-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Trump's $1.8 Billion DOJ Fund Sparks Claims Rush- MyPillow's Mike Lindell Seeks Millions As Ex-FBI Chief Comey Says 'I'll Be In Line'",
-          "description": "Several prominent associates and critics of President Donald Trump have expressed their intention to seek compensation from the Trump administration’s $1.8 billion “Anti-Weaponization Fund.” Allies Se...",
-          "url": "https://www.yahoo.com/news/politics/articles/trumps-1-8-billion-doj-203103195.html",
+          "title": "Investigators Look Into Staten Island Blasts That Killed Shipyard Worker",
+          "description": "The explosions at May Ship Repair Contracting Corporation, which erupted after a fire on a dock, killed one of the company’s subcontractors, a representative said.",
+          "url": "https://www.nytimes.com/2026/05/23/nyregion/explosions-worker-killed-staten-island.html",
           "source": {
-            "name": "Yahoo"
+            "name": "The New York Times"
           },
-          "publishedAt": "2026-05-23T20:31:03Z",
-          "image": "https://s.yimg.com/os/en/benzinga_79/e55379c7302b445b2e8a14017055d240",
+          "publishedAt": "2026-05-23T22:42:14Z",
+          "image": "https://static01.nyt.com/images/2026/05/23/nyregion/23met-explosion-staten-island/23met-explosion-staten-island-facebookJumbo.jpg",
           "language": "en"
         },
         {
-          "title": "UK records hottest day of year as forecasters warn of more extreme heat",
-          "description": "Temperature reaches 30.5C in Kent as amber health alerts issued before bank holiday temperatures rise",
-          "url": "https://www.theguardian.com/uk-news/2026/may/23/uk-records-hottest-day-of-the-year-so-far-with-warnings-of-more-extreme-heat-this-weekend",
+          "title": "Latvia stuns the United States at ice hockey worlds",
+          "description": "Sandis Vilmanis scored two empty-net goals in the final 62 seconds, and the Latvians needed both to upset Matthew Tkachuk and the Americans.",
+          "url": "https://www.bostonglobe.com/2026/05/23/sports/world-hockey-championship-united-states-latvia-game-score/",
           "source": {
-            "name": "The Guardian"
+            "name": "The Boston Globe"
           },
-          "publishedAt": "2026-05-23T20:31:00Z",
-          "image": "https://i.guim.co.uk/img/media/568d24d171b30069b71f1e40baf83a11b19d4c16/680_0_6833_5464/master/6833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a054e6f7037bb38a591be25901440cd5",
+          "publishedAt": "2026-05-23T22:41:50Z",
+          "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/3JTG43HGG6JCYO7Y6UVOBIGKZY.jpg?auth=e8daf98091ad6a357cdea54605a11b662955615ab9149cdc3ad41ca990dcd057&width=1440",
           "language": "en"
         },
         {
-          "title": "Brighton beach sisters 'never recovered' after mum died in tragic similar circumstances",
-          "description": "Jane Adetoro, Christina Walters and Rebecca Walters, were found dead off Brighton beach earlier this month - it has since been revealed their mum died in similar circumstances",
-          "url": "https://www.manchestereveningnews.co.uk/news/uk-news/brighton-beach-sisters-never-recovered-34002505",
+          "title": "Titan’s atmosphere is thicker than Earth’s, its rivers and lakes are made of methane and ethane, and NASA is sending a nuclear-powered drone there because on Saturn’s largest moon, flying may be easie",
+          "description": "Titan, the largest moon of Saturn, has a denser atmosphere than Earth and a surface where rain, rivers, and seas are made of liquid hydrocarbons rather than water. And NASA is building a rotorcraft to explore it, because Titan’s physical conditions genuinely favour flight in a way no other body in the solar system does. […]",
+          "url": "https://spacedaily.com/t-titans-atmosphere-is-thicker-than-earths-its-rivers-and-lakes-are-made-of-methane-and-ethane-and-nasa-is-sending-a-nuclear-powered-drone-there-because-on-saturns-largest-m/",
           "source": {
-            "name": "Manchester Evening News"
+            "name": "Space Daily"
           },
-          "publishedAt": "2026-05-23T20:30:00Z",
-          "image": "https://i2-prod.manchestereveningnews.co.uk/article34002533.ece/ALTERNATES/s1200d/1_20260520-Op-Ledmore-Teenage-tribute.jpg",
+          "publishedAt": "2026-05-23T22:41:29Z",
+          "image": "https://spacedaily.com/wp-content/uploads/2026/05/newimagesize-2026-05-23T205742.857.png",
           "language": "en"
         },
         {
-          "title": "Nigel Farage's Reform UK handed almost £15m by offshore millionaires",
-          "description": "Analysis of Electoral Commission records shows that 18 Reform donors with offshore links gave the party almost £15million in 2025 — out of a total £18.6million in registered donations",
-          "url": "https://www.mirror.co.uk/news/politics/reform-offshore-donations-farage-investigation-37194486",
-          "source": {
-            "name": "The Mirror"
-          },
-          "publishedAt": "2026-05-23T20:28:00Z",
-          "image": "https://i2-prod.mirror.co.uk/article37104334.ece/ALTERNATES/s1200d/1_Local-elections-2026.jpg",
-          "language": "en"
-        },
-        {
-          "title": "LPA trough to bring rains over Mindanao, Palawan - PAGASA",
-          "description": "The trough of a low-pressure area (LPA) will bring cloudy skies and scattered rains over parts of Mindanao and southern Philippines, with state weather bureau PAGASA warning of possible flash floods and landslides due to moderate to at times heavy rainfall.",
-          "url": "https://www.gmanetwork.com/news/weather/content/988740/lpa-trough-to-bring-rains-over-mindanao-palawan-pagasa/story/",
-          "source": {
-            "name": "GMA Network"
-          },
-          "publishedAt": "2026-05-23T20:26:31Z",
-          "image": "https://images.gmanews.tv/webpics/2026/05/Screenshot_2026-05-24_at_4_2026_05_24_04_24_54.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Tinubu Wins Landslide In Kaduna, Rivers, Others As APC Holds Presidential Primaries",
-          "description": "Tinubu Wins Landslide In Kaduna, Rivers, Others As APC Holds Presidential Primaries",
-          "url": "https://www.channelstv.com/2026/05/23/tinubu-wins-landslide-in-kaduna-rivers-others-as-apc-holds-presidential-primaries/",
-          "source": {
-            "name": "Channels Television"
-          },
-          "publishedAt": "2026-05-23T20:25:10Z",
-          "image": "https://www.channelstv.com/wp-content/uploads/2026/05/APC-presidential-primary-election3.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Ghana ready to engage with France on reparatory justice - Foreign Ministry",
-          "description": "Daily news from Ghana and local Accra news stories including crime, health, education and general news by Daily Graphic.",
-          "url": "https://www.graphic.com.gh/news/general-news/ghana-ready-to-engage-with-france-on-reparatory-justice-foreign-ministry.html",
-          "source": {
-            "name": "Graphic Online"
-          },
-          "publishedAt": "2026-05-23T20:24:56Z",
-          "image": "https://www.graphic.com.gh/images/2026/May/23/macron_mahama1.jpg",
-          "language": "en"
-        },
-        {
-          "title": "IMF board calls performance 'exceptional'",
-          "description": "IMF board calls performance 'exceptional'",
-          "url": "https://tribune.com.pk/story/2609733/imf-board-calls-performance-exceptional",
-          "source": {
-            "name": "The Express Tribune"
-          },
-          "publishedAt": "2026-05-23T20:24:30Z",
-          "image": "https://i.tribune.com.pk/media/images/imf-r1774890925-0/imf-r1774890925-0-640x480.webp",
-          "language": "en"
-        },
-        {
-          "title": "George Russell wins F1 Canadian Grand Prix sprint race, Oscar Piastri fourth",
-          "description": "George Russell says he did nothing wrong in a hard-fought Canadian Grand Prix sprint battle with Mercedes teammate Kimi Antonelli after the Italian questioned the Briton's defending.",
-          "url": "https://www.abc.net.au/news/2026-05-24/f1-canadain-grand-prix-sprint-race-qualifying/106714692",
+          "title": "NASCAR champion Kyle Busch's cause of death confirmed as severe pneumonia and sepsis",
+          "description": "NASCAR champion Kyle Busch died from severe pneumonia that turned into sepsis, according to a statement provided by his family on Saturday.",
+          "url": "https://www.abc.net.au/news/2026-05-24/nascar-champion-kyle-busch-death-severe-pneumonia-sepsis/106715484",
           "source": {
             "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-05-23T20:23:27Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/10dcc7848a3ad8c8951097d93292dcb0?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=208&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-05-23T22:41:04Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/71514108d7d7b3307a72607edc40022f?impolicy=wcms_watermark_news&cropH=1865&cropW=3316&xPos=0&yPos=172&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Lawson 'playing catch-up' in Canadian Grand Prix due to mechanical issues",
-          "description": "A hydraulic leak meant the Kiwi driver missed free practice and sprint qualifiers.",
-          "url": "https://www.1news.co.nz/2026/05/23/lawson-playing-catch-up-in-canadian-grand-prix-due-to-mechanical-issues/",
+          "title": "SSG Gabriel Pidomson Emerges Rivers ADC Governorship Cand",
+          "description": "Dr. Gabriel Pidomson, former SSG, has been declared the Rivers ADC governorship candidate after securing 112,086 votes in the primary election.",
+          "url": "https://punchng.com/ex-ssg-emerges-rivers-adc-governorship-candidate/",
+          "source": {
+            "name": "Punch Newspapers"
+          },
+          "publishedAt": "2026-05-23T22:40:48Z",
+          "image": "https://cdn.punchng.com/wp-content/uploads/2026/05/23233729/Gabriel-Pidomson.webp",
+          "language": "en"
+        },
+        {
+          "title": "'Worst weekend of my career'",
+          "description": "Charles Leclerc admits that the build-up to the Canadian Grand Prix has so far been the \"worst weekend of my career\", with the Ferrari driver set to start Sunday's race from P8.",
+          "url": "https://www.formula1.com/en/latest/article/worst-weekend-of-my-career-leclerc-reflects-on-nightmare-ahead-of-canadian-gp.6aTxszXIkDGy8ZAvmnMnBL",
+          "source": {
+            "name": "Formula 1"
+          },
+          "publishedAt": "2026-05-23T22:40:00Z",
+          "image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Canada/GettyImages-2277887349.webp",
+          "language": "en"
+        },
+        {
+          "title": "Suspect named after being killed at White House checkpoint",
+          "description": "A Secret Service officer drew a gun and ordered reporters to run as the White House was placed on lockdown following the sound of gunshots nearby.",
+          "url": "https://www.1news.co.nz/2026/05/24/suspect-dead-after-approaching-white-house-checkpoint-with-weapon/",
           "source": {
             "name": "1News"
           },
-          "publishedAt": "2026-05-23T20:22:25Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/liam-lawson-RVE2BKIQVZED3ANY4LO7ECEBDE.jpg?auth=3c3adec0dea025d1cf382ef593b0b9aec0a4dfdde7a9e70b36abbf263bb07015&quality=70&width=600&height=315&focal=906%2C620",
+          "publishedAt": "2026-05-23T22:39:27Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/police-and-members-of-the-secret-service-stand-near-an-ems-t-7X7MFBZY4RHBZHWKDRVIA23EGI.jpg?auth=2f4e7ec7ba1988ad545f32091c75a5eea115be90594d4a331c15c9605eb9b456&quality=70&width=600&height=315&focal=4824%2C3050",
+          "language": "en"
+        },
+        {
+          "title": "Trump says deal imminent to reopen Strait of Hormuz",
+          "description": "A possible deal to reopen the Strait of Hormuz could bring relief to Canadians facing higher gas prices, after the Middle East conflict disrupted a key global oil shipping route.",
+          "url": "https://globalnews.ca/news/11861699/iran-us-signal-progress/",
+          "source": {
+            "name": "Global News"
+          },
+          "publishedAt": "2026-05-23T22:37:18Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/05/trump-iran-e1779453343839.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+          "language": "en"
+        },
+        {
+          "title": "95 monarchE: Subgroup Analysis of Adjuvant Abemaciclib + Endocrine Therapy for HR+/HER2−, High-Risk, Early Breast Cancer by Nodal Status",
+          "description": "CancerNetwork is home to the journal Oncology & provides insights on the screening, early detection, diagnosis, treatment and prevention of cancers.",
+          "url": "https://www.cancernetwork.com/view/95-monarche-subgroup-analysis-of-adjuvant-abemaciclib-endocrine-therapy-for-hr-her2-high-risk-early-breast-cancer-by-nodal-status",
+          "source": {
+            "name": "CancerNetwork"
+          },
+          "publishedAt": "2026-05-23T22:35:02Z",
+          "image": "https://cdn.sanity.io/images/0vv8moc6/cancernetwork/089b8085d760511190c330824e22a9be55415ecb-801x451.png",
+          "language": "en"
+        },
+        {
+          "title": "Big Weekend: Zara Larsson electrifies the festival crowd",
+          "description": "The Swedish pop star treated the crowds to back-to-back, high-energy pop bangers on day two of the festival.",
+          "url": "https://www.bbc.co.uk/news/articles/c4g07gdzneno",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-05-23T22:34:14Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cd4d/live/6fc525c0-56fa-11f1-82bd-1de3abb70411.jpg",
           "language": "en"
         }
       ]
