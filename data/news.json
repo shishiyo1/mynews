@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-24T13:38:54.375Z",
+  "updatedAt": "2026-05-24T16:02:00.095Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "美麗な日本風景を走り抜くために！『Forza Horizon 6』をRTX 5090ハイエンドPCでベンチマークしてみた",
+          "description": "風光明媚な日本風景が話題。『Forza Horizon 6』をハイスペックPCでベンチマーク。",
+          "url": "https://www.gamespark.jp/article/2026/05/24/166834.html",
+          "source": {
+            "name": "Game*Spark"
+          },
+          "publishedAt": "2026-05-24T04:00:03Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1131323.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "玉森裕太、鬼才な両親をもつ“夢を諦めきれない”青年を好演 役柄に重ねる思い「頑張っているだけでは報われないこともある」＜ＧＩＦＴ＞",
+          "description": "堤真一が主演を務める日曜劇場「ＧＩＦＴ」(毎週日曜夜9:00-9:54、TBS系)に出演中の玉森裕太のインタビューコメントが到着。役柄に共感することや、自身にとっての“ギフト”などを語った。■“愛と絆...",
+          "url": "https://thetv.jp/news/detail/1399764/",
+          "source": {
+            "name": "WEBザテレビジョン"
+          },
+          "publishedAt": "2026-05-24T03:00:20Z",
+          "image": "https://thetv.jp/i/nw/1399764/17380498.jpg?w=1284",
+          "language": "ja"
+        },
+        {
+          "title": "iPhone基本の「き」 第704回 iPhoneの”便利だけどおせっかい”を減らす方法 - 勝手にライトが点いたりカメラが開いていたりする",
+          "description": "iPhoneを取り出したら、いつの間にか背面のライトが点灯していたり、カメラが開いていたりした経験はありませんか？ これは多くの場合、ロック画面に配置されたボタンを意図せず長押ししてしまったことによる",
+          "url": "https://article.auone.jp/detail/1/3/7/37_7_r_20260524_1779589917326576",
+          "source": {
+            "name": "au Webポータル"
+          },
+          "publishedAt": "2026-05-24T02:30:00Z",
+          "image": "https://portal.st-img.jp/thumb/401b977428ff96e3dd5ebb208253221c_1779589917_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "岡本多緒、日本人初の女優賞受賞！ カンヌ国際映画祭での装いを振り返る",
+          "description": "第79回カンヌ国際映画祭で、岡本多緒が日本人として初めて女優賞を受賞した。濱口竜介監督の映画『急に具合が悪くな",
+          "url": "https://numero.jp/news-20260524-taookamoto-cannes/",
+          "source": {
+            "name": "Numero TOKYO"
+          },
+          "publishedAt": "2026-05-24T02:29:25Z",
+          "image": "https://numero.jp/wp-content/uploads/2026/05/2-chanel-fb.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "《栃木強盗殺人》日常的に暴力を受けて支配…実行犯の16歳兄が証言した「悪夢の出会い」（文春オンライン）",
+          "description": "このBはSNSで「闇バイト」に応募し、他の高校生らを今回の事件に誘い入れた張本人でもある。以前から竹前夫婦とも面識があったという。Aの兄が明かす。\n「AはBに従うしかなかったのだと思います。2人",
+          "url": "https://news.yahoo.co.jp/articles/f06a6e510090a35a695da767b0050b15b0b44f3d?page=2",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-24T02:12:15Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260524-00088901-bunshun-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "《栃木強盗殺人》日常的に暴力を受けて支配…実行犯の16歳兄が証言した「悪夢の出会い」（文春オンライン）",
+          "description": "〈《栃木強盗殺人》“指示役夫婦” 竹前海斗・美結容疑者とは何者か?　実行犯の兄が激白《家族を殺すと脅され…》週刊文春が徹底取材「栃木強盗殺人事件」〉 から続く\n「弟はBから日常的に暴力を受けて",
+          "url": "https://news.yahoo.co.jp/articles/f06a6e510090a35a695da767b0050b15b0b44f3d",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-24T02:12:15Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260524-00088901-bunshun-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "スペースXの衛星100万基計画に世界が猛反対する理由、宇宙ゴミの深刻な脅威",
+          "description": "イーロン・マスクが累計100万基規模の人工衛星を地球周回軌道に打ち上げる構想を打ち出し、世界を驚かせた。その一方で、各国の宇宙機関トップや宇宙船運用事業者がこの構想に反対することは確実だ、と著名な宇宙研究者は語る。米連邦航空局（FAA）が1...",
+          "url": "https://forbesjapan.com/articles/detail/97769",
+          "source": {
+            "name": "Forbes JAPAN"
+          },
+          "publishedAt": "2026-05-24T02:00:00Z",
+          "image": "https://images.forbesjapan.com/media/article/97769/images/main_image_823c3b2380bd9e4dcfd7364b8d1f9d22ab86a339.jpg",
+          "language": "ja"
+        },
         {
           "title": "Ｈａｐｐｉｎｅｓｓ、Ｅ－ｇｉｒｌｓの元メンバー・杉枝真結、第１子女児出産を報告「予定日より約２週間も早く会いに来てくれた」（スポーツ報知）",
           "description": "Ｈａｐｐｉｎｅｓｓ、Ｅ－ｇｉｒｌｓの元メンバーでモデルの杉枝真結（３０）が２４日、第１子女児を出産したことを発表した。\n　【ご報告】と自身のインスタグラムを更新。「いつも見守っていただいている皆",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-05-24T01:06:26Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260524-05241037-sph-000-8-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "【ＤｅＮＡ】ビシエド異例のシーズン途中引退の経緯説明「本人の意思が非常に固かった」…木村洋太球団社長の一問一答",
-          "description": "ＤｅＮＡのダヤン・ビシエド内野手（３７）がＮＰＢ引退を決断したことが２４日、明らかになった。",
-          "url": "https://hochi.news/articles/20260524-OHT1T51037.html",
-          "source": {
-            "name": "スポーツ報知"
-          },
-          "publishedAt": "2026-05-24T01:06:00Z",
-          "image": "https://hochi.news/images/2026/05/24/20260524-OHT1I51055-L.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「自分も殺していた可能性がある」服役中の元少年が証言、“闇バイト”が一線を超える瞬間（弁護士ドットコムニュース）",
-          "description": "犯罪への入口はSNSのハッシュタグ一つ。そして、その先に待っているのは、殺人と紙一重の凶行──。\n栃木県で起きた強盗殺人事件で、16歳の高校生ら6人が逮捕された。自身も各地で強盗事件に関わり、現在",
-          "url": "https://news.yahoo.co.jp/articles/cab732ffcd53b01f796ce1bb307ee821850da7b2",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-24T00:10:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260524-00020430-bengocom-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "高市首相が「黙殺」「目を背ける」ナフサに厳しい「ポスト」「新潮」 花田紀凱 花田紀凱の週刊誌ウォッチング（1079）",
-          "description": "「中東以外からの輸入で大丈夫」と強気の高市早苗首相だが、事態はかなり深刻と『週刊ポスト』（5・29）がスクープ。「高市自民が黙殺した『ナフサ不足』内部資料」。",
-          "url": "https://www.sankei.com/article/20260524-WDWKNZYXJVJW3K6U3XVUKLBNZQ/",
-          "source": {
-            "name": "sankei.com"
-          },
-          "publishedAt": "2026-05-24T00:00:00Z",
-          "image": "https://www.sankei.com/resizer/v2/VTRIMFZPHVM2HP5ASWZCHU4DF4.jpg?auth=41eca203cc1a1348ed954f34b5d388fe3a646a4963d7daa11403e0004fbcd4b2&quality=50&smart=true&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "【23654円ゲット】Teclast Android 16タブレット『T65 128GB』を期間限定の低価格でお得に購入可能！ Amazonセール開催(5/20から6/2まで)",
-          "description": "GUANGZHOU SHANGKE INFORMATION TECHNOLOGY (HK) LIMITEDのプレスリリース（2026年5月24日 08時00分）【23654円ゲット】Teclast Android 16タブレット『T65 128GB』を期間限定の低価格でお得に購入可能！ Amazonセール開催(5/20から6/2まで)",
-          "url": "https://prtimes.jp/main/html/rd/p/000000562.000080488.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-05-23T23:00:01Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/80488/562/80488-562-55bd43f0644f526d71798b5e82f3d285-1500x1324.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "フェルナンド・アロンソ、カナダGP初日は好調も、2日目は控えめな結果に「少しだけ競争力が増したように感じた」",
-          "description": "アストンマーティン・ホンダのフェルナンド・アロンソは、チームが少しずつ前進していることを実感したようだ。",
-          "url": "https://jp.motorsport.com/f1/news/f1-2026-rd5-canadian-gp-qf-aston-alonso-comments/10823625/",
-          "source": {
-            "name": "motorsport.com 日本版｜モータースポーツ情報サイト"
-          },
-          "publishedAt": "2026-05-23T22:41:08Z",
-          "image": "https://cdn-2.motorsport.com/images/amp/63QmA7E2/s6/fernando-alonso-aston-martin-r.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ゲンクが伊東純也と横山歩夢のアベック弾で完封勝利!! PO2逆転首位通過、ECL予選出場争う最終決戦へ",
-          "description": "[5.23 ベルギー・リーグPO2第10節 ルーベン 0-2 ゲンク]　ゲンクは23日、ベルギー・リーグプレーオフ2第10節のルーベン戦を2-0で制した。前節終了時点で首位のスタンダール・リエージュが敗れたことで首位に浮上...",
-          "url": "https://web.gekisaka.jp/news/world/detail/?452020-452020-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-05-23T20:47:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/453000/452020/news_452020_1.jpg?time=20260524055954",
-          "language": "ja"
-        },
-        {
-          "title": "趣里、約1年半ぶりドラマ出演 7月期テレ朝・木曜ドラマ新ヒロイン抜擢",
-          "description": "俳優の趣里が、7月クールのテレビ朝日系連続ドラマ「大空港～GATE24～」（毎週木曜よる9時～9時54分）で主演を務めることが明らかになった。",
-          "url": "https://www.cinematoday.jp/news/N0154967",
-          "source": {
-            "name": "シネマトゥデイ"
-          },
-          "publishedAt": "2026-05-23T20:00:00Z",
-          "image": "https://img.cinematoday.jp/a/xqz7Bf3CPXGP/_size_r1200x630/_v_1779453678/main.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Auction clearance rates drop to 50 per cent following changes to negative gearing and capital gains tax",
-          "description": "Negative sentiment around the property sector has started to make its way into the marketplace since the federal budget, but real estate experts say it may prove to be good news for first-home buyers.",
-          "url": "https://www.abc.net.au/news/2026-05-24/auction-clears-rates-drop-to-50-per-cent/106714340",
+          "title": "European Parliament Urges Indonesia to Probe Acid Attacks Against Activists",
+          "description": "The European Parliament has urged the Indonesian Government to end legal immunity or impunity for human rights violators.",
+          "url": "https://en.tempo.co/read/2105158/european-parliament-urges-indonesia-to-probe-acid-attacks-against-activists",
           "source": {
-            "name": "Australian Broadcasting Corporation"
+            "name": "Tempo.co English"
           },
-          "publishedAt": "2026-05-24T01:38:36Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/7ce8589a1eeaadb7b067df3c62f44f43?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=397&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-05-24T04:00:47Z",
+          "image": "https://statik.tempo.co/data/2026/05/20/id_1474063/1474063_720.jpg",
           "language": "en"
         },
         {
-          "title": "Fans urged to line Queen St for Auckland FC victory parade",
-          "description": "Auckland Mayor Wayne Brown is calling on fans to turn out for the parade.",
-          "url": "https://www.1news.co.nz/2026/05/24/fans-urged-to-line-queen-st-for-auckland-fc-victory-parade/",
+          "title": "Locals near epicenter of the Ebola crisis express fear and concerns about misinformation",
+          "description": "Hélène Akilimali says she’s taking every precaution against contracting Ebola, including always wearing a face mask in public. But her work as a cocoa seller in eastern Democratic Republic of Congo (DRC) - the epicenter of the latest outbreak - brings her into daily contact with other people, some of whom doubt the disease is even real, and she has no control over how they behave.",
+          "url": "https://www.cnn.com/2026/05/24/africa/ebola-outbreak-view-from-drc-congo-intl",
           "source": {
-            "name": "1News"
+            "name": "CNN"
           },
-          "publishedAt": "2026-05-24T01:36:42Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/louis-verstraete-of-auckland-fc-and-akol-akon-of-sydney-fc-c-PYAX774ZFVFW5MWDIUSIC4NQII.jpg?auth=0eeac89d7d558ecf8f5b2cbe5620b144100608cddefa89467a4ee640fb651bfc&quality=70&width=600&height=315&focal=1771%2C996",
+          "publishedAt": "2026-05-24T04:00:07Z",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2276928994-20260522211352884.jpg?c=16x9&q=w_800,c_fill",
           "language": "en"
         },
         {
-          "title": "Sampaguita, sashes, and timing: The community work behind Flores de Mayo",
-          "description": "Weeks before Flores de Mayo comes into full view, preparations are already underway in communities across Luzon.Gowns are being fitted and refitted. Parasols,...",
-          "url": "https://mb.com.ph/2026/05/24/sampaguita-sashes-and-timing-the-community-work-behind-flores-de-mayo",
+          "title": "West Nile Caucus pushes for bigger share in 12th P",
+          "description": "Speaking on May 32, 2026, at Parliament, the chairperson of the West Nile Parliamentary Caucus and Obongi County MP, Hassan Kaps Fungaroo, said on behalf of the caucus that the region has a long history of service and remains committed to contributing to Uganda’s social, political and economic development.",
+          "url": "https://www.newvision.co.ug/category/politics/west-nile-caucus-pushes-for-bigger-share-in-1-NV_234226_052026",
           "source": {
-            "name": "Manila Bulletin"
+            "name": "NewVision.co.ug"
           },
-          "publishedAt": "2026-05-24T01:36:18Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/24/103537.webp",
+          "publishedAt": "2026-05-24T04:00:05Z",
+          "image": "https://newvision-media.s3.amazonaws.com/cms/f55078ba-04d9-4cb7-a052-1e7b1d2be654.jpg",
           "language": "en"
         },
         {
-          "title": "Who Was Nasire Best? Suspect In White House Shooting Had Prior Secret Service Encounters",
-          "description": "Nasire Best, a 21-year-old Maryland resident, has been identified by US media reports as the suspect in the shooting near the White House security perimeter.",
-          "url": "https://www.news18.com/world/white-house-shooting-suspect-nasire-best-maryland-secret-service-donald-trump-security-breach-gunfire-incident-ws-l-10108881.html",
+          "title": "Alleged sexual misconduct case involving teacher in Setiu under probe",
+          "description": "KUALA TERENGGANU: An alleged sexual misconduct case involving a teacher at a school in Setiu, which went viral on social media, is being investigated by the Integrity Unit of the Education Ministry.",
+          "url": "https://www.thestar.com.my/news/nation/2026/05/24/alleged-sexual-misconduct-case-involving-teacher-in-setiu-under-probe",
           "source": {
-            "name": "News18"
+            "name": "thestar.com.my"
           },
-          "publishedAt": "2026-05-24T01:36:04Z",
-          "image": "https://images.news18.com/ibnlive/uploads/2026/05/MixCollage-24-May-2026-07-01-AM-7638-2026-05-d4da0d37ebc0c50fabd0b276e11dc966-1200x675.jpg",
+          "publishedAt": "2026-05-24T04:00:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/05/24/3924044.jpg",
           "language": "en"
         },
         {
-          "title": "Indonesia presses ahead with giant sea wall project along Java coast",
-          "description": "JAKARTA: Indonesia is pressing ahead with its giant sea wall project along Java's northern coastline as the government seeks to protect millions of residents, strategic industrial zones and food production centres from worsening climate and environmental threats.",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/24/indonesia-presses-ahead-with-giant-sea-wall-project-along-java-coast",
+          "title": "Hull woman with brain cancer remortgages her home to help pay for pioneering treatment",
+          "description": "'There’s been no regrowth but I’m not in remission and there is no cure - and it's cost around £100,000 for treatment so far'",
+          "url": "https://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/hull-woman-brain-cancer-remortgages-10980554",
           "source": {
-            "name": "The Star"
+            "name": "Hull Live"
           },
-          "publishedAt": "2026-05-24T01:36:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/05/24/3923994.jpg",
+          "publishedAt": "2026-05-24T04:00:00Z",
+          "image": "https://i2-prod.hulldailymail.co.uk/article10980567.ece/ALTERNATES/s1200d/0_CFR_NJL_220526lou_04.jpg",
           "language": "en"
         },
         {
-          "title": "Kyle Busch died after pneumonia progressed to sepsis, family says",
-          "description": "Kyle Busch, who won more races in NASCAR's top three series than anyone in history, died suddenly on Thursday.",
-          "url": "https://www.cbsnews.com/news/kyle-busch-cause-of-death-pneumonia-sepsis-nascar/",
+          "title": "Trump says deal 'negotiated' but Iran disputes terms",
+          "description": "A \"largely negotiated\" memorandum of understanding on an Iran peace deal would reopen the Strait of Hormuz, US President Donald Trump has said although the Iranian Fars news agency disputed that claim.",
+          "url": "https://www.rte.ie/news/world/2026/0524/1574953-us-iran-negotiations/",
           "source": {
-            "name": "CBS News"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-05-24T01:34:52Z",
-          "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/23/e1f0eb3e-4db3-452c-8a89-04f0076546ad/thumbnail/1200x630g2/8432a7843b4bdf256456e32422351c5f/gettyimages-2274085696.jpg",
+          "publishedAt": "2026-05-24T03:59:59Z",
+          "image": "https://www.rte.ie/images/00246955-1600.jpg",
           "language": "en"
         },
         {
-          "title": "Morocco king pardons jailed Senegal football fans from AFCON",
-          "description": "Morocco’s king pardons Senegal football fans jailed after AFCON final violence in Rabat, citing humanitarian reasons before Eid al-Adha.",
-          "url": "https://www.newarab.com/news/morocco-king-pardons-jailed-senegal-football-fans-afcon",
+          "title": "Knicks playing devastating brand of basketball - and can beat anyone right now",
+          "description": "By the end, the Knicks had done more than beat the Cavaliers: they’d ruined them. By the end, worn out by one more beating – this one a wire-to-wire 121-108 beaty – the Cavaliers just stopped playing offense. They stopped playing defense.",
+          "url": "https://nypost.com/2026/05/23/sports/knicks-playing-a-devastating-brand-of-basketball-and-can-beat-anyone-right-now/",
           "source": {
-            "name": "The New Arab"
+            "name": "New York Post"
           },
-          "publishedAt": "2026-05-24T01:34:50Z",
-          "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2256423926.jpeg?itok=DnGcvGcR",
+          "publishedAt": "2026-05-24T03:59:00Z",
+          "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/crop-39471593_05b488.jpg?quality=75&strip=all&w=1200",
           "language": "en"
         },
         {
-          "title": "Muslim leaders warn NZ facing worst anti-Muslim extremism in 20 years",
-          "description": "Federation of Islamic Associations says community leaders want an urgent meeting with the prime minister.",
-          "url": "https://www.rnz.co.nz/news/community/596175/muslim-leaders-warn-nz-facing-worst-anti-muslim-extremism-in-20-years",
+          "title": "School, residential buildings hit as Russia pounds Ukraine capital Kyiv with missiles, drones; 4 dead",
+          "description": "Europe News: Russia launched a massive overnight missile and drone assault on Kyiv early Sunday, striking residential areas, a school and commercial buildings acro.",
+          "url": "https://timesofindia.indiatimes.com/world/europe/school-residential-buildings-hit-as-russia-pounds-ukraine-capital-kyiv-with-missiles-drones-1-dead/articleshow/131288343.cms",
           "source": {
-            "name": "RNZ"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-05-24T01:33:48Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--EJIQmso3--/t_tohu-badge-facebook/v1699571677/4KZRJFX_000_1F191E_jpg?_a=BACCd2AD",
+          "publishedAt": "2026-05-24T03:56:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-131288461,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Ebola outruns containment in eastern Congo as contact tracing falters",
-          "description": "Ebola is spreading faster than responders can track it in eastern Congo, where health workers managed to follow up with barely one in five identified contacts in a single day. Authorities in the Democratic Republic of Congo reported 83 confirmed infections, 746 suspected cases and 1,603 identified contacts as of May 21, according to the health ministry. Yet health workers were able to follow ...",
-          "url": "https://www.spokesman.com/stories/2026/may/23/ebola-outruns-containment-in-eastern-congo-as-cont/",
+          "title": "Four new films to see this week: The Mandalorian and Grogu, Finding Emily, Hen and Tom & Jerry: Forbidden Compass",
+          "description": "Pedro Pascal, Sigourney Weaver, Angourie Rice and Spike Fearn feature in a quartet of movies released in the week of May 22nd, 2026",
+          "url": "https://www.irishtimes.com/culture/film/2026/05/24/four-new-films-to-see-this-week-the-mandalorian-and-grogu-finding-emily-hen-and-tom-jerry-forbidden-compass/",
           "source": {
-            "name": "The Spokesman-Review"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-05-24T01:29:17Z",
-          "image": "https://thumb.spokesman.com/YUnN3tD7ndTn0jtlhDYCWAfhaSc=/1200x630/smart/media.spokesman.com/photos/2026/05/23/6a1253d0de216.hires.jpg",
+          "publishedAt": "2026-05-24T03:55:46Z",
+          "image": "https://www.irishtimes.com/resizer/v2/PO73WEJ7F5QG4DWAORFVGPM6IU.jpg?smart=true&auth=d01ef032e77a80f454a02623e7e883e49170a469566a300c9567214beb4fc2ea&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Baba Levo and Abdul Nondo Exchange Insults in Public Spat",
-          "description": "Tanzanian entertainers Baba Levo and Abdul Nondo have engaged in a heated public exchange, trading barbs and accusations that have captured widespread",
-          "url": "https://tanzaniainsight.com/baba-levo-and-abdul-nondo-exchange-insults-in-public-spat/",
+          "title": "Former police officer slammed for Facebook comment on Auckland Tour De Hoods",
+          "description": "A former police officer has been slammed over a social media comment suggesting that a wire cable should be used to stop young people taking part in a...",
+          "url": "https://www.nzherald.co.nz/nz/former-police-officer-slammed-for-facebook-comment-on-auckland-tour-de-hoods/WNS3NNJRUFFJJMXPJMLTC7ECP4/",
           "source": {
-            "name": "Tanzania Insight"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-05-24T01:25:17Z",
-          "image": "https://tanzaniainsight.com/wp-content/uploads/2026/05/nondo-pic.jpg",
+          "publishedAt": "2026-05-24T03:55:40Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/OWTS4PQHP5DUHDZBW4F4ZKCZGA.jpg?auth=314e069038d36ea08a51a81ca21a379dd05e551f913f8171a618409859dc22e6&width=1200&height=675&quality=70&focal=1571%2C759&smart=false",
           "language": "en"
         }
       ]
