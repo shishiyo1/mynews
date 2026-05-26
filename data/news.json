@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-26T20:10:43.183Z",
+  "updatedAt": "2026-05-26T22:20:38.011Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "ディープオーシャン8K深海撮影システムや疲れにくいHMD、NHK技研公開＆NHK TECK WEEK 28日から",
+          "description": "NHKは、技術部門の二大公開イベント「技研公開2026」と「TECH EXPO 2026」を同時開催する「NHK TECK WEEK」を、5月28日～31日に世田谷区・砧のNHK放送技術研究所で開催する。開幕に先立ち、26日にメディア向け説明会が行なわれた。",
+          "url": "https://av.watch.impress.co.jp/docs/news/2111800.html",
+          "source": {
+            "name": "AV Watch"
+          },
+          "publishedAt": "2026-05-26T09:39:15Z",
+          "image": "https://av.watch.impress.co.jp/img/avw/list/2111/800/DSC07289.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "米軍、イラン南部を空爆 合意は「目前ではない」とイランが説明したあと",
+          "description": "米中央軍は25日、イラン南部で空爆を実施したと発表した。ミサイル基地や機雷敷設の関係船を標的にしたものだという。これより前には、イラン外務省は戦闘終結に向けたアメリカとの協議について、一定の進展はしているものの、合意は「目前ではない」と述べていた。",
+          "url": "https://www.bbc.com/japanese/articles/cj0pp7vezq4o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-05-26T09:18:43Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_japanese/9a1e/live/02a16e40-58a8-11f1-8b8c-6d33e1d5abb6.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「どうしてゲームの失敗をそこまで願えるんですか？」海外メディアにて『Marathon』参加俳優が作品に対し非難を浴びせる人々に物申す",
+          "description": "俳優という立場であっても理不尽な意見には黙らない。",
+          "url": "https://www.gamespark.jp/article/2026/05/26/166932.html",
+          "source": {
+            "name": "Game*Spark"
+          },
+          "publishedAt": "2026-05-26T08:45:04Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1134434.jpg",
+          "language": "ja"
+        },
         {
           "title": "POPの今を届けるNHK特番、HANAの初アメリカ公演に密着",
           "description": "特別番組「世界に響くJ-POP2026 ～MUSIC AWARDS JAPAN＆Zipanguスペシャル～」が、6月4日にNHK総合で放送されることが決定した。",
@@ -81,150 +114,117 @@
           "publishedAt": "2026-05-26T07:00:50Z",
           "image": "https://images.microcms-assets.io/assets/6368857617454c2591b02acff18e76bb/64b226c15c374ba58cc17747becfe06d/logo_cover.jpeg",
           "language": "ja"
-        },
-        {
-          "title": "珍しい「ブルームーン」の満月を見よう 金星と木星の接近、しし座の最後の雄姿も眺めたい今週の夜空",
-          "description": "今年の5月は、満月に始まり、満月に終わる。1カ月間で2回目となる珍しい満月は「ブルームーン」と呼ばれる。これに先立ち、月はおとめ座のスピカからさそり座のアンタレスへと1等星をめぐるように夜空を旅し、夕暮れ時には金星と木星がいっそう仲よく寄り...",
-          "url": "https://forbesjapan.com/articles/detail/98105",
-          "source": {
-            "name": "Forbes JAPAN"
-          },
-          "publishedAt": "2026-05-26T07:00:00Z",
-          "image": "https://images.forbesjapan.com/media/article/98105/images/main_image_e53f966f110dec57b8e6687726ec734aefd32902.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "珍しい「ブルームーン」の満月を見よう 金星と木星の接近、しし座の最後の雄姿も眺めたい今週の夜空",
-          "description": "今年の5月は、満月に始まり、満月に終わる。1カ月間で2回目となる珍しい満月は「ブルームーン」と呼ばれる。これに先立ち、月はおとめ座のスピカからさそり座のアンタレスへと1等星を辿るように夜空を旅し、夕",
-          "url": "https://news.yahoo.co.jp/articles/f169da980a9e74555d83a35b75d1b344d4e1465f",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-05-26T07:00:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260526-00098105-forbes-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【米国株動向】マイクロン・テクノロジー［MU］の株価上昇は続くのか？ウォール街が見落としている「2つの好材料」",
-          "description": "マイクロン・テクノロジー［MU］、AI需要で株価150％急騰。マイクロン・テクノロジーの現在の株価上昇の原動力とは？。マイクロン株に期待される「2つの強み」とは？",
-          "url": "https://media.monex.co.jp/articles/-/29432",
-          "source": {
-            "name": "マネクリ"
-          },
-          "publishedAt": "2026-05-26T06:40:00Z",
-          "image": "https://media.monex.co.jp/mwimgs/2/b/-/img_2be196aeef96ef6a8532b79ae006d3f7578776.png",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Ministry to universities: ‘We want tangible results, not just transcript’",
-          "description": "NCHE Executive Director Prof. Mary Okwakol said CBET is the most effective way to make higher education relevant",
-          "url": "https://www.monitor.co.ug/uganda/news/national/ministry-to-universities-we-want-tangible-results-not-just-transcript--5473570",
+          "title": "Ferrari’s first electric car is courting controversy at 310km/h",
+          "description": "The Luce is packing 1,050hp but its styling, by Jony Ive and Marc Newson, is already riling up the traditionalists",
+          "url": "https://www.irishtimes.com/motors/2026/05/26/ferraris-first-electric-car-is-courting-controversy-at-300kmh/",
           "source": {
-            "name": "Daily Monitor"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-05-26T08:10:21Z",
-          "image": "https://www.monitor.co.ug/resource/image/5473576/landscape_ratio3x2/1200/800/3c70d441f0845de1fd722d59507763f/yS/latest06pix.png",
+          "publishedAt": "2026-05-26T10:19:58Z",
+          "image": "https://www.irishtimes.com/resizer/v2/EPQTBRPVH5FHBF4EXM6GHI3SNE.jpg?smart=true&auth=dc7f10dd6e70bf3b87a376e82534667e031b578219c6da03931080238b886135&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Microsoft Restores Copilot Ribbon Option in Office",
-          "description": "Windows Central, WindowsLatest, and coverage aggregated by Ghacks report that Microsoft is rolling back the default floating **Copilot** action button in **Word** and **Excel**, and adding an option to move the assistant back to the ribbon. The change follows user backlash that the floating button obstructed workspace, especially in **Excel**, and could not be easily dismissed, according to WindowsLatest and Ghacks. Ghacks and WindowsLatest report the update will begin rolling out in late May 2026. Windows Central cites a Microsoft statement that begins, \"We've been working to make Microsoft 365 feel more connected and integrated with Copilot... We're listening, learning, and improving as we go,\" and notes the company acknowledged the floating placement harmed workflows even as engagement rose.",
-          "url": "https://letsdatascience.com/news/microsoft-restores-copilot-ribbon-option-in-office-c18363d0",
-          "source": {
-            "name": "Let's Data Science"
-          },
-          "publishedAt": "2026-05-26T08:09:58Z",
-          "image": "https://www.ghacks.net/wp-content/uploads/2026/05/gHacks-articles-2026-05-26T102847.542.png",
-          "language": "en"
-        },
-        {
-          "title": "'Not a right': DOJ chief Vida says Bato’s gun 'privileges' should be revoked",
-          "description": "The bureau asked the PNP to make Dela Rosa surrender 118 firearms.",
-          "url": "https://www.philstar.com/headlines/2026/05/26/2530677/not-right-doj-chief-vida-says-batos-gun-privileges-should-be-revoked",
-          "source": {
-            "name": "Philstar.com"
-          },
-          "publishedAt": "2026-05-26T08:09:00Z",
-          "image": "https://media.philstar.com/images/articles/dela-rosa_2016-12-29_20-25-03.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Egypt signs Turkish gold exploration deal for Eastern Desert mining expansion",
-          "description": "Egypt has signed a new agreement with Turkish company OZ Mining to assess gold deposits in the Eastern Desert as Cairo pushes to attract foreign mining investment and expand its mineral sector. | Business Insider Africa",
-          "url": "https://africa.businessinsider.com/local/markets/egypt-signs-turkish-gold-exploration-deal-for-eastern-desert-mining-expansion/2vkgs89",
-          "source": {
-            "name": "Business Insider Africa"
-          },
-          "publishedAt": "2026-05-26T08:06:49Z",
-          "image": "https://ocdn.eu/pulscms-transforms/1/giLktkpTURBXy8xYTE4ZDdhNmNlYjA4MTgzNzRhZWI2Yjg5NGU5NWUwMy5qcGeSlQPM5MyzzQJvzQFfkwXNBLDNAnY",
-          "language": "en"
-        },
-        {
-          "title": "Next power move in China's SE Asia strategy is nuclear",
-          "description": "China’s expanding nuclear industry is becoming a new instrument of geopolitical influence across Southeast Asia. From Vietnam to Indonesia, governments",
-          "url": "https://asiatimes.com/2026/05/next-power-move-in-chinas-se-asia-strategy-is-nuclear/",
-          "source": {
-            "name": "Asia Times"
-          },
-          "publishedAt": "2026-05-26T08:06:23Z",
-          "image": "https://asiatimes.com/wp-content/uploads/2026/05/Hualong-One-Nuclear-Reactor-China.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Rubio says US-Iran peace deal could take ‘a few more days’",
-          "description": "Negotiations are ongoing amid new American attacks on missile sites and mine-laying ships in the Strait of Hormuz.",
-          "url": "https://www.politico.eu/article/marco-rubio-us-iran-war-could-go-on-for-days/",
-          "source": {
-            "name": "politico.eu"
-          },
-          "publishedAt": "2026-05-26T08:05:54Z",
-          "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/05/26/GettyImages-2277541287-scaled.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Premier League manager of the year: Have your say in our poll",
-          "description": "Have your say in our polls for Premier League manager of the season, player of the season, goal of the season and much more.",
-          "url": "https://www.bbc.co.uk/sport/football/live/cvgzz84ex32t",
+          "title": "Sentences for boys spared jail after raping teenage girls referred to Court of Appeal",
+          "description": "The sentences of boys spared custody over the rape of two girls in Hampshire will be referred to the Court of Appeal, the prime minister has said.",
+          "url": "https://www.bbc.co.uk/news/articles/c5y779yeq0eo",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-05-26T08:04:10Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/79ee/live/f9164d70-5837-11f1-8b8c-6d33e1d5abb6.png",
+          "publishedAt": "2026-05-26T10:19:33Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb5e/live/0d101980-18a7-11f1-8a24-35cedd1a21de.png",
           "language": "en"
         },
         {
-          "title": "Lamola calls for restraint when African countries discuss illegal immigration tensions",
-          "description": "He’s also called political players in all African countries to desist from using the protests in a populist manner for their own domestic audiences.",
-          "url": "https://www.ewn.co.za/lamola-calls-for-restraint-when-african-countries-discuss-illegal-immigration-tensions/",
+          "title": "Bill turning national election day into a non-working holiday hurdles House",
+          "description": "On the strength of 233 affirmative votes, the House of Representatives on Tuesday afternoon, May 26 approved on third and final reading a bill declaring...",
+          "url": "https://mb.com.ph/2026/05/26/bill-turning-national-election-day-into-a-non-working-holiday-hurdles-house",
           "source": {
-            "name": "EWN"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-05-26T08:02:59Z",
-          "image": "https://media-cache.primedia-service.com/media/i4conraf/250703-dirco-lamola.jpg?width=1200&height=630",
+          "publishedAt": "2026-05-26T10:18:45Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/26/104142.webp",
           "language": "en"
         },
         {
-          "title": "Lamola calls for restraint when African countries discuss illegal immigration tensions",
-          "description": "He’s also called political players in all African countries to desist from using the protests in a populist manner for their own domestic audiences.",
-          "url": "https://www.ewn.co.za/2026/05/26/lamola-calls-for-restraint-when-african-countries-discuss-illegal-immigration-tensions",
+          "title": "Rwanda: UN Honours Rwandan Peacekeepers in South Sudan",
+          "description": "Rwandan peacekeepers serving under the United Nations Mission in South Sudan (UNMISS) were on Monday, May 25, awarded prestigious UN service medals during a ceremony held at the UN Base Camp in Malakal, Upper Nile State, in recognition of their commitment and professionalism in advancing peace and protecting civilians.",
+          "url": "https://allafrica.com/stories/202605260205.html",
           "source": {
-            "name": "EWN"
+            "name": "allAfrica.com"
           },
-          "publishedAt": "2026-05-26T08:02:59Z",
-          "image": "https://media-cache.primedia-service.com/media/i4conraf/250703-dirco-lamola.jpg?width=1200&height=630",
+          "publishedAt": "2026-05-26T10:18:45Z",
+          "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
           "language": "en"
         },
         {
-          "title": "China defence chief Dong Jun tipped to skip this year’s Shangri-La Dialogue",
-          "description": "The regional security forum opens on Friday (May 29) in Singapore with no official word yet on who will lead the Chinese delegation.",
-          "url": "https://www.channelnewsasia.com/asia/shangri-la-dialogue-sld-2026-china-defence-chief-dong-jun-6142026",
+          "title": "Mossad chief candidate Gofman approved by c'mtee once more, Grunis opposes",
+          "description": "Mossad chief candidate Gofman approved by committee once more to head agency, Grunis opposes in minority opinion",
+          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-897338",
           "source": {
-            "name": "CNA"
+            "name": "The Jerusalem Post"
           },
-          "publishedAt": "2026-05-26T08:02:40Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--bygcUgEC--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-24T104540Z_1_LYNXMPEM3N0LX_RTROPTP_3_ASEAN-DEFENCE.JPG?itok=kePzNyYa",
+          "publishedAt": "2026-05-26T10:17:17Z",
+          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/715711",
+          "language": "en"
+        },
+        {
+          "title": "Congressional Black Caucus urges firms to oppose GOP redistricting",
+          "description": "The Congressional Black Caucus is calling on major corporations in the United States to oppose redistricting efforts by Republican-led states that seek to eliminate majority-Black U.S.",
+          "url": "https://apnews.com/article/redistricting-black-caucus-voting-rights-corporations-a8a89bcc64ba1b074289c1ee606485fc",
+          "source": {
+            "name": "AP News"
+          },
+          "publishedAt": "2026-05-26T10:17:00Z",
+          "image": "https://dims.apnews.com/dims4/default/9b11f6e/2147483647/strip/true/crop/5222x3480+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F21%2F6d%2Fe817f14c56b3463ce55a3deadf28%2F284b3742f7b34f7eb5cb0bbb5b94f38b",
+          "language": "en"
+        },
+        {
+          "title": "007 First Light early access release time & countdown clock",
+          "description": "007 First Light's early access will start today, on May 26, and here's exactly when you'll be able to access it in your region.",
+          "url": "https://www.pcguide.com/news/007-first-light-early-access-release-time-countdown-clock/",
+          "source": {
+            "name": "PC Guide"
+          },
+          "publishedAt": "2026-05-26T10:16:31Z",
+          "image": "https://www.pcguide.com/wp-content/uploads/2026/05/007-First-Light-Early-Access-release-time-and-countdown-clock.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Marion West, Science Engagement Coordinator, celebrated 40 years at SARAO this year, having joined in January 1985",
+          "description": "The South African Radio Astronomy Observatory (SARAO), a facility of the National Research Foundation, is responsible for managing all radio astronomy initiatives and facilities in South Africa, including the MeerKAT Radio Telescope in the Karoo, and the Geodesy and VLBI activities at the HartRAO facility.",
+          "url": "https://www.sarao.ac.za/news/marion-west-science-engagement-coordinator-celebrated-40-years-at-sarao-this-year-having-joined-in-january-1985/",
+          "source": {
+            "name": "South African Radio Astronomy Observatory"
+          },
+          "publishedAt": "2026-05-26T10:16:03Z",
+          "image": "https://www.sarao.ac.za/wp-content/uploads/2026/05/Marion-West.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Court of appeal to review rape sentences of three teenage boys",
+          "description": "Keir Starmer announces review after boys were given non-custodial sentences for rape of two girls",
+          "url": "https://www.theguardian.com/law/2026/may/26/court-of-appeal-to-review-sentences-of-teenage-boys",
+          "source": {
+            "name": "The Guardian"
+          },
+          "publishedAt": "2026-05-26T10:16:00Z",
+          "image": "https://i.guim.co.uk/img/media/416a333f29286f1966e180944f7fa1458677cbc5/0_1549_2953_2361/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f982c6c5cc67a2b73fa383e50ba9c7d7",
+          "language": "en"
+        },
+        {
+          "title": "BREAKING: Jonathan eligible to recontest for president, court rules",
+          "description": "The court awarded a whopping N21 million fine against the plaintiff, who challenged Mr Jonathan's eligibility to recontest for president under a constitutional amendment introduced some years ago.",
+          "url": "https://www.premiumtimesng.com/news/headlines/882861-breaking-jonathan-eligible-to-recontest-for-president-court-rules.html",
+          "source": {
+            "name": "Premium Times Nigeria"
+          },
+          "publishedAt": "2026-05-26T10:14:50Z",
+          "image": "https://media.premiumtimesng.com/wp-content/files/2023/09/F7IoHbSWUAELjEf.jpeg",
           "language": "en"
         }
       ]
