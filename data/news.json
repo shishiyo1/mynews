@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-29T15:37:54.755Z",
+  "updatedAt": "2026-05-29T20:27:37.274Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "伊東・久保ら合流で26人全員集結!!「麦わらの一味」森保J、W杯壮行試合へ本格調整スタート",
-          "description": "北中米ワールドカップに臨む日本代表は29日、キリンチャレンジカップ・アイスランド戦(31日、MUFG国立)に向けて千葉市内でトレーニングを行った。新たにMF伊東純也(ゲンク)、DF伊藤洋輝(バイエルン)、MF久保建...",
-          "url": "https://web.gekisaka.jp/news/japan/detail/?452335-452335-fl",
+          "title": "ロシアのドローンが東欧ルーマニアの集合住宅を直撃、2人負傷 EUやNATOが厳しく批判",
+          "description": "ルーマニアの国防省は29日、東部の集合住宅にロシアのドローンが直撃して火災が発生し、2人が負傷したと発表した。ルーマニアが加盟する北大西洋条約機構（NATO）と欧州連合（EU）は、この事案を厳しく批判している。",
+          "url": "https://www.bbc.com/japanese/articles/c332056kgvzo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-05-29T08:16:21Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_japanese/05d9/live/a7082610-5b26-11f1-89a3-d1f559421220.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "台風6号 2日にかけて沖縄に接近へ 東日本・西日本も警報級大雨のおそれ",
+          "description": "台風6号は6月1日～2日にかけて沖縄・奄美に接近し、雨や風が強まって大荒れの天気となりそうです。3日には西日本に接近し、西日本や東日本でも警報級の大雨となる可能性があります。今後の台風情報に注意し、早めに大雨への備えを進めておいてください。",
+          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/05/29/39105.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-29T08:15:19Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/391/39105/main/20260529165510/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ロシアのドローンが東欧ルーマニアの集合住宅を直撃、2人負傷 EUやNATOが厳しく批判",
+          "description": "ミルセア・バルブ記者（ブカレスト）、クリス・グレアム記者\nルーマニアの国防省は29日、東部の集合住宅にロシアのドローンが直撃して火災が発生し、2人が負傷したと発表した。ルーマニアが加盟する北大西洋",
+          "url": "https://news.yahoo.co.jp/articles/b8b4e39f0825ad79d05be714fb39adfae65d5224",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-29T08:14:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260529-15907392-bbc-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "Mac miniにして「自宅作業の定位置」をリニューアルした話",
+          "description": "【GIZMODOサイトリニューアル特別企画】\n毎日の暮らしの中で、必要に応じて手元にあるプロダクトを買い替えたり、買い足したりするタイミングがあります。たとえば、愛用品が壊れてしまったのを機にアップデートされた新製品に買い替えたりとか。本記",
+          "url": "https://www.gizmodo.jp/article/renewal_special_project_mac-mini/",
+          "source": {
+            "name": "ギズモード・ジャパン"
+          },
+          "publishedAt": "2026-05-29T08:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/05/28/cb1c767e-f47c-41f2-bae0-115dfc0cd53d/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "アップルSiri刷新とAI機能、「iOS 27」でこう変わる－正式発表前に図解",
+          "description": "（ブルームバーグ）： マーク・ガーマン記者が執筆するニュースレター「Power On」の日本語版を配信中。登録はこちらか...",
+          "url": "https://finance.yahoo.co.jp/news/detail/3efb72957ea090800a2a6170fb31a55dddf521e0",
+          "source": {
+            "name": "Yahoo!ファイナンス"
+          },
+          "publishedAt": "2026-05-29T06:00:00Z",
+          "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+          "language": "ja"
+        },
+        {
+          "title": "南野の8番を自ら受け継いだ久保建英「他の誰かが着けるんだったら僕が着けたい」",
+          "description": "日本代表MF久保建英(ソシエダ)が合流初日の29日、報道陣の取材に応じ、北中米W杯に向けて「頑張って良い大会にしたい」と意気込みを語った。　久保は今大会、これまでクラブチームなどで着けたことのない背番号...",
+          "url": "https://web.gekisaka.jp/news/japan/detail/?452350-452350-fl",
           "source": {
             "name": "gekisaka.jp"
           },
-          "publishedAt": "2026-05-29T03:18:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/453000/452335/news_452335_1.jpg?time=20260529121853",
+          "publishedAt": "2026-05-29T05:55:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/453000/452350/news_452350_1.jpg?time=20260529154445",
           "language": "ja"
         },
         {
-          "title": "水卜麻美アナ、夫・中村倫也がVTR登場で動揺も笑顔「真面目にやってたし面白かった」",
-          "description": "日本テレビの水卜麻美アナウンサーが29日、総合司会を務める朝の情報番組「ZIP！」（月曜～金曜あさ5時50分～）に出演。夫で俳優の中村倫也がVTR出演したことを受け、動揺しながらコメントする場面があった。",
-          "url": "https://mdpr.jp/news/detail/4789352",
+          "title": "Siri × Gemini × NVIDIA｜Apple「プライバシーの約束」を守るための三社連合の実態",
+          "description": "AppleがGoogleのGeminiをSiriに統合する舞台裏が明らかに。自社インフラ「Private Cloud Compute」では巨大モデルを動かせず、NVIDIAのGPU暗号化技術でGoogleクラウドを利用する構図が浮上。WWDC開幕まで1週間、三社連合の実態を解説。",
+          "url": "https://innovatopia.jp/ai/ai-news/106126/",
           "source": {
-            "name": "モデルプレス"
+            "name": "innovaTopia"
           },
-          "publishedAt": "2026-05-29T03:16:30Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/iQkU/wm/iQkUQAoPgRlFXt_lGFIuCXJ6giVJNJlVxS7qAyUms4M.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "publishedAt": "2026-05-29T05:54:51Z",
+          "image": "https://innovatopia.jp/wp-content/uploads/2026/05/A_minimalist_conceptual_illustration_in_editorial_-1780025317687-scaled.png",
           "language": "ja"
         },
         {
-          "title": "クアルコムの新チップ「Snapdragon C」登場、約300ドルの格安ノートPC向け",
-          "description": "クアルコムが新たなプロセッサー「Snapdragon C」を発表した。",
-          "url": "https://japan.cnet.com/article/35248218/",
+          "title": "台風6号は3日ごろに四国に接近へ 2日から3日は大雨のおそれも",
+          "description": "台風6号は今後も北上を続け、3日(水)ごろに四国に接近するおそれがでてきました。今のうちから早めに対策をしてください。",
+          "url": "https://tenki.jp/forecaster/e_kawagoe/2026/05/29/39104.html",
           "source": {
-            "name": "CNET Japan"
+            "name": "tenki.jp"
           },
-          "publishedAt": "2026-05-29T03:08:00Z",
-          "image": "https://japan.cnet.com/storage/2026/05/29/d1630183acf3963754c004285b18ffb3/acer-aspire-go-15-qualcomm-ag15-q31p-01_1280x960.jpg",
+          "publishedAt": "2026-05-29T05:53:10Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/391/39104/main/20260529141351/large.jpg",
           "language": "ja"
         },
         {
-          "title": "ASCII.jp：グーグルChrome、151件の脆弱性を修正",
-          "description": "グーグルは5月27日、デスクトップおよびAndroid版「Google Chrome」のアップデートを公開。深刻度「重大」を含む151件のセキュリティー修正を実施した。",
-          "url": "https://ascii.jp/elem/000/004/406/4406146/",
+          "title": "29日 横浜・千葉で今年初の真夏日 週末～来週初めは真夏日続出 熱中症に注意",
+          "description": "今日29日は東日本から西日本の太平洋側で暑くなっていて、横浜や千葉では今年初めての真夏日となりました。週末から来週はじめは真夏日が続出し、今年最多となる可能性があります。こまめな水分補給や休憩を心がけ、熱中症に注意してください。",
+          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/05/29/39100.html",
           "source": {
-            "name": "ASCII.jp"
+            "name": "tenki.jp"
           },
-          "publishedAt": "2026-05-29T02:50:00Z",
-          "image": "https://ascii.jp/img/2026/05/29/4474175/xl/7160f6eb70882a71.png?20200122",
+          "publishedAt": "2026-05-29T05:48:21Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/391/39100/main/20260529140832/large.jpg",
           "language": "ja"
         },
         {
-          "title": "『Bloodborne』で約11年間ずっと「DLC最終ボス」を倒し続けた猛者が引退表明。“助けを呼ぶプレイヤー”がいなくなったので",
-          "description": "『Bloodborne』において、約11年にわたってDLCの最終ボス戦をマルチプレイで手伝い続けてきたというプレイヤーが“引退”を表明した。",
-          "url": "https://automaton-media.com/articles/newsjp/20260529-445862/",
+          "title": "【麻薬取締法違反容疑で逮捕】バレーボール日本代表・佐藤駿一郎容疑者（26）父の告白「本人は海外で活躍したいと…」《六本木での“合コン写真”も》（文春オンライン）",
+          "description": "「本人は海外で活躍したいというような話をしていました。そんな矢先にこんなことになってしまって……。本当に、私たちにとっても寝耳に水でした」\n　バレーボール日本代表の佐藤駿一郎容疑者（26）の父は、",
+          "url": "https://news.yahoo.co.jp/articles/a0cf4d916cb441d75fedd39cd94119faf210d283",
           "source": {
-            "name": "AUTOMATON"
+            "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-05-29T02:24:37Z",
-          "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260529-445862-header.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【日本代表】久保建英、田中碧、伊東純也、鈴木彩艶ら26人そろう アイスランド戦へ",
-          "description": "サッカー日本代表が28日、千葉市内でFIFAワールドカップ（W杯）北中米大会（6月11日開幕）に向けた国内合宿に臨んだ。前日までに参加していた16人に加え、M… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/soccer/worldcup2026/news/202605290000160.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-05-29T02:24:00Z",
-          "image": "https://www.nikkansports.com/soccer/worldcup2026/news/img/202605290000160-w500_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『銀魂』全77巻分が無料で読める！『新劇場版 銀魂 吉原大炎上』のロングヒット＆4DX上映を記念して72時間限定でLINEマンガほかにて公開【5月31日まで】",
-          "description": "漫画『銀魂』全77巻分の全話無料キャンペーンがLINEマンガアプリ・ebookjapanにて開催中。期間は2026年5月31日までの72時間限定。『新劇場版 銀魂 -吉原大炎上-』のロングヒットと本日5月29日から4DXが公開されることを記念して実施。",
-          "url": "https://www.famitsu.com/article/202605/76341",
-          "source": {
-            "name": "ファミ通"
-          },
-          "publishedAt": "2026-05-29T02:06:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/76341/thumbnail_jvFX.png?x=1280",
-          "language": "ja"
-        },
-        {
-          "title": "ローグライク戦略ゲーム『ローンスター』と、猫カフェ経営シミュレーション『Calico』Epic Games Storeで無料配布",
-          "description": "猫カフェ経営シミュレーション『Calico』も同時に無料配布中。期間は6月5日0時まで",
-          "url": "https://news.denfaminicogamer.jp/news/260529j",
-          "source": {
-            "name": "電ファミニコゲーマー"
-          },
-          "publishedAt": "2026-05-29T01:21:00Z",
-          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/lonestar-9unsx.png",
-          "language": "ja"
-        },
-        {
-          "title": "スティーヴン・スピルバーグ監督最新作『ディスクロージャー・デイ』日本公開日が10月1日に変更｜シネマトゥデイ",
-          "description": "スティーヴン・スピルバーグ監督の最新作『ディスクロージャー・デイ』の日本公開日が、当初予定されていた7月10日（金）から変更され、2026年10月1日（木）に全国公開されることが決定した 。",
-          "url": "https://www.cinematoday.jp/news/N0155052",
-          "source": {
-            "name": "シネマトゥデイ"
-          },
-          "publishedAt": "2026-05-29T01:19:17Z",
-          "image": "https://img.cinematoday.jp/a/C-IJpFdf67Na/_size_r1200x630/_v_1780017557/main.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "アンソロピック、“正直さ”向上した「Opus 4.8」 「ミュトス級」は数週間で登場",
-          "description": "Anthropicは28日(米国時間)、最新のAIモデル「Claude Opus 4.8」を提供開始した。従来の上位モデルOpus 4.7から、コーディング、エージェントスキル、推論、実用的な知識作業タスクなどのあらゆる領域のベンチマークで改善。また、正直さ(honesty)も特徴で、自身の作業に対する不確実性を指摘する傾向が強く、根拠のない主張をする可能性が低くなったという。",
-          "url": "https://www.watch.impress.co.jp/docs/news/2112749.html",
-          "source": {
-            "name": "Impress Watch"
-          },
-          "publishedAt": "2026-05-29T01:02:46Z",
-          "image": "https://www.watch.impress.co.jp/img/ipw/list/2112/749/claude1.jpg",
+          "publishedAt": "2026-05-29T05:36:16Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260529-00089068-bunshun-000-2-view.png?fmt=jpeg&q=85&exp=10800",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Porcelain, reimagined: Lladró presents an artful collision of worlds with its exhibit",
-          "description": "True luxury can be defined not just based on the facade, but on the craft that went into a piece. At a time when everything is fast, a work done by hands that...",
-          "url": "https://mb.com.ph/2026/05/29/porcelain-reimagined-lladro-presents-an-artful-collision-of-worlds-with-its-exhibit",
-          "source": {
-            "name": "Manila Bulletin"
-          },
-          "publishedAt": "2026-05-29T03:36:51Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/29/104777.webp",
-          "language": "en"
-        },
-        {
-          "title": "'Dearly loved' child dies after leaving Auckland school bus",
-          "description": "The boy was a pupil at a school for children with special needs in West Auckland.",
-          "url": "https://www.rnz.co.nz/news/community/596743/dearly-loved-child-dies-after-leaving-auckland-school-bus",
-          "source": {
-            "name": "RNZ"
-          },
-          "publishedAt": "2026-05-29T03:35:03Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--R117dX0N--/t_tohu-badge-facebook/v1729134698/4KI5WGN_school_bus_cropped_jpg?_a=BACCd2AD",
-          "language": "en"
-        },
-        {
-          "title": "Vashu Bhagnani sues Tips, David Dhawan for ₹400 crore, seeks cancellation of Hai Jawani To Ishq Hona Hai release",
-          "description": "Vashu Bhagnani has escalated his dispute against Ramesh Taurani's Tips and David Dhawan over the audio rights of songs, Chunnari Chunnari and Ishq Sona Hai. | Bollywood",
-          "url": "https://www.hindustantimes.com/entertainment/bollywood/vashu-bhagnani-sues-tips-david-dhawan-for-400-crore-audio-rights-of-chunnari-chunnari-hai-jawani-to-ishq-hona-hai-101780023692112.html",
+          "title": "Pakistan's Karachi faces chronic water shortage, opposition trades guns on President Asif Ali Zardari's PPP",
+          "description": "Residents in several Karachi neighbourhoods have been compelled to purchase costly water tankers to meet daily needs amid soaring temperatures. | World News",
+          "url": "https://www.hindustantimes.com/world-news/pakistans-karachi-faces-chronic-water-shortage-opposition-trades-guns-on-president-asif-ali-zardari-ppp-101780042825851.html",
           "source": {
             "name": "Hindustan Times"
           },
-          "publishedAt": "2026-05-29T03:33:02Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/05/29/550x309/ANI-20260524005-0_1780024530524_1780024544526_3b02fa51-9983-48d9-86fd-cb41ee898938.jpg",
+          "publishedAt": "2026-05-29T08:25:19Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/05/29/550x309/TOPSHOT-PAKISTAN-WEATHER-HEAT-0_1780043016508_1780043024015_4c20b902-7358-405c-9b2b-b1a8e082eca5.jpg",
           "language": "en"
         },
         {
-          "title": "Fighter jets scrambled after Russian drone smashes into block of flats",
-          "description": "Nato scrambled fighter jets after a Russian drone crossed into Romanian airspace and crashed into a block of flats, injuring two people.",
-          "url": "https://www.express.co.uk/news/world/2210956/NATO-fighter-jets-scrambled-russian-drone-flats-romania",
+          "title": "Ghana will no longer seek IMF bailout - Finance Minister",
+          "description": "Ghana will no longer seek financial bailout from the International Monetary Fund (IMF), the Minister of Finance, Dr Cassiel Ato Forson, has declared",
+          "url": "https://www.graphic.com.gh/news/general-news/ghana-news-nation-will-no-longer-seek-imf-bailout-finance-minister.html",
           "source": {
-            "name": "Daily Express"
+            "name": "Graphic Online"
           },
-          "publishedAt": "2026-05-29T03:33:00Z",
-          "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/6947922.jpg",
+          "publishedAt": "2026-05-29T08:24:50Z",
+          "image": "https://www.graphic.com.gh/images/2026/May/29/ato1.jpg",
           "language": "en"
         },
         {
-          "title": "Kirti Kulhari's remark on domestic help’s Rs 10000 salary sparks backlash; Mini Mathur reacts, 'This is below minimum wage'",
-          "description": "A video of Kirti Kulhari talking about her domestic help's salary has gone viral on social media. Her clip sparked backlash from the netizens. People .",
-          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kirti-kulharis-remark-on-domestic-helps-rs-10000-salary-sparks-backlash-mini-mathur-reacts-this-is-below-minimum-wage/articleshow/131381058.cms",
+          "title": "AI in Aerospace - strategic opportunities and governance challenges for governments",
+          "description": "JONATHAN C CLARE, Head of External Affairs, Royal Aeronautical Society, highlights the issues facing governments in the aerospace sector with the emergence of AI.",
+          "url": "https://www.aerosociety.com/news/ai-in-aerospace-strategic-opportunities-and-governance-challenges-for-governments/",
           "source": {
-            "name": "The Times of India"
+            "name": "Royal Aeronautical Society"
           },
-          "publishedAt": "2026-05-29T03:32:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-131381077,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-05-29T08:24:42Z",
+          "image": "https://www.aerosociety.com/media/29478/ai-in-aerospace-header-blog.jpg",
           "language": "en"
         },
         {
-          "title": "Vitamin B12 and folate deficiencies linked to chronic fatigue",
-          "description": "Feeling constantly drained might not just be about poor sleep or working too hard. Researchers in Japan found that low levels of key vitamins — especially vitamin B12 and folate — may quietly contribute to fatigue and lack of motivation, even in otherwise healthy people.",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260528082501.htm",
+          "title": "Based Cruise Travel",
+          "description": "Cruise lines are increasingly building voyages around single, shared moments, from the 2026 solar eclipse to fireworks, Formula 1 weekends and rare fleet gatherings.",
+          "url": "https://www.forbes.com/sites/davidnikel/2026/05/29/why-more-travelers-are-booking-cruises-around-one-big-moment/",
           "source": {
-            "name": "ScienceDaily"
+            "name": "Forbes"
           },
-          "publishedAt": "2026-05-29T03:31:28Z",
-          "image": "https://www.sciencedaily.com/images/1920/tired-man-waking-up-early-with-headache.webp",
+          "publishedAt": "2026-05-29T08:24:23Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a194aa7371b251d4bceaf25/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
           "language": "en"
         },
         {
-          "title": "Why your muscle matters in the fight against cancer - Nurdiana Zainol Abidin",
-          "description": "MAY 29 — Cancer is often described as a battle against tumours. Doctors focus on where the cancer is located, whether it has spread, and how aggressively it should be treated....",
-          "url": "https://www.malaymail.com/news/what-you-think/2026/05/29/why-your-muscle-matters-in-the-fight-against-cancer-nurdiana-zainol-abidin/221754",
+          "title": "Gript editor John McGuirk resigns and accuses co-owner of making him the ‘fall guy’",
+          "description": "The departure follows a lengthy suspension, disputed allegations, and escalating tensions within the conservative news outlet",
+          "url": "https://www.irishexaminer.com/news/arid-41853444.html",
           "source": {
-            "name": "Malay Mail"
+            "name": "Irish Examiner"
           },
-          "publishedAt": "2026-05-29T03:31:11Z",
-          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/05/29/343566.jpg",
+          "publishedAt": "2026-05-29T08:24:00Z",
+          "image": "https://www.irishexaminer.com/cms_media/module_img/10197/5098875_5_seoimageog_823c2a3a-7e27-42ba-8c3c-e5a83ae3fc72.jpg",
           "language": "en"
         },
         {
-          "title": "How US plans to choke Iran’s 'shadow oil' network under Operation 'economic fury'",
-          "description": "International Business News: United States on Thursday imposed fresh sanctions targeting Iran's military-linked oil trade network, despite reports suggested that Washington and Te.",
-          "url": "https://timesofindia.indiatimes.com/business/international-business/sanctions-war-on-us-tightens-curbs-on-iran-oil-despite-probable-deal-to-ease-hormuz-movement/articleshow/131380552.cms",
+          "title": "Madagascar’s top court dismisses lawmaker’s bid to oust military ruler",
+          "description": "Antoine Rajerison accused Colonel Michael Randrianirina of treason for \"serious and repeated violations of the constitution\".",
+          "url": "https://www.africanews.com/2026/05/29/madagascars-top-court-dismisses-lawmakers-bid-to-oust-military-ruler/",
           "source": {
-            "name": "The Times of India"
+            "name": "africanews.com"
           },
-          "publishedAt": "2026-05-29T03:31:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-131381085,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-05-29T08:23:57Z",
+          "image": "https://images.euronews.com/articles/stories/09/77/71/13/1024x538_cmsv2_c12ef9df-956a-56f8-be9e-996f771e05e2-9777113.jpg",
           "language": "en"
         },
         {
-          "title": "Up to +18 degrees, but with strong winds: what the weather will be like in Latvia on the last day of spring",
-          "description": "The last working day of calendar spring in Latvia will be influenced by strong northern and northwestern winds. According to meteorologists' forecasts, gusts in most regions of the country will reach 13–18 meters per second.",
-          "url": "https://news.inbox.eu/150b8u8-up-to-18-degrees-but-with-strong-winds-what-the-weather-will-be-like-in-latvia-on-the-last-day-of-spring?language=en",
+          "title": "South Africa vs Nicaragua Preview: Kick-off time, TV channel & squad news for Bafana Bafana's World Cup farewell international friendly",
+          "description": "Here are all the details of the friendly match between Hugo Broos' Bafana Bafana and Juan Cruz Real's La Azul y Blanco. There is a 71-place gap in the FIFA World Rankings between the teams but expect the home side to be heavily rotated and the Central American side to be out to impress their new coach.",
+          "url": "https://www.goal.com/en-za/lists/south-africa-vs-nicaragua-preview-kick-off-time-tv-channel-and-squad-news-for-bafana-bafana-s-world-cup-farewell-international-friendly/blt1fd5512670fd16fb",
           "source": {
-            "name": "Inbox.eu"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-05-29T03:30:13Z",
-          "image": "https://news.inbox.eu/w/img/98/a4/98a4757b680031d1eb.webp",
+          "publishedAt": "2026-05-29T08:23:39Z",
+          "image": "https://assets.goal.com/images/v3/bltab526ba77b3eafd9/crop/MM5DKNBUHA5DGMBWGU5G433XMU5DAORQ/B26C1SM0504.jpg",
           "language": "en"
         },
         {
-          "title": "Man Utd news: £60m star 'wants United move' as Marcus Rashford suffers new blow",
-          "description": "Manchester United are preparing themselves for another European campaign and there are some important decisions to be made this summer.",
-          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-fernandes-rashford-37217222",
+          "title": "Darwin Initiative Round 32 Opens Applications for Biodiversity Conservation and Sustainable Development Projects",
+          "description": "The Darwin Initiative has officially launched its Round 32 funding call, inviting organizations, conservation practitioners, research institutions,",
+          "url": "https://www.globalsouthopportunities.com/2026/05/29/darwin/",
           "source": {
-            "name": "The Mirror"
+            "name": "Global South Opportunities"
           },
-          "publishedAt": "2026-05-29T03:30:00Z",
-          "image": "https://i2-prod.mirror.co.uk/article36979858.ece/ALTERNATES/s1200d/0_Atletico-de-Madrid-v-FC-Barcelona-LaLiga-EA-Sports.jpg",
+          "publishedAt": "2026-05-29T08:23:17Z",
+          "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/05/di-launch-thumb.png",
+          "language": "en"
+        },
+        {
+          "title": "Minister insists Labour not committed to living wage for over-18s before election, despite manifesto pledge - UK politics live",
+          "description": "Torsten Bell says manifesto ‘did not set out the timeline’ for changes to living wage after scale of youth unemployment crisis revealed in Milburn report",
+          "url": "https://www.theguardian.com/politics/live/2026/may/29/labour-welfare-youth-unemployment-living-wage-milburn-starmer-burnham-blair-latest-news-updates",
+          "source": {
+            "name": "The Guardian"
+          },
+          "publishedAt": "2026-05-29T08:23:00Z",
+          "image": "https://i.guim.co.uk/img/media/caf2d18afcf7734fb34f5ab2d565b6469df44bc9/396_0_3335_2668/master/3335.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=fd1e7fe0187372a1f8010ac592e83f5d",
+          "language": "en"
+        },
+        {
+          "title": "Drone wars: Russian drone strikes Romania, prompting fierce criticism across Europe",
+          "description": "The drone had been \"involved in the bombing of infrastructure in Ukraine\" before crashing in Galați, authorities said. Ursula von der Leyen said Russia had \"crossed yet another line\".",
+          "url": "https://www.euronews.com/my-europe/2026/05/29/explosive-laden-russian-drone-hits-residential-building-in-romania-authorities-say",
+          "source": {
+            "name": "Euronews.com"
+          },
+          "publishedAt": "2026-05-29T08:22:58Z",
+          "image": "https://images.euronews.com/articles/stories/09/77/68/52/1200x675_cmsv2_f018e09e-46dc-5199-bdfb-58e3cf999a6d-9776852.jpg",
           "language": "en"
         }
       ]
