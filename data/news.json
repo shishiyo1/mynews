@@ -1,10 +1,54 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-30T08:29:36.447Z",
+  "updatedAt": "2026-05-30T10:47:43.306Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "中古カメラ価格が4倍に！スマホ高性能化の裏でなぜ今「コンデジ復権」|au Webポータル",
+          "description": "2000年代に流行していたコンパクトデジタルカメラ、通称「コンデジ」。このコンデジが、令和の今になっ...",
+          "url": "https://article.auone.jp/detail/1/5/9/458_9_r_20260530_1780092028036397",
+          "source": {
+            "name": "au Webポータル"
+          },
+          "publishedAt": "2026-05-29T22:06:56Z",
+          "image": "https://portal.st-img.jp/thumb/c18e9c8205fbf5d1c5cb68ddca08acc6_1780092028_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "千葉県で震度3の地震 津波の心配なし",
+          "description": "30日午前6時38分頃、千葉県北東部を震源とするマグニチュード3.9の地震が発生し、千葉県で最大震度3を観測しました。この地震による津波の心配はありません。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/05/30/39109.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-29T21:44:54Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/391/39109/main/20260530064454/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "〈辺野古ボート事故〉反基地団体と船長が国交省の聴取を拒否！ 謝罪もなく… 「反対協」代表は「駄目なんですか？」",
+          "description": "〈お友達と奇麗な珊瑚礁を見る方が楽しそう〉――。無垢な期待を抱き沖縄に出発した少女の思いは、最悪の形で裏切られた。女子高生の命を奪った辺野古ボート転覆事故から2カ月、“元凶”とされる船長と反基地団体",
+          "url": "https://news.yahoo.co.jp/articles/08ef4ef5266dcc416f6ba9ce8ffb2102a2b3b732",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-05-29T21:00:41Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260530-01458954-shincho-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "教育への政治介入か、それともやむなき行政指導か？同志社国際高の辺野古抗議船事故、文科省「違法見解」の妥当性 【西田亮介の週刊時評】懸念される、現実社会の問題を教室に持ち込むことをタブー視する風潮(1/5)",
+          "description": "2026年3月、同志社国際高等学校の沖縄研修旅行において、辺野古沖での抗議船見学プログラム中にボートが転覆し、参加していた生徒が命を落とす事故が発生した。　この事態を受け、文部科学(1/5)",
+          "url": "https://jbpress.ismedia.jp/articles/-/95115",
+          "source": {
+            "name": "JBpress"
+          },
+          "publishedAt": "2026-05-29T21:00:00Z",
+          "image": "https://jbpress.ismcdn.jp/mwimgs/e/7/1200mw/img_e7df7162fac426212a38311cab3499671757592.jpg",
+          "language": "ja"
+        },
         {
           "title": "牛のゲップを「メタンまみれ」にしてた真犯人、ついに判明",
           "description": "牛や羊などの家畜のげっぷには、地球を温める力の強いメタンガスがたっぷり含まれています。\n世界中で人間の活動から出るメタンのうち、およそ3割が家畜由来とされており、地球温暖化を考えるうえで決して無視できない存在なのです。\nところが、胃のどこで、誰が、どうやってメタンを増やしているのか──その仕組みの中心部分は、約50年ものあいだ誰も突き止められませんでした。\n中国の中国科学院水生生物研究所（IHB）を中心とする研究チームが、ついにその答えを見つけました。\nカギを握っていたのは、牛の胃のなかにすむ小さな生き物の細胞のなかに、こっそり隠れていた謎の部品（細胞小器官）でした。\n研究内容の詳細は、20…",
@@ -70,161 +114,117 @@
           "publishedAt": "2026-05-29T11:14:01Z",
           "image": "https://news.ntv.co.jp/gimage/n24/articles/5c664ac1d16a4c1993879d3695da3a0f/20260529-180602-687-ch03-09-c135766c-1.jpg?w=1200",
           "language": "ja"
-        },
-        {
-          "title": "BリーグMVPは宇都宮のD.J・ニュービル…長崎勢を抑え3年連続受賞、家族やクラブ関係者に感謝のスピーチ",
-          "description": "5月29日、都内でBリーグの年間表彰式「B.LEAGUE AWARD SHOW 2025-26」が開催され、宇都宮ブレックスのD.J・ニュービルが3年連続3度···",
-          "url": "https://basketballking.jp/news/japan/20260529/615483.html",
-          "source": {
-            "name": "バスケットボールキング"
-          },
-          "publishedAt": "2026-05-29T10:33:01Z",
-          "image": "https://basketballking.jp/wp-content/uploads/2026/05/DJ1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "JO1川尻蓮、コンペ勝ち抜き「日プ新世界」に楽曲提供 ファイナリスト22名がデビュー評価で披露",
-          "description": "JO1の川尻蓮が作詞作曲を手がけた楽曲が、サバイバルオーディション番組「PRODUCE 101 JAPAN 新世界」のファイナルステージにて披露される。",
-          "url": "https://natalie.mu/music/news/674062",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-05-29T10:31:00Z",
-          "image": "https://ogre.natalie.mu/media/news/music/2026/0529/shinsekai_jo1kawashiri.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
-        },
-        {
-          "title": "佐久間朱莉、都玲華 通算5アンダーで首位を並走",
-          "description": "一般社団法人日本女子プロゴルフ協会(JLPGA)の公式サイトです。",
-          "url": "https://www.lpga.or.jp/news/info/81611",
-          "source": {
-            "name": "日本女子プロゴルフ協会"
-          },
-          "publishedAt": "2026-05-29T10:06:04Z",
-          "image": "https://cdn.lpga.or.jp/lpga/cms/2026/05/29/xl/0bdb5a7ab7414a96da5747248273365e851149a1.jpg?1780067325",
-          "language": "ja"
-        },
-        {
-          "title": "りそなグループ B.LEAGUE 2025-26シーズン 「最優秀育成クラブ」受賞のお知らせ",
-          "description": "日頃より琉球ゴールデンキングスを応援いただきありがとうございます。　本日5月29日(金)に開催された「りそなグループ B.",
-          "url": "https://goldenkings.jp/news/detail/id=25740",
-          "source": {
-            "name": "琉球ゴールデンキングス"
-          },
-          "publishedAt": "2026-05-29T10:00:28Z",
-          "image": "http://goldenkings.jp/files/user/202605291639_1.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "WWE News, WWE Results, AEW News, AEW Results",
-          "description": "WWE SmackDown ResultsMay 29, 2026Olimpic Arena Badalona in Barcelona, SpainResults by: Alex Kahrs of Wrestleview.com WWE: Then. Now.…",
-          "url": "https://www.wrestleview.com/top-story/384075-wwe-smackdown-results-5-29-26-live-from-barcelona-spain/",
+          "title": "Blue Origin rocket explosion rattles NASA’s mission to put humans back on the Moon",
+          "description": "Failure will likely delay US space agency’s efforts to beat China to the lunar surface.",
+          "url": "https://www.nature.com/articles/d41586-026-01732-0?error=cookies_not_supported&code=69c439a5-48c8-4087-a7ec-75a9e57df7c3",
           "source": {
-            "name": "Wrestleview.com"
+            "name": "Nature"
           },
-          "publishedAt": "2026-05-29T20:29:12Z",
-          "image": "https://www.wrestleview.com/wp-content/uploads/2026/05/WWESD-1.jpg",
+          "publishedAt": "2026-05-29T22:47:42Z",
+          "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01732-0/d41586-026-01732-0_52489342.jpg",
           "language": "en"
         },
         {
-          "title": "Abducted Oyo principal begs Tinubu, Makinde to negotiate with kidnappers",
-          "description": "Rachael Alamu, the abducted principal of Community High School, Ahoro-Esinle in Oriire Local Government Area of Oyo State, has made",
-          "url": "https://guardian.ng/news/abducted-oyo-principal-begs-tinubu-makinde-to-negotiate-with-kidnappers/",
+          "title": "Six NACT Cycles Before Surgery Fail to Improve DFS in Advanced Ovarian Cancer",
+          "description": "Delaying cytoreductive surgery until after 6 cycles of neoadjuvant chemotherapy did not improve DFS vs interval surgery after 3 cycles in patients with advanced high-grade epithelial ovarian cancer.",
+          "url": "https://www.cancernetwork.com/view/six-nact-cycles-before-surgery-fail-to-improve-dfs-in-advanced-ovarian-cancer",
           "source": {
-            "name": "The Guardian Nigeria News"
+            "name": "CancerNetwork"
           },
-          "publishedAt": "2026-05-29T20:29:00Z",
-          "image": "https://cdn.guardian.ng/wp-content/uploads/2026/05/IMG-20260524-WA0005.jpg",
+          "publishedAt": "2026-05-29T22:45:29Z",
+          "image": "https://cdn.sanity.io/images/0vv8moc6/cancernetwork/9161d6e3c776c57ac14b51a52bf1e2f131a705af-1200x776.jpg",
           "language": "en"
         },
         {
-          "title": "DrPH graduate focuses on digital innovation for diabetes prevention",
-          "description": "Qais Dirar, DrPH '26, plans to return home to Saudi Arabia to help lead the regional expansion of a digital health company.",
-          "url": "https://hsph.harvard.edu/news/drph-graduate-focuses-on-digital-innovation-for-diabetes-prevention/",
+          "title": "FIFA World Cup ticket scandal deepens with refunds looming and investigators circling pricing practices",
+          "description": "International Sports News: FIFA is facing growing pressure just days before the 2026 FIFA World Cup begins, with several U.S. officials questioning whether fans were treated fai.",
+          "url": "https://timesofindia.indiatimes.com/sports/international-sports/beyond-the-game/fifa-world-cup-ticket-scandal-deepens-with-refunds-looming-and-investigators-circling-pricing-practices/articleshow/131401948.cms",
           "source": {
-            "name": "Harvard T.H. Chan School of Public Health"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-05-29T20:28:16Z",
-          "image": "https://hsph.harvard.edu/wp-content/uploads/2026/05/Qais-Dirar-2000x1125-1.jpg",
+          "publishedAt": "2026-05-29T22:45:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-131401930,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "HIV No Longer a Death Sentence, Experts Assure Nigerians",
-          "description": "Health experts confirm HIV is now a manageable chronic condition, not a death sentence, thanks to science and treatment access. Learn about Nigeria's progr",
-          "url": "https://punchng.com/hiv-no-longer-a-death-sentence-experts/",
+          "title": "Scientists Outplant Experimental ‘Flonduran’ Corals in Florida’s Dry Tortugas National Park",
+          "description": "Researchers are testing whether cross-breeding elkhorn corals from Florida and Honduras can help restore lost genetic diversity and improve the threatened species’ ability to withstand warmer waters.",
+          "url": "https://insideclimatenews.org/news/29052026/researchers-cross-breed-threatened-corals-in-dry-tortugas-national-park/",
           "source": {
-            "name": "Punch Newspapers"
+            "name": "Inside Climate News"
           },
-          "publishedAt": "2026-05-29T20:27:35Z",
-          "image": "https://cdn.punchng.com/wp-content/uploads/2026/05/29212208/HIV-experts-1200x630.webp",
+          "publishedAt": "2026-05-29T22:41:56Z",
+          "image": "https://insideclimatenews.org/wp-content/uploads/2026/05/P4048941-1024x682.jpg",
           "language": "en"
         },
         {
-          "title": "Al Jazeera English wins three News and Documentary Emmy Awards",
-          "description": "Al Jazeera English’s Fault Lines team won three Emmys for two of its investigative films at the 47th News and Documentary Emmy Awards in New York on 27 May.",
-          "url": "https://network.aljazeera.net/en/press-releases/al-jazeera-english-wins-three-news-and-documentary-emmy-awards",
+          "title": "Healy secures Ireland call up as Rovers extend lead",
+          "description": "Stephen Bradley confirmed that Matt Healy has received his first Ireland call-up after helping Shamrock Rovers to secure a six-point lead at the mid-season break in the League of Ireland.",
+          "url": "https://www.rte.ie/sport/soccer/2026/0529/1575991-healy-secures-ireland-call-up-as-rovers-extend-lead/",
           "source": {
-            "name": "الجزيرة نت"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-05-29T20:26:40Z",
-          "image": "https://network.aljazeera.net/sites/default/files/press/2026/Fault%20Lines%20Al%20Jazeera%20International%20USA-NEWS47-JS2_2487.jpg",
+          "publishedAt": "2026-05-29T22:40:42Z",
+          "image": "https://www.rte.ie/images/00247341-1600.jpg",
           "language": "en"
         },
         {
-          "title": "Canada Post records Q1 loss of $205 million amid major restructuring",
-          "description": "The loss comes amid an ongoing labour dispute with workers that the Crown corporation attributed in part to the downturn in its parcel business.",
-          "url": "https://www.cbc.ca/news/business/canada-post-q1-loss-2026-9.7216987",
+          "title": "69 years since the second European Cup",
+          "description": "On May 30, 1957, Real Madrid defeated Fiorentina at the Bernabéu (2-0).",
+          "url": "https://www.realmadrid.com/en-US/news/club/latest-news/se-cumplen-69-anos-de-la-segunda-copa-de-europa-30-05-2026",
           "source": {
-            "name": "CBC"
+            "name": "Real Madrid CF | Web Oficial"
           },
-          "publishedAt": "2026-05-29T20:26:31Z",
-          "image": "https://i.cbc.ca/ais/bf51b3cb-4e24-483f-bbcf-0524988febd2,1780082479034/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4280%2C2407%29%3BResize%3D620",
+          "publishedAt": "2026-05-29T22:37:31Z",
+          "image": "https://assets.realmadrid.com/is/image/realmadrid/1330779665228-2?wid=1200&hei=675",
           "language": "en"
         },
         {
-          "title": "TP-Link Says Screw It, We’re Doing Wi-Fi 8 Now",
-          "description": "The company plans to launch its first router with the new standard in October.",
-          "url": "https://gizmodo.com/tp-link-says-screw-it-were-doing-wi-fi-8-now-2000765221",
+          "title": "US adult cigarette smoking rate hits another all-time low",
+          "description": "The cigarette smoking rate among U.S. adults dropped to another all-time low last year",
+          "url": "https://abcnews.com/Health/wireStory/us-adult-cigarette-smoking-rate-hits-time-low-133433254",
           "source": {
-            "name": "Gizmodo"
+            "name": "ABC News - Breaking News, Latest News and Videos"
           },
-          "publishedAt": "2026-05-29T20:25:49Z",
-          "image": "https://gizmodo.com/app/uploads/2026/05/TP-Link-Wi-Fi-8-teaser-image-1200x675.jpg",
+          "publishedAt": "2026-05-29T22:36:30Z",
+          "image": "https://i.abcnewsfe.com/a/5cf7cdd8-9460-409b-9325-b13aa714968a/wirestory_3dfc9d82fcc106e49a5706819d438239_16x9.jpg?w=1600",
           "language": "en"
         },
         {
-          "title": "Nigeria records major gains in food security and agricultural",
-          "description": "Nigeria has recorded significant progress in strengthening food security and boosting agricultural productivity over the past three",
-          "url": "https://guardian.ng/news/nigeria-records-major-gains-in-food-security-and-agricultural-output-agriculture-ministry/",
+          "title": "Montrealers asked to cut water usage for the summer as shortage looms",
+          "description": "\"We are facing an exceptional situation that requires equally exceptional measures.\"",
+          "url": "https://montrealgazette.com/news/montreal-water-usage-reduction-mctavish-reservoir/",
           "source": {
-            "name": "The Guardian Nigeria News"
+            "name": "Montreal Gazette"
           },
-          "publishedAt": "2026-05-29T20:23:36Z",
-          "image": "https://cdn.guardian.ng/wp-content/uploads/2026/02/Minister-of-Agriculture-and-Food-Security-Senator-Abubakar-Kyari.webp",
+          "publishedAt": "2026-05-29T22:36:21Z",
+          "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2015/07/gazette-file-photo.jpg",
           "language": "en"
         },
         {
-          "title": "PSX cheers US-Iran ceasefire hopes",
-          "description": "PSX cheers US-Iran ceasefire hopes",
-          "url": "https://tribune.com.pk/story/2610475/psx-cheers-us-iran-ceasefire-hopes",
+          "title": "Lassa fever deaths rise to 204 as fatality rate worsens - NCDC",
+          "description": "In its latest Lassa fever situation report for Epidemiological Week 19, covering 4 to 10 May 2026, the agency said the country recorded 793 confirmed cases and 204 deaths across 23 states and 108 local government areas",
+          "url": "https://www.premiumtimesng.com/news/883776-lassa-fever-deaths-rise-to-204-as-fatality-rate-worsens-ncdc.html",
           "source": {
-            "name": "The Express Tribune"
+            "name": "Premium Times Nigeria"
           },
-          "publishedAt": "2026-05-29T20:23:33Z",
-          "image": "https://i.tribune.com.pk/media/images/1161903-Stock-1471116730/1161903-Stock-1471116730-640x480.webp",
+          "publishedAt": "2026-05-29T22:36:09Z",
+          "image": "https://media.premiumtimesng.com/wp-content/files/2026/03/unnamed-13-e1774980843220.jpg",
           "language": "en"
         },
         {
-          "title": "DAP prices surge to Rs16,000/bag",
-          "description": "DAP prices surge to Rs16,000/bag",
-          "url": "https://tribune.com.pk/story/2610476/dap-prices-surge-to-rs16000bag",
+          "title": "Poison? More artists flee Trump-linked US anniversary concerts",
+          "description": "Bret Michaels, frontman of 1980s band Poison, is the latest aging music star to quit Trump's planned 250th anniversary of US independence concert.",
+          "url": "https://www.rnz.co.nz/news/world/596798/poison-more-artists-flee-trump-linked-us-anniversary-concerts",
           "source": {
-            "name": "The Express Tribune"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-05-29T20:23:33Z",
-          "image": "https://i.tribune.com.pk/media/images/342586-fertiliser_ur_1736778821/342586-fertiliser_ur_1736778821-640x480.webp",
+          "publishedAt": "2026-05-29T22:33:37Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--DXlTQH58--/t_tohu-badge-facebook/v1780092938/4JNTOU4_TrumpConcert_png?_a=BACCd2AD",
           "language": "en"
         }
       ]
