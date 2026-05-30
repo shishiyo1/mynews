@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-30T16:05:40.458Z",
+  "updatedAt": "2026-05-30T19:18:23.440Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "今日30日も季節先取りの暑さ 明日31日と1日は今回の暑さのピーク 35℃以上も",
+          "description": "今日30日は、沖縄や九州から東北南部にかけては広く晴れて、季節先取りの暑さとなりました。明日31日も広く晴れて、厳しい暑さとなるでしょう。大分県日田市では最高気温が35℃と猛暑日となりそうです。6月1日(月)は真夏日地点(最高気温30℃以上)が広がり、東京都心も32度と今年一番の暑さとなるでしょう。前橋市では35℃以上の猛暑日となりそうです。",
+          "url": "https://tenki.jp/forecaster/t_yoshida/2026/05/30/39115.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-30T07:11:59Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/391/39115/ogp/20260530155309/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "神谷そら 今季初優勝に向けて首位に浮上",
+          "description": "一般社団法人日本女子プロゴルフ協会(JLPGA)の公式サイトです。",
+          "url": "https://www.lpga.or.jp/news/info/81644",
+          "source": {
+            "name": "日本女子プロゴルフ協会"
+          },
+          "publishedAt": "2026-05-30T07:11:14Z",
+          "image": "https://cdn.lpga.or.jp/lpga/cms/2026/05/30/xl/891420cfea1bde0af3df7b84de333ac0d4f8ae83.jpg?1780140015",
+          "language": "ja"
+        },
+        {
+          "title": "なぜ台風6号は急発達する予想? 強い台風になりやすい条件と今年の台風の特徴",
+          "description": "台風6号は、沖縄の南で急速に勢力を強める予想です。なぜこの台風は、短い期間でここまで強まるのでしょうか。急発達の背景には、台風が強まるための「条件」がそろうことがあります。台風6号を題材に、その仕組みを見ていきます。今年は、夏から秋にかけて台風の傾向が変わる可能性もあり、今後の動向にも注意が必要です。",
+          "url": "https://tenki.jp/forecaster/k_shiraishi/2026/05/30/39114.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-30T05:48:50Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/391/39114/main/20260530140427/large.jpg",
+          "language": "ja"
+        },
         {
           "title": "台風6号の影響 6月3日は大阪や神戸など近畿で警報級の大雨の恐れ 早めの対策を",
           "description": "近畿地方では、6月2日(火)から3日(水)にかけて、台風6号の影響で広く雨が降るでしょう。特に、3日(水)は警報級の大雨となる恐れもあるため、大雨への備えは早めになさってください。",
@@ -14,6 +47,17 @@
           },
           "publishedAt": "2026-05-30T02:42:37Z",
           "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/391/39111/main/20260530075136/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "29日の米国市場ダイジェスト：米国株式市場は続伸、イランとの交渉進展期待が継続",
+          "description": "■NY株式：米国株式市場は続伸、イランとの交渉進展期待が継続\n米国株式市場は続伸。",
+          "url": "https://www.zaikei.co.jp/article/20260530/855197.html",
+          "source": {
+            "name": "財経新聞"
+          },
+          "publishedAt": "2026-05-30T02:01:56Z",
+          "image": "http://www.zaikei.co.jp/images/zaikei_og_image.jpg",
           "language": "ja"
         },
         {
@@ -39,6 +83,17 @@
           "language": "ja"
         },
         {
+          "title": "デスクがアベンジャーズ本部に！MARVELキャラクターのワイヤレススピーカーなど、モバイルアクセサリー7種を株式会社PGAが6月3日発売",
+          "description": "株式会社PGAのプレスリリース:デスクがアベンジャーズ本部に！MARVELキャラクターのワイヤレススピーカーなど、モバイルアクセサリー7種を株式会社PGAが6月3日発売",
+          "url": "https://www.atpress.ne.jp/news/8586380",
+          "source": {
+            "name": "アットプレス"
+          },
+          "publishedAt": "2026-05-30T01:00:00Z",
+          "image": "https://www.atpress.ne.jp/attachments/ZoQNTG2yFnmO7ZCzw6aj.jpg",
+          "language": "ja"
+        },
+        {
           "title": "オープンワールドファンタジーARPG『Fable』、2027年2月にリリース延期へ。今年秋は“あの超ドデカタイトル”が出るから",
           "description": "Xbox Game Studiosは5月30日、『Fable』のリリース時期を2027年2月にすると発表した。本作はもともと今年秋リリース予定とされていた。",
           "url": "https://automaton-media.com/articles/newsjp/fable-20260530-446081/",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-05-30T00:30:35Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260530-00283955-sasahi-000-1-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "大谷翔平、今季２度目の２戦連発なるか「1番DH」でフィリーズ戦／スタメン",
-          "description": "ドジャース大谷翔平投手（31）が本拠地でのフィリーズ戦に「1番DH」で出場する。フィリーズと対戦するのは昨年の地区シリーズ以来。大谷は27日のロッキーズ戦で二… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/baseball/mlb/news/202605300000110.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-05-30T00:29:27Z",
-          "image": "https://www.nikkansports.com/baseball/mlb/news/img/202605300000110-w500_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "おいしそう？な「スパゲッティ ヴェル＝コズ」やパンを6本携えた「ブレーッドスティック イレリア」など7種類の新スキンが実装―ダイアナ、レオナの「永遠なる神髄」シリーズも【リーグ・オブ・レジェンド】",
-          "description": "『リーグ・オブ・レジェンド』パッチ26.11で7種類の新スキンが実装されました。",
-          "url": "https://fistbump-news.jp/article/2026/05/30/2495.html",
-          "source": {
-            "name": "FISTBUMP"
-          },
-          "publishedAt": "2026-05-30T00:00:03Z",
-          "image": "https://fistbump-news.jp/imgs/ogp_f/15096.png",
-          "language": "ja"
-        },
-        {
-          "title": "2026年5月31日、嵐のラストライブ：26年半の軌跡と、食品産業へもたらした無数の笑顔【食品産業あの日あの時】",
-          "description": "「あの子たち、また仕事中にピノ食べてる…」 1998年に放送された森永乳業のアイスクリームブランド「エスキモー」の「ピノ」のテレビCMの一幕だ。コンサートの真っ最中に「ピノ」をつまみ食いしてスタッフからたしなめられるのは...",
-          "url": "https://www.ssnp.co.jp/etc/686810/",
-          "source": {
-            "name": "食品産業新聞社ニュースWEB"
-          },
-          "publishedAt": "2026-05-29T22:49:41Z",
-          "image": "https://www.ssnp.co.jp/uploads/2026/05/260527-arashi.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "中古カメラ価格が4倍に！スマホ高性能化の裏でなぜ今「コンデジ復権」|au Webポータル",
-          "description": "2000年代に流行していたコンパクトデジタルカメラ、通称「コンデジ」。このコンデジが、令和の今になっ...",
-          "url": "https://article.auone.jp/detail/1/5/9/458_9_r_20260530_1780092028036397",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-05-29T22:06:56Z",
-          "image": "https://portal.st-img.jp/thumb/c18e9c8205fbf5d1c5cb68ddca08acc6_1780092028_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "千葉県で震度3の地震 津波の心配なし",
-          "description": "30日午前6時38分頃、千葉県北東部を震源とするマグニチュード3.9の地震が発生し、千葉県で最大震度3を観測しました。この地震による津波の心配はありません。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/05/30/39109.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-05-29T21:44:54Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/391/39109/main/20260530064454/large.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Cowan: Canadiens' season comes to an end in Carolina without much of a fight",
-          "description": "It would have been nice if Brendan Gallagher and Arber Xhekaj had a chance to give teammates a spark.",
-          "url": "https://montrealgazette.com/sports/cowan-canadiens-season-comes-to-an-end-in-carolina-without-much-of-a-fight/",
+          "title": "Apple iPhone 15 price drops to Rs 36,891 with free Apple charger in Croma Apple sale",
+          "description": "Croma’s Apple sale brings iPhone 15 discounts, cashback offers, exchange bonuses and bundled accessories, while select MacBook and iPad purchases include free add-ons during the campaign period.",
+          "url": "https://www.moneycontrol.com/technology/apple-iphone-15-price-drops-to-rs-36-891-with-free-apple-charger-in-croma-apple-sale-article-13936326.html",
           "source": {
-            "name": "Montreal Gazette"
+            "name": "Moneycontrol.com"
           },
-          "publishedAt": "2026-05-30T04:05:01Z",
-          "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/05/gettyimages-2278850414_303425287.jpg",
+          "publishedAt": "2026-05-30T07:17:18Z",
+          "image": "https://images.moneycontrol.com/static-mcnews/2023/10/iPhone-15-Plus.jpg",
           "language": "en"
         },
         {
-          "title": "Big-time pump price rollback seen next week",
-          "description": "Motorists should expect a sigh of relief as heftier cuts in pump prices are expected to be implemented by fuel retailers in the first week of June.",
-          "url": "https://www.gmanetwork.com/news/money/economy/989555/diesel-gasoline-rollback/story/",
+          "title": "Middle East: Dangote Refinery Becomes World’s Biggest Jet Fuel Exporter Amid Supply Disruptions",
+          "description": "Middle East: Dangote Refinery Becomes World’s Biggest Jet Fuel Exporter Amid Supply Disruptions",
+          "url": "https://www.channelstv.com/2026/05/30/middle-east-dangote-refinery-becomes-worlds-biggest-jet-fuel-exporter-amid-supply-disruptions/",
           "source": {
-            "name": "GMA Network"
+            "name": "Channels Television"
           },
-          "publishedAt": "2026-05-30T04:04:56Z",
-          "image": "https://images.gmanews.tv/webpics/2026/03/fuel_2026_03_23_14_16_22.jpg",
+          "publishedAt": "2026-05-30T07:16:08Z",
+          "image": "https://www.channelstv.com/wp-content/uploads/2023/12/dangote-refinery-crude-oil-shipment-.jpg",
           "language": "en"
         },
         {
-          "title": "Hong Kong international schools help girls embrace non-traditional ambitions",
-          "description": "They want to design human-centred AI, build underwater robots and direct film scores – and their schools help make these dreams come true.",
-          "url": "https://www.scmp.com/special-reports/article/3351117/hong-kong-international-schools-help-girls-embrace-non-traditional-ambitions",
+          "title": "Wests Tigers beat Bulldogs in thriller, Lachlan Galvin booed, Heamasi Makasini injury",
+          "description": "Tigers win comes at a cost after Luai act in heated thriller, ‘relentless’ Galvin treatment",
+          "url": "https://www.foxsports.com.au/nrl/nrl-premiership/nrl-2026-live-updates-wests-tigers-vs-bulldogs-score-tries-lachlan-galvin-apisai-koroisau/news-story/5cde43659e91a49d110522da654894a6",
           "source": {
-            "name": "South China Morning Post"
+            "name": "Fox Sports"
           },
-          "publishedAt": "2026-05-30T04:00:07Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/22/37725c10-daf8-40fd-8bf8-7e018d70abd2_b9c96273.jpg?itok=_MVktl80&v=1779417586",
+          "publishedAt": "2026-05-30T07:15:58Z",
+          "image": "https://content.api.news/v3/images/bin/4c20b430306a47c81ce69b222f381a6c",
           "language": "en"
         },
         {
-          "title": "Why 2025-26 Champions League Final Kickoff Time Has Been Moved",
-          "description": "Last season’s showpiece fixture was three hours later in the day.",
-          "url": "https://www.si.com/soccer/why-2025-26-champions-league-final-kickoff-time-moved",
-          "source": {
-            "name": "Sports Illustrated"
-          },
-          "publishedAt": "2026-05-30T04:00:00Z",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_107,w_1024,h_576/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/production/si/01kssq4bwnaqq7afg47f.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Hurdle hints and answers for May 30, 2026",
-          "description": "Hints and answers to today's Hurdle all in one place.",
-          "url": "https://mashable.com/entertainment/hurdle-hints-answers-may-30-2026",
-          "source": {
-            "name": "Mashable"
-          },
-          "publishedAt": "2026-05-30T04:00:00Z",
-          "image": "https://helios-i.mashable.com/imagery/articles/05TXkMjHcwHjAybk8hHUUcE/hero-image.fill.size_1200x675.v1779890425.jpg",
-          "language": "en"
-        },
-        {
-          "title": "‘How can you have a Ferrari without any vroom?’: electric model shocks owners’ club",
-          "description": "Suggestion the Luce EV should be stripped of prancing horse logo shows strength of feeling from Ferrari fans",
-          "url": "https://www.theguardian.com/business/2026/may/30/ferrari-luce-ev-electric-model-shocks-owners-club",
-          "source": {
-            "name": "The Guardian"
-          },
-          "publishedAt": "2026-05-30T04:00:00Z",
-          "image": "https://i.guim.co.uk/img/media/f93c22cccd5636a57e1fbecf77b29b0ec336e15e/889_380_2135_1708/master/2135.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8e61718e7370a03d01d01613816912d",
-          "language": "en"
-        },
-        {
-          "title": "Albion told to ride the wave of support as Bloom backs Wembley glory bid",
-          "description": "Albion have been backed to ride a wave of emotion at Wembley as they go for Adobe WFA Cup glory.",
-          "url": "https://uk.sports.yahoo.com/news/albion-told-ride-wave-support-040000122.html",
-          "source": {
-            "name": "Yahoo Sports UK"
-          },
-          "publishedAt": "2026-05-30T04:00:00Z",
-          "image": "https://s.yimg.com/os/en/the_argus_uk_644/ef83b369e7c2f5cf8c1c39254cba7469",
-          "language": "en"
-        },
-        {
-          "title": "Cricket: Captain Tom Latham praises Tom Blundell, Nathan Smith, after Black Caps trounce Ireland",
-          "description": "New Zealand wrapped up a one-sided test victory over Ireland in Belfast.",
-          "url": "https://www.rnz.co.nz/news/sport/596823/cricket-captain-tom-latham-praises-tom-blundell-nathan-smith-after-black-caps-trounce-ireland",
+          "title": "Massive marine predator crowned T rex of the ocean and 'a true terror of its time'",
+          "description": "Tylosaurus rex was a giant marine reptile that ruled prehistoric seas.",
+          "url": "https://www.rnz.co.nz/news/science-and-technology/596835/massive-marine-predator-crowned-t-rex-of-the-ocean-and-a-true-terror-of-its-time",
           "source": {
             "name": "RNZ"
           },
-          "publishedAt": "2026-05-30T03:57:02Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--Mak_KgpP--/t_tohu-badge-facebook/v1780110796/4JNVFKW_260529IrelandNZLTest_042_JPG?_a=BACCd2AD",
+          "publishedAt": "2026-05-30T07:15:48Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--WuDRtLkw--/t_tohu-badge-facebook/v1780119801/4JNT43W_AFP__20260126__MHA600052P__v1__HighRes__TylosaurusHuntingAShark_jpg?_a=BACCd2AD",
           "language": "en"
         },
         {
-          "title": "WFI relents, allows Vinesh Phogat to compete in 53kg category at Asiad trials",
-          "description": "WFI permitted former world championships medallist Vinesh Phogat to compete in the women's 53kg category at the Asian Games selection trials in New Delhi",
-          "url": "https://www.thehindu.com/sport/other-sports/wfi-relents-allows-vinesh-phogat-to-compete-in-53kg-category-at-asiad-trials/article71040177.ece",
+          "title": "Ebola: Leaders ask healthcare workers to increase vigilance",
+          "description": "Ebola outbreak puts spotlight on infection control in hospitals",
+          "url": "https://www.monitor.co.ug/uganda/news/national/ebola-leaders-ask-healthcare-workers-to-increase-vigilance--5478740",
+          "source": {
+            "name": "Daily Monitor"
+          },
+          "publishedAt": "2026-05-30T07:15:00Z",
+          "image": "https://www.monitor.co.ug/resource/blob/5478746/b693390540bcced4ca004fad2f84fce0/latest04pix-data.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Arne Slot sacked by Liverpool, plus Champions League final buildup - matchday live",
+          "description": "Arne Slot has left Liverpool ‘with immediate effect’ after two years in charge, with Andoni Iraola among the frontrunners to replace him",
+          "url": "https://www.theguardian.com/football/live/2026/may/30/champions-league-final-buildup-world-cup-news-transfers-and-more-matchday-live",
+          "source": {
+            "name": "The Guardian"
+          },
+          "publishedAt": "2026-05-30T07:15:00Z",
+          "image": "https://i.guim.co.uk/img/media/a009bbe51115e043fc8650571af6fbc4482ce3cd/686_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=efa3ba4455a1e4124e61d346487f6077",
+          "language": "en"
+        },
+        {
+          "title": "ATDF-SA office bearer arrested for inciting violence on N3 near Bergville",
+          "description": "A national office bearer of the All Truck Driver Forum South Africa has been arrested after allegedly inciting violence and disrupting traffic along the N3 near Bergville in the early hours of Saturday morning.",
+          "url": "https://iol.co.za/news/crime-and-courts/2026-05-30-atdf-sa-office-bearer-arrested-for-inciting-violence-on-n3-near-bergville/",
+          "source": {
+            "name": "IOL"
+          },
+          "publishedAt": "2026-05-30T07:14:50Z",
+          "image": "https://iol-prod.appspot.com/image/21088c6f629571e0acfae6f186ba7de02de5ca4a/960/jpeg",
+          "language": "en"
+        },
+        {
+          "title": "Whistleblower alleges major flaws in University of Sunshine Coast research",
+          "description": "The vaccine a decade in the making had been heralded as a cure for one of the biggest koala killers out there.",
+          "url": "https://www.brisbanetimes.com.au/national/queensland/crazy-mistake-undermines-historic-koala-chlamydia-vaccine-researcher-says-20260530-p6026b.html",
+          "source": {
+            "name": "Brisbane Times"
+          },
+          "publishedAt": "2026-05-30T07:14:18Z",
+          "image": "https://static.ffx.io/images/$zoom_0.16860566301779814%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_90/t_crop_custom/q_86%2Cf_auto/8d782dd7bfbff0ff7d63e05f446f1eeab4c9650f",
+          "language": "en"
+        },
+        {
+          "title": "Airbnb leases 46,000 sq ft for GCC in DLF Cyber City Gurugram",
+          "description": "Airbnb will pay a monthly rent of around ₹61.53 lakh for a five-year tenure, with a 5% rent escalation annually",
+          "url": "https://www.livemint.com/companies/news/airbnb-gcc-india-dlf-cyber-city-gurugram-global-capability-centers-11780120469220.html",
+          "source": {
+            "name": "Mint"
+          },
+          "publishedAt": "2026-05-30T07:12:38Z",
+          "image": "https://www.livemint.com/lm-img/img/2026/05/30/1600x900/logo/2-0-291220118-000-Par8154041-0_1680518918992_1780124614634_0311a677-0596-4b27-8942-3e25e8cd6a72.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Israel-Iran war LIVE: U.S. 'more than capable' of resuming war with Iran, says Hegseth",
+          "description": "Track the U.S.-Iran 60-day ceasefire terms, Trump's peace deal terms, Strait of Hormuz news and Israeli military strikes in Lebanon. Follow The Hindu LIVE blog.",
+          "url": "https://www.thehindu.com/news/international/iran-israel-war-live-strait-of-hormuz-trump-peace-deal-updates-on-may-30-2026/article71040085.ece",
           "source": {
             "name": "The Hindu"
           },
-          "publishedAt": "2026-05-30T03:56:25Z",
-          "image": "https://th-i.thgim.com/public/news/national/zdgyvs/article71040429.ece/alternates/LANDSCAPE_1200/vinesh%20phogat%20wfi%20asian%20games%20trials.jpeg",
-          "language": "en"
-        },
-        {
-          "title": "Trump in ‘excellent health’ and ‘fully fit’ to serve, his physician says",
-          "description": "The exam, which the US president described as a six-month physical, was his fourth publicly disclosed medical exam since he returned to office for a second term.",
-          "url": "https://www.smh.com.au/world/north-america/trump-in-excellent-health-and-fully-fit-to-serve-his-physician-says-20260530-p6026o.html",
-          "source": {
-            "name": "SMH.com.au"
-          },
-          "publishedAt": "2026-05-30T03:55:08Z",
-          "image": "https://static.ffx.io/images/$zoom_0.4351%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/43419362a1dcdd1cfb780b34dc33c22f0b6ef206",
+          "publishedAt": "2026-05-30T07:10:24Z",
+          "image": "https://th-i.thgim.com/public/incoming/meve98/article71040537.ece/alternates/LANDSCAPE_1200/2026-05-30T061635Z_226904642_RC2FJLAO6Z4F_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL.JPG",
           "language": "en"
         }
       ]
