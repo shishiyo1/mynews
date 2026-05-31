@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-05-31T08:47:56.545Z",
+  "updatedAt": "2026-05-31T10:59:10.575Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "パリ・サンジェルマン連覇、欧州サッカーの多様性示す 欧州CL決勝",
+          "description": "サッカーの欧州チャンピオンズリーグ（CL）は30日、ブダペストで決勝が行われ、パリ・サンジェルマン（フランス）がアーセナル（イングランド）を下して2年連続2度目の優勝を果たした。延長を終えて1-1で、PK戦を4-3で制した。パリSGは6分に先制を許したが、65分にデンベレがPKを決めて同点とし、PK戦は5人中4人が成功した。20季ぶりに決勝に進出したアーセナルはハーバーツの先制点の後、追加点を奪えなかった。",
+          "url": "https://www.nikkei.com/article/DGXZQODH3038G0Q6A530C2000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-05-30T22:34:50Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3098276031052026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.24&fp-y=0.62&h=630&w=1200&s=b5f20c660e1b18e7f0f6fd46ccd5cb1b",
+          "language": "ja"
+        },
+        {
+          "title": "timelesz橋本将生、映画初主演 『お姉ちゃんの翠くん』実写化でヒロインは中島瑠菜「最高の作品づくりができたら」",
+          "description": "ニュース｜　8人組グループ・timeleszの橋本将生が、12月4日公開『お姉ちゃんの翠くん』で映画初主演を務めることが決定した。目黒あむ氏の大人気同名コミック（集英社刊）を実写化。橋本演じる姉の彼氏・雪代翠（ゆきしろ・みどり）に恋した女子高生・スイによる切ないラブストーリーを描く。スイ役は日本アカデミー賞新人賞を受賞した中島瑠菜が務める。　女子高生のスイは、お姉ちゃんの彼氏・翠くんが苦手。子供扱いしてからかってくる彼のことがムカつく！…と思っていたのに、受験勉強をきっかけに距離が近づき、彼の意外な優しさを知るにつれ、スイはいつしか恋に落ちてしまう…。",
+          "url": "https://www.oricon.co.jp/news/2457555/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-05-30T22:00:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2458000/2457555/20260528_180028_p_o_32666519.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【競馬予想】日本ダービーでロブチェンは△ 高配当ゲットを目指す美人勝負師の大胆な狙い目",
+          "description": "美人勝負師の最終結論熊江琉衣～日本ダービー編ダービーの予想をしてくれた熊江琉衣さん　photo by Goh Fujimaki　先週のＧⅠオークスでは、馬連と３連複の馬券が的中！　この勢いに乗って、ＧⅠ日本ダービー（５月31日／東京・芝2…",
+          "url": "https://sportiva.shueisha.co.jp/clm/keiba/keiba/2026/05/31/post_79/",
+          "source": {
+            "name": "webスポルティーバ"
+          },
+          "publishedAt": "2026-05-30T21:50:17Z",
+          "image": "https://sportiva.shueisha.co.jp/clm/keiba/keiba/2026/images/kumaesan-darby.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "台風6号 明日1日「強い」勢力で沖縄に接近 暴風・猛烈なしけ・大雨・高潮に警戒",
+          "description": "台風6号は明日1日(月)から2日(火)にかけて、強い勢力で沖縄地方に接近する見込みです。暴風や猛烈なしけ、警報級の大雨、高潮に警戒が必要です。また、3日(水)から4日(木)には西日本や東日本にも影響を及ぼす見通しです。",
+          "url": "https://tenki.jp/forecaster/y_maki/2026/05/31/39118.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-05-30T21:35:49Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/391/39118/main/20260531060203/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『マインクラフト』秋のアプデでついに“紅葉”実装、建築勢待望「羊毛のハーフブロック」も来る。さらに次回アプデ「カオス・キューブド」配信日など、新情報たっぷり「マインクラフト ライブ」特別回まとめ",
+          "description": "Mojang Studiosは5月31日、「Minecraft LIVE（マインクラフト ライブ）」を放送した。第3弾ゲームドロップの一部内容など新情報がたっぷりと明かされている。",
+          "url": "https://automaton-media.com/articles/newsjp/minecraft-live-20260531-446155/",
+          "source": {
+            "name": "AUTOMATON"
+          },
+          "publishedAt": "2026-05-30T21:21:11Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/05/minecraft-live-20260531-446155-header.jpg",
+          "language": "ja"
+        },
         {
           "title": "小山薫堂氏、嵐は「普通」持ち続けたから国民的グループに ５年に１回でも良いんで同窓会見たい",
           "description": "嵐の5人とゆかりのある著名人らが登場するインタビュー企画「感謝の嵐」最終回は、今日31日で活動にピリオドを打つ5人の姿を15年にわたって見つめてきた放送作家・… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-05-30T16:44:17Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260530-00000417-spnannex-000-19-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "嵐ラストライブ「通信＆カラオケ」パニックを回避せよ（1/4ページ）",
-          "description": "2026年5月31日。日本中の時計が止まるような錯覚さえ覚える一日がやってくる。活動休止から再集結を経て、ついに迎える国民的アイドルグループ・嵐のラストライブ『ARASHI LIVE TOUR 2026「We are ARASHI」』が東…",
-          "url": "https://www.zakzak.co.jp/article/20260530-ZH76AFEQQNDUND6XTJ6J7ALWRM/",
-          "source": {
-            "name": "zakⅡ"
-          },
-          "publishedAt": "2026-05-30T15:44:33Z",
-          "image": "https://www.zakzak.co.jp/resizer/v2/OSDQVD5XNFF7JPLYY53IOGNU2E.JPG?auth=c48cb76a13011c1f123ff3bb067cc4f7a52585960e232c7a8df6df8f3f567bc0&quality=50&smart=true&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "リヴァプール、スロット監督の即時退任を発表…就任1年目でプレミア制覇も今季は苦戦5位フィニッシュ",
-          "description": "リヴァプールは30日、アルネ・スロット監督が即時退任することを発表した。なお、後任に関しては、現在選定中であることが伝えられている。 　現在47歳のスロット監···",
-          "url": "https://www.soccer-king.jp/news/world/eng/20260530/2165201.html",
-          "source": {
-            "name": "サッカーキング"
-          },
-          "publishedAt": "2026-05-30T11:46:55Z",
-          "image": "https://www.soccer-king.jp/wp-content/uploads/2026/05/260530_slot.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「ありがとね」綾瀬はるかさんと大悟さん、是枝裕和監督が方言で沸かせる 舞台あいさつ全文",
-          "description": "広島県府中町の映画館で30日にあった是枝裕和監督のSF映画「箱の中の羊」の公開記念舞台あいさつでは、綾瀬はるかさんと大悟さん、是枝監督が登壇し、県内ロケの思い出や映画の魅力を語った。夫婦役を演じた...",
-          "url": "https://www.chugoku-np.co.jp/articles/-/839674",
-          "source": {
-            "name": "中国新聞デジタル"
-          },
-          "publishedAt": "2026-05-30T11:30:00Z",
-          "image": "https://chugoku-np.ismcdn.jp/mwimgs/1/8/-/img_182d14267ea363b6aeb436d5a11733572417751.png",
-          "language": "ja"
-        },
-        {
-          "title": "最新情報ーリゾートトラスト レディスー明日へひとこと",
-          "description": "一般社団法人日本女子プロゴルフ協会(JLPGA)の公式サイトです。",
-          "url": "https://www.lpga.or.jp/news/info/81645",
-          "source": {
-            "name": "日本女子プロゴルフ協会"
-          },
-          "publishedAt": "2026-05-30T09:39:42Z",
-          "image": "https://cdn.lpga.or.jp/lpga/cms/2026/05/30/xl/f2854d98475ab6e2a3a98d0d4fadfc69b7718be1.jpg?1780145483",
-          "language": "ja"
-        },
-        {
-          "title": "「名探偵プリキュア！×名探偵コナン」コラボ、各作品の声優キャストからコメント到着",
-          "description": "『名探偵プリキュア！』コラボに向けた各声優コメントが到着。「ダークですけど」と前置きし、約15年前の『ハートキャッチプリキュア！』で演じた敵戦士「ダークプリキュア」に触れた。どういうわけか『コナン』関連商品がプリキュア公式ショップ内で並ぶことに。エンスカイ、サンスター文具、バンダイからも各種グッズが登場へ",
-          "url": "https://news.denfaminicogamer.jp/news/260530h",
-          "source": {
-            "name": "電ファミニコゲーマー"
-          },
-          "publishedAt": "2026-05-30T09:30:00Z",
-          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/5f4d7bbe9c30b0a5ef400472727ab79f-1024x576.png",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Boom in Boston Area Puzzles Residents. There Are ‘Hints’ It Was a Meteorite.",
-          "description": "A fireball reached 75,000 miles per hour before breaking up miles above New England, NASA said, causing a boom that alarmed residents. The incident followed a similar event in South Carolina.",
-          "url": "https://www.nytimes.com/2026/05/30/us/boston-area-boom.html",
+          "title": "Ebola shows world unprepared for next pandemic, ex-US CDC head says",
+          "description": "Tom Frieden called the latest outbreak of the deadly disease a ‘stress test’ that the world is failing so far.",
+          "url": "https://www.scmp.com/news/world/article/3355435/ebola-shows-world-unprepared-next-pandemic-ex-us-cdc-head-says",
           "source": {
-            "name": "The New York Times"
+            "name": "South China Morning Post"
           },
-          "publishedAt": "2026-05-30T20:44:55Z",
-          "image": "https://static01.nyt.com/images/2026/05/30/multimedia/30nat-boom-boom-gfzp/30nat-boom-boom-gfzp-facebookJumbo.jpg",
+          "publishedAt": "2026-05-30T22:57:38Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/31/d915dd8d-fd01-4d1f-8327-52231609eca4_8aef7922.jpg?itok=GUZmpRMa&v=1780181852",
           "language": "en"
         },
         {
-          "title": "Donald Trump Offers to Perform at Freedom 250 Concert Himself",
-          "description": "Donald Trump offered to perform at his upcoming Freedom 250 concert as scheduled artists continued to drop out.",
-          "url": "https://www.rollingstone.com/music/music-news/donald-trump-freedom-250-concert-performance-1235569923/",
+          "title": "Microsoft is killing every ancient Windows 11 dialog box with a modern rewrite, and file copy is already done",
+          "description": "Microsoft is working on a major redesign of all existing legacy dialog boxes in Windows 11, and it's going to be more than just a dark theme.",
+          "url": "https://www.windowslatest.com/2026/05/31/microsoft-is-killing-every-ancient-windows-11-dialog-box-with-a-modern-rewrite-and-file-copy-is-already-done/",
           "source": {
-            "name": "Rolling Stone"
+            "name": "Windows Latest"
           },
-          "publishedAt": "2026-05-30T20:44:30Z",
-          "image": "https://www.rollingstone.com/wp-content/uploads/2026/05/GettyImages-2278476004-1.jpg?w=1600&h=900&crop=1",
+          "publishedAt": "2026-05-30T22:56:44Z",
+          "image": "https://www.windowslatest.com/wp-content/uploads/2026/05/Windows-11-legacy-dialog-UI.jpg",
           "language": "en"
         },
         {
-          "title": "Rabid bat found in residential area triggers warning from police",
-          "description": "A rabid bat found near a Bay Area residential neighborhood has sparked a warning from the police about the dangerous exposure to humans and pets.",
-          "url": "https://www.yahoo.com/news/us/articles/rabid-bat-found-residential-area-204140490.html",
+          "title": "Ancient Buddhist Stupa Found in Central Java Dates Back to 8th Century",
+          "description": "Archaeologists from the Central Java Cultural Heritage Preservation Office estimate that the discovery of a stupa in Nepen Village, Boyolali, dates back to the 8th-10th century AD.",
+          "url": "https://en.tempo.co/read/2106059/ancient-buddhist-stupa-found-in-central-java-dates-back-to-8th-century",
           "source": {
-            "name": "Yahoo"
+            "name": "Tempo.co English"
           },
-          "publishedAt": "2026-05-30T20:41:40Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/affcf5bc774356b5cf92b1caa68484ee47bf6092b856c895bd86e0ece15a4221/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2Fa101feae01576f63a9db4930c8c7ef1e",
+          "publishedAt": "2026-05-30T22:55:40Z",
+          "image": "https://statik.tempo.co/data/2026/05/26/id_1474840/1474840_720.jpg",
           "language": "en"
         },
         {
-          "title": "Tanzania’s historic road to the TotalEnergies CAF U-17 AFCON final",
-          "description": "Tanzania will play in the final of the TotalEnergies CAF Under-17 Africa Cup of Nations for the first time after completing one of the most remarkable runs of the Morocco 2026 tournament.",
-          "url": "https://www.cafonline.com/caf-u-17-africa-cup-of-nations/news/tanzania-s-historic-road-to-the-totalenergies-caf-u-17-afcon-final/",
+          "title": "PSG supporters spill onto Paris streets, some clashes with police",
+          "description": "Footage aired on news channel BFM showed scenes of tension and brief skirmishes around PSG's Parc de Princes stadium in western Paris.",
+          "url": "https://www.cnbc.com/2026/05/30/psg-supporters-spill-onto-paris-streets-some-clashes-with-police.html",
           "source": {
-            "name": "Confédération Africaine de Football"
+            "name": "CNBC"
           },
-          "publishedAt": "2026-05-30T20:40:21Z",
-          "image": "https://www.cafonline.com//media/ugpalywf/tanzania-team-picture-during-the-2026-u17-africa-cup-of-nations-semifinals-match-between-egypt-and-tanzania.jpg?width=1200",
+          "publishedAt": "2026-05-30T22:55:21Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108314227-1780181477429-gettyimages-2278318546-AFP_B4HT8LN.jpeg?v=1780181487&w=1920&h=1080",
           "language": "en"
         },
         {
-          "title": "The BookKeeper: Champions League worth £127m to PSG, £125m to Arsenal - here’s what every team earned",
-          "description": "How much each Champions League team earned this season and what it means for the finances of PSG and Arsenal in particular",
-          "url": "https://www.nytimes.com/athletic/7319584/2026/05/30/arsenal-psg-champions-league-money-payments/",
+          "title": "Frankie Valli cancels remainder of Four Seasons’ farewell tour",
+          "description": "Frankie Valli, whose legendary falsetto defines the sound of the 1960s rock group the Four Seasons, has cancelled the remainder of the band’s 2026 tour dates",
+          "url": "https://abcnews.com/Entertainment/wireStory/frankie-valli-cancels-remainder-seasons-farewell-tour-citing-133455818",
           "source": {
-            "name": "The New York Times"
+            "name": "ABC News - Breaking News, Latest News and Videos"
           },
-          "publishedAt": "2026-05-30T20:39:22Z",
-          "image": "https://static01.nyt.com/athletic/uploads/wp/2026/05/30160600/GettyImages-2278294426-scaled-e1780171596681.jpg?width=1200&height=630&fit=cover",
+          "publishedAt": "2026-05-30T22:54:55Z",
+          "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
           "language": "en"
         },
         {
-          "title": "old Gurshabad Singh who died after escaping Auckland school van",
-          "description": "On Monday afternoon, eight-year-old Gurshabad Singh’s parents received the call that shattered their lives. Their only son had escaped a school van unnoticed...",
-          "url": "https://www.nzherald.co.nz/nz/auckland/grieving-parents-tribute-to-8-year-old-gurshabad-singh-who-died-after-escaping-auckland-school-van/FQYT3GKZMBCKJOYUEFIT674DOA/",
+          "title": "Champions League final: Arsenal transfer news latest as Mikel Arteta reveals \"ambitious\" plans after PSG penalties defeat",
+          "description": "Arsenal boss Mikel Arteta addresses his desire for an ambitious summer after his side's defat to Paris Saint-Germain in the Champions League final on Saturday.",
+          "url": "https://www.sportsmole.co.uk/football/arsenal/champions-league/news/arteta-reveals-ambitious-transfer-plans-to-boost-spirits-after-ucl-loss-to-psg_598447.html",
           "source": {
-            "name": "NZ Herald"
+            "name": "Sports Mole"
           },
-          "publishedAt": "2026-05-30T20:36:37Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/MTGVVO63AFD3NI5V742ZNDCD4E.jpg?auth=3b12771ad7e6bf372dc84391a5f92694f26ab85ae680eee59dcc78008a5c52f6&width=1200&height=675&quality=70&focal=1315%2C726&smart=false",
+          "publishedAt": "2026-05-30T22:54:00Z",
+          "image": "https://www.sportsmole.co.uk/thumbor/p9qrV1B-gNhDaLfQUeZ5Yu2wxow=/720x410/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F05%2Farne-slot-mo-salah-correspondent-duplicated-email-sportmole-6a1b68af51b19647904873.jpg",
           "language": "en"
         },
         {
-          "title": "Arsenal suffer heartbreaking end to epic season",
-          "description": "Gunners beaten 4-3 in penalty shootout as PSG win Champions League final",
-          "url": "https://www.premierleague.com/en/news/4672287/arsenal-suffer-heartbreaking-end-to-epic-season",
+          "title": "Principal's Husband Begs Makinde for Rescue",
+          "description": "The husband of an abducted Oyo principal tearfully appeals to Governor Makinde for urgent intervention to rescue his wife and other victims from captivity.",
+          "url": "https://punchng.com/video-abducted-oyo-principals-husband-breaks-down-in-tears-begs-makinde-for-urgent-rescue/",
           "source": {
-            "name": "Premier League"
+            "name": "Punch Newspapers"
           },
-          "publishedAt": "2026-05-30T20:35:57Z",
-          "image": "https://resources.premierleague.pulselive.com/premierleague/photo/2026/05/30/de23616c-8cd9-43f5-9f03-74d2864bd9cd/Collage-of-Kai-Havertz-consoling-Arsenal-team-mate-Gabriel-alongside-a-photo-of-Paris-Saint-Germain-captain-Marquinhos-celebrating-with-the-UEFA-Champions-League-trophy.png",
+          "publishedAt": "2026-05-30T22:52:48Z",
+          "image": "https://cdn.punchng.com/wp-content/uploads/2026/05/30234611/711331230_1051175700779169_6461191700008772530_n.webp",
           "language": "en"
         },
         {
-          "title": "Lilian has deleted Hinge hundreds of times. Now she's trying a live dating show",
-          "description": "Dating apps have been losing users in recent years. What's emerging, experts say, isn't just a trend.",
-          "url": "https://www.sbs.com.au/news/article/lilian-has-deleted-dating-apps-shes-not-the-only-one-done-with-swiping/qpndvo16b",
+          "title": "Mr Skelly animations tackling human themes of death, loss winning over fans worldwide",
+          "description": "An animation series tackling themes of grief, regret, love and gratitude has attracted an online fanbase of millions — and reflects the artist's search for peace and beauty.",
+          "url": "https://www.abc.net.au/news/2026-05-31/mr-skelly-animation-creator-christian-watson-tasmania/106693192",
           "source": {
-            "name": "SBS Australia"
+            "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-05-30T20:35:02Z",
-          "image": "https://assets.sbs.com.au/dims4/default/cc71d2f/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Ff7%2F7b%2F0e565f3f4073ab15014e42310474%2Fdating-apps-are-dead-header.png",
+          "publishedAt": "2026-05-30T22:51:23Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/4def0aa5c48c68e9cfd2621d0e2a9dfd?impolicy=wcms_watermark_news&cropH=782&cropW=1390&xPos=0&yPos=88&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Jamie Lee Curtis announces death of ‘talented’ actress sister Kelly aged 69",
-          "description": "The 67-year-old said her sister had died ‘in her home, in nature, at peace’.",
-          "url": "https://www.breakingnews.ie/entertainment/jamie-lee-curtis-announces-death-of-talented-actress-sister-kelly-aged-69-1907251.html",
+          "title": "Man charged after wild brawl at Sydney soccer match",
+          "description": "A man has been charged after a wild brawl broke out at a soccer match in southwest Sydney, where an 18-year...",
+          "url": "https://www.9news.com.au/national/man-charged-brawl-sydney-soccer-match/dd1126d2-9f8d-4df0-a184-b75665bbfff5",
           "source": {
-            "name": "BreakingNews.ie"
+            "name": "9News"
           },
-          "publishedAt": "2026-05-30T20:33:39Z",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDVcXFwvMzAyMTI5MjVcXFwvMi4zODk0NjkxNy5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImJhYTU0YTlkNDBhNjNhM2U3MjQ0YjU3NjQyZDI4MjUwZTNmMDU4ZDAifQ==/jamie-lee-curtis-announces-death-of-talented-actress-sister-kelly-aged-69.jpg",
+          "publishedAt": "2026-05-30T22:49:51Z",
+          "image": "https://imageresizer.static9.net.au/W79gMtl-euaQ2DeGclzuFK506AQ=/0x0:1288x725/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F83995213-13a2-43e8-b292-a3653175da21",
           "language": "en"
         },
         {
-          "title": "'Nobody is going to take the pain away from you'",
-          "description": "Gunners boss ready to go again",
-          "url": "https://www.101greatgoals.com/football/champions-league/mikel-arteta-reflects-on-agonizing-champions-league-final-defeat-against-psg-nobody-is-going-to-take-the-pain-away-from-you/",
+          "title": "Graham Platner sent explicit texts to other women during marriage, wife confirms",
+          "description": "Amy Gertner, wife of Democratic Senate candidate in Maine, says she is ‘hurt’ ex-political director exposed texts",
+          "url": "https://www.theguardian.com/us-news/2026/may/30/graham-platner-explicit-texts-senate-maine",
           "source": {
-            "name": "101 Great Goals"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-05-30T20:33:17Z",
-          "image": "https://www.101greatgoals.com/wp-content/uploads/2026/05/3EJYBCB-1.jpg",
+          "publishedAt": "2026-05-30T22:49:00Z",
+          "image": "https://i.guim.co.uk/img/media/ac2b149b4dfa2853a0830993099e71f10d0ee29a/185_0_3288_2632/master/3288.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b586e93dda1b74296be0f614f5533d57",
           "language": "en"
         }
       ]
