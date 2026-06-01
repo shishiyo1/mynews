@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-01T11:37:38.413Z",
+  "updatedAt": "2026-06-01T17:42:21.496Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "【台風6号】東京に3日最接近、警報級の大雨や暴風おそれ 2日～4日の予想雨量・風の強さは",
-          "description": "台風6号は3日に暴風域を伴ったまま関東甲信地方に接近するおそれがあり、東京都では暴風や警報級の大雨に厳重な警戒が必要になる。最接近の時期や予想雨量、風の強さ、注意すべきポイントを気象庁の情報を基にまとめた。台風6号、東京都に最接近いつ台風6号は、6月1日午前6時時点で宮古島の東南東にあり、1時間におよそ15キロの速さで北へ進んでいる。",
-          "url": "https://www.fukuishimbun.co.jp/articles/-/2614765",
+          "title": "AMD、新CPU「Ryzen 7 7700X3D」を発表。Socket AM5のサポートは2029年まで延長へ",
+          "description": "「AM4」の10周年を記念した「Ryzen 7 5800X3D」限定モデルや、新GPU「Radeon RX 9070 GRE」のグローバル展開なども発表されている",
+          "url": "https://news.denfaminicogamer.jp/news/260601z",
           "source": {
-            "name": "福井新聞社"
+            "name": "電ファミニコゲーマー"
           },
-          "publishedAt": "2026-05-31T23:01:00Z",
-          "image": "https://fki.ismcdn.jp/mwimgs/6/d/-/img_6d695e45bfc13d90622d9ef8414d318a221527.jpg",
+          "publishedAt": "2026-06-01T05:26:00Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/vlcsnap-2026-06-01-14h03m39s502.png",
           "language": "ja"
         },
         {
-          "title": "嵐ラストメッセージ 涙の大野智「嵐はこれからも生き続けます」全メンバーがファンへ感謝30分あいさつ",
-          "description": "5月31日の東京ドーム公演でグループ活動を終了した嵐。メンバー5人は26年半にわたる活動を振り返り、時折涙を浮かべながらファンへの感謝をステージで述べた。異…",
-          "url": "https://www.sponichi.co.jp/entertainment/news/2026/06/01/kiji/20260601s00041000042000c.html",
+          "title": "【速報】九州南部が梅雨入り 平年より2日遅く長雨の季節に突入",
+          "description": "今日1日、気象庁は九州南部が「梅雨入りしたとみられる」と発表しました。平年より2日遅く、長雨の季節に突入です。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/06/01/38978.html",
           "source": {
-            "name": "スポニチ Sponichi Annex"
+            "name": "tenki.jp"
           },
-          "publishedAt": "2026-05-31T23:00:03Z",
-          "image": "https://www.sponichi.co.jp/entertainment/news/2026/06/01/jpeg/20260601s10041000028000p_view.webp",
+          "publishedAt": "2026-06-01T05:01:37Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/38/389/38978/main/20260519205519/large.jpg",
           "language": "ja"
         },
         {
-          "title": "デル・テクノロジーズ、Alienwareの30周年を記念し、Computexで4つのモニター新製品を発表",
-          "description": "デル・テクノロジーズ株式会社のプレスリリース（2026年6月1日 08時00分）デル・テクノロジーズ、Alienwareの30周年を記念し、Computexで4つのモニター新製品を発表",
-          "url": "https://prtimes.jp/main/html/rd/p/000000412.000025237.html",
+          "title": "観光客が殺到 好調な「江ノ電」が直面する“設備投資できない”ジレンマ",
+          "description": "観光需要の高まりを背景に、江ノ電の経営は好調だ。一方で、ピーク時の混雑率は146％に達し、車内混雑は深刻化している。本来なら増発や設備投資で対応したいところだが、江ノ電は「したくてもできない」というジレンマに直面している。なぜなのか。",
+          "url": "https://www.sankei.com/article/20260601-BSGXZM64XZKABNCRJX7S3UY3S4/",
+          "source": {
+            "name": "産経ニュース"
+          },
+          "publishedAt": "2026-06-01T05:00:00Z",
+          "image": "https://www.sankei.com/resizer/v2/F6FNUMXA2VJF5ADG7KI44YR3K4.jpg?auth=17d9044eea1237a152d1fab7d09e509b88f78119a8f3d70034edd58189a66546&quality=50&focal=866%2C628&width=1200&height=675",
+          "language": "ja"
+        },
+        {
+          "title": "小泉防衛相、日本の軍国主義を否定 中国の兵器「大量保有」を批判",
+          "description": "小泉進次郎防衛相は31日、シンガポールで開かれていた「アジア安全保障会議（シャングリラ・ダイアローグ）」で、日本が「新型軍国主義」に取り組んでいるという中国の主張に反論した。同時に、中国の軍事力拡大と透明性の欠如を批判した。",
+          "url": "https://www.bbc.com/japanese/articles/cqxpvxj1dr3o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-06-01T04:42:28Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_japanese/3b97/live/59436640-5d67-11f1-89a3-d1f559421220.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "MSIのポータブルゲーミングPC“Claw 8 EX AI+ Handheld”が発表。優れた電力効率を維持しながら、AAAタイトルを快適にプレイ可能",
+          "description": "MSIはポータブルゲーミングPC“Claw 8 EX AI+”を発表した。インテル初のポータブルゲーミングPCに最適化されたCPU“Arc G3 Extreme”が搭載される。",
+          "url": "https://www.famitsu.com/article/202606/76562",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-06-01T04:34:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/76562/thumbnail_ZCnm.jpg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "【東京６大学】早慶戦 慶大が勝てば５季ぶりＶ 早大が勝てば明大が優勝／速報中",
+          "description": "早慶戦は1勝1敗で3回戦。慶大が勝てば23年秋以来となる5季ぶり41度目の優勝。敗れると、明大の優勝が決まる。|チーム|１|２|３|４|５|６|７|８|９|計… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/baseball/news/202606010000315.html",
+          "source": {
+            "name": "日刊スポーツ"
+          },
+          "publishedAt": "2026-06-01T04:22:00Z",
+          "image": "https://www.nikkansports.com/baseball/news/img/202606010000315-w500_0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "イスラエル、レバノンで地上戦を拡大 南部の城塞を制圧",
+          "description": "イスラエル軍は5月31日、レバノン南部の戦略的要衝であるボーフォート城を制圧したと発表した。イスラエルのネタニヤフ首相はこれを、レバノンのイスラム教シーア派組織ヒズボラに対する攻撃における「決定的な転換点」だと述べた。",
+          "url": "https://www.bbc.com/japanese/articles/czx2l6e9yq4o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-06-01T04:12:28Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_japanese/22ea/live/21fd5600-5cdb-11f1-89a3-d1f559421220.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "リモートプレイ特化の携帯型ゲーム機「Acer Nitro Blaze Link」発表。ゲーミングPCからWi",
+          "description": "Acerは5月31日、携帯型PCゲーム機「Nitro Blaze Link」を発表した。",
+          "url": "https://automaton-media.com/articles/newsjp/20260601-446303/",
+          "source": {
+            "name": "AUTOMATON"
+          },
+          "publishedAt": "2026-06-01T04:05:19Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260601-446303-header.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "タスクバーに続き［スタート］画面も改善、押しつけがましい“おすすめ”廃止、ユーザー名も表示オフ可能に",
+          "description": "このコーナーでは、「Windows 11 Insider Preview」ビルドでテストされている最新のOS機能を紹介します。ただし、テストの結果、紹介した機能が製品版OSに搭載されないこともあります。あらかじめご留意ください。",
+          "url": "https://forest.watch.impress.co.jp/docs/news/insiderpre/2113254.html",
+          "source": {
+            "name": "窓の杜"
+          },
+          "publishedAt": "2026-06-01T04:05:00Z",
+          "image": "https://forest.watch.impress.co.jp/img/wf/list/2113/254/image2.png",
+          "language": "ja"
+        },
+        {
+          "title": "『サマナーズウォー: Sky Arena』、「もうすぐ！グローバルリリース12周年イベント」を開催！",
+          "description": "株式会社 Com2uS Japanのプレスリリース（2026年6月1日 12時57分）『サマナーズウォー: Sky Arena』、「もうすぐ！グローバルリリース12周年イベント」を開催！",
+          "url": "https://prtimes.jp/main/html/rd/p/000000968.000009066.html",
           "source": {
             "name": "PR TIMES"
           },
-          "publishedAt": "2026-05-31T23:00:02Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/25237/412/25237-412-98d472940562c405d10d3d35e1d93337-911x398.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "石井裕也×池松壮亮「開戦前夜」7月公開、実在した総力戦研究所と日米開戦への流れ描く（動画あり / コメントあり）",
-          "description": "「本心」「人はなぜラブレターを書くのか」の石井裕也が監督・脚本・編集を担当した映画「開戦前夜」が、東京テアトル配給のもと7月31日より全国で公開される。",
-          "url": "https://natalie.mu/eiga/news/674197",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-05-31T23:00:00Z",
-          "image": "https://ogre.natalie.mu/media/news/eiga/2026/0531/kaisenzenya_poster20260531.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
-        },
-        {
-          "title": "599ドルのMacBook Neoキラー「XPS 13」がDellから登場！1kgで高スペック",
-          "description": "Dell Technologies(以下Dell)は、6月1日に報道発表を行ない、CESでの2026年モデル発表時にチラ見せしていた「XPS 13(DX13260)」を正式に発表した。",
-          "url": "https://pc.watch.impress.co.jp/docs/news/event/2113104.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-05-31T23:00:00Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2113/104/001.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "世界初の「5K RGBストライプ・タンデムOLEDパネル」搭載＝DellがComputexに向けてAlienwareゲーミングモニター4機種を発表",
-          "description": "世界初の「5K RGBストライプ・タンデムOLEDパネル」や「5-stack QD-OLED Penta Tandem」といった最先端テクノロジーを採用しているのが特徴だ。",
-          "url": "https://ascii.jp/elem/000/004/405/4405689/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-05-31T23:00:00Z",
-          "image": "https://ascii.jp/img/2026/05/28/4473491/xl/096e3461f1e2f8f1.png?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "６月１日の東京株式市場見通し＝弱含みの展開か 速報",
-          "description": "予想レンジ：６万５８００円－６万６６００円（５月２９日終値６万６３２９円５０銭）　６月１日の東京株式は、弱含みの展開か。５月２９日の米国株は、米国とイランの和平期待で上昇。ただ、その後、一致したとさ・・・",
-          "url": "https://kabushiki.jp/news/752844",
-          "source": {
-            "name": "kabushiki.jp"
-          },
-          "publishedAt": "2026-05-31T22:50:00Z",
-          "image": "https://kabushiki.jp/ogp.png",
-          "language": "ja"
-        },
-        {
-          "title": "注目株 - 株探ニュース",
-          "description": "この他の注目ニュースは本日の「朝刊」ニュース銘柄でご確認下さい。　本日、株価の動向が注目されるのは、２－４月期（１Ｑ）経常は５２％増益で着地したトリケミカル ＜４３６９＞ 、オアシス・マネジメントが大株主となったことが判明したニチレイ ＜２８７１＞ 、ビットコイン中心の戦略から本業主導の成長へと転換するコンヴァノ ＜６５７４＞ など・・・。",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202606010019",
-          "source": {
-            "name": "かぶたん"
-          },
-          "publishedAt": "2026-05-31T22:30:00Z",
-          "image": "https://async.api.kabutan.jp/og_image?title=%E4%BB%8A%E6%9C%9D%E3%81%AE%E6%B3%A8%E7%9B%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%EF%BC%81%E3%80%80%E2%98%85%E3%83%88%E3%83%AA%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%80%81%E3%83%8B%E3%83%81%E3%83%AC%E3%82%A4%E3%80%81%E3%82%B3%E3%83%B3%E3%83%B4%E3%82%A1%E3%83%8E%E3%81%AA%E3%81%A9%E3%81%AB%E6%B3%A8%E7%9B%AE%EF%BC%81",
-          "language": "ja"
-        },
-        {
-          "title": "交代遅延が命取りのW杯導入新ルール…久保建英「個人としては気をつけたい」",
-          "description": "[5.31 キリンチャレンジ杯 日本 1-0 アイスランド 国立]　日本代表のW杯壮行試合アイスランド戦では、W杯本大会でも採用される“時間稼ぎ防止”の新競技規則が適用され、日本の決勝ゴールはアイスランド側の違反を...",
-          "url": "https://web.gekisaka.jp/news/japan/detail/?452574-452574-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-05-31T22:11:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/453000/452574/news_452574_1.jpg?time=20260601071758",
-          "language": "ja"
-        },
-        {
-          "title": "子どもたちの“死”の責任をAI企業に問う闘い",
-          "description": "AIチャットボットが関与したとされる自殺が相次いでいる。OpenAIなどのテック企業には製造物に対する責任があると立ち上がった弁護士の志。",
-          "url": "https://wired.jp/article/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/",
-          "source": {
-            "name": "WIRED.jp"
-          },
-          "publishedAt": "2026-05-31T22:00:00Z",
-          "image": "https://media.wired.jp/photos/6a1919f7c4a185561c0f35f1/16:9/w_1280,c_limit/LMG-FOR-WIRED-Business-FINAL-SELECTS-1.jpg",
+          "publishedAt": "2026-06-01T03:57:54Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/9066/968/9066-968-e2a04c024207141750e8294b859f6f03-800x450.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Senegal win can help fans 'trust' US World Cup bid, says Pochettino",
-          "description": "Coach Mauricio Pochettino said the United States' impressive 3-2 friendly win over Senegal Sunday can help the American public trust in their national team as the country prepares to host the World Cup.…",
-          "url": "https://www.france24.com/en/live-news/20260531-senegal-win-can-help-fans-trust-us-world-cup-bid-says-pochettino",
+          "title": "Iran targets American base in region after US strikes Iranian air defences",
+          "description": "Attacks reported in Kuwait – home to a US military base – and around the strait of Hormuz in latest exchange of fire as peace negotiations continue",
+          "url": "https://www.theguardian.com/world/2026/jun/01/iran-strikes-us-military-base-kuwait-iranian-air-defences",
           "source": {
-            "name": "France 24"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-05-31T23:33:00Z",
-          "image": "https://s.france24.com/media/display/14c4cb58-5d49-11f1-bf7a-005056a97e36/w:1280/p:16x9/7b2b452a0caf23f5ece4719893e26b4facec0778.jpg",
+          "publishedAt": "2026-06-01T05:42:00Z",
+          "image": "https://i.guim.co.uk/img/media/f238fc42249ef1cd2e3fbbadcb2127a28827f0c6/869_0_4098_3282/master/4098.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e420aa10b7d33b156f3746823602f42",
           "language": "en"
         },
         {
-          "title": "YouTubers are setting box office records. It could change the future of moviemaking",
-          "description": "The biggest two movies in America right now, Backrooms and Obsession, come from twentysomething filmmakers who honed their craft on YouTube.",
-          "url": "https://www.rnz.co.nz/life/screens/youtubers-are-setting-box-office-records-it-could-change-the-future-of-moviemaking",
+          "title": "Former Apink member Hong Yoo Kyung announces pregnancy",
+          "description": "Former Apink member Hong Yoo Kyung has announced that she is expecting her first child.On May 31, Hong shared the news through her social media accou…",
+          "url": "https://www.allkpop.com/article/2026/06/former-apink-member-hong-yoo-kyung-announces-pregnancy",
           "source": {
-            "name": "RNZ"
+            "name": "Allkpop"
           },
-          "publishedAt": "2026-05-31T23:31:23Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--deSJgSoH--/t_tohu-badge-facebook/f_auto/q_auto/4JNWWDE_backrooms_avif",
+          "publishedAt": "2026-06-01T05:41:00Z",
+          "image": "https://www.allkpop.com/upload/2026/06/content/010141/web_data/allkpop_1780292750_30000667758-1280.jpg",
           "language": "en"
         },
         {
-          "title": "FDA approval puts Wockhardt’s Zaynich in $9 billion antibiotics market",
-          "description": "Wockhardt's new antibiotic, Zaynich, has received US FDA approval. This drug uses a novel mechanism to fight drug-resistant bacteria. It targets superbugs that resist current treatments. Zaynich offers a powerful synergy to overcome resistance. The drug has a significant market opportunity. Wockhardt anticipates market exclusivity until around 2038.",
-          "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/fda-approval-puts-wockhardts-zaynich-in-9-billion-antibiotics-market/articleshow/131429108.cms?from=mdr",
+          "title": "Uhuru, IGAD’s Kazibwe hold talks ahead of Ethiopia polls",
+          "description": "The two exchanged views on the state of preparedness ahead of the polls",
+          "url": "https://www.the-star.co.ke/news/2026-06-01-uhuru-igads-kazibwe-hold-talks-ahead-of-ethiopia-polls",
           "source": {
-            "name": "The Economic Times"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-05-31T23:31:00Z",
-          "image": "https://img.etimg.com/thumb/msid-131429122,width-1200,height-630,imgsize-103592,overlay-economictimes/articleshow.jpg",
+          "publishedAt": "2026-06-01T05:40:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/06/8a188c65-bfe3-46f4-89fe-120ec763ad72.png?1780294031613",
           "language": "en"
         },
         {
-          "title": "Nifty 500 firms dividend payout ratio sinks to seven-year low even as total payouts rise to Rs 4.94 lakh crore",
-          "description": "Nearly 18 firms more than doubled their dividend payouts, including Central Bank of India, UltraTech Cement, HBL Engineering, Neuland Laboratories, BHEL, JSW Steel, BLS International, Balrampur Chini, HPCL, Radico Khaitan, Craftsman Automation, Pidilite Industries, HFCL, JSW Dulux, Nuvama Wealth, Premier Energies, Trident, and Sobha.",
-          "url": "https://www.moneycontrol.com/news/business/earnings/nifty-500-firms-dividend-payout-ratio-sinks-to-seven-year-low-even-as-total-payouts-rise-to-rs-4-94-lakh-crore-13936681.html",
+          "title": "Study flags rising tobacco marketing targeting Nigerian women, girls",
+          "description": "A new study has flagged rising tobacco marketing targeting Nigerian women and girls, warning that tobacco companies are increasingly using...",
+          "url": "https://businessday.ng/health/article/study-flags-rising-tobacco-marketing-targeting-nigerian-women-girls/",
           "source": {
-            "name": "Moneycontrol.com"
+            "name": "Business News Nigeria"
           },
-          "publishedAt": "2026-05-31T23:30:15Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260502045016_stocks5.jpg",
+          "publishedAt": "2026-06-01T05:39:07Z",
+          "image": "https://cdn.businessday.ng/wp-content/uploads/2024/07/tobacco.jpg",
           "language": "en"
         },
         {
-          "title": "3 Singapore Blue-Chip Stocks Announcing Higher Profits and Dividends",
-          "description": "Explore three Singapore blue-chip stocks announcing higher profits and dividends, a great prospect for income investors.",
-          "url": "https://thesmartinvestor.com.sg/3-singapore-blue-chip-stocks-announcing-higher-profits-and-dividends/",
+          "title": "Teenagers on NSW Central Coast create student",
+          "description": "High school students have put on a music festival as part of their studies to get them into the industry.",
+          "url": "https://www.abc.net.au/news/2026-06-01/northwave-student-music-festival-created-nsw-central-coast/106743718",
           "source": {
-            "name": "The Smart Investor"
+            "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-05-31T23:30:00Z",
-          "image": "https://thesmartinvestor.com.sg/wp-content/uploads/2026/04/Pics-for-TSI-site-5.png",
+          "publishedAt": "2026-06-01T05:37:44Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/9f40b3271321f314da34044b1bad0983?impolicy=wcms_watermark_news&cropH=801&cropW=1423&xPos=252&yPos=215&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Alienware’s New 5K Curved Gaming Monitor Has Almost Too Much Going on",
-          "description": "It’s curved, supports 5K, uses \"RGB Stripe Tandem OLED,\" and, and, and...",
-          "url": "https://gizmodo.com/alienwares-new-5k-curved-gaming-monitor-has-almost-too-much-going-on-2000765420",
+          "title": "US-Iran war live updates: US Launches 'Self-Defence' Strikes On Iranian Drone Sites",
+          "description": "US-Iran war live updates: The remark by Mohammad Bagher Ghalibaf came as reports suggested US President Donald Trump has sent back a revised, tougher peace proposal",
+          "url": "https://www.ndtv.com/world-news/us-iran-war-live-updates-iran-to-revise-deal-draft-after-us-changes-us-iran-peace-proposal-iran-nuclear-programme-israel-lebanon-latest-news-11573481",
           "source": {
-            "name": "Gizmodo"
+            "name": "NDTV"
           },
-          "publishedAt": "2026-05-31T23:27:13Z",
-          "image": "https://gizmodo.com/app/uploads/2026/05/Alienware-39-5K-OLED-Gaming-Monitor_12-1200x675.jpg",
+          "publishedAt": "2026-06-01T05:37:37Z",
+          "image": "https://c.ndtvimg.com/2026-06/glc1p1bc_iran-war_625x300_01_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
           "language": "en"
         },
         {
-          "title": "Dell unveils $699 XPS 13 laptop in challenge to Apple's MacBook Neo",
-          "description": "May 31 (Reuters) - Dell ⁠on Sunday unveiled its most affordable laptop, XPS 13, as the ⁠PC maker aims to capture market share from Apple's MacBook Neo by ‌attracting students and young professionals.",
-          "url": "https://www.thestar.com.my/tech/tech-news/2026/06/01/dell-unveils-699-xps-13-laptop-in-challenge-to-apple039s-macbook-neo",
+          "title": "Right to be forgotten: Delhi High Court lays down guidelines for masking personal details in court orders",
+          "description": "The Court held that individuals may seek the removal or masking of personal information from online judicial records where continued accessibility causes disproportionate harm to their privacy and reputation.",
+          "url": "https://www.barandbench.com/news/right-to-be-forgotten-delhi-high-court-lays-down-guidelines-for-masking-personal-details-in-court-orders",
           "source": {
-            "name": "thestar.com.my"
+            "name": "Bar and Bench"
           },
-          "publishedAt": "2026-05-31T23:26:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/06/01/3936529.jpg",
+          "publishedAt": "2026-06-01T05:37:21Z",
+          "image": "https://cf-images.assettype.com/barandbench%2F2026-05-29%2Fh2obdshm%2F1000556322.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
           "language": "en"
         },
         {
-          "title": "Person dies in house blaze in Melbourne’s west, another left with serious injuries",
-          "description": "A toddler has died and his father is in hospital with serious injuries after fire tore through a family home in the Melbourne’s west overnight.",
-          "url": "https://www.smh.com.au/national/victoria/person-dies-in-house-fire-in-melbourne-s-west-another-left-with-serious-injuries-20260601-p602la.html",
+          "title": "US strikes Iranian radar; Trump toughens peace deal conditions; Sydney, Melbourne house prices fall",
+          "description": "Follow along as we bring you the latest live news updates from Australia and beyond.",
+          "url": "https://www.brisbanetimes.com.au/national/australia-news-live-sydney-melbourne-property-prices-fall-sharply-trump-sends-tougher-peace-deal-terms-to-iran-ebola-cases-in-the-drc-climb-to-260-20260601-p602l8.html",
           "source": {
-            "name": "SMH.com.au"
+            "name": "Brisbane Times"
           },
-          "publishedAt": "2026-05-31T23:24:42Z",
-          "image": "https://static.ffx.io/images/$zoom_0.8441970486111111%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_127%2C$y_88/t_crop_custom/q_86%2Cf_auto/a5589fa80c748792755ea5e7a44fc7e656c0c880",
+          "publishedAt": "2026-06-01T05:36:11Z",
+          "image": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/620269f7236556cf4b7597e8c3a981d558f3080b",
           "language": "en"
         },
         {
-          "title": "Checks reveal young women with deadly 'silent' heart risk",
-          "description": "Sudden cardiac death can happen without warning, and it's not just a problem for sporty young men, say experts.",
-          "url": "https://www.bbc.com/news/articles/c1l218n82pdo",
+          "title": "UOB turns everyday choices into a story of growth",
+          "description": "The film centres on the tension between immediate comfort and longer-term aspirations, positioning personal growth as a process that often requires difficult decisions.",
+          "url": "https://marketingreport.one/creation/uob-turns-everyday-choices-into-a-story-of-growth.html",
           "source": {
-            "name": "BBC"
+            "name": "marketingreport.one"
           },
-          "publishedAt": "2026-05-31T23:21:41Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7660/live/622d26b0-5b55-11f1-a62b-2f41c7c3a318.jpg",
+          "publishedAt": "2026-06-01T05:36:06Z",
+          "image": "https://marketingreport.one/Article Images/Key Industy Images/uob-homecoming-marketing-report-one.webp",
           "language": "en"
         },
         {
-          "title": "Emma Corrin Talks Coming Out as Queer, Playing Princess Diana & Returning to Instagram After a Year Off",
-          "description": "Emma Corrin is opening up about their coming out. The 30-year-old actor came out as nonbinary in 2021 and revealed in the following year that they use",
-          "url": "https://www.justjared.com/2026/05/31/emma-corrin-talks-coming-out-as-queer-playing-princess-diana-returning-to-instagram-after-a-year-off/",
+          "title": "Trump says Iran really wants to make a deal with the US",
+          "description": "June 1 (Reuters) - President Donald Trump on Monday said that Iran really wanted to make a deal with the U.S. and that it would be a good one for Washington and its allies.His post comes only hours after the U.S. military said it struck Iranian military sites at the weekend and Iran's Revolutionary Guards said they had targeted a U.S. base in response, the latest in a series of exchanges amid negotiations to end the three-month-old war.",
+          "url": "https://www.al-monitor.com/originals/2026/06/trump-says-iran-really-wants-make-deal-us",
           "source": {
-            "name": "Just Jared"
+            "name": "Al-Monitor"
           },
-          "publishedAt": "2026-05-31T23:21:01Z",
-          "image": "https://www.justjared.com/wp-content/uploads/2026/05/emma-coming-out.jpg",
+          "publishedAt": "2026-06-01T05:34:30Z",
+          "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-06/2026-06-01T053430Z_1_LYNXMPEM500WH_RTROPTP_4_USA-TRUMP-IRS.JPG?h=278c4d67&itok=69-zoRJU",
           "language": "en"
         }
       ]
