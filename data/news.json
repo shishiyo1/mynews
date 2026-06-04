@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-03T23:08:19.610Z",
+  "updatedAt": "2026-06-04T04:11:26.045Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "劇場版ケロロ軍曹、まさかの2日前に完成 ジェシー「“じぇしじぇし”広めてください」",
+          "description": "吉崎観音原作によるアニメ「新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！」の完成披露試写会が、本日6月3日に東京・ニッショーホールで開催された。上映前には舞台挨拶が行われ、ケロロ軍曹役の渡辺久美子、アルル／...",
+          "url": "https://natalie.mu/comic/news/674612",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-06-03T12:44:00Z",
+          "image": "https://ogre.natalie.mu/media/news/comic/2026/0603/DSC_3261.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
+        {
+          "title": "合体ロボット文化を継承するため、立て！『獣王武神ダンデヴァイン』！創業25周年のグッドスマイルカンパニーが放つ「合体神シリーズ」の全貌が公開！",
+          "description": "目的は“合体ロボットトイ文化の継承”──グッスマ25周年プロジェクト「合体神シリーズ」発表！タカラトミー、アニプレックス、東映も参加する第1弾『獣王武神ダンデヴァイン』が10月放送予定！",
+          "url": "https://hobby.dengeki.com/event/3034188/",
+          "source": {
+            "name": "電撃ホビーウェブ"
+          },
+          "publishedAt": "2026-06-03T12:00:00Z",
+          "image": "https://hobby.dengeki.com/ss/hobby/2026/06/469b052e3131133723f1851142a51ec0_EpqudjwiRQcSBGAlWuUe6olFIpto4nnN_B_vxQQ9lMZRagJ49QPPvbNHxo3MriaWk.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "長嶋さん一周忌 攻守交替時に巨人OBからメッセージ 8回まで計7人 松井秀喜氏「本当に魅力的でした」",
+          "description": "◇交流戦　巨人ーオリックス（2026年6月3日　東京D）\n　巨人は3日、「FOR3VER　6・3～長嶋茂雄～」と題してオリックスと対戦した。巨人軍終身名誉監督の長嶋茂雄さんが89歳で亡くなってか",
+          "url": "https://news.yahoo.co.jp/articles/ce58b7f12c6547804a62761e2c41cba5fb755a99",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-03T11:42:28Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260603-00000353-spnannex-000-4-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "アップルの画像生成AI、ついに改善？ iOS 27でGenmojiも高画質化か",
           "description": "アップルがiOS 27で「Image Playground」と「Genmoji（ジェン文字）」の画像生成モデルを大幅にアップグレードする予定だという。",
@@ -61,6 +94,17 @@
           "language": "ja"
         },
         {
+          "title": "【解説】 プーチン氏、ウクライナでの戦争で妥協を拒み続ける ロシアの世論はどうなのか",
+          "description": "ロシアがウクライナへの攻撃を激化させている。だがロシア国内では、プーチン大統領の支持者の間でも、4年以上続く戦争への懸念が高まっている。",
+          "url": "https://www.bbc.com/japanese/articles/cwy2067jjpro",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-06-03T10:29:56Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_japanese/8a79/live/ddbe4530-5e8d-11f1-89a3-d1f559421220.jpg",
+          "language": "ja"
+        },
+        {
           "title": "台風6号…気象庁の予想進路、米軍・ヨーロッパの見方 2026年6月3日午後6時の現在地",
           "description": "大型の台風6号（チャンミー）は2026年6月3日午後6時現在、千葉県銚子市の東約190キロを時速50キロの速さで東北東に進んでいる。予想進路について気象庁や米軍合同台風警報センター(JTWC）、ヨーロッパ中期予報センターの見方をまとめた。",
           "url": "https://www.fukuishimbun.co.jp/articles/-/2616952",
@@ -70,161 +114,117 @@
           "publishedAt": "2026-06-03T10:25:00Z",
           "image": "https://fki.ismcdn.jp/mwimgs/b/b/-/img_bbedf213023d913117f567a27755ea4e125793.jpg",
           "language": "ja"
-        },
-        {
-          "title": "SixTONESジェシー、冒頭からボケ炸裂 渡辺久美子・あの・シソンヌ長谷川らと客席からサプライズ登場【新劇場版☆ケロロ軍曹】",
-          "description": "渡辺久美子、ジェシー（SixTONES）、あの、長谷川忍（シソンヌ）、福田雄一監督が6月3日、都内で開催された『新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！』（6月26日公開）完成披露試写会に出席。客席通路を通って登場し、観客から歓声が沸き起こった。",
-          "url": "https://mdpr.jp/cinema/detail/4791628",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-06-03T09:56:44Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/Ene8/wm/Ene8YiX-zJ-xMJL1QW9vY1njlRAqy_27BFySUYGNF5c.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "「神すぎる」嵐ラストツアーの会場限定グッズがオンラインストアに登場。まさかの値下げと販売形態に反響。（東京バーゲンマニア）",
-          "description": "2026年5月31日をもって、26年半にわたる活動を終了したアイドルグループ「嵐」。",
-          "url": "https://news.yahoo.co.jp/articles/0e837b45d7f0de4596c0be6b18461886dbc0df48",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-03T09:32:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260603-00000000-tkybgmnv-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "6月に台風襲来で記録的な大雨 台風6号は東へ 暴風・高波はまだ警戒を",
-          "description": "台風6号と梅雨前線の影響で、太平洋側の各地で記録的な大雨となりました。台風6号は明日4日にかけて関東の東を進み、陸地からは離れるでしょう。ただ、今夜にかけて関東や東北では暴風が続くため、帰宅時間は油断しないようにしましょう。また、大雨で地盤が緩んでいる所もあります。今夜も安全な所でお過ごしください。",
-          "url": "https://tenki.jp/forecaster/gureweather/2026/06/03/39193.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-06-03T09:03:24Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/391/39193/main/20260603180243/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "グーグルの未発表「Pixel Watch 5」が海中で発見？ 真実なら前代未聞のリーク劇",
-          "description": "グーグルの「Pixel」デバイスは発表前のリークが多いことで知られているが、これほど奇妙なケースは前代未聞だ。",
-          "url": "https://japan.cnet.com/article/35248403/",
-          "source": {
-            "name": "CNET Japan"
-          },
-          "publishedAt": "2026-06-03T07:41:00Z",
-          "image": "https://japan.cnet.com/storage/2026/06/03/20dd0ae35fadbdb455def6dab66163a3/screenshot-2025-12-08-at-11-55-13am_1280x960.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Trump administration floats tariffs on 60 trading partners - including China, U.K., EU - after forced labor probes",
-          "description": "The Trump administration has unveiled proposed tariffs of 10% or more on dozens of countries accused of failing to crack down on forced labor, including some of the U.S.'s largest trading partners.",
-          "url": "https://www.cbsnews.com/news/trump-administration-tariffs-60-trading-partners-forced-labor-probes/",
+          "title": "Great Lakes Safaris Adds Luxury Pabidi Lodge Budongo to The Great Lakes Collection in Murchison Falls",
+          "description": "The Great Lakes Collection, the boutique hospitality arm of renowned East African tour operator Great Lakes Safaris, has once again expanded its portfolio with the grand opening of Pabidi Lodge Budongo in Uganda.",
+          "url": "https://atta.travel/resource/great-lakes-safaris-adds-luxury-pabidi-lodge-budongo-to-the-great-lakes-collection-in-murchison-falls.html",
           "source": {
-            "name": "CBS News"
+            "name": "Atta Travel"
           },
-          "publishedAt": "2026-06-03T11:07:09Z",
-          "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/05/19/aea25346-4086-45f8-930a-e25afae7df37/thumbnail/1200x630/5bc0d670d8fc354a962791585e3eb3d6/gettyimages-2276420721.jpg",
+          "publishedAt": "2026-06-03T16:11:04Z",
+          "image": "https://atta.travel/static/84621bab-072a-41fa-a0276b1f78dd86cb/opengraphimage_83f4e8796336604b59d7216d0ecd81a5_49ea84f9c2ba/pabidi-lodge-budongo-great-lakes-collection-910.jpg",
           "language": "en"
         },
         {
-          "title": "Deaths from measles, measles-like symptoms cross 600",
-          "description": "DGHS reports seven more fatalities in 24 hours",
-          "url": "https://www.thedailystar.net/health/disease/news/deaths-measles-measles-symptoms-cross-600-4189716",
+          "title": "Malaria not caused by stress, says physician",
+          "description": "Prolonged stress and fatigue are major risk factors for several diseases and can negatively affect productivity and workplace safety.",
+          "url": "https://gazettengr.com/malaria-not-caused-by-stress-says-physician/",
           "source": {
-            "name": "The Daily Star"
+            "name": "Peoples Gazette Nigeria"
           },
-          "publishedAt": "2026-06-03T11:06:40Z",
-          "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-05/measles-final_0.jpg",
+          "publishedAt": "2026-06-03T16:09:28Z",
+          "image": "https://gazettengr.com/wp-content/uploads/Anopheles-freeborni-resting-female-16-9.jpg",
           "language": "en"
         },
         {
-          "title": "SANparks couple murder: Two suspects arrested",
-          "description": "Limpopo police have confirmed the arrests of two Mozambican nationals",
-          "url": "https://www.timeslive.co.za/news/south-africa/2026-06-03-sanparks-couple-murder-suspects-arrested/",
+          "title": "Ukrainian drones hit St Petersburg oil terminal before city hosts economic forum",
+          "description": "Vladimir Putin is set to speak on Friday at the summit.",
+          "url": "https://www.breakingnews.ie/world/ukrainian-drones-hit-st-petersburg-oil-terminal-before-city-hosts-economic-forum-1908897.html",
           "source": {
-            "name": "TimesLIVE"
+            "name": "BreakingNews.ie"
           },
-          "publishedAt": "2026-06-03T11:06:00Z",
-          "image": "https://www.timeslive.co.za/resizer/v2/Y2QQ5JE2QFHNTCRDS3G5SYSOTM.jpg?smart=true&auth=f9667039a6ef5f6a45fb879a7c3ac527d66cd9a5e8f6d1ff931fabcbb488e784&width=1200&height=630",
+          "publishedAt": "2026-06-03T16:09:27Z",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMDMxNzEyMzNcXFwvYmQ5Mzc2ZDE1NmYyNGQ3Yjk2Mzc2MDA2NWM4YmEyZDguanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI0NTNjMTRiMjYyNmNiYWU0MjI2NDViMjMxZjA5OTE2ZDliM2I0ZTNjIn0=/ukrainian-drones-hit-st-petersburg-oil-terminal-before-city-hosts-economic-forum.jpg",
           "language": "en"
         },
         {
-          "title": "United States set to deport 110 Nigerians",
-          "description": "The United States Department of Homeland Security, DHS, has confirmed that at least 110 Nigerians will be deported from the US. The US-DHS, which released",
-          "url": "https://dailypost.ng/2026/06/03/united-states-set-to-deport-110-nigerians/",
+          "title": "ASAP Rocky Says He Can Beat Zohran Mamdani in a Rap Battle, Mayor Race",
+          "description": "ASAP Rocky said that he could beat Zohran Mamdani in a rap battle as well as a mayoral race, with the rapper saying he wants to run in NYC.",
+          "url": "https://www.billboard.com/music/music-news/asap-rocky-zohran-mamdani-rap-battle-mayor-race-1236263099/",
           "source": {
-            "name": "Daily Post Nigeria"
+            "name": "Billboard"
           },
-          "publishedAt": "2026-06-03T11:05:10Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2026/06/Department-of-Homeland-Security.jpg",
+          "publishedAt": "2026-06-03T16:09:12Z",
+          "image": "https://www.billboard.com/wp-content/uploads/2026/06/P10608MY-e1780499853836.jpg?w=1024",
           "language": "en"
         },
         {
-          "title": "Vote for May's Emirates Goal of the Month!",
-          "description": "Watch all our best strikes from May 2026!",
-          "url": "https://www.arsenal.com/news/vote-mays-emirates-goal-month-0",
+          "title": "PH to reduce trade deficit with Vietnam",
+          "description": "THE Department of Agriculture (DA) on Tuesday said it was working to fulfill a commitment by President Ferdinand Marcos Jr. and Vietnamese President Tô Lâm to expand bilateral trade and reduce a trade deficit that favors Vietnam.",
+          "url": "https://www.manilatimes.net/2026/06/03/business/top-business/ph-to-reduce-trade-deficit-with-vietnam/2357102",
           "source": {
-            "name": "Arsenal.com"
+            "name": "The Manila Times"
           },
-          "publishedAt": "2026-06-03T11:04:50Z",
-          "image": "https://www.arsenal.com/sites/default/files/styles/desktop_16x9/public/images/GOTM%20Web%2016_9%20%281%29_y7ylcky0.png?h=d1cb525d&auto=webp&itok=5qFWDLZP",
+          "publishedAt": "2026-06-03T16:08:29Z",
+          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/06/02/1082679.jpg",
           "language": "en"
         },
         {
-          "title": "U.S. plans 10% additional tariffs on Canadian imports after forced labour probe into 60 countries",
-          "description": "Trump administration targets major trading partners with additional tariffs of up to 12.5% in bid to replace its struck-down emergency levies",
-          "url": "https://www.theglobeandmail.com/business/article-us-tariffs-canada-60-countries-forced-labour/",
+          "title": "Tanzania President Visits Russia as Western Ties Fray",
+          "description": "Tanzanian President Samia Suluhu Hassan began a three-day visit to Russia on Wednesday, meeting counterpart Vladimir Putin at a time when her country's reputation in the West has been badly damaged.",
+          "url": "https://www.themoscowtimes.com/2026/06/03/tanzania-president-visits-russia-as-western-ties-fray-a92919",
           "source": {
-            "name": "The Globe and Mail"
+            "name": "The Moscow Times"
           },
-          "publishedAt": "2026-06-03T11:04:42Z",
-          "image": "https://www.theglobeandmail.com/resizer/v2/2V57UZRGVVFTNHYIHPZJECBUDI.jpg?auth=2febda1a7d7847098f504a928f7b65ce97cb94268f17c9d4f4d05659e55f6d73&width=1200&height=800&quality=80&smart=true",
+          "publishedAt": "2026-06-03T16:08:22Z",
+          "image": "https://static.themoscowtimes.com/image/og/3c/92919__3c3c9c43543ffd9f0ce8f962c01078d0.jpg",
           "language": "en"
         },
         {
-          "title": "Nautilus welcomes landmark international ruling that affirms right to strike",
-          "description": "Nautilus International has welcomed a landmark ruling by the International Court of Justice (ICJ) confirming that the right to strike is protected under international law.",
-          "url": "https://www.nautilusint.org/en/news-insight/news/nautilus-welcomes-landmark-international-ruling-that-affirms-right-to-strike/",
+          "title": "Ibrahima Konate bravely opens up on impact of Diogo Jota and his father's deaths",
+          "description": "The French defender says he was battling depression during the past season following the sad losses of Diogo Jota and his father",
+          "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/ibrahima-konate-bravely-opens-up-34060674",
           "source": {
-            "name": "Nautilus International"
+            "name": "Liverpool Echo"
           },
-          "publishedAt": "2026-06-03T11:04:16Z",
-          "image": "https://res.cloudinary.com/nautilus-international/image/upload/f_auto,q_auto,dpr_auto,c_fill,w_1200,h_627/v1688568609/tuc_right_to_strike_rally_2023_web.jpg",
+          "publishedAt": "2026-06-03T16:07:00Z",
+          "image": "https://i2-prod.liverpoolecho.co.uk/article34060830.ece/ALTERNATES/s1200d/1_GettyImages-1561101879.jpg",
           "language": "en"
         },
         {
-          "title": "Hubble Captures a Stunning Spiral Galaxy Slowly Being Stripped of Its Future",
-          "description": "A spectacular spiral galaxy known as M88 is traveling toward the crowded heart of the Virgo Cluster, where powerful forces are already beginning to reshape its future.",
-          "url": "https://scitechdaily.com/hubble-captures-a-stunning-spiral-galaxy-slowly-being-stripped-of-its-future/",
+          "title": "Iran strikes Kuwait airport after US bombs Qeshm Island | Iran: the Latest",
+          "description": "Plus: why the timing of the World Cup matters for the Iran war",
+          "url": "https://www.telegraph.co.uk/world-news/2026/06/03/iran-strikes-kuwait-airport-after-us-bombs-qeshm-island/",
           "source": {
-            "name": "SciTechDaily"
+            "name": "The Telegraph"
           },
-          "publishedAt": "2026-06-03T11:04:04Z",
-          "image": "https://scitechdaily.com/images/Spiral-Galaxy-Messier-88-M88-scaled.jpg",
+          "publishedAt": "2026-06-03T16:06:00Z",
+          "image": "https://www.telegraph.co.uk/content/dam/world-news/2026/06/03/TELEMMGLPICT000488329982_17805010933460_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg?impolicy=OG-Standard",
           "language": "en"
         },
         {
-          "title": "HSE apologises for 'deficits in care' after woman's death",
-          "description": "The HSE apologises unreservedly for \"deficits in care\", which it said culminated in the untimely and tragic death of Maxine Maguire in 2017.",
-          "url": "https://www.rte.ie/news/2026/0603/1576560-hse-aplogy-maxine-maguire/",
+          "title": "The Environmental Cost of Artificial Intelligence: Carbon, Water, and Land Footprints",
+          "description": "AI’s rapid growth drives huge energy, water, and land use, raising environmental and equity challenges across its global infrastructure.",
+          "url": "https://unu.edu/inweh/collection/environmental-cost-of-AIs-Enrgy-Use-Carbon-water-and-land-footprints",
           "source": {
-            "name": "RTE.ie"
+            "name": "UNU | United Nations University"
           },
-          "publishedAt": "2026-06-03T11:03:57Z",
-          "image": "https://www.rte.ie/images/00247762-1600.jpg",
+          "publishedAt": "2026-06-03T16:05:14Z",
+          "image": "https://unu.edu/sites/default/files/styles/og_image/public/2026-06/Microsoft_Bing_Maps%27_datacenter_-_Flickr_-_Robert_Scoble.png?itok=qz5pQrbe",
           "language": "en"
         },
         {
-          "title": "Laura Whitmore welcomes second child as she details 'dramatic' birth",
-          "description": "Laura Whitmore has given birth to her second child with husband and Love Island star Iain Stirling as she detailed the 'dramatic' birth",
-          "url": "https://www.mirror.co.uk/3am/celebrity-news/laura-whitmore-gives-birth-baby-37241914",
+          "title": "No change to current NWT cancer care with release of new guide",
+          "description": "The GNWT released a new guide to cancer treatment services available to NWT residents, though that doesn't come with any change to those services.",
+          "url": "https://cabinradio.ca/293714/news/health/no-change-to-current-nwt-cancer-care-with-release-of-new-guide/",
           "source": {
-            "name": "The Mirror"
+            "name": "Cabin Radio"
           },
-          "publishedAt": "2026-06-03T11:03:00Z",
-          "image": "https://i2-prod.mirror.co.uk/article37162441.ece/ALTERNATES/s1200d/0_BAFTA-Television-Awards-2026-in-London.jpg",
+          "publishedAt": "2026-06-03T16:04:44Z",
+          "image": "https://cabinradio.ca/wp-content/uploads/2025/07/IMG_5609.jpg",
           "language": "en"
         }
       ]
