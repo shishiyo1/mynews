@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-05T14:54:20.276Z",
+  "updatedAt": "2026-06-05T17:20:17.155Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "Shopifyストアにクーポンバナーを設置できるアプリ「シンプル自動適用クーポン｜お手軽クーポンバナー」をリリース",
+          "description": "株式会社UnReactのプレスリリース（2026年6月5日 14時10分）Shopifyストアにクーポンバナーを設置できるアプリ「シンプル自動適用クーポン｜お手軽クーポンバナー」をリリース",
+          "url": "https://prtimes.jp/main/html/rd/p/000000270.000072693.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-06-05T05:10:02Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/72693/270/72693-270-cb05a73f0fc8411f8cfce30af379d042-1600x900.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "ニューヨーク単独ライブ「ニューヨークの横からシツレ～します！」全国9都市26公演（コメントあり）",
+          "description": "ニューヨークの単独ライブ「ニューヨークの横からシツレ～します！」が全国9都市26公演開催される。",
+          "url": "https://natalie.mu/owarai/news/674936",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-06-05T04:34:00Z",
+          "image": "https://ogre.natalie.mu/media/news/owarai/2026/0605/ny-yokokara_01.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
+        {
+          "title": "年下増えた久保建英、“初共演”の塩貝健人に太鼓判「おもろいっすよ」「インテリな一面も」",
+          "description": "メキシコ・モンテレイで事前キャンプ中の日本代表MF久保建英(ソシエダ)が現地時間4日の練習後、報道陣の取材に応じ、今回の活動が初共演ながらピッチ上で関係性の良さを見せているFW塩貝健人(ボルフスブルク)に...",
+          "url": "https://web.gekisaka.jp/news/japan/detail/?452764-452764-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-06-05T03:49:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/453000/452764/news_452764_1.jpg?time=20260605124945",
+          "language": "ja"
+        },
+        {
+          "title": "映画「Michael／マイケル」AI、相羽あいな、市川染五郎、川尻蓮、ケント・モリ、辛酸なめ子、SOTA、仲宗根梨乃、長場雄、NI",
+          "description": "圧倒的な歌唱力と革新的なダンスパフォーマンスで、世界的なアイコンとなった“キング・オブ・ポップ”ことマイケル・ジャクソン。そんな彼の軌跡をたどる伝記映画「Michael／マイケル」が6月5日から7日までIMAXで先行上映、6月12日より全国公開される。",
+          "url": "https://natalie.mu/eiga/pp/michael-movie",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-06-05T03:30:00Z",
+          "image": "https://ogre.natalie.mu/media/pp/static/eiga/michael-movie/thumb_ogp.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ブラックマジックデザイン、「DaVinci Resolve 21」を正式リリース〜スチル写真編集用の新しいフォトページなど数百種類の新機能と改善が追加",
+          "description": "ブラックマジックデザインは、『DaVinci Resolve 21』を正式発表した。DaVinci Resol",
+          "url": "https://videosalon.jp/news/blackmagic_davinci-resolve-21/",
+          "source": {
+            "name": "VIDEO SALON"
+          },
+          "publishedAt": "2026-06-05T03:02:42Z",
+          "image": "https://videosalon.jp/wp-content/uploads/2026/06/21-1536x998-1.webp",
+          "language": "ja"
+        },
+        {
+          "title": "対応機種数/コラボ数/デザイン数でNo1を誇るcaseplayから『三代目 J SOUL BROTHERS PRESENTS “JSB LAND 〜FOREVER〜”』のスマートフォンケースが登場！",
+          "description": "株式会社FOXのプレスリリース（2026年6月5日 12時00分）対応機種数/コラボ数/デザイン数でNo1を誇るcaseplayから『三代目 J SOUL BROTHERS PRESENTS “JSB LAND 〜FOREVER〜”』のスマートフォンケースが登場！",
+          "url": "https://prtimes.jp/main/html/rd/p/000000800.000058495.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-06-05T03:00:01Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/58495/800/58495-800-ff279a5303bbe423df11ee8785202b98-1080x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "Valveが新小型ゲーミングPC「Steam Machine」でも“互換性認証”を実施すると発表。ゲームが動くか一目でわかる、Steam Deckで実装されていた便利機能",
+          "description": "Valveは6月5日、VerifiedプログラムをSteam MachineおよびSteam Frameに拡大することを発表した。",
+          "url": "https://automaton-media.com/articles/newsjp/20260605-447302/",
+          "source": {
+            "name": "AUTOMATON"
+          },
+          "publishedAt": "2026-06-05T02:58:13Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260605-447302-header.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「週刊誌が正しい、答弁が間違いと印象操作。心外だ」高市首相、中傷動画巡り立民・岸氏に",
+          "description": "高市早苗首相は5日の参院予算委員会で、自民党総裁選などで首相陣営が他候補を誹謗中傷する動画を作成しSNSに投稿していたとする週刊文春報道をもとに質問した立憲民主党の岸真紀子氏に対し、「週刊誌の記事が正しい、私の答弁が間違っているという印象…",
+          "url": "https://www.sankei.com/article/20260605-5SYU3QG43NEJBM65NOJ3NME35Y/",
+          "source": {
+            "name": "産経ニュース"
+          },
+          "publishedAt": "2026-06-05T02:56:31Z",
+          "image": "https://www.sankei.com/resizer/v2/W6KWJ6BWDRI57C3KIJID5NF6PM.jpg?auth=9c0f7f8573ad46aa52f0328239bfe9cdc9fd64c29705067a41d01979585b4b39&quality=50&focal=2571%2C1660&width=1200&height=675",
+          "language": "ja"
+        },
         {
           "title": "立憲・杉尾氏、NHKニュース7の「トンデモない内容」に憤慨 高市早苗首相の弁明ばかりで「ジャーナリズム精神のかけらもない」",
           "description": "立憲民主党の杉尾秀哉参院議員が2026年6月4日、高市早苗首相の弁明をめぐるNHK報道に疑問を呈した。\n■「有料オンライン会員になろうとは思いませんでした」\n　同日行われた衆院予算委委員会では",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-06-05T02:17:52Z",
           "image": "https://www.gamespark.jp/imgs/ogp_f/1139387.png",
           "language": "ja"
-        },
-        {
-          "title": "【衛星画像】ウクライナ「ロシア版ダボス会議」開催初日に近隣石油施設を爆撃…プーチン氏の面目丸潰れ（海外）（BUSINESS INSIDER JAPAN）",
-          "description": "ウクライナ軍は6月3日、ロシア・サンクトペテルブルクの主要な石油ターミナルに攻撃を行った。衛星画像には、攻撃直後の状況と、近くの港で損傷した軍艦の様子が捉えられている。この攻撃は、わずか数マイル先で",
-          "url": "https://news.yahoo.co.jp/articles/26a2d61ab8911ac80f604231418ccd3cffc56ea4",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-05T02:10:01Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260605-00000007-binsider-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "Switch2版「エルデンリング」8月28日発売決定。大型DLC「SHADOW OF THE ERDTREE」や追加要素も収録",
-          "description": "バンダイナムコエンターテインメントとフロム・ソフトウェアは、Nintendo Switch 2用アクションRPG「ELDEN RING Tarnished Edition」を8月28日に世界同時発売する。価格は9,020円。",
-          "url": "https://game.watch.impress.co.jp/docs/news/2114673.html",
-          "source": {
-            "name": "GAME Watch"
-          },
-          "publishedAt": "2026-06-05T01:26:16Z",
-          "image": "https://game.watch.impress.co.jp/img/gmw/list/2114/673/000.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Valveの新小型ゲーミングPC「Steam Machine」は今夏発売へ。意外と早く出る",
-          "description": "Valveは6月5日、同社が開発中のゲーミングPC「Steam Machine」は今夏出荷予定と明かした。",
-          "url": "https://automaton-media.com/articles/newsjp/20260605-447267/",
-          "source": {
-            "name": "AUTOMATON"
-          },
-          "publishedAt": "2026-06-05T00:17:43Z",
-          "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260605-447267-header-1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "森保J、モンテレイで“ジプシー状態”…W杯合宿2日目も練習場変更、17歳FW吉田湊海ら練習パートナーが4人合流",
-          "description": "北中米ワールドカップに向けてメキシコ・モンテレイ市内で事前キャンプ中の日本代表は4日、郊外の練習場でトレーニングを行った。左脚に違和感のあるMF遠藤航(リバプール)が2日続けて練習を欠席し、25人で全体...",
-          "url": "https://web.gekisaka.jp/news/japan/detail/?452755-452755-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-06-04T23:59:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/453000/452755/news_452755_1.jpg?time=20260605085940",
-          "language": "ja"
-        },
-        {
-          "title": "「DaVinci Resolve」が1年ぶりのメジャーバージョンアップ ～RAW画像も扱える［フォト］ページを追加",
-          "description": "豪Blackmagic Designは6月3日（日本時間）、動画編集ソフト「DaVinci Resolve」（ダビンチ・リゾルブ）の最新版「DaVinci Resolve 21」を正式公開した。2025年5月以来、約1年ぶりのメジャーバージョンアップとなる。",
-          "url": "https://forest.watch.impress.co.jp/docs/news/2114657.html",
-          "source": {
-            "name": "窓の杜"
-          },
-          "publishedAt": "2026-06-04T23:35:00Z",
-          "image": "https://forest.watch.impress.co.jp/img/wf/list/2114/657/image1.png",
-          "language": "ja"
-        },
-        {
-          "title": "吉田麻也がモンテレイで森保J再合流へ! 「メンバー扱いではない」“サポートプレーヤー”での招集",
-          "description": "日本サッカー協会(JFA)の山本昌邦ナショナルチームダイレクターが4日、事前キャンプ地のメキシコ・モンテレイで報道陣の取材に応じ、北中米W杯に臨む日本代表にDF吉田麻也(LAギャラクシー)が「サポートプレーヤ...",
-          "url": "https://web.gekisaka.jp/news/japan/detail/?452754-452754-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-06-04T23:34:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/453000/452754/news_452754_1.jpg?time=20260605083459",
-          "language": "ja"
-        },
-        {
-          "title": "５日の東京株式市場見通し＝反発後は上値の重い展開か 速報",
-          "description": "予想レンジ：６万７０００円－６万７８００円（４日終値６万７４７０円６９銭）　５日の東京株式は反発後、上値の重い展開か。４日のＮＹダウが、終値ベースでの最高値を更新したことを受け、買い優勢のスタートが・・・",
-          "url": "https://kabushiki.jp/news/753398",
-          "source": {
-            "name": "kabushiki.jp"
-          },
-          "publishedAt": "2026-06-04T22:47:00Z",
-          "image": "https://kabushiki.jp/ogp.png",
-          "language": "ja"
-        },
-        {
-          "title": "「脆弱性報告数が別次元に」 Mythos一般公開を恐れる前に、推奨される7つの優先対策：Mythos未満レベルのAIモデルでも脆弱性は見つかる",
-          "description": "Anthropicは、サイバー脅威アクターがAIモデルを用いて攻撃を加速させている状況を受け、企業のセキュリティチームが取るべき対策をまとめたブログ記事を公開した。",
-          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/05/news060.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-06-04T22:00:00Z",
-          "image": "https://image.itmedia.co.jp/ait/articles/2606/05/cover_news060.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Andoni Iraola announced: How Liverpool could line up under former Bournemouth manager after sacking Arne Slot",
-          "description": "After Liverpool unveiled Andoni Iraola as their new manager, Sports Mole takes a look at how the Reds could line up under the former Bournemouth boss.",
-          "url": "https://www.sportsmole.co.uk/football/liverpool/transfer-talk/feature/iraola-announced-how-liverpool-could-line-up-under-former-bournemouth-manager_598695.html",
+          "title": "Please explain: One Nation housing policy confuses its own as senator's interview turns into a 'train wreck'",
+          "description": "After Barnaby Joyce needed a do-over interview to explain One Nation's housing policy, a senator's interview was terminated after it turned into a 'train wreck'.",
+          "url": "https://www.abc.net.au/news/2026-06-05/one-nation-housing-policy-confusing-train-wreck-interview/106764998",
           "source": {
-            "name": "Sports Mole"
+            "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-06-05T02:54:00Z",
-          "image": "https://www.sportsmole.co.uk/thumbor/SFkiGiVlNZavbdvtvEBeEVRCwBk=/720x410/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F06%2Fapl-richard-sellers-sportsphoto-valentina-claret-mark-pain-alamy-live-news-alexander-isak-andoni-iraola-florian-wirtz-composite-6a22021bb6ef5476207627.png",
+          "publishedAt": "2026-06-05T05:19:31Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/17ae5881606522df2ecb48b78c9dabff?impolicy=wcms_watermark_news&cropH=3510&cropW=6240&xPos=0&yPos=1&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "'Mamata not merely an adviser': Dissent grows in rebel TMC camp after Ritabrata Banerjee's proposal",
-          "description": "The concerns emerged following a meeting of the rebel legislature bloc led by Ritabrata Banerjee, who was recently recognised as the Leader of Opposition.  | India News",
-          "url": "https://www.hindustantimes.com/india-news/mamata-not-merely-an-adviser-dissent-grows-in-rebel-tmc-camp-after-ritabrata-banerjees-proposal-101780624583661.html",
+          "title": "BJP accepts K Annamalai’s resignation after days of speculation; leader to announce next move shortly",
+          "description": "CHENNAI: BJP president Nitin Nabin on Friday accepted the resignation of former party chief K Annamalai from the primary membership of the party.Annam.",
+          "url": "https://timesofindia.indiatimes.com/city/chennai/bjp-accepts-k-annamalais-resignation-after-days-of-speculation-leader-to-announce-next-move-shortly/articleshow/131522333.cms",
           "source": {
-            "name": "Hindustan Times"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-06-05T02:53:24Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/06/05/550x309/ANI_1780626316345_1780626316459_1bf379ca-5f45-4fd8-89dc-457cff580315.jpg",
+          "publishedAt": "2026-06-05T05:19:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-131522898,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Als open 2026 CFL season with overtime win over Ticats",
-          "description": "The Montreal Alouettes showcased their trademark resilience on Thursday night, rallying from behind to defeat the Hamilton Tiger-Cats 30-27 in overtime in the opening game of the 2026 CFL season.",
-          "url": "https://www.cfl.ca/2026/06/04/alouettes-open-2026-cfl-season-with-win-over-ticats/",
+          "title": "JG Superstore expands from e-commerce to physical retail with new flagship store",
+          "description": "Photography and electronics retailer JG Superstore has opened its first flagship store at the Annex building of SM City North EDSA, marking the company's expansion from online retail into a larger physical presence.",
+          "url": "https://newsbytes.ph/2026/06/05/jg-superstore-expands-from-e-commerce-to-physical-retail-with-new-flagship-store/",
           "source": {
-            "name": "CFL.ca"
+            "name": "Newsbytes.PH"
           },
-          "publishedAt": "2026-06-05T02:53:10Z",
-          "image": "https://static.cfl.ca/wp-content/uploads/KS30303-1.jpg",
+          "publishedAt": "2026-06-05T05:18:57Z",
+          "image": "https://newsbytes.ph/wp-content/uploads/2026/06/Jill-Tan-with-partner-brand-representatives.jpg",
           "language": "en"
         },
         {
-          "title": "China’s Xi Jinping Plans North Korea Visit, Marking Return After Six Years",
-          "description": "Chinese President Xi Jinping will travel to North Korea next week, marking his inaugural overseas trip of the year after recently hosting Donald Trump and Russia’s Vladimir Putin in Beijing.",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-05/xi-to-visit-north-korea-june-8-9-for-first-time-since-2019-mq0a77tt",
+          "title": "Bitcoin is down horrendous",
+          "description": "Geopolitical uncertainty and other factors are causing the coin’s price to suffer, even as Big Tech carries the traditional stock market to new heights.",
+          "url": "https://www.morningbrew.com/stories/bitcoin-is-down-horrendous",
           "source": {
-            "name": "Bloomberg.com"
+            "name": "Morning Brew"
           },
-          "publishedAt": "2026-06-05T02:52:00Z",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLd7p6vO94EQ/v0/1200x800.jpg",
+          "publishedAt": "2026-06-05T05:18:44Z",
+          "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=70,format=auto/https://storage.morningbrew.com/gif/2025-11-18/image-3b0daf52c31214f8787dfe7fb52454f4950c8764-1500x1000-gif/MBD_CRYPTOMELT_NI_01_anim_03_1500px.gif",
           "language": "en"
         },
         {
-          "title": "'Human role narrowing': Anthropic calls for global AI slowdown as systems could escape control",
-          "description": "The developer of the Claude chatbot says a pause in the AI race would \"likely be a good thing\" and warns that cutting-edge models are beginning to show signs they could become increasingly difficult…",
-          "url": "https://www.france24.com/en/technology/20260605-anthropic-calls-for-global-ai-slowdown-says-systems-may-outpace-human-control",
+          "title": "Mali junta's offers $3.5M reward for jihadist leader",
+          "description": "Mali's military government has placed a multi-million-dollar bounty on the head of one of the Sahel's most wanted jihadist leaders. Authorities are offering two billion CFA francs, about 3.5 million dollars, for information leading to the capture or killing of Iyad Ag Ghaly.\n.",
+          "url": "https://www.africanews.com/2026/06/05/mali-juntas-offers-35m-reward-for-jihadist-leader/",
           "source": {
-            "name": "France 24"
+            "name": "africanews.com"
           },
-          "publishedAt": "2026-06-05T02:51:31Z",
-          "image": "https://s.france24.com/media/display/fd31879e-44a0-11f1-9775-005056a90284/w:1280/p:16x9/2026-04-29T093530Z-403772238-RC2LU7AIGT8Y-RTRMADP-3-EUROPE-BANKS-MYTHOS.jpg",
+          "publishedAt": "2026-06-05T05:18:43Z",
+          "image": "https://images.euronews.com/articles/stories/09/78/58/87/1024x538_cmsv2_0d514f00-f0de-5d48-900e-4e40a2955df3-9785887.jpg",
           "language": "en"
         },
         {
-          "title": "30 motorists caught for queue-cutting, other offences at Woodlands Checkpoint over long weekend",
-          "description": "Over 30 motorists were caught for various traffic offences, including queue-cutting, at Woodlands Checkpoint during the Vesak Day long weekend. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/singapore/30-motorists-caught-for-queue-cutting-other-offences-at-woodlands-checkpoint-over-long-weekend",
+          "title": "What are Europe's alternatives to Instagram, TikTok and X?",
+          "description": "As criticism of Instagram, TikTok and X grows in the EU, developers are building European social media alternatives. But can they compete?",
+          "url": "https://www.dw.com/en/what-are-europes-alternatives-to-instagram-tiktok-and-x/a-77398242",
           "source": {
-            "name": "The Straits Times"
+            "name": "DW"
           },
-          "publishedAt": "2026-06-05T02:51:05Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a34f1c1736136787cc9753070a2b6e9b8ccfae0aaac2334bcf7576415f4eac7b",
+          "publishedAt": "2026-06-05T05:18:13Z",
+          "image": "https://static.dw.com/image/64049002_6.jpg",
           "language": "en"
         },
         {
-          "title": "Naked man who tried to drown police dog in Auckland charged",
-          "description": "Police were told a naked man had taken a crowbar and made his way to the back of a Point Chevalier property.",
-          "url": "https://www.rnz.co.nz/news/national/597357/naked-man-who-tried-to-drown-police-dog-in-auckland-charged",
+          "title": "Xi Jinping to meet Kim Jong Un in rare visit to North Korea",
+          "description": "It is taking place weeks after Xi met the leaders of the US and Russia - two countries that loom large over North Korea's foreign policy.",
+          "url": "https://www.bbc.com/news/articles/clypym3q7p1o",
           "source": {
-            "name": "RNZ"
+            "name": "BBC"
           },
-          "publishedAt": "2026-06-05T02:49:55Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--B3tu6rXq--/t_tohu-badge-facebook/v1714012744/4KR60NU_CROPAdam_Johannsen_jpg?_a=BACCd2AD",
+          "publishedAt": "2026-06-05T05:17:13Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e12b/live/6d54f040-6096-11f1-aec2-d1b9519839ae.jpg",
           "language": "en"
         },
         {
-          "title": "Naked man who tried to drown police dog in Auckland charged",
-          "description": "Police were told a naked man had taken a crowbar and made his way to the back of a Point Chevalier property.",
-          "url": "https://www.rnz.co.nz/news/crime-and-justice/597357/naked-man-who-tried-to-drown-police-dog-in-auckland-charged",
+          "title": "Hanson steps in after Joyce backflips on forced home sales",
+          "description": "After failing to answer questions, a senator was warned to \"get some clarity before this gets worse\".",
+          "url": "https://www.sbs.com.au/news/article/barnaby-joyce-backflips-on-housing-policy/021qrdvxh",
           "source": {
-            "name": "RNZ"
+            "name": "SBS Australia"
           },
-          "publishedAt": "2026-06-05T02:49:55Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--B3tu6rXq--/t_tohu-badge-facebook/v1714012744/4KR60NU_CROPAdam_Johannsen_jpg?_a=BACCd2AD",
+          "publishedAt": "2026-06-05T05:16:45Z",
+          "image": "https://assets.sbs.com.au/dims4/default/200bd2f/2147483647/strip/true/crop/7184x4041+1+631/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F7e%2F84%2F16bd752b49d09a18c917378e7eb8%2F20260513119778044781-original.jpg",
           "language": "en"
         },
         {
-          "title": "Rice-fish coculturing may reduce schistosomiasis and poverty",
-          "description": "The chronic disease schistosomiasis wreaks havoc on more than 220 million people around the world, with the vast majority of cases being in sub-Saharan Africa.",
-          "url": "https://www.news-medical.net/news/20260604/Rice-fish-coculturing-may-reduce-schistosomiasis-and-poverty.aspx",
+          "title": "Felix Bankole’s The Legal Wife confronts crisis in Christian marriages",
+          "description": "The Nation Newspaper Felix Bankole’s The Legal Wife confronts crisis in Christian marriages",
+          "url": "https://thenationonlineng.net/felix-bankoles-the-legal-wife-confronts-crisis-in-christian-marriages/",
           "source": {
-            "name": "News-Medical"
+            "name": "The Nation Newspaper"
           },
-          "publishedAt": "2026-06-05T02:49:00Z",
-          "image": "https://www.news-medical.net/image-handler/picture/2014/7/Schistosomiasis-620x480.jpg",
+          "publishedAt": "2026-06-05T05:15:00Z",
+          "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/06/05061324/Felix.jpg",
           "language": "en"
         },
         {
-          "title": "Ex-chief justice Barak: Slippery slope of violence could end in murder of judge, civil war",
-          "description": "Fearing they could be targeted next, dozens of judges reportedly warn that Haredi extremist riot outside deputy chief justice's home could have a chilling effect on judicial system",
-          "url": "https://www.timesofisrael.com/ex-chief-justice-barak-slippery-slope-of-violence-could-end-in-murder-of-judge-civil-war/",
+          "title": "Woman sexually assaulted on train in broad daylight attack as cops release CCTV in hunt for man with 'distinctive limp'",
+          "description": "A WOMAN has allegedly been sexually assaulted on a train in a horror broad daylight attack.\nCops have since released a CCTV image in the hunt...",
+          "url": "https://www.thesun.co.uk/news/39314245/woman-sexually-assaulted-train-daylight-cops-hunt-limp-man/",
           "source": {
-            "name": "The Times of Israel"
+            "name": "The Sun"
           },
-          "publishedAt": "2026-06-05T02:48:06Z",
-          "image": "https://static-cdn.toi-media.com/www/uploads/2026/01/F260128AVS902.jpg",
+          "publishedAt": "2026-06-05T05:15:00Z",
+          "image": "https://www.thesun.co.uk/wp-content/uploads/2026/06/newspress-collage-dbxvb5uaa-1780636447872.jpg?quality=90&strip=all&1780640062&w=1920&h=1080&crop=1",
           "language": "en"
         }
       ]
