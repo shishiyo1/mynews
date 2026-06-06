@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-06T19:25:24.632Z",
+  "updatedAt": "2026-06-06T22:03:26.540Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "京都で行方不明の米大学生、日本の市民が捜索支援に加わる（CNN.co.jp）",
+          "description": "（CNN）　東京に住むある男性は、仕事を1週間休んで面識のない米国人に支援の手を差し伸べようとしている。別のボランティアも、全ての予定を投げ出して移動手段の提供や通訳を引き受ける。いずれも行方不明の",
+          "url": "https://news.yahoo.co.jp/articles/b570afa47f319d590e0a928378216a77e8e48250",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-06T10:01:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260606-35248549-cnn-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【弁当200個が無断キャンセル】注文者に合わせた弁当作るも着信拒否に 約20万円の損失受けた新潟の女性店主が抱いた無念",
+          "description": "新潟市内の弁当店が先日、SNSに「注文があった弁当の当日キャンセル」の被害を投稿し、波紋を呼んでいる。その数なんと200個。損失は約20万円に上ったという。店主の女性が取材に応じ、当時を詳しく振り返",
+          "url": "https://news.yahoo.co.jp/articles/913e0db6d98f6c79c6f84a2079f794fae6a7727f",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-06T10:00:42Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260606-01155370-fnnprimev-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "明日7日 九州南部は土砂災害に厳重警戒 西日本では滝のように降る雨で交通に影響も",
+          "description": "明日7日は、前線を伴った低気圧の影響で、西日本の太平洋側を中心に警報級の大雨となるおそれがあります。九州南部では線状降水帯が発生する可能性もあり、土砂災害に厳重な警戒が必要です。また、西日本の太平洋側では滝のように降る雨で、道路など交通に影響が出る所もあるでしょう。",
+          "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/06/06/39232.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-06-06T09:28:26Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/392/39232/main/20260606173340/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "恐竜は木炭を食べていた？うんちの化石から分かったこと",
+          "description": "2025年1月1日の記事を編集して再掲載しています。うんちってすごい。それを研究し続けてる人たちもすごいけど。2024年11月27日、ネイチャー誌にある論文が掲載されました。14名の古生物学者らによる25年以上にわたる、化石化した糞と恐竜の",
+          "url": "https://www.gizmodo.jp/article/dinosaur-poop-fossil-awq/",
+          "source": {
+            "name": "ギズモード・ジャパン"
+          },
+          "publishedAt": "2026-06-06T08:35:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2024/12/25/dinosaur.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "日プ新世界発、新ボーイズグループ「KO1KEYZ（コイキーズ）」デビューメンバーを全員紹介",
+          "description": "JO1、INI、ME:Iを輩出したオーディション番組「PRODUCE 101 JAPAN」の第4弾となる「PRODUCE 101 JAPAN 新世界（日プ新世界）」。6月6日の生放送をもって新ボーイズグループ「KO1KEYZ（コイキーズ）」のデビューメンバー12名がついに決定。そのプロフィールを最終順位順にご紹介。",
+          "url": "https://www.elle.com/jp/culture/music-art-book/g71500841/produce-101-japan-shinsekai-members-ko1keyz-260606/",
+          "source": {
+            "name": "ELLE"
+          },
+          "publishedAt": "2026-06-06T08:27:08Z",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/8701c10a-5f03-4c6b-9ffc-8d9d5a01c76c.jpg?crop=1.00xw:0.753xh;0,0.183xh&resize=1200:*",
+          "language": "ja"
+        },
+        {
+          "title": "『ファイナルファンタジーVII リベレーション』“オープンワールド”開発者インタビュー。本作はどういうオープンワールド？自由度は？参考にしたタイトルは？浜口Dに訊く",
+          "description": "トレイラーからわかった『ファイナルファンタジーVII リベレーション』のオープンワールドについて、さらに本作でのミニゲームのあり方や新たなバトルシステムなどについて話を訊いた。",
+          "url": "https://automaton-media.com/articles/interviewsjp/ff7r-20260606-447847/",
+          "source": {
+            "name": "AUTOMATON"
+          },
+          "publishedAt": "2026-06-06T08:00:10Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/06/FFVIIR3_SS_05_Highwind_Parachute.jpg",
+          "language": "ja"
+        },
         {
           "title": "『CONTROL Resonant』Summer Game Festにて「パラナチュラル・マンハッタン」トレーラーを世界初公開9月24日に全世界発売決定",
           "description": "新トレーラーは『CONTROL Resonant』の数々のシュールで多彩なロケーションを巡る内容。フィンランドの高名なエスノポップ・アーティ...",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-06-06T06:13:54Z",
           "image": "https://img-mdpr.freetls.fastly.net/article/lRej/nm/lRejv09yjHU4_8LTnLAdPN6iTYaIes3BvLGI5rXC8fs.jpg?width=700&disable=upscale&auto=webp&quality=80",
           "language": "ja"
-        },
-        {
-          "title": "『日プ新世界』デビューグループ名「KO1KEYZ」に決定 日韓同時デビューへ",
-          "description": "ニュース｜　視聴者がデビューメンバーを決めるサバイバルオーディション番組『PRODUCE 101 JAPAN』の第4弾『PRODUCE 101 JAPAN 新世界』（通称『日プ新世界』）の最終回が、きょう6日午後1時30分から日本テレビ系全国ネットで生放送され、デビューグループ名が「KO1KEYZ」だと発表された。　『PRODUCE 101 JAPAN』は2019年の第1弾を皮切りに3シリーズが制作され、JO1、INI、ME:Iらを輩出した。『日プ新世界』は「新世界の扉を開くグローバルボーイズグループ誕生」を掲げ、全世界から参加者を募集。デビュー組は、日韓同時デビューとなる。",
-          "url": "https://www.oricon.co.jp/news/2459009/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-06-06T05:19:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2460000/2459009/20260528_210721_p_o_35283947.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「航の代わりじゃない」吉田麻也が“代役”の憶測否定…“優勝”公言の森保Jを信頼「最初の本田圭佑の発言が今に続いている」",
-          "description": "DF吉田麻也(LAギャラクシー)が現地時間5日、日本代表に再合流した。チームはメキシコ・モンテレイで練習場所が2度変わる事態に見舞われたが、吉田は選手たちを信頼。「芝がよくないとか、練習場所が変わるとか...",
-          "url": "https://web.gekisaka.jp/news/japan/detail/?452819-452819-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-06-06T05:18:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/453000/452819/news_452819_1.jpg?time=20260606143945",
-          "language": "ja"
-        },
-        {
-          "title": "猛暑連戦W杯にも不安なし…佐野海舟「中4日は連戦という感じはない」「体重は大体一日で戻る」",
-          "description": "W杯本大会仕様のコンディションを仕上げるための事前キャンプ——。日本代表MF佐野海舟(マインツ)は「やれることは限られているとは思うので、しっかりやっていけば問題ないのかなと思う」と話し、高温多湿下の連...",
-          "url": "https://web.gekisaka.jp/news/japan/detail/?452802-452802-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-06-06T03:54:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/453000/452802/news_452802_1.jpg?time=20260606125449",
-          "language": "ja"
-        },
-        {
-          "title": "今日6日～明日7日 九州南部・奄美は土砂災害に厳重警戒 沖縄・四国も大雨のおそれ",
-          "description": "今日6日は、南西諸島付近で前線の活動が活発となっており、昼前は奄美地方で非常に激しい雨の降った所がありました。奄美・沖縄ではこのあとも雨の降る所が多く、夜には九州南部でも広く雨が降り始めるでしょう。明日7日は四国地方にも活発な雨雲がかかる見込みです。九州南部・奄美では土砂災害に厳重な警戒を。また、沖縄・四国でも土砂災害などに警戒してください。",
-          "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/06/06/39228.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-06-06T03:38:18Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/392/39228/main/20260606120259/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "なにわ男子・高橋恭平、大橋和也の金髪メッシュ継承 自称“知的男子”アピール「クイズ番組に僕が必要になってきた」【山口くんはワルくない】",
-          "description": "なにわ男子の高橋恭平が6日、都内で行われた主演映画『山口くんはワルくない』公開記念舞台挨拶に、女優の高橋ひかる（※「高」は正式には「はしごだか」）、俳優の岩瀬洋志、守屋健太郎監督とともに登壇。最近ガチになっていることを聞かれ、自身の髪色について語った。",
-          "url": "https://mdpr.jp/cinema/detail/4793870",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-06-06T03:15:13Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/LpAY/wm/LpAYJLbqzMhXEIS6Z9wUlgK46g7qLtRp0I3slZQiBj8.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "五輪切符獲得へ ティリ監督の思い「ノーホリデー、ノーレスト」",
-          "description": "バレーボール男子日本代表にとって、今年は勝負の年だ。 　9月に福岡県で開かれるアジア選手権で優勝すれば、2028年ロサンゼルス・オリンピックの出場権を得ることができる。",
-          "url": "https://mainichi.jp/articles/20260605/k00/00m/050/209000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-06-06T03:00:00Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/06/05/20260605k0000m050210000p/0c10.jpg?1",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Actor Salim Kumar hospitalised, on ventilator support in kerala",
-          "description": "National award-winning actor Salim Kumar is hospitalized in Kochi and currently on ventilator support due to health issues.",
-          "url": "https://www.thehindu.com/news/national/kerala/national-award-winning-malayalam-actor-salim-kumar-hospitalised-on-ventilator-support/article71068936.ece",
+          "title": "Ukraine launches large-scale drone attack as Putin meets Schröder",
+          "description": "Ukraine's President Volodymyr Zelensky said \"it is time to end this war\" after confirming he had ordered the strike on Russian targets, including naval and energy sites across the west of the country.",
+          "url": "https://www.euronews.com/my-europe/2026/06/06/ukraine-launches-large-scale-drone-attack-as-putin-meets-schroder",
           "source": {
-            "name": "The Hindu"
+            "name": "Euronews.com"
           },
-          "publishedAt": "2026-06-06T07:24:52Z",
-          "image": "https://th-i.thgim.com/public/incoming/1amp0n/article71068947.ece/alternates/LANDSCAPE_1200/Salim_Kumar4.jpg",
+          "publishedAt": "2026-06-06T10:02:23Z",
+          "image": "https://images.euronews.com/articles/stories/09/78/04/47/1200x675_cmsv2_9c6f854c-c1f2-525b-a0e0-2e0c1669106d-9780447.jpg",
           "language": "en"
         },
         {
-          "title": "US, Iran Trade Strikes Despite Visas For World Cup Footballers",
-          "description": "US, Iran Trade Strikes Despite Visas For World Cup Footballers",
-          "url": "https://www.channelstv.com/2026/06/06/us-iran-trade-strikes-despite-visas-for-world-cup-footballers/",
+          "title": "EBRD governors endorse Bank’s focus on Ukraine and Middle East",
+          "description": "Resolution adopted at EBRD’s 35th Annual Meeting in Riga",
+          "url": "https://www.ebrd.com/home/news-and-events/news/2026/EBRD-governors-endorse-Banks-focus-on-Ukraine-and-Middle-East.html",
           "source": {
-            "name": "Channels Television"
+            "name": "EBRD"
           },
-          "publishedAt": "2026-06-06T07:24:47Z",
-          "image": "https://www.channelstv.com/wp-content/uploads/2026/06/FIFA-Football.jpg",
+          "publishedAt": "2026-06-06T10:01:58Z",
+          "image": "https://www.ebrd.com/content/dam/ebrd_dxp/assets/images/Design assets/press-releases/Bank-St-hero-1282 x 682.jpeg",
           "language": "en"
         },
         {
-          "title": "IDPs, Military Personnel Slated To Vote On June 9: NEBE",
-          "description": "Officials at the National Election Board of Ethiopia (NEBE) have designated Tuesday June 9, 2026 as the date when specially designated IDP communities and",
-          "url": "https://www.thereporterethiopia.com/51071/",
+          "title": "England vs New Zealand LIVE: First Test, day three, Lord's",
+          "description": "England play New Zealand in the first Test at Lord's - follow live text updates, radio commentary and in-play video highlights.",
+          "url": "https://www.bbc.co.uk/sport/cricket/live/c30rqv2lrnrt",
           "source": {
-            "name": "The Reporter Ethiopia"
+            "name": "BBC"
           },
-          "publishedAt": "2026-06-06T07:24:36Z",
-          "image": "https://www.thereporterethiopia.com/wp-content/uploads/2026/06/IDPS-MILITARY-PERSONNEL-SLATED-TO-VOTE.jpg",
+          "publishedAt": "2026-06-06T10:01:00Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e790/live/689500e0-618b-11f1-ac09-0de563e16e87.jpg",
           "language": "en"
         },
         {
-          "title": "Healy-Rae split: A family feud casts a shadow over Kerry's most powerful political name",
-          "description": "Residents in Kilgarvan react cautiously as tensions between Michael and Danny Healy-Rae emerge publicly",
-          "url": "https://www.irishexaminer.com/news/spotlight/arid-41857515.html",
+          "title": "Princess Diana wore this year's must-have sandals back in 1981.",
+          "description": "Wedge sandals are making a comeback this summer. Princess Diana wore them back in 1981, and today they are once again a favourite choice.",
+          "url": "https://vogueadria.com/princess-diana-wedge-sandals-1981-trend-return/",
           "source": {
-            "name": "Irish Examiner"
+            "name": "Vogue Adria"
           },
-          "publishedAt": "2026-06-06T07:24:00Z",
-          "image": "https://www.irishexaminer.com/cms_media/module_img/10216/5108466_17_seoimageog_dan_20healy_2017.jpg",
+          "publishedAt": "2026-06-06T10:00:19Z",
+          "image": "https://vogueadria.com/wp-content/uploads/2026/06/princeza-diana.jpg",
           "language": "en"
         },
         {
-          "title": "At last, US grants Iran visa few days to 2026 World Cup kick",
-          "description": "Iran's national football team has been granted visas to enter the United States ahead of the 2026 FIFA World Cup, ending weeks of uncertainty over the",
-          "url": "https://blueprint.ng/at-last-us-grants-iran-visa-few-days-to-2026-world-cup-kick-off/",
+          "title": "Today’s Wordle Hints for June 7, 2026",
+          "description": "Scroll down for hints and conversation about the puzzle for Sunday, June 7, 2026.",
+          "url": "https://www.nytimes.com/2026/06/06/crosswords/wordle-review-1814.html",
           "source": {
-            "name": "Blueprint Newspapers"
+            "name": "The New York Times"
           },
-          "publishedAt": "2026-06-06T07:23:53Z",
-          "image": "https://blueprint.ng/wp-content/uploads/2026/06/IMG-20260606-WA0001.jpg",
+          "publishedAt": "2026-06-06T10:00:11Z",
+          "image": "https://static01.nyt.com/images/2026/06/06/crosswords/07wordle-review-art-1814/07wordle-review-art-1814-facebookJumbo.jpg",
           "language": "en"
         },
         {
-          "title": "SIU raids dealership, seizes Bentley linked to Tembisa Hospital procurement irregularities",
-          "description": "In a bold move against procurement fraud linked to Tembisa Hospital, the SIU has seized a luxury Bentley from Omar Motor Den, spotlighting the ongoing investigation into alleged tender irregularities involving Hangwani Maumela.",
-          "url": "https://iol.co.za/news/crime-and-courts/2026-06-05-siu-raids-dealership-seizes-bentley-linked-to-tembisa-hospital-procurement-irregularities/",
+          "title": "NYT Connections Answers for June 7, 2026",
+          "description": "Scroll down for hints and conversation about the puzzle for Sunday, June 7, 2026.",
+          "url": "https://www.nytimes.com/2026/06/06/crosswords/connections-companion-1092.html",
           "source": {
-            "name": "IOL"
+            "name": "The New York Times"
           },
-          "publishedAt": "2026-06-06T07:23:11Z",
-          "image": "https://iol-prod.appspot.com/image/1e2d6c530029fc3734b7b31a230e4d9c671ccbf3/1000/jpeg",
+          "publishedAt": "2026-06-06T10:00:07Z",
+          "image": "https://static01.nyt.com/images/2026/06/06/crosswords/07connections-art-1171/07connections-art-1171-facebookJumbo.jpg",
           "language": "en"
         },
         {
-          "title": "Fifa will allow plastic water bottles at World Cup after backlash to ban",
-          "description": "World Cup chief operating officer says hard-sided resealable water containers could pose ‘safety and security risk’",
-          "url": "https://www.irishtimes.com/sport/soccer/2026/06/06/fifa-will-allow-plastic-water-bottles-at-world-cup-after-backlash-to-ban/",
+          "title": "Is bone broth good for you?",
+          "description": "Here’s what to know about what bone broth is, why it can be good for you and who needs to be careful about overdoing it.",
+          "url": "https://www.usatoday.com/story/life/health-wellness/is-bone-broth-good-for-you/89957901007/",
           "source": {
-            "name": "The Irish Times"
+            "name": "USA Today"
           },
-          "publishedAt": "2026-06-06T07:22:08Z",
-          "image": "https://www.irishtimes.com/resizer/v2/6SY3OWAE5REXHL4Q7JMINHRQXY.jpg?smart=true&auth=51a37c1ec1dbe77ae5f466d68c9ef47ca302b9e73d8b07ddf7bae7ea51bd6d18&width=1200&height=630",
+          "publishedAt": "2026-06-06T10:00:00Z",
+          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/06/USAT/89957939007-getty-images-1360053817.jpg?crop=2119,1192,x0,y0&width=2119&height=1192&format=pjpg&auto=webp",
           "language": "en"
         },
         {
-          "title": "Security tightened in G-B as Section 144 imposed in Diamer ahead of polls",
-          "description": "District administration appeals to citizens to comply with order, warns of strict action against violators",
-          "url": "https://tribune.com.pk/story/2611729/security-tightened-in-g-b-as-section-144-imposed-in-diamer-ahead-of-polls",
+          "title": "UK urged not to further weaken EV rules as CO2 impact revealed",
+          "description": "British vehicles will emit extra 17m tonnes of CO2 by 2030 due to loophole allowing sale of more PHEVs, data suggests",
+          "url": "https://www.theguardian.com/business/2026/jun/06/uk-weaken-ev-rules-co2-impact-phevs",
           "source": {
-            "name": "The Express Tribune"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-06-06T07:21:28Z",
-          "image": "https://i.tribune.com.pk/media/images/gb1780730329-0/gb1780730329-0-640x480.webp",
+          "publishedAt": "2026-06-06T10:00:00Z",
+          "image": "https://i.guim.co.uk/img/media/9f27ebb2ad616ab4b68e45d40e953499fe097a5d/401_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7d5136990769a3f38207d66cba8b2a5f",
           "language": "en"
         },
         {
-          "title": "Many paths to peace - Artist ‘Deng Cool’ is playing his part in the pursuit of peace in South Sudan",
-          "description": "WAU - “Life comes down to one choice – become part of the change or part of the problem.”For Marko Deng, known as ‘Deng Cool’, the choice was easy.From studying and working as a market",
-          "url": "https://unmiss.unmissions.org/en/news/many-paths-to-peace-artist-deng-cool-is-playing-his-part-in-the-pursuit-of-peace-in",
+          "title": "Eduwatch calls for equity-focused dacf reform",
+          "description": "Education policy think tank, Eduwatch, has called on the government to urgently reform the District Assemblies Common Fund (DACF) allocation formula to ensure that deprived districts with the greatest educational infrastructure needs receive a fairer share of resources",
+          "url": "https://www.graphic.com.gh/news/general-news/ghana-news-eduwatch-calls-for-equity-focused-dacf-reform.html",
           "source": {
-            "name": "UNMISS"
+            "name": "Graphic Online"
           },
-          "publishedAt": "2026-06-06T07:21:22Z",
-          "image": "https://unmiss.unmissions.org/sites/default/files/styles/3_2_lg/public/2026-06/img_0555.jpg?h=a627b216&itok=bc2KKXnZ",
+          "publishedAt": "2026-06-06T10:00:00Z",
+          "image": "https://www.graphic.com.gh/images/2026/June/06/Asare.jpg",
           "language": "en"
         },
         {
-          "title": "UPDATE: Maumela's Bentley linked to Tembisa Hospital fraud investigation sold by dealership",
-          "description": "The SIU has confirmed it has not located the Bentley Continental GT linked to procurement irregularities at Tembisa Hospital, as investigations continue into alleged tender fraud by Hangwani Maumela.",
-          "url": "https://iol.co.za/news/crime-and-courts/2026-06-05-update-bentley-linked-to-tembisa-hospital-fraud-investigation-sold-by-dealership/",
+          "title": "What Is Going Wrong with the Boy Child?",
+          "description": "%%title%% %%sep%% %%primary_category%% %%sep%% %%sitename%% %%sep%% The former president of the United States, Barack Obama, once said the boy child may walk through storms unseen, carrying wounds hidden behind silence and pride. Despite neglect, he must resist becoming a prisoner of bitterness and destruction. Society must raise him with care, but he must also raise himself with discipline, wisdom and purpose.",
+          "url": "https://www.namibian.com.na/what-is-going-wrong-with-the-boy-child/",
           "source": {
-            "name": "IOL"
+            "name": "The Namibian -"
           },
-          "publishedAt": "2026-06-06T07:20:54Z",
-          "image": "https://iol-prod.appspot.com/image/63d11aee7e7771b5328096d8d356b2b514112556/960/jpeg",
+          "publishedAt": "2026-06-06T10:00:00Z",
+          "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/06/6-4.jpg",
           "language": "en"
         }
       ]
