@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-07T19:24:29.135Z",
+  "updatedAt": "2026-06-07T22:05:12.764Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【試合結果速報】新生ロコ・ソラーレ白星発進 第5エンドに一挙4点獲得 日本選手権1次予選リーグ／カーリング",
+          "description": "カーリング日本選手権1次予選リーグ（7日、横浜BUNTAI）〝新生ロコ・ソラーレ〟は、初戦でGRANDIRと対戦。ロコ・ソラーレが9-2で白星発進を決めた。",
+          "url": "https://www.sanspo.com/article/20260607-DE4R36FS4VEW3BAJJKXJRUEHZM/",
+          "source": {
+            "name": "サンスポ"
+          },
+          "publishedAt": "2026-06-07T10:03:21Z",
+          "image": "https://www.sanspo.com/resizer/v2/WGBAUNZS4NMEJAH3E44BTBJVDM.jpg?auth=9446c62aec324b1d39d8084d84d1dd0e6adb532ac9b97f7f1a38fe5faf3b52e4&quality=50&focal=2322%2C915&width=1200&height=675",
+          "language": "ja"
+        },
+        {
+          "title": "週の中頃は広く梅雨の中休み 沖縄や奄美は大雨に警戒",
+          "description": "きょうは、関東甲信地方や東海地方で梅雨入りの発表がありました。ただ、週の中頃は、早くも梅雨の中休みとなりそうです。一方、沖縄や奄美は梅雨前線が停滞し、明後日9日(火)からは長雨となって、警報級の大雨になる恐れがあります。梅雨のない北海道でも、明日8日(月)夕方以降は雨や風が強まり、荒れた天気になるでしょう。",
+          "url": "https://tenki.jp/forecaster/y_tabata/2026/06/07/39243.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-06-07T09:50:39Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/392/39243/main/20260607141645/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「世界の中心」という誇りと「何度も侵略された」被害者意識…イラン外交の理解に欠かせない“矛盾”の正体（ダイヤモンド・オンライン）",
+          "description": "中東諸国のなかで、イランはしばしば周囲と異なる振る舞いを見せてきた。対米・対イスラエルの姿勢においても、アラブ諸国と歩調を合わせることは少ない。その違いはどこから生まれているのか。※本稿は、中東研",
+          "url": "https://news.yahoo.co.jp/articles/d87292f193657f5dd437e9c9ddf53e48a9a2dd78",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-07T09:00:36Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260607-00391205-diamond-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【巨人】あぁ５連勝まであと１死から…９回２死マルティネスまさかの同点ソロ被弾 ２日連続で延長１２回ドロー…６月不敗は継続 ４勝２分け",
+          "description": "◆日本生命セ・パ交流戦　２０２６　巨人２―２ロッテ＝延長１２回＝（７日・東京ドーム）\n　巨人は２日連続の延長１２回ドローとなった。１点リードの９回２死で守護神のライデル・マルティネス投手がロッテの",
+          "url": "https://news.yahoo.co.jp/articles/0d57942aceca1e9de7b5fbf1918b54820caf6e5c",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-07T08:58:42Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260607-06071282-sph-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【速報】沖縄県に「レベル4土砂災害危険警報」を発表 危険な場所から避難を",
+          "description": "7日17時22分、沖縄県国頭村に「レベル4土砂災害危険警報」が発表されました。これまでの大雨によって土砂災害の危険度が高まっています。ただちに危険な場所から全員避難してください。また、18時13分、沖縄県東村にも「レベル4土砂災害危険警報」が発表されました。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/06/07/39246.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-06-07T08:45:03Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/392/39246/main/20260607173853/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "サムスンの折りたたみスマホ「Galaxy Z Fold」が「Ultra」に名称変更でほぼ確。Ultraの意味は？",
+          "description": "7月発表が期待されるSamsung（サムスン）の折りたたみスマートフォン新モデル。以前から、名称変更が噂されていましたが、どうやら変更で間違いないみたい。Bluetooth企画の標準化団体Bluetooth SIGの認証リストに、発表間近だ",
+          "url": "https://www.gizmodo.jp/article/samsung-galaxy-z-fold-name-change-ultra/",
+          "source": {
+            "name": "ギズモード・ジャパン"
+          },
+          "publishedAt": "2026-06-07T08:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/06/07/bc7e497c-256d-4850-883a-0556f91abd4b/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "【ヤクルト】日本ハムに惨敗で今季初の4連敗... 4月以来の同一カード3連敗 奥川5回2被弾6失点 内山痛恨失策 ドラ7ルーキー飯田初登板 武岡1打点",
+          "description": "■プロ野球　ヤクルト1ー7 日本ハム　（7日　神宮）\nヤクルトは日本ハムに敗戦。今季初の4連敗となった。32勝25敗の貯金7、交流戦の戦績は4勝7敗1分となった。\n試合は1回、先発の奥川がレイエ",
+          "url": "https://news.yahoo.co.jp/articles/2320cf07167da64fde505a529fecfa4597bde85f",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-07T07:34:56Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260607-00010010-jnn-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "3.7インチの超小型リーダーが、私の移動時間をすべて読書に変えた",
           "description": "カードサイズの超小型電子書籍リーダー「Xteink X3」の長期レビュー。900ページの長編小説も快適に読める驚きの操作性、上位モデル「X4」との違い、カスタムOS導入による劇的な進化まで徹底解説。スマホ疲れから抜け出し、限られた時間を読書に投資したいビジネスパーソン必見のガジェット活用法です。",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-06-07T06:34:19Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260607-01156438-fnn-000-2-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "『豊臣兄弟！』キャスト相関図を大幅更新 ドラマ本編では急展開も",
-          "description": "ニュース｜　仲野太賀が主演を務めるNHK大河ドラマ『豊臣兄弟！』（毎週日曜　後8：00）の第22回「播磨大誤算」が7日に放送される。播磨平定を目前にしながら情勢が急変し、池松壮亮演じる秀吉が思わぬ事態に見舞われる展開となる。あわせて最新相関図も公開され、新たな登場人物たちにも注目が集まっている。　大河ドラマ第65作となる同作は、豊臣秀吉の弟・豊臣秀長（小一郎）を主人公に描く戦国エンターテインメント。天下統一を支えた名補佐役・秀長の視点から、豊臣兄弟の軌跡と戦国時代の激動を描いている。",
-          "url": "https://www.oricon.co.jp/news/2459610/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-06-07T06:08:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2460000/2459610/20260607_150546_p_o_77808482.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "22歳の吉田鈴がツアー初優勝 史上4組目の姉妹V",
-          "description": "◇国内女子◇ヨネックスレディスゴルフトーナメント 最終日（7日）◇ヨネックスCC（新潟）◇6483yd（パー72）◇晴れ（観衆2789人） プロ2年目の22歳、吉田鈴がツアー初優勝を飾った。単独首位から出て3バーディ、2ボギーの「71」でプ",
-          "url": "https://news.golfdigest.co.jp/news/results/jlpga/article/191936/1/",
-          "source": {
-            "name": "GDOゴルフニュース"
-          },
-          "publishedAt": "2026-06-07T05:46:21Z",
-          "image": "https://i.gimg.jp/cmsimg/426067.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【ゲームもご飯も全部無料】韓国でも1時間150円の破格コスパで楽しめる「PCバン」が大阪に出現！本場のゲーム＆食文化をまるごと体験してきた",
-          "description": "これは近所にあったら通っちゃう……！大阪「駐大阪韓国文化院」に期間限定で登場していた韓国のゲーム文化の礎「PCバン」。",
-          "url": "https://www.gamespark.jp/article/2026/06/07/167574.html",
-          "source": {
-            "name": "Game*Spark"
-          },
-          "publishedAt": "2026-06-07T03:30:03Z",
-          "image": "https://www.gamespark.jp/imgs/ogp_f/1138702.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "午後は大雨エリアが東へ 四国～今日7日梅雨入りした東海・関東甲信の大雨ピークは?",
-          "description": "今日7日(日)午後は、大雨エリアが九州から四国や近畿など東へ移ります。台風6号と同じような場所で大雨となるため、少しの雨でも土砂災害に注意が必要です。今日7日梅雨入りとなった東海や関東甲信など、各地の大雨ピークや注意点は?",
-          "url": "https://tenki.jp/forecaster/r_fukutomi/2026/06/07/39240.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-06-07T03:08:22Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/392/39240/ogp/20260607120740/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "大宮セブン12周年記念 各組主宰公演や記念グッズ発売、等身大パネルリニューアル",
-          "description": "埼玉・大宮ラクーンよしもと劇場と同劇場の看板ユニット・大宮セブンが、来月7月に12周年を迎えることを記念してアニバーサリー当日となる7月7日（火）にイベントを開催。「大宮セブン12周年記念寄席」「大宮セブン12th Birthday Part...",
-          "url": "https://natalie.mu/owarai/news/675139",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-06-07T03:00:00Z",
-          "image": "https://ogre.natalie.mu/media/news/owarai/2026/0607/oomiya_03.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
-        },
-        {
-          "title": "最新研究。猫アレルギー、UVライトで無効化できるかも？|au Webポータル",
-          "description": "2025年10月14日の記事を編集して再掲載しています。アレルギーって辛いですよね。 花粉もハウスダストも食べ物もペットも、アレルギーが発症してしまったら、日常生活に影響が出てしまいます。 かく言う私",
-          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260607_1780800202253508",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-06-07T02:35:00Z",
-          "image": "https://portal.st-img.jp/assets/img/article_ogp.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "最新研究。猫アレルギー、UVライトで無効化できるかも？",
-          "description": "2025年10月14日の記事を編集して再掲載しています。アレルギーって辛いですよね。 花粉もハウスダストも食べ物もペットも、アレルギーが発症してしまったら、日常生活に影響が出てしまいます。 かく言う私も複数のアレルギーを持っていて、免疫が落",
-          "url": "https://www.gizmodo.jp/article/scientists-discover-surprising-allergy-fix-uv-light-pjz/",
-          "source": {
-            "name": "ギズモード・ジャパン"
-          },
-          "publishedAt": "2026-06-07T02:35:00Z",
-          "image": "https://media.loom-app.com/gizmodo/dist/images/2025/10/08/UV-lights-672x448.jpeg?w=1200&h=630",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "PPP launches membership drive in Lahore, sets target of 115,000 members",
-          "description": "LAHORE  -  The Pakistan Peoples Party (PPP) on Saturday launched a large-scale membership campaign in Lahore, with party leaders expressing confidence in",
-          "url": "https://www.nation.com.pk/07-Jun-2026/ppp-launches-membership-drive-lahore-sets-target-115-000-members",
+          "title": "US troops, families adjust to new normal of Iran war",
+          "description": "By Phil Stewart WASHINGTON, June 7 (Reuters) - Fourteen weeks after President Donald Trump ordered an attack on Iran, the U.S. military is adjusting to an unusual state of conflict that is not full-",
+          "url": "https://www.yahoo.com/news/politics/articles/us-troops-families-adjust-normal-100504771.html",
           "source": {
-            "name": "The Nation (Pakistan )"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-06-07T07:24:00Z",
-          "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+          "publishedAt": "2026-06-07T10:05:04Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/03ca0e2d0be518a9fff6f42c3605fe74bf13c9c16ba6b0103fd8749c29d18134/lightyear_networkapi/resizefill_w450_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8e965680a0868534dc76b150bfe91943",
           "language": "en"
         },
         {
-          "title": "Bithumb's bitcoin payout blunder results in $1.6 mil. compensation",
-          "description": "Korea's major cryptocurrency exchanges have paid out billions of won in compensation for hacking incidents and system failures in recent years, dat...",
-          "url": "https://www.koreatimes.co.kr/economy/cryptocurrency/20260607/bithumbs-bitcoin-payout-blunder-results-in-16-mil-compensation",
+          "title": "Lebanon sentences anti-Hezbollah activists to 15 years",
+          "description": "A Lebanese court sentenced anti-Hezbollah activists in absentia over allegations they incited Israeli military action.",
+          "url": "https://www.jpost.com/middle-east/article-898595",
           "source": {
-            "name": "The Korea Times"
+            "name": "The Jerusalem Post"
           },
-          "publishedAt": "2026-06-07T07:23:02Z",
-          "image": "https://newsimg.koreatimes.co.kr/2026/06/07/3487eb0d-01e0-4eff-9a14-85ac36717e55.jpg",
+          "publishedAt": "2026-06-07T10:04:46Z",
+          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/709147",
           "language": "en"
         },
         {
-          "title": "Health workers at the epicenter of Congo's Ebola outbreak labor with little pay or rest",
-          "description": "MONGBWALU, Congo (AP) — Dr. Richard Lokudu, the medical director of Mongbwalu General Referral Hospital, has received barely any compensation for his work on",
-          "url": "https://infonews.ca/news/7668355/health-workers-at-the-epicenter-of-congos-ebola-outbreak-labor-with-little-pay-or-rest/",
+          "title": "Multi Brick Breaker Launches on Steam June 9th -15% Off for 14 Days!",
+          "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+          "url": "https://www.gamespress.com/de/Multi-Brick-Breaker-Launches-on-Steam-June-9th-15-Off-for-14-Days",
           "source": {
-            "name": "iNFOnews.ca"
+            "name": "Games Press"
           },
-          "publishedAt": "2026-06-07T07:20:39Z",
-          "image": "https://infonews.ca/wp-content/uploads/25114da8fdd166e038da9330b100342bcb8d343bc4ada0a11955a7f73a8a7eb6.jpg",
+          "publishedAt": "2026-06-07T10:04:19Z",
+          "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
           "language": "en"
         },
         {
-          "title": "Bafana continue with their World Cup preparations after Jamaica friendly",
-          "description": "7 June 2026 – Bafana Bafana coach Hugo Broos and his charges will continue to put in the work as the opening match of the 2026 FIFA World Cup edges closer with each passing day. The South Africans have quietly gone about their business at their base camp in Pachuca, Mexico, since arriving in this",
-          "url": "https://www.safa.net/general-news/bafana-continue-with-their-world-cup-preparations-after-jamaica-friendly/",
+          "title": "School forced to pay fees after rejecting learner with albinism from boarding section",
+          "description": "However, police said the matter did not amount to a criminal offence",
+          "url": "https://www.monitor.co.ug/uganda/news/national/school-forced-to-pay-fees-after-rejecting-learner-with-albinism-from-boarding-section-5487830",
           "source": {
-            "name": "South African Football Association"
+            "name": "Daily Monitor"
           },
-          "publishedAt": "2026-06-07T07:17:54Z",
-          "image": "https://www.safa.net/wp-content/uploads/2026/06/Hugo-Broos-Jamaica.jpg",
+          "publishedAt": "2026-06-07T10:04:11Z",
+          "image": "https://www.monitor.co.ug/resource/image/5487828/landscape_ratio3x2/1200/800/5689f639f880e040a5159cc93da266bf/sg/latest06pix.png",
           "language": "en"
         },
         {
-          "title": "At least 12 people wounded and two in critical condition after shooting near US festival",
-          "description": "Police said it appeared there were at least two shooters and that they were ‘probably shooting at each other’.",
-          "url": "https://www.thejournal.ie/at-least-12-people-wounded-after-shooting-near-us-festival-7063022-Jun2026/",
+          "title": "So much more than a BlackBerry clone",
+          "description": "The Unihertz Titan 2 Elite may look like a lazy BlackBerry clone, but it really isn't. Here's why it's one of my favorite phones right now.",
+          "url": "https://www.androidauthority.com/unihertz-titan-2-elite-hands-on-3673626/",
           "source": {
-            "name": "The Journal"
+            "name": "Android Authority"
           },
-          "publishedAt": "2026-06-07T07:17:00Z",
-          "image": "https://img2.thejournal.ie/article/7063022/river/?height=400&version=7063023",
+          "publishedAt": "2026-06-07T10:03:24Z",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Unihertz-Titan-2-Elite-against-woods-scaled.jpg",
           "language": "en"
         },
         {
-          "title": "Anwar greenlights RM25m annual grant for AIMST, plus RM1m top-up for needy students",
-          "description": "SUNGAI PETANI, June 7 — The federal government has approved an additional RM1 million allocation for AIMST University to ensure students from underprivileged families continue to...",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/07/anwar-greenlights-rm25m-annual-grant-for-aimst-plus-rm1m-top-up-for-needy-students/222849",
+          "title": "South Africa border officials on alert as Ebola outbreak expands",
+          "description": "%%title%% %%sep%% %%primary_category%% %%sep%% %%sitename%% %%sep%% As a deadly Ebola outbreak continues to spread across parts of Central Africa, South Africa's Border Management Authority (BMA) says it has intensified screening and surveillance measures at ports of entry to prevent the virus from entering the country.",
+          "url": "https://www.namibian.com.na/south-africa-border-officials-on-alert-as-ebola-outbreak-expands/",
           "source": {
-            "name": "Malay Mail"
+            "name": "The Namibian -"
           },
-          "publishedAt": "2026-06-07T07:16:24Z",
-          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/06/07/345139.JPG",
+          "publishedAt": "2026-06-07T10:02:52Z",
+          "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-07-at-11.49.09-AM-1024x682.jpeg",
           "language": "en"
         },
         {
-          "title": "Cebu City tightens school security as classes reopen on June 8",
-          "description": "Cebu City has tightened security around public schools as thousands prepare to return to campuses across the city.",
-          "url": "https://cebudailynews.inquirer.net/735120/cebu-city-tightens-school-security-as-classes-reopen-on-june-8",
+          "title": "At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say",
+          "description": "Gunfire erupted Saturday near a busy street festival in Ohio, wounding at least 12 people and sending some eventgoers scrambling for cover while others rushed to help the victims.",
+          "url": "https://www.npr.org/2026/06/07/nx-s1-5849137/12-people-shot-ohio-festival",
           "source": {
-            "name": "Cebu Daily News"
+            "name": "NPR"
           },
-          "publishedAt": "2026-06-07T07:16:00Z",
-          "image": "https://cebudailynews.inquirer.net/files/2026/06/714561332_1424089799751027_6410993656363980561_n.jpg",
+          "publishedAt": "2026-06-07T10:02:05Z",
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5410x3043+0+281/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2Ff2%2F906ee53541e798320d8e94a2880e%2Fap26158071886817.jpg",
           "language": "en"
         },
         {
-          "title": "Jade Bennett sentenced for smashing 81yo Hamilton man's head into brick wall",
-          "description": "The 81-year-old victim says Jade Bennett wanted to kill him.",
-          "url": "https://www.rnz.co.nz/news/crime-and-justice/597486/jade-bennett-sentenced-for-smashing-81yo-hamilton-man-s-head-into-brick-wall",
+          "title": "US show the fight Pochettino wanted - just in time for the World Cup",
+          "description": "The defeat hurt, but the Americans’ response to an early German goal provided perhaps the clearest evidence yet that their manager’s message is taking root",
+          "url": "https://www.theguardian.com/football/2026/jun/07/usmnt-germany-world-cup-friendly-pochettino-robinson",
           "source": {
-            "name": "RNZ"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-06-07T07:14:20Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--4Mj3o9jn--/t_tohu-badge-facebook/v1780794149/4JNENRY_Jade_Bennett_png?_a=BACCd2AD",
+          "publishedAt": "2026-06-07T10:01:00Z",
+          "image": "https://i.guim.co.uk/img/media/ddadadddbe923a25b23d008e443c06d72115198a/386_0_3841_3075/master/3841.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7617626fb620676614007d6575c83360",
           "language": "en"
         },
         {
-          "title": "2-1: Endrick scores the winning goal for Brazil against Egypt",
-          "description": "The forward came on in the second half and was decisive in the friendly played in Cleveland. Vini Jr. started and played the entire first half.",
-          "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/brasil-egipto-07-06-2026",
+          "title": "Kalshi launches US trading of cryptocurrency perpetual futures",
+          "description": "Kalshi becomes the first US exchange to offer CFTC-regulated crypto perpetual futures, starting with Bitcoin and targeting over a dozen more tokens with",
+          "url": "https://cryptobriefing.com/kalshi-crypto-perpetual-futures-us-launch/",
           "source": {
-            "name": "Real Madrid CF | Web Oficial"
+            "name": "Crypto Briefing"
           },
-          "publishedAt": "2026-06-07T07:14:00Z",
-          "image": "https://assets.realmadrid.com/is/image/realmadrid/ND-ENDRICK-BRASIL-IMG_1101_5dde3254eb?wid=1200&hei=675",
+          "publishedAt": "2026-06-07T10:00:53Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
           "language": "en"
         },
         {
-          "title": "VIDEO: Another building collapse during rainfall in Accra; 2 people rescued",
-          "description": "Daily news from Ghana and local Accra news stories including crime, health, education and general news by Daily Graphic.",
-          "url": "https://www.graphic.com.gh/news/general-news/video-another-building-collapse-during-rainfall-in-accra.html",
+          "title": "The U.S. fought the flesh-eating screw worm for decades. Now it begins again.",
+          "description": "It took the U.S. decades and hundreds of millions of dollars to eradicate the flesh-eating New World screwworm. Here’s the plan to renew the fight now that it’s back.",
+          "url": "https://www.nbcnews.com/science/environment/flesh-eating-screw-worm-fight-plan-rcna348521",
           "source": {
-            "name": "Graphic Online"
+            "name": "NBC News"
           },
-          "publishedAt": "2026-06-07T07:13:37Z",
-          "image": "https://www.graphic.com.gh/images/2026/June/07/IMG_3232.jpeg",
+          "publishedAt": "2026-06-07T10:00:40Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260604-screwworm-rs-a4d9c7.jpg",
           "language": "en"
         }
       ]
