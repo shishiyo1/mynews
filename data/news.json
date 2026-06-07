@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-07T08:57:30.106Z",
+  "updatedAt": "2026-06-07T11:12:56.775Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "90年代風の絵柄がかわいい農業シミュレーションRPG『Fields of Mistria』の日本語対応が発表",
+          "description": "結婚式イベントや子供などの新コンテンツが多数追加。魔法を使って農業したり、12人の個性豊かなキャラと結婚できる「圧倒的に好評」の人気作",
+          "url": "https://news.denfaminicogamer.jp/news/260607i",
+          "source": {
+            "name": "電ファミニコゲーマー"
+          },
+          "publishedAt": "2026-06-06T22:57:00Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/PhotoshopExtension_Image_3-10.png",
+          "language": "ja"
+        },
+        {
+          "title": "大谷翔平が「１番DH」で出場 山本由伸が今季６勝目をかけ先発／スタメン一覧",
+          "description": "ドジャース大谷翔平投手（31）が本拠地でのエンゼルス戦に「1番DH」で出場し、山本由伸投手（27）が今季6勝目をかけて先発登板する。大谷は前日5日（同6日）の… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/baseball/mlb/news/202606070000092.html",
+          "source": {
+            "name": "日刊スポーツ"
+          },
+          "publishedAt": "2026-06-06T22:56:24Z",
+          "image": "https://www.nikkansports.com/baseball/mlb/news/img/202606070000092-w500_0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ENHYPEN、ヘッドライナーでアンコール求める声止まず 新アルバムも予告「本当に面白くなりそうです」【Weverse Con Festival】",
+          "description": "グローバルグループ・ENHYPEN（エンハイプン）が6日、韓国・ソウルのオリンピック公園（KSPO DOME、88芝生広場）にて開催された「2026 Weverse Con Festival」に出演した。",
+          "url": "https://mdpr.jp/k-enta/detail/4794248",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-06-06T22:00:00Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/wkTd/nm/wkTdl1jHN0z1CY3ya6ePdox32tZE1IYSHfIIGjGFS6Q.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
+        {
+          "title": "「コーチになってもらって感謝しかない」「男子の基準なんじゃないかな」なでしこSB２人が明かした内田＆近賀加入の特大効果。ピッチ外ではどんな話を？（SOCCER DIGEST Web）",
+          "description": "［国際親善試合］日本女子 ５－０ 南アフリカ女子／６月６日／YANMAR HANASAKA STADIUM\n　近賀ゆかり氏と共に、内田篤人氏が今活動からコーチとして加わった。試合前のウォームアップ",
+          "url": "https://news.yahoo.co.jp/articles/26a61273f59be7bc0b24635e306431fb4069c06b",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-06T21:54:43Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260607-00191600-sdigestw-000-6-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "Codex、「Computer Use」とリモート操作がWindowsに対応／GoogleがミッドサイズLLM「Gemma 4 12B」公開",
+          "description": "うっかり見逃していたけれど、ちょっと気になる――そんなニュースを週末に“一気読み”する連載。今回は、5月31日週を中心に公開された主なニュースを一気にチェックしましょう！ (1/3)",
+          "url": "https://www.itmedia.co.jp/pcuser/articles/2606/07/news007.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-06-06T21:00:00Z",
+          "image": "https://image.itmedia.co.jp/pcuser/articles/2606/07/cover_news007.jpg",
+          "language": "ja"
+        },
         {
           "title": "Travis Japanら「けるとめる」ファミリーがFIFAワールドカップを全力応援！宮近「全力でエールを」",
           "description": "Travis JapanがMCを務めるフジテレビ系のサッカーバラエティ「けるとめる」にて、同局系列でオンエアされる「FIFAワールドカップ2026」を応援する企画が決定した。",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-06-06T13:53:54Z",
           "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/06224128/SPJ_8045.jpg?v=1780753290",
           "language": "ja"
-        },
-        {
-          "title": "【ロッテ】巨人と今季初のドロー 借金2のまま...3度のバント失敗が響く 先発・田中5回無失点 澤田が大城に同点被弾 横山9回2死満塁を凌ぐ",
-          "description": "■プロ野球　交流戦　巨人1ー1ロッテ　延長12回　（6日　東京ドーム）\nロッテは巨人に今季初の引き分け、借金2のまま。1ー1で迎えた延長12回、巨人8番手・赤星に友杉は三飛、高部は見逃し三振、代打",
-          "url": "https://news.yahoo.co.jp/articles/d58b801909ea260d9ce28ec87a59e8f39b0e50ca",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-06T13:03:14Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260606-00010023-jnn-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "松本人志とダイアン・津田が理想のラーメンを形に! 「DOWNTOWN+」×宅麺コラボ商品が2種類登場!",
-          "description": "『DOWNTOWN+（ダウンタウンプラス）』と、ラーメンツ半サイトNo.1（※1）の『宅麺.com』がコラボレーションした限定ラーメン2種類が、2026年7月11日（土）正午12:00から販売されます。 これは、2026年3月に配信された『松本人志と〇〇したい！』の中で、ゲストのダイアン・津田篤宏が松本人志とともに理想のラーメンづくりに挑戦したことから始まった企画です。番組内で生まれたアイデアをもとに、試作を重ねて完成した2人のこだわりが詰まった一杯が、満を持して全国へ届けられます。 休日に自宅で鶏ガラを煮込むほどのラーメン好き 津田は、休日に自宅で鶏ガラからじっくりスープを煮込み、チ ...",
-          "url": "https://magazine.fany.lol/279030/",
-          "source": {
-            "name": "Fany Magazine"
-          },
-          "publishedAt": "2026-06-06T12:20:00Z",
-          "image": "https://magazine.fany.lol/wp-content/uploads/2026/06/7966bae78213db11914ad7af893f8431-1.png",
-          "language": "ja"
-        },
-        {
-          "title": "サッカー:ヴィッセル神戸が百年構想リーグＶ 屈辱のACLEから「強み」再確認",
-          "description": "明治安田J1百年構想リーグ・プレーオフラウンド第2戦（6日・メルカリスタジアムほか=10試合）西1位の神戸はアウェーで東1位の鹿島に0-2で敗れたが、2戦合計5-2で優勝した。百年構想リーグはJリーグのシーズン移行に備えた特別大会として行われた。J1の新シーズンは8月に開幕する。ミヒャエル・スキッベ新監督を迎えた神戸は2026年上期、アジア・チャンピオンズリーグエリート（ACLE）と百年構想リー",
-          "url": "https://www.nikkei.com/article/DGXZQODH038NP0T00C26A6000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-06-06T11:26:02Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3131690006062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.53&fp-y=0.14&h=630&w=1200&s=33c7392c977a76d6a887873a42eff032",
-          "language": "ja"
-        },
-        {
-          "title": "「日プ新世界」JO1川尻蓮・INI・トレーナー陣がCM中に見せた姿勢 リスペクト滲むファイナル裏側【現場取材レポ】",
-          "description": "サバイバルオーディション番組「PRODUCE 101 JAPAN」の第4弾となる「PRODUCE 101 JAPAN 新世界」のファイナルが6月6日、東京体育館にて開催され、デビューする「KO1KEYZ」（コイキーズ）のメンバーとなる12人の練習生が決定。ここでは、記者が現場で見た様子をレポートする。",
-          "url": "https://mdpr.jp/music/detail/4793729",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-06-06T11:16:04Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/DcPI/wm/DcPIfe0JMJnyIrSCTXLWCTk0ocrsNwm9L1ibtWdBRpI.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "「おそ松さん」10周年イベントに櫻井孝宏ら11人集結「僕は本当にこの作品が好き」（イベントレポート）",
-          "description": "TVアニメ「おそ松さん」10周年スペシャルイベント「10th ANNIVERSARY OSOMATSUSAN SPECIAL 6DAYS 開幕祭」が本日6月6日に開催された。東京・丸の内ピカデリーで実施されたイベントには、おそ松役の櫻井孝宏、カラ松役の中村悠一、チョ...",
-          "url": "https://natalie.mu/comic/news/675105",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-06-06T10:41:00Z",
-          "image": "https://ogre.natalie.mu/media/news/comic/2026/0606/osomatsusan_10th_event_6.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Precise Galway defeat Dublin to win Leinster hurling title",
-          "description": "The Tribesmen efficiently defused all of their opponents’ most threatening devices",
-          "url": "https://www.irishtimes.com/sport/gaelic-games/2026/06/06/precise-galway-defeat-dublin-to-win-leinster-hurling-title/",
+          "title": "'Love, Respect & Best Terms'",
+          "description": "Peso Pluma and Kenia Os confirmed their breakup on June 6, saying they ended their relationship \"on the best terms.\"",
+          "url": "https://www.billboard.com/music/latin/peso-pluma-kenia-os-breakup-split-statement-1236266207/",
           "source": {
-            "name": "The Irish Times"
+            "name": "Billboard"
           },
-          "publishedAt": "2026-06-06T20:52:48Z",
-          "image": "https://www.irishtimes.com/resizer/v2/R4SPM7KCXDBPZBXIBQH3R3JJWQ.jpg?smart=true&auth=987fdc1f94cc6d7016bf8cde69e7d6f668ec2f92d11d86b73c4bbdbf88eb500e&width=1200&height=630",
+          "publishedAt": "2026-06-06T23:11:27Z",
+          "image": "https://www.billboard.com/wp-content/uploads/2025/10/kenia-os-peso-pluma-lmw-2025-billboard-1800.jpg?w=1024",
           "language": "en"
         },
         {
-          "title": "Israeli rioter rammed by Palestinian car in West Bank",
-          "description": "Later the IDF stated that, prior to the event, dozens of Israeli Jewish rioters had blocked roads in the area, forcing Palestinian cars to turn around and throwing rocks at their vehicles.",
-          "url": "https://www.jpost.com/israel-news/crime-in-israel/article-898533",
+          "title": "Wellington train crash: Investigators begin work at site",
+          "description": "Residents heard a thunderous bang and emergency services rushed to the scene, between Box Hill and Khandallah stations.",
+          "url": "https://www.rnz.co.nz/news/emergency/597461/wellington-train-crash-investigators-begin-work-at-site",
           "source": {
-            "name": "The Jerusalem Post"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-06-06T20:52:40Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/708107",
+          "publishedAt": "2026-06-06T23:10:49Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--gkll3znI--/t_tohu-badge-facebook/v1780776424/4JNF1G8_Media_5_jfif?_a=BACCd2AD",
           "language": "en"
         },
         {
-          "title": "Germany gives USMNT a final reality check before the World Cup",
-          "description": "The 2-1 defeat featured defensive frailty and Antonee Robinson's thunderous tying goal late in the first half. It brought spells of quality play against a quality opponent but also worrying signs about the U.S. capability of making a deep run when teams such as Germany stand in the way.",
-          "url": "https://sports.yahoo.com/soccer/live/germany-gives-usmnt-a-final-reality-check-before-the-world-cup-173000871.html",
+          "title": "Silent Hill remake team announces new Star Trek sci",
+          "description": "Star Trek: Shadow Frontier is a new sci-fi horror/thriller game from Bloober Team, the studio behind the Silent Hill 2 remake and Observer.",
+          "url": "https://www.polygon.com/star-trek-horror-game-shadow-frontier-bloober-team/",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "Polygon.com"
           },
-          "publishedAt": "2026-06-06T20:50:21Z",
-          "image": "https://s.yimg.com/ny/api/res/1.2/y.CSIIK4wJlIFyJPC6UVpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-06/b17f0b08-1038-4c38-b8be-7dbdbb0ad7fb",
+          "publishedAt": "2026-06-06T23:10:20Z",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/star-trek_-shadow-frontier-_-announcement-teaser-1-0-screenshot-1.jpg?w=1600&h=900&fit=crop",
           "language": "en"
         },
         {
-          "title": "Builder wins bet on Epsom Derby thanks to 'spooky' time capsule tip",
-          "description": "A member of the team that unearthed the 62-year-old letter put £20 on what came to be the winning horse.",
-          "url": "https://www.bbc.com/news/articles/ced41gy95y1o",
+          "title": "Personal loans booming as cost of living drives Australians to borrow record amounts",
+          "description": "National debt helpline calls have increased alongside growth in new personal loans, which charged an average 9% interest in March",
+          "url": "https://www.theguardian.com/business/2026/jun/07/personal-loans-record-highs-australia-debt-borrowing-cost-of-living",
+          "source": {
+            "name": "The Guardian"
+          },
+          "publishedAt": "2026-06-06T23:09:00Z",
+          "image": "https://i.guim.co.uk/img/media/2b6cd154d9662a5e2be58b595e430d791c70706a/73_0_7167_5733/master/7167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ceb8b66e3d33ff15dd8765babb192a90",
+          "language": "en"
+        },
+        {
+          "title": "Simone Biles reveals recent health scare: ‘Almost dying wasn’t on my bingo card’",
+          "description": "Biles did not share any details of the medical episode she called \"one of, if not the scariest experience of my life.”",
+          "url": "https://www.nytimes.com/athletic/7338884/2026/06/06/simone-biles-health-scare-olympics/",
+          "source": {
+            "name": "The New York Times"
+          },
+          "publishedAt": "2026-06-06T23:08:18Z",
+          "image": "https://static01.nyt.com/athletic/uploads/wp/2026/06/06180957/biles-scaled-e1780783940124.jpg?width=1200&height=630&fit=cover",
+          "language": "en"
+        },
+        {
+          "title": "Multiple people shot in Ohio with suspect still at large",
+          "description": "An active search for the \"suspect or suspects involved\" is underway, police say.",
+          "url": "https://www.bbc.com/news/articles/c4gyqzkgwn2o",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-06-06T20:49:44Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f198/live/529fdb50-6034-11f1-9792-c579e9d62a5f.jpg",
+          "publishedAt": "2026-06-06T23:07:48Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2524/live/c37f9870-61ff-11f1-a3aa-cb75ff2c9b10.png",
           "language": "en"
         },
         {
-          "title": "Fever vs Liberty Prediction, Picks & Odds for Tonight’s WNBA Game",
-          "description": "Lock in your WNBA picks for June 6 with our free Fever vs Liberty predictions.",
-          "url": "https://www.covers.com/wnba/fever-vs-liberty-prediction-picks-best-bets-parlay-saturday-6-6-2026",
+          "title": "Toledo festival shooting: Multiple people shot in Ohio with suspect still at large",
+          "description": "\"Many victims\" have been taken for medical treatment, the Toledo police department said in a statement.",
+          "url": "https://www.bbc.co.uk/news/articles/c4gyqzkgwn2o",
           "source": {
-            "name": "Covers.com"
+            "name": "BBC"
           },
-          "publishedAt": "2026-06-06T20:46:00Z",
-          "image": "https://img.covers.com/cms/covers/05e4ac4f-8313-4a76-8dc8-6e8cf2b95b75.jpg",
+          "publishedAt": "2026-06-06T23:07:00Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73c6/live/97fe7720-6209-11f1-a226-4749099a7a7e.jpg",
           "language": "en"
         },
         {
-          "title": "Glitching Movie-Inspired Banking Billboards",
-          "description": "BMO billboard - This BMO billboard was given an update in celebration of a Canadian film to bring a design detail from it to the real world for fans and curious co...",
-          "url": "https://www.trendhunter.com/trends/bmo-billboard",
+          "title": "Toledo shooting: Multiple people shot near a festival in Ohio's Old West End Festival, suspect at large",
+          "description": "Toledo police officers responded to a report of a person shot near the Old West End Festival at about 5:30 pm. | World News",
+          "url": "https://www.hindustantimes.com/world-news/us-shooting-many-killed-after-shooing-near-festival-toledo-ohio-suspect-at-large-101780786916353.html",
           "source": {
-            "name": "Trend Hunter"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-06-06T20:45:03Z",
-          "image": "https://cdn.trendhunterstatic.com/phpthumbnails/616/616803/616803_1_1200.jpeg",
+          "publishedAt": "2026-06-06T23:06:45Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/06/06/550x309/united_states_school_shooting_1681140289852_1780787156730_7ee41361-4e8b-4170-9417-2f87f5942ec5.JPG",
           "language": "en"
         },
         {
-          "title": "Hyderabad man shot dead in US after delivering pizza in Philadelphia",
-          "description": "The victim has been identified as Kuncha Anshul, aged 28, a native of Gundlapochampally mandal of Medchal-Malkajgiri district in Telangana.",
-          "url": "https://www.siasat.com/hyderabad-man-shot-dead-in-us-after-delivering-pizza-in-philadelphia-3484232/",
+          "title": "Cosmeticorexia: How girls are falling down a skincare rabbit hole",
+          "description": "Fuelled by social media, the market for children's skincare is booming. Experts fear for the long-term impact on girls",
+          "url": "https://www.bbc.co.uk/news/articles/cx212x41evwo",
           "source": {
-            "name": "The Siasat Daily"
+            "name": "BBC"
           },
-          "publishedAt": "2026-06-06T20:43:27Z",
-          "image": "https://cdn.siasat.com/wp-content/uploads/2026/06/Hyderabad-man-shot-dead-in-US.jpg",
+          "publishedAt": "2026-06-06T23:06:33Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/36a1/live/95f7c8d0-60e4-11f1-89a3-d1f559421220.jpg",
           "language": "en"
         },
         {
-          "title": "High fuel costs to trigger airline failures and consolidation, industry chief says",
-          "description": "Airlines are also expected to protect margins by cutting unprofitable routes, while fares, which have surged since the outbreak of the Iran war, are unlikely to come down soon, Walsh said.",
-          "url": "https://www.channelnewsasia.com/business/high-fuel-costs-trigger-airline-failures-and-consolidation-industry-chief-says-6166781",
+          "title": "Fallowfield incident RECAP as bomb squad on scene and residents told to evacuate homes",
+          "description": "They were responding to an incident in Abram Close",
+          "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/fallowfield-incident-live-bomb-squad-34078930",
           "source": {
-            "name": "CNA"
+            "name": "Manchester Evening News"
           },
-          "publishedAt": "2026-06-06T20:40:33Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--fzEO4pD7--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-28T123212Z_1_LYNXMPEM3R0ZP_RTROPTP_3_IRAN-CRISIS-IATA.JPG?itok=H-DUjZ98",
-          "language": "en"
-        },
-        {
-          "title": "Amusan Strikes Gold At New Taipei Athletics Open In Taiwan",
-          "description": "Amusan Strikes Gold At New Taipei Athletics Open In Taiwan",
-          "url": "https://www.channelstv.com/2026/06/06/amusan-strikes-gold-at-new-taipei-athletics-open-in-taiwan/",
-          "source": {
-            "name": "Channels Television"
-          },
-          "publishedAt": "2026-06-06T20:39:45Z",
-          "image": "https://www.channelstv.com/wp-content/uploads/2023/08/Tobi-Amusan.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Two synagogues attacked in less than 24 hours as antisemitic incidents shake Canada",
-          "description": "After Prime Minister Mark Carney warned of rising antisemitism in Canada, a synagogue window was smashed in Toronto just one day after an apparent arson attempt at a Montreal synagogue, prompting Israel’s consulate to call for 'action, not words'",
-          "url": "https://www.ynetnews.com/jewish-world/article/h1kd7wgbge",
-          "source": {
-            "name": "Ynetnews"
-          },
-          "publishedAt": "2026-06-06T20:38:17Z",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/06/S1uLk11GWzl/S1uLk11GWzl_0_350_983_554_0_large.jpg",
+          "publishedAt": "2026-06-06T23:06:28Z",
+          "image": "https://i2-prod.manchestereveningnews.co.uk/article34079018.ece/ALTERNATES/s1200d/0_JSR_MEN_060626ambo_01jpeg.jpg",
           "language": "en"
         }
       ]
