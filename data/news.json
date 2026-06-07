@@ -1,10 +1,21 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-07T04:05:35.330Z",
+  "updatedAt": "2026-06-07T08:57:30.106Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "Travis Japanら「けるとめる」ファミリーがFIFAワールドカップを全力応援！宮近「全力でエールを」",
+          "description": "Travis JapanがMCを務めるフジテレビ系のサッカーバラエティ「けるとめる」にて、同局系列でオンエアされる「FIFAワールドカップ2026」を応援する企画が決定した。",
+          "url": "https://natalie.mu/music/news/675120",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-06-06T20:00:00Z",
+          "image": "https://ogre.natalie.mu/media/news/music/2026/0606/kerutomeru.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
         {
           "title": "【F1】4連勝中のアントネッリが今季4度目PP！「今年一番激しい予選だった」フェルスタッペン2番手（スポニチアネックス）",
           "description": "◇F1第6戦モナコGP予選（2026年6月6日　モンテカルロ市街地コース＝1周3.337キロ）\n　伝統のモナコGPは予選が行われ、現在4連勝中の19歳、メルセデスのアンドレアキミ・アントネッリ（",
@@ -103,128 +114,117 @@
           "publishedAt": "2026-06-06T10:41:00Z",
           "image": "https://ogre.natalie.mu/media/news/comic/2026/0606/osomatsusan_10th_event_6.jpg?impolicy=twitter_card_face_crop",
           "language": "ja"
-        },
-        {
-          "title": "【WWDC 2026】ティム・クックCEO最後の開発者会議：Gemini搭載SiriはアップルのAIの汚名を返上できるか",
-          "description": "アップルは、ティム・クック最高経営責任者（CEO）にとって最後の開発者会議となるWWDC 2026で、グーグルの生成AI「Gemini」を搭載し根本から再構築したSiriを発表する見通しだ。この刷新により、Siriは単なる音声アシスタントから、複数ステップのタスク実行が可能な独立型チャットボットへと進化し、専用アプリや",
-          "url": "https://finance.biggo.jp/news/9Px3nJ4BoQmpnl368byN",
-          "source": {
-            "name": "finance.biggo.jp"
-          },
-          "publishedAt": "2026-06-06T10:26:00Z",
-          "image": "https://img.biggo.com/i1aOVbGBb3evYF2W9Nw_uCCHerrg8TFP2v_Ascv9VFk/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA2LzlQeDNuSjRCb1FtcG5sMzY4YnlOXzE3ODA3NDIwNThfZGVmYXVsdC5qcGc.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "The battle for digital dollars is moving onchain",
-          "description": "America’s biggest banks are launching tokenized deposits to compete with stablecoins, opening a new front in the race to become the dominant form of cash on blockchain networks.",
-          "url": "https://www.coindesk.com/business/2026/06/06/america-s-largest-banks-are-building-a-new-digital-currency-network-to-stop-a-massive-deposit-drain",
+          "title": "Precise Galway defeat Dublin to win Leinster hurling title",
+          "description": "The Tribesmen efficiently defused all of their opponents’ most threatening devices",
+          "url": "https://www.irishtimes.com/sport/gaelic-games/2026/06/06/precise-galway-defeat-dublin-to-win-leinster-hurling-title/",
           "source": {
-            "name": "CoinDesk"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-06-06T16:03:25Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+          "publishedAt": "2026-06-06T20:52:48Z",
+          "image": "https://www.irishtimes.com/resizer/v2/R4SPM7KCXDBPZBXIBQH3R3JJWQ.jpg?smart=true&auth=987fdc1f94cc6d7016bf8cde69e7d6f668ec2f92d11d86b73c4bbdbf88eb500e&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Academic leaders launch the country’s first council of vice presidents for academic affairs",
-          "description": "THE Philippine Executive Council of Academic Affairs (Pecaa) formally launched during its first general assembly held from May 28 to 29, 2026, at Grand Hyatt Manila in Bonifacio Global City, Taguig.",
-          "url": "https://www.manilatimes.net/2026/06/07/tmt-newswire/academic-leaders-launch-the-countrys-first-council-of-vice-presidents-for-academic-affairs/2360011",
+          "title": "Israeli rioter rammed by Palestinian car in West Bank",
+          "description": "Later the IDF stated that, prior to the event, dozens of Israeli Jewish rioters had blocked roads in the area, forcing Palestinian cars to turn around and throwing rocks at their vehicles.",
+          "url": "https://www.jpost.com/israel-news/crime-in-israel/article-898533",
           "source": {
-            "name": "The Manila Times"
+            "name": "The Jerusalem Post"
           },
-          "publishedAt": "2026-06-06T16:03:24Z",
-          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/06/06/1088146.jpg",
+          "publishedAt": "2026-06-06T20:52:40Z",
+          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/708107",
           "language": "en"
         },
         {
-          "title": "Africa’s Development Goals Depend on Water Security, Says Majodina",
-          "description": "Majodina said the African Union’s declaration highlights the growing importance of water in shaping economic growth, climate resilience, food production, public health and sustainable development across the continent.",
-          "url": "https://www.devdiscourse.com/article/law-order/3931314-africas-development-goals-depend-on-water-security-says-majodina",
+          "title": "Germany gives USMNT a final reality check before the World Cup",
+          "description": "The 2-1 defeat featured defensive frailty and Antonee Robinson's thunderous tying goal late in the first half. It brought spells of quality play against a quality opponent but also worrying signs about the U.S. capability of making a deep run when teams such as Germany stand in the way.",
+          "url": "https://sports.yahoo.com/soccer/live/germany-gives-usmnt-a-final-reality-check-before-the-world-cup-173000871.html",
           "source": {
-            "name": "Devdiscourse"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-06-06T16:03:07Z",
-          "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/30_04_2025_17_10_51_4582353.jpg&width=920&format=jpeg",
+          "publishedAt": "2026-06-06T20:50:21Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/y.CSIIK4wJlIFyJPC6UVpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-06/b17f0b08-1038-4c38-b8be-7dbdbb0ad7fb",
           "language": "en"
         },
         {
-          "title": "Why Chintakayala Vijay Is Better Option For Upper House?",
-          "description": "With Telugu Desam Party set to win three of the four Rajya Sabha seats from Andhra Pradesh and Janasena getting one seat, discussions have now shifted",
-          "url": "https://www.gulte.com/political-news/414778/why-chintakayala-vijay-is-better-option-for-upper-house",
+          "title": "Builder wins bet on Epsom Derby thanks to 'spooky' time capsule tip",
+          "description": "A member of the team that unearthed the 62-year-old letter put £20 on what came to be the winning horse.",
+          "url": "https://www.bbc.com/news/articles/ced41gy95y1o",
           "source": {
-            "name": "Gulte"
+            "name": "BBC"
           },
-          "publishedAt": "2026-06-06T16:03:04Z",
-          "image": "https://cdn.gulte.com/wp-content/uploads/2026/06/chintakayala-vijay-.jpg",
+          "publishedAt": "2026-06-06T20:49:44Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f198/live/529fdb50-6034-11f1-9792-c579e9d62a5f.jpg",
           "language": "en"
         },
         {
-          "title": "'Scary Movie 6' Starts Strong With $24.7 Million on Friday",
-          "description": "'Scary Movie 6' is on pace to set a franchise record after a stellar opening day.",
-          "url": "https://variety.com/2026/film/box-office/box-office-scary-movie-masters-of-the-universe-backrooms-1236768580/",
+          "title": "Fever vs Liberty Prediction, Picks & Odds for Tonight’s WNBA Game",
+          "description": "Lock in your WNBA picks for June 6 with our free Fever vs Liberty predictions.",
+          "url": "https://www.covers.com/wnba/fever-vs-liberty-prediction-picks-best-bets-parlay-saturday-6-6-2026",
           "source": {
-            "name": "Variety"
+            "name": "Covers.com"
           },
-          "publishedAt": "2026-06-06T16:03:00Z",
-          "image": "https://variety.com/wp-content/uploads/2026/05/Scary-Movie.jpg?crop=0px%2C86px%2C1500px%2C844px&resize=1000%2C563",
+          "publishedAt": "2026-06-06T20:46:00Z",
+          "image": "https://img.covers.com/cms/covers/05e4ac4f-8313-4a76-8dc8-6e8cf2b95b75.jpg",
           "language": "en"
         },
         {
-          "title": "KP issues heatwave alert as temperatures may soar to 46°C",
-          "description": "The Provincial Disaster Management Authority (PDMA) has issued a heatwave alert for multiple districts of Khyber Pakhtunkhwa, warning that temperatures are expected to",
-          "url": "https://www.nation.com.pk/06-Jun-2026/kp-issues-heatwave-alert-temperatures-may-soar-46-c",
+          "title": "Glitching Movie-Inspired Banking Billboards",
+          "description": "BMO billboard - This BMO billboard was given an update in celebration of a Canadian film to bring a design detail from it to the real world for fans and curious co...",
+          "url": "https://www.trendhunter.com/trends/bmo-billboard",
           "source": {
-            "name": "The Nation (Pakistan )"
+            "name": "Trend Hunter"
           },
-          "publishedAt": "2026-06-06T16:02:32Z",
-          "image": "https://www.nation.com.pk/digital_images/large/2026-06-06/kp-issues-heatwave-alert-temperatures-may-soar-46-c-1780761745-7837.jpg",
+          "publishedAt": "2026-06-06T20:45:03Z",
+          "image": "https://cdn.trendhunterstatic.com/phpthumbnails/616/616803/616803_1_1200.jpeg",
           "language": "en"
         },
         {
-          "title": "MUSE maps spiral galaxy W2246f, uncovering old core and ongoing star formation across disk",
-          "description": "Astronomers have employed the Multi-Unit Spectroscopic Explorer (MUSE) on the Very Large Telescope (VLT) to perform deep spectroscopic observations of a peculiar spiral galaxy known as W2246f. Results of the observational campaign, published May 27 on the pre-print server arXiv, offer new insights into how this galaxy evolved and shed more light on its nature.",
-          "url": "https://phys.org/news/2026-06-muse-spiral-galaxy-w2246f-uncovering.html",
+          "title": "Hyderabad man shot dead in US after delivering pizza in Philadelphia",
+          "description": "The victim has been identified as Kuncha Anshul, aged 28, a native of Gundlapochampally mandal of Medchal-Malkajgiri district in Telangana.",
+          "url": "https://www.siasat.com/hyderabad-man-shot-dead-in-us-after-delivering-pizza-in-philadelphia-3484232/",
           "source": {
-            "name": "Phys.org"
+            "name": "The Siasat Daily"
           },
-          "publishedAt": "2026-06-06T16:00:01Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/2026/researchers-perform-de.jpg",
+          "publishedAt": "2026-06-06T20:43:27Z",
+          "image": "https://cdn.siasat.com/wp-content/uploads/2026/06/Hyderabad-man-shot-dead-in-US.jpg",
           "language": "en"
         },
         {
-          "title": "EMB hits waste dumping at DENR-Davao office",
-          "description": "The Environmental Management Bureau yesterday criticized the dumping of garbage in front of the office of the Department of Environment and Natural Resources in Davao City after Mayor Sebastian Duterte designated the area as one of the waste collection points.",
-          "url": "https://www.philstar.com/nation/2026/06/07/2533321/emb-hits-waste-dumping-denr-davao-office",
+          "title": "High fuel costs to trigger airline failures and consolidation, industry chief says",
+          "description": "Airlines are also expected to protect margins by cutting unprofitable routes, while fares, which have surged since the outbreak of the Iran war, are unlikely to come down soon, Walsh said.",
+          "url": "https://www.channelnewsasia.com/business/high-fuel-costs-trigger-airline-failures-and-consolidation-industry-chief-says-6166781",
           "source": {
-            "name": "Philstar.com"
+            "name": "CNA"
           },
-          "publishedAt": "2026-06-06T16:00:00Z",
-          "image": "https://media.philstar.com/photos/2026/06/06/5_2026-06-06_20-41-43.jpg",
+          "publishedAt": "2026-06-06T20:40:33Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--fzEO4pD7--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-28T123212Z_1_LYNXMPEM3R0ZP_RTROPTP_3_IRAN-CRISIS-IATA.JPG?itok=H-DUjZ98",
           "language": "en"
         },
         {
-          "title": "Philippines, US discuss peace, securityissues in South China Sea",
-          "description": "The United States has reaffirmed its various commitments to support the Philippines, including continuing efforts to ensure peace and security in the South China Sea.",
-          "url": "https://www.philstar.com/headlines/2026/06/07/2533383/philippines-us-discuss-peace-securityissues-south-china-sea",
+          "title": "Amusan Strikes Gold At New Taipei Athletics Open In Taiwan",
+          "description": "Amusan Strikes Gold At New Taipei Athletics Open In Taiwan",
+          "url": "https://www.channelstv.com/2026/06/06/amusan-strikes-gold-at-new-taipei-athletics-open-in-taiwan/",
           "source": {
-            "name": "Philstar.com"
+            "name": "Channels Television"
           },
-          "publishedAt": "2026-06-06T16:00:00Z",
-          "image": "https://media.philstar.com/photos/2026/06/06/2_2026-06-06_21-59-14.jpg",
+          "publishedAt": "2026-06-06T20:39:45Z",
+          "image": "https://www.channelstv.com/wp-content/uploads/2023/08/Tobi-Amusan.jpg",
           "language": "en"
         },
         {
-          "title": "Max Verstappen names Red Bull fear despite stunning Monaco qualifying",
-          "description": "Max Verstappen is expecting a difficult first few moments of the Monaco Grand Prix, despite a superb effort in qualifying.",
-          "url": "https://racingnews365.com/max-verstappen-names-red-bull-fear-despite-stunning-monaco-qualifying",
+          "title": "Two synagogues attacked in less than 24 hours as antisemitic incidents shake Canada",
+          "description": "After Prime Minister Mark Carney warned of rising antisemitism in Canada, a synagogue window was smashed in Toronto just one day after an apparent arson attempt at a Montreal synagogue, prompting Israel’s consulate to call for 'action, not words'",
+          "url": "https://www.ynetnews.com/jewish-world/article/h1kd7wgbge",
           "source": {
-            "name": "racingnews365.com"
+            "name": "Ynetnews"
           },
-          "publishedAt": "2026-06-06T16:00:00Z",
-          "image": "https://cdn.racingnews365.com/2026/Verstappen/XPB_1414172_HiRes.jpg?v=1780759040&width=1800&height=945&quality=75&crop=5185%2C2723%2C0%2C369",
+          "publishedAt": "2026-06-06T20:38:17Z",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/06/S1uLk11GWzl/S1uLk11GWzl_0_350_983_554_0_large.jpg",
           "language": "en"
         }
       ]
