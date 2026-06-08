@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-08T10:58:41.486Z",
+  "updatedAt": "2026-06-08T15:55:29.943Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "８日の東京株式市場見通し＝落ち着きどころを探る展開か 速報",
-          "description": "予想レンジ：６万３８００円－６万４５００円（５日終値６万６５８８円１２銭）　８日の東京株式は、落ち着きどころを探る展開か。前週末５日の米国株式が、半導体関連株を中心に下落した動きを受け、売り優勢のス・・・",
-          "url": "https://kabushiki.jp/news/753555",
+          "title": "【WWDC直前】アップルのAI発表総まとめ iPhone・Mac・Siriはこの1年でどう変わったか",
+          "description": "「Apple Intelligence」からCEO交代まで、WWDC 2025以降、アップルのAI戦略はどのようなものだったのかを振り返る。",
+          "url": "https://japan.cnet.com/article/35248577/",
           "source": {
-            "name": "kabushiki.jp"
+            "name": "CNET Japan"
           },
-          "publishedAt": "2026-06-07T22:47:00Z",
-          "image": "https://kabushiki.jp/ogp.png",
+          "publishedAt": "2026-06-08T03:53:00Z",
+          "image": "https://japan.cnet.com/storage/2026/06/08/e8c80b810f30e38c37a658bd4b3856ba/apple-wwdc-2026_1280x960.jpg",
           "language": "ja"
         },
         {
-          "title": "【本日の見通し】ドル全面高の流れが続くか",
-          "description": "【本日の見通し】ドル全面高の流れが続くか 　　　 　注目された先週末の5月米雇用統計は、かなりしっかりした伸びとなった。ドル円は160.34円までドル高が強まる展開となった。非農業部門雇用者数が、予想...",
-          "url": "https://fx.minkabu.jp/news/369419",
+          "title": "ドジャース佐々木朗希に「休みたいけど休めない」ジレンマ…覚醒した今なおローテ安泰とは言えず（日刊ゲンダイDIGITAL）｜ｄメニューニュース",
+          "description": "ドジャース佐々木朗希に「休みたいけど休めない」ジレンマ…覚醒した今なおローテ安泰とは言えず（日刊ゲンダイDIGITAL）「これこそが、我々が期待していたロウキ（佐々木）の姿だ」\n　ドジャースのロバーツ監督は手放しの褒めようだった。\n　日本時間6…",
+          "url": "https://topics.smt.docomo.ne.jp/article/nikkangendai/sports/nikkangendai-1221049?redirect=1",
           "source": {
-            "name": "みんかぶ FX/為替"
+            "name": "ｄメニューニュース"
           },
-          "publishedAt": "2026-06-07T22:45:30Z",
-          "image": "https://mfx-assets.s3.ap-northeast-1.amazonaws.com/news_ogp/forex.png",
+          "publishedAt": "2026-06-08T03:40:00Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/picture/nikkangendai/m_nikkangendai-1221049.jpg",
           "language": "ja"
         },
         {
-          "title": "大谷翔平は「手放しでCY賞最有力」 殿堂入り名投手が\"確信\"「失点してない、以上！」",
-          "description": "ドジャースの大谷翔平投手が、かつてメジャーを席巻した伝説のマルチアスリートたちを超える「史上最高」の評価を手にした。通算213勝、154セーブを挙げ殿堂入りを果たしているジョン・スモルツ氏が、米スポーツ局「FOXスポーツ」のアナリストを務めるベン・バーランダー氏のポッドキャスト番組「Flippin' Bats with",
-          "url": "https://full-count.jp/2026/06/08/post1973407/",
+          "title": "Keychron×ギズモードの分割キーボードは台湾でも大好評。クラファンは6月19日開始",
+          "description": "ギズモードがプロデュースするテックストア「GIZMART」が、高機能キーボードブランドのKeychronと共同開発した左右分割型キーボード「Keychron Orca echo（キークロン オルカ エコー）」。そのプロトタイプが、台湾で開催",
+          "url": "https://www.gizmodo.jp/article/keychron-orca-echo-on-computex-2026/",
           "source": {
-            "name": "full-count.jp"
+            "name": "ギズモード・ジャパン"
           },
-          "publishedAt": "2026-06-07T22:45:00Z",
-          "image": "https://full-count.jp/wp-content/uploads/2026/05/28120212/20260528_ohtani4_kro_1.jpg",
+          "publishedAt": "2026-06-08T03:30:00Z",
+          "image": "https://media.loom-app.com/loom/2026/06/03/2dc867c0-ff9d-4cbf-b8f4-d87e8548f0af/original.jpg?w=1200&h=630",
           "language": "ja"
         },
         {
-          "title": "3D生成AI「Rodin Gen-2.5」リリース 最大1,000万ポリゴンの生成が可能に、4秒100万ポリゴンの高速生成、LLM的思考プロセス搭載、12Kテクスチャ",
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "url": "https://cgworld.jp/flashnews/01-202606-RodinGen-2.5.html",
+          "title": "今日8日夜は広く雨 9日以降は梅雨の晴れ間がしばらく続く 東海の2週間天気",
+          "description": "昨日7日、東海地方でも梅雨入りの発表がありました。今日8日(月)は、夜は広い範囲で雨が降りますが、明日9日(火)以降は、しばらくまとまった雨の日はないでしょう。来週は、曇りや雨の日が多くなり、梅雨らしくなりそうです。",
+          "url": "https://tenki.jp/forecaster/n_takeshita/2026/06/08/39253.html",
           "source": {
-            "name": "CGWORLD.jp"
+            "name": "tenki.jp"
           },
-          "publishedAt": "2026-06-07T22:34:12Z",
-          "image": "https://cgworld.jp/flashnews/assets_c/2026/06/RodinGen25-01-thumb-1920x1080-84604.jpg",
+          "publishedAt": "2026-06-08T03:29:39Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/392/39253/main/20260608103546/large.jpg",
           "language": "ja"
         },
         {
-          "title": "まもなく開催『WWDC26』の内容を大胆予測 Siriの大刷新と「新CEO時代」の幕開けが意味するものとは",
-          "description": "6月9日より『WWDC26』がスタートする。WWDCとは、「Apple Worldwide Developers Conference（アップル・ワールドワイド・デベロッパーズ・カンファレンス）」",
-          "url": "https://news.yahoo.co.jp/articles/15db211bda09005592e3749d23cd52fd329994a6",
+          "title": "習氏が北朝鮮・平壌到着 金正恩氏と会談、東アジアの主導権誇示へ",
+          "description": "【北京=田島如生】中国の習近平（シー・ジンピン）国家主席が8日、北朝鮮の首都・平壌に到着した。中国国営の新華社通信が伝えた。9日まで滞在し、金正恩（キム・ジョンウン）総書記と会談する。覇権を争う米国をにらんで中朝の連携を確かめ、東アジア秩序の主導権を握る姿勢を誇示する。新華社によると彭麗媛夫人のほか、中国共産党の蔡奇（ツァイ・チー）中央政治局常務委員と王毅（ワン・イー）党政治局員兼外相が同行し",
+          "url": "https://www.nikkei.com/article/DGXZQOGM0700S0X00C26A6000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-06-08T03:20:15Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3131897007062026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.76&fp-y=0.35&h=630&upscale=false&w=1200&s=9dd3102ea8db9bdd16762b1dcb6e3654",
+          "language": "ja"
+        },
+        {
+          "title": "『カルドセプト ビギンズ』Switch/Switch2ダウンロード版の予約受付が開始。発売日前日までに予約すると10%オフ",
+          "description": "ネオスは、2026年7月16日に発売される『カルドセプト ビギンズ』Nintendo Switch/Nintendo Switch 2ダウンロード版の予約受付を開始した。",
+          "url": "https://www.famitsu.com/article/202606/77542",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-06-08T02:58:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/77542/thumbnail_yzzT.jpg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "【次か?】台風のたまご=熱帯低気圧発生へ 気象庁天気図に出現 11日から12日ごろにかけて日本の南の海上に北上する予想も【雨・風シミュレーション13日（土）まで】台風情報に今後注意",
+          "description": "■気象庁の予想天気図に「台風のたまご=熱帯低気圧」\n気象庁9日（火）の予想天気図に「熱帯低気圧」の予想が出てきました。熱帯低気圧は「台風のたまご」とも呼ばれ、「台風」に発達することがあるため動向に",
+          "url": "https://news.yahoo.co.jp/articles/71d88379b1e0c3b8c961762212dd2f75c0e850ca",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-06-07T22:12:10Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-00010011-realsound-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-06-08T02:56:12Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-22716160-mbcnewsv-000-3-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "老化を“巻き戻し”──あるタンパク質で老マウスの肝臓が若返り Nature系列誌に掲載：Innovative Tech",
-          "description": "イスラエルのバル＝イラン大学やアメリカ国立老化研究所などに所属する研究者らがNature Communicationsで発表した論文「SIRT6 overexpression counteracts chromatin aging in the male murine liver」は、加齢で衰えた肝臓を、ある酵素の働きで若い状態へと巻き戻せることを、オスのマウスで示した研究報告だ。",
-          "url": "https://www.itmedia.co.jp/news/articles/2606/08/news027.html",
+          "title": "食べ放題1100円！ ガチ中華最安級の野方『田舎菜館』に行ったらランチバイキングがフレキシブルだった",
+          "description": "食べ放題と言えば2000円～3000円台が普通の時代。そんな中、1000円前後で食べ放題があるのがガチ中華店のランチだ。その安さは物価高騰の世において穴場的存在感を放って …",
+          "url": "https://rocketnews24.com/2026/06/08/2768742/",
           "source": {
-            "name": "ITmedia"
+            "name": "ロケットニュース24"
           },
-          "publishedAt": "2026-06-07T22:00:00Z",
-          "image": "https://image.itmedia.co.jp/news/articles/2606/08/cover_news027.png",
+          "publishedAt": "2026-06-08T02:55:50Z",
+          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/06/inaka9.jpg?crop=0px%2C45px%2C1500px%2C788px&resize=1200%2C630",
           "language": "ja"
         },
         {
-          "title": "ラグビーリパブリック",
-          "description": "6月7日、リーグワン2025-26のプレーオフ決勝が国立競技場でおこなわれた。レギュラーシーズンを首位で通過",
-          "url": "https://rugby-rp.com/2026/06/08/domestic/143097",
+          "title": "『サマナーズウォー: Sky Arena』、グローバルサービス12周年イベントシリーズ開催！豪華報酬がもらえる5つのイベントを展開",
+          "description": "株式会社 Com2uS Japanのプレスリリース（2026年6月8日 11時29分）『サマナーズウォー: Sky Arena』、グローバルサービス12周年イベントシリーズ開催！豪華報酬がもらえる5つのイベントを展開",
+          "url": "https://prtimes.jp/main/html/rd/p/000000969.000009066.html",
           "source": {
-            "name": "ラグビーリパブリック"
+            "name": "PR TIMES"
           },
-          "publishedAt": "2026-06-07T21:38:06Z",
-          "image": "https://rugby-rp.com/wp-content/uploads/2026/06/kobe.jpg",
+          "publishedAt": "2026-06-08T02:29:54Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/9066/969/9066-969-6a0da52c1332d72e804a27e7266ab4ab-800x450.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
           "language": "ja"
         },
         {
-          "title": "ラグビーリパブリック",
-          "description": "6月7日、リーグワン2025-26のプレーオフ決勝が国立競技場でおこなわれた。レギュラーシーズン3位のクボタ",
-          "url": "https://rugby-rp.com/2026/06/08/domestic/143082",
+          "title": "手がかからない、でも個性が違う。ロボロックの最新ロボット掃除機2台、自分に合うのはどっち？",
+          "description": "ロボット掃除機がまだ出始めの頃、「勝手に掃除してくれる、す、すごい…」って感動したことと思います。もうこれで、床の掃き掃除とはおさらばだ、この世の春だ！ そんな雰囲気がありました。でも、しばらく使っていると「こいつロボット掃除機というより、",
+          "url": "https://www.gizmodo.jp/article/roborock-saros-20-saros-20-sonic/",
           "source": {
-            "name": "ラグビーリパブリック"
+            "name": "ギズモード・ジャパン"
           },
-          "publishedAt": "2026-06-07T21:28:06Z",
-          "image": "https://rugby-rp.com/wp-content/uploads/2026/06/YCA_2590.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "GoProが1型センサー搭載のシネマカメラを出してきた。「MISSION 1」シリーズって何がそんなにスゴいの？",
-          "description": "アクションカメラといえばGoPro（ゴープロ）、というくらい、このブランドとジャンルは切っても切り離せない関係にあります。そのGoProがこれまでのHEROシリーズとはまったく異なる新ラインナップ「M",
-          "url": "https://article.auone.jp/detail/1/3/7/177_7_r_20260608_1780866244984461",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-06-07T21:06:12Z",
-          "image": "https://portal.st-img.jp/thumb/cb86f39f61652932f17c72bea2b59b09_1780866244_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "GoProが1型センサー搭載のシネマカメラを出してきた。「MISSION 1」シリーズって何がそんなにスゴいの？",
-          "description": "GoPro（ゴープロ）が初のプロ向けシネマカメラ「MISSION 1」シリーズを発売。1インチセンサー搭載で暗所撮影が大幅に進化し、最大8K60p・32倍スローモーションに対応。レンズ交換式モデルも登場し、映像制作の可能性が大きく広がりました。",
-          "url": "https://www.goodspress.jp/news/735250/",
-          "source": {
-            "name": "GoodsPress Web"
-          },
-          "publishedAt": "2026-06-07T21:00:00Z",
-          "image": "https://static.andgp.net/cms/wp-content/uploads/2026/06/260604_mission1-3-720x668.jpg",
+          "publishedAt": "2026-06-08T02:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/06/03/71359e1d-9b27-4a32-ab8f-e0631f773390/original.jpg?w=1200&h=630",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Real Madrid election results: What Florentino Pérez’s victory means for the club",
-          "description": "From José Mourinho's proposed return to a potential blockbuster signing and major governance reforms, here's what could come next at Real Madrid.",
-          "url": "https://en.as.com/soccer/real-madrid-election-results-what-florentino-perezs-victory-means-for-the-club-f202606-n/",
+          "title": "Malaysia woman reschedules flight after child damages passport with scribbles: 'My heart wants to cry'",
+          "description": "A Malaysian mother shared her weekend ordeal on social media, when her toddler managed to get his hands on her passport while she was busy packing for a work trip, leaving scribbles on the pages on Saturday (June 6).Her three-year-old toddler's \"artwork\" on her travel documents resulted in her passport being declared damaged by the immigration authority, preventing her from...",
+          "url": "https://www.asiaone.com/malaysia/malaysia-woman-reschedules-flight-after-child-damages-passport-scribbles",
           "source": {
-            "name": "Diario AS"
+            "name": "AsiaOne"
           },
-          "publishedAt": "2026-06-07T22:58:30Z",
-          "image": "https://img.asmedia.epimg.net/resizer/v2/OOIAL7G44RPDJG42IFVH6O57CY.jpg?auth=579584b1d6935e758998d2383e4ce79c858608433041841c5e49dda9c0d0fafd&width=1472&height=828&focal=2610%2C1212",
+          "publishedAt": "2026-06-08T03:55:15Z",
+          "image": "https://media.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Jun2026/Threadspassport_080626.jpg?itok=uvhllR_o",
           "language": "en"
         },
         {
-          "title": "Dying people call for their mother as their last word, researchers find",
-          "description": "The true scale of motherhood has been laid bare by the most common last word humans say when they die. While death comes to us in many different forms and...",
-          "url": "https://www.nzherald.co.nz/lifestyle/dying-people-call-for-their-mother-as-their-last-word-researchers-find/D4WCS6TIFRENJFQUJXG4IXMMKQ/",
+          "title": "Bursa Malaysia sea of red as tech stocks sink amid global sell",
+          "description": "KUALA LUMPUR (June 8): Malaysian shares were broadly lower on Monday with technology stocks leading losses as investors reacted to a broad-based sell-off in global technology companies.",
+          "url": "https://theedgemalaysia.com/node/806173",
           "source": {
-            "name": "NZ Herald"
+            "name": "The Edge Malaysia"
           },
-          "publishedAt": "2026-06-07T22:57:27Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/E4IEJAMM6JB7ZHSKYQP2ACARHY.jpg?auth=b21f0298e0f3e9189c60452d3639b0ada5c5da32b715404e5f45dd4e684dfd6a&width=1200&height=675&quality=70&focal=930%2C701&smart=false",
+          "publishedAt": "2026-06-08T03:55:13Z",
+          "image": "https://assets.theedgemarkets.com/20240805_115346_theedgemalaysia_1-FBM KLCI-Bursa Malaysia-stock-market-pricing-px-SY_APP.jpg",
           "language": "en"
         },
         {
-          "title": "Rachel Zegler Takes the Plunge in Daring Gown at 2026 Tony Awards Ahead of “Evita”'s Broadway Run",
-          "description": "The star stunned in a glamorous brown dress",
-          "url": "https://nz.news.yahoo.com/rachel-zegler-takes-plunge-daring-225624972.html",
+          "title": "‘Everything happens for a reason’ - Spain boss has theory on photo of Lionel Messi and baby Lamine Yamal",
+          "description": "Was it just chance or something else?",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/122746/everything-happens-for-a-reason-spain-boss-has-theory-on-photo-of-lionel-messi-and-baby-lamine-yamal",
           "source": {
-            "name": "Yahoo News New Zealand"
+            "name": "Barca Blaugranes"
           },
-          "publishedAt": "2026-06-07T22:56:24Z",
-          "image": "https://s.yimg.com/ny/api/res/1.2/h5Rhlk_2tpbUCicqn7DEWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/7b2c390ffe208e627857ea390938d871",
+          "publishedAt": "2026-06-08T03:55:00Z",
+          "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/05/gettyimages-2247088393.jpg?quality=90&strip=all&crop=0%2C2.018604202937%2C100%2C95.962791594126&w=1200",
           "language": "en"
         },
         {
-          "title": "Christian Eriksen ‘conscious’ after another on-field collapse, Denmark national team says",
-          "description": "Christian Eriksen was conscious and undergoing further tests in the hospital after collapsing on the field again while playing for Denmark’s national team on Sunday.",
-          "url": "https://www.nbcnews.com/sports/soccer/christian-eriksen-conscious-collapse-denmark-rcna348896",
+          "title": "Ashley’s remains were found in 2019. Investigators hope an inquest will uncover the truth",
+          "description": "The remains of the 25-year-old lay undiscovered beneath the ground in Geelong for up to a year, until a neighbour went looking for sewer pipes.",
+          "url": "https://www.theage.com.au/national/victoria/ashley-s-remains-were-found-in-2019-investigators-hope-an-inquest-will-uncover-the-truth-20260602-p6039g.html",
           "source": {
-            "name": "NBC News"
+            "name": "The Age"
           },
-          "publishedAt": "2026-06-07T22:54:40Z",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260607-Christian-Eriksen-ww-1537-da321f.jpg",
+          "publishedAt": "2026-06-08T03:54:01Z",
+          "image": "https://static.ffx.io/images/$zoom_2.2063%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_148/t_crop_custom/q_86%2Cf_auto/ca8d8f48e931d71317712b78b6a8a9c6ee4d4aac",
           "language": "en"
         },
         {
-          "title": "Full List (Updating Live)",
-          "description": "Here’s the complete list of winners at the 2026 Tony Awards, marked as they are announced.",
-          "url": "https://www.billboard.com/lists/2026-tony-awards-winners-list/",
+          "title": "You can catch 'Obsession' at SM Cinemas, Gateway Cineplex starting June 8",
+          "description": "The unexpected box office hit originally showed only in Ayala Cinemas.",
+          "url": "https://philstarlife.com/geeky/875522-indie-horror-flick-obsession-sm-cinemas-gateway-cineplex",
           "source": {
-            "name": "Billboard"
+            "name": "Philstar Life"
           },
-          "publishedAt": "2026-06-07T22:53:41Z",
-          "image": "https://www.billboard.com/wp-content/uploads/2026/06/pink-2026-tony-awards-red-carpet-billboard-1800.jpg?w=1024",
+          "publishedAt": "2026-06-08T03:53:19Z",
+          "image": "https://d2nnykqiaju69u.cloudfront.net/photos/Cecile/obsession%20banner%20.jpg",
           "language": "en"
         },
         {
-          "title": "Dua Lipa Goes Beachy-Chic for Her Sicily Wedding Brunch",
-          "description": "See the star’s Sunday wedding brunch look.",
-          "url": "https://www.vogue.com/article/dua-lipa-beachy-chic-for-sicily-wedding-brunch",
+          "title": "How trade order enforcement is rewriting Jinja City’s economic story",
+          "description": "Jinja City Council’s local revenue has grown exponentially, skyrocketing from Shs2 billion to Shs15 billion following the strategic reorganization of trade activities and council projects",
+          "url": "https://www.monitor.co.ug/uganda/news/national/how-trade-order-enforcement-is-rewriting-jinja-city-s-economic-story-5488544",
           "source": {
-            "name": "Vogue"
+            "name": "Daily Monitor"
           },
-          "publishedAt": "2026-06-07T22:53:06Z",
-          "image": "https://assets.vogue.com/photos/6a25f595b20c74e916a2318a/16:9/w_1280,c_limit/TempBGUS_3605247_001.jpg",
+          "publishedAt": "2026-06-08T03:52:55Z",
+          "image": "https://www.monitor.co.ug/resource/blob/5488556/abae68cb02b79ddc345af9602b239955/latest01pix-data.jpg",
           "language": "en"
         },
         {
-          "title": "India’s ‘Peddi’ Faces Backlash Over Depiction Of Female Lead, Director Agrees To Modify Scenes - Specialty Box Office",
-          "description": "Peddi from Prathyangira Cinemas debuted in India — where it’s the top Telugu opener of 2026 — as well as Stateside this weekend amid a social media controversy accusing the film of objectifying its fe...",
-          "url": "https://nz.news.yahoo.com/india-peddi-faces-backlash-over-225231607.html",
+          "title": "How the Australian of the Year changed brain cancer research forever",
+          "description": "Richard Scolyer, Georgina Long, Katie Nicoll",
+          "url": "https://www.brisbanetimes.com.au/lifestyle/health-and-wellness/the-best-of-us-we-re-all-poorer-for-the-loss-of-the-unstoppable-richard-scolyer-20260519-p5zyqd.html",
           "source": {
-            "name": "Yahoo News New Zealand"
+            "name": "Brisbane Times"
           },
-          "publishedAt": "2026-06-07T22:52:31Z",
-          "image": "https://s.yimg.com/os/en/deadline.com/26acbe91f7c47af8bcf832d7147312cc",
+          "publishedAt": "2026-06-08T03:52:51Z",
+          "image": "https://static.ffx.io/images/$zoom_0.2158850074325106%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_40%2C$y_6/t_crop_custom/q_86%2Cf_auto/t_metro_brisbanetimes_opinion_no_age_social_wm/49fff654f1a4c2b36380e28417f4641d495b5bfd",
           "language": "en"
         },
         {
-          "title": "India's ‘Peddi’ Backlash Over Depiction Of Female Lead",
-          "description": "'Peddi' opened in India and Stateside this weekend amid a social media controversy accusing the film of objectifying its female lead.",
-          "url": "https://deadline.com/2026/06/indie-film-box-office-peddi-controversy-female-lead-india-1236949376/",
+          "title": "Alan Cayetano wants dual-signatory, joint certification set up with new Senate majority",
+          "description": "The camp of Senator Alan Peter Cayetano is now pushing for a possible interim administrative arrangements with the new Senate majority group led by Acting...",
+          "url": "https://mb.com.ph/2026/06/08/alan-cayetano-wants-dual-signatory-joint-certification-set-up-with-new-senate-majority",
           "source": {
-            "name": "Deadline"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-06-07T22:52:00Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/06/janhvi-kapoor-peddi.jpg?w=689",
+          "publishedAt": "2026-06-08T03:51:51Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/08/107217.webp",
           "language": "en"
         },
         {
-          "title": "TechReviewAfrica - News Details",
-          "description": "Your Trusted Tech News Platform",
-          "url": "https://techreviewafrica.com/news/5830/south-africa-and-world-bank-discuss-new-framework-to-deepen-development-partnership",
+          "title": "Byron Bay bashing leaves Canadian tourist with fractured skull, brain bleed",
+          "description": "A 28-year-old Canadian tourist is in hospital with fractured skull after a brutal assault by strangers in a park at Byron Bay.",
+          "url": "https://www.abc.net.au/news/2026-06-08/byron-bay-canadian-tourist-assaulted-fractured-skull/106772084",
           "source": {
-            "name": "Tech Review Africa"
+            "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-06-07T22:50:19Z",
-          "image": "https://techreviewafrica.com/assets/images/news/2026/06/07/6a25f48f5ab9f1780872335.jpg",
+          "publishedAt": "2026-06-08T03:50:50Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/8c06b55836d1ac5c4f6d8ab810a273dd?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=416&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Jeremy Pope, Sarah Paulson & More",
-          "description": "Stars like Jeremy Pope, Sarah Paulson, Billy Crystal, June Squibb and others walked the Tony Awards carpet, ahead of Broadway's biggest fete",
-          "url": "https://deadline.com/gallery/tony-awards-carpet-photos-jeremy-pope-sarah-paulson/",
+          "title": "Tony awards 2026: Death of a Salesman triumphs, as Lesley Manville and John Lithgow also win",
+          "description": "Joe Mantello’s stark revival of Arthur Miller’s classic drama takes home six awards, while Ragtime and Schmigadoon! pick up musical wins",
+          "url": "https://www.theguardian.com/stage/2026/jun/08/tony-awards-2026-death-of-a-salesman-lesley-manville-john-lithgow-win",
           "source": {
-            "name": "Deadline"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-06-07T22:50:00Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/06/Pnk-Stephanie-Hsu-Tituss-Burgess-Tonys-2026.jpg?w=1024",
+          "publishedAt": "2026-06-08T03:48:00Z",
+          "image": "https://i.guim.co.uk/img/media/d774a64ae48212712b195148e6075bb542517bec/854_595_3979_3185/master/3979.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=812e792786a760b8774de777ee92dd78",
           "language": "en"
         }
       ]
