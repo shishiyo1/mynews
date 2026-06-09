@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-09T14:54:40.665Z",
+  "updatedAt": "2026-06-09T17:24:57.052Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "LG、42型/約29万円からのハイグレード有機EL「LG OLED evo AI C6」",
+          "description": "LGエレクトロニクス・ジャパンは、4K有機ELテレビの2026年ラインナップを発表。性能とデザイン性、価格のバランスに優れたハイグレードシリーズ「LG OLED evo AI C6」を6月25日に発売する。サイズは42型～65型。価格はオープン。市場想定価格は以下の通り。",
+          "url": "https://av.watch.impress.co.jp/docs/news/2115544.html",
+          "source": {
+            "name": "AV Watch"
+          },
+          "publishedAt": "2026-06-09T05:10:00Z",
+          "image": "https://av.watch.impress.co.jp/img/avw/list/2115/544/DSC08047.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "伝説のARPGフルリメイク『Gothic 1 Remake』国内向けPS5版が7月16日に延期―理由は“PS5版の国内向けの表現調整”のため【UPDATE】",
+          "description": "国内ではSteam版およびXbox Series X|S版が6月6日より配信開始しています。",
+          "url": "https://www.gamespark.jp/article/2026/06/09/167717.html",
+          "source": {
+            "name": "Game*Spark"
+          },
+          "publishedAt": "2026-06-09T05:00:02Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1141931.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "音楽制作レーベルArte Refact、所属クリエイターが一斉退所 代表の女性問題を受け",
+          "description": "株式会社Memento morが運営する音楽制作レーベル・Arte Refact（アルテ・リファクト）が、所属クリエイター全員が6月30日（火）をもって一斉退所すると発表した。Arte Refactを巡っては6月4日、代表をつとめる桑原聖さんの不貞行為がSNS上で拡散。本人が内容を「概ね事実」と認め、担当していた『あんさんぶるスターズ！！…",
+          "url": "https://kai-you.net/article/95629",
+          "source": {
+            "name": "KAI-YOU"
+          },
+          "publishedAt": "2026-06-09T04:23:00Z",
+          "image": "https://img.kai-you.net/storage/2026/06/c0092798-fa28-4932-9efd-59ac3676840f/jpg/arterefact.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "iPhone Ultraの精巧なダミーモデルがリーク。カラバリ白のみって本当ですか？",
+          "description": "じっくり見てみましょう。さまざまな噂が飛び交っている折りたたみiPhone、「iPhone Ultra（仮称）」。ちょっと前もiPhone Ultraのダミーモデルと思われる動画がリークされていましたが、今度は静止画。リーカーのソニー・ディ",
+          "url": "https://www.gizmodo.jp/article/iphone-ultra-color-variation-white-only/",
+          "source": {
+            "name": "ギズモード・ジャパン"
+          },
+          "publishedAt": "2026-06-09T03:30:00Z",
+          "image": "https://media.loom-app.com/loom/2026/06/08/21c03ddd-7f85-4968-a3a6-8d758874c710/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "AIだけじゃない。iOS 27はアプリ起動高速化やカスタマイズ強化も",
+          "description": "Appleは6月8日(米国時間)、開発者向けカンファレンスWWDC26において、次世代OS「iOS 27」、「iPadOS 27」、「watchOS 27」、「visionOS 27」、「tvOS 27」を発表した。",
+          "url": "https://pc.watch.impress.co.jp/docs/news/2115493.html",
+          "source": {
+            "name": "PC Watch"
+          },
+          "publishedAt": "2026-06-09T03:08:18Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2115/493/1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "日経平均は６２９円高と４日ぶり反発、ＡＩ関連買い先行も一巡後は上値重い＝９日前場(ウエルスアドバイザー)",
+          "description": "９日前場は日経平均株価が、前日比６２９円６２銭高の６万４６５４円２２銭、ＴＯＰＩＸ（東証株価指数）も同１９．２７ポイン...",
+          "url": "https://finance.yahoo.co.jp/news/detail/4f6e21b5b69c56c4fe417edc4e356bcb6c6760ee",
+          "source": {
+            "name": "Yahoo!ファイナンス"
+          },
+          "publishedAt": "2026-06-09T03:06:00Z",
+          "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+          "language": "ja"
+        },
         {
           "title": "「しっかり話すべきかもしれません」金子誠ヘッドコーチがあえて語る「侍ジャパンWBC敗退の真実」近藤→佐藤輝「決断の瞬間」誠也故障でベンチは…（Number Web）",
           "description": "今年3月のワールド・ベースボール・クラシック(WBC)で日本代表は準々決勝でベネズエラ代表に5−8で敗退。6大会目で初めてベスト4入りを逃した。あれから3カ月。逆転負けを喫したベネズエラ戦の真実、",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-06-09T01:10:00Z",
           "image": "https://portal.st-img.jp/thumb/168df1f6f2045906dee1fcb39020c399_1780967676_l.jpg",
           "language": "ja"
-        },
-        {
-          "title": "「watchOS 27」発表 Apple Watch S8や初代Ultraなどサポート対象から外れる",
-          "description": "米Appleは6月8日、WWDC26でApple Watch向け次期OS「watchOS 27」を発表した。Apple Intelligence基盤の「Siri AI」に対応し、専用アプリで対話やWeb検索が可能に。タップジェスチャーやWorkout Buddyの改善も含む。対応はSeries 9以降に限定され、Series 8以前は対象外となった。今秋提供予定。",
-          "url": "https://www.itmedia.co.jp/news/articles/2606/09/news072.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-06-09T01:10:00Z",
-          "image": "https://image.itmedia.co.jp/news/articles/2606/09/cover_news072.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "金星と木星が接近! 今日9日と明日10日の夜は西の空に注目 どこで見られる?",
-          "description": "昨日8日に続き、今日9日と明日10日も西の空で金星と木星が接近します。マイナス4等の金星とマイナス1.9等の木星が並ぶ様子は、ひときわ目を引くでしょう。今日9日の夜は東北の太平洋側や中国地方で晴れる所がありそうです。明日10日の夜は北海道から九州にかけて晴れる所が多くなるでしょう。",
-          "url": "https://tenki.jp/forecaster/t_yoshida/2026/06/09/39263.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-06-09T00:40:12Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/392/39263/main/20260609084730/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Apple、EU当局を批判「どの解決策も受け入れず」 「Siri AI」EUのiPhone・iPadで提供見送り",
-          "description": "EU側が求めるデジタル市場法（DMA）への対応について、Appleが提示した解決策を欧州委員会がすべて拒否したためという。",
-          "url": "https://www.itmedia.co.jp/news/articles/2606/09/news069.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-06-09T00:33:00Z",
-          "image": "https://image.itmedia.co.jp/news/articles/2606/09/cover_news069.png",
-          "language": "ja"
-        },
-        {
-          "title": "ASUS「ROG」の20周年ゲーミングPCはホログラム搭載で未来感マシマシ",
-          "description": "ASUSのゲーミングブランド「ROG」が20周年を迎えました。めでたい！それを記念した特別仕様のゲーミングPC「ROG G1000 Edition 20」がComputexにお目見えしました。スペックもすごいのですが、なんといってもライティ",
-          "url": "https://www.gizmodo.jp/article/computex-asus-rog-g1000-edition-20/",
-          "source": {
-            "name": "ギズモード・ジャパン"
-          },
-          "publishedAt": "2026-06-09T00:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/06/08/5f1b9537-5e60-4036-a5fc-cbbc2b87a701/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "宇都宮出没のクマ、宇都宮大学構内で目撃 市がドローンで捜索、大学は全学部を休講に",
-          "description": "宇都宮市などによると、９日午前５時35分ごろ、宇都宮市峰町の宇都宮大学峰キャンパスクマで１頭が目撃された。市は午前6時35分ごろ、ドローンによる捜索を始めたが、午前８時までに姿は確認されていないという。宇都宮大学は構内にクマが出没したとして、９日の全学部・全研究科を休講とした。　午前４時25分ごろには城東小学校から南西200メートル地点の城東１丁目で、午前２時17分ごろには陽南中学校から東に600メートル付近の川田町で目撃されていた。",
-          "url": "https://www.shimotsuke.co.jp/articles/-/1361865",
-          "source": {
-            "name": "下野新聞社"
-          },
-          "publishedAt": "2026-06-08T23:12:52Z",
-          "image": "https://soon.ismcdn.jp/mwimgs/7/5/1200wm/img_756ff22951210dab6058dfcadb6787ed4634973.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "９日の東京株式市場見通し＝反発後はもみ合いか 速報",
-          "description": "予想レンジ：６万５０００円－６万５８００円（８日終値６万４０２４円６０銭）　９日の東京株式は反発後、もみ合いか。８日の米国株式市場で、ナスダック総合指数とＳＯＸ（フィラデルフィア半導体）指数が上昇し・・・",
-          "url": "https://kabushiki.jp/news/753716",
-          "source": {
-            "name": "kabushiki.jp"
-          },
-          "publishedAt": "2026-06-08T23:12:00Z",
-          "image": "https://kabushiki.jp/ogp.png",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Florida police release report on Hulk Hogan's cause of death",
-          "description": "Professional wrestling legend Hulk Hogan died of natural causes last year, according a report by Florida police that formally closes the investigation into his death.",
-          "url": "https://www.1news.co.nz/2026/06/09/florida-police-release-report-on-hulk-hulgans-cause-of-death/",
+          "title": "Birmingham NHS bosses warn of disruption ahead of strike",
+          "description": "The British Medical Association (BMA) announced more strike action in an ongoing dispute over pay.",
+          "url": "https://www.bbc.co.uk/news/articles/cdr4j3nld6no",
           "source": {
-            "name": "1News"
+            "name": "BBC"
           },
-          "publishedAt": "2026-06-09T02:54:34Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/hulkhogan-XS434GNBYJBINEFVUQGI3HTZTU.jpg?auth=2f428889fc2804efeb49fb6bd8d7b55d8131cd1272e2294bb23d34fc545dff74&quality=70&width=600&height=315&focal=439%2C138",
+          "publishedAt": "2026-06-09T05:23:45Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1307/live/05830420-634d-11f1-8546-8f19e4fe30f4.png",
           "language": "en"
         },
         {
-          "title": "Trump faces backlash over Naruto-style hero video",
-          "description": "The president has repeatedly used Japanese anime and other cultural references for political purposes.",
-          "url": "https://www.japantimes.co.jp/news/2026/06/09/japan/donald-trump-naruto/",
+          "title": "4,4,4 Then Catastrophe: How Vaibhav Sooryavanshi Was Trapped By Sri Lanka A In Tri Nation Series Opener",
+          "description": "Vaibhav Sooryavanshi got off to a fiery start, smashing three fours, but lost his wicket in just the fourth over of the game.",
+          "url": "https://sports.ndtv.com/cricket/4-4-4-then-catastrophe-how-vaibhav-sooryavanshi-was-trapped-by-sri-lanka-a-in-tri-nation-series-opener-11610595",
           "source": {
-            "name": "The Japan Times"
+            "name": "NDTV Sports"
           },
-          "publishedAt": "2026-06-09T02:51:00Z",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/09/545034.jpg?v=3.1",
+          "publishedAt": "2026-06-09T05:22:43Z",
+          "image": "https://c.ndtvimg.com/2026-06/eugbb5os_vaibhav-sooryavanshi-x_625x300_09_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
           "language": "en"
         },
         {
-          "title": "Brazil launches genetic screening project for prospective parents",
-          "description": "In the coming weeks, the Human Genome and Stem Cell Research Center (HUG-CELL) will begin recruiting participants for the \"Our Genes\" project.",
-          "url": "https://www.news-medical.net/news/20260608/Brazil-launches-genetic-screening-project-for-prospective-parents.aspx",
+          "title": "The best fruit and veg to slash heart disease risk - full list",
+          "description": "Your choice of five-a-day fruit and vegetables could have a big impact on cardiovascular health, a study found.",
+          "url": "https://www.express.co.uk/life-style/health/2214688/fruit-vegetables-heart-disease-health",
           "source": {
-            "name": "News-Medical"
+            "name": "Daily Express"
           },
-          "publishedAt": "2026-06-09T02:51:00Z",
-          "image": "https://www.news-medical.net/images/tags/TagImage-3347-458389964760995353448-620x480.jpg",
+          "publishedAt": "2026-06-09T05:21:00Z",
+          "image": "https://cdn.images.express.co.uk/img/dynamic/11/1200x630/6966977.jpg",
           "language": "en"
         },
         {
-          "title": "Spencer Pratt Failed To Progress In Los Angeles Mayor’s Race",
-          "description": "Pratt dropped to third with 25.8% of the vote as he was beaten to the runoff by incumbent Mayor Karen Bass and progressive Nithya Raman when AP called the race.",
-          "url": "https://www.forbes.com/sites/saradorn/2026/06/08/spencer-pratt-fails-to-advance-in-los-angeles-mayors-race/",
+          "title": "Iran, Israel say hostilities on hold after first attacks since truce",
+          "description": "Iran and Israel declare a truce after recent hostilities, easing tensions amid ongoing diplomatic efforts in West Asia.",
+          "url": "https://www.thehindu.com/news/international/iran-israel-say-hostilities-on-hold-after-first-attacks-since-truce/article71079336.ece",
           "source": {
-            "name": "Forbes"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-06-09T02:50:11Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a277ec936e3d89f358db955/0x0.jpg?format=jpg&crop=3100,1743,x0,y150,safe&height=900&width=1600&fit=bounds",
+          "publishedAt": "2026-06-09T05:20:04Z",
+          "image": "https://th-i.thgim.com/public/incoming/7he8fq/article71079359.ece/alternates/LANDSCAPE_1200/2026-06-07T232640Z_1175958186_RC29PLA0C9TM_RTRMADP_3_IRAN-CRISIS-ISRAEL.JPG",
           "language": "en"
         },
         {
-          "title": "Trump booed at Game 3 of NBA Finals in New York",
-          "description": "NEW YORK (AP) — Donald Trump was booed loudly by fans inside Madison Square Garden when he was shown on video screens during the national anthem as he bec…",
-          "url": "https://www.thescore.com/nba/news/3551375",
-          "source": {
-            "name": "theScore"
-          },
-          "publishedAt": "2026-06-09T02:49:38Z",
-          "image": "https://assets-cms.thescore.com/uploads/image/file/837310/w640xh480_GettyImages-2280020508.jpg?ts=1780973315",
-          "language": "en"
-        },
-        {
-          "title": "ABC began international search to replace Justin Stevens as news director without his knowledge",
-          "description": "Hugh Marks confirms ABC secretly engaged recruitment firm and signals sweeping changes at national broadcaster",
-          "url": "https://www.theguardian.com/media/2026/jun/09/abc-news-boss-justin-stevens-replacement-search-without-his-knowledge",
+          "title": "TV tonight: the American version of Martin Clunes comedy Doc Martin",
+          "description": "Josh Charles is the grumpy lead in new series Best Medicine. Plus: it’s Alan Carr’s maximalist Interior Design Masters final. Here’s watch to watch this evening",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/jun/09/tv-tonight-the-american-version-of-martin-clunes-comedy-doc-martin",
           "source": {
             "name": "The Guardian"
           },
-          "publishedAt": "2026-06-09T02:49:00Z",
-          "image": "https://i.guim.co.uk/img/media/c99b022292aaca5db0ff7da4438332ef02e1042f/438_0_4378_3503/master/4378.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6883b7d7a3683ad24123546c9c7fc001",
+          "publishedAt": "2026-06-09T05:20:00Z",
+          "image": "https://i.guim.co.uk/img/media/9561c5c61165a832847b77a65ca517950c4de837/62_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=813670a96881528bfdeb98407ba424b0",
           "language": "en"
         },
         {
-          "title": "Nick Reiner Claims He's Being Blocked From Inheritance Left Behind By Parents",
-          "description": "Nick Reiner wants the money he says he's owed from the trust his parents Rob and Michele Reiner set up for him ... as he awaits trial for their murders.",
-          "url": "https://www.tmz.com/2026/06/08/nick-reiner-wants-trust-fund-money/",
+          "title": "Ethiopia's FM Gedion Confers With EU Commissioner for Equality, Preparedness and Crises Management",
+          "description": "Minister of Foreign Affairs Gedion Timothewos today received and held discussions with the European Union Commissioner for Equality, Preparedness and Crisis Management, Hadja Lahbib.",
+          "url": "https://allafrica.com/stories/202606090039.html",
           "source": {
-            "name": "TMZ"
+            "name": "allAfrica.com"
           },
-          "publishedAt": "2026-06-09T02:48:28Z",
-          "image": "https://imagez.tmz.com/image/bf/16by9/2026/06/08/bf2933f5029d4ce798c88e1ef96d084a_xl.png",
+          "publishedAt": "2026-06-09T05:17:06Z",
+          "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
           "language": "en"
         },
         {
-          "title": "Over 1,000 aftershocks recorded after powerful Mindanao earthquake",
-          "description": "Aftershocks from the quake could persist for more than a month. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/asia/se-asia/over-1000-aftershocks-recorded-after-powerful-mindanao-earthquake",
+          "title": "Indonesia races to plant rice early against risk of El Nino",
+          "description": "By Yuddy Cahya Budiman and Willy Kurniawan CIREBON, Indonesia, June 9 (Reuters) - Under a hazy morning sky, Indonesian rice farmer Teguh Basuki is racing to get ahead of his usual planting schedule in",
+          "url": "https://www.yahoo.com/news/weather-news/articles/indonesia-races-plant-rice-early-050621024.html",
           "source": {
-            "name": "The Straits Times"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-06-09T02:47:00Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/7cac08d1f9d3401ffd834add5ecdea51a60ae90bb8c15afe15b75fc8b949a0f6",
+          "publishedAt": "2026-06-09T05:17:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/73fb75d94874bcf3477fff5ad93ebb4524dd9322f89d296c3428789f14b736e1/lightyear_networkapi/resizefill_w800_h533;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F6160eea2bf5c8581da06ad35711a42b0",
           "language": "en"
         },
         {
-          "title": "China trade defies Iran war drag as exports, imports beat estimates in May",
-          "description": "China's economy has shown signs of faltering following a strong first-quarter.",
-          "url": "https://www.cnbc.com/2026/06/09/china-trade-exports-imports-iran-war.html",
+          "title": "Ethiopia Concludes Diplomatic Training Program for South Sudanese Diplomats",
+          "description": "Ethiopia has successfully concluded a five-day diplomatic training program for South Sudanese diplomats, reaffirming its commitment to strengthening regional cooperation and advancing diplomatic capacity-building across Africa.",
+          "url": "https://allafrica.com/stories/202606090040.html",
           "source": {
-            "name": "CNBC"
+            "name": "allAfrica.com"
           },
-          "publishedAt": "2026-06-09T02:45:00Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108317922-1780893030278-gettyimages-2274002507-img_4140.jpeg?v=1780893064&w=1920&h=1080",
+          "publishedAt": "2026-06-09T05:16:57Z",
+          "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
           "language": "en"
         },
         {
-          "title": "WWDC 2026: Apple gives Siri an AI makeover, but China must wait",
-          "description": "For most of the world, a public beta of Siri AI will be coming out later this year for devices set to English.",
-          "url": "https://www.scmp.com/tech/article/3356438/wwdc-2026-apple-gives-siri-ai-makeover-china-must-wait",
+          "title": "Ghana: Under Ghana's President Mahama, Near-Total Impunity for Attacks On 17 Journalists",
+          "description": "When Ghana's President John Dramani Mahama took office in January 2025, pledging to restore \"an era of true media freedom,\" journalists had reason to hope that attacks on the press would be taken more seriously than before.",
+          "url": "https://allafrica.com/stories/202606090043.html",
           "source": {
-            "name": "South China Morning Post"
+            "name": "allAfrica.com"
           },
-          "publishedAt": "2026-06-09T02:42:58Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/09/f437d03b-8029-4c8d-84b4-a3d4bd047d22_78ee01cf.jpg?itok=9OZ4v2NV&v=1780972976",
+          "publishedAt": "2026-06-09T05:16:31Z",
+          "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+          "language": "en"
+        },
+        {
+          "title": "Apple boss praises social media ban in Albanese call",
+          "description": "Apple chief executive Tim Cook has singled out Australia's under-16 social media ban as a driver of child...",
+          "url": "https://www.canberratimes.com.au/story/9288998/apple-boss-praises-social-media-ban-in-albanese-call/",
+          "source": {
+            "name": "The Canberra Times"
+          },
+          "publishedAt": "2026-06-09T05:16:14Z",
+          "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/26798e46-7127-4fc5-a303-3f57c04c2a14.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
           "language": "en"
         }
       ]
