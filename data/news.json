@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-08T22:27:02.944Z",
+  "updatedAt": "2026-06-09T03:39:15.707Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "『ブルーロック』アニメ3期の超ティザービジュアル解禁。潔世一とカイザー（声優：宮野真守）のイラストに注目【100年に一度のブルーロックの日】",
+          "description": "講談社は、2026年6月9日を100年に一度の“ブルーロックの日”（※26（ブルー）6（ロッ）9（ク）の日）と定め、午前0時より作品に関するさまざまな情報を解禁する。",
+          "url": "https://www.famitsu.com/article/202606/77644",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-06-08T15:00:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/77644/thumbnail_PSmP.jpg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "【ＮＹ為替オープニング】中東情勢睨む、NY連銀1年インフレ期待が相場材料｜FX・為替ニュース",
+          "description": "◇重要イベント・ポイント ・トランプ米大統領「イスラエル、イラン両国は、速やかに停戦を。最終合意に達するまでホルムズ海峡の封鎖は維持」 ・イスラエル「対イラン攻撃を停止、トランプ米大統領の要請受け」",
+          "url": "https://zai.diamond.jp/articles/-/490182",
+          "source": {
+            "name": "ザイFX！"
+          },
+          "publishedAt": "2026-06-08T14:07:00Z",
+          "image": "https://zai.diamond.jp/mwimgs/9/e/-/img_9e47ac79ce2cf237f05d70fc22e16d45110540.png",
+          "language": "ja"
+        },
+        {
+          "title": "サルが無限にキーボードを叩いても、シェイクスピアは完成しない",
+          "description": "2024年11月18日の記事を編集して再掲載しています。無限の猿定理って知っていますか？ これは「十分長い時間をかけてランダムに文字列を作り続ければ、どんな文字列もほとんど確実にできあがる（出典：Wikipedia）」という定理。この例とし",
+          "url": "https://www.gizmodo.jp/article/sorry-monkeys-wont-write-shakespeare-before-the-universe-ends-odj/",
+          "source": {
+            "name": "ギズモード・ジャパン"
+          },
+          "publishedAt": "2026-06-08T14:00:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2024/11/18/f77abc07-afa8-42b3-89c0-5107f45b5059_1280.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "国立天文台野辺山の観測成果 「オリオン座分子雲の進化地図」を世界初作成",
+          "description": "オリオン座分子雲の進化地図を、国立天文台野辺山宇宙電波観測所などの研究チームが世界で初めて作成。45m電波望遠鏡と7BEE受信機による成果です",
+          "url": "https://sorae.info/astronomy/20260608-orion-molecular-cloud-nobeyama.html",
+          "source": {
+            "name": "sorae 宇宙へのポータルサイト"
+          },
+          "publishedAt": "2026-06-08T12:58:20Z",
+          "image": "https://sorae.info/wp-content/uploads/2026/06/orion-molecular-cloud-nobeyama-naoj-2026-06-04-2.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ラグビーリパブリック",
+          "description": "コベルコ神戸スティーラーズがリーグワン初制覇を成し遂げた翌日の6月8日、年間表彰式「NTTジャパンラグビー",
+          "url": "https://rugby-rp.com/2026/06/08/domestic/143129",
+          "source": {
+            "name": "ラグビーリパブリック"
+          },
+          "publishedAt": "2026-06-08T11:07:08Z",
+          "image": "https://rugby-rp.com/wp-content/uploads/2026/06/0G8A3503-2.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "栄「HAERA」の注目グルメまとめ！名古屋初上陸の飲食店、スイーツ、パンなど15店舗を厳選紹介 ｜ 名古屋情報通",
+          "description": "2026年6月11日(木)にオープンする大型複合ビル「ザ・ランドマーク名古屋栄」。 [※6月14日(日)までは施設入場に予約が必要] 地下2階～4階・計6フロア構成の商業施設「HAERA(ハエラ)」には約40軒のグルメが集まります。 内覧会 […]",
+          "url": "https://jouhou.nagoya/haera-gourmet/",
+          "source": {
+            "name": "名古屋情報通"
+          },
+          "publishedAt": "2026-06-08T11:06:48Z",
+          "image": "https://jouhou.nagoya/wp-content/uploads/2026/06/haera-gourmet001-600x370.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "CPUもGPUも強いノートPCへ。インテルがNVIDIA GPU搭載チップ開発のうわさ",
+          "description": "Intel vs AMDの“ヘビー級ノートPC対決”が始まる…？Intel（インテル）のCPUについてリーク情報をもとにした新たな噂が出てきました。1つは、インテルがGPU性能を大幅に強化したCPUを開発しているという大きな計画。さらに興味",
+          "url": "https://www.gizmodo.jp/article/intel-wants-to-make-the-ultimate-laptop-chip-and-amd-should-be-worried/",
+          "source": {
+            "name": "ギズモード・ジャパン"
+          },
+          "publishedAt": "2026-06-08T11:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/05/26/f94d0b26-8cc4-4dfe-a9c3-6ebfe07e8874/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
         {
           "title": "GTA6回避で9月が発売ラッシュに 『CONTROL Resonant』開発元は厳しい状況を認めつつも品質・価格・マーケティングに自信",
           "description": "「もっとも重要なのは、『CONTROL Resonant』を可能な限り最高の品質でお届けすること」",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-06-08T10:00:00Z",
           "image": "https://media.loom-app.com/loom/2026/06/04/a7e597f9-9e66-4ddf-9402-ced479adcdcf/original.jpg?w=1200&h=630",
           "language": "ja"
-        },
-        {
-          "title": "iPhone Foldはこれなのか？COMPUTEXで謎のモックを発見(山根康宏)",
-          "description": "COMPUTEXで発見されたモックは横折り折りたたみiPhoneの可能性があり、これが実現すれば新しいUIや使い勝手の向上が期待される。",
-          "url": "https://www.techno-edge.net/article/2026/06/08/5156.html",
-          "source": {
-            "name": "テクノエッジ TechnoEdge"
-          },
-          "publishedAt": "2026-06-08T09:02:43Z",
-          "image": "https://www.techno-edge.net/imgs/ogp_f/32054.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "JI BLUE『景色』インタビュー――金城 碧海、河野 純喜、西 洸人が想う、応援がもつ無限の可能性とは？",
-          "description": "JO1とINIからサッカーを愛するメンバーで結成されたスペシャルユニット＝JI BLUEがサッカー日本代表「最高の景色を2026」の公式テーマソング「景色」を6月3日にCDリリース。“応援がもつ無限の可能性”を心から信じるJI BLUE、西 洸人（INI）、河野 純喜（JO1）、金城 碧海（JO1）の3人にその想いを聞いた！",
-          "url": "https://e.usen.com/interview/interview-original/ji-blue-keshiki.html",
-          "source": {
-            "name": "USEN"
-          },
-          "publishedAt": "2026-06-08T09:00:32Z",
-          "image": "https://e.usen.com/image/950203ea582eda37023841cd511611b82e9f560c.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "アップルの「WWDC26」がまもなく開幕──視聴方法と予想される発表内容",
-          "description": "アップルの年次開発者会議「WWDC26」では、iOS 27やSiriの大幅強化、AI機能の拡充が発表される見通しだ。イベントの視聴方法もあわせて紹介する。",
-          "url": "https://wired.jp/article/how-to-watch-apple-wwdc-2026/",
-          "source": {
-            "name": "WIRED.jp"
-          },
-          "publishedAt": "2026-06-08T09:00:00Z",
-          "image": "https://media.wired.jp/photos/6a26057f779e16683fec21dd/16:9/w_1280,c_limit/GettyImages-2218819259.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "白川裕二郎が卒業後の純烈に願うこと、最大のピンチにリーダー酒井は「モナキを倒すつもりで」（会見レポート）",
-          "description": "純烈が白川裕二郎の卒業、および新メンバー募集オーディションに関して本日6月8日に東京・シャルマンシーナ東京で記者会見を行った。",
-          "url": "https://natalie.mu/music/news/675274",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-06-08T08:54:00Z",
-          "image": "https://ogre.natalie.mu/media/news/music/2026/0608/DSC_9424.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
-        },
-        {
-          "title": "明日の株式相場に向けて＝ＡＩ・半導体株に売りの洗礼、逆張り好機か",
-          "description": "週明け８日の東京株式市場は、日経平均株価が前営業日比２５６３円安の６万４０２４円と大幅安で３日続落。下げ幅は一時３１００円を上回るなど、ややパニック的な雰囲気も漂った。今月３日には終値で６万８４０２円まで水準を切り上げ・・・。",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202606081098",
-          "source": {
-            "name": "株探（かぶたん）"
-          },
-          "publishedAt": "2026-06-08T08:30:00Z",
-          "image": "https://async.api.kabutan.jp/og_image?title=%E6%98%8E%E6%97%A5%E3%81%AE%E6%A0%AA%E5%BC%8F%E7%9B%B8%E5%A0%B4%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6%EF%BC%9D%EF%BC%A1%EF%BC%A9%E3%83%BB%E5%8D%8A%E5%B0%8E%E4%BD%93%E6%A0%AA%E3%81%AB%E5%A3%B2%E3%82%8A%E3%81%AE%E6%B4%97%E7%A4%BC%E3%80%81%E9%80%86%E5%BC%B5%E3%82%8A%E5%A5%BD%E6%A9%9F%E3%81%8B",
-          "language": "ja"
-        },
-        {
-          "title": "「まるで別人」ドジャース佐々木朗希が“防御率6.35→2.55”のナゼ「急改善した15.71」「フォーク2球種化だけでなく…」V字回復に潜む意外なデータ（Number Web）",
-          "description": "ロッテ時代の「朗希」が戻ってきた、そう思ったファンも多かったのではないか。",
-          "url": "https://news.yahoo.co.jp/articles/d34b986004bf12411e100a0b33dfc67b0b252cf6",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-08T08:01:18Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-00870679-number-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "白川裕二郎の卒業発表に純烈メンバーがコメント",
-          "description": "8日、白川裕二郎の卒業発表を受け、「純烈」のメンバーがコメントを発表した。",
-          "url": "https://news.tv-asahi.co.jp/news_geinou/articles/900192438.html",
-          "source": {
-            "name": "テレ朝NEWS"
-          },
-          "publishedAt": "2026-06-08T07:56:00Z",
-          "image": "https://news.tv-asahi.co.jp/articles_img/900192438_1200.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Philippines lifts tsunami alert after deadly 7.8 earthquake",
-          "description": "The Philippines and Indonesia both issued tsunami warnings after a powerful 7.8 magnitude earthquake struck off Mindanao. At least 32 people were killed and more than 200 injured.",
-          "url": "https://www.dw.com/en/philippines-tsunami-warning-78-earthquake-indonesia/a-77452381",
+          "title": "Taylor Swift 'Toy Story 5' Song Breaks Single-Day Streaming Records",
+          "description": "Taylor Swift's 'Toy Story 5' song has broken single-day streaming records across multiple platforms.",
+          "url": "https://www.billboard.com/music/music-news/taylor-swift-toy-story-song-breaks-streaming-records-1236266981/",
           "source": {
-            "name": "DW.com"
+            "name": "Billboard"
           },
-          "publishedAt": "2026-06-08T10:26:53Z",
-          "image": "https://static.dw.com/image/77452531_6.jpg",
+          "publishedAt": "2026-06-08T15:38:02Z",
+          "image": "https://www.billboard.com/wp-content/uploads/2026/06/02-taylor-swift-toy-story-5-cr-Beth-Garrabrant-billboard-1800.jpg?w=1024",
           "language": "en"
         },
         {
-          "title": "It would be one of the biggest stories in football",
-          "description": "Republic of Ireland boss Carla Ward believes victory for her side against France in Tuesday's World Cup qualifier showdown would be \"one of the biggest stories in world football\".",
-          "url": "https://www.rte.ie/sport/soccer/2026/0608/1577302-it-would-be-one-of-the-biggest-stories-in-football-ward/",
+          "title": "Chinese leader Xi Jinping pledges deeper cooperation with North Korea's Kim Jong Un during rare visit",
+          "description": "China and North Korea should strengthen exchanges \"in diplomacy, law enforcement, and the military\", Chinese leader Xi Jinping has suggested during a rare two-day visit to Pyongyang.",
+          "url": "https://www.abc.net.au/news/2026-06-09/xi-jinping-visits-north-korea/106774288",
           "source": {
-            "name": "RTE.ie"
+            "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-06-08T10:25:03Z",
-          "image": "https://www.rte.ie/images/00247c5a-1600.jpg",
+          "publishedAt": "2026-06-08T15:37:13Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/48b526d67e912d21c94d9cfd811a1674?impolicy=wcms_watermark_news&cropH=2160&cropW=3840&xPos=0&yPos=0&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Vasseur insists Ferrari ‘have to stay positive’ amid mixed fortunes in Monaco",
-          "description": "Team Principal Fred Vasseur has reflected on Ferrari’s rollercoaster weekend in Monaco that saw a podium for Lewis Hamilton and DNF for Charles Leclerc.",
-          "url": "https://www.formula1.com/en/latest/article/vasseur-insists-ferrari-have-to-stay-positive-amid-mixed-fortunes-in-monaco.2k4JRYz3TvPBQqESh5H7OC",
+          "title": "How deep-sea isopods survive more than five years without eating",
+          "description": "A deep-sea giant isopod survives years without food using two tricks: a huge stomach that stores meals, and a body that slows to save energy.",
+          "url": "https://www.earth.com/news/how-deep-sea-isopods-survive-more-than-five-years-without-eating/",
           "source": {
-            "name": "Formula 1"
+            "name": "Earth.com"
           },
-          "publishedAt": "2026-06-08T10:25:00Z",
-          "image": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Monaco/2280342886.webp",
+          "publishedAt": "2026-06-08T15:35:12Z",
+          "image": "https://cff2.earth.com/uploads/2026/06/08061720/Deep-sea-isopods.jpg",
           "language": "en"
         },
         {
-          "title": "Mideast Live Updates: Iran and Israel Trade Strikes for the First Time Since April",
-          "description": "Iran launched waves of missiles at Israel, and Israel said it struck military targets and a petrochemical complex in Iran, as an uneasy two-month truce broke down. President Trump called for the two sides to “immediately stop” the attacks.",
-          "url": "https://www.nytimes.com/live/2026/06/08/world/iran-israel-lebanon-attacks",
+          "title": "SMArtX Advisory Solutions Releases Q2 2026 Select List",
+          "description": "/PRNewswire/ -- SMArtX Advisory Solutions, a leader in managed account technology, today announced the release of its Q2 2026 Select List. This quarter's list...",
+          "url": "https://www.prnewswire.com/news-releases/smartx-advisory-solutions-releases-q2-2026-select-list-302794147.html",
           "source": {
-            "name": "The New York Times"
+            "name": "PR Newswire"
           },
-          "publishedAt": "2026-06-08T10:24:57Z",
-          "image": "https://static01.nyt.com/images/2026/06/08/multimedia/08mideast-promo-2am-ET-chzq/08mideast-promo-2am-ET-chzq-facebookJumbo.jpg",
+          "publishedAt": "2026-06-08T15:35:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1647334/SMArtX-Advisory-Solutions_Logo.jpg?id=OA2691009&p=facebook",
           "language": "en"
         },
         {
-          "title": "Philippines earthquake kills 15, prompts tsunami fears: All to know",
-          "description": "The latest tremors come eight months after the Philippines suffered its strongest earthquake in 12 years.",
-          "url": "https://www.aljazeera.com/news/2026/6/8/philippines-earthquake-kills-15-prompts-tsunami-fears-all-to-know",
+          "title": "WWDC 2026: What to expect, from Siri's highly anticipated revamp to Apple Intelligence and iOS 27",
+          "description": "Apple's WWDC nears: Here's what you can look forward to.",
+          "url": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
           "source": {
-            "name": "Al Jazeera"
+            "name": "TechCrunch"
           },
-          "publishedAt": "2026-06-08T10:24:20Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2670f65ecf-1780904182.jpg?resize=1200%2C675",
+          "publishedAt": "2026-06-08T15:34:59Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=980",
           "language": "en"
         },
         {
-          "title": "Will Zambia-based goal machine get Harambee Stars chance?",
-          "description": "NAIROBI, Kenya, June 8, 2026 - Former Kakamega Homeboyz striker Moses Shumah will get his chance to impress Harambee Stars head coach Benni McCarthy in Get the latest local and international sports updates, football, rugby, athletics, golf, cricket and more",
-          "url": "https://www.capitalfm.co.ke/sports/2026/06/08/will-zambia-based-goal-machine-get-harambee-stars-chance/",
+          "title": "Women's T20 World Cup 2026 warm-up: Fulmali, Patil headline India's comfortable win",
+          "description": "Radha Yadav, Smriti Mandhana and Yastika Bhatia also make important contributions as India defeated WI by 29 runs | ESPN.com.au",
+          "url": "https://www.espn.com.au/cricket/story/_/id/49000595/women-t20-world-cup-2026-warm-bharti-fulmali-shreyanka-patil-headline-india-comfortable-win",
           "source": {
-            "name": "capitalfm.co.ke"
+            "name": "ESPN"
           },
-          "publishedAt": "2026-06-08T10:22:24Z",
-          "image": "https://www.capitalfm.co.ke/sports/files/2026/05/703634337_1413933264064795_5169128832821590735_n.jpg",
+          "publishedAt": "2026-06-08T15:33:45Z",
+          "image": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1540190_1296x729.jpg",
           "language": "en"
         },
         {
-          "title": "Shah Mahmood Qureshi warns Pakistan could risk losing EU GSP+ status",
-          "description": "Former foreign minister Shah Mahmood Qureshi has cautioned that Pakistan could face the possibility of losing its European Union GSP+ trade status if meaningful progress",
-          "url": "https://www.nation.com.pk/08-Jun-2026/shah-mahmood-qureshi-warns-pakistan-risk-losing-eu-gsp-status",
-          "source": {
-            "name": "The Nation (Pakistan )"
-          },
-          "publishedAt": "2026-06-08T10:22:19Z",
-          "image": "https://www.nation.com.pk/digital_images/large/2026-06-08/shah-mahmood-qureshi-warns-pakistan-risk-losing-eu-gsp-status-1780914094-5733.jpeg",
-          "language": "en"
-        },
-        {
-          "title": "Taking Stock: Markets fall for second session on weak global cues, oil surge",
-          "description": "Sectorally, all indices ended in negative territory. The Realty and Metal indices were the worst performers, declining more than 2% each. Selling pressure was also visible across Auto, Consumer Durables, IT, Media, Infrastructure, Power, Energy and Oil & Gas sectors, all of which fell over 1% during the session.",
-          "url": "https://www.moneycontrol.com/news/business/markets/taking-stock-markets-fall-for-second-session-on-weak-global-cues-oil-surge-13943706.html",
-          "source": {
-            "name": "Moneycontrol.com"
-          },
-          "publishedAt": "2026-06-08T10:21:47Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260605081515_fall1.jpeg",
-          "language": "en"
-        },
-        {
-          "title": "Lionel Messi evolution: Argentine GOAT has ‘reinvented himself at least five times’ - from Barcelona to Inter Miami via PSG & historic World Cup win",
-          "description": "Lionel Messi prepares for a record sixth World Cup as his evolution from Barcelona prodigy to Inter Miami veteran and Argentina legend is traced.",
-          "url": "https://www.goal.com/en-gh/lists/lionel-messi-evoluion-argentine-goat-barcelona-inter-miami-psg-world-cup/blt759317ec46ad1646",
+          "title": "Real Madrid legend to join Jose Mourinho’s coaching staff! Champions League winner that made 334 appearances for the Blancos set to reunite with the ‘Special One’",
+          "description": "Pepe is set to rejoin Real Madrid as part of Jose Mourinho's coaching staff following Florentino Perez's re-election as club president.",
+          "url": "https://www.goal.com/en-sa/lists/real-madrid-legend-jose-mourinho-champions-league-winner-blancos-special-one/blt467850e3fcd51a15",
           "source": {
             "name": "Goal.com"
           },
-          "publishedAt": "2026-06-08T10:21:47Z",
-          "image": "https://assets.goal.com/images/v3/bltc790adc3abe34997/messi%20(3).jpg",
+          "publishedAt": "2026-06-08T15:33:38Z",
+          "image": "https://assets.goal.com/images/v3/blt18668be6b98ab89c/GettyImages-924102108%20(1).jpg",
           "language": "en"
         },
         {
-          "title": "Boipatong crime blitz yields major arrests and drug seizures",
-          "description": "Operation Shanela 2 in Boipatong resulted in over 130 arrests, drug and liquor seizures, and intensified efforts to combat crime.",
-          "url": "https://www.citizen.co.za/sedibeng-ster/news/news-news/2026/06/08/boipatong-crime-blitz-yields-major-arrests-and-drug-seizures/",
+          "title": "Skircoat Lodge care home abuse pair: Assistant jailed for 25 years as boss gets absolute discharge",
+          "description": "Malcolm Phillips, 93, is given an absolute discharge, while Linda Brunning is jailed for 25 years.",
+          "url": "https://www.bbc.co.uk/news/articles/cddq2971qzlo",
           "source": {
-            "name": "The Citizen"
+            "name": "BBC"
           },
-          "publishedAt": "2026-06-08T10:21:02Z",
-          "image": "https://images.caxton.co.za/wp-content/uploads/sites/118/2026/06/Manamela-search-e1780916907572.jpg",
+          "publishedAt": "2026-06-08T15:33:01Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/58f0/live/28ad2fb0-6353-11f1-8b15-6100cfbc3083.png",
+          "language": "en"
+        },
+        {
+          "title": "DepEd-Bacolod logs over 106,000 learners on first day of classes",
+          "description": "BACOLOD CITY – The Department of Education (DepEd) here recorded about 106,600 enrolled learners from both public and private schools as the classes for the...",
+          "url": "https://mb.com.ph/2026/06/08/deped-bacolod-logs-over-106000-learners-on-first-day-of-classes",
+          "source": {
+            "name": "Manila Bulletin"
+          },
+          "publishedAt": "2026-06-08T15:32:42Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/08/107396.webp",
+          "language": "en"
+        },
+        {
+          "title": "Scientists teach bumblebees how to ‘play football’",
+          "description": "A new study proves bees can solve similar complex tasks to elephants and chimpanzees, despite their brains being smaller than a grain of rice.",
+          "url": "https://www.hometownregister.com/news/national/scientists-teach-bumblebees-how-to-play-football/article_86e2d0c6-5587-5b82-93b3-4f467c0ec110.html",
+          "source": {
+            "name": "HomeTown Register"
+          },
+          "publishedAt": "2026-06-08T15:32:33Z",
+          "image": "https://bloximages.chicago2.vip.townnews.com/hometownregister.com/content/tncms/assets/v3/editorial/6/3c/63cec13e-cb23-51ab-87a4-4d5b06e68971/6a26e38b3ef2e.image.png?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
           "language": "en"
         }
       ]
