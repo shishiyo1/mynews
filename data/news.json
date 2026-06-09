@@ -1,10 +1,54 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-09T20:08:25.868Z",
+  "updatedAt": "2026-06-09T22:24:29.453Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【6月10日】楽天vs巨人のテレビ放送/ネット配信予定・視聴方法｜プロ野球交流戦2026",
+          "description": "プロ野球交流戦2026 東北楽天ゴールデンイーグルス対読売ジャイアンツの試合日程・地上波中継・BS・CSテレビ放送/ネット配信予定・視聴方法を紹介。",
+          "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/rakuten-yomiuri-tv-schedule-npb-20260610/blt43852a9220ab25cd",
+          "source": {
+            "name": "Goal.com"
+          },
+          "publishedAt": "2026-06-09T10:00:00Z",
+          "image": "https://assets.goal.com/images/v3/bltef2880bed29841e2/FotoJet%20(7).jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「Siri AI」発表したApple幹部、競合AI企業を“暗に批判” 対Gemini巻き返しの戦略は",
+          "description": "米Appleは6月9日（現地時間）、長らく延期されていたSiriの大規模刷新を発表した。アップグレードしたアシスタントによって、AI競争において大手テクノロジー企業や新興企業との格差を縮めることを狙う。",
+          "url": "https://www.itmedia.co.jp/business/articles/2606/09/news110.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-06-09T09:40:00Z",
+          "image": "https://image.itmedia.co.jp/business/articles/2606/09/cover_news110.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "沖縄・奄美は11日にかけて大雨災害に警戒 本州付近は西日本を中心に梅雨の晴れ間に",
+          "description": "沖縄・奄美では11日(木)にかけて、発達した雨雲がかかりやすい状態が続きます。今後さらに雨量が多くなる恐れがあるため、土砂災害に厳重に警戒してください。本州付近は向こう一週間、西日本を中心に晴れ間の出る日が多くなりそうです。",
+          "url": "https://tenki.jp/forecaster/k_itoh/2026/06/09/39270.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-06-09T09:05:19Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/392/39270/main/20260609174806/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "WWDCで出なかったもの！ 折りたたみiPhoneにAIグラス、そしてジョン・ターナス新CEO",
+          "description": "9日未明に実施されたアップルの開発者向けイベント「WWDC26」の基調講演。iOS 27にSiri AIと注目発表は複数ありましたが、一方で期待されていたのに出なかったものが4つありました。",
+          "url": "https://ascii.jp/elem/000/004/409/4409326/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-06-09T09:00:00Z",
+          "image": "https://ascii.jp/img/2026/06/09/4480739/xl/0429d181bb695ba3.jpg?20200122",
+          "language": "ja"
+        },
         {
           "title": "『ゴシック1リメイク』PS5版が7月16日に発売延期へ。日本向け表現に合わせ、作品の世界観やゲーム体験を損なわない形で調整",
           "description": "プレイステーション5（PS5）版『Gothic 1 Remake（ゴシック1リメイク）』の配信日が2026年7月16日（木）へと延期される。延期理由は作品の世界観やゲーム体験を損なわず日本のプレイヤーに届けるため。現在は国内向けの表現調整を進められている。",
@@ -70,161 +114,117 @@
           "publishedAt": "2026-06-09T03:30:00Z",
           "image": "https://media.loom-app.com/loom/2026/06/08/21c03ddd-7f85-4968-a3a6-8d758874c710/original.jpg?w=1200&h=630",
           "language": "ja"
-        },
-        {
-          "title": "AIだけじゃない。iOS 27はアプリ起動高速化やカスタマイズ強化も",
-          "description": "Appleは6月8日(米国時間)、開発者向けカンファレンスWWDC26において、次世代OS「iOS 27」、「iPadOS 27」、「watchOS 27」、「visionOS 27」、「tvOS 27」を発表した。",
-          "url": "https://pc.watch.impress.co.jp/docs/news/2115493.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-06-09T03:08:18Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2115/493/1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "日経平均は６２９円高と４日ぶり反発、ＡＩ関連買い先行も一巡後は上値重い＝９日前場(ウエルスアドバイザー)",
-          "description": "９日前場は日経平均株価が、前日比６２９円６２銭高の６万４６５４円２２銭、ＴＯＰＩＸ（東証株価指数）も同１９．２７ポイン...",
-          "url": "https://finance.yahoo.co.jp/news/detail/4f6e21b5b69c56c4fe417edc4e356bcb6c6760ee",
-          "source": {
-            "name": "Yahoo!ファイナンス"
-          },
-          "publishedAt": "2026-06-09T03:06:00Z",
-          "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
-          "language": "ja"
-        },
-        {
-          "title": "「しっかり話すべきかもしれません」金子誠ヘッドコーチがあえて語る「侍ジャパンWBC敗退の真実」近藤→佐藤輝「決断の瞬間」誠也故障でベンチは…（Number Web）",
-          "description": "今年3月のワールド・ベースボール・クラシック(WBC)で日本代表は準々決勝でベネズエラ代表に5−8で敗退。6大会目で初めてベスト4入りを逃した。あれから3カ月。逆転負けを喫したベネズエラ戦の真実、",
-          "url": "https://news.yahoo.co.jp/articles/880bf3cdd1f9699a8f104fddf199baf219bff742",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-09T02:41:13Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-00870682-number-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "沖縄や奄美は長引く大雨に警戒 12日頃は関東などゲリラ雷雨に注意 2週間天気予報",
-          "description": "来週前半にかけて梅雨前線は南西諸島付近に停滞し、沖縄や奄美は梅雨末期の大雨に警戒が必要です。本州付近は晴れ間の出る日が多いですが、12日(金)頃は関東などでゲリラ雷雨の恐れがあります。来週後半になると梅雨前線が本州付近に北上し、九州から関東甲信で梅雨が本格化するでしょう。北陸や東北南部、東北北部も梅雨入りとなりそうです。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/06/09/39264.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-06-09T02:33:22Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/392/39264/main/20260609110959/large.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "I can't believe I'm saying this: Android needs these five iOS 27 features",
-          "description": "Credit where it's due: Apple had some genuinely smart ideas this year.",
-          "url": "https://www.androidcentral.com/apps-software/android-os/9-things-android-should-steal-from-ios-27",
+          "title": "Who are the youngest winners of the Monaco Grand Prix?",
+          "description": "After another victory, more Formula 1 records were broken by Kimi Antonelli with his latest success in the Monaco Grand Prix. Amongst several, the Italian became the youngest driver to win on the streets of the Principality, but who did he beat to claim the accolade?",
+          "url": "https://www.formula1.com/en/latest/article/who-are-the-youngest-winners-of-the-monaco-grand-prix.5X61KpB52Rwp4bPdsaTtUE",
           "source": {
-            "name": "Android Central"
+            "name": "Formula 1"
           },
-          "publishedAt": "2026-06-09T08:08:00Z",
-          "image": "https://cdn.mos.cms.futurecdn.net/xT8aTTunkD6DnrPiLsmhti-2560-80.jpg",
+          "publishedAt": "2026-06-09T10:24:00Z",
+          "image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Monaco/GettyImages-2280353994.webp",
           "language": "en"
         },
         {
-          "title": "NSW prosecutors launch proceedings against Labor officials accused of disguising donations to Chris Minns",
-          "description": "Labor MP Ernest Wong and restaurateur Jonathan Yee are facing court over allegedly circumventing election funding laws",
-          "url": "https://www.theguardian.com/australia-news/2026/jun/09/court-proceedings-labor-officials-accused-disguising-chris-minns-donations-ntwnfb",
+          "title": "Indian Study Reveals Micronutrient Deficiencies, ETHealthworld",
+          "description": "A recent ICMR-NIN study highlights the connection between micronutrient deficiencies and increased risk of dementia among Indian adults, emphasizing the importance of nutrition in cognitive health.",
+          "url": "https://health.economictimes.indiatimes.com/news/industry/icmr-nin-study-links-micronutrient-deficiencies-to-higher-dementia/131608092",
           "source": {
-            "name": "The Guardian"
+            "name": "ET HealthWorld"
           },
-          "publishedAt": "2026-06-09T08:07:00Z",
-          "image": "https://i.guim.co.uk/img/media/d7f3a50b7b12a76b01ef2409cf5fec642641ae89/628_0_4200_3360/master/4200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a0f01dc6a90bceb5315e65800b850b12",
+          "publishedAt": "2026-06-09T10:23:52Z",
+          "image": "https://etimg.etb2bimg.com/thumb/msid-131608092,imgsize-88558,width-1200,height=627,overlay-ethealth,resizemode-75/industry/icmr-nin-study-links-micronutrient-deficiencies-to-higher-dementia.jpg",
           "language": "en"
         },
         {
-          "title": "NEMA Launches Restoration of Degraded Kyangwali Landscape Around Bugoma Forest",
-          "description": "KIKUUBE: The National Environment Management Authority (NEMA), together with government agencies, conservation groups, the Bunyoro-Kitara Kingdom and Hoima Sugar Limited, has launched the restoration of degraded landscapes around Bugoma Forest in Kikuube District. The initiative follows an environmental audit by NEMA which found that parts of the Kyangwali Integrated Agriculture Project had suffered degradation, affecting …",
-          "url": "https://chimpreports.com/nema-launches-restoration-of-degraded-kyangwali-landscape-around-bugoma-forest/",
+          "title": "From Farm To Safari Table: How This Hotel...",
+          "description": "Eco-Tourism: Deep within the Greater Kruger region, premium travel is undergoing a profound evolution. Today’s discerning traveller looks far beyond",
+          "url": "https://africa.com/from-farm-to-safari-table-how-this-hotel-is-redefining-eco-tourism/",
           "source": {
-            "name": "ChimpReports"
+            "name": "Africa.com"
           },
-          "publishedAt": "2026-06-09T08:05:09Z",
-          "image": "https://cdn-network.chimpreports.com/wp-content/uploads/2026/06/IMG_8222-1204x677.jpeg",
+          "publishedAt": "2026-06-09T10:21:54Z",
+          "image": "https://africa.com/wp-content/uploads/2026/06/Redefining-Eco-Tourism.jpg",
           "language": "en"
         },
         {
-          "title": "Michael Olise: Why France winger can move into Ballon d'Or contention at World Cup?",
-          "description": "After a first international hat-trick against Northern Ireland, former France striker Louis Saha believes Michael Olise can move into Ballon d'Or contention.",
-          "url": "https://www.bbc.co.uk/sport/articles/cx2k50v9zyxo",
+          "title": "Lee Chang-dong to Receive Lifetime Achievement Honor at Malaysia’s MIFFest",
+          "description": "South Korean filmmaker Lee Chang-dong will be presented with the Lifetime Achievement Award at the 9th Malaysia International Film Festival (MIFFest), which unveiled its full program lineup Tuesday in...",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/lee-chang-dong-receive-lifetime-102137579.html",
           "source": {
-            "name": "BBC"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-06-09T08:05:03Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3449/live/88872f30-638f-11f1-ade2-3d7052856292.jpg",
+          "publishedAt": "2026-06-09T10:21:37Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/6995de70af62a29ff94725884228860c2a1d95cee8b16fc94e96190c4e3bd9b0/lightyear_networkapi/resizefill_w1000_h667;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F11d64a8bcc721ec448c9c3fb695ea309",
           "language": "en"
         },
         {
-          "title": "Michael Olise: Why France winger can move into Ballon d'Or contention at World Cup?",
-          "description": "After a first international hat-trick against Northern Ireland, former France striker Louis Saha believes Michael Olise can move into Ballon d'Or contention.",
-          "url": "https://www.bbc.com/sport/articles/cx2k50v9zyxo",
+          "title": "Lee Chang-dong to Get Lifetime Achievement Honor at Malaysia's MIFFest",
+          "description": "Malaysia's MIFFest 2026 runs July 18-25 with 65 films from 35 countries and a lifetime honor for Lee Chang-dong.",
+          "url": "https://variety.com/2026/film/festivals/lee-chang-dong-lifetime-achievement-honor-malaysia-miffest-1236770084/",
           "source": {
-            "name": "BBC"
+            "name": "Variety"
           },
-          "publishedAt": "2026-06-09T08:05:03Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3449/live/88872f30-638f-11f1-ade2-3d7052856292.jpg",
+          "publishedAt": "2026-06-09T10:21:00Z",
+          "image": "https://variety.com/wp-content/uploads/2026/06/MIFFEST1.jpg?w=1000&h=563&crop=1",
           "language": "en"
         },
         {
-          "title": "Pioneer Generation MediSave top-ups for seniors",
-          "description": "Singaporean Pioneer Generation seniors will receive MediSave top-ups of $300 to $1,200 in July to assist with healthcare costs. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/singapore/singaporeans-from-pioneer-generation-to-receive-up-to-1200-in-medisave-top-ups-in-july",
+          "title": "Seven women accuse West Ham co-owner of sexual exploitation",
+          "description": "The allegations emerged in a joint investigation by BBC Panorama and The Times and span several decades from the 1980s.",
+          "url": "https://theeagleonline.com.ng/seven-women-accuse-west-ham-co-owner-of-sexual-exploitation/",
           "source": {
-            "name": "The Straits Times"
+            "name": "theeagleonline.com.ng"
           },
-          "publishedAt": "2026-06-09T08:04:49Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/47dd735c245e543aaa99c60eb001d013a6eebdfe1472ea2cf017673f650dc795",
+          "publishedAt": "2026-06-09T10:20:54Z",
+          "image": "https://theeagleonline.com.ng/wp-content/uploads/2026/06/David-Sullivan.jpg",
           "language": "en"
         },
         {
-          "title": "Chance that Bill 21 inspires violent rhetoric: Intelligence assessment",
-          "description": "The top court's decision on Quebec's controversial secularism law is expected in the coming months",
-          "url": "https://nationalpost.com/news/politics/realistic-chance-that-scc-decision-on-bill-21-inspires-violent-extremist-rhetoric-intelligence-assessment-says",
+          "title": "Abu Trica Spotted in Old Toyota Corolla As Video Sparks Talk About His Changed Lifestyle",
+          "description": "Ghanaian socialite Abu Trica's recent sighted in an old Toyota Corolla at Zeno's Yoghurt Bar raises eyebrows amid reports of frozen assets and lifestyle changes.",
+          "url": "https://yen.com.gh/entertainment/celebrities/305998-abu-trica-spotted-toyota-corolla-video-sparks-talk-changed-lifestyle/",
           "source": {
-            "name": "National Post"
+            "name": "Yen News"
           },
-          "publishedAt": "2026-06-09T08:03:13Z",
-          "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/06/supreme-court4899_301830884.jpg",
+          "publishedAt": "2026-06-09T10:19:19Z",
+          "image": "https://cdn.yen.com.gh/images/1200x675/43281af39c8f0803.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "Matildas vs Mexico, live updates, international friendly in Sydney",
-          "description": "The Matildas will be hoping for a degree of redemption as they look to put Saturday night's disjointed performance in Newcastle to bed in their second international against Mexico. Follow live.",
-          "url": "https://www.abc.net.au/news/2026-06-09/live-updates-matildas-vs-mexico-sydney/106777476",
+          "title": "Agilus Diagnostics launches Idylla System to deliver cancer mutation results in just 3 hours",
+          "description": "Agilus Diagnostics has launched the automated Idylla molecular diagnostics system at its Goregaon laboratory in Mumbai, enabling rapid detection of cancer-related genetic mutations within 2.5 to 3 hours. The launch […]",
+          "url": "https://www.expresshealthcare.in/news/agilus-diagnostics-launches-idylla-system-to-deliver-cancer-mutation-results-in-just-3-hours/453861/",
           "source": {
-            "name": "Australian Broadcasting Corporation"
+            "name": "expresshealthcare.in"
           },
-          "publishedAt": "2026-06-09T08:03:02Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/d91fd144ebe6b7d09ef5b17d386fc4ed?impolicy=wcms_watermark_news&cropH=2762&cropW=4910&xPos=0&yPos=330&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-06-09T10:19:05Z",
+          "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/09154850/EH_Idylla.jpg",
           "language": "en"
         },
         {
-          "title": "Purbaya Signals Further Budget Tightening in 2027 Amid Rising Spending Commitments",
-          "description": "For 2027, the government has set a budget deficit target of between 1.8% and 2.4% of gross domestic product.",
-          "url": "https://jakartaglobe.id/business/purbaya-signals-further-budget-tightening-in-2027-amid-rising-spending-commitments",
+          "title": "Around 7,000 Rathwood customers warned they will only get 'very small sum' back",
+          "description": "The Carlow-based home and garden store entered examinership earlier this year, after facing significant difficulties in recent times.",
+          "url": "https://www.thejournal.ie/around-7000-rathwood-customers-warned-they-will-only-get-very-small-sum-back-7064801-Jun2026/",
           "source": {
-            "name": "Jakarta Globe"
+            "name": "The Journal"
           },
-          "publishedAt": "2026-06-09T08:03:00Z",
-          "image": "https://img2.beritasatu.com/cache/jakartaglobe/960x620-w/2026/06/1780992176-5000x3334.webp",
+          "publishedAt": "2026-06-09T10:18:00Z",
+          "image": "https://img2.thejournal.ie/article/7064801/river/?height=400&version=7064814",
           "language": "en"
         },
         {
-          "title": "LHC rejects challenge to IPP capacity charges, upholds govt’s policy authority",
-          "description": "The Lahore High Court (LHC) has dismissed a petition challenging capacity charges and payments made to Independent Power Producers (IPPs)",
-          "url": "https://minutemirror.com.pk/lhc-rejects-challenge-to-ipp-capacity-charges-upholds-govts-policy-authority-569251/",
+          "title": "Meera calls out interviewer for calling her 'psycho', says 'give me respect'",
+          "description": "Interviewer calls actor 'country's biggest psycho' during film promotion prompting fan backlash",
+          "url": "https://tribune.com.pk/story/2612220/meera-calls-out-interviewer-for-calling-her-psycho-says-give-me-respect",
           "source": {
-            "name": "Minute Mirror"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-06-09T08:02:53Z",
-          "image": "https://minutemirror.com.pk/wp-content/uploads/2026/06/1590049_6546029_News3_updates.jpg",
+          "publishedAt": "2026-06-09T10:17:47Z",
+          "image": "https://i.tribune.com.pk/media/images/meera1780997562-0/meera1780997562-0-640x480.webp",
           "language": "en"
         }
       ]
