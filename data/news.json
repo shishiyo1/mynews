@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-09T22:24:29.453Z",
+  "updatedAt": "2026-06-10T03:53:40.110Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "Nintendo Switch™ 2専用ソフト 競走馬育成シミュレーション『ダービースタリオン２』発売決定のお知らせ",
+          "description": "株式会社ゲームアディクトのプレスリリース（2026年6月10日 00時00分）Nintendo Switch™ 2専用ソフト　競走馬育成シミュレーション『ダービースタリオン２』発売決定のお知らせ",
+          "url": "https://prtimes.jp/main/html/rd/p/000000020.000022342.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-06-09T15:00:02Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/22342/20/22342-20-7f3540545ffb5e778dcc43632b1f74b7-2080x1092.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "初のカラー対応「Kindle Scribe Colorsoft」の実力は？ 通常モデルとの価格差1万7000円の価値を検証（1/4 ページ）",
+          "description": "Amazonの電子書籍リーダー兼デジタルノートの上位モデルに、シリーズ初となるカラー電子ペーパー搭載の「Kindle Scribe Colorsoft」が登場した。本記事では、通常モデルとの価格差（約1万7000円）に見合う価値があるのかを実機を使って確かめた。 (1/4)",
+          "url": "https://www.itmedia.co.jp/pcuser/articles/2606/10/news055.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-06-09T15:00:00Z",
+          "image": "https://image.itmedia.co.jp/pcuser/articles/2606/10/cover_news055.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "アップル、３日続落 ＥＵでＳｉｒｉ・ＡＩをアイフォーンなどに提供できないと発表＝米国株個別",
+          "description": "（NY時間10:47）（日本時間23:47）\nアップル　292.82（-8.72　-2.89%）\n　アップルが３日続落...",
+          "url": "https://finance.yahoo.co.jp/news/detail/16c8f094495893862cc40830f24dc9f0f46b7bf7",
+          "source": {
+            "name": "Yahoo!ファイナンス"
+          },
+          "publishedAt": "2026-06-09T14:52:00Z",
+          "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+          "language": "ja"
+        },
+        {
+          "title": "【ＮＹ為替オープニング】米イラン和平合意期待に原油続落、ドル軟化｜FX・為替ニュース",
+          "description": "◇重要イベント・ポイント ・トランプ米大統領「我々はイランとの交渉を継続。1，2日後には少なくとも大まかな見通しは立つ。現状は順調に進んでいる」「イラン経済は苦境、おそらく彼らは合意するだろう」 ・米",
+          "url": "https://zai.diamond.jp/articles/-/490261",
+          "source": {
+            "name": "ザイFX！"
+          },
+          "publishedAt": "2026-06-09T14:09:00Z",
+          "image": "https://zai.diamond.jp/mwimgs/9/e/-/img_9e47ac79ce2cf237f05d70fc22e16d45110540.png",
+          "language": "ja"
+        },
+        {
+          "title": "これが最古のアルファベット？ 4400年前の土器に書かれた文字らしきもの",
+          "description": "2024年12月1日の記事を編集して再掲載しています。定説が覆る新発見！1994年から2010年にかけて、ジョンズ・ホプキンス大学とアムステルダム大学の共同で、シリア・アレッポ東部の「ウンム・エル・マッラ遺跡」の発掘調査が行なわれました。こ",
+          "url": "https://www.gizmodo.jp/article/archaeologists-may-have-just-found-the-oldest-alphabet-ever-odk/",
+          "source": {
+            "name": "ギズモード・ジャパン"
+          },
+          "publishedAt": "2026-06-09T14:00:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2024/11/28/oldest-alphabet-896x597-1.jpeg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "中国発の独自GPU。値上がり続く市場の救世主になるか",
+          "description": "中国の企業が開発した新たなグラフィックボードが登場しました。一見すると、何が特別なの？と思いますが、現在の市場を考えるととても画期的なものかもしれないのです。ちなみに、その性能は現在シェアトップに位置するNVIDIA（エヌビディア）やAMD",
+          "url": "https://www.gizmodo.jp/article/first-gpu-out-of-china-cant-compete-against-nvidia-yet/",
+          "source": {
+            "name": "ギズモード・ジャパン"
+          },
+          "publishedAt": "2026-06-09T13:30:00Z",
+          "image": "https://media.loom-app.com/loom/2026/05/28/68830453-0f72-4eae-811c-59c297257515/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "【広島】新井貴浩監督「床田がというより、西武打線が振れている」３点リード守れず、サヨナラ負け「強いなと思います」",
+          "description": "広島は今季４度目のサヨナラ負け。３―３で迎えた９回に５番手の中崎が中崎が決勝点を許した。序盤は３点のリード。２回にファビアンが先制の４号ソロを放つと、３回にドラフト１位・平川が待望のプロ１号を放った",
+          "url": "https://hochi.news/articles/20260609-OHT1T51363.html",
+          "source": {
+            "name": "スポーツ報知"
+          },
+          "publishedAt": "2026-06-09T12:22:00Z",
+          "image": "https://hochi.news/images/2026/06/09/20260609-OHT1I51447-C.jpg",
+          "language": "ja"
+        },
         {
           "title": "【6月10日】楽天vs巨人のテレビ放送/ネット配信予定・視聴方法｜プロ野球交流戦2026",
           "description": "プロ野球交流戦2026 東北楽天ゴールデンイーグルス対読売ジャイアンツの試合日程・地上波中継・BS・CSテレビ放送/ネット配信予定・視聴方法を紹介。",
@@ -17,6 +94,17 @@
           "language": "ja"
         },
         {
+          "title": "Mr.Children、大阪公演の振替日程＆追加公演を発表【報告ほぼ全文】（ORICON NEWS）｜ｄメニューニュース",
+          "description": "Mr.Children、大阪公演の振替日程＆追加公演を発表【報告ほぼ全文】（ORICON NEWS）　Mr.Childrenの公式サイトが9日に更新。公演途中で中断となった5月30日の大阪公演、および中止となった31日の公演の振替について…",
+          "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2460154?redirect=1",
+          "source": {
+            "name": "ｄメニューニュース"
+          },
+          "publishedAt": "2026-06-09T09:45:04Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/picture/oricon/m_oricon-2460154.jpg",
+          "language": "ja"
+        },
+        {
           "title": "「Siri AI」発表したApple幹部、競合AI企業を“暗に批判” 対Gemini巻き返しの戦略は",
           "description": "米Appleは6月9日（現地時間）、長らく延期されていたSiriの大規模刷新を発表した。アップグレードしたアシスタントによって、AI競争において大手テクノロジー企業や新興企業との格差を縮めることを狙う。",
           "url": "https://www.itmedia.co.jp/business/articles/2606/09/news110.html",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-06-09T09:40:00Z",
           "image": "https://image.itmedia.co.jp/business/articles/2606/09/cover_news110.jpg",
           "language": "ja"
-        },
-        {
-          "title": "沖縄・奄美は11日にかけて大雨災害に警戒 本州付近は西日本を中心に梅雨の晴れ間に",
-          "description": "沖縄・奄美では11日(木)にかけて、発達した雨雲がかかりやすい状態が続きます。今後さらに雨量が多くなる恐れがあるため、土砂災害に厳重に警戒してください。本州付近は向こう一週間、西日本を中心に晴れ間の出る日が多くなりそうです。",
-          "url": "https://tenki.jp/forecaster/k_itoh/2026/06/09/39270.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-06-09T09:05:19Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/392/39270/main/20260609174806/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "WWDCで出なかったもの！ 折りたたみiPhoneにAIグラス、そしてジョン・ターナス新CEO",
-          "description": "9日未明に実施されたアップルの開発者向けイベント「WWDC26」の基調講演。iOS 27にSiri AIと注目発表は複数ありましたが、一方で期待されていたのに出なかったものが4つありました。",
-          "url": "https://ascii.jp/elem/000/004/409/4409326/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-06-09T09:00:00Z",
-          "image": "https://ascii.jp/img/2026/06/09/4480739/xl/0429d181bb695ba3.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "『ゴシック1リメイク』PS5版が7月16日に発売延期へ。日本向け表現に合わせ、作品の世界観やゲーム体験を損なわない形で調整",
-          "description": "プレイステーション5（PS5）版『Gothic 1 Remake（ゴシック1リメイク）』の配信日が2026年7月16日（木）へと延期される。延期理由は作品の世界観やゲーム体験を損なわず日本のプレイヤーに届けるため。現在は国内向けの表現調整を進められている。",
-          "url": "https://www.famitsu.com/article/202606/77700",
-          "source": {
-            "name": "ファミ通"
-          },
-          "publishedAt": "2026-06-09T06:00:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/77700/thumbnail_iGVu.jpg?x=1280",
-          "language": "ja"
-        },
-        {
-          "title": "Shopifyでアコーディオン機能を簡単に実現できるアプリ「シンプルアコーディオン表示｜お手軽折りたたみタブ」をリリース",
-          "description": "株式会社UnReactのプレスリリース（2026年6月9日 14時40分）Shopifyでアコーディオン機能を簡単に実現できるアプリ「シンプルアコーディオン表示｜お手軽折りたたみタブ」をリリース",
-          "url": "https://prtimes.jp/main/html/rd/p/000000278.000072693.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-06-09T05:40:02Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/72693/278/72693-278-4ebb32d9a90e62b2ce27b5b6e5d07486-1600x900.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "LG、42型/約29万円からのハイグレード有機EL「LG OLED evo AI C6」",
-          "description": "LGエレクトロニクス・ジャパンは、4K有機ELテレビの2026年ラインナップを発表。性能とデザイン性、価格のバランスに優れたハイグレードシリーズ「LG OLED evo AI C6」を6月25日に発売する。サイズは42型～65型。価格はオープン。市場想定価格は以下の通り。",
-          "url": "https://av.watch.impress.co.jp/docs/news/2115544.html",
-          "source": {
-            "name": "AV Watch"
-          },
-          "publishedAt": "2026-06-09T05:10:00Z",
-          "image": "https://av.watch.impress.co.jp/img/avw/list/2115/544/DSC08047.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "伝説のARPGフルリメイク『Gothic 1 Remake』国内向けPS5版が7月16日に延期―理由は“PS5版の国内向けの表現調整”のため【UPDATE】",
-          "description": "国内ではSteam版およびXbox Series X|S版が6月6日より配信開始しています。",
-          "url": "https://www.gamespark.jp/article/2026/06/09/167717.html",
-          "source": {
-            "name": "Game*Spark"
-          },
-          "publishedAt": "2026-06-09T05:00:02Z",
-          "image": "https://www.gamespark.jp/imgs/ogp_f/1141931.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "音楽制作レーベルArte Refact、所属クリエイターが一斉退所 代表の女性問題を受け",
-          "description": "株式会社Memento morが運営する音楽制作レーベル・Arte Refact（アルテ・リファクト）が、所属クリエイター全員が6月30日（火）をもって一斉退所すると発表した。Arte Refactを巡っては6月4日、代表をつとめる桑原聖さんの不貞行為がSNS上で拡散。本人が内容を「概ね事実」と認め、担当していた『あんさんぶるスターズ！！…",
-          "url": "https://kai-you.net/article/95629",
-          "source": {
-            "name": "KAI-YOU"
-          },
-          "publishedAt": "2026-06-09T04:23:00Z",
-          "image": "https://img.kai-you.net/storage/2026/06/c0092798-fa28-4932-9efd-59ac3676840f/jpg/arterefact.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "iPhone Ultraの精巧なダミーモデルがリーク。カラバリ白のみって本当ですか？",
-          "description": "じっくり見てみましょう。さまざまな噂が飛び交っている折りたたみiPhone、「iPhone Ultra（仮称）」。ちょっと前もiPhone Ultraのダミーモデルと思われる動画がリークされていましたが、今度は静止画。リーカーのソニー・ディ",
-          "url": "https://www.gizmodo.jp/article/iphone-ultra-color-variation-white-only/",
-          "source": {
-            "name": "ギズモード・ジャパン"
-          },
-          "publishedAt": "2026-06-09T03:30:00Z",
-          "image": "https://media.loom-app.com/loom/2026/06/08/21c03ddd-7f85-4968-a3a6-8d758874c710/original.jpg?w=1200&h=630",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Who are the youngest winners of the Monaco Grand Prix?",
-          "description": "After another victory, more Formula 1 records were broken by Kimi Antonelli with his latest success in the Monaco Grand Prix. Amongst several, the Italian became the youngest driver to win on the streets of the Principality, but who did he beat to claim the accolade?",
-          "url": "https://www.formula1.com/en/latest/article/who-are-the-youngest-winners-of-the-monaco-grand-prix.5X61KpB52Rwp4bPdsaTtUE",
+          "title": "Emma Raducanu buoyant after thumping win over Blinkova at Queen’s",
+          "description": "Emma Raducanu believes her dominant start to the grass-court season can be the launchpad for success over the coming month",
+          "url": "https://www.theguardian.com/sport/2026/jun/09/emma-raducanu-buoyant-after-thumping-win-over-anna-blinkova-at-queens-tennis",
           "source": {
-            "name": "Formula 1"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-06-09T10:24:00Z",
-          "image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Monaco/GettyImages-2280353994.webp",
+          "publishedAt": "2026-06-09T15:52:00Z",
+          "image": "https://i.guim.co.uk/img/media/75a4e813c812dab787eb01ff91ecb1e1c4bd7248/596_138_4478_3583/master/4478.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5e22464d27fe1b0a578c8bedc06319a",
           "language": "en"
         },
         {
-          "title": "Indian Study Reveals Micronutrient Deficiencies, ETHealthworld",
-          "description": "A recent ICMR-NIN study highlights the connection between micronutrient deficiencies and increased risk of dementia among Indian adults, emphasizing the importance of nutrition in cognitive health.",
-          "url": "https://health.economictimes.indiatimes.com/news/industry/icmr-nin-study-links-micronutrient-deficiencies-to-higher-dementia/131608092",
+          "title": "Vivo Energy, police intensify school road safety with Shs 40 million helmet donation",
+          "description": "Kampala, Uganda | THE INDEPENDENT | Vivo Energy Uganda has donated 500 child safety helmets worth more than Shs 40 million to the Uganda Police Force to support road safety awareness and enforcement campaigns targeting school-going children who use motorcycle taxis for their daily commute. The donation, made under the company’s “HeadsUp! No Helmet, No …",
+          "url": "https://www.independent.co.ug/vivo-energy-police-intensify-school-road-safety-with-shs-40-million-helmet-donation/",
           "source": {
-            "name": "ET HealthWorld"
+            "name": "The Independent Uganda"
           },
-          "publishedAt": "2026-06-09T10:23:52Z",
-          "image": "https://etimg.etb2bimg.com/thumb/msid-131608092,imgsize-88558,width-1200,height=627,overlay-ethealth,resizemode-75/industry/icmr-nin-study-links-micronutrient-deficiencies-to-higher-dementia.jpg",
+          "publishedAt": "2026-06-09T15:51:54Z",
+          "image": "https://www.independent.co.ug/wp-content/uploads/2026/06/Heads-up.jpg",
           "language": "en"
         },
         {
-          "title": "From Farm To Safari Table: How This Hotel...",
-          "description": "Eco-Tourism: Deep within the Greater Kruger region, premium travel is undergoing a profound evolution. Today’s discerning traveller looks far beyond",
-          "url": "https://africa.com/from-farm-to-safari-table-how-this-hotel-is-redefining-eco-tourism/",
+          "title": "Salesforce Cuts Jobs Again As AI Threat Lingers",
+          "description": "The SaaS giant has been hit by concern that AI could replace some traditional software services.",
+          "url": "https://www.businessinsider.com/salesforce-cuts-jobs-agentforce-2026-6",
           "source": {
-            "name": "Africa.com"
+            "name": "Business Insider"
           },
-          "publishedAt": "2026-06-09T10:21:54Z",
-          "image": "https://africa.com/wp-content/uploads/2026/06/Redefining-Eco-Tourism.jpg",
+          "publishedAt": "2026-06-09T15:51:16Z",
+          "image": "https://i.insider.com/6a2743c60421ca48aa59ffba?width=1200&format=jpeg",
           "language": "en"
         },
         {
-          "title": "Lee Chang-dong to Receive Lifetime Achievement Honor at Malaysia’s MIFFest",
-          "description": "South Korean filmmaker Lee Chang-dong will be presented with the Lifetime Achievement Award at the 9th Malaysia International Film Festival (MIFFest), which unveiled its full program lineup Tuesday in...",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/lee-chang-dong-receive-lifetime-102137579.html",
+          "title": "Boo York, Boo York! Trump gets wake-up call in city that never sleeps",
+          "description": "US News: The TOI correspondent from Washington: In New York City, few traditions are more sacred than complaining about traffic and berating politicians. Donal.",
+          "url": "https://timesofindia.indiatimes.com/world/us/boo-york-boo-york-trump-gets-wake-up-call-in-city-that-never-sleeps/articleshow/131614898.cms",
           "source": {
-            "name": "Yahoo"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-06-09T10:21:37Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/6995de70af62a29ff94725884228860c2a1d95cee8b16fc94e96190c4e3bd9b0/lightyear_networkapi/resizefill_w1000_h667;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F11d64a8bcc721ec448c9c3fb695ea309",
+          "publishedAt": "2026-06-09T15:50:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-131614927,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Lee Chang-dong to Get Lifetime Achievement Honor at Malaysia's MIFFest",
-          "description": "Malaysia's MIFFest 2026 runs July 18-25 with 65 films from 35 countries and a lifetime honor for Lee Chang-dong.",
-          "url": "https://variety.com/2026/film/festivals/lee-chang-dong-lifetime-achievement-honor-malaysia-miffest-1236770084/",
+          "title": "Waterford company Klearcom wins two major industry awards",
+          "description": "Waterford-based technology company Klearcom is celebrating a double success after taking home two honours at the 2026 Operational Excellence Awards.",
+          "url": "https://wlrfm.com/news/klearcom-4141501/",
           "source": {
-            "name": "Variety"
+            "name": "wlrfm.com"
           },
-          "publishedAt": "2026-06-09T10:21:00Z",
-          "image": "https://variety.com/wp-content/uploads/2026/06/MIFFEST1.jpg?w=1000&h=563&crop=1",
+          "publishedAt": "2026-06-09T15:49:48Z",
+          "image": "https://wlrfm.com/wp-content/uploads/2026/06/Klearcom-1024x683.jpg",
           "language": "en"
         },
         {
-          "title": "Seven women accuse West Ham co-owner of sexual exploitation",
-          "description": "The allegations emerged in a joint investigation by BBC Panorama and The Times and span several decades from the 1980s.",
-          "url": "https://theeagleonline.com.ng/seven-women-accuse-west-ham-co-owner-of-sexual-exploitation/",
+          "title": "Zelensky says Ukraine ready to share drone tech with Nordic and Baltic countries",
+          "description": "Estonia hosted the summit in its capital of Tallinn amid Russia’s four-year-old, full-scale invasion of Ukraine.",
+          "url": "https://www.impartialreporter.com/news/national/26180084.zelensky-says-ukraine-ready-share-drone-tech-nordic-baltic-countries/",
           "source": {
-            "name": "theeagleonline.com.ng"
+            "name": "The Impartial Reporter"
           },
-          "publishedAt": "2026-06-09T10:20:54Z",
-          "image": "https://theeagleonline.com.ng/wp-content/uploads/2026/06/David-Sullivan.jpg",
+          "publishedAt": "2026-06-09T15:49:32Z",
+          "image": "https://www.impartialreporter.com/resources/images/21026032.jpg?type=og-image",
           "language": "en"
         },
         {
-          "title": "Abu Trica Spotted in Old Toyota Corolla As Video Sparks Talk About His Changed Lifestyle",
-          "description": "Ghanaian socialite Abu Trica's recent sighted in an old Toyota Corolla at Zeno's Yoghurt Bar raises eyebrows amid reports of frozen assets and lifestyle changes.",
-          "url": "https://yen.com.gh/entertainment/celebrities/305998-abu-trica-spotted-toyota-corolla-video-sparks-talk-changed-lifestyle/",
+          "title": "Barack Obama Made a Surprise Visit to 'Disclosure Day' Set",
+          "description": "Barack Obama is close friends with Steven Spielberg and one day dropped by the set of the new sci-fi thriller 'Disclosure Day.'",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/barack-obama-disclosure-day-set-steven-spielberg-1236617075/",
           "source": {
-            "name": "Yen News"
+            "name": "The Hollywood Reporter"
           },
-          "publishedAt": "2026-06-09T10:19:19Z",
-          "image": "https://cdn.yen.com.gh/images/1200x675/43281af39c8f0803.jpeg?v=1",
+          "publishedAt": "2026-06-09T15:47:32Z",
+          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/GettyImages-2167676975.jpg?crop=0px%2C136px%2C5142px%2C2877px&resize=1440%2C810",
           "language": "en"
         },
         {
-          "title": "Agilus Diagnostics launches Idylla System to deliver cancer mutation results in just 3 hours",
-          "description": "Agilus Diagnostics has launched the automated Idylla molecular diagnostics system at its Goregaon laboratory in Mumbai, enabling rapid detection of cancer-related genetic mutations within 2.5 to 3 hours. The launch […]",
-          "url": "https://www.expresshealthcare.in/news/agilus-diagnostics-launches-idylla-system-to-deliver-cancer-mutation-results-in-just-3-hours/453861/",
+          "title": "Baltic and Nordic Prime Ministers meet Zelenskyy in Tallinn",
+          "description": "The Prime Ministers of the Baltic and Nordic states are in Tallinn, Estonia on Tuesday for a meeting with Ukraine's outstanding President Volodymyr Zelenskyy, reports Latvian Television.",
+          "url": "https://eng.lsm.lv/article/politics/politics/09.06.2026-baltic-and-nordic-prime-ministers-meet-zelenskyy-in-tallinn.a650699/",
           "source": {
-            "name": "expresshealthcare.in"
+            "name": "LSM"
           },
-          "publishedAt": "2026-06-09T10:19:05Z",
-          "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/09154850/EH_Idylla.jpg",
+          "publishedAt": "2026-06-09T15:46:36Z",
+          "image": "https://static.lsm.lv/media/2026/06/large/4/ti5w.jpg",
           "language": "en"
         },
         {
-          "title": "Around 7,000 Rathwood customers warned they will only get 'very small sum' back",
-          "description": "The Carlow-based home and garden store entered examinership earlier this year, after facing significant difficulties in recent times.",
-          "url": "https://www.thejournal.ie/around-7000-rathwood-customers-warned-they-will-only-get-very-small-sum-back-7064801-Jun2026/",
+          "title": "Bryan Cranston shares 'heartbreaking loss' of 'three time wife' Catherine O'Hara",
+          "description": "Following her death, Catherine O'Hara's three time onscreen husband Bryan Cranston has opened up about what she was really like in a touching tribute and the 'heartbreaking' loss he felt",
+          "url": "https://www.mirror.co.uk/3am/celebrity-news/bryan-cranston-catherine-ohara-dead-37270424",
           "source": {
-            "name": "The Journal"
+            "name": "The Mirror"
           },
-          "publishedAt": "2026-06-09T10:18:00Z",
-          "image": "https://img2.thejournal.ie/article/7064801/river/?height=400&version=7064814",
+          "publishedAt": "2026-06-09T15:45:00Z",
+          "image": "https://i2-prod.mirror.co.uk/article36696099.ece/ALTERNATES/s1200d/1_76th-Primetime-Emmy-Awards-Arrivals.jpg",
           "language": "en"
         },
         {
-          "title": "Meera calls out interviewer for calling her 'psycho', says 'give me respect'",
-          "description": "Interviewer calls actor 'country's biggest psycho' during film promotion prompting fan backlash",
-          "url": "https://tribune.com.pk/story/2612220/meera-calls-out-interviewer-for-calling-her-psycho-says-give-me-respect",
+          "title": "Gachagua: I have capacity, infrastructure and networks for presidential bid",
+          "description": "Ex-DP says he remains hopeful of securing the opposition ticket but will support a consensus candidate if not chosen",
+          "url": "https://www.the-star.co.ke/news/2026-06-09-gachagua-i-have-capacity-infrastructure-and-networks-for-presidential-bid",
           "source": {
-            "name": "The Express Tribune"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-06-09T10:17:47Z",
-          "image": "https://i.tribune.com.pk/media/images/meera1780997562-0/meera1780997562-0-640x480.webp",
+          "publishedAt": "2026-06-09T15:45:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/06/2e45447a-d7b1-4653-8372-775a53649871.png?1781032864809",
           "language": "en"
         }
       ]
