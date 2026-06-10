@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-10T10:03:51.599Z",
+  "updatedAt": "2026-06-10T15:38:16.904Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "宇都宮のクマは2頭以上か…生態から「疑問」専門家も 学校生活にも影響…一律の基準作った岩手・盛岡市",
-          "description": "栃木県宇都宮市の中心部で3日前からクマの目撃情報が相次いでいましたが、9日、1頭のクマが住宅の敷地内で発見され、麻酔銃を使って捕獲されました。一方で市はクマがほかにもいる可能性があるとして、市立の小中学校を10日も休校にするなど、引き続き警戒しています。",
-          "url": "https://news.ntv.co.jp/category/society/10ff816ac4cb491885dc21d03ea6da7b",
+          "title": "Anthropic、最上位「ミュトス」級モデルを一般提供 悪用防ぐ保護機能を備えた「Claude Fable 5」",
+          "description": "米Anthropicは6月9日（現地時間）、新AIモデル「Claude Fable 5」の一般提供を始めた。同社がOpusクラスを上回る能力を持つと位置付ける最上位の「Mythos（ミュトス）クラス」に属するモデルで、これまでセキュリティ上の懸念から一般公開を見送ってきた水準の能力を、悪用を防ぐ保護機能（セーフガード）とともに初めて全ユーザーに開放した。同時に、保護機能の一部を解除した上位版「Claude Mythos 5」を、サイバー防衛などの信頼できる限られたパートナー向けに提供する。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2606/10/2000000073/",
           "source": {
-            "name": "日テレNEWS NNN"
+            "name": "ITmedia"
           },
-          "publishedAt": "2026-06-09T21:22:00Z",
-          "image": "https://news.ntv.co.jp/gimage/n24/articles/61ccbfb63daf4214beb799a719e04d4f/cb26c04e-9e1d-42cc-ade4-451b7aa770aa.jpeg?w=1200",
+          "publishedAt": "2026-06-10T03:22:48Z",
+          "image": "https://www.itmedia.co.jp/aiplus/article/ogp/2606/10/2000000073/10000385/2048",
           "language": "ja"
         },
         {
-          "title": "【巨額赤字で“お家騒動”】ホンダ三部敏宏社長をホテルに呼び出し、川本信彦元社長（90）と雨宮高一元副社長（85）が放った“痛烈な一言”（文春オンライン）",
-          "description": "上場以来初の最終赤字に転落したホンダは、株主総会を目前に控えた5月14日、人事案を急遽変更した。子会社の本田技術研究所で常務執行役員を務めていた48歳の四竈真人（しかままひと）氏を新たに取締役候補",
-          "url": "https://news.yahoo.co.jp/articles/8ba70af35ae53cd8a67b658ddf605bc7b1ac7878",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-09T21:12:15Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260610-00089288-bunshun-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "「妻が癌なのは事実だ」夫婦で病と戦うW杯オランダ監督クーマン…ファンダイクとデヨングを信頼の一方で「ヨシダは気のいい男」なぜ吉田麻也を絶賛するか（Number Web）",
-          "description": "北中米W杯、サッカー日本代表が初戦で戦うオランダ代表。ロナルド・クーマン監督が5月に行なった会見に出席した記者が、一問一答をまとめてくれた。〈NumberWebレポート/全3回。翻訳:山中忍〉",
-          "url": "https://news.yahoo.co.jp/articles/f034bdafe001335db82eea0dd09e763c32bacb06",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-09T21:07:41Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260610-00870666-number-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "AI音声は見破れるのか、高市首相答弁が問いかけた「声の証拠能力」 情報幾何学やトポロジカル解析で合成音声と自然音声の違いを検証する(1/3)",
-          "description": "自民党総裁選などで高市早苗首相の陣営が他候補を中傷する内容の動画を作成してSNSに投稿していたと報じた週刊文春の記事を巡って、衆参両院の予算委員会で野党が首相を厳しく追及しています(1/3)",
-          "url": "https://jbpress.ismedia.jp/articles/-/95259",
-          "source": {
-            "name": "JBpress"
-          },
-          "publishedAt": "2026-06-09T21:00:00Z",
-          "image": "https://jbpress.ismcdn.jp/mwimgs/c/0/1200mw/img_c016f8d1b0f30b6a3e03c69202b3ef9486173.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「Siri AIはほぼGemini」は大きな間違い。WWDC 26現地で分かったアップルの独自性と社会課題",
-          "description": "クックCEO最後の舞台となったWWDC 26。グーグルと提携して再始動したAI戦略の裏側には、徹底したデータ保護と、子ども向けの安全機能や各国の法規制など、社会課題に真っ向から取り組むアップル独自の姿勢がありました。",
-          "url": "https://www.businessinsider.jp/article/2606-wwdc26-siri-ai-uniqueness/",
-          "source": {
-            "name": "Business Insider Japan"
-          },
-          "publishedAt": "2026-06-09T20:50:00Z",
-          "image": "https://media.loom-app.com/loom/2026/06/09/962a9807-ae7e-4879-8d9a-25d51a6f86c3/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "沖縄・奄美は梅雨末期の大雨に警戒 11日にかけて警報級の大雨のおそれ",
-          "description": "沖縄・奄美では梅雨前線の活動が活発となり、明日11日(木)にかけて大雨となるおそれがあります。発達した雨雲がかかる所では、警報級の大雨となる可能性もあり、土砂災害や低い土地の浸水、河川の増水に警戒が必要です。",
-          "url": "https://tenki.jp/forecaster/s_ono/2026/06/10/39271.html",
+          "title": "13日まで梅雨の晴れ間 関東から九州は来週後半から本格的な梅雨空 2週間天気予報",
+          "description": "この先6月11日(木)〜6月23日(火)は、前半は梅雨の晴れ間があるものの、14日(日)から15日(月)と18日(木)以降は本州以西で本格的な梅雨空となり、蒸し暑い日が続く見込みです。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/06/10/39273.html",
           "source": {
             "name": "tenki.jp"
           },
-          "publishedAt": "2026-06-09T20:41:44Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/392/39271/main/20260610052620/large.jpg",
+          "publishedAt": "2026-06-10T02:39:34Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/392/39273/main/20260610105944/large.jpg",
           "language": "ja"
         },
         {
-          "title": "ダウ平均は小幅高 半導体は失速 明日の米ＣＰＩへの警戒感も＝米国株概況",
-          "description": "NY株式9日（NY時間16:20）（日本時間05:20） ダウ平均　　　50872.11（+86.10　+0.17%） S＆P500　　　　7386.65（-19.08　-0.26%） ナスダック　　...",
-          "url": "https://fx.minkabu.jp/news/369679",
-          "source": {
-            "name": "みんかぶ FX/為替"
-          },
-          "publishedAt": "2026-06-09T20:22:31Z",
-          "image": "https://mfx-assets.s3.ap-northeast-1.amazonaws.com/news_ogp/stock.png",
-          "language": "ja"
-        },
-        {
-          "title": "「私が登るべき」…驚きの主張 閉山中の富士山で外国人観光客が登山強行 静岡・富士宮市長は憤り「地元としては迷惑」",
-          "description": "閉山中の富士山で登山を強行する外国人観光客の危険な行動が問題となっている。\n遭難も相次ぐ中、自治体は救助費用の負担見直しなど対策強化を訴えている。\n◆閉山中の富士山で登山を強行する外国人が…\n遭",
-          "url": "https://news.yahoo.co.jp/articles/2b36627c30f905471e1ec24c38943e2b17688ba9",
+          "title": "「母親は、梨瑚を甘やかしすぎた」 内田被告の素顔と家庭環境を知人が明かす【旭川女子高生殺害】",
+          "description": "2024年4月、北海道旭川市にある神居（かむい）大橋の欄干から当時17歳の女子高生を川に落下させ、死亡させるという事件が発生した。この事件で殺人罪などに問われた内田梨瑚（りこ）被告（23）の裁判員",
+          "url": "https://news.yahoo.co.jp/articles/3faad14946471526626efdb1e54b5dda3b43f546",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-06-09T20:02:41Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260610-01157779-fnn-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-06-10T02:38:26Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260610-00010000-shincho-000-2-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "藤原竜也が国民的クズにカムバック…「カイジ 人生リベンジゲーム」公開決定、ティザーポスター＆超特報映像公開",
-          "description": "シリーズ累計発行部数3000万部を超え、今でも圧倒的人気を誇る「カイジ」の7年ぶり4作目となる映画「カイジ人生リベンジゲーム」が、2027年1月29日に公開されることが決定。ティザーポスターと超特報映像(https://youtu.be/X",
-          "url": "https://eiga.com/news/20260610/2/",
+          "title": "JAXA探査機「はやぶさ2」の小惑星「トリフネ」フライバイ時刻が決定 7月5日18時30分頃に",
+          "description": "JAXAは2026年6月9日付で、小惑星探査機「はやぶさ2」の拡張ミッション「はやぶさ2＃」における小惑星「Torifune（トリフネ）」のフライバイ時刻を発表。日本時間2026年7月5日18時30分頃に、幅約500mとみられるTorifuneの中心から約1kmの距離を通過する予定です",
+          "url": "https://sorae.info/space/20260610-hayabusa2-torifune.html",
           "source": {
-            "name": "映画.com"
+            "name": "sorae 宇宙へのポータルサイト"
           },
-          "publishedAt": "2026-06-09T20:00:00Z",
-          "image": "https://media.eiga.com/images/buzz/126928/7e5d0876c6b6d9e7.jpg",
+          "publishedAt": "2026-06-10T01:31:45Z",
+          "image": "https://sorae.info/wp-content/uploads/2024/09/Torifune-01.jpg",
           "language": "ja"
         },
         {
-          "title": "実写映画「カイジ」7年ぶりの新作公開決定！帝愛会長の息子・兵藤和也が登場（コメントあり / 動画あり）",
-          "description": "福本伸行原作による実写映画「カイジ」シリーズの最新作「カイジ 人生リベンジゲーム」が、2027年1月29日に公開決定。ティザーポスターと超特報映像が解禁された。",
-          "url": "https://natalie.mu/comic/news/675448",
+          "title": "関東は梅雨空続くが週末13日は晴れ間 週明け15日は再び広い範囲で雨に",
+          "description": "関東は梅雨前線や湿った空気の影響で、今日10日(水)の午前中は沿岸部を中心に雨の降る所があるでしょう。次第に日差しの出る所もありそうです。13日(土)は梅雨の晴れ間となるでしょう。一方、来週前半は再び広い範囲で雨となる見込みで、梅雨らしい天気となりそうです。",
+          "url": "https://tenki.jp/forecaster/s_ono/2026/06/10/39274.html",
           "source": {
-            "name": "ナタリー"
+            "name": "tenki.jp"
           },
-          "publishedAt": "2026-06-09T20:00:00Z",
-          "image": "https://ogre.natalie.mu/media/news/comic/2026/0609/kaiji_jinseirevengegame_teaser.jpg?impolicy=twitter_card_face_crop",
+          "publishedAt": "2026-06-10T00:35:14Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/392/39274/main/20260610090752/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "グーグル、リアルタイム翻訳「Gemini 3.5 Live Translate」発表 ほぼ遅延なく自然な会話を実現",
+          "description": "グーグルは、リアルタイムの多言語会話をより自然にする新しい音声モデル「Gemini 3.5 Live Translate」を発表した。",
+          "url": "https://japan.cnet.com/article/35248679/",
+          "source": {
+            "name": "CNET Japan"
+          },
+          "publishedAt": "2026-06-09T23:57:00Z",
+          "image": "https://japan.cnet.com/storage/2026/06/10/1bbbc437b5b4ab804d435f572c73b701/screenshot-2026-06-09-at-1-18-00pm_1280x960.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "全104試合の権利を持つDAZNが、W杯を“独占”しなかったワケ。WBCの「Netflix独占」で起きた不満の教訓（SPA!）",
+          "description": "6月11日開幕のサッカーW杯北中米大会で、スポーツ動画配信を行うDAZNは、全104試合を国内でライブ配信する。同社のほかNHK、日本テレビ、フジテレビなどが地上波で約60試合を放送。日本戦や決勝な",
+          "url": "https://news.yahoo.co.jp/articles/91776da0877d4595b3b018c2075c8f3bacb449bc",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-09T23:49:03Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260610-02166866-sspa-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【本日の見通し】ドル高基調継続へ、米CPIにも注意",
+          "description": "【本日の見通し】ドル高基調継続へ、米CPIにも注意 　　　 　ドル円は海外市場で160円台前半での推移が続いた。NY市場午後にドル高が進み、160.20円を挟んでの推移から、一時160.40円台まで上...",
+          "url": "https://fx.minkabu.jp/news/369703",
+          "source": {
+            "name": "みんかぶ FX/為替"
+          },
+          "publishedAt": "2026-06-09T22:45:31Z",
+          "image": "https://mfx-assets.s3.ap-northeast-1.amazonaws.com/news_ogp/forex.png",
+          "language": "ja"
+        },
+        {
+          "title": "サッカー日本代表が対戦する強豪オランダのワールドカップ史 ベテランライター「1974年の姿と今の日本がダブって見える」",
+          "description": "連載第104回　サッカー観戦7700試合超！ 後藤健生の「来た、観た、蹴った」\n　現場観戦7700試合を達成したベテランサッカージャーナリストの後藤健生氏が、豊富な取材経験からサッカーの歴史、文化",
+          "url": "https://news.yahoo.co.jp/articles/c8be1cc0cda234db3baca5d92b368a9dea7a761c",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-09T22:14:14Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260610-01113770-sportiva-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "Google、音声リアルタイム翻訳モデル「Gemini 3.5 Live Translate」をリリース",
+          "description": "米Googleは6月9日（現地時間）、「Gemini 3.5 Live Translate」を発表した。同社の翻訳サービス「Google 翻訳」（Google Translate）の誕生20周年を記念するにふさわしい音声リアルタイム翻訳モデルだ。",
+          "url": "https://forest.watch.impress.co.jp/docs/news/2115809.html",
+          "source": {
+            "name": "窓の杜"
+          },
+          "publishedAt": "2026-06-09T22:05:00Z",
+          "image": "https://forest.watch.impress.co.jp/img/wf/list/2115/809/image_top.png",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Markets live updates: Woolworths to outsource hundreds of corporate jobs, ASX flat as US launches strikes against Iran",
-          "description": "Supermarket giant Woolworths will begin consulting with its 10,000 corporate workers today, with plans to outsource roles to Asia. The Australian share market has begun its day relatively flat. Follow live.",
-          "url": "https://www.abc.net.au/news/2026-06-10/asx-markets-business-live-news-june-10/106779182",
+          "title": "Taylor Swift Gives Surprise Performance of 'Toy Story 5' Song at LA Premiere",
+          "description": "Taylor Swift celebrated her new, record-breaking \"Toy Story 5\" anthem, titled \"I Knew It, I Knew You,\" with a live performance at the film's world premiere Tuesday.",
+          "url": "https://www.thewrap.com/creative-content/movies/taylor-swift-toy-story-5-la-premiere-performance/",
           "source": {
-            "name": "Australian Broadcasting Corporation"
+            "name": "TheWrap"
           },
-          "publishedAt": "2026-06-09T22:03:27Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/84cb7b044ca037b558e8880aa46b03fc?impolicy=wcms_watermark_news&cropH=560&cropW=995&xPos=5&yPos=42&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-06-10T03:38:05Z",
+          "image": "https://www.thewrap.com/wp-content/uploads/2026/06/Untitled-design-2026-06-09T192254.480.jpg",
           "language": "en"
         },
         {
-          "title": "US striking Iran in response to downing of helicopter, military says",
-          "description": "President Donald Trump earlier accused Iran of shooting down a US helicopter over the Strait of Hormuz and vowed to respond.",
-          "url": "https://www.bbc.co.uk/news/live/cx2vn75ew2qt",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-06-09T22:03:12Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b70/live/9e30cc10-6452-11f1-b1f5-e5557bd602f0.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Saving the endangered Philippine eagle from extinction",
-          "description": "Once a species is lost, it is lost forever. Along with its disappearance comes the loss of one of the country’s natural treasures and the unfortunate truth...",
-          "url": "https://mb.com.ph/2026/06/10/saving-the-endangered-philippine-eagle-from-extinction",
-          "source": {
-            "name": "Manila Bulletin"
-          },
-          "publishedAt": "2026-06-09T22:00:53Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/09/107721.webp",
-          "language": "en"
-        },
-        {
-          "title": "World’s largest chipmaker does not rule out price rises as costs increase",
-          "description": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
-          "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-06-09T22:00:24Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0073/live/e8e49210-6424-11f1-a614-bb0f90cd931c.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Why these MOE teachers left familiar classrooms to teach the Singapore curriculum overseas",
-          "description": "About 30 out of 33,000 MOE teachers are posted overseas. Overcoming differences in culture and teaching styles, they tell CNA why they chose to make the move.",
-          "url": "https://www.channelnewsasia.com/singapore/moe-hong-kong-teachers-overseas-posting-mindef-growth-development-culture-6171291",
-          "source": {
-            "name": "CNA"
-          },
-          "publishedAt": "2026-06-09T22:00:00Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--9-Gi7g9L--/c_crop,h_720,w_1280,x_0,y_0/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/09/6082636421400301393.jpg?itok=nYfSsbTl",
-          "language": "en"
-        },
-        {
-          "title": "Proposed US Hercules repair hub in West Java sparks debate on what Indonesia stands to gain and lose",
-          "description": "Indonesia’s Defence Minister Sjafrie Sjamsoeddin says his country is working on using Kertajati International Airport in West Java for such a hub proposed by his US counterpart Pete Hegseth.",
-          "url": "https://www.channelnewsasia.com/asia/indonesia-us-defence-kertajati-hercules-6170696",
-          "source": {
-            "name": "CNA"
-          },
-          "publishedAt": "2026-06-09T22:00:00Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--2cxx4rwt--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/04/indonesia_bijb_kertajati_1.jpg?itok=ci8I1XZr",
-          "language": "en"
-        },
-        {
-          "title": "Get 1 year of VPN, antivirus, breach alerts, and Incogni for just $75",
-          "description": "Get Surfshark One+ with Incogni for $74.99 and secure your devices with VPN protection, antivirus, breach alerts, and automated data broker removals.",
-          "url": "https://mashable.com/tech/june-9-surfshark-one-plan-1-year-subscription",
-          "source": {
-            "name": "Mashable"
-          },
-          "publishedAt": "2026-06-09T22:00:00Z",
-          "image": "https://helios-i.mashable.com/imagery/articles/00ZkaibLhPtUsXH0F0iavCG/hero-image.fill.size_1200x675.v1779959406.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Tennis legend makes winning return at Queen’s Club doubles match",
-          "description": "After nearly four years away from professional tennis, Serena Williams showed she still has plenty of power to her game as she made a winning return.",
-          "url": "https://www.smh.com.au/sport/tennis/193km-h-bombs-and-a-c-minus-serena-williams-makes-stunning-return-to-tennis-20260610-p605dy.html",
-          "source": {
-            "name": "SMH.com.au"
-          },
-          "publishedAt": "2026-06-09T21:59:38Z",
-          "image": "https://static.ffx.io/images/$zoom_0.22720446256168206%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_17/t_crop_custom/q_86%2Cf_auto/fa2f5d22eb334f2c4e9f0d67a0ceb6aba7e78f90",
-          "language": "en"
-        },
-        {
-          "title": "Bukayo Saka is playing through pain barrier, says Tuchel, as World Cup looms",
-          "description": "Bukayo Saka continues to play through the pain of an achilles injury, according to the England manager, Thomas Tuchel, and must be managed carefully at the World Cup",
-          "url": "https://www.theguardian.com/football/2026/jun/09/bukayo-saka-playing-through-pain-barrier-tuchel-world-cup",
+          "title": "Ukraine war briefing: Moscow car bomb kills Russian ammunition chief - reports",
+          "description": "Second car bomb was discovered and blown up by authorities; more panic buying of fuel in Russia as Ukrainian attacks bite. What we know on day 1,568",
+          "url": "https://www.theguardian.com/world/2026/jun/10/ukraine-war-briefing-moscow-car-bomb-kills-russian-ammunition-chief-reports",
           "source": {
             "name": "The Guardian"
           },
-          "publishedAt": "2026-06-09T21:59:00Z",
-          "image": "https://i.guim.co.uk/img/media/9d308c3650570c146e1fdf0de5756f15d97b3a02/261_204_2998_2398/master/2998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=833391f4c5505bc1eba9844b0c6e8600",
+          "publishedAt": "2026-06-10T03:36:00Z",
+          "image": "https://i.guim.co.uk/img/media/d34048e73d4df81250392997e455dd1776b7e316/852_0_4260_3408/master/4260.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd678bbf50efe746a34561916fb285a9",
           "language": "en"
         },
         {
-          "title": "Madonna Stuns in Exclusive New Photos from the Confessions II Premiere",
-          "description": "For her highly anticipated sequel record, Madonna attended the Tribeca Film Festival for the world premiere of her short film Confessions II.",
-          "url": "https://www.interviewmagazine.com/music/madonna-confessions-ii-tribeca-film-festival-sabrina-carpenter",
+          "title": "Eala reaches Round of 16 at HSBC Championships",
+          "description": "Filipino Alexandra Eala advanced to the second round of the WTA 500 HSBC Championships after beating Chinese Zhang Shuai, 6-3, 6-2",
+          "url": "https://www.sunstar.com.ph/manila/eala-reaches-round-of-16-at-hsbc-championships",
           "source": {
-            "name": "Interview Magazine"
+            "name": "SunStar Publishing Inc."
           },
-          "publishedAt": "2026-06-09T21:58:46Z",
-          "image": "https://www.interviewmagazine.com/wp-content/uploads/2026/06/IMG_3713-scaled.jpg",
+          "publishedAt": "2026-06-10T03:35:07Z",
+          "image": "https://cf-images.assettype.com/sunstar%2F2026-06-10%2Fs2ihk3ca%2FEALA.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "language": "en"
+        },
+        {
+          "title": "Wanyonyi targets first Diamond League win of season in Oslo",
+          "description": "Wanyonyi heads into the meeting, also known as the Bislett games, looking to bounce back from a second-place finish in Rabat on May 31.",
+          "url": "https://eastleighvoice.co.ke/athletics/365225/wanyonyi-targets-first-diamond-league-win-of-season-in-oslo",
+          "source": {
+            "name": "The Eastleigh Voice"
+          },
+          "publishedAt": "2026-06-10T03:33:44Z",
+          "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/06/eastleighvoice-co-ke-2026-june-09-212140.webp",
+          "language": "en"
+        },
+        {
+          "title": "PM Anwar: World needs more leadership clarity, not more power",
+          "description": "TOKYO: The world is currently facing a shortage of leadership clarity rather than power, Prime Minister Datuk Seri Anwar Ibrahim said on Wednesday (June 10).",
+          "url": "https://www.thestar.com.my/news/nation/2026/06/10/pm-anwar-world-needs-more-leadership-clarity-not-more-power",
+          "source": {
+            "name": "thestar.com.my"
+          },
+          "publishedAt": "2026-06-10T03:31:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/06/10/3951395.jpeg",
+          "language": "en"
+        },
+        {
+          "title": "2 Singaporeans found dead within 4 days at same Batam apartment complex",
+          "description": "The body of a 59-year-old Singaporean woman was found on Monday (June 8) night on the 38th floor of an apartment complex in Batam, reported local media.The discovery was made during a routine check by the Pollux Habibie apartment security team, according to Indonesian news outlet Tribun Batam.The woman, who was not named, reportedly died due to an illness, based...",
+          "url": "https://www.asiaone.com/singapore/2-singaporeans-found-dead-within-4-days-same-batam-apartment-complex",
+          "source": {
+            "name": "AsiaOne"
+          },
+          "publishedAt": "2026-06-10T03:30:55Z",
+          "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Jun2026/Facebookbatam_100626.jpg?itok=qryZNzFw",
+          "language": "en"
+        },
+        {
+          "title": "Messi scores on injury return as Argentina beat Iceland in World Cup warm-up",
+          "description": "Lionel Messi comes off bench for 20-minute cameo as part of managed return to fitness following injury scare.",
+          "url": "https://www.scmp.com/sport/football/article/3356573/messi-scores-injury-return-argentina-beat-iceland-world-cup-warm",
+          "source": {
+            "name": "South China Morning Post"
+          },
+          "publishedAt": "2026-06-10T03:30:46Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/10/beedfad8-48b7-4cdc-b567-5adcd6a6a020_c6c31462.jpg?itok=JLd9H1mN&v=1781062237",
+          "language": "en"
+        },
+        {
+          "title": "Singapore court moves to seize Capital A’s assets in dispute",
+          "description": "Seizure notice targets Big Pay and Teleport stakes held by Capital A unit Move Digital under arbitration ruling enforcement.",
+          "url": "https://www.freemalaysiatoday.com/category/business/2026/06/10/singapore-court-moves-to-seize-capital-as-assets-in-dispute",
+          "source": {
+            "name": "Free Malaysia Today"
+          },
+          "publishedAt": "2026-06-10T03:30:43Z",
+          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/05/12d5e3ef-capital-a-epa-images-resize-020525-1.webp",
+          "language": "en"
+        },
+        {
+          "title": "Man Utd news: Sir Jim Ratcliffe gives £100m transfer green light as surprise swoop eyed",
+          "description": "Manchester United have been linked with several players in the transfer market as Sir Jim Ratcliffe reportedly makes his stance clear",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-jim-ratcliffe-37270593",
+          "source": {
+            "name": "The Mirror"
+          },
+          "publishedAt": "2026-06-10T03:30:00Z",
+          "image": "https://i2-prod.mirror.co.uk/article37270607.ece/ALTERNATES/s1200d/0_GettyImages-2256116734.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Buildings, cars on fire; migrants ‘evicted’: Massive unrest in Belfast after brutal knife attack | Visuals",
+          "description": "The unrest came amid visuals showing anti-immigration groups marching in the streets after far-right activists called for demonstrations. | World News",
+          "url": "https://www.hindustantimes.com/world-news/belfast-knife-attack-violence-unrest-uk-police-buildings-cars-on-fire-migrants-forced-evicted-keir-starmer-ireland-101781061111202.html",
+          "source": {
+            "name": "Hindustan Times"
+          },
+          "publishedAt": "2026-06-10T03:29:57Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/06/10/550x309/AP06-10-2026-000009A-0_1781061501451_1781061511730_415998ad-77b9-432b-97da-30de149b53e3.jpg",
           "language": "en"
         }
       ]
