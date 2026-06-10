@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-10T15:38:16.904Z",
+  "updatedAt": "2026-06-10T20:32:10.718Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "Anthropic、最上位「ミュトス」級モデルを一般提供 悪用防ぐ保護機能を備えた「Claude Fable 5」",
-          "description": "米Anthropicは6月9日（現地時間）、新AIモデル「Claude Fable 5」の一般提供を始めた。同社がOpusクラスを上回る能力を持つと位置付ける最上位の「Mythos（ミュトス）クラス」に属するモデルで、これまでセキュリティ上の懸念から一般公開を見送ってきた水準の能力を、悪用を防ぐ保護機能（セーフガード）とともに初めて全ユーザーに開放した。同時に、保護機能の一部を解除した上位版「Claude Mythos 5」を、サイバー防衛などの信頼できる限られたパートナー向けに提供する。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2606/10/2000000073/",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-06-10T03:22:48Z",
-          "image": "https://www.itmedia.co.jp/aiplus/article/ogp/2606/10/2000000073/10000385/2048",
-          "language": "ja"
-        },
-        {
-          "title": "13日まで梅雨の晴れ間 関東から九州は来週後半から本格的な梅雨空 2週間天気予報",
-          "description": "この先6月11日(木)〜6月23日(火)は、前半は梅雨の晴れ間があるものの、14日(日)から15日(月)と18日(木)以降は本州以西で本格的な梅雨空となり、蒸し暑い日が続く見込みです。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/06/10/39273.html",
+          "title": "梅雨の中休みは13日(土)まで 週末は蒸し暑さ増す 14日(日)以降は広く雨",
+          "description": "梅雨前線は南の海上へ離れて停滞する見込みで、13日(土)頃までは広い範囲で梅雨の中休みとなるでしょう。ただ、局地的にはにわか雨や雷雨の可能性があります。14日(日)から15日(月)は前線が北上し、西日本から東日本を中心に雨の範囲が広がる見込みです。晴れ間の出る日が続く週末にかけて気温は上昇し、蒸し暑さが増すため熱中症対策が必要です。",
+          "url": "https://tenki.jp/forecaster/gureweather/2026/06/10/39283.html",
           "source": {
             "name": "tenki.jp"
           },
-          "publishedAt": "2026-06-10T02:39:34Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/392/39273/main/20260610105944/large.jpg",
+          "publishedAt": "2026-06-10T08:03:13Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/392/39283/main/20260610155209/large.jpg",
           "language": "ja"
         },
         {
-          "title": "「母親は、梨瑚を甘やかしすぎた」 内田被告の素顔と家庭環境を知人が明かす【旭川女子高生殺害】",
-          "description": "2024年4月、北海道旭川市にある神居（かむい）大橋の欄干から当時17歳の女子高生を川に落下させ、死亡させるという事件が発生した。この事件で殺人罪などに問われた内田梨瑚（りこ）被告（23）の裁判員",
-          "url": "https://news.yahoo.co.jp/articles/3faad14946471526626efdb1e54b5dda3b43f546",
+          "title": "モナコで10位入賞もポジティブな点は“ゼロ”とアロンソ断言。しかしアストンマーティンAMR26の今後には楽観視「劇的に改善されることになる」（motorsport.com 日本版）",
+          "description": "F1第6戦モナコGPで、アストンマーティンのフェルナンド・アロンソは10位に入り、個人そしてチームにとっての今季初ポイントを手にした。しかしながら彼は、今季パフォーマンスを出せていないAMR26に",
+          "url": "https://news.yahoo.co.jp/articles/b361086acf154a27f99702ce7c3c324f953f7344",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-06-10T02:38:26Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260610-00010000-shincho-000-2-view.jpg?exp=10800",
+          "publishedAt": "2026-06-10T08:01:34Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260610-00000007-msportcom-000-1-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "JAXA探査機「はやぶさ2」の小惑星「トリフネ」フライバイ時刻が決定 7月5日18時30分頃に",
-          "description": "JAXAは2026年6月9日付で、小惑星探査機「はやぶさ2」の拡張ミッション「はやぶさ2＃」における小惑星「Torifune（トリフネ）」のフライバイ時刻を発表。日本時間2026年7月5日18時30分頃に、幅約500mとみられるTorifuneの中心から約1kmの距離を通過する予定です",
-          "url": "https://sorae.info/space/20260610-hayabusa2-torifune.html",
+          "title": "ミセスのエンタメショー「CEREMONY」Kアリーナで華やかに開幕！グリーンカーペットに超とき宣、TXTら登場（イベントレポート / 写真60枚）",
+          "description": "Mrs. GREEN APPLEが本日6月10日と明日11日に神奈川・Kアリーナ横浜でエンタテインメントショー「Mrs. GREEN APPLE presents 『CEREMONY』」を開催する。ライブ本編に先駆け、会場では“グリーンカーペット”が行われた。",
+          "url": "https://natalie.mu/music/news/675523",
           "source": {
-            "name": "sorae 宇宙へのポータルサイト"
+            "name": "ナタリー"
           },
-          "publishedAt": "2026-06-10T01:31:45Z",
-          "image": "https://sorae.info/wp-content/uploads/2024/09/Torifune-01.jpg",
+          "publishedAt": "2026-06-10T07:49:00Z",
+          "image": "https://ogre.natalie.mu/media/news/music/2026/0610/DSC_7369.jpg?impolicy=twitter_card_face_crop",
           "language": "ja"
         },
         {
-          "title": "関東は梅雨空続くが週末13日は晴れ間 週明け15日は再び広い範囲で雨に",
-          "description": "関東は梅雨前線や湿った空気の影響で、今日10日(水)の午前中は沿岸部を中心に雨の降る所があるでしょう。次第に日差しの出る所もありそうです。13日(土)は梅雨の晴れ間となるでしょう。一方、来週前半は再び広い範囲で雨となる見込みで、梅雨らしい天気となりそうです。",
-          "url": "https://tenki.jp/forecaster/s_ono/2026/06/10/39274.html",
+          "title": "高橋一生『リボーン』最終回の “主人公不在” に「がっかり」の声…“考察ブーム” 乗っかりも最後の “丸投げ” に募る疑問【ネタバレあり】",
+          "description": "高橋一生『リボーン』最終回の “主人公不在” に「がっかり」の声…“考察ブーム” 乗っかりも最後の “丸投げ” に募る疑問【ネタバレあり】（SmartFLASH） \n　6月9日、高橋一生が主演を務めるドラマ『リボーン〜最後のヒーロー〜』（テレビ朝日系）の最終回が放送された。目が離せ…",
+          "url": "https://topics.smt.docomo.ne.jp/article/smartflash/entertainment/smartflash-412471?redirect=1",
+          "source": {
+            "name": "ｄメニューニュース"
+          },
+          "publishedAt": "2026-06-10T07:38:00Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/picture/smartflash/m_smartflash-412471.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "今年もAV目線で解説する「WWDC 2026」。驚きのリフレーミング、スマートホームも快適に",
+          "description": "アップルの開発者会議「WWDC 2026」の取材に来ている。",
+          "url": "https://av.watch.impress.co.jp/docs/series/rt/2116062.html",
+          "source": {
+            "name": "AV Watch"
+          },
+          "publishedAt": "2026-06-10T07:26:13Z",
+          "image": "https://av.watch.impress.co.jp/img/avw/list/2116/062/17.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Mrs. GREEN APPLEによる祭典＜CEREMONY 2026＞、今夏放送／配信決定",
+          "description": "6月10日および11日の2日間にわたり神奈川・Kアリーナ横浜で行なわれる＜Mrs. GREEN APPLE presents 『CEREMONY』2026＞が今夏、WOWOWにて放送／配信されることが発表となった。 ＜Mrs. GREEN APPLE presents 『CEREMONY』＞は2025年、Mrs. GREEN APPLEが立ち上げたもの。ライブコンサートやフェスティバルとは異なり、ファッションや音楽、カルチャーが融合した新しいタイプのエンタテインメントショーだ。 各日ともに多彩なアーティストを迎え、お互いの音楽やカルチャーを讃え合い交わり合う祭典となる6月10日開催のDAY-1および6月11日開催のDAY-2が、WOWOWにて今夏放送／配信される。放送／配信日時等の詳細は後日発表される予定だ。 ■番組『Mrs. GREEN APPLE presents『CEREMONY』2026』放送日時：今夏放送・配信予定 ※詳細後日発表※放送・配信終了後～1週間のアーカイブ配信あり▼出演：DAY-1Mrs. GREEN APPLE / AI / asmi / 超ときめき♡宣伝部 / ORANGE RANGE / s**t kingz / TOMORROW X TOGETHER▼出演：DAY-2Mrs. GREEN APPLE / FRUITS ZIPPER / 上白石萌音 / マキシマム ザ ホルモン (※ライブ演奏シーンの放送・配信なし) / ネクライトーキー / サカグチアミ / TWS収録日：2026年6月10日および11日収録場所：神奈川・Ｋアリーナ横浜番組サイト：https://www.wowow.co.jp/music/mrsgreenapple/",
+          "url": "https://barks.jp/news/1070771/",
+          "source": {
+            "name": "BARKS"
+          },
+          "publishedAt": "2026-06-10T07:00:00Z",
+          "image": "https://new-img.barks.jp/wp-content/uploads/2026/06/10134345/000-63.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "エルニーニョ現象が発生していると見られ、秋にかけて続く 6月10日発表の監視速報",
+          "description": "気象庁は今日6月10日「エルニーニョ監視速報」を発表しました。それによりますと、エルニーニョ現象はこの春から発生していると見られます。また、今後、秋にかけてエルニーニョ現象が続く見込みです。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/06/10/39282.html",
           "source": {
             "name": "tenki.jp"
           },
-          "publishedAt": "2026-06-10T00:35:14Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/392/39274/main/20260610090752/large.jpg",
+          "publishedAt": "2026-06-10T06:04:41Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/392/39282/main/20260610145110/large.jpg",
           "language": "ja"
         },
         {
-          "title": "グーグル、リアルタイム翻訳「Gemini 3.5 Live Translate」発表 ほぼ遅延なく自然な会話を実現",
-          "description": "グーグルは、リアルタイムの多言語会話をより自然にする新しい音声モデル「Gemini 3.5 Live Translate」を発表した。",
-          "url": "https://japan.cnet.com/article/35248679/",
+          "title": "ハイセンス、動画配信やゲームが快適に楽しめる4K液晶テレビ「A6Sシリーズ」",
+          "description": "ハイセンスジャパンは、ネット動画もキレイに映像処理する最新の画質エンジンを搭載した4K液晶テレビ「A6Sシリーズ」を6月下旬より発売する。価格は各オープン。ラインナップは以下の通り。",
+          "url": "https://av.watch.impress.co.jp/docs/news/2116009.html",
           "source": {
-            "name": "CNET Japan"
+            "name": "AV Watch"
           },
-          "publishedAt": "2026-06-09T23:57:00Z",
-          "image": "https://japan.cnet.com/storage/2026/06/10/1bbbc437b5b4ab804d435f572c73b701/screenshot-2026-06-09-at-1-18-00pm_1280x960.jpg",
+          "publishedAt": "2026-06-10T05:36:10Z",
+          "image": "https://av.watch.impress.co.jp/img/avw/list/2116/009/hi1.jpg",
           "language": "ja"
         },
         {
-          "title": "全104試合の権利を持つDAZNが、W杯を“独占”しなかったワケ。WBCの「Netflix独占」で起きた不満の教訓（SPA!）",
-          "description": "6月11日開幕のサッカーW杯北中米大会で、スポーツ動画配信を行うDAZNは、全104試合を国内でライブ配信する。同社のほかNHK、日本テレビ、フジテレビなどが地上波で約60試合を放送。日本戦や決勝な",
-          "url": "https://news.yahoo.co.jp/articles/91776da0877d4595b3b018c2075c8f3bacb449bc",
+          "title": "【試合結果速報】ロコ・ソラーレ、1次予選リーグ敗退 5、7エンドに3失点／カーリング",
+          "description": "カーリング日本選手権1次予選リーグ（10日、横浜BUNTAI）女子A組で連覇がかかるロコ・ソラーレは、第4戦で通算6回の優勝を誇る中部電力と対戦し9ー4で敗れた。",
+          "url": "https://www.sanspo.com/article/20260610-C3ASBK55Q5BTHACUVRDVEL5ZPI/",
           "source": {
-            "name": "Yahoo!ニュース"
+            "name": "サンスポ"
           },
-          "publishedAt": "2026-06-09T23:49:03Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260610-02166866-sspa-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-06-10T05:01:07Z",
+          "image": "https://www.sanspo.com/resizer/v2/SF6EZ3V23BIURF663C4GMCNKBA.jpg?auth=5a0307ed372f4a91b9019ad2b2890b7e3a8634224b170738b36a52ce049dbd50&quality=50&focal=1162%2C739&width=1200&height=675",
           "language": "ja"
         },
         {
-          "title": "【本日の見通し】ドル高基調継続へ、米CPIにも注意",
-          "description": "【本日の見通し】ドル高基調継続へ、米CPIにも注意 　　　 　ドル円は海外市場で160円台前半での推移が続いた。NY市場午後にドル高が進み、160.20円を挟んでの推移から、一時160.40円台まで上...",
-          "url": "https://fx.minkabu.jp/news/369703",
+          "title": "【楽天】森井誠之球団社長「チームを動かしていく中で１つ目の決断」三木監督休養／一問一答",
+          "description": "楽天は10日、三木肇監督（49）が休養に入ることを発表した。10日の巨人戦（楽天モバイル最強パーク）から塩川達也ヘッドコーチ（43）が監督代行として指揮を執る… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/baseball/news/202606100000311.html",
           "source": {
-            "name": "みんかぶ FX/為替"
+            "name": "日刊スポーツ"
           },
-          "publishedAt": "2026-06-09T22:45:31Z",
-          "image": "https://mfx-assets.s3.ap-northeast-1.amazonaws.com/news_ogp/forex.png",
-          "language": "ja"
-        },
-        {
-          "title": "サッカー日本代表が対戦する強豪オランダのワールドカップ史 ベテランライター「1974年の姿と今の日本がダブって見える」",
-          "description": "連載第104回　サッカー観戦7700試合超！ 後藤健生の「来た、観た、蹴った」\n　現場観戦7700試合を達成したベテランサッカージャーナリストの後藤健生氏が、豊富な取材経験からサッカーの歴史、文化",
-          "url": "https://news.yahoo.co.jp/articles/c8be1cc0cda234db3baca5d92b368a9dea7a761c",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-09T22:14:14Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260610-01113770-sportiva-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "Google、音声リアルタイム翻訳モデル「Gemini 3.5 Live Translate」をリリース",
-          "description": "米Googleは6月9日（現地時間）、「Gemini 3.5 Live Translate」を発表した。同社の翻訳サービス「Google 翻訳」（Google Translate）の誕生20周年を記念するにふさわしい音声リアルタイム翻訳モデルだ。",
-          "url": "https://forest.watch.impress.co.jp/docs/news/2115809.html",
-          "source": {
-            "name": "窓の杜"
-          },
-          "publishedAt": "2026-06-09T22:05:00Z",
-          "image": "https://forest.watch.impress.co.jp/img/wf/list/2115/809/image_top.png",
+          "publishedAt": "2026-06-10T04:07:00Z",
+          "image": "https://www.nikkansports.com/baseball/news/img/202606100000311-w500_0.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Taylor Swift Gives Surprise Performance of 'Toy Story 5' Song at LA Premiere",
-          "description": "Taylor Swift celebrated her new, record-breaking \"Toy Story 5\" anthem, titled \"I Knew It, I Knew You,\" with a live performance at the film's world premiere Tuesday.",
-          "url": "https://www.thewrap.com/creative-content/movies/taylor-swift-toy-story-5-la-premiere-performance/",
+          "title": "Livestreaming Tracker May 2026 Highlights",
+          "description": "RPG titles dominated China’s livestreaming landscape in May 2026. Chaos Zero Nightmare captured a meaningful share of RPG viewership during the month.",
+          "url": "https://nikopartners.com/livestreaming-tracker-may-2026-highlights-new-releases-and-major-updates-diversify-chinas-rpg-viewership-landscape/",
           "source": {
-            "name": "TheWrap"
+            "name": "Niko Partners"
           },
-          "publishedAt": "2026-06-10T03:38:05Z",
-          "image": "https://www.thewrap.com/wp-content/uploads/2026/06/Untitled-design-2026-06-09T192254.480.jpg",
+          "publishedAt": "2026-06-10T08:31:19Z",
+          "image": "https://nikopartners.com/wp-content/uploads/2026/06/Livestreaming-Tracker-Highlights-May-2026.png",
           "language": "en"
         },
         {
-          "title": "Ukraine war briefing: Moscow car bomb kills Russian ammunition chief - reports",
-          "description": "Second car bomb was discovered and blown up by authorities; more panic buying of fuel in Russia as Ukrainian attacks bite. What we know on day 1,568",
-          "url": "https://www.theguardian.com/world/2026/jun/10/ukraine-war-briefing-moscow-car-bomb-kills-russian-ammunition-chief-reports",
+          "title": "“Near perfection” - Dall’Igna praises Marc Marquez’s Balaton MotoGP strategy",
+          "description": "Gigi Dall’Igna believes Marc Marquez produced a masterclass in race management to win the Hungarian MotoGP.",
+          "url": "https://www.crash.net/motogp/news/1097597/1/near-perfection-dalligna-praises-marc-marquezs-balaton-motogp-strategy",
           "source": {
-            "name": "The Guardian"
+            "name": "Crash.net"
           },
-          "publishedAt": "2026-06-10T03:36:00Z",
-          "image": "https://i.guim.co.uk/img/media/d34048e73d4df81250392997e455dd1776b7e316/852_0_4260_3408/master/4260.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd678bbf50efe746a34561916fb285a9",
+          "publishedAt": "2026-06-10T08:30:25Z",
+          "image": "https://www.crash.net/sites/default/files/2026-06/gng_1323762_hires_1600x900.jpg?width=1600&aspect_ratio=16:9",
           "language": "en"
         },
         {
-          "title": "Eala reaches Round of 16 at HSBC Championships",
-          "description": "Filipino Alexandra Eala advanced to the second round of the WTA 500 HSBC Championships after beating Chinese Zhang Shuai, 6-3, 6-2",
-          "url": "https://www.sunstar.com.ph/manila/eala-reaches-round-of-16-at-hsbc-championships",
+          "title": "Nintendo Stock Crashes Nearly 7% After June's Direct Lacks New 3D Mario Game",
+          "description": "Fans' sentiment about yesterday's Nintendo Direct may have been quite positive, but the stock market disagrees. Today, the stock fell as much as 8% before climbing back a bit to -6.75%, and analysts are blaming it on the lineup's lack of heavy hitters, like a new Super Mario game. According to Reuters, Jefferies ​analyst Atul Goyal wrote in a client ‌note: The lack of a mainline 3D Mario for this year's ​holiday shopping season is commercially meaningful. The ⁠Switch 2 launched last June with titles including Mario Kart World and, later, Donkey Kong Bananza. Year 2 now enters the ​holiday […]",
+          "url": "https://wccftech.com/nintendo-stock-crash-june-direct-no-3d-mario/",
           "source": {
-            "name": "SunStar Publishing Inc."
+            "name": "Wccftech"
           },
-          "publishedAt": "2026-06-10T03:35:07Z",
-          "image": "https://cf-images.assettype.com/sunstar%2F2026-06-10%2Fs2ihk3ca%2FEALA.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "publishedAt": "2026-06-10T08:30:00Z",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2022/12/cover-home-1.jpg",
           "language": "en"
         },
         {
-          "title": "Wanyonyi targets first Diamond League win of season in Oslo",
-          "description": "Wanyonyi heads into the meeting, also known as the Bislett games, looking to bounce back from a second-place finish in Rabat on May 31.",
-          "url": "https://eastleighvoice.co.ke/athletics/365225/wanyonyi-targets-first-diamond-league-win-of-season-in-oslo",
+          "title": "Where does Kuldeep Yadav fit in India's new spin puzzle?",
+          "description": "Cricket News: TimesofIndia.com in Mullanpur: On the eve of the one-off Test against Afghanistan, Team India head coach Gautam Gambhir categorically stated that one .",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/where-does-kuldeep-yadav-fit-in-indias-new-spin-puzzle/articleshow/131628382.cms",
           "source": {
-            "name": "The Eastleigh Voice"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-06-10T03:33:44Z",
-          "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/06/eastleighvoice-co-ke-2026-june-09-212140.webp",
+          "publishedAt": "2026-06-10T08:30:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-131628454,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "PM Anwar: World needs more leadership clarity, not more power",
-          "description": "TOKYO: The world is currently facing a shortage of leadership clarity rather than power, Prime Minister Datuk Seri Anwar Ibrahim said on Wednesday (June 10).",
-          "url": "https://www.thestar.com.my/news/nation/2026/06/10/pm-anwar-world-needs-more-leadership-clarity-not-more-power",
+          "title": "Angelina Jolie's Daughter Zahara Takes Legal Move Against Dad Brad Pitt",
+          "description": "“It’s really horrible that he [Pitt] has tried to paint himself as a victim,” a source said as his six children continue to distance themselves from him. Celebrities, Entertainment",
+          "url": "https://www.boredpanda.com/angelina-jolie-daughter-zahara-legally-removes-brad-pitt-last-name/",
           "source": {
-            "name": "thestar.com.my"
+            "name": "Bored Panda"
           },
-          "publishedAt": "2026-06-10T03:31:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/06/10/3951395.jpeg",
+          "publishedAt": "2026-06-10T08:29:05Z",
+          "image": "https://static.boredpanda.com/blog/wp-content/uploads/2026/06/fb_image_6a29087d512af.png",
           "language": "en"
         },
         {
-          "title": "2 Singaporeans found dead within 4 days at same Batam apartment complex",
-          "description": "The body of a 59-year-old Singaporean woman was found on Monday (June 8) night on the 38th floor of an apartment complex in Batam, reported local media.The discovery was made during a routine check by the Pollux Habibie apartment security team, according to Indonesian news outlet Tribun Batam.The woman, who was not named, reportedly died due to an illness, based...",
-          "url": "https://www.asiaone.com/singapore/2-singaporeans-found-dead-within-4-days-same-batam-apartment-complex",
+          "title": "Artists demand merit-based civil awards at tribute ceremony in Peshawar",
+          "description": "Veteran performers Sajida Gul, Syed Sardar Badshah lament neglect of deserving artists",
+          "url": "https://tribune.com.pk/story/2612391/artists-demand-merit-based-civil-awards-at-tribute-ceremony-in-peshawar",
           "source": {
-            "name": "AsiaOne"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-06-10T03:30:55Z",
-          "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Jun2026/Facebookbatam_100626.jpg?itok=qryZNzFw",
+          "publishedAt": "2026-06-10T08:26:40Z",
+          "image": "https://i.tribune.com.pk/media/images/et-shayan-181781079756-0/et-shayan-181781079756-0-640x480.webp",
           "language": "en"
         },
         {
-          "title": "Messi scores on injury return as Argentina beat Iceland in World Cup warm-up",
-          "description": "Lionel Messi comes off bench for 20-minute cameo as part of managed return to fitness following injury scare.",
-          "url": "https://www.scmp.com/sport/football/article/3356573/messi-scores-injury-return-argentina-beat-iceland-world-cup-warm",
+          "title": "Taylor Swift Promises ‘Wedding of the Century’ With Travis Kelce - Source",
+          "description": "Taylor Swift and Travis Kelce’s wedding plans reportedly include a guest list large enough to match their fame. The pop superstar and the Kansas City Chiefs tight end are said to be planning a 1,000-p...",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-promises-wedding-century-082636147.html",
           "source": {
-            "name": "South China Morning Post"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-06-10T03:30:46Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/10/beedfad8-48b7-4cdc-b567-5adcd6a6a020_c6c31462.jpg?itok=JLd9H1mN&v=1781062237",
+          "publishedAt": "2026-06-10T08:26:36Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/2b5bf014f94230bdef19956fd6daf3a84e977656b50aa52a6292ee2397dc45dd/lightyear_networkapi/resizefill_w640_h360;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F7003ed1500ce7ff2723704e6a14c0543",
           "language": "en"
         },
         {
-          "title": "Singapore court moves to seize Capital A’s assets in dispute",
-          "description": "Seizure notice targets Big Pay and Teleport stakes held by Capital A unit Move Digital under arbitration ruling enforcement.",
-          "url": "https://www.freemalaysiatoday.com/category/business/2026/06/10/singapore-court-moves-to-seize-capital-as-assets-in-dispute",
+          "title": "Wordle today: The answer and hints for June 10, 2026",
+          "description": "Here's the answer for \"Wordle\" #1817 on June 10 as well as a few hints, tips, and clues to help you solve it yourself.",
+          "url": "https://mashable.com/entertainment/wordle-today-answer-june-10-2026",
           "source": {
-            "name": "Free Malaysia Today"
+            "name": "Mashable"
           },
-          "publishedAt": "2026-06-10T03:30:43Z",
-          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/05/12d5e3ef-capital-a-epa-images-resize-020525-1.webp",
+          "publishedAt": "2026-06-10T08:26:15Z",
+          "image": "https://helios-i.mashable.com/imagery/articles/070iA37eQyBoGGrlL1dafku/hero-image.fill.size_1200x675.v1780949460.jpg",
           "language": "en"
         },
         {
-          "title": "Man Utd news: Sir Jim Ratcliffe gives £100m transfer green light as surprise swoop eyed",
-          "description": "Manchester United have been linked with several players in the transfer market as Sir Jim Ratcliffe reportedly makes his stance clear",
-          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-jim-ratcliffe-37270593",
+          "title": "Israel plans wide Gaza operation amid ceasefires elsewhere",
+          "description": "The Israeli military is preparing for the potential resumption of large-scale combat in the Gaza Strip, amid ceasefires on the Iranian and Lebanese fronts and assessments indicating that Hamas has …",
+          "url": "https://www.middleeastmonitor.com/20260610-israel-plans-wide-gaza-operation-amid-ceasefires-elsewhere/",
           "source": {
-            "name": "The Mirror"
+            "name": "Middle East Monitor"
           },
-          "publishedAt": "2026-06-10T03:30:00Z",
-          "image": "https://i2-prod.mirror.co.uk/article37270607.ece/ALTERNATES/s1200d/0_GettyImages-2256116734.jpg",
+          "publishedAt": "2026-06-10T08:26:00Z",
+          "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2025/10/AA-20251014-39412414-39412400-GAZAISRAEL_BORDER_REGION_FOLLOWING_THE_CEASEFIRE.jpg?fit=920%2C613&ssl=1",
           "language": "en"
         },
         {
-          "title": "Buildings, cars on fire; migrants ‘evicted’: Massive unrest in Belfast after brutal knife attack | Visuals",
-          "description": "The unrest came amid visuals showing anti-immigration groups marching in the streets after far-right activists called for demonstrations. | World News",
-          "url": "https://www.hindustantimes.com/world-news/belfast-knife-attack-violence-unrest-uk-police-buildings-cars-on-fire-migrants-forced-evicted-keir-starmer-ireland-101781061111202.html",
+          "title": "Taylor Swift Promises ‘Wedding of the Century’ With Travis Kelce - Source",
+          "description": "Taylor Swift and Travis Kelce’s wedding plans reportedly include a guest list large enough to match their fame. The pop superstar and the Kansas City Chiefs tight end are said to be planning a 1,000-p...",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-promises-wedding-century-082536694.html",
           "source": {
-            "name": "Hindustan Times"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-06-10T03:29:57Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/06/10/550x309/AP06-10-2026-000009A-0_1781061501451_1781061511730_415998ad-77b9-432b-97da-30de149b53e3.jpg",
+          "publishedAt": "2026-06-10T08:25:36Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/7006875ae3f069035484297fbc38c70873c7c647bcd6518ca95ddd167c031238/lightyear_networkapi/resizefill_w640_h360;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Ff13db4925a32e2c0ddaf80f68d3d67da",
           "language": "en"
         }
       ]
