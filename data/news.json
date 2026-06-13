@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-13T19:27:50.058Z",
+  "updatedAt": "2026-06-13T22:05:10.217Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "ＪリーグオールスターDAZNカップ 当日イベント情報",
+          "description": "2026年6月13日（土）にＭＵＦＧスタジアム（国立競技場）で開催する「ＪリーグオールスターDAZNカップ」において、試...",
+          "url": "https://www.jleague.jp/sp/news/article/34154/",
+          "source": {
+            "name": "jleague.jp"
+          },
+          "publishedAt": "2026-06-13T09:30:32Z",
+          "image": "https://www.jleague.jp/img/news/2026/06/34154.jpg?_=1781254839",
+          "language": "ja"
+        },
+        {
+          "title": "明日14日(日)全国の天気 九州や四国は傘の出番 沖縄は強雨に注意",
+          "description": "明日14日(日)は、西日本は梅雨空が戻りそうです。午後は傘の出番があるでしょう。沖縄は引き続き雨で、15日(月)にかけて、大雨に十分注意が必要です。",
+          "url": "https://tenki.jp/forecaster/y_tabata/2026/06/13/39316.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-06-13T09:00:47Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/393/39316/main/20260613175201/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "かなりプレイ感が向上していてとにかく嬉しい『Marathon』シーズン2【プレイレポ】",
+          "description": "的確かつ細かなアップデートでかなり快適になってます",
+          "url": "https://www.gamespark.jp/article/2026/06/13/167952.html",
+          "source": {
+            "name": "Game*Spark"
+          },
+          "publishedAt": "2026-06-13T09:00:03Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1144717.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「MUSIC AWARDS JAPAN 2026」受賞作品・アーティスト",
+          "description": "「MUSIC AWARDS JAPAN 2026」受賞作品・アーティスト - タワーレコード",
+          "url": "https://tower.jp/article/feature_item/2026/06/13/0704",
+          "source": {
+            "name": "タワーレコード オンライン"
+          },
+          "publishedAt": "2026-06-13T09:00:00Z",
+          "image": "https://cdfront.tower.jp/~/media/Images/Tol/pc/article/feature_item/J-Pop/2026/04/30/0709.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Jリーグオールスター決勝はJ2・J3勢同士の対決に！ J1勢は準決勝で敗退",
+          "description": "JリーグオールスターDAZNカップ・準決勝の第2試合が13日に行われ、J2・J3 WEST-BとJ1 WESTが対戦した。 　JリーグオールスターDAZNカッ···",
+          "url": "https://www.soccer-king.jp/news/japan/jl/20260613/2171070.html",
+          "source": {
+            "name": "サッカーキング"
+          },
+          "publishedAt": "2026-06-13T08:48:17Z",
+          "image": "https://www.soccer-king.jp/wp-content/uploads/2026/06/1_260613-463.jpg",
+          "language": "ja"
+        },
         {
           "title": "【小泉恵未コラム】宝塚記念の本命は、勢いに乗る戸崎騎手騎乗のダノンデサイルの総合力に期待 対抗は春の古馬三冠に挑むクロワデュノール",
           "description": "今夏、CGとインタラクティブ技術（双方向コミュニケーション技術全般）の世界最大級の学会「SIGGRAPH （シーグラフ）2026」が、7月、アメリカで開催されます。慶応メディアデザインの「Expe",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-06-13T05:39:00Z",
           "image": "https://f.image.geki.jp/data/image/news/2560/454000/453294/news_453294_1.jpg?time=20260613144318",
           "language": "ja"
-        },
-        {
-          "title": "〈17歳女子高生殺害〉「会わないとオマエの家族を殴るぞ…」DVもしていた元恋人の塗装工男（19）は「束縛がひどく、体にアザも…」知人は少女に警察の相談も勧めていた（集英社オンライン）",
-          "description": "神奈川県相模原市の相模川河川敷で座間市の高校3年生・佐藤唯来さん（17）が殺害された事件で、県警が殺人容疑で逮捕した元交際相手の自称塗装工の男（19）が、交際を解消されてからも「俺と会ってくれなけれ",
-          "url": "https://news.yahoo.co.jp/articles/3f78e8eb26444815083e175649156b0f1c99a5e7",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-13T05:33:15Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260613-00257857-shueisha-000-3-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【6月27日開催】\"激レア新政13種\"を一斉解放！異端教祖株式会社・見えざるピンクのユニコーン・NEXT5 Finalまで揃う特別企画｜新政の会を〈恵比寿 鮨 暁天〉にて開催。",
-          "description": "産経新聞社のニュースサイト。政治、経済、国際、社会、スポーツ、エンタメ、災害情報などの速報記事と解説記事を掲載しています。",
-          "url": "https://www.sankei.com/pressrelease/prtimes/GYNTVQ3H7JJ7RFDQMO3FHYMNOQ/",
-          "source": {
-            "name": "産経ニュース"
-          },
-          "publishedAt": "2026-06-13T05:09:11Z",
-          "image": "https://www.sankei.com/resizer/v2/https%3A%2F%2Fdpgdieoe6npux.cloudfront.net%2Fprtimes%2FPZ5EXPG4FVOXBB6OROQPN6UALQ?auth=2204e41d9404d1083024332aecc2b33f0b4ed6a4f8ac0942b42a34e6f5ec3f0f&quality=50&smart=true&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "【6月27日開催】\"激レア新政13種\"を一斉解放！異端教祖株式会社・見えざるピンクのユニコーン・NEXT5 Finalまで揃う特別企画｜新政の会を〈恵比寿 鮨 暁天〉にて開催。",
-          "description": "株式会社ビリオンフーズのプレスリリース（2026年6月13日 14時09分）【6月27日開催】\"激レア新政13種\"を一斉解放！異端教祖株式会社・見えざるピンクのユニコーン・NEXT5 Finalまで揃う特別企画｜新政の会を〈恵比寿 鮨 暁天〉にて開催。",
-          "url": "https://prtimes.jp/main/html/rd/p/000000506.000055180.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-06-13T05:09:11Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/55180/506/55180-506-cea4abab6fab48680541e3b8fe78959f-1664x936.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "北日本や関東で雷雲が発達 13日夜にかけ注意 ゲリラ雷雨に遭遇した際とるべき行動",
-          "description": "今日13日も北海道や東北、関東では大気の状態が非常に不安定となっています。13時現在、北海道や東北、関東北部で雷雲や雨雲が発達しており、落雷も多数発生しています。今夜にかけて大気の非常に不安定な状態が続くでしょう。急な激しい雨や落雷、竜巻などの激しい突風、ひょうに注意が必要です。",
-          "url": "https://tenki.jp/forecaster/t_yoshida/2026/06/13/39317.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-06-13T04:38:26Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/393/39317/main/20260613131929/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "スマホは「5万円のAndroid」ですが、夫に「13万円のiPhone」を勧められています。価格差“8万円”ですが、本当にそれだけの価値はありますか？ 2年買い替えでの「生涯の費用」も比較",
-          "description": "スマートフォンについては、「スマホなんて連絡が取れれば十分」と考える人もいれば、「毎日使うものだから、多少高くても良いものを使いたい」と考える人もいます。スマホの中でも人気のiPhoneですが、最近は価格上昇もあり、「5万円のAndroidで十分」と感じる人もいるでしょう。 本記事では、iPhoneとAndroidの価格差や、長期的なコスト、iPhoneが高い理由などを整理しながら、どのように判断すべきかを解説します。",
-          "url": "https://financial-field.com/living/entry-506292",
-          "source": {
-            "name": "ファイナンシャルフィールド"
-          },
-          "publishedAt": "2026-06-13T04:30:36Z",
-          "image": "https://financial-field.com/wp/wp-content/uploads/2026/06/shutterstock_2742654853.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Stakeholders in new push to bridge the agri-tech divide",
-          "description": "One of the biggest challenges facing Kenya’s agricultural sector is  the low adoption and commercialisation of innovations developed through research.",
-          "url": "https://www.standardmedia.co.ke/smart-harvest/article/2001550224/stakeholders-in-new-push-to-bridge-the-agri-tech-divide",
+          "title": "USA stoke belief in wildest World Cup dreams after dismantling Paraguay in perfect opener",
+          "description": "USA 4-1 Paraguay: Folarin Balogun scored twice as Mauricio Pochettino’s side produced the standout performance of the World Cup so far",
+          "url": "https://www.independent.co.uk/sport/football/usa-paraguay-world-cup-2026-pulisic-balogun-b2995053.html",
           "source": {
-            "name": "standardmedia.co.ke"
+            "name": "The Independent"
           },
-          "publishedAt": "2026-06-13T07:23:18Z",
-          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/CXxtO6IozMtIA8uOXyRfU7dZ59VX3BT5MltLoa97.jpg",
+          "publishedAt": "2026-06-13T10:05:00Z",
+          "image": "https://static.independent.co.uk/2026/06/13/04/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
           "language": "en"
         },
         {
-          "title": "Anthropic to Disable Fable 5, Mythos 5 After US Export-Control Order",
-          "description": "Anthropic's latest AI models, Fable 5 and Mythos 5, will be disabled due to US export controls that cited national security risks.",
-          "url": "https://www.businessinsider.com/anthropic-disable-mythos-fable-us-export-control-national-security-2026-6",
+          "title": "Woman attacked by shark at Coogee Beach metres from shore",
+          "description": "Emergency services rushed to Coogee Beach in Sydney following a horrific shark attack on a woman swimming close to shore on Saturday morning.",
+          "url": "https://www.news.com.au/national/nsw-act/saw-fins-shark-attack-at-coogee-beach/news-story/d828a983ac2b79ffd469320a15b625e6",
           "source": {
-            "name": "Business Insider"
+            "name": "News.com.au"
           },
-          "publishedAt": "2026-06-13T07:22:55Z",
-          "image": "https://i.insider.com/6a2cba73a462940611898c8e?width=1200&format=jpeg",
+          "publishedAt": "2026-06-13T10:04:42Z",
+          "image": "https://content.api.news/v3/images/bin/eb52694de8db31d9ec3a7d888b32f5d8",
           "language": "en"
         },
         {
-          "title": "Harry Styles kicks off historic Wembley run",
-          "description": "Harry Styles paid tribute to the late British artist David Hockney as he kicked off a record-breaking run of shows at London's Wembley Stadium.",
-          "url": "https://www.rte.ie/entertainment/2026/0613/1578237-harry-styles-kicks-off-historic-wembley-run/",
+          "title": "'Her whole face was covered in blood': 11 campers attacked by jackals at Sea of Galilee",
+          "description": "Authorities said to be concerned at least one of the animals could be infected with rabies; all of those injured have been vaccinated and released from hospital",
+          "url": "https://www.timesofisrael.com/her-whole-face-was-covered-in-blood-11-campers-attacked-by-jackals-at-sea-of-galilee/",
           "source": {
-            "name": "RTE.ie"
+            "name": "The Times of Israel"
           },
-          "publishedAt": "2026-06-13T07:22:20Z",
-          "image": "https://www.rte.ie/images/00245ec7-1600.jpg",
+          "publishedAt": "2026-06-13T10:04:22Z",
+          "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/F220219TN07-e1781340790954.jpg",
           "language": "en"
         },
         {
-          "title": "Los Angeles conjures up irresistible spectacle as USA sparkle in opening act",
-          "description": "Every World Cup needs its hosts to start well, more so this one, and Mauricio Pochettino’s team delivered on a fun day on the Pacific coast",
-          "url": "https://www.theguardian.com/football/2026/jun/13/los-angeles-conjures-up-irresistible-spectacle-as-usa-sparkle-in-opening-act-world-cup-2026",
+          "title": "No Reason to Keep Nnamdi Kanu in Detention",
+          "description": "Peter Obi reiterates his call for Nnamdi Kanu's release, stating there is no justification for the IPOB leader's continued detention.",
+          "url": "https://punchng.com/no-reason-to-keep-nnamdi-kanu-in-detention-says-obi/",
           "source": {
-            "name": "The Guardian"
+            "name": "Punch Newspapers"
           },
-          "publishedAt": "2026-06-13T07:22:00Z",
-          "image": "https://i.guim.co.uk/img/media/bb90d2ad3a61b64f03ca88d4e219144312905aae/156_0_4201_3361/master/4201.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=9584ebbb7ab0c577bf934fd16215acbd",
+          "publishedAt": "2026-06-13T10:03:13Z",
+          "image": "https://cdn.punchng.com/wp-content/uploads/2026/04/04111108/HDJg7dGX0AIxq8x-1080x630.jpg",
           "language": "en"
         },
         {
-          "title": "Scotland return to centre stage at last in must-win World Cup opener",
-          "description": "BBC Scotland's chief sportswriter Tom English sets the scene from Boston as Scotland prepare for their first World Cup match in 28 years.",
-          "url": "https://www.bbc.com/sport/football/articles/c04y70z59y5o",
+          "title": "Today’s Wordle Hints for June 14, 2026",
+          "description": "Scroll down for hints and conversation about the puzzle for Sunday, June 14, 2026.",
+          "url": "https://www.nytimes.com/2026/06/13/crosswords/wordle-review-1821.html",
           "source": {
-            "name": "BBC"
+            "name": "The New York Times"
           },
-          "publishedAt": "2026-06-13T07:20:31Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1979/live/8b1109f0-66a6-11f1-b1db-af71d47507d6.jpg",
+          "publishedAt": "2026-06-13T10:00:06Z",
+          "image": "https://static01.nyt.com/images/2026/06/13/crosswords/14wordle-review-art-1821/14wordle-review-art-1821-facebookJumbo.jpg",
           "language": "en"
         },
         {
-          "title": "Put party interest first - NPP East London Secretary Richard Agyare appeals ahead of electoral area elections",
-          "description": "Put party interest first – NPP East London Secretary Richard Agyare appeals ahead of electoral area elections",
-          "url": "https://www.graphic.com.gh/news/politics/put-party-interest-first-npp-east-london-secretary-richard-agyare-appeals-ahead-of-electoral-area-elections.html",
+          "title": "Trump prosecutor in L.A. is searching for voter fraud before final count",
+          "description": "First Assistant U.S. Atty. Bill Essayli is waging an unusual campaign to find election fraud in California despite DOJ guidelines saying not to during vote counting.",
+          "url": "https://www.latimes.com/politics/story/2026-06-13/trump-prosecutor-in-la-is-searching-for-voter-fraud-before-final-count",
           "source": {
-            "name": "Graphic Online"
+            "name": "Los Angeles Times"
           },
-          "publishedAt": "2026-06-13T07:19:49Z",
-          "image": "https://www.graphic.com.gh/images/2026/June/09/agyare.jpg",
+          "publishedAt": "2026-06-13T10:00:00Z",
+          "image": "https://ca-times.brightspotcdn.com/dims4/default/2f4a525/2147483647/strip/true/crop/5616x2948+0+398/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc6%2Fd0%2F8b1f3f4347a88f3e4d562a55feeb%2F2246893729.jpg",
           "language": "en"
         },
         {
-          "title": "LISA, Anitta And Rema Join Forces For FIFA World Cup Opening Ceremony",
-          "description": "The US leg of the 2026 FIFA World Cup kicked off in spectacular fashion on June 12 at SoFi Stadium in Los Angeles",
-          "url": "https://www.forbes.com/sites/hannahabraham/2026/06/13/lisa-anitta-and-rema-join-forces-for-fifa-world-cup-opening-ceremony/",
+          "title": "How Japanese scientists sent a real-life Transformer to the moon",
+          "description": "An autonomous rolling rover that was able to transform from a sphere into a robot successfully explored a small part of the moon in 2024.",
+          "url": "https://www.space.com/astronomy/moon/how-japanese-scientists-sent-a-real-life-transformer-to-the-moon",
           "source": {
-            "name": "Forbes"
+            "name": "Space"
           },
-          "publishedAt": "2026-06-13T07:19:46Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a2cffb721c1f141babda8d4/0x0.jpg?format=jpg&crop=2407,1604,x605,y569,safe&height=900&width=1600&fit=bounds",
+          "publishedAt": "2026-06-13T10:00:00Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/BsXW4MzGVLVdaaCaqxsEsk-1920-80.jpg",
           "language": "en"
         },
         {
-          "title": "USA 4-1 Paraguay: Balogun strike a brace in impressive start for the 2026 FIFA World Cup co-hosts",
-          "description": "United States of America (USA) hammered South American representatives Paraguay 4-1 in group D of the 2026 FIFA World Cup on Saturday morning at the Los Angeles stadium.",
-          "url": "https://kawowo.com/2026/06/13/usa-4-1-paraguay-balogun-strike-a-brace-in-impressive-start-for-the-2026-fifa-world-cup-co-hosts/",
+          "title": "Anthropic suspends Fable 5, Mythos 5 AI models globally after US export control directive over security concerns",
+          "description": "The suspension is expected to impact Indian users and enterprises, as India is Anthropic's second-largest market",
+          "url": "https://www.telegraphindia.com/world/anthropic-suspends-fable-5-mythos-5-ai-models-globally-after-us-export-control-directive-over-security-concerns/cid/2165385",
           "source": {
-            "name": "Kawowo Sports"
+            "name": "Telegraph India"
           },
-          "publishedAt": "2026-06-13T07:19:26Z",
-          "image": "https://kawowo.com/wp-content/uploads/2026/06/Folarin-Balogun-celebrates-his-brace.jpg",
+          "publishedAt": "2026-06-13T09:59:26Z",
+          "image": "https://assets.telegraphindia.com/telegraph/2026/Feb/1771993613_artificial-intelligence.gif",
           "language": "en"
         },
         {
-          "title": "UAE set to unlock billions of dollars for Iran: What we know so far",
-          "description": "The United Arab Emirates has reportedly agreed to unlock billions of dollars for Iran, a major pivot after weeks of Iranian attacks on the wealthy Gulf Arab state during the US-Israeli war with the...",
-          "url": "https://www.thenews.com.pk/latest/1405754-uae-set-to-unlock-billions-of-dollars-for-iran-what-we-know-so-far",
+          "title": "Lt Gen Dhiraj Seth named next Army chief, first from Armoured Corps in 3 decades",
+          "description": "Lt Gen Dhiraj Seth has been appointed as the next Chief of Army Staff and will take charge on June 30, 2026 after General Upendra Dwivedi retires.",
+          "url": "https://indianexpress.com/article/india/lt-gen-dhiraj-seth-next-chief-of-army-staff-10737878/",
           "source": {
-            "name": "The News International"
+            "name": "The Indian Express"
           },
-          "publishedAt": "2026-06-13T07:19:00Z",
-          "image": "https://www.thenews.com.pk/assets/uploads/2026-06-13/1405754_121934_updates.jpg",
+          "publishedAt": "2026-06-13T09:59:21Z",
+          "image": "https://images.indianexpress.com/2026/06/Lieutenant-General-Dhiraj-Seth-X-Defence-Ministry.jpg",
           "language": "en"
         },
         {
-          "title": "Guns, cash and drugs seized in transtasman gang crackdown operation",
-          "description": "Police have made five arrests as part of a transtasman crackdown on outlaw motorcycle gangs, during which a large stash, including firearms, drugs and...",
-          "url": "https://www.nzherald.co.nz/nz/police-seize-guns-cash-and-drugs-in-trans-tasman-gang-crackdown-operation/U4ZHWAIELNCRPAA2ZAXBLQVICU/",
+          "title": "Amit Shah directs MHA support to panel studying demographic changes, especially in border areas",
+          "description": "Amit Shah directs a committee to study demographic changes in border districts due to illegal migration and propose solutions.",
+          "url": "https://www.thehindu.com/news/national/union-home-minister-amit-shah-directs-committee-on-demographic-change-to-study-border-districts/article71097231.ece",
           "source": {
-            "name": "NZ Herald"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-06-13T07:18:38Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/EZRYRDCOJJBZNJI7KXDFNKUWKQ.png?auth=99ccaa7f3260bf59f30bbc6cad629ae47857271d225762f9f13b0d730cdffdb1&width=1200&height=675&quality=70&smart=true",
+          "publishedAt": "2026-06-13T09:58:09Z",
+          "image": "https://th-i.thgim.com/public/incoming/d8w68j/article71097275.ece/alternates/LANDSCAPE_1200/20260611303L.jpg",
           "language": "en"
         }
       ]
