@@ -1,10 +1,32 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-13T14:02:35.766Z",
+  "updatedAt": "2026-06-13T16:14:20.976Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "［W杯マッチ04］開催国アメリカがゴールラッシュで白星発進！ 堅守パラグアイに4発と圧巻のパフォーマンスを見せる",
+          "description": "MATCH 04　グループD第1戦\n2026年6月13日 10:00キックオフ（会場：ロサンゼルス・スタジアム)\nアメリカ 4-1 パラグアイ\nメキシコ、カナダと共に開催国であるアメリカがつい",
+          "url": "https://news.yahoo.co.jp/articles/f190d63bad55fdee7d9de650e81b18575e90e7c7",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-13T03:24:01Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260613-00010002-theworldw-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "鉄板でジュゥゥゥ!? 常識を覆す背徳の『アメリカン寿司ロール』を体験してきた / 座間 SUSHI51",
+          "description": "回転寿司に行くと、マヨネーズやアボカドをたっぷりと使ったド派手なネタをチョイスしてしまう私。邪道と言われるかもしれないが、あの濃厚な味わいが大好きなんだよなぁ …",
+          "url": "https://rocketnews24.com/2026/06/13/2769575/",
+          "source": {
+            "name": "ロケットニュース24"
+          },
+          "publishedAt": "2026-06-13T02:55:09Z",
+          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/06/38062_0.jpg?w=1200&h=630&crop=1",
+          "language": "ja"
+        },
         {
           "title": "アンソロピック、Fable 5などミュトス級AIモデルを公開停止 米国政府が指令",
           "description": "米国政府は12日(米国時間)、国家安全保障上の権限を理由に、Anthropic(アンソロピック)に対し、外国籍者による「Claude Fable 5」と「Claude Mythos 5」へのアクセスを停止するよう求める輸出管理指令を発出した。この指令は米国内外を問わず、Anthropicの従業員も含まれる。",
@@ -92,139 +114,117 @@
           "publishedAt": "2026-06-12T23:00:00Z",
           "image": "https://ogre.natalie.mu/media/news/owarai/2026/0612/DSC_7139.jpg?impolicy=twitter_card_face_crop",
           "language": "ja"
-        },
-        {
-          "title": "今日13日(土)も北海道から関東ではゲリラ雷雨の恐れ 落雷や突風・ひょうに注意",
-          "description": "今日13日(土)も北海道から関東では大気の状態が不安定です。午後は山沿いを中心に雨雲が発達しやすく、局地的には激しい雨や雷雨となりそうです。急な強い雨や落雷、竜巻などの激しい突風、ひょうにご注意ください。",
-          "url": "https://tenki.jp/forecaster/k_itoh/2026/06/13/39311.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-06-12T21:35:54Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/393/39311/main/20260613061822/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "参政党は「ひょう変」したのか 再審見直し修正、急転直下の動き",
-          "description": "再審制度を見直す刑事訴訟法改正案が12日、衆院法務委員会で採決され、自民と日本維新の会、参政の3党による政府提出法案を修正する案が賛成多数で可決された。 　参政の「加勢」により少数与党の参院も過半数に達し、政府修正案が今国会内に成立する見通しとなった。",
-          "url": "https://mainichi.jp/articles/20260612/k00/00m/040/331000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-06-12T21:30:00Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/05/08/20260508k0000m040353000p/0c10.jpg?1",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Ōtaki tenant appeals Tenancy Tribunal compensation after landlord Victor Davis disposed of his belongings",
-          "description": "A father and his 5-year-old daughter, desperate for somewhere to live with their pet, ended up unlawfully living in a storage unit with no natural light....",
-          "url": "https://www.nzherald.co.nz/nz/otaki-tenant-appeals-tenancy-tribunal-compensation-after-landlord-victor-davis-disposed-of-his-belongings/PUQXZYCX2BBVVOJ5MIILTV4EVI/",
+          "title": "Army sets trap, 21-yr-old fake brigadier walks right into it, gets arrested: Freak case from UP's Shahjahanpur",
+          "description": "Officials said Army authorities had been tracking Aryan Verma since April after receiving inputs that he was frequently seen wearing ceremonial dress.",
+          "url": "https://www.hindustantimes.com/cities/lucknow-news/fake-brigadier-nabbed-after-army-sting-operation-in-shahjahanpur-cantonment-101781290143219.html",
           "source": {
-            "name": "NZ Herald"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-06-13T02:02:08Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/PIOX3HMZHNARBNRDYSOLAAZ46I.jpg?auth=4385ba7082737ff98313c7d9c58d2dab20ec9f741da42a507de3384a5e9815a3&width=1200&height=675&quality=70&focal=554%2C288&smart=false",
+          "publishedAt": "2026-06-13T04:13:46Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/06/12/550x309/Superintendent-of-police-Saurabh-Dixit-said-Army-a_1781290139769.jpg",
           "language": "en"
         },
         {
-          "title": "Renowned physician‑scientist to lead Houston Methodist's cell and gene therapy research",
-          "description": "Malcolm Brenner, an internationally recognized physician‑scientist renowned for his leadership in cell and gene therapy, has been tapped to lead the newly formed Houston Methodist Center for Cell and Gene Therapy.",
-          "url": "https://www.news-medical.net/news/20260612/Renowned-physiciane28091scientist-to-lead-Houston-Methodists-cell-and-gene-therapy-research.aspx",
+          "title": "WWE SMACKDOWN RESULTS (6/12): Keller’s report on Jey vs. Knight vs. Balor vs. Keys in KOTR match, Valkyria vs. Ruca vs. Jade vs. Charlotte in QOTR match, Gunther reveals Cody stip",
+          "description": "WWE SMACKDOWN REPORT JUNE 12, 2026 PROVIDENCE, R.I. AT AMICA MUTUAL PAVILION TELECAST ON DELAY ON USA NETWORK REPORT BY WADE KELLER, PWTORCH EDITOR Commentators: Michael Cole, Wade Barrett Ring Announcer: Mark Nash Attendance: WrestleTix reports as of today 6,769 tickets were distributed so far. The arena has a capacity of 14,000 spectators when configured for...",
+          "url": "https://www.pwtorch.com/site/2026/06/12/wwe-smackdown-results-6-12-kellers-report-on-jey-vs-knight-vs-balor-vs-keys-in-kotr-match-valkyria-vs-ruca-vs-jade-vs-charlotte-in-qotr-match-gunther-reveals-cody-stip/",
           "source": {
-            "name": "News-Medical"
+            "name": "PWTorch"
           },
-          "publishedAt": "2026-06-13T02:02:00Z",
-          "image": "https://www.news-medical.net/image-handler/picture/2014/7/Gene_Therapy-620x480.jpg",
+          "publishedAt": "2026-06-13T04:13:37Z",
+          "image": "https://www.pwtorch.com/site/wp-content/uploads/post/2024/09/Screenshot-2024-09-20-at-5.49.57 PM.png",
           "language": "en"
         },
         {
-          "title": "England’s World Cup boots stolen before first training session in Kansas City",
-          "description": "England have been the victims of a security breakdown after the team’s match boots were stolen before their first World Cup training session",
-          "url": "https://www.theguardian.com/football/2026/jun/13/england-world-cup-boots-stolen-before-first-training-session-in-kansas-city",
+          "title": "2 days, 3 ballistic missile defence tests: Inside DRDO's major milestone that puts India in elite list",
+          "description": "Two interceptor missiles tested by the DRDO are capable of destroying enemy missiles with ranges between 2,000 km and 5,000 km, classified as IRBMs. | India News",
+          "url": "https://www.hindustantimes.com/india-news/2-days-3-ballistic-missile-defence-tests-inside-drdo-major-milestone-that-puts-india-in-elite-list-101781320489739.html",
           "source": {
-            "name": "The Guardian"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-06-13T02:01:00Z",
-          "image": "https://i.guim.co.uk/img/media/c89f38df2cdef3f13be8b1d09ee2ea0a124395a8/848_0_7060_5648/master/7060.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91df9860501dea3c153e6223bbaf63d7",
+          "publishedAt": "2026-06-13T04:12:06Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/06/13/550x309/DRDO_1781322063091_1781322069124_a8d7e1d2-5ad6-46cf-882f-60990b76fdeb.jpg",
           "language": "en"
         },
         {
-          "title": "[Report] CHAI: HIV services are still falling. A year into the funding crisis, new data shows little recovery.",
-          "description": "New nationwide data collected by CHAI across countries in sub-Saharan Africa and Asia tracks what happened to HIV services in 2025 and into early 2026 against the year before.",
-          "url": "https://www.eatg.org/hiv-news/report-chai-hiv-services-are-still-falling-a-year-into-the-funding-crisis-new-data-shows-little-recovery/",
+          "title": "The politics of the boda boda",
+          "description": "The arrest of rugby player Sydney Gongodyo’s suspected killers depicts a relationship that has over the years been cultivated by security agencies and the boda boda operators",
+          "url": "https://www.monitor.co.ug/uganda/news/national/the-politics-of-the-boda-boda-5494338",
           "source": {
-            "name": "European AIDS Treatment Group"
+            "name": "Daily Monitor"
           },
-          "publishedAt": "2026-06-13T02:00:55Z",
-          "image": "https://www.eatg.org/wp-content/uploads/2025/02/583163.jpg",
+          "publishedAt": "2026-06-13T04:11:13Z",
+          "image": "https://www.monitor.co.ug/resource/image/5494438/landscape_ratio3x2/1200/800/839f4e8b772c34f04c998f572be407c4/ze/home03pix.png",
           "language": "en"
         },
         {
-          "title": "Harry Styles revisits X Factor as he kicks off Wembley residency",
-          "description": "The pop star reminisces about his X Factor audition, which took place near Wembley Stadium in 2010.",
-          "url": "https://www.bbc.co.uk/news/articles/cwy0381xxd7o",
+          "title": "The dark underbelly of remand homes",
+          "description": "The homes are congested, have aging infrastructure and lack adequate rehabilitation services, among others",
+          "url": "https://www.monitor.co.ug/uganda/news/national/the-dark-underbelly-of-remand-homes-5494328",
+          "source": {
+            "name": "Daily Monitor"
+          },
+          "publishedAt": "2026-06-13T04:10:58Z",
+          "image": "https://www.monitor.co.ug/resource/image/5494362/landscape_ratio3x2/1200/800/f95e01826f8d4cb2e6c6bc19d3266f6b/rr/home02pix.png",
+          "language": "en"
+        },
+        {
+          "title": "VFL Match Report | Unstoppable Cats Record Thumping Win",
+          "description": "Geelong has extended their advantage on top of the VFL ladder once again, with another brilliant performance against the Suns on Saturday",
+          "url": "https://www.geelongcats.com.au/news/2045146/vfl-match-report-unstoppable-cats-record-thumping-win",
+          "source": {
+            "name": "geelongcats.com.au"
+          },
+          "publishedAt": "2026-06-13T04:10:00Z",
+          "image": "https://resources.geelongcats.com.au/aflc-geel/photo/2026/06/13/f4c75abc-cff0-4d07-a913-fc9bb23faf7d/20260613-001A8574.jpg",
+          "language": "en"
+        },
+        {
+          "title": "World Cup 2026: USA v Paraguay",
+          "description": "All the latest reaction and highlights as USA start their Fifa World Cup 2026 with a big win over Paraguay,",
+          "url": "https://www.bbc.co.uk/sport/football/live/ce8my95y5g4t",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-06-13T02:00:32Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2df1/live/98ddcfe0-66c5-11f1-b59f-5fac4ee8d999.jpg",
+          "publishedAt": "2026-06-13T04:10:00Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e40a/live/bc38f050-66e8-11f1-8e1d-bbbb1017d210.jpg",
           "language": "en"
         },
         {
-          "title": "'Driven to London by masked men': Indian-origin man Gagandeep Singh sentenced to 34 years for kidnaping, raping woman",
-          "description": "NRI News: An Indian-origin man Gagandeep Singh has been sentenced to 34 years in prison in the United Kingdom after being convicted of kidnapping, torturing and.",
-          "url": "https://timesofindia.indiatimes.com/nri/driven-to-london-by-masked-men-indian-origin-man-gagandeep-singh-sentenced-to-34-years-for-kidnaping-raping-woman/articleshow/131696224.cms",
+          "title": "Why everyone from your local restaurants to the school fair is using the same ads",
+          "description": "Ads produced by generative AI are being used to advertise everything from a new business to a local school fair.",
+          "url": "https://www.rnz.co.nz/news/business/598109/why-everyone-from-your-local-restaurants-to-the-school-fair-is-using-the-same-ads",
           "source": {
-            "name": "The Times of India"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-06-13T02:00:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-131696281,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-06-13T04:08:59Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--HiJhjj7j--/t_tohu-badge-facebook/v1643859706/4M2A8RP_image_crop_132524?_a=BACCd2AD",
           "language": "en"
         },
         {
-          "title": "Amyloidosis: A rare disease that's difficult to diagnose",
-          "description": "An unusual sensation in his hands sent this drummer to the doctor, and toward a diagnosis and treatment for amyloidosis.",
-          "url": "https://www.thestar.com.my/lifestyle/health/2026/06/13/amyloidosis-a-rare-disease-that039s-difficult-to-diagnose",
+          "title": "Folarin Balogun, who could have played for England or Nigeria, scores two goals for U.S. in World Cup debut",
+          "description": "Folarin Balogun shines in his World Cup debut, scoring two goals as the U.S. defeats Paraguay 4-1.",
+          "url": "https://www.thehindu.com/sport/football/folarin-balogun-who-could-have-played-for-england-or-nigeria-scores-two-goals-for-us-in-world-cup-debut/article71096530.ece",
           "source": {
-            "name": "thestar.com.my"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-06-13T02:00:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/06/05/3944142.jpg",
+          "publishedAt": "2026-06-13T04:08:30Z",
+          "image": "https://th-i.thgim.com/public/incoming/5c6ldx/article71096538.ece/alternates/LANDSCAPE_1200/Paraguay_US_WCup_Soccer_14772.jpg",
           "language": "en"
         },
         {
-          "title": "MPs mull return of school caning to tame growing student unrest",
-          "description": "Kenya banned corporal punishment in 2001 to align with global rights standards",
-          "url": "https://www.the-star.co.ke/news/2026-06-13-mps-mull-return-of-school-caning-to-tame-student-unrest",
+          "title": "Invasive caulerpa seaweed discovered in Whangārei Harbour for first time",
+          "description": "Invasive caulerpa seaweed has spread to Whangārei Harbour for the first time. The significant find at the harbour entrance has alarmed the local community....",
+          "url": "https://www.nzherald.co.nz/northern-advocate/news/invasive-caulerpa-seaweed-discovered-in-whangarei-harbour-for-first-time/PDFM6F5CPVHBTPATOS7RNB3F3I/",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-06-13T02:00:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/06/c5c43c3b-359f-41d3-8dd0-8e1b988f1556.jpg?1781317118983",
-          "language": "en"
-        },
-        {
-          "title": "Trump administration ordered to restore national park signage on climate change, slavery",
-          "description": "A federal judge has ordered the Trump administration to restore signs related to topics such as climate change, slavery and Indigenous and LGBTQ+ history that were removed under an executive order to purge language at national parks that allegedly cast America in a negative light.",
-          "url": "https://www.latimes.com/california/story/2026-06-12/trump-administration-ordered-to-restore-national-park-signage-on-climate-change-slavery",
-          "source": {
-            "name": "Los Angeles Times"
-          },
-          "publishedAt": "2026-06-13T01:57:00Z",
-          "image": "https://ca-times.brightspotcdn.com/dims4/default/e0313bf/2147483647/strip/true/crop/6120x3213+0+434/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe6%2F1e%2Fefd4f2cb45b8baa691f1f4c9a6a1%2Fgettyimages-2242808214.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Real Madrid Leyendas vs. Inter Legends: the Bernabéu hosts the Corazón Classic Match 2026 today",
-          "description": "The proceeds from this XIII edition will go to the Real Madrid Foundation's social sports projects (12:00 pm, Realmadrid TV).",
-          "url": "https://www.realmadrid.com/en-US/news/club/foundation/real-madrid-leyendas-inter-legends-el-bernabeu-acoge-hoy-el-corazon-classic-match-2026-12-06-2026",
-          "source": {
-            "name": "Real Madrid CF | Web Oficial"
-          },
-          "publishedAt": "2026-06-13T01:56:37Z",
-          "image": "https://assets.realmadrid.com/is/image/realmadrid/ND-CARTEL-CLASSIC-MATCH?wid=1200&hei=675",
+          "publishedAt": "2026-06-13T04:08:11Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/GVD7QW4HM5HC3PN675Q2REVMSU.jpg?auth=878d83d1a5b2aa9a342a9466385b06bbb12540a10e187cde1220af47a2037b7e&width=1200&height=675&quality=70&focal=567%2C161&smart=false",
           "language": "en"
         }
       ]
