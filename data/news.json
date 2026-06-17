@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-17T15:35:08.157Z",
+  "updatedAt": "2026-06-17T20:13:27.039Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "Nintendo Switch版『ペルソナ５ ザ・ロイヤル』が70%OFF！「6月PICK UPセール」開催中",
-          "description": "株式会社セガのプレスリリース（2026年6月17日 12時27分）Nintendo Switch版『ペルソナ５ ザ・ロイヤル』が70%OFF！「6月PICK UPセール」開催中",
-          "url": "https://prtimes.jp/main/html/rd/p/000007451.000005397.html",
+          "title": "（まとめ）日経平均は連日で最高値更新となる69,902円で続伸 明日はFOMC結果公表",
+          "description": "東京市場まとめ1.概況日経平均は398円安の69,005円と下落して取引を開始しました。前日の米国市場では、ナスダック総合株価指数などが売られたことで、日本市場でも序盤は人工知能（AI）・半導体関連銘柄に売りが出ました。原油高の一服などから次第に持ち直して上昇に....",
+          "url": "https://media.monex.co.jp/articles/-/29581",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-06-17T07:23:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "次世代スマートグラス「XREAL AURA」今秋発売へ クアルコム最新チップでAI性能強化",
+          "description": "筆者は5月に、XREALとGoogleによるスマートグラス「Project Aura」の驚くほどパワフルなVR風体験をデモで試して感嘆した。このスマートグラスは現在「XREAL AURA」となり、今秋に発売予定だ。",
+          "url": "https://japan.cnet.com/article/35249046/",
+          "source": {
+            "name": "CNET Japan"
+          },
+          "publishedAt": "2026-06-17T06:54:00Z",
+          "image": "https://japan.cnet.com/storage/2026/06/17/0e133fc168e608d2287f50e991bb2f68/xreal-aura-glasses_1280x960.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「視聴率3％台で打ち切り…」“低視聴率女優”のレッテルから大逆転。31歳・CM女王が、賛否呼ぶ「10kg減量」に踏み切ったワケ",
+          "description": "役者としてさらなる高みを目指したことが、結果的に賛否両論を巻き起こすことになったのかもしれません。今年10月に公開予定の映画『ママがもうこの世界にいなくても 私の命の日記』に主演する川口春奈さん。同",
+          "url": "https://news.livedoor.com/article/detail/31578176/",
+          "source": {
+            "name": "ライブドアニュース"
+          },
+          "publishedAt": "2026-06-17T06:47:23Z",
+          "image": "https://image.news.livedoor.com/newsimage/stf/0/5/05dd0_1343_d2489705_1be40314.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ロシアの軍艦、イギリス人夫婦の乗ったヨットに警告射撃 英仏海峡で",
+          "description": "英仏海峡で16日、イギリス人夫婦の乗ったヨットに対し、ロシアの軍艦が警告射撃を行った。イギリスの国防省はこれを「単発的な事案」と説明した。一方ロシア国防省は、ヨットが軍艦に対して「危険な接近」を行ったと主張した。",
+          "url": "https://www.bbc.com/japanese/articles/c892g01l823o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-06-17T06:43:05Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_japanese/13ab/live/e6c7bcc0-69db-11f1-801f-7707cfed8b55.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "攻めた設計でCPUもSSDも爆速で1kg切りのモバイルノートPCだっ!!＝ASUS「ExpertBook Ultra」実機レビュー",
+          "description": "最新のインテルCore Ultraシリーズ3プロセッサーを搭載しSSDもPCIe5を搭載、ディスプレーはタッチ対応でマグネシウム・アルミニウム合金ボディーの個人でも買いたくなる最先端モバイルノートです",
+          "url": "https://ascii.jp/elem/000/004/410/4410296/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-06-17T06:01:00Z",
+          "image": "https://ascii.jp/img/2026/06/12/4482493/xl/ac229622923b7351.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "ASUS JAPAN、法人向けPCの新ラインナップを発表 プレミアムビジネスノートPC「ASUS ExpertBook Ultra」、ExpertBookシリーズ、Chromebookの新製品を展開",
+          "description": "ASUS JAPAN株式会社のプレスリリース（2026年6月17日 15時00分）ASUS JAPAN、法人向けPCの新ラインナップを発表 プレミアムビジネスノートPC「ASUS ExpertBook Ultra」、ExpertBookシリーズ、Chromebookの新製品を展開",
+          "url": "https://prtimes.jp/main/html/rd/p/000001731.000017808.html",
           "source": {
             "name": "PR TIMES"
           },
-          "publishedAt": "2026-06-17T03:27:59Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/5397/7451/5397-7451-b9672ed0c02053d4651f24f25c1cdeda-2160x2160.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "publishedAt": "2026-06-17T06:00:01Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/17808/1731/17808-1731-4b4e50b6df6ac21c47e3fe4790ee7325-721x520.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
           "language": "ja"
         },
         {
-          "title": "「経済的に豊かな子は自衛隊にならず」発言に批判集中 立憲は古賀参院議員に厳重注意",
-          "description": "立憲民主党の国会議員が「自衛隊に行く子どもは経済的に厳しい子どもたち」と発言し、与党だけでなく野党からも批判が集まり、立憲民主党は議員本人に厳重注意しました。",
-          "url": "https://news.yahoo.co.jp/articles/d8b02f17d4bacc2fcfb797e346eb98d335631698",
+          "title": "これぞ次世代基準!? 約990gで3倍明るいOLED採用14型ノート「ExpertBook Ultra」",
+          "description": "ASUS JAPANは6月17日、ビジネス向けモバイルノート「ASUS ExpertBook Ultra(B9406CAA)」を発表した。価格は29万9,800円からで、同日より順次発売する。",
+          "url": "https://pc.watch.impress.co.jp/docs/news/2117861.html",
           "source": {
-            "name": "Yahoo!ニュース"
+            "name": "PC Watch"
           },
-          "publishedAt": "2026-06-17T03:24:15Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260617-90193062-ann-000-2-view.jpg?exp=10800",
+          "publishedAt": "2026-06-17T06:00:00Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2117/861/01.jpg",
           "language": "ja"
         },
         {
-          "title": "東京や福岡などは20日頃と24日頃に雨が強まる恐れ 土砂災害など注意",
-          "description": "この先2週間(6月18日〜30日)は、本州付近に前線や低気圧が停滞して、前半は西〜東日本で曇りや雨となり、特に20日(土)頃や24日(水)頃は大雨となる所もあるでしょう。後半も梅雨空の続く所が多い見込みです。",
-          "url": "https://tenki.jp/forecaster/m_kimura/2026/06/17/39358.html",
+          "title": "「全色買いました！」「ただのTシャツがおしゃれになる」 グローバルワークの“2990円レースビスチェ”が大好評 「ワンピにもパンツにも合う」「一目惚れして購入」",
+          "description": "GLOBAL WORK（グローバルワーク）から販売されている「クロシェレースビスチェ/759908」が、普通のシンプルなTシャツに合わせるだけでコーディネートがかわいく仕上がる上、ワンピースの上からでもパンツと合わせてもいいと高評価を集めています。　本記事では、「クロシェレースビスチェ/759908」につい…",
+          "url": "https://nlab.itmedia.co.jp/research/articles/3883276/",
           "source": {
-            "name": "tenki.jp"
+            "name": "ねとらぼ"
           },
-          "publishedAt": "2026-06-17T03:23:49Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/393/39358/main/20260617114509/large.jpg",
+          "publishedAt": "2026-06-17T05:40:00Z",
+          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/11/1763533747_IMG_9348-1.jpg",
           "language": "ja"
         },
         {
-          "title": "2027年1月 SMT Members終了 新会員サービススタート",
-          "description": "2027年1月　SMT Members終了　新会員サービススタート",
-          "url": "https://www.smt-cinema.com/site/hashimoto/news/detail/093999.html",
+          "title": "NVIDIA、GeForce NOWを最大35％オフ RTX 5080級の性能をクラウドで",
+          "description": "NVIDIA Japanは6月17日、クラウドゲーミングサービス「GeForce NOW」のサマーセールを開始したと発表した。",
+          "url": "https://ascii.jp/elem/000/004/411/4411354/",
           "source": {
-            "name": "松竹マルチプレックスシアターズ"
+            "name": "ASCII.jp"
           },
-          "publishedAt": "2026-06-17T03:14:57Z",
-          "image": "https://www.smt-cinema.com/assets/img/facebook-ogpsd.png",
+          "publishedAt": "2026-06-17T05:15:00Z",
+          "image": "https://ascii.jp/img/2026/06/17/4484741/xl/45ed23188fbd6558.jpg?20200122",
           "language": "ja"
         },
         {
-          "title": "京本大我の短髪姿も！SixTONESがホワイト作業着風衣装で並んだ『SixTONES STock』ショットまとめ",
-          "description": "SixTONESが“体験型倉庫見学”イベント『SixTONES STock』を開催。雑誌『VOCE』（ヴォーチェ）公式Xに、イベントについて語った会見のレポート＆集合ショットが公開されている。 ■京本大我は会場を見て「こ […]",
-          "url": "https://www.thefirsttimes.jp/news/0000829637/",
+          "title": "グーグルのXRグラス「Project Aura」が「XREAL AURA」として正式発表、今秋発売で特典受付開始",
+          "description": "XREALは、グーグルやクアルコムと協業開発したXRグラス「XREAL AURA」を今秋に発売する。これに先立ち、優先出荷や購入代金への充当などの限定特典を受けられる2種類のプログラムの受付を開始した。",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2117837.html",
           "source": {
-            "name": "THE FIRST TIMES"
+            "name": "ケータイ Watch"
           },
-          "publishedAt": "2026-06-17T03:06:35Z",
-          "image": "https://www.thefirsttimes.jp/admin/wp-content/uploads/2026/06/20260617-miho-105601-1200x630.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "中国版ギネスで「世界最古の餃子チェーン」とされる店が新宿にある / 創業200年、清時代から続く『老辺餃子舘』の新宿本店に行ってみた",
-          "description": "入ったことはないけど印象に残る店ってあると思う。例えば、その一帯を通ったら必ず看板が目に入るとか。入店するほどじゃないけど通る度に「そう言えば」と思い出す。結 …",
-          "url": "https://rocketnews24.com/2026/06/17/2772170/",
-          "source": {
-            "name": "ロケットニュース24"
-          },
-          "publishedAt": "2026-06-17T03:00:00Z",
-          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/06/rouben15.jpg?crop=0px%2C32px%2C1500px%2C788px&resize=1200%2C630",
-          "language": "ja"
-        },
-        {
-          "title": "安住紳一郎アナ、中村玉緒さん通夜の“印象”伝え偲ぶ",
-          "description": "ニュース｜　TBSの安住紳一郎アナウンサー（52）が、17日放送の同局系情報番組『THE TIME，』（月～金　前5：20）に生出演。今月9日に肺炎のため、86歳で亡くなった俳優の中村玉緒さんの通夜が、16日に都内で営まれたことを伝えた。　番組は、親交のあった明石家さんま、浅田美代子、西村知美らの姿があったと説明。「からくりファミリーが玉緒さんを見送りました」と伝えた。また、王貞治や松平健、鶴見辰吾、瀬川瑛子、和田アキ子ら、およそ400人が参列したことなどを伝えた。",
-          "url": "https://www.oricon.co.jp/news/2461812/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-06-17T02:54:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2462000/2461812/20260613_230050_p_o_24162575.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "XREAL、次世代グラス「XREAL AURA」今秋発売。優先出荷の限定特典を先行発売",
-          "description": "XREALは、GoogleのXRプラットフォーム「Android XR」を採用したXRグラス「XREAL AURA」を今秋に発売する。具体的な発売日や価格は未定だが、発売に先駆けて限定特典2種の販売を開始した。価格は優先的に出荷順位が確保される「XREAL AURA 特典プログラム」が15,000円、発売日出荷が保証される「XREAL AURA 初回限定パス」が45,000円。",
-          "url": "https://av.watch.impress.co.jp/docs/news/2117768.html",
-          "source": {
-            "name": "AV Watch"
-          },
-          "publishedAt": "2026-06-17T02:40:00Z",
-          "image": "https://av.watch.impress.co.jp/img/avw/list/2117/768/main.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "最大震度5弱の関東地方は今日17日夜から雨予想 少しの雨でも土砂災害に注意を",
-          "description": "昨日16日(火)19時46分頃、茨城県南部を震源とする強い地震が発生し、関東地方で最大震度5弱を観測しました。その関東地方は今日17日(水)夜遅くから明日18日(木)にかけて雨が降る見込みです。揺れの強かった地域では、地盤が弱くなっている可能性があり、少しの雨でも落石やがけ崩れが起きやすいため注意が必要です。",
-          "url": "https://tenki.jp/forecaster/k_itoh/2026/06/17/39356.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-06-17T02:25:38Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/393/39356/main/20260617103722/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "アイス大手6社にカルテル疑い 「値上げは必要」でも、なぜ価格の相談は許されないのか",
-          "description": "アイスクリームの大手メーカー6社が、市販用アイスの価格をめぐってカルテルを結んだ疑いで、公正取引委員会の立ち入り検査を受けた。対象となったのは、明治、森永乳業、ロッテ、江崎グリコ、森永製菓、赤城乳業の",
-          "url": "https://news.yahoo.co.jp/expert/articles/64ace8a50a3435ec609ca7b630bd358ce3d5c26c",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-17T02:07:05Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/watanabehiroaki/02646332/title-1781652539961.jpeg?exp=10800",
+          "publishedAt": "2026-06-17T04:29:04Z",
+          "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2117/837/main.png",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "We won’t bow to forces of darkness, intimidation, says Adeleke",
-          "description": "Osun State Governor, Ademola Adeleke, yesterday, flagged off his re-election campaign in Osogbo, the state capital, ahead of",
-          "url": "https://guardian.ng/news/we-wont-bow-to-forces-of-darkness-intimidation-says-adeleke/",
+          "title": "Health workers equipped to tackle potential Ebola threat in Zanzibar",
+          "description": "ZANZIBAR: ZANZIBAR Ministry of Health, in collaboration with CIHEB Tanzania under the Global Health Security Project, has conducted a specialised training programme for health professionals aimed at enhancing preparedness and response to Ebola. The training focused on improving participants' understanding of the Ebola virus and establishing a dedicated national response team capable of managing suspected",
+          "url": "https://dailynews.co.tz/health-workers-equipped-to-tackle-potential-ebola-threat-in-zanzibar/",
           "source": {
-            "name": "The Guardian Nigeria News"
+            "name": "dailynews.co.tz"
           },
-          "publishedAt": "2026-06-17T03:34:58Z",
-          "image": "https://cdn.guardian.ng/wp-content/uploads/2025/12/Osun-State-governor-Ademola-Adeleke.webp",
+          "publishedAt": "2026-06-17T08:12:58Z",
+          "image": "https://dailynews.co.tz/wp-content/uploads/2026/06/SLIM-780x470-1.jpg",
           "language": "en"
         },
         {
-          "title": "Tropical Storm Arthur could form, bring dangerous floods to LA",
-          "description": "Potential Tropical Cyclone One continues to bring dangerous flooding to portions of Louisiana and Texas. ﻿A Tropical Storm Warning has now been issued for the coast of Louisiana from Sabine Pass to Morgan City. ﻿",
-          "url": "https://www.wdsu.com/article/louisiana-flood-potential-tropical-cyclone-one-tropics-mississippi-gulf-tropical-storm-arthur-1781651080/71607266",
+          "title": "Foot and mouth disease bungle costs Steenhuisen his Cabinet post",
+          "description": "DA leader Geordin Hill-Lewis has asked President Cyril Ramaphosa for a massive DA executive shake-up which sees John Steenhuisen stripped of his agricultural portfolio.",
+          "url": "https://www.dailymaverick.co.za/article/2026-06-17-foot-and-mouth-disease-bungle-costs-steenhuisen-his-cabinet-post/?dm_source=blocks-grid-wide&dm_medium=card-link&dm_campaign=inform",
           "source": {
-            "name": "WDSU"
+            "name": "Daily Maverick"
           },
-          "publishedAt": "2026-06-17T03:34:00Z",
-          "image": "https://kubrick.htvapps.com/htv-prod/images/f18fd063-3f97-40ba-94a2-e46e2ae3608e.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "publishedAt": "2026-06-17T08:09:19Z",
+          "image": "https://cdn.dailymaverick.co.za/i/ArpEtm8DNHxtArOfRytefXsZ97o=/800x0/smart/filters:strip_exif()/file/attachments/orphans/tori_hillsteenhuisen_898718.jpg",
           "language": "en"
         },
         {
-          "title": "Palace congratulates new Senate President Gatchalian",
-          "description": "Malacañang congratulated Sen. Sherwin Gatchalian on his election as Senate president during the chamber’s special session on Wednesday.",
-          "url": "https://newsinfo.inquirer.net/2247908/palace-congratulates-new-senate-president-gatchalian",
+          "title": "Movement Quality in Preterm Infants",
+          "description": "Movement quality may reveal subtle motor difficulties in preterm infants. Read more on early surveillance.",
+          "url": "https://www.emjreviews.com/neurology/news/movement-quality-flags-early-preterm-motor-differences/",
           "source": {
-            "name": "Inquirer.net"
+            "name": "EMJ"
           },
-          "publishedAt": "2026-06-17T03:34:00Z",
-          "image": "https://newsinfo.inquirer.net/files/2026/06/1235290.jpeg",
+          "publishedAt": "2026-06-17T08:09:16Z",
+          "image": "https://www.emjreviews.com/wp-content/uploads/2026/06/AdobeStock_212276344.jpeg",
           "language": "en"
         },
         {
-          "title": "Former Top Gear host reveals medical diagnosis",
-          "description": "The 66-year-old revealed the news in the latest episode of his Amazon series Clarkson’s Farm.",
-          "url": "https://www.smh.com.au/culture/celebrity/former-top-gear-host-jeremy-clarkson-reveals-cancer-diagnosis-20260617-p607my.html",
+          "title": "Israeli businessman faces debt proceedings weeks after $4.5B ZIM bid",
+          "description": "Haim Sakal, whose family once operated duty-free stores at Ben Gurion Airport, recently offered to buy ZIM and reportedly Arkia, but a Herzliya Pituach property he owns is now tied to a 15 million shekel debt",
+          "url": "https://www.ynetnews.com/business/article/rkkxrrjmge",
           "source": {
-            "name": "SMH.com.au"
+            "name": "Ynetnews"
           },
-          "publishedAt": "2026-06-17T03:33:57Z",
-          "image": "https://static.ffx.io/images/$zoom_0.1361%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_56%2C$y_34/t_crop_custom/q_86%2Cf_auto/239b17a37a3cb40725a87e23b325c2adfc0a81d4",
+          "publishedAt": "2026-06-17T08:08:38Z",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/25/HkbwbVXWWx/HkbwbVXWWx_0_0_1890_1062_0_large.jpg",
           "language": "en"
         },
         {
-          "title": "Trump administration seeks to halt air pollution lawsuit against Musk’s xAI",
-          "description": "US Department of Justice claims NAACP lawsuit threatens ‘national, economic, and energy security’.",
-          "url": "https://www.aljazeera.com/economy/2026/6/17/trump-administration-seeks-to-halt-air-pollution-lawsuit-against-xai-data",
+          "title": "India hand Prince Yadav debut as Afghanistan bowl in Lucknow",
+          "description": "Darwish Rasooli, meanwhile, makes his ODI debut for Afghanistan",
+          "url": "https://www.espncricinfo.com/story/ind-vs-afg-2nd-odi-india-hand-prince-yadav-debut-as-afghanistan-bowl-in-lucknow-1541494",
           "source": {
-            "name": "Al Jazeera"
+            "name": "ESPNcricinfo"
           },
-          "publishedAt": "2026-06-17T03:33:45Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26167768287169-1781658637.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-06-17T08:08:32Z",
+          "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/418400/418424.6.jpg",
           "language": "en"
         },
         {
-          "title": "HDB launches 6,952 BTO flats for sale",
-          "description": "Discover the latest HDB BTO flat launches, including Prime projects in Berlayar and Upper Thomson, with details on locations and pricing. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/singapore/housing/hdb-launches-6952-bto-flats-including-prime-projects-in-berlayar-and-upper-thomson",
+          "title": "A place among the stars: Asteroid named after firefighter who died in deadly Hong Kong blaze",
+          "description": "HONG KONG: A firefighter who gave his life saving others during Hong Kong's deadliest blaze in decades is continuing his journey far beyond Earth – his name metaphorically etched in a cosmic rock for centuries to come.",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/17/a-place-among-the-stars-asteroid-named-after-firefighter-who-died-in-deadly-hong-kong-blaze",
           "source": {
-            "name": "The Straits Times"
+            "name": "The Star"
           },
-          "publishedAt": "2026-06-17T03:33:31Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3b914539195c6756a94d38bdf96802039633f803115e4aba2ef1c8a4ac4f0943",
+          "publishedAt": "2026-06-17T08:08:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/06/17/3963073.jpg",
           "language": "en"
         },
         {
-          "title": "4 Takeaways From Argentina's (And Messi's) Win Over Algeria At The World Cup",
-          "description": "Argentina opened its title defense the way the whole planet except Algeria hoped it would: through Lionel Messi.",
-          "url": "https://www.foxsports.com/stories/soccer/argentina-vs-algeria-world-cup-4-takeaway-lionel-messi",
+          "title": "Qatar hosts US-Iran preparatory talks ahead of historic Switzerland signing",
+          "description": "According to a Qatari report, the talk of an approaching agreement between Washington and Tehran was accompanied by a media campaign against Qatar.",
+          "url": "https://www.jpost.com/middle-east/article-899651",
           "source": {
-            "name": "FOX Sports"
+            "name": "The Jerusalem Post"
           },
-          "publishedAt": "2026-06-17T03:32:57Z",
-          "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1408/814/1681eae3-argentina1.jpg?ve=1&tl=1",
+          "publishedAt": "2026-06-17T08:07:49Z",
+          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/725969",
           "language": "en"
         },
         {
-          "title": "Cyprus Shipping News",
-          "description": "Ocean Network Express , one of the world’s leading container shipping companies, has launched a new weekly route via the […]",
-          "url": "https://cyprusshippingnews.com/2026/06/17/new-container-shipping-route-to-portugal-launched-at-the-port-of-riga/",
+          "title": "Peet Viljoen arrested at OR Tambo International Airport",
+          "description": "Police have confirmed that disgraced lawyer, Peet Viljoen has been arrested.",
+          "url": "https://iol.co.za/news/crime-and-courts/2026-06-17-peet-viljoen-arrested-at-or-tambo-international-airport/",
           "source": {
-            "name": "Cyprus Shipping News"
+            "name": "IOL"
           },
-          "publishedAt": "2026-06-17T03:32:10Z",
-          "image": "https://cyprusshippingnews.com/wp-content/uploads/2026/06/New-container-shipping-route-to-Portugal-launched-at-the-Port-of-Riga.jpg",
+          "publishedAt": "2026-06-17T08:07:38Z",
+          "image": "https://iol-prod.appspot.com/image/47e46243738a737de7c05e4f944387ddf7127f55/1000/jpeg",
           "language": "en"
         },
         {
-          "title": "Blood proteins reveal which aging cells may raise disease risk",
-          "description": "A large plasma proteomics study shows that aging patterns in specific cell types may help identify who is more vulnerable to disease and who is more resilient.",
-          "url": "https://www.news-medical.net/news/20260616/Blood-proteins-reveal-which-aging-cells-may-raise-disease-risk.aspx",
+          "title": "Not one woman picked him, and he became the season's most beloved islander - who is Austin Shepard",
+          "description": "No one picked Austin Shepard at the recoupling, but fans did. Discover the Love Island USA Season 7 star’s rise to fame, fitness journey, and life beyond the villa.",
+          "url": "https://www.legit.ng/ask-legit/biographies/1714160-not-woman-picked-seasons-beloved-islander-austin-shepard/",
           "source": {
-            "name": "News-Medical"
+            "name": "Legit.ng"
           },
-          "publishedAt": "2026-06-17T03:31:00Z",
-          "image": "https://www.news-medical.net/images/news/ImageForNews_840332_17816669886372193.jpg",
+          "publishedAt": "2026-06-17T08:06:37Z",
+          "image": "https://cdn.legit.ng/images/1200x675/51c3b8b450918959.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "Austria v Jordan: World Cup 2026 - live",
-          "description": "Minute-by-minute report: Austria’s experienced side meet Jamal Sellami’s first-time qualifiers in San Francisco. Join Martin Pegan for updates",
-          "url": "https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest",
+          "title": "BSE shares fall 3.5% as NSE likely to file DRHP for Rs 30,000-crore IPO today: Here's why",
+          "description": "The long-awaited IPO of the National Stock Exchange is likely to move closer to fruition on Wednesday",
+          "url": "https://www.moneycontrol.com/news/business/markets/bse-shares-fall-3-5-as-nse-likely-to-file-drhp-for-rs-30-000-crore-ipo-today-here-s-why-13951916.html",
           "source": {
-            "name": "The Guardian"
+            "name": "Moneycontrol.com"
           },
-          "publishedAt": "2026-06-17T03:30:45Z",
-          "image": "https://i.guim.co.uk/img/media/0b029e4e22fdbef8242dfc42c82b287bf049bc44/157_0_3993_3194/master/3993.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ea42b38771f3dc90f4d46edc7c362eeb",
+          "publishedAt": "2026-06-17T08:05:42Z",
+          "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260530031610_sensex_nifty_market_Nifty_nse_bse.jpg",
           "language": "en"
         }
       ]
