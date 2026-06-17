@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-17T20:13:27.039Z",
+  "updatedAt": "2026-06-17T22:45:15.841Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【窪田真之】日経平均7万円突破は「バブル」か「通過点」か？",
+          "description": "窪田真之チーフ・ストラテジスト：まず、日経平均の週足チャートをご覧ください。　高市ラリーが第1弾、第2弾、第3弾と続き、ついに6月16日に一時7万円をつけました。第1弾・第2弾は高市政権の構造改革や成長戦略への期待が大きかったのですが、第…",
+          "url": "https://media.rakuten-sec.net/articles/-/52719",
+          "source": {
+            "name": "トウシル"
+          },
+          "publishedAt": "2026-06-17T09:30:00Z",
+          "image": "https://media.rakuten-sec.net/mwimgs/5/6/-/img_56aac3907bf451c5faf88aad48a16470167321.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "東海道・山陽新幹線、上級クラス座席「Supreme Class」を10月1日導入",
+          "description": "JR東海とJR西日本は、東海道・山陽新幹線に「Supreme Class」を10月1日に導入する。 Supreme Classは、グリーン車より上位の座席クラスとして、個室の「Supreme Class Cabin」と半 […]",
+          "url": "https://www.traicy.com/posts/20260617373868/",
+          "source": {
+            "name": "TRAICY（トライシー）"
+          },
+          "publishedAt": "2026-06-17T08:35:50Z",
+          "image": "https://www.traicy.com/wp-content/uploads/2026/06/sec1_s2_img_1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "映画「銀行強盗：完全マニュアル」日本での劇場公開が中止",
+          "description": "9月4日に日本公開を予定していた映画「銀行強盗：完全マニュアル」（原題「How to Rob a Bank」）の劇場公開が中止。配給元のソニー・ピクチャーズ エンタテインメントが本日6月17日に発表した。",
+          "url": "https://natalie.mu/eiga/news/676589",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-06-17T08:15:00Z",
+          "image": "https://ogre.natalie.mu/media/news/eiga/2026/0603/HowtoRobaBank_poster.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
         {
           "title": "（まとめ）日経平均は連日で最高値更新となる69,902円で続伸 明日はFOMC結果公表",
           "description": "東京市場まとめ1.概況日経平均は398円安の69,005円と下落して取引を開始しました。前日の米国市場では、ナスダック総合株価指数などが売られたことで、日本市場でも序盤は人工知能（AI）・半導体関連銘柄に売りが出ました。原油高の一服などから次第に持ち直して上昇に....",
@@ -81,150 +114,117 @@
           "publishedAt": "2026-06-17T06:00:00Z",
           "image": "https://pc.watch.impress.co.jp/img/pcw/list/2117/861/01.jpg",
           "language": "ja"
-        },
-        {
-          "title": "「全色買いました！」「ただのTシャツがおしゃれになる」 グローバルワークの“2990円レースビスチェ”が大好評 「ワンピにもパンツにも合う」「一目惚れして購入」",
-          "description": "GLOBAL WORK（グローバルワーク）から販売されている「クロシェレースビスチェ/759908」が、普通のシンプルなTシャツに合わせるだけでコーディネートがかわいく仕上がる上、ワンピースの上からでもパンツと合わせてもいいと高評価を集めています。　本記事では、「クロシェレースビスチェ/759908」につい…",
-          "url": "https://nlab.itmedia.co.jp/research/articles/3883276/",
-          "source": {
-            "name": "ねとらぼ"
-          },
-          "publishedAt": "2026-06-17T05:40:00Z",
-          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/11/1763533747_IMG_9348-1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "NVIDIA、GeForce NOWを最大35％オフ RTX 5080級の性能をクラウドで",
-          "description": "NVIDIA Japanは6月17日、クラウドゲーミングサービス「GeForce NOW」のサマーセールを開始したと発表した。",
-          "url": "https://ascii.jp/elem/000/004/411/4411354/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-06-17T05:15:00Z",
-          "image": "https://ascii.jp/img/2026/06/17/4484741/xl/45ed23188fbd6558.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "グーグルのXRグラス「Project Aura」が「XREAL AURA」として正式発表、今秋発売で特典受付開始",
-          "description": "XREALは、グーグルやクアルコムと協業開発したXRグラス「XREAL AURA」を今秋に発売する。これに先立ち、優先出荷や購入代金への充当などの限定特典を受けられる2種類のプログラムの受付を開始した。",
-          "url": "https://k-tai.watch.impress.co.jp/docs/news/2117837.html",
-          "source": {
-            "name": "ケータイ Watch"
-          },
-          "publishedAt": "2026-06-17T04:29:04Z",
-          "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2117/837/main.png",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Health workers equipped to tackle potential Ebola threat in Zanzibar",
-          "description": "ZANZIBAR: ZANZIBAR Ministry of Health, in collaboration with CIHEB Tanzania under the Global Health Security Project, has conducted a specialised training programme for health professionals aimed at enhancing preparedness and response to Ebola. The training focused on improving participants' understanding of the Ebola virus and establishing a dedicated national response team capable of managing suspected",
-          "url": "https://dailynews.co.tz/health-workers-equipped-to-tackle-potential-ebola-threat-in-zanzibar/",
+          "title": "CS Mbadi: 1,543 public entities now using government e-procurement platform",
+          "description": "Kisumu County led the rankings with 467 contracts worth Sh1.39 billion already captured in the system. Siaya County ranked second with 163 contracts worth.",
+          "url": "https://eastleighvoice.co.ke/news/369041/cs-mbadi-1543-public-entities-now-using-government-e-procurement-platform",
+          "source": {
+            "name": "The Eastleigh Voice"
+          },
+          "publishedAt": "2026-06-17T10:45:09Z",
+          "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/02/CS-Mbadi-2.jpg",
+          "language": "en"
+        },
+        {
+          "title": "WHO sounds alarm on rising pregnancy risks linked to diabetes, obesity and high blood pressure",
+          "description": "WHO warns that diabetes, obesity and high blood pressure are making pregnancies riskier worldwide, urging better care for mothers before, during and after childbirth. TheHealthSite.com",
+          "url": "https://www.thehealthsite.com/news/who-sounds-alarm-on-rising-pregnancy-risks-linked-to-diabetes-obesity-and-high-blood-pressure-1329239/",
+          "source": {
+            "name": "TheHealthSite"
+          },
+          "publishedAt": "2026-06-17T10:45:00Z",
+          "image": "https://st1.thehealthsite.com/wp-content/uploads/2026/06/Pregnancy-risks-Image-AI-Generated.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Sean ‘Diddy’ Combs’ release from prison pushed forward",
+          "description": "Sean “Diddy” Combs’ time in federal prison has been reduced again.",
+          "url": "https://www.news.com.au/entertainment/celebrity-life/sean-diddy-combs-release-from-prison-pushed-forward/news-story/fda7154c2a9a5aef4372ed0c1c65eac3",
+          "source": {
+            "name": "News.com.au"
+          },
+          "publishedAt": "2026-06-17T10:44:26Z",
+          "image": "https://content.api.news/v3/images/bin/879b6303c9051d6221963c5d6fe972ea",
+          "language": "en"
+        },
+        {
+          "title": "Govt reaffirms voluntary repatriation as durable refugee solution",
+          "description": "SWITZERLAND: TANZANIA has reiterated that voluntary repatriation remains the most sustainable solution to the global refugee situation and is key to efforts aimed at reducing refugee populations by 50 per cent by 2035. The position was presented during the 96th meeting of the UNHCR Standing Committee held in Geneva yesterday. In its statement on the",
+          "url": "https://dailynews.co.tz/govt-reaffirms-voluntary-repatriation-as-durable-refugee-solution/",
           "source": {
             "name": "dailynews.co.tz"
           },
-          "publishedAt": "2026-06-17T08:12:58Z",
-          "image": "https://dailynews.co.tz/wp-content/uploads/2026/06/SLIM-780x470-1.jpg",
+          "publishedAt": "2026-06-17T10:44:11Z",
+          "image": "https://dailynews.co.tz/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-17-at-13.04.52.jpeg",
           "language": "en"
         },
         {
-          "title": "Foot and mouth disease bungle costs Steenhuisen his Cabinet post",
-          "description": "DA leader Geordin Hill-Lewis has asked President Cyril Ramaphosa for a massive DA executive shake-up which sees John Steenhuisen stripped of his agricultural portfolio.",
-          "url": "https://www.dailymaverick.co.za/article/2026-06-17-foot-and-mouth-disease-bungle-costs-steenhuisen-his-cabinet-post/?dm_source=blocks-grid-wide&dm_medium=card-link&dm_campaign=inform",
-          "source": {
-            "name": "Daily Maverick"
-          },
-          "publishedAt": "2026-06-17T08:09:19Z",
-          "image": "https://cdn.dailymaverick.co.za/i/ArpEtm8DNHxtArOfRytefXsZ97o=/800x0/smart/filters:strip_exif()/file/attachments/orphans/tori_hillsteenhuisen_898718.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Movement Quality in Preterm Infants",
-          "description": "Movement quality may reveal subtle motor difficulties in preterm infants. Read more on early surveillance.",
-          "url": "https://www.emjreviews.com/neurology/news/movement-quality-flags-early-preterm-motor-differences/",
-          "source": {
-            "name": "EMJ"
-          },
-          "publishedAt": "2026-06-17T08:09:16Z",
-          "image": "https://www.emjreviews.com/wp-content/uploads/2026/06/AdobeStock_212276344.jpeg",
-          "language": "en"
-        },
-        {
-          "title": "Israeli businessman faces debt proceedings weeks after $4.5B ZIM bid",
-          "description": "Haim Sakal, whose family once operated duty-free stores at Ben Gurion Airport, recently offered to buy ZIM and reportedly Arkia, but a Herzliya Pituach property he owns is now tied to a 15 million shekel debt",
-          "url": "https://www.ynetnews.com/business/article/rkkxrrjmge",
-          "source": {
-            "name": "Ynetnews"
-          },
-          "publishedAt": "2026-06-17T08:08:38Z",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/25/HkbwbVXWWx/HkbwbVXWWx_0_0_1890_1062_0_large.jpg",
-          "language": "en"
-        },
-        {
-          "title": "India hand Prince Yadav debut as Afghanistan bowl in Lucknow",
-          "description": "Darwish Rasooli, meanwhile, makes his ODI debut for Afghanistan",
-          "url": "https://www.espncricinfo.com/story/ind-vs-afg-2nd-odi-india-hand-prince-yadav-debut-as-afghanistan-bowl-in-lucknow-1541494",
-          "source": {
-            "name": "ESPNcricinfo"
-          },
-          "publishedAt": "2026-06-17T08:08:32Z",
-          "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/418400/418424.6.jpg",
-          "language": "en"
-        },
-        {
-          "title": "A place among the stars: Asteroid named after firefighter who died in deadly Hong Kong blaze",
-          "description": "HONG KONG: A firefighter who gave his life saving others during Hong Kong's deadliest blaze in decades is continuing his journey far beyond Earth – his name metaphorically etched in a cosmic rock for centuries to come.",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/17/a-place-among-the-stars-asteroid-named-after-firefighter-who-died-in-deadly-hong-kong-blaze",
-          "source": {
-            "name": "The Star"
-          },
-          "publishedAt": "2026-06-17T08:08:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/06/17/3963073.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Qatar hosts US-Iran preparatory talks ahead of historic Switzerland signing",
-          "description": "According to a Qatari report, the talk of an approaching agreement between Washington and Tehran was accompanied by a media campaign against Qatar.",
-          "url": "https://www.jpost.com/middle-east/article-899651",
+          "title": "Israel to assist Somaliland in developing its water sector",
+          "description": "Energy Minister and Somaliland President agree on strategic cooperation",
+          "url": "https://www.jpost.com/business-and-innovation/energy-and-infrastructure/article-899689",
           "source": {
             "name": "The Jerusalem Post"
           },
-          "publishedAt": "2026-06-17T08:07:49Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/725969",
+          "publishedAt": "2026-06-17T10:42:06Z",
+          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/726026",
           "language": "en"
         },
         {
-          "title": "Peet Viljoen arrested at OR Tambo International Airport",
-          "description": "Police have confirmed that disgraced lawyer, Peet Viljoen has been arrested.",
-          "url": "https://iol.co.za/news/crime-and-courts/2026-06-17-peet-viljoen-arrested-at-or-tambo-international-airport/",
+          "title": "Trump news at a glance: G7 leaders wrestle Ukraine back on to president’s agenda",
+          "description": "President comments that Moscow ‘should make a deal’; Trump-aligned Ossoff wins Senate primary in Georgia – key US politics stories from Tuesday 16 June at a glance",
+          "url": "https://www.theguardian.com/us-news/2026/jun/17/trump-administration-news-latest-updates-today",
           "source": {
-            "name": "IOL"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-06-17T08:07:38Z",
-          "image": "https://iol-prod.appspot.com/image/47e46243738a737de7c05e4f944387ddf7127f55/1000/jpeg",
+          "publishedAt": "2026-06-17T10:42:00Z",
+          "image": "https://i.guim.co.uk/img/media/b90255b8dab55f241490dab079bc39a644ad5c8e/1_0_1970_1576/master/1970.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a9674aaea124a56ca2a7862603d0818e",
           "language": "en"
         },
         {
-          "title": "Not one woman picked him, and he became the season's most beloved islander - who is Austin Shepard",
-          "description": "No one picked Austin Shepard at the recoupling, but fans did. Discover the Love Island USA Season 7 star’s rise to fame, fitness journey, and life beyond the villa.",
-          "url": "https://www.legit.ng/ask-legit/biographies/1714160-not-woman-picked-seasons-beloved-islander-austin-shepard/",
+          "title": "\"F*ck her, spit in her face\": BBC's Ashley Cain's shock tweets resurface as broadcaster faces calls to axe him",
+          "description": "Violent, misogynistic tweets from BBC presenter Ashley Cain have resurfaced, as calls to axe the second series of Into the Danger Zone mount. The posts included",
+          "url": "https://www.cosmopolitan.com/uk/reports/a71611643/ashley-cain-tweets/",
           "source": {
-            "name": "Legit.ng"
+            "name": "Cosmopolitan"
           },
-          "publishedAt": "2026-06-17T08:06:37Z",
-          "image": "https://cdn.legit.ng/images/1200x675/51c3b8b450918959.jpeg?v=1",
+          "publishedAt": "2026-06-17T10:41:55Z",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/967a5a3a-c51a-49b0-bde1-8e1b793af08c.jpg?crop=0.632xw:0.228xh;0.198xw,0.119xh&resize=1200:*",
           "language": "en"
         },
         {
-          "title": "BSE shares fall 3.5% as NSE likely to file DRHP for Rs 30,000-crore IPO today: Here's why",
-          "description": "The long-awaited IPO of the National Stock Exchange is likely to move closer to fruition on Wednesday",
-          "url": "https://www.moneycontrol.com/news/business/markets/bse-shares-fall-3-5-as-nse-likely-to-file-drhp-for-rs-30-000-crore-ipo-today-here-s-why-13951916.html",
+          "title": "Museveni: We should have an East African Federation with one navy",
+          "description": "Museveni said current political boundaries limit the continent's ability to protect its interests and compete globally.",
+          "url": "https://www.the-star.co.ke/news/2026-06-17-museveni-proposes-ea-federation-with-one-navy",
           "source": {
-            "name": "Moneycontrol.com"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-06-17T08:05:42Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260530031610_sensex_nifty_market_Nifty_nse_bse.jpg",
+          "publishedAt": "2026-06-17T10:41:51Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/06/40ee34f0-0f2c-4aeb-8c6e-352a8cabdeb8.jpg?1781722077053",
+          "language": "en"
+        },
+        {
+          "title": "theft tools, scam detection, and parental controls",
+          "description": "Android 17 adds stronger privacy controls, theft protection, scam detection, parental controls, and developer security features.",
+          "url": "https://www.helpnetsecurity.com/2026/06/17/android-17-security-and-privacy-features/",
+          "source": {
+            "name": "Help Net Security"
+          },
+          "publishedAt": "2026-06-17T10:40:38Z",
+          "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/02/16083000/android-17-1500.webp",
+          "language": "en"
+        },
+        {
+          "title": "\"F*ck her, spit in her face\": BBC's Ashley Cain's shock tweets resurface as broadcaster faces calls to axe him",
+          "description": "Violent, misogynistic tweets from BBC presenter Ashley Cain have resurfaced, as calls to axe the second series of Into the Danger Zone mount. The posts included",
+          "url": "https://uk.news.yahoo.com/f-ck-her-spit-her-104000897.html",
+          "source": {
+            "name": "Yahoo News UK"
+          },
+          "publishedAt": "2026-06-17T10:40:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/cce01811f632f40aa6679e4676b17328ec8b284505d3059c1abdd07282a1478f/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcosmo_633%2Fd72e8cbb7d1bfee00c340ecec1e13ae3",
           "language": "en"
         }
       ]
