@@ -1,10 +1,54 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-18T20:27:25.546Z",
+  "updatedAt": "2026-06-18T22:56:16.432Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "日経平均7万円台突入、「相場の賢人」の戦略が示す有望株選別のヒント ＜株探トップ特集＞",
+          "description": "―急騰と急落を繰り返す株式市場、ＦＲＢ姿勢転換で攻守の手腕が強く問われる局面に―　日経平均株価が７万円台に突入した。ただし、その過程では幾度かの急落と急騰を繰り返すなど、ボラティリティ（価格変動性）の高い相場環境が続いている・・・。",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202606181348",
+          "source": {
+            "name": "株探"
+          },
+          "publishedAt": "2026-06-18T10:30:00Z",
+          "image": "https://async.api.kabutan.jp/og_image?title=%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%877%E4%B8%87%E5%86%86%E5%8F%B0%E7%AA%81%E5%85%A5%E3%80%81%E3%80%8C%E7%9B%B8%E5%A0%B4%E3%81%AE%E8%B3%A2%E4%BA%BA%E3%80%8D%E3%81%AE%E6%88%A6%E7%95%A5%E3%81%8C%E7%A4%BA%E3%81%99%E6%9C%89%E6%9C%9B%E6%A0%AA%E9%81%B8%E5%88%A5%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88%20%EF%BC%9C%E6%A0%AA%E6%8E%A2%E3%83%88%E3%83%83%E3%83%97%E7%89%B9%E9%9B%86%EF%BC%9E",
+          "language": "ja"
+        },
+        {
+          "title": "【皇室典範改正】高市首相の“男系男子”固執は麻生太郎氏の悲願「政界引退の花道にしたいはず」研究者が指摘（女性自身）",
+          "description": "「政府としてしっかりと受け止め、早急に法案策定に取りかかり、できるだけ速やかに骨子案を示せるように取り組む」\n6月11日、皇族数確保策に関する立法府の総意の報告を受けた高市早苗首相（65）はこのよ",
+          "url": "https://news.yahoo.co.jp/articles/f3dc35b085e25d29fa2e9d0c1b568b30d6de831c",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-18T09:40:20Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260618-00000060-jisin-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "東北・関東は今月下旬は「梅雨寒」 関東・東海などは7月にかけて大雨も 1か月予報",
+          "description": "気象庁は今日18日、最新の1か月予報を発表しました。今月末ごろにかけて、北日本や東日本では気温が平年より低く、梅雨寒となりそうです。体調管理に注意してください。また、東日本の太平洋側を中心に降水量が多くなるため、大雨への備えも必要です。",
+          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/06/18/39377.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-06-18T08:51:33Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/393/39377/main/20260618144848/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Apple、「iPhone Air 2」で再挑戦へ--デュアルカメラ搭載で弱点を補強",
+          "description": "Appleが販売不振に陥った超薄型スマートフォン「iPhone Air」の第2世代モデルを来春発売する。最大の弱点とされたシングルカメラを改め、超広角レンズを追加したデュアルカメラを搭載。A20 Proチップによりバッテリー効率も改善する見通しだ。Samsung Electronicsや中国メーカーが超薄型スマホの開発",
+          "url": "https://finance.biggo.jp/news/55081f43-e319-4094-9191-f48000bcceb1",
+          "source": {
+            "name": "finance.biggo.jp"
+          },
+          "publishedAt": "2026-06-18T08:48:24Z",
+          "image": "https://img.biggo.com/sxM7ybRZ7REikbB8pgoqF7-mZ6-PEaG0AMTZtSaYJvM/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA2LzU1MDgxZjQzLWUzMTktNDA5NC05MTkxLWY0ODAwMGJjY2ViMV8xNzgxNzcyODY1X2RlZmF1bHQuanBn.jpg",
+          "language": "ja"
+        },
         {
           "title": "「うるさいのはあなたですよ」寺田心、電車で泣く赤ちゃんにキレる男性を “撃退” も…「美談にしてほしくない」「100:0で正しい」意見さまざま",
           "description": "寺田心が、電車で見せた勇気ある “行動” に注目が集まっている。\n「寺田さんは、『ぼく、正義感が強いタイプで』と、6月16日放送の『上田と女がDEEPに吠える夜』（日本テレビ系）で、電車内での出",
@@ -70,161 +114,117 @@
           "publishedAt": "2026-06-18T05:33:00Z",
           "image": "https://portal.st-img.jp/thumb/683adf83a0479ddd9df97bd4a1798bbd_1781761107_l.jpg",
           "language": "ja"
-        },
-        {
-          "title": "ヨーク・ホールディングス、3年で成長投資1500億円 スーパー改装に400億円上乗せ",
-          "description": "ヨーク・ホールディングス（HD）は18日、事業方針説明会を開いた。2028年度までに食品スーパーなどの新店や既存店改装に成長投資として約1500億円を投じる。当初計画から約400億円上乗せした積極投資でかねて目標とする新規株式公開（IPO）に向けて競争力を高める。「構造改革が完了し、その結果をもとに成長戦略にかじを切る」。同日午前に開いた説明会でヨークHDの石橋誠一郎社長はこう強調した。25年",
-          "url": "https://www.nikkei.com/article/DGXZQOUC1688O0W6A610C2000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-06-18T05:00:00Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3184995018062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.54&fp-y=0.47&h=630&w=1200&s=c23cb7880e587fe8007937aa795d4f58",
-          "language": "ja"
-        },
-        {
-          "title": "〈きょう31歳〉松村北斗「ちょっと気持ち悪いくらいの絆がある」 SixTONESへの思い語る",
-          "description": "SixTONESの松村北斗さんが18日、31歳の誕生日を迎えた。過去によく読まれた松村北斗さんのインタビュー記事を再配信する（「AERA dot．」に2023年7月18日に掲載されたものの再配信で…",
-          "url": "https://dot.asahi.com/articles/-/285435?page=1",
-          "source": {
-            "name": "AERA DIGITAL"
-          },
-          "publishedAt": "2026-06-18T03:30:00Z",
-          "image": "https://aeradot.ismcdn.jp/mwimgs/9/9/1200xm/img_99e5744c01f0ddb1a623af38bd71425221942.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "オランダ訪問中の両陛下が晩さん会に 先の大戦に触れ「永続的な友好親善と協力関係を」 旧日本軍による捕虜経験者の子孫とも会話",
-          "description": "国賓としてオランダを訪問中の天皇皇后両陛下は17日、歓迎の晩餐会に出席され、陛下は友好親善を願う思いを述べられました。国王夫妻主催の晩さん会は、日本時間の早朝、アムステルダムの王宮で行われ、長女で王位継承者のカタリナアマリア王女、ベアトリックス前女王などおよそ200人が出席しました。冒頭、ウィレムアレクサンダー国王はスピーチで長年にわたる両国の交流を振り返り、戦争の歴史について、「陛下と私は戦争の何年も後に生まれた」「過去を充分に認識することで私たちは共通の未来への道を切り開くことができる」と…",
-          "url": "https://www.fnn.jp/articles/-/1061930",
-          "source": {
-            "name": "FNNプライムオンライン"
-          },
-          "publishedAt": "2026-06-18T03:16:59Z",
-          "image": "https://fnn.ismcdn.jp/mwimgs/4/e/600/img_4ee784da529b70c235bd9e885e484797293648.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "SixTONES森本慎太郎、ヘアケアブランドアンバサダー就任 新CMで“妖精”に",
-          "description": "SixTONESの森本慎太郎が、ヘアケアブランド「レチスパ」のブランドアンバサダーに就任。あわせて、森本が出演する新CM「レチスパって何︖」篇が6⽉18⽇よりYouTubeにて公開、7月18日より全国で放映される。",
-          "url": "https://mdpr.jp/news/detail/4800541",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-06-18T03:08:55Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/vJ44/nm/vJ44jCobdHCp_nsUR4i4AaO0TOLHQ4CVE7B4VseT1F0.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Egyptian scientists develop breakthrough PVC biodegradation method, offering new pathway for Africa’s plastic waste challenge",
-          "description": "Researchers at Cairo University have reported a significant advance in plastic waste management after identifying a bacterial consortium capable of degrading",
-          "url": "https://africasustainabilitymatters.com/egyptian-scientists-develop-breakthrough-pvc-biodegradation-method-offering-new-pathway-for-africas-plastic-waste-challenge/",
-          "source": {
-            "name": "Africa Sustainability Matters"
-          },
-          "publishedAt": "2026-06-18T08:26:19Z",
-          "image": "https://africasustainabilitymatters.com/wp-content/uploads/2026/06/fund-kubik-story-hero-20260615-1.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Switzerland vs Bosnia-Herzegovina Prediction: World Cup 2026 Match Preview",
-          "description": "With each Group B side on one point at the FIFA World Cup, we look ahead to Thursday's crucial clash with our Switzerland vs Bosnia-Herzegovina prediction and preview.",
-          "url": "https://theanalyst.com/articles/switzerland-vs-bosnia-herzegovina-prediction-world-cup-2026-match-preview",
-          "source": {
-            "name": "Opta Analyst"
-          },
-          "publishedAt": "2026-06-18T08:25:13Z",
-          "image": "https://theanalyst.com/wp-content/uploads/2026/06/switzerland-v-bosnia-preview.png",
-          "language": "en"
-        },
-        {
-          "title": "'Jumped to save mother': Indian teen dies in New York Central Park after falling from horse carriage",
-          "description": "NRI News: An 18-year-old Indian teenager, Romanch Mahajan died after falling from a horse-drawn carriage in New York's Central Park while trying to save his mot.",
-          "url": "https://timesofindia.indiatimes.com/nri/jumped-to-save-mother-indian-teen-dies-in-new-york-central-park-after-falling-from-horse-carriage/articleshow/131823129.cms",
+          "title": "BTS announces new tour dates on popular demand; shows added to Jakarta and Bulacan",
+          "description": "BTS announces additional 'ARIRANG' tour dates due to high demand, with new concerts set for Jakarta on December 29 and Bulacan on March 16. Fans rejoice as the popular K-pop group extends their world tour, ensuring more opportunities to experience their live performances.",
+          "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/bts-announces-new-tour-dates-on-popular-demand-shows-added-to-jakarta-and-bulacan/articleshow/131827172.cms",
           "source": {
             "name": "The Times of India"
           },
-          "publishedAt": "2026-06-18T08:25:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-131823531,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-06-18T10:56:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-131827172,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Severe storms shift into eastern Ontario, Quebec, risk of heavy rain and winds",
-          "description": "A significant weather system is bringing a severe thunderstorm risk to parts of eastern Ontario and southern Quebec through Thursday",
-          "url": "https://www.theweathernetwork.com/en/news/weather/forecasts/severe-storms-shift-into-eastern-ontario-quebec-risk-of-heavy-rain-and-winds?_guid_iss_=1",
+          "title": "Ken Ofori-Atta’s Immigration Issues Have Sparked Debate Over U.S. Hypocrisy",
+          "description": "The decision by the U . S . immigration judge raises serious questions and, in my view, does a disservice to the American people, It is difficult to understand how Ken Ofori-Atta, who reportedly violated U .",
+          "url": "https://www.modernghana.com/news/1503535/ken-ofori-attas-immigration-issues-have-sparked.html",
           "source": {
-            "name": "The Weather Network"
+            "name": "Modern Ghana"
           },
-          "publishedAt": "2026-06-18T08:25:00Z",
-          "image": "https://images.twnmm.com/c55i45ef3o2a/5WpuYndt8xKyRwcDv7cX1c/fcb566a0e633dc90367cc207e1e3bffe/Baron_-_ONQC_storm_risk_thumbnail_-_June_2026.png?fm=jpg&q=80",
+          "publishedAt": "2026-06-18T10:55:22Z",
+          "image": "https://cdn.modernghana.com/images/content/119202610456-k5grj7u3h1-ken-ofori-atta-copy.png",
           "language": "en"
         },
         {
-          "title": "Ukraine hits Moscow oil refinery for second time this week, Zelensky says 'justified response'",
-          "description": "As videos of the attack gained traction on social media, Zelensky stated that this attack was a “justified response” to recent Russian attacks on Kyiv. | World News",
-          "url": "https://www.hindustantimes.com/world-news/ukraine-hits-moscow-oil-refinery-for-second-time-this-week-zelensky-says-justified-response-russia-attack-video-101781766822360.html",
+          "title": "Why Smart People Fall for Online Scams: 3 Psychological Tricks Cybercriminals Use",
+          "description": "On a regular Monday afternoon, Kwaku Rasta, a graduate of the University of Ghana with a first degree in Psychology, receives a supposed SMS alert from his bank, prompting him to click a link to answer certain questions that will enable the bank to safeguard his accounts .",
+          "url": "https://www.modernghana.com/news/1503496/why-smart-people-fall-for-online-scams-3-psycholo.html",
           "source": {
-            "name": "Hindustan Times"
+            "name": "Modern Ghana"
           },
-          "publishedAt": "2026-06-18T08:24:45Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/06/18/550x309/RUSSIA-UKRAINE-CONFLICT-0_1781766953022_1781766958343_4aa073d6-5b4b-4821-9285-de75f484f4b3.jpg",
+          "publishedAt": "2026-06-18T10:55:22Z",
+          "image": "https://cdn.modernghana.com/images/content/111202153444-0g830n4yyt-online-scams.jpg",
           "language": "en"
         },
         {
-          "title": "Czechia vs South Africa Prediction: World Cup 2026 Match Preview",
-          "description": "Czechia or South Africa could be the first team eliminated from the 2026 World Cup. We look ahead to the match with our preview and prediction.",
-          "url": "https://theanalyst.com/articles/czechia-vs-south-africa-prediction-world-cup-2026-match-preview",
+          "title": "Rain wreaks havoc on most major GTA highways",
+          "description": "Problems persist along major GTA highways as heavy rain contributed to collisions and flooding on roadways on Thursday morning.",
+          "url": "https://www.cp24.com/local/toronto/2026/06/18/traffic-woes-persist-on-gta-highways-after-heavy-rain-wreaked-havoc-on-rush-hour-commuters/",
           "source": {
-            "name": "Opta Analyst"
+            "name": "CP24"
           },
-          "publishedAt": "2026-06-18T08:21:25Z",
-          "image": "https://theanalyst.com/wp-content/uploads/2026/06/czechia-vs-south-africa-match-preview.png",
+          "publishedAt": "2026-06-18T10:54:49Z",
+          "image": "https://www.cp24.com/resizer/v2/LRTK4FTPLNFE3MRO7TTGDWGZDQ.jpg?smart=true&auth=3e5c3fdd9416c5d4f4de2523ce895de26446e09c048d8160da4b8202a433dba2&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Liverpool complete signing of Víctor Muñoz from Osasuna",
-          "description": "Liverpool have completed the signing of Spain international Víctor Muñoz from Osasuna.",
-          "url": "https://www.espn.com/soccer/story/_/id/49104880/liverpool-complete-signing-victor-munoz-osasuna",
+          "title": "Lady Heartbroken after Visiting Alexx Ekubo's House for His Wake",
+          "description": "A lady has taken to social media to share her feeling after visiting Alexx Ekubo's house for his wake-keep. The pained lady could not believe he is actually dead.",
+          "url": "https://www.legit.ng/people/1715095-lady-heartbroken-visiting-alexx-ekubos-house-wake-shares-how-feels/",
           "source": {
-            "name": "ESPN"
+            "name": "Legit.ng"
           },
-          "publishedAt": "2026-06-18T08:21:00Z",
-          "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0618%2Fr1675368_1296x729_16%2D9.jpg",
+          "publishedAt": "2026-06-18T10:54:41Z",
+          "image": "https://cdn.legit.ng/images/1200x675/7e413f5c45a29545.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "'Scared to go to work': Shop assistant tells of customer abuse",
-          "description": "Finnola Tzagorakis shared her story as MPs debated tackling abuse against people in customer facing roles.",
-          "url": "https://www.bbc.com/news/articles/c621v4pmg31o",
+          "title": "Alturos Therapeutics advancement of lead candidate ALT0135, a potentially first-in-class, orally bioavailable small molecule, into IND-enabling studies",
+          "description": "www.alturostx.com",
+          "url": "https://www.manilatimes.net/2026/06/18/tmt-newswire/globenewswire/alturos-therapeutics-advancement-of-lead-candidate-alt0135-a-potentially-first-in-class-orally-bioavailable-small-molecule-into-ind-enabling-studies/2368255",
           "source": {
-            "name": "BBC"
+            "name": "The Manila Times"
           },
-          "publishedAt": "2026-06-18T08:19:57Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6539/live/1c0a4220-6ae7-11f1-a111-df8047375d8f.jpg",
+          "publishedAt": "2026-06-18T10:52:58Z",
+          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/18/1104421.jpg",
           "language": "en"
         },
         {
-          "title": "Gina Rinehart says Australia should give Elon Musk islands to launch satellites into space",
-          "description": "Billionaire also tells summit land could be given to skilled Israelis to build ‘advanced war drones’, according to Hancock Prospecting notes",
-          "url": "https://www.theguardian.com/business/2026/jun/18/gina-rinehart-elon-musk-space-satellites-australia-islands-ntwnfb",
+          "title": "PNP chief hints at anti-hazing violations in Ateneo drowning case",
+          "description": "PNP chief Gen. Jose Melencio Nartatez Jr. said possible violations of Republic Act No. 11053, or the Anti-Hazing...",
+          "url": "https://newsinfo.inquirer.net/2248764/pnp-chief-hints-at-hazing-cases-over-ateneo-drowning-probe",
           "source": {
-            "name": "The Guardian"
+            "name": "Inquirer.net"
           },
-          "publishedAt": "2026-06-18T08:19:00Z",
-          "image": "https://i.guim.co.uk/img/media/667f3f91184732124d1cea1da5549b1a07a1bb4b/311_872_2417_1934/master/2417.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b8873bbcaf183141a10b85e0e2e74131",
+          "publishedAt": "2026-06-18T10:51:00Z",
+          "image": "https://newsinfo.inquirer.net/files/2026/05/nartatez-26may2026.jpg",
           "language": "en"
         },
         {
-          "title": "Delivery system mandatory from July 1",
-          "description": "ARUSHA: THE government has directed all development stakeholders to prepare and register development projects in the electronic e-Delivery system starting July 1 this year as part of efforts to strengthen project management and support implementation of the National Development Vision 2050. The directive aims to ensure that all project information is captured in a single",
-          "url": "https://dailynews.co.tz/e-delivery-system-mandatory-from-july-1/",
+          "title": "Poland: Arrest after Russian artist and Putin critic killed",
+          "description": "Prime Minister Donald Tusk says Lublin police arrested a suspect in the fatal shooting of the Russian national and critical artist known as Semyon Skrepetsky. He said investigators were still seeking a \"mastermind.\"",
+          "url": "https://www.dw.com/en/semyon-skrepetski-suspect-arrested-poland/a-77602774",
           "source": {
-            "name": "dailynews.co.tz"
+            "name": "DW"
           },
-          "publishedAt": "2026-06-18T08:18:58Z",
-          "image": "https://dailynews.co.tz/wp-content/uploads/2026/06/e-government-750x375-1.jpg",
+          "publishedAt": "2026-06-18T10:50:15Z",
+          "image": "https://static.dw.com/image/77573835_6.jpg",
+          "language": "en"
+        },
+        {
+          "title": "GMA returning to Goodwood Festival of Speed with four-car showcase",
+          "description": "Speedy supercar quartet will be headlined by first customer-delivered T.50s Niki Lauda",
+          "url": "https://www.timeslive.co.za/motoring/2026-06-18-gma-returning-to-goodwood-festival-of-speed-with-four-car-showcase/",
+          "source": {
+            "name": "TimesLIVE"
+          },
+          "publishedAt": "2026-06-18T10:49:52Z",
+          "image": "https://www.timeslive.co.za/resizer/v2/7F5ROQ3NWJBJBN7DGID6G4DXMU.jpeg?smart=true&auth=2d2d9b63e76d4ebe9167e5e5e8b825ba90a9ea3d3ff565e494d8f5794b41aeb0&width=1200&height=630",
+          "language": "en"
+        },
+        {
+          "title": "England's 2027 Women's World Cup qualifying path confirmed! Lionesses learn first play-off opponent and potential second round ties after failing to pip Spain to automatic berth",
+          "description": "England will face Greece in the first round of Women's World Cup qualifying play-offs in October, having failed to secure direct entry into the 2027 tournament",
+          "url": "https://www.goal.com/en-qa/lists/england-2027-womens-world-cup-qualifying-path-confirmed-lionesses-learn-play-off-opponents/bltdf4032727dc820f5",
+          "source": {
+            "name": "Goal.com"
+          },
+          "publishedAt": "2026-06-18T10:49:32Z",
+          "image": "https://assets.goal.com/images/v3/blta3dbcf2c78fb9f7f/crop/MM5DGMBQGA5DCNRYHA5G433XMU5DAORRGU3Q====/GettyImages-2280053881.jpg",
           "language": "en"
         }
       ]
