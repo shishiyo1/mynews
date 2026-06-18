@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-18T04:08:00.172Z",
+  "updatedAt": "2026-06-18T10:22:31.117Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "晴れる所も急な雨や雷雨に注意 奄美は土砂災害に警戒 今日6月18日(木)の天気",
+          "description": "今日18日は、梅雨前線の影響で九州は南部を中心に激しい雨が降り、奄美地方は土砂災害に警戒が必要です。四国や中国地方から北海道も、午後は山沿いを中心にザッと雨が降り、雷雨になることもあるでしょう。全国的に蒸し暑く、熱中症対策を心がけてください。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/06/18/39366.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-06-17T22:12:10Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/393/39366/main/20260618061627/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「トイ・ストーリー5」井上和（乃木坂46）＆松井ケムリ（令和ロマン）が新キャラ日本版声優に決定 本編＆特別映像も解禁",
+          "description": "乃木坂46の井上和と令和ロマンの松井ケムリが、ディズニー＆ピクサーの傑作「トイ・ストーリー」シリーズの最新作「トイ・ストーリー5」（7月3日公開）で新キャラクターの日本版声優と務めることが発表された。",
+          "url": "https://mdpr.jp/cinema/detail/4800192",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-06-17T21:00:00Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/97tk/nm/97tkla_SXL6tI5juYytkpf5DRkjAHJBWt3k1fv5JnRk.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
+        {
+          "title": "ダウ平均は反落 ＦＯＭＣが予想以上にタカ派＝米国株概況",
+          "description": "NY株式17日（NY時間16:27）（日本時間05:27）\nダウ平均　　　51492.55（...",
+          "url": "https://s.kabutan.jp/news/n202606180069/",
+          "source": {
+            "name": "株探"
+          },
+          "publishedAt": "2026-06-17T20:38:00Z",
+          "image": "https://async.api.kabutan.jp/og_image?title=%E3%83%80%E3%82%A6%E5%B9%B3%E5%9D%87%E3%81%AF%E5%8F%8D%E8%90%BD%E3%80%80%EF%BC%A6%EF%BC%AF%EF%BC%AD%EF%BC%A3%E3%81%8C%E4%BA%88%E6%83%B3%E4%BB%A5%E4%B8%8A%E3%81%AB%E3%82%BF%E3%82%AB%E6%B4%BE%EF%BC%9D%E7%B1%B3%E5%9B%BD%E6%A0%AA%E6%A6%82%E6%B3%81",
+          "language": "ja"
+        },
+        {
+          "title": "関東は18日の昼頃まで雨 19日は梅雨の晴れ間で内陸は30℃超え 熱中症対策を",
+          "description": "関東で、今日18日の昼頃にかけて南部を中心に雨が降るでしょう。明日19日は梅雨の晴れ間となり、内陸では最高気温30℃以上の真夏日の所が急増しそうです。熱中症対策を心がけてください。",
+          "url": "https://tenki.jp/forecaster/a_aoyama/2026/06/18/39365.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-06-17T20:32:10Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/393/39365/main/20260618051539/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "C・ロナウドは初戦不発…52年ぶり出場のコンゴ民主共和国、ポルトガルに追いつくドローでW杯初ゴール&初勝ち点獲得",
+          "description": "[6.17 W杯K組第1節 ポルトガル 1-1 コンゴ民主共和国]　北中米ワールドカップは17日、K組第1節のポルトガル代表対コンゴ民主共和国代表を開催し、52年ぶり出場のコンゴ民主共和国が1-1の引き分けに持ち込んでW杯...",
+          "url": "https://web.gekisaka.jp/news/worldcup/detail/?453635-453635-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-06-17T18:59:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/454000/453635/news_453635_1.jpg?time=20260618040013",
+          "language": "ja"
+        },
         {
           "title": "「まるで絵画のよう」 松本潤、“誰も見たことのない表情”が周囲ザワつかせてしまう “思い込み裏切る”1枚に「写真であって写真でない」",
           "description": "写真家の鈴木心さんが6月16日にInstagramを更新。5月末でグループ活動を終了した「嵐」の松本潤さんの“誰も見たことのない表情”を捉えた写真が注目を集めています。5月末でグループ活動に幕を下ろした「嵐」（画像は「嵐」公式Instagramから）誰も見たことのない表情　多数の著名人に…",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-06-17T13:00:00Z",
           "image": "https://image.itmedia.co.jp/pcuser/articles/2606/17/cover_news119.jpg",
           "language": "ja"
-        },
-        {
-          "title": "Google、Gemini専用設計の新スマスピ「Google Home スピーカー」を1万6800円で発売へ",
-          "description": "Googleは、新型スマートスピーカー「Google Home スピーカー」の予約受付を開始した。価格は1万6800円。従来の「Googleアシスタント」に代わる音声AIアシスタント「Gemini for Home」を搭載する。高度な自然言語理解や、日本語に対応した「続けて会話」機能など、AI処理に最適化された設計が特徴だ。",
-          "url": "https://www.itmedia.co.jp/news/articles/2606/17/news124.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-06-17T12:41:00Z",
-          "image": "https://image.itmedia.co.jp/news/articles/2606/17/cover_news124.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "逮捕され不起訴の16歳が衰弱死、母親「違法捜査」と国・県を提訴 [兵庫県]：朝日新聞",
-          "description": "昨年12月、摂食障害に陥った兵庫県内の障害者福祉施設の女性従業員（当時16）が、低栄養状態で死亡した。　これらは、生前に受けた兵庫県警と神戸地検の違法な捜査や勾留の影響で発症した精神疾患に起因すると…",
-          "url": "https://www.asahi.com/articles/ASV6K3DYMV6KPIHB009M.html",
-          "source": {
-            "name": "朝日新聞"
-          },
-          "publishedAt": "2026-06-17T12:01:39Z",
-          "image": "https://imgopt.asahi.com/ogp/AS20260617004181_comm.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Switch版『ペルソナ5 ザ・ロイヤル』が7678円→2303円（70％オフ）。アトラス6月PICK UPセール開催中、『メタファー』『ライドウ リマスタード』もお買い得",
-          "description": "アトラスは、ニンテンドーeショップおよびプレイステーションストア（PS Store）にて“6月PICK UPセール”を開催。Nintendo Switch版『ペルソナ5 ザ・ロイヤル』が70％オフに。『メタファー：リファンタジオ』や『RAIDOU Remastered: 超力兵団奇譚』なども対象。",
-          "url": "https://www.famitsu.com/article/202606/78601",
-          "source": {
-            "name": "ファミ通"
-          },
-          "publishedAt": "2026-06-17T12:00:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/78601/thumbnail_AZwF.jpg?x=1280",
-          "language": "ja"
-        },
-        {
-          "title": "「本当はやったんだろう。しょうじきに言え」16歳少女が勾留ノートに記録した「自白の強要」 食事をとることができず飢餓状態になり死亡 ここまできた「人質司法」の実態 母親が国などに賠償求める",
-          "description": "写真に写る16歳の女性。痩せてしまっていますが、その理由は暴行の嫌疑をかけられて18日間に渡って捜査当局に身柄を拘束された精神的ショックを受けたためだとされます。\n女性はその後、低栄養状態となって死亡し、遺族は、「違法な捜査で命を落とした」として、国と兵庫県を訴えました。\n【るなさん（仮名）の母親】「変わり果てた姿となり、娘は命を落としました。教えてほしいです。娘に何が起きて、なぜ逮捕され、勾留され、なぜ命を落とすことになったのか」\n16歳の娘・るなさん（仮名）を亡くした母親は、17日、会見を開きました。兵庫県警と検察が行った「違法な捜査」が原因で娘が死亡したと、涙ながらに訴えました。\n■突如、暴行の疑いで逮捕されたるなさん\nるなさんはなぜ、わずか16年で生涯を終えることになったのか。\n遺族は、この経緯を知ってほしいと亡くなる直前のありのままの姿を公開しました。\n家族で経営していた、兵庫県内の障害者支援施設で働いていたるなさん。家の手伝いだけではなく、一生の仕事にしたいと障害者支援に関する資格も取りました。\n【るなさんの母親】「彼女は障害のある子たちが大好きで、あの子たち（利用者）がいるときの彼女が一番キラキラしてました」\nしかし、その日常はある日を境に一変しました。去年2月、施設で開かれたバレンタインデーのイベント。重度の知的障害がある利用者の女性が、別の利用者に噛みつこうとしたため、るなさんと男性スタッフが止めに入りました。\nこのとき、女性のあごに触れたことが、「虐待ではないか」と参加者の1人から役所に相談があり、2人は4カ月後、突如、暴行の疑いで逮捕されたのです。\n【るなさんの母親】「『暴行疑いがあるので逮捕状が出てます』という話でしたので、急いでこちら（施設）に来たら、もういなかったんです。娘は連れて行かれた後でして」\n■「私は本当にやっていません」次第に食事をとることができなくなったるなさん\n無実を訴えるるなさんに対し、捜査機関は、弁護士以外の外部との面会や手紙などを一切許さない「接見禁止」を請求し、自白を迫ったといいます。\nるなさんが留置場で綴ったノートには…\n【るなさんが留置場で書いたノートより】「あごをすうかいたたいたかきかれました。本当はやったんだろう　しょうじきに言えなど」「私は本当にやっていません」\n孤立した状況の中で続いた取り調べは、るなさんの心身を蝕み、次第に食事をとることができなくなりました。自由を奪われたことによる「拘禁反応」とみられます。\n■るなさんのノートには、いくつも涙で滲んだ痕が…\n弁護人は、家族が面会できるよう「接見禁止」の一部解除を求めましたが、裁判所は認めず、さらにその後、二度にわたり勾留は延長されたのです。\n【取調官（取り調べノートより）】「今言ったら楽になるぞ」「別に施設を潰したいわけじゃないねんお母さんこまらすな」\n【るなさんが留置場で書いたノートより】「何にもしてないのにこんなんになるんですか。自由をかえしてほしいです」「まけません」\nノートには、いくつも涙で滲んだ痕が…\n【るなさんが留置場で書いたノートより】「ママ大好き早くあいたい」「ママと行きたいあいたい自由になりたい」「ママとお出かけずっとしたい　コンビニでもどこでも付いていきたい　世界一ばんじまんの大好きなママ」\nるなさんは、勾留延長のさなか、「脱水症状」で倒れました。その翌日になってようやく不起訴処分に。拘束は、18日間続きました。\n■釈放されたるなさんの姿は変わり果て…\n釈放されたるなさんの姿は、母親が衝撃を受けるほど変わり果てていました。\n【るなさんの母親】「彼女が出てきた時は今でも忘れられないんですけど、逮捕前の姿ではなくて、やせ細った、私の知ってる娘ではなく、抱きしめた時に骨がゴツゴツしてたので」\n釈放後も、食事をとることができず飢餓状態になり、その後PTSD・心的外傷後ストレス障害とも診断されました。\n【るなさんの母親】「『怖い、やめて』ずっと毎日毎日叫んで涙流して、それでも『ここにおる利用者・障害の子たちとは一緒におりたい、頑張りたい』そう言って、ずっと車椅子の上にいながら、病院に助けてもらいながら、過ごしていました」\n体重は20キロと元気だった頃の半分近くまで減り、回復することなく、去年12月、極度の低栄養状態、「るい痩（そう）」で亡くなりました。\n【るなさんの母親】「（釈放されて）娘が出てきた時に、『悪いことしてないから謝ってもらいたい。謝ってもらいたいね』って。それだけ私に最初で最後に言ってくれてたので、ちゃんと事実を認めて、はっきりさせていただきたいと思っています」\n母親が提訴の日に選んだのは、るなさんの逮捕からちょうど1年となる17日でした。\n■警察が事情を聴いたのは虐待を通報した参加者1人のみ\n訴えによると、当時イベントには35人がいたのに、警察が事情を聴いたのは、虐待を通報した知的障害がある参加者1人だけでした。\nその参加者も、るなさんの死亡後に「オーバーに言ってしまった」と謝罪していて、警察が客観的な証拠集めをしなかったと問題視しています。\nさらに、\n・証拠隠滅や逃亡のおそれがないのに逮捕。\n・拘束して自白を迫る、いわゆる「人質司法」。\n・別のスタッフが自供したとウソをついての取り調べ。\nなどを指摘。\n検察と警察を管轄する国と兵庫県に対し、およそ1億円の賠償を求めています。\n【るなさんの母親】「真実を明らかにして、これから生きていく子供たちのためにも、きれいな社会であって欲しいです」\n提訴を受けて、神戸地検は「個別事件の捜査の具体的内容に関わることであり、訴状の送達も受けていない現時点においてコメントは差し控える」とし、兵庫県警も同様の反応でした。\n（関西テレビ「newsランナー」 2026年6月17日放送）",
-          "url": "https://www.ktv.jp/news/articles/?id=27779",
-          "source": {
-            "name": "ktv.jp"
-          },
-          "publishedAt": "2026-06-17T11:26:59Z",
-          "image": "https://www.ktv.jp/news/data/images/27779_01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【台風のたまご=熱帯低気圧】発生か 2つの「反時計回りの渦」日本の南へ 台風情報に今後注意【雨・風シミュレーション28日（日）まで / 全国各都市の週間予報】気象庁予想天気図",
-          "description": "■【台風のたまご=熱帯低気圧】発生か  気象庁予想天気図\n18日（木）の予想天気図に「熱帯低気圧」の予想が出てきました。熱帯低気圧は「台風」に発達することがあるだけでなく、「梅雨前線」を刺激して「",
-          "url": "https://news.yahoo.co.jp/articles/8fcc1d88fd0cba8fe1a3f7fa2ed660c24f83fb5b",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-17T11:00:33Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260617-22739035-mbcnewsv-000-4-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Sustainable IT infrastructure: Research project uses discarded smartphones for data center",
-          "description": "In collaboration with Google, the University of San Diego plans to build a data center using 2,000 old Pixel smartphones. This is intended to demonstrate that old cell phones can be put to good use instead of being stored in drawers.",
-          "url": "https://www.notebookcheck.net/Sustainable-IT-infrastructure-Research-project-uses-discarded-smartphones-for-data-center.1323796.0.html",
+          "title": "World Cup 2026: England 4-2 Croatia - Harry Kane, Jude Bellingham and Marcus Rashford on target as Three Lions make winning start",
+          "description": "Harry Kane struck twice as England overcame two Croatia equalisers with second-half goals from Jude Bellingham and Marcus Rashford to seal a winning start to their World Cup campaign in Dallas; Three Lions top Group L with Ghana next up",
+          "url": "https://www.skysports.com/football/news/32461/13552729/world-cup-2026-england-4-2-croatia-harry-kane-jude-bellingham-and-marcus-rashford-on-target-as-three-lions-make-winning-start",
           "source": {
-            "name": "Notebookcheck"
+            "name": "Sky Sports"
           },
-          "publishedAt": "2026-06-17T16:08:00Z",
-          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/pexels-readymade-3850561.jpg",
+          "publishedAt": "2026-06-17T22:22:04Z",
+          "image": "https://e0.365dm.com/26/06/1600x900/skysports-football-england_7276267.jpg?20260617231629",
           "language": "en"
         },
         {
-          "title": "Chiefs appoint Fernando da Cruz as head coach",
-          "description": "Kaizer Chiefs are pleased to announce the appointment of Fer...",
-          "url": "https://www.kaizerchiefs.com/news/chiefs-appoint-fernando-da-cruz-head-coach",
+          "title": "Pentagon releases the names of 8 people killed in B-52 plane crash at California Air Force base",
+          "description": "A pilot who played the viola. A young dad who just returned to work from paternity leave. A flight test engineer who followed in the footsteps of his father and grandfather.",
+          "url": "https://www.nbcnews.com/news/us-news/pentagon-releases-names-8-people-killed-b-52-plane-crash-california-ai-rcna350478",
           "source": {
-            "name": "Kaizer Chiefs FC"
+            "name": "NBC News"
           },
-          "publishedAt": "2026-06-17T16:07:12Z",
-          "image": "https://kcpub.azureedge.net/storage/uploads/public/6a3/2c4/051/6a32c4051da17310871724.jpeg",
+          "publishedAt": "2026-06-17T22:21:12Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260617-victims-b-52-crash-ch-1319-4e67be.jpg",
           "language": "en"
         },
         {
-          "title": "Ethiopia Hosts Conference on Migration Research for Peacebuilding, Sustainable Development",
-          "description": "Ethiopia has hosted a regional conference aimed at strengthening the role of migration research in shaping policies for peacebuilding and sustainable development\nThe conference, taking place from June 17 to 19, 2026 has brought together policymakers, academics, migration experts, and representatives of universities, government institutions, development partners, and civil society organizations from across the Horn of Africa.\nThemed as “Migration and Forced Displacement Research for Peacebuilding and Sustainable Development in Ethiopia”, the conference is organized by Addis Ababa University in partnership and the Ministry of Education.\nSpeaking at the event, Justice State Minister Belayhun Yirga said that migration presents both opportunities and challenges for Ethiopia and the wider international community.\n \n“For Ethiopia and the world, migration is an opportunity and a responsibility,” he said.\nThe state minister noted that Ethiopian migrants make significant contributions to national development through remittances, investments, entrepreneurship, skills transfer, and transnational networks.\n“When properly governed, migration becomes a powerful driver of economic prosperity and social progress,” he stated.\nHe further warned the dangers associated with irregular migration.\n“Too many of our citizens undertake dangerous journeys through informal routes, exposing themselves to exploitation, trafficking, abuse, detention, psychological trauma and, tragically, loss of life,” the state minister said.\nOpening the conference, State Minister for Higher Education Kora Tushune emphasized the importance of research in informing policy decisions and improving the lives of displaced populations and migrants.\n \n“Research has the power to transform lives,” he said. “A well-designed study can strengthen national policy; a robust evidence base can improve humanitarian responses; thoughtful recommendations can shape legislation.”\n\"As researchers, we need policymakers willing to listen and act. Development partners and civil society must join us to translate knowledge into impact,” Kora said.\nDirector of the African Centre for the Study and Research on Migration at the African Union Commission, Ibrahima Amadou Dia, on his part urged participants to examine forced displacement within the context of evolving geopolitical realities and persistent protection challenges.\n“Forcibly displaced people are not passive victims; they are strategic navigators who pursue mobility, legality and livelihoods despite constrained and often hostile systems,” he added.\n \nDia further stressed that the governance of forced displacement is influenced by legal frameworks, political interests, and the interaction of domestic, regional, and international actors.\nOn behalf of the Acting President of Addis Ababa University, Professor Fikadu Gashaw described the conference as an important platform for bridging academic research and practical solutions.\nCiting global displacement figures, he noted that more than 118 million people are forcibly displaced worldwide, with over 25 million residing in the Middle East and Sub-Saharan Africa.\n“Our ambition is clear: move beyond dialogue to evidence-based recommendations that guide safe, orderly migration and strengthen protections,” he said. “Addis Ababa University intends to serve as a hub for research and solutions.”\nof the United Nations High Commissioner for Human Rights through dialogue, cooperation, mutual respect, and national ownership.\nThe 62nd Session of the UN Human Rights Council is being held in Geneva from June 15 to July 7, 2026.\n \nEthiopia continues to actively participate in the Council’s deliberations while pursuing reforms aimed at building a peaceful, democratic, and prosperous future for all its citizens.",
-          "url": "https://www.ena.et/web/eng/w/eng_9051685",
+          "title": "Kane double fires England past Croatia in World Cup thriller",
+          "description": "Harry Kane scores twice, while Jude Bellingham and Marcus Rashford also net, as England beat Croatia 4-2 in 2026 opener.",
+          "url": "https://www.aljazeera.com/sports/2026/6/17/kane-double-fires-england-past-croatia-in-world-cup-thriller",
           "source": {
-            "name": "ENA English"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-06-17T16:06:21Z",
-          "image": "https://www.ena.et/documents/42142/0/Migration1.jpg/19173e6b-e7a9-251f-a578-3c771d216e4b?version=1.0&t=1781712159687&download=true",
+          "publishedAt": "2026-06-17T22:19:49Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260617__B7G324B__v1__MidRes__FblWc2026Match22EngCro-1781734047.jpg?resize=1200%2C630",
           "language": "en"
         },
         {
-          "title": "India vs Afghanistan, 2nd ODI Highlights: Powered by Gill, Kishan tons, IND thrash AFG by 170 runs to win series",
-          "description": "India vs Afghanistan Highlights, 2nd ODI: Gurnoor Brar and Arshdeep Singh took three wickets each to bowl the Afghans out for 232. Earlier, Shubman Gill and Ishan Kishan scored big centuries to take India to 402. | Cricket",
-          "url": "https://www.hindustantimes.com/cricket/india-vs-afghanistan-live-ind-vs-afg-2-odi-cricket-match-scorecard-shubman-shreyas-hashmatullah-latest-update-today-101781668548450.html",
+          "title": "How Macron won Trump round at the G7. Until the next bust-up.",
+          "description": "The French president snatched an unexpected diplomatic win by securing the U.S. leader’s support for Ukraine in a joint declaration.",
+          "url": "https://www.politico.eu/article/how-macron-cracked-trump-code-g7-decisive-moment-volodymyr-zelenskyy/",
           "source": {
-            "name": "Hindustan Times"
+            "name": "politico.eu"
           },
-          "publishedAt": "2026-06-17T16:05:34Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/06/17/550x309/India-Afghanistan-Cricket-109_1781712372651_1781712397803_82741fd4-07a0-4f98-a7d0-d0755e601825.jpg",
+          "publishedAt": "2026-06-17T22:19:43Z",
+          "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/06/17/GettyImages-2282104565-scaled.jpg",
           "language": "en"
         },
         {
-          "title": "Nations allege 'attacks' on science at key climate talks",
-          "description": "Crucial negotiations ahead of the COP31 summit have been frustrated by a \"small group of fossil fuels interests\" attacking the science of climate change behind closed doors, envoys said Wednesday.",
-          "url": "https://www.france24.com/en/live-news/20260617-nations-allege-attacks-on-science-at-key-climate-talks",
+          "title": "Hudson AI Expert Wins CoLab Future Leaders Fellowship",
+          "description": "Dr Claire Sun from Hudson Institute of Medical Research has been awarded a prestigious Children's Cancer CoLab Mid-Career Researcher Future Leader",
+          "url": "https://www.miragenews.com/hudson-ai-expert-wins-colab-future-leaders-1694478/",
           "source": {
-            "name": "France 24"
+            "name": "Mirage News"
           },
-          "publishedAt": "2026-06-17T16:05:16Z",
-          "image": "https://s.france24.com/media/display/546b8b3c-6a66-11f1-b351-005056bfb2b6/w:1280/p:16x9/1c4161567b8171cbaafe54a195fa860b3a176314.jpg",
+          "publishedAt": "2026-06-17T22:19:00Z",
+          "image": "https://hudson.org.au/wp-content/uploads/2019/07/IMG_1247.jpg",
           "language": "en"
         },
         {
-          "title": "Omisore dedicates political structure to Adeleke's re-election bid",
-          "description": "Iyiola Omisore across Osun State has resolved to stand firmly in support of the re-election bid of Governor Ademola Adeleke.",
-          "url": "https://guardian.ng/news/omisore-dedicates-political-structure-to-adelekes-re-election-bid/",
+          "title": "Harry Kane bags a brace as England open World Cup with 4-2 win over Croatia",
+          "description": "England got their World Cup campaign off to a winning start as they beat Croatia 4-2 on Wednesday thanks to two ‌goals from captain Harry Kane and one apiece from Jude Bellingham and substitute Marcus Rashford.",
+          "url": "https://www.cbc.ca/sports/soccer/worldcup/fifa-world-cup-england-croatia-recap-june-17-9.7238298",
           "source": {
-            "name": "The Guardian Nigeria News"
+            "name": "CBC"
           },
-          "publishedAt": "2026-06-17T16:05:16Z",
-          "image": "https://cdn.guardian.ng/wp-content/uploads/2025/12/Osun-State-Governor-Ademola-Adeleke-1.webp",
+          "publishedAt": "2026-06-17T22:18:39Z",
+          "image": "https://i.cbc.ca/ais/4a085847-953e-448b-b84d-2fdd0f963887,1781734515333/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C38%2C4617%2C2597%29%3BResize%3D620",
           "language": "en"
         },
         {
-          "title": "Former DA leader Steenhuisen becomes first casualty of Hill-Lewis’ Cabinet reshuffle",
-          "description": "John Steenhuisen is set to be replaced by Willie Aucamp, who is currently serving in the Forestry, Fisheries and Environment portfolio.",
-          "url": "https://www.ewn.co.za/2026/06/17/former-da-leader-steenhuisen-becomes-first-casualty-of-hill-lewis-cabinet-reshuffle",
+          "title": "Birch Ave businesses fed up with ‘hoons’ tearing up Tauranga street",
+          "description": "“Hoons” doing burnouts and skidding vehicles on water main covers or fast-food trays are damaging a Tauranga street, a fed-up businessman says. Bryce Cole,...",
+          "url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/birch-ave-businesses-fed-up-with-hoons-tearing-up-tauranga-street/Z6FQCYG7ONFBJM47E2DWGCTWVY/",
           "source": {
-            "name": "EWN"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-06-17T16:04:57Z",
-          "image": "https://media-cache.primedia-service.com/media/wvjas2zn/agriculture-minister-john-steenhuisen.jpeg?width=1200&height=630",
+          "publishedAt": "2026-06-17T22:18:33Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/HC6A3LE3U5EP3NCOUL3VVWHWR4.jpg?auth=4e80c9ba00a84b473ce45b0f28fc40a45bf412c076c59bf8ada6ee5e1fceeb56&width=1200&height=675&quality=70&focal=1010%2C617&smart=false",
           "language": "en"
         },
         {
-          "title": "Nations allege 'attacks' on science at key climate talks",
-          "description": "Crucial negotiations ahead of the COP31 summit have been frustrated by a \"small group of fossil fuels interests\" attacking the science of climate change behind closed doors, envoys said Wednesday.The ...",
-          "url": "https://sg.news.yahoo.com/nations-allege-attacks-science-key-160456567.html",
+          "title": "England beat Croatia 4-2 as Kane scores twice",
+          "description": "England triumphs 4-2 over Croatia in their World Cup opener, with Kane scoring twice and Bellingham and Rashford also netting.",
+          "url": "https://www.thehindu.com/sport/football/england-beat-croatia-4-2-as-kane-scores-twice/article71115540.ece",
           "source": {
-            "name": "Yahoo News Singapore"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-06-17T16:04:56Z",
-          "image": "https://s.yimg.com/os/en/afp.com.sg/981be045ff70bd9eaa317cef0c1b7504",
+          "publishedAt": "2026-06-17T22:18:15Z",
+          "image": "https://th-i.thgim.com/public/incoming/z73386/article71115542.ece/alternates/LANDSCAPE_1200/Croatia_England_WCup_Soccer_18377.jpg",
           "language": "en"
         },
         {
-          "title": "Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator – Opening remarks 2026 ECOSOC Humanitarian Affairs Segment, 17 June 2026 - World",
-          "description": "News and Press Release in English on World about Humanitarian Financing; published on 17 Jun 2026 by OCHA",
-          "url": "https://reliefweb.int/report/world/mr-tom-fletcher-under-secretary-general-humanitarian-affairs-and-emergency-relief-coordinator-opening-remarks-2026-ecosoc-humanitarian-affairs-segment-17-june-2026",
+          "title": "AAU Don Advocates Digital Revolution In Laboratory Medicine, Stronger Investment In Africa’s Diagnostic Systems",
+          "description": "Francis Onoiribholo Professor Felix Okechukwu Emelike, Professor of Haematology and Blood Transfusion Science in the Faculty of Medical Sciences, Ambrose Alli University (AAU), Ekpoma, has called for increased investment in laboratory medicine, digital technologies, and research infrastructure to improve disease diagnosis and healthcare delivery across Africa. Professor Emelike made the call while delivering the University's...",
+          "url": "https://independent.ng/aau-don-advocates-digital-revolution-in-laboratory-medicine-stronger-investment-in-africas-diagnostic-systems/",
           "source": {
-            "name": "ReliefWeb"
+            "name": "Independent Newspaper Nigeria"
           },
-          "publishedAt": "2026-06-17T16:04:52Z",
-          "image": "https://reliefweb.int/modules/custom/reliefweb_meta/images/default.png",
+          "publishedAt": "2026-06-17T22:17:32Z",
+          "image": "https://independent.ng/wp-content/uploads/2026/06/IMG-20260504-WA0052.jpg",
           "language": "en"
         },
         {
-          "title": "Peso weakens anew vs dollar as markets await US",
-          "description": "THE PESO depreciated against the dollar on Wednesday as markets await the final agreement between the United States and Iran. The currency weakened by 7.3 centavos to close at P60.393 versus the greenback from P60.32 on Tuesday, based on Bankers Association of the Philippines data posted on its website. The local unit opened Wednesday’s session […]",
-          "url": "https://bworldonline.com/banking-finance/2026/06/18/757407/peso-weakens-anew-vs-dollar-as-markets-await-us-iran-peace-deal-details/",
+          "title": "US and Iran presidents sign ceasefire agreement, but Trump says he could still resume attacks",
+          "description": "EVIAN-LES-BAINS, France/DUBAI (June 17): The US and Iran released the text of an interim agreement their presidents have signed to end their war on Wednesday, with US President Donald Trump threatening to resume attacks and kill Iranian officials if they failed to honour their commitments.",
+          "url": "https://theedgemalaysia.com/node/807313",
           "source": {
-            "name": "BusinessWorld Online"
+            "name": "The Edge Malaysia"
           },
-          "publishedAt": "2026-06-17T16:04:05Z",
-          "image": "https://bworldonline.com/wp-content/uploads/2022/10/Peso-currency.jpg",
+          "publishedAt": "2026-06-17T22:16:19Z",
+          "image": "https://assets.theedgemarkets.com/TRUMP_REUTERS (CONFIRMED)_1.jpg",
           "language": "en"
         }
       ]
