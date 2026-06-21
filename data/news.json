@@ -1,10 +1,109 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-21T04:21:44.059Z",
+  "updatedAt": "2026-06-21T09:51:50.432Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "ワークマン「980円の冷感シャツ」を36時間着た“正直な感想” 「持続冷感",
+          "description": "6月も後半に入り、日中は30度を超える日も珍しくなくなってきた。\n　少し外を歩くだけで汗ばむ。普通の綿Tシャツでは背中に汗が残り、冷房の利いた店内に入ると、今度は体が急に冷える。夏本番を前に、す",
+          "url": "https://news.yahoo.co.jp/articles/980e0fbfe1b9d90a877874735cdf2696750c97a1",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-20T21:46:14Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260621-00948551-toyo-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【Ｗ杯】久保建英が左膝負傷でチュニジア戦を欠場 代わりのシャドーの先発候補は？",
+          "description": "【Ｗ杯】久保建英が左膝負傷でチュニジア戦を欠場　代わりのシャドーの先発候補は？（スポーツ報知）◆サッカー北中米Ｗ杯▽１次リーグＦ組　日本―チュニジア（２０日・モンテレイ）\n　【モンテレイ（メキシコ）２０日＝…",
+          "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260621-OHT1T51000?redirect=1",
+          "source": {
+            "name": "ｄメニューニュース"
+          },
+          "publishedAt": "2026-06-20T21:30:00Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/picture/hochi/m_hochi-20260621-OHT1T51000.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "小栗旬、松本潤は「すげえ嫌いだった」『ごくせん』から『花男』で変化した思い",
+          "description": "「すげえ嫌いだったんだよね」――21日に放送される日本テレビ系バラエティ番組『メシドラ 兼近＆真之介のグルメドライブ』(22:30～)に、山崎賢人、山田裕貴、小栗旬が出演。山田を救った山崎の一言や、小栗が『ごくせん』『花より男子』で共演した松本潤との青春秘話を語る。",
+          "url": "https://news.mynavi.jp/article/20260621-4607601/",
+          "source": {
+            "name": "マイナビニュース"
+          },
+          "publishedAt": "2026-06-20T21:00:00Z",
+          "image": "https://news.mynavi.jp/article/20260621-4607601/ogp_images/ogp.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "同い年の天皇陛下とベルギー国王 一緒にジョギング、家族ぐるみの仲",
+          "description": "赤坂御用地内をそろってジョギングされた天皇陛下とベルギーのフィリップ国王。お二人に自転車で伴走する皇后雅子さま。今から30年前のエピソードだ。 　同い年の陛下と国王は、若い頃から気兼ねない交流を重ねてきた。陛下は20代で英国に留学していたころ、国王に何度も会う機会があったという。",
+          "url": "https://mainichi.jp/articles/20260615/k00/00m/040/154000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-06-20T21:00:00Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/06/15/20260615k0000m040162000p/0c10.jpg?2",
+          "language": "ja"
+        },
+        {
+          "title": "チュニジアサッカー連盟幹部が告白「新体制で先にオランダと対戦するより、日本と対戦する方がいい。なぜなら日本は…」【W杯現地発コラム】（THE DIGEST）",
+          "description": "日本対チュニジアの試合前、私はチュニジアの記者、そしてサッカー連盟の幹部と話をすることができた。\n　まずは、チュニジアのテレビ局のベテラン記者、ヴゥエドゥネ・マハムッド氏。\n「チュニジアでは、",
+          "url": "https://news.yahoo.co.jp/articles/d532acf108bf0e174e452568524938dee1aa5200",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-20T20:11:20Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260621-00116228-thedigest-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "緊迫する中東情勢：悪夢のような性暴力、地獄の2年間…ハマスの元人質が明かす恐怖",
+          "description": "地下40メートルのトンネルには太陽の光が入ることもない。 　最もつらかったのは性暴力だった。体が凍り付き動かない。「早く終わってくれ」。そう願うしかなかった――。",
+          "url": "https://mainichi.jp/articles/20260617/k00/00m/030/106000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-06-20T20:00:00Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/06/17/20260617k0000m030101000p/0c10.jpg?1",
+          "language": "ja"
+        },
+        {
+          "title": "【W杯】オランダが鮮やかなゴールラッシュでスウェーデンに圧勝！ 伝統のサイドアタックで左右を崩して5得点",
+          "description": "現地時間6月20日に行なわれた北中米ワールドカップのグループステージF組第2節で、オランダとスウェーデンが対戦した。前半の立ち上がりからオランダが武器とするサイドアタックで得点を重ね、一時は4-0と",
+          "url": "https://news.yahoo.co.jp/articles/476cfe4ded99e247f39c5c7958da095daa413a5f",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-20T19:00:39Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260621-00010001-soccerm-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "SUPER EIGHT丸山隆平、半自伝的舞台で主演 幼少期で過ごした京都の記憶がベースに「どんな作品になっていくのかが今から楽しみ」",
+          "description": "ニュース｜　5人組グループ・SUPER EIGHTの丸山隆平が、9月27日から東京グローブ座、11月7日から京都劇場で上演される舞台『water』に主演することが決定した。丸山の記憶の断片を散りばめながら、劇作家・藤田貴大氏の視点で創り上げる半自伝的作品となる。　演劇団体マームとジプシーの主宰を務める藤田氏は、近年ではイタリアの劇場やフェスティバルと連携した国際共同製作作品『Chair／IL POSTO』を手がけ、韓国の国際舞台芸術フェスティバルでの上演やイタリア4都市ツアーを実施するなど、海外でも精力的に活動。演劇作品にとどまらず、児童向け作品、ダンス、文学館や美術館とのコラボレーションなど、多彩な領域で創作活動を展開し続けている。",
+          "url": "https://www.oricon.co.jp/news/2462659/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-06-20T19:00:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2463000/2462659/20260620_153835_p_o_39736699.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【速報】松山英樹は77と崩れ通算11オーバー 久常涼がパーで3日目スタート",
+          "description": "◇メジャー第3戦◇全米オープン 3日目（20日）◇シネコックヒルズGC（ニューヨーク州）◇7440yd（パー70） 4オーバー60位で予選を通過した松山英樹は「77」でムービングデーを終えた。1バーディ、6ボギー1ダブルボギーとスコアを大き",
+          "url": "https://news.golfdigest.co.jp/news/pga/article/192372/1/",
+          "source": {
+            "name": "GDOゴルフニュース"
+          },
+          "publishedAt": "2026-06-20T18:47:00Z",
+          "image": "https://i.gimg.jp/cmsimg/427454.jpg",
+          "language": "ja"
+        },
         {
           "title": "iOS 27 ハンズオン：AI 写真ツール、Wallet のアップグレード、そして新しい Maps 機能が登場",
           "description": "iOS 27 は、WWDC での Siri に関する AI の発表にとどまらず、主要アプリ全体にわたり実用的な改善をもたらす、重要なアップデートとなりそうです。今月初めにリリースされた開発者向けベータ版では、オンデバイスのインテリジェンスを活用した強力な新しい写真編集ツールから、物理カードをついにデジタル化できる Ap",
@@ -15,216 +114,117 @@
           "publishedAt": "2026-06-20T16:21:00Z",
           "image": "https://img.biggo.com/1HbLNC-CTc8t_qrirmLL2mNV-6oVV5sXlhwkuzkIm0E/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA2LzIwMjYwNjIwMTYyMV9pT1NfMjdfSGFuZHMtT25fQUlfUGhvdG9fV2FsbGV0X01hcHNfMjAyNjA2MjFfMDAzMTA2LmpwZw.jpg",
           "language": "ja"
-        },
-        {
-          "title": "【W杯】オランダvsスウェーデンはどちらが勝利すれば日本に有利？",
-          "description": "6月21日に行われるFIFAワールドカップ・グループF組第2戦、オランダ対スウェーデンの結果は日本の決勝トーナメント進出に関係する大一番となる。",
-          "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/world-cup-groupf-standings-situation/bltc85bfeed752a2083",
-          "source": {
-            "name": "Goal.com"
-          },
-          "publishedAt": "2026-06-20T15:55:00Z",
-          "image": "https://assets.goal.com/images/v3/blt5b045413fd730f20/netherlands%20japan%20sweden.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「あかね噺」第2期制作決定！“前座修業篇”2027年1月放送開始 大塚芳忠らキャスト6人発表",
-          "description": "末永裕樹・馬上鷹将原作によるアニメ「あかね噺」第2期が、テレビ朝日系全国24局ネット「IMAnimation」、BS朝日ほかにて2027年1月より放送される。第2期解禁PVと、キャラクターデザイン・総作画監督の田中紀衣によるお祝い色紙も公開...",
-          "url": "https://natalie.mu/comic/news/677123",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-06-20T15:00:00Z",
-          "image": "https://ogre.natalie.mu/media/news/comic/2026/0620/akanebanashi.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
-        },
-        {
-          "title": "イラン「ホルムズ海峡を封鎖」 米・イスラエルが覚書違反と主張",
-          "description": "【ドバイ=浜岳彦、チューリヒ=甲原潤之介】イラン軍の中央司令部は20日、ホルムズ海峡を封鎖すると発表した。イスラエルがレバノン南部への攻撃を続けており、米イランが合意した覚書に違反すると主張した。イランメディアが伝えた。イラン革命防衛隊も同日、「ホルムズ海峡は封鎖され、接近すれば船舶は危険にさらされる」と声明を出した。イラン側はホルムズ再封鎖の理由として①米国が覚書の第1項に明確に違反した②",
-          "url": "https://www.nikkei.com/article/DGXZQOGR202NH0Q6A620C2000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-06-20T14:56:13Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3197005020062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=a1c7916decc52ab97fe4e9c118c0ced9",
-          "language": "ja"
-        },
-        {
-          "title": "冷静な森保一と情熱のルナール 好対照な両指揮官のスタンスが、日本vs.チュニジアを面白くする？",
-          "description": "冷静な森保一と情熱のルナール　好対照な両指揮官のスタンスが、日本vs.チュニジアを面白くする？",
-          "url": "https://sports.yahoo.co.jp/column/detail/2026062000001-spnavi",
-          "source": {
-            "name": "スポーツナビ"
-          },
-          "publishedAt": "2026-06-20T13:18:00Z",
-          "image": "https://sports-pctr.c.yimg.jp/dk/iwiz-sports/text/images/2026/0620/2026062000001-spnavi_1781960256_view.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "超巨大ブラックホールに存在する空洞が「50年来の謎」を解明するかも",
-          "description": "ブラックホールは物質を吸い込むだけでなく、時には物質を吐き出すこともあります。この高エネルギー粒子の噴流は「ブラックホールジェット」と呼ばれ、ブラックホールの周囲に形成される降着円盤と、それが生み出す強力な磁場が関係しているのでは？と考えら",
-          "url": "https://www.gizmodo.jp/article/massive-void-near-milky-ways-black-hole-could-solve-a-50-year-mystery/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-06-20T12:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/06/09/6d73940d-76ba-4791-9d30-4657533e6e32/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "25」に星の材料となる低温ガスを大量に検出 急成長の謎に迫る",
-          "description": "初期宇宙の銀河「REBELS-25」で、星の材料となる冷たい分子ガスを直接検出。131億年前の巨大な回転円盤銀河が、どのように急成長したのかに迫ります",
-          "url": "https://sorae.info/astronomy/20260620-rebels-25.html",
-          "source": {
-            "name": "sorae 宇宙へのポータルサイト"
-          },
-          "publishedAt": "2026-06-20T11:53:41Z",
-          "image": "https://sorae.info/wp-content/uploads/2026/06/rebels-25-nrao-2026-06-18-1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "新幹線足止めされた粗品「勇気振り絞って、命懸け」の東西G3予想！珍しくワイド馬券が…（日刊スポーツ）",
-          "description": "お笑いコンビ「霜降り明星」の粗品（33）が20日、自身のYouTubeチャンネルを更新し、21日の府中牝馬S（芝1800メートル、東京）としらさぎS（芝1600メートル、阪神）の東西G3の予想を公",
-          "url": "https://news.yahoo.co.jp/articles/613d48dbd9ac350aee5463e14958e1bae752d0d5",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-20T11:27:24Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260620-36201738-nksports-000-6-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "《SHINJOの信条》そんなことをさせるわけないし、小久保監督は分かってくれている",
-          "description": "■パ・リーグ１０回戦　ソフトバンク１０－７日本ハム（６月２０日、エスコンフィールド北海道）　試合詳細はコチラ　試合後、取材に応じた新庄剛志監督（５４）の一問一答は以下の通り。【ファイターズの最新...",
-          "url": "https://www.doshinsports.com/article_detail/id=25556",
-          "source": {
-            "name": "道新スポーツ"
-          },
-          "publishedAt": "2026-06-20T10:03:27Z",
-          "image": "https://www.doshinsports.com/files/topics/25556_ext_01_0.png?v=1781950424",
-          "language": "ja"
-        },
-        {
-          "title": "「うまくいかなかったらJDのせい」、バンス氏の危険な賭け イラン和平への取り組み巡り",
-          "description": "（CNN）　米国のバンス副大統領が、イランとの和平合意の顔となるチャンスに飛びついた。合意は数カ月にわたる不人気な戦争に終止符を打つことを目的としているが、バンス氏のこの賭けには大きなリスクが伴うだ",
-          "url": "https://news.yahoo.co.jp/articles/e214d719a8516b7805a12f6ecd42db04ad3f1df5",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-20T10:00:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260620-35249192-cnn-000-1-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "3 Hikers Die at Grand Canyon Amid ‘Dangerous’ High Temperatures",
-          "description": "The hikers died at Grand Canyon National Park in separate episodes as temperatures peaked above 100 degrees, the authorities said.",
-          "url": "https://www.nytimes.com/2026/06/20/us/three-hikers-heat-death-grand-canyon.html",
+          "title": "From 1 To 1000: The Matches That Made History In The FIFA World Cup",
+          "description": "The history of the FIFA World Cup is built with thousands of matches, but some encounters hold a special place: those that represent a symbolic number in the most important tournament in world soccer.",
+          "url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/from-1-to-1000-the-matches-that-made-history-in-the-fifa-world-cup-2026-06-20",
           "source": {
-            "name": "The New York Times"
+            "name": "beIN SPORTS"
           },
-          "publishedAt": "2026-06-20T16:21:05Z",
-          "image": "https://static01.nyt.com/images/2026/06/20/multimedia/20xp-heat1-cblk/20xp-heat1-cblk-facebookJumbo.jpg",
+          "publishedAt": "2026-06-20T21:51:37Z",
+          "image": "https://prod-media.beinsports.com/image/1781991616783_1814f7cd-6e0a-4f7f-882e-a3bce9ca76a4.1080.JPG",
           "language": "en"
         },
         {
-          "title": "Kajiado Maa leaders launch ‘Linda Mali’ initiative ahead of anticipated June 25 protests",
-          "description": "\"We can not allow our property to be destroyed...Those coming to damage our property, be ready...\"",
-          "url": "https://www.the-star.co.ke/news/realtime/2026-06-20-we-will-protect-our-property-kajiado-groups-brace-for-anticipated-protests",
+          "title": "UK PM Keir Starmer expected to announce resignation on Monday: Report",
+          "description": "UK News: British prime minister Keir Starmer is expected to announce his resignation on Monday and outline a timetable for his departure, The Observer reported.",
+          "url": "https://timesofindia.indiatimes.com/world/uk/uk-pm-keir-starmer-expected-to-announce-resignation-on-monday-report/articleshow/131883084.cms",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-06-20T16:20:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/06/552e2a7e-93c9-4fd4-a133-c66e7c647538.jpg?1781974691449",
+          "publishedAt": "2026-06-20T21:50:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-131883085,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Entrepreneurship training opens new opportunities for Namtumbo residents",
-          "description": "The project is implemented by Cooperative Paesi Emergenti (COPE) and targets 5,720 beneficiaries, including 400 households, 60 companies, four public institutions and two training institutions...",
-          "url": "https://www.thecitizen.co.tz/tanzania/news/national/entrepreneurship-training-opens-new-opportunities-for-namtumbo-residents-5503408",
-          "source": {
-            "name": "thecitizen.co.tz"
-          },
-          "publishedAt": "2026-06-20T16:19:13Z",
-          "image": "https://www.thecitizen.co.tz/resource/image/5503410/landscape_ratio3x2/1200/800/dfb9c937108147a78c104df034dadcae/oq/joliga-1.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
-          "description": "In a statement on Instagram, Meloni said Trump's \"constant, unprovoked attacks\" were \"senseless\".",
-          "url": "https://www.the-star.co.ke/news/world/2026-06-20-meloni-tells-trump-to-focus-on-your-own-popularity-as-row-escalates",
-          "source": {
-            "name": "the-star.co.ke"
-          },
-          "publishedAt": "2026-06-20T16:19:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/06/16bb48b6-3eb0-4a38-b4e5-720b2fd4ae5a.jpg?1781982083669",
-          "language": "en"
-        },
-        {
-          "title": "Murder investigation launched after boy, 17, killed in suspected stabbing",
-          "description": "Officers were called to reports of a stabbing after a “potential altercation” on Glycena Road in the early hours of Saturday morning. | ITV News London",
-          "url": "https://www.itv.com/news/london/2026-06-20/murder-investigation-launched-after-boy-17-killed-in-suspected-stabbing",
+          "title": "Edinburgh attack suspect appears motivated by ‘anti-Muslim hatred’, PM says",
+          "description": "A video appeared to show a topless man on the ground shouting that he is \"protecting the country\" as he is held by an officer. | ITV National News",
+          "url": "https://www.itv.com/news/2026-06-20/counter-terrorism-police-involved-after-five-injured-in-edinburgh-incidents",
           "source": {
             "name": "ITVX"
           },
-          "publishedAt": "2026-06-20T16:17:28Z",
-          "image": "https://images.ctfassets.net/pjshm78m9jt4/3JqKBxfcLP57qgS5l3JeGZ/e07ea1dbf325789e26ac234eb0359d31/PA-7212065.jpg?fm=jpg&fit=fill&w=1600&h=900&q=80",
+          "publishedAt": "2026-06-20T21:48:52Z",
+          "image": "https://images.ctfassets.net/pjshm78m9jt4/FjBJkO7VDSLz1J1gcY8qW/c7f35157b41984ffc64406109ce24672/01KVJD8D5M4D6WGHTHATXFCFYK.jpg?fm=jpg&fit=fill&w=1600&h=900&q=80",
           "language": "en"
         },
         {
-          "title": "Michael Gallagher, Carolina, Buncrana, (formerly 13 Castle Park, Buncrana)",
-          "description": "The death has taken place in Letterkenny University Hospital of Michael Gallagher, Carolina, Buncrana F93 D3TC, (formerly 13 Castle Park, Buncrana) Deeply saddened by his passing are his wife Geraldine and family Mark (Anne-Marie) Emily (Shane) and Rory; grandchildren Eva, Tara, Noah, Erin, Tess & Bobby. Michael will be deeply missed by his siblings Liam, […]",
-          "url": "https://highlandradio.com/obituaries_test/michael-gallagher-carolina-buncrana-formerly-13-castle-park-buncrana/",
+          "title": "FIM Appeal Stewards uphold ruling on Bezzecchi",
+          "description": "Aprilia Racing’s appeal to the FIM MotoGP Appeal Stewards has been denied",
+          "url": "https://www.motogp.com/en/news/2026/06/20/fim-appeal-stewards-uphold-ruling-on-bezzecchi/1074497",
           "source": {
-            "name": "Highland Radio"
+            "name": "motogp.com"
           },
-          "publishedAt": "2026-06-20T16:16:03Z",
-          "image": "https://highlandradio.com/wp-content/uploads/2026/06/late-Michael-Gallagher.png",
+          "publishedAt": "2026-06-20T21:45:52Z",
+          "image": "https://resources.motogp.pulselive.com/photo-resources/2026/05/28/eb9fa47d-ff5d-4cd0-8883-058c69c606a5/LGZ_2647.jpg?width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "EThekwini mayor reports nearly 4,000 Malawians deported ahead of immigration 'deadline'",
-          "description": "With the June 30 anti-immigration deadline looming, eThekwini mayor Cyril Xaba reports that nearly 4,000 Malawian nationals have already been deported from South Africa.",
-          "url": "https://iol.co.za/news/2026-06-20-ethekwini-mayor-reports-nearly-4000-malawians-deported-ahead-of-immigration-deadline/",
+          "title": "US Open live updates: McIlroy’s challenge fades, Scheffler charges on day three",
+          "description": "Follow all the action from Shinnecock Hills in New York",
+          "url": "https://www.irishtimes.com/sport/golf/2026/06/20/us-open-live-updates-rory-mcilroy-aims-to-chase-down-leaders-on-day-three/",
           "source": {
-            "name": "IOL"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-06-20T16:14:59Z",
-          "image": "https://iol-prod.appspot.com/image/5113c37d70d4c40be23af2b168370b3abf13b7eb/1000/jpeg",
+          "publishedAt": "2026-06-20T21:45:00Z",
+          "image": "https://www.irishtimes.com/resizer/v2/QK6JKS6OEXO6V5DBGHUZ2YTA6I.jpg?smart=true&auth=da028bd5e8678c2b0cab98ffa0c2ab7324e269b7a24de37e9280207ad8c0582a&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Pope in Pavia: \"The city is both a gift and a task\"",
-          "description": "During his pastoral visit to Pavia, Pope Leo urges citizens to take responsibility for the common good, describing the city as both a gift and a task. ...",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-06/pope-leo-xiv-in-pavia-i-care-about-our-city.html",
+          "title": "Ubisoft co-founder Claude Guillemot killed in plane crash in France",
+          "description": "The twin-motor Cessna 421 carrying Guillemot and a flight instructor crashed Friday evening near La Baule airport",
+          "url": "https://www.theglobeandmail.com/world/article-ubisoft-co-founder-claude-guillemot-killed-in-plane-crash-in-france/",
           "source": {
-            "name": "Vatican News"
+            "name": "The Globe and Mail"
           },
-          "publishedAt": "2026-06-20T16:14:03Z",
-          "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/20/2026-06-20-visita-pastorale-a-pavia---basilica-di-san-pietro-in-/1781968260398.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
+          "publishedAt": "2026-06-20T21:44:56Z",
+          "image": "https://www.theglobeandmail.com/resizer/v2/BMCYO3ICKNHT5IYOJRF5UPFIIM.jpg?auth=7db09c1ad6b540dd822d86bb27587bb3e09a2c9f17f8155f25ce47ba3d794642&width=1200&height=800&quality=80&smart=true",
           "language": "en"
         },
         {
-          "title": "PH, US forces complete military exercise in WPS",
-          "description": "THE Armed Forces of the Philippines (AFP) and the United States Indo-Pacific Command have completed a six-day Bilateral Maritime Cooperative Activity (MCA) in the West Philippine Sea (WPS), further strengthening maritime cooperation between the two allies.",
-          "url": "https://www.manilatimes.net/2026/06/21/news/national/ph-us-forces-complete-military-exercise-in-wps/2369425",
+          "title": "#EkitiDecides2026: Monitoring Group Demands Probe Of Pre-Thumbprinted Ballots, Vote-Buying, Imported Voters",
+          "description": "The Movement for Credible Elections (MCE) has called for an immediate investigation into allegations of vote-buying, pre-thumbprinted ballot papers, importation of voters, and the distribution of uncollected Permanent Voter Cards (PVCs) during the ongoing Ekiti State governorship election. The group, in a statement issued on Saturday and signed by the Head of its National Secretariat, Olawale Okunniyi, warned that the reported incidents threaten the integrity of the electoral process.",
+          "url": "https://saharareporters.com/2026/06/20/ekitidecides2026-monitoring-group-demands-probe-pre-thumbprinted-ballots-vote-buying",
           "source": {
-            "name": "The Manila Times"
+            "name": "Sahara Reporters"
           },
-          "publishedAt": "2026-06-20T16:13:59Z",
-          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/20/1106930.jpg",
+          "publishedAt": "2026-06-20T21:43:27Z",
+          "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
           "language": "en"
         },
         {
-          "title": "Port of Keta draws interest from 42 investors after EPA approval",
-          "description": "The proposed Port of Keta has attracted interest from 42 local and international companies as Ghana advances the project from the planning stage into investor engagement following environmental clearance. The Director-General of the Ghana Ports and Harbours Authority (GPHA), Major General Paul Seidu-Tenye Kulono, disclosed that the strong response follows the issuance of an Environmental Impact Assessment (EIA) certificate by the Environmental Protection Authority (EPA), which removes",
-          "url": "https://www.modernghana.com/news/1504064/port-of-keta-draws-interest-from-42-investors-afte.html",
+          "title": "Teenager killed in incident during Donegal International Rally",
+          "description": "Organisers confirm cancellation of remainder of event after male youth dies and other spectators injured",
+          "url": "https://www.irishtimes.com/ireland/2026/06/20/teenager-killed-in-incident-during-donegal-international-rally/",
           "source": {
-            "name": "Modern Ghana"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-06-20T16:12:18Z",
-          "image": "https://cdn.modernghana.com/images/content/619202693606-uapctgfsrm-619202691429-keta-port.jpg",
+          "publishedAt": "2026-06-20T21:41:21Z",
+          "image": "https://www.irishtimes.com/resizer/v2/PHMTYZZN5FFZ7JCQ2Z54ER26AE.jpg?smart=true&auth=c0bb1ba48fef1f3234730e37b658ecfcf3e4a0fd05082eef8bcbc263819cc5ee&width=1200&height=630",
+          "language": "en"
+        },
+        {
+          "title": "US-Iran Talks Revived As Vance Heads To Switzerland For High-Stakes Push",
+          "description": "After briefly appearing to falter, US-Iran implementation talks are back on track, with senior American and Iranian delegations converging on Switzerland for what could prove a decisive phase in turning a fragile wartime memorandum into a broader political settlement.",
+          "url": "https://www.rferl.org/a/iran-burgenstock-ceasefire-vance-witkoff-kushner-araqchi/33785268.html",
+          "source": {
+            "name": "Radio Free Europe/Radio Liberty"
+          },
+          "publishedAt": "2026-06-20T21:39:53Z",
+          "image": "https://gdb.rferl.org/a57005df-9b5a-402e-b442-e8fe398e7f78_cx0_cy6_cw0_w1200_h630.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Sandro Tonali: Newcastle reject Spurs bid of about £80m",
+          "description": "Newcastle United reject a bid from Tottenham Hotspur for midfielder Sandro Tonali of about £80m.",
+          "url": "https://www.bbc.com/sport/football/articles/cy4en7q3j77o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-06-20T21:39:47Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0a43/live/79fdf6b0-6cea-11f1-b961-db0ce038568c.jpg",
           "language": "en"
         }
       ]
