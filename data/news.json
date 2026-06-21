@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-21T19:43:41.628Z",
+  "updatedAt": "2026-06-21T22:15:35.253Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【巨人】橋上監督代行「締めくくりをしっかりできなかったのはこちらの反省」ミス絡み逆転負け…一問一答",
+          "description": "巨人が逆転負けを喫し、交流戦明け最初のカードを負け越しスタートとなった。",
+          "url": "https://hochi.news/articles/20260621-OHT1T51389.html",
+          "source": {
+            "name": "スポーツ報知"
+          },
+          "publishedAt": "2026-06-21T09:29:00Z",
+          "image": "https://hochi.news/images/2026/06/21/20260621-OHT1I51592-C.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「すでに負け戦」の声も 天敵少ない絶海の楽園で外来種が拡散",
+          "description": "小笠原諸島（東京都）が世界自然遺産への登録が決まって24日で15年。絶海の島で育まれた世界に類を見ない固有の生態系が魅力だが、その存続は危ぶまれている。深刻化する外来種への対策は「すでに負け戦」との声も。未来に遺産を引き継げるのか。課題を探った。",
+          "url": "https://mainichi.jp/articles/20260621/k00/00m/040/115000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-06-21T09:01:00Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/06/21/20260621k0000m040137000p/0c10.jpg?1",
+          "language": "ja"
+        },
+        {
+          "title": "劇場版「TOKYO MER」新作に小手伸也、フォンチー、伊藤淳史が出演 博多＆仙台MERとして出動",
+          "description": "鈴木亮平主演の劇場版「TOKYO MER～走る緊急救命室～CAPITAL CRISIS」に小手伸也、フォンチー、伊藤淳史が出演。小手とフォンチーは博多MER、伊藤は仙台MERのメンバーとしてシリーズに帰ってくる。",
+          "url": "https://natalie.mu/eiga/news/677095",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-06-21T09:00:00Z",
+          "image": "https://ogre.natalie.mu/media/news/eiga/2026/0620/tokyomer_20260620_02.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
+        {
+          "title": "台風7号は25日～26日頃に沖縄に接近 関東などへの影響は?",
+          "description": "台風7号は今日21日午後3時現在、フィリピンの東を発達しながら西よりに進んでいます。25日～26日頃には沖縄に接近して、雨や風が強まる恐れがあります。また、台風の北側の梅雨前線が刺激されると関東～九州などでも雨量が増える可能性があります。今後の情報に十分ご注意ください。",
+          "url": "https://tenki.jp/forecaster/m_kimura/2026/06/21/39411.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-06-21T08:49:24Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/394/39411/main/20260621164543/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "スマホはiPhone一択ではなくなった。Androidに乗り換えてよかったこと",
+          "description": "2026年4月4日の記事を編集して再掲載しています。脱iPhone。なんて大げさに言うほどのことではないですけど、2025年11月にスマホをiPhoneからAndroidに乗り換えました。選んだのはモトローラrazr 50。すでに後継機種も",
+          "url": "https://www.gizmodo.jp/article/iphone12mini-to-razr50-hmx/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-06-21T08:35:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/02/27/260226_razr_17.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "イ・ミニョンがツアー史上最大の逆転V 史上最長タイ7ホール・プレーオフの死闘制す",
+          "description": "◇国内女子◇ニチレイレディス 最終目（21日）◇袖ヶ浦CC・新袖C（千葉）◇6590yd（パー72）◇曇り（観衆2942人） イ・ミニョン（韓国）が大逆転でツアー通算8勝目を手にした。7打差を追ってツアー自己ベスト「63」をマークして通算1",
+          "url": "https://news.golfdigest.co.jp/news/results/jlpga/article/192383/1/",
+          "source": {
+            "name": "GDOゴルフニュース"
+          },
+          "publishedAt": "2026-06-21T08:27:49Z",
+          "image": "https://i.gimg.jp/cmsimg/427570.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "パリ在住の杏「今年も猛暑です」「約40℃ クーラーなし」 猛暑を過ごす近況を自筆イラストで公開「学校も休校になりました」",
+          "description": "3児の母で、フランス・パリと東京で2拠点生活を送り俳優活動を行う杏（40）が20日、自身のインスタグラムを更新。パリで猛暑を迎えていることを報告し、近況を自筆のイラストで伝えた。【画像6枚】「学校も休校になりました」自筆イラストでパリの“猛暑”を報告した杏杏は「暑いよーーーーーーーーー!!!!!学校も休校になりました」とのコメントとともに、複数枚のイラストを投稿。「パリ 今年も猛暑です 約40℃ クーラーなし アッパッパ着て床に寝るの図」と汗をかきながら横たわっている自身の姿や、「気仙沼 17…",
+          "url": "https://www.toonippo.co.jp/articles/-/2300489",
+          "source": {
+            "name": "東奥日報社"
+          },
+          "publishedAt": "2026-06-21T07:56:31Z",
+          "image": "https://toonippo.ismcdn.jp/mwimgs/d/7/1200wm/img_d74afd6be3fa9fa7f87208054e59639b93586.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "首位通過には得失点差も大事だが…森保監督、スウェーデンとの最終戦は「まず勝つことが目標」",
+          "description": "[6.20 W杯F組第2節 日本 4-0 チュニジア モンテレイ]　2試合を終えて勝ち点4でオランダと並ぶと、直接対決の結果、得失点差でも差がつかず、総得点の差で2位となった。日本代表はグループリーグ最終戦のスウェー...",
+          "url": "https://web.gekisaka.jp/news/japan/detail/?453888-453888-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-06-21T07:55:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/454000/453888/news_453888_1.jpg?time=20260621174014",
+          "language": "ja"
+        },
         {
           "title": "梅雨の見通しと梅雨明け予想 6月下旬は梅雨の最盛期 7月中旬には続々と梅雨明けか",
           "description": "今日21日(日)、気象庁は東北北部が「梅雨入りしたとみられる」と発表。これで梅雨のない北海道を除き、全ての地方で梅雨入りとなりました。6月下旬は梅雨前線が本州付近に停滞しやすく、九州から東北で大雨となる恐れがあります。7月前半も梅雨空の日が多くなるでしょう。7月中旬には九州から関東甲信で続々と梅雨明けとなる可能性があります。",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-06-21T07:06:18Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260621-22746116-jnn-000-3-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "」メインビジュアル公開、久保帯人が主題歌にコメント（コメントあり）",
-          "description": "久保帯人原作によるTVアニメ「BLEACH 千年血戦篇-禍進譚-」の最終第4クール「BLEACH 千年血戦篇-禍進譚-」が、7月25日よりテレ東系列ほかにて放送されることが決定。併せてメインビジュアル、主題歌情報、久保のコメントなどが一挙に...",
-          "url": "https://natalie.mu/comic/news/677157",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-06-21T07:00:00Z",
-          "image": "https://ogre.natalie.mu/media/news/comic/2026/0621/BLEACH_kashintan_KV.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
-        },
-        {
-          "title": "千鳥がたくろう・きむらバンドを東京のバラエティに間に合わせる",
-          "description": "本日6月21日（日）深夜配信の「チャンスの時間」（ABEMA）で、たくろう・きむらバンドの魅力を深掘りする特別企画「きむらバンドが間に合わない」が展開される。「M-1グランプリ2025」優勝後、相方の赤木のキャラクターに注目が集まっ...",
-          "url": "https://natalie.mu/owarai/news/677149",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-06-21T07:00:00Z",
-          "image": "https://ogre.natalie.mu/media/news/owarai/2026/0621/chance_05.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
-        },
-        {
-          "title": "鎌田が2戦連発! 伊東&上田がW杯初ゴール! 森保Jがチュニジア4発完封で“鬼門”突破",
-          "description": "[6.20 W杯F組第2節 日本 4-0 チュニジア モンテレイ]　日本代表は20日、北中米ワールドカップのグループリーグ第2節でチュニジア代表と対戦し、4-0で勝利した。前半4分にMF鎌田大地が2試合連続ゴールで先制点...",
-          "url": "https://web.gekisaka.jp/news/japan/detail/?453873-453873-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-06-21T05:55:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/454000/453873/news_453873_1.jpg?time=20260621151807",
-          "language": "ja"
-        },
-        {
-          "title": "『ソニックマニア』が90％オフの194円。『Mass Effect Legendary Edition』は『Mass Effect』3作セットなのに92％オフで696円。今週の高割引率PCゲーム",
-          "description": "本稿ではSteamにてこの1週間でセールが開始されたタイトルのうち、特に割引率の高いゲームに焦点を当てて紹介する。",
-          "url": "https://automaton-media.com/articles/newsjp/steam-20260621-450878/",
-          "source": {
-            "name": "AUTOMATON"
-          },
-          "publishedAt": "2026-06-21T05:33:03Z",
-          "image": "https://automaton-media.com/wp-content/uploads/2026/06/steam-20260621-450878-header.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "クアルコムが空間コンピューティング向け新チップ「Snapdragon Reality Elite」発表、XREALが採用第1号に",
-          "description": "クアルコムが6月17日、XR向け新プラットフォーム「Snapdragon Reality Elite」を発表した。最大48TOPSのオンデバイスAI処理能力を持ち、GPU性能は従来比最大60％向上。第1弾製品としてXREALの空間コンピューティンググラス「AURA」が年内発売予定で、約24万円以下、日本でも予約受付中だ",
-          "url": "https://finance.biggo.jp/news/7eb220b8-1747-48e6-b89c-6822f1c228a0",
-          "source": {
-            "name": "finance.biggo.jp"
-          },
-          "publishedAt": "2026-06-21T05:05:00Z",
-          "image": "https://img.biggo.com/HY5ACjXI9Jl11k8gsPlYmPjsyj4Le2tX3Ff1TGmtbsA/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA2LzdlYjIyMGI4LTE3NDctNDhlNi1iODljLTY4MjJmMWMyMjhhMF8xNzgyMDE4NjY5X2RlZmF1bHQuanBn.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「よすぎて2本買いました」「コスパがよすぎないか」 ワークマンの“1500円パンツ”が大好評 「履きやすくて機能性もバツグン」「洗濯してもすぐ乾く」",
-          "description": "ワークマンから販売されている「コットンライクストレッチパンツ」が、抜群の機能性と履きやすさ、洗濯してもすぐ乾く扱いやすさと、1500円という低価格で高評価を集めています。　本記事では、「コットンライクストレッチパンツ」について紹介します！「コットンライクストレッチパンツ」とは？画像：…",
-          "url": "https://nlab.itmedia.co.jp/research/articles/3887309/",
-          "source": {
-            "name": "ねとらぼ"
-          },
-          "publishedAt": "2026-06-21T04:20:00Z",
-          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/12/1764644729_fd0b65f87b0449e9df7d08b4f373b101-scaled.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Androidのバッテリー持ちが良くなった。私がオフにした初期設定4つ",
-          "description": "「重いアプリを使っているわけでも、スマホが古いわけでもないのに、なぜか夕方にはバッテリーがピンチ……」そんな経験はありませんか？実はAndroidスマホのバッテリーを奪っている犯人は私たちが気づかないところで静かに動き続けている「標準設定」かもしれません。",
-          "url": "https://www.lifehacker.jp/article/2606android-settings-that-are-silently-draining-your-battery-right-now/",
-          "source": {
-            "name": "ライフハッカー・ジャパン"
-          },
-          "publishedAt": "2026-06-21T04:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/02/24/b15f5334-be72-41d9-94d9-57318730e2e1/original.png?w=1200&h=630&f=jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『田鎖ブラザーズ』骨太ドラマだと思っていたのに…結局、何がやりたかったの？ 最終話で視聴者が抱いたモヤモヤの正体【ネタバレあり】",
-          "description": "骨太な良質ドラマとして人気を博していた岡田将生と染谷将太がダブル主演する『田鎖ブラザーズ』（TBS系）。\n　6月19日（金）放送の第10話で物語は幕を下ろしたが、その終わり方に賛否両論が巻き起こ",
-          "url": "https://news.yahoo.co.jp/articles/6d4f9b1de1c709e6ea8d29ac2c62f12c0d67eb9d",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-21T03:50:50Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260621-00000021-flash-000-1-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Life in orbit: Busy schedule for China's Shenzhou-23 at space station",
-          "description": "While people on Earth enjoy the Dragon Boat Festival holiday, China's Shenzhen-23 crew – Zhu Yangzhu, Zhang Zhiyuan and Li Jiaying (also known as Lai Ka-ying) – remain busy working at the space station at an altitude of more than 400 kilometers.",
-          "url": "https://news.cgtn.com/news/2026-06-21/Life-in-orbit-Busy-schedule-for-China-s-Shenzhou-23-at-space-station-1O9EOdxBK7e/p.html",
+          "title": "GTA 6 Price Fears Spike as Leaked FNAC SKUs Show €90 Base and €119.99 Premium Edition Days Before Pre-Orders Open",
+          "description": "Leaked FNAC SKUs show GTA 6 priced at €90 for the base edition and €119.99 for a Premium tier, days before pre-orders open on June 25.",
+          "url": "https://wccftech.com/gta-6-price-leak-fnac-90-euros-premium-edition/",
           "source": {
-            "name": "news.cgtn.com"
+            "name": "Wccftech"
           },
-          "publishedAt": "2026-06-21T07:43:34Z",
-          "image": "https://news.cgtn.com/news/2026-06-21/Life-in-orbit-Busy-schedule-for-China-s-Shenzhou-23-at-space-station-1O9EOdxBK7e/img/aa02189f824b4f239deed0775b7c78e7/aa02189f824b4f239deed0775b7c78e7.gif",
+          "publishedAt": "2026-06-21T10:15:00Z",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/gta-6-cover-1920x1080.jpg",
           "language": "en"
         },
         {
-          "title": "Vance arrives in Switzerland for US-Iran talks",
-          "description": "Both nations seek a durable end to their war as Iran slams Israeli attacks on Lebanon as violations of interim deal.",
-          "url": "https://www.aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks",
+          "title": "Court orders URA staff to pay colleague Shs100m over WhatsApp defamation",
+          "description": "Jjengo sued, arguing that the statements falsely portrayed him as a criminal, a violent individual, and an immoral person",
+          "url": "https://www.monitor.co.ug/uganda/news/national/court-orders-ura-staff-to-pay-colleague-shs100m-over-whatsapp-defamation-5503840",
           "source": {
-            "name": "Al Jazeera"
+            "name": "Daily Monitor"
           },
-          "publishedAt": "2026-06-21T07:43:20Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/14085964-1782025940.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-06-21T10:14:46Z",
+          "image": "https://www.monitor.co.ug/resource/blob/5503902/c4890fc7db1c0645c3f0092eb77622af/ura-data.jpg",
           "language": "en"
         },
         {
-          "title": "Wa East educational, healthcare workers elated over free reading glasses initiative",
-          "description": "By Philip Tengzu, GNA  Funsi, (UW/R), June 20, GNA – Educational and healthcare workers in the Wa East District have expressed excitement about a free reading glasses initiative, which aims…",
-          "url": "https://gna.org.gh/2026/06/wa-east-educational-healthcare-workers-elated-over-free-reading-glasses-initiative/",
+          "title": "Expelled MK Party heavyweights Duduzile Zuma-Sambudla and Nhlamulo Ndlela set to break silence",
+          "description": "Despite being the daughter of party leader Jacob Zuma, Zuma-Sambudla, alongside Ndlela, was given the boot last week for alleged gross misconduct.",
+          "url": "https://www.ewn.co.za/expelled-mk-party-heavyweights-duduzile-zuma-sambudla-and-nhlamulo-ndlela-set-to-break-silence/",
           "source": {
-            "name": "Ghana News Agency"
+            "name": "EWN"
           },
-          "publishedAt": "2026-06-21T07:42:18Z",
-          "image": "https://gna.org.gh/web/wp-content/uploads/2026/06/Social-Improving-Productivity-Wa-East1a.jpeg",
+          "publishedAt": "2026-06-21T10:14:23Z",
+          "image": "https://media-cache.primedia-service.com/media/efcpfv2b/duduzile-zuma-sambudla-afp.jpg?width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Youth Harvest Foundation calls for stronger stakeholder coordination to address SGBV",
-          "description": "By Anthony Adongo Apubeo, GNA  Bolgatanga, June 20, GNA – The Youth Harvest Foundation Ghana, a youth-focused advocacy organisation, has called for strengthened coordination and collaboration among institutions involved…",
-          "url": "https://gna.org.gh/2026/06/youth-harvest-foundation-calls-for-stronger-stakeholder-coordination-to-address-sgbv/",
+          "title": "AWDC Holds First Sale of Artisanal Diamonds from Congo",
+          "description": "AWDC offered artisanally mined rough from the Democratic Republic of Congo (DRC) for the first time through a new program called OrigemA.",
+          "url": "https://rapaport.com/news/awdc-holds-first-sale-of-artisanal-diamonds-from-congo/",
           "source": {
-            "name": "Ghana News Agency"
+            "name": "Rapaport"
           },
-          "publishedAt": "2026-06-21T07:41:48Z",
-          "image": "https://gna.org.gh/web/wp-content/uploads/2026/06/Social-Stakeholder-Collaboration1b.jpg",
+          "publishedAt": "2026-06-21T10:13:27Z",
+          "image": "https://rapaport.com/wp-content/uploads/2026/06/1280-Rough-diamonds-being-sorted-as-part-of-the-OrigemA-project.-Antwerp-World-Diamond-Centre-20260621095633.jpg",
           "language": "en"
         },
         {
-          "title": "Hong Kong a ‘strategic adaptation ground’ for mainland Chinese tech giants: Paul Chan",
-          "description": "Finance chief reflects on recent trip to Shanghai and Nanjing, saying mainland firms increasingly view Hong Kong as platform for global expansion.",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3357818/hong-kong-strategic-adaptation-ground-mainland-chinese-tech-giants-paul-chan",
+          "title": "When our own songs need permission from Hamburg",
+          "description": "DAR ES SALAAM: THERE is something both funny and faintly alarming about hearing an old Tanzanian song, feeling the dust of Dar es Salaam, Morogoro, Tanga, or Tabora rise from it, recognising the guitars, the brass, the Kiswahili poetry, the dance-floor and sweat of another age. And then discovering that before you can hear the",
+          "url": "https://dailynews.co.tz/when-our-own-songs-need-permission-from-hamburg/",
           "source": {
-            "name": "South China Morning Post"
+            "name": "dailynews.co.tz"
           },
-          "publishedAt": "2026-06-21T07:41:13Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/21/d7cac195-c287-4c66-8be9-53d03c45aeaa_79afd367.jpg?itok=iikUiHTD&v=1782027667",
+          "publishedAt": "2026-06-21T10:13:23Z",
+          "image": "https://dailynews.co.tz/wp-content/uploads/2026/06/MICHUZZI-1024x576.png",
           "language": "en"
         },
         {
-          "title": "Mateus Fernandes: Man United reach agreement over personal terms",
-          "description": "Manchester United are closing in on their second signing of the summer. United have already reached a total agreement with Atalanta for the services of Ederson. In a recent interview, the Brazil midf...",
-          "url": "https://ca.sports.yahoo.com/news/mateus-fernandes-man-united-reach-074000574.html",
+          "title": "AMMA Shewtha Menon Resignation",
+          "description": "Massive showdown in AMMA! President Shweta Menon tenders resignation at the General Body meet",
+          "url": "https://www.mathrubhumi.com/movies-music/news/actress-shweta-menon-resigns-amma-association-president-post-controversy-kochi-meeting-bphkhn0o",
           "source": {
-            "name": "Yahoo Sports Canada"
+            "name": "Mathrubhumi"
           },
-          "publishedAt": "2026-06-21T07:40:00Z",
-          "image": "https://s.yimg.com/os/en/the_peoples_person_articles_356/7af8c53ed64f1f881aa0d0b09c593f49",
+          "publishedAt": "2026-06-21T10:12:07Z",
+          "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1rxr4al7m07xf324e48/0/shwetha-menon-jpg.jpeg?f=16%3A9&w=1200&q=0.75",
           "language": "en"
         },
         {
-          "title": "Mateus Fernandes: Man United reach agreement over personal terms",
-          "description": "Manchester United are closing in on their second signing of the summer. United have already reached a total agreement with Atalanta for the services of Ederson. In a recent interview, the Brazil midf...",
-          "url": "https://sports.yahoo.com/articles/mateus-fernandes-man-united-reach-074000574.html",
+          "title": "Eloy Room spent last year training alone. Now he’s Curacao’s World Cup hero",
+          "description": "Room's 15 saves against Ecuador is the stuff of dreams, as is the journey to this point for him and Curacao",
+          "url": "https://www.nytimes.com/athletic/7380053/2026/06/21/eloy-room-curacao-world-cup/",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "The New York Times"
           },
-          "publishedAt": "2026-06-21T07:40:00Z",
-          "image": "https://s.yimg.com/os/en/the_peoples_person_articles_356/7af8c53ed64f1f881aa0d0b09c593f49",
+          "publishedAt": "2026-06-21T10:11:39Z",
+          "image": "https://static01.nyt.com/athletic/uploads/wp/2026/06/21032748/GettyImages-2282562460-scaled.jpg?width=1200&height=630&fit=cover",
           "language": "en"
         },
         {
-          "title": "School caretaker retires after 25 years",
-          "description": "The highlight of his time in the school was, as he put simply, “the calibre of student\"",
-          "url": "https://www.roscommonherald.ie/news/school-caretaker-retires-after-25-years_arid-102443.html",
+          "title": "Congress makes strong pitch for making right to vote a fundamental right",
+          "description": "Congress urges elevating the right to vote to a fundamental right for enhanced judicial protection against voter suppression and disqualifications.",
+          "url": "https://www.thehindu.com/news/national/congress-makes-strong-pitch-for-making-right-to-vote-a-fundamental-right/article71128983.ece",
           "source": {
-            "name": "roscommonherald.ie"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-06-21T07:40:00Z",
-          "image": "https://www.roscommonherald.ie/cms_media/module_img/7711/3855505_5_articledetail_GOL_6409_Fotor.jpg",
+          "publishedAt": "2026-06-21T10:11:39Z",
+          "image": "https://th-i.thgim.com/public/incoming/z71b6u/article71129007.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiG91G0BBCC.3.jpg.jpg",
           "language": "en"
         },
         {
-          "title": "Officer Woos denies Broda Shaggi's death, threatens legal ac",
-          "description": "Officer Woos denies announcing Broda Shaggi's death and other false claims, threatening legal action against those spreading the malicious rumours.",
-          "url": "https://punchng.com/comedian-officer-woos-denies-announcing-broda-shaggis-death-threatens-legal-action/",
+          "title": "In photos: Limerick student Aideen Howard crowned Miss Universe Ireland 2026",
+          "description": "Aideen, 22, will go on to represent Ireland at the much-anticipated Miss Universe 2026 final",
+          "url": "https://www.irishmirror.ie/news/irish-news/gallery/photos-limerick-student-aideen-howard-37326442",
           "source": {
-            "name": "Punch Newspapers"
+            "name": "Irish Mirror"
           },
-          "publishedAt": "2026-06-21T07:38:29Z",
-          "image": "https://punchng.com/wp-content/uploads/2026/06/Woos-and-Broda-Shaggi.webp",
+          "publishedAt": "2026-06-21T10:09:04Z",
+          "image": "https://i2-prod.irishmirror.ie/incoming/article37326452.ece/ALTERNATES/s1200/1_Miss-Universe-Ireland-Final-2026-13.jpg",
           "language": "en"
         },
         {
-          "title": "First Case Of H5N1 Bird Flu In Australia Has Been Confirmed",
-          "description": "H5N1 Bird Flu virus has devastated wildlife populations in other continents, and this could be the start of a long push to protect Australian birds and wildlife in Australia.",
-          "url": "https://www.deccanchronicle.com/lifestyle/environment/h5n1-bird-flu-in-australia-to-affect-its-wildliffe-1965144",
+          "title": "University of Wollongong Announces PhD Scholarship on Gender",
+          "description": "The University of Wollongong (UOW) has announced a funded PhD scholarship opportunity focused on gender-based violence in the context of work, with particular",
+          "url": "https://www.globalsouthopportunities.com/2026/06/21/gender-24/",
           "source": {
-            "name": "Deccan Chronicle"
+            "name": "Global South Opportunities"
           },
-          "publishedAt": "2026-06-21T07:38:10Z",
-          "image": "https://www.deccanchronicle.com/h-upload/2026/06/21/2054282-seabird.jpg",
+          "publishedAt": "2026-06-21T10:08:09Z",
+          "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/06/uow-logo.png",
           "language": "en"
         }
       ]
