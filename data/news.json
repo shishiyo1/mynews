@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-25T14:35:08.816Z",
+  "updatedAt": "2026-06-25T17:12:21.109Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "本日発売！ 学園RPG『Villion:Code』岡田耕始氏 企画プロデュースの最新作！ イリヤ・クブシノブ氏による発売記念イラストも公開！",
-          "description": "アイディアファクトリー株式会社のプレスリリース（2026年6月25日 11時30分）本日発売！ 学園RPG『Villion:Code』岡田耕始氏 企画プロデュースの最新作！ イリヤ・クブシノブ氏による発売記念イラストも公開！",
-          "url": "https://prtimes.jp/main/html/rd/p/000001047.000080401.html",
+          "title": "『GTA6』は『GTA: VC』ネタが豊富だと話題に。過去作思わせる、ベルセッティ邸から入手したクラシックなスコープ付きリボルバーなど登場",
+          "description": "パッケージ左上のヘリは『グランド・セフト・オート・バイスシティ』が初出の「Sea Sparrow」か。",
+          "url": "https://www.gamespark.jp/article/2026/06/25/168422.html",
           "source": {
-            "name": "PR TIMES"
+            "name": "gamespark.jp"
           },
-          "publishedAt": "2026-06-25T02:30:01Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/80401/1047/80401-1047-3a23aad964bc2fc7378a3591ffc9bcca-1100x960.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "publishedAt": "2026-06-25T05:00:03Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1150108.jpg",
           "language": "ja"
         },
         {
-          "title": "5分の動画素材を25分で生成。話題のワールドモデル「HappyOyster」を軸にしたMV制作の新潮流（CloseBox）",
-          "description": "Claude作家の黒戸寓吾が創作したSFショートショート「至高の歌」をテーマにした楽曲のAIミュージックビデオを作りました。作詞：黒戸寓吾、補作詞：松尾公也、作曲：Suno、歌唱：妻音源とりちゃん。映像素材はHappy Oysterです。",
-          "url": "https://www.techno-edge.net/article/2026/06/25/5222.html",
+          "title": "国立映画アーカイブが映画遺産を守るためクラウドファンディング開始、目標金額は1億円（写真10枚）",
+          "description": "東京・国立映画アーカイブが、活動の安定的な継続と将来への発展を目指すクラウドファンディングプロジェクトを本日6月25日にスタートした。目標金額は1億円。集まった支援金は、映画や関連資料の収集・保存・修復・復元、上映や展示...",
+          "url": "https://natalie.mu/eiga/news/677670",
           "source": {
-            "name": "テクノエッジ TechnoEdge"
+            "name": "ナタリー"
           },
-          "publishedAt": "2026-06-25T02:09:43Z",
-          "image": "https://www.techno-edge.net/imgs/ogp_f/32546.png",
+          "publishedAt": "2026-06-25T04:59:00Z",
+          "image": "https://ogre.natalie.mu/media/news/eiga/2026/0625/DSC_5205.jpg?impolicy=twitter_card_face_crop",
           "language": "ja"
         },
         {
-          "title": "Keychronと共同開発した左右分割キーボード「Keychron Orca echo」、支援総額3億円を突破し、ギズマート歴代最高額を更新",
-          "description": "TNLメディアジーン（NASDAQ：TNMG）のグループ会社、株式会社メディアジーンが運営するギズモード・ジャ",
-          "url": "https://www.mediagene.co.jp/2026/06/19886.html",
-          "source": {
-            "name": "メディアジーン"
-          },
-          "publishedAt": "2026-06-25T02:01:18Z",
-          "image": "https://www.mediagene.co.jp/wp-content/uploads/2026/06/20260625releaseTOP.png",
-          "language": "ja"
-        },
-        {
-          "title": "自衛隊以外にも感染USB ネット通販・工場・研究所など社会に拡散",
-          "description": "陸上自衛隊がウイルス感染に気づかず中国製USBメモリーを使い続けていた。リスクは自衛隊だけにとどまらず一般社会にも及ぶ。日本経済新聞がネット通販大手の口コミを調べると、ウイルス混入が疑われる報告が日米で少なくとも25件あった。セキュリティーが厳しい工場や研究所の設備でも感染が確認されている。日本経済新聞は読者や企業とも連携しながら、経済・社会問題の解決策を探る「問題解決ジャーナリズム」に取り組みます。調査報道の新シリーズ「テック社会の罠（わな）」はその第1弾です。情報をnikkeidic@nex.nikkei.co.jpにお寄せください。「偽装メモリー、トロイのウイルス入り最悪」",
-          "url": "https://www.nikkei.com/article/DGXZQOCD0801W0Y6A500C2000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-06-25T02:00:00Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3174332016062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=5965bbfbe55542f5ae19e2de2b643e61",
-          "language": "ja"
-        },
-        {
-          "title": "「全色買ってしまいました」 GUの“1490円上品Tシャツ”が大人気 「さらっとしていて肌触りもよい」「シルエットも完璧」「オフィスコーデにもカジュアルにも◎」",
-          "description": "GUから販売されている“1490円上品Tシャツ”が、着心地が良くシルエットもきれいで、仕事でもプライベートでも使えると人気を集めています。　本記事では、そんな「ウォッシャブルニットT（5分袖）」について紹介します。「ウォッシャブルニットT（5分袖）」とは？画像：GU　GUの「…",
-          "url": "https://nlab.itmedia.co.jp/research/articles/3892410/",
-          "source": {
-            "name": "ねとらぼ"
-          },
-          "publishedAt": "2026-06-25T02:00:00Z",
-          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/06/1782124370_1752492285_GU1-scaled.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ここ1週間の地震情報 今日25日の朝は青森県で最大震度6強 日頃から備えを",
-          "description": "ここ1週間(6月18日10時00分～25日10時00分)で発生した地震は34回で、そのうち最大震度3以上の地震は3回でした。今日25日には青森県で震度6強を観測しています。地震は突然やってきます。日頃の備えを今一度、見直しておきましょう。",
-          "url": "https://tenki.jp/forecaster/y_nakagawa/2026/06/25/39465.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-06-25T01:34:15Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/394/39465/main/20260625102348/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ダブル台風と梅雨前線 九州～関東で大雨・暴風警戒 最接近や雨・風のピークはいつ?",
-          "description": "台風7号は26日(金)にかけて暴風域を伴って沖縄や奄美を直撃し、27日(土)には九州から関東に接近するおそれがあります。台風8号は27日(土)に低気圧に変わり、東日本に近づく予想です。また西日本や東日本に延びる梅雨前線の活動が活発で、台風接近前から九州から関東で大雨となるでしょう。各地の大雨や暴風の警戒期間をまとめました。",
-          "url": "https://tenki.jp/forecaster/t_yoshida/2026/06/25/39461.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-06-25T01:24:54Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/394/39461/main/20260625073445/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "北陸地方 台風の影響は山間部で大雨に注意とその後の天気は",
-          "description": "台風7号と8号が日本列島に近づいています。北陸地方への直接の影響は少ない見通しですが、梅雨前線が刺激されることによる大雨に注意が必要です。台風後の天気についても説明します。",
-          "url": "https://tenki.jp/forecaster/h_aoym/2026/06/25/39464.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-06-25T01:18:35Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/394/39464/ogp/20260625101541/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "日本と当たる可能性も…対戦希望訊かれた首位通過・ブラジルメンバー「好ましい相手はいない」「W杯はいつだってタフ」",
-          "description": "[6.24 W杯C組第3節 スコットランド 0-3 ブラジル]　ブラジル代表はC組首位通過を果たし、決勝トーナメント1回戦でF組2位と対戦することが決まった。GL最終戦を終えた選手たちは一様に「好ましい相手はいない」と...",
-          "url": "https://web.gekisaka.jp/news/worldcup/detail/?454167-454167-fl",
+          "title": "エースFWソン・フンミンを先発外…衝撃の決断を下したホン・ミョンボ監督が理由を明かす",
+          "description": "[6.24 W杯A組第3節 南アフリカ 1-0 韓国]　痛恨の敗戦で3位に転落し、自力での決勝トーナメント進出を逃した韓国代表のホン・ミョンボ監督は「残念な結果となったのは監督としての私の責任だ」と試合後に語った。...",
+          "url": "https://web.gekisaka.jp/news/worldcup/detail/?454195-454195-fl",
           "source": {
             "name": "gekisaka.jp"
           },
-          "publishedAt": "2026-06-25T00:46:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/455000/454167/news_454167_1.jpg?time=20260625094650",
+          "publishedAt": "2026-06-25T04:32:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/455000/454195/news_454195_1.jpg?time=20260625133624",
           "language": "ja"
         },
         {
-          "title": "日本代表の進路とモロッコ代表への注目（Yahoo!ニュース オリジナル THE PAGE）",
-          "description": "サッカーW杯決勝トーナメント初戦の対戦相手として、モロッコ代表やブラジル代表が有力視されていることについて、Yahoo!ニュースのコメント欄で話題になっています。\nコメントでは、グループリーグの順位",
-          "url": "https://news.yahoo.co.jp/articles/1d97c7a5b85275391795452e706f86c0ca7e8fbf",
+          "title": "【速報中】ベネズエラでM7超の地震が2回発生 少なくとも32人死亡、700人以上負傷",
+          "description": "日本時間の24日午前7時4分、ベネズエラの首都カラカスから西におよそ200キロ離れたサンフェリペ近くでマグニチュード7.2の地震が起きました。そのおよそ40秒後には、さらに数キロ離れた場所でマグニチ",
+          "url": "https://news.tv-asahi.co.jp/news_international/articles/900193654.html",
           "source": {
-            "name": "Yahoo!ニュース"
+            "name": "テレ朝NEWS"
           },
-          "publishedAt": "2026-06-25T00:18:02Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260625-00000005-wordleafai-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-06-25T04:20:00Z",
+          "image": "https://news.tv-asahi.co.jp/articles_img/900193654_1200.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『GTA6』パッケージ版は“ディスクなし”。海外ユーザーから「それは物理版なのか」「地図が入っていれば」「リーク対策？」など様々な声",
+          "description": "『GTA6』のパッケージ版はディスクを廃止し、ダウンロードコードのみの封入となるため、物理版購入者から戸惑いの声が上がっています。",
+          "url": "https://www.gamespark.jp/article/2026/06/25/168421.html",
+          "source": {
+            "name": "gamespark.jp"
+          },
+          "publishedAt": "2026-06-25T04:15:02Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1150080.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "元AKB48花田藍衣、ラジオ番組降板へ 文化放送が発表「諸般の事情により」",
+          "description": "文化放送は6月25日、ラジオ番組「AKB48伊藤百花と花田藍衣のひと“花”咲かせたいっ！」（毎週水曜深夜1時～）に関するお知らせを掲載。6月23日にAKB48を契約解除となった花田藍衣が降板することを伝えた。",
+          "url": "https://mdpr.jp/news/detail/4804173",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-06-25T03:47:42Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/M27B/wm/M27BKTyR7cGjDCkEdagdxs0e1lzqfm6Fa_QsUJwY2ZM.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
+        {
+          "title": "Netflix「THE ONE PIECE」ティザー予告。ワンピース第1話から再アニメ化、'27年2月",
+          "description": "マンガ「ONE PIECE」を「東の海(イーストブルー)編」第1話から再びアニメ化する新シリーズ「THE ONE PIECE」の世界初となるティザー予告映像が公開された。日本語版のモンキー・D・ルフィ役は田中真弓が担当する。",
+          "url": "https://av.watch.impress.co.jp/docs/news/2119944.html",
+          "source": {
+            "name": "AV Watch"
+          },
+          "publishedAt": "2026-06-25T03:47:08Z",
+          "image": "https://av.watch.impress.co.jp/img/avw/list/2119/944/main.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「テレ東音楽祭 2026初夏」出演アーティスト第3弾を発表！新人アナウンサー2名がデビュー！",
+          "description": "テレ東では、6月28日（日）夜6時30分から「テレ東音楽祭 2026夏」を放送します。【動画】「テレ東音楽祭 2026夏」お気に入り登録はこちら！2014年の放送開始から今回で16回目を迎える「テレ東音楽祭」。今年は、こ…",
+          "url": "https://www.tv-tokyo.co.jp/plus/entertainment/entry/202606/19451.html",
+          "source": {
+            "name": "tv-tokyo.co.jp"
+          },
+          "publishedAt": "2026-06-25T03:33:45Z",
+          "image": "https://tv-tokyo.imgix.net/txcms/media/plus_content/db/95/ea0a4d8f5fef6957dbf6980db497.jpg?auto=format,compress",
+          "language": "ja"
+        },
+        {
+          "title": "『ワンピース』ルフィ役の代わりいない 71歳の田中真弓が新作アニメ続投で本人は不安も…制作側がオファー",
+          "description": "ニュース｜　人気アニメ『ONE PIECE』の新作アニメシリーズ『THE ONE PIECE』（ザ・ワンピース）のキャスト情報が発表された。日本語版のモンキー・D・ルフィ役は田中真弓（71）が担当し、現在放送中のテレビアニメ版から続投する。田中は「この年齢で新たにスタートするのは少し不安もありましたが…」と年齢から不安を感じつつも、今回のキャスティングは、製作陣からの熱いラブコールに応える形で実現したもので、ルフィ役は田中しか考えられない制作陣の本音が見えた。　2027年2月よりNetflixにて世界配信される『THE ONE PIECE』は、原作漫画1話「東の海（イーストブルー）編」から完全新作映像で再アニメ化するもので、制作は現在のテレビアニメを手がける東映アニメーションからWIT STUDIOとなり、新たなアニメーションチームで制作。　25年以上続く現在のテレビアニメシリーズとは別ラインで、現代ならではの映像表現を追求し、ルフィたちの冒険を“懐かしくも新しい”形で描き出し、シーズン１では原作漫画50話分を描き、ルフィが海上レストラン「バラティエ」の副料理長・サンジと出会うまでの物語を全7話で一挙配信、総尺約300分にて制作される。　出演キャストが今回初めて発表され、1999年から放送されているテレビアニメ版からルフィ役を務めている田中は「モンキー・D・ルフィ役の田中真弓です。またまた、ルフィとして『THE ONE PIECE』という新しいシリーズに参加できて嬉しいです。この年齢で新たにスタートするのは少し不安もありましたが、実際にやってみたら新たな発見もありましたし、新たな気持ちでルフィを演じることができました」と心境。ルフィ役を27年間演じている田中が、『ワンピース』の新作アニメでもルフィ役を務める。　テレビアニメ『ワンピース』と言えば、2025年4月に主要キャラ・フランキー役が約20年演じた矢尾一樹から木村昴へ交代。具体的な矢尾の降板理由は明らかにされていないが、矢尾は自身のXにて「悲しい別れが来てしまった　四半世紀近く共に人生を歩んできたヤツとの別れが…幽体離脱とでも云うのか、俺の理想としてるフランキーとの間に溝が出来てしまった…ので俺が一旦サニー号を降りる事にした。悔しい！哀しい！」と説明。",
+          "url": "https://www.oricon.co.jp/news/2463559/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-06-25T03:20:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2464000/2463559/20260624_214733_p_o_77240967.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "韓国が痛恨敗戦で3位転落…先発外れたソン・フンミンを後半投入もゴール奪えず、初白星の南アフリカが逆転2位突破!!",
+          "description": "[6.24 W杯A組第3節 南アフリカ 1-0 韓国]　北中米W杯は現地時間24日、A組第3節の南アフリカ代表対韓国代表を行い、南アフリカが1-0の完封勝利を収めた。今大会初白星を獲得した南アフリカは4位から2位に順位を...",
+          "url": "https://web.gekisaka.jp/news/worldcup/detail/?454180-454180-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-06-25T02:57:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/455000/454180/news_454180_1.jpg?time=20260625123142",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "First human bladder transplant patient thrives one year after surgery",
-          "description": "One year after the first human bladder transplant, the patient is thriving and the UCLA Health surgeon who performed the operation already has completed a second successful bladder transplant, laying a solid path for a field of surgery that until now has not been feasible.",
-          "url": "https://www.news-medical.net/news/20260624/First-human-bladder-transplant-patient-thrives-one-year-after-surgery-(.aspx",
+          "title": "Govt agrees to give powers to Parliament in public prosecutor appointment process",
+          "description": "The government has agreed to give Parliament a formal role in the appointment process of the public prosecutor as recommended by a parliamentary committee.",
+          "url": "https://theedgemalaysia.com/node/808234",
           "source": {
-            "name": "News-Medical"
+            "name": "The Edge Malaysia"
           },
-          "publishedAt": "2026-06-25T02:34:00Z",
-          "image": "https://www.news-medical.net/image-handler/picture/2014/7/Catheter-620x480.jpg",
+          "publishedAt": "2026-06-25T05:12:05Z",
+          "image": "https://assets.theedgemarkets.com/25azalina_20260625130819.jpg",
           "language": "en"
         },
         {
-          "title": "Cocktail 2 Box Office: Shahid Kapoor, Kriti Sanon, and Rashmika Mandanna starrer nets Rs 4.50 crore on Day 6, hits Rs 60 crore mark",
-          "description": "Based on current trends, the Shahid Kapoor movie will cross the lifetime cume of Cocktail, which opened with Rs. 10.50 crore in 2012 and went on to smash over Rs. 74.50 crore nett. However, that will hardly matter.",
-          "url": "https://www.pinkvilla.com/entertainment/box-office/cocktail-2-box-office-shahid-kapoor-kriti-sanon-and-rashmika-mandanna-starrer-nets-rs-4-50-crore-on-day-6-hits-rs-60-crore-mark-1403929",
+          "title": "Trials of two Ebola treatments to start in DRC next week: WHO",
+          "description": "The WHO is launching clinical trials in the DRC for two experimental drugs to combat a growing outbreak of the rare Bundibugyo Ebola strain.",
+          "url": "https://www.jacarandafm.com/news/news/trials-of-two-ebola-treatments-to-start-in-drc/",
           "source": {
-            "name": "Pinkvilla"
+            "name": "Jacaranda FM"
           },
-          "publishedAt": "2026-06-25T02:31:02Z",
-          "image": "https://www.pinkvilla.com/images/2026-06/1639259630_cocktail-2-_2_.webp",
+          "publishedAt": "2026-06-25T05:11:00Z",
+          "image": "https://turntable.kagiso.io/images/AFP__20260530__B4H28AD__v1__HighRes__DrcongoHe.width-400.jpg",
           "language": "en"
         },
         {
-          "title": "Facebook wants to be every content creator's AI sidekick",
-          "description": "Meta is bringing back Facebook Creator Studio, reintroducing the platform as an AI-powered companion app designed to help creators grow their audiences, manage communities and streamline content workflows.",
-          "url": "https://www.marketing-interactive.com/facebook-wants-to-be-every-content-creator-s-ai-sidekick",
+          "title": "Pesa Users Can Increase Fuliza Limits, Avoid Reductions",
+          "description": "Safaricom has explained how M-Pesa users can increase Fuliza limits and avoid reductions. The telco shared tips that can help customers improve Fuliza eligibility.",
+          "url": "https://www.tuko.co.ke/business-economy/money/630645-safaricom-explains-how-m-pesa-users-increase-fuliza-limits-avoid-reductions/",
           "source": {
-            "name": "Marketing-Interactive"
+            "name": "Tuko News"
           },
-          "publishedAt": "2026-06-25T02:30:44Z",
-          "image": "https://marketing-interactive-assets.b-cdn.net/article_images/facebook-wants-to-be-every-content-maker-s-ai-sidekick/1782354220_facebook%20%281%29.jpg",
+          "publishedAt": "2026-06-25T05:09:13Z",
+          "image": "https://cdn.tuko.co.ke/images/1200x675/626397677c1f5d40.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "Is Cricket more global than Football? One has more people, the other more countries",
-          "description": "Football News: NEW DELHI: There is an exhausting rhythm to summer in the sub-continent. The heat hits you like a wall the moment you step outside, and, more often th.",
-          "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/is-cricket-more-global-than-football-one-has-more-people-the-other-more-countries/articleshow/131971292.cms",
+          "title": "Wellington's Tākina venue to display LEGO Star Wars: The Exhibition",
+          "description": "A new exhibition at Wellington's Tākina venue is set to transport Lego and Star Wars fans to a galaxy far far away.",
+          "url": "https://www.rnz.co.nz/news/regions/621210/wellington-s-takina-venue-to-display-lego-star-wars-the-exhibition",
           "source": {
-            "name": "The Times of India"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-06-25T02:30:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-131971785,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-06-25T05:09:03Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--W0_tnUeW--/t_tohu-badge-facebook/f_auto/q_auto/4JMHHL5_260625_LEGO_Star_Wars_7_jpg",
           "language": "en"
         },
         {
-          "title": "Netflix Moves Adult Animation Back Under Head Of Comedy Tracey Pakosta",
-          "description": "Netflix is realigning its comedy series operation, bringing adult animation under Tracey Pakosta, the streamer's VP, Comedy Original Series.",
-          "url": "https://deadline.com/2026/06/netflix-adult-animation-restructuring-tracey-pakosta-comedy-1236966707/",
+          "title": "Ododo hails Tinubu’s security investment in Kogi",
+          "description": "The Nation Newspaper Ododo hails Tinubu’s security investment in Kogi",
+          "url": "https://thenationonlineng.net/ododo-hails-tinubus-security-investment-in-kogi/",
           "source": {
-            "name": "Deadline"
+            "name": "The Nation Newspaper"
           },
-          "publishedAt": "2026-06-25T02:30:00Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/06/Long-Story-Short.jpg?w=1024",
+          "publishedAt": "2026-06-25T05:08:03Z",
+          "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/06/25060410/newly-established-21-Battalion-Barracks-in-Anyigbaaa.png",
           "language": "en"
         },
         {
-          "title": "Chances of undetected bird flu cases along WA’s coast ‘extremely high’, expert says",
-          "description": "Three cases of the deadly strain have been found in Western Australia, in Esperance and Quindalup, while a fourth has been discovered in South Australia.",
-          "url": "https://www.watoday.com.au/national/western-australia/chances-of-undetected-bird-flu-cases-along-wa-s-coast-extremely-high-expert-says-20260625-p60a10.html",
+          "title": "Surrey attractions welcome summer VAT cut on tickets and food",
+          "description": "VAT will be cut on children's meals and tickets to some attractions across Surrey and the UK.",
+          "url": "https://www.bbc.co.uk/news/articles/c3vyz7l9x7yo",
           "source": {
-            "name": "WAtoday"
+            "name": "bbc.co.uk"
           },
-          "publishedAt": "2026-06-25T02:29:39Z",
-          "image": "https://static.ffx.io/images/$zoom_0.7358%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/679f9d474c57406fe69b43fa50a771bb91b68ffbf71bacd57d714937710e874f",
+          "publishedAt": "2026-06-25T05:07:01Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6012/live/08816ae0-6fe1-11f1-b763-7be8e457290d.jpg",
           "language": "en"
         },
         {
-          "title": "US CDC to wind down hantavirus response",
-          "description": "The US Centers ​for Disease Control and Prevention is expected to formally wind down its hantavirus response, ‌nearly two ⁠months ⁠after an outbreak on a ​cruise ship left three people dead, media reported, quoting acting CDC director Jay Bhattacharya. “Protecting ​Americans is our highest responsibility. CDC’s hantavirus response officially concludes June 24, 2026,” Bhattacharya said […]",
-          "url": "https://medicalbuyer.co.in/us-cdc-to-wind-down-hantavirus-response/",
+          "title": "Grading Sacramento Kings overall draft selections in 2026 NBA Draft",
+          "description": "Here's how USA TODAY Sports graded the Sacramento Kings after the 2026 NBA Draft.",
+          "url": "https://www.usatoday.com/story/sports/nba/kings/2026/06/25/sacramento-kings-2026-nba-draft-picks-grades-analysis/90688010007/",
           "source": {
-            "name": "Medical Buyer"
+            "name": "USA Today"
           },
-          "publishedAt": "2026-06-25T02:28:58Z",
-          "image": "https://medicalbuyer.co.in/wp-content/uploads/2026/06/US-CDC-to-wind-down-hantavirus-response.jpg",
+          "publishedAt": "2026-06-25T05:07:00Z",
+          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/25/USAT/90688671007-usatsi-29256143-168420867-lowres.jpg?crop=1867,1050,x0,y0&width=1867&height=1050&format=pjpg&auto=webp",
           "language": "en"
         },
         {
-          "title": "Remaining ISIS bride and her child to return to Australia",
-          "description": "Australia has been urged by countries who defeated ISIS to bring home the women and children that were previously stranded in detention camps.",
-          "url": "https://www.news.com.au/national/politics/remaining-isislinked-woman-and-her-child-to-return-to-australia/news-story/bec1d3d47b3b2f1227d22e23220ded2e",
+          "title": "Adolescence star cast in Hamburg Days Beatles series",
+          "description": "The forthcoming BBC six-part drama Hamburg Days charts the growth of the band from their beginnings.",
+          "url": "https://www.bbc.co.uk/news/articles/c982erwjk48o",
           "source": {
-            "name": "News.com.au"
+            "name": "BBC"
           },
-          "publishedAt": "2026-06-25T02:26:39Z",
-          "image": "https://content.api.news/v3/images/bin/e8642f7e33b1e9a15b6d753141a0963a",
+          "publishedAt": "2026-06-25T05:06:47Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2255/live/30768270-6fdb-11f1-b763-7be8e457290d.jpg",
           "language": "en"
         },
         {
-          "title": "Trump kicks off the Great American State Fair after musical acts pulled out",
-          "description": "A number of musical acts backed out of the event on the National Mall last month, concerned about being part of something that appeared political.",
-          "url": "https://www.nbcnews.com/politics/donald-trump/trump-great-american-state-fair-musicians-rcna351579",
+          "title": "Adolescence star cast in Hamburg Days Beatles series",
+          "description": "The forthcoming BBC six-part drama Hamburg Days charts the growth of the band from their beginnings.",
+          "url": "https://www.bbc.com/news/articles/c982erwjk48o",
           "source": {
-            "name": "NBC News"
+            "name": "BBC"
           },
-          "publishedAt": "2026-06-25T02:26:00Z",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260424-trump-great-american-state-fair-vsb-2210-395e10.jpg",
+          "publishedAt": "2026-06-25T05:06:47Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2255/live/30768270-6fdb-11f1-b763-7be8e457290d.jpg",
           "language": "en"
         },
         {
-          "title": "Mozambique Targets 5G Rollout in Tourist Zones and Provincial Capitals by 2027",
-          "description": "Mozambique's President Daniel Chapo has pledged to deploy 5G mobile network technology across all provincial capitals, special economic zones and the country's main tourist destinations by 2027, with full broadband coverage across all districts targeted by 2030.",
-          "url": "https://atta.travel/resource/mozambique-targets-5g-rollout-in-tourist-zones-and-provincial-capitals-by-2027.html",
+          "title": "Surrey woman took part in cervical cancer immunotherapy trial",
+          "description": "A new immunotherapy treatment for cervical cancer is available on the NHS from Thursday.",
+          "url": "https://www.bbc.co.uk/news/articles/c2dyny7xk9lo",
           "source": {
-            "name": "ATTA Travel"
+            "name": "BBC"
           },
-          "publishedAt": "2026-06-25T02:25:54Z",
-          "image": "https://atta.travel/assets/img/favicon/favicon-96.png",
+          "publishedAt": "2026-06-25T05:06:30Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9305/live/4bd8c7f0-6fe8-11f1-b1db-af71d47507d6.jpg",
           "language": "en"
         }
       ]
