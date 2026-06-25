@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-25T17:12:21.109Z",
+  "updatedAt": "2026-06-25T20:02:18.814Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "録音データを一気通貫で処理。「Oxtak」の魅力はプライバシーの保護にあり",
+          "description": "ひと手間、いやふた手間以上なくなるのは大きい。レトロフューチャー感がすごいのに、中身はAI搭載の最新レコーダー兼翻訳機というギャップが面白い。そんなガジェット「Oxtak」について、先日語らせていただきました。前回の記事ではデザイン面に注目",
+          "url": "https://www.gizmodo.jp/article/oxtak-money-penny-zerotrust/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-06-25T08:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/06/18/a27b06f8-00bb-4258-81d9-67f11452677a/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "（まとめ）日経平均は3,191円高の72,366円で大幅反発 米マイクロン好決算が買い材料に",
+          "description": "東京市場まとめ1.概況日経平均は939円高の70,114円と大幅反発で取引を開始しました。米マイクロン・テクノロジー［MU］が好決算を発表したことで、日本市場では人工知能（AI）・半導体銘柄への買いが優勢となりました。前場は上昇基調で推移し、2,679円高の71,854円で前...",
+          "url": "https://media.monex.co.jp/articles/-/29633",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-06-25T07:50:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ロシア占領下のクリミア最大都市で停電、ウクライナのドローン攻撃後",
+          "description": "ロシアが2014年に不法に併合したクリミア半島で24日にかけ、ウクライナによる空爆があり、最大都市セヴァストポリで停電が発生したと、ロシア政府が任命した同市の市長が発表した。",
+          "url": "https://www.bbc.com/japanese/articles/cz0jx4jp3r3o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-06-25T07:38:16Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/e1c3/live/249bb360-6fba-11f1-8546-8f19e4fe30f4.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ロシア占領下のクリミア最大都市で停電、ウクライナのドローン攻撃後（BBC News）",
+          "description": "ダン・セールス記者、ニック・ビーク欧州特派員\nロシアが2014年に不法に併合したクリミア半島で24日にかけ、ウクライナによる空爆があり、最大都市セヴァストポリで停電が発生したと、ロシア政府が任命し",
+          "url": "https://news.yahoo.co.jp/articles/07ce3b38c4d330a46500ad920be071f4e02ac858",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-25T07:34:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260625-17074821-bbc-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "青森で震度6強、5人が負傷 後発地震注意情報「発表基準に至らず」",
+          "description": "25日午前7時半ごろ、岩手県沖を震源とする地震があり、最大震度6強を観測した。気象庁によると、震源の深さは44キロ、地震の規模を示すマグニチュードは7.2（いずれも暫定値）。この地震により若干の海面…",
+          "url": "https://www.asahi.com/articles/ASV6S7JKDV6SUEFT009M.html",
+          "source": {
+            "name": "朝日新聞"
+          },
+          "publishedAt": "2026-06-25T05:16:59Z",
+          "image": "https://imgopt.asahi.com/ogp/AS20260625001522_comm.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ヨーロッパ西部で熱波 フランス、イギリス、スペインで記録的高温",
+          "description": "西ヨーロッパが熱波に見舞われ、各地で前例のない高温が相次いでいる。フランスは24日、観測史上最も暑い日となった。イギリスでは6月の最高気温を更新し、スペインでは1日の平均気温の過去最高を記録した。",
+          "url": "https://www.bbc.com/japanese/articles/c4gywdp374lo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-06-25T05:13:16Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/1e66/live/9b1b95b0-6feb-11f1-a9c4-37da5d161ee0.jpg",
+          "language": "ja"
+        },
         {
           "title": "『GTA6』は『GTA: VC』ネタが豊富だと話題に。過去作思わせる、ベルセッティ邸から入手したクラシックなスコープ付きリボルバーなど登場",
           "description": "パッケージ左上のヘリは『グランド・セフト・オート・バイスシティ』が初出の「Sea Sparrow」か。",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-06-25T04:20:00Z",
           "image": "https://news.tv-asahi.co.jp/articles_img/900193654_1200.jpg",
           "language": "ja"
-        },
-        {
-          "title": "『GTA6』パッケージ版は“ディスクなし”。海外ユーザーから「それは物理版なのか」「地図が入っていれば」「リーク対策？」など様々な声",
-          "description": "『GTA6』のパッケージ版はディスクを廃止し、ダウンロードコードのみの封入となるため、物理版購入者から戸惑いの声が上がっています。",
-          "url": "https://www.gamespark.jp/article/2026/06/25/168421.html",
-          "source": {
-            "name": "gamespark.jp"
-          },
-          "publishedAt": "2026-06-25T04:15:02Z",
-          "image": "https://www.gamespark.jp/imgs/ogp_f/1150080.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "元AKB48花田藍衣、ラジオ番組降板へ 文化放送が発表「諸般の事情により」",
-          "description": "文化放送は6月25日、ラジオ番組「AKB48伊藤百花と花田藍衣のひと“花”咲かせたいっ！」（毎週水曜深夜1時～）に関するお知らせを掲載。6月23日にAKB48を契約解除となった花田藍衣が降板することを伝えた。",
-          "url": "https://mdpr.jp/news/detail/4804173",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-06-25T03:47:42Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/M27B/wm/M27BKTyR7cGjDCkEdagdxs0e1lzqfm6Fa_QsUJwY2ZM.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "Netflix「THE ONE PIECE」ティザー予告。ワンピース第1話から再アニメ化、'27年2月",
-          "description": "マンガ「ONE PIECE」を「東の海(イーストブルー)編」第1話から再びアニメ化する新シリーズ「THE ONE PIECE」の世界初となるティザー予告映像が公開された。日本語版のモンキー・D・ルフィ役は田中真弓が担当する。",
-          "url": "https://av.watch.impress.co.jp/docs/news/2119944.html",
-          "source": {
-            "name": "AV Watch"
-          },
-          "publishedAt": "2026-06-25T03:47:08Z",
-          "image": "https://av.watch.impress.co.jp/img/avw/list/2119/944/main.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「テレ東音楽祭 2026初夏」出演アーティスト第3弾を発表！新人アナウンサー2名がデビュー！",
-          "description": "テレ東では、6月28日（日）夜6時30分から「テレ東音楽祭 2026夏」を放送します。【動画】「テレ東音楽祭 2026夏」お気に入り登録はこちら！2014年の放送開始から今回で16回目を迎える「テレ東音楽祭」。今年は、こ…",
-          "url": "https://www.tv-tokyo.co.jp/plus/entertainment/entry/202606/19451.html",
-          "source": {
-            "name": "tv-tokyo.co.jp"
-          },
-          "publishedAt": "2026-06-25T03:33:45Z",
-          "image": "https://tv-tokyo.imgix.net/txcms/media/plus_content/db/95/ea0a4d8f5fef6957dbf6980db497.jpg?auto=format,compress",
-          "language": "ja"
-        },
-        {
-          "title": "『ワンピース』ルフィ役の代わりいない 71歳の田中真弓が新作アニメ続投で本人は不安も…制作側がオファー",
-          "description": "ニュース｜　人気アニメ『ONE PIECE』の新作アニメシリーズ『THE ONE PIECE』（ザ・ワンピース）のキャスト情報が発表された。日本語版のモンキー・D・ルフィ役は田中真弓（71）が担当し、現在放送中のテレビアニメ版から続投する。田中は「この年齢で新たにスタートするのは少し不安もありましたが…」と年齢から不安を感じつつも、今回のキャスティングは、製作陣からの熱いラブコールに応える形で実現したもので、ルフィ役は田中しか考えられない制作陣の本音が見えた。　2027年2月よりNetflixにて世界配信される『THE ONE PIECE』は、原作漫画1話「東の海（イーストブルー）編」から完全新作映像で再アニメ化するもので、制作は現在のテレビアニメを手がける東映アニメーションからWIT STUDIOとなり、新たなアニメーションチームで制作。　25年以上続く現在のテレビアニメシリーズとは別ラインで、現代ならではの映像表現を追求し、ルフィたちの冒険を“懐かしくも新しい”形で描き出し、シーズン１では原作漫画50話分を描き、ルフィが海上レストラン「バラティエ」の副料理長・サンジと出会うまでの物語を全7話で一挙配信、総尺約300分にて制作される。　出演キャストが今回初めて発表され、1999年から放送されているテレビアニメ版からルフィ役を務めている田中は「モンキー・D・ルフィ役の田中真弓です。またまた、ルフィとして『THE ONE PIECE』という新しいシリーズに参加できて嬉しいです。この年齢で新たにスタートするのは少し不安もありましたが、実際にやってみたら新たな発見もありましたし、新たな気持ちでルフィを演じることができました」と心境。ルフィ役を27年間演じている田中が、『ワンピース』の新作アニメでもルフィ役を務める。　テレビアニメ『ワンピース』と言えば、2025年4月に主要キャラ・フランキー役が約20年演じた矢尾一樹から木村昴へ交代。具体的な矢尾の降板理由は明らかにされていないが、矢尾は自身のXにて「悲しい別れが来てしまった　四半世紀近く共に人生を歩んできたヤツとの別れが…幽体離脱とでも云うのか、俺の理想としてるフランキーとの間に溝が出来てしまった…ので俺が一旦サニー号を降りる事にした。悔しい！哀しい！」と説明。",
-          "url": "https://www.oricon.co.jp/news/2463559/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-06-25T03:20:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2464000/2463559/20260624_214733_p_o_77240967.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "韓国が痛恨敗戦で3位転落…先発外れたソン・フンミンを後半投入もゴール奪えず、初白星の南アフリカが逆転2位突破!!",
-          "description": "[6.24 W杯A組第3節 南アフリカ 1-0 韓国]　北中米W杯は現地時間24日、A組第3節の南アフリカ代表対韓国代表を行い、南アフリカが1-0の完封勝利を収めた。今大会初白星を獲得した南アフリカは4位から2位に順位を...",
-          "url": "https://web.gekisaka.jp/news/worldcup/detail/?454180-454180-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-06-25T02:57:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/455000/454180/news_454180_1.jpg?time=20260625123142",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Govt agrees to give powers to Parliament in public prosecutor appointment process",
-          "description": "The government has agreed to give Parliament a formal role in the appointment process of the public prosecutor as recommended by a parliamentary committee.",
-          "url": "https://theedgemalaysia.com/node/808234",
+          "title": "‘The Lion at My Back’ Film Clip for Karlovy Vary 2026 Title: KVIFF",
+          "description": "Watch film clip for ‘The Lion at My Back,’ a Tonia Mishiali movie about a Senegal asylum seeker bonding with a Cypriot debuting at Karlovy Vary 2026.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-lion-at-my-back-film-clip-karlovy-vary-2026-cyprus-1236626729/",
           "source": {
-            "name": "The Edge Malaysia"
+            "name": "The Hollywood Reporter"
           },
-          "publishedAt": "2026-06-25T05:12:05Z",
-          "image": "https://assets.theedgemarkets.com/25azalina_20260625130819.jpg",
+          "publishedAt": "2026-06-25T08:02:18Z",
+          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/IMG_1950.jpeg?w=1400&h=788&crop=1",
           "language": "en"
         },
         {
-          "title": "Trials of two Ebola treatments to start in DRC next week: WHO",
-          "description": "The WHO is launching clinical trials in the DRC for two experimental drugs to combat a growing outbreak of the rare Bundibugyo Ebola strain.",
-          "url": "https://www.jacarandafm.com/news/news/trials-of-two-ebola-treatments-to-start-in-drc/",
+          "title": "The Blancpain Villeret Ultraplate, now in 38mm",
+          "description": "The classic, thin time-and-date Blancpain Villeret Ultraplate gets even better in 38mm diameter, and softer colours.",
+          "url": "https://monochrome-watches.com/new-softer-colour-schemes-for-the-blancpain-villeret-ultraplate-38mm/",
           "source": {
-            "name": "Jacaranda FM"
+            "name": "Monochrome Watches"
           },
-          "publishedAt": "2026-06-25T05:11:00Z",
-          "image": "https://turntable.kagiso.io/images/AFP__20260530__B4H28AD__v1__HighRes__DrcongoHe.width-400.jpg",
+          "publishedAt": "2026-06-25T08:01:45Z",
+          "image": "https://monochrome-watches.com/app/uploads/2026/06/2026-Blancpain-Villeret-Ultraplate-38mm-colletion-6224N-10.jpg",
           "language": "en"
         },
         {
-          "title": "Pesa Users Can Increase Fuliza Limits, Avoid Reductions",
-          "description": "Safaricom has explained how M-Pesa users can increase Fuliza limits and avoid reductions. The telco shared tips that can help customers improve Fuliza eligibility.",
-          "url": "https://www.tuko.co.ke/business-economy/money/630645-safaricom-explains-how-m-pesa-users-increase-fuliza-limits-avoid-reductions/",
+          "title": "IOC breaks with tradition to offer all Olympic competitors US$10,000 in cash grants",
+          "description": "IOC head Kirsty Coventry, who has consistently opposed paying athletes, says the US$140m put aside will not affect funding to national bodies.",
+          "url": "https://www.scmp.com/sport/other-sport/article/3358323/ioc-breaks-tradition-offer-all-olympic-competitors-us10000-cash-grants",
           "source": {
-            "name": "Tuko News"
+            "name": "South China Morning Post"
           },
-          "publishedAt": "2026-06-25T05:09:13Z",
-          "image": "https://cdn.tuko.co.ke/images/1200x675/626397677c1f5d40.jpeg?v=1",
+          "publishedAt": "2026-06-25T08:01:41Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/25/0ab0ef06-d405-423a-b29c-585d5b7b9c36_ad328c02.jpg?itok=s3FugOZT&v=1782374500",
           "language": "en"
         },
         {
-          "title": "Wellington's Tākina venue to display LEGO Star Wars: The Exhibition",
-          "description": "A new exhibition at Wellington's Tākina venue is set to transport Lego and Star Wars fans to a galaxy far far away.",
-          "url": "https://www.rnz.co.nz/news/regions/621210/wellington-s-takina-venue-to-display-lego-star-wars-the-exhibition",
+          "title": "High temperature warning for Ireland extended as heatwave grips Europe",
+          "description": "France, Spain, Italy and Luxembourg on alert, while Met Éireann warns Ireland set for ‘exceptionally hot’ Thursday",
+          "url": "https://www.irishtimes.com/environment/2026/06/25/ireland-weather-heatwave-europe-latest-live-met-eireann/",
           "source": {
-            "name": "RNZ"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-06-25T05:09:03Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--W0_tnUeW--/t_tohu-badge-facebook/f_auto/q_auto/4JMHHL5_260625_LEGO_Star_Wars_7_jpg",
+          "publishedAt": "2026-06-25T08:01:37Z",
+          "image": "https://www.irishtimes.com/resizer/v2/AC2HBOZKHVIVTTVOI2IJ6NI4WI.JPG?smart=true&auth=097ab90bcbc186b71037e11c0d7eeeb1bf2d4a33a1824c082831c101f2e33952&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Ododo hails Tinubu’s security investment in Kogi",
-          "description": "The Nation Newspaper Ododo hails Tinubu’s security investment in Kogi",
-          "url": "https://thenationonlineng.net/ododo-hails-tinubus-security-investment-in-kogi/",
+          "title": "Zac Marsters tied up elderly home invasion victim’s hand with shoelaces as group searched Huntly house",
+          "description": "An elderly man was ordered to lie face down on his bed and had his hands tied with shoelaces after masked intruders broke into his home early one morning....",
+          "url": "https://www.nzherald.co.nz/nz/zac-marsters-tied-up-elderly-home-invasion-victims-hand-with-shoelaces-as-group-searched-huntly-house/VBFQWNS7ZBEP5O7BF77UBS3DOM/",
           "source": {
-            "name": "The Nation Newspaper"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-06-25T05:08:03Z",
-          "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/06/25060410/newly-established-21-Battalion-Barracks-in-Anyigbaaa.png",
+          "publishedAt": "2026-06-25T08:01:06Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/GDY3VNYMH5FRFAOEF4TFUGZVDU.jpg?auth=e04dc6dbefb6ec1f98295eec5d5b6cbc09820ee4e264d01ff8b88ac6779a1ccb&width=1200&height=675&quality=70&focal=2625%2C1309&smart=false",
           "language": "en"
         },
         {
-          "title": "Surrey attractions welcome summer VAT cut on tickets and food",
-          "description": "VAT will be cut on children's meals and tickets to some attractions across Surrey and the UK.",
-          "url": "https://www.bbc.co.uk/news/articles/c3vyz7l9x7yo",
+          "title": "South Africa celebrate historic round of 32 with Thapelo Maseko strike",
+          "description": "Bafana Bafana reach the World Cup knockout stage for the first time in history, defeating the Republic of Korea in Group A upset",
+          "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-south-africa-celebrate-historic-knockout-qualification-thapelo-maseko",
           "source": {
-            "name": "bbc.co.uk"
+            "name": "olympics.com"
           },
-          "publishedAt": "2026-06-25T05:07:01Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6012/live/08816ae0-6fe1-11f1-b763-7be8e457290d.jpg",
+          "publishedAt": "2026-06-25T08:01:00Z",
+          "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/z1jomqsq7huiamn0hthr",
           "language": "en"
         },
         {
-          "title": "Grading Sacramento Kings overall draft selections in 2026 NBA Draft",
-          "description": "Here's how USA TODAY Sports graded the Sacramento Kings after the 2026 NBA Draft.",
-          "url": "https://www.usatoday.com/story/sports/nba/kings/2026/06/25/sacramento-kings-2026-nba-draft-picks-grades-analysis/90688010007/",
+          "title": "Dept. Q season 2 gets production update as The Crown legend joins cast",
+          "description": "The second season of hit Netflix show Dept. Q is now in production, with new and returning cast members having been announced.",
+          "url": "https://www.radiotimes.com/tv/drama/dept-q-season-2-production-newsupdate/",
           "source": {
-            "name": "USA Today"
+            "name": "Radio Times"
           },
-          "publishedAt": "2026-06-25T05:07:00Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/25/USAT/90688671007-usatsi-29256143-168420867-lowres.jpg?crop=1867,1050,x0,y0&width=1867&height=1050&format=pjpg&auto=webp",
+          "publishedAt": "2026-06-25T08:00:43Z",
+          "image": "https://images.immediate.co.uk/production/volatile/sites/3/2025/04/DEPTQFirstLookImage7-11cb2a7.jpg?resize=1200%2C630",
           "language": "en"
         },
         {
-          "title": "Adolescence star cast in Hamburg Days Beatles series",
-          "description": "The forthcoming BBC six-part drama Hamburg Days charts the growth of the band from their beginnings.",
-          "url": "https://www.bbc.co.uk/news/articles/c982erwjk48o",
+          "title": "When the Founder Dies: How Poor Succession Planning Is Undermining Ghanaian Churches and Businesses",
+          "description": "Across Ghana, many churches and businesses begin with extraordinary vision, sacrifice, and determination .",
+          "url": "https://www.modernghana.com/news/1505361/when-the-founder-dies-how-poor-succession-plannin.html",
           "source": {
-            "name": "BBC"
+            "name": "Modern Ghana"
           },
-          "publishedAt": "2026-06-25T05:06:47Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2255/live/30768270-6fdb-11f1-b763-7be8e457290d.jpg",
+          "publishedAt": "2026-06-25T08:00:33Z",
+          "image": "https://cdn.modernghana.com/images/content/625202613833-txobrfer5l-1001033449.jpg",
           "language": "en"
         },
         {
-          "title": "Adolescence star cast in Hamburg Days Beatles series",
-          "description": "The forthcoming BBC six-part drama Hamburg Days charts the growth of the band from their beginnings.",
-          "url": "https://www.bbc.com/news/articles/c982erwjk48o",
+          "title": "The Auctioning of the Republic: TDC’s Community 24 Scandal, the Land Act, and the Creeping Threat of State Capture in Ghana",
+          "description": "Ghana stands at a critical socio-economic crossroads where public resources are increasingly treated as private inheritance .",
+          "url": "https://www.modernghana.com/news/1505330/the-auctioning-of-the-republic-tdcs-community.html",
           "source": {
-            "name": "BBC"
+            "name": "Modern Ghana"
           },
-          "publishedAt": "2026-06-25T05:06:47Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2255/live/30768270-6fdb-11f1-b763-7be8e457290d.jpg",
+          "publishedAt": "2026-06-25T08:00:33Z",
+          "image": "https://cdn.modernghana.com/images/content/624202695506-1h830o4aau-image97583dd9.png",
           "language": "en"
         },
         {
-          "title": "Surrey woman took part in cervical cancer immunotherapy trial",
-          "description": "A new immunotherapy treatment for cervical cancer is available on the NHS from Thursday.",
-          "url": "https://www.bbc.co.uk/news/articles/c2dyny7xk9lo",
+          "title": "The Role of Chieftaincy in Governance in Ghana: Where Tradition Meets Democracy",
+          "description": "Ghana 39;s system of governance is unique . Alongside its constitutional democracy exists one of Africa 39;s oldest traditional institutions: chieftaincy .",
+          "url": "https://www.modernghana.com/news/1505362/the-role-of-chieftaincy-in-governance-in-ghana.html",
           "source": {
-            "name": "BBC"
+            "name": "Modern Ghana"
           },
-          "publishedAt": "2026-06-25T05:06:30Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9305/live/4bd8c7f0-6fe8-11f1-b1db-af71d47507d6.jpg",
+          "publishedAt": "2026-06-25T08:00:33Z",
+          "image": "https://cdn.modernghana.com/images/content/625202615032-h40o2r6eey-1001033461.jpg",
           "language": "en"
         }
       ]
