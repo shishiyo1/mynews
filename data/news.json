@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-25T03:41:55.859Z",
+  "updatedAt": "2026-06-25T09:24:02.057Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【W杯】スイスが勝ってグループ首位通過！ カナダは敗れるも2位で初の決勝トーナメント進出",
+          "description": "現地時間6月24日に行なわれた北中米ワールドカップのグループステージB組第3節で、スイスと開催国の一つであるカナダが対戦した。勝った方がグループ首位通過となる直接対決は後半に試合が動き、スイスが2点",
+          "url": "https://news.yahoo.co.jp/articles/81eedef77c673aa3b65a7a66aeb039da865fa974",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-24T21:07:23Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260625-00010000-soccerm-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "「だから勝つと言ったじゃないですか」韓国レジェンドがハッキリ断言…「これまでと明らかに違う」チュニジア戦後に指摘、森保ジャパンの“ある変化”（Number Web）",
+          "description": "オランダと2-2ドロー、チュニジアに4-0で快勝した森保ジャパンの戦いは、隣国・韓国でも大きな話題になっている。Jリーグ、そして世界で活躍した韓国の英雄、パク・チソンが語る日本代表への評価とは？　《",
+          "url": "https://news.yahoo.co.jp/articles/50ea01ec9f6c2aec59656d6284c6324cfaf11ea8",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-24T21:06:45Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260625-00870914-number-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "18歳躍動のボスニア・ヘルツェゴビナ!40歳の大エースジェコも得点に絡み、カタール退けGL突破に望みつなぐ",
+          "description": "[6.18 W杯B組第3節 ボスニア・ヘルツェゴビナ 3-1 カタール シアトル]　北中米ワールドカップは現地時間24日、B組第3節のボスニア・ヘルツェゴビナ代表対カタール代表を行い、3-1でボスニア・ヘルツェゴビナが勝...",
+          "url": "https://web.gekisaka.jp/news/worldcup/detail/?454153-454153-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-06-24T21:06:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/455000/454153/news_454153_1.jpg?time=20260625061446",
+          "language": "ja"
+        },
+        {
+          "title": "三笘視察を通じて敵将知る森保監督、スウェーデン記者の質問に「いいヒントをいただいた」",
+          "description": "日本代表の森保一監督が24日、北中米W杯グループリーグ第3戦スウェーデン戦(25日、ダラス)の前日会見に出席し、スウェーデン記者の「スウェーデンの弱点は見つかったか?」という質問に答える形で対戦相手のグ...",
+          "url": "https://web.gekisaka.jp/news/japan/detail/?454150-454150-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-06-24T20:55:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/455000/454150/news_454150_1.jpg?time=20260625055545",
+          "language": "ja"
+        },
+        {
+          "title": "ダウ平均は反発 メモリー半導体関連の上値は重い＝米国株概況",
+          "description": "NY株式24日（NY時間16:25）（日本時間05:25）\nダウ平均　　　51848.90（...",
+          "url": "https://s.kabutan.jp/news/n202606250064/",
+          "source": {
+            "name": "株探"
+          },
+          "publishedAt": "2026-06-24T20:37:00Z",
+          "image": "https://async.api.kabutan.jp/og_image?title=%E3%83%80%E3%82%A6%E5%B9%B3%E5%9D%87%E3%81%AF%E5%8F%8D%E7%99%BA%E3%80%80%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E5%8D%8A%E5%B0%8E%E4%BD%93%E9%96%A2%E9%80%A3%E3%81%AE%E4%B8%8A%E5%80%A4%E3%81%AF%E9%87%8D%E3%81%84%EF%BC%9D%E7%B1%B3%E5%9B%BD%E6%A0%AA%E6%A6%82%E6%B3%81",
+          "language": "ja"
+        },
+        {
+          "title": "櫻坂46森田ひかるがマクドナルドCMに初出演！細田守監督作とコラボで、りくりゅうペアも登場（動画あり / コメントあり）",
+          "description": "6月30日より全国で放送されるマクドナルド「ビッグマック」の新テレビCM「あの頃も今も、夏といえば」編に、櫻坂46の森田ひかるが出演する。",
+          "url": "https://natalie.mu/music/news/677676",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-06-24T19:00:00Z",
+          "image": "https://ogre.natalie.mu/media/news/music/2026/0624/bigmaccm01.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
+        {
+          "title": "Valve、SteamOSをAMD製ディスクリートGPUに対応開放――ゲーマーが独自の「Steam Machine」構築可能に",
+          "description": "ValveはSteamOS 3.8をアップデートし、AMD Radeon製ディスクリートGPUを正式サポートした。これにより、PCビルダーは互換性のある任意のハードウェアを用いて独自のSteam Machineを構築できるようになる。この動きは、同社の公式Steam Machineが1,049ドルから1,428ドル（約",
+          "url": "https://finance.biggo.jp/news/addf0379-215e-45d3-a6a1-d2d37a24819d",
+          "source": {
+            "name": "finance.biggo.jp"
+          },
+          "publishedAt": "2026-06-24T18:55:00Z",
+          "image": "https://img.biggo.com/IZ6N1E5iJlhmwj3rNijhzOVaf7CFoecwcOQf7rv-qEA/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA2L2FkZGYwMzc5LTIxNWUtNDVkMy1hNmExLWQyZDM3YTI0ODE5ZF8xNzgyMzI5MTM0X2RlZmF1bHQuanBn.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "次長課長・河本準一、礒部希帆と〝聞いタロウ〟愛 事務所「交際は事実」 20年にテレ東系「じっくり〜」で出会い25年末に再会",
+          "description": "次長課長・河本準一、礒部希帆と〝聞いタロウ〟愛　事務所「交際は事実」　20年にテレ東系「じっくり〜」で出会い25年末に再会（SANSPO）お笑いコンビ、次長課長の河本準一（51）がタレント、礒部希帆（34）と交際していることが24日、分かった。2020年にバラエティー…",
+          "url": "https://topics.smt.docomo.ne.jp/article/sanspo/entertainment/sanspo-_entertainment_geino_5BAIQMGBH5N7ZD2DJYQKGXC44A?redirect=1",
+          "source": {
+            "name": "ｄメニューニュース"
+          },
+          "publishedAt": "2026-06-24T17:41:13Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/picture/sanspo/m_sanspo-_entertainment_geino_5BAIQMGBH5N7ZD2DJYQKGXC44A.jpg",
+          "language": "ja"
+        },
         {
           "title": "米原油一時70ドル割れ、3カ月ぶり 足止め船舶がホルムズ相次ぎ脱出",
           "description": "【ヒューストン=大平祐嗣、ニューヨーク=朝田賢治】米原油指標のWTI（ウエスト・テキサス・インターミディエート）先物は24日、一時前日終値比5%安の1バレル69.63ドルとなった。ペルシャ湾内に足止めされていた船舶がホルムズ海峡の「脱出回廊」を通じて抜け始め、3カ月ぶりに60ドル台を付けた。国際海事機関（IMO）は23日、オマーン政府などと協力して湾内にとじ込められた船舶の脱出作戦を始めると発",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-06-24T13:58:00Z",
           "image": "https://zai.diamond.jp/mwimgs/9/e/-/img_9e47ac79ce2cf237f05d70fc22e16d45110540.png",
           "language": "ja"
-        },
-        {
-          "title": "「THE ONE PIECE」田中真弓がルフィ役続投「少し不安もありましたが」 気持ち新たに再アニメ化挑戦",
-          "description": "漫画家・尾田栄一郎の代表作「ONE PIECE」（集英社刊）を「東の海（イーストブルー）編」第1話から再びアニメ化する新シリーズ「THE ONE PIECE」のティザー予告映像が公開、日本語版のモンキー・D・ルフィ役は、現在放送中のテレビシリーズと同じく、田中真弓が務めることが明らかになった。",
-          "url": "https://www.cinematoday.jp/news/N0155507",
-          "source": {
-            "name": "シネマトゥデイ"
-          },
-          "publishedAt": "2026-06-24T13:44:50Z",
-          "image": "https://img.cinematoday.jp/a/rYw1dQUO6XSF/_size_r1200x630/_v_1782308690/main.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "日本代表FW上田綺世、データサイト選出の北中米W杯GS第2節ベストイレブン入り！ メッシらと肩を並べる",
-          "description": "FIFAワールドカップ2026（北中米W杯）で日本代表FW上田綺世が高い評価を受けている。データサイト『Sofascore』は24日、グループリーグ第2節のベストイレブンを発表し、日本が誇るストライカーを選出している。",
-          "url": "https://www.footballchannel.jp/2026/06/24/post929397/",
-          "source": {
-            "name": "フットボールチャンネル"
-          },
-          "publishedAt": "2026-06-24T13:37:28Z",
-          "image": "https://img-footballchannel.com/wordpress/assets/2026/06/20260621_ueda_getty-1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "牧野真莉愛、モーニング娘。愛爆発の卒業コンサートで明るくサヨナラ 新庄剛志もエールの手紙",
-          "description": "モーニング娘。'26が本日6月24日、東京・日本武道館にて全国ツアーの最終公演となる「モーニング娘。'26 コンサートツアー春 - Rays Of Light - Final ～牧野真莉愛 卒業スペシャル～＠日本武道館」を開催。このコンサートをもって、1...",
-          "url": "https://natalie.mu/music/news/677593",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-06-24T13:31:00Z",
-          "image": "https://ogre.natalie.mu/media/news/music/2026/0624/morningmusume26_0624_32.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
-        },
-        {
-          "title": "iOS 27ベータ2登場：「Write with Siri」が従来の記述ツールを完全代替、RCSのインライン返信にも対応",
-          "description": "Appleが「iOS 27」ベータ2を開発者向けに公開。「Write with Siri」によるAI執筆支援の刷新や、AndroidとのRCSチャットでのインライン返信対応などが盛り込まれたが、一部機能はバグも報告されている。",
-          "url": "https://www.zaikei.co.jp/article/20260624/858357.html",
-          "source": {
-            "name": "財経新聞"
-          },
-          "publishedAt": "2026-06-24T13:18:38Z",
-          "image": "http://www.zaikei.co.jp/files/general/202606242218413wm0big.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "DRAM高騰が直撃した“悲劇のハード”、「Steam Machine」発売の裏で起きていたこと",
-          "description": "米Valveが発売した「Steam Machine」は、昨今のDRAMやSSDの高騰の影響を真正面から受けた悲劇のハードだ。価格は約19万円から。評価の分かれそうな値付けだが、背景を知ると少し印象",
-          "url": "https://news.yahoo.co.jp/articles/299dae0fc0b0af9f9f089c1d94cd2df477605961",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-24T13:14:38Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260624-00000086-zdn_n-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "日本代表は明日にもGL突破が決まる可能性…“最低でも3位通過”の条件を確認",
-          "description": "北中米ワールドカップは日本時間25日からグループリーグ最終節に突入する。日本代表は同26日にスウェーデン戦を控えているが、明日にも3大会連続のGL突破が決まる可能性がある。　出場国が48か国に拡大された今...",
-          "url": "https://web.gekisaka.jp/news/japan/detail/?454131-454131-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-06-24T12:20:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/455000/454131/news_454131_1.jpeg?time=20260624212444",
-          "language": "ja"
-        },
-        {
-          "title": "バナナマン日村、休養中に妻・神田愛花と北海道で“ホルモン焼き”デート「まさかの事件」お店も驚愕、最近影も（SmartFLASH）｜ｄメニューニュース",
-          "description": "バナナマン日村、休養中に妻・神田愛花と北海道で“ホルモン焼き”デート「まさかの事件」お店も驚愕、最近影も（SmartFLASH） \n　4月に体調不良のため、当面の間、休養することを発表したお笑いコンビ「バナナマン」の日村勇紀。そんな日村の近況が明…",
-          "url": "https://topics.smt.docomo.ne.jp/article/smartflash/entertainment/smartflash-415394?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-06-24T12:10:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/smartflash/m_smartflash-415394.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【フカボリ天気】台風＋前線による大雨警戒 台風7号“本州接近”のタイミングは？",
-          "description": "25日は台風7号が沖縄に接近、九州では線状降水帯発生の恐れも。これからの天気をフカボリしてお伝えします。",
-          "url": "https://news.ntv.co.jp/category/weather/2f043961e1394ded9b073e37dd59587e",
-          "source": {
-            "name": "日テレNEWS NNN"
-          },
-          "publishedAt": "2026-06-24T11:35:00Z",
-          "image": "https://news.ntv.co.jp/gimage/n24/articles/605728e990af4beda0142b58b92bf53c/e6962e78-73ee-4b12-9af2-de0e99f5f719.jpg?w=1200",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "‘Fingerprints’ of Black Hole’s Event Horizon Detected for First Time",
-          "description": "Scientists have detected the \"fingerprints\" of a black hole's event horizon -- the boundary from which nothing can escape -- for the first time, according to research published on Wednesday. The discovery was made by studying ripples in space-time called gravitational waves that were created when two black holes violently smashed into each other. A black hole's event horizon is known as the \"point of no return\" because not even light can avoid being swallowed into its darkness. This has made them incredibly difficult to learn anything about.",
-          "url": "https://english.aawsat.com/varieties/5288082-%E2%80%98fingerprints%E2%80%99-black-hole%E2%80%99s-event-horizon-detected-first-time",
+          "title": "Whitney Houston Estate Refutes Oprah Claim Singer Was High on Talk Show",
+          "description": "Whitney Houston's estate has released a statement refuting Oprah's claim that the singer once fell of her talk show stage because she was high.",
+          "url": "https://variety.com/2026/music/news/whitney-houston-estate-denies-oprah-fell-off-stage-high-1236789748/",
           "source": {
-            "name": "Asharq Al-Awsat | Explore World News Today"
+            "name": "Variety"
           },
-          "publishedAt": "2026-06-24T15:41:22Z",
-          "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-06/1621432.jpeg.webp",
+          "publishedAt": "2026-06-24T21:24:00Z",
+          "image": "https://variety.com/wp-content/uploads/2026/06/IMG_4899.jpg?w=1000&h=563&crop=1",
           "language": "en"
         },
         {
-          "title": "Man accused of Parnell Square attack denied to gardaí that he 'went for the smallest children'",
-          "description": "The jury was shown footage of interviews with the accused at Mountjoy Garda Station.",
-          "url": "https://www.thejournal.ie/parnell-square-attack-courts-riad-bouchaker-7080617-Jun2026/",
+          "title": "Leonard Cohen Estate Objects to Trump’s Promised Use of ‘Hallelujah’ at Freedom 250 Rally",
+          "description": "The Leonard Cohen estate is objecting to President Donald J. Trump’s promised — or threatened — use of the song “Hallelujah” ahead of Wednesday night’s Freedom 250 rally on the National Mall in Washin...",
+          "url": "https://uk.news.yahoo.com/leonard-cohen-estate-objects-trump-212349740.html",
           "source": {
-            "name": "The Journal"
+            "name": "Yahoo News UK"
           },
-          "publishedAt": "2026-06-24T15:39:00Z",
-          "image": "https://img2.thejournal.ie/article/7080617/river/?height=400&version=7080628",
+          "publishedAt": "2026-06-24T21:23:49Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/d6db5b244bd6f31de23596c19ecaea789f02b2ef80475eb2fb774b5aabcc9a1e/lightyear_networkapi/resizefill_w1000_h666;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F4d895829b5233688ecaadce0b8ed9db3",
           "language": "en"
         },
         {
-          "title": "We won't cheer failure: Standard Group hits back at Ruto's rant on X",
-          "description": "“We, however, admit that the President, in his post, was right on one thing: “Kenya belongs to all Kenyans”.",
-          "url": "https://www.standardmedia.co.ke/national/article/2001551207/we-wont-cheer-failure-standard-group-hits-back-at-rutos-rant",
+          "title": "Kwara PDP governorship candidate receives Certificate of Return",
+          "description": "(PDP) governorship candidate for the 2027 Kwara State governorship election, Engr. Suleiman Bolakale Kawu, has",
+          "url": "https://guardian.ng/news/kwara-pdp-governorship-candidate-receives-certificate-of-return/",
           "source": {
-            "name": "standardmedia.co.ke"
+            "name": "The Guardian Nigeria News"
           },
-          "publishedAt": "2026-06-24T15:35:14Z",
-          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/MFFdQgFWZLlmi8klGFNNItQZyqrh8sioQEv3c8OJ.jpg",
+          "publishedAt": "2026-06-24T21:23:00Z",
+          "image": "https://cdn.guardian.ng/wp-content/uploads/2026/04/IMG-20260417-WA0058.jpg",
           "language": "en"
         },
         {
-          "title": "We won't cheer failure: Standard Group hits back at Ruto's rant on X",
-          "description": "“We, however, admit that the President, in his post, was right on one thing: “Kenya belongs to all Kenyans”.",
-          "url": "https://www.standardmedia.co.ke/national/article/2001551207/standard-group-ceo-answers-ruto-over-his-remarks-on-x",
+          "title": "Markets live: ASX set to edge higher ahead of jobs data, Wall St mixed as Micron surges, oil continues to slide",
+          "description": "The ASX is set for another small gain after a mixed Wall St session and another retreat in oil prices. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+          "url": "https://www.abc.net.au/news/2026-06-25/asx-markets-business-news-live-updates-jun25/103779008",
           "source": {
-            "name": "standardmedia.co.ke"
+            "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-06-24T15:35:14Z",
-          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/MFFdQgFWZLlmi8klGFNNItQZyqrh8sioQEv3c8OJ.jpg",
+          "publishedAt": "2026-06-24T21:20:12Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/243afdeb72b57081273fdf917bd143e4?impolicy=wcms_watermark_news&cropH=1689&cropW=3000&xPos=0&yPos=308&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
-          "description": "Israel’s U.N. mission dismissed the report as a “libelous sham,” and called the investigating commission a “fundamentally flawed mechanism.”",
-          "url": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html",
+          "title": "Anthropic accuses Alibaba of campaign to extract AI capabilities",
+          "description": "The letter, which was obtained by CNBC, claims Alibaba carried out \"the largest known distillation attack on Anthropic to date.\"",
+          "url": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html",
           "source": {
-            "name": "The New York Times"
+            "name": "CNBC"
           },
-          "publishedAt": "2026-06-24T15:35:00Z",
-          "image": "https://static01.nyt.com/images/2026/06/23/multimedia/23int-UN-israel-children-zwjf/23int-UN-israel-children-zwjf-facebookJumbo.jpg",
+          "publishedAt": "2026-06-24T21:18:44Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108323235-1781707962297-gettyimages-2282033342-090a1082_o4bhzzd7.jpeg?v=1781727317&w=1920&h=1080",
           "language": "en"
         },
         {
-          "title": "RBI finalises guidelines on upper-layer NBFCs, unclear about listing of Tata Sons",
-          "description": "Under new guidelines, RBI will use an asset-size criterion of Rs 1 lakh crore and above to identify NBFCs that may be considered for inclusion in the upper-layer category.",
-          "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/banks/rbi-finalises-guidelines-on-upper-layer-nbfcs-unclear-about-listing-of-tata-sons-13958042.html",
+          "title": "The Angry Birds Movie 3 First Look Introduces Baby Character Even Cuter Than Grogu",
+          "description": "The first look at The Angry Birds Movie 3 reveals new development in Red’s life. The upcoming sequel comes seven years after The Angry Birds Movie 2. What do we see in The Angry Birds Movie 3 first lo...",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/angry-birds-movie-3-first-211748619.html",
           "source": {
-            "name": "Moneycontrol.com"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-06-24T15:33:58Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2024/12/20241211061044_RBI-logo.jpg",
+          "publishedAt": "2026-06-24T21:17:48Z",
+          "image": "https://s.yimg.com/os/en/superherohype_979/03700065b9e1cf8a6960be7eadc28f29",
           "language": "en"
         },
         {
-          "title": "British Airways pilot who raped 12",
-          "description": "Kwame Yeboah from Reading travelled to meet the victim in Wirral after they first messaged on Instagram.",
-          "url": "https://www.bbc.com/news/articles/cz6v92ngvedo",
+          "title": "Global Leaders Unite in London to Accelerate Action on Super Pollutants Ahead of COP31",
+          "description": "London, 24 June 2026 â Political leaders, ministers, financial institutions, philanthropies, scientists, businesses, and civil society convened today at St. Jamesâs Palace during London Climate Action Week 2026 for a high-level event on Super Pollutants hosted by the United Kingdom and attended by His Majesty King Charles III, UN Secretary-General AntÃ³nio Guterres, Prime Minister of Barbados the Hon Mia Mottley, the President of Palau Hon. Surangel Samuel Whipps Jr, and COP31 President and Turkiyeâs Minister of Environment the Hon. Murat Kurum.",
+          "url": "https://www.ccacoalition.org/news/global-leaders-unite-london-accelerate-action-super-pollutants-ahead-cop31",
           "source": {
-            "name": "BBC"
+            "name": "Climate and Clean Air Coalition (CCAC)"
           },
-          "publishedAt": "2026-06-24T15:31:18Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4b8c/live/b9e6c730-6fe1-11f1-b763-7be8e457290d.png",
+          "publishedAt": "2026-06-24T21:17:45Z",
+          "image": "https://www.ccacoalition.org/sites/default/files/styles/teaser_1x/public/2026-06/Screenshot%202026-06-24%20at%2011.15.42%E2%80%AFPM.png.webp?itok=QmJrfmPZ",
           "language": "en"
         },
         {
-          "title": "Toronto saw significant increase in speeders after camera removals: city report",
-          "description": "In a new report Mayor Olivia Chow describes as \"horrifying,\" Toronto transportation staff say there has been a significant increase in speeding where cameras used to be located in the city.",
-          "url": "https://www.cbc.ca/news/canada/toronto/toronto-speeding-after-speed-camera-removal-9.7246983",
+          "title": "Johan Manzambi magic sends Switzerland through as Group B winners",
+          "description": "Freiburg attacker Johan Manzambi scored one and created another as Switzerland defeated co-hosts Canada 2-1 in Vancouver to advance to the round of 32 as Group B winners at the FIFA World Cup 2026.",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/switzerland-canada-world-cup-match-report-manzambi-matchday-3-37955",
           "source": {
-            "name": "CBC"
+            "name": "bundesliga.com"
           },
-          "publishedAt": "2026-06-24T15:30:58Z",
-          "image": "https://i.cbc.ca/ais/ea3fc0b3-4899-4cf2-8f9c-1abcc5cb3eda,1761863838436/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5280%2C2970%29%3BResize%3D620",
+          "publishedAt": "2026-06-24T21:17:20Z",
+          "image": "https://assets.bundesliga.com/contender/2026/5/GettyImages-2283164252.jpg?crop=0px,218px,3656px,2051px&fit=1200,630",
           "language": "en"
         },
         {
-          "title": "Nottingham man who died at Peak District summer solstice event is named by police",
-          "description": "A man who died at a summer solstice event in the Peak District has been named. Featured",
-          "url": "https://westbridgfordwire.com/nottingham-man-who-died-at-peak-district-summer-solstice-event-is-named-by-police/",
+          "title": "End of an era: Christchurch clubgoers prepare for Hide’s last dance",
+          "description": "By Adam Burns of RNZ The owners of Christchurch’s popular Hide club are about to turn off the lights for good, as club culture is reshaped by the changing...",
+          "url": "https://www.nzherald.co.nz/nz/christchurch/end-of-an-era-christchurch-clubgoers-prepare-for-hides-last-dance/64FMTKQN45ENVPB67RWN5MVEYA/",
           "source": {
-            "name": "West Bridgford Wire"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-06-24T15:30:29Z",
-          "image": "https://westbridgfordwire.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-17.15.35.jpg",
+          "publishedAt": "2026-06-24T21:16:55Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/VFZK623ASRBQZMLZWAJYHUYT2I.jpg?auth=5c27ff7e1bb81140c88576ed0035a6e2d8cb5cc6772b960b13f0aef82696bfd8&width=1200&height=675&quality=70&focal=553%2C363&smart=false",
           "language": "en"
         },
         {
-          "title": "I Found 223+ of the Best Amazon Prime Day Deals for Day 2 (Live Updates)",
-          "description": "It’s Day 2 of Prime Day 2026, and these editor-loved deals are still live including Oura, Medicube, Samsonite and more. Each pick is 20% off or more and at its lowest price in at least three months.",
-          "url": "https://www.nbcnews.com/select/shopping/best-amazon-prime-day-deals-2026-06-24-rcna351521",
+          "title": "Magnitude 5.6 earthquake in Northern California, injuries reported",
+          "description": "A magnitude 5.6 earthquake shook Northern California on Wednesday morning, according to the U.S. Geological Survey. Since then, officials have stated that some injuries have been reported.",
+          "url": "https://www.kcra.com/article/northern-california-earthquake-redwood-valley/71699019",
           "source": {
-            "name": "NBC News"
+            "name": "KCRA"
           },
-          "publishedAt": "2026-06-24T15:30:26Z",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260617-prime-hero-oo-social-V4-99449f.jpg",
+          "publishedAt": "2026-06-24T21:16:00Z",
+          "image": "https://kubrick.htvapps.com/vidthumb/a4187513-8d15-48e9-9f00-ea730fd27e3b/b25c74fb-483f-4d98-90c1-62d8b2519886.jpg?crop=0.547xw:0.546xh;0.226xw,0&resize=1200:*",
           "language": "en"
         }
       ]
