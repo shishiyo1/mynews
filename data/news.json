@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-26T09:29:54.513Z",
+  "updatedAt": "2026-06-26T14:27:08.747Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "橋本環奈×チェ・ジョンヒョプのドラマ「バカンスの法則」配信、東村アキコが原作・脚本・監督（特報・コメントあり）",
-          "description": "橋本環奈と「Eye Love You」のチェ・ジョンヒョプが共演するABEMAオリジナルドラマ「バカンスの法則」が、7月27日より無料配信される。同作は、多忙な日々に疲弊した主人公が海辺の別荘で過ごすことから始まる“デトックスロマンス”。...",
-          "url": "https://natalie.mu/eiga/news/677784",
+          "title": "5大会連続W杯出場の長友佑都、4年前の長友に言いたいこと「おまえ、やめなくてよかったな」",
+          "description": "[6.25 W杯F組第3節 日本 1-1 スウェーデン ダラス]　5大会連続のワールドカップ出場にもまだ満足はしていない。日本代表DF長友佑都(FC東京)は北中米W杯・グループリーグ第3節・スウェーデン戦の後半30分に途中出...",
+          "url": "https://web.gekisaka.jp/news/japan/detail/?454271-454271-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-06-26T02:06:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/455000/454271/news_454271_1.jpg?time=20260626120017",
+          "language": "ja"
+        },
+        {
+          "title": "Valve、「Steam Machine」の説明文を一部変更―4K表記は維持も「60FPS」の記載なくなる",
+          "description": "海外メディアKotakuは、各メディアによる初期レビューでの報告を受けた変更だと報じています。",
+          "url": "https://www.gamespark.jp/article/2026/06/26/168461.html",
+          "source": {
+            "name": "Game*Spark"
+          },
+          "publishedAt": "2026-06-26T02:03:05Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1150488.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "台風7号・8号と前線 明日27日にかけて九州から関東で大雨 太平洋沿岸は強風も",
+          "description": "梅雨前線の活動の活発な状態が続きます。また、明日27日は台風7号の影響が広がり、台風8号も北上するでしょう。九州から関東にかけて断続的に雨が強まり、太平洋沿岸の地域は風も強まります。",
+          "url": "https://tenki.jp/forecaster/yosh_ika/2026/06/26/39485.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-06-26T00:57:25Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/394/39485/main/20260626095401/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "日経平均は778円安でスタート、ソフトバンクGや東京電力HDなどが下落／寄り付き概況(フィスコ)",
+          "description": "26日の日経平均は778.63円安の71587.71円と反落して取引を開始した。前日25日の米国株式市場は指数によって高安まちまち。ダウ平均は71.72ドル高の51920.62ドル、ナスダックは118.02ポイント安の25358.61で取引を終了した。...",
+          "url": "https://finance.yahoo.co.jp/news/detail/2d967e5092e6535b41e8b9c1862111b71a7922ab",
+          "source": {
+            "name": "Yahoo!ファイナンス"
+          },
+          "publishedAt": "2026-06-26T00:44:00Z",
+          "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+          "language": "ja"
+        },
+        {
+          "title": "JAXA小惑星探査機「はやぶさ2」が700万km先の小惑星「トリフネ」を撮影 フライバイは7月5日",
+          "description": "JAXAは「はやぶさ2」が捉えた小惑星「トリフネ」の画像を公開。2026年7月5日のフライバイに向け、探査機は順調に飛行しています。超高速かつ中心から約800mという超近接通過に挑む、拡張ミッションの現状と科学的意義を解説します",
+          "url": "https://sorae.info/space/20260626-hayabusa2-torifune.html",
+          "source": {
+            "name": "sorae 宇宙へのポータルサイト"
+          },
+          "publishedAt": "2026-06-26T00:25:20Z",
+          "image": "https://sorae.info/wp-content/uploads/2026/06/asteroid-torifune-hayabusa2-jaxa-2026-06-25-2-annotated.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【相模原市】全国唯一のJAXA協力開催！「はやぶさ2トリフネ・フライバイ」パブリックビューイング 参加者募集！",
+          "description": "相模原市役所のプレスリリース（2026年6月26日 09時00分）【相模原市】全国唯一のJAXA協力開催！「はやぶさ2トリフネ・フライバイ」パブリックビューイング 参加者募集！",
+          "url": "https://prtimes.jp/main/html/rd/p/000000593.000072959.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-06-26T00:00:01Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/72959/593/72959-593-32286ebd017d7d6ee647b46998e67bc1-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "日本代表－スウェーデン戦 前田大然がゴールも… 長友佑都が途中出場 第３戦／速報中",
+          "description": "サッカー日本代表（FIFAランキング18位）が、1次リーグ首位通過へ負けられないスウェーデン戦に臨む。引き分け以上なら2位以内で決勝トーナメント（T）に進める… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/soccer/worldcup2026/news/202606230000106.html",
+          "source": {
+            "name": "日刊スポーツ"
+          },
+          "publishedAt": "2026-06-25T23:54:00Z",
+          "image": "https://www.nikkansports.com/soccer/worldcup2026/news/img/202606230000106-w500_0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "モナキ初の地上波レギュラー冠番組「冠モナキ」スタート！NGなしおヨネのぶっこみにメンバーが戦々恐々（コメントあり）",
+          "description": "モナキ初の地上波レギュラー冠番組「冠モナキ」が、テレビ朝日「バラバラ大作戦」の枠で7月13日に放送スタートする。",
+          "url": "https://natalie.mu/music/news/677850",
           "source": {
             "name": "ナタリー"
           },
-          "publishedAt": "2026-06-25T21:00:00Z",
-          "image": "https://ogre.natalie.mu/media/news/eiga/2026/0625/vacance_202606_KV.jpg?impolicy=twitter_card_face_crop",
+          "publishedAt": "2026-06-25T23:00:00Z",
+          "image": "https://ogre.natalie.mu/media/news/music/2026/0626/kanmurimonaki_1.jpg?impolicy=twitter_card_face_crop",
           "language": "ja"
         },
         {
-          "title": "ASCII.jp：動画と高速連写を極めたプロ向けフルサイズカメラ「ライカSL3",
-          "description": "ライカは最大40コマ/秒の高速連写と8.1K/3:2 24Pのオープンゲート撮影を搭載した「ライカSL3-P」を発表しました",
-          "url": "https://ascii.jp/elem/000/004/413/4413768/",
+          "title": "アップル株が約5％急落、時価総額44兆円超の消失──MacBookやiPadなどを値上げ",
+          "description": "米国時間6月25日、アップルの株価が約5％下落した。これは、同社が主要製品の一斉値上げを受けたものだ。アップルのティム・クックCEOは最近、AI需要の急増に伴うメモリーやストレージのコスト高騰により、値上げは「不可避」だと警告していた。25...",
+          "url": "https://forbesjapan.com/articles/detail/99815",
           "source": {
-            "name": "ASCII.jp"
+            "name": "Forbes JAPAN"
           },
-          "publishedAt": "2026-06-25T16:00:00Z",
-          "image": "https://ascii.jp/img/2026/06/26/4489563/xl/eef7e30b6d41479e.jpg?20200122",
+          "publishedAt": "2026-06-25T23:00:00Z",
+          "image": "https://images.forbesjapan.com/media/article/99815/images/main_image_8b8253eb6c2b580244e0a8138f3dc52a63f2fe27.jpg",
           "language": "ja"
         },
         {
-          "title": "ビデオゲーム史上最高額、約4億8354万円で落札 未開封『スーパーマリオブラザーズ』 これまでの記録を1億円以上更新",
-          "description": "米国最大のオークションハウスであるヘリテージ・オークションズ（本社：米国、テキサス州）は25日、12日〜13日に開催した「Video Games Signature（R） Auction」（ビデオ",
-          "url": "https://news.yahoo.co.jp/articles/d41b48cc8c2fce64f959f3021bbfdcb09fe71117",
+          "title": "『新劇場版☆ケロロ軍曹』から新たなデザインのnewケロロロボがプラモデル化！映画公開日の2026年6月26日（金）にHGシリーズで発売であります!!",
+          "description": "映画『新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！』の公開に合わせて、「newケロロロボ」がBANDAI SPIRITSのプラモデルHGシリーズに登場！2026年6月26日（金）に発売！",
+          "url": "https://hobby.dengeki.com/news/3057119/",
           "source": {
-            "name": "Yahoo!ニュース"
+            "name": "電撃ホビーウェブ"
           },
-          "publishedAt": "2026-06-25T14:40:03Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260625-00000554-oric-000-12-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "インド映画『バーフバリ』長編アニメに日本からスタジオカラー・スロウカーブ参加 イメージカットを初公開",
-          "description": "世界中で一大ブームを巻き起こしたインド映画『バーフバリ』シリーズの世界観を受け継ぐ、スピンアウトCGアニメーション長編映画『BAAHUBALI: THE ETERNAL WAR PART 1（原題）』に、日本からプロデュースにスロウカーブ、制作にスタジオカラーが参加することが明らかになった。",
-          "url": "https://www.cinematoday.jp/news/N0155531",
-          "source": {
-            "name": "シネマトゥデイ"
-          },
-          "publishedAt": "2026-06-25T14:30:00Z",
-          "image": "https://img.cinematoday.jp/a/LYWFK1aGt9Ma/_size_r1200x630/_v_1782394292/main.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "冷凍庫遺体遺棄事件 14年以上「家賃」払い続け最低1000万円にも 逮捕の元妻は別の高額マンションで生活 兵庫・神戸市",
-          "description": "神戸市で元夫の遺体を14年以上にわたり冷凍庫に遺棄したとして、元妻が逮捕された。容疑者は犯行を認めているが、動機は明らかになっていない。長期間にわたり現場の家賃を支払い続けていた異例の状況も浮かび、",
-          "url": "https://news.yahoo.co.jp/articles/bf4917ff30cc8e4de81f1548c79e5f45ca5d2d84",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-25T14:00:40Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260625-01165891-fnn-000-3-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "アニメ「Dr.STONE」完結！稲垣理一郎＆Boichiのイラスト到着 大規模アニメ展の告知も",
-          "description": "稲垣理一郎・Boichi原作によるTVアニメ「Dr.STONE」シリーズが、本日6月25日のファイナルシーズン最終回放送をもって完結。稲垣とBoichiによる、ファンへの感謝を込めたイラストとコメントが到着した。",
-          "url": "https://natalie.mu/comic/news/677791",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-06-25T13:30:00Z",
-          "image": "https://ogre.natalie.mu/media/news/comic/2026/0625/drstone_anime_kanketsuill.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
-        },
-        {
-          "title": "話題の左右分割キーボード「Keychron Orca echo」 クラファン開始1週間で支援額が3億円突破",
-          "description": "テクノロジー＆ガジェットメディア「キズモード・ジャパン」とキーボードブランド・Keychron（キークロン）が共同開発した、完全無線接続の左右分割キーボードとして話題を呼んでいる「Keychron Orca echo（キークロン オルカ エコー）」。6月19日からクラウドファンディングがスタートしていますが、その購入総額（支援総…",
-          "url": "https://kai-you.net/article/95785",
-          "source": {
-            "name": "KAI-YOU"
-          },
-          "publishedAt": "2026-06-25T13:10:00Z",
-          "image": "https://img.kai-you.net/storage/2026/06/5dfc8c78-d82e-4a3b-a8ac-2c46daf94947/jpg/KeychronOrcaecho.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "マイクロソフトが苦渋の決断。Windows 10の個人利用「実質1年延長」の背景にはPC価格高騰か",
-          "description": "マイクロソフトは個人向けWindows 10の拡張セキュリティ更新プログラム（ESU）を1年延長し、2027年10月まで提供すると発表しました。PC価格高騰による移行遅れへの対応とみられます。",
-          "url": "https://www.businessinsider.jp/article/2606-windows-10-support-extended/",
-          "source": {
-            "name": "Business Insider Japan"
-          },
-          "publishedAt": "2026-06-25T13:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/06/24/e6a43d7a-8998-4117-8b44-faff30062dc4/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "まだ終わらんよ！Windows 10のサポートが1年延長。来年10月まで実質無料に",
-          "description": "Windows 10のサポートを延長するESU(Extended Security Update : 拡張セキュリティ更新)の期限が1年先の2027年10月12日まで延長される(法人向けは従来通り)。",
-          "url": "https://pc.watch.impress.co.jp/docs/news/2120164.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-06-25T13:00:00Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2120/164/image.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ビデオゲーム史上最高額、約4億8354万円で落札 未開封『スーパーマリオブラザーズ』 これまでの記録を1億円以上更新",
-          "description": "米国最大のオークションハウスであるヘリテージ・オークションズ（本社：米国、テキサス州）は25日、12日〜13日に開催した「Video Games Signature（R） Auction」（ビデオゲーム・シグネチャー・オークション）で、最…",
-          "url": "https://www.sankei.com/article/20260625-OA5TOLBH4VPQVC22AJC4PN6XGA/?outputType=theme_oriconnews",
-          "source": {
-            "name": "産経ニュース"
-          },
-          "publishedAt": "2026-06-25T12:31:10Z",
-          "image": "https://www.sankei.com/resizer/v2/CELONM4OBZKLFFWFAFKJHIWKHQ.jpg?auth=fdfec0146e38fdf57bbcc5ce0b820f5128161784a91eb048d8736091086db377&quality=50&smart=true&width=1200&height=675",
+          "publishedAt": "2026-06-25T22:30:00Z",
+          "image": "https://hobby.dengeki.com/ss/hobby/2026/06/twi_hg_new_kerororobo4_ANsuZYqSVehQA-0QgXxx9MuanYqdQf5w_0wkk8U2x0Fd68YrVyDlxFolzNE2eUTrJ.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Joshua Mike-Bamiloye Says Mount Zion Films Celebrate Yoruba Culture",
-          "description": "Nigerian gospel singer, Joshua Mike-Bamiloye, also known as ‘Jaymikee’, has responded to claims that Mount Zion Faith Ministries portrays Yoruba culture and",
-          "url": "https://leadership.ng/joshua-mike-bamiloye-says-mount-zion-films-celebrate-yoruba-culture/",
+          "title": "Woolworths, Coles face world-first price gouging laws from 2026",
+          "description": "Supermarket giants Woolworths and Coles will face new world-first laws as the Australian government cracks down on price gouging.",
+          "url": "https://www.news.com.au/finance/business/retail/woolworths-and-coles-face-worldfirst-laws-targeting-supermarket-price-gouging/news-story/5cce4618055be3e4826782bb3af08e04",
           "source": {
-            "name": "LEADERSHIP Newspapers"
+            "name": "News.com.au"
           },
-          "publishedAt": "2026-06-25T21:28:44Z",
-          "image": "https://leadership.ng/wp-content/uploads/2026/06/IMG_2623.jpeg",
+          "publishedAt": "2026-06-26T02:26:30Z",
+          "image": "https://content.api.news/v3/images/bin/a72d23268c0876992f5afdeb3fe83ca8",
           "language": "en"
         },
         {
-          "title": "'Dutton Ranch' stars Cole Hauser and Kelly Reilly react to showrunner's abrupt exit",
-          "description": "\"Dutton Ranch\" stars Cole Hauser and Kelly Reilly reacted to showrunner Chad Feehand's abrupt exit before Season 1 premiered. The \"Yellowstone\" spinoff produced by Taylor Sheridan has been renewed for Season 2.",
-          "url": "https://pagesix.com/2026/06/25/entertainment/dutton-ranch-stars-cole-hauser-and-kelly-reilly-react-to-showrunners-abrupt-exit/",
+          "title": "Netherlands beat Tunisia 3-1, enter World Cup knockouts as group winners",
+          "description": "Netherlands top Group F with seven points and will face Morocco in the round of 32 in Monterrey on Monday.",
+          "url": "https://www.aljazeera.com/sports/2026/6/26/netherlands-beat-tunisia-3-1-enter-world-cup-knockouts-as-group-winners",
           "source": {
-            "name": "Page Six"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-06-25T21:28:00Z",
-          "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/06/dutton-copy.jpg?quality=75&strip=all&w=1200",
+          "publishedAt": "2026-06-26T02:26:15Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3dd46c-1782436972.jpg?resize=1920%2C1440",
           "language": "en"
         },
         {
-          "title": "King Charles Will Not Live At Buckingham Palace After Renovations",
-          "description": "King Charles will not live at Buckingham Palace after its 10-year refurbishment finishes next year, royal officials said on Thursday, ending nearly two centuries of the central London landmark serving as the British monarch's primary residence.",
-          "url": "https://www.ndtv.com/world-news/king-charles-will-not-live-at-buckingham-palace-after-renovations-11688706",
+          "title": "FIFA World Cup 2026 LIVE scores, Day 15: Australia vs Paraguay results, highlights, latest news; Türkiye vs USA updates; Group D standings; Immediate yellow for vice-captain Jackson Irvine; Türkiye le",
+          "description": "Follow Nine.com.au’s daily live coverage of the World Cup 2026. Get real-time scores, latest football news, highlights and expert analysis for Day 15.",
+          "url": "https://www.nine.com.au/sport/football/fifa-world-cup-day-fifteen-live-scores-socceroos-results-highlights-latest-news-20260625-p60a5e.html",
           "source": {
-            "name": "NDTV"
+            "name": "Nine.com.au"
           },
-          "publishedAt": "2026-06-25T21:27:56Z",
-          "image": "https://c.ndtvimg.com/2026-06/v3mneb4s_king-charles_625x300_26_June_26.jpeg",
+          "publishedAt": "2026-06-26T02:26:15Z",
+          "image": "https://static.ffx.io/images/$zoom_1.479%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_351%2C$y_14/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/bb48b4e06aa5f4532cd4af10a6936b6f510bb92b",
           "language": "en"
         },
         {
-          "title": "Court in recess until Friday after jury said it’s in a standstill in Palisades Fire arson trial",
-          "description": "Jurors in the federal trial of Palisades Fire suspect Jonathan Rinderknecht have concluded their second day of deliberations and will return Friday after they initially said they are at a standstill and could not reach a unanimous verdict.",
-          "url": "https://www.cnn.com/2026/06/25/us/palisades-fire-jonathan-rinderknecht",
+          "title": "Neighbours dig through rubble in search of loved ones",
+          "description": "The number of casualties is expected to climb, with thousands reported missing and frantic rescue efforts continuing.",
+          "url": "https://www.smh.com.au/world/south-america/hundreds-still-trapped-thousands-missing-as-venezuela-quake-toll-rises-20260626-p60a8f.html",
           "source": {
-            "name": "CNN"
+            "name": "SMH.com.au"
           },
-          "publishedAt": "2026-06-25T21:27:36Z",
-          "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2192342657.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2026-06-26T02:25:25Z",
+          "image": "https://static.ffx.io/images/$zoom_0.19353070175438594%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_20/t_crop_custom/q_86%2Cf_auto/1f467abb5bf0db94398af61f79d8679492cf2842",
           "language": "en"
         },
         {
-          "title": "Adili remains finally arrive in Nigeria",
-          "description": "Adili remains finally arrive in Nigeria — Daily Tribune",
-          "url": "https://tribune.net.ph/2026/06/25/adili-remains-finally-arrive-in-nigeria",
+          "title": "Israel-Lebanon talks extended an extra day as deal on IDF withdrawal remains elusive",
+          "description": "Third day of negotiations sees more progress than previous days of current round, which began with mutual frustration at US over Iran deal's Lebanon ceasefire stipulation, though gaps remain",
+          "url": "https://www.timesofisrael.com/israel-lebanon-talks-extended-an-extra-day-as-deal-on-idf-withdrawal-remains-elusive/",
           "source": {
-            "name": "Daily Tribune"
+            "name": "The Times of Israel"
           },
-          "publishedAt": "2026-06-25T21:27:20Z",
-          "image": "https://images.assettype.com/tribune/2026-06-08/8s6aphge/adili-baterbonia.jpg?w=1200&auto=format",
+          "publishedAt": "2026-06-26T02:24:59Z",
+          "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AFP__20260624__B87B6AF__v1__HighRes__LebanonIsraelWar.jpg",
           "language": "en"
         },
         {
-          "title": "Exclusive: Firm that worked on past Reflecting Pool renovation passed on Trump project after deeming it ‘unfeasible’",
-          "description": "Several months before blue strips started floating to the top of the Lincoln Memorial Reflecting Pool, a company involved in its last renovation more than 15 years ago was approached with an opportunity to do this remodel as well. But the company said no.",
-          "url": "https://www.cnn.com/2026/06/25/politics/reflecting-pool-firm-renovation-unfeasible",
+          "title": "How Do Things End For Carmy, Sydney & More?",
+          "description": "The Bear concluded its fifth and final season Thursday. Here's how things turned out for the main characters, including Carmy, Sydney and more.",
+          "url": "https://deadline.com/gallery/the-bear-series-finale-recap-ending-explained/",
           "source": {
-            "name": "CNN"
+            "name": "Deadline"
           },
-          "publishedAt": "2026-06-25T21:27:02Z",
-          "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-06-06-06-2026-06-22t011821z-1310550111-rc2nylaawcen-rtrmadp-3-usa-250-reflecting-pool.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2026-06-26T02:24:00Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/06/Bear-Still007-copy.jpg?w=1000",
           "language": "en"
         },
         {
-          "title": "'Grand Theft Auto VI' is available to pre-order: What to know",
-          "description": "'Grand Theft Auto VI' is available for pre-order. What to know about the highly anticipated video game.",
-          "url": "https://www.goodmorningamerica.com/culture/story/grand-theft-auto-vi-pre-order-134216152",
+          "title": "Scottie Scheffler's forgotten belt no problem thanks to opening",
+          "description": "Scottie Scheffler, who had Sam Burns bring him a belt after absent-mindedly forgetting it, fired a 6-under 64 at the Travelers Championship on Thursday and is j",
+          "url": "https://www.pgatour.com/article/news/latest/2026/06/25/scottie-scheffler-round-1-travelers-championship-tpc-river-highlands-storylines-results-scores",
           "source": {
-            "name": "Good Morning America"
+            "name": "PGA Tour"
           },
-          "publishedAt": "2026-06-25T21:26:24Z",
-          "image": "https://i.abcnewsfe.com/a/85f1aeb0-a8b0-40a0-b176-e0b862239be2/grandtheft-6-gty-er-260625_1782419831866_hpMain_16x9.jpg?w=992",
+          "publishedAt": "2026-06-26T02:23:15Z",
+          "image": "https://res.cloudinary.com/pgatour-prod/w_1200,h_628,c_fill,f_auto,q_auto/pgatour/news/editorial/2026/06/25/Scheffler-sider.jpg",
           "language": "en"
         },
         {
-          "title": "Supreme court conservatives accused of advancing ‘white-supremacist agenda’",
-          "description": "Lawmakers and advocates condemn ‘disastrous’ decisions that allow Trump officials to strip away migrant protections",
-          "url": "https://www.theguardian.com/us-news/2026/jun/25/supreme-court-immigration-rulings",
+          "title": "PH-Activated Nanocomposite Tackles Wound Infections",
+          "description": "Infected wounds pose a significant medical challenge, often leading to delayed healing and complications due to bacterial biofilms and excessive",
+          "url": "https://www.miragenews.com/ph-activated-nanocomposite-tackles-wound-1699842/",
           "source": {
-            "name": "The Guardian"
+            "name": "Mirage News"
           },
-          "publishedAt": "2026-06-25T21:26:00Z",
-          "image": "https://i.guim.co.uk/img/media/a97688fd96d43da56bf2cee596d5443f6784fe00/2192_796_4999_3998/master/4999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=beda007d235b0b24e39306b3298175a5",
+          "publishedAt": "2026-06-26T02:22:00Z",
+          "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1512314889357-e157c22f938d%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1351%26amp%3Bq%3D80",
           "language": "en"
         },
         {
-          "title": "King Charles won't live in Buckingham Palace after completion of £369M renovation",
-          "description": "Charles III will not live at Buckingham Palace after the completion of a 10-year, 369-million-pound ($692 million Cdn) refurbishment program as the monarchy seeks to increase public access to the historic building that has been the centre of royal life for almost 200 years.",
-          "url": "https://www.cbc.ca/news/world/king-charles-buckingham-palace-renovation-9.7249298",
+          "title": "Johor polls: PN to contest as united force after smooth seat talks, says MIPP's Punithan",
+          "description": "JOHOR BARU: Perikatan Nasional is set to enter the Johor election as a united force, says Malaysian Indian People's Party (MIPP) president P. Punithan.",
+          "url": "https://www.thestar.com.my/news/nation/2026/06/26/johor-polls-pn-to-contest-as-united-force-after-smooth-seat-talks-says-mipp039s-punithan",
           "source": {
-            "name": "CBC"
+            "name": "The Star"
           },
-          "publishedAt": "2026-06-25T21:24:49Z",
-          "image": "https://i.cbc.ca/ais/414367ed-b82b-46e5-bf67-9cee3a56f5c6,1782421729356/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C35%2C2601%2C1463%29%3BResize%3D620",
+          "publishedAt": "2026-06-26T02:21:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/06/26/3978154.jpg",
           "language": "en"
         },
         {
-          "title": "Jury at an impasse in trial over deadly, destructive Palisades Fire",
-          "description": "After two days of deliberations, a jury in the trial about the origin of the devastating January 2025 fires in Los Angeles said jurors on both sides “are unwilling to change their opinion” and that they are “at a standstill,” unsure of how to proceed",
-          "url": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-jury-verdict-rcna351208",
+          "title": "Delhi rape-murder horror: Cabbie waited 45 mins for asleep 10-year-old to separate from mother",
+          "description": "NEW DELHI: Rape and murder accused cabbie Basu Kumar Singh had driven past the spot in south Delhi's Mehrauli where the minor victim was sleeping with.",
+          "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-rape-murder-horror-cabbie-waited-45-mins-for-asleep-10-year-old-to-separate-from-mother/articleshow/132005531.cms",
           "source": {
-            "name": "NBC News"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-06-25T21:24:43Z",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260505-Jonathan-Rinderknecht-rs-9f2b5f.jpg",
+          "publishedAt": "2026-06-26T02:20:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-132009181,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         }
       ]
