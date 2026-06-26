@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-25T22:21:30.708Z",
+  "updatedAt": "2026-06-26T03:52:34.540Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "1nm未満の微細化へ、IBMが「ナノスタック」技術の0.7nm世代で性能約50%向上",
-          "description": "IBMは「ナノスタック」による1nm未満での微細化の見通しが立ったことを6月25日に明らかにした。IBMが試作した0.7nm(7A)世代のプロセスノードでは、日本のRapidusに技術供与している2nmノードと比較して、約50%性能が向上し、約70%電力効率が改善されるという。IBMは5年以内に0.7nm(7A)プロセスノードの実用化を目指す。",
-          "url": "https://pc.watch.impress.co.jp/docs/news/2119895.html",
+          "title": "ビデオゲーム史上最高額、約4億8354万円で落札 未開封『スーパーマリオブラザーズ』 これまでの記録を1億円以上更新",
+          "description": "米国最大のオークションハウスであるヘリテージ・オークションズ（本社：米国、テキサス州）は25日、12日〜13日に開催した「Video Games Signature（R） Auction」（ビデオ",
+          "url": "https://news.yahoo.co.jp/articles/d41b48cc8c2fce64f959f3021bbfdcb09fe71117",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-25T14:40:03Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260625-00000554-oric-000-12-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "冷凍庫遺体遺棄事件 14年以上「家賃」払い続け最低1000万円にも 逮捕の元妻は別の高額マンションで生活 兵庫・神戸市",
+          "description": "神戸市で元夫の遺体を14年以上にわたり冷凍庫に遺棄したとして、元妻が逮捕された。容疑者は犯行を認めているが、動機は明らかになっていない。長期間にわたり現場の家賃を支払い続けていた異例の状況も浮かび、",
+          "url": "https://news.yahoo.co.jp/articles/bf4917ff30cc8e4de81f1548c79e5f45ca5d2d84",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-25T14:00:40Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260625-01165891-fnn-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "アニメ「Dr.STONE」完結！稲垣理一郎＆Boichiのイラスト到着 大規模アニメ展の告知も",
+          "description": "稲垣理一郎・Boichi原作によるTVアニメ「Dr.STONE」シリーズが、本日6月25日のファイナルシーズン最終回放送をもって完結。稲垣とBoichiによる、ファンへの感謝を込めたイラストとコメントが到着した。",
+          "url": "https://natalie.mu/comic/news/677791",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-06-25T13:30:00Z",
+          "image": "https://ogre.natalie.mu/media/news/comic/2026/0625/drstone_anime_kanketsuill.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
+        {
+          "title": "話題の左右分割キーボード「Keychron Orca echo」 クラファン開始1週間で支援額が3億円突破",
+          "description": "テクノロジー＆ガジェットメディア「キズモード・ジャパン」とキーボードブランド・Keychron（キークロン）が共同開発した、完全無線接続の左右分割キーボードとして話題を呼んでいる「Keychron Orca echo（キークロン オルカ エコー）」。6月19日からクラウドファンディングがスタートしていますが、その購入総額（支援総…",
+          "url": "https://kai-you.net/article/95785",
+          "source": {
+            "name": "KAI-YOU"
+          },
+          "publishedAt": "2026-06-25T13:10:00Z",
+          "image": "https://img.kai-you.net/storage/2026/06/5dfc8c78-d82e-4a3b-a8ac-2c46daf94947/jpg/KeychronOrcaecho.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "マイクロソフトが苦渋の決断。Windows 10の個人利用「実質1年延長」の背景にはPC価格高騰か",
+          "description": "マイクロソフトは個人向けWindows 10の拡張セキュリティ更新プログラム（ESU）を1年延長し、2027年10月まで提供すると発表しました。PC価格高騰による移行遅れへの対応とみられます。",
+          "url": "https://www.businessinsider.jp/article/2606-windows-10-support-extended/",
+          "source": {
+            "name": "Business Insider Japan"
+          },
+          "publishedAt": "2026-06-25T13:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/06/24/e6a43d7a-8998-4117-8b44-faff30062dc4/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "まだ終わらんよ！Windows 10のサポートが1年延長。来年10月まで実質無料に",
+          "description": "Windows 10のサポートを延長するESU(Extended Security Update : 拡張セキュリティ更新)の期限が1年先の2027年10月12日まで延長される(法人向けは従来通り)。",
+          "url": "https://pc.watch.impress.co.jp/docs/news/2120164.html",
           "source": {
             "name": "PC Watch"
           },
-          "publishedAt": "2026-06-25T10:00:00Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2119/895/001a.jpg",
+          "publishedAt": "2026-06-25T13:00:00Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2120/164/image.jpg",
           "language": "ja"
         },
         {
-          "title": "【台風7号・随時更新】沖縄の大型店舗・施設・交通機関の臨時休業まとめ",
-          "description": "沖縄地方への台風7号接近に伴い、臨時休業や変更を決めた公共施設、交通機関、大型店舗などの情報は以下の通りです。最終更新：6月25日 午後7時（※最新情報が入り次第、随時更新します）行政・議会▼沖縄県議会２６日（金）の本会議は休会。",
-          "url": "https://www.okinawatimes.co.jp/articles/-/1866784",
+          "title": "ビデオゲーム史上最高額、約4億8354万円で落札 未開封『スーパーマリオブラザーズ』 これまでの記録を1億円以上更新",
+          "description": "米国最大のオークションハウスであるヘリテージ・オークションズ（本社：米国、テキサス州）は25日、12日〜13日に開催した「Video Games Signature（R） Auction」（ビデオゲーム・シグネチャー・オークション）で、最…",
+          "url": "https://www.sankei.com/article/20260625-OA5TOLBH4VPQVC22AJC4PN6XGA/?outputType=theme_oriconnews",
           "source": {
-            "name": "沖縄タイムス社"
+            "name": "産経ニュース"
           },
-          "publishedAt": "2026-06-25T10:00:00Z",
-          "image": "https://oki.ismcdn.jp/mwimgs/c/9/1200wm/img_c92ddda91a40dcd54cac77724098f3df78316.jpg",
+          "publishedAt": "2026-06-25T12:31:10Z",
+          "image": "https://www.sankei.com/resizer/v2/CELONM4OBZKLFFWFAFKJHIWKHQ.jpg?auth=fdfec0146e38fdf57bbcc5ce0b820f5128161784a91eb048d8736091086db377&quality=50&smart=true&width=1200&height=675",
           "language": "ja"
         },
         {
-          "title": "Radeon RX 7000シリーズが予定より早くFSR 4に対応、中堅GPUでもより鮮明でリアルな映像を実現！",
-          "description": "AMDが6月23日に公開した「AMD Software Adrenalin 26.6.2」において、RX 7000シリーズにおけるFSR 4対応が解禁となった。既存のFSR 3と比較して性能や画質がどう変化するのかに絞って検証する。",
-          "url": "https://ascii.jp/elem/000/004/413/4413639/",
+          "title": "ビデオゲーム史上最高額、約4億8354万円で落札 未開封『スーパーマリオブラザーズ』 これまでの記録を1億円以上更新",
+          "description": "米国最大のオークションハウスであるヘリテージ・オークションズ（本社：米国、テキサス州）は25日、12日〜13日に開催した「Video Games Signature（R） Auction」（ビデオゲ……",
+          "url": "https://www.ehime-np.co.jp/article/202606250240",
           "source": {
-            "name": "ASCII.jp"
+            "name": "愛媛新聞"
           },
-          "publishedAt": "2026-06-25T10:00:00Z",
-          "image": "https://ascii.jp/img/2026/06/25/4489365/xl/cc3d8fc8a467f3dc.png?20200122",
+          "publishedAt": "2026-06-25T12:23:32Z",
+          "image": "https://www.ehime-np.co.jp/media/images/img/logo_ogp.jpg",
           "language": "ja"
         },
         {
-          "title": "MSI、RGBストライプ構造のQD-OLEDを採用した34型湾曲ゲーミングモニター",
-          "description": "MSIは6月25日、280Hz対応の5層タンデムQD-OLEDを採用した34.18インチUWQHD(3,440×1,440ドット)湾曲率1,800Rのゲーミングモニター「MAG 341CQP QD-OLED X28」を発売した。直販価格は21万4,800円。",
-          "url": "https://pc.watch.impress.co.jp/docs/news/2120120.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-06-25T09:38:39Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2120/120/01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "サッカー:餓狼のブラジル代表、1位通過もネイマール復帰の成否はみえず",
-          "description": "【マイアミ=阿刀田寛】サッカーのワールドカップ（W杯）北中米大会は24日、マイアミなどで1次リーグを行い、C組のブラジルが3-0でスコットランドに快勝し、2勝1分けの勝ち点7の1位で突破した。決勝トーナメント1回戦でブラジルは日本が入るF組2位と対戦する。試合の出だしで、スコットランドが派手にずっこけた。この大会初出場のCBマッケナが自陣ゴール前でブラジルの寄せ手にボールをつつかれ、それを拾っ",
-          "url": "https://www.nikkei.com/article/DGXZQODH253SO0V20C26A6000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-06-25T09:21:57Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3222138025062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.67&fp-y=0.16&h=630&w=1200&s=efddbe94001d6ff018b59972607a174c",
-          "language": "ja"
-        },
-        {
-          "title": "台風7号 27日にかけて九州・沖縄～関東を直撃 暴風や土砂災害に厳重警戒",
-          "description": "台風7号は27日にかけて沖縄、九州から関東にかけて接近する見通しです。雨や風が強まって大荒れの天気となるため、暴風や土砂災害などに厳重に警戒してください。",
-          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/06/25/39472.html",
+          "title": "青森県で震度4の地震 津波の心配なし",
+          "description": "25日午後8時58分頃、岩手県沖を震源とするマグニチュード4.7の地震が発生し、青森県で最大震度4を観測しました。この地震による津波の心配はありません。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/06/25/39479.html",
           "source": {
             "name": "tenki.jp"
           },
-          "publishedAt": "2026-06-25T09:15:04Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/394/39472/main/20260625180656/large.jpg",
+          "publishedAt": "2026-06-25T12:04:26Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/394/39479/main/20260625213318/large.jpg",
           "language": "ja"
         },
         {
-          "title": "『グランド・セフト・オートVI』について新たに判明した、ゲームプレイに関する22の事柄",
-          "description": "釣り、盗品の換金、クラシックカーのレストアなどなど",
-          "url": "https://jp.ign.com/grand-theft-auto-vi/83599/vi22",
+          "title": "二宮和也が“人生の1本”として選んだのは「僕がユーザーとして出会った作品」（イベントレポート / 写真19枚）",
+          "description": "本日6月25日に東京・TOHOシネマズ 日比谷で一夜限りの特別イベント「シークレットシネマ」が行われ、アンバサダーを務める二宮和也が出席した。",
+          "url": "https://natalie.mu/music/news/677713",
           "source": {
-            "name": "IGN Japan"
+            "name": "ナタリー"
           },
-          "publishedAt": "2026-06-25T09:02:00Z",
-          "image": "https://sm.ign.com/t/ign_jp/feature/2/22-new-gta/22-new-gta-6-gameplay-details-revealed_q9xv.1200.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "FW宮代大聖選手 UDラス・パルマスへ完全移籍のお知らせ",
-          "description": "ヴィッセル神戸に関する最新情報をご覧いただけます。",
-          "url": "https://www.vissel-kobe.co.jp/news/article/26664.html",
-          "source": {
-            "name": "ヴィッセル神戸"
-          },
-          "publishedAt": "2026-06-25T09:00:22Z",
-          "image": "https://www.vissel-kobe.co.jp/pic_img/news/0000026664_1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "旭川女子高校生殺害、内田被告人が控訴しない方針…「なんで？」SNSでは疑問の声も 弁護士が考察",
-          "description": "【弁護士ドットコム】当時17歳の女子高校生を殺害したとして、殺人などの罪に問われ旭川地裁から懲役27年の判決を受けた内田梨瑚被告人が、控訴しない方針であることが報じられました。\n報道によると、弁護人が6月24日、内田被告人と面会し確認した...",
-          "url": "https://www.bengo4.com/c_1009/n_20568/",
-          "source": {
-            "name": "bengo4.com"
-          },
-          "publishedAt": "2026-06-25T08:56:00Z",
-          "image": "https://storage.bengo4.com/news/images/23382.png?1782377813",
-          "language": "ja"
-        },
-        {
-          "title": "【台風情報 更新中】週末も大雨警戒 “ダブル台風”7号＋8号が梅雨前線を活発化 今後の見通しは",
-          "description": "台風7号と8号がほぼ同時に北上しています。今週末にかけて台風本体の雨雲が本州方面へと進んでくるため、関東などまだあまり雨が降っていない地域でも、雨量が一気に増えるおそれがあります。",
-          "url": "https://news.tv-asahi.co.jp/news_society/articles/900193621.html",
-          "source": {
-            "name": "テレ朝NEWS"
-          },
-          "publishedAt": "2026-06-25T08:50:29Z",
-          "image": "https://news.tv-asahi.co.jp/articles_img/900193621_1200.jpg",
+          "publishedAt": "2026-06-25T11:30:00Z",
+          "image": "https://ogre.natalie.mu/media/news/music/2026/0625/DSC_6116.jpg?impolicy=twitter_card_face_crop",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Water claimed eight lives during Midsummer holiday in Latvia",
-          "description": "This year’s Midsummer holiday brings not only several days off but also summery weather. However, this has had tragic consequences, as several people have drowned in Latvian bodies of water in recent...",
-          "url": "https://eng.lsm.lv/article/society/society/25.06.2026-water-claimed-eight-lives-during-midsummer-holiday-in-latvia.a652573/",
+          "title": "Hockey icon Marie-Philip Poulin to undergo knee surgery in July",
+          "description": "Hockey icon Marie-Philip Poulin will undergo knee surgery in July, Montreal Victoire general manager Danièle Sauvageau announced on Thursday.",
+          "url": "https://www.cbc.ca/sports/hockey/pwhl/hockey-icon-marie-philip-poulin-to-undergo-knee-surgery-in-july-9.7248424",
           "source": {
-            "name": "LSM"
+            "name": "CBC"
           },
-          "publishedAt": "2026-06-25T10:21:00Z",
-          "image": "https://static.lsm.lv/media/2026/06/large/1/tm01.jpg",
+          "publishedAt": "2026-06-25T15:52:15Z",
+          "image": "https://i.cbc.ca/ais/262fbb31-f69e-4c55-982b-18d33cda9555,1782393739005/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C100%2C8215%2C4620%29%3BResize%3D620",
           "language": "en"
         },
         {
-          "title": "Overseas trips vital, says finance ministry",
-          "description": "It responds to a report in health news portal which questioned the number of official overseas trips made by top civil servants between May 1 and June 19.",
-          "url": "https://www.freemalaysiatoday.com/category/nation/2026/06/25/overseas-trips-vital-says-finance-ministry",
+          "title": "Oil tankers pass through the Strait of Hormuz despite Iran threats as traffic slowly picks up and oil prices fall",
+          "description": "A number of oil tankers sailed out of the Strait of Hormuz on Thursday along a United Nations-recommended route, defying threats by Iran that any ship not following its approved route “will be dealt with accordingly.”The passage of the Liberian-flagged vessel — perhaps aptly named the Stoic Warrior — came amid continued uncertainty about the future of the crucial waterway.",
+          "url": "https://www.nbcnews.com/world/iran/oil-tanker-passes-strait-hormuz-iran-threats-traffic-trump-tolls-oman-rcna351704",
           "source": {
-            "name": "Free Malaysia Today"
+            "name": "NBC News"
           },
-          "publishedAt": "2026-06-25T10:20:35Z",
-          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/06/c3d562df-anwar-ibrahim-n-vladimir-putin-bernama-180626.webp",
+          "publishedAt": "2026-06-25T15:50:13Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260625-hormuz-rs-dcece0.jpg",
           "language": "en"
         },
         {
-          "title": "Reservist killed, soldier injured in truck accident in south Lebanon",
-          "description": "Master Sgt. (res.) Basil Sweid, 32, killed when military truck overturns; in Gaza, Defense Ministry civilian contractor killed in building collapse",
-          "url": "https://www.timesofisrael.com/reservist-killed-soldier-injured-in-truck-accident-in-south-lebanon/",
-          "source": {
-            "name": "The Times of Israel"
-          },
-          "publishedAt": "2026-06-25T10:20:03Z",
-          "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/באסילסוידזל-e1782367770766.jpeg",
-          "language": "en"
-        },
-        {
-          "title": "Marginalized for her ‘immense ambition’, the genius of director Elaine May is finally being recognized",
-          "description": "As a new retrospective opens, collaborators of the Mikey and Nicky film-maker explain how she blazed a trail for female directors in Hollywood",
-          "url": "https://www.theguardian.com/film/2026/jun/25/elaine-may-director-film-series",
+          "title": "Scenes of destruction after deadly earthquakes in Venezuela - visual guide",
+          "description": "Rescue efforts under way after buildings reduced to rubble in capital and along northern coast",
+          "url": "https://www.theguardian.com/world/2026/jun/25/venezuela-earthquakes-destruction-visual-guide",
           "source": {
             "name": "The Guardian"
           },
-          "publishedAt": "2026-06-25T10:20:00Z",
-          "image": "https://i.guim.co.uk/img/media/7f8218c337097dcf3629597df43450f2837513aa/217_0_1124_900/master/1124.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05feee17c5e6c0c02eb22813e59fac72",
+          "publishedAt": "2026-06-25T15:47:00Z",
+          "image": "https://i.guim.co.uk/img/media/ec932b94762b4c950c8161b2cdc03927ab7e7062/467_0_4306_3444/master/4306.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b28d62c3d37ba54d37d7e4d1186d3bed",
           "language": "en"
         },
         {
-          "title": "Orengo rides into CBD protest wave on motorbike",
-          "description": "Waving a large Kenyan flag, Orengo navigated city streets alongside dozens of other bikers.",
-          "url": "https://www.the-star.co.ke/news/2026-06-25-flag-in-hand-orengo-rides-into-protest-action",
+          "title": "Oo oo, ha ha: why humans and great apes giggle alike when tickled",
+          "description": "The rhythmic patterns of laughter found in apes and humans reveal that complex primate vocal control might have started evolving 15 million years ago.",
+          "url": "https://www.nature.com/articles/d41586-026-01994-8?error=cookies_not_supported&code=0d198aa0-d151-4234-b571-112ec78595af",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "Nature"
           },
-          "publishedAt": "2026-06-25T10:20:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/06/4fff9801-bf88-41e0-b369-feca9cd64744.jpg?1782384980612",
+          "publishedAt": "2026-06-25T15:46:40Z",
+          "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01994-8/d41586-026-01994-8_52799794.jpg",
           "language": "en"
         },
         {
-          "title": "“Absolutely huge” 400-year-old black coral stuns scientists in New Zealand",
-          "description": "A giant black coral estimated to be 300–400 years old has been discovered deep in Fiordland, New Zealand, astonishing researchers with its enormous size—about 4 meters tall and 4.5 meters wide. Scientists say it may be one of the largest black corals ever recorded in New Zealand waters and an important stronghold for the slow-growing species.",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260623014018.htm",
+          "title": "Tanzania: Temeke DC Calls for Joint Action Against Counterfeit Goods",
+          "description": "THE District Commissioner of Temeke, Sixtus Mapunda, has said that the fight against counterfeit goods requires cooperation between citizens, the government, and the private sector, because the impacts are significant on health, the economy, and legitimate business. He explained that counterfeit products such as alcohol, cigarettes, and lubricants put consumers at risk and deprive compliant producers--those who follow all legal procedures and pay taxes--of their rightful benefits.",
+          "url": "https://allafrica.com/stories/202606250632.html",
           "source": {
-            "name": "ScienceDaily"
+            "name": "allAfrica.com"
           },
-          "publishedAt": "2026-06-25T10:16:42Z",
-          "image": "https://www.sciencedaily.com/images/1920/giant-black-coral-found-in-fiordland.webp",
+          "publishedAt": "2026-06-25T15:46:25Z",
+          "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
           "language": "en"
         },
         {
-          "title": "“Absolutely huge” 400-year-old black coral stuns scientists in New Zealand",
-          "description": "A giant black coral estimated to be 300–400 years old has been discovered deep in Fiordland, New Zealand, astonishing researchers with its enormous size—about 4 meters tall and 4.5 meters wide. Scientists say it may be one of the largest black corals ever recorded in New Zealand waters and an important stronghold for the slow-growing species.",
-          "url": "http://www.sciencedaily.com/releases/2026/06/260623014018.htm",
+          "title": "Who will Netherlands play in World Cup Round of 32? Possible opponents",
+          "description": "The Netherlands aims to reach the Round of 32 of the 2026 FIFA World Cup. Here are their potential next opponents.",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/25/netherlands-round-of-32-possible-opponents/90693035007/",
           "source": {
-            "name": "ScienceDaily"
+            "name": "USA Today"
           },
-          "publishedAt": "2026-06-25T10:16:42Z",
-          "image": "https://www.sciencedaily.com/images/1920/giant-black-coral-found-in-fiordland.webp",
+          "publishedAt": "2026-06-25T15:45:00Z",
+          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/25/USAT/90693056007-2282522394.jpg?crop=4761,2680,x0,y137&width=3200&height=1802&format=pjpg&auto=webp",
           "language": "en"
         },
         {
-          "title": "Any US-Iran deal will ensure security of Gulf allies, Rubio assures GCC nations during Mideast tour",
-          "description": "\"No country on Earth has the right to charge for the use of international waterways,\" he says at GCC meeting.",
-          "url": "https://www.dawn.com/news/2010780",
+          "title": "Tanzania: Zambia Rea Team Visits Chamwino to Learn From Tanzania's Rural Electrification Success",
+          "description": "OFFICIALS from Zambia's Rural Electrification Authority (REA), led by Chief Executive Officer,Alex Mbumba, have visited Tanzania to learn how rural electrification projects are being implemented and how they are transforming lives in rural communities.",
+          "url": "https://allafrica.com/stories/202606250631.html",
           "source": {
-            "name": "Dawn"
+            "name": "allAfrica.com"
           },
-          "publishedAt": "2026-06-25T10:16:05Z",
-          "image": "https://i.dawn.com/large/2026/06/2514461748df65f.webp",
+          "publishedAt": "2026-06-25T15:45:00Z",
+          "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
           "language": "en"
         },
         {
-          "title": "Better Together: Connect home and mobile with Globe for bigger value and everyday savings",
-          "description": "In today’s fast‑moving world, staying connected is about more than speed, it’s about having one seamless experience that keeps up with family, work, and...",
-          "url": "https://mb.com.ph/2026/06/25/better-together-connect-home-and-mobile-with-globe-for-bigger-value-and-everyday-savings",
+          "title": "Beautiful Influencer Shares 17 Reasons Why She’s a Terrible Girlfriend",
+          "description": "A Kenyan influencer shares 17 reasons why she believes she wouldn’t make a great girlfriend, sparking self-reflection among netizens on their own traits.",
+          "url": "https://www.tuko.co.ke/entertainment/celebrities/630741-beautiful-influencer-shares-17-reasons-s-a-terrible-girlfriend/",
           "source": {
-            "name": "Manila Bulletin"
+            "name": "Tuko News"
           },
-          "publishedAt": "2026-06-25T10:15:58Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/25/111540.webp",
+          "publishedAt": "2026-06-25T15:44:52Z",
+          "image": "https://cdn.tuko.co.ke/images/1200x675/e1c033dc64e5b809.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "State police in Nigeria: Senate pass bill to establish state police",
-          "description": "President Bola Tinubu bin send one constitution amendment bill go Senate wey dey seek make Nigeria get state police as part of efforts to reform di kontri security system.",
-          "url": "https://www.bbc.com/pidgin/articles/cgl318g64z6o",
+          "title": "‘Dutton Ranch’ Stars Kelly Reilly & Cole Hauser Break Silence on Showrunner Exit",
+          "description": "Why they went their separate ways after Season 1 of the 'Yellowstone' spinoff.",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/dutton-ranch-stars-kelly-reilly-154447226.html",
           "source": {
-            "name": "BBC"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-06-25T10:13:14Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_pidgin/b136/live/9d58f800-6fea-11f1-b1db-af71d47507d6.jpg",
+          "publishedAt": "2026-06-25T15:44:47Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/6730a33aafd45aa7859891fab9f92a46905acc4f20bd7367bd09ff934e43eb9b/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F395563c339e641a713597990c93f4f06",
+          "language": "en"
+        },
+        {
+          "title": "Signing of 'warrior' complete with £34.5m deal DONE after Arteta's approval",
+          "description": "Arsenal have officially completed their first signing of the summer, with Bayer Leverkusen defender Piero Hincapie joining permanently after a successful season-long loan at the Emirates.",
+          "url": "https://www.teamtalk.com/arsenal/piero-hincapie-transfer-news-arsenal-deal-done-arteta",
+          "source": {
+            "name": "TEAMtalk"
+          },
+          "publishedAt": "2026-06-25T15:44:04Z",
+          "image": "https://images.teamtalk.com/content/uploads/2026/02/24160159/piero-hincapie-1.jpg",
           "language": "en"
         }
       ]
