@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-26T17:00:51.334Z",
+  "updatedAt": "2026-06-26T19:49:51.250Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "あまりのコスパのよさに追加購入。サブモニターに最適です。",
+          "description": "2025年3月24日の記事を編集して再掲載しています。数年前まで、パソコンのモニターは1枚で十分だと思っていた筆者。ところが、何気なくAmazonのセールで安価なモニターを購入し、デュアルモニター環境にしてみたところ、作業効率が爆上がり。し",
+          "url": "https://www.gizmodo.jp/article/msi-pro-mp2412-review-nvn/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-06-26T07:35:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2025/03/21/250321_MSI_01.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "直径最大1.6km、「エッフェル塔の5倍」サイズの小惑星が今週末に地球接近",
+          "description": "今週末、直径最大1.6kmと推定される地球近傍小惑星が地球に接近する。衝突の危険はまったくないが、これほどの大きさの小惑星が地球をかすめて通り過ぎるのは異例で、間近で観測する貴重な機会となる。小惑星「（152637）1997 NC1」は、2...",
+          "url": "https://forbesjapan.com/articles/detail/99848",
+          "source": {
+            "name": "Forbes JAPAN"
+          },
+          "publishedAt": "2026-06-26T07:00:00Z",
+          "image": "https://images.forbesjapan.com/media/article/99848/images/main_image_975ae005302003520e7409b43fab0fad548be4df.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ヴェネズエラ地震、生存者の捜索続く 死傷者さらに増える恐れも",
+          "description": "南米ヴェネズエラでマグニチュード（M）7超の強い地震が2度立て続けに発生してから1日たった25日、被災地では救助活動が続いた。AFP通信によると、カルロス・アルヴァラド保健相が国営テレビで25日、死者が少なくとも235人に増えたと発表。負傷者は少なくとも4300人に上るとした。",
+          "url": "https://www.bbc.com/japanese/articles/ced46e0j1dqo",
+          "source": {
+            "name": "bbc.com"
+          },
+          "publishedAt": "2026-06-26T06:53:16Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/5ff4/live/aa946140-70f7-11f1-9a82-89f06f847cb2.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "関東・東北で地震相次ぐ 揺れの大きかった地域は少しの雨でも土砂災害に注意を",
+          "description": "今日26日までの1週間(6月19日14時00分～26日14時00分)で発生した地震は45回で、そのうち最大震度3以上の地震は7回でした。昨日25日は青森県で震度6強を観測する地震があり、今日26日は千葉県や茨城県で震度4を観測する地震がありました。日頃から地震への備えを進めておいてください。",
+          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/06/26/39494.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-06-26T06:22:04Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/394/39494/main/20260626142008/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Steamサマーセール開幕！今年の夏は\"最弱からの異世界生活\"で決まり―最初からのチートはナシ、泥臭さ全開のオープンワールドRPG5選",
+          "description": "千里の道も一歩から",
+          "url": "https://www.gamespark.jp/article/2026/06/26/168475.html",
+          "source": {
+            "name": "Game*Spark"
+          },
+          "publishedAt": "2026-06-26T06:00:04Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1150406.jpg",
+          "language": "ja"
+        },
         {
           "title": "約15万円の格安自作PCで長く使える高性能環境を実現！ Socket AM5対応で2029年まで進化を続けるAMD Ryzen搭載",
           "description": "パソコンが欲しいが、価格を抑えたい人におすすめしたいのが、自作のデスクトップPCだ。将来的にパーツを載せ替えたり増設したりすることで、長く使えるのでコストパフォーマンス抜群なのだ。",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-06-26T04:22:00Z",
           "image": "https://ogre.natalie.mu/media/news/owarai/2026/0626/marumarumaru01.jpg?impolicy=twitter_card_face_crop",
           "language": "ja"
-        },
-        {
-          "title": "ダブル台風が明日27日東海に最接近 雨・風のピーク 総雨量が増え大雨災害リスク大",
-          "description": "東海地方は、明日27日(土)、ダブル台風の接近や梅雨前線の影響で、雨や風のピークとなるでしょう。台風の最接近や、今後の雨や風の見通しなどについてまとめました。",
-          "url": "https://tenki.jp/forecaster/n_takeshita/2026/06/26/39486.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-06-26T04:13:05Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/394/39486/main/20260626114735/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「Google Chrome」に今週2回目のセキュリティ修正 ～決済や広告フィルターの脆弱性に対処",
-          "description": "米Googleは6月25日（現地時間）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にv149.0.7827.200/.201が、Linux環境にv149.0.7827.200が展開中だ。",
-          "url": "https://forest.watch.impress.co.jp/docs/news/2120211.html",
-          "source": {
-            "name": "窓の杜"
-          },
-          "publishedAt": "2026-06-26T04:05:00Z",
-          "image": "https://forest.watch.impress.co.jp/img/wf/list/2120/211/google_chrome.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ダブル台風が関東を直撃 8号が接近・上陸のあと7号が接近 27日は大雨ピーク2回",
-          "description": "明日27日、関東には台風8号と台風7号、二つの台風が立て続けに直撃する予想です。まず、台風8号が朝から昼前にかけて関東にかなり接近または上陸する恐れがあります。動きが速いため、急速に雨・風が強まる見通しです。その後、台風7号が夕方から夜遅くにかけて関東に接近する見込みです。このため、関東では大雨のピークは朝と夜の2回ありそうです。総雨量が6月の平年ひと月の雨量を超え、今月3日に襲来した台風6号に匹敵またはそれ以上の大雨となる可能性があります。",
-          "url": "https://tenki.jp/forecaster/t_yoshida/2026/06/26/39489.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-06-26T04:03:47Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/394/39489/main/20260626124417/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "茨城県、千葉県で震度4の地震 津波の心配なし",
-          "description": "26日午後0時46分頃、千葉県北東部を震源とするマグニチュード5.8の地震が発生し、茨城県、千葉県で最大震度4を観測しました。この地震による津波の心配はありません。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/06/26/39493.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-06-26T03:54:28Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/394/39493/main/20260626131526/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ダブル台風と梅雨前線 九州では降水量600ミリ超 関東・東海も土砂災害などに警戒",
-          "description": "梅雨前線や台風周辺の暖かく湿った空気の影響で、西日本では今月23日からの降水量が600ミリを超えた所があります。27日にかけて東日本でも雨の量が多くなるため、土砂災害や川の氾濫などに厳重に警戒が必要です。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/06/26/39491.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-06-26T03:45:31Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/394/39491/main/20260626121550/large.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "There is a significant risk of Ebola spillover into South Sudan, WHO study warns",
-          "description": "There is a 70% chance that Ebola could reach South Sudan, according to a World Health Organization modelling study published on Thursday. Researchers said that preparing the country for a proper response is the “most urgent priority.”",
-          "url": "https://www.euronews.com/health/2026/06/26/there-is-a-significant-risk-of-ebola-spillover-into-south-sudan-who-study-warns",
+          "title": "CEU earns spot in 2026 THE Sustainability Impact Rankings",
+          "description": "The Centro Escolar University (CEU) was among the universities recognized in the 2026 Times Higher Education (THE) Sustainability Impact Rankings after placing...",
+          "url": "https://mb.com.ph/2026/06/26/ceu-earns-spot-in-2026-the-sustainability-impact-rankings",
           "source": {
-            "name": "Euronews"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-06-26T05:00:53Z",
-          "image": "https://images.euronews.com/articles/stories/09/78/75/53/1200x675_cmsv2_c0f3f5d0-b46d-5c2f-8af4-836231ade1ae-9787553.jpg",
+          "publishedAt": "2026-06-26T07:49:06Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/26/111771.webp",
           "language": "en"
         },
         {
-          "title": "Inside Dadaab: Aid cuts push young people to risk route to Europe",
-          "description": "Young refugees are making the desperate choice of leaving for the dangerous route to Europe from Africa's largest refugee camp.",
-          "url": "https://www.rte.ie/news/primetime/2026/0626/1580397-dadaab-aid-cuts/",
+          "title": "Voter registration at 64% four months before elections",
+          "description": "After the registration weekend on 20 and 21 June, there were 28.5 million people on the voters’ roll. That’s about 64% of people in South Africa who are 18 years and older.",
+          "url": "https://www.news24.com/southafrica/news/voter-registration-at-64-four-months-before-elections-20260626-0431",
           "source": {
-            "name": "RTE.ie"
+            "name": "News24"
           },
-          "publishedAt": "2026-06-26T05:00:43Z",
-          "image": "https://www.rte.ie/images/002495e9-1600.jpg",
+          "publishedAt": "2026-06-26T07:48:04Z",
+          "image": "https://news24cobalt.24.co.za/resources/02a3-2040ab9cae6d-b890df9a14c2-1000/format/inline/elections_05.jpeg",
           "language": "en"
         },
         {
-          "title": "Equity Bank gives schools financial stability",
-          "description": "Equity Bank Uganda Steps In to Bridge School Financing Gaps   Kampala, Uganda | NEWS CORRESPONDENT |  Equity Bank Uganda has concluded its School Bridge Financing campaign with a dedicated education sector engagement held on June 23 at Hotel Africana. The event brought together school proprietors, administrators, and education leaders to discuss financing opportunities, sector challenges, …",
-          "url": "https://www.independent.co.ug/equity-bank-gives-schools-financial-stability/",
-          "source": {
-            "name": "The Independent Uganda"
-          },
-          "publishedAt": "2026-06-26T05:00:43Z",
-          "image": "https://www.independent.co.ug/wp-content/uploads/2026/06/Equity-schools.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Oil Heads for Weekly Loss as Hormuz Tanker Traffic Rebounds",
-          "description": "Crude oil prices fell sharply for the week as signs of recovering tanker traffic through the Strait of Hormuz outweighed fresh security concerns, although analysts caution that inbound shipping remains weak and new supply risks persist.",
-          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Heads-for-Weekly-Loss-as-Hormuz-Tanker-Traffic-Rebounds.html",
-          "source": {
-            "name": "Crude Oil Prices Today | OilPrice.com"
-          },
-          "publishedAt": "2026-06-26T05:00:00Z",
-          "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-25_29cj1qopg6.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Effects of Veronica Guerin's murder felt 30 years on",
-          "description": "Crime Correspondent Paul Reynolds details the events surrounding Veronica Guerin's killing and recounts the lives of those responsible for her murder in the years since.",
-          "url": "https://www.rte.ie/news/analysis-and-comment/2026/0626/1580362-veronica-guerin-30-years-on/",
-          "source": {
-            "name": "RTE.ie"
-          },
-          "publishedAt": "2026-06-26T05:00:00Z",
-          "image": "https://www.rte.ie/images/00101f2b-1600.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Home Affairs says Smart ID takes 5 minutes - but how long are South Africans really waiting?",
-          "description": "Discover the reality behind the Home Affairs' claim that Smart ID applications take just five minutes, and learn what South Africans can truly expect during the process.",
-          "url": "https://iol.co.za/news/south-africa/2026-06-26-home-affairs-says-smart-id-takes-5-minutes--but-how-long-are-south-africans-really-waiting/",
-          "source": {
-            "name": "IOL"
-          },
-          "publishedAt": "2026-06-26T04:59:03Z",
-          "image": "https://iol-prod.appspot.com/image/0b8242b3bcce83f83a2b4af886265057aaf5e154/1000/jpeg",
-          "language": "en"
-        },
-        {
-          "title": "Australia reach World Cup knockouts after goalless draw with Paraguay",
-          "description": "The Socceroos are in the knockout phase for a third time, four years after reaching the last 16 in Qatar. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/sport/football/australia-reach-world-cup-knockouts-after-goalless-draw-with-paraguay",
-          "source": {
-            "name": "The Straits Times"
-          },
-          "publishedAt": "2026-06-26T04:58:45Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/bd948b466ffee9fa94e5fbac1cf758aedf5b2a102e64cf80019301280013f02e",
-          "language": "en"
-        },
-        {
-          "title": "Turkiye beats U.S. with last-gasp goal as Americans look ahead to World Cup knockout stage",
-          "description": "Kaan Ayhan scored on the final kick of the match, and Turkey beat the United States 3-2 Thursday night for its only win of the World Cup.",
-          "url": "https://www.tsn.ca/soccer/fifa-world-cup/article/turkiye-beats-us-with-last-gasp-goal-as-americans-look-ahead-to-world-cup-knockout-stage/",
-          "source": {
-            "name": "TSN"
-          },
-          "publishedAt": "2026-06-26T04:57:04Z",
-          "image": "https://www.tsn.ca/resizer/v2/57M6V3P56RE6NIOTWII5FKBXYY.jpg?smart=true&auth=736ae5b2770e3d5b678737635c56cdfaba99f1e6ebd94006e237e88b3d48797e&width=1200&height=630",
-          "language": "en"
-        },
-        {
-          "title": "USA suffer late defeat to Turkey but eye Bosnia and Herzegovina in World Cup knockout stage",
-          "description": "Mauricio Pochettino’s side were beaten with the last kick of the game but still advance as group winners",
-          "url": "https://www.theguardian.com/football/2026/jun/26/turkey-usa-world-cup-2026-match-report",
+          "title": "Immigration minister says he ‘won’t be intimidated’ to drop his views as row with home secretary escalates - UK politics live",
+          "description": "Mike Tapp wrote a piece for the Times calling for overseas care workers to be exempt from hardline immigration changes",
+          "url": "https://www.theguardian.com/politics/live/2026/jun/26/military-bases-asylum-seekers-immigration-refugees-labour-andy-burnham-keir-starmer-uk-politics-latest-news-updates",
           "source": {
             "name": "The Guardian"
           },
-          "publishedAt": "2026-06-26T04:55:00Z",
-          "image": "https://i.guim.co.uk/img/media/eaefbafe51849924be10d2b3107c9802b9db142d/583_0_5250_4200/master/5250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21186dfbbc2edf3bc52b1d738b2348f5",
+          "publishedAt": "2026-06-26T07:48:00Z",
+          "image": "https://i.guim.co.uk/img/media/c500efd4716329d831fbaca3da4b5d60243f8e3d/531_0_5307_4246/master/5307.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8bd44383f659965e30a1873fba937eef",
           "language": "en"
         },
         {
-          "title": "World Cup 2026: Turkiye beat US 3-2 with stoppage-time goal in dead rubber",
-          "description": "Kaan Ayhan scored the winner late in stoppage time as Turkiye handed the US their first defeat of 2026 FIFA World Cup.",
-          "url": "https://www.aljazeera.com/sports/2026/6/26/turkiye-usa-fifa-world-cup-2026-ayhan-guler-yilmaz-trusty-berhalter-pulisic",
+          "title": "Zayra Baby shares journey to self-acceptance after body shaming",
+          "description": "Zayra Baby revealed that she initially preferred wearing baggy outfits due to body insecurities caused by body shaming on TikTok, but has since embraced her body and regained her confidence.",
+          "url": "https://mbu.ug/2026/06/26/zayra-baby-shares-journey-to-self-acceptance-after-body-shaming/",
           "source": {
-            "name": "Al Jazeera"
+            "name": "mbu.ug"
           },
-          "publishedAt": "2026-06-26T04:54:29Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260626__B8DB39K__v1__HighRes__FblWc2026Match59TurUsa-1782447501.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-06-26T07:47:49Z",
+          "image": "https://mbu.ug/wp-content/uploads/2026/06/Zayra-3-edited.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Google Fixes 18 Serious Chrome Issues In Latest Flurry Of Patches",
+          "description": "Google has issued the Chrome 149 update for its popular browser, fixing 18 vulnerabilities, many of which are serious. Here are the details.",
+          "url": "https://www.forbes.com/sites/kateoflahertyuk/2026/06/26/google-fixes-18-serious-chrome-issues-in-latest-flurry-of-patches/",
+          "source": {
+            "name": "Forbes"
+          },
+          "publishedAt": "2026-06-26T07:46:45Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/689c8afcf0f5fb091a1a5b7c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "language": "en"
+        },
+        {
+          "title": "The HUAWEI nova 15 Max makes a strong case as the best smartphone under R10,000",
+          "description": "The best technology should quietly remove concerns from your day. That's the thinking behind the new HUAWEI nova 15 Max.",
+          "url": "https://stuff.co.za/2026/06/26/huawei-nova-15-max-makes-strong-case/",
+          "source": {
+            "name": "Stuff South Africa"
+          },
+          "publishedAt": "2026-06-26T07:46:21Z",
+          "image": "https://stuff.co.za/wp-content/uploads/2026/06/nova-15-Max.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Palm oil climbs on higher exports and Indian demand expectations",
+          "description": "PALM oil advanced on rising Malaysian exports and expectations of better demand from the biggest buyer India as festival season nears.",
+          "url": "https://www.thestar.com.my/business/business-news/2026/06/26/palm-oil-climbs-on-higher-exports-and-indian-demand-expectations",
+          "source": {
+            "name": "The Star"
+          },
+          "publishedAt": "2026-06-26T07:46:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/06/26/3978617.jpeg",
+          "language": "en"
+        },
+        {
+          "title": "Menstrual blood test to help detect endometriosis - Experts",
+          "description": "A potential new test using menstrual blood could one day offer a simpler, non-invasive way to detect endometriosis, according to research published in Nature.",
+          "url": "https://tribuneonlineng.com/menstrual-blood-test-to-help-detect-endometriosis-experts/",
+          "source": {
+            "name": "Tribune Online"
+          },
+          "publishedAt": "2026-06-26T07:45:34Z",
+          "image": "https://tribuneonlineng.com/wp-content/uploads/2026/06/blood-endometri.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Arsenal prepare second Bruno Guimaraes bid after Newcastle shut down initial approach from Premier League champions",
+          "description": "Arsenal saw a £55m bid for Bruno Guimaraes rejected by Newcastle but Mikel Arteta remains determined to sign the Brazil midfielder this summer.",
+          "url": "https://www.goal.com/en-ng/lists/arsenal-bruno-guimaraes-second-bid-newcastle-premier-league-champions/bltf9a95c8fbe50ba6d",
+          "source": {
+            "name": "Goal.com"
+          },
+          "publishedAt": "2026-06-26T07:45:07Z",
+          "image": "https://assets.goal.com/images/v3/getty-2282638957/crop/MM5DGNJWHA5DEMBQG45G433XMU5DINBWHI2DQMY=/GettyImages-2282638957.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Arsenal prepare second Bruno Guimaraes bid after Newcastle shut down initial approach from Premier League champions",
+          "description": "Arsenal saw a £55m bid for Bruno Guimaraes rejected by Newcastle but Mikel Arteta remains determined to sign the Brazil midfielder this summer.",
+          "url": "https://www.goal.com/en-ug/lists/arsenal-bruno-guimaraes-second-bid-newcastle-premier-league-champions/bltf9a95c8fbe50ba6d",
+          "source": {
+            "name": "Goal.com"
+          },
+          "publishedAt": "2026-06-26T07:45:07Z",
+          "image": "https://assets.goal.com/images/v3/getty-2282638957/crop/MM5DGNJWHA5DEMBQG45G433XMU5DINBWHI2DQMY=/GettyImages-2282638957.jpg",
           "language": "en"
         }
       ]
