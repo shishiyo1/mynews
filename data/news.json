@@ -1,10 +1,32 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-26T03:52:34.540Z",
+  "updatedAt": "2026-06-26T09:29:54.513Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "橋本環奈×チェ・ジョンヒョプのドラマ「バカンスの法則」配信、東村アキコが原作・脚本・監督（特報・コメントあり）",
+          "description": "橋本環奈と「Eye Love You」のチェ・ジョンヒョプが共演するABEMAオリジナルドラマ「バカンスの法則」が、7月27日より無料配信される。同作は、多忙な日々に疲弊した主人公が海辺の別荘で過ごすことから始まる“デトックスロマンス”。...",
+          "url": "https://natalie.mu/eiga/news/677784",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-06-25T21:00:00Z",
+          "image": "https://ogre.natalie.mu/media/news/eiga/2026/0625/vacance_202606_KV.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
+        {
+          "title": "ASCII.jp：動画と高速連写を極めたプロ向けフルサイズカメラ「ライカSL3",
+          "description": "ライカは最大40コマ/秒の高速連写と8.1K/3:2 24Pのオープンゲート撮影を搭載した「ライカSL3-P」を発表しました",
+          "url": "https://ascii.jp/elem/000/004/413/4413768/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-06-25T16:00:00Z",
+          "image": "https://ascii.jp/img/2026/06/26/4489563/xl/eef7e30b6d41479e.jpg?20200122",
+          "language": "ja"
+        },
         {
           "title": "ビデオゲーム史上最高額、約4億8354万円で落札 未開封『スーパーマリオブラザーズ』 これまでの記録を1億円以上更新",
           "description": "米国最大のオークションハウスであるヘリテージ・オークションズ（本社：米国、テキサス州）は25日、12日〜13日に開催した「Video Games Signature（R） Auction」（ビデオ",
@@ -14,6 +36,17 @@
           },
           "publishedAt": "2026-06-25T14:40:03Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260625-00000554-oric-000-12-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "インド映画『バーフバリ』長編アニメに日本からスタジオカラー・スロウカーブ参加 イメージカットを初公開",
+          "description": "世界中で一大ブームを巻き起こしたインド映画『バーフバリ』シリーズの世界観を受け継ぐ、スピンアウトCGアニメーション長編映画『BAAHUBALI: THE ETERNAL WAR PART 1（原題）』に、日本からプロデュースにスロウカーブ、制作にスタジオカラーが参加することが明らかになった。",
+          "url": "https://www.cinematoday.jp/news/N0155531",
+          "source": {
+            "name": "シネマトゥデイ"
+          },
+          "publishedAt": "2026-06-25T14:30:00Z",
+          "image": "https://img.cinematoday.jp/a/LYWFK1aGt9Ma/_size_r1200x630/_v_1782394292/main.jpg",
           "language": "ja"
         },
         {
@@ -81,150 +114,117 @@
           "publishedAt": "2026-06-25T12:31:10Z",
           "image": "https://www.sankei.com/resizer/v2/CELONM4OBZKLFFWFAFKJHIWKHQ.jpg?auth=fdfec0146e38fdf57bbcc5ce0b820f5128161784a91eb048d8736091086db377&quality=50&smart=true&width=1200&height=675",
           "language": "ja"
-        },
-        {
-          "title": "ビデオゲーム史上最高額、約4億8354万円で落札 未開封『スーパーマリオブラザーズ』 これまでの記録を1億円以上更新",
-          "description": "米国最大のオークションハウスであるヘリテージ・オークションズ（本社：米国、テキサス州）は25日、12日〜13日に開催した「Video Games Signature（R） Auction」（ビデオゲ……",
-          "url": "https://www.ehime-np.co.jp/article/202606250240",
-          "source": {
-            "name": "愛媛新聞"
-          },
-          "publishedAt": "2026-06-25T12:23:32Z",
-          "image": "https://www.ehime-np.co.jp/media/images/img/logo_ogp.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "青森県で震度4の地震 津波の心配なし",
-          "description": "25日午後8時58分頃、岩手県沖を震源とするマグニチュード4.7の地震が発生し、青森県で最大震度4を観測しました。この地震による津波の心配はありません。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/06/25/39479.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-06-25T12:04:26Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/394/39479/main/20260625213318/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "二宮和也が“人生の1本”として選んだのは「僕がユーザーとして出会った作品」（イベントレポート / 写真19枚）",
-          "description": "本日6月25日に東京・TOHOシネマズ 日比谷で一夜限りの特別イベント「シークレットシネマ」が行われ、アンバサダーを務める二宮和也が出席した。",
-          "url": "https://natalie.mu/music/news/677713",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-06-25T11:30:00Z",
-          "image": "https://ogre.natalie.mu/media/news/music/2026/0625/DSC_6116.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Hockey icon Marie-Philip Poulin to undergo knee surgery in July",
-          "description": "Hockey icon Marie-Philip Poulin will undergo knee surgery in July, Montreal Victoire general manager Danièle Sauvageau announced on Thursday.",
-          "url": "https://www.cbc.ca/sports/hockey/pwhl/hockey-icon-marie-philip-poulin-to-undergo-knee-surgery-in-july-9.7248424",
+          "title": "Joshua Mike-Bamiloye Says Mount Zion Films Celebrate Yoruba Culture",
+          "description": "Nigerian gospel singer, Joshua Mike-Bamiloye, also known as ‘Jaymikee’, has responded to claims that Mount Zion Faith Ministries portrays Yoruba culture and",
+          "url": "https://leadership.ng/joshua-mike-bamiloye-says-mount-zion-films-celebrate-yoruba-culture/",
           "source": {
-            "name": "CBC"
+            "name": "LEADERSHIP Newspapers"
           },
-          "publishedAt": "2026-06-25T15:52:15Z",
-          "image": "https://i.cbc.ca/ais/262fbb31-f69e-4c55-982b-18d33cda9555,1782393739005/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C100%2C8215%2C4620%29%3BResize%3D620",
+          "publishedAt": "2026-06-25T21:28:44Z",
+          "image": "https://leadership.ng/wp-content/uploads/2026/06/IMG_2623.jpeg",
           "language": "en"
         },
         {
-          "title": "Oil tankers pass through the Strait of Hormuz despite Iran threats as traffic slowly picks up and oil prices fall",
-          "description": "A number of oil tankers sailed out of the Strait of Hormuz on Thursday along a United Nations-recommended route, defying threats by Iran that any ship not following its approved route “will be dealt with accordingly.”The passage of the Liberian-flagged vessel — perhaps aptly named the Stoic Warrior — came amid continued uncertainty about the future of the crucial waterway.",
-          "url": "https://www.nbcnews.com/world/iran/oil-tanker-passes-strait-hormuz-iran-threats-traffic-trump-tolls-oman-rcna351704",
+          "title": "'Dutton Ranch' stars Cole Hauser and Kelly Reilly react to showrunner's abrupt exit",
+          "description": "\"Dutton Ranch\" stars Cole Hauser and Kelly Reilly reacted to showrunner Chad Feehand's abrupt exit before Season 1 premiered. The \"Yellowstone\" spinoff produced by Taylor Sheridan has been renewed for Season 2.",
+          "url": "https://pagesix.com/2026/06/25/entertainment/dutton-ranch-stars-cole-hauser-and-kelly-reilly-react-to-showrunners-abrupt-exit/",
           "source": {
-            "name": "NBC News"
+            "name": "Page Six"
           },
-          "publishedAt": "2026-06-25T15:50:13Z",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260625-hormuz-rs-dcece0.jpg",
+          "publishedAt": "2026-06-25T21:28:00Z",
+          "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/06/dutton-copy.jpg?quality=75&strip=all&w=1200",
           "language": "en"
         },
         {
-          "title": "Scenes of destruction after deadly earthquakes in Venezuela - visual guide",
-          "description": "Rescue efforts under way after buildings reduced to rubble in capital and along northern coast",
-          "url": "https://www.theguardian.com/world/2026/jun/25/venezuela-earthquakes-destruction-visual-guide",
+          "title": "King Charles Will Not Live At Buckingham Palace After Renovations",
+          "description": "King Charles will not live at Buckingham Palace after its 10-year refurbishment finishes next year, royal officials said on Thursday, ending nearly two centuries of the central London landmark serving as the British monarch's primary residence.",
+          "url": "https://www.ndtv.com/world-news/king-charles-will-not-live-at-buckingham-palace-after-renovations-11688706",
+          "source": {
+            "name": "NDTV"
+          },
+          "publishedAt": "2026-06-25T21:27:56Z",
+          "image": "https://c.ndtvimg.com/2026-06/v3mneb4s_king-charles_625x300_26_June_26.jpeg",
+          "language": "en"
+        },
+        {
+          "title": "Court in recess until Friday after jury said it’s in a standstill in Palisades Fire arson trial",
+          "description": "Jurors in the federal trial of Palisades Fire suspect Jonathan Rinderknecht have concluded their second day of deliberations and will return Friday after they initially said they are at a standstill and could not reach a unanimous verdict.",
+          "url": "https://www.cnn.com/2026/06/25/us/palisades-fire-jonathan-rinderknecht",
+          "source": {
+            "name": "CNN"
+          },
+          "publishedAt": "2026-06-25T21:27:36Z",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2192342657.jpg?c=16x9&q=w_800,c_fill",
+          "language": "en"
+        },
+        {
+          "title": "Adili remains finally arrive in Nigeria",
+          "description": "Adili remains finally arrive in Nigeria — Daily Tribune",
+          "url": "https://tribune.net.ph/2026/06/25/adili-remains-finally-arrive-in-nigeria",
+          "source": {
+            "name": "Daily Tribune"
+          },
+          "publishedAt": "2026-06-25T21:27:20Z",
+          "image": "https://images.assettype.com/tribune/2026-06-08/8s6aphge/adili-baterbonia.jpg?w=1200&auto=format",
+          "language": "en"
+        },
+        {
+          "title": "Exclusive: Firm that worked on past Reflecting Pool renovation passed on Trump project after deeming it ‘unfeasible’",
+          "description": "Several months before blue strips started floating to the top of the Lincoln Memorial Reflecting Pool, a company involved in its last renovation more than 15 years ago was approached with an opportunity to do this remodel as well. But the company said no.",
+          "url": "https://www.cnn.com/2026/06/25/politics/reflecting-pool-firm-renovation-unfeasible",
+          "source": {
+            "name": "CNN"
+          },
+          "publishedAt": "2026-06-25T21:27:02Z",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-06-06-06-2026-06-22t011821z-1310550111-rc2nylaawcen-rtrmadp-3-usa-250-reflecting-pool.jpg?c=16x9&q=w_800,c_fill",
+          "language": "en"
+        },
+        {
+          "title": "'Grand Theft Auto VI' is available to pre-order: What to know",
+          "description": "'Grand Theft Auto VI' is available for pre-order. What to know about the highly anticipated video game.",
+          "url": "https://www.goodmorningamerica.com/culture/story/grand-theft-auto-vi-pre-order-134216152",
+          "source": {
+            "name": "Good Morning America"
+          },
+          "publishedAt": "2026-06-25T21:26:24Z",
+          "image": "https://i.abcnewsfe.com/a/85f1aeb0-a8b0-40a0-b176-e0b862239be2/grandtheft-6-gty-er-260625_1782419831866_hpMain_16x9.jpg?w=992",
+          "language": "en"
+        },
+        {
+          "title": "Supreme court conservatives accused of advancing ‘white-supremacist agenda’",
+          "description": "Lawmakers and advocates condemn ‘disastrous’ decisions that allow Trump officials to strip away migrant protections",
+          "url": "https://www.theguardian.com/us-news/2026/jun/25/supreme-court-immigration-rulings",
           "source": {
             "name": "The Guardian"
           },
-          "publishedAt": "2026-06-25T15:47:00Z",
-          "image": "https://i.guim.co.uk/img/media/ec932b94762b4c950c8161b2cdc03927ab7e7062/467_0_4306_3444/master/4306.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b28d62c3d37ba54d37d7e4d1186d3bed",
+          "publishedAt": "2026-06-25T21:26:00Z",
+          "image": "https://i.guim.co.uk/img/media/a97688fd96d43da56bf2cee596d5443f6784fe00/2192_796_4999_3998/master/4999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=beda007d235b0b24e39306b3298175a5",
           "language": "en"
         },
         {
-          "title": "Oo oo, ha ha: why humans and great apes giggle alike when tickled",
-          "description": "The rhythmic patterns of laughter found in apes and humans reveal that complex primate vocal control might have started evolving 15 million years ago.",
-          "url": "https://www.nature.com/articles/d41586-026-01994-8?error=cookies_not_supported&code=0d198aa0-d151-4234-b571-112ec78595af",
+          "title": "King Charles won't live in Buckingham Palace after completion of £369M renovation",
+          "description": "Charles III will not live at Buckingham Palace after the completion of a 10-year, 369-million-pound ($692 million Cdn) refurbishment program as the monarchy seeks to increase public access to the historic building that has been the centre of royal life for almost 200 years.",
+          "url": "https://www.cbc.ca/news/world/king-charles-buckingham-palace-renovation-9.7249298",
           "source": {
-            "name": "Nature"
+            "name": "CBC"
           },
-          "publishedAt": "2026-06-25T15:46:40Z",
-          "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01994-8/d41586-026-01994-8_52799794.jpg",
+          "publishedAt": "2026-06-25T21:24:49Z",
+          "image": "https://i.cbc.ca/ais/414367ed-b82b-46e5-bf67-9cee3a56f5c6,1782421729356/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C35%2C2601%2C1463%29%3BResize%3D620",
           "language": "en"
         },
         {
-          "title": "Tanzania: Temeke DC Calls for Joint Action Against Counterfeit Goods",
-          "description": "THE District Commissioner of Temeke, Sixtus Mapunda, has said that the fight against counterfeit goods requires cooperation between citizens, the government, and the private sector, because the impacts are significant on health, the economy, and legitimate business. He explained that counterfeit products such as alcohol, cigarettes, and lubricants put consumers at risk and deprive compliant producers--those who follow all legal procedures and pay taxes--of their rightful benefits.",
-          "url": "https://allafrica.com/stories/202606250632.html",
+          "title": "Jury at an impasse in trial over deadly, destructive Palisades Fire",
+          "description": "After two days of deliberations, a jury in the trial about the origin of the devastating January 2025 fires in Los Angeles said jurors on both sides “are unwilling to change their opinion” and that they are “at a standstill,” unsure of how to proceed",
+          "url": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-jury-verdict-rcna351208",
           "source": {
-            "name": "allAfrica.com"
+            "name": "NBC News"
           },
-          "publishedAt": "2026-06-25T15:46:25Z",
-          "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-          "language": "en"
-        },
-        {
-          "title": "Who will Netherlands play in World Cup Round of 32? Possible opponents",
-          "description": "The Netherlands aims to reach the Round of 32 of the 2026 FIFA World Cup. Here are their potential next opponents.",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/25/netherlands-round-of-32-possible-opponents/90693035007/",
-          "source": {
-            "name": "USA Today"
-          },
-          "publishedAt": "2026-06-25T15:45:00Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/25/USAT/90693056007-2282522394.jpg?crop=4761,2680,x0,y137&width=3200&height=1802&format=pjpg&auto=webp",
-          "language": "en"
-        },
-        {
-          "title": "Tanzania: Zambia Rea Team Visits Chamwino to Learn From Tanzania's Rural Electrification Success",
-          "description": "OFFICIALS from Zambia's Rural Electrification Authority (REA), led by Chief Executive Officer,Alex Mbumba, have visited Tanzania to learn how rural electrification projects are being implemented and how they are transforming lives in rural communities.",
-          "url": "https://allafrica.com/stories/202606250631.html",
-          "source": {
-            "name": "allAfrica.com"
-          },
-          "publishedAt": "2026-06-25T15:45:00Z",
-          "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-          "language": "en"
-        },
-        {
-          "title": "Beautiful Influencer Shares 17 Reasons Why She’s a Terrible Girlfriend",
-          "description": "A Kenyan influencer shares 17 reasons why she believes she wouldn’t make a great girlfriend, sparking self-reflection among netizens on their own traits.",
-          "url": "https://www.tuko.co.ke/entertainment/celebrities/630741-beautiful-influencer-shares-17-reasons-s-a-terrible-girlfriend/",
-          "source": {
-            "name": "Tuko News"
-          },
-          "publishedAt": "2026-06-25T15:44:52Z",
-          "image": "https://cdn.tuko.co.ke/images/1200x675/e1c033dc64e5b809.jpeg?v=1",
-          "language": "en"
-        },
-        {
-          "title": "‘Dutton Ranch’ Stars Kelly Reilly & Cole Hauser Break Silence on Showrunner Exit",
-          "description": "Why they went their separate ways after Season 1 of the 'Yellowstone' spinoff.",
-          "url": "https://www.yahoo.com/entertainment/tv/articles/dutton-ranch-stars-kelly-reilly-154447226.html",
-          "source": {
-            "name": "Yahoo"
-          },
-          "publishedAt": "2026-06-25T15:44:47Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/6730a33aafd45aa7859891fab9f92a46905acc4f20bd7367bd09ff934e43eb9b/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F395563c339e641a713597990c93f4f06",
-          "language": "en"
-        },
-        {
-          "title": "Signing of 'warrior' complete with £34.5m deal DONE after Arteta's approval",
-          "description": "Arsenal have officially completed their first signing of the summer, with Bayer Leverkusen defender Piero Hincapie joining permanently after a successful season-long loan at the Emirates.",
-          "url": "https://www.teamtalk.com/arsenal/piero-hincapie-transfer-news-arsenal-deal-done-arteta",
-          "source": {
-            "name": "TEAMtalk"
-          },
-          "publishedAt": "2026-06-25T15:44:04Z",
-          "image": "https://images.teamtalk.com/content/uploads/2026/02/24160159/piero-hincapie-1.jpg",
+          "publishedAt": "2026-06-25T21:24:43Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260505-Jonathan-Rinderknecht-rs-9f2b5f.jpg",
           "language": "en"
         }
       ]
