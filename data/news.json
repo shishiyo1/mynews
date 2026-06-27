@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-27T03:35:15.843Z",
+  "updatedAt": "2026-06-27T08:37:41.335Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "元「今日好き」雨宮由乙花、地震で帰宅困難に→「避難用のご飯を支給されたのも、一晩電車で過ごしたのも初めて」保存食支給されリアルタイムに不安吐露（1/2）",
+          "description": "恋愛リアリティショー「今日、好きになりました。」の出演などで知られるモデルでタレントの雨宮由乙花さんが6月27日、Xを更新。26日に山梨県で発生した震度6弱の地震の影響により、乗車していた電車内に閉じ込められたまま一晩を過ごしていることをリアルタイムで報告しました。https://twitter.com/…",
+          "url": "https://nlab.itmedia.co.jp/cont/articles/3888005/",
+          "source": {
+            "name": "ねとらぼ"
+          },
+          "publishedAt": "2026-06-26T20:32:29Z",
+          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/06/1782504651_Screenshot_20260627_050756_Instagram.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【速報】関東で地震 Ｍ３．８ 東京、神奈川、埼玉、千葉、茨城などで揺れ 震源は千葉県北西部 地震が及んだ地域人口２２０９万人",
+          "description": "２７日午前３時５９分ごろ、千葉県北西部を震源とする地震があった。最大震度１、地震の規模を示すマグニチュード（Ｍ）は３．８と推定される。震源の深さは約７０キロ。東金市、長南町、千葉市中央区などで震度１を",
+          "url": "https://www.chibanippo.co.jp/articles/1633788",
+          "source": {
+            "name": "千葉日報オンライン"
+          },
+          "publishedAt": "2026-06-26T19:51:13Z",
+          "image": "https://www.chibanippo.co.jp/sites/default/files/image/202606/zisin_map20260627040313_0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "イスラエルとレバノン、和平実現へ枠組み合意 米国の仲介で署名",
+          "description": "【ワシントン=甲原潤之介】イスラエルとレバノン、米国の3カ国は26日、レバノン情勢を巡り和平実現に向けた枠組み合意を結んだ。ワシントンでルビオ米国務長官の立ち会いの下、イスラエルとレバノンの駐米大使、米国務省幹部が署名した。米国務省が同日発表したルビオ氏の声明によると、枠組み合意は親イラン組織ヒズボラの武装解除に向けたプロセスを定めたという。レバノンの主権回復や、同国に駐留するイスラエル軍が将",
+          "url": "https://www.nikkei.com/article/DGXZQOGN26DEL0W6A620C2000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-06-26T19:24:50Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3231238026062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.7&fp-y=0.33&h=630&w=1200&s=47c793d21123cc561535d5fa93dc6ab9",
+          "language": "ja"
+        },
+        {
+          "title": "【バレー】日本男子、五輪出場権獲得のアジアのライバルイランを大激闘の末倒して怒涛の開幕6連勝 宮浦「最終セット力を合わせて勝ち取れてよかった」VNL",
+          "description": "バレーボールネーションズリーグ男子大会フランスラウンド、日本男子の2試合目はアジアのライバルイラン。今秋五輪出場権をとるアジア選手権での最大のライバルだ。\n日本のスターティングメンバーは以下の通り",
+          "url": "https://news.yahoo.co.jp/articles/9706eb586a0b2f83cc323245afc658b2e3d6bf92",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-26T17:44:20Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260627-00010000-vbm-000-4-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "山梨で最大震度6弱 富士五湖が震源でM5.6 逆断層型の地震か 富士山噴火の心配していないと強調 長周期地震動階級1も観測 気象庁",
+          "description": "6月26日午後10時29分ごろ、山梨県東部・富士五湖を震源とする地震が発生し、山梨県富士河口湖町で最大震度6弱を観測した。気象庁によると、地震の規模はマグニチュード5.6（暫定値）、震源の深さは約20kmで、逆断層型の地震とみられる。気象庁は会見を開き、震源地と富士山はおおむね30km離れていて、地震発生以降、火山性によるデータは確認されていない、富士山の噴火という心配はしていないと強調した。25日に青森で最大震度6強、26日朝に千葉などで最大震度4の地震が相次いで起きているが、いずれも震源…",
+          "url": "https://www.fnn.jp/articles/-/1066677",
+          "source": {
+            "name": "FNNプライムオンライン"
+          },
+          "publishedAt": "2026-06-26T16:52:00Z",
+          "image": "https://fnn.ismcdn.jp/mwimgs/9/2/600/img_92b4cb3800972891b361d68dd0075d37832859.jpg",
+          "language": "ja"
+        },
         {
           "title": "最大震度6弱の山梨県や関東では27日に台風が最接近 土砂災害やがけ崩れに厳重警戒",
           "description": "26日夜遅くに山梨県東部・富士五湖を震源とする最大震度6弱の地震がありました。27日には台風8号と台風7号が山梨県や関東に近づき、大雨になる所があるでしょう。この大きな地震により地盤が緩んでいる可能性もあるため、土砂災害やがけ崩れに厳重に警戒してください。",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-06-26T11:41:00Z",
           "image": "https://cimg.kgl-systems.io/camion/files/79609/thumbnail_Ggmd.jpg?x=1280",
           "language": "ja"
-        },
-        {
-          "title": "“大人のサッカー”を貫いた日本代表 過去大会とは異なる価値あるW杯グループステージ突破",
-          "description": "“大人のサッカー”を貫いた日本代表　過去大会とは異なる価値あるW杯グループステージ突破",
-          "url": "https://sports.yahoo.co.jp/column/detail/2026062600008-spnavi",
-          "source": {
-            "name": "スポーツナビ"
-          },
-          "publishedAt": "2026-06-26T11:41:00Z",
-          "image": "https://sports-pctr.c.yimg.jp/dk/iwiz-sports/text/images/2026/0626/2026062600008-spnavi_1782475229_view.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "櫻井翔『櫻井・有吉 THE夜会』で共演者から“料理ポンコツ”いじりに「きつい」ファン困惑",
-          "description": "櫻井翔『櫻井・有吉 THE夜会』で共演者から“料理ポンコツ”いじりに「きつい」ファン困惑（SmartFLASH） \n　櫻井翔が6月25日放送の『櫻井・有吉 THE夜会』（TBS系）で“料理下手”ぶりをイジられた。\n \n「この日は亀梨和也さん…",
-          "url": "https://topics.smt.docomo.ne.jp/article/smartflash/entertainment/smartflash-415828?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-06-26T10:20:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/smartflash/m_smartflash-415828.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "2万円引きはデカい！ RTX 5060とメモリ32GBでしっかり遊べるゲーミングPC",
-          "description": "Ryzen 5 7500FとRTX 5060、メモリ32GBを備えた白基調のゲーミングPC。性能と見た目の満足感を両立した、初めての1台にも乗り換えにもすすめやすいモデルです。",
-          "url": "https://ascii.jp/elem/000/004/413/4413780/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-06-26T10:00:00Z",
-          "image": "https://ascii.jp/img/2026/06/26/4489734/xl/f7ef1ab7594cf084.png?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "『龍が如く 極３ / 龍が如く３外伝 Dark Ties』が35％オフ、『ソニックレーシング クロスワールド』が50％オフ！「Steam Summer Sale」開催中",
-          "description": "株式会社セガのプレスリリース（2026年6月26日 18時24分）『龍が如く 極３ / 龍が如く３外伝 Dark Ties』が35％オフ、『ソニックレーシング クロスワールド』が50％オフ！「Steam Summer Sale」開催中",
-          "url": "https://prtimes.jp/main/html/rd/p/000007486.000005397.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-06-26T09:24:38Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/5397/7486/5397-7486-e5afc52cb1870e1458f185eebdcc0779-900x506.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "SixTONES・ジェシー、『ケロロ軍曹』声優に松村北斗が大喜び「楽屋で…」 冒頭からボケも好調",
-          "description": "ニュース｜　6人組グループ・SixTONESのジェシーが26日、都内で行われたアニメ『ケロロ軍曹』の16年ぶりとなる劇場版新作『新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！』（26日公開）の初日舞台あいさつに登壇した。　ジェシーは、客席ではなく、スクリーンに手を振るボケを挟んで登場。「ジャック役をやらせていただきました、ディカプリオです。それはタイタニックでした」となめらかにボケ続けた。福田雄一監督は「それって考えてきているの？」と質問。「家から持ってきました」と答えると、笑いが沸き起こった。　本作への声優出演については「メンバーも『すごいね！』っておっしゃっていまして。（松村）北斗が歌が好きで、楽屋で歌ったりして盛り上がっていました。（アルル／デルルの）2役をやっていたので、そっちの方でも『すごいね！』おっしゃっていまして。いいメンバーです」と笑顔を見せていた。",
-          "url": "https://www.oricon.co.jp/news/2464013/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-06-26T09:20:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2465000/2464013/20260626_181810_p_o_89759621.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Apple's OLED 'MacBook Ultra' Will Stick With M5 Pro and M5 Max Chips",
-          "description": "Apple's upcoming high-end MacBook model featuring an OLED touchscreen display will use the company's current M5 Pro and M5 Max chips, according to Bloomberg's Mark Gurman. The new, top-of-the-line device will launch \"between late this year and early next year,\" Gurman said, adopting the existing high-end Apple silicon chips rather than next-generation M6 versions.",
-          "url": "https://www.macrumors.com/2026/06/26/oled-macbook-stick-with-m5-pro-and-m5-max/",
+          "title": "Soldier Jared Deal demoted for insulting, threatening officer at Waiouru Military Camp",
+          "description": "By Jimmy Ellingham of RNZ A soldier who threatened to kill an army captain and called him a b***h during a late-night confrontation has lost his name...",
+          "url": "https://www.nzherald.co.nz/nz/soldier-jared-deal-demoted-for-insulting-threatening-officer-at-waiouru-military-camp/WDRWDTDMWZALFGPP2RMBCIVBCA/",
           "source": {
-            "name": "MacRumors"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-06-26T15:35:12Z",
-          "image": "https://images.macrumors.com/t/MUeF2W9X842YM9VpJLgEwC1h4vM=/3840x/article-new/2026/03/Apple-M5-Pro-M5-Max-chips.jpg",
+          "publishedAt": "2026-06-26T20:35:30Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/XZOBVCO3E5CW3GS2LRYGH6C5VM.jpg?auth=0cca837eb83d05397a87db66aaacf062fbe8f3a845304d03f94ffaf0a6068dab&width=1200&height=675&quality=70&focal=595%2C377&smart=false",
           "language": "en"
         },
         {
-          "title": "Lottie Ryan to leave RTÉ 2FM to join Virgin Media's The Six O'Clock Show as co-host",
-          "description": "She will leave RTÉ after more than 15 years to take up the job at Virgin Media in the Autumn.",
-          "url": "https://www.thejournal.ie/lottie-ryan-rte-six-oclock-show-7082915-Jun2026/",
+          "title": "‘First step towards peace’: Israel, Lebanon sign framework agreement with US; Hezbollah warns of civil war",
+          "description": "Lebanese Ambassador Nada Moawad and her Israeli counterpart Yechiel Leiter signed the trilateral document with the US at the State Department in Washington. | World News",
+          "url": "https://www.hindustantimes.com/world-news/first-step-towards-peace-israel-lebanon-sign-framework-agreement-with-us-hezbollah-warns-against-it-101782505933930.html",
           "source": {
-            "name": "The Journal"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-06-26T15:35:00Z",
-          "image": "https://img2.thejournal.ie/article/7082915/river/?height=400&version=7083090",
+          "publishedAt": "2026-06-26T20:34:49Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/06/26/550x309/IRAN-CRISIS-LEBANON-ISRAEL-13_1782506050259_1782506059225_511aaa5e-7c88-43c1-88b9-56c244b2d1b7.JPG",
           "language": "en"
         },
         {
-          "title": "GTA 6’s Latest Retail Listing Hints at Smarter NPCs and a Full In-Game Social Network",
-          "description": "A new Amazon listing for GTA 6 describes a some of the game's expanded world and features.",
-          "url": "https://www.cgmagonline.com/news/gta-6-new-details-world-npc-social-media/",
+          "title": "After progressive US primary wins, Trump takes aim at ‘godless communists’",
+          "description": "Trump has repeatedly conflated democratic socialists and communists; no communist are running on the Democratic ticket.",
+          "url": "https://www.aljazeera.com/news/2026/6/26/after-progressive-us-primary-wins-trump-takes-aim-at-godless-communists",
           "source": {
-            "name": "CGMagazine"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-06-26T15:32:53Z",
-          "image": "https://www.cgmagonline.com/wp-content/uploads/2026/06/gta-6-listing-hints-at-a-larger-map-and-npc-routines-5061.jpg",
+          "publishedAt": "2026-06-26T20:33:31Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3ed79b-1782503323.jpg?resize=1920%2C1440",
           "language": "en"
         },
         {
-          "title": "Defence Forces Tribunal: Soldier breaks down as he recounts last words of apprentice before his death",
-          "description": "Soldier told tribunal teenage army recruit, who allegedly had been subjected to prolonged humiliation by officer, asked him: 'How can 52 lads be so wrong and one man be so right?'",
-          "url": "https://www.irishexaminer.com/news/courtandcrime/arid-41869866.html",
+          "title": "Tanzania bans political rallies ahead of planned anti-government protests",
+          "description": "Tanzania’s government has banned political rallies ahead of planned protests against last year’s disputed election and the detention of an opposition leader",
+          "url": "https://www.washingtonpost.com/world/2026/06/26/tanzania-political-rallies-ban/fe41310a-7198-11f1-8730-e7fd0e2a6404_story.html",
           "source": {
-            "name": "Irish Examiner"
+            "name": "The Washington Post"
           },
-          "publishedAt": "2026-06-26T15:32:00Z",
-          "image": "https://www.irishexaminer.com/cms_media/module_img/10270/5135067_7_org_NEWS-DFT19a.jpg",
+          "publishedAt": "2026-06-26T20:33:12Z",
+          "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2W2SCHDRTMI7DBZQ476Q4KTEAQ_size-normalized.jpg&w=1440",
           "language": "en"
         },
         {
-          "title": "Plane makes emergency landing on Manitoba highway: RCMP",
-          "description": "A small plane in distress crashed into a ditch on Highway 45 while trying to land on a Manitoba highway on Thursday night, the RCMP said.",
-          "url": "https://globalnews.ca/news/11939919/plane-land-manitoba-highway/",
+          "title": "USS Nimitz to Join International Naval Review 250",
+          "description": "JUNE 26, 2026 – The U.S. Navy announced today the aircraft carrier USS Nimitz (CVN 68) will participate in the International Naval Review (INR) 250 in New",
+          "url": "https://www.militaryspot.com/news/uss-nimitz-to-join-international-naval-review-250",
           "source": {
-            "name": "Global News"
+            "name": "MilitarySpot.com"
           },
-          "publishedAt": "2026-06-26T15:31:42Z",
-          "image": "https://globalnews.ca/wp-content/uploads/2026/06/plane-manitoba-highway.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+          "publishedAt": "2026-06-26T20:33:02Z",
+          "image": "https://www.militaryspot.com/wp-content/uploads/2026/06/USS-Nimitz.png",
           "language": "en"
         },
         {
-          "title": "What is retinitis pigmentosa?",
-          "description": "National Geographic’s documentary Blink highlights the journey of a Canadian couple whose children face retinitis pigmentosa, a rare eye disorder leading to blindness. Learn about retinitis pigmentosa, its symptoms, genetic factors, and treatment options.",
-          "url": "https://indianexpress.com/article/lifestyle/health/retinitis-pigmentosa-blindness-young-individuals-eyes-health-vision-9641161/",
+          "title": "Oman Tells Allies Ships Going Through Hormuz May Have to Pay",
+          "description": "Oman has told European officials there’s no way of going back to the pre-war status quo with the Strait of Hormuz and transiting ships may have to be charged some fees, according to people familiar with the matter.",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-26/oman-tells-allies-ships-going-through-hormuz-may-have-to-pay",
           "source": {
-            "name": "The Indian Express"
+            "name": "Bloomberg.com"
           },
-          "publishedAt": "2026-06-26T15:30:40Z",
-          "image": "https://images.indianexpress.com/2024/10/vision-1-1.jpg",
+          "publishedAt": "2026-06-26T20:30:50Z",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHN.7A5abMs8/v0/1200x800.jpg",
           "language": "en"
         },
         {
-          "title": "How the heatwave melted Britain’s power network",
-          "description": "This week’s exceptionally hot weather has exposed cracks in the UK energy system",
-          "url": "https://www.telegraph.co.uk/business/2026/06/26/how-the-heatwave-melted-britains-power-network/",
+          "title": "Why a remote north Qld boat ramp became the centre of an international drug seizure investigation",
+          "description": "Inside the journey of how the drugs from Australia's biggest seizure reached our shores.",
+          "url": "https://www.abc.net.au/news/2026-06-27/narco-boat-midge-point-drug-seizure-investigation/106839956",
           "source": {
-            "name": "The Telegraph"
+            "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-06-26T15:30:00Z",
-          "image": "https://www.telegraph.co.uk/content/dam/business/2026/06/26/TELEMMGLPICT000425319538_17824874289670_trans_NvBQzQNjv4BqQDfO_Li8BnuRdRCVfSGXucZep65cP_bgWtqbEQ5fF5Q.jpeg?impolicy=OG-Standard",
+          "publishedAt": "2026-06-26T20:30:00Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/d8fc085a34a92c8ea63d05da741e183e?impolicy=wcms_watermark_news&cropH=254&cropW=451&xPos=0&yPos=16&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Taylor Swift’s Wedding Facing More Major Backlash as Sources Compare It to Jeff Bezos’ Ceremony-‘It Feels Rude’",
-          "description": "\"Why should my day be harder because of a pop star and a football player?\"",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-wedding-facing-more-152813758.html",
+          "title": "iPhone 18: Everything We Know About Apple's Biggest Updates",
+          "description": "Rumors about Apple's next flagship phones point to a new foldable, a variable-aperture camera, improved battery life and, yes, higher prices.",
+          "url": "https://www.cnet.com/tech/mobile/iphone-18-everything-we-know-about-apples-biggest-updates/",
           "source": {
-            "name": "Yahoo"
+            "name": "CNET"
           },
-          "publishedAt": "2026-06-26T15:28:13Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/05ecfcf7e78f252b442bf9d3c4fff29b24386a0d940f0f5a48ddc36428fee183/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fstylecaster_935%2F3ab79506c259df215d4562e1215edfbd",
+          "publishedAt": "2026-06-26T20:30:00Z",
+          "image": "https://www.cnet.com/a/img/resize/0dc7cb3d3f4275603f067fb1447a9da7ed7357ee/hub/2026/05/29/66c73978-5b7f-4563-9c35-399ad1d4fb40/image-4.png?auto=webp&fit=crop&height=675&width=1200",
           "language": "en"
         },
         {
-          "title": "Tom Sandoval video shows him push girlfriend Victoria's dad",
-          "description": "Surfaced video shows Tom Sandoval shoving ex Victoria Lee Robinson's dad into a firepit after the reality star filed restraining orders against them.",
-          "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/06/26/tom-sandoval-video-girlfriend-victoria-lee-robinson-dad-firepit-push/90705869007/",
+          "title": "Energy minister names 5 priority power-line projects for federal backing",
+          "description": "The federal government announced on Friday that it will prioritize infrastructure upgrades that would allow provinces to share excess electricity more cheaply and easily.",
+          "url": "https://www.cbc.ca/news/politics/power-lines-interties-tim-hodgson-9.7249567",
           "source": {
-            "name": "USA Today"
+            "name": "CBC"
           },
-          "publishedAt": "2026-06-26T15:28:00Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/26/USAT/90706370007-2207521222.jpg?crop=3454,1943,x0,y218&width=3200&height=1801&format=pjpg&auto=webp",
+          "publishedAt": "2026-06-26T20:29:18Z",
+          "image": "https://i.cbc.ca/ais/e0f0b976-a76a-449e-9c46-d9b917e47989,1782504221334/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3BResize%3D620",
           "language": "en"
         },
         {
-          "title": "Congressional Panel Investigating Epstein Subpoenas Leon Black in Unusual Escalation",
-          "description": "The panel’s Republican chairman said he was moved to act after the private equity mogul repeatedly declined to discuss nondisclosure agreements at a closed-door hearing.",
-          "url": "https://www.nytimes.com/2026/06/26/business/leon-black-jeffrey-epstein-hearing.html",
+          "title": "Instagram’s Adam Mosseri is showing off some concepts for changing your algorithm.",
+          "description": "“We want your algorithm to feel like something you talk to rather than something that happens to you,” Mosseri says. This month, Instagram announced it would start letting you tweak your algorithm.\nI’ve compiled some screenshots of the concepts below, but check out Mosseri’s post to see the mockups in motion.\n[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_9673.jpeg?quality=90&strip=all]\n[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_9675.jpeg?quality=90&strip=all]\n[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_9680.jpeg?quality=90&strip=all]",
+          "url": "https://www.theverge.com/tech/958170/instagrams-adam-mosseri-is-showing-off-some-concepts-for-changing-your-algorithm",
           "source": {
-            "name": "The New York Times"
+            "name": "The Verge"
           },
-          "publishedAt": "2026-06-26T15:27:05Z",
-          "image": "https://static01.nyt.com/images/2026/06/26/multimedia/26biz-Black-Epstein-gzhf/26biz-Black-Epstein-gzhf-facebookJumbo.jpg",
+          "publishedAt": "2026-06-26T20:29:09Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_9673.jpeg?quality=90&strip=all&crop=0%2C28.783144739064%2C100%2C42.433710521871&w=1200",
           "language": "en"
         }
       ]
