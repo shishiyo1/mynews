@@ -1,10 +1,109 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-27T10:58:01.112Z",
+  "updatedAt": "2026-06-27T13:45:37.458Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【速報】台風8号は温帯低気圧に変わりました 台風7号は今夜関東に接近",
+          "description": "台風8号(ヒーゴス)は、27日午前9時に日本の東で温帯低気圧に変わりました。一方、台風7号が室戸岬の南を東寄りに進み、今夜には関東に接近する見込みです。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/06/27/39503.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-06-27T01:06:29Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/395/39503/main/20260627095944/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "重量級ビデオカードが破損！ 亀裂が入っているのに動いてたってどーゆーこと？？？",
+          "description": "PC輸送時にマザーボードからビデオカードが外れて破損。これは重量級ビデオカードでよく起こる事故です。この壊れた2つのパーツがどんな壊れ方をしているのか、どこまで動作するのかなどを調査してみました。",
+          "url": "https://ascii.jp/elem/000/004/405/4405898/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-06-27T01:00:00Z",
+          "image": "https://ascii.jp/img/2026/05/28/4473645/xl/6d1507d204296d48.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "大雨による土砂災害などのため圏央道などで通行止めを実施しています（６月２７日 ９時００分発表）",
+          "description": "NEXCO東日本からご利用に関する重要なお知らせです。「大雨による土砂災害などのため圏央道などで通行止めを実施しています（６月２７日　９時００分発表）」。【NEXCO東日本オフィシャルサイト】NEXCO東日本（東日本高速道路株式会社）は関東以北、長野、新潟から北海道までの高速道路を管理しています。",
+          "url": "https://www.e-nexco.co.jp/news/important_info/2026/0627/rpa_00016333.html",
+          "source": {
+            "name": "NEXCO 東日本"
+          },
+          "publishedAt": "2026-06-27T00:51:44Z",
+          "image": "https://www.e-nexco.co.jp/images/common/og_image.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "元Ｋ―１王者・武尊がパニック障害での入院を報告「体重も計量の時より落ちてしまっていました」（スポーツ報知）｜ｄメニューニュース",
+          "description": "元Ｋ―１王者・武尊がパニック障害での入院を報告「体重も計量の時より落ちてしまっていました」（スポーツ報知）　元Ｋ―１王者・武尊が２７日までに自身のインスタグラムを更新。パニック障害が再発し、入院していたことを明かした。２０２２年…",
+          "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260627-OHT1T51046?redirect=1",
+          "source": {
+            "name": "ｄメニューニュース"
+          },
+          "publishedAt": "2026-06-27T00:44:00Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/picture/hochi/m_hochi-20260627-OHT1T51046.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "AIやSNS疲れの救世主？ 音楽プレイヤーにもなるギミックが楽しいスマホ『Sidephone』を試してみた",
+          "description": "デジタルデトックス向けスマホ『Sidephone』。マグネットでキーパッドを交換し、音楽プレーヤー等へ自在にカスタマイズできる、遊び心ある端末だ。",
+          "url": "https://realsound.jp/tech/2026/06/post-2441376.html",
+          "source": {
+            "name": "Real Sound｜リアルサウンド"
+          },
+          "publishedAt": "2026-06-27T00:00:50Z",
+          "image": "https://realsound.jp/wp-content/uploads/2026/06/20260626-yamane-99.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "さらばGmail。私がAndroid版「Thunderbird」に乗り換えて、もう二度と戻らないと決めた理由",
+          "description": "Androidユーザーにとって、Gmailは「最初から入っているし、なんとなく使うもの」という存在でしょう。私もそうでした。特に不満はない、けれど最高でもない。そんな私がWindows版のThunderbirdに惚れ込み、Android版も試してみたところ、後悔したのはただ一つ。「なぜもっと早く変えなかったのか」ということだけでした。",
+          "url": "https://www.lifehacker.jp/article/2606-use-thunderbird-for-email-android/",
+          "source": {
+            "name": "ライフハッカー・ジャパン"
+          },
+          "publishedAt": "2026-06-27T00:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/02/10/decdf423-af7e-41f0-83d2-ee4183128de0/original.png?w=1200&h=630&f=jpg",
+          "language": "ja"
+        },
+        {
+          "title": "GK早川友基は決勝Tに決意新た、離れるベースキャンプ地は「ホッとする、家みたいな場所だった」",
+          "description": "グループリーグ突破を決めた日本代表は26日、ベースキャンプ施設があるナッシュビルで昨日のスウェーデン戦に出場しなかった9人がトレーニングを実施した。3日後の29日には決勝トーナメント初戦でブラジルと対...",
+          "url": "https://web.gekisaka.jp/news/japan/detail/?454346-454346-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-06-26T23:45:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/455000/454346/news_454346_1.jpg?time=20260627084845",
+          "language": "ja"
+        },
+        {
+          "title": "プーチン大統領は顔面蒼白…モスクワ製油所を“カミカゼドローン”急襲で降り注ぐ“黒い油の雨” ウクライナ東部要衝を制圧もケタ外れの“人的代償”",
+          "description": "プーチン大統領は顔面蒼白だろう。しかし、彼だけではなく全世界の軍事関係者も真っ青になっている可能性があるという――。「BBC　NEWS」（日本語・電子版）は6月19日、「ウクライナ、モスクワに最大",
+          "url": "https://news.yahoo.co.jp/articles/dfaa60f75c036a2080109f3ca494768f62aab448",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-26T23:00:48Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260627-01469592-shincho-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "明石家さんまが「出川哲朗の充電させて」3年ぶり登場、立ち寄ったスーパーでブラックデビル披露",
+          "description": "「出川哲朗の充電させてもらえませんか？」（テレビ東京）の2時間半スペシャルが7月11日（土）に放送され、明石家さんまがゲスト出演する。さんまが同番組に登場するのは3年ぶり3回目。新潟県柏崎市の荻ノ島かやぶきの里からスタート...",
+          "url": "https://natalie.mu/owarai/news/678033",
+          "source": {
+            "name": "ナタリー"
+          },
+          "publishedAt": "2026-06-26T23:00:00Z",
+          "image": "https://ogre.natalie.mu/media/news/owarai/2026/0626/uuden_09.jpg?impolicy=twitter_card_face_crop",
+          "language": "ja"
+        },
         {
           "title": "台風7号の接近で関東甲信は27日夕方～夜に雨強まる いったん雨やんでも警戒を",
           "description": "27日(土)の関東地方は梅雨前線が停滞する中、二つの台風の接近に伴い、大雨となる所があるでしょう。いったん雨がやんでも再び降りだして、急に強まることが考えられます。局地的には非常に激しい雨が降るでしょう。夜遅くにかけて土砂災害に厳重に警戒し、低い土地や地下施設への浸水、河川の増水や氾濫に警戒してください。",
@@ -15,216 +114,117 @@
           "publishedAt": "2026-06-26T22:08:28Z",
           "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/395/39501/main/20260627064448/large.jpg",
           "language": "ja"
-        },
-        {
-          "title": "【台風情報】ダブル台風が交通に影響 東海道線や複数の特急は終日運休 新幹線は平常通り",
-          "description": "台風7号、8号の“ダブル台風”と梅雨前線の影響により、各地で強い雨が降っており、交通機関へも影響が出ている。27日午前7時現在の情報をまとめる。東海道線　小田原～熱海 終日運休    ＪＲ伊東線　終日運休    ＪＲ外房線　上総一ノ宮～安房鴨川 運転見合わせ    ＪＲ久留里線　上下線 運転見合わせ    ＪＲ鹿島線　佐原～鹿島神宮 上下線 運転見合わせ    ＪＲ内房線　君津～安房鴨川 上下線 運転見合わせ    ＪＲ内房線　千葉～君津　一部運休    ＪＲ成田線　成田～我孫子 運転見合わせ…",
-          "url": "https://www.fnn.jp/articles/-/1066701",
-          "source": {
-            "name": "FNNプライムオンライン"
-          },
-          "publishedAt": "2026-06-26T22:01:00Z",
-          "image": "https://fnn.ismcdn.jp/mwimgs/6/4/600/img_6465dc02c1d7b7ec030222433cf6ee88914092.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「新たな台風のたまご=熱帯低気圧」発生へ 気象庁天気図に出現 発達し7月1日ごろから日本の南に進む予想も【雨・風シミュレーション7月7日（火）まで】台風情報に今後注意",
-          "description": "■【台風のたまご=熱帯低気圧】発生か  気象庁予想天気図\n気象庁発表の天気図に「熱帯低気圧」の予想が出てきました。熱帯低気圧は「台風のたまご」とも呼ばれ、「台風」に発達することがあるため動向に注意",
-          "url": "https://news.yahoo.co.jp/articles/47037a7d1dae14f228ae14003fb97bf70e6f6897",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-26T22:00:37Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260627-22762641-mbcnewsv-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "トランプ氏が約24億円投入の改修工事、相次ぐトラブル⇒州兵派遣も皮肉の声「史上最もマヌケ」「税金のムダ遣い」（BuzzFeed Japan）",
-          "description": "1480万ドル（約24億円）の費用を投じて行われた人工池「リフレクティング・プール」の改修工事は、6月3日（現地時間）の完了直後からトラブルが相次いだ。ドナルド・トランプ米大統領は同月22日から州兵",
-          "url": "https://news.yahoo.co.jp/articles/6dfd6acbd8cf60035cdac375bb5ba6bf0e359dd3",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-26T21:35:02Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260627-10058028-bfj-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【サッカーワールドカップ】I組フランス、デンベレ３得点で1位通過 ノルウェー2位で決勝Ｔへ",
-          "description": "【ボストン=阿刀田寛】サッカーのワールドカップ（W杯）北中米大会第16日は26日（日本時間27日）12日、ボストンなどで1次リーグ最終第3戦を行い、I組ではフランスがデンベレのハットトリックなどでノルウェーに4-1で勝利し、1位で決勝トーナメントに進出した。セネガルはイラクに5-0で大勝。ノルウェーが2位で突破、セネガルは大会初勝利で勝ち点3の3位となった。I組　ノルウェー―フランスフランスの",
-          "url": "https://www.nikkei.com/article/DGXZQODH269930W6A620C2000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-06-26T21:27:12Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3231269026062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.86&fp-y=0.22&h=630&w=1200&s=bad190077c17684217eaff2d3b03819e",
-          "language": "ja"
-        },
-        {
-          "title": "MacBook/iPadシリーズ値上がり後の秋葉原中古市場を調査",
-          "description": "Appleは6月25日（木）に現行モデルのMacBookシリーズ、iPadシリーズの値上げを実施しました。",
-          "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2120561.html",
-          "source": {
-            "name": "AKIBA PC Hotline!"
-          },
-          "publishedAt": "2026-06-26T21:05:00Z",
-          "image": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2120/561/a1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【W杯】フランスがデンベレの活躍で1位通過！ ハーランド休養のノルウェーは2位通過、ラウンド32でコートジボワールと対戦",
-          "description": "現地時間6月26日に行なわれた北中米ワールドカップのグループステージI組第3節で、ノルウェーとフランスが対戦した。どちらも初戦からの2連勝でグループステージ突破を決めており、1位と2位を決める直接対",
-          "url": "https://news.yahoo.co.jp/articles/b651f6054609b04a886dd32be4f4e20cb26aef2b",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-26T21:02:48Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260627-00010000-soccerm-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "全部ゴラッソ…デンベレが前半でハット!! フランスがノルウェーを4発撃破&3戦全勝で首位通過",
-          "description": "[6.27 北中米W杯GL第3節 ノルウェー 1-4 フランス ボストン]　2026 FIFAワールドカップ(W杯)北中米大会のグループI第3節が27日に行われ、フランス代表はノルウェー代表に4-1で勝利した。3連勝を飾り、首位通過が...",
-          "url": "https://web.gekisaka.jp/news/worldcup/detail/?454338-454338-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-06-26T21:02:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/455000/454338/news_454338_1.jpg?time=20260627074141",
-          "language": "ja"
-        },
-        {
-          "title": "「作品を私物化」『ケロロ軍曹』16年ぶり劇場版 福田雄一監督の『銀魂』『ヨシヒコ』らキャラが出演でファン激怒…レビューサイトも初日から“低評価”続出の大荒れ",
-          "description": "「作品を私物化」『ケロロ軍曹』16年ぶり劇場版　福田雄一監督の『銀魂』『ヨシヒコ』らキャラが出演でファン激怒…レビューサイトも初日から“低評価”続出の大荒れ（女性自身）6月26日、吉崎観音原作の人気漫画『ケロロ軍曹』の最新アニメ映画『新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！…",
-          "url": "https://topics.smt.docomo.ne.jp/article/jisin/entertainment/jisin-https_jisin.jp_p_2589172?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-06-26T21:00:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/jisin/m_jisin-https_jisin.jp_p_2589172.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "元「今日好き」雨宮由乙花、地震で帰宅困難に→「避難用のご飯を支給されたのも、一晩電車で過ごしたのも初めて」保存食支給されリアルタイムに不安吐露（1/2）",
-          "description": "恋愛リアリティショー「今日、好きになりました。」の出演などで知られるモデルでタレントの雨宮由乙花さんが6月27日、Xを更新。26日に山梨県で発生した震度6弱の地震の影響により、乗車していた電車内に閉じ込められたまま一晩を過ごしていることをリアルタイムで報告しました。https://twitter.com/…",
-          "url": "https://nlab.itmedia.co.jp/cont/articles/3888005/",
-          "source": {
-            "name": "ねとらぼ"
-          },
-          "publishedAt": "2026-06-26T20:32:29Z",
-          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/06/1782504651_Screenshot_20260627_050756_Instagram.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "The most popular products during Amazon Prime Day 4: JBL and Bose speakers, Garmin watches, and more",
-          "description": "We're tracking the items ZDNET readers have actually purchased during Prime Day sales so far today, and these deals are still here for a few more hours.",
-          "url": "https://www.zdnet.com/home-and-office/top-sellers-amazon-prime-day-2026-day-4/",
+          "title": "Rainbow flags wave in Seattle after Egypt and Iran pushed back against World Cup 'Pride Match'",
+          "description": "Rainbow flags wave around Seattle after Egypt and Iran asked FIFA to keep a Pride celebration out of its World Cup match.",
+          "url": "https://www.abc.net.au/news/2026-06-27/world-cup-2026-iran-and-egypt-push-back-against-pride-match/106850698",
           "source": {
-            "name": "ZDNET"
+            "name": "Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-06-26T22:56:00Z",
-          "image": "https://www.zdnet.com/a/img/resize/1b747aee1494689b64e086f8761db9b405209d3b/2025/11/20/fedde4fb-568b-483d-8e58-d86708528aef/20251119-113925.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2026-06-27T01:42:40Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/e6a48124d441dc23fb94303d94270d30?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=122&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Schionning Arrow on target using DuFLEX panel system",
-          "description": "Meet Felix and Onika from WA as they craft their Schionning Arrow 1360 to explore Australia's coastline and beyond, fueled by passion and dedication. #ATLComposites #DuFLEX #BoatBuilding",
-          "url": "https://www.mysailing.com.au/schionning-arrow-on-target-using-duflex-panel-system/",
+          "title": "HELIX Speaks: Learn Learn Learn Episode 17 Makes History as the First AI",
+          "description": "The milestone episode marks the first time HELIX has scripted Learn Learn Learn from\nthe ground up, and the launch of HelixEngine.ai gives the world its first direct window\ninto the system behind it.",
+          "url": "https://www.24-7pressrelease.com/press-release/536317/helix-speaks-learn-learn-learn-episode-17-makes-history-as-the-first-ai-driven-episode-official-website-helixengineai-goes-live",
           "source": {
-            "name": "Mysailing"
+            "name": "24-7 Press Release Newswire"
           },
-          "publishedAt": "2026-06-26T22:55:08Z",
-          "image": "https://cdn.mysailing.com.au/wp-content/uploads/2026/06/04102020/Schionning-Arrow-2-rotated.jpg",
+          "publishedAt": "2026-06-27T01:42:26Z",
+          "image": "https://www.24-7pressrelease.com/assets/attachments/053/press_release_distribution_0536317_234476.png",
           "language": "en"
         },
         {
-          "title": "Great American State Fair opens with power outages, empty booths",
-          "description": "Trump's Great American State Fair on the National Mall opened with power outages and empty booths as many states skipped out on the event.",
-          "url": "https://www.usatoday.com/story/news/politics/2026/06/26/trump-great-american-state-fair-dc-issues/90711788007/",
+          "title": "Mets reporter dissects team's miserable season while Pride Night Mr. Met dances behind him",
+          "description": "Mr. Met danced in Pride Night attire behind a reporter during a live broadcast just hours after the New York Mets fired manager Carlos Mendoza.",
+          "url": "https://www.foxnews.com/outkick-sports/mets-reporter-dissects-teams-miserable-season-pride-night-mr-met-dances-behind",
           "source": {
-            "name": "USA Today"
+            "name": "Fox News"
           },
-          "publishedAt": "2026-06-26T22:54:00Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/26/USAT/90716538007-20260626-t-050118-z-548195326-rc-241-ma-60-ne-6-rtrmadp-3-usa-250-statefair.JPG?crop=5499,3093,x0,y550&width=3200&height=1800&format=pjpg&auto=webp",
+          "publishedAt": "2026-06-27T01:42:13Z",
+          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/mr-met-1.jpg",
           "language": "en"
         },
         {
-          "title": "Star appears to shove girlfriend’s dad into lit firepit in shocking video",
-          "description": "Tom Sandoval appeared to shove his girlfriend Victoria Robinson’s dad, Will Robinson, into a lit firepit during a heated exchange caught on camera.",
-          "url": "https://www.news.com.au/entertainment/celebrity-life/celebrity-photos/star-appears-to-shove-girlfriends-dad-into-lit-firepit-in-shocking-video/news-story/3516df464bd214035ae8b6b32748f4c2",
-          "source": {
-            "name": "News.com.au"
-          },
-          "publishedAt": "2026-06-26T22:52:08Z",
-          "image": "https://content.api.news/v3/images/bin/63eea63bb8a96f0dfb816212be04dfc0",
-          "language": "en"
-        },
-        {
-          "title": "Mahmood outlines safe immigration routes plan to win over Labour left",
-          "description": "Home secretary speeds up major part of bill governing asylum and refugees as new prime minister set to take over",
-          "url": "https://www.theguardian.com/uk-news/2026/jun/26/mahmood-outlines-safe-immigration-routes-plan-to-win-over-labour-left",
-          "source": {
-            "name": "The Guardian"
-          },
-          "publishedAt": "2026-06-26T22:52:00Z",
-          "image": "https://i.guim.co.uk/img/media/574eb81d7fb6688369a1bebfa44f7bd90cfa02a5/31_32_1644_1315/master/1644.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc0b709c3730d16286705bfda68f9d86",
-          "language": "en"
-        },
-        {
-          "title": "France roasts Norway: Ousmane Dembélé steps into a starring role with fastest World Cup hat trick in 72 years",
-          "description": "What was hoped to be a superstar head-to-head between Kylian Mbappé and Erling Haaland instead became a runaway reminder of France's greatness",
-          "url": "https://www.cbssports.com/soccer/news/france-norway-ousmane-dembele-starring-role-fastest-world-cup-hat-trick-in-72-years/",
-          "source": {
-            "name": "CBS Sports"
-          },
-          "publishedAt": "2026-06-26T22:51:00Z",
-          "image": "https://sportshub.cbsistatic.com/i/r/2026/06/26/e3b701c3-f9a3-43eb-b861-3bcb95edb276/thumbnail/1200x675/9f48d9192d1f53c20a43e5f2b73a3922/untitled-design-2026-06-26t184201-661.png",
-          "language": "en"
-        },
-        {
-          "title": "US strikes Iran after cargo ship attack in Strait of Hormuz",
-          "description": "The US military attacked Iran in response to an Iranian drone strike on a cargo ship in the Strait of Hormuz, straining a fragile peace deal. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/world/middle-east/us-strikes-iran-in-response-to-attack-on-cargo-ship-in-strait-of-hormuz",
+          "title": "Trump unveils new US passport with picture of himself",
+          "description": "The US President has aggressively put his personal stamp on government institutions. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/world/united-states/trump-unveils-new-us-passport-with-picture-of-himself",
           "source": {
             "name": "The Straits Times"
           },
-          "publishedAt": "2026-06-26T22:49:19Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/56226e275d49260c84b15e4876f57698ca176947c6fa62dc24146caa11302297",
+          "publishedAt": "2026-06-27T01:40:00Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/722140d63ee44aed1ddb00b66d834958b22839df252c6100735cf55e5f9333a5",
           "language": "en"
         },
         {
-          "title": "SACCOs, banks exempted from VAT on repossessed collateral sales",
-          "description": "SACCOs, banks, and other financial institutions will no longer pay VAT on the sale or disposal of repossessed collateral, following amendments introduced in the Finance Act 2026",
-          "url": "https://saccoreview.co.ke/finance-act-2026-exempts-saccos-banks-from-vat-on-repossessed-collateral-sales/",
+          "title": "Two killed after car skids, bursts into flames on Duke",
+          "description": "KUALA LUMPUR: Two individuals were burnt to death after a car they were travelling in is believed to have skidded before catching fire at the Jalan Kuching exit ramp on the Duta-Ulu Kelang Expressway (Duke) here early on Saturday (June 27) morning.",
+          "url": "https://www.thestar.com.my/news/nation/2026/06/27/two-killed-after-car-skids-bursts-into-flames-on-duke",
           "source": {
-            "name": "Sacco Review"
+            "name": "The Star"
           },
-          "publishedAt": "2026-06-26T22:46:46Z",
-          "image": "https://saccoreview.co.ke/wp-content/uploads/2026/06/For-Sacco-Review-online-2026-june-26-.webp",
+          "publishedAt": "2026-06-27T01:37:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/06/27/3980017.jpg",
           "language": "en"
         },
         {
-          "title": "U.S. and Iran trade strikes putting new strain on West Asia ceasefire",
-          "description": "U.S. strikes Iran in response to a drone attack on a cargo ship, escalating tensions amid fragile ceasefire negotiations.",
-          "url": "https://www.thehindu.com/news/international/us-strike-on-iran-donald-trump-hormuz-strait-june-27-2026/article71152185.ece",
+          "title": "Utah declares emergency, limits fireworks ahead of July Fourth as crews battle largest U.S. wildfire",
+          "description": "Utah is restricting fireworks as the largest wildfire in the nation grows, fueled by dry conditions and gusting winds.",
+          "url": "https://www.cbsnews.com/news/utah-cottonwood-wildfire-emergency-fireworks/",
           "source": {
-            "name": "The Hindu"
+            "name": "CBS News"
           },
-          "publishedAt": "2026-06-26T22:44:32Z",
-          "image": "https://th-i.thgim.com/public/incoming/b2l68k/article71152318.ece/alternates/LANDSCAPE_1200/2026-06-26T195857Z_320854551_RC2V1MAU5GOC_RTRMADP_3_USA-TRUMP.JPG",
+          "publishedAt": "2026-06-27T01:35:23Z",
+          "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/27/4841e38b-1d21-43a4-af99-b6ec76315619/thumbnail/1200x630/a4595ac437a78fb803eb72928c5f26b6/ap26177791870342.jpg",
           "language": "en"
         },
         {
-          "title": "Popular TV Star Gives Ex-Boyfriend Money After Ending Relationship-Only To Find Him Move On With A Mutual Friend",
-          "description": "A celebrity opened up about a past relationship that ended with an unexpected financial request and an even more surprising aftermath.",
-          "url": "https://www.koreaboo.com/news/hong-seokcheon-ex-boyfriend-settlement-money-story/",
+          "title": "Jeff Schaffer on Obama's Notes, Curb in History",
+          "description": "'Life, Larry and the Pursuit of Unhappiness' director Jeff Schaffer unpacks Barack Obama's feedback and why Larry David will never retire.",
+          "url": "https://variety.com/2026/tv/news/larry-david-new-show-jeff-schaffer-obamas-notes-curb-1236790792/",
           "source": {
-            "name": "koreaboo.com"
+            "name": "Variety"
           },
-          "publishedAt": "2026-06-26T22:43:29Z",
-          "image": "https://image.koreaboo.com/2026/06/Hong-Seokcheon-ex-boyfriend-story.jpg",
+          "publishedAt": "2026-06-27T01:32:00Z",
+          "image": "https://variety.com/wp-content/uploads/2026/06/larry-david-barack-obama.jpeg?crop=0px%2C30px%2C1757px%2C988px&resize=1000%2C563",
+          "language": "en"
+        },
+        {
+          "title": "new images of Jordan Sangwin released",
+          "description": "Peel police have released new images of a 46-year-old man who remains at large in connection with the murders of his parents in Mississauga last week.",
+          "url": "https://www.cp24.com/local/peel/2026/06/27/man-wanted-in-murder-of-parents-remains-at-large-new-images-released/",
+          "source": {
+            "name": "CP24"
+          },
+          "publishedAt": "2026-06-27T01:32:00Z",
+          "image": "https://www.cp24.com/resizer/v2/IA4NRLYWUBFYFI7R2D2SYT4EUU.png?smart=true&auth=6136adef82fe2321fda41625baca44f409ee5537d6412a483edcf06ab75c2e85&width=1200&height=630",
+          "language": "en"
+        },
+        {
+          "title": "4 Days On, 50,000 Still Missing After Venezuela Earthquakes, Deaths At 920",
+          "description": "The coastal area of La Guaira, near the capital Caracas, was the worst hit, with one building after another crumpled by the magnitude 7.2 and 7.5 quakes.",
+          "url": "https://www.ndtv.com/world-news/4-days-on-50-000-still-missing-after-venezuela-earthquakes-deaths-at-920-11693518",
+          "source": {
+            "name": "NDTV"
+          },
+          "publishedAt": "2026-06-27T01:31:27Z",
+          "image": "https://c.ndtvimg.com/2026-06/9f86kqio_venezuela_625x300_25_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+          "language": "en"
+        },
+        {
+          "title": "NHL DRAFT LIVE: Caleb Malhotra is a Vancouver Canuck",
+          "description": "The Vancouver Canucks have the #3 pick at the 2026 NHL draft. Follow us for updates and news as the first round progresses Friday.",
+          "url": "https://theprovince.com/sports/hockey/nhl/vancouver-canucks/nhl-draft-2026-live-updates-canucks-picks-trades",
+          "source": {
+            "name": "The Province"
+          },
+          "publishedAt": "2026-06-27T01:29:20Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/theprovince/wp-content/uploads/2026/06/2283496178_303959305.jpg",
           "language": "en"
         }
       ]
