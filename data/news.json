@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-27T16:05:37.710Z",
+  "updatedAt": "2026-06-27T19:22:15.234Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "台風7号は今夜27日関東地方に最も接近 大雨による土砂災害や低い土地の浸水に警戒",
+          "description": "午後3時現在、台風7号は御前崎の南西を時速55キロの速さで東寄りに進んでいます。関東地方を中心に発達した雨雲がかかり、千葉県や神奈川県、静岡県にはレベル4土砂災害危険警報が発表されている所もあるなど、大雨による災害の危険度が高まっています。このあと今夜遅くにかけては土砂災害や低い土地の浸水、河川の増水や氾濫に警戒が必要です。",
+          "url": "https://tenki.jp/forecaster/k_itoh/2026/06/27/39508.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-06-27T07:08:28Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/395/39508/main/20260627155948/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「色違いで3枚目です」 GUの“1290円ショートパンツ”が大人気 「涼しくて履きやすい」「この夏に大活躍しそう」「デザインも見た目も◎」",
+          "description": "トレンド感のあるデザインと手頃な価格で人気を集めるGUのアイテム。今回は、夏のさまざまなシーンで使えると評判のショートパンツを紹介します。GU「カラーアクティブショーツ」とは画像：GU　GUの「カラーアクティブショーツ」は、ウエストゴムでイージーにはける、ユニセックス仕様のショートパ…",
+          "url": "https://nlab.itmedia.co.jp/research/articles/3896018/",
+          "source": {
+            "name": "ねとらぼ"
+          },
+          "publishedAt": "2026-06-27T06:20:00Z",
+          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/06/1749716636_7340ea8e6aaf03a8e88db60c082628e5-scaled.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "令和のリアル：最難関・筑駒中→東大卒の学者が息子に中学受験をさせなかった訳",
+          "description": "中学受験の成功者は、我が子にも受験させるケースが少なくない。しかし、政策研究大学院大教授の経済学者、安田洋祐さん（46）は、一人息子（14）に中受をさせなかった。",
+          "url": "https://mainichi.jp/articles/20260624/k00/00m/100/116000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-06-27T06:00:00Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/06/24/20260624k0000m100117000p/0c10.jpg?1",
+          "language": "ja"
+        },
+        {
+          "title": "【台風情報】東京ではきょう夕方から夜遅く台風7号最接近 浸水や氾濫に警戒を 最新進路予想は？",
+          "description": "気象庁は27日午後1時27分、東京都の気象解説情報を出した。気象庁によると、伊豆諸島北部では27日夕方にかけて土砂災害に厳重に警戒してください。東京地方では、27日夕方から夜のはじめ頃にかけて、低い土地や地下施設への浸水、河川の増水や氾濫に警戒してください。伊豆諸島では、27日夜のはじめ頃から28日明け方にかけてうねりを伴った高波に警戒してください。本州付近に前線が停滞し、活動が活発になっています。台風第7号は、27日12時には潮岬の南南西約150キロにあって、1時間に約55キロの速さで東北東…",
+          "url": "https://www.fnn.jp/articles/-/1066769",
+          "source": {
+            "name": "FNNプライムオンライン"
+          },
+          "publishedAt": "2026-06-27T04:55:00Z",
+          "image": "https://fnn.ismcdn.jp/mwimgs/3/9/600/img_3930e5efcdd8533aa2ef65fb044b3ac485619.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「みんなが使っている携帯」ランキング、Cocomi出演CMのahamoを抑えた「安い」スマホは【第4位以下】|au Webポータル",
+          "description": "iPhone、Androidをはじめとするスマートフォン価格の高騰が懸念されている。米IT大手「Ap...",
+          "url": "https://article.auone.jp/detail/1/5/9/458_9_r_20260627_1782535632904662",
+          "source": {
+            "name": "au Webポータル"
+          },
+          "publishedAt": "2026-06-27T04:44:00Z",
+          "image": "https://portal.st-img.jp/thumb/f112656e32775f643b234c85d635fe63_1782535632_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Steamコントローラーが「勝手に動いて充電ステーションへ帰る」、“全自動充電”アプリを制作したユーザー現る。自力で動くコントローラー",
+          "description": "「Steam Controller」が“独りでに動いて”充電ステーションと接続するアプリを制作したユーザーが現れ注目が集まっている。",
+          "url": "https://automaton-media.com/articles/newsjp/20260627-452288/",
+          "source": {
+            "name": "AUTOMATON"
+          },
+          "publishedAt": "2026-06-27T04:39:50Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260627-452288-header.jpeg",
+          "language": "ja"
+        },
         {
           "title": "クールビズを阻む空気感とは 短パンとの同居拒否や「スネハラ」被害？",
           "description": "夏の長期化で、暑熱対策と省エネの両立が前倒しで模索されている。象徴的なのが、4月に東京都が発表した「東京クールビズ」だ。男女問わずポロシャツやスニーカーを着用しての業務が明文化され、軽装で働く職員の姿が公開された。しかしその直後から、男性…",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-06-27T03:00:00Z",
           "image": "https://img-mdpr.freetls.fastly.net/article/f5mP/nm/f5mPpMH-qwESER9rZVywmgkETBl41LUzTxmfZ1ECcys.jpg?width=700&disable=upscale&auto=webp&quality=80",
           "language": "ja"
-        },
-        {
-          "title": "ジュニア新グループHowzit（ハウジー）が「anan」登場、大倉忠義立ち会いのもとで撮影",
-          "description": "織山尚大、西村拓哉、黒田光輝、檜山光成、ヴァサイェガ渉による新グループHowzit（ハウジー）が7月1日に発売される雑誌「anan」2502号に登場する。",
-          "url": "https://natalie.mu/music/news/678067",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-06-27T03:00:00Z",
-          "image": "https://ogre.natalie.mu/media/news/music/2026/0627/anan2502_2.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
-        },
-        {
-          "title": "アンソロピック「ミュトス5」を復活 米国のインフラ組織に再展開",
-          "description": "Anthropicは26日、米国政府の指示により公開を停止していた、最上位のAIモデル「Claude Mythos 5」(ミュトス5)について、重要インフラの運用と防御を行なう米国組織に限定し、再展開可能であるとの通知を受け取ったと発表した。",
-          "url": "https://www.watch.impress.co.jp/docs/news/2120572.html",
-          "source": {
-            "name": "Impress Watch"
-          },
-          "publishedAt": "2026-06-27T02:32:57Z",
-          "image": "https://www.watch.impress.co.jp/img/ipw/list/2120/572/an1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "台風7号が接近中の関東は再び大雨ピーク 揺れが強かった地域は土砂崩れに警戒",
-          "description": "関東地方は台風8号により、明け方にかけて大雨となった所がありました。今は南部を中心に雨雲がかかっています。このあと午後は台風7号が次第に近づくため、夕方に再び大雨のピークを迎えます。明け方にかけて大雨となった地域や、昨夜地震の揺れが大きかった地域を中心に、土砂災害に厳重な警戒が必要です。",
-          "url": "https://tenki.jp/forecaster/k_itoh/2026/06/27/39505.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-06-27T02:30:10Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/395/39505/main/20260627110551/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【Match Report】SAMURAI BLUE、スウェーデンと激闘の末にドロー！ 粘り強い戦いで勝ち点1をもぎ取り、グループ2位でラウンド32に進出！",
-          "description": "SAMURAI BLUE（日本代表）は6月25日（現地）、アメリカ・ダラススタジアムでFIFAワールドカップ2026のグループステージ第3戦、スウェーデン代表戦に臨みました。初戦のオランダ戦を土壇場で追いついて2−2のドロー、続くチュニジア戦は4−0の快勝を収め、ここま",
-          "url": "https://www.jfa.jp/samuraiblue/news/00036476/",
-          "source": {
-            "name": "公益財団法人日本サッカー協会"
-          },
-          "publishedAt": "2026-06-27T02:22:00Z",
-          "image": "https://www.jfa.jp/img/cache/6a3f23a7-ac04-4d65-9239-5efbd3093d95.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "カーボベルデ快挙 W杯決勝T進出",
-          "description": "グループHの最終順位が決まった。北中米で開催されているFIFAワールドカップ（W杯）もいよいよ後半戦に差し掛かろうとしている。各グループから決勝トーナメント進出が決まるなか、スペイン代表、ウルグアイ",
-          "url": "https://news.yahoo.co.jp/pickup/6585854",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-27T02:19:48Z",
-          "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/27/422fce72c074578a91199f2b5b9d74ee7fbbdfff224075ff77d03bdc55a15886.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "悲願のメジャー制覇へ畑岡奈紗が5打差2位浮上 渋野日向子ら9人が予選通過",
-          "description": "◇女子メジャー第3戦◇KPMG全米女子プロゴルフ選手権 2日目（26日）◇ヘーゼルティン・ナショナルGC (ミネソタ州)◇6760yd（パー72） 畑岡奈紗がメジャー初優勝へ、通算7アンダー2位に浮上した。19位から出て前半インを1バーディ",
-          "url": "https://news.golfdigest.co.jp/news/results/lpga/article/192559/1/",
-          "source": {
-            "name": "GDOゴルフニュース"
-          },
-          "publishedAt": "2026-06-27T02:11:48Z",
-          "image": "https://i.gimg.jp/cmsimg/428233.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Possible school violence prevented anew as cops seize gun, knife from 2 Cagayan students",
-          "description": "The parental instinct of the teachers and a principal prevented what could have been another school tragedy involving two students of a high school in Aparri,...",
-          "url": "https://mb.com.ph/2026/06/27/possible-school-violence-prevented-anew-as-cops-seize-gun-knife-from-2-cagayan-students",
+          "title": "Impeachment committee | Thoko Didiza fights 'misinformation'",
+          "description": "Thoko Didiza is slamming misinformation around her handling of impeachment proceedings.",
+          "url": "https://www.enca.com/news-top-stories/impeachment-committee-thoko-didiza-fights-misinformation",
           "source": {
-            "name": "Manila Bulletin"
+            "name": "eNCA"
           },
-          "publishedAt": "2026-06-27T04:05:21Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/27/111976.webp",
+          "publishedAt": "2026-06-27T07:20:25Z",
+          "image": "https://www.enca.com/sites/default/files/styles/large/public/2023-07/thoko_didiza.jpg.webp?itok=63Sh_6Vr",
           "language": "en"
         },
         {
-          "title": "Cattle farmer Carson Carels a perfect fit for Flames",
-          "description": "A genuine cowboy is coming to Cowboy Country.\nEric Francis has more on why there may not be a better fit in this entire NHL Draft than the Flames drafting defenceman Carson Carels at No. 6.",
-          "url": "https://www.sportsnet.ca/nhl/article/cattle-farmer-carson-carels-a-perfect-fit-for-flames/",
+          "title": "Pope to give pallium to 3 Pinoy archbishops",
+          "description": "POPE Leo XIV is set to give 3 Filipino archbishops their respective pallium that symbolizes their authority as metropolitan archbishops.",
+          "url": "https://www.sunstar.com.ph/manila/pope-to-give-pallium-to-3-pinoy-archbishops",
           "source": {
-            "name": "Sportsnet.ca"
+            "name": "SunStar Publishing Inc."
           },
-          "publishedAt": "2026-06-27T04:05:00Z",
-          "image": "https://www.sportsnet.ca/wp-content/uploads/2026/06/Carels.jpg",
+          "publishedAt": "2026-06-27T07:18:44Z",
+          "image": "https://cf-images.assettype.com/sunstar%2F2026-06-27%2Fsuocbfcr%2FArchbishops-Pallium-2026.jpg?rect=0%2C96%2C1350%2C709&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
           "language": "en"
         },
         {
-          "title": "PM Modi sets off for Seychelles visit; to meet world's oldest animal",
-          "description": "PM Modi will attend the Golden Jubilee celebrations of the country’s National Day as the Chief Guest, marking 50 years of diplomatic relations between India and the Indian Ocean archipelago.",
-          "url": "https://www.indiatoday.in/india/story/pm-modi-seychelles-visit-jonathan-worlds-oldest-living-land-animal-2935327-2026-06-27",
+          "title": "Cork and Mayo seek to break through quarter-final ceiling",
+          "description": "Cork haven't reached an All-Ireland semi-final since 2012, while it's five years since Mayo were among the last four teams standing. Which side will break through in their quarter-final match-up?",
+          "url": "https://www.rte.ie/sport/football/2026/0624/1580061-cork-and-mayo-seek-to-break-through-quarter-final-ceiling/",
           "source": {
-            "name": "India Today"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-06-27T04:04:52Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/pm-narendra-modi-25372172-16x9.png?VersionId=nrIav5NKZPr3QBq5qD766JcAdEIIEpaz",
+          "publishedAt": "2026-06-27T07:17:11Z",
+          "image": "https://www.rte.ie/images/002492e5-1600.jpg",
           "language": "en"
         },
         {
-          "title": "FIFA Confirms Ghana Black Stars' Qualification to World Cup Round of 32 Before Croatia Game",
-          "description": "Ghana's Black Stars qualified for the Round of 32 at the 2026 FIFA World Cup, marking their first knockout-stage appearance in any competition since 2019.",
-          "url": "https://yen.com.gh/sports/football/306940-ghana-black-stars-qualify-fifa-world-cup-32-final-group-game/",
+          "title": "Mystics v Steel: Live updates from the ANZ Premiership grand final",
+          "description": "Follow the action as the Northern Mystics and Southern Steel clash in the ANZ Premiership grand final in Auckland. Elimination final report by Nathan Limm...",
+          "url": "https://www.nzherald.co.nz/sport/netball/mystics-v-steel-live-updates-from-the-anz-premiership-grand-final/CLHO3G7LINA6HMDIWWZMFLEKHQ/",
           "source": {
-            "name": "Yen News"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-06-27T04:04:28Z",
-          "image": "https://cdn.yen.com.gh/images/1200x675/df60e29f81f6dfaa.jpeg?v=1",
+          "publishedAt": "2026-06-27T07:17:02Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/2NE32IOIJBBGLEJFRTU2ZAQGJI.jpg?auth=bab3c725623ccc14f074e69e229607293d412fb78929232abaa386ec98551272&width=1200&height=675&quality=70&focal=3957%2C3969&smart=false",
           "language": "en"
         },
         {
-          "title": "Prince Harry to take Archie and Lilibet to Princess Diana’s grave during UK trip",
-          "description": "Prince Harry is planning to take his children Archie and Lilibet to visit their grandmother Princess Diana’s grave for the first time during the family’s upcoming trip to the UK.",
-          "url": "https://www.nine.com.au/lifestyle/royals/prince-harry-archie-lilibet-visit-diana-grave-for-first-time-20260627-p60al2.html",
+          "title": "Screen time can damage under-twos’ development, landmark study suggests",
+          "description": "Exclusive: Researchers call for urgent investigation of risks to babies of tablets, smartphones and other digital devices",
+          "url": "https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study",
           "source": {
-            "name": "Nine.com.au"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-06-27T04:04:18Z",
-          "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/a9bb720de502379b09ac1d7820f2b7c68c21f800c8648366baf03eba85ad0e88",
+          "publishedAt": "2026-06-27T07:17:00Z",
+          "image": "https://i.guim.co.uk/img/media/80926b962ff832a320bb64479ff8effa6baaa3ba/637_0_4995_3995/master/4995.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7c4e6089037de66e0c363359bfadcdf",
           "language": "en"
         },
         {
-          "title": "Australia-based scientists solve decades-old mystery of how eye sees colour",
-          "description": "CANBERRA: Scientists have revealed the atomic structures of the eye molecules responsible for colour vision, solving a decades-old mystery.",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/27/australia-based-scientists-solve-decades-old-mystery-of-how-eye-sees-colour",
+          "title": "IEBC, MP Wanjiku Muhia's lawyers clash over hearing panel",
+          "description": "Proceedings had been convened following a complaint over remarks allegedly made by MP Wanjiku Muhia",
+          "url": "https://www.the-star.co.ke/news/2026-06-27-iebc-mp-muhias-lawyers-clash-over-hearing-panel",
           "source": {
-            "name": "The Star"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-06-27T04:04:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/06/27/3980119.jpg",
+          "publishedAt": "2026-06-27T07:17:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/06/0f1a7499-d699-4665-8b2d-7056abf77416.jpg?1782546712718",
           "language": "en"
         },
         {
-          "title": "'Tees Maar Khan Fans Are Gonna Love Jacqueline Fernandez in This': Internet applauds actress' comic timing in 'Welcome to the Jungle'",
-          "description": "Fans praised Jacqueline for bringing charm, comedy and warmth to the character, with several posts calling Jenny one of the most lovable characters in the film",
-          "url": "https://www.firstpost.com/entertainment/tees-maar-khan-fans-are-gonna-love-jacqueline-fernandez-in-this-internet-applauds-actress-comic-timing-in-welcome-to-the-jungle-14026688.html",
+          "title": "Nigeria's 2026 World Cup failure: Who is accountable?",
+          "description": ".Failures in U17, U20, U23, Super Eagles too heavy to keep current NFF board .Five benchmarks for new board; change must begin with structural reforms By Douglas Baye-Osagie  The Nigeria Football Federation elections are set for September, and the anger is louder than ever. Nigerians are still in pain over missing the 2026 World Cup […]",
+          "url": "https://www.vanguardngr.com/2026/06/nigerias-2026-world-cup-failure-who-is-accountable/",
           "source": {
-            "name": "Firstpost"
+            "name": "Vanguard News"
           },
-          "publishedAt": "2026-06-27T04:01:13Z",
-          "image": "https://images.firstpost.com/uploads/2026/06/WhatsApp-Image-2026-06-26-at-11-2026-06-93897b04424baa9e0c22fa9791d3dadf.jpg?im=FitAndFill=(1200,675)",
+          "publishedAt": "2026-06-27T07:16:13Z",
+          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/04/gusau-e1774654526850.jpg",
           "language": "en"
         },
         {
-          "title": "Banks ‘well-positioned’ to handle shocks - BSP",
-          "description": "THE Bangko Sentral ng Pilipinas (BSP) assured the public on Friday that the Philippine banks were capable of withstanding economic shocks.",
-          "url": "https://www.manilatimes.net/2026/06/27/business/banks-well-positioned-to-handle-shocks-bsp/2373827",
+          "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+          "description": "The injured are being treated in makeshift medical facilities",
+          "url": "https://www.the-star.co.ke/news/world/2026-06-27-venezuela-earthquakes-kill-920-people-as-rescue-teams-arrive",
           "source": {
-            "name": "The Manila Times"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-06-27T04:01:01Z",
-          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/26/1115476.jpg",
+          "publishedAt": "2026-06-27T07:16:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/06/4ebefa33-be6b-4ee4-b760-98b6ace865b0.jpg?1782546680049",
           "language": "en"
         },
         {
-          "title": "Tengah resident suspects deliveryman of keeping her parcel: 'Seems like he tried to blame my neighbour'",
-          "description": "A Tengah resident has expressed her concerns after security camera footage allegedly showed a deliveryman taking her parcel, according to a post to Facebook group Complaint Singapore by user Christine Toh on Saturday (June 27).\"So sad,\" Toh, 44, wrote in her post. \"Think my Shopee delivery got taken away by the delivery guy himself.\"In video footage taken from her security...",
-          "url": "https://www.asiaone.com/singapore/tengah-resident-shopee-deliveryman-taking-parcel-doorstep-blame-neighbour",
+          "title": "South China Morning Post",
+          "description": "The first Hong Kong International Film Festival was held in 1977. This year marked its 50th iteration.",
+          "url": "https://www.scmp.com/news/article/3358185/when-hong-kong-hosted-its-first-international-film-festival-1977-scmp-archive",
           "source": {
-            "name": "AsiaOne"
+            "name": "South China Morning Post"
           },
-          "publishedAt": "2026-06-27T04:01:00Z",
-          "image": "https://media.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Jun2026/27626_shopeedeliveryman_toh.jpg?itok=BlC0tD0Q",
+          "publishedAt": "2026-06-27T07:15:04Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/24/873645a9-446e-4908-b646-7b169a872d5f_50327aeb.jpg?itok=jJJcAHOk&v=1782287070",
           "language": "en"
         },
         {
-          "title": "South Africa's commitment to trade investment and solidarity",
-          "description": "South Africa’s founding president and global icon, Nelson Mandela, dreamt of a united Africa that would overcome its shared challenges.",
-          "url": "https://sundayworld.co.za/news/south-africas-commitment-to-trade-investment-and-solidarity/",
+          "title": "Pedro Neto proud to follow in famous Portuguese footsteps",
+          "description": "Pedro Neto has discussed his pride at following in the footsteps of some of the Portugal legends to have represented the country at the FIFA World Cup, including their current captain Cristiano Ronaldo.",
+          "url": "https://www.chelseafc.com/en/news/article/pedro-neto-proud-to-follow-in-famous-portuguese-footsteps",
           "source": {
-            "name": "sundayworld.co.za"
+            "name": "Chelsea official site"
           },
-          "publishedAt": "2026-06-27T04:00:58Z",
-          "image": "https://i0.wp.com/sundayworld-prod-s3-bucket.s3.eu-west-1.amazonaws.com/wp-content/uploads/2025/11/15164245/P1-Nelson-Mandela.jpg?fit=1324%2C886&ssl=1",
+          "publishedAt": "2026-06-27T07:15:00Z",
+          "image": "http://res.cloudinary.com/chelsea-production/image/upload/c_fit,h_630,w_1200/v1/editorial/news/2026/06/24/WC26_Neto_IV_pt2",
           "language": "en"
         }
       ]
