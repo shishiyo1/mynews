@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-28T08:53:59.117Z",
+  "updatedAt": "2026-06-28T11:08:26.636Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "テスラが運転支援機能「FSD」の移行に2万ドルを請求|au Webポータル",
+          "description": "テスラの「サイバートラック」に安価なモデルが登場し、当初「既存のモデルからフルセルフドライビング(FSD)を移行できる」と案内されていたのですが、二転三転して一部のユーザーが移行のために追加料金を支払",
+          "url": "https://article.auone.jp/detail/1/3/7/48_7_r_20260628_1782601422141141",
+          "source": {
+            "name": "au Webポータル"
+          },
+          "publishedAt": "2026-06-27T23:06:21Z",
+          "image": "https://portal.st-img.jp/thumb/330ced01d1c52b1c1fc40a834cf38402_1782601422_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【台風のたまご=熱帯低気圧】発生へ さらにもうひとつの「熱帯低気圧」も 対流活動は活発化 日本の南に進む予想も 【雨・風シミュレーション7月8日（水）まで】台風情報に今後注意",
+          "description": "■【台風のたまご=熱帯低気圧】発生へ  気象庁予想天気図\n台風7号や8号の「ダブル台風」が去ったばかりですが、次の「台風のたまご=熱帯低気圧」が気象庁発表の予想天気図に現れました。しかも、この「熱",
+          "url": "https://news.yahoo.co.jp/articles/b91da552cc175c2d8ea7314e19c5490cf80a0ea8",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-27T23:00:40Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260628-22763739-mbcnewsv-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【台風のたまご＝熱帯低気圧】発生へ さらにもうひとつの「熱帯低気圧」も 対流活動は活発化 日本の南に進む予想も 【雨・風シミュレーション７月８日（水）まで】台風情報に今後注意",
+          "description": "台風７号や８号の「ダブル台風」が去ったばかりですが、次の「台風のたまご＝熱帯低気圧」が気象庁発表の予想天気図に現れました。しかも、この「熱帯低気圧」は２つも発生する予想で、シミュレーション画像で発達… (1ページ)",
+          "url": "https://newsdig.tbs.co.jp/articles/mbc/2763739?display=1",
+          "source": {
+            "name": "TBS NEWS DIG"
+          },
+          "publishedAt": "2026-06-27T23:00:00Z",
+          "image": "https://newsdig.ismcdn.jp/mwimgs/d/8/1200w/img_d8b12415636d014563a6e617a8de45db1583881.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "米政府、Anthropicの「Mythos」（ミュトス）再開を一部容認──「Fable 5」は停止継続",
+          "description": "Anthropicは、輸出規制で6月12日から全面停止していたAIモデル「Claude Mythos 5」について、一部の米国組織への再展開を米政府が認めたと発表した。一方、「Claude Fable 5」は引き続き停止されたままで、一般提供の再開に向けた協議が続いている。",
+          "url": "https://www.itmedia.co.jp/news/articles/2606/28/news019.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-06-27T22:15:00Z",
+          "image": "https://image.itmedia.co.jp/news/articles/2606/28/cover_news019.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【直木賞作家・万城目学氏Ｗ杯コラム第３弾】スウェーデン戦、谷口まるで武田信玄 次戦２ー１勝利予想 ザイオン大魔神が重い扉開く",
+          "description": "直木賞作家・万城目学氏（５０）のＷ杯サッカー日本代表観戦記「万オブ・ザ・マッチ」第３弾は、１次リーグ最終第３戦のスウェーデン戦。２５日（日本時間２６日）の対戦で１―１で引き分け、１勝２分けで３大会",
+          "url": "https://news.yahoo.co.jp/articles/15f03f3afb941008a3a67c4e72e4290e21fe4534",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-27T22:02:08Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260628-06271316-sph-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "世界最強のサイバー防御を「Anthropic Mythos」が突破、は盛りすぎだった",
+          "description": "世界最高峰のセキュリティシステムをそんな簡単に？本当？Anthropicが4月に発表した「Claude Mythos（クロード・ミュトス）」。驚異的な能力を持つこのモデルの登場で、サイバーセキュリティ業界に不安の波が広がりました。Mytho",
+          "url": "https://www.gizmodo.jp/article/anthropics-mythos-ai-reportedly-hacked-the-nsas-most-sensitive-systems-in-hours-jpn/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-06-27T22:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/06/26/a700aacd-064a-4fa9-9cfc-893936a100ee/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "【F1オーストリアGP｜予選Q3結果】ラッセルのポール確定 フェルスタッペンのクラッシュで黄旗審議も不問",
+          "description": "6月27日(土)、2026年F1第8戦オーストリアGP（レッドブル・リンク）の2日目、予選Q3(13分)が開催された。\nポールポジションを獲得したのはジョージ・ラッセル（メルセデス／メルセデス）、",
+          "url": "https://news.yahoo.co.jp/articles/40293c3658646dc4b31e164e8cce10fac6c932c3",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-27T21:06:23Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260628-00000001-fliv-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "短いソックスで“一時退場”命じられた中村敬斗、ブラジル戦は「事前に確認を取って」着用へ",
           "description": "北中米W杯を戦う日本代表MF中村敬斗(スタッド・ランス)が現地時間27日の練習後、報道陣の取材に応じ、グループリーグ第3戦スウェーデン戦で履き替えを命じられた短いソックスに言及した。29日の決勝トーナメン...",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-06-27T15:25:00Z",
           "image": "https://f.image.geki.jp/data/image/news/2560/455000/454420/news_454420_1.jpg?time=20260628003012",
           "language": "ja"
-        },
-        {
-          "title": "「黄泉のツガイ」第2クールのビジュアル＆PV、左右様VSイワンの背後に弓矢構えるユル（コメントあり / 動画あり）",
-          "description": "荒川弘原作によるTVアニメ「黄泉のツガイ」第2クールのキービジュアル、メインPV、主題歌アーティストが発表された。",
-          "url": "https://natalie.mu/comic/news/678119",
-          "source": {
-            "name": "ナタリー"
-          },
-          "publishedAt": "2026-06-27T15:00:00Z",
-          "image": "https://ogre.natalie.mu/media/news/comic/2026/0627/yominotsugai2_key.jpg?impolicy=twitter_card_face_crop",
-          "language": "ja"
-        },
-        {
-          "title": "TWICE『TWICE〈THIS IS FOR〉WORLD TOUR IN JAPAN』2026年8月26日(水)発売！ タワレコ特典「マスキングテープ」",
-          "description": "TWICE『TWICE〈THIS IS FOR〉WORLD TOUR IN JAPAN』2026年8月26日(水)発売！ タワレコ特典「マスキングテープ」 - タワーレコード",
-          "url": "https://tower.jp/article/feature_item/2026/06/28/1001",
-          "source": {
-            "name": "タワーレコード オンライン"
-          },
-          "publishedAt": "2026-06-27T15:00:00Z",
-          "image": "https://cdfront.tower.jp/~/media/Images/Tol/pc/article/feature_item/World-Reggae/2026/06/28_1001_01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「テレ東音楽祭 2026夏」タイムテーブル発表！MC：深澤辰哉（Snow Man）、松本若菜",
-          "description": "6月28日（日）夜6時30分から「テレ東音楽祭 2026夏」を放送！【動画】「テレ東音楽祭 2026夏」お気に入り登録はこちら！2014年の放送開始から今回で16回目を迎える「テレ東音楽祭」。今年は、これまでの水曜放送…",
-          "url": "https://www.tv-tokyo.co.jp/plus/entertainment/entry/202606/19478.html",
-          "source": {
-            "name": "tv-tokyo.co.jp"
-          },
-          "publishedAt": "2026-06-27T13:55:57Z",
-          "image": "https://tv-tokyo.imgix.net/txcms/media/plus_content/00/5a/34d72c594c6bc9dd39b755f6ded0.jpg?auto=format,compress",
-          "language": "ja"
-        },
-        {
-          "title": "新しい地図、共演者からのほっこりタレコミに「仲悪いよ」と冗談 8年越し第2弾公開に喜び【バナ穴 BANA_ANA】",
-          "description": "新しい地図の稲垣吾郎、草なぎ剛、香取慎吾が6月27日、都内で開催された映画『バナ穴 BANA_ANA』（※アンダーバーは穴の絵文字）公開記念特別イベントに、ファーストサマーウイカ、趣里、鄭亜美、小澤征悦、吹越満、山内ケンジ監督とともに出席。本作公開への思いを語った。",
-          "url": "https://mdpr.jp/cinema/detail/4805456",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-06-27T13:18:52Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/SDSu/wm/SDSu_n3RjfXMqJXTwYRaUVp_pGUT07ivWHo8Szt0KCU.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "稲垣吾郎、草なぎ剛、香取慎吾、新しい地図の8年ぶり映画に感慨｜シネマトゥデイ",
-          "description": "稲垣吾郎、草なぎ剛（なぎ＝弓へんに剪）、香取慎吾が27日、都内で行われた映画『バナ穴 BANA_ANA』公開記念特別イベントに登壇し、新しい地図の8年ぶりとなる新作完成に感慨深げな表情を見せた。",
-          "url": "https://www.cinematoday.jp/news/N0155498",
-          "source": {
-            "name": "シネマトゥデイ"
-          },
-          "publishedAt": "2026-06-27T12:00:33Z",
-          "image": "https://img.cinematoday.jp/a/TSSOdQH7hQHp/_size_r1200x630/_v_1782561633/main.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【Ｗ杯】「昔は強かったけど…」２１歳・塩貝健人は新世代の感覚でブラジルに過剰な恐怖心なし 王国の象徴・ネイマールにも「今は大丈夫」",
-          "description": "日本代表のＦＷ塩貝健人（２１）＝ウォルフスブルク＝が２６日（日本時間２７日）、強気でブラジルに立ち向かう。日本時間３０日の決勝Ｔ１回戦で対戦するブラジル代表のイメージを「ネイマール」と即答。ブラジル",
-          "url": "https://hochi.news/articles/20260627-OHT1T51329.html",
-          "source": {
-            "name": "スポーツ報知"
-          },
-          "publishedAt": "2026-06-27T11:55:00Z",
-          "image": "https://hochi.news/images/2026/06/27/20260627-OHT1I51496-C.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ネタニヤフ氏「レバノン南部に駐留継続」 和平への枠組み合意後に",
-          "description": "【イスタンブール=渡辺夏奈】イスラエルのネタニヤフ首相は26日、「（親イラン組織）ヒズボラが武装解除するまで（緩衝地帯を）維持する」と述べ、レバノン南部で軍の駐留を続ける考えを改めて示した。地元メディアが報じた。イスラエル、レバノンの両政府はこれに先立ち、米国の仲介の下で和平実現に向けた枠組み合意に署名した。ヒズボラを武装解除し、将来的にイスラエル軍が国境まで撤収",
-          "url": "https://www.nikkei.com/article/DGXZQOGR2728A0X20C26A6000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-06-27T11:46:44Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3232243027062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.51&fp-y=0.14&h=630&w=1200&s=dc1a94937b232f7e9265ef1faec7cd8a",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Don’t freeze, don’t sweat: what’s the healthiest AC setting for summer?",
-          "description": "Doctors say the Israeli summer affects the body more than many realize, from dehydration and fatigue to sleep quality, blood pressure and concentration; recommended daytime setting is usually 24°-25°C (75°-77°F), but at night comfort matters most",
-          "url": "https://www.ynetnews.com/health_science/article/h1bcp3tfml",
+          "title": "The party’s officially over: Scotland eliminated from the World Cup",
+          "description": "Steve Clarke’s side can no longer qualify as one of the eight best third-placed sides",
+          "url": "https://www.theguardian.com/football/2026/jun/28/scotland-eliminated-from-world-cup",
           "source": {
-            "name": "Ynetnews"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-06-27T20:53:39Z",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/16/BkbogyACbzx/BkbogyACbzx_0_18_1000_563_0_large.jpg",
+          "publishedAt": "2026-06-27T23:08:00Z",
+          "image": "https://i.guim.co.uk/img/media/21e4c591088c21243fe68c0e2fb62a25c16b0f09/1096_0_4312_3450/master/4312.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5d71d30f050836a81f92d7f733847aa",
           "language": "en"
         },
         {
-          "title": "Details of trilateral framework signed by US, Israel, Lebanon",
-          "description": "The United States, Israel, and Lebanon have signed a Trilateral Framework, as the Trump Administration advances its",
-          "url": "https://dailypost.ng/2026/06/27/details-of-trilateral-framework-signed-by-us-israel-lebanon/",
-          "source": {
-            "name": "Daily Post Nigeria"
-          },
-          "publishedAt": "2026-06-27T20:53:24Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2026/06/US-Israel-Lebanon.jpg",
-          "language": "en"
-        },
-        {
-          "title": "The Cody Rhodes Era is Over in WWE After Sami Zayn Loss at Night of Champions",
-          "description": "WWE desperately needed something fresh before SummerSlam and found it: The Cody Rhodes era ended at the hands of Sami Zayn at Night of Champions.",
-          "url": "https://bleacherreport.com/articles/25447229-cody-rhodes-era-over-wwe-after-sami-zayn-loss-night-champions",
-          "source": {
-            "name": "Bleacher Report"
-          },
-          "publishedAt": "2026-06-27T20:51:57Z",
-          "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-06/2282991186_0_large_cropped.jpg?w=3800&h=2000",
-          "language": "en"
-        },
-        {
-          "title": "Dangote signs XCMG deal to double refinery capacity by 2029",
-          "description": "Aliko Dangote has signed a major equipment deal with China's XCMG machinery manufacturer aimed at doubling the Dangote Petroleum Refinery's 650,000 barrel capacity by 2029.",
-          "url": "https://www.billionaires.africa/2026/06/27/africas-richest-man-signs-massive-equipment-deal-with-chinas-xcmg-to-double-his-refinerys-capacity-by-2029/",
-          "source": {
-            "name": "Billionaires.Africa"
-          },
-          "publishedAt": "2026-06-27T20:51:27Z",
-          "image": "https://storage.ghost.io/c/08/35/0835e1b0-0cd7-4c1a-8c28-d6f7bc4d9c84/content/images/2026/06/Aliko-Dangote-7-3.PNG",
-          "language": "en"
-        },
-        {
-          "title": "Axian Energy secures $60 million MCB loan for Africa renewables",
-          "description": "Hassanein Hiridjee's Axian Energy has secured a $60 million loan from MCB Group to fund its renewable energy expansion across multiple African markets.",
-          "url": "https://www.billionaires.africa/2026/06/27/madagascar-billionaire-hassanein-hiridjees-axian-energy-secures-60-million-loan-from-mcb-to-expand-renewable-energy-across-africa/",
-          "source": {
-            "name": "Billionaires.Africa"
-          },
-          "publishedAt": "2026-06-27T20:51:00Z",
-          "image": "https://storage.ghost.io/c/08/35/0835e1b0-0cd7-4c1a-8c28-d6f7bc4d9c84/content/images/size/w1200/2026/06/Hassanein-Hiridjee-2.webp",
-          "language": "en"
-        },
-        {
-          "title": "T20 World Cup: England thrash New Zealand to charge into semi-finals",
-          "description": "England's winning run at the T20 World Cup continues with a rampant nine-wicket victory over New Zealand in their final group game at The Oval.",
-          "url": "https://www.bbc.com/sport/cricket/articles/c3vy1e0l774o",
+          "title": "US conducts retaliatory strikes on Iran after second shipping attack",
+          "description": "The US said it had hit multiple targets \"in direct response to continued Iranian aggression against commercial shipping\".",
+          "url": "https://www.bbc.com/news/articles/cdxdwkgqgq0o",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-06-27T20:49:09Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7c6d/live/5fa31860-726a-11f1-af47-e9419f280d0d.jpg",
+          "publishedAt": "2026-06-27T23:06:40Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/38a0/live/7c4274f0-727b-11f1-8e1d-bbbb1017d210.jpg",
           "language": "en"
         },
         {
-          "title": "BTU Investors Have Opportunity to Lead Peabody Energy Corporation Securities Fraud Lawsuit with the Schall Law Firm",
-          "description": "BTU Investors Have Opportunity to Lead Peabody Energy Corporation Securities Fraud Lawsuit with the Schall Law Firm",
-          "url": "https://www.businesswire.com/news/home/20260627479086/en/BTU-Investors-Have-Opportunity-to-Lead-Peabody-Energy-Corporation-Securities-Fraud-Lawsuit-with-the-Schall-Law-Firm",
+          "title": "The Vinted effect: Charity retailers take to reselling apps with big-ticket items",
+          "description": "One Irish charity shop chain is even using Vinted and Vestiaire itself to sell designer clothes and shoes.",
+          "url": "https://www.thejournal.ie/vinted-charity-shops-7081355-Jun2026/",
           "source": {
-            "name": "Business Wire"
+            "name": "The Journal"
           },
-          "publishedAt": "2026-06-27T20:49:00Z",
-          "image": "https://mms.businesswire.com/media/20260627479086/en/827144/22/Schall-Firm-Logo-640x360.jpg",
+          "publishedAt": "2026-06-27T23:06:00Z",
+          "image": "https://img2.thejournal.ie/article/7081355/river/?height=400&version=7082837",
           "language": "en"
         },
         {
-          "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
-          "description": "An estimated 150 million people are now experiencing temperatures of over 35C across Europe.",
-          "url": "https://www.bbc.com/news/articles/cx2vdydz31no",
+          "title": "US conducts retaliatory strikes on Iran after second shipping attack",
+          "description": "The US said it had hit multiple targets \"in direct response to continued Iranian aggression against commercial shipping\".",
+          "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-06-27T20:48:16Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/afaa/live/fe3ba4d0-725e-11f1-b4a5-2d0098f6c080.jpg",
+          "publishedAt": "2026-06-27T23:06:00Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38a0/live/7c4274f0-727b-11f1-8e1d-bbbb1017d210.jpg",
           "language": "en"
         },
         {
-          "title": "US activates highest-level response to Ebola outbreak",
-          "description": "WASHINGTON: US health authorities activated the highest level of response to the Ebola outbreak in the Democratic Republic of Congo, while announcing the shipment of experimental treatments to the region. “Our assessment is that the risk to the US continues to remain low,” said Satish Pillai, who is leading the Ebola response at the Centers for Disease Control and Prevention,",
-          "url": "https://www.arabnews.com/node/2648828/world",
+          "title": "England player ratings vs Panama: Jude Bellingham, take a bow! Magnificent midfielder lifts drab Three Lions to secure top spot in World Cup group",
+          "description": "Jude Bellingham was the star of the show as England secured top spot in Group L at the 2026 World Cup with a 2-0 win over Panama on Saturday",
+          "url": "https://www.goal.com/en-ug/lists/england-player-ratings-panama-world-cup-jude-bellingham/blt6c0269be29b7c1e7",
           "source": {
-            "name": "Arab News"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-06-27T20:48:16Z",
-          "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/27/4725926-284836816.jpg?itok=rGtGVRdk",
+          "publishedAt": "2026-06-27T23:03:53Z",
+          "image": "https://assets.goal.com/images/v3/bltf85681e8266304e3/WCHQ_MATCH%20[16x9]%20(5).jpg",
           "language": "en"
         },
         {
-          "title": "US activates highest-level response to Ebola outbreak",
-          "description": "WASHINGTON: US health authorities activated the highest level of response to the Ebola outbreak in the Democratic Republic of Congo, while announcing the shipment of experimental treatments to the region. “Our assessment is that the risk to the US continues to remain low,” said Satish Pillai, who is leading the Ebola response at the Centers for Disease Control and Prevention,",
-          "url": "https://www.arabnews.pk/node/2648828/world",
+          "title": "Embrace, Not Empire: How Türkiye Is Winning Africa by Doing What Europe Never Did",
+          "description": "When a young police officer from the Republic of Congo stepped forward to receive his diploma from Turkish President Recep Tayyip Erdogan at the National Police Academy in Ankara last week, and delivered a salute so sharp it halted entire hall of Turkish security officials and drew spontaneous applause, something more was on display than military courtesy. It was a small but vivid illustration of a profound geopolitical shift that has been unfolding across Africa for more than two decades the ri",
+          "url": "https://www.modernghana.com/news/1506077/embrace-not-empire-how-trkiye-is-winning-africa.html",
           "source": {
-            "name": "Arab News PK"
+            "name": "Modern Ghana"
           },
-          "publishedAt": "2026-06-27T20:48:16Z",
-          "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/06/27/4725926-284836816.jpg?itok=weGl1TpM",
+          "publishedAt": "2026-06-27T23:03:42Z",
+          "image": "https://cdn.modernghana.com/images/content/6272026114717-otkvn0y442-screenshot20260627-2042101.png",
+          "language": "en"
+        },
+        {
+          "title": "The World Is Burning And Your Wallet Is In The Fire: What Jeremy Grantham's Warnings Mean For Every Ghanaian",
+          "description": "The warnings being issued from some of the most experienced corners of global finance deserve far more attention than they are currently receiving in African policy and public discourse. Jeremy Grantham, a veteran investment strategist with over five decades of market experience and co-founder of the Boston-based investment firm GMO, has delivered a comprehensive and sobering assessment of the global economic and social landscape mdash; one that speaks with uncomfortable directness to the reali",
+          "url": "https://www.modernghana.com/news/1506078/the-world-is-burning-and-your-wallet-is-in-the.html",
+          "source": {
+            "name": "Modern Ghana"
+          },
+          "publishedAt": "2026-06-27T23:03:42Z",
+          "image": "https://cdn.modernghana.com/images/content/6282026125212-8dt2wjivup-ai-stock-trading-revolutionizing-the-financial-markets-in-2025.jpg",
+          "language": "en"
+        },
+        {
+          "title": "England player ratings vs Panama: Jude Bellingham, take a bow! Magnificent midfielder lifts drab Three Lions to secure top spot in World Cup group",
+          "description": "Jude Bellingham was the star of the show as England secured top spot in Group L at the 2026 World Cup with a 2-0 win over Panama on Saturday",
+          "url": "https://www.goal.com/en-gh/lists/england-player-ratings-panama-world-cup-jude-bellingham/blt6c0269be29b7c1e7",
+          "source": {
+            "name": "Goal.com"
+          },
+          "publishedAt": "2026-06-27T23:02:54Z",
+          "image": "https://assets.goal.com/images/v3/bltf85681e8266304e3/WCHQ_MATCH%20[16x9]%20(5).jpg",
+          "language": "en"
+        },
+        {
+          "title": "Fatboy Slim says he felt paralysed at prospect of DJing sober after rehab",
+          "description": "Speaking on Desert Island Discs, the Grammy-nominated musician referred to his alcoholism as a parasite",
+          "url": "https://www.theguardian.com/music/2026/jun/28/fatboy-slim-djing-sober-rehab-alcoholism-desert-island-discs",
+          "source": {
+            "name": "The Guardian"
+          },
+          "publishedAt": "2026-06-27T23:02:00Z",
+          "image": "https://i.guim.co.uk/img/media/4e3836efa441d5b635b40d11b79e06c100633df5/804_0_4163_3330/master/4163.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba1ee5fe3c6ccbe7dbdf594298cdc678",
+          "language": "en"
+        },
+        {
+          "title": "Harry Kane becomes England's leading World Cup scorer, see the goal",
+          "description": "Harry Kane notched his 11th World Cup goal in England's Group L finale against Panama. See the play that made him the country's top scorer of all time",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/27/harry-kane-goal-england-world-cup-top-scorer/90725871007/",
+          "source": {
+            "name": "USA Today"
+          },
+          "publishedAt": "2026-06-27T23:01:00Z",
+          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/27/USAT/90725880007-2283622047.jpg?crop=4038,2272,x0,y210&width=3200&height=1801&format=pjpg&auto=webp",
           "language": "en"
         }
       ]
