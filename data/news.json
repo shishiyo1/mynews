@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-29T11:02:20.749Z",
+  "updatedAt": "2026-06-29T15:49:34.987Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "大谷翔平、先制打放ち４打数１安打１打点 松井裕樹との対戦は空振り三振 ドジャース勝利／詳細",
-          "description": "ドジャース大谷翔平投手は「1番DH」で先発出場。3回に先制適時打を放つなど4打数1安打1打点。6回に松井裕樹投手と対戦。空振り三振に仕留められた。松井は1回2… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/baseball/mlb/news/202606280000631.html",
+          "title": "【為替】7月および第1週の米ドル／円を予想する",
+          "description": "米金利上昇などを手掛かりに、6月の米ドル／円は2024年7月の高値まで肉薄。円安阻止姿勢を巡る市場と当局の腹の探り合いが続く中、値幅はわずか3円未満にとどまる。。投機筋の米ドル買い・円売り「行き過ぎ」懸念が強まるなど、2024年に円高への急反転が起こった局面と...",
+          "url": "https://media.monex.co.jp/articles/-/29648",
           "source": {
-            "name": "日刊スポーツ"
+            "name": "マネクリ"
           },
-          "publishedAt": "2026-06-28T22:38:00Z",
-          "image": "https://www.nikkansports.com/baseball/mlb/news/img/202606280000631-w500_0.jpg",
+          "publishedAt": "2026-06-29T03:12:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/a/7/-/img_a7c9ac1cbc7b099076c75c9fb3211e45544367.png",
           "language": "ja"
         },
         {
-          "title": "「スマホカメラ」が「本物のカメラ」に到底かなわない6つの理由",
-          "description": "最新スマートフォンのカメラは、写真を撮る道具として驚くほど高性能だ。大型センサー、明るいレンズ、そして豊富なソフトウェア機能を備え、プロ向けのミラーレス機に匹敵する写真が撮れる。それでも筆者は、カメラをスマホ1台に置き換えたいとは思わない。プロの写真家として、そしてスマホのレビュアーとして数々の機種を試してきた立場から、その理由を挙げていきたい。",
-          "url": "https://japan.cnet.com/article/35249557/",
+          "title": "Macで外付けGPUが使える「TinyGPU」をRTX 5060 Tiで検証 実用性と浮き彫りになった課題（1/4 ページ）",
+          "description": "Apple Silicon MacでNVIDIA製GPUを動かしCUDA環境を実現する「TinyGPU」を試してみた。高いセキュリティを維持したまま動作する画期的な新技術の導入手順から、最新GPUを用いた検証、現時点の課題まで解説する。 (1/4)",
+          "url": "https://www.itmedia.co.jp/pcuser/articles/2606/29/news017.html",
           "source": {
-            "name": "CNET Japan"
+            "name": "ITmedia"
           },
-          "publishedAt": "2026-06-28T22:29:00Z",
-          "image": "https://japan.cnet.com/storage/2026/06/29/c0720bb0fefb958adb3f961a8a9d2384/leica-xiaomi-leitzphone-review-cnet-05__1_.jpeg",
+          "publishedAt": "2026-06-29T03:10:00Z",
+          "image": "https://image.itmedia.co.jp/pcuser/articles/2606/29/cover_news017.jpg",
           "language": "ja"
         },
         {
-          "title": "一晩のツケ700万円、罪犯し払った女性 甘言のホスト今も店に",
-          "description": "「二人の将来のためだ」 　「あと少し、協力してほしい」 　ホストの口車と感づいてはいたものの、断り切れなかった。特別な日の掛け（ツケ）は700万円にのぼった。 　支払いに窮した女性は罪を犯した。甘言を弄（ろう）したホストは今も同じ店で働き続けている。",
-          "url": "https://mainichi.jp/articles/20260625/k00/00m/040/123000c",
+          "title": "アメリカとイランが攻撃の応酬、停戦に違反したと互いに非難",
+          "description": "アメリカは27日、ホルムズ海峡でパナマ船籍のタンカー1隻がドローンで攻撃されたことを受け、イランに対して新たな空爆を実施した。一方でイランは、中東地域にある米関連インフラに報復攻撃を仕掛けたと発表した。",
+          "url": "https://www.bbc.com/japanese/articles/cz75yl3q3nlo",
           "source": {
-            "name": "毎日新聞"
+            "name": "BBC"
           },
-          "publishedAt": "2026-06-28T22:00:00Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/06/25/20260625k0000m040119000p/0c10.jpg?1",
+          "publishedAt": "2026-06-29T03:05:33Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/38a0/live/7c4274f0-727b-11f1-8e1d-bbbb1017d210.jpg",
           "language": "ja"
         },
         {
-          "title": "「Vendefoul Wolf」レビュー--往年の「Linux」を思い出させる個性的なディストロ",
-          "description": "既存のルールに縛られないOSを探しているなら、「Vendefoul Wolf」が最適かもしれない。必要なものがそろい、不要なものは一切ない。",
-          "url": "https://japan.zdnet.com/article/35249469/",
+          "title": "【台風のたまご=熱帯低気圧】発生へ 沖縄の南の海上に進む予想も 気象庁「アジア太平洋予想天気図」に出現【雨・風シミュレーション7月9日（木）まで】台風情報に今後注意",
+          "description": "■【台風のたまご=熱帯低気圧】発生か  気象庁予想天気図\n台風7号や8号の「ダブル台風」が去ったばかりですが、次の「台風のたまご=熱帯低気圧」が気象庁発表の「アジア太平洋予想天気図」に現れました。",
+          "url": "https://news.yahoo.co.jp/articles/eb0972b55af1132a1df2e0c62275b68d686ae9d1",
           "source": {
-            "name": "ZDNET Japan"
+            "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-06-28T22:00:00Z",
-          "image": "https://japan.zdnet.com/storage/2026/06/26/33d37d571fb98e5b18613f6335b15c51/large-vendefoulhero.jpg",
+          "publishedAt": "2026-06-29T03:00:36Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260629-22764676-mbcnewsv-000-6-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "森保監督がブラジル戦前に「ダークホースの優勝候補が我々」前回勝利は「我々にも勝つチャンスがあると分かった」",
-          "description": "北中米W杯を戦う日本代表の森保一監督が28日、決勝トーナメント1回戦(ラウンド32)ブラジル戦の前日記者会見に出席し、日本サッカー史に残るビッグマッチに向けて「相手は世界トップトップの強豪で、W杯で5回優...",
-          "url": "https://web.gekisaka.jp/news/japan/detail/?454513-454513-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-06-28T21:33:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/455000/454513/news_454513_1.jpg?time=20260629074310",
-          "language": "ja"
-        },
-        {
-          "title": "29日の関東は午後は山沿い中心に激しい雨や雷雨 30日は梅雨の晴れ間で蒸し暑い",
-          "description": "今日29日(月)の関東地方は、晴れマークはあるものの、曇りや雨のすっきりしない天気の所が多いでしょう。特に南部の山沿いや北部では午後は所々で雷を伴って激しく降る見込みです。明日30日(火)は日中は晴れ間の出る所が多く、梅雨の晴れ間となるでしょう。蒸し暑さも復活しそうです。7月前半も梅雨空の日が多く、関東甲信の梅雨明けはまだ先となるでしょう。",
-          "url": "https://tenki.jp/forecaster/s_ono/2026/06/29/39521.html",
+          "title": "7月3日頃まで警報級大雨の恐れも 2週目は晴れる日が増加 2週間天気予報",
+          "description": "この先6月30日(火)〜7月12日(日)は、前半は本州付近に前線が停滞し、東〜西日本を中心に曇りや雨の梅雨空が続くでしょう。3日(金)頃までは西日本を中心に大雨に警戒してください。後半は高気圧に覆われる日が増えて晴れ間が戻る一方、前線の位置次第で再び雨となる日もありそうです。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/06/29/39520.html",
           "source": {
             "name": "tenki.jp"
           },
-          "publishedAt": "2026-06-28T21:21:48Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/395/39521/main/20260629060250/large.jpg",
+          "publishedAt": "2026-06-29T02:32:07Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/395/39520/main/20260629110438/large.jpg",
           "language": "ja"
         },
         {
-          "title": "開催国カナダがエウスタキオの劇的後半AT弾で南アフリカ撃破！…初のノックアウトステージ勝利でラウンド16進出（サッカーキング）",
-          "description": "FIFAワールドカップ2026・ラウンド32が28日に行われ、南アフリカ代表とカナダ代表が対戦した。\n　グループAで開催国メキシコに次ぐ2位で初の決勝トーナメント進出を決めた南アフリカ。これに対",
-          "url": "https://news.yahoo.co.jp/articles/196bb6272276c1e82a03caa020cf6303636cc43c",
+          "title": "AIの進化は、スマートスピーカーへの“失望感”を挽回できるか？ Gemini対応の新型を試す：小寺信良のIT大作戦（1/6 ページ）",
+          "description": "過去のスマートスピーカーは受け答えがあまりスマートではなかったが、25日にGemini for Home対応の新型「Google Home Speaker」の出荷が開始された。使って見ると、洗練された受け答えに進化していたが、まだ完璧ではない。 (1/6)",
+          "url": "https://www.itmedia.co.jp/news/articles/2606/29/news077.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-06-29T02:32:00Z",
+          "image": "https://image.itmedia.co.jp/news/articles/2606/29/cover_news077.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "主将・板倉滉はプレー可能も久保建英は欠場決定。酷暑の中、ブラジル戦に向け最終調整「今までのサッカー人生で一番重要」【練習レポート】（フットボールチャンネル）",
+          "description": "日本代表は現地時間6月28日、FIFAワールドカップ2026（北中米W杯）決勝トーナメント1回戦（ラウンド32）のブラジル代表戦に向けて、冒頭を報道陣に公開する形でヒューストンで最終調整を行った。",
+          "url": "https://news.yahoo.co.jp/articles/72135c35fe66e2e84d7c1603a9578a83fc75b93b",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-06-28T21:05:39Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260629-02178483-soccerk-000-3-view.jpg?exp=10800",
+          "publishedAt": "2026-06-29T02:14:28Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260629-00010017-footballc-000-1-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "2026年版『GTO』松嶋菜々子、出演決定 反町隆史と“夫婦共演” 現在のビジュアルも解禁に【コメント】",
-          "description": "俳優・反町隆史が主演を務めるカンテレ・フジテレビ系月10ドラマ『GTO』（7月20日スタート、毎週月曜　後10：00）で、冬月あずさ役・松嶋菜々子が出演すると発表された。\n　藤沢とおる氏による同",
-          "url": "https://news.yahoo.co.jp/articles/98c9cbf583c2da528fdca5d81ffe657a506c0820",
+          "title": "『ギルティギア ストライヴ』など11本を“約5万円引き”で買えるセットがHumble Bundleで販売中",
+          "description": "ゲーム購入がチャリティにつながる海外サイト「Humble Bundle」での販売。購入金額の一部は、難病UBA5の治療研究団体に寄付される",
+          "url": "https://news.denfaminicogamer.jp/news/260629n",
           "source": {
-            "name": "Yahoo!ニュース"
+            "name": "電ファミニコゲーマー"
           },
-          "publishedAt": "2026-06-28T21:00:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260629-00000316-oric-000-12-view.jpg?exp=10800",
+          "publishedAt": "2026-06-29T01:49:00Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_2561a4ae822856797b5fb231502b820a962336e0.1920x1080-1.jpg",
           "language": "ja"
         },
         {
-          "title": "中国発の無料NAS OS「fnOS」、現時点の実用には「ローカルファースト」の壁があるものの、高い完成度に感心",
-          "description": "昨年、一部マニアの間で話題になっていた無料のNAS OS「fnOS」を試してみた。市販のNAS OSに勝るとも劣らない、モダンで多機能なものになっており、非常に完成度が高い。",
-          "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2115312.html",
+          "title": "連結して使える丈夫なステージベッド『MODUE（モデュー）』従来の6枚セットに加え9枚・12枚セットを新たに販売開始！用途や設置環境に応じて選べるラインアップでさらに購入しやすくなりました。",
+          "description": "株式会社エムールのプレスリリース（2026年6月29日 10時30分）連結して使える丈夫なステージベッド『MODUE（モデュー）』従来の6枚セットに加え9枚・12枚セットを新たに販売開始！用途や設置環境に応じて選べるラインアップでさらに購入しやすくなりました。",
+          "url": "https://prtimes.jp/main/html/rd/p/000000252.000051129.html",
           "source": {
-            "name": "INTERNET Watch"
+            "name": "PR TIMES"
           },
-          "publishedAt": "2026-06-28T21:00:00Z",
-          "image": "https://internet.watch.impress.co.jp/img/iw/list/2115/312/001.png",
+          "publishedAt": "2026-06-29T01:30:02Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/51129/252/51129-252-b67a2eb4305c9b9d2bcfabf5537b8e92-1920x1280.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
           "language": "ja"
         },
         {
-          "title": "『踊る大捜査線 N.E.W.』新キャスト9名発表 NEWS増田貴久が真下正義の息子役、趣里＆白洲迅が所轄刑事に",
-          "description": "織田裕二主演の映画『踊る大捜査線』シリーズ最新作『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』（9月18日全国公開）の新キャスト9名が発表された。",
-          "url": "https://www.cinematoday.jp/news/N0155563",
+          "title": "熱波が襲うヨーロッパ、なぜエアコンの普及率が低いのか",
+          "description": "6月にヨーロッパを記録的な熱波が襲いました。大陸全体のエアコン普及率の低さが、あらためて注目を集めています。",
+          "url": "https://www.businessinsider.jp/article/2606-europe-air-conditioning-ac-heatwave-debate/",
           "source": {
-            "name": "シネマトゥデイ"
+            "name": "Business Insider Japan"
           },
-          "publishedAt": "2026-06-28T20:27:38Z",
-          "image": "https://img.cinematoday.jp/a/RhBnsofphUmu/_size_r1200x630/_v_1782694149/main.jpg",
+          "publishedAt": "2026-06-29T01:30:00Z",
+          "image": "https://media.loom-app.com/loom/2026/06/25/93f55f94-d59d-4cbc-89b3-b2de89ac9c0e/original.jpg?w=1200&h=630",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Human Activity Fuels Retreat of Fastest Melting Glacier",
-          "description": "Human-driven climate change significantly intensified the retreat of one the most important glaciers in the Antarctica during the twentieth",
-          "url": "https://www.miragenews.com/human-activity-fuels-retreat-of-fastest-melting-1700602/",
+          "title": "South Korean president blasts coach and soccer leaders after early World Cup exit",
+          "description": "Social media posts showing shops with signs banning the South Korea coach ⁠from the premises have gone viral in the country.",
+          "url": "https://www.japantimes.co.jp/sports/2026/06/29/soccer/south-korea-president-blasts-coach/",
           "source": {
-            "name": "Mirage News"
+            "name": "The Japan Times"
           },
-          "publishedAt": "2026-06-28T23:02:00Z",
-          "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1587955415524-bb264e518428%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
+          "publishedAt": "2026-06-29T03:49:00Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548783.jpg?v=3.1",
           "language": "en"
         },
         {
-          "title": "REC, PFC boards approve merger scheme; Check swap ratio and other details",
-          "description": "REC had close to 12 lakh small retail shareholders at the end of the March quarter as per the BSE shareholding. These shareholders will be entitled to receive 88 shares of PFC for every 100 shares they own as on the record date, which is yet to be fixed.",
-          "url": "https://www.cnbctv18.com/market/rec-pfc-merger-approved-swap-ratio-shareholding-government-control-share-price-reaction-19933749.htm",
+          "title": "Johor polls: Police open three probes as campaigning gets underway",
+          "description": "JOHOR BAHRU, June 29 — Johor police have received seven reports related to the Johor state election since nomination day last Saturday until 11.59pm last night.Johor police chief...",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/johor-polls-police-open-three-probes-as-campaigning-gets-underway/225612",
           "source": {
-            "name": "CNBC TV18"
+            "name": "Malay Mail"
           },
-          "publishedAt": "2026-06-28T23:01:50Z",
-          "image": "https://images.cnbctv18.com/uploads/2026/06/image-2026-06-9341497aa650c374d449ffcdbe1470a2.jpg?im=FitAndFill,width=1200,height=675",
+          "publishedAt": "2026-06-29T03:48:31Z",
+          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/06/29/349181.jpeg",
           "language": "en"
         },
         {
-          "title": "Paul Hogan blasts Pauline Hanson as ‘a pelican and so racist’ as One Nation polling takes a hit",
-          "description": "Paul Hogan, the Aussie actor that Pauline Hanson has described as representative of her big dreams for a monoculture, has described her as “a pelican” and “so racist.”",
-          "url": "https://www.news.com.au/national/angus-taylor-trounced-by-pauline-hanson-again/news-story/6573d9961980fbeda7730da05fb5615f",
-          "source": {
-            "name": "News.com.au"
-          },
-          "publishedAt": "2026-06-28T23:01:45Z",
-          "image": "https://content.api.news/v3/images/bin/0b69680b1bea20d1898acc3f352c9edf",
-          "language": "en"
-        },
-        {
-          "title": "England facing children’s mental health ‘crisis’ as referrals hit 1m",
-          "description": "Commissioner calls for overhaul of state support after reporting 10% rise in young patient referrals last year",
-          "url": "https://www.theguardian.com/society/2026/jun/29/england-children-mental-health-crisis-million-referrals",
+          "title": "Morocco and the Netherlands look to move mountains in Monterrey matchup",
+          "description": "Two teams with plenty of connections meet in a ‘clash of titans’ at one of the World Cup’s most picturesque venues",
+          "url": "https://www.theguardian.com/football/2026/jun/28/morocco-netherlands-world-cup-2026-preview",
           "source": {
             "name": "The Guardian"
           },
-          "publishedAt": "2026-06-28T23:01:31Z",
-          "image": "https://i.guim.co.uk/img/media/99514dc01ddddfc1dde0c976c98aac9e76d1a2fe/432_0_4320_3456/master/4320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ab4bbc8d00382efd4ab62c70a38fca3",
+          "publishedAt": "2026-06-29T03:45:00Z",
+          "image": "https://i.guim.co.uk/img/media/0a46e38a6b8964d61ce99c820a4b9ac5717e138d/0_631_4572_3655/master/4572.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=51730c17ca1f6df85a3d7150f2a94623",
           "language": "en"
         },
         {
-          "title": "Pause HS2 reset until you are confident it can be delivered, NAO tells ministers",
-          "description": "Spending watchdog says high-speed rail project must be put on stable footing to avoid repeat of costly past failures",
-          "url": "https://www.theguardian.com/uk-news/2026/jun/29/pause-hs2-reset-until-you-are-confident-it-can-be-delivered-nao-tells-ministers",
+          "title": "Uddhav says Sena rebellion an effort to keep Fadnavis out of PM race. He quips: 'Can't clip my wings'",
+          "description": "Uddhav Thackeray had said that ‘Operation Devendra’ was at play and was used to orchestrate the exit of the lawmakers from his Shiv Sena faction. | India News",
+          "url": "https://www.hindustantimes.com/india-news/operation-devendra-vs-cant-clip-my-wings-uddhav-thackeray-fadnavis-faceoff-amid-shiv-sena-rebellion-eknath-shinde-101782701493298.html",
           "source": {
-            "name": "The Guardian"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-06-28T23:01:31Z",
-          "image": "https://i.guim.co.uk/img/media/2f64136885058964451742726ca87eb1cd7509db/219_0_3281_2625/master/3281.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4ffcf435c03bafa6fbcb52b24ca10ce",
+          "publishedAt": "2026-06-29T03:44:40Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/06/29/550x309/maharashtra_1782703377986_1782703390646_c0722633-6868-4e65-98de-7ea918dc4cf2.jpg",
           "language": "en"
         },
         {
-          "title": "James Norton to Play Hamlet in West End, Directed by Thomas Ostermeier",
-          "description": "James Norton will star as Hamlet in a new West End production directed by Thomas Ostermeier, opening in fall 2027.",
-          "url": "https://variety.com/2026/theater/news/james-norton-hamlet-west-end-thomas-ostermeier-1236795920/",
+          "title": "‘He clearly has a talent’: Gambhir faces brutal social media roasting after India's humiliating clean sweep vs Ireland",
+          "description": "Gautam Gambhir faces social meida troll afer India were cleanswept 2-0 by Ireland. | Cricket",
+          "url": "https://www.hindustantimes.com/cricket/he-clearly-has-talent-gambhir-faces-brutal-social-media-roasting-after-indias-humiliating-clean-sweep-vs-ireland-101782703556663.html",
           "source": {
-            "name": "Variety"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-06-28T23:01:00Z",
-          "image": "https://variety.com/wp-content/uploads/2026/06/James-Norton-Hamlet-poster.jpg?w=1000&h=563&crop=1",
+          "publishedAt": "2026-06-29T03:44:22Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/06/29/550x309/20260615-LKO-DGP-MN-Indian-Team-002-0_1782704440321_1782704468486_187de64d-b44c-420f-950b-c7ff060d9a7b.jpg",
           "language": "en"
         },
         {
-          "title": "Pokémon Go July 2026 event and raid schedule",
-          "description": "Want to know what's happening in Pokémon Go during July? Then take a look at our July 2026 event and raid schedule, including Max Battles and Mega Raids.",
-          "url": "https://www.eurogamer.net/pokemon-go-july-2026-event-raid-schedule",
+          "title": "Bam Aquino opposes total ban on video games, pushes for strict age restriction",
+          "description": "Senator Paolo “Bam” Aquino IV on Monday, June 29 rejected Malacañang’s openness to restrict or ban violent video games following the school shooting in...",
+          "url": "https://mb.com.ph/2026/06/29/bam-aquino-opposes-total-ban-on-video-games-pushes-for-strict-age-restriction",
           "source": {
-            "name": "Eurogamer"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-06-28T23:01:00Z",
-          "image": "https://assetsio.gnwcdn.com/Pokemon-Go-July-2026-Schedule-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "publishedAt": "2026-06-29T03:39:52Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/29/112372.webp",
           "language": "en"
         },
         {
-          "title": "About 170,000 people in England expected to die from obesity-linked heart conditions by 2035",
-          "description": "British Heart Foundation finds about 45 people a day expected to die over next decade if current trends continue",
-          "url": "https://www.theguardian.com/society/2026/jun/29/170000-people-england-die-heart-conditions-linked-obesity-2035",
+          "title": "Instagram is testing a more convenient way to tune recommendations",
+          "description": "Instagram is testing new shortcuts for Your Algorithm, making it easier for users to adjust recommendations while browsing Feed and Reels.",
+          "url": "https://www.digitaltrends.com/social-media/instagram-is-testing-a-more-convenient-way-to-tune-recommendations/",
           "source": {
-            "name": "The Guardian"
+            "name": "Digital Trends"
           },
-          "publishedAt": "2026-06-28T23:01:00Z",
-          "image": "https://i.guim.co.uk/img/media/b5aa4aed2b4e6d4115264912fd9e9c852ca79d71/347_0_4320_3456/master/4320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4f72a1886bac6fd41cafa9e62fe7a55",
+          "publishedAt": "2026-06-29T03:39:07Z",
+          "image": "https://www.digitaltrends.com/tachyon/2026/01/wedding-4.jpg?resize=1200%2C630",
           "language": "en"
         },
         {
-          "title": "World Cup while you were sleeping: Marsch hails ‘Canadian heroes’, South Korea boss quits",
-          "description": "Stephen Eustaquio strike sends co-hosts into the last 16 where Morocco or the Netherlands await. South Korea boss Hong Myung-bo resigns.",
-          "url": "https://www.scmp.com/sport/football/article/3358680/world-cup-while-you-were-sleeping-marsch-hails-canadian-heroes-south-korea-boss-quits",
+          "title": "Upcoming Triumph Bonneville 400 spied testing again, will rival Royal Enfield Classic 350",
+          "description": "The Triumph Bonneville 400 features a retro design, including a sculpted fuel tank, round LED headlamp, and wide handlebars.",
+          "url": "https://auto.hindustantimes.com/auto/two-wheelers/upcoming-triumph-bonneville-400-spied-testing-again-will-rival-royal-enfield-classic-350-41782703828825.html",
           "source": {
-            "name": "South China Morning Post"
+            "name": "HT Auto"
           },
-          "publishedAt": "2026-06-28T23:00:16Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/29/ddf39b5a-05bd-4b82-9fa5-f34342ec45a4_f60e69c1.jpg?itok=mZHDI8-A&v=1782685523",
+          "publishedAt": "2026-06-29T03:38:44Z",
+          "image": "https://images.hindustantimes.com/auto/img/2026/06/29/1600x900/Triumph_Bonneville_400_1782704171127_1782704196369_644ba359-c48b-4a92-babf-4517b8cf99bc.jpeg",
           "language": "en"
         },
         {
-          "title": "Human activity has driven retreat of Antarctica's fastest melting glacier",
-          "description": "Human-driven climate change significantly intensified the retreat of one of the most important glaciers in Antarctica during the 20th century. The Pine Island Glacier, which drains a large part of the West Antarctic Ice Sheet into the Amundsen Sea, is one of the biggest contributors to global sea level rise.",
-          "url": "https://phys.org/news/2026-06-human-driven-retreat-antarctica-fastest.html",
+          "title": "Alleged Batangas school shooting threat from ‘bullied’ student",
+          "description": "The threat was received through the school’s social media page late Sunday night, prompting the management to suspend classes on Monday",
+          "url": "https://newsinfo.inquirer.net/2254443/alleged-batangas-school-shooting-threat-came-from-bullied-student",
           "source": {
-            "name": "Phys.org"
+            "name": "Inquirer.net"
           },
-          "publishedAt": "2026-06-28T23:00:01Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/2026/human-activity-has-dri.jpg",
+          "publishedAt": "2026-06-29T03:38:00Z",
+          "image": "https://newsinfo.inquirer.net/files/2026/06/29june2026policeline.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Father charged with murder and torture of four",
+          "description": "Police say the baby's condition was consistent with \"a child-shaking injury\".",
+          "url": "https://www.abc.net.au/news/2026-06-29/father-charged-with-murder-and-torture-over-baby-death-court/106854200",
+          "source": {
+            "name": "Australian Broadcasting Corporation"
+          },
+          "publishedAt": "2026-06-29T03:37:50Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/75618860256033054a96eeea7d7f6237?impolicy=wcms_watermark_news&cropH=882&cropW=1568&xPos=183&yPos=0&width=862&height=485&imformat=generic",
           "language": "en"
         }
       ]
