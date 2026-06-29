@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-29T19:59:35.052Z",
+  "updatedAt": "2026-06-29T22:08:27.102Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "スーパーカミオカンデが超新星背景ニュートリノの兆候をとらえた",
+          "description": "「スーパーカミオカンデ」の18年分のデータ解析から、過去の宇宙で起こった超新星爆発のニュートリノが地球に届いている兆候が初めて得られた。",
+          "url": "https://www.astroarts.co.jp/article/hl/a/14558_neutrino",
+          "source": {
+            "name": "latar88"
+          },
+          "publishedAt": "2026-06-29T10:00:31Z",
+          "image": "https://www.astroarts.co.jp/article/attachment/54364/key_visual.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "JAXAなど、X線ドップラートモグラフィで中性子連星のガス流を可視化",
+          "description": "宇宙航空研究開発機構(JAXA)と広島大学は、観測された中性子星連星の「鉄蛍光輝線」に「ドップラートモグラフィ」を適用し、同輝線の放射領域の特定に成功したと発表した。",
+          "url": "https://news.mynavi.jp/techplus/article/20260629-4643559/",
+          "source": {
+            "name": "マイナビニュース"
+          },
+          "publishedAt": "2026-06-29T09:44:11Z",
+          "image": "https://news.mynavi.jp/techplus/article/20260629-4643559/ogp_images/ogp.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "コエテクの完全新規ゲームタイトル「FUJI（仮）」の存在が明らかに。経済産業省「IP360」のページにて",
+          "description": "経済産業省が展開する事業「IP360 -Toward 20 Trillion Yen-」の採択結果ページにて、コーエーテクモゲームスの新作ゲーム「FUJI（仮）」の存在が明らかとなった。",
+          "url": "https://game.watch.impress.co.jp/docs/news/2120903.html",
+          "source": {
+            "name": "GAME Watch"
+          },
+          "publishedAt": "2026-06-29T09:05:49Z",
+          "image": "https://game.watch.impress.co.jp/img/gmw/list/2120/903/1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Keychron初の親指トラックボール、お得なのは明日まで！復習はこちらから",
+          "description": "ラストだ、駆け込みだ！Keychron初のトラックボールマウス「Keychron T1 HE」のクラウドファンディングが、明日 6月30日（火）で、最終日となります。手の収まりが気持ちいい卵形フォルム、位置調整できるトラックボール、操作の割",
+          "url": "https://www.gizmodo.jp/article/t1-he-last-chance/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-06-29T09:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/06/28/edc822ad-0207-4539-ab81-ef612491029b/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "【ワールドカップ】アルゼンチン人はダラスに大集結 メキシコ人は日本を応援...各国のサッカー愛のかたち",
+          "description": "連載第107回　サッカー観戦7700試合超！ 後藤健生の「来た、観た、蹴った」\n　現場観戦7700試合を達成したベテランサッカージャーナリストの後藤健生氏が、豊富な取材経験からサッカーの歴史、文化",
+          "url": "https://news.yahoo.co.jp/articles/101fa317df59ed014974cda73e651ece2ef1fea8",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-29T08:18:42Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260629-01115310-sportiva-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "愛子さま皇位継承「あり得ない」発言 自民・中曽根氏の釈明全文",
+          "description": "自民党の中曽根弘文・憲法改正実現本部長は29日、天皇、皇后両陛下の長女愛子さまによる皇位継承について「あり得ない」と発言したことを認めた。「愛子さまが天皇になる可能性は今の皇室典範の状況からは『ない…",
+          "url": "https://www.asahi.com/articles/ASV6Y21JDV6YUTFK00CM.html",
+          "source": {
+            "name": "朝日新聞"
+          },
+          "publishedAt": "2026-06-29T08:06:24Z",
+          "image": "https://imgopt.asahi.com/ogp/AS20260629002983_comm.jpg",
+          "language": "ja"
+        },
         {
           "title": "江原啓之氏、美輪明宏さん追悼「私も残されてしまった」 『オーラの泉』で共演",
           "description": "ニュース｜　スピリチュアリストの江原啓之氏が29日、自身のYouTubeチャンネルを更新。テレビ朝日系『オーラの泉』で共演していた、美輪明宏さんが20日に亡くなったことが伝えられたことを受け、追悼コメントを寄せた。　江原氏は「緊急動画メッセージです。美輪明宏さんが20日にお亡くなりになられたことが、きょう公表されました。もうずっと、この3ヶ月ほど具合が悪くていらっしゃったようでございますが、こちらの世界からあちらの世界へ行ったということですね」とコメント。「きょうは大阪での講演会ですからね。とうとう私も残されてしまったという感じがいたしております」と呼びかけた。",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-06-29T05:21:00Z",
           "image": "https://thedigestweb.com/files/topics/116647_ext_04_0_L.jpg",
           "language": "ja"
-        },
-        {
-          "title": "小学生のゲーム、“戦う”から“つくる・つながる”へ【ゲムトレ、ゲームに関するアンケート調査2026公開】",
-          "description": "株式会社カヤックのプレスリリース（2026年6月29日 13時00分）小学生のゲーム、“戦う”から“つくる・つながる”へ【ゲムトレ、ゲームに関するアンケート調査2026公開】",
-          "url": "https://prtimes.jp/main/html/rd/p/000000953.000014685.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-06-29T04:00:02Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/14685/953/14685-953-9e8515666f74ef7a0637dbfc6f2d502e-1375x850.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "【為替】7月および第1週の米ドル／円を予想する",
-          "description": "米金利上昇などを手掛かりに、6月の米ドル／円は2024年7月の高値まで肉薄。円安阻止姿勢を巡る市場と当局の腹の探り合いが続く中、値幅はわずか3円未満にとどまる。。投機筋の米ドル買い・円売り「行き過ぎ」懸念が強まるなど、2024年に円高への急反転が起こった局面と...",
-          "url": "https://media.monex.co.jp/articles/-/29648",
-          "source": {
-            "name": "マネクリ"
-          },
-          "publishedAt": "2026-06-29T03:12:00Z",
-          "image": "https://media.monex.co.jp/mwimgs/a/7/-/img_a7c9ac1cbc7b099076c75c9fb3211e45544367.png",
-          "language": "ja"
-        },
-        {
-          "title": "Macで外付けGPUが使える「TinyGPU」をRTX 5060 Tiで検証 実用性と浮き彫りになった課題（1/4 ページ）",
-          "description": "Apple Silicon MacでNVIDIA製GPUを動かしCUDA環境を実現する「TinyGPU」を試してみた。高いセキュリティを維持したまま動作する画期的な新技術の導入手順から、最新GPUを用いた検証、現時点の課題まで解説する。 (1/4)",
-          "url": "https://www.itmedia.co.jp/pcuser/articles/2606/29/news017.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-06-29T03:10:00Z",
-          "image": "https://image.itmedia.co.jp/pcuser/articles/2606/29/cover_news017.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "アメリカとイランが攻撃の応酬、停戦に違反したと互いに非難",
-          "description": "アメリカは27日、ホルムズ海峡でパナマ船籍のタンカー1隻がドローンで攻撃されたことを受け、イランに対して新たな空爆を実施した。一方でイランは、中東地域にある米関連インフラに報復攻撃を仕掛けたと発表した。",
-          "url": "https://www.bbc.com/japanese/articles/cz75yl3q3nlo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-06-29T03:05:33Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/38a0/live/7c4274f0-727b-11f1-8e1d-bbbb1017d210.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【台風のたまご=熱帯低気圧】発生へ 沖縄の南の海上に進む予想も 気象庁「アジア太平洋予想天気図」に出現【雨・風シミュレーション7月9日（木）まで】台風情報に今後注意",
-          "description": "■【台風のたまご=熱帯低気圧】発生か  気象庁予想天気図\n台風7号や8号の「ダブル台風」が去ったばかりですが、次の「台風のたまご=熱帯低気圧」が気象庁発表の「アジア太平洋予想天気図」に現れました。",
-          "url": "https://news.yahoo.co.jp/articles/eb0972b55af1132a1df2e0c62275b68d686ae9d1",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-29T03:00:36Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260629-22764676-mbcnewsv-000-6-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "7月3日頃まで警報級大雨の恐れも 2週目は晴れる日が増加 2週間天気予報",
-          "description": "この先6月30日(火)〜7月12日(日)は、前半は本州付近に前線が停滞し、東〜西日本を中心に曇りや雨の梅雨空が続くでしょう。3日(金)頃までは西日本を中心に大雨に警戒してください。後半は高気圧に覆われる日が増えて晴れ間が戻る一方、前線の位置次第で再び雨となる日もありそうです。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/06/29/39520.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-06-29T02:32:07Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/395/39520/main/20260629110438/large.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "‘Bhagyaraj’s mourning turned into a circus’: Radikaa Sarathkumar criticises media, calls for action",
-          "description": "Veteran actor Radikaa Sarathkumar, who has been mourning the passing of her close friend and acclaimed writer-director Bhagyaraj, has criticised the media for “turning the mourning into a circus”",
-          "url": "https://www.thehindu.com/entertainment/movies/bhagyarajs-mourning-turned-into-a-circus-radikaa-sarathkumar-criticises-media-calls-for-action/article71160430.ece",
+          "title": "PAX TAX - It was a case of mo' money mo' problems for former Idols winner Paxton Fielies",
+          "description": "In a candid podcast appearance, Paxton Fielies shares the unexpected challenges of fame and the profound life lessons she learned after winning 'Idols SA'.",
+          "url": "https://dailyvoice.co.za/news/2026-06-29-pax-tax-it-was-a-case-of-mo-money-mo-problems-for-former-idols-winner-paxton-fielies/",
           "source": {
-            "name": "The Hindu"
+            "name": "Daily Voice"
           },
-          "publishedAt": "2026-06-29T07:59:34Z",
-          "image": "https://th-i.thgim.com/public/incoming/hucy05/article71160897.ece/alternates/LANDSCAPE_1200/DSC_9917.JPG",
+          "publishedAt": "2026-06-29T10:07:40Z",
+          "image": "https://iol-prod.appspot.com/image/e2906ac1bdedd6bffc6d5df26a616446ad6a3d10/1000/jpeg",
           "language": "en"
         },
         {
-          "title": "One killed in shooting at site of California World Cup fan zone",
-          "description": "One person was killed and another seriously injured on Sunday in a shooting at a popular entertainment ​spot in San Jose, California, that has been hosting a World ‌Cup \"fan zone\" screening matches, p...",
-          "url": "https://www.yahoo.com/news/us/articles/one-killed-shooting-california-world-075929584.html",
+          "title": "Uganda, Tanzania team up to revamp railway transport ahead of Afcon 2027",
+          "description": "The Chairperson of the Uganda Railways Corporation (URC) Board, Mr Daudi Migereko, said Uganda still lags in developing its rail and water transport systems",
+          "url": "https://www.monitor.co.ug/uganda/news/national/uganda-tanzania-team-up-to-revamp-railway-transport-ahead-of-afcon-2027-5512678",
           "source": {
-            "name": "Yahoo"
+            "name": "Daily Monitor"
           },
-          "publishedAt": "2026-06-29T07:59:29Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/56dc64cc4ea3ba6839d41af43182f974f130a92ea703a1825504b9090a57bfbf/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2Fc58ed96072cc56af1450f190730f4514",
+          "publishedAt": "2026-06-29T10:06:54Z",
+          "image": "https://www.monitor.co.ug/resource/image/5512692/landscape_ratio3x2/1200/800/3e58abb1d9f6ddfe6debcae4761e3fa8/fq/latest07pix.jpg",
           "language": "en"
         },
         {
-          "title": "NCIC puts politicians on notice over divisive rhetoric",
-          "description": "The National Cohesion and Integration Commission (NCIC) has cautioned politicians against engaging in hate speech, ethnic profiling, and divisive rhetoric. The Commission announced it would intensify surveillance of political rallies, mainstream media, and digital platforms to identify and hold accountable those found undermining national cohesion. Addressing a press conference, NCIC Chairperson Bishop Dr Kepha Nyamweya […]",
-          "url": "https://www.kbc.co.ke/ncic-puts-politicians-on-notice-over-divisive-rhetoric/",
+          "title": "Iran says held first meeting with Oman on managing Hormuz",
+          "description": "TEHRAN: Iran’s foreign ministry said Monday it had held the first meeting with Oman on managing the Strait of Hormuz since Tehran and Washington signed their preliminary deal to end the Middle East war. Both Iran and Oman say they hold sovereignty over the waterway, a vital route for Gulf energy exports that Tehran blockaded during the war. “During a trip to Muscat, the first",
+          "url": "https://www.arabnews.pk/node/2648950/middle-east",
           "source": {
-            "name": "KBC Digital"
+            "name": "Arab News PK"
           },
-          "publishedAt": "2026-06-29T07:58:56Z",
-          "image": "https://www.kbc.co.ke/wp-content/uploads/2026/06/WAMAE-NCIC-3.png",
+          "publishedAt": "2026-06-29T10:06:40Z",
+          "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/06/29/4726248-53943039.jpg?itok=BQYzMna5",
           "language": "en"
         },
         {
-          "title": "'I sweep, mop, clean utensils, yet they harass me': Faridabad bizman dies by suicide, blames wife, in-laws in final video",
-          "description": "GURGAON: A 28-year-old garment trader allegedly died by suicide by hanging himself inside his shop in Faridabad's Ballabhgarh area on Sunday after pos.",
-          "url": "https://timesofindia.indiatimes.com/city/faridabad/i-sweep-mop-clean-utensils-yet-they-harass-me-faridabad-bizman-dies-by-suicide-blames-wife-in-laws-in-final-video/articleshow/132066536.cms",
+          "title": "Comcast to spin off NBCUniversal, Sky; stock jumps 9%",
+          "description": "Comcast said it will separate into two publicly traded companies through a tax-free spinoff of NBCUniversal and Sky.",
+          "url": "https://www.cnbc.com/2026/06/29/comcast-announces-it-will-spin-off-media-and-tech-wings-into-separate-public-companies.html",
           "source": {
-            "name": "The Times of India"
+            "name": "CNBC"
           },
-          "publishedAt": "2026-06-29T07:58:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-132066576,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-06-29T10:05:11Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108291902-1776271938523-gettyimages-2257538298-img_6716.jpeg?v=1776271965&w=1920&h=1080",
           "language": "en"
         },
         {
-          "title": "One killed in shooting at California World Cup fan zone, San Jose police say",
-          "description": "The shooting happened at San Pedro Square, one of several places in the San Francisco Bay Area where crowds have gathered to watch World Cup matches on big outdoor screens.View on euronews",
-          "url": "https://ca.news.yahoo.com/one-killed-shooting-california-world-075740339.html",
+          "title": "Only 39 of 385 teachers’ Saccos active as Ministry demands recovery of Shs11 billion",
+          "description": "The Ministry of Trade, Industry, and Cooperatives, which injected Shs27 billion into the institution to bolster teachers' financial well-being, is demanding greater accountability",
+          "url": "https://www.monitor.co.ug/uganda/news/national/only-39-of-385-teachers-saccos-active-as-ministry-demands-recovery-of-shs11-billion-5512688",
           "source": {
-            "name": "Yahoo News Canada"
+            "name": "Daily Monitor"
           },
-          "publishedAt": "2026-06-29T07:57:40Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/7ff056cd463fb4a1e940b687bcfb413e80bbd0f7c10d906f250afa71bb6f82b3/lightyear_networkapi/resizefill_w1024_h576;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_uk_articles_973%2F3f01f00dc03875d086c15f0f2de798af",
+          "publishedAt": "2026-06-29T10:05:01Z",
+          "image": "https://www.monitor.co.ug/resource/blob/5512694/1b878352ee9eaf10b590febf318b5d7b/latest08pix-data.jpg",
           "language": "en"
         },
         {
-          "title": "border passengers: Guangzhou Baiyun Airport strengthens global gateway role",
-          "description": "Year-on-year growth exceeded 21%, setting a record high for the same period in history.",
-          "url": "https://www.chinatravelnews.com/article/190299/",
+          "title": "Flash floods wreak havoc in Assam, Arunachal; over 22,000 people affected, railway bridge collapses | Video",
+          "description": "More than 22,000 people have been affected across six districts after days of heavy rainfall in Assam and neighbouring Arunachal Pradesh. | India News",
+          "url": "https://www.hindustantimes.com/india-news/flash-floods-wreak-havoc-in-assam-arunachal-pradesh-railway-bridge-collapse-video-over-22-000-people-affected-101782713967073.html",
           "source": {
-            "name": "China Travel News"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-06-29T07:56:50Z",
-          "image": "https://www.chinatravelnews.com/favicon.ico?favicon.255e813a.ico",
+          "publishedAt": "2026-06-29T10:04:46Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/06/29/550x309/PTI06-28-2026-000340B-0_1782714419803_1782714432749_817f3a5b-9623-4aed-adcc-91aa272cd794.jpg",
           "language": "en"
         },
         {
-          "title": "Clare to meet Tipp as part of Croke Park double",
-          "description": "Tipperary will take on Clare while Waterford will meet Kilkenny in the Glen Dimplex All-Ireland Senior Camogie Championship quarter-finals.",
-          "url": "https://www.rte.ie/sport/camogie/2026/0629/1580817-clare-to-meet-tipp-as-part-of-croke-park-double-header/",
+          "title": "Arsenal to face Como at Emirates Stadium in August",
+          "description": "We'll face Cesc Fabregas' side in north London on Wednesday, August 12",
+          "url": "https://www.arsenal.com/news/arsenal-face-como-emirates-stadium-august",
           "source": {
-            "name": "RTE.ie"
+            "name": "Arsenal.com"
           },
-          "publishedAt": "2026-06-29T07:55:45Z",
-          "image": "https://www.rte.ie/images/00249a7d-1600.jpg",
+          "publishedAt": "2026-06-29T10:03:37Z",
+          "image": "https://www.arsenal.com/sites/default/files/styles/desktop_16x9/public/Image_Only_1920x1080%20v2_nigi3blt.png?h=c4b8428b&auto=webp&itok=zApqp-ps",
           "language": "en"
         },
         {
-          "title": "Wetang’ula defends Ruto over unmet Western Kenya pact claims",
-          "description": "“The Western region did not give the President the numbers we had agreed on, but he still honoured the region.\"",
-          "url": "https://www.the-star.co.ke/news/2026-06-29-wetangula-defends-ruto-over-western-kenya-pact",
+          "title": "Ethiopia: PM Abiy Inaugurates Entoto-Kebena River and Riverside Development Project in Addis Ababa",
+          "description": "Prime Minister Abiy Ahmed has officially inaugurated the Entoto-Kebena River and Riverside Development Project in Addis Ababa earlier this afternoon.",
+          "url": "https://allafrica.com/stories/202606290239.html",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "allAfrica.com"
           },
-          "publishedAt": "2026-06-29T07:55:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/06/8a36083c-e5dc-4819-844e-00b1e9accb5e.jpg?1782721433067",
+          "publishedAt": "2026-06-29T10:02:13Z",
+          "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
           "language": "en"
         },
         {
-          "title": "Meta Platforms (META) To Launch a New Line of Smart Glasses and This Time They are Cheaper",
-          "description": "Meta Platforms, Inc. (NASDAQ:META) is one of the Stocks That Will Make You Rich Over the Next 3 Years. On June 23, Reuters reported that Meta Platforms, Inc. (NASDAQ:META), in partnership with EssilorLuxottica, launched a new line of AI smart glasses starting at only $299. The new price mark is a significant step down from […]",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-launch-line-075457577.html",
+          "title": "The US supreme court just put the lives of 1.3 million immigrants in danger",
+          "description": "The court’s TPS decision is devastating for those whose countries of origin are deemed unsafe. Congress must act",
+          "url": "https://www.theguardian.com/commentisfree/2026/jun/29/supreme-court-immigration-rulings-danger",
           "source": {
-            "name": "Yahoo Finance"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-06-29T07:54:57Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/032E3C8608D54BB6A935FD3EDB3185590496B9E1147464D367F7CBA3E9A77A31/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F6b04d2113ba5542b5993a73ed6643a10",
+          "publishedAt": "2026-06-29T10:02:00Z",
+          "image": "https://i.guim.co.uk/img/media/07984fcb2ddb7acaf56398be179d49d6b7fcba51/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=d65c86a415da780ee283db649f8f3dd8",
           "language": "en"
         },
         {
-          "title": "'They're coming for us': Atiku warns of plot to keep ADC off 2027 polls",
-          "description": "\"We are fully aware of their plots. While they seek to sow confusion within the opposition, we know their real target is the ADC because...",
-          "url": "https://www.vanguardngr.com/2026/06/theyre-coming-for-us-atiku-warns-of-plot-to-keep-adc-off-2027-polls/",
+          "title": "Can you vibe code an entire search engine? This ex-Googler tried.",
+          "description": "Former Google engineering leader Hugh Williams is back with another fascinating Claude Code experiment. | Business Insider Africa",
+          "url": "https://africa.businessinsider.com/news/can-you-vibe-code-an-entire-search-engine-this-ex-googler-tried/n0vnyyt",
           "source": {
-            "name": "Vanguard News"
+            "name": "Business Insider Africa"
           },
-          "publishedAt": "2026-06-29T07:54:35Z",
-          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/02/Atiku-ADC.webp",
+          "publishedAt": "2026-06-29T10:01:01Z",
+          "image": "https://ocdn.eu/pulscms-transforms/1/mvTktkuTURBXy80ZWZhNjUxYy00MGViLTRkODctOTA2Ni0xNWJmODAxZWZjYTIuanBlZ5GTBc0EsM0Cdg",
           "language": "en"
         }
       ]
