@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-06-30T17:06:59.392Z",
+  "updatedAt": "2026-06-30T20:00:27.574Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "ミスド「もっちゅりん」人気すぎて第2弾発売中止 第1弾も7月中旬以降に順次終了",
+          "description": "ミスタードーナツは、現在販売している「もっちゅりん」シリーズについて、想定を上回る反響があったとして、第2弾商品の発売を中止すると発表した。第1弾商品も7月中旬以降、各ショップの原材料がなくなり次第、順次販売を終了する。対象となる商品や販売終了時期、今後の販売スケジュールについてまとめた。「もっちゅりん」第2弾は発売中止ミスタードーナツを運営するダスキンは、販売中の「もっちゅりん」シリーズについて、当初予定していた第2弾商品の発売を中止すると発表した。",
+          "url": "https://www.fukuishimbun.co.jp/articles/-/2639472",
+          "source": {
+            "name": "福井新聞社"
+          },
+          "publishedAt": "2026-06-30T07:58:00Z",
+          "image": "https://fki.ismcdn.jp/mwimgs/d/4/-/img_d4406b5596587e0feaeaf029f6063488293776.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "（まとめ）日経平均は594円高の70,062円で続伸 AI・半導体銘柄がけん引",
+          "description": "東京市場まとめ1.概況日経平均は617円高の70,085円と続伸して取引を開始しました。前場中ごろには売りが優勢となる場面が見られましたが、前引けは648円高の70,116円となりました。後場は半導体銘柄に買いが入り、上げ幅を拡大しました。13時45分に1,198円高の70,667円....",
+          "url": "https://media.monex.co.jp/articles/-/29664",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-06-30T07:57:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「GTO」冬月あずさ（松嶋菜々子）、現在のビジュアル公開 「結婚してる」「名字にびっくり」名札に反響相次ぐ",
+          "description": "俳優の反町隆史主演の7月20日からスタートするドラマ「GTO」（カンテレ・フジテレビ系／月曜よる10時～）。29日、追加キャストとして女優の松嶋菜々子演じる冬月あずさの登場が明らかとなり、その最新ビジュアルに注目が集まっている。",
+          "url": "https://mdpr.jp/drama/detail/4806588",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-06-30T07:28:53Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/Zc4U/wm/Zc4UMwRHPdApUAI4KOQcmiu_Y-tw3w8OF4zSWDFXatg.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
+        {
+          "title": "プーチン氏、ロシア国内の燃料不足を初めて公に認める ウクライナによる空爆で",
+          "description": "ロシアのプーチン大統領は28日、ウクライナによるミサイル攻撃とドローン攻撃の影響でロシアで燃料不足が生じていると、初めて明確に認めた。",
+          "url": "https://www.bbc.com/japanese/articles/ckg4ygd4expo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-06-30T07:14:03Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/5d81/live/801dc920-73d5-11f1-b1db-af71d47507d6.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "プーチン氏、ロシア国内の燃料不足を初めて公に認める ウクライナによる空爆で",
+          "description": "ロシアのウラジーミル・プーチン大統領は28日、ウクライナによるミサイル攻撃とドローン攻撃の影響でロシアで燃料不足が生じていると、初めて明確に認めた。\nプーチン氏はこの日、燃料危機について、高官や石",
+          "url": "https://news.yahoo.co.jp/articles/f9c2c3d768cdc951157232c6690567a3479d5723",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-06-30T07:14:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260630-16542225-bbc-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "台風のたまごがダブルで発生へ 動向に注意 梅雨本番の大雨に警戒・注意を",
+          "description": "明日7月1日までに南の海上では、2つの熱帯低気圧が発生する予想です。今後の動向に注意が必要です。明日以降は各地で梅雨空が続く見通しで、九州などは警報級の大雨となる可能性があります。土砂災害や低い土地の浸水などに警戒・注意が必要です。",
+          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/06/30/39537.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-06-30T06:52:13Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/395/39537/main/20260630143725/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "レノボ、JBL製9スピーカー搭載の12.1型2.5Kタブレット「Lenovo Tab Plus Gen 2」",
+          "description": "レノボ・ジャパンは、12.1型Androidタブレット「LenovoTabPlusGen2」を7月3日に発売する。JBL製9ユニットスピーカーシステム（4基のツイーター、3基のウーハー、2基のパッシブラジエーター）を搭載し、DolbyAu...",
+          "url": "https://news.kakaku.com/prdnews/cd=pc/ctcd=0030/id=157214/",
+          "source": {
+            "name": "kakaku.com"
+          },
+          "publishedAt": "2026-06-30T06:31:00Z",
+          "image": "https://img1.kakaku.k-img.com/Images/news_icv/1200x630/2026063/20260630115641_303_.jpg",
+          "language": "ja"
+        },
         {
           "title": "大谷翔平が確信歩き！特大18号３ランでMLB通算300号へあと２本 ドジャース圧勝／詳細",
           "description": "ドジャース大谷翔平投手は「1番DH」で先発出場。6回に6試合ぶりの18号3ランを放った。メジャー通算300本塁打まで残り2本に迫った。第1打席から一塁ゴロ、見… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-06-30T03:24:13Z",
           "image": "https://av.watch.impress.co.jp/img/avw/list/2121/092/main.jpg",
           "language": "ja"
-        },
-        {
-          "title": "40周年を象徴する卵型の新「EGG MOUSE」が登場",
-          "description": "エレコムは7月中旬、創業40周年を記念して同社を象徴する卵型マウス「EGG MOUSE」をリデザインして発売する。価格は4980円。",
-          "url": "https://ascii.jp/elem/000/004/414/4414179/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-06-30T03:00:00Z",
-          "image": "https://ascii.jp/img/2026/06/29/4490718/xl/588d26296e7aec71.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "エレコム、日常を彩るデザインの卵型Bluetoothマウス「EGG MOUSE」。創業40周年記念の新モデル",
-          "description": "エレコムの創業40周年を記念したコンパクトなワイヤレスマウス「EGG MOUSE (M-EGG40BBXSS)」が登場。カラーはブラック/ホワイト/ティールブルー/コーラルピンク/イエローの5色で、想定店頭価格は4,980円。",
-          "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2120495.html",
-          "source": {
-            "name": "AKIBA PC Hotline!"
-          },
-          "publishedAt": "2026-06-30T03:00:00Z",
-          "image": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2120/495/DSR07444.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "懐かしの「タマゴ型マウス」が現代仕様にアップデート エレコム創業40周年モデルの4代目「EGG MOUSE」は10色の着せ替え対応で4980円（1/4 ページ）",
-          "description": "エレコムは6月30日、創業40周年モデルとなるワイヤレスマウス「EGG MOUSE」を発表した。10のカラーバリエーションを用意し、価格は4980円だ。なぜマウスを40周年モデルに選んだのか、その開発秘話などが語られた発表会の模様をお届けする。 (1/4)",
-          "url": "https://www.itmedia.co.jp/pcuser/articles/2606/30/news106.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-06-30T03:00:00Z",
-          "image": "https://image.itmedia.co.jp/pcuser/articles/2606/30/cover_news106.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "子どものスマホ利用は一日5時間超え？幼児期の「だらだら動画」が招く依存|au Webポータル",
-          "description": "どんどん長時間化する、子ども達のスマホ利用時間。内閣府の最新調査により、想像以上の現実が明らかになりました。 「このスマホ依存の土台は、実は未就学児の段階から築かれている」と指摘するのは、子育て共育ア",
-          "url": "https://article.auone.jp/detail/1/2/2/381_2_r_20260630_1782788014357920",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-06-30T02:50:00Z",
-          "image": "https://portal.st-img.jp/thumb/30e05e44e620ef12586bed5352dcd218_1782788014_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "試合後に挑発行為のブラジル代表FW「日本に対して悪意はないが、彼は我々が受け入れられない発言をした」",
-          "description": "日本代表に逆転勝利を収めて16強入りを決めたブラジル代表FWマテウス・クーニャは試合後、日本を挑発するようなジェスチャーを見せた。英紙『ザ・サン』が伝えている。　現地時間29日に行われた決勝トーナメン...",
-          "url": "https://web.gekisaka.jp/news/worldcup/detail/?454621-454621-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-06-30T02:17:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/455000/454621/news_454621_1.jpg?time=20260630114135",
-          "language": "ja"
-        },
-        {
-          "title": "八田與一容疑者（29）「もう死んどるわ」市民や祖父が語る生存への懐疑と元刑事の「水死体はない」という断言 西成・歌舞伎町・離島への追跡…独自取材の記録 別府ひき逃げ殺人事件",
-          "description": "2022年6月、大分県別府市で大学生2人が車にはねられ、1人が死亡、1人が重傷を負ったひき逃げ事件。大分県警は殺人や殺人未遂などの疑いで八田與一容疑者（29）を重要指名手配し、現在も行方を追ってい",
-          "url": "https://news.yahoo.co.jp/articles/9173a98acc39060ca5341ab0d0e1e06ce3736bfa",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-06-30T02:00:36Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260630-10256298-abemav-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "ラーメン豚山の「冷やし中華」を食べてみたら想像以上だった / ガッツリ系なのにスルスル入る夏限定メニュー",
-          "description": "今年の夏はなんだか涼しそうと思うような気候が続いている。しかし、どうやら本番はここから。ウェザーニュースによると、気温は全国的に平年より高くなる見込みで7月下 …",
-          "url": "https://rocketnews24.com/2026/06/30/2776829/",
-          "source": {
-            "name": "ロケットニュース24"
-          },
-          "publishedAt": "2026-06-30T02:00:32Z",
-          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/06/IMG_1151.jpg?w=1200&h=630&crop=1",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Aughinish Alumina will have to pay up front for closure and restoration costs",
-          "description": "Co Limerick plant will be required to set aside nearly €31m under new agreement",
-          "url": "https://www.irishtimes.com/ireland/2026/06/30/aughinish-will-have-to-pay-up-front-for-closure-and-restoration-costs/",
+          "title": "Heat dome brings dangerous temperatures. Here's how to stay safe",
+          "description": "As parts of southern Ontario, Quebec and the eastern United States swelter through a heat dome, here are the health warning signs to watch out for — and how to keep cool.",
+          "url": "https://www.cbc.ca/news/climate/heat-dome-cooling-methods-fans-wetting-skin-9.7253230",
           "source": {
-            "name": "The Irish Times"
+            "name": "CBC"
           },
-          "publishedAt": "2026-06-30T05:06:14Z",
-          "image": "https://www.irishtimes.com/resizer/v2/5V7VQJOKGJFJVDWSAJK6NCEVK4.JPG?smart=true&auth=4362238fe4a516bdce2bb21d67030fa05e4bac9161134e4a5cef4c1447868bec&width=1200&height=630",
+          "publishedAt": "2026-06-30T08:00:00Z",
+          "image": "https://i.cbc.ca/ais/cfe7cd1f-1791-42e3-8e53-7e5e761c42e4,1782769731540/full/max/0/default.jpg?im=Crop%2Crect%3D%281769%2C359%2C5861%2C3296%29%3BResize%3D620",
           "language": "en"
         },
         {
-          "title": "Metro Manila workers to get 'historic' P85 minimum wage hike",
-          "description": "The wage increase will take effect in two tranches: P60 on July 19, 2026, and P25 on January 20, 2027",
-          "url": "https://www.rappler.com/philippines/metro-manila-workers-historic-minimum-wage-hike-june-2026/",
+          "title": "Otjozondjupa grapples with critical police vehicle shortage",
+          "description": "THE Governor of the Otjozondjupa Region, John Julius //Khamuseb, has expressed concern over the critical shortage of functional police...",
+          "url": "https://informante.web.na/?p=396997",
           "source": {
-            "name": "Rappler"
+            "name": "Informanté"
           },
-          "publishedAt": "2026-06-30T05:05:43Z",
-          "image": "https://www.rappler.com/tachyon/2025/10/bgc-metro-manila-skyline-october-21-2025-003-scaled.jpg",
+          "publishedAt": "2026-06-30T08:00:00Z",
+          "image": "https://informante.web.na/wp-content/uploads/2026/06/Otjozondjupa-police-face-vehicle-shortage-Informante-Image-workspace-1024x677.jpg",
           "language": "en"
         },
         {
-          "title": "No manifesto, Bersama unveils 'service pledge' for 'high",
-          "description": "JOHOR POLLS | Party's candidates will continue to serve regardless of polls outcome.",
-          "url": "https://m.malaysiakini.com/news/778516",
+          "title": "Poilievre shuffling his front bench, placing MP Michael Chong in key finance role",
+          "description": "The changes are the first major shakeup since the naming of his shadow cabinet after last year’s election",
+          "url": "https://www.theglobeandmail.com/canada/article-poilievre-shuffling-his-front-bench-placing-mp-michael-chong-in-key/",
           "source": {
-            "name": "Malaysiakini"
+            "name": "The Globe and Mail"
           },
-          "publishedAt": "2026-06-30T05:05:42Z",
-          "image": "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2026/06/6d8e26651c6d594b279401cd960f2a48.jpg=s600",
+          "publishedAt": "2026-06-30T08:00:00Z",
+          "image": "https://www.theglobeandmail.com/resizer/v2/XHGR2CMEPJDIVEGGNWINTMJK3M.JPG?auth=94a4484a8f8025886858dc8ad41f139921da9bcccef42a13758cc06773d0d074&width=1200&height=800&quality=80&smart=true",
           "language": "en"
         },
         {
-          "title": "Best used cars to buy for less than €20,000",
-          "description": "There’s a wide array of cars on offer for anyone whose budget can stretch to €20,000",
-          "url": "https://www.irishtimes.com/motors/2026/06/30/best-used-cars-to-buy-for-less-than-20000/",
+          "title": "Reader Q&A live: we answer your questions about Europe’s hellish week of heat",
+          "description": "Our European environment correspondent Ajit Niranjan answers your questions on climate after reporting on the shocking heatwave that continues to scorch its way across Europe",
+          "url": "https://www.theguardian.com/community/live/2026/jun/30/reader-qa-ask-ajit-niranjan-anything-about-europes-hellish-week-of-heat",
           "source": {
-            "name": "The Irish Times"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-06-30T05:05:24Z",
-          "image": "https://www.irishtimes.com/resizer/v2/MKOMOSUJDFA6HHACWVRJVL5ARQ.jpg?smart=true&auth=fd1953f3d9ff6f91fe0d06a434c936fcbae5afcd39f4fcee99766561b2c5700f&width=1200&height=630",
+          "publishedAt": "2026-06-30T08:00:00Z",
+          "image": "https://i.guim.co.uk/img/media/d7786609ba049bed7978783ea57d63fd83cc5bde/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=948b7954e7225e9b9489b65ac1f16ae4",
           "language": "en"
         },
         {
-          "title": "KMPDC Publishes 2026 Register Of Approved Doctors, Dentists And Hospitals",
-          "description": "KMPDC has published a detailed list of all licensed medical and dental practitioners, health facilities and ambulance providers authorized to operate in the country for 2026.",
-          "url": "https://thekenyatimes.com/latest-kenya-times-news/kmpdc-licensed-providers/",
+          "title": "nDreams founder launches new studio Atmospheric to create \"original IP across games and music\"",
+          "description": "Patrick O'Luanaigh working on new title \"exploring how music can affect gameplay\"",
+          "url": "https://www.gamesindustry.biz/ndreams-founder-launches-new-studio-atmospheric-to-create-original-ip-across-games-and-music",
           "source": {
-            "name": "The Kenya Times"
+            "name": "GamesIndustry.biz"
           },
-          "publishedAt": "2026-06-30T05:05:00Z",
-          "image": "https://cdn.thekenyatimes.com/uploads/2025/08/Health-CS-Duale-Kenya-2025.png",
+          "publishedAt": "2026-06-30T08:00:00Z",
+          "image": "https://assetsio.gnwcdn.com/PatrickAtDesk_2fcRgbM.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
           "language": "en"
         },
         {
-          "title": "Ancient Martian River Channel Yields Complex Organics",
-          "description": "Jezero Crater on Mars is a 45-kilometer-wide (28-mile) crater that once hosted a lake billions of years ago fed by two distinct river valleys with Jezero eventually forming an exit channel over time. One of Jezero’s most prominent features is the massive river delta that consists of sediments that were deposited as the inflow slowed down. Researchers hypothesize that the delta and lake were formed under freshwater conditions, indicating the potential for life as we know it, also called biosignatures.",
-          "url": "https://www.universetoday.com/articles/ancient-martian-river-channel-yields-complex-organics",
+          "title": "Mosquitoes' role in flower reproduction highlighted in new study",
+          "description": "Mosquitoes' role in flower reproduction is far less studied than that of bees or butterflies.",
+          "url": "https://www.thestar.com.my/lifestyle/living/2026/06/26/mosquitoes039-role-in-flower-reproduction-highlighted-in-new-study",
           "source": {
-            "name": "Universe Today"
+            "name": "The Star"
           },
-          "publishedAt": "2026-06-30T05:05:00Z",
-          "image": "https://www.universetoday.com/article_images/Cheyava-Falls-image-CROPPED-1024x576_750_20260630_050459.jpg",
+          "publishedAt": "2026-06-30T08:00:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/06/14/3958167.jpg",
           "language": "en"
         },
         {
-          "title": "‘Vinted is a wolf in sheep’s clothing’: Ireland’s vintage stores on facing down online challenges",
-          "description": "Some store owners dismiss online retailer as ‘a fad’ and suggest sustainability credentials are overstated",
-          "url": "https://www.irishtimes.com/ireland/2026/06/30/vintage-stores-confident-of-survival-despite-competition-from-online-giant-vinted/",
+          "title": "Watch as the squad travel to Denmark",
+          "description": "The squad travelled to Denmark as they settle down for a week-long training camp.",
+          "url": "https://www.motherwellfc.co.uk/2026/06/30/watch-as-the-squad-travel-to-denmark/",
           "source": {
-            "name": "The Irish Times"
+            "name": "Motherwell Football Club"
           },
-          "publishedAt": "2026-06-30T05:03:41Z",
-          "image": "https://www.irishtimes.com/resizer/v2/MOXFLWV7NFAJVJBFC6MGZXIF24.jpg?smart=true&auth=7b772d161dc8e9166b05a74cedb6e4ce714e1cc9d13d75ef84bbc0f1016f9920&width=1200&height=630",
+          "publishedAt": "2026-06-30T07:59:37Z",
+          "image": "https://www.motherwellfc.co.uk/wp-content/uploads/2026/06/26-27-Day-two-grass-125-scaled_790x500_acf_cropped.jpg",
           "language": "en"
         },
         {
-          "title": "Today, three districts of Riga will be without hot water: where hydraulic tests will take place",
-          "description": "Rīgas siltums is conducting hydraulic tests of the heating networks of the Ziepniekkalns heat plant. As a result, the supply of hot water will be suspended for one day in several areas of the capital.",
-          "url": "https://news.inbox.eu/150g2b2-today-three-districts-of-riga-will-be-without-hot-water-where-hydraulic-tests-will-take-place?language=en",
+          "title": "Doctor and friend convicted of taking ecstasy at Sentosa villa party, judge rejects spiking defence",
+          "description": "The judge rejected the men's claims of having their drinks spiked, saying their behaviour at the party was not that of unsuspecting victims.",
+          "url": "https://www.channelnewsasia.com/singapore/doctor-friend-convicted-mdma-sentosa-villa-party-6220971",
           "source": {
-            "name": "Inbox.eu"
+            "name": "CNA"
           },
-          "publishedAt": "2026-06-30T05:03:24Z",
-          "image": "https://news.inbox.eu/w/img/4b/82/4b825031b3a45279f4.webp",
+          "publishedAt": "2026-06-30T07:59:11Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--u9-haUXm--/c_crop,h_759,w_1350,x_0,y_87/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/07/15/Rayson Lee Tan Li Ming State Courts 2.png?itok=DR1NSkU2",
           "language": "en"
         },
         {
-          "title": "WhatsApp messenger to begin offering usernames",
-          "description": "The hundreds of millions who use Meta-owned messenger WhatsApp to chat with family, friends or businesses will no longer need to share phone numbers under a coming update, the company said Monday.",
-          "url": "https://citizen.digital/article/whatsapp-messenger-to-begin-offering-usernames-n385483",
+          "title": "NRL team lists, round 18: Wests Tigers’ Jarome Luai to miss game against St George Illawarra Dragons with delayed concussion symptoms",
+          "description": "Wests Tigers will be without Jarome Luai for their crucial game against St George Illawarra on Saturday after delayed concussion symptoms ruled out the star five-eighth.",
+          "url": "https://www.nine.com.au/sport/nrl/team-lists-round-18-2026-wests-tigers-jarome-luai-concussion-state-of-origin-players-20260630-p60bf8.html",
           "source": {
-            "name": "Citizen Digital"
+            "name": "Nine.com.au"
           },
-          "publishedAt": "2026-06-30T05:03:14Z",
-          "image": "https://assets.citizen.digital/170958/conversions/36c6f51a-bfa5-4cb2-a64b-217f461bfd92_AFP__20260607__HL_IBENYOUSSEF_3186889__v1__MidRes__TunisiaIllustrationMetaAiSocialMe-og_image.webp",
+          "publishedAt": "2026-06-30T07:58:24Z",
+          "image": "https://static.ffx.io/images/$zoom_0.4776%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_373%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/096d017591980ccf340d2c876059a9fcd109cee6",
           "language": "en"
         },
         {
-          "title": "WhatsApp messenger to begin offering usernames",
-          "description": "The hundreds of millions who use Meta-owned messenger WhatsApp to chat with family, friends or businesses will no longer need to share phone numbers under a coming update, the company said Monday.",
-          "url": "http://citizen.digital/article/whatsapp-messenger-to-begin-offering-usernames-n385483",
+          "title": "Hollywood star Angelina Jolie makes heartbreaking dating confession as she reveals marriage to Brad Pitt left her ‘broken’",
+          "description": "Angelina Jolie revealed she hasn’t dated anyone since her split from Brad Pitt nearly a decade ago.",
+          "url": "https://www.news.com.au/entertainment/celebrity-life/hook-ups-break-ups/hollywood-star-angelina-jolie-makes-heartbreaking-dating-confession-as-she-reveals-marriage-to-brad-pitt-left-her-broken/news-story/3159508f049b4faeca1b3fe9aa4fc82f",
           "source": {
-            "name": "Citizen Digital"
+            "name": "News.com.au"
           },
-          "publishedAt": "2026-06-30T05:03:07Z",
-          "image": "https://assets.citizen.digital/170958/conversions/36c6f51a-bfa5-4cb2-a64b-217f461bfd92_AFP__20260607__HL_IBENYOUSSEF_3186889__v1__MidRes__TunisiaIllustrationMetaAiSocialMe-og_image.webp",
+          "publishedAt": "2026-06-30T07:58:01Z",
+          "image": "https://content.api.news/v3/images/bin/9c0d4021148d11492f3094d53d424eb8",
           "language": "en"
         }
       ]
