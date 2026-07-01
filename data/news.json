@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-01T17:14:44.148Z",
+  "updatedAt": "2026-07-01T19:57:40.115Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "（まとめ）日経平均は412円高の70,474円で続伸 後場は上値重く伸び悩み",
+          "description": "東京市場まとめ1.概況日経平均は711円高の70,774円と上昇して取引を開始しました。前日の米国市場では、主要3指数がそろって上昇するなど、米国株高を引き継ぎ、堅調なスタートとなりました。序盤から上げ幅を拡大した日経平均は、9時45分に1,900円高の71,962円まで上昇...",
+          "url": "https://media.monex.co.jp/articles/-/29675",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-07-01T07:57:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "《田中みな実とそっくり》亀梨和也 結婚で”美人義姉”に集まる注目！東大卒で2児の母、バリキャリフルート奏者の“スーパーウーマン”",
+          "description": "6月29日、元TBSアナウンサーで女優の田中みな実（39）と、元KAT-TUNの亀梨和也（40）が結婚と第1子妊娠を発表した。ビッグカップルのゴールインに祝福が相次ぐなか、SNSでは田中の“親族”に",
+          "url": "https://news.yahoo.co.jp/articles/d9141c808d50094218495df8e7d4b00efec30c60",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-01T07:20:58Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260701-00000045-jisin-000-4-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "《田中みな実とそっくり》亀梨和也 結婚で”美人義姉”に集まる注目！東大卒で2児の母、バリキャリフルート奏者の“スーパーウーマン”",
+          "description": "《田中みな実とそっくり》亀梨和也　結婚で”美人義姉”に集まる注目！東大卒で2児の母、バリキャリフルート奏者の“スーパーウーマン”（女性自身）6月29日、元TBSアナウンサーで女優の田中みな実（39）と、元KAT-TUNの亀梨和也（40）が結婚と第1子妊娠を発表した。ビッグカップ…",
+          "url": "https://topics.smt.docomo.ne.jp/article/jisin/entertainment/jisin-https_jisin.jp_p_2589580?redirect=1",
+          "source": {
+            "name": "ｄメニューニュース"
+          },
+          "publishedAt": "2026-07-01T07:20:00Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/picture/jisin/m_jisin-https_jisin.jp_p_2589580.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ロケットナウでドミノ・ピザを注文すると、「コカ・コーラ ゼロカフェイン」がついてくる！「ロケットナウで夜コーク便」キャンペーンを開始",
+          "description": "日本コカ・コーラ株式会社のプレスリリース（2026年7月1日 15時00分）ロケットナウでドミノ・ピザを注文すると、「コカ・コーラ ゼロカフェイン」がついてくる！「ロケットナウで夜コーク便」キャンペーンを開始",
+          "url": "https://prtimes.jp/main/html/rd/p/000001115.000001735.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-07-01T06:00:01Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/1735/1115/1735-1115-b5078173f7f82c9034a27ea40a60b90a-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "ロシアを夏の燃料危機に陥れる ウクライナによる製油所攻撃",
+          "description": "モスクワ、ロシア、7月1日 (AP) ー  ロシアのガソリンスタンドでは給油を待つ車の列が伸びており、これに伴いドライバーの不満や不安も高まっている。数カ月に及ぶウクライナによる攻撃で製油所が炎上し",
+          "url": "https://news.yahoo.co.jp/articles/9b3368fefc3e260e5dbd920dadac3333cb464b48",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-01T05:57:47Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260701-00010009-aptsushinv-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "メキシコが呪縛解く決勝T40年ぶり勝利!!GLから4試合連続完封で完勝!!エクアドルは口元覆う行為でDF退場",
           "description": "[6.30 W杯決勝T1回戦 メキシコ2-0エクアドル メキシコシティ]　ワールドカップ決勝トーナメント1回戦で、メキシコ代表がエクアドル代表を2-0で下した。決勝T2回戦は5日(日本時間6日)で、イングランド対コンゴ...",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-07-01T02:07:27Z",
           "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/49f2/live/e6b64530-74df-11f1-ab5d-9fef475530b9.jpg",
           "language": "ja"
-        },
-        {
-          "title": "2PC配信のケーブル/機材地獄、Wave XLR Pro 1台でこんなにあっさり解決した",
-          "description": "「2PC配信」と聞いて思い浮かぶのは、せいぜいPCを2台並べてケーブルで結ぶ絵だろう。ところが実際に汎用機材で音声まわりを組み始めると、オーディオインターフェイスが2台、マイクスプリッタ、変換アダプタ、そして机の上をはい回る多数のケーブルへと、機材は雪だるま式に膨れ上がっていく。本記事はその「配線地獄」を実機で再現したうえで、Elgatoの「Wave XLR Pro」1台でどこまで解けるのかを検証する。",
-          "url": "https://pc.watch.impress.co.jp/docs/topic/special/2117322.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-07-01T02:00:00Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2117/322/01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ダブル台風発生へ…気象庁の予想進路、米軍・ヨーロッパの見方 台風9号、10号に",
-          "description": "気象庁の2026年7月1日午前9時の実況によると、南シナ海とマーシャル諸島にそれぞれある2つの熱帯低気圧が24時間以内に台風に発達するとみられる。発生すれば、台風9号、10号になる。気象庁や米軍合同台風警報センター(JTWC）、ヨーロッパ中期予報センターの見方をまとめた。",
-          "url": "https://www.fukuishimbun.co.jp/articles/-/2640112",
-          "source": {
-            "name": "福井新聞社"
-          },
-          "publishedAt": "2026-07-01T01:56:00Z",
-          "image": "https://fki.ismcdn.jp/mwimgs/a/e/-/img_aed7fe25901d6fc3a586741680bdd311156767.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "円安1ドル162円 39年半ぶりの水準 「行き過ぎ」経済界から不安の声、家計にも影響",
-          "description": "円相場が39年半ぶりの円安水準となる1ドル＝162円台まで下落しました。物価高騰が続く中、家計への影響が心配されますが、市場関係者はさらに円安が進む可能性があると指摘しています。",
-          "url": "https://news.tv-asahi.co.jp/news_economy/articles/900194037.html",
-          "source": {
-            "name": "テレ朝NEWS"
-          },
-          "publishedAt": "2026-07-01T01:52:00Z",
-          "image": "https://news.tv-asahi.co.jp/articles_img/900194037_1200.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【本日みつけたお買い得品】レノボのスナドラ搭載Androidタブレットが約1万千円引き",
-          "description": "Amazonにおいて、レノボのAndroidタブレット「Lenovo Legion Tab 8.8」(ZAEF0052JP)が、直近価格より1万1,856円引きとなる6万5,400円にて販売されている。",
-          "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2121383.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-07-01T01:40:59Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2121/383/01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「こういう大舞台では絶対に大事な存在になる」前田大然を支えた森保監督からの言葉と信頼",
-          "description": "北中米W杯で日本代表はまたしても決勝トーナメント初戦の壁に阻まれたが、FW前田大然(セルティック)は4年前のカタール大会以上の存在感を示した。代名詞の猛烈なハイプレスに磨きがかかり、それに加えて2大会連...",
-          "url": "https://web.gekisaka.jp/news/japan/detail/?454664-454664-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-07-01T01:01:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/455000/454664/news_454664_1.jpg?time=20260701100151",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Habitable Worlds Targets in New Star Activity Catalog",
-          "description": "Searching for habitable worlds beyond our solar system consists of more than just having it orbit within its star’s habitable zone, which is the region where temperatures could be just right for liquid water to exist on the surface. On Earth, where water comprises approximately 75 percent of the planet’s surface, life is absurdly abundant. But what about the exoplanet’s star, specifically its activity and rotation? How could this influence how exoplanets are identified for current and future missions?",
-          "url": "https://www.universetoday.com/articles/habitable-worlds-targets-in-new-star-activity-catalog",
+          "title": "Ex-MP welcomes foreign worker system overhaul",
+          "description": "Former Klang MP Charles Santiago calls for the new system to prioritise ethical recruitment and ensure it is affordable.",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/01/ex-mp-welcomes-foreign-worker-system-overhaul",
           "source": {
-            "name": "Universe Today"
+            "name": "Free Malaysia Today"
           },
-          "publishedAt": "2026-07-01T05:13:00Z",
-          "image": "https://www.universetoday.com/article_images/possible-hwo-design_750_20260701_051339.jpg",
+          "publishedAt": "2026-07-01T07:56:54Z",
+          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2024/06/d403a229-pekerja-asing-resize-bernamapic-040624.webp",
           "language": "en"
         },
         {
-          "title": "Theatre Legend Vijaya Mehta Passes Into The Ages",
-          "description": "Vijaya Mehta, a pioneering figure in modern Indian theatre and cinema, has passed away at the age of 91.",
-          "url": "https://m.rediff.com/movies/report/theatre-legend-vijaya-mehta-passes-into-the-ages/20260701.htm",
+          "title": "Cat Matlala in limbo after court rejects plea bargain as unjust",
+          "description": "The Pretoria Specialised Commercial Crime Court rejected a plea and sentence agreement on Wednesday, which tender don Vusimusi “Cat” Matlala and the State had concluded.",
+          "url": "https://www.news24.com/investigations/cat-matlala-in-limbo-after-court-rejects-plea-bargain-as-unjust-20260701-0476",
           "source": {
-            "name": "Rediff"
+            "name": "News24"
           },
-          "publishedAt": "2026-07-01T05:12:05Z",
-          "image": "https://im.rediff.com/1200-630/movies/2026/jul/01vijaya-mehta1.jpg",
+          "publishedAt": "2026-07-01T07:56:44Z",
+          "image": "https://news24cobalt.24.co.za/resources/02a7-20ff9cacf4c0-7c2e689234dc-1000/format/inline/cat_convicted_in_court_jeff_wicks_.jpeg",
           "language": "en"
         },
         {
-          "title": "\"Could Be A Disaster In India\": Ankur Warikoo Sounds Alarm Over WhatsApp's Username Feature",
-          "description": "In a post on X, he warned that fraudsters could create usernames closely resembling those of public figures to trick people into sending money or joining scam groups.",
-          "url": "https://www.ndtv.com/feature/could-be-a-disaster-in-india-ankur-warikoo-sounds-alarm-over-whatsapps-username-feature-11710874",
+          "title": "A 1,000kg mammal is wreaking havoc in Tasmania - and Neil the seal is loved for it",
+          "description": "The elephant seal has been crushing fences, blocking traffic and bashing into parked cars, in what experts say is play-fighting behaviour",
+          "url": "https://www.theguardian.com/australia-news/2026/jul/01/neil-the-seal-tasmania-australia-wreaking-havoc-loved",
           "source": {
-            "name": "NDTV"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-07-01T05:11:37Z",
-          "image": "https://c.ndtvimg.com/2024-08/8vijvf3g_ankur-warikoo-recalls-his-familys-financial-struggles_625x300_29_August_24.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+          "publishedAt": "2026-07-01T07:56:00Z",
+          "image": "https://i.guim.co.uk/img/media/b8c443c3ee57d8050dd778dfcfc240c90d04f858/0_411_993_794/master/993.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b01aa7ffd344119fb3278f47e3e30702",
           "language": "en"
         },
         {
-          "title": "AI fakes falsely counted Tacloban shooting survivor among dead",
-          "description": "A victim’s sister pleaded for the public to stop turning the Tacloban shooting tragedy into content.",
-          "url": "https://www.philstar.com/headlines/2026/07/01/2539091/ai-fakes-falsely-counted-tacloban-shooting-survivor-among-dead",
+          "title": "How South Africa’s 30 June unfolded:",
+          "description": "%%title%% %%sep%% %%primary_category%% %%sep%% %%sitename%% %%sep%% South Africa's (SA’s) highly anticipated 30 June anti-illegal immigration protests passed largely without the widespread violence many had feared, as thousands marched in cities across the country under a heavy security presence.",
+          "url": "https://www.namibian.com.na/how-south-africas-30-june-unfolded/",
           "source": {
-            "name": "Philstar.com"
+            "name": "The Namibian -"
           },
-          "publishedAt": "2026-07-01T05:11:00Z",
-          "image": "https://media.philstar.com/photos/2026/06/23/tacloban-shooting-tacloban-city-pio_2026-06-23_18-18-33.jpg",
+          "publishedAt": "2026-07-01T07:55:48Z",
+          "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-01-at-9.11.12-AM-1024x704.jpeg",
           "language": "en"
         },
         {
-          "title": "One dead after looting spree in Alexandra",
-          "description": "One person has been shot and killed in Alexandra following anti-illegal immigration protests.",
-          "url": "https://www.enca.com/news-top-stories/one-dead-after-looting-spree-alexandra",
+          "title": "Politicians Must Tolerate Political Humour; Satirical Criticism Not Necessarily Defamation: Delhi High Court In Raghav Chadha Case",
+          "description": "The Delhi High Court has ruled that politicians must tolerate political humour and that satirical criticism does not necessarily amount to defamation. [2026 LiveLaw (Del) 599]Justice Subramonium...",
+          "url": "https://www.livelaw.in/high-court/delhi-high-court/raghav-chadha-political-criticism-satire-freedom-of-speech-public-life-539463",
           "source": {
-            "name": "eNCA"
+            "name": "Live Law"
           },
-          "publishedAt": "2026-07-01T05:10:22Z",
-          "image": "https://www.enca.com/sites/default/files/styles/large/public/2025-12/GettyImages-2148253402.jpg.webp?itok=4gm6AyTn",
+          "publishedAt": "2026-07-01T07:55:24Z",
+          "image": "https://www.livelaw.in/h-upload/2021/08/24/399136-look-out-circulars-not-feasible-to-recover-money-from-creditors-delhi-high-court.jpg",
           "language": "en"
         },
         {
-          "title": "Mob hunts down, kills suspect linked to death of a 3-year-old boy in Murang'a",
-          "description": "The motive of the incident was not immediately known",
-          "url": "https://www.the-star.co.ke/news/2026-07-01-muranga-mob-kills-suspect-linked-to-death-of-boy",
+          "title": "'Welcome to the Jungle' box office collection Day 6 [LIVE]: Akshay Kumar led film nears Rs 90 crore domestic net on first Wednesday",
+          "description": "'Welcome to the Jungle' continues its steady march through its opening week at the box office. Directed by Ahmed Khan and led by an ensemble cast head.",
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/welcome-to-the-jungle-box-office-collection-day-6-live-akshay-kumar-led-multi-starrer-inches-closer-to-rs-90-crore-net-as-worldwide-gross-crosses-over-rs-120-crore-ahead-of-clash-with-alpha/articleshow/132109436.cms",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-07-01T05:10:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/07/6f37be3d-c876-4903-8479-b1ba8e67bc2c.jpg?1782884721564",
+          "publishedAt": "2026-07-01T07:53:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-132109536,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Chris Mason: The crunching trade offs and big numbers Burnham may soon confront",
-          "description": "The BBC's political editor Chris Mason reflects on the fallout from the Defence Investment Plan.",
-          "url": "https://www.bbc.co.uk/news/articles/c3vy7z35ve0o",
+          "title": "African Military Chiefs Meet In Angola As Extremism, Drug Trafficking Top Security Agenda",
+          "description": "Throughout the conference, defence chiefs will hold bilateral meetings, panel discussions and working sessions aimed at strengthening cooperation against transnational threats while expanding military partnerships across the continent",
+          "url": "https://capitalfm.africa/african-military-chiefs-meet-in-angola-as-extremism-drug-trafficking-top-security-agenda/",
           "source": {
-            "name": "BBC"
+            "name": "Capital FM Kenya"
           },
-          "publishedAt": "2026-07-01T05:09:43Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea25/live/d9b77e00-750a-11f1-88e4-c3278122d22b.jpg",
+          "publishedAt": "2026-07-01T07:52:19Z",
+          "image": "https://capitalfm.africa/wp-content/uploads/2026/07/HMEpry8XMAAxcwZ.jpg",
           "language": "en"
         },
         {
-          "title": "Tacloban school shooter shot best friend in back",
-          "description": "One of the students wounded in the Tacloban shooting was shot in the back by his own best friend, a resource person told a Senate hearing on Wednesday.",
-          "url": "https://newsinfo.inquirer.net/2255931/senate-hearing-tacloban-school-shooter-shot-best-friend-in-back",
+          "title": "Village People singer Victor Willis dies as Donald Trump leads tributes",
+          "description": "One of the stars of the 1970s music group Village People has died aged 75, the band revealed, after a \"short but aggressive illness\"",
+          "url": "https://www.mirror.co.uk/3am/celebrity-news/village-people-victor-willis-dead-37370422",
           "source": {
-            "name": "Inquirer.net"
+            "name": "The Mirror"
           },
-          "publishedAt": "2026-07-01T05:09:00Z",
-          "image": "https://newsinfo.inquirer.net/files/2026/06/tacloban-shooters-22june2026.jpg",
+          "publishedAt": "2026-07-01T07:52:00Z",
+          "image": "https://i2-prod.mirror.co.uk/article37370440.ece/ALTERNATES/s1200d/0_VICTOR-WILLIS-Village-People-death-July-2026.jpg",
           "language": "en"
         },
         {
-          "title": "Four days to make victims fall in love: How global scammers use US tech to fleece people",
-          "description": "Technology from American companies is being used to power a revolution in the scam industry, including in Southeast Asia, an investigation has found.",
-          "url": "https://www.channelnewsasia.com/asia/global-scammers-united-states-tech-southeast-asia-myanmar-starlink-chatgpt-6220656",
+          "title": "Sachin Ahir wins key Maharashtra poll day after quitting Uddhav Sena for Shinde-led camp",
+          "description": "Sachin Ahir was elected to the post unanimously after Mahavikas Aghadi (MVA) candidate JM Abhyankar withdrew his nomination. | India News",
+          "url": "https://www.hindustantimes.com/india-news/sachin-ahir-wins-elected-deputy-chairman-maharashtra-legislative-council-uddhav-thackeray-eknath-shinde-shiv-sena-101782892100141.html",
           "source": {
-            "name": "CNA"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-07-01T05:08:42Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--miSRnADM--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Global_Scams_Technology_41244.jpg?itok=B06zkuFZ",
+          "publishedAt": "2026-07-01T07:51:59Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/07/01/550x309/Mumbai--Jun-30--ANI---Former-Uddhav-Thackeray-led-_1782892202981_1782892213760_cebd9b6a-49ed-402c-bc20-f6b4885206bb.jpg",
           "language": "en"
         },
         {
-          "title": "PBORA Extends 2025 Annual Reports Filing Deadline for PBOs to July 9",
-          "description": "The government has granted them an additional seven days to file their returns even as the financial year for other sectors came to an official close on June 30.",
-          "url": "https://www.kenyans.co.ke/news/124816-pbora-extends-2025-annual-reports-filing-deadline-pbos-july-9",
+          "title": "Audible Open Call to Support Youth Development (United States)",
+          "description": "Deadline: 31-Jul-2026 The Audible Youth Grant Program by Audible supports U.S. nonprofits working with underrepresented youth aged 12–18. It offers $20,000–$40,000 in funding plus Audible memberships and program resources to integrate audio storytelling into youth development. The program focuses on literacy, imagination, and engagement through structured listening activities. Selected organizations run a 6-month implementation cycle",
+          "url": "https://www2.fundsforngos.org/youth-adolescents-2/audible-open-call-to-support-youth-development-united-states/",
           "source": {
-            "name": "Kenyans.co.ke"
+            "name": "fundsforNGOs"
           },
-          "publishedAt": "2026-07-01T05:08:40Z",
-          "image": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/kra-headquarters_0.jpg?itok=j_E0XV0s",
+          "publishedAt": "2026-07-01T07:50:54Z",
+          "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
           "language": "en"
         }
       ]
