@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-02T19:25:50.851Z",
+  "updatedAt": "2026-07-02T22:07:39.418Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "星野源、書き下ろし新曲がTBS火10「君の好きは無敵」主題歌に決定 初回放送で初解禁",
+          "description": "TBSでは、7月14日よる10時から、松本若菜が主演を務め、佐野勇斗（M!LK）が共演する『君の好きは無敵』がスタート。この度、音楽家で俳優の星野源が主題歌を担当することが決定した。",
+          "url": "https://mdpr.jp/drama/detail/4807916",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-07-02T09:00:00Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/G0Su/nm/G0Sut5ofE_8oCq0WTyBN7WfmZA9AyvuJIGbubt1G234.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
+        {
+          "title": "梅雨明け前から猛暑日・熱帯夜も 昼夜を問わず熱中症対策を 1か月予報",
+          "description": "気象庁は今日2日、最新の1か月予報を発表しました。この先1か月、北日本から西日本では気温が平年より高く、梅雨明け前から猛暑日や熱帯夜となる所がありそうです。昼夜を問わずエアコンを適切に使用し、こまめに水分補給をするなど、熱中症対策を万全にしてお過ごしください。",
+          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/07/02/39572.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-02T08:50:28Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/395/39572/main/20260702152952/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【長谷川健太の目】「結果は負け」。ブラジルとの差は縮まっているのか？「鎌田や佐野も世界レベルだが」（フットボールチャンネル）",
+          "description": "サッカー日本代表はFIFAワールドカップ2026（北中米W杯）決勝トーナメント・ベスト32でブラジル代表と対戦し、1-2で敗れた。先制しながらも勝利には届かなかった一戦を経て、日本代表とブラジル代",
+          "url": "https://news.yahoo.co.jp/articles/9f5e642149230fdb309c34950d321b18b1f66d8e",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-02T08:30:47Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260702-00010019-footballc-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "（まとめ）日経平均は1,741円安の68,733円で4営業日ぶりに反落 今晩は雇用統計の発表",
+          "description": "東京市場まとめ1.概況日経平均は435円安の70,039円と下落して取引を開始しました。前日の米国市場では、人工知能（AI）・半導体関連銘柄が大幅安となったことが波及しました。前場は下げ幅を拡大する展開となり、9時44分にはこの日の安値である1,798円安の68,676円をつ....",
+          "url": "https://media.monex.co.jp/articles/-/29682",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-07-02T07:48:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ダブル台風発生へ 台風9号は今後「非常に強い」勢力に発達 動向に注意",
+          "description": "今日2日は新たに台風9号が発生し、今後「非常に強い」勢力に発達する見込みです。また、今後別の台風も発生する予想です。台風は沖縄など日本に影響を及ぼすおそれもあり、今後の動向に注意が必要です。",
+          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/07/02/39568.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-02T07:47:30Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/395/39568/main/20260702163458/large.jpg",
+          "language": "ja"
+        },
         {
           "title": "NHK、美輪明宏さん追悼番組 ナレーションは高瀬耕造アナ BSでは『黒蜥蜴』再放送も",
           "description": "ニュース｜　NHKでは、6月20日に歌手で俳優の美輪明宏さんが91歳で亡くなったことを受け、5日に追悼番組『美輪明宏　愛と祈りの歌』（前8：00）を届ける。　『ヨイトマケの唄』『愛の讃歌』『ふるさとの空の下に』『花～すべての人の心に花を～』『老女優は去りゆく』。紅白歌合戦やSONGS、NHKに残された聴く者の魂を揺さぶる歌唱を軸に、唯一無二の表現者が歌に込めた『愛』と『平和』のメッセージを見つめる。",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-07-02T05:45:45Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260702-00000026-flash-000-8-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "ASUS、2.5スロット厚でRTX 5090搭載のクリエイター向けビデオカード",
-          "description": "ASUS JAPANは、クリエイター向けブランド「ProArt」より、ビデオカード「ProArt GeForce RTX 5090 OC Edition」(PROART-RTX5090-O32G)を7月3日に発売する。価格はオープンプライスで、実売予想価格は79万800円前後の見込み。",
-          "url": "https://pc.watch.impress.co.jp/docs/news/2121878.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-07-02T05:42:28Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2121/878/001.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【速報】虐待し極度に痩せ衰弱した2歳長女を”放置”し死亡させた罪 両親が起訴内容認める「間違いありません」 和歌山地裁",
-          "description": "和歌山市内の自宅で2歳の娘に虐待を加えたうえ、衰弱した状態を放置し死亡させたとして起訴された両親の裁判が和歌山地方裁判所で始まり、2人は起訴内容を認めました。\n保護責任者遺棄致死の罪に問われているのは平晴流被告（26）と妻の菜々美被告（26）です。\n２人は、長女の流菜ちゃん（当時2歳）に暴力を振るうなどして虐待したうえ、流菜ちゃんが極度に痩せていることや下あごをけがして自分で食事をとることが困難なことを認識しながら、十分な食事を与えなかった上、適切な治療を受けさせずに去年7月に死亡させた保護責任者遺棄致死の罪に問われています。\n2人の裁判がきょう＝2日に始まり、裁判官から起訴内容に間違いないか問われると、晴流被告と菜々美被告は2人とも「間違いありません」と述べ起訴内容を認めました。\n■菜々美被告の弁護人「幼少期に容姿に関する暴言受ける」　虐待の経緯について”生い立ち”に触れる\n一方、菜々美被告の弁護人は生い立ちなどについて指摘。\n幼少期に受けた容姿への暴言で自分の顔が恥ずかしいと思うようになったうえ、流菜ちゃん出産後、「長男（兄）はかわいい、流菜ちゃんは菜々美被告に似ている」と言われたことから、フラッシュバックが起きマスクが手放せなくなったうえ、産後うつになったなどと明らかにしました。\nそのうえで、虐待のほとんどは菜々美被告によるものだが、保護責任者遺棄致死罪の責任については夫婦で負うべきと主張。\n法廷内で菜々美被告はマスク姿で涙を拭いました。\n■晴流被告の弁護人「成育歴を考慮すべき」など主張　「ネグレクト状態で育った」\nまた晴流被告の弁護人も生い立ちについて指摘。\n両親の離婚などでネグレクト状態で育ち、「食べ物は祖父母からもらったり、万引きで得たりした」「ごみ屋敷のようなアパートで一人で暮らさざるを得ない時期があった」などと明らかにしました。\nそのうえで、適切な保護に至らなかったことについて、晴流被告の成育歴を考慮することや、暴行や食事制限はほとんど菜々美被告によるもの、止められなかった理由などを検討するべきと主張しました。",
-          "url": "https://www.ktv.jp/news/articles/?id=28087",
-          "source": {
-            "name": "ktv.jp"
-          },
-          "publishedAt": "2026-07-02T04:59:54Z",
-          "image": "https://www.ktv.jp/news/data/images/28087_01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "第1日は中止 競技は54H短期決戦へ－資生堂・JAL レディスオープン",
-          "description": "JLPGAツアー2026シーズン第17戦『資生堂・JAL レディスオープン』（賞金総額1億2,000万円、優勝賞金2,1…",
-          "url": "https://sports.yahoo.co.jp/official/detail/2026070200053-spnaviow",
-          "source": {
-            "name": "スポーツナビ"
-          },
-          "publishedAt": "2026-07-02T04:35:00Z",
-          "image": "https://sports-pctr.c.yimg.jp/dk/iwiz-sports/text/images/2026/0702/2026070200053-spnaviow_1782964868_view.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "台風9号（バービー）発生…「ダブル台風」へ 気象庁の予想進路、米軍・ヨーロッパの見方 日本への影響は",
-          "description": "気象庁の2026年7月2日正午の実況によると、マーシャル諸島にあった熱帯低気圧が台風第9号（バービー）に発達。南シナ海にある熱帯低気圧も24時間以内に台風10号に発達する見込み。「ダブル台風」状態になるとみられる。予想進路や日本への影響について気象庁や米軍合同台風警報センター(JTWC）、ヨーロッパ中期予報センターの見方をまとめた。",
-          "url": "https://www.fukuishimbun.co.jp/articles/-/2641061",
-          "source": {
-            "name": "福井新聞社"
-          },
-          "publishedAt": "2026-07-02T04:23:00Z",
-          "image": "https://fki.ismcdn.jp/mwimgs/a/b/-/img_ab5b9967bf4793c9c71d01321486a0ee119057.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「シワにならず、洗濯してもすぐ乾く最高のパンツ」 cocaの“990円エンボスパンツ”が大好評 「ジャージみたいに履きやすい」「高見えします」",
-          "description": "coca（コカ）の「エンボスセンターシームワイドパンツ レディース」は、楽なはき心地とすっきり見えを両立したワイドパンツです。購入者からは、はきやすさや合わせやすさ、乾きやすさ、シワの気になりにくさが好評で、色違いで購入する声も見られます。　本記事では、そんなcoca（コカ）の「エンボスセンターシームワイド…",
-          "url": "https://nlab.itmedia.co.jp/research/articles/3901836/",
-          "source": {
-            "name": "ねとらぼ"
-          },
-          "publishedAt": "2026-07-02T04:10:00Z",
-          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/05/1748416652_coca-scaled.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "First MotoGP rookie officially confirmed on 2027 grid",
-          "description": "Dani Holgado is the first rookie confirmed for MotoGP's new 850cc era after earning a Gresini Ducati seat for 2027.",
-          "url": "https://www.crash.net/motogp/news/1099966/1/first-motogp-rookie-officially-confirmed-2027-grid",
+          "title": "Best Marshall deal: Save $150 on Marshall Monitor III headphones at Amazon",
+          "description": "As of July 2, the Marshall Monitor III headphones are down to their lowest-ever price at Amazon of $229.99. Compared to their list price of $379.99, that's a 39% discount.",
+          "url": "https://mashable.com/tech/july-2-marshall-monitor-iii-headphones-deal",
           "source": {
-            "name": "Crash.net"
+            "name": "Mashable"
           },
-          "publishedAt": "2026-07-02T07:25:34Z",
-          "image": "https://www.crash.net/sites/default/files/2026-07/gng_1325496_hires_1600x900.jpg?width=1600&aspect_ratio=16:9",
+          "publishedAt": "2026-07-02T10:07:40Z",
+          "image": "https://helios-i.mashable.com/imagery/articles/04XTvdG2pM2NKCMNRtt1mRH/hero-image.fill.size_1200x675.v1782984366.jpg",
           "language": "en"
         },
         {
-          "title": "Man United transfer news LIVE - Felix Nmecha chase, Sandro Tonali latest, Marcus Rashford update",
-          "description": "The latest Manchester United transfer news with updates on Mateus Fernandes, Ayyoub Bouaddi, Aurelien Tchouameni, Felix Nmecha, Marcus Rashford, Alex Scott and more",
-          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-live-34222062",
+          "title": "Prince Harry Is Paying for a Deal He Chose 6 Years Ago - Expert",
+          "description": "Prince Harry has reportedly been paying for a deal he chose in 2020. According to an expert, his taxpayer-funded protection allegedly downgraded when he decided to step down as a working royal six yea...",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/prince-harry-paying-deal-chose-100644101.html",
           "source": {
-            "name": "Manchester Evening News"
+            "name": "yahoo.com"
           },
-          "publishedAt": "2026-07-02T07:24:54Z",
-          "image": "https://i2-prod.manchestereveningnews.co.uk/article34222073.ece/ALTERNATES/s1200d/0_GettyImages-2283382917.jpg",
+          "publishedAt": "2026-07-02T10:06:44Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/d4b8045efaf76e8fca99f162c11d0c4a885ff049c747a03ff4eb6b8ef3c48b74/lightyear_networkapi/resizefill_w640_h360;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F37cc5d9c394b2b769b228bb11216644a",
           "language": "en"
         },
         {
-          "title": "US Jobs Report: Is the Stock Market Setting Up for Trouble Ahead?",
-          "description": "Will the US jobs report break the stock market if it spells more trouble for already beaten-down consumers and threatens economic growth?",
-          "url": "https://www.tastylive.com/news-insights/us-jobs-report-is-the-stock-market-setting-up-for-trouble-ahead-",
+          "title": "New study explains why Canadians move to the U.S.",
+          "description": "Canadians are moving south for jobs, lower taxes, and, surprisingly, health care, a new study shows.",
+          "url": "https://nationalpost.com/news/canadians-hate-being-called-the-51st-state-but-they-dont-mind-moving-south-of-the-border-study-says",
           "source": {
-            "name": "tastylive"
+            "name": "National Post"
           },
-          "publishedAt": "2026-07-02T07:24:40Z",
-          "image": "https://images.contentstack.io/v3/assets/blt40263f25ec36953f/blt50a453ce1fe65bf9/6a46198d4d9e8e442cc04003/Clipboard_07-02-2026_32_V2.png?width=1200&height=628&disable=upscale&fit=bounds#time=1782979372",
+          "publishedAt": "2026-07-02T10:06:30Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/06/flags1_302706110.jpg",
           "language": "en"
         },
         {
-          "title": "Lionel Messi got away with it! Furious USMNT left baffled by Folarin Balogun World Cup red card that mirrored unpunished challenge made by Argentina captain",
-          "description": "Alexi Lalas and Mauricio Pochettino questioned Folarin Balogun's World Cup red card after comparing it to an unpunished challenge by Lionel Messi.",
-          "url": "https://www.goal.com/en-ke/lists/argentina-lionel-messi-usmnt-folarin-balogun-red-card-world-cup/blt7d53a2fe3785c070",
+          "title": "Report Xbox Disc-to-Digital Feature in Testing, Microsoft \"Likely\" to Stop Disc Production Too",
+          "description": "Both Sony and Microsoft look ready to drop disc drives from their next-gen consoles. - Following Sony's announcement that it was ceasing production of physic...",
+          "url": "https://www.digitalfoundry.net/news/2026/07/report-xbox-disc-to-digital-feature-in-testing-microsoft-likely-to-stop-disc-production-too",
           "source": {
-            "name": "Goal.com"
+            "name": "Digital Foundry"
           },
-          "publishedAt": "2026-07-02T07:24:32Z",
-          "image": "https://assets.goal.com/images/v3/getty-2284257487/crop/MM5DEOJQGU5DCNRTGQ5G433XMU5DAORRHAZA====/GettyImages-2284257487.jpg",
+          "publishedAt": "2026-07-02T10:06:06Z",
+          "image": "https://images.digitalfoundry.net/825c98c152960/large.jpg",
           "language": "en"
         },
         {
-          "title": "Lionel Messi got away with it! Furious USMNT left baffled by Folarin Balogun World Cup red card that mirrored unpunished challenge made by Argentina captain",
-          "description": "Alexi Lalas and Mauricio Pochettino questioned Folarin Balogun's World Cup red card after comparing it to an unpunished challenge by Lionel Messi.",
-          "url": "https://www.goal.com/en-gh/lists/argentina-lionel-messi-usmnt-folarin-balogun-red-card-world-cup/blt7d53a2fe3785c070",
+          "title": "PM Kulbergs dissatisfied with cybersecurity in state companies",
+          "description": "The first signs of a breach in the system at AS \"Latvijas Valsts meži\" (LVM) cyberattack were detected as early as June 11, when suspicious activity was identified, while the actual malicious activiti...",
+          "url": "https://eng.lsm.lv/article/politics/politics/02.07.2026-pm-kulbergs-dissatisfied-with-cybersecurity-in-state-companies.a653590/",
           "source": {
-            "name": "Goal.com"
+            "name": "LSM"
           },
-          "publishedAt": "2026-07-02T07:24:32Z",
-          "image": "https://assets.goal.com/images/v3/getty-2284257487/crop/MM5DEOJQGU5DCNRTGQ5G433XMU5DAORRHAZA====/GettyImages-2284257487.jpg",
+          "publishedAt": "2026-07-02T10:05:55Z",
+          "image": "https://static.lsm.lv/media/2026/07/large/1/to6l.jpg",
           "language": "en"
         },
         {
-          "title": "Lionel Messi got away with it! Furious USMNT left baffled by Folarin Balogun World Cup red card that mirrored unpunished challenge made by Argentina captain",
-          "description": "Alexi Lalas and Mauricio Pochettino questioned Folarin Balogun's World Cup red card after comparing it to an unpunished challenge by Lionel Messi.",
-          "url": "https://www.goal.com/en-ug/lists/argentina-lionel-messi-usmnt-folarin-balogun-red-card-world-cup/blt7d53a2fe3785c070",
+          "title": "One Ticket, Two Hours, Endless Laughs Is What Welcome To The Jungle Is All About",
+          "description": "Welcome To The Jungle is winning audiences with nonstop laughs, nostalgia, and family-friendly entertainment led by Akshay Kumar.",
+          "url": "https://www.koimoi.com/bollywood/one-ticket-two-hours-endless-laughs-is-what-welcome-to-the-jungle-is-all-about/",
           "source": {
-            "name": "Goal.com"
+            "name": "Koimoi"
           },
-          "publishedAt": "2026-07-02T07:24:32Z",
-          "image": "https://assets.goal.com/images/v3/getty-2284257487/crop/MM5DEOJQGU5DCNRTGQ5G433XMU5DAORRHAZA====/GettyImages-2284257487.jpg",
+          "publishedAt": "2026-07-02T10:05:34Z",
+          "image": "https://www.koimoi.com/wp-content/new-galleries/2026/07/welcome-to-the-jungle-the-feel-good-entertainer-01.jpg",
           "language": "en"
         },
         {
-          "title": "Dance Coach Keno 53 critically ill, hospitalized as colleagues appeal for financial support",
-          "description": "Kings 256 dance coach Keno 53 has been hospitalized in critical condition at Bukoto Hospital. Fellow dancer Ritah Dancehall has appealed to the public for financial support to aid his treatment.",
-          "url": "https://mbu.ug/2026/07/02/kings-256-dance-coach-keno-53-critically-ill-hospitalized-as-colleagues-appeal-for-financial-support/",
+          "title": "Apple Ramps Foldable iPhone 'Ultra' Production to 10 Million Units",
+          "description": "Apple has told suppliers to prepare to make approximately 10 million foldable iPhones this year, up from a previous forecast of about 7-8 million units a few months ago, reports Nikkei Asia ($). Apple has already booked parts for roughly 80 million smartphones for the second half of 2026, which includes the iPhone 18 Pro, iPhone 18 Pro Max, and the first-ever foldable iPhone. The company's full 2026 production is expected to top 220 million units, according to the publication.",
+          "url": "https://www.macrumors.com/2026/07/02/apple-ramps-foldable-iphone-ultra-production-10m/",
           "source": {
-            "name": "mbu.ug"
+            "name": "MacRumors"
           },
-          "publishedAt": "2026-07-02T07:24:14Z",
-          "image": "https://mbu.ug/wp-content/uploads/2026/07/Keno-53-2-edited.jpg",
+          "publishedAt": "2026-07-02T10:05:03Z",
+          "image": "https://images.macrumors.com/t/tRyi6be_nH3YfYIKMeYwHL6L7mA=/2000x/article-new/2025/12/iphone-fold-3d-print.jpg",
           "language": "en"
         },
         {
-          "title": "High Court strikes down State website-blocking powers in Cybercrimes Act",
-          "description": "Judge warns law enabled prior restraint without court oversight.",
-          "url": "https://www.the-star.co.ke/news/2026-07-02-court-strikes-down-state-powers-to-block-websites",
+          "title": "Anger as report says Trump hijacked US anniversary to serve own agenda - US politics live",
+          "description": "Top House Democrat on committee that issued report says president ‘tries to steal the celebration of America’s 250th anniversary and turn it into something that’s all about Trump’",
+          "url": "https://www.theguardian.com/us-news/live/2026/jul/02/donald-trump-us-politics-250-anniversary-republicans-democrats-latest-news-updates",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-07-02T07:23:34Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/07/52dd8343-49ed-43a4-ba68-a6d278b9f1d9.jpg?1782984889313",
+          "publishedAt": "2026-07-02T10:05:00Z",
+          "image": "https://i.guim.co.uk/img/media/de54639c993c658ab7f2d1b1dea606a372368cce/1333_100_5155_4124/master/5155.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=531e09555a592537b7a271fcb26d2cb6",
           "language": "en"
         },
         {
-          "title": "Goliath wa Bungoma’s Work Bestie Patrick Riang’a Quits Job",
-          "description": "Kenyans react as Patrick Riang’a, former Car Soko operations manager, bids farewell with heartfelt gratitude to his colleagues and friend Goliath wa Bungoma.",
-          "url": "https://www.tuko.co.ke/entertainment/celebrities/631315-goliath-wa-bungomas-work-bestie-patrick-rianga-quits-job/",
+          "title": "USMNT into World Cup last 16 after beating Bosnia; Controversial red card clouds Balogun’s heroics",
+          "description": "On a tense and controversial night in California, the USMNT won a World Cup knockout match for just a second time ever. We break it down",
+          "url": "https://www.nytimes.com/athletic/7413225/2026/07/01/usmnt-bosnia-herzegovina-world-cup-2026-score-results-takeaways-balogun-tillman/",
           "source": {
-            "name": "Tuko News"
+            "name": "The New York Times"
           },
-          "publishedAt": "2026-07-02T07:23:07Z",
-          "image": "https://cdn.tuko.co.ke/images/1200x675/ac54ca2c45d62d89.jpeg?v=1",
+          "publishedAt": "2026-07-02T10:05:00Z",
+          "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/01211531/GettyImages-2284252863-scaled.jpg?width=1200&height=630&fit=cover",
           "language": "en"
         },
         {
-          "title": "Victims of forced adoption to get formal apology after years campaigning",
-          "description": "The practice saw thousands of babies taken from their mothers between 1949 and 1976.",
-          "url": "https://www.bbc.com/news/articles/c20yq332018o",
+          "title": "Korean charged with telecom fraud nabbed",
+          "description": "The Bureau of Immigration (BI) has arrested a South Korean national wanted in his country for his alleged involvement in a telecommunications fraud.",
+          "url": "https://www.sunstar.com.ph/pampanga/korean-charged-with-telecom-fraud-nabbed",
           "source": {
-            "name": "BBC"
+            "name": "SunStar Publishing Inc."
           },
-          "publishedAt": "2026-07-02T07:22:56Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/602d/live/bc8c02a0-75ec-11f1-a627-714adb4eed6e.png",
+          "publishedAt": "2026-07-02T10:04:51Z",
+          "image": "https://cf-images.assettype.com/sunstar%2F2023-11%2Fb92791ab-235a-422a-9a03-fff077c47d19%2FLocal750x450.jpg?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
           "language": "en"
         }
       ]
