@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-01T22:17:42.892Z",
+  "updatedAt": "2026-07-02T03:42:20.154Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "Travis Japan「FNS歌謡祭」ラスト1分エンディングに突如登場「出演予定無かったよね？」「相葉くんとの掛け合い最高」",
+          "description": "フジテレビ系音楽の祭典「2026 FNS歌謡祭 夏」（18時30分～）が7月1日に生放送された。同番組への出演発表が無かったTravis Japanが番組終了ラスト1分を切ったエンディングに突如姿を現し、話題を読んでいる。",
+          "url": "https://mdpr.jp/news/detail/4807580",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-07-01T13:59:25Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/WiYE/wm/WiYETP4qfguy6FsoaUh-7mJ0L9zfcwChCZK4Hx4G0Uo.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
+        {
+          "title": "【ＮＹ為替オープニング】ウォ―シュFRB議長の発言やISMに注目｜FX・為替ニュース",
+          "description": "◇重要イベント・ポイント ・ユーロ圏CPI(6月)：前年比+2.8％(予想+3.1％、前回+3.2％) ・米・6月ADP雇用統計：＋9.8万人（予想：＋12万人、5月：＋12.2万人） ・米・製造業P",
+          "url": "https://zai.diamond.jp/articles/-/491501",
+          "source": {
+            "name": "ザイFX！"
+          },
+          "publishedAt": "2026-07-01T13:41:00Z",
+          "image": "https://zai.diamond.jp/mwimgs/9/e/-/img_9e47ac79ce2cf237f05d70fc22e16d45110540.png",
+          "language": "ja"
+        },
+        {
+          "title": "ドル円、１６３円を視野に 財務官発言も反応一時的＝ＮＹ為替序盤",
+          "description": "きょうの為替市場はドル高が優勢となる中、ドル円も上値追いの展開が続いている。ウォーシュ議長がポルトガルのシントラで開催中のＥＣＢフォーラムに出席しているが、特に経済や金融政策に関する発言は出ていない...",
+          "url": "https://fx.minkabu.jp/news/371971",
+          "source": {
+            "name": "みんかぶ FX/為替"
+          },
+          "publishedAt": "2026-07-01T13:28:39Z",
+          "image": "https://mfx-assets.s3.ap-northeast-1.amazonaws.com/news_ogp/forex.png",
+          "language": "ja"
+        },
+        {
+          "title": "PS3、PS Vita向けPS Storeが2027年7月にサービス終了。終了後は新規の購入は不可になるものの購入済みのコンテンツについては当面の間はダウンロード可能。",
+          "description": "ソニー・インタラクティブエンタテインメントは、プレイステーション3（PS3）およびプレイステーション Vita（PS Vita）におけるPlayStation Store（PS Store）のサービスを終了することを順次終了することを発表した。",
+          "url": "https://www.famitsu.com/article/202607/80092",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-07-01T12:47:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/80092/ogp_MITq.jpg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "青森県、岩手県で震度4の地震 津波の心配なし",
+          "description": "1日午後9時8分頃、岩手県沖を震源とするマグニチュード6.0の地震が発生し、青森県、岩手県で最大震度4を観測しました。この地震による津波の心配はありません。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/07/01/39557.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-01T12:14:31Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/395/39557/main/20260701211432/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "金星とレグルスが大接近、月末は流星群 2026年7月の星空イベント",
+          "description": "金星とレグルスの大接近や、みずがめ座δ南流星群の極大…。2026年の7月は多彩な天文イベントが待っている。7月の星空を案内する。",
+          "url": "https://www.fukuishimbun.co.jp/articles/-/2639420",
+          "source": {
+            "name": "福井新聞社"
+          },
+          "publishedAt": "2026-07-01T11:10:00Z",
+          "image": "https://fki.ismcdn.jp/mwimgs/1/0/-/img_109a4b995a714bc614a42f3dc00b3327381034.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "W杯敗退直後、一番最初に駆け寄ったGK大迫敬介…GK鈴木彩艶に伝えた言葉は",
+          "description": "W杯のピッチには立てなかった。それでも、同じGKとして最後まで仲間を支えた。日本代表GK大迫敬介(広島)は北中米ワールドカップ決勝トーナメント1回戦・ブラジル戦後、ピッチに倒れ込んだGK鈴木彩艶(パルマ)の...",
+          "url": "https://web.gekisaka.jp/news/japan/detail/?454736-454736-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-07-01T10:30:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/455000/454736/news_454736_1.jpg?time=20260702044714",
+          "language": "ja"
+        },
         {
           "title": "49歳母親と12歳長女が死亡、14歳長男ケガ 殺人未遂容疑で逮捕の46歳父親を釈放 逮捕前に有毒物を服用か 体調不良で入院 「2人の殺害ほのめかす」供述",
           "description": "49歳母親と12歳長女が死亡、14歳長男ケガ　殺人未遂容疑で逮捕の46歳父親を釈放　逮捕前に有毒物を服用か　体調不良で入院　「2人の殺害ほのめかす」供述",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-07-01T09:30:16Z",
           "image": "https://realsound.jp/wp-content/uploads/2026/07/20260701_fns_99.jpg",
           "language": "ja"
-        },
-        {
-          "title": "iPhone 17eをミニマルに整える「MYNUS iPhone 17e CASE」7月1日発売",
-          "description": "アンドデザイン株式会社は7月1日、iPhone 17e/16eに対応した「MYNUS iPhone 17e CASE」を発売すると発表しました。 「引き算の美学」をコンセプトに、徹底的に余計な要素を削ぎ落としたMagSafe対応のミニマルデ",
-          "url": "https://www.appbank.net/2026/07/01/goods-books/3044736.php",
-          "source": {
-            "name": "AppBank"
-          },
-          "publishedAt": "2026-07-01T09:22:26Z",
-          "image": "https://www.appbank.net/wp-content/uploads/2026/07/20260701_132452_616_01.webp",
-          "language": "ja"
-        },
-        {
-          "title": "【↑】日経平均 大引け｜ 3日続伸、半導体株高も方向感欠く展開 (7月1日)",
-          "description": "前日の米国市場では、ＮＹダウは前日比１３６ドル高と続伸した。ＡＩ・半導体関連株に対して引き続き物色意欲が続いた。　東京市場では、相変わらず方向感の見えにくい上下に不安定な値動きとなったが、日経平均株価は結局４００円あまり上昇し、７万円トビ台で取引を終えた・・・。",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202607011160",
-          "source": {
-            "name": "かぶたん"
-          },
-          "publishedAt": "2026-07-01T09:11:00Z",
-          "image": "https://async.api.kabutan.jp/og_image?title=%E3%80%90%E2%86%91%E3%80%91%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%20%E5%A4%A7%E5%BC%95%E3%81%91%EF%BD%9C%203%E6%97%A5%E7%B6%9A%E4%BC%B8%E3%80%81%E5%8D%8A%E5%B0%8E%E4%BD%93%E6%A0%AA%E9%AB%98%E3%82%82%E6%96%B9%E5%90%91%E6%84%9F%E6%AC%A0%E3%81%8F%E5%B1%95%E9%96%8B%20%287%E6%9C%881%E6%97%A5%29",
-          "language": "ja"
-        },
-        {
-          "title": "超ときめき宣伝部、2027年春頃に活動終了「何度も何度も話し合いを重ねて参りました」【全文】",
-          "description": "5人組アイドルグループの超ときめき◆宣伝部（◆はハートマーク）が2027年の春頃をもって、活動を終了することがわかった。7月1日、公式サイトを通じて発表された。",
-          "url": "https://mdpr.jp/news/detail/4807424",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-07-01T09:00:51Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/NHYZ/wm/NHYZlu9v5GUSlQLSNHY04JPHC3EdP0TiVfAJiQltbvI.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "超ときめき▽宣伝部、来春活動終了 最後のワンマンライブを予告「感謝の気持ちを込めて」【報告全文】",
-          "description": "ニュース｜　アイドルグループ・超ときめき▽宣伝部（※▽＝ハートマーク）が1日、グループのホームページ上で来春で活動を終了することを発表した。　サイトでは「いつも超ときめき▽宣伝部を応援いただき、誠にありがとうございます。超ときめき▽宣伝部は2027年の春頃をもって活動を終了することになりました。このようなご報告になってしまったこと、心よりお詫び申し上げます。活動期間については、メンバー含めチームで時間をかけて何度も何度も話し合いを重ねて参りました」と伝えられた。",
-          "url": "https://www.oricon.co.jp/news/2464987/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-07-01T09:00:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2465000/2464987/20260701_172716_p_o_46124422.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "頼れる8000kHz、あえての有線。「G512 X 75 有線ゲーミングキーボード」がめちゃ優秀っ！",
-          "description": "「G512 X 75 有線ゲーミングキーボード」がめちゃ優秀っ！あえての有線で、8000kHzを実現。",
-          "url": "https://ascii.jp/elem/000/004/415/4415389/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-07-01T09:00:00Z",
-          "image": "https://ascii.jp/img/2026/07/01/4492450/xl/1fd4abbed4db1999.png?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "本州は梅雨の最盛期 台風も発生予想で7月前半も大雨に警戒 梅雨明けはいつ",
-          "description": "沖縄に続いて、1日は奄美地方でも梅雨明けが発表されました。一方、本州付近は梅雨の真っただ中で、来週以降は再び台風の影響を受ける可能性もあります。7月も上旬を中心に大雨に警戒が必要です。",
-          "url": "https://tenki.jp/forecaster/r_tokuda/2026/07/01/39552.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-07-01T08:09:02Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/395/39552/main/20260701144626/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "中丸雄一、結婚発表の亀梨和也を祝福 発表の数時間前にメール→即電話「亀梨ジュニア抱かせて」",
-          "description": "ニュース｜　中丸雄一が、1日放送のTOKYO MX『5時に夢中！』（後5：00）に生出演。KAT-TUNとしてともに活動をしていた亀梨和也が6月29日、田中みな実との結婚と妊娠を発表したことを受けて祝福した。　番組では、亀梨結婚のニュースを伝え、垣花正アナから事前の連絡について向けられた中丸は「発表する何時間か前にメールでいただいて、すぐ電話しました。飛んで喜んで電話しちゃいましたよね」とコメント。",
-          "url": "https://www.oricon.co.jp/news/2464625/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-07-01T08:07:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2465000/2464625/20260630_140501_p_o_23344834.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "In Pictures: Fire guts UZ workers' flats in Avondale",
-          "description": "University of Zimbabwe (UZ) workers’ flats in Avondale were gutted by fire on Tuesday morning. Firefighters managed to contain the blaze and recovered three fuel containers from an apartment where the fire is believed to have started. The cause of the fire is still under investigation. In a statement, the City of Harare warned residents […]",
-          "url": "https://www.newzimbabwe.com/in-pictures-fire-guts-uz-workers-flats-in-avondale/",
+          "title": "Wimbledon 2026 results: Jannik Sinner overcomes tricky Nuno Borges as difficult start to title defence continues",
+          "description": "Jannik Sinner's tricky start to his Wimbledon title defence continues as he overcomes a stern second-round test against Portugal's Nuno Borges.",
+          "url": "https://www.bbc.com/sport/tennis/articles/cgjxzeqnn1vo",
           "source": {
-            "name": "NewZimbabwe.com"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-01T10:17:40Z",
-          "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2026/07/01110941/UZ-Flats-fire5.jpeg",
+          "publishedAt": "2026-07-01T15:40:46Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1140/live/4bc78010-755d-11f1-bd47-e1ebd62de3b7.jpg",
           "language": "en"
         },
         {
-          "title": "'I ran barefoot': Millie Odhiambo recounts terrifying day Gen Z protesters stormed Parliament",
-          "description": "\"It was terrible. People have not given half the stories of what happened to Parliament that day.\"",
-          "url": "https://www.the-star.co.ke/news/2026-07-01-millie-odhiambo-recounts-day-gen-z-stormed-parliament",
+          "title": "Stopping skin cancer before it starts could cut its health care costs",
+          "description": "A new study has revealed the hundreds of thousands of skin cancer appointments and medical procedures Queenslanders are attending and undergoing each year, prompting experts to call for further investment in prevention campaigns to protect public health and ease pressure on the health care system.",
+          "url": "https://medicalxpress.com/news/2026-07-skin-cancer-health.html",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "Medical Xpress"
           },
-          "publishedAt": "2026-07-01T10:17:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/07/7db5dfb2-749e-4698-a4c7-38774386fa35.jpg?1782903101985",
+          "publishedAt": "2026-07-01T15:40:01Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/stopping-skin-cancer-b.jpg",
           "language": "en"
         },
         {
-          "title": "Mnangagwa pays tribute to late VP Nkomo on the 27th anniversary of his passing",
-          "description": "Nkomo, affectionately known as “Chibwe Chitedza”, “Umdala Wethu” and “Father Zimbabwe”, died on July 1,1999 at the age of 82.",
-          "url": "https://www.newsday.co.zw/local-news/article/200057849/mnangagwa-pays-tribute-to-late-vp-nkomo-on-the-27th-anniversary-of-his-passing",
+          "title": "We’ve got a date when the sun will destroy Earth - sue us if we’re wrong",
+          "description": "New research has revealed the date the sun is expected to swell up bigger and destroy the Earth and other planets.",
+          "url": "https://metro.co.uk/2026/07/01/got-a-date-sun-will-destroy-earth-sue-us-wrong-29001054/",
           "source": {
-            "name": "NewsDay Zimbabwe"
+            "name": "Metro.co.uk"
           },
-          "publishedAt": "2026-07-01T10:15:54Z",
-          "image": "https://cdn.thestandard.co.zw/images/newsday/uploads/2026/07/13IWO8AeFxQRvEtfkhARycRqiEAOZCL3nw4Uua89.jpg",
+          "publishedAt": "2026-07-01T15:40:00Z",
+          "image": "https://metro.co.uk/wp-content/uploads/2026/07/SEI_303618462-a689_1782920464.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
           "language": "en"
         },
         {
-          "title": "Ontario lowers colorectal cancer screening age to 45",
-          "description": "Ontario is the second province in Canada to lower the routine colorectal cancer screening age from age 50 to 45.",
-          "url": "https://www.cp24.com/local/toronto/2026/07/01/ontario-joins-pei-in-lowering-colorectal-cancer-screening-age-to-45/",
+          "title": "Limpopo bus crash: Acting police commissioner sends condolences to families affected",
+          "description": "The driver died, and 11 passengers were injured after the bus veered off the road shortly after midnight on Tuesday.",
+          "url": "https://www.ewn.co.za/2026/07/01/limpopo-bus-crash-acting-police-commissioner-sends-condolences-to-families-affected",
           "source": {
-            "name": "CP24"
+            "name": "EWN"
           },
-          "publishedAt": "2026-07-01T10:15:33Z",
-          "image": "https://www.cp24.com/resizer/v2/O2OWWSZGIUWYZIXIKZRMOKFGPI.jpg?smart=true&auth=49e4fda6715164d83f1daec4f45361a01168e56d6a917b2d0d8229c6d8133c36&width=1200&height=630",
+          "publishedAt": "2026-07-01T15:39:01Z",
+          "image": "https://media-cache.primedia-service.com/media/4goltkla/bus-crash-in-limpopo.jpg?width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "UK workers request voluntary union recognition at Rockstar",
-          "description": "Rockstar Game Workers Union aims to secure collective bargaining rights amid ongoing legal disputes over alleged unfair dismissals",
-          "url": "https://www.gamesindustry.biz/uk-workers-request-voluntary-union-recognition-at-rockstar",
+          "title": "It's all digital now: PlayStation to end physical disc production for new games from January 2028",
+          "description": "Sony Interactive Entertainment has confirmed that physical disc production for new PlayStation games will stop in January 2028, with all new titles moving to digital-only release thereafter.",
+          "url": "https://www.citizen.co.za/lifestyle/technology/playstation-to-end-physical-disc-production-from-january-2028/",
           "source": {
-            "name": "GamesIndustry.biz"
+            "name": "The Citizen"
           },
-          "publishedAt": "2026-07-01T10:14:58Z",
-          "image": "https://assetsio.gnwcdn.com/iwgb2.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "publishedAt": "2026-07-01T15:38:22Z",
+          "image": "https://media.citizen.co.za/wp-content/uploads/2026/07/iStock-1183889081.jpg",
           "language": "en"
         },
         {
-          "title": "Scientists Discover New Method for Cancer Drug Creation",
-          "description": "A team of researchers at the University of Warwick and Monash University has solved a puzzle that's stumped drug developers for decades: how bacteria",
-          "url": "https://www.miragenews.com/scientists-discover-new-method-for-cancer-drug-1702799/",
-          "source": {
-            "name": "Mirage News"
-          },
-          "publishedAt": "2026-07-01T10:14:00Z",
-          "image": "https://warwick.ac.uk/the-docking-domain-puzzle-pieces-acts-as-a-molecular-connector-between-two-separate-enzyme-systems.-credit-dr-munro-passmore-university-of-warwick.png",
-          "language": "en"
-        },
-        {
-          "title": "mRNA vaccines protect against severe infectious diseases, review confirms",
-          "description": "A comprehensive review confirms that mRNA vaccines effectively protect against severe infectious diseases like COVID-19, demonstrating safety across various populations. Discover the future potential of mRNA technology in medicine.",
-          "url": "https://health.economictimes.indiatimes.com/news/industry/mrna-vaccines-protect-against-severe-infectious-diseases-review-confirms/132112280",
-          "source": {
-            "name": "ET HealthWorld"
-          },
-          "publishedAt": "2026-07-01T10:13:45Z",
-          "image": "https://etimg.etb2bimg.com/thumb/msid-132112280,imgsize-107378,width-1200,height=627,overlay-ethealth,resizemode-75/industry/mrna-vaccines-protect-against-severe-infectious-diseases-review-confirms.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Sycamore Gap tree sapling stolen from castle grounds months after planting",
-          "description": "Cumbria police and National Trust appeal for information after young tree taken from Wray parkland and castle",
-          "url": "https://www.theguardian.com/environment/2026/jul/01/sycamore-gap-tree-sapling-stolen-castle-cumbria-national-trust",
+          "title": "Elle review - this Legally Blonde prequel recreates the genius of Reese Witherspoon’s performance",
+          "description": "The original star is behind this TV spin-off, and the casting of charismatic Lexi Minetree. Sadly, the tropey script and lack of campness mean it fails to really sparkle",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/jul/01/elle-review-legally-blonde-prequel-lexi-minetree-reese-witherspoon-prime-video",
           "source": {
             "name": "The Guardian"
           },
-          "publishedAt": "2026-07-01T10:12:00Z",
-          "image": "https://i.guim.co.uk/img/media/505fc4598e07049de4bea0dc35735f0e830c416b/314_0_2967_2374/master/2967.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7b9aa11e7f13c4530f48123979d91395",
+          "publishedAt": "2026-07-01T15:38:00Z",
+          "image": "https://i.guim.co.uk/img/media/d5bb183d60aff17a83d31a5a3c284805ce3e9b32/344_0_2370_1896/master/2370.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=70f9860040a0788d341b7219abb845b6",
           "language": "en"
         },
         {
-          "title": "‘It’s the logical move’: Sydney club tipped to make $1.1m play for Bulldogs star",
-          "description": "‘It’s the logical move’: Sydney club tipped to make $1.1m play for Bulldogs star",
-          "url": "https://www.foxsports.com.au/nrl/nrl-premiership/nrl-2026-eels-tipped-to-make-a-play-for-matt-burton-offer-him-a-1-million-contract-to-partner-mitch-moses-will-he-stay-at-bulldogs-rugby-league-news/news-story/f08d354918d3104d3398ebca3a0c0350",
+          "title": "Cork GP shares surprising fact about the contraceptive pill and cancer risk no one talks about",
+          "description": "Cork GP Dr Doireann O'Leary has taken to social media to discuss the risks and benefits associated with taking the contraceptive pill.",
+          "url": "https://rollercoaster.ie/family/the-pill-cancer-risk/",
           "source": {
-            "name": "Fox Sports"
+            "name": "rollercoaster.ie"
           },
-          "publishedAt": "2026-07-01T10:11:37Z",
-          "image": "https://content.api.news/v3/images/bin/eed22dedfad106656ab7d40569d3a94a",
+          "publishedAt": "2026-07-01T15:37:15Z",
+          "image": "https://rollercoaster.ie/wp-content/uploads/2026/07/shutterstock_2303306539.jpg",
           "language": "en"
         },
         {
-          "title": "The Strawberry Moon like you've never seen it before. Photographer uses clever trick to show full Moon drifting across the sky",
-          "description": "A view of the 2026 Strawberry Moon rising above the majestic palace of Jal Mahal in Jaipur, Rajasthan, India, using the lunar drift technique.",
-          "url": "https://www.skyatnightmagazine.com/news/strawberry-moon-2026-lunar-drift",
+          "title": "Bayeux tapestry tickets generate nine-hour online queues as public scramble for access",
+          "description": "Reports say up to 80,000 people waiting by mid-afternoon for chance to see historic artwork at British Museum",
+          "url": "https://www.theguardian.com/world/2026/jul/01/bayeux-tapestry-ticket-sales-british-museum-art",
           "source": {
-            "name": "BBC Sky at Night Magazine"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-07-01T10:10:40Z",
-          "image": "https://www.skyatnightmagazine.com/resources/content/9867779f-bbeb-44ef-a0d0-ca4e39424e99/b47e75a3-63f8-4bb7-bb47-8306c15d9f17/de096c3c-382b-4b80-acac-07f0870304fb/strawberry-moon-2026-lunar-drift.jpg?preview=false&platform=WEB&deviceId=77eac431-594e-4035-bfb7-aa9a4d730951&w=1200",
+          "publishedAt": "2026-07-01T15:37:00Z",
+          "image": "https://i.guim.co.uk/img/media/ced0a2f5fe9115d5d9589c308173af8cb60d8ec8/458_0_4585_3667/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e4764e35f1492486586f05f35258d77",
+          "language": "en"
+        },
+        {
+          "title": "Single-Fraction SBRT in Localized Prostate Cancer",
+          "description": "In a phase I/II trial reported in JAMA Oncology, Zilli et al found that single-fraction high-dose stereotactic body radiotherapy (SBRT) was associated with a high biochemical relapse–free survival rat...",
+          "url": "https://ascopost.com/news/july-2026/single-fraction-sbrt-in-localized-prostate-cancer/",
+          "source": {
+            "name": "The ASCO Post"
+          },
+          "publishedAt": "2026-07-01T15:35:47Z",
+          "image": "https://ascopost.com/media/14014930/prostate-cancer-bayer-image-215x120.jpg",
+          "language": "en"
+        },
+        {
+          "title": "IMF sees fiscal deficit higher than gov’t forecast",
+          "description": "The IMF sees the fiscal deficit at 5.3% this year, not 4.9% as forecast in the state budget, and that Israel's debt-to-GDP ratio will jump from 70% to 74% within four years due to high defense spending.",
+          "url": "https://en.globes.co.il/en/article-imf-sees-fiscal-deficit-higher-than-govt-forecast-1001547646",
+          "source": {
+            "name": "Globes - Israel Business News"
+          },
+          "publishedAt": "2026-07-01T15:35:05Z",
+          "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1686841271/direct/shutterstock_1276402954_rex9d2.jpg",
           "language": "en"
         }
       ]
