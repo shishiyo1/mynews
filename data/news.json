@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-02T16:49:48.252Z",
+  "updatedAt": "2026-07-02T19:25:50.851Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "NHK、美輪明宏さん追悼番組 ナレーションは高瀬耕造アナ BSでは『黒蜥蜴』再放送も",
+          "description": "ニュース｜　NHKでは、6月20日に歌手で俳優の美輪明宏さんが91歳で亡くなったことを受け、5日に追悼番組『美輪明宏　愛と祈りの歌』（前8：00）を届ける。　『ヨイトマケの唄』『愛の讃歌』『ふるさとの空の下に』『花～すべての人の心に花を～』『老女優は去りゆく』。紅白歌合戦やSONGS、NHKに残された聴く者の魂を揺さぶる歌唱を軸に、唯一無二の表現者が歌に込めた『愛』と『平和』のメッセージを見つめる。",
+          "url": "https://www.oricon.co.jp/news/2465228/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-07-02T07:16:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2466000/2465228/20260702_161252_p_o_78201096.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ソニーの低遅延ゲーミングイヤホンが30％引き!? プライムデー待ってる場合じゃない！",
+          "description": "フライングで安いぞ！間もなくプライムデーという、最もデカいセールを控えているAmazon。その前だから、今は買い時ではない。…みたいに思ったんですけど、ひとつ例外を見つけました。ソニーのゲーミングイヤホン「 INZONE Buds（WF-G",
+          "url": "https://www.gizmodo.jp/article/amazon-sony-inzone-buds/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-07-02T07:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/07/02/3a2f3ade-850e-4f2f-9dcb-0084af51670f/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "「勇気ある発言」報ステ・大越キャスター 与党の強引な皇室典範改正案に呈した“苦言”に賛同の声",
+          "description": "6月30日の臨時閣議で、政府は皇族数の確保に向けた皇室典範の改正案を決定。改正案には、女性皇族が結婚後も皇族の身分を保持できることや、旧宮家の男系男子を養子縁組で皇族とすることが盛り込まれたが、一部",
+          "url": "https://news.yahoo.co.jp/articles/38761c56608dcaf8c9c793ca809363d188066273",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-02T06:45:50Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260702-00000031-jisin-000-4-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "＜国内男子ゴルフ＞雨中の5連続バーディには恐怖も。大学先輩が尽力する試合で今野大喜が好発進",
+          "description": "＜国内男子ゴルフ＞雨中の5連続バーディには恐怖も。大学先輩が尽力する試合で今野大喜が好発進",
+          "url": "https://sports.yahoo.co.jp/official/detail/2026070200018-spnaviow",
+          "source": {
+            "name": "スポーツナビ"
+          },
+          "publishedAt": "2026-07-02T06:40:00Z",
+          "image": "https://sports-pctr.c.yimg.jp/dk/iwiz-sports/text/images/2026/0702/2026070200018-spnaviow_1782972692_view.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "橋本愛、佐藤二朗から “ハラスメント” 報道で集まる同情…『夫婦別姓刑事』集合写真で見せた “異変”、インスタでは完全スルーの不穏",
+          "description": "7月1日、女優の橋本愛が、俳優の佐藤二朗から “ハラスメント” を受けていたことが「文春オンライン」に報じられた。人気女優がトラブルに巻き込まれ、同情が寄せられている。\n　佐藤と橋本は、4月期の",
+          "url": "https://news.yahoo.co.jp/articles/ee101ab2b2e8c1ba7be3b88b0e37d04fa82004b8",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-02T05:45:45Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260702-00000026-flash-000-8-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "ASUS、2.5スロット厚でRTX 5090搭載のクリエイター向けビデオカード",
+          "description": "ASUS JAPANは、クリエイター向けブランド「ProArt」より、ビデオカード「ProArt GeForce RTX 5090 OC Edition」(PROART-RTX5090-O32G)を7月3日に発売する。価格はオープンプライスで、実売予想価格は79万800円前後の見込み。",
+          "url": "https://pc.watch.impress.co.jp/docs/news/2121878.html",
+          "source": {
+            "name": "PC Watch"
+          },
+          "publishedAt": "2026-07-02T05:42:28Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2121/878/001.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【速報】虐待し極度に痩せ衰弱した2歳長女を”放置”し死亡させた罪 両親が起訴内容認める「間違いありません」 和歌山地裁",
+          "description": "和歌山市内の自宅で2歳の娘に虐待を加えたうえ、衰弱した状態を放置し死亡させたとして起訴された両親の裁判が和歌山地方裁判所で始まり、2人は起訴内容を認めました。\n保護責任者遺棄致死の罪に問われているのは平晴流被告（26）と妻の菜々美被告（26）です。\n２人は、長女の流菜ちゃん（当時2歳）に暴力を振るうなどして虐待したうえ、流菜ちゃんが極度に痩せていることや下あごをけがして自分で食事をとることが困難なことを認識しながら、十分な食事を与えなかった上、適切な治療を受けさせずに去年7月に死亡させた保護責任者遺棄致死の罪に問われています。\n2人の裁判がきょう＝2日に始まり、裁判官から起訴内容に間違いないか問われると、晴流被告と菜々美被告は2人とも「間違いありません」と述べ起訴内容を認めました。\n■菜々美被告の弁護人「幼少期に容姿に関する暴言受ける」　虐待の経緯について”生い立ち”に触れる\n一方、菜々美被告の弁護人は生い立ちなどについて指摘。\n幼少期に受けた容姿への暴言で自分の顔が恥ずかしいと思うようになったうえ、流菜ちゃん出産後、「長男（兄）はかわいい、流菜ちゃんは菜々美被告に似ている」と言われたことから、フラッシュバックが起きマスクが手放せなくなったうえ、産後うつになったなどと明らかにしました。\nそのうえで、虐待のほとんどは菜々美被告によるものだが、保護責任者遺棄致死罪の責任については夫婦で負うべきと主張。\n法廷内で菜々美被告はマスク姿で涙を拭いました。\n■晴流被告の弁護人「成育歴を考慮すべき」など主張　「ネグレクト状態で育った」\nまた晴流被告の弁護人も生い立ちについて指摘。\n両親の離婚などでネグレクト状態で育ち、「食べ物は祖父母からもらったり、万引きで得たりした」「ごみ屋敷のようなアパートで一人で暮らさざるを得ない時期があった」などと明らかにしました。\nそのうえで、適切な保護に至らなかったことについて、晴流被告の成育歴を考慮することや、暴行や食事制限はほとんど菜々美被告によるもの、止められなかった理由などを検討するべきと主張しました。",
+          "url": "https://www.ktv.jp/news/articles/?id=28087",
+          "source": {
+            "name": "ktv.jp"
+          },
+          "publishedAt": "2026-07-02T04:59:54Z",
+          "image": "https://www.ktv.jp/news/data/images/28087_01.jpg",
+          "language": "ja"
+        },
         {
           "title": "第1日は中止 競技は54H短期決戦へ－資生堂・JAL レディスオープン",
           "description": "JLPGAツアー2026シーズン第17戦『資生堂・JAL レディスオープン』（賞金総額1億2,000万円、優勝賞金2,1…",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-07-02T04:10:00Z",
           "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/05/1748416652_coca-scaled.jpg",
           "language": "ja"
-        },
-        {
-          "title": "アメリカ、北米貿易協定の16年延長を拒否 現在の内容では応じないと",
-          "description": "アメリカは1日、北米3カ国で構成される貿易協定「米・メキシコ・カナダ協定（USMCA）」について、現行の形では応じられないとして、16年間の延長を見送った。米政府高官が明らかにした。",
-          "url": "https://www.bbc.com/japanese/articles/cly09dw31l5o",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-07-02T03:18:59Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/a4da/live/64317d10-757e-11f1-b1b0-0d044d289b5c.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "キーウで激しい爆発、ゼレンスキー氏がロシアの「大規模」攻撃に警鐘を鳴らした数時間後",
-          "description": "ウクライナの首都キーウで1日夜から2日未明にかけ、激しい爆発が相次いだ。ウクライナのゼレンスキー大統領はこの数時間前、情報機関のデータからロシアが「大規模」な夜間攻撃を計画していることがうかがえると警鐘を鳴らしていた。",
-          "url": "https://www.cnn.co.jp/world/35249902.html",
-          "source": {
-            "name": "CNN.co.jp"
-          },
-          "publishedAt": "2026-07-02T03:13:00Z",
-          "image": "https://www.cnn.co.jp/storage/2026/07/02/c68292b243f483ed700f8581857dcacd/gettyimages-2283702238.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "約150万円の2画面ゲーミングノートPC「ROG Zephyrus Duo（2026）」を試す 妥協なき最上級モデルのロマン（1/4 ページ）",
-          "description": "ASUSの「ROG Zephyrus Duo（2026）」は、有機ELの2画面と分離型キーボードを備えたフラグシップのゲーミングノートPCだ。各種ベンチマークテストで実力を検証した。 (1/4)",
-          "url": "https://www.itmedia.co.jp/pcuser/articles/2607/02/news005.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-07-02T03:00:00Z",
-          "image": "https://image.itmedia.co.jp/pcuser/articles/2607/02/cover_news005.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "5日頃まで九州で大雨の恐れ 7日頃から関東以西で本格的な暑さ 2週間天気予報",
-          "description": "7月3日(金)〜5日(日)頃にかけては梅雨前線の影響で、九州から東北にかけてぐずついた天気が続き、西日本では大雨となる恐れがあります。その後は次第に太平洋高気圧の勢力が強まり、関東から九州では晴れ間が広がるでしょう。最高気温は30℃以上の真夏日が続出し、35℃以上の猛暑日になる所もあるでしょう。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/07/02/39566.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-07-02T02:36:19Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/395/39566/main/20260702102010/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "スコットランドの人工島、湖底に眠る土台は5000年以上前のものだった|au Webポータル",
-          "description": "2026年5月25日の記事を編集して再掲載しています。スコットランド、ルイス島のボルガステイル湖には、「クラノグ」と呼ばれる小さな人工島があります。木や石、枝などを積み重ねて作られたこの島は以前から知",
-          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260702_1782961632082490",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-07-02T02:35:00Z",
-          "image": "https://portal.st-img.jp/thumb/5751f8d661830a7271ce4adc54524ec2_1782961632_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "先制弾バログンが一発退場もアメリカ、日韓大会以来の決勝T1回戦突破!! ボスニア・ヘルツェゴビナはジェコ負傷交代で32強敗退",
-          "description": "[7.1 W杯決勝T1回戦 アメリカ 2-0 ボスニア・ヘルツェゴビナ]　アメリカ代表は1日、北中米ワールドカップ決勝トーナメント1回戦でボスニア・ヘルツェゴビナ代表を2-0で破り、2002年の日韓大会以来となる決勝トー...",
-          "url": "https://web.gekisaka.jp/news/worldcup/detail/?454775-454775-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-07-02T02:07:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/455000/454775/news_454775_1.jpg?time=20260702110742",
-          "language": "ja"
-        },
-        {
-          "title": "丸亀製麺初の冷やしスイーツ『丸亀うどんプリン』が衝撃デビューへ！ 一足先に食べてみたら「プリンじゃない何か」だった",
-          "description": "2026年7月7日『丸亀うどんプリン』が衝撃のデビューを果たす。商品名からお察しの通り、丸亀製麵がお届けする初の冷たいスイーツ、それが『丸亀うどんプリン』だ。 いま …",
-          "url": "https://rocketnews24.com/2026/07/02/2777567/",
-          "source": {
-            "name": "ロケットニュース24"
-          },
-          "publishedAt": "2026-07-02T02:00:38Z",
-          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_0436.jpg?w=1200&h=630&crop=1",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Hardware store worker claims trial to raping sister",
-          "description": "The 25-year-old also claims trial to a charge of sexually assaulting the 16-year-old girl.",
-          "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/02/hardware-store-worker-claims-trial-to-raping-sister",
+          "title": "First MotoGP rookie officially confirmed on 2027 grid",
+          "description": "Dani Holgado is the first rookie confirmed for MotoGP's new 850cc era after earning a Gresini Ducati seat for 2027.",
+          "url": "https://www.crash.net/motogp/news/1099966/1/first-motogp-rookie-officially-confirmed-2027-grid",
           "source": {
-            "name": "Free Malaysia Today"
+            "name": "Crash.net"
           },
-          "publishedAt": "2026-07-02T04:49:28Z",
-          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2024/09/2717a29c-kompleks-mahkamah-kuala-terengganu-130924-4.webp",
+          "publishedAt": "2026-07-02T07:25:34Z",
+          "image": "https://www.crash.net/sites/default/files/2026-07/gng_1325496_hires_1600x900.jpg?width=1600&aspect_ratio=16:9",
           "language": "en"
         },
         {
-          "title": "Sunshine Coast man charged over alleged offshore child abuse offences",
-          "description": "A Sunshine Coast man has faced court today after being charged by the AFP with child abuse offences, including the alleged live online sexual abuse of children in the Philippines.",
-          "url": "https://www.abc.net.au/news/2026-07-02/sunshine-coast-man-charged-alleged-offshore-child-abuse/106869624",
+          "title": "Man United transfer news LIVE - Felix Nmecha chase, Sandro Tonali latest, Marcus Rashford update",
+          "description": "The latest Manchester United transfer news with updates on Mateus Fernandes, Ayyoub Bouaddi, Aurelien Tchouameni, Felix Nmecha, Marcus Rashford, Alex Scott and more",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-live-34222062",
           "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+            "name": "Manchester Evening News"
           },
-          "publishedAt": "2026-07-02T04:48:43Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/729334658a6cb00f02a832aaacb39f5b?impolicy=wcms_watermark_news&cropH=663&cropW=1179&xPos=0&yPos=4&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-07-02T07:24:54Z",
+          "image": "https://i2-prod.manchestereveningnews.co.uk/article34222073.ece/ALTERNATES/s1200d/0_GettyImages-2283382917.jpg",
           "language": "en"
         },
         {
-          "title": "Microsoft brags Copilot key has main character energy on Windows 11, but you can soon remap it",
-          "description": "Microsoft called the Copilot key a fix for everything in a new ad, weeks after admitting the key hurts productivity. Facebook did not agree.",
-          "url": "https://www.windowslatest.com/2026/07/02/microsoft-brags-copilot-key-has-main-character-energy-on-windows-11-but-you-can-soon-remap-it/",
+          "title": "US Jobs Report: Is the Stock Market Setting Up for Trouble Ahead?",
+          "description": "Will the US jobs report break the stock market if it spells more trouble for already beaten-down consumers and threatens economic growth?",
+          "url": "https://www.tastylive.com/news-insights/us-jobs-report-is-the-stock-market-setting-up-for-trouble-ahead-",
           "source": {
-            "name": "Windows Latest"
+            "name": "tastylive"
           },
-          "publishedAt": "2026-07-02T04:46:00Z",
-          "image": "https://www.windowslatest.com/wp-content/uploads/2026/07/Microsoft-called-the-Copilot-key-a-fix-for-everything-weeks-after-admitting-the-key-hurts-productivity.jpeg",
+          "publishedAt": "2026-07-02T07:24:40Z",
+          "image": "https://images.contentstack.io/v3/assets/blt40263f25ec36953f/blt50a453ce1fe65bf9/6a46198d4d9e8e442cc04003/Clipboard_07-02-2026_32_V2.png?width=1200&height=628&disable=upscale&fit=bounds#time=1782979372",
           "language": "en"
         },
         {
-          "title": "All Blacks select Ruben Love at flyhalf, 2 new caps in Nations Championship lineup to face France",
-          "description": "New All Blacks coach Dave Rennie has chosen five-test flyhalf Ruben Love in his starting lineup for New Zealand's Nations Championship opener against France at Christchurch. In his first All Blacks lineup as head coach, Rennie preferred Love at No. 10 over veterans Beauden Barrett and Damian McKenzie. Love outplayed both of those players during the recent Super Rugby playoffs and offers a point of difference in his playing style.",
-          "url": "https://sports.yahoo.com/articles/blacks-select-ruben-love-flyhalf-044639234.html",
+          "title": "Lionel Messi got away with it! Furious USMNT left baffled by Folarin Balogun World Cup red card that mirrored unpunished challenge made by Argentina captain",
+          "description": "Alexi Lalas and Mauricio Pochettino questioned Folarin Balogun's World Cup red card after comparing it to an unpunished challenge by Lionel Messi.",
+          "url": "https://www.goal.com/en-ke/lists/argentina-lionel-messi-usmnt-folarin-balogun-red-card-world-cup/blt7d53a2fe3785c070",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-07-02T04:46:00Z",
-          "image": "https://s.yimg.com/ny/api/res/1.2/Jqg1V9bcUlCnJhmgNRorew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/30550c0d1a125d96779508173b8d65e1",
+          "publishedAt": "2026-07-02T07:24:32Z",
+          "image": "https://assets.goal.com/images/v3/getty-2284257487/crop/MM5DEOJQGU5DCNRTGQ5G433XMU5DAORRHAZA====/GettyImages-2284257487.jpg",
           "language": "en"
         },
         {
-          "title": "Juggun Kazim slams tourists for ruining Nathia Gali",
-          "description": "Pakistani-Canadian actor and television presenter Juggun Kazim, who is currently on a vacation in Nathia Gali with her family, expressed deep sorrow over the state of the hiking trails.On Tuesday afternoon, the television host took to...",
-          "url": "https://www.geo.tv/latest/671181-juggun-kazim-slams-tourists-for-ruining-nathia-gali",
+          "title": "Lionel Messi got away with it! Furious USMNT left baffled by Folarin Balogun World Cup red card that mirrored unpunished challenge made by Argentina captain",
+          "description": "Alexi Lalas and Mauricio Pochettino questioned Folarin Balogun's World Cup red card after comparing it to an unpunished challenge by Lionel Messi.",
+          "url": "https://www.goal.com/en-gh/lists/argentina-lionel-messi-usmnt-folarin-balogun-red-card-world-cup/blt7d53a2fe3785c070",
           "source": {
-            "name": "Geo News"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-07-02T04:46:00Z",
-          "image": "https://www.geo.tv/assets/uploads/updates/2026-07-02/l_671181_095417_updates.jpg",
+          "publishedAt": "2026-07-02T07:24:32Z",
+          "image": "https://assets.goal.com/images/v3/getty-2284257487/crop/MM5DEOJQGU5DCNRTGQ5G433XMU5DAORRHAZA====/GettyImages-2284257487.jpg",
           "language": "en"
         },
         {
-          "title": "immigration protesters in SA kill Bashiru Isak for Khayelitsha Cape Town.",
-          "description": "Ghana govment confam di killing of 40-year-old citizen during 30 June South Africa anti-immigration protests.",
-          "url": "https://www.bbc.com/pidgin/articles/c6215455g9lo",
+          "title": "Lionel Messi got away with it! Furious USMNT left baffled by Folarin Balogun World Cup red card that mirrored unpunished challenge made by Argentina captain",
+          "description": "Alexi Lalas and Mauricio Pochettino questioned Folarin Balogun's World Cup red card after comparing it to an unpunished challenge by Lionel Messi.",
+          "url": "https://www.goal.com/en-ug/lists/argentina-lionel-messi-usmnt-folarin-balogun-red-card-world-cup/blt7d53a2fe3785c070",
+          "source": {
+            "name": "Goal.com"
+          },
+          "publishedAt": "2026-07-02T07:24:32Z",
+          "image": "https://assets.goal.com/images/v3/getty-2284257487/crop/MM5DEOJQGU5DCNRTGQ5G433XMU5DAORRHAZA====/GettyImages-2284257487.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Dance Coach Keno 53 critically ill, hospitalized as colleagues appeal for financial support",
+          "description": "Kings 256 dance coach Keno 53 has been hospitalized in critical condition at Bukoto Hospital. Fellow dancer Ritah Dancehall has appealed to the public for financial support to aid his treatment.",
+          "url": "https://mbu.ug/2026/07/02/kings-256-dance-coach-keno-53-critically-ill-hospitalized-as-colleagues-appeal-for-financial-support/",
+          "source": {
+            "name": "mbu.ug"
+          },
+          "publishedAt": "2026-07-02T07:24:14Z",
+          "image": "https://mbu.ug/wp-content/uploads/2026/07/Keno-53-2-edited.jpg",
+          "language": "en"
+        },
+        {
+          "title": "High Court strikes down State website-blocking powers in Cybercrimes Act",
+          "description": "Judge warns law enabled prior restraint without court oversight.",
+          "url": "https://www.the-star.co.ke/news/2026-07-02-court-strikes-down-state-powers-to-block-websites",
+          "source": {
+            "name": "the-star.co.ke"
+          },
+          "publishedAt": "2026-07-02T07:23:34Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/07/52dd8343-49ed-43a4-ba68-a6d278b9f1d9.jpg?1782984889313",
+          "language": "en"
+        },
+        {
+          "title": "Goliath wa Bungoma’s Work Bestie Patrick Riang’a Quits Job",
+          "description": "Kenyans react as Patrick Riang’a, former Car Soko operations manager, bids farewell with heartfelt gratitude to his colleagues and friend Goliath wa Bungoma.",
+          "url": "https://www.tuko.co.ke/entertainment/celebrities/631315-goliath-wa-bungomas-work-bestie-patrick-rianga-quits-job/",
+          "source": {
+            "name": "Tuko News"
+          },
+          "publishedAt": "2026-07-02T07:23:07Z",
+          "image": "https://cdn.tuko.co.ke/images/1200x675/ac54ca2c45d62d89.jpeg?v=1",
+          "language": "en"
+        },
+        {
+          "title": "Victims of forced adoption to get formal apology after years campaigning",
+          "description": "The practice saw thousands of babies taken from their mothers between 1949 and 1976.",
+          "url": "https://www.bbc.com/news/articles/c20yq332018o",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-07-02T04:45:18Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_pidgin/bf89/live/a7dc3930-75a4-11f1-b976-0b9c15b0ccfc.png",
-          "language": "en"
-        },
-        {
-          "title": "Oscar Piastri and Max Verstappen at centre of F1 driver change speculation",
-          "description": "F1's rumour mill has been in overdrive in recent times about Oscar Piastri's future at McLaren, with his boss having to hose down suggestions the Australian will be driving anything other than a Papaya-coloured F1 car in 2027.",
-          "url": "https://www.abc.net.au/news/2026-07-02/oscar-piastri-max-verstappen-driver-changes-f1-speculation/106864306",
-          "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
-          },
-          "publishedAt": "2026-07-02T04:44:45Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/0d6b313f57a8515661f5f0a84167233d?impolicy=wcms_watermark_news&cropH=2226&cropW=3958&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-          "language": "en"
-        },
-        {
-          "title": "Want to own stocks of S’pore banks? It will cost less to get started from Oct 5",
-          "description": "Discover how SGX is reducing board lot sizes to improve accessibility and affordability for retail investors in Singapore's stock market. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/business/companies-markets/want-to-own-stocks-of-spore-banks-it-will-cost-less-to-get-started-from-oct-5",
-          "source": {
-            "name": "The Straits Times"
-          },
-          "publishedAt": "2026-07-02T04:43:33Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/88ba1388c07b444f101e6ab0c92d42f939097b0e90c687b05581e85107697df7",
-          "language": "en"
-        },
-        {
-          "title": "Astronomers discover Jupiter-sized ‘super puff’ planets lighter than candy floss",
-          "description": "Astronomers have discovered two giant 'super puff' exoplanets that are about the size of Jupiter but astonishingly low in density.",
-          "url": "https://www.ewn.co.za/2026/07/02/astronomers-discover-jupiter-sized-super-puff-planets-lighter-than-candy-floss",
-          "source": {
-            "name": "EWN"
-          },
-          "publishedAt": "2026-07-02T04:43:00Z",
-          "image": "https://media-cache.primedia-service.com/media/bexbime1/super-puff-exoplanets-candy-floss-planets-jupiter-size-space-discovery.png?width=1200&height=630",
-          "language": "en"
-        },
-        {
-          "title": "Environmental group urges tarakihi fishing ban amid steep stock decline",
-          "description": "A staple of fish and chips and home-cooked meals could be on the brink of extinction around New Zealand. The Environmental Defence Society (EDS) has released...",
-          "url": "https://www.nzherald.co.nz/nz/environmental-group-urges-tarakihi-fishing-ban-amid-steep-stock-decline/B2FZQ42BUNAXTCQOSGLLGYLE6U/",
-          "source": {
-            "name": "NZ Herald"
-          },
-          "publishedAt": "2026-07-02T04:42:49Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/4SXUNFEFY2BHGPRBZF6BLDXPEE.jpg?auth=cc0e4444bc31a2ab6a5acd89434b6ff4ec4c42696ea31690ca7fd0172e6109b7&width=1200&height=675&quality=70&focal=947%2C524&smart=false",
+          "publishedAt": "2026-07-02T07:22:56Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/602d/live/bc8c02a0-75ec-11f1-a627-714adb4eed6e.png",
           "language": "en"
         }
       ]
