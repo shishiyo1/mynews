@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-02T22:07:39.418Z",
+  "updatedAt": "2026-07-03T03:23:45.002Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "星野源、書き下ろし新曲がTBS火10「君の好きは無敵」主題歌に決定 初回放送で初解禁",
-          "description": "TBSでは、7月14日よる10時から、松本若菜が主演を務め、佐野勇斗（M!LK）が共演する『君の好きは無敵』がスタート。この度、音楽家で俳優の星野源が主題歌を担当することが決定した。",
-          "url": "https://mdpr.jp/drama/detail/4807916",
+          "title": "【●虎将トーク】阪神・藤川監督、下村は「力強くやってくれた」プロ初打席は代打で三振百崎「悔しかったでしょうから、また積んでもらう」チーム首位陥落…",
+          "description": "（セ・リーグ、阪神2ー3中日＝延長十一回、13回戦、阪神10勝3敗、2日、甲子園）阪神が延長戦を落として同率首位から陥落した。2ー2の十一回に登板した6番手・及川雅貴投手（25）が2死一、三塁から代打阿部寿樹内野手（36）に決勝中前打を許…",
+          "url": "https://www.sanspo.com/article/20260702-ISJOWR6ERBOVDN3KIPHBTVH5PA/?outputType=theme_tigers",
           "source": {
-            "name": "モデルプレス"
+            "name": "サンスポ"
           },
-          "publishedAt": "2026-07-02T09:00:00Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/G0Su/nm/G0Sut5ofE_8oCq0WTyBN7WfmZA9AyvuJIGbubt1G234.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "publishedAt": "2026-07-02T14:00:18Z",
+          "image": "https://www.sanspo.com/resizer/v2/56JTM6PURVKB3DQW74JMJIM424.jpg?auth=54acd10e3e20e090dc5dd28919c03c6aea409867494b3345a17f2409ebfa2e4d&quality=50&focal=1721%2C1899&width=1200&height=675",
           "language": "ja"
         },
         {
-          "title": "梅雨明け前から猛暑日・熱帯夜も 昼夜を問わず熱中症対策を 1か月予報",
-          "description": "気象庁は今日2日、最新の1か月予報を発表しました。この先1か月、北日本から西日本では気温が平年より高く、梅雨明け前から猛暑日や熱帯夜となる所がありそうです。昼夜を問わずエアコンを適切に使用し、こまめに水分補給をするなど、熱中症対策を万全にしてお過ごしください。",
-          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/07/02/39572.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-07-02T08:50:28Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/395/39572/main/20260702152952/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【長谷川健太の目】「結果は負け」。ブラジルとの差は縮まっているのか？「鎌田や佐野も世界レベルだが」（フットボールチャンネル）",
-          "description": "サッカー日本代表はFIFAワールドカップ2026（北中米W杯）決勝トーナメント・ベスト32でブラジル代表と対戦し、1-2で敗れた。先制しながらも勝利には届かなかった一戦を経て、日本代表とブラジル代",
-          "url": "https://news.yahoo.co.jp/articles/9f5e642149230fdb309c34950d321b18b1f66d8e",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-02T08:30:47Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260702-00010019-footballc-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "（まとめ）日経平均は1,741円安の68,733円で4営業日ぶりに反落 今晩は雇用統計の発表",
-          "description": "東京市場まとめ1.概況日経平均は435円安の70,039円と下落して取引を開始しました。前日の米国市場では、人工知能（AI）・半導体関連銘柄が大幅安となったことが波及しました。前場は下げ幅を拡大する展開となり、9時44分にはこの日の安値である1,798円安の68,676円をつ....",
-          "url": "https://media.monex.co.jp/articles/-/29682",
-          "source": {
-            "name": "マネクリ"
-          },
-          "publishedAt": "2026-07-02T07:48:00Z",
-          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ダブル台風発生へ 台風9号は今後「非常に強い」勢力に発達 動向に注意",
-          "description": "今日2日は新たに台風9号が発生し、今後「非常に強い」勢力に発達する見込みです。また、今後別の台風も発生する予想です。台風は沖縄など日本に影響を及ぼすおそれもあり、今後の動向に注意が必要です。",
-          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/07/02/39568.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-07-02T07:47:30Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/395/39568/main/20260702163458/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "NHK、美輪明宏さん追悼番組 ナレーションは高瀬耕造アナ BSでは『黒蜥蜴』再放送も",
-          "description": "ニュース｜　NHKでは、6月20日に歌手で俳優の美輪明宏さんが91歳で亡くなったことを受け、5日に追悼番組『美輪明宏　愛と祈りの歌』（前8：00）を届ける。　『ヨイトマケの唄』『愛の讃歌』『ふるさとの空の下に』『花～すべての人の心に花を～』『老女優は去りゆく』。紅白歌合戦やSONGS、NHKに残された聴く者の魂を揺さぶる歌唱を軸に、唯一無二の表現者が歌に込めた『愛』と『平和』のメッセージを見つめる。",
-          "url": "https://www.oricon.co.jp/news/2465228/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-07-02T07:16:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2466000/2465228/20260702_161252_p_o_78201096.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ソニーの低遅延ゲーミングイヤホンが30％引き!? プライムデー待ってる場合じゃない！",
-          "description": "フライングで安いぞ！間もなくプライムデーという、最もデカいセールを控えているAmazon。その前だから、今は買い時ではない。…みたいに思ったんですけど、ひとつ例外を見つけました。ソニーのゲーミングイヤホン「 INZONE Buds（WF-G",
-          "url": "https://www.gizmodo.jp/article/amazon-sony-inzone-buds/",
+          "title": "ウェッブ宇宙望遠鏡がまた記録更新。史上最も遠い銀河（しかも超宇宙初期）の画像が公開",
+          "description": "2025年6月2日の記事を編集して再掲載しています。モザイクのようなこちらの画像は、ジェームズ・ウェッブ宇宙望遠鏡（JWST）がとらえたこれまでで最も遠くにある銀河の姿です。この銀河が、ビッグバンからわずか2億8000万年後に輝いていたこと",
+          "url": "https://www.gizmodo.jp/article/image-reveals-the-most-distant-galaxy-ever-seen-from-just-280-million-years-after-the-big-bang-ylv/",
           "source": {
             "name": "Gizmodo"
           },
-          "publishedAt": "2026-07-02T07:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/07/02/3a2f3ade-850e-4f2f-9dcb-0084af51670f/original.jpg?w=1200&h=630",
+          "publishedAt": "2026-07-02T14:00:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2025/05/28/MoM_webb-896x597.jpeg?w=1200&h=630",
           "language": "ja"
         },
         {
-          "title": "「勇気ある発言」報ステ・大越キャスター 与党の強引な皇室典範改正案に呈した“苦言”に賛同の声",
-          "description": "6月30日の臨時閣議で、政府は皇族数の確保に向けた皇室典範の改正案を決定。改正案には、女性皇族が結婚後も皇族の身分を保持できることや、旧宮家の男系男子を養子縁組で皇族とすることが盛り込まれたが、一部",
-          "url": "https://news.yahoo.co.jp/articles/38761c56608dcaf8c9c793ca809363d188066273",
+          "title": "【ＮＹ為替オープニング】米雇用統計に注目｜FX・為替ニュース",
+          "description": "◇重要イベント・ポイント ・欧・ユーロ圏失業率(5月) 6.3％ 6.3％ ・米・新規失業保険申請件数(先週) 21.5万件 ・米・6月雇用統計、 2日のNY外為市場で米雇用統計に注目が集まる。米非",
+          "url": "https://zai.diamond.jp/articles/-/491588",
+          "source": {
+            "name": "ザイFX！"
+          },
+          "publishedAt": "2026-07-02T12:37:00Z",
+          "image": "https://zai.diamond.jp/mwimgs/9/e/-/img_9e47ac79ce2cf237f05d70fc22e16d45110540.png",
+          "language": "ja"
+        },
+        {
+          "title": "『リズム天国 ミラクルスターズ』映像と音声のタイミングが合わないと感じるプレイヤー向けに確認ポイントが公開",
+          "description": "公式サイトのサポート情報では、より詳しく対処方法が案内されています。",
+          "url": "https://www.gamespark.jp/article/2026/07/02/168743.html",
+          "source": {
+            "name": "Game*Spark"
+          },
+          "publishedAt": "2026-07-02T12:30:03Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1153327.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『ポケGO』含むNianticゲーム事業を買収したスコープリー、Studio AuKnowへの戦略的出資を表明。トップクリエイターとの協業を強化し、日本市場への長期的な投資姿勢を示す",
+          "description": "スコープリーが、ゲームスタジオ・Studio AuKnowへ戦略的出資を行うと発表。スコープリーは、Nianticのゲーム事業を買収したことでも知られるグローバル企業。Studio AuKnowは『ウマ娘 プリティーダービー』でコンテンツディレクターを務めた秋津琢磨氏が2025年に設立したスタジオ。",
+          "url": "https://www.famitsu.com/article/202607/80188",
+          "source": {
+            "name": "famitsu.com"
+          },
+          "publishedAt": "2026-07-02T12:30:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/80188/thumbnail_AlCh.jpg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "なんと過去最大！iPhone 18 Pro Maxの電池容量、5425mAhになりそう？",
+          "description": "Apple次期フラッグシップの正確なバッテリー容量とされる数字が流出したと、Wccftechなどが伝えています。情報源はX上のリーカーfireuniverse（@fireuniverse8）氏で、大元はWeibo。流出したのはiPhone 18 Pro Maxで、eSIM専用モデ...",
+          "url": "https://smhn.info/202607-iphone-18-pro-max-esim-5425mah-battery-leak",
+          "source": {
+            "name": "すまほん!!"
+          },
+          "publishedAt": "2026-07-02T11:27:00Z",
+          "image": "https://smhn.info/wp-content/uploads/2026/06/iphone-18-pro-red.png",
+          "language": "ja"
+        },
+        {
+          "title": "【日本ハム】２軍施設の移転場所が北海道・恵庭市に内定 決め手は約46ヘクタールの広大な敷地",
+          "description": "日本ハムとファイターズ　スポーツ＆エンターテイメント（FSE）は2日、北海道内で計画を進めている新たな2軍施設の移転場所について、1軍本拠地のエスコンフィール… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/baseball/news/202607020001195.html",
+          "source": {
+            "name": "日刊スポーツ"
+          },
+          "publishedAt": "2026-07-02T11:07:00Z",
+          "image": "https://www.nikkansports.com/baseball/news/img/202607020001195-w500_0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ソニー、PS5 / PS4のディスク版ゲーム発売は2027年で終了―以降はダウンロード版のみ用意 「購買トレンドの変化を踏まえ」",
+          "description": "2028年1月以降に発売されるPlayStation向け新作ゲームは、ディスク版の生産を終了しデジタル配信のみとなる。",
+          "url": "https://www.gamebusiness.jp/article/2026/07/02/27373.html",
+          "source": {
+            "name": "GameBusiness.jp"
+          },
+          "publishedAt": "2026-07-02T10:45:03Z",
+          "image": "https://www.gamebusiness.jp/imgs/ogp_f/188180.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "本田圭佑の“次期日本代表監督立候補”について日本代表技術委員長がニヤリ「将来的に目指していただきたいタレントの一人」",
+          "description": "北中米ワールドカップから帰国した日本代表の山本昌邦技術委員長が、X(旧ツイッター)で元日本代表MF本田圭佑が次期監督に名乗り出たことについて見解を述べた。　本田は2日に更新したX(@kskgroup2017)で「賛否...",
+          "url": "https://web.gekisaka.jp/news/japan/detail/?454811-454811-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-07-02T10:25:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/455000/454811/news_454811_1.jpg?time=20260702193120",
+          "language": "ja"
+        },
+        {
+          "title": "【日本ハム】史上初4者連続本塁打「シンジラレナーイ」 ネット騒然「実況解説がサヨナラみたい」",
+          "description": "北海道日本ハムファイターズが打ち立てたプロ野球の新記録に、ファンが騒然としている。初回先頭打者から4者連続のホームランを放ち、「意味分からん」と驚きの声が相次いだ。\n7月2日にエスコンフィールドで",
+          "url": "https://news.yahoo.co.jp/articles/3486b0b8f9aedfe91cee6ef5bd3c79a354c73df5",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-07-02T06:45:50Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260702-00000031-jisin-000-4-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "＜国内男子ゴルフ＞雨中の5連続バーディには恐怖も。大学先輩が尽力する試合で今野大喜が好発進",
-          "description": "＜国内男子ゴルフ＞雨中の5連続バーディには恐怖も。大学先輩が尽力する試合で今野大喜が好発進",
-          "url": "https://sports.yahoo.co.jp/official/detail/2026070200018-spnaviow",
-          "source": {
-            "name": "スポーツナビ"
-          },
-          "publishedAt": "2026-07-02T06:40:00Z",
-          "image": "https://sports-pctr.c.yimg.jp/dk/iwiz-sports/text/images/2026/0702/2026070200018-spnaviow_1782972692_view.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "橋本愛、佐藤二朗から “ハラスメント” 報道で集まる同情…『夫婦別姓刑事』集合写真で見せた “異変”、インスタでは完全スルーの不穏",
-          "description": "7月1日、女優の橋本愛が、俳優の佐藤二朗から “ハラスメント” を受けていたことが「文春オンライン」に報じられた。人気女優がトラブルに巻き込まれ、同情が寄せられている。\n　佐藤と橋本は、4月期の",
-          "url": "https://news.yahoo.co.jp/articles/ee101ab2b2e8c1ba7be3b88b0e37d04fa82004b8",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-02T05:45:45Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260702-00000026-flash-000-8-view.jpg?exp=10800",
+          "publishedAt": "2026-07-02T10:18:24Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260702-00010010-sporting-000-1-view.jpg?exp=10800",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Best Marshall deal: Save $150 on Marshall Monitor III headphones at Amazon",
-          "description": "As of July 2, the Marshall Monitor III headphones are down to their lowest-ever price at Amazon of $229.99. Compared to their list price of $379.99, that's a 39% discount.",
-          "url": "https://mashable.com/tech/july-2-marshall-monitor-iii-headphones-deal",
+          "title": "Born without arms, shaped by war: Ukrainian Paralympian's journey to Maccabiah",
+          "description": "Paralympic swimmer Yaroslav Semenenko, who fled Ukraine after the outbreak of war and now lives in Finland, is competing in Israel’s Maccabiah Games; born without arms, the multiple medalist says sport is his purpose and his life’s driving force",
+          "url": "https://www.ynetnews.com/sport/article/hyo002uq7zl",
           "source": {
-            "name": "Mashable"
+            "name": "Ynetnews"
           },
-          "publishedAt": "2026-07-02T10:07:40Z",
-          "image": "https://helios-i.mashable.com/imagery/articles/04XTvdG2pM2NKCMNRtt1mRH/hero-image.fill.size_1200x675.v1782984366.jpg",
+          "publishedAt": "2026-07-02T15:23:13Z",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/01/SkTn3Jm7zx/SkTn3Jm7zx_287_295_1518_855_0_large.jpg",
           "language": "en"
         },
         {
-          "title": "Prince Harry Is Paying for a Deal He Chose 6 Years Ago - Expert",
-          "description": "Prince Harry has reportedly been paying for a deal he chose in 2020. According to an expert, his taxpayer-funded protection allegedly downgraded when he decided to step down as a working royal six yea...",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/prince-harry-paying-deal-chose-100644101.html",
+          "title": "Scientists Recover Ancient Human DNA from Cave Walls",
+          "description": "For the first time, researchers have extracted ancient human DNA directly from the walls of a cave.",
+          "url": "https://www.sci.news/othersciences/anthropology/ancient-human-dna-cave-walls-14889.html",
           "source": {
-            "name": "yahoo.com"
+            "name": "Sci.News"
           },
-          "publishedAt": "2026-07-02T10:06:44Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/d4b8045efaf76e8fca99f162c11d0c4a885ff049c747a03ff4eb6b8ef3c48b74/lightyear_networkapi/resizefill_w640_h360;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F37cc5d9c394b2b769b228bb11216644a",
+          "publishedAt": "2026-07-02T15:22:58Z",
+          "image": "https://cdn.sci.news/images/2026/07/image_14889-Cave-Wall-DNA.jpg",
           "language": "en"
         },
         {
-          "title": "New study explains why Canadians move to the U.S.",
-          "description": "Canadians are moving south for jobs, lower taxes, and, surprisingly, health care, a new study shows.",
-          "url": "https://nationalpost.com/news/canadians-hate-being-called-the-51st-state-but-they-dont-mind-moving-south-of-the-border-study-says",
+          "title": "US job growth falters, testing Trump’s Republicans ahead of midterm election",
+          "description": "Total nonfarm payroll employment grew by 57,000 in June – well below forecasts – amid rising inflation and wage stagnation.",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3359215/us-job-growth-falters-testing-trumps-republicans-ahead-midterm-election",
           "source": {
-            "name": "National Post"
+            "name": "South China Morning Post"
           },
-          "publishedAt": "2026-07-02T10:06:30Z",
-          "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/06/flags1_302706110.jpg",
+          "publishedAt": "2026-07-02T15:22:23Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/02/2fa9d033-69a8-4749-ae3d-8f8a6cf0c486_6af1b570.jpg?itok=9_VU9ESc&v=1783005736",
           "language": "en"
         },
         {
-          "title": "Report Xbox Disc-to-Digital Feature in Testing, Microsoft \"Likely\" to Stop Disc Production Too",
-          "description": "Both Sony and Microsoft look ready to drop disc drives from their next-gen consoles. - Following Sony's announcement that it was ceasing production of physic...",
-          "url": "https://www.digitalfoundry.net/news/2026/07/report-xbox-disc-to-digital-feature-in-testing-microsoft-likely-to-stop-disc-production-too",
+          "title": "Sony to end physical disc sales for PlayStation games",
+          "description": "Sony says PlayStation will move to a fully digital future in 2028, ending production of physical game discs after more than 30 years.",
+          "url": "https://www.scrippsnews.com/science-and-tech/sony-to-end-physical-disc-sales-for-playstation-games",
           "source": {
-            "name": "Digital Foundry"
+            "name": "Scripps News"
           },
-          "publishedAt": "2026-07-02T10:06:06Z",
-          "image": "https://images.digitalfoundry.net/825c98c152960/large.jpg",
+          "publishedAt": "2026-07-02T15:22:22Z",
+          "image": "https://ewscripps.brightspotcdn.com/dims4/default/e65a47f/2147483647/strip/true/crop/1024x538+0+71/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc0%2F7b%2Fb9d64da24c1080c4f036090353fe%2Fap26086525063148.jpg",
           "language": "en"
         },
         {
-          "title": "PM Kulbergs dissatisfied with cybersecurity in state companies",
-          "description": "The first signs of a breach in the system at AS \"Latvijas Valsts meži\" (LVM) cyberattack were detected as early as June 11, when suspicious activity was identified, while the actual malicious activiti...",
-          "url": "https://eng.lsm.lv/article/politics/politics/02.07.2026-pm-kulbergs-dissatisfied-with-cybersecurity-in-state-companies.a653590/",
+          "title": "Hyperliquid Price: Buying Opportunity or Big Correction Ahead?",
+          "description": "After rallying to a new all-time high when most of the crypto market struggled, Hyperliquid ($HYPE) has finally entered a pullback. The correction has split investors into two camps.",
+          "url": "https://cryptonews.net/news/analytics/33089744/",
           "source": {
-            "name": "LSM"
+            "name": "CryptoNews.net"
           },
-          "publishedAt": "2026-07-02T10:05:55Z",
-          "image": "https://static.lsm.lv/media/2026/07/large/1/to6l.jpg",
+          "publishedAt": "2026-07-02T15:22:16Z",
+          "image": "https://cnews24.ru/uploads/6a5/6a501174c57b8efd0ca3c9160d08aad8bc193c09.jpg",
           "language": "en"
         },
         {
-          "title": "One Ticket, Two Hours, Endless Laughs Is What Welcome To The Jungle Is All About",
-          "description": "Welcome To The Jungle is winning audiences with nonstop laughs, nostalgia, and family-friendly entertainment led by Akshay Kumar.",
-          "url": "https://www.koimoi.com/bollywood/one-ticket-two-hours-endless-laughs-is-what-welcome-to-the-jungle-is-all-about/",
+          "title": "CBZ debate tournament expands to primary schools for 2026 edition",
+          "description": "Title sponsor CBZ Bank has committed a prize fund of US$30,000 for this year's edition, with Sr. Mutsure crediting the bank's continued support for the tournament's growth.",
+          "url": "https://www.newsday.co.zw/local-news/article/200057925/cbz-debate-tournament-expands-to-primary-schools-for-2026-edition",
           "source": {
-            "name": "Koimoi"
+            "name": "NewsDay Zimbabwe"
           },
-          "publishedAt": "2026-07-02T10:05:34Z",
-          "image": "https://www.koimoi.com/wp-content/new-galleries/2026/07/welcome-to-the-jungle-the-feel-good-entertainer-01.jpg",
+          "publishedAt": "2026-07-02T15:22:13Z",
+          "image": "https://cdn.thestandard.co.zw/images/newsday/uploads/2026/07/dn1axG6gMHKs53kaqlj0QqSGkTxAek9kJV4tmgcK.jpg",
           "language": "en"
         },
         {
-          "title": "Apple Ramps Foldable iPhone 'Ultra' Production to 10 Million Units",
-          "description": "Apple has told suppliers to prepare to make approximately 10 million foldable iPhones this year, up from a previous forecast of about 7-8 million units a few months ago, reports Nikkei Asia ($). Apple has already booked parts for roughly 80 million smartphones for the second half of 2026, which includes the iPhone 18 Pro, iPhone 18 Pro Max, and the first-ever foldable iPhone. The company's full 2026 production is expected to top 220 million units, according to the publication.",
-          "url": "https://www.macrumors.com/2026/07/02/apple-ramps-foldable-iphone-ultra-production-10m/",
+          "title": "Funcom Releases Dune: Awakening Console Deep Dive, Announces Physical Edition",
+          "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+          "url": "https://www.gamespress.com/en-GB/Funcom-Releases-Dune-Awakening-Console-Deep-Dive-Announces-Physical-Ed",
           "source": {
-            "name": "MacRumors"
+            "name": "Games Press"
           },
-          "publishedAt": "2026-07-02T10:05:03Z",
-          "image": "https://images.macrumors.com/t/tRyi6be_nH3YfYIKMeYwHL6L7mA=/2000x/article-new/2025/12/iphone-fold-3d-print.jpg",
+          "publishedAt": "2026-07-02T15:22:01Z",
+          "image": "https://imgeucdn.gamespress.com/cdn/files/Funcom/2025/06/031405-1f6cf136/DA_GC24_KeyArt_1920x1080_(1).jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=972f602aec3d9ef3ffd495df55015abc8cdf18d2a083684dbac1cd3c78bc69ee",
           "language": "en"
         },
         {
-          "title": "Anger as report says Trump hijacked US anniversary to serve own agenda - US politics live",
-          "description": "Top House Democrat on committee that issued report says president ‘tries to steal the celebration of America’s 250th anniversary and turn it into something that’s all about Trump’",
-          "url": "https://www.theguardian.com/us-news/live/2026/jul/02/donald-trump-us-politics-250-anniversary-republicans-democrats-latest-news-updates",
+          "title": "Dar residents assured of heightened security measures heading to Sabasaba celebrations",
+          "description": "DAR ES SALAAM: THE Dar es Salaam  Regional Commissioner, Mr Albert Chalamila has assured the public of heightened security measures ahead of the upcoming Sabasaba trade fair and related celebrations, emphasizing that the safety of citizens, national infrastructure and investments remains a top priority. The RC made the statement today, July 2, 2026, in Dar …",
+          "url": "https://dailynews.co.tz/dar-residents-assured-of-heightened-security-measures-heading-to-sabasaba-celebrations/",
           "source": {
-            "name": "The Guardian"
+            "name": "dailynews.co.tz"
           },
-          "publishedAt": "2026-07-02T10:05:00Z",
-          "image": "https://i.guim.co.uk/img/media/de54639c993c658ab7f2d1b1dea606a372368cce/1333_100_5155_4124/master/5155.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=531e09555a592537b7a271fcb26d2cb6",
+          "publishedAt": "2026-07-02T15:21:39Z",
+          "image": "https://dailynews.co.tz/wp-content/uploads/2025/11/IMG-20251105-WA0002.jpg",
           "language": "en"
         },
         {
-          "title": "USMNT into World Cup last 16 after beating Bosnia; Controversial red card clouds Balogun’s heroics",
-          "description": "On a tense and controversial night in California, the USMNT won a World Cup knockout match for just a second time ever. We break it down",
-          "url": "https://www.nytimes.com/athletic/7413225/2026/07/01/usmnt-bosnia-herzegovina-world-cup-2026-score-results-takeaways-balogun-tillman/",
+          "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+          "description": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+          "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
           "source": {
-            "name": "The New York Times"
+            "name": "TechCrunch"
           },
-          "publishedAt": "2026-07-02T10:05:00Z",
-          "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/01211531/GettyImages-2284252863-scaled.jpg?width=1200&height=630&fit=cover",
+          "publishedAt": "2026-07-02T15:20:51Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2194584986.jpg?w=1024",
           "language": "en"
         },
         {
-          "title": "Korean charged with telecom fraud nabbed",
-          "description": "The Bureau of Immigration (BI) has arrested a South Korean national wanted in his country for his alleged involvement in a telecommunications fraud.",
-          "url": "https://www.sunstar.com.ph/pampanga/korean-charged-with-telecom-fraud-nabbed",
+          "title": "NEWS: Indonesian groups urge FATF to review Danantara bond protections",
+          "description": "A coalition of Indonesian groups has ‌urged the FATF to review legal protections given to buyers of bonds issued by wealth fund Danantara.",
+          "url": "https://www.amlintelligence.com/2026/07/news-indonesian-groups-urge-fatf-to-review-danantara-bond-protections/",
           "source": {
-            "name": "SunStar Publishing Inc."
+            "name": "AML Intelligence"
           },
-          "publishedAt": "2026-07-02T10:04:51Z",
-          "image": "https://cf-images.assettype.com/sunstar%2F2023-11%2Fb92791ab-235a-422a-9a03-fff077c47d19%2FLocal750x450.jpg?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "publishedAt": "2026-07-02T15:20:03Z",
+          "image": "https://www.amlintelligence.com/wp-content/uploads/2026/07/indonesia.png",
           "language": "en"
         }
       ]
