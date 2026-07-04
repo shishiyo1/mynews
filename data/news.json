@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-04T03:17:37.643Z",
+  "updatedAt": "2026-07-04T08:38:38.901Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "秩序を失う世界、日本も空白埋められる ラッド元オーストラリア首相",
+          "description": "世界は大国が意のままに力を振るい、他国に現状変更を迫る弱肉強食の度合いを強めつつある。このまま無秩序の世界に回帰してしまうのか。日本はどう対処すればいいのか。今春まで駐米大使を務め、北京での駐在経験など中国通でもあるケビン・ラッド元オーストラリア首相との対話でヒントを探った。ロシア・ウクライナの戦乱が収束せず、中東の混乱は続く。アジアでも中国が覇権主義的な動きを強める。第2次トランプ政権はこうした国際秩序の動揺に拍車をかけている。",
+          "url": "https://www.nikkei.com/article/DGXZQOCD267G30W6A520C2000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-07-03T20:00:00Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3244618030062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.73&fp-y=0.38&h=630&upscale=false&w=1200&s=faec0cd6c19e1e489904e1f5301db8ae",
+          "language": "ja"
+        },
+        {
+          "title": "【速報】九州北部で「線状降水帯」発生の可能性 4日夕方にかけて 避難の準備を",
+          "description": "九州北部では、4日夕方にかけて線状降水帯が発生して、大雨による災害発生の危険度が急激に高まる可能性があります。大雨に対する心構えを一段高めていただき、地元気象台が段階的に発表する気象解説情報や気象防災速報、キキクル(危険度分布)等の情報を確認してください。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/07/04/39587.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-03T18:14:46Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/395/39587/main/20260704025746/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "唐沢寿明＆所ジョージらが東京ディズニーランドに登場！ディズニー＆ピクサー映画『トイ・ストーリー５』スペシャルトークショー",
+          "description": "2026年7月3日（金）、ディズニー＆ピクサー映画『トイ・ストーリー5』の全国公開を記念し、東京ディズニーランドにてスペシャルトークショーが開催されました。 日本版声優を務めた豪華8名が勢揃いし、作品 ...",
+          "url": "https://dtimes.jp/post-1264182/",
+          "source": {
+            "name": "Dtimes"
+          },
+          "publishedAt": "2026-07-03T15:41:47Z",
+          "image": "https://dtimes.jp/wp-content/uploads/2026/07/IMG_9477.jpeg",
+          "language": "ja"
+        },
         {
           "title": "田中みな実、妊娠発表数日前の“納得しかない1枚”で再注目 服装に多数指摘「ゆったりとした」「手の血管が浮き出ている」",
           "description": "フリーアナウンサーの田中みな実さんが6月29日、元「KAT-TUN」の亀梨和也さんとの結婚及び第1子妊娠を発表。その5日前に公開されていた“マタニティー姿”がSNSで注目を集めています。",
@@ -81,150 +114,117 @@
           "publishedAt": "2026-07-03T12:00:00Z",
           "image": "https://www.tvguide.or.jp/wp/wp-content/uploads/2026/11/news_260623_19_02.jpg",
           "language": "ja"
-        },
-        {
-          "title": "安田顕の“演技への熱量”がほとばしる 林遣都との2人芝居『死の笛』の濃密な2時間",
-          "description": "身の毛もよだつ体験をした。目で、耳で、心で、ゾクッとしたこの濃密な2時間を忘れることはないだろう。　安田顕が企画・プロデュースを手がける舞台『死の笛』が再演を果たした。2024年7月の初演から2年ぶり。安田顕と林遣都による2人芝居で、脚本の坂元裕二、演出の水田伸生というチームは変わらず。東京・IM…",
-          "url": "https://realsound.jp/movie/2026/07/post-2449413.html",
-          "source": {
-            "name": "Real Sound｜リアルサウンド"
-          },
-          "publishedAt": "2026-07-03T11:10:34Z",
-          "image": "https://realsound.jp/wp-content/uploads/2026/07/20260703-sinofue-10.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "宝島さん夫婦殺害事件で初判決 “指示役”と“仲介役”に懲役30年「犯行実現に必要な役割果たした」求刑は無期懲役",
-          "description": "今から2年前、東京・上野で複数の飲食店を経営していた資産家夫婦が殺害された事件。被害者の娘や、その内縁の夫ら合わせて7人が逮捕・起訴されたこの事件を巡り、3日、初の判決公判が開かれました。被告人席にいたのは犯行の指示役とされる佐々木光被告（30）。そして、実行犯に犯行を依頼した仲介役とされる平山綾拳被告（27）の2人です。この事件の発端は2024年4月、栃木・那須町の山中で、飲食店経営の宝島龍太郎さんと妻の幸子さんの遺体が焼かれた状態で見つかったものでした。宝島さん夫婦の遺体が発見された当時、…",
-          "url": "https://www.fnn.jp/articles/-/1070024",
-          "source": {
-            "name": "FNNプライムオンライン"
-          },
-          "publishedAt": "2026-07-03T11:10:00Z",
-          "image": "https://fnn.ismcdn.jp/mwimgs/7/5/600/img_7595f5b03a7a67e63753499f83a13bd5401336.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "佐藤二朗 “ハラスメント” 騒動で「フジテレビが得意じゃない」人気俳優の苦言が再注目…「中居正広問題」前から際立つ “先見の明”",
-          "description": "4月期のドラマ『夫婦別姓刑事』（フジテレビ系）で夫婦役で共演した佐藤二朗と橋本愛をめぐる “トラブル” が明らかになり、フジテレビに厳しい目が注がれている。そんななか、かつて人気俳優がフジテレビに",
-          "url": "https://news.yahoo.co.jp/articles/953b8ef4d262056b128bc68710ae15ba5700fd2c",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-03T10:50:44Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260703-00000062-flash-000-2-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Update: The end of this 'oppressive' heat wave is in sight, meteorologists say",
-          "description": "“We are going to have warm days and summer days to come, but with less humidity.\"",
-          "url": "https://montrealgazette.com/news/weather/montreal-scorching-temperatures-heat-wave-day-3/",
+          "title": "Appeal court judgement on hijab: Court of Appeal Ibadab set aside judgment wey allow hijab for Muslim students for schools",
+          "description": "Court of Appeal for Ibadan don set aside one di High Court judgment wey permit female Muslim students make dem dey wear hijab for University of Ibadan International School, ISI.",
+          "url": "https://www.bbc.com/pidgin/articles/cq61prnvq29o",
           "source": {
-            "name": "Montreal Gazette"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-03T15:16:53Z",
-          "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/07/0703-city-heat-0765_304063308.jpg",
+          "publishedAt": "2026-07-03T20:37:56Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_pidgin/d152/live/5c30c2b0-7704-11f1-9e14-057377bcce93.jpg",
           "language": "en"
         },
         {
-          "title": "Strictly Come Dancing pro confirms wedding - as co-stars send congratulations",
-          "description": "The Strictly and Love Island stars have tied the knot.",
-          "url": "https://www.digitalspy.com/tv/reality-tv/a71817840/strictly-neil-jones-chyna-mills-wedding/",
+          "title": "Title rivals Djokovic and Sinner advance at Wimbledon",
+          "description": "Novak Djokovic earned another slice of Wimbledon history as the seven-time winner advanced to the fourth round, while defending champion Jannik Sinner powered past Jenson Brooksby on Friday.Djokovic also tied Federer for most appearances in the last 16 of the men's singles at Wimbledon in the Open era, making the fourth round for the 18th time.",
+          "url": "https://sports.yahoo.com/articles/djokovic-history-line-wimbledon-135011172.html",
           "source": {
-            "name": "Digital Spy"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-07-03T15:16:50Z",
-          "image": "https://hips.hearstapps.com/hmg-prod/images/19c405c2-492f-409d-9d6f-6511d6bd2372.jpg?crop=0.369xw:0.279xh;0.191xw,0.200xh&resize=1200:*",
+          "publishedAt": "2026-07-03T20:37:32Z",
+          "image": "https://s.yimg.com/os/en/afp.com/2b75070d883f9aa51a570fb2355570b0",
           "language": "en"
         },
         {
-          "title": "Inside Celtics’ Jaylen Brown trade: How differences in perspective drove stunning deal",
-          "description": "How did Brown, a player who just finished sixth in MVP voting, get traded so abruptly for what was viewed as an underwhelming package?",
-          "url": "https://www.nytimes.com/athletic/7418310/2026/07/03/jaylen-brown-celtics-inside-trade-pov/",
+          "title": "Morayo Afolabi-Brown recounts disturbing phone attack",
+          "description": "TV host Morayo Afolabi-Brown reveals she was cursed by a caller over her interview questions, expressing dismay at the personal attack.",
+          "url": "https://punchng.com/i-was-cursed-tv-host-morayo-afolabi-brown-recounts-disturbing-phone-attack/",
           "source": {
-            "name": "The New York Times"
+            "name": "Punch Newspapers"
           },
-          "publishedAt": "2026-07-03T15:16:34Z",
-          "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/02234205/GettyImages-2249969486RS-scaled.jpg?width=1200&height=630&fit=cover",
+          "publishedAt": "2026-07-03T20:36:28Z",
+          "image": "https://punchng.com/wp-content/uploads/2026/07/Morayo_1783100997-1200x630.webp",
           "language": "en"
         },
         {
-          "title": "Putin shrugs off fuel shortages in Russia as he ramps up attacks on Ukraine",
-          "description": "Despite severe fuel shortages across Russia, President Vladimir Putin appears unbothered by Ukraine’s increasing attacks on his country’s oil refineries.He...",
-          "url": "https://mb.com.ph/2026/07/03/putin-shrugs-off-fuel-shortages-in-russia-as-he-ramps-up-attacks-on-ukraine",
+          "title": "Supergirl Will Pass $100 Million Worldwide This Weekend - But That's Where The Good News Ends",
+          "description": "Supergirl should swoop to $100 million at the worldwide box office this weekend, but that's small comfort as the DC Studios movie prepares to end its run with less than 2020's Wonder Woman 1984.",
+          "url": "https://comicbookmovie.com/supergirl/supergirl-will-pass-100-million-worldwide-this-weekend---but-thats-where-the-good-news-ends-a228628",
           "source": {
-            "name": "Manila Bulletin"
+            "name": "ComicBookMovie.com"
           },
-          "publishedAt": "2026-07-03T15:16:16Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/03/113683.webp",
+          "publishedAt": "2026-07-03T20:33:28Z",
+          "image": "https://comicbookmovie.com/images/articles/banners/supergirl-will-pass-100-million-worldwide-this-weekend---but-thats-where-the-good-news-ends-ab228628.jpg",
           "language": "en"
         },
         {
-          "title": "The Raddest Things We Saw at Kodansha House",
-          "description": "From 'Akira' to 'Blue Lock,' the vibes at Kondasha House were both lowkey and an immersively fun romp.",
-          "url": "https://gizmodo.com/kodansha-house-anime-expo-attack-on-titan-2000781056",
+          "title": "Becky Hamber and Brandy Cooney sentenced to life for murder of foster son",
+          "description": "The family of an Indigenous boy who was killed by two Burlington, Ont., women while in their care delivered agonizing victim impact statements in a tense courtroom Friday before a judge sentenced the couple to life in prison.",
+          "url": "https://www.cp24.com/news/2026/07/03/ontario-women-sentenced-to-life-for-murder-of-foster-son-after-emotional-day-in-court/",
           "source": {
-            "name": "Gizmodo"
+            "name": "CP24"
           },
-          "publishedAt": "2026-07-03T15:15:36Z",
-          "image": "https://gizmodo.com/app/uploads/2026/07/Kodansha-House-1200x675.jpg",
+          "publishedAt": "2026-07-03T20:32:50Z",
+          "image": "https://www.cp24.com/resizer/v2/SFNEEC332BHW3G2JXXHBFOOGO4.jpg?smart=true&auth=636e0fe59085355a380a87d0e9b7f9be2a68a8571bc5d2e8c3335674f07322c3&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Sh674m paid to 505 victims of rights violations as compensation claims rise",
-          "description": "Compensation claims have surged following the panel's latest appeal to victims.",
-          "url": "https://www.the-star.co.ke/news/2026-07-03-over-500-rights-victims-receive-sh674m-payout",
+          "title": "Pubs, schools and police across West prepare for England match",
+          "description": "Extended licensing hours, watch parties and extra patrols are planned for the 01:00 kick-off on Monday.",
+          "url": "https://www.bbc.com/news/articles/ckg8edgxvzko",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-03T15:12:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2025/03/b310409e-ddbb-4b1e-9b35-588a2a6c1df2.jpg?1783092619598",
+          "publishedAt": "2026-07-03T20:29:34Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f9a3/live/4cdd7940-76e4-11f1-9842-7718f5ead045.jpg",
           "language": "en"
         },
         {
-          "title": "Prince William appears on \"New Heights\" podcast ahead of Swift-Kelce wedding",
-          "description": "Prince William will appear on the podcast hosted by Jason and Travis Kelce just hours before Travis Kelce and Taylor Swift's anticipated wedding.",
-          "url": "https://www.cbsnews.com/news/prince-william-new-heights-kelce-taylor-swift-wedding/",
+          "title": "Gordie Howe bridge cost still $6.4B despite delays, federal authority says",
+          "description": "The cost of the new Gordie Howe bridge connecting Windsor and Detroit is still $6.4 billion despite multiple delays, according to the federal authority that oversees the bridge.",
+          "url": "https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-cost-delays-construction-funding-2026-9.7256222",
           "source": {
-            "name": "CBS News"
+            "name": "CBC"
           },
-          "publishedAt": "2026-07-03T15:11:00Z",
-          "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/03/14209e5c-a664-4012-8421-f99f896ab736/thumbnail/1200x630/7f13ffd1fccd5cf1686739476ed16cd3/prince-william-and-travis-kelce.jpg",
+          "publishedAt": "2026-07-03T20:28:43Z",
+          "image": "https://i.cbc.ca/ais/f1531a6a-c00a-4273-b9b5-8f89428a6670,1783013196170/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
           "language": "en"
         },
         {
-          "title": "Arba Minch Continues to Flourish as Hub of Development, Says PM Abiy",
-          "description": "Addis Ababa, July 3, 2026 (ENA) —Prime Minister Abiy Ahmed said Arba Minch continues to flourish as a hub of development, highlighting the city's ongoing transformation through major investment projects and expanding infrastructure.\nIn a message shared on his official social media account, the Prime Minister disclosed that he visited the Kuriftu Resort and Spa in Arba Minch, which is under development on a 52,000 square meter site.\n \nPM Abiy pointed out that the project comprises 53 luxury villas and is expected to create permanent employment opportunities for more than 300 people.\nHe further noted that projects such as Kuriftu Resort illustrate how private investment can capitalize on the enabling infrastructure established through the government's development initiatives under the Medemer philosophy.\n \nThe Prime Minister also called on both local and international investors to seize the opportunities available in Ethiopia and invest in transformative projects that will further strengthen the country's tourism sector and unlock its vast potential.",
-          "url": "https://www.ena.et/web/eng/w/eng_9155365",
+          "title": "AI Is Reshaping Tech Jobs and Boosting Demand for Versatile Skills",
+          "description": "AI is changing what employers want from tech workers, but demand remains strong, according to an analysis of 2.85 million job listings.",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
           "source": {
-            "name": "ENA English"
+            "name": "Business Insider"
           },
-          "publishedAt": "2026-07-03T15:10:58Z",
-          "image": "https://www.ena.et/documents/42142/0/web12+%282%29.jpg/b5d06807-b8c6-eea1-d7b4-0bb51ec4bc89?version=1.0&t=1783091095148&download=true",
+          "publishedAt": "2026-07-03T20:27:47Z",
+          "image": "https://i.insider.com/6a4813c765e65d39ff1c9873?width=1200&format=jpeg",
           "language": "en"
         },
         {
-          "title": "Police urge for more collaboration with private security companies",
-          "description": "DAR ES SALAAM: The Force has called for close collaboration between the police, members of the public and private security companies in curbing crime and maintaining peace in the country. The remarks were made by the Deputy Commissioner of Police, Ulrich Matei during a special occasion organized by SGA Tanzania to bid farewell to retirees …",
-          "url": "https://dailynews.co.tz/police-urge-for-more-collaboration-with-private-security-companies/",
+          "title": "UNESCO Acknowledges Great Barrier Reef Protection Gains",
+          "description": "The Crisafulli Government welcomes UNESCO's draft decision not to list the Great Barrier Reef as \"in danger\", recognising strong progress to protect",
+          "url": "https://www.miragenews.com/unesco-acknowledges-great-barrier-reef-1704664/",
           "source": {
-            "name": "dailynews.co.tz"
+            "name": "Mirage News"
           },
-          "publishedAt": "2026-07-03T15:06:41Z",
-          "image": "https://dailynews.co.tz/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-03-at-17.51.05.jpeg",
+          "publishedAt": "2026-07-03T20:26:00Z",
+          "image": "https://www.parliament.qld.gov.au/-/media/Mega-Menu/Members_OfficialPhoto_megamenu.ashx?h=250&w=470&la=en&hash=C7725FBEAF5BCED9D1EF100D3E8CF457",
           "language": "en"
         },
         {
-          "title": "Relief for Govt as EU Presidency off to a good start",
-          "description": "The Coalition will be breathing a sigh of relief as the first three days of the EU Presidency pass off without a hitch, writes Political Correspondent Barry Lenihan.",
-          "url": "https://www.rte.ie/news/analysis-and-comment/2026/0703/1581656-coalition-presidency-ireland/",
+          "title": "Waikato Hospital ED death prompts iwi call for urgent action",
+          "description": "The death of the man at Waikato Hospital this week has become a rallying cry for change, with an iwi health board demanding answers and action. Te Tiratū Iwi...",
+          "url": "https://www.nzherald.co.nz/waikato-news/news/waikato-hospital-ed-death-prompts-iwi-call-for-urgent-action/72QA5MEAQJCU7CVR74U6QSW7YM/",
           "source": {
-            "name": "RTE.ie"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-07-03T15:06:30Z",
-          "image": "https://www.rte.ie/images/0024a1f9-1600.jpg",
+          "publishedAt": "2026-07-03T20:24:40Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/UXJSYS3OIBHKVAVDKFYLP3JFDI.jpg?auth=f8e977f1b104f384b8d2c7615a832971fc3094cec118397a858eff9700c3e3bc&width=1200&height=675&quality=70&smart=true",
           "language": "en"
         }
       ]
