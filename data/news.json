@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-04T10:54:23.647Z",
+  "updatedAt": "2026-07-04T13:35:41.142Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【ライブ配信】ついに機材購入！ オーディオミキサーを買いました!! ＆ 「皆さんのたまごかけごはん」検証",
+          "description": "ついに来た！　ついにこの日がやって来ました!!　2026年4月1日からYouTubeのライブ配信を開始して、丸3カ月を経過した段階で、ようやく新機材を購入することができました …",
+          "url": "https://rocketnews24.com/2026/07/04/2778492/",
+          "source": {
+            "name": "ロケットニュース24"
+          },
+          "publishedAt": "2026-07-04T01:00:52Z",
+          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/repo7000.jpg?w=1200&h=630&crop=1",
+          "language": "ja"
+        },
+        {
+          "title": "RTX 5090＆9950X3Dの超こだわりPCはForza Horizon 6も4K・最高画質で快適プレイ！ローカルLLMもイケるぞ",
+          "description": "サイコムの超こだわりゲーミングPC「G-Master Spear BF360 Limited Edition」をベンチマーク！",
+          "url": "https://ascii.jp/elem/000/004/412/4412257/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-07-04T01:00:00Z",
+          "image": "https://ascii.jp/img/2026/07/01/4492253/xl/9d66b592856fd078.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "TBS金曜ドラマ「Tシャツが乾くまで」サイドストーリー放送決定 主演は高橋文哉",
+          "description": "TBSでは、7月期の金曜ドラマ枠（毎週金曜よる10時）にて、蒼井優主演ドラマ『Tシャツが乾くまで』を放送。このたび、高橋文哉演じる直人が主役となるサイドストーリーの配信が決定した。",
+          "url": "https://mdpr.jp/drama/detail/4808662",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-07-04T00:00:00Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/phBJ/nm/phBJkagurl5tXJOllxA7qHOYHTk6UoKCptkfxNaDIKo.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
+        {
+          "title": "ハメネイ師の国葬、100カ国超が弔問か 世界遺産に生々しい爆撃の爪痕",
+          "description": "【テヘラン=浜岳彦】イラン政府は3日、前最高指導者の故アリ・ハメネイ師の一般葬列などに先立ち、海外要人の弔問を受け入れた。100カ国以上の関係者が訪問すると報じられた現地には、米国とイスラエルによる攻撃の爪痕が色濃く残っていた。首都テヘランの弔問会場には2月末の米イスラエルの攻撃で殺害されたハメネイ師のひつぎが安置される。ロシアのメドベージェフ安全保障会議副議長（前大統領）やパキスタンのシャリ",
+          "url": "https://www.nikkei.com/article/DGXZQOGR03CEL0T00C26A7000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-07-03T23:42:01Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3264985003072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.51&fp-y=0.42&h=630&upscale=false&w=1200&s=e85b131f93a450e62f36d39b47ec4220",
+          "language": "ja"
+        },
+        {
+          "title": "【村瀬智一が斬る！深層マーケット】リバランスを意識した物色変化を想定",
+          "description": "日経平均株価は６月２２日につけた史上最高値７万２８３１円をピークに調整を続けているが、上向きで推移する２５日移動平均線が支持線として意識されている。世界的に株式市場を牽引してきたＡＩ（人工知能）・半導体関連株に利益確定の売りが目立ち始めており・・・。",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607040031",
+          "source": {
+            "name": "株探"
+          },
+          "publishedAt": "2026-07-03T23:00:00Z",
+          "image": "https://async.api.kabutan.jp/og_image?title=%E3%80%90%E6%9D%91%E7%80%AC%E6%99%BA%E4%B8%80%E3%81%8C%E6%96%AC%E3%82%8B%EF%BC%81%E6%B7%B1%E5%B1%A4%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%80%91%E3%83%AA%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%92%E6%84%8F%E8%AD%98%E3%81%97%E3%81%9F%E7%89%A9%E8%89%B2%E5%A4%89%E5%8C%96%E3%82%92%E6%83%B3%E5%AE%9A",
+          "language": "ja"
+        },
         {
           "title": "アルゼンチン代表FWメッシ、W杯史上初の8試合連続ゴール 通算得点記録は「20」に更新 得点ランクでも単独トップに",
           "description": "FIFAワールドカップ2026（北中米W杯）決勝トーナメント・ラウンド32、アルゼンチン代表対カーボベルデ代表の試合が現地時間3日に行われている。",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-07-03T21:00:00Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260704-00000370-oric-000-5-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "「日の丸」振るのに迷う日が来る? 国旗損壊罪法が奪う“自由”",
-          "description": "日の丸の旗を、私が初めて振ったのは41年前の1985年10月26日、東京・国立競技場だった。 　86年にメキシコで開かれるサッカー・ワールドカップ（W杯）のアジア最終予選で、日本と韓国が激突した。",
-          "url": "https://mainichi.jp/articles/20260703/k00/00m/040/329000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-07-03T21:00:00Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/07/03/20260703k0000m040325000p/0c10.jpg?1",
-          "language": "ja"
-        },
-        {
-          "title": "秩序を失う世界、日本も空白埋められる ラッド元オーストラリア首相",
-          "description": "世界は大国が意のままに力を振るい、他国に現状変更を迫る弱肉強食の度合いを強めつつある。このまま無秩序の世界に回帰してしまうのか。日本はどう対処すればいいのか。今春まで駐米大使を務め、北京での駐在経験など中国通でもあるケビン・ラッド元オーストラリア首相との対話でヒントを探った。ロシア・ウクライナの戦乱が収束せず、中東の混乱は続く。アジアでも中国が覇権主義的な動きを強める。第2次トランプ政権はこうした国際秩序の動揺に拍車をかけている。",
-          "url": "https://www.nikkei.com/article/DGXZQOCD267G30W6A520C2000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-07-03T20:00:00Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3244618030062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.73&fp-y=0.38&h=630&upscale=false&w=1200&s=faec0cd6c19e1e489904e1f5301db8ae",
-          "language": "ja"
-        },
-        {
-          "title": "【速報】九州北部で「線状降水帯」発生の可能性 4日夕方にかけて 避難の準備を",
-          "description": "九州北部では、4日夕方にかけて線状降水帯が発生して、大雨による災害発生の危険度が急激に高まる可能性があります。大雨に対する心構えを一段高めていただき、地元気象台が段階的に発表する気象解説情報や気象防災速報、キキクル(危険度分布)等の情報を確認してください。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/07/04/39587.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-07-03T18:14:46Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/395/39587/main/20260704025746/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "唐沢寿明＆所ジョージらが東京ディズニーランドに登場！ディズニー＆ピクサー映画『トイ・ストーリー５』スペシャルトークショー",
-          "description": "2026年7月3日（金）、ディズニー＆ピクサー映画『トイ・ストーリー5』の全国公開を記念し、東京ディズニーランドにてスペシャルトークショーが開催されました。 日本版声優を務めた豪華8名が勢揃いし、作品 ...",
-          "url": "https://dtimes.jp/post-1264182/",
-          "source": {
-            "name": "Dtimes"
-          },
-          "publishedAt": "2026-07-03T15:41:47Z",
-          "image": "https://dtimes.jp/wp-content/uploads/2026/07/IMG_9477.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "田中みな実、妊娠発表数日前の“納得しかない1枚”で再注目 服装に多数指摘「ゆったりとした」「手の血管が浮き出ている」",
-          "description": "フリーアナウンサーの田中みな実さんが6月29日、元「KAT-TUN」の亀梨和也さんとの結婚及び第1子妊娠を発表。その5日前に公開されていた“マタニティー姿”がSNSで注目を集めています。",
-          "url": "https://news.yahoo.co.jp/articles/db499183e71aa324bb53b93cbf4ddb4b155e2b29",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-03T14:45:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260703-10158863-it_nlab-000-1-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Salman Khan's ex Somy Ali congratulates Aamir Khan and Gauri Spratt ahead of July 5 wedding: 'Love doesn't follow a calendar'",
-          "description": "As Aamir Khan prepares to marry longtime partner Gauri Spratt on July 5, actor and activist Somy Ali, who was previously in a relationship with Salman.",
-          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-ex-somy-ali-congratulates-aamir-khan-and-gauri-spratt-ahead-of-july-5-wedding-love-doesnt-follow-a-calendar/articleshow/132172795.cms",
+          "title": "Public Health System Effectiveness and COVID-19 Fatality Rates",
+          "description": "The health and well-being of affected individuals are important host-related determinants of mortality in the epidemiological triangle model of infectious diseases.",
+          "url": "https://www.epw.in/journal/2026/26-27/commentary/public-health-system-effectiveness-and-covid-19.html",
           "source": {
-            "name": "The Times of India"
+            "name": "Economic and Political Weekly"
           },
-          "publishedAt": "2026-07-03T22:54:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-132172808,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-07-04T01:34:03Z",
+          "image": "https://www.epw.in/themes/contrib/epw/images/epw.ico",
           "language": "en"
         },
         {
-          "title": "Third teen charged with murder over stabbing death outside hospital",
-          "description": "A 14-year-old boy was arrested on Friday and charged with murder over the death of Mickleham teen Darweish Mohamed on Wednesday.",
-          "url": "https://www.theage.com.au/national/victoria/third-teen-charged-with-murder-over-stabbing-death-outside-hospital-20260704-p60cji.html",
+          "title": "Gold prices have fallen. Here's what could trigger the next rally",
+          "description": "Trade policy, inflation, geopolitics, recession fears and central bank buying will determine whether gold resumes its bull run or extends its correction.",
+          "url": "https://www.livemint.com/market/commodities/gold-price-forecast-what-could-trigger-the-next-rally-2026-11783076811520.html",
           "source": {
-            "name": "The Age"
+            "name": "livemint.com"
           },
-          "publishedAt": "2026-07-03T22:53:37Z",
-          "image": "https://static.ffx.io/images/$zoom_1.4716%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/4f20377df37abe4c61307d4fff0dfb510902fa63",
+          "publishedAt": "2026-07-04T01:30:19Z",
+          "image": "https://www.livemint.com/lm-img/img/2026/07/03/1600x900/logo/pexels-photo-8442336_1783079317694_1783079326842_9bf23379-4be1-4e19-b2ec-98375a2a438e.jpeg",
           "language": "en"
         },
         {
-          "title": "NYT ‘Pips’ Hints, Answers And Walkthrough For Saturday, July 4",
-          "description": "Looking for help with today's New York Times Pips? We'll walk you through today's puzzle and help you match dominoes to tiles.",
-          "url": "https://www.forbes.com/sites/erikkain/2026/07/03/nyt-pips-answers-saturday-july-4/",
+          "title": "Starmer warns Burnham he cannot spend less time on diplomacy",
+          "description": "Prime minister also speaks of his ‘intensely personal decision’ to step down in first interview since resigning",
+          "url": "https://www.theguardian.com/politics/2026/jul/03/starmer-warns-burnham-he-cannot-spend-less-time-on-diplomacy",
           "source": {
-            "name": "Forbes"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-07-03T22:49:43Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/68ab7aaa205e351d8e7e68df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "publishedAt": "2026-07-04T01:30:00Z",
+          "image": "https://i.guim.co.uk/img/media/40a9a3e7e235b5285d86ccc8a816cd2ae5a7fb31/723_0_5145_4115/master/5145.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91b28dace1785d37e91fe35847cc1324",
           "language": "en"
         },
         {
-          "title": "Asantewaa Narrates How Sneaking Out of Winneba SHS to See Boyfriend Ruined Her Grades",
-          "description": "Ghanaian influencer Asantewaa shared how a teenage romance derailed her studies at Winneba Senior High, leading to dropped grades and a change in student status.",
-          "url": "https://yen.com.gh/entertainment/celebrities/307264-asantewaa-reveals-how-sneaking-winneba-shs-boyfriend-ruined-grades/",
+          "title": "World Cup 2026: Egypt wins first-ever knockout round match after penalty shootout with Australia",
+          "description": "Egypt is moving on to the Round of 16.",
+          "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-egypt-wins-first-ever-knockout-round-match-after-penalty-shootout-with-australia-210308799.html",
           "source": {
-            "name": "Yen News"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-07-03T22:47:16Z",
-          "image": "https://cdn.yen.com.gh/images/1200x675/eee5e086f97182a7.jpeg?v=1",
+          "publishedAt": "2026-07-04T01:28:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/4dd10008b14fccf0e6f3f4615d5525ad3af44da008f2d3f22f58e7dc53e8af5d/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F8e2f7bd5-990e-4bcd-a1fa-54d25fa8260a",
           "language": "en"
         },
         {
-          "title": "World Cup: Jackson Irvine says Socceroos have to 'feel' the pain before they look ahead",
-          "description": "Socceroos veteran Jackson Irvine says feeling the pain of Australia's penalty shootout defeat to Egypt is an important part of getting better.",
-          "url": "https://www.abc.net.au/news/2026-07-04/socceroos-have-to-feel-the-pain-before-they-look-ahead/106879422",
-          "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
-          },
-          "publishedAt": "2026-07-03T22:46:57Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/2c1bd467823248043a552b6d621a3f6d?impolicy=wcms_watermark_news&cropH=1862&cropW=3311&xPos=0&yPos=89&width=862&height=485&imformat=generic",
-          "language": "en"
-        },
-        {
-          "title": "Chilling Invasion Day image among this year's National Aboriginal and Torres Strait Islander Art Awards finalists",
-          "description": "There is a wide range of artworks among the finalists vying for this year's prestigious National Aboriginal and Torres Strait Islander Art Awards, from photography and painting to multimedia and sculpture.",
-          "url": "https://www.abc.net.au/news/2026-07-04/invasion-day-photograph-among-natsiaa-finalists-art-awards/106875602",
-          "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
-          },
-          "publishedAt": "2026-07-03T22:46:56Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/5a685ca6fedb12a866d9481c5974715d?impolicy=wcms_watermark_news&cropH=810&cropW=1440&xPos=0&yPos=315&width=862&height=485&imformat=generic",
-          "language": "en"
-        },
-        {
-          "title": "China's internet got so mad about a celebrity's 'bad' singing, her concert was cancelled",
-          "description": "Celebrities have become outlets for young people's social and economic frustrations.",
-          "url": "https://sg.news.yahoo.com/chinas-internet-got-mad-celebritys-224647178.html",
-          "source": {
-            "name": "Yahoo News Singapore"
-          },
-          "publishedAt": "2026-07-03T22:46:47Z",
-          "image": "https://s.yimg.com/os/en/bbc_us_articles_995/c5c73916ce82185737d0a755b1124188",
-          "language": "en"
-        },
-        {
-          "title": "China's internet got so mad about a celebrity's 'bad' singing, her concert was cancelled",
-          "description": "Celebrities have become outlets for young people's social and economic frustrations.",
-          "url": "https://www.bbc.com/news/articles/cdx7d254lrjo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-07-03T22:46:42Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ff62/live/0fec33e0-76cc-11f1-b508-3b3f1f22a3c1.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Wildfire near Denver forces evacuation of thousands and destroys more than 160 structures",
-          "description": "A wildfire burning southwest of Denver forced the evacuation of thousands of residents and destroyed more than 160 structures as erratic winds pushed the blaze across two Colorado counties.",
-          "url": "https://apnews.com/article/wildfire-evacuations-blaze-denver-5a83c368ed2c13bf98749a59d561c076",
-          "source": {
-            "name": "AP News"
-          },
-          "publishedAt": "2026-07-03T22:46:00Z",
-          "image": "https://dims.apnews.com/dims4/default/5a3aa25/2147483647/strip/true/crop/3600x2399+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F79%2F5b%2F059c7cf821f6c1b800e463ebc155%2F569acad616394bbb993c548d0afe95b4",
-          "language": "en"
-        },
-        {
-          "title": "Ed Sheeran arrives at Taylor Swift, Travis Kelce wedding",
-          "description": "Ed Sheeran and Cherry Seaborn arrived in style for Taylor Swift and Travis Kelce's star-studded NYC wedding at Madison Square Garden.",
-          "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/07/03/taylor-swift-wedding-ed-sheeran-travis-kelce/90797948007/",
+          "title": "Mo Salah fights injury, leads Egypt to historic World Cup win",
+          "description": "Mo Salah wasn't at his best while fighting through injury, but he captained Egypt to an unprecedented World Cup win over Australia anyway.",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/03/mo-salah-egypt-world-cup-win-australia/90798352007/",
           "source": {
             "name": "USA Today"
           },
-          "publishedAt": "2026-07-03T22:45:00Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/03/USAT/90790931007-186597754.jpg?crop=4135,2327,x0,y182&width=3200&height=1801&format=pjpg&auto=webp",
+          "publishedAt": "2026-07-04T01:28:00Z",
+          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/03/USAT/90797570007-2284536018.jpg?crop=3697,2081,x0,y148&width=3200&height=1802&format=pjpg&auto=webp",
+          "language": "en"
+        },
+        {
+          "title": "ERITREA: Archbishop Tesfamariam of Asmara Marks 25 Years of Episcopal Service",
+          "description": "Zerayohannes Ghebrehiwet\nArchbishop Menghisteab Tesfamariam, the Metropolitan Archbishop of Asmara, Eritrea, celebrated the Silver Jubilee of his episcopal ordination on Saturday, June 27, 2026, at the Cathedral of Our Lady of Perpetual Help Kidane Mehret in a solemn Mass of Thanksgiving that brought together the entire Catholic family of the Arch Eparchy of Asmara in a joyful expression of gratitude to God.\nThe celebration was marked by the presence of three fellow bishops, dozens of concelebrants, religious congregations, seminarians, and the faithful from all the parishes of the Arch Eparchy, as well as family members and friends of the Archbishop\nArchbishop Tesfamariam was accompanied by Bishop Thomas Osman of the Barentu Eparchy, Bishop Kidanemariam Yebiyo of the Keren Eparchy, and Bishop Fikremariam Hagos of the Segeneiti Eparchy, along with Superior Generals of Monasteries and presbyter seats and 55 co-celebrants. Students of St. George Major Seminary, religious congregations, and the faithful from across the Arch Eparchy filled the cathedral for the occasion.\nIn his homily, Archbishop Tesfamariam began with the verse of Psalm 133: How good and how pleasant it is when brothers dwell together as one! and described it as a rich school of prayer for all seasons of life encompassing worship and praise, thanksgiving and rejoicing, supplication and repentance in equal measure, whatever circumstances a person may face.\n[caption id=attachment_24952 align=alignright width=300] Archbishop's brother presenting his speech[/caption]\nTurning to his own 25-year journey, he reflected on Psalm 124, Had not the Lord been with us as the honest question that comes to mind when he surveys the road travelled, and answered it with the words of Psalm 116: How can I repay the Lord for all the great good done for me? I will raise the cup of salvation and call on the name of the Lord.\nWhat I feel today is heartfelt gratitude, he told the congregation simply.\nThe Archbishop said that the journey has not been without its difficulties. He acknowledged being accompanied, strengthened, challenged, and even at times defeated by the prayers, advice, and honest counsel of those around him: bishops, priests, religious, the faithful young and old, families, and friends in Eritrea and in the diaspora abroad. In these 25 years of journey, I was not alone, he said, inviting all present to join him in magnifying the Lord together.\nArchbishop Tesfamariam used the occasion to trace the history of the Ge'ez Rite Catholic Church in Eritrea, which was established in 1930 with Bishop Kidanemariam Kassa as the first indigenous bishop. He named each of his five predecessors in the seat of the Arch Eparchy of Asmara: Bishop Kidanemariam Kassa, Bishop Yakob Ghebreyesus, Bishop Asratemariam Yemiru, Bishop Abraha Franswa, and Bishop Zekarias Yohannes, before noting that he himself is the sixth successor. From the Eparchy of Asmara, three further episcopal seats have been born: the Eparchies of Barentu, Keren, and Segeneiti.\nWith pastoral humility, the Archbishop noted that he is already praying for the bishop who will one day succeed him. Trusting in God, we did what we can, and the rest will be completed by those who succeed me, he said, offering a prayer of eternal rest for those who have gone before him and wisdom for those who will follow.\nHe also expressed particular devotion to two great missionary saints who have accompanied his ministry: St. Justin De Jacobi and St. Daniel Comboni. Through their intercession and example, they have played a special role in my pastoral ministry, he said, and every morning I pray for their intercession.\n[caption id=attachment_24967 align=alignright width=300] Rev. Fr. Thomas presenting short life history of the archbishop[/caption]\nAt the conclusion of the Mass, Rev. Fr. Thomas Negash, Secretary General of the Catholic Secretariat of the Arch Eparchy of Asmara, presented a brief account of the Archbishop's life and 25 years of episcopal ministry.\nBorn in Berakit Abay in December 1948, Archbishop Tesfamariam entered the Comboni Minor Seminary in Dekemhare on 10th October 1963. He completed his novitiate in Ethiopia, made his first temporary vow on June 25, 1973 — the Feast of St. Daniel Comboni — and pursued studies in Philosophy in Asmara and Theology in Uganda. He was ordained a priest on February 18, 1979, by the late Bishop Abraha François, in the Comboni Fathers' convent in Asmara.\nHis priestly ministry took him from his home village of Berakit Abay, where he taught Catechism to children and youth, to Uganda, where he served as a missionary in Karamoja from 1979 to 1985, to Addis Ababa, and eventually to Chicago, where he served as head of students and completed a Master's Degree in Pastoral Theology, while also providing pastoral care for Catholics in San Francisco.\nReturning to Eritrea, he served as Coordinator of Pastoral Activities in the Catholic Secretariat of the Eparchy of Asmara from 1998 to 2001, playing a leading role in pastoral and administrative development and guiding the first Eparchial Synod.\nOn June 25, 2001, he was nominated by Pope St. John Paul II to succeed the late Bishop Zecarias Yohannes and was ordained bishop on September 16, 2001, at the Cathedral of Our Lady of Perpetual Help — the same cathedral where he celebrated his Silver Jubilee a quarter of a century later.",
+          "url": "https://communications.amecea.org/index.php/2026/07/04/eritrea-archbishop-tesfamariam-of-asmara-marks-25-years-of-episcopal-service/",
+          "source": {
+            "name": "AMECEA"
+          },
+          "publishedAt": "2026-07-04T01:25:53Z",
+          "image": "https://communications.amecea.org/wp-content/uploads/2016/05/cropped-AMECEA-LOGO-32x32.jpg",
+          "language": "en"
+        },
+        {
+          "title": "'How has Vaibhav Sooryavanshi not played?' : Ex-England captain baffled by India's decision",
+          "description": "Cricket News: The excitement around Vaibhav Sooryavanshi has gone far beyond India, with the 15-year-old attracting attention from cricket fans across the world. Su.",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/how-has-vaibhav-sooryavanshi-not-played-ex-england-captain-baffled-by-indias-decision/articleshow/132173080.cms",
+          "source": {
+            "name": "The Times of India"
+          },
+          "publishedAt": "2026-07-04T01:25:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-132173085,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "language": "en"
+        },
+        {
+          "title": "2026 FIFA World Cup Round of 16: Full schedule, fixtures, dates and kickoff times",
+          "description": "Check out the complete Round of 16 schedule for the 2026 FIFA World Cup, including dates, kickoff times, venues and matchups.",
+          "url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/when-are-the-2026-fifa-world-cup-round-of-16-matches-full-schedule-dates-and-kickoff-times-2026-07-04",
+          "source": {
+            "name": "beIN SPORTS"
+          },
+          "publishedAt": "2026-07-04T01:25:00Z",
+          "image": "https://prod-media.beinsports.com/image/Messi%2C%20Cristiano%20y%20Mbapp%C3%A9.1080.jpg",
+          "language": "en"
+        },
+        {
+          "title": "US House of Reps honours Uzodimma for transformative leadership",
+          "description": "Ahead of his historic address to the House of Lords in London on Friday,  Imo State Governor, Senator Hope Uzodimma has received a special recognition from the United States House of Representatives for his transformative leadership.  Uzodimma, apart from the address at the House of Lords , would be receiving “African Inspirational Leadership and Good Governance Award” […]",
+          "url": "https://www.vanguardngr.com/2026/07/us-house-of-reps-honours-uzodimma-for-transformative-leadership/",
+          "source": {
+            "name": "Vanguard News"
+          },
+          "publishedAt": "2026-07-04T01:24:24Z",
+          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/03/Uzodimma.webp",
+          "language": "en"
+        },
+        {
+          "title": "PS6 Could Be Digital-Only After PlayStation Ends Physical Game Discs",
+          "description": "Sony confirmed it will stop producing new PlayStation game discs from 2028, underscoring the company’s shift toward digital distribution.\nIn analysis cited by Forbes, an analyst suggested the PS6 coul...",
+          "url": "https://www.yahoo.com/news/videos/ps6-could-digital-only-playstation-012451795.html",
+          "source": {
+            "name": "Yahoo"
+          },
+          "publishedAt": "2026-07-04T01:24:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/e7f861ccd24a44cc9f6f2e49a52507f71ac5092ce4f09a6b2ef16ff3519fa968/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fgamerevolution_videos_410%2F568ad3f61b814eb53de5a76a1afddbbd",
           "language": "en"
         }
       ]
