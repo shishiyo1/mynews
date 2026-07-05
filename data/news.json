@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-05T13:42:01.119Z",
+  "updatedAt": "2026-07-05T16:10:02.282Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "イングランド、「神の手」「5人抜き」の悪夢払拭へ 因縁の地アステカでメキシコと激突",
+          "description": "現地時間7月5日（日本時間6日）、エスタディオ・アステカ・メキシコシティで北中米ワールドカップ（W杯）のホスト国メキシ…",
+          "url": "https://sports.yahoo.co.jp/column/detail/2026070500001-spnavi",
+          "source": {
+            "name": "スポーツナビ"
+          },
+          "publishedAt": "2026-07-05T03:20:00Z",
+          "image": "https://sports-pctr.c.yimg.jp/dk/iwiz-sports/text/images/2026/0705/2026070500001-spnavi_1783217118_view.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "「ドンデコルテ」渡辺銀次、「ＶＩＶＡＮＴ」配信ドラマで俳優デビュー決定「初めての外国がバルカ共和国になるとは」（スポーツ報知）",
+          "description": "昨年の漫才日本一決定戦「Ｍ―１グランプリ２０２５」で準優勝だったお笑いコンビ「ドンデコルテ」渡辺銀次が、ＴＢＳ日曜劇場「ＶＩＶＡＮＴ」（日曜・後９時）のサイドストーリーとして１２日からＵ－ＮＥＸＴ",
+          "url": "https://news.yahoo.co.jp/articles/dd4a7dc262246f43ed09e05cf69b5e0cb95adfe7",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-05T03:00:07Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260705-07031222-sph-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "Windowsの話題の新機能「LLP」を有効にしたら、アプリの起動が早くなったぞ！",
+          "description": "Windows 11に導入予定の隠し高速化機能「Low Latency Profile（LLP）」を先取りして有効化する方法を解説。最新PCでも発生する動作の遅れを解消し、アプリやメニューの起動を劇的にスピードアップさせる手順と、バッテリー消費などの注意点を紹介します。",
+          "url": "https://www.lifehacker.jp/article/2607-windows-11s-hidden-speed-boost-is-here-and-you-can-enable-it-now/",
+          "source": {
+            "name": "ライフハッカー・ジャパン"
+          },
+          "publishedAt": "2026-07-05T03:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/07/03/788199e1-60f3-4651-9c43-df5bbc53ec4b/original.png?w=1200&h=630&f=jpg",
+          "language": "ja"
+        },
+        {
+          "title": "富士山「山開き」初の週末 外国人客が雨具不足で入山拒否や押し問答",
+          "description": "富士山が1日に山開きしてから初めての週末を迎えました。今年はキャッシュレス決済や深夜直行バスなど新たな取り組みが始まる一方で、軽装登山への対策も強化され、ゲートでは押し問答となる場面も見られました",
+          "url": "https://news.yahoo.co.jp/articles/21b61fd1e1e40219373eb9cb3f1a457084701389",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-05T02:39:15Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260705-90194338-ann-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【台風情報】ダブル台風の最新の進路予想 台風9号は10日午前9時には沖縄の南に達する見込み 台風10号は熱帯低気圧に変わる見込み",
+          "description": "気象庁によりますと、猛烈な台風9号（バービー）は、5日午前9時、マリアナ諸島にあって、毎時10kmの速さで西へ進んでいます。また、台風10号(メイサーク)は、5日午前9時、華南にあって、毎時10km",
+          "url": "https://news.yahoo.co.jp/articles/dd003e7e0fc3d4929f27716a14a45a2f934478db",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-05T02:38:01Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260705-90028846-nbstv-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "どうやって生き延びた？ 白色矮星を公転する太陽系外惑星「WD 1856 b」をウェッブ宇宙望遠鏡が観測",
+          "description": "ウェッブ宇宙望遠鏡が、白色矮星を公転する巨大惑星WD 1856 bの大気と温度を測定。メタンなどの炭化水素や約126℃の余熱から、主星の死後に軌道を変えた可能性が示されました",
+          "url": "https://sorae.info/astronomy/20260705-wd-1856-b.html",
+          "source": {
+            "name": "sorae 宇宙へのポータルサイト"
+          },
+          "publishedAt": "2026-07-05T02:10:34Z",
+          "image": "https://sorae.info/wp-content/uploads/2026/07/exoplanet-wd-1856-b-2026-07-02-1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "亀梨和也と結婚の田中みな実「サンジャポ」に直筆手紙寄せ報告「想像もできない人生が始まりそうです」",
+          "description": "TBSでは、7月5日に情報番組「サンデー・ジャポン」（日曜あさ9時54分）を放送。元KAT-TUNで俳優の亀梨和也との結婚を発表した女優の田中みな実が、同番組にコメントを寄せた。",
+          "url": "https://mdpr.jp/news/detail/4809297",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-07-05T02:06:02Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/HuAi/wm/HuAi4z3TW2fHQy1nnyk5IfRlcFa2zx96-x7mm4oSrUM.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
+        {
+          "title": "「秀吉に領地を削られても腐らず…」“姫”から“鬼”に呼び名が変わった長宗我部元親の実力（東洋経済オンライン）",
+          "description": "天下人となる兄を支えた弟の豊臣秀長にスポットライトをあてた、NHK大河ドラマ「豊臣兄弟！」。連載「秀吉を天下人にした男、豊臣秀長の実像」の第28回は、四国の覇者である長宗我部元親について『戦国最高の",
+          "url": "https://news.yahoo.co.jp/articles/c6392f6eaec2baf5ae90a81032a455898c12f3aa",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-05T02:00:40Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260705-00949645-toyo-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "クマに襲われ８０代男性けが 由利本荘市鳥海町",
           "description": "秋田県警由利本荘署によると、５日午前８時２０分ごろ、由利本荘市鳥海町猿倉でフキをとっていた８０代男性がクマに襲われ、頭や首、胸にけがを負った。搬送時は会話ができる状態だったという。",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-07-05T00:33:01Z",
           "image": "https://www.toei.co.jp/entertainment/news/detail/__icsFiles/afieldfile/2026/07/03/KR_MYTH_logo_4cW800H450.jpg",
           "language": "ja"
-        },
-        {
-          "title": "市況 - 株探ニュース",
-          "description": "ＮＹ市場は絶好調（２日のＮＹダウは５９４ドル高の５万２９００ドルと、史上最高値を更新）なのに、東京市場は“高値しぐれ”商状に陥っている。基本的に、当面は「好悪材料の綱引き」だろう。改めて述べるまでもない・・・。",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202607050018",
-          "source": {
-            "name": "かぶたん"
-          },
-          "publishedAt": "2026-07-05T00:15:00Z",
-          "image": "https://async.api.kabutan.jp/og_image?title=%E3%80%90%E6%9D%89%E6%9D%91%E5%AF%8C%E7%94%9F%E3%81%AE%E7%9F%AD%E6%9C%9F%E7%9B%B8%E5%A0%B4%E8%A6%B3%E6%B8%AC%E3%80%91%20%E2%94%80%E3%82%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E5%8B%95%E3%81%8D%E3%81%AB%E3%81%93%E3%81%A0%E3%82%8F%E3%82%8B%E3%81%AA%EF%BC%81",
-          "language": "ja"
-        },
-        {
-          "title": "【AI漫才】Googleの読み上げ専用モデルの実力は？ 漫才台本の読み上げを「SUNO」とガチ比較してみた！",
-          "description": "少し前までAIで楽曲制作にハマっていた私（佐藤）。その熱が少し冷めて、最近は読み上げに挑んでみている。「SUNO」でも読み上げをできなくはないのだが、基本が曲作りに …",
-          "url": "https://rocketnews24.com/2026/07/05/2777682/",
-          "source": {
-            "name": "ロケットニュース24"
-          },
-          "publishedAt": "2026-07-05T00:00:40Z",
-          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/aimanzai20.jpg?w=1200&h=630&crop=1",
-          "language": "ja"
-        },
-        {
-          "title": "36畳リビングに室内プールも 住宅メーカー社長が建てた大豪邸の秘密 激化する住宅業界の競争",
-          "description": "36畳のリビングに、巨大なキッチン、フィットネスジム、そしてプールも備えた家。しかし、この豪邸を建てた背景には、住宅メーカーが直面する「ある事情」が見えてきます。（大石邦彦アンカーマン）「愛知県内の某",
-          "url": "https://article.auone.jp/detail/1/2/2/454_2_r_20260705_1783209866881484",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-07-05T00:00:00Z",
-          "image": "https://portal.st-img.jp/thumb/b30f374d34bc9e24f7bbadb20271d444_1783209866_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "フェルナンド・アロンソ「エネルギーマネジメントはうまくいった」 F1イギリスGPの2日目最後尾のアストンマーティン・ホンダのポジティブな要素",
-          "description": "F1イギリスGPでも最下位を抜け出せていないアストンマーティン・ホンダ。しかしアロンソは、ポジティブな要素もあったと語った。",
-          "url": "https://jp.motorsport.com/f1/news/f1-2026-rd9-british-gp-qf-alonso-comments/10836331/",
-          "source": {
-            "name": "motorsport.com 日本版｜モータースポーツ情報サイト"
-          },
-          "publishedAt": "2026-07-04T23:50:27Z",
-          "image": "https://cdn-1.motorsport.com/images/amp/2Qe8VDX2/s6/fernando-alonso-aston-martin-r.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【W杯】エムバペがW杯通算19得点！ パラグアイの徹底抗戦に苦しんだフランス、後半のPKで競り勝ってベスト8進出",
-          "description": "現地時間7月4日に行なわれた北中米ワールドカップ（W杯）のラウンド16で、パラグアイとフランスが対戦した。前半からフランスがボール支配率で圧倒して攻め込むが、パラグアイは粘り強い守りで対抗し、カウン",
-          "url": "https://news.yahoo.co.jp/articles/4f66b09038d9899fdb3f9d4d56138031848ba0f4",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-04T23:04:24Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260705-00010001-soccerm-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "Watch LIFE NEWS｜ウオッチライフを楽しむ時計総合ニュースサイト",
-          "description": "業界唯一のアンティーク時計専門雑誌として2012年に創刊した「ロービート（LowBEAT）」が、セイコーやシチズンなど国産メーカーの1950〜90年代のヴィンテージ品を専門に販売するECサイト「JAP",
-          "url": "https://www.powerwatch.jp/2026/07/05/jvws/",
-          "source": {
-            "name": "Watch LIFE NEWS"
-          },
-          "publishedAt": "2026-07-04T22:10:08Z",
-          "image": "https://www.powerwatch.jp/wp496/wp-content/uploads/2026/07/01_top-1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "伝説的プライバシーツール、GrapheneOS生みの親の決裂",
-          "description": "モバイルセキュリティの最高峰として知られるGrapheneOSは、世界中で愛されている。だが、その歴史の中心にいるふたりの男のあいだには愛のかけらもない。",
-          "url": "https://wired.jp/article/sz-they-built-privacy-tool-grapheneos-now-sworn-enemies/",
-          "source": {
-            "name": "WIRED.jp"
-          },
-          "publishedAt": "2026-07-04T22:00:00Z",
-          "image": "https://media.wired.jp/photos/6a4385fed7705041b11596ea/16:9/w_1280,c_limit/wired%20final%20featured%20illustration.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "インフルエンサー戦争が熱い、中国スマホ4社「ミドルハイ」春秋決戦（ITmedia Mobile）",
-          "description": "2026年5月末に、中国・深センの街中や家電量販店に立ち寄ったところ、芸能人をアンバサダー（広告塔）に使ったスマートフォンの広告が目立っていました。実は毎年春と秋の2回、Huawei、OPPO、v",
-          "url": "https://news.yahoo.co.jp/articles/a2ac2dd47b7132143ae58833135d09c478586ac1",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-04T21:16:45Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260705-00000001-zdn_m-000-1-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Founder of prominent underground church released from prison in China",
-          "description": "Ezra Jin, founder of Zion Church, lands in the US and reunites with family who are ‘overwhelmed with joy’",
-          "url": "https://www.theguardian.com/world/2026/jul/05/founder-of-prominent-underground-church-released-from-prison-in-china",
+          "title": "Ol Kalou decides: The making of Ruto-Gachagua fight for Mt Kenya supremacy",
+          "description": "Ruto's administration has unveiled several development projects in Nyandarua in an attempt to woo voters in the Ol Kalou byelection.",
+          "url": "https://www.standardmedia.co.ke/politics/article/2001552033/ol-kalou-decides-the-making-of-ruto-gachagua-fight-for-mt-kenya-supremacy",
           "source": {
-            "name": "The Guardian"
+            "name": "standardmedia.co.ke"
           },
-          "publishedAt": "2026-07-05T01:41:00Z",
-          "image": "https://i.guim.co.uk/img/media/50e10a77d9b79b23bad025794b01db3ca3db88f5/173_149_666_533/master/666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a89924c625a24dc57bb467d987d44ce8",
+          "publishedAt": "2026-07-05T04:08:45Z",
+          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/ndKGbvPbXsBozbhMGnkIOIzGI1kaaboB1jKTn0e6.jpg",
           "language": "en"
         },
         {
-          "title": "Kylian Mbappe says France can get its ‘hands dirty’ too after scrappy win over Paraguay",
-          "description": "“They thought we’d turn up in tuxedos, that we’d just come to pull off some spectacular moves,” Mbappe said after the match.",
-          "url": "https://www.japantimes.co.jp/sports/2026/07/05/soccer/france-paraguay-world-cup/",
+          "title": "Abuse in top Irish restaurants: ‘I remember having a silver salver thrown at me - to hit me’",
+          "description": "Research on conditions in Irish restaurant kitchens has found ‘disconcertingly high’ numbers of staff reporting poor treatment, but how deep does the problem go?",
+          "url": "https://www.irishtimes.com/food/restaurants/2026/07/05/abuse-in-top-irish-restaurants-i-remember-having-a-silver-salver-thrown-at-me-to-hit-me/",
           "source": {
-            "name": "The Japan Times"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-07-05T01:39:00Z",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/05/549899.JPG?v=3.1",
+          "publishedAt": "2026-07-05T04:06:06Z",
+          "image": "https://www.irishtimes.com/resizer/v2/5RMOMRCYXZGZNO2AGSQWVKAZUU.JPG?smart=true&auth=1f4eb17b6dec9e1b8117fd714defa8e118aa084cdfeeabbdfef2f364a28e650c&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Farage denies rules broken after reports benefits from ally were not declared",
-          "description": "The Sunday Times says the Reform UK leader failed to register the support supplied by a man who had been convicted of fraud in the US.",
-          "url": "https://www.bbc.co.uk/news/articles/cy0424end7vo",
+          "title": "Ethiopian PM says \"We Continue Our March Despite Challenges from Internal and External Forces",
+          "description": "Ethiopian PM Abiy Ahmed has said that there are both internal and external forces that do not want Ethiopia to move forward. Read more.",
+          "url": "https://borkena.com/2026/07/04/news-ethiopian-pm-says-we-continue-our-march-despite-challenges-from-internal-and-external-forces/",
           "source": {
-            "name": "BBC"
+            "name": "Borkena"
           },
-          "publishedAt": "2026-07-05T01:33:15Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f411/live/716f3cb0-77fe-11f1-9510-1546718f668b.jpg",
+          "publishedAt": "2026-07-05T04:06:00Z",
+          "image": "https://borkena.com/wp-content/uploads/2026/07/Abiy-Ahmed-_-Ethiopia-News-_-Arbaminch.jpg",
           "language": "en"
         },
         {
-          "title": "England players won't use Viagra for altitude in Mexico, Tuchel says",
-          "description": "England players will do everything they can to fight the altitude during Sunday's World Cup round of 16 match at Mexico — well, almost everything.",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/04/england-viagra-altitude-mexico-world-cup-tuchel/90808727007/",
+          "title": "HKU Astronomer Joins Study Weighing Ancient Black Hole",
+          "description": "Artist's illustration showing JWST, aided by gravitational-lensing, enabled the team to measure the mass of an inactive black hole in the early",
+          "url": "https://www.miragenews.com/hku-astronomer-joins-study-weighing-ancient-1704785/",
           "source": {
-            "name": "USA Today"
+            "name": "Mirage News"
           },
-          "publishedAt": "2026-07-05T01:32:35Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/05/USAT/90808925007-afp-2284125272.jpg?crop=7895,4444,x0,y823&width=3200&height=1802&format=pjpg&auto=webp",
+          "publishedAt": "2026-07-05T04:06:00Z",
+          "image": "https://www.hku.hk/f/news/29219/826p376/Fig1.jpg",
           "language": "en"
         },
         {
-          "title": "Report: Pakistan to Host Round of U.S.",
-          "description": "Lebanon report: 4303 killed, 12202 wounded, by Israeli fire since March 2. RECAP: Pakistan to host round of U.S.-Iran talks, Netanyahu seeks White House meeting as soon as next week . Report: Pakistan to host round of U.S.-Iran talks next Saturday",
-          "url": "https://www.haaretz.com/israel-news/israel-security/2026-07-05/ty-article-live/live-updates/0000019f-2f08-d746-adff-ff49dbaf0000",
+          "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
+          "description": "Hubble has captured a spectacular view of LH 95, where about 2,500 young stars are still on their journey to becoming full-fledged stars. Scientists discovered these growing stars can keep pulling in gas and dust for millions of years, extending an important stage of stellar development. The region also contains multiple generations of stars living side by side, offering fresh clues about how star formation unfolds over time.",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260704232639.htm",
           "source": {
-            "name": "Haaretz"
+            "name": "ScienceDaily"
           },
-          "publishedAt": "2026-07-05T01:31:00Z",
-          "image": "https://img.haarets.co.il/bs/0000019f-2f08-d746-adff-ff49dbaf0000/6f/1f/d38e36f2414ab779e336f94516ad/471585-2.jpg?&width=1200&height=630&cmsprod",
+          "publishedAt": "2026-07-05T04:05:03Z",
+          "image": "https://www.sciencedaily.com/images/1920/hubble-lmc-lh95.webp",
           "language": "en"
         },
         {
-          "title": "Vaibhav Sooryavanshi breaks Sachin and Kohli records on dream India debut",
-          "description": "Vaibhav Sooryavanshi, 15, becomes India’s youngest international cricketer, breaking Sachin Tendulkar and Virat Kohli records with a fearless T20I debut vs England.",
-          "url": "https://gulfnews.com/sport/cricket/vaibhav-sooryavanshi-breaks-sachin-and-kohli-records-on-dream-india-debut-1.500597105",
+          "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
+          "description": "Hubble has captured a spectacular view of LH 95, where about 2,500 young stars are still on their journey to becoming full-fledged stars. Scientists discovered these growing stars can keep pulling in gas and dust for millions of years, extending an important stage of stellar development. The region also contains multiple generations of stars living side by side, offering fresh clues about how star formation unfolds over time.",
+          "url": "http://www.sciencedaily.com/releases/2026/07/260704232639.htm",
           "source": {
-            "name": "Gulf News"
+            "name": "ScienceDaily"
           },
-          "publishedAt": "2026-07-05T01:30:00Z",
-          "image": "https://media.assettype.com/gulfnews%2F2026-07-04%2Fvz5qmpr7%2FVaibhav-Sooryavanshi?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "publishedAt": "2026-07-05T04:05:03Z",
+          "image": "https://www.sciencedaily.com/images/1920/hubble-lmc-lh95.webp",
           "language": "en"
         },
         {
-          "title": "Houses, SUVs: Lifestyles of Ram temple theft accused changed dramatically; Rs 6-8 lakh siphoned off daily, reveals probe",
-          "description": "LUCKNOW: A significant rise in the financial status of most of those accused of siphoning off donations to the Ram Temple in Ayodhya has come to light.",
-          "url": "https://timesofindia.indiatimes.com/city/lucknow/houses-suvs-lifestyles-of-ram-temple-theft-accused-changed-dramatically-rs-6-8-lakh-siphoned-off-daily-reveals-probe/articleshow/132189680.cms",
+          "title": "The Brooklyn Bridge Briefly Catches Fire During a Fireworks Display",
+          "description": "The fire appeared to have been extinguished by shortly after 10 p.m., the police said. No injuries were reported.",
+          "url": "https://www.nytimes.com/2026/07/04/nyregion/fire-brooklyn-bridge-fireworks.html",
           "source": {
-            "name": "The Times of India"
+            "name": "The New York Times"
           },
-          "publishedAt": "2026-07-05T01:30:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-132189691,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-07-05T04:05:00Z",
+          "image": "https://static01.nyt.com/images/2026/07/04/arts/fire_bridge/fire_bridge-facebookJumbo.jpg",
           "language": "en"
         },
         {
-          "title": "Formula 1: F1 boss Stefano Domenicali reveals hope to restore cancelled Middle East race to 2026 calendar",
-          "description": "F1 president Stefano Domenicali says he is hopeful of restoring a cancelled race to the 2026 calendar; he is also hopeful races in Qatar and Abu Dhabi will go ahead; watch Sundays British GP at 3pm live on Sky Sports F1, Sky Sports Main Event and Sky One",
-          "url": "https://www.skysports.com/f1/news/12433/13560321/formula-1-f1-boss-stefano-domenicali-reveals-hope-to-restore-cancelled-middle-east-race-to-2026-calendar",
+          "title": "Global Heating Threatens Kidney, Heart Health of Workers",
+          "description": "About half the people in the world are suffering the consequences of more frequent and more intense extreme heat events",
+          "url": "https://www.juancole.com/2026/07/heating-threatens-workers.html",
           "source": {
-            "name": "Sky Sports"
+            "name": "Informed Comment"
           },
-          "publishedAt": "2026-07-05T01:30:00Z",
-          "image": "https://e0.365dm.com/26/02/1600x900/skysports-george-russell-mercedes_7163257.jpg?20260212144254",
+          "publishedAt": "2026-07-05T04:04:02Z",
+          "image": "https://media.juancole.com/images/2026/07/david-geneugelijk-d4j5hns6sj8-unsplash.jpg",
           "language": "en"
         },
         {
-          "title": "Baybus OnDemand to end in Tauranga despite early success",
-          "description": "The Baybus OnDemand service will be scrapped this year, despite attracting more than five times the passengers of the bus route it replaced. Bay of Plenty...",
-          "url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/baybus-ondemand-to-end-in-tauranga-despite-early-success/3E55TUEIZJHUDEK2N4YQF7CGAQ/",
+          "title": "As Xi Looks to Extend His Rule, He Leans on a Longtime Ally",
+          "description": "Xi Jinping is preparing to extend his rule as China’s leader and bring fresh blood into the Communist Party elite. Cai Qi is the man he’s tasking to help.",
+          "url": "https://www.nytimes.com/2026/07/05/world/asia/china-xi-leadership-cai-qi.html",
           "source": {
-            "name": "NZ Herald"
+            "name": "The New York Times"
           },
-          "publishedAt": "2026-07-05T01:30:00Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/4BSBKVQ2ZZH6NCGFQW4AQR34JA.jpg?auth=116506b512a63464e734231579de0d326fb57deb5a41ad11d07b1cf58e494729&width=1200&height=675&quality=70&focal=1076%2C667&smart=false",
+          "publishedAt": "2026-07-05T04:01:06Z",
+          "image": "https://static01.nyt.com/images/2026/07/02/multimedia/00int-china-politics-01-zjlg/00int-china-politics-01-zjlg-facebookJumbo.jpg",
           "language": "en"
         },
         {
-          "title": "First plant to test run in 35 days as rehabilitation",
-          "description": "Foreign expatriates and technical experts engaged by the Benue Investment and Property Company Limited (BIPC) have intensified rehabilitation work at the Taraku Mills, with plans to power and test-run the facility’s first production plant within the next 30 to 35 days.",
-          "url": "https://thesun.ng/taraku-mills-first-plant-to-test-run-in-35-days-as-rehabilitation-continues/",
+          "title": "Fifa World Cup: Ghana boss Carlos Queiroz rues African limitations after Colombia loss",
+          "description": "Only two teams from continent left standing, seven European teams, four from South America and three North Americans made it into last-16 draw.",
+          "url": "https://www.scmp.com/sport/football/article/3359450/fifa-world-cup-ghana-boss-carlos-queiroz-rues-african-limitations-after-colombia-loss",
           "source": {
-            "name": "The Sun Nigeria"
+            "name": "South China Morning Post"
           },
-          "publishedAt": "2026-07-05T01:27:51Z",
-          "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/07/1783156749991.jpg",
+          "publishedAt": "2026-07-05T04:00:34Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/05/8d80ed4e-1fa3-4291-b0e6-7b997e033dda_c0c052e5.jpg?itok=o6lxZEdi&v=1783222777",
           "language": "en"
         }
       ]
