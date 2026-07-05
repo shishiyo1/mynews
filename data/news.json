@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-05T19:19:36.827Z",
+  "updatedAt": "2026-07-05T22:02:55.572Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "最新情報②ー資生堂・JAL レディスオープンー次戦へひとこと",
+          "description": "資生堂・JAL レディスオープン　戸塚カントリー倶楽部 東コース (神奈川県)　最終日宮澤 美咲（2位タイ：-12）「初…",
+          "url": "https://sports.yahoo.co.jp/official/detail/2026070500055-spnaviow",
+          "source": {
+            "name": "スポーツナビ"
+          },
+          "publishedAt": "2026-07-05T09:33:00Z",
+          "image": "https://sports-pctr.c.yimg.jp/dk/iwiz-sports/text/images/2026/0705/2026070500055-spnaviow_1783243695_view.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "【独自】福岡県議が自民県議団幹部に2750万円 「汗をかく気はあるか」現金要求か",
+          "description": "高すぎる海外視察に批判が相次いでいる福岡県議会で、新たな問題です。県議会の議員2人が、議長、副議長就任に際して、自民党県議団の幹部に合わせて2750万円を現金で手渡したと、FNNの取材に証言しました。福岡県議会・吉松源昭県議：「他会派との懇親ゴルフの費用を持ってくれ」と。原口先生ですね。「議会運営について、汗をかく気はあるんだろう」と。現職の吉松源昭県議は、2020年6月から県議会議長を務めました。その就任に際し、「自民党県議団の幹部から、他会派への根回しのゴルフ代などの名目で、約2000万円…",
+          "url": "https://www.fnn.jp/articles/-/1070433",
+          "source": {
+            "name": "FNNプライムオンライン"
+          },
+          "publishedAt": "2026-07-05T09:24:00Z",
+          "image": "https://fnn.ismcdn.jp/mwimgs/0/d/600/img_0d133ab0da7c74454ec98a6b72559267605609.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "8日頃から関東～九州で猛烈な暑さ 熱中症警戒 10日は沖縄に台風接近 2週間天気",
+          "description": "関東から九州では、8日(水)から12日(日)頃は、晴れて気温が上がり、猛烈な暑さとなる所もあるでしょう。熱中症のリスクが高まりそうです。10日(金)頃は、沖縄に台風9号が接近する見込みです。その後、13日(月)から18日(土)頃は、全国的に天気が変わりやすいものの、厳しい暑さは続くでしょう。体調管理に気を付けてお過ごしください。",
+          "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/07/05/39605.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-05T09:06:43Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/396/39605/main/20260705174053/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "株価指数先物 【週間展望】―TOPIX型へのローテーションの動きを見極め",
+          "description": "今週の日経２２５先物は、物色の圏外に置かれていた景気敏感株などの見直しに伴うＴＯＰＩＸ型へのローテーションの流れが強まるかを見極めながらのトレードとなりそうだ。　前週の日経２２５先物は週初より３日続伸し１日には一時７万２０００円台を回復したが・・・。",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607050050",
+          "source": {
+            "name": "株探"
+          },
+          "publishedAt": "2026-07-05T08:00:00Z",
+          "image": "https://async.api.kabutan.jp/og_image?title=%E6%A0%AA%E4%BE%A1%E6%8C%87%E6%95%B0%E5%85%88%E7%89%A9%20%E3%80%90%E9%80%B1%E9%96%93%E5%B1%95%E6%9C%9B%E3%80%91%E2%80%95TOPIX%E5%9E%8B%E3%81%B8%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E5%8B%95%E3%81%8D%E3%82%92%E8%A6%8B%E6%A5%B5%E3%82%81",
+          "language": "ja"
+        },
+        {
+          "title": "ハリウッドの多様性が再び急降下。UCLAが数字で示す|au Webポータル",
+          "description": "｢自由の国｣なはずなのにね…。｢#OscarsSoWhite（アカデミー賞は白人多すぎという批判キャンペーン）｣のような運動が盛んになったことによるプレッシャーや、より幅広い人材を起用したほうが経済合",
+          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260705_1783241702244607",
+          "source": {
+            "name": "au Webポータル"
+          },
+          "publishedAt": "2026-07-05T08:00:00Z",
+          "image": "https://portal.st-img.jp/thumb/107d44ffc83d20505c547e03d9c18fb3_1783241702_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている",
+          "description": "2026年5月19日の記事を編集して再掲載しています。Google Chromeが、ユーザーの同意なしに約4GBものAIモデルをデバイスに自動的にダウンロード・保存させているという件が判明しました。「OptGuideOnDeviceMode",
+          "url": "https://www.gizmodo.jp/article/the-tiny-ai-model-that-lives-inside-the-chrome-browser-hallucinates-a-whole-lot-zce/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-07-05T07:35:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/05/18/shutterstock_2559046177.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "WEST.藤井流星、初共演の駿河太郎にギャップ感じる「強面っちゃ強面じゃないですか」 会って数日で“太郎ちゃん”呼び",
+          "description": "ニュース｜　7人組グループ・WEST.の藤井流星が5日、都内で行われた『ROLL ((CAKE)) TIME』プレスコール＆初日前会見に登壇。初共演となる濱田龍臣と駿河太郎の印象を語った。　藤井は、報道陣から濱田と駿河の印象を問われると「人間としてですか？」と天然っぷりを発揮。会場の雰囲気を和らげた。",
+          "url": "https://www.oricon.co.jp/news/2465515/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-07-05T07:30:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2466000/2465515/20260705_144553_p_o_82830292.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【巨人】支配下再昇格の笹原操希、プロ１号が１－０決勝弾！２５年の中山礼都以来…井上温大は７回０封、圧巻の２０回１／３連続無失点でチームトップ７勝",
+          "description": "巨人が、３連敗を阻止した。下位打線にテコ入れを行い、６月に支配下選手に再昇格した笹原操希外野手が今季２度目のスタメン起用され、プロ初本塁打で先制。プロ１号が１－０の決勝弾となったのは、２０２５年６月",
+          "url": "https://hochi.news/articles/20260705-OHT1T51177.html",
+          "source": {
+            "name": "スポーツ報知"
+          },
+          "publishedAt": "2026-07-05T07:23:00Z",
+          "image": "https://hochi.news/images/2026/07/05/20260705-OHT1I51340-C.jpg",
+          "language": "ja"
+        },
         {
           "title": "イブラヒモビッチがパラグアイ戦のフランスを称賛「俺だったらこの試合で4枚レッドカードを貰っただろう」",
           "description": "元スウェーデン代表のズラタン・イブラヒモビッチ氏が『FOXスポーツ』でフランス代表対パラグアイ代表の解説を担当し、冷静さを保って勝利したフランスを称賛した。　この試合はパラグアイがラフプレーを連発。...",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-07-05T06:00:00Z",
           "image": "https://www.sankei.com/resizer/v2/UI56RIQHC5MQPP42LMATINWKNQ.jpg?auth=3b7f75ad351cbf391c9121a3da39445ce0bab98a4d830e6f00d31a087bbc4563&quality=50&focal=1362%2C722&width=1200&height=675",
           "language": "ja"
-        },
-        {
-          "title": "au Webポータル芸能ニュース",
-          "description": "山口県出身で吉本新喜劇好きお笑いタレントのやす子が5日、読売テレビ『上沼・高田のクギズケ!』（日曜午...",
-          "url": "https://article.auone.jp/detail/1/5/9/570_9_r_20260705_1783231022325680",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-07-05T05:54:00Z",
-          "image": "https://portal.st-img.jp/thumb/452cc5f9efe2c70b87532b80bb715910_1783231022_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "三菱「デリカD:5」19年目に異例の過去最高を更新 アルヴェルとは別次元の領域で人気",
-          "description": "トヨタのアルファード／ヴェルファイア、そしてノア／ヴォクシーは、日本のミニバン市場で圧倒的な強さを誇る2大ブランドであることは間違いない。",
-          "url": "https://www.sankei.com/article/20260705-LPQV6VJJ5BPAHAYD6YW2JNME3Y/",
-          "source": {
-            "name": "産経ニュース"
-          },
-          "publishedAt": "2026-07-05T05:00:00Z",
-          "image": "https://www.sankei.com/resizer/v2/SS7VHIJO6FOYDHVXPCQFLR36UY.jpg?auth=239f9ff0e53dd634e496ac33835dec22d264712c5a5324efebc4b1fc96b8192f&quality=50&focal=340%2C310&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "イングランド、「神の手」「5人抜き」の悪夢払拭へ 因縁の地アステカでメキシコと激突",
-          "description": "現地時間7月5日（日本時間6日）、エスタディオ・アステカ・メキシコシティで北中米ワールドカップ（W杯）のホスト国メキシ…",
-          "url": "https://sports.yahoo.co.jp/column/detail/2026070500001-spnavi",
-          "source": {
-            "name": "スポーツナビ"
-          },
-          "publishedAt": "2026-07-05T03:20:00Z",
-          "image": "https://sports-pctr.c.yimg.jp/dk/iwiz-sports/text/images/2026/0705/2026070500001-spnavi_1783217118_view.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "「ドンデコルテ」渡辺銀次、「ＶＩＶＡＮＴ」配信ドラマで俳優デビュー決定「初めての外国がバルカ共和国になるとは」（スポーツ報知）",
-          "description": "昨年の漫才日本一決定戦「Ｍ―１グランプリ２０２５」で準優勝だったお笑いコンビ「ドンデコルテ」渡辺銀次が、ＴＢＳ日曜劇場「ＶＩＶＡＮＴ」（日曜・後９時）のサイドストーリーとして１２日からＵ－ＮＥＸＴ",
-          "url": "https://news.yahoo.co.jp/articles/dd4a7dc262246f43ed09e05cf69b5e0cb95adfe7",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-05T03:00:07Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260705-07031222-sph-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "「VIVANT」ドラムの過去描くサイドストーリー配信決定！物語のモチーフは『ハリー・ポッター』｜シネマトゥデイ",
-          "description": "日曜劇場「VIVANT」（TBS）の人気キャラクター・ドラム（富栄ドラム）にスポットを当てた完全新作サイドストーリー「ドラムーVIVANT THE ORIGIN STORYー」（全4話）が、7月12日（日）からU-NEXTで独占配信されることが決定した。",
-          "url": "https://www.cinematoday.jp/news/N0155674",
-          "source": {
-            "name": "シネマトゥデイ"
-          },
-          "publishedAt": "2026-07-05T03:00:00Z",
-          "image": "https://img.cinematoday.jp/a/YOrv2NJjvhjb/_size_r1200x630/_v_1783064013/main.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Windowsの話題の新機能「LLP」を有効にしたら、アプリの起動が早くなったぞ！",
-          "description": "Windows 11に導入予定の隠し高速化機能「Low Latency Profile（LLP）」を先取りして有効化する方法を解説。最新PCでも発生する動作の遅れを解消し、アプリやメニューの起動を劇的にスピードアップさせる手順と、バッテリー消費などの注意点を紹介します。",
-          "url": "https://www.lifehacker.jp/article/2607-windows-11s-hidden-speed-boost-is-here-and-you-can-enable-it-now/",
-          "source": {
-            "name": "ライフハッカー・ジャパン"
-          },
-          "publishedAt": "2026-07-05T03:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/07/03/788199e1-60f3-4651-9c43-df5bbc53ec4b/original.png?w=1200&h=630&f=jpg",
-          "language": "ja"
-        },
-        {
-          "title": "富士山「山開き」初の週末 外国人客が雨具不足で入山拒否や押し問答",
-          "description": "富士山が1日に山開きしてから初めての週末を迎えました。今年はキャッシュレス決済や深夜直行バスなど新たな取り組みが始まる一方で、軽装登山への対策も強化され、ゲートでは押し問答となる場面も見られました",
-          "url": "https://news.yahoo.co.jp/articles/21b61fd1e1e40219373eb9cb3f1a457084701389",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-05T02:39:15Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260705-90194338-ann-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【台風情報】ダブル台風の最新の進路予想 台風9号は10日午前9時には沖縄の南に達する見込み 台風10号は熱帯低気圧に変わる見込み",
-          "description": "気象庁によりますと、猛烈な台風9号（バービー）は、5日午前9時、マリアナ諸島にあって、毎時10kmの速さで西へ進んでいます。また、台風10号(メイサーク)は、5日午前9時、華南にあって、毎時10km",
-          "url": "https://news.yahoo.co.jp/articles/dd003e7e0fc3d4929f27716a14a45a2f934478db",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-05T02:38:01Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260705-90028846-nbstv-000-1-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "More than 1,000 people join Vietnamese traditional costume festival in Hue",
-          "description": "The Vietnamese traditional costume festival Bach Hoa Bo Hanh 2026, themed “Viet Phong Hoi Tu”, took place at the Hue Imperial Citadel on the afternoon of July 4, bringing together more than 1,000 lovers of traditional costumes from many localities across the country.",
-          "url": "https://en.nhandan.vn/more-than-1000-people-join-vietnamese-traditional-costume-festival-in-hue-post164078.html",
+          "title": "Alien-Like Reproductive Strategy Found in 125-Million-Year-Old Fossil",
+          "description": "Nature has imbued its mothers with many surprisingly strange ways to reproduce and care for their babies.",
+          "url": "https://www.sciencealert.com/alien-like-reproductive-strategy-found-in-125-million-year-old-fossil",
           "source": {
-            "name": "Nhan Dan Online"
+            "name": "ScienceAlert"
           },
-          "publishedAt": "2026-07-05T07:18:06Z",
-          "image": "https://en-cdn.nhandan.vn/images/3c6b1d7d6cd77f0dc549536a41e2cb9b31c58070ec07c16c580edb2ba2d24cf519ce8a9e13d52d3cd04f8e11d19f82d31de0bdbab0849abff09ec6c92f7cca48/bhbh-2jpg.jpg.webp",
+          "publishedAt": "2026-07-05T10:02:18Z",
+          "image": "https://www.sciencealert.com/images/2026/07/AlienReproduction.jpg",
           "language": "en"
         },
         {
-          "title": "Taylor Swift’s favorite teacher dies after cancer battle on same day as singer’s wedding to Travis Kelce",
-          "description": "Kirk Schwabe, Taylor Swift’s former criminal justice teacher in Nashville, died of cancer at age 69 on the same day as her wedding to Travis Kelce in New York City.",
-          "url": "https://pagesix.com/2026/07/05/entertainment/taylor-swifts-teacher-kirk-schwabe-dies-after-cancer-battle-on-same-day-as-singers-msg-wedding-to-travis-kelce/",
+          "title": "PS Omollo calls for community-government cooperation to advance development",
+          "description": "Interior Principal Secretary (PS) Raymond Omollo has urged communities to embrace partnerships with the government to help uphold security effectively.",
+          "url": "https://citizen.digital/article/ps-omollo-calls-for-community-government-cooperation-to-advance-development-n385869",
           "source": {
-            "name": "Page Six"
+            "name": "Citizen Digital"
           },
-          "publishedAt": "2026-07-05T07:18:00Z",
-          "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/133342848.jpg?quality=75&strip=all&w=1200",
+          "publishedAt": "2026-07-05T10:02:09Z",
+          "image": "https://assets.citizen.digital/171151/conversions/0a731463-7552-42fb-9388-08b94172942b_Omollo-og_image.webp",
           "language": "en"
         },
         {
-          "title": "Negri polls: I'd rather campaign statewide for BN than contest a seat, says KJ",
-          "description": "SEREMBAN: Former Umno Youth chief Khairy Jamaluddin says he would rather campaign for Barisan Nasional than contest in the Aug 1 Negri Sembilan state election.",
-          "url": "https://www.thestar.com.my/news/nation/2026/07/05/negri-polls-i039d-rather-campaign-statewide-for-bn-than-contest-a-seat-says-kj",
+          "title": "Home prices slip again: what apartments sold for across Israel",
+          "description": "Recent housing data and transactions reveal wide gaps between peripheral cities and central Israel, as CBS index shows a 1.3% annual decline",
+          "url": "https://www.ynetnews.com/real-estate/article/h12bocwxmg",
           "source": {
-            "name": "The Star"
+            "name": "Ynetnews"
           },
-          "publishedAt": "2026-07-05T07:18:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/07/05/3993294.jpg",
+          "publishedAt": "2026-07-05T10:01:55Z",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/21/Hku76ONrye/Hku76ONrye_0_296_3000_1689_0_large.jpg",
           "language": "en"
         },
         {
-          "title": "Nigerians Condemn Tinubu Government After President's Media Centre Shared AI Image Of First Lady Selling Akara",
-          "description": "The Nigerian presidency has come under heavy criticism after the President Bola Tinubu Media Centre shared an artificial intelligence (AI)-generated image depicting underfire first lady, Senator Oluremi Tinubu, frying and selling akara. The image, posted on the Presidency’s official social media accounts on Friday, showed the First Lady standing behind a roadside akara stand wearing an apron with the inscription, “Iya Alakara, fuelling the nation with love.”",
-          "url": "https://saharareporters.com/2026/07/04/nigerians-condemn-tinubu-government-after-presidents-media-centre-shared-ai-image-first",
+          "title": "Israeli scientists work out how cancer hijacks immune system",
+          "description": "The finding could eventually lead to new treatments",
+          "url": "https://www.thejc.com/news/israel/israeli-scientists-work-out-how-cancer-hijacks-immune-system-jqt49t0v",
           "source": {
-            "name": "Sahara Reporters"
+            "name": "The Jewish Chronicle"
           },
-          "publishedAt": "2026-07-05T07:16:43Z",
-          "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
+          "publishedAt": "2026-07-05T10:01:38Z",
+          "image": "https://api.thejc.atexcloud.io/image-service/view/acePublic/alias/contentid/1s8p4snhv7d11fd7r1a/0/tumors-and-imune-system-580-992e9d0ab527fa11d9ef7f9ad7e80376-jpeg.webp?w=1200&q=0.6",
           "language": "en"
         },
         {
-          "title": "Putin and Zelenskyy have 'very good' phone calls with Trump ahead of Nato summit",
-          "description": "On the front lines, Russian forces have made almost no progress in recent months, largely due to the presence of drones.",
-          "url": "https://www.thejournal.ie/putin-and-zelenskyy-have-very-good-phone-calls-with-trump-ahead-of-nato-summit-7091782-Jul2026/",
+          "title": "Penn doctor studied PCOS symptoms for more than a decade to rename the syndrome PMOS",
+          "description": "International experts, including Penn Medicine's Anuja Dokras, have announced that PCOS, a condition that can impact women's fertility, will be called polyendocrine metabolic ovarian syndrome (PMOS).",
+          "url": "https://www.inquirer.com/health/pcos-pmos-renaming-symptoms-anuja-dokras-upenn-20260705.html",
           "source": {
-            "name": "The Journal"
+            "name": "Inquirer.com"
           },
-          "publishedAt": "2026-07-05T07:16:00Z",
-          "image": "https://img2.thejournal.ie/article/7091782/river/?height=400&version=7091783",
+          "publishedAt": "2026-07-05T10:01:00Z",
+          "image": "https://www.inquirer.com/resizer/v2/AYOKTYSEEFBKVEAESRTVZAGETI.jpg?auth=8e43beeb6056846ae9ee4aeca7704945e8cff5a64f3d3fdf73a138b373f6d8b9&width=760&height=507&smart=true",
           "language": "en"
         },
         {
-          "title": "The Secret Of Why These Eleven Words Are Prominently Included When You Ask AI To Write A Creative Story",
-          "description": "Latest AI mystery is that there are 11 specific nouns used frequently by LLMs when creating short stories. Why those words? An AI insider analysis and scoop.",
-          "url": "https://www.forbes.com/sites/lanceeliot/2026/07/05/the-secret-of-why-these-eleven-words-are-prominently-included-when-you-ask-ai-to-write-a-creative-story/",
+          "title": "From Apartheid to Pan-Africanism: SA’s Africa Policy Gains Reversed",
+          "description": "Explore how South Africa's post-apartheid journey has shaped its role as a leader in Africa, the impact of recent anti-immigrant protests on its diplomatic standing, and the challenges it faces in maintaining its economic relationships across the continent.",
+          "url": "https://theafrican.co.za/tvbox/2026-07-05-from-apartheid-to-pan-africanism-sas-africa-policy-gains-reversed/",
+          "source": {
+            "name": "theafrican.co.za"
+          },
+          "publishedAt": "2026-07-05T10:00:37Z",
+          "image": "https://iol-prod.appspot.com/image/4bd3b5177da7afdc83ac01cc88dd368c6f37ff70/1000/jpeg",
+          "language": "en"
+        },
+        {
+          "title": "iPhone 18 Pro Release Date: A New September Timeline Emerges",
+          "description": "Apple’s next iPhones are just a couple of months away. However, a report from an industry heavyweight adds nuance to the expected release schedule.",
+          "url": "https://www.forbes.com/sites/davidphelan/2026/07/05/iphone-18-pro-release-date-a-new-september-timeline-emerges/",
           "source": {
             "name": "Forbes"
           },
-          "publishedAt": "2026-07-05T07:15:00Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a444a45d475fccbdfaab4b5/0x0.jpg?format=jpg&crop=1641,1094,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "publishedAt": "2026-07-05T10:00:19Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a4a0f2182060aebffa840f7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
           "language": "en"
         },
         {
-          "title": "Heavy rain hits Dunedin, surface flooding across city",
-          "description": "Heavy rainfall has arrived in Dunedin earlier than expected and is forecast to continue overnight, with surface flooding and some land instability reported.",
-          "url": "https://www.rnz.co.nz/news/weather/672039/heavy-rain-hits-dunedin-surface-flooding-across-city",
+          "title": "Today’s Wordle Hints for July 6, 2026",
+          "description": "Scroll down for hints and conversation about the puzzle for Monday, July 6, 2026.",
+          "url": "https://www.nytimes.com/2026/07/05/crosswords/wordle-review-1843.html",
           "source": {
-            "name": "RNZ"
+            "name": "The New York Times"
           },
-          "publishedAt": "2026-07-05T07:12:11Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--qW2yzxuV--/t_tohu-badge-facebook/f_auto/q_auto/4JLYACT_Image_5_jfif",
+          "publishedAt": "2026-07-05T10:00:11Z",
+          "image": "https://static01.nyt.com/images/2026/07/05/crosswords/06wordle-review-art-1843/06wordle-review-art-1843-facebookJumbo.jpg",
           "language": "en"
         },
         {
-          "title": "World Cup 2026: Mexico fans try to disturb England’s sleep, France and Morocco march on - live",
-          "description": "Join our writers for the latest news and reaction as the last-32 stage draws to a close",
-          "url": "https://www.theguardian.com/football/live/2026/jul/05/world-cup-2026-live-last-16-concludes-morocco-france-paraguay",
+          "title": "Startup Exec Boasts About Using AI to Churn Out Sports Content\"Without Human Input\"",
+          "description": "A startup is blazing new territory by churning out World Cup-themed AI slop for sports broadcasters all around the world.",
+          "url": "https://futurism.com/artificial-intelligence/ai-startup-sports-world-cup-video-slop",
           "source": {
-            "name": "The Guardian"
+            "name": "Futurism"
           },
-          "publishedAt": "2026-07-05T07:12:00Z",
-          "image": "https://i.guim.co.uk/img/media/7b90320611b5c4d7a67dbfcedeca4abcfb6be2ac/2_529_6013_4810/master/6013.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4bcd802a1e1ea09e7cd9ba3d6a373d80",
+          "publishedAt": "2026-07-05T10:00:00Z",
+          "image": "https://futurism.com/wp-content/uploads/2026/07/ai-startup-sports-world-cup-video-slop.jpg?quality=85&w=1200",
           "language": "en"
         },
         {
-          "title": "Wife of retired IAF Wing Commander dies after jumping from multi-level car park in Noida",
-          "description": "NOIDA: A woman from Noida allegedly jumped from the multi-level car park in Sector 18 on Saturday evening, police said.According to police, the deceas.",
-          "url": "https://timesofindia.indiatimes.com/city/noida/wife-of-retired-iaf-wing-commander-dies-after-jumping-from-multi-level-car-park-in-noida/articleshow/132191903.cms",
+          "title": "Startup Exec Boasts About Using AI to Churn Out Sports Content”Without Human Input”",
+          "description": "\"We create sports content for kids.\"",
+          "url": "https://nz.news.yahoo.com/startup-exec-boasts-using-ai-100000501.html",
           "source": {
-            "name": "The Times of India"
+            "name": "Yahoo News New Zealand"
           },
-          "publishedAt": "2026-07-05T07:12:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-132192243,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-          "language": "en"
-        },
-        {
-          "title": "'For deterrence in West PH Sea!' Faster AFP modernization urged as PH nears 10th anniversary of landmark arbitration win over China",
-          "description": "As the country approaches the 10th anniversary of its landmark arbitration victory against China, an independent think tank called on the national government to...",
-          "url": "https://mb.com.ph/2026/07/05/for-deterrence-in-west-ph-sea-faster-afp-modernization-urged-as-ph-nears-10th-anniversary-of-landmark-arbitration-win-over-china",
-          "source": {
-            "name": "Manila Bulletin"
-          },
-          "publishedAt": "2026-07-05T07:11:29Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/05/113934.webp",
+          "publishedAt": "2026-07-05T10:00:00Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/2HnofKe9HUD_j1xFM5gdEQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/futurism_981/04b95a9b99581587500349de368d11de",
           "language": "en"
         }
       ]
