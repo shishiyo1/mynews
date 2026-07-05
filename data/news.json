@@ -1,10 +1,54 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-05T16:10:02.282Z",
+  "updatedAt": "2026-07-05T19:19:36.827Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "イブラヒモビッチがパラグアイ戦のフランスを称賛「俺だったらこの試合で4枚レッドカードを貰っただろう」",
+          "description": "元スウェーデン代表のズラタン・イブラヒモビッチ氏が『FOXスポーツ』でフランス代表対パラグアイ代表の解説を担当し、冷静さを保って勝利したフランスを称賛した。　この試合はパラグアイがラフプレーを連発。...",
+          "url": "https://web.gekisaka.jp/news/worldcup/detail/?454936-454936-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-07-05T06:41:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/455000/454936/news_454936_1.jpg?time=20260705154313",
+          "language": "ja"
+        },
+        {
+          "title": "沖縄の「うんざりする光景」 日曜に書く 論説委員・川瀬弘至",
+          "description": "沖縄にも、保守派の優れたジャーナリストがいる。",
+          "url": "https://www.sankei.com/article/20260705-5UYTRPP7VNP6JEJL7PY4D5E2U4/",
+          "source": {
+            "name": "産経ニュース"
+          },
+          "publishedAt": "2026-07-05T06:00:00Z",
+          "image": "https://www.sankei.com/resizer/v2/UI56RIQHC5MQPP42LMATINWKNQ.jpg?auth=3b7f75ad351cbf391c9121a3da39445ce0bab98a4d830e6f00d31a087bbc4563&quality=50&focal=1362%2C722&width=1200&height=675",
+          "language": "ja"
+        },
+        {
+          "title": "au Webポータル芸能ニュース",
+          "description": "山口県出身で吉本新喜劇好きお笑いタレントのやす子が5日、読売テレビ『上沼・高田のクギズケ!』（日曜午...",
+          "url": "https://article.auone.jp/detail/1/5/9/570_9_r_20260705_1783231022325680",
+          "source": {
+            "name": "au Webポータル"
+          },
+          "publishedAt": "2026-07-05T05:54:00Z",
+          "image": "https://portal.st-img.jp/thumb/452cc5f9efe2c70b87532b80bb715910_1783231022_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "三菱「デリカD:5」19年目に異例の過去最高を更新 アルヴェルとは別次元の領域で人気",
+          "description": "トヨタのアルファード／ヴェルファイア、そしてノア／ヴォクシーは、日本のミニバン市場で圧倒的な強さを誇る2大ブランドであることは間違いない。",
+          "url": "https://www.sankei.com/article/20260705-LPQV6VJJ5BPAHAYD6YW2JNME3Y/",
+          "source": {
+            "name": "産経ニュース"
+          },
+          "publishedAt": "2026-07-05T05:00:00Z",
+          "image": "https://www.sankei.com/resizer/v2/SS7VHIJO6FOYDHVXPCQFLR36UY.jpg?auth=239f9ff0e53dd634e496ac33835dec22d264712c5a5324efebc4b1fc96b8192f&quality=50&focal=340%2C310&width=1200&height=675",
+          "language": "ja"
+        },
         {
           "title": "イングランド、「神の手」「5人抜き」の悪夢払拭へ 因縁の地アステカでメキシコと激突",
           "description": "現地時間7月5日（日本時間6日）、エスタディオ・アステカ・メキシコシティで北中米ワールドカップ（W杯）のホスト国メキシ…",
@@ -25,6 +69,17 @@
           },
           "publishedAt": "2026-07-05T03:00:07Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260705-07031222-sph-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "「VIVANT」ドラムの過去描くサイドストーリー配信決定！物語のモチーフは『ハリー・ポッター』｜シネマトゥデイ",
+          "description": "日曜劇場「VIVANT」（TBS）の人気キャラクター・ドラム（富栄ドラム）にスポットを当てた完全新作サイドストーリー「ドラムーVIVANT THE ORIGIN STORYー」（全4話）が、7月12日（日）からU-NEXTで独占配信されることが決定した。",
+          "url": "https://www.cinematoday.jp/news/N0155674",
+          "source": {
+            "name": "シネマトゥデイ"
+          },
+          "publishedAt": "2026-07-05T03:00:00Z",
+          "image": "https://img.cinematoday.jp/a/YOrv2NJjvhjb/_size_r1200x630/_v_1783064013/main.jpg",
           "language": "ja"
         },
         {
@@ -59,172 +114,117 @@
           "publishedAt": "2026-07-05T02:38:01Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260705-90028846-nbstv-000-1-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "どうやって生き延びた？ 白色矮星を公転する太陽系外惑星「WD 1856 b」をウェッブ宇宙望遠鏡が観測",
-          "description": "ウェッブ宇宙望遠鏡が、白色矮星を公転する巨大惑星WD 1856 bの大気と温度を測定。メタンなどの炭化水素や約126℃の余熱から、主星の死後に軌道を変えた可能性が示されました",
-          "url": "https://sorae.info/astronomy/20260705-wd-1856-b.html",
-          "source": {
-            "name": "sorae 宇宙へのポータルサイト"
-          },
-          "publishedAt": "2026-07-05T02:10:34Z",
-          "image": "https://sorae.info/wp-content/uploads/2026/07/exoplanet-wd-1856-b-2026-07-02-1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "亀梨和也と結婚の田中みな実「サンジャポ」に直筆手紙寄せ報告「想像もできない人生が始まりそうです」",
-          "description": "TBSでは、7月5日に情報番組「サンデー・ジャポン」（日曜あさ9時54分）を放送。元KAT-TUNで俳優の亀梨和也との結婚を発表した女優の田中みな実が、同番組にコメントを寄せた。",
-          "url": "https://mdpr.jp/news/detail/4809297",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-07-05T02:06:02Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/HuAi/wm/HuAi4z3TW2fHQy1nnyk5IfRlcFa2zx96-x7mm4oSrUM.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "「秀吉に領地を削られても腐らず…」“姫”から“鬼”に呼び名が変わった長宗我部元親の実力（東洋経済オンライン）",
-          "description": "天下人となる兄を支えた弟の豊臣秀長にスポットライトをあてた、NHK大河ドラマ「豊臣兄弟！」。連載「秀吉を天下人にした男、豊臣秀長の実像」の第28回は、四国の覇者である長宗我部元親について『戦国最高の",
-          "url": "https://news.yahoo.co.jp/articles/c6392f6eaec2baf5ae90a81032a455898c12f3aa",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-05T02:00:40Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260705-00949645-toyo-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "クマに襲われ８０代男性けが 由利本荘市鳥海町",
-          "description": "秋田県警由利本荘署によると、５日午前８時２０分ごろ、由利本荘市鳥海町猿倉でフキをとっていた８０代男性がクマに襲われ、頭や首、胸にけがを負った。搬送時は会話ができる状態だったという。",
-          "url": "https://www.sakigake.jp/news/article/20260705AK0004/",
-          "source": {
-            "name": "秋田魁新報電子版"
-          },
-          "publishedAt": "2026-07-05T00:45:00Z",
-          "image": "https://www.sakigake.jp/images/news-entry/20260705ak0004_02_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『仮面ライダーマイス』 ティザービジュアル ＆ムービー解禁!!",
-          "description": "『仮面ライダーマイス』 ティザービジュアル ＆ムービー解禁!!のページです。| 東映株式会社の映画やテレビ番組といった映像作品や、イベントなどエンタテインメントにまつわる情報をご案内しています。",
-          "url": "https://www.toei.co.jp/entertainment/news/detail/1249264_3483.html",
-          "source": {
-            "name": "toei.co.jp"
-          },
-          "publishedAt": "2026-07-05T00:33:01Z",
-          "image": "https://www.toei.co.jp/entertainment/news/detail/__icsFiles/afieldfile/2026/07/03/KR_MYTH_logo_4cW800H450.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Ol Kalou decides: The making of Ruto-Gachagua fight for Mt Kenya supremacy",
-          "description": "Ruto's administration has unveiled several development projects in Nyandarua in an attempt to woo voters in the Ol Kalou byelection.",
-          "url": "https://www.standardmedia.co.ke/politics/article/2001552033/ol-kalou-decides-the-making-of-ruto-gachagua-fight-for-mt-kenya-supremacy",
+          "title": "More than 1,000 people join Vietnamese traditional costume festival in Hue",
+          "description": "The Vietnamese traditional costume festival Bach Hoa Bo Hanh 2026, themed “Viet Phong Hoi Tu”, took place at the Hue Imperial Citadel on the afternoon of July 4, bringing together more than 1,000 lovers of traditional costumes from many localities across the country.",
+          "url": "https://en.nhandan.vn/more-than-1000-people-join-vietnamese-traditional-costume-festival-in-hue-post164078.html",
           "source": {
-            "name": "standardmedia.co.ke"
+            "name": "Nhan Dan Online"
           },
-          "publishedAt": "2026-07-05T04:08:45Z",
-          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/ndKGbvPbXsBozbhMGnkIOIzGI1kaaboB1jKTn0e6.jpg",
+          "publishedAt": "2026-07-05T07:18:06Z",
+          "image": "https://en-cdn.nhandan.vn/images/3c6b1d7d6cd77f0dc549536a41e2cb9b31c58070ec07c16c580edb2ba2d24cf519ce8a9e13d52d3cd04f8e11d19f82d31de0bdbab0849abff09ec6c92f7cca48/bhbh-2jpg.jpg.webp",
           "language": "en"
         },
         {
-          "title": "Abuse in top Irish restaurants: ‘I remember having a silver salver thrown at me - to hit me’",
-          "description": "Research on conditions in Irish restaurant kitchens has found ‘disconcertingly high’ numbers of staff reporting poor treatment, but how deep does the problem go?",
-          "url": "https://www.irishtimes.com/food/restaurants/2026/07/05/abuse-in-top-irish-restaurants-i-remember-having-a-silver-salver-thrown-at-me-to-hit-me/",
+          "title": "Taylor Swift’s favorite teacher dies after cancer battle on same day as singer’s wedding to Travis Kelce",
+          "description": "Kirk Schwabe, Taylor Swift’s former criminal justice teacher in Nashville, died of cancer at age 69 on the same day as her wedding to Travis Kelce in New York City.",
+          "url": "https://pagesix.com/2026/07/05/entertainment/taylor-swifts-teacher-kirk-schwabe-dies-after-cancer-battle-on-same-day-as-singers-msg-wedding-to-travis-kelce/",
           "source": {
-            "name": "The Irish Times"
+            "name": "Page Six"
           },
-          "publishedAt": "2026-07-05T04:06:06Z",
-          "image": "https://www.irishtimes.com/resizer/v2/5RMOMRCYXZGZNO2AGSQWVKAZUU.JPG?smart=true&auth=1f4eb17b6dec9e1b8117fd714defa8e118aa084cdfeeabbdfef2f364a28e650c&width=1200&height=630",
+          "publishedAt": "2026-07-05T07:18:00Z",
+          "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/133342848.jpg?quality=75&strip=all&w=1200",
           "language": "en"
         },
         {
-          "title": "Ethiopian PM says \"We Continue Our March Despite Challenges from Internal and External Forces",
-          "description": "Ethiopian PM Abiy Ahmed has said that there are both internal and external forces that do not want Ethiopia to move forward. Read more.",
-          "url": "https://borkena.com/2026/07/04/news-ethiopian-pm-says-we-continue-our-march-despite-challenges-from-internal-and-external-forces/",
+          "title": "Negri polls: I'd rather campaign statewide for BN than contest a seat, says KJ",
+          "description": "SEREMBAN: Former Umno Youth chief Khairy Jamaluddin says he would rather campaign for Barisan Nasional than contest in the Aug 1 Negri Sembilan state election.",
+          "url": "https://www.thestar.com.my/news/nation/2026/07/05/negri-polls-i039d-rather-campaign-statewide-for-bn-than-contest-a-seat-says-kj",
           "source": {
-            "name": "Borkena"
+            "name": "The Star"
           },
-          "publishedAt": "2026-07-05T04:06:00Z",
-          "image": "https://borkena.com/wp-content/uploads/2026/07/Abiy-Ahmed-_-Ethiopia-News-_-Arbaminch.jpg",
+          "publishedAt": "2026-07-05T07:18:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/07/05/3993294.jpg",
           "language": "en"
         },
         {
-          "title": "HKU Astronomer Joins Study Weighing Ancient Black Hole",
-          "description": "Artist's illustration showing JWST, aided by gravitational-lensing, enabled the team to measure the mass of an inactive black hole in the early",
-          "url": "https://www.miragenews.com/hku-astronomer-joins-study-weighing-ancient-1704785/",
+          "title": "Nigerians Condemn Tinubu Government After President's Media Centre Shared AI Image Of First Lady Selling Akara",
+          "description": "The Nigerian presidency has come under heavy criticism after the President Bola Tinubu Media Centre shared an artificial intelligence (AI)-generated image depicting underfire first lady, Senator Oluremi Tinubu, frying and selling akara. The image, posted on the Presidency’s official social media accounts on Friday, showed the First Lady standing behind a roadside akara stand wearing an apron with the inscription, “Iya Alakara, fuelling the nation with love.”",
+          "url": "https://saharareporters.com/2026/07/04/nigerians-condemn-tinubu-government-after-presidents-media-centre-shared-ai-image-first",
           "source": {
-            "name": "Mirage News"
+            "name": "Sahara Reporters"
           },
-          "publishedAt": "2026-07-05T04:06:00Z",
-          "image": "https://www.hku.hk/f/news/29219/826p376/Fig1.jpg",
+          "publishedAt": "2026-07-05T07:16:43Z",
+          "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
           "language": "en"
         },
         {
-          "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
-          "description": "Hubble has captured a spectacular view of LH 95, where about 2,500 young stars are still on their journey to becoming full-fledged stars. Scientists discovered these growing stars can keep pulling in gas and dust for millions of years, extending an important stage of stellar development. The region also contains multiple generations of stars living side by side, offering fresh clues about how star formation unfolds over time.",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260704232639.htm",
+          "title": "Putin and Zelenskyy have 'very good' phone calls with Trump ahead of Nato summit",
+          "description": "On the front lines, Russian forces have made almost no progress in recent months, largely due to the presence of drones.",
+          "url": "https://www.thejournal.ie/putin-and-zelenskyy-have-very-good-phone-calls-with-trump-ahead-of-nato-summit-7091782-Jul2026/",
           "source": {
-            "name": "ScienceDaily"
+            "name": "The Journal"
           },
-          "publishedAt": "2026-07-05T04:05:03Z",
-          "image": "https://www.sciencedaily.com/images/1920/hubble-lmc-lh95.webp",
+          "publishedAt": "2026-07-05T07:16:00Z",
+          "image": "https://img2.thejournal.ie/article/7091782/river/?height=400&version=7091783",
           "language": "en"
         },
         {
-          "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
-          "description": "Hubble has captured a spectacular view of LH 95, where about 2,500 young stars are still on their journey to becoming full-fledged stars. Scientists discovered these growing stars can keep pulling in gas and dust for millions of years, extending an important stage of stellar development. The region also contains multiple generations of stars living side by side, offering fresh clues about how star formation unfolds over time.",
-          "url": "http://www.sciencedaily.com/releases/2026/07/260704232639.htm",
+          "title": "The Secret Of Why These Eleven Words Are Prominently Included When You Ask AI To Write A Creative Story",
+          "description": "Latest AI mystery is that there are 11 specific nouns used frequently by LLMs when creating short stories. Why those words? An AI insider analysis and scoop.",
+          "url": "https://www.forbes.com/sites/lanceeliot/2026/07/05/the-secret-of-why-these-eleven-words-are-prominently-included-when-you-ask-ai-to-write-a-creative-story/",
           "source": {
-            "name": "ScienceDaily"
+            "name": "Forbes"
           },
-          "publishedAt": "2026-07-05T04:05:03Z",
-          "image": "https://www.sciencedaily.com/images/1920/hubble-lmc-lh95.webp",
+          "publishedAt": "2026-07-05T07:15:00Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a444a45d475fccbdfaab4b5/0x0.jpg?format=jpg&crop=1641,1094,x0,y0,safe&height=900&width=1600&fit=bounds",
           "language": "en"
         },
         {
-          "title": "The Brooklyn Bridge Briefly Catches Fire During a Fireworks Display",
-          "description": "The fire appeared to have been extinguished by shortly after 10 p.m., the police said. No injuries were reported.",
-          "url": "https://www.nytimes.com/2026/07/04/nyregion/fire-brooklyn-bridge-fireworks.html",
+          "title": "Heavy rain hits Dunedin, surface flooding across city",
+          "description": "Heavy rainfall has arrived in Dunedin earlier than expected and is forecast to continue overnight, with surface flooding and some land instability reported.",
+          "url": "https://www.rnz.co.nz/news/weather/672039/heavy-rain-hits-dunedin-surface-flooding-across-city",
           "source": {
-            "name": "The New York Times"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-07-05T04:05:00Z",
-          "image": "https://static01.nyt.com/images/2026/07/04/arts/fire_bridge/fire_bridge-facebookJumbo.jpg",
+          "publishedAt": "2026-07-05T07:12:11Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--qW2yzxuV--/t_tohu-badge-facebook/f_auto/q_auto/4JLYACT_Image_5_jfif",
           "language": "en"
         },
         {
-          "title": "Global Heating Threatens Kidney, Heart Health of Workers",
-          "description": "About half the people in the world are suffering the consequences of more frequent and more intense extreme heat events",
-          "url": "https://www.juancole.com/2026/07/heating-threatens-workers.html",
+          "title": "World Cup 2026: Mexico fans try to disturb England’s sleep, France and Morocco march on - live",
+          "description": "Join our writers for the latest news and reaction as the last-32 stage draws to a close",
+          "url": "https://www.theguardian.com/football/live/2026/jul/05/world-cup-2026-live-last-16-concludes-morocco-france-paraguay",
           "source": {
-            "name": "Informed Comment"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-07-05T04:04:02Z",
-          "image": "https://media.juancole.com/images/2026/07/david-geneugelijk-d4j5hns6sj8-unsplash.jpg",
+          "publishedAt": "2026-07-05T07:12:00Z",
+          "image": "https://i.guim.co.uk/img/media/7b90320611b5c4d7a67dbfcedeca4abcfb6be2ac/2_529_6013_4810/master/6013.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4bcd802a1e1ea09e7cd9ba3d6a373d80",
           "language": "en"
         },
         {
-          "title": "As Xi Looks to Extend His Rule, He Leans on a Longtime Ally",
-          "description": "Xi Jinping is preparing to extend his rule as China’s leader and bring fresh blood into the Communist Party elite. Cai Qi is the man he’s tasking to help.",
-          "url": "https://www.nytimes.com/2026/07/05/world/asia/china-xi-leadership-cai-qi.html",
+          "title": "Wife of retired IAF Wing Commander dies after jumping from multi-level car park in Noida",
+          "description": "NOIDA: A woman from Noida allegedly jumped from the multi-level car park in Sector 18 on Saturday evening, police said.According to police, the deceas.",
+          "url": "https://timesofindia.indiatimes.com/city/noida/wife-of-retired-iaf-wing-commander-dies-after-jumping-from-multi-level-car-park-in-noida/articleshow/132191903.cms",
           "source": {
-            "name": "The New York Times"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-07-05T04:01:06Z",
-          "image": "https://static01.nyt.com/images/2026/07/02/multimedia/00int-china-politics-01-zjlg/00int-china-politics-01-zjlg-facebookJumbo.jpg",
+          "publishedAt": "2026-07-05T07:12:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-132192243,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Fifa World Cup: Ghana boss Carlos Queiroz rues African limitations after Colombia loss",
-          "description": "Only two teams from continent left standing, seven European teams, four from South America and three North Americans made it into last-16 draw.",
-          "url": "https://www.scmp.com/sport/football/article/3359450/fifa-world-cup-ghana-boss-carlos-queiroz-rues-african-limitations-after-colombia-loss",
+          "title": "'For deterrence in West PH Sea!' Faster AFP modernization urged as PH nears 10th anniversary of landmark arbitration win over China",
+          "description": "As the country approaches the 10th anniversary of its landmark arbitration victory against China, an independent think tank called on the national government to...",
+          "url": "https://mb.com.ph/2026/07/05/for-deterrence-in-west-ph-sea-faster-afp-modernization-urged-as-ph-nears-10th-anniversary-of-landmark-arbitration-win-over-china",
           "source": {
-            "name": "South China Morning Post"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-07-05T04:00:34Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/05/8d80ed4e-1fa3-4291-b0e6-7b997e033dda_c0c052e5.jpg?itok=o6lxZEdi&v=1783222777",
+          "publishedAt": "2026-07-05T07:11:29Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/05/113934.webp",
           "language": "en"
         }
       ]
