@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-06T15:35:32.905Z",
+  "updatedAt": "2026-07-06T19:59:11.518Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "W杯ブラジル撃破の立役者ノルウェー代表ハーランド、実は「XBOX冷蔵庫」を持つガチゲーマー。友人とのLANパーティや『GTA』新作を熱望する素顔を持つ",
+          "description": "XBOX冷蔵庫を愛好し『MW2』旧作を愛する根っからのゲーマー。",
+          "url": "https://www.gamespark.jp/article/2026/07/06/168878.html",
+          "source": {
+            "name": "Game*Spark"
+          },
+          "publishedAt": "2026-07-06T07:15:03Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1154963.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "au Webポータル芸能ニュース",
+          "description": "Hey! Say! JUMPの山田涼介（33）が主演を務める新ドラマ『一次元の挿し木』（日本テレビ系）が7月5日にスタートした。 原作は、第23回『このミステリーがすごい！』大賞の文庫グランプリを受賞",
+          "url": "https://article.auone.jp/detail/1/5/9/99_1_r_20260706_1783320411619600",
+          "source": {
+            "name": "au Webポータル"
+          },
+          "publishedAt": "2026-07-06T06:35:00Z",
+          "image": "https://portal.st-img.jp/thumb/f2f838daa08f80f7048687cc7e21fb0d_1783330319_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "米ドル/円のロング継続！ 162.84円から160.49円まで失速も、米ドル買い遅れの事業法人も多く162円台回復。にわか米ドルロング振り落とし後のトレンド形成に要注意！",
+          "description": "米ドル/円のロングを継続する方針だ。約40年ぶり高値の162.84円から160.49円まで急失速したが、米ドル買い遅れの事業法人も多く、162円台回復した。にわか米ドルロング振り落とし後にトレンド形成することも多いので、要注意だ。ウォール街の多くの銀行は、米ドルに対して強気な見方を維持している。米ドル高での注目はまず米ドル/円だ。米金利がじり高の中で、日銀の金融正常化が遅れている環境では、じり高の展開となりそうだ。",
+          "url": "https://zai.diamond.jp/articles/-/491680",
+          "source": {
+            "name": "ザイFX！"
+          },
+          "publishedAt": "2026-07-06T06:33:00Z",
+          "image": "https://zai.diamond.jp/mwimgs/d/e/-/img_deda1eefac7261cb96452a77115d24d4108740.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "約79万円の「RTX 5090」即完売の裏で精密工具の意外な需要も アキバで進む二極化の最新事情：古田雄介の「アキバPickUP！」（1/4 ページ）",
+          "description": "ASUS JAPANのグラフィックスカード「ProArt GeForce RTX 5090 32GB GDDR7 OC Edition」が複数のショップで、販売開始直後に売り切れとなるほどの反響をみせた。 (1/4)",
+          "url": "https://www.itmedia.co.jp/pcuser/articles/2607/06/news087.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-07-06T06:00:00Z",
+          "image": "https://image.itmedia.co.jp/pcuser/articles/2607/06/cover_news087.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "はやぶさ2、トリフネを高速通過し近接観測に成功 拡張ミッション初の小惑星探査",
+          "description": "はやぶさ2が小惑星トリフネへのフライバイ探査に成功。自律誘導航法、プラネタリーディフェンス技術への活用などといった今回の注目ポイントや、2031年の小惑星1998 KY26探査に向けた今後の計画を解説",
+          "url": "https://space-connect.jp/hayabusa2-torifune/",
+          "source": {
+            "name": "space-connect.jp"
+          },
+          "publishedAt": "2026-07-06T05:29:00Z",
+          "image": "https://space-connect.jp/wp-content/uploads/2026/07/hayabusa2-torifune-thumbnail.webp",
+          "language": "ja"
+        },
+        {
+          "title": "『ARK: Survival Ascended』最新DLCが一挙配信。無料の海洋マップや、帆船での海戦、竜を飼いならす新要素が登場",
+          "description": "海洋拡張や竜をテーマにした大規模DLCが登場。",
+          "url": "https://www.gamespark.jp/article/2026/07/06/168872.html",
+          "source": {
+            "name": "Game*Spark"
+          },
+          "publishedAt": "2026-07-06T04:55:03Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1154842.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ウクライナの戦況を一変させる 補給路攻撃の中距離ドローン部隊",
+          "description": "ハルキウ、ウクライナ、7月6日 (AP) ー ウクライナ戦線の戦況を一変させつつある同国の中距離ドローン部隊の操縦士は、無人機から送信される熱線映像を通じて、ロシア軍の補給路となっている道路を監視",
+          "url": "https://news.yahoo.co.jp/articles/adbef281676e189e179c58cf97d73ec4ad7abfcf",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-06T04:53:36Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260706-00010009-aptsushinv-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "SnowMan渡辺翔太、意外な七夕の願い事告白「ハプニングが起きまして」",
+          "description": "Snow Manの渡辺翔太が7月6日、自身がアンバサダーを務める湘南美容クリニックの「SBC湘南美容の約束」新CM発表会に出席。七夕の願い事を明かした。",
+          "url": "https://mdpr.jp/news/detail/4809804",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-07-06T03:42:30Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/w62i/wm/w62iCbMPTes_k5b6SviH5MgOCmBTfE6jWG8aJyoMe64.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
         {
           "title": "既存エコシステムがあるの強い！ サムスンのスマートグラスはスマートウォッチ＆リングと互換性あり？",
           "description": "出るのは確実でデザインもチラ見せされており、今月にも発表されそうな気配がありつつ、でもまだ正式には出ていない。そんなSamsung（サムスン）のスマートグラスですが、ネタ元のSammyGuruが、専用アプリを独自入手。アプリの設定から、サム",
@@ -17,214 +105,126 @@
           "language": "ja"
         },
         {
-          "title": "Snow Man渡辺翔太、メンバーへの信頼感「寄り添ったことを言ってくれる2人」 大物芸能人からの金言も明かす",
-          "description": "ニュース｜　9人組グループ・Snow Manの渡辺翔太が出演する湘南美容クリニック「SBC湘南美容の約束」の新テレビCM「接遇」篇、「確かな技術」篇（各30秒）が、11日から全国（一部地域を除く）で順次放送される。　SBC湘南美容クリニックのテレビCMに出演して4年目、昨年からはアンバサダーとしても活躍している渡辺だが、最新作の撮影でもこれまでと変わらないフレッシュな笑顔で現場に登場。「確かな技術」篇ではSBC湘南美容クリニックのグループ代表補佐・ドクター教育部長・施術指導医でもある居川和広医師と共演することとなり、丁寧なあいさつを交わした後は演技以外の会話を楽しむ場面も。居川医師の熱心な語り口に、渡辺さんは「熱いです！」ど”素”の表情でリアクションしていた。",
-          "url": "https://www.oricon.co.jp/news/2465815/full/",
+          "title": "Snow Man渡辺翔太、周囲からの“美容相談”増加「たとえば大型歌番組で…」 SixTONES京本大我にもアドバイス",
+          "description": "動画ニュース｜　9人組グループ・Snow Manの渡辺翔太が6日、都内で行われたSBC湘南美容クリニック「SBC湘南美容の約束」新CM発表会に登壇。周囲からの“美容相談”が増えていることを明かした。　Snow Manの美容番長としてもおなじみで、SBC湘南美容クリニックのCM出演も4年となり、「こういった湘南美容クリニックのアンバサダーとしてっていう部分で、美容医療を発信していくうえで背筋が伸びる思いもありながら、アイドルとしてのキャラクターとしての後押しのしてくださっているので、感謝の気持というか、本当に光栄」としみじみ語った渡辺。",
+          "url": "https://www.oricon.co.jp/news/2465847/full/",
           "source": {
             "name": "オリコンニュース"
           },
-          "publishedAt": "2026-07-06T02:51:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2466000/2465815/20260706_110155_p_o_54583966.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「カツアゲされたようなもの」 「自民幹部に2750万円渡した」 正副議長就任巡り現金授受か 現職県議が生々しく証言 録音データも 【福岡発】",
-          "description": "海外視察問題などに揺れる福岡県議会。その県議会議員2人が、議長、副議長就任に際して、自民党県議団の幹部に合計2750万円を現金で支払ったとテレビ西日本報道部の取材に対して証言した。",
-          "url": "https://news.yahoo.co.jp/articles/b226b675dbce7b7a3dc89aec8b455259a29398e7",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-06T02:46:20Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260706-01170560-fnnprimev-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "増水した川のぞき込み転落 小学生男児が濁流にのみ込まれ1.2キロ流される 自力で川岸につかまっているところ発見 長崎市",
-          "description": "5日夕方、長崎市で増水した川に小学生の男の子が転落し、約1.2キロ下流へと流されました。男児は自力で岸につかまっているところを発見され、軽傷を負っているものの命に別状はないということです。\n■「子",
-          "url": "https://news.yahoo.co.jp/articles/56fca58fb576bf7ae283e0d9d8ea0d18670b095b",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-06T02:33:16Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260706-22781603-nbcv-000-16-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "W杯惨敗で混乱続く韓国 サッカー新団体発足で改革へ 米国出国の監督に国会で追及も",
-          "description": "ワールドカップでの敗退を巡り、韓国で混乱が続いています。韓国政府は6日、新たな組織を立ち上げ、サッカー協会の組織運営などについて調査に乗り出します。",
-          "url": "https://news.tv-asahi.co.jp/news_international/articles/900194381.html",
-          "source": {
-            "name": "テレ朝NEWS"
-          },
-          "publishedAt": "2026-07-06T02:21:00Z",
-          "image": "https://news.tv-asahi.co.jp/articles_img/900194381_1200.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "タクシー運転手「めっちゃいい」 元力士が40代で見つけた天職",
-          "description": "東京・羽田空港のほど近くにある国際自動車羽田営業所には、都心で働くビジネスパーソンや観光客たちからの配車依頼が24時間ひっきりなしに舞い込む。 　「一度始めたらやめられません。天職だと思っています」",
-          "url": "https://mainichi.jp/articles/20260702/k00/00m/040/210000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-07-06T02:00:00Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/07/02/20260702k0000m040212000p/0c10.jpg?1",
-          "language": "ja"
-        },
-        {
-          "title": "「アサシン クリード ブラック フラッグ RE:シンクロ」の解禁時刻や新要素を紹介する国内向けの発売直前情報が公開",
-          "description": "「doope!」は、国内外の様々なゲームニュースをお届けする情報サイトです。",
-          "url": "https://doope.jp/2026/07168464.html",
-          "source": {
-            "name": "doope!"
-          },
-          "publishedAt": "2026-07-06T01:56:06Z",
-          "image": "https://doope.jp/wp-content/uploads/2016/06/cropped-fav-32x32.png",
-          "language": "ja"
-        },
-        {
-          "title": "服部知事「わが耳と目を疑った。事実を知りたい」正副議長の就任に際して計2750万円授受か…県議が証言 幹部は受け取り否定 福岡県議会",
-          "description": "福岡県議会の議員2人が、正副議長の就任に際して自民党県議団の幹部に計2750万円を支払ったと証言したことをめぐり6日、福岡県の服部誠太郎知事は取材に対し「わが耳と目を疑った」と述べました。",
-          "url": "https://news.yahoo.co.jp/articles/99107295a0e02cdfd78b88543edaeb583543d6d9",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-06T01:51:02Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260706-90031094-tncv-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "Mrs. GREEN APPLE、バンド史上初“国立競技場”4DAYS完走「Ringo Jam」発足10周年を祝いステージ上空にドローンアート【ゼンジン未到とイ／ミュータブル〜間奏編〜】",
-          "description": "3人組バンド・Mrs. GREEN APPLE（ミセスグリーンアップル／以下、ミセス）ミセスが4月より開催してきたスタジアムツアー『ゼンジン未到とイ／ミュータブル〜間奏編〜』が、7月5日にMUFGスタジアム（国立競技場）でツアーファイナルを迎えた。",
-          "url": "https://mdpr.jp/music/detail/4809735",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-07-06T01:44:03Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/9WcS/nm/9WcSxSxXTDn8ZSCxgEOT3n72tRVcTaZXNlGPy-2FBUQ.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "大型で猛烈な台風9号 10日～11日に非常に強い勢力で沖縄に接近 大荒れのおそれ",
-          "description": "大型で猛烈な台風9号は、10日から11日にかけて非常に強い勢力で沖縄に接近する見通しです。沖縄では明日7日～8日はうねりを伴い波が高くなるでしょう。9日から10日頃にかけては大しけや大荒れとなるおそれがあります。最新の台風情報、気象情報を確認してください。",
-          "url": "https://tenki.jp/forecaster/y_nakagawa/2026/07/06/39609.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-07-06T01:18:22Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/396/39609/main/20260706101419/large.jpg",
+          "publishedAt": "2026-07-06T03:21:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2466000/2465847/20260706_115130_p_o_91965829.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Soccer-Ten-man England beat battling Mexico 3-2 in last-16 thriller",
-          "description": "MEXICO CITY, July 5 (Reuters) - ⁠Ten-man England weathered a Mexico storm at the Azteca Stadium to reach the World Cup quarter-finals ⁠for the third straight time with a rip-roaring 3-2 victory over the co-hosts on Sunday ‌thanks to a Jude Bellingham double and Harry Kane penalty.",
-          "url": "https://www.thestar.com.my/sport/football/2026/07/06/soccer-ten-man-england-beat-battling-mexico-3-2-in-last-16-thriller",
+          "title": "Lenovo starts shipping laptops with Chinese-made YMTC SSDs due to skyrocketing NAND Flash prices",
+          "description": "Due to the current crisis, Lenovo ThinkBook laptops are now shipping globally with SSDs from Chinese company Yangtze Memory Technologies (YMTC).",
+          "url": "https://www.tweaktown.com/news/112489/lenovo-starts-shipping-laptops-with-chinese-made-ymtc-ssds-due-to-skyrocketing-nand-flash-prices/index.html",
           "source": {
-            "name": "The Star"
+            "name": "TweakTown"
           },
-          "publishedAt": "2026-07-06T03:34:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/07/06/3994407.jpg",
+          "publishedAt": "2026-07-06T07:59:07Z",
+          "image": "https://static.tweaktown.com/news/1/1/112489_1_lenovo-starts-shipping-laptops-with-chinese-made-ymtc-ssds-due-to-skyrocketing-nand-flash-prices_full.jpg",
           "language": "en"
         },
         {
-          "title": "Neil Barnes hints at All Blacks rotation for Italy clash",
-          "description": "The All Blacks' much-debated rotation policy looks set to return this week.",
-          "url": "https://www.rnz.co.nz/news/sport/680098/neil-barnes-hints-at-all-blacks-rotation-for-italy-clash",
-          "source": {
-            "name": "RNZ"
-          },
-          "publishedAt": "2026-07-06T03:33:38Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--uWBJ8Z-o--/t_tohu-badge-facebook/f_auto/q_auto/4KHC5XB_241102AllBlacksEngland_037_jpg",
-          "language": "en"
-        },
-        {
-          "title": "Mandopop star Wang Leehom falls on stage, finishes concert before going to hospital for 39 stitches",
-          "description": "Wang tripped over a safety cable at the start of his second night in Chengdu, China, but completed the show before receiving treatment for injuries that required 39 stitches.",
-          "url": "https://cnalifestyle.channelnewsasia.com/entertainment/wang-leehom-concert-fall-chengdu-stitches-585551",
-          "source": {
-            "name": "CNA Lifestyle"
-          },
-          "publishedAt": "2026-07-06T03:33:20Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--BjpnTerb--/c_crop,h_707,w_1257,x_1,y_54/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/06/wang_leehom_fall_ear_stitches.jpg?itok=EyJOVpz1",
-          "language": "en"
-        },
-        {
-          "title": "Australia PM Albanese apologises for crude Kylie Minogue remark",
-          "description": "By Alasdair Pal SYDNEY, July 6 (Reuters) - Australian Prime Minister Anthony Albanese apologised on Monday after making a crude remark about singer Kylie Minogue in a comedy podcast interview,",
-          "url": "https://www.yahoo.com/news/world/articles/australia-pm-albanese-apologises-crude-032937000.html",
-          "source": {
-            "name": "Yahoo"
-          },
-          "publishedAt": "2026-07-06T03:32:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/f96d7e097da681e555c2f5fb31a78d830ced7b7cccaf119e2ca0c0118b26904d/lightyear_networkapi/resizefill_w800_h534;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fb8fbce43a81d983aebe5469c3695d4a7",
-          "language": "en"
-        },
-        {
-          "title": "Customs officer claims trial to receiving cash to close probe",
-          "description": "Fareez Akhmal Yusuf is charged with receiving RM15,000 from a 50-year-old suspect on June 29.",
-          "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/06/customs-officer-claims-trial-to-receiving-cash-to-close-probe",
-          "source": {
-            "name": "Free Malaysia Today"
-          },
-          "publishedAt": "2026-07-06T03:31:19Z",
-          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2024/08/db148a70-mahkamah-tinggi-shah-alam-fmt-200824-1.webp",
-          "language": "en"
-        },
-        {
-          "title": "10 Best AI Writing Tools in 2026: Tested, Ranked, and Reviewed",
-          "description": "Compare the 10 best AI writing tools in 2026 after testing leading platforms for SEO, content creation, copywriting, and advanced automation workflows.",
-          "url": "https://memeburn.com/best-ai-writing-tools/",
-          "source": {
-            "name": "Memeburn"
-          },
-          "publishedAt": "2026-07-06T03:31:12Z",
-          "image": "https://memeburn.com/wp-content/uploads/2026/07/memeburn-best-ai-writing-tools.jpg",
-          "language": "en"
-        },
-        {
-          "title": "England’s 10 men hang on after Kane penalty to beat Mexico in World Cup thriller",
-          "description": "Jarell Quansah saw red and Harry Kane scored and conceded penalties after Jude Bellingham’s double as England beat Mexico 3-2 in an extraordinary game",
-          "url": "https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup",
-          "source": {
-            "name": "The Guardian"
-          },
-          "publishedAt": "2026-07-06T03:31:00Z",
-          "image": "https://i.guim.co.uk/img/media/61ba978f033eee6237722fb90047e7fd2178fb16/572_110_2301_1840/master/2301.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dff47c6693919c6b2efc86f287ce2685",
-          "language": "en"
-        },
-        {
-          "title": "Shearer Heavily Criticised For BBC Comments During England Vs Mexico",
-          "description": "Alan Shearer came in for some heavy criticism for his comments on the BBC during England's World Cup win over Mexico.",
-          "url": "https://www.balls.ie/football/alan-shearer-bbc-mexico-england-658994",
-          "source": {
-            "name": "Balls.ie"
-          },
-          "publishedAt": "2026-07-06T03:30:36Z",
-          "image": "https://img.resized.co/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAyNlxcXC8wN1xcXC8wNjA0Mjc1OFxcXC9VbnRpdGxlZC1kZXNpZ24tMjAyNi0wNy0wNlQwNDI3NDQuMTQzLnBuZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvaW1hZ2VzXFxcL2JyYW5kLWltYWdlLmpwZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIzNmY2NmFhZTdmNjFmNmQ0ZjYyMjNhNzIwMjdhNTEwOWE0ZWE0MDFmIn0=/alanshearerheavilycriticisedforbbccommentsduringenglandwinovermexicoballsie.png",
-          "language": "en"
-        },
-        {
-          "title": "Rising kidney disease cases threaten to drain PH health resources",
-          "description": "The Philippines could exhaust its healthcare resources if the rapid rise in chronic kidney disease (CKD) cases is left unchecked...",
-          "url": "https://globalnation.inquirer.net/329597/rising-kidney-disease-cases-threaten-to-drain-ph-health-resources",
+          "title": "Marcoleta complains of chest pain, taken to PNP hospital",
+          "description": "Sen. Rodante Marcoleta was taken to the Philippine National Police General Hospital on Monday after complaining of chest pain and high blood pressure.",
+          "url": "https://newsinfo.inquirer.net/2258509/marcoleta-complains-of-chest-pain-taken-to-pnp-hospital",
           "source": {
             "name": "Inquirer.net"
           },
-          "publishedAt": "2026-07-06T03:30:00Z",
-          "image": "https://globalnation.inquirer.net/files/2026/07/Rising-kidney-disease-cases-threaten-to-drain-PH-health-resources-.png",
+          "publishedAt": "2026-07-06T07:59:00Z",
+          "image": "https://newsinfo.inquirer.net/files/2026/07/Senator-Rodante-Marcoleta-arrives-in-the-Sandiganbayan-Third-Division-on-Monday-July-6-2026-moments-before-the-announcement-of-the-issuance-of-arrest-warrant-against-him.-JOHN-ERIC-MENDOZAINQU.png",
           "language": "en"
         },
         {
-          "title": "Mexico player ratings vs England: Julián Quiñones shines and Raúl Jiménez gives El Tri hope, but Jude Bellingham ends historic World Cup run in Azteca thriller",
-          "description": "Mexico’s historic World Cup run ended in heartbreak at the Azteca, as Julián Quiñones starred and Raúl Jiménez gave El Tri hope before Jude Bellingham powered England to a thrilling 3-2 win.",
-          "url": "https://www.goal.com/en-ng/lists/mexico-player-ratings-england-julian-quinones-raul-jimenez-el-tri-hope-jude-bellingham-world-cup-azteca/blt9eda29d955c22738",
+          "title": "Djibouti Seeks U.S. Support for Energy Projects",
+          "description": "Talks focused on renewable energy expansion and rural electrification",
+          "url": "https://www.dawan.africa/news/djibouti-seeks-us-support-for-energy-projects",
           "source": {
-            "name": "Goal.com"
+            "name": "Dawan Africa"
           },
-          "publishedAt": "2026-07-06T03:29:45Z",
-          "image": "https://assets.goal.com/images/v3/blt70d5a42deea3988b/WCHQ_MATCH%20[16x9]%20(2).jpg",
+          "publishedAt": "2026-07-06T07:58:25Z",
+          "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgchf54alLu6JvEqWnSGXPVAiwohrYj87dgUZN",
+          "language": "en"
+        },
+        {
+          "title": "Thousands pay respects to Iran's late Supreme Leader Ali Khamenei",
+          "description": "Thousands of mourners dressed in black gathered in Tehran on Monday to pay their respects to Iran’s late Supreme Leader, Ayatollah Ali Khamanei.",
+          "url": "https://www.africanews.com/2026/07/06/thousands-pay-respects-to-irans-late-supreme-leader-ali-khamenei/",
+          "source": {
+            "name": "africanews.com"
+          },
+          "publishedAt": "2026-07-06T07:57:25Z",
+          "image": "https://images.euronews.com/articles/stories/09/82/65/54/1024x538_cmsv2_39af3a95-3746-5a10-9530-46863218d5cf-9826554.jpg",
+          "language": "en"
+        },
+        {
+          "title": "What Parliament Induction Revealed About Civilian Oversight of the UPDF",
+          "description": "“Article 210 empowers Parliament to make laws regulating the UPDF, including its structure, recruitment, discipline, terms",
+          "url": "https://ugdiplomat.com/what-parliament-induction-revealed-about-civilian-oversight-of-the-updf/",
+          "source": {
+            "name": "UG Diplomat"
+          },
+          "publishedAt": "2026-07-06T07:56:51Z",
+          "image": "https://ugdiplomat.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-9.00.13-AM-1200x600-1-1000x600.jpeg",
+          "language": "en"
+        },
+        {
+          "title": "Witness: Schoolgirl stabbed after buying bread at canteen during Banting school recess",
+          "description": "KUALA LUMPUR, July 6 — A routine morning recess at a secondary school in Banting was abruptly interrupted when a Form Three student was allegedly stabbed moments after buying...",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/06/witness-schoolgirl-stabbed-after-buying-bread-at-canteen-during-banting-school-recess/226572",
+          "source": {
+            "name": "Malay Mail"
+          },
+          "publishedAt": "2026-07-06T07:55:46Z",
+          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/06/350498.jpg",
+          "language": "en"
+        },
+        {
+          "title": "'3 Weeks After' Director on Tackling 'Everyday' Peer Violence, Suicide",
+          "description": "World premiering at the Karlovy Vary festival, director Mirsolav Terzić's \"3 Weeks After\" tackles the topics of peer violence and suicide.",
+          "url": "https://variety.com/2026/film/festivals/3-weeks-after-suicide-siberia-karlovy-vary-1236799698/",
+          "source": {
+            "name": "Variety"
+          },
+          "publishedAt": "2026-07-06T07:55:00Z",
+          "image": "https://variety.com/wp-content/uploads/2026/06/3-Weeks-After.jpg?w=1000&h=563&crop=1",
+          "language": "en"
+        },
+        {
+          "title": "Ex-master of Holles Street warns of potentially 'catastrophic' outcomes in new birth guidelines",
+          "description": "Peter Boylan is urging a review of the national guidelines around maternity services.",
+          "url": "https://www.thejournal.ie/latent-phase-labour-peter-boylan-7092461-Jul2026/",
+          "source": {
+            "name": "The Journal"
+          },
+          "publishedAt": "2026-07-06T07:54:00Z",
+          "image": "https://img2.thejournal.ie/article/7092461/river/?height=400&version=7092495",
+          "language": "en"
+        },
+        {
+          "title": "Some statins may increase erectile dysfunction risk",
+          "description": "Research indicates that certain statins, particularly atorvastatin and simvastatin, may elevate the risk of erectile dysfunction, impacting men's health.",
+          "url": "https://www.news-medical.net/news/20260706/Some-statins-may-increase-erectile-dysfunction-risk.aspx",
+          "source": {
+            "name": "News-Medical"
+          },
+          "publishedAt": "2026-07-06T07:54:00Z",
+          "image": "https://www.news-medical.net/images/news/ImageForNews_841689_17833241718345443.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Border Police officer throws stun grenade into Palestinian car, blocks driver’s exit",
+          "description": "Police says officer suspended, incident under investigation; video shows flashbang going off while occupants inside, driver apparently unharmed; 6 said injured in settler attack",
+          "url": "https://www.timesofisrael.com/border-police-officer-throws-stun-grenade-into-palestinian-car-blocks-drivers-exit/",
+          "source": {
+            "name": "The Times of Israel"
+          },
+          "publishedAt": "2026-07-06T07:52:13Z",
+          "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/Screenshot-2026-07-06-101453-e1783322167444.png",
           "language": "en"
         }
       ]
