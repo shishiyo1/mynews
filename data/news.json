@@ -1,10 +1,109 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-06T19:59:11.518Z",
+  "updatedAt": "2026-07-06T22:14:10.450Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "JAXA「はやぶさ2」が小惑星「トリフネ」のフライバイに成功 “地球防衛”に資する接近通過",
+          "description": "JAXAの小惑星探査機「はやぶさ2」が、小惑星「トリフネ」のフライバイに成功しました。公開された画像には雪だるまのような姿が捉えられており、取得データやプラネタリーディフェンスへの意義を紹介します",
+          "url": "https://sorae.info/space/20260706-hayabusa2-torifune.html",
+          "source": {
+            "name": "sorae 宇宙へのポータルサイト"
+          },
+          "publishedAt": "2026-07-06T10:02:48Z",
+          "image": "https://sorae.info/wp-content/uploads/2026/07/hayabusa2-torifune-flyby-jaxa-2026-07-06-1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【↓】日経平均 大引け｜ 小反落、AI・半導体関連の一角が安い (7月6日)",
+          "description": "週明けの東京市場では、上下に不安定な地合いとなり、日経平均株価が前場は下値を探ったが、後場は一貫して下げ渋る展開で、結局わずかにマイナス圏で着地した。　６日の東京市場は、前週末の米国株市場が独立記念日の振替休日で休場だったことで、手掛かり材料難が意識されたが、韓国株市場の動向を横にらみにそれに連動する動きに終始した・・・。",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607061168",
+          "source": {
+            "name": "株探"
+          },
+          "publishedAt": "2026-07-06T09:15:17Z",
+          "image": "https://async.api.kabutan.jp/og_image?title=%E3%80%90%E2%86%93%E3%80%91%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%20%E5%A4%A7%E5%BC%95%E3%81%91%EF%BD%9C%20%E5%B0%8F%E5%8F%8D%E8%90%BD%E3%80%81AI%E3%83%BB%E5%8D%8A%E5%B0%8E%E4%BD%93%E9%96%A2%E9%80%A3%E3%81%AE%E4%B8%80%E8%A7%92%E3%81%8C%E5%AE%89%E3%81%84%20%287%E6%9C%886%E6%97%A5%29",
+          "language": "ja"
+        },
+        {
+          "title": "KDDIのメール不正アクセス、パスワード漏洩は761万件",
+          "description": "KDDIは6日、ISP事業者向けに提供するメールシステムへの不正アクセスについて、漏えいが確認された情報や人数、原因、対応状況を公表した。電子メールアドレスは1,223万3,087人分、パスワードは761万6,173人分の漏えいを確認。パスワード漏えい人数は、メールアドレス漏えい人数の内数となる。",
+          "url": "https://www.watch.impress.co.jp/docs/news/2122775.html",
+          "source": {
+            "name": "Impress Watch"
+          },
+          "publishedAt": "2026-07-06T09:05:15Z",
+          "image": "https://www.watch.impress.co.jp/img/ipw/list/2122/775/1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "9/12（土）明治安田J1 第7節 FC東京戦にて、“ポケモンＪリーグスペシャルフェス”開催決定！来場者全員にEVO BAG（ポケモンのエコバッグ）をプレゼント",
+          "description": "ガンバ大阪は、9/12（土）明治安田J1リーグ 第7節 FC東京戦にて“ポケモンＪリーグスペシャルフェス”を開催致します。試合当日、ピカチュウとクラブパートナーポケモン「レントラー」がデザインされたE",
+          "url": "https://www.gamba-osaka.net/news/index/no/20492/",
+          "source": {
+            "name": "ガンバ大阪オフィシャルサイト"
+          },
+          "publishedAt": "2026-07-06T09:00:06Z",
+          "image": "https://www.gamba-osaka.net/c/media/news/images/20492/tw_20260703145753bhedjfcnwjrg_0.jpg?174500",
+          "language": "ja"
+        },
+        {
+          "title": "【中間速報】“日本一のイケメン高校一年生”を決める「高一ミスターコン2026」暫定上位4人を発表",
+          "description": "“日本一のイケメン高校一年生”を決めるコンテスト「高一ミスターコン2026」は1日、SNS審査をスタート。ここでは、4日時点での中間結果を速報する。",
+          "url": "https://mdpr.jp/news/detail/4808527",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-07-06T09:00:00Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/Ku0A/nm/Ku0ALxKWhXV2QCngqwEP1IIakXU_4S7gtA-Ol9bSxmE.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
+        {
+          "title": "9日頃から猛暑日と熱帯夜が続出 昼も夜も熱中症警戒 九州～関東などで厳しい暑さに",
+          "description": "九州から関東甲信では、梅雨入りしてから約1か月が経過しました。ここ最近は梅雨空が続き、極端な暑さから遠ざかっていましたが、9日(木)頃からは太平洋高気圧の勢力が強まり、暑さのギアが1段階上がります。特に、西日本では最高気温35℃以上の猛暑日や、夜は市街地を中心に最低気温25℃以上の熱帯夜が続出する見込みです。昼夜を問わず、熱中症に警戒してください。",
+          "url": "https://tenki.jp/forecaster/t_fujikawa/2026/07/06/39618.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-06T08:35:40Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/396/39618/ogp/20260706170553/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "またフジテレビか…佐藤二朗･橋本愛騒動での早期\"ハラスメント認定\"が賞賛どころか批判を生んだ本当の理由",
+          "description": "フジテレビのドラマ撮影現場で起きたトラブルが一大騒動に発展している。なぜなのか。経営学者の舟津昌平氏は「今回のハラスメントとされる事案は、いくつもの『微妙な点』がある。『ハラスメントをした』というラベリングは『一発退場』を引き起こしかねない。だからこそ冷静に検討する必要がある」という――。",
+          "url": "https://president.jp/articles/-/115669?page=1",
+          "source": {
+            "name": "PRESIDENT Online（プレジデントオンライン）"
+          },
+          "publishedAt": "2026-07-06T08:30:00Z",
+          "image": "https://president.ismcdn.jp/mwimgs/1/6/1200wm/img_166517c354852b09603ace26f2bf2fcb861861.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【2026年サッカー男子W杯】 FIFA、アメリカFWバログンの出場停止処分を猶予 トランプ氏が処分の再考求めたか",
+          "description": "サッカー男子ワールドカップ（W杯）北中米大会のノックアウトステージ（決勝トーナメント）1回戦（ラウンド32）アメリカ対ボスニア・ヘルツェゴヴィナの試合で、アメリカ代表FWバログン（25）がレッドカードを受けて1試合の出場停止処分となった。これについて、国際サッカー連盟（FIFA）は5日、処分を1年間猶予すると発表した。トランプ米大統領が、処分を再考するよう介入したとされる。これにより、バログンは6日（日本時間7日）にある決勝トーナメント2回戦のベルギー戦への出場が可能になった。",
+          "url": "https://www.bbc.com/japanese/articles/crkvv77gmpvo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-07-06T08:26:15Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/0bf1/live/3ab6d9e0-7898-11f1-9510-1546718f668b.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "HKT48 15th ANIVERSARY BOOK 青春謳歌！発売記念ハイタッチ会開催決定！",
+          "description": "HKT48 15th ANIVERSARY BOOK 青春謳歌！発売記念ハイタッチ会",
+          "url": "https://shibuyatsutaya.tsite.jp/article/2208.html",
+          "source": {
+            "name": "SHIBUYA TSUTAYA"
+          },
+          "publishedAt": "2026-07-06T08:01:45Z",
+          "image": "https://shibuyatsutaya.tsite.jp/menu_files/article/000/002/208/article_images/article_resize.HKT48①.jpg",
+          "language": "ja"
+        },
         {
           "title": "W杯ブラジル撃破の立役者ノルウェー代表ハーランド、実は「XBOX冷蔵庫」を持つガチゲーマー。友人とのLANパーティや『GTA』新作を熱望する素顔を持つ",
           "description": "XBOX冷蔵庫を愛好し『MW2』旧作を愛する根っからのゲーマー。",
@@ -15,216 +114,117 @@
           "publishedAt": "2026-07-06T07:15:03Z",
           "image": "https://www.gamespark.jp/imgs/ogp_f/1154963.jpg",
           "language": "ja"
-        },
-        {
-          "title": "au Webポータル芸能ニュース",
-          "description": "Hey! Say! JUMPの山田涼介（33）が主演を務める新ドラマ『一次元の挿し木』（日本テレビ系）が7月5日にスタートした。 原作は、第23回『このミステリーがすごい！』大賞の文庫グランプリを受賞",
-          "url": "https://article.auone.jp/detail/1/5/9/99_1_r_20260706_1783320411619600",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-07-06T06:35:00Z",
-          "image": "https://portal.st-img.jp/thumb/f2f838daa08f80f7048687cc7e21fb0d_1783330319_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "米ドル/円のロング継続！ 162.84円から160.49円まで失速も、米ドル買い遅れの事業法人も多く162円台回復。にわか米ドルロング振り落とし後のトレンド形成に要注意！",
-          "description": "米ドル/円のロングを継続する方針だ。約40年ぶり高値の162.84円から160.49円まで急失速したが、米ドル買い遅れの事業法人も多く、162円台回復した。にわか米ドルロング振り落とし後にトレンド形成することも多いので、要注意だ。ウォール街の多くの銀行は、米ドルに対して強気な見方を維持している。米ドル高での注目はまず米ドル/円だ。米金利がじり高の中で、日銀の金融正常化が遅れている環境では、じり高の展開となりそうだ。",
-          "url": "https://zai.diamond.jp/articles/-/491680",
-          "source": {
-            "name": "ザイFX！"
-          },
-          "publishedAt": "2026-07-06T06:33:00Z",
-          "image": "https://zai.diamond.jp/mwimgs/d/e/-/img_deda1eefac7261cb96452a77115d24d4108740.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "約79万円の「RTX 5090」即完売の裏で精密工具の意外な需要も アキバで進む二極化の最新事情：古田雄介の「アキバPickUP！」（1/4 ページ）",
-          "description": "ASUS JAPANのグラフィックスカード「ProArt GeForce RTX 5090 32GB GDDR7 OC Edition」が複数のショップで、販売開始直後に売り切れとなるほどの反響をみせた。 (1/4)",
-          "url": "https://www.itmedia.co.jp/pcuser/articles/2607/06/news087.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-07-06T06:00:00Z",
-          "image": "https://image.itmedia.co.jp/pcuser/articles/2607/06/cover_news087.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "はやぶさ2、トリフネを高速通過し近接観測に成功 拡張ミッション初の小惑星探査",
-          "description": "はやぶさ2が小惑星トリフネへのフライバイ探査に成功。自律誘導航法、プラネタリーディフェンス技術への活用などといった今回の注目ポイントや、2031年の小惑星1998 KY26探査に向けた今後の計画を解説",
-          "url": "https://space-connect.jp/hayabusa2-torifune/",
-          "source": {
-            "name": "space-connect.jp"
-          },
-          "publishedAt": "2026-07-06T05:29:00Z",
-          "image": "https://space-connect.jp/wp-content/uploads/2026/07/hayabusa2-torifune-thumbnail.webp",
-          "language": "ja"
-        },
-        {
-          "title": "『ARK: Survival Ascended』最新DLCが一挙配信。無料の海洋マップや、帆船での海戦、竜を飼いならす新要素が登場",
-          "description": "海洋拡張や竜をテーマにした大規模DLCが登場。",
-          "url": "https://www.gamespark.jp/article/2026/07/06/168872.html",
-          "source": {
-            "name": "Game*Spark"
-          },
-          "publishedAt": "2026-07-06T04:55:03Z",
-          "image": "https://www.gamespark.jp/imgs/ogp_f/1154842.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ウクライナの戦況を一変させる 補給路攻撃の中距離ドローン部隊",
-          "description": "ハルキウ、ウクライナ、7月6日 (AP) ー ウクライナ戦線の戦況を一変させつつある同国の中距離ドローン部隊の操縦士は、無人機から送信される熱線映像を通じて、ロシア軍の補給路となっている道路を監視",
-          "url": "https://news.yahoo.co.jp/articles/adbef281676e189e179c58cf97d73ec4ad7abfcf",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-06T04:53:36Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260706-00010009-aptsushinv-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "SnowMan渡辺翔太、意外な七夕の願い事告白「ハプニングが起きまして」",
-          "description": "Snow Manの渡辺翔太が7月6日、自身がアンバサダーを務める湘南美容クリニックの「SBC湘南美容の約束」新CM発表会に出席。七夕の願い事を明かした。",
-          "url": "https://mdpr.jp/news/detail/4809804",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-07-06T03:42:30Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/w62i/wm/w62iCbMPTes_k5b6SviH5MgOCmBTfE6jWG8aJyoMe64.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "既存エコシステムがあるの強い！ サムスンのスマートグラスはスマートウォッチ＆リングと互換性あり？",
-          "description": "出るのは確実でデザインもチラ見せされており、今月にも発表されそうな気配がありつつ、でもまだ正式には出ていない。そんなSamsung（サムスン）のスマートグラスですが、ネタ元のSammyGuruが、専用アプリを独自入手。アプリの設定から、サム",
-          "url": "https://www.gizmodo.jp/article/samsungs-smart-glasses-could-team-up-with-its-rings-and-watches/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-07-06T03:30:00Z",
-          "image": "https://media.loom-app.com/loom/2026/07/04/b320ee8e-8842-4f0a-90a2-ee69b8b0d3c8/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "Snow Man渡辺翔太、周囲からの“美容相談”増加「たとえば大型歌番組で…」 SixTONES京本大我にもアドバイス",
-          "description": "動画ニュース｜　9人組グループ・Snow Manの渡辺翔太が6日、都内で行われたSBC湘南美容クリニック「SBC湘南美容の約束」新CM発表会に登壇。周囲からの“美容相談”が増えていることを明かした。　Snow Manの美容番長としてもおなじみで、SBC湘南美容クリニックのCM出演も4年となり、「こういった湘南美容クリニックのアンバサダーとしてっていう部分で、美容医療を発信していくうえで背筋が伸びる思いもありながら、アイドルとしてのキャラクターとしての後押しのしてくださっているので、感謝の気持というか、本当に光栄」としみじみ語った渡辺。",
-          "url": "https://www.oricon.co.jp/news/2465847/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-07-06T03:21:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2466000/2465847/20260706_115130_p_o_91965829.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Lenovo starts shipping laptops with Chinese-made YMTC SSDs due to skyrocketing NAND Flash prices",
-          "description": "Due to the current crisis, Lenovo ThinkBook laptops are now shipping globally with SSDs from Chinese company Yangtze Memory Technologies (YMTC).",
-          "url": "https://www.tweaktown.com/news/112489/lenovo-starts-shipping-laptops-with-chinese-made-ymtc-ssds-due-to-skyrocketing-nand-flash-prices/index.html",
+          "title": "Magnetic Clue To Life's Origins",
+          "description": "A study offering new clues to the origin of life on Earth began at a family dinner. \"We try to avoid talking about science during Friday night meals",
+          "url": "https://www.miragenews.com/magnetic-clue-to-lifes-origins-1705195/",
           "source": {
-            "name": "TweakTown"
+            "name": "Mirage News"
           },
-          "publishedAt": "2026-07-06T07:59:07Z",
-          "image": "https://static.tweaktown.com/news/1/1/112489_1_lenovo-starts-shipping-laptops-with-chinese-made-ymtc-ssds-due-to-skyrocketing-nand-flash-prices_full.jpg",
+          "publishedAt": "2026-07-06T10:14:00Z",
+          "image": "https://wis-wander.weizmann.ac.il/sites/default/files/article_main_image/MSYP_main.jpg",
           "language": "en"
         },
         {
-          "title": "Marcoleta complains of chest pain, taken to PNP hospital",
-          "description": "Sen. Rodante Marcoleta was taken to the Philippine National Police General Hospital on Monday after complaining of chest pain and high blood pressure.",
-          "url": "https://newsinfo.inquirer.net/2258509/marcoleta-complains-of-chest-pain-taken-to-pnp-hospital",
+          "title": "New Redmi Note 17 series leak details vanilla, Pro and Pro Max specs, includes images",
+          "description": "The specs attributed to the Redmi Note 17 Pro in a previous report are now said to belong to the Redmi Note 17 Pro Max. So, Redmi decided to skip over the...",
+          "url": "https://www.gsmarena.com/new_redmi_note_17_series_leak_details_vanilla_pro_and_pro_max_specs_includes_images-news-73585.php",
           "source": {
-            "name": "Inquirer.net"
+            "name": "GSMArena.com"
           },
-          "publishedAt": "2026-07-06T07:59:00Z",
-          "image": "https://newsinfo.inquirer.net/files/2026/07/Senator-Rodante-Marcoleta-arrives-in-the-Sandiganbayan-Third-Division-on-Monday-July-6-2026-moments-before-the-announcement-of-the-issuance-of-arrest-warrant-against-him.-JOHN-ERIC-MENDOZAINQU.png",
+          "publishedAt": "2026-07-06T10:12:03Z",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/07/redmi-note-17-series-poster-specs-leak/-952x498w6/gsmarena_000.jpg",
           "language": "en"
         },
         {
-          "title": "Djibouti Seeks U.S. Support for Energy Projects",
-          "description": "Talks focused on renewable energy expansion and rural electrification",
-          "url": "https://www.dawan.africa/news/djibouti-seeks-us-support-for-energy-projects",
+          "title": "Three held for Baruipur rape and murder; govt. will ensure capital punishment is awarded, says CM",
+          "description": "Bengal police arrest two and detain three in Baruipur rape-murder case, forming a Special Investigating Team for further inquiry.",
+          "url": "https://www.thehindu.com/news/national/west-bengal/baruipur-rape-murder-case-arrest-made/article71188776.ece",
           "source": {
-            "name": "Dawan Africa"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-07-06T07:58:25Z",
-          "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgchf54alLu6JvEqWnSGXPVAiwohrYj87dgUZN",
+          "publishedAt": "2026-07-06T10:11:58Z",
+          "image": "https://th-i.thgim.com/public/incoming/6v45kk/article71188837.ece/alternates/LANDSCAPE_1200/PTI07_05_2026_000282B.jpg",
           "language": "en"
         },
         {
-          "title": "Thousands pay respects to Iran's late Supreme Leader Ali Khamenei",
-          "description": "Thousands of mourners dressed in black gathered in Tehran on Monday to pay their respects to Iran’s late Supreme Leader, Ayatollah Ali Khamanei.",
-          "url": "https://www.africanews.com/2026/07/06/thousands-pay-respects-to-irans-late-supreme-leader-ali-khamenei/",
+          "title": "British Mountaineer John Rees-Evans to attempt 16-hour Mount Kilimanjaro record",
+          "description": "Rees-Evans previously attempted a similar record in 2023. Twenty-six years ago, he climbed from Marangu Gate to the summit — a route covering only about 80 percent of the mountain. This attempt...",
+          "url": "https://www.thecitizen.co.tz/tanzania/news/national/british-mountaineer-john-rees-evans-to-attempt-16-hour-mount-kilimanjaro-record-5518744",
           "source": {
-            "name": "africanews.com"
+            "name": "thecitizen.co.tz"
           },
-          "publishedAt": "2026-07-06T07:57:25Z",
-          "image": "https://images.euronews.com/articles/stories/09/82/65/54/1024x538_cmsv2_39af3a95-3746-5a10-9530-46863218d5cf-9826554.jpg",
+          "publishedAt": "2026-07-06T10:11:31Z",
+          "image": "https://www.thecitizen.co.tz/resource/image/5518746/landscape_ratio3x2/1200/800/a2f2efe2464a5385ec66468b20019263/pY/mzungu-pic.jpg",
           "language": "en"
         },
         {
-          "title": "What Parliament Induction Revealed About Civilian Oversight of the UPDF",
-          "description": "“Article 210 empowers Parliament to make laws regulating the UPDF, including its structure, recruitment, discipline, terms",
-          "url": "https://ugdiplomat.com/what-parliament-induction-revealed-about-civilian-oversight-of-the-updf/",
+          "title": "Starbeck Community Fund: Large Community Grants (United Kingdom)",
+          "description": "Deadline: 16-Aug-2026 The Starbeck Community Fund provides Large Community Grants of £5,000 to £15,000 to established organizations delivering significant community projects within the Starbeck area. The funding supports improvements to community facilities, recreational spaces, local infrastructure, and initiatives that enhance quality of life and community participation. Projects must demonstrate measurable community impact and be completed",
+          "url": "https://www2.fundsforngos.org/cat/starbeck-community-fund-large-community-grants-united-kingdom/",
           "source": {
-            "name": "UG Diplomat"
+            "name": "fundsforNGOs"
           },
-          "publishedAt": "2026-07-06T07:56:51Z",
-          "image": "https://ugdiplomat.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-9.00.13-AM-1200x600-1-1000x600.jpeg",
+          "publishedAt": "2026-07-06T10:11:23Z",
+          "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
           "language": "en"
         },
         {
-          "title": "Witness: Schoolgirl stabbed after buying bread at canteen during Banting school recess",
-          "description": "KUALA LUMPUR, July 6 — A routine morning recess at a secondary school in Banting was abruptly interrupted when a Form Three student was allegedly stabbed moments after buying...",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/06/witness-schoolgirl-stabbed-after-buying-bread-at-canteen-during-banting-school-recess/226572",
+          "title": "Sara Duterte impeachment: Trial starts with Philippine vice",
+          "description": "Vice-President Sara Duterte will be banned from public office if found guilty.",
+          "url": "https://www.bbc.com/news/articles/c4gyyrz3qn1o",
           "source": {
-            "name": "Malay Mail"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-06T07:55:46Z",
-          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/06/350498.jpg",
+          "publishedAt": "2026-07-06T10:11:08Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9033/live/cf985800-7923-11f1-bb09-19b977572e60.jpg",
           "language": "en"
         },
         {
-          "title": "'3 Weeks After' Director on Tackling 'Everyday' Peer Violence, Suicide",
-          "description": "World premiering at the Karlovy Vary festival, director Mirsolav Terzić's \"3 Weeks After\" tackles the topics of peer violence and suicide.",
-          "url": "https://variety.com/2026/film/festivals/3-weeks-after-suicide-siberia-karlovy-vary-1236799698/",
+          "title": "Kantema urges SOEs to strengthen partnerships",
+          "description": "Minister of Gender Equality and Child Welfare Emma Kantema on Thursday urged participants in the State-Owned Enterprises CEOs Games in Rundu to strengthen partn",
+          "url": "https://neweralive.na/kantema-urges-soes-to-strengthen-partnerships/",
           "source": {
-            "name": "Variety"
+            "name": "neweralive.na"
           },
-          "publishedAt": "2026-07-06T07:55:00Z",
-          "image": "https://variety.com/wp-content/uploads/2026/06/3-Weeks-After.jpg?w=1000&h=563&crop=1",
+          "publishedAt": "2026-07-06T10:09:50Z",
+          "image": "https://neweralive.na/wp-content/uploads/2026/07/Kantema.jpg",
           "language": "en"
         },
         {
-          "title": "Ex-master of Holles Street warns of potentially 'catastrophic' outcomes in new birth guidelines",
-          "description": "Peter Boylan is urging a review of the national guidelines around maternity services.",
-          "url": "https://www.thejournal.ie/latent-phase-labour-peter-boylan-7092461-Jul2026/",
+          "title": "Prince Harry will not stay at palace during visit to UK",
+          "description": "Britain's Prince Harry will not stay at Buckingham Palace during his stay in the UK this week, the palace has said, despite a spokesman for Harry telling ⁠media today that he had accepted an invitation to do so.",
+          "url": "https://www.rte.ie/news/uk/2026/0706/1581964-prince-harry-uk/",
           "source": {
-            "name": "The Journal"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-07-06T07:54:00Z",
-          "image": "https://img2.thejournal.ie/article/7092461/river/?height=400&version=7092495",
+          "publishedAt": "2026-07-06T10:09:39Z",
+          "image": "https://www.rte.ie/images/001e15d8-1600.jpg",
           "language": "en"
         },
         {
-          "title": "Some statins may increase erectile dysfunction risk",
-          "description": "Research indicates that certain statins, particularly atorvastatin and simvastatin, may elevate the risk of erectile dysfunction, impacting men's health.",
-          "url": "https://www.news-medical.net/news/20260706/Some-statins-may-increase-erectile-dysfunction-risk.aspx",
+          "title": "See all of the details of Taylor Swift's Dior Haute Couture wedding gown, the first-of-its-kind",
+          "description": "Taylor Swift is married! The showgirl tied the knot with Travis Kelce wearing a Dior Haute Couture wedding dress by Jonathan Anderson. See all the details here.",
+          "url": "https://www.harpersbazaar.com/uk/fashion/a71831411/taylor-swift-wears-custom-dior-haute-couture-jonathan-anderson-wedding-dress-details/",
           "source": {
-            "name": "News-Medical"
+            "name": "Harper's BAZAAR"
           },
-          "publishedAt": "2026-07-06T07:54:00Z",
-          "image": "https://www.news-medical.net/images/news/ImageForNews_841689_17833241718345443.jpg",
+          "publishedAt": "2026-07-06T10:09:02Z",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/34539c13-7441-4c5f-ad3b-844e1ca7e45b.jpeg?crop=0.490xw:0.159xh;0.292xw,0.0604xh&resize=1200:*",
           "language": "en"
         },
         {
-          "title": "Border Police officer throws stun grenade into Palestinian car, blocks driver’s exit",
-          "description": "Police says officer suspended, incident under investigation; video shows flashbang going off while occupants inside, driver apparently unharmed; 6 said injured in settler attack",
-          "url": "https://www.timesofisrael.com/border-police-officer-throws-stun-grenade-into-palestinian-car-blocks-drivers-exit/",
+          "title": "Government defends Swiss fuel deal as opposition claims it cost Tanzanians Sh2.16 trillion in losses",
+          "description": "The saga involving fuel tender controversy has taken a new twist with the government now coming out to defend itself in the matter.",
+          "url": "https://www.thecitizen.co.tz/tanzania/news/national/government-defends-swiss-fuel-deal-as-opposition-claims-it-cost-tanzanians-sh2-16-trillion-in-losses-5519074",
           "source": {
-            "name": "The Times of Israel"
+            "name": "thecitizen.co.tz"
           },
-          "publishedAt": "2026-07-06T07:52:13Z",
-          "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/Screenshot-2026-07-06-101453-e1783322167444.png",
+          "publishedAt": "2026-07-06T10:08:45Z",
+          "image": "https://www.thecitizen.co.tz/resource/image/5519078/landscape_ratio3x2/1200/800/924f7ee1051141600b5fad3d348c2b35/Xl/fuel-pic.jpg",
           "language": "en"
         }
       ]
