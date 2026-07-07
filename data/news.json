@@ -1,10 +1,54 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-07T19:56:37.866Z",
+  "updatedAt": "2026-07-07T22:10:59.217Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "『ブルーロック』特装版の付録発表 高橋文哉・櫻井海音・K（&TEAM）・綱啓永の実写キャストのクリアファイル8種類",
+          "description": "ニュース｜　17日発売の漫画『ブルーロック』コミックス40巻・特装版には、実写映画『ブルーロック』の公開を記念して、映画キャスト撮り下ろしクリアファイル8枚が付いてくることを受け、デザインが公開された。　高橋文哉、櫻井海音、K（&TEAM）、綱啓永の4人が、それぞれキャラクタービジュアルと私服風ビジュアルで登場。デザインは全8種となっている。全て撮り下ろしのここだけでしか手に入らない、デザインとなる。　『ブルーロック』は、週刊少年マガジンにて連載中のサッカー漫画で、無名の高校生FWである主人公・潔世一が、ライバルたちと激闘を繰り広げながら、日本サッカー界に革命を起こすストライカーの誕生までを描いたストーリー。　日本をサッカーワールドカップ優勝に導くストライカーを育成するため、日本フットボール連合が立ち上げた「青い監獄（ブルーロック）」プロジェクトが舞台で、全国から集められた300人の高校生FWたちが、生き残りをかけて熾烈なサバイバルを繰り広げていく。　コミックスは累計6000万部を突破しており、テレビアニメは第1期が2022年10月～2023年3月、第2期が2024年10月～12月に放送。2022年にはゲーム化、2023年には舞台化もされた。アニメ続編の制作も決まっている。８月7日に公開される実写映画は『キングダム』シリーズや『ゴールデンカムイ』シリーズ、『国宝』を手掛けるCREDEUSが制作を担当。主演・潔世一役は高橋文哉が務める。",
+          "url": "https://www.oricon.co.jp/news/2466232/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-07-07T09:09:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2467000/2466232/20260707_180730_p_o_45250089.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "任天堂、バッテリ交換可能な「Switch 2」を欧州で秋に発売",
+          "description": "任天堂は、2027年2月中旬から適用される欧州のバッテリー規制変更に備え、欧州で販売する一部製品について、ユーザー交換可能なバッテリーを備えた改良版へ順次切り替える。改良版は2026年夏以降、製品ごとに順次投入される予定で、バッテリー交換に対応する点を除き、現行モデルとの機能面での違いはない。",
+          "url": "https://www.watch.impress.co.jp/docs/news/2123173.html",
+          "source": {
+            "name": "Impress Watch"
+          },
+          "publishedAt": "2026-07-07T09:02:34Z",
+          "image": "https://www.watch.impress.co.jp/img/ipw/list/2123/173/nin01.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「はやぶさ2」が小惑星トリフネへの超接近に成功、“地球防衛”の実証に向けた挑戦の意義",
+          "description": "JAXAの探査機「はやぶさ2」が、このほど小惑星「トリフネ」への超近接フライバイに成功した。中心からわずか800mを秒速約5kmで通過する“離れ業”の成功は、地球防衛技術の実証に向けた大きな一歩でもある。",
+          "url": "https://wired.jp/article/hayabusa2-torifune-flyby-success/",
+          "source": {
+            "name": "WIRED.jp"
+          },
+          "publishedAt": "2026-07-07T09:00:00Z",
+          "image": "https://media.wired.jp/photos/6a4ca70e243aec714b07c345/16:9/w_1280,c_limit/20260706-3-01_bg-clean.png",
+          "language": "ja"
+        },
+        {
+          "title": "台風9号 10日～11日ごろ沖縄に最接近へ 暴風・高波に厳重警戒を",
+          "description": "大型で非常に強い台風9号は、10日(金)から11日(土)ごろにかけて、非常に強い勢力で沖縄に最も接近する見通しです。建物が倒壊するおそれもある猛烈な風が吹き、猛烈なしけとなる所がありそうです。暴風やうねりを伴った高波に厳重に警戒し、大雨に警戒してください。また、東日本や西日本の太平洋側では台風から離れていても、うねりを伴った波に注意が必要です。",
+          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/07/07/39630.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-07T08:38:54Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/396/39630/main/20260707172718/large.jpg",
+          "language": "ja"
+        },
         {
           "title": "（まとめ）韓国株の下落が重荷となった日経平均は1,480円安の68,256円で続落",
           "description": "東京市場まとめ1.概況日経平均は277円安の69,460円と続落して取引を開始しました。値がさの半導体関連銘柄に売りが出たことで、軟調な出だしとなりました。一時、上昇に転じる場面が見られたものの、前引けは889円安の68,848円となりました。後場も下落基調で推移し、14...",
@@ -70,161 +114,117 @@
           "publishedAt": "2026-07-07T05:01:27Z",
           "image": "https://img-mdpr.freetls.fastly.net/article/xO2_/nm/xO2_SrRN3sp-D9Sin2lGWoFC6W_-C_bKYdGTXZkkr1g.jpg?width=700&disable=upscale&auto=webp&quality=80",
           "language": "ja"
-        },
-        {
-          "title": "「色違いで3本目の購入」 GUの“万能パンツ”が大好評！ 「この夏この一本で過ごせる」「ウエストが細見え」「バレルの形も素材も良い」",
-          "description": "GUから販売されている「バレルアンクルパンツ+EC（丈長め69.0cm）」が、軽くてサラサラな生地で履き心地がよく、春夏にぴったりだと高評価を集めています。　本記事では、そんな「バレルアンクルパンツ+EC（丈長め69.0cm）」について紹介します。「バレルアンクルパンツ+EC（丈長め69.0…",
-          "url": "https://nlab.itmedia.co.jp/research/articles/3907498/",
-          "source": {
-            "name": "ねとらぼ"
-          },
-          "publishedAt": "2026-07-07T05:00:00Z",
-          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/05/1778485658_GU1-scaled.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ファン「え?何してんの?」、アメリカGKがPA外に飛び出すも…痛恨ミスから致命的失点",
-          "description": "アメリカ代表GKマット・フリーズが決勝トーナメント2回戦ベルギー戦で痛恨のミスを犯した。　現地時間6日に開催された北中米W杯決勝トーナメント2回戦でアメリカはベルギーと対戦。前半9分にベルギーに先制を許...",
-          "url": "https://web.gekisaka.jp/news/worldcup/detail/?455039-455039-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-07-07T04:17:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455039/news_455039_1.jpg?time=20260707132010",
-          "language": "ja"
-        },
-        {
-          "title": "【半額以下多数！】Amazonプライムデー《Switch/Switch2》セール対象ソフトまとめ",
-          "description": "Amazonプライムデー2026でセール販売中のオススメのSwitch/Switch2ソフトを紹介します。",
-          "url": "https://dengekionline.com/article/202607/80622",
-          "source": {
-            "name": "電撃オンライン"
-          },
-          "publishedAt": "2026-07-07T03:55:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/80622/ogp_wGnM.jpg?x=1280",
-          "language": "ja"
-        },
-        {
-          "title": "「良すぎて3枚目です」 GUの“790円Tシャツ”が大人気 「清涼感があり着心地も良い」「軽くて薄いので夏にぴったり」「価格以上で大満足」",
-          "description": "トレンド感のあるデザインと手頃な価格で人気を集めるGUのアイテム。今回は、着心地抜群で速乾性もあり、夏にぴったりだと評判のTシャツを紹介します。GU「ドライワッフルT」とは画像：GU　GUの「ドライワッフルT」は、凹凸のあるワッフル編みで通気性とナチュラルな質感を演出した、ユニセック…",
-          "url": "https://nlab.itmedia.co.jp/research/articles/3906887/",
-          "source": {
-            "name": "ねとらぼ"
-          },
-          "publishedAt": "2026-07-07T03:40:00Z",
-          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/06/1749716636_7340ea8e6aaf03a8e88db60c082628e5-scaled.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Meet Brian Austin Green's kids that he shares with 3 different partners",
-          "description": "Meet all Brian Austin Green's kids that he shares with three different partners. Discover how old they are, what they do, and who their mothers are.",
-          "url": "https://www.tuko.co.ke/facts-lifehacks/celebrity-biographies/630583-meet-brian-austin-greens-kids-shares-3-different-partners/",
+          "title": "New technologies could help cut years-long wait for endometriosis diagnosis",
+          "description": "Two new non-invasive diagnostic technologies can be used in the NHS while further evidence is generated to speed up the diagnosis of endometriosis in primary care.",
+          "url": "https://www.wired-gov.net/wg/news.nsf/articles/New+technologies+could+help+cut+yearslong+wait+for+endometriosis+diagnosis+07072026110500?open",
           "source": {
-            "name": "Tuko News"
+            "name": "Wired-Gov"
           },
-          "publishedAt": "2026-07-07T07:56:26Z",
-          "image": "https://cdn.tuko.co.ke/images/1200x675/d0d9f75fd33892f5.jpeg?v=1",
+          "publishedAt": "2026-07-07T10:09:40Z",
+          "image": "https://www.wired-gov.net/wg/news.nsf/channel-social/WGOV-9FZM3P/$file/xpc_social.gif",
           "language": "en"
         },
         {
-          "title": "Popular Arewa Influencer Hadiza Mago’s Last Social Media Post Trends Barely Hours After Her Death",
-          "description": "Popular Arewa influencer Hadiza Mago's last social media post has gone viral after reports of her death, prompting emotional reactions from fans.",
-          "url": "https://www.legit.ng/entertainment/celebrities/1717963-popular-arewa-influencer-hadiza-magos-social-media-post-barely-hours-death-trends/",
+          "title": "7 Uncomfortable Truths About WWE In 2026",
+          "description": "Booking down the toilet, prices out of control and careers up in smoke. What is going on in WWE?",
+          "url": "https://sports.yahoo.com/articles/7-uncomfortable-truths-wwe-2026-100923806.html",
+          "source": {
+            "name": "Yahoo Sports"
+          },
+          "publishedAt": "2026-07-07T10:09:23Z",
+          "image": "https://s.yimg.com/os/en/whatculture_853/85427aff1e8b388d528e868dbf96d2f3",
+          "language": "en"
+        },
+        {
+          "title": "First Markets: How to Build Rich Experiences Without Leaving Users Behind",
+          "description": "AI is making three-dimensional content easier to create. A small game studio can produce early props without waiting…",
+          "url": "https://pctechmag.com/2026/07/ai-3d-for-mobile-first-markets-how-to-build-rich-experiences-without-leaving-users-behind/",
+          "source": {
+            "name": "PC Tech Magazine"
+          },
+          "publishedAt": "2026-07-07T10:08:51Z",
+          "image": "https://pctechmag.com/wp-content/uploads/2026/07/premium_photo-1682309699199-4bf1e94b6e52.jpeg",
+          "language": "en"
+        },
+        {
+          "title": "Duterte-allied lawyers question Escudero's election as impeachment presiding officer at SC",
+          "description": "'The impeachment court... being presided over by an officer whose authority to hold that position is squarely disputed and is the subject matter of a Petition presently pending before this Honorable Court,' the motion reads",
+          "url": "https://www.rappler.com/philippines/duterte-allied-lawyers-supreme-court-motion-chiz-escudero-impeachment-presiding-officer/",
+          "source": {
+            "name": "Rappler"
+          },
+          "publishedAt": "2026-07-07T10:08:51Z",
+          "image": "https://www.rappler.com/tachyon/2026/07/senate-sara-duterte-impeachment-july-6-2026-017-scaled.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Korea, Asean discuss ways to advance partnership, promote peace",
+          "description": "South Korea and Asean officials met in Seoul to expand their strategic partnership, deepen AI and cultural industry cooperation, and address regional security issues including the Korean Peninsula, the South China Sea and Myanmar.",
+          "url": "https://www.koreajoongangdaily.com/korea/korea-asean-discuss-ways-to-advance-partnership-promote-peace/12760248",
+          "source": {
+            "name": "Korea JoongAng Daily"
+          },
+          "publishedAt": "2026-07-07T10:08:12Z",
+          "image": "https://image.koreajoongangdaily.com/12760315.jpg?imageId=12760315&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+          "language": "en"
+        },
+        {
+          "title": "Taye Currency's son called to Nigerian Bar",
+          "description": "Fuji star Taye Currency celebrates his son, Samsudeen Adebisi, on being called to the Nigerian Bar. Discover the proud father's message and family achievem",
+          "url": "https://punchng.com/photos-fuji-star-taye-currency-gushes-over-son-called-to-nigerian-bar/",
+          "source": {
+            "name": "Punch Newspapers"
+          },
+          "publishedAt": "2026-07-07T10:08:10Z",
+          "image": "https://punchng.com/wp-content/uploads/2026/07/Taye-2_1783418531-1200x630.webp",
+          "language": "en"
+        },
+        {
+          "title": "Bobrisky Makes Surprising Confession About His HIV Test, Leaves Fans Talking",
+          "description": "Bobrisky shares her unexpected HIV testing routine every six months, despite years of celibacy. Her disclosure sparks vital conversations on health awareness.",
+          "url": "https://www.legit.ng/entertainment/celebrities/1717998-bobrisky-surprising-confession-hiv-test-leaves-fans-talking/",
           "source": {
             "name": "Legit News"
           },
-          "publishedAt": "2026-07-07T07:56:23Z",
-          "image": "https://cdn.legit.ng/images/1200x675/c4dcc6fc534da307.jpeg?v=1",
+          "publishedAt": "2026-07-07T10:07:35Z",
+          "image": "https://cdn.legit.ng/images/1200x675/375ebf848a613214.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "“We are created for relationships”: 7 ways to relate to people living with dementia",
-          "description": "What does it mean when the Bible tells us that we are “made in the image of God”? This was a question Rev Prof John Swinton posed to participants of the Dementia Ministry Conference organised by Koinonia Inclusion Network (KIN) on May 30, 2026. He was speaking at the second keynote address of the conference. […]",
-          "url": "https://saltandlight.sg/health/we-are-created-for-relationships-7-ways-to-relate-to-people-living-with-dementia/",
+          "title": "Gold prices in Pakistan Today",
+          "description": "Price of gold per tola falls by Rs2,500",
+          "url": "https://tribune.com.pk/story/2616949/gold-prices-extend-losing-streak-for-third-day",
           "source": {
-            "name": "Salt&Light"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-07-07T07:56:06Z",
-          "image": "https://saltandlight.sg/wp-content/uploads/2026/06/Depositphotos_497171794_L.jpg",
+          "publishedAt": "2026-07-07T10:07:26Z",
+          "image": "https://i.tribune.com.pk/media/images/81781386613-4/81781386613-4-640x480.webp",
           "language": "en"
         },
         {
-          "title": "Expert warns of tropical nights amid amber West Country heat alert",
-          "description": "Temperatures could soar to 34C across some areas in the south-west of England.",
-          "url": "https://www.bbc.co.uk/news/articles/cp366pnl3xdo",
+          "title": "iPhone Air 2 Could Get an 11% Battery Capacity Boost",
+          "description": "Apple is reportedly working on a second-generation iPhone Air that's expected to launch in spring 2027, and one of Apple's main aims is to improve battery life. We now have the first rumor suggesting what kind of improvement could be coming. In a post on Weibo listing supply chain predictions, serial leaker Digital Chat Station said the iPhone Air 2 is expected to feature a 3,500mAh battery.",
+          "url": "https://www.macrumors.com/2026/07/07/iphone-air-2-battery-capacity-3500mah/",
           "source": {
-            "name": "BBC"
+            "name": "MacRumors"
           },
-          "publishedAt": "2026-07-07T07:55:44Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/336b/live/af1e12e0-7a1d-11f1-9510-1546718f668b.jpg",
+          "publishedAt": "2026-07-07T10:04:21Z",
+          "image": "https://images.macrumors.com/t/_BM3WvQmnhsAKgHBPyn6qOWsvN4=/1958x/article-new/2025/09/iphone-air-thinness.jpg",
           "language": "en"
         },
         {
-          "title": "Democrats begin pulling Platner endorsements after sexual assault allegation",
-          "description": "Maine Democratic Senate candidate Graham Platner denied the allegation, but said he would be considering next steps for his campaign.",
-          "url": "https://apnews.com/article/graham-platner-maine-assault-senate-061e18bdd180928bbcd94b18a52f4ec9",
+          "title": "Acting President Syed Yousuf Raza Gilani holds meetings at Aiwan-e-Sadr",
+          "description": "ISLAMABAD, Jul 7 (APP):Acting President Syed Yousuf Raza Gilani on Tuesday held separate meetings with religious, political and literary personalities at",
+          "url": "https://www.app.com.pk/national/acting-president-syed-yousuf-raza-gilani-holds-meetings-at-aiwan-e-sadr/",
           "source": {
-            "name": "AP News"
+            "name": "| Associated Press Of Pakistan"
           },
-          "publishedAt": "2026-07-07T07:55:00Z",
-          "image": "https://dims.apnews.com/dims4/default/c448f46/2147483647/strip/true/crop/5037x3356+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1e%2Fe9%2F045272a6ed25215357e96c37bf2d%2Fd1ebd6f47a5246409c3ca2465a56ffc6",
-          "language": "en"
-        },
-        {
-          "title": "TB screenings part of proactive disease surveillance",
-          "description": "Senior Minister of State Tan Kiat How states that tuberculosis screenings in May were part of a proactive approach to infectious disease surveillance. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/singapore/politics/tb-screenings-in-may-part-of-more-proactive-infectious-disease-surveillance-tan-kiat-how",
-          "source": {
-            "name": "The Straits Times"
-          },
-          "publishedAt": "2026-07-07T07:55:00Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b767028abcd5cd8e5ae3a274dc4efcbcf70d7674314f8022a08a5f7b08dac5ae",
-          "language": "en"
-        },
-        {
-          "title": "Wetang'ula Demands Retraction Over Standard's Alleged Defamatory Publication Titled 'Broad",
-          "description": "Standard Media Group has increasingly come under the spotlight over its publications, with government officials and key state figures frequently finding themselves at the center of its reporting.",
-          "url": "https://www.kenyans.co.ke/news/124992-wetangula-demands-retraction-over-standards-alleged-defamatory-publication-titled-broad",
-          "source": {
-            "name": "Kenyans.co.ke"
-          },
-          "publishedAt": "2026-07-07T07:54:18Z",
-          "image": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/wetangula-the-standard.jpg?itok=r3GE88mK",
-          "language": "en"
-        },
-        {
-          "title": "Public media Ombudsman defends editorial right to choose news coverage",
-          "description": "Latvia's public media Ombudsman, representing the Public Electronic Media Council (SEPLP) has issued an opinion defending the editorial right to not cover something that someone else th...",
-          "url": "https://eng.lsm.lv/article/features/media/07.07.2026-public-media-ombudsman-defends-editorial-right-to-choose-news-coverage.a654130/",
-          "source": {
-            "name": "LSM"
-          },
-          "publishedAt": "2026-07-07T07:52:52Z",
-          "image": "https://static.lsm.lv/media/2026/07/large/1/tp11.jpg",
-          "language": "en"
-        },
-        {
-          "title": "'Prolonged spell' of warm weather expected",
-          "description": "Met Éireann has said that a prolonged spell of very warm weather is expected, with temperatures exceeding 25C over the coming days.",
-          "url": "https://www.rte.ie/news/2026/0707/1582135-ireland-weather/",
-          "source": {
-            "name": "RTE.ie"
-          },
-          "publishedAt": "2026-07-07T07:51:41Z",
-          "image": "https://www.rte.ie/images/0024a749-1600.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Prince Harry in London on judgment day in his legal battle against the Daily Mail",
-          "description": "LONDON, July 7 (Reuters) - Prince ⁠Harry, the estranged younger son of King Charles, will be in London without his wife ⁠and family when he hears later on Tuesday whether he has won a hugely ‌expensive court case against the publisher of the Daily Mail.",
-          "url": "https://www.thestar.com.my/news/world/2026/07/07/prince-harry-in-london-on-judgment-day-in-his-legal-battle-against-the-daily-mail",
-          "source": {
-            "name": "The Star"
-          },
-          "publishedAt": "2026-07-07T07:51:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3996996.jpg",
+          "publishedAt": "2026-07-07T10:03:48Z",
+          "image": "https://www.app.com.pk/wp-content/uploads/2026/03/yousuf-raza-gilani-acquitted-in-all-remaining-tdap-corruption-cases-1752823913-4460.png",
           "language": "en"
         }
       ]
