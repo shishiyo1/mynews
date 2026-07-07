@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-07T17:15:02.609Z",
+  "updatedAt": "2026-07-07T19:56:37.866Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "（まとめ）韓国株の下落が重荷となった日経平均は1,480円安の68,256円で続落",
+          "description": "東京市場まとめ1.概況日経平均は277円安の69,460円と続落して取引を開始しました。値がさの半導体関連銘柄に売りが出たことで、軟調な出だしとなりました。一時、上昇に転じる場面が見られたものの、前引けは889円安の68,848円となりました。後場も下落基調で推移し、14...",
+          "url": "https://media.monex.co.jp/articles/-/29714",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-07-07T07:54:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "話題株ピックアップ【夕刊】（2）：三菱ＵＦＪ、セリア、ソニーＦＧ",
+          "description": "トーセイ＜８９２３＞が４日続伸。野村証券は６日、同社株の目標株価を２２７０円から２３５０円に引き上げた。レーティングは３段階で最上位の「バイ」を継続した。６日に発表された第２四半期（３～５月）の連結営業利益は前年同期比８％増の５７億円と同証券予想を上回った・・・。",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607071034",
+          "source": {
+            "name": "かぶたん"
+          },
+          "publishedAt": "2026-07-07T06:46:50Z",
+          "image": "https://async.api.kabutan.jp/og_image?title=%E8%A9%B1%E9%A1%8C%E6%A0%AA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%80%90%E5%A4%95%E5%88%8A%E3%80%91%EF%BC%882%EF%BC%89%EF%BC%9A%E4%B8%89%E8%8F%B1%EF%BC%B5%EF%BC%A6%EF%BC%AA%E3%80%81%E3%82%BB%E3%83%AA%E3%82%A2%E3%80%81%E3%82%BD%E3%83%8B%E3%83%BC%EF%BC%A6%EF%BC%A7",
+          "language": "ja"
+        },
+        {
+          "title": "全東信、破産を招いた「2つの事件」 カード決済の”駆け込み寺”消滅が飲食店に与える影響とは（1/2 ページ）",
+          "description": "夜の街のカード決済を長年支えてきた「全東信」が、負債1259億円を抱え突然の破産。審査が通りにくい飲食店の“最後の駆け込み寺”は、なぜ倒れたのか。飲食店業界に与える影響とともに考える。 (1/2)",
+          "url": "https://www.itmedia.co.jp/news/articles/2607/07/news127.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-07-07T06:30:00Z",
+          "image": "https://image.itmedia.co.jp/news/articles/2607/07/cover_news127.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "疑惑の県議会 「カツアゲされたようなもの」 正･副議長就任に際し県議が証言 自民幹部に計2750万円 金銭を要求したとされる副議長「記憶ない」 【福岡発】",
+          "description": "高額な海外視察問題などで揺れる福岡県議会に新たな疑惑が発覚した。現職の議員2人が、自身の議長と副議長の就任に際し、合わせて2750万円を自民党県議団の幹部に支払ったと証言したのだ。",
+          "url": "https://news.yahoo.co.jp/articles/5e7a618e352924a0d4c5868dad5e77869913814a",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-07T06:18:22Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260707-01171245-fnnprimev-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "「はやぶさ2」が小惑星トリフネへのフライバイに成功",
+          "description": "小惑星探査機「はやぶさ2」が拡張ミッションの最初の目標である小惑星トリフネへのフライバイに成功し、「雪だるま」のようなトリフネの姿をとらえた。",
+          "url": "https://www.astroarts.co.jp/article/hl/a/14568_hayabusa2",
+          "source": {
+            "name": "astroarts.co.jp"
+          },
+          "publishedAt": "2026-07-07T06:16:40Z",
+          "image": "https://www.astroarts.co.jp/article/attachment/54477/key_visual.jpg",
+          "language": "ja"
+        },
         {
           "title": "サッカー・福田湧矢選手＆モデル・愛甲ひかり、結婚発表「1番の味方であり1番尊敬できる人です」",
           "description": "東京ヴェルディ所属の福田湧矢選手（27）とモデルの愛甲ひかりが7月7日、それぞれのInstagramを通じて結婚を発表した。",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-07-07T03:40:00Z",
           "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/06/1749716636_7340ea8e6aaf03a8e88db60c082628e5-scaled.jpg",
           "language": "ja"
-        },
-        {
-          "title": "「iPhone Air」が2万円引き 「プライムデー先行セール」開始、Apple製品が安い",
-          "description": "日本のプライムデーに初めて登場した「iPhone Air」（256GB／SIMフリー版）は、参考価格の15万9800円から2万円引き（13％オフ）の13万9800円で販売している。",
-          "url": "https://www.itmedia.co.jp/news/articles/2607/07/news112.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-07-07T03:26:00Z",
-          "image": "https://image.itmedia.co.jp/news/articles/2607/07/cover_news112.png",
-          "language": "ja"
-        },
-        {
-          "title": "POP エグゼクティブプロデューサーに就任 「日本のエンターテインメントが持つ可能性をさらに広げていきたい」（コメント全文）（TBS NEWS DIG Powered by JNN）",
-          "description": "元SMAPのチーフマネジャーであり “育ての親” である飯島三智（みち）さんが『HYBE JAPAN』でJ-POP エグゼクティブプロデューサーに就任することが、7月7日に発表されました。\nHYB",
-          "url": "https://news.yahoo.co.jp/articles/d2bcb98020bd21366cbca2d4d17f8e4e08086e51",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-07T03:07:12Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260707-22784633-jnn-000-5-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "欧州のSwitch 2、バッテリー交換式へ EU新バッテリー規制に対応 初代Switchファミリーは販売終了",
-          "description": "任天堂の欧州法人Nintendo of Europeは7月6日（現地時間）、欧州で2027年2月中旬に施行されるバッテリー規制の変更に備え、「Nintendo Switch 2」本体や周辺機器を、ユーザー自身でバッテリーを交換できる改訂版へ26年夏から順次切り替えると発表した。初代「Nintendo Switch」ファミリーは改訂の対象外とし、27年2月中旬に販売を終える。",
-          "url": "https://www.itmedia.co.jp/news/articles/2607/07/news106.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-07-07T03:07:00Z",
-          "image": "https://image.itmedia.co.jp/news/articles/2607/07/cover_news106.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "最後のW杯を終え、涙のC・ロナウド「このような形でW杯を去る事になり、残念だ」",
-          "description": "サッカー界の世界的スターであるポルトガル代表FWクリスティアーノ・ロナウドのW杯が終わりを迎えた。　1985年2月5日生まれの41歳は06年ドイツ大会(6試合1得点)でW杯デビュー。そして、10年南アフリカ大会(4試...",
-          "url": "https://web.gekisaka.jp/news/worldcup/detail/?455037-455037-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-07-07T03:04:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455037/news_455037_1.jpg?time=20260707120453",
-          "language": "ja"
-        },
-        {
-          "title": "大谷翔平６試合ぶり19号、32歳初アーチでメジャー通算300号に王手（日刊スポーツ）｜ｄメニューニュース",
-          "description": "大谷翔平６試合ぶり19号、32歳初アーチでメジャー通算300号に王手（日刊スポーツ）＜ドジャース−ロッキーズ＞◇6日（日本時間7日）◇ドジャースタジアムドジャース大谷翔平投手が、出場6試合ぶりとなる今季19号本塁…",
-          "url": "https://topics.smt.docomo.ne.jp/article/nikkansports/sports/f-bb-tp2-260707-202607060001474?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-07-07T02:57:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/nikkansports/m_f-bb-tp2-260707-202607060001474.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Sydney cop who struck man pinned to ground used 'approved manoeuvre': police",
-          "description": "A six-second clip of the police officer repeatedly punching the 21-year-old he had pinned to the ground at Cabramatta Train Station has sparked a social media outcry.",
-          "url": "https://www.nine.com.au/australia-news/nsw/sydney-cop-who-struck-man-pinned-to-ground-used-approved-manoeuvre-police-20260707-p60dc0.html",
+          "title": "Meet Brian Austin Green's kids that he shares with 3 different partners",
+          "description": "Meet all Brian Austin Green's kids that he shares with three different partners. Discover how old they are, what they do, and who their mothers are.",
+          "url": "https://www.tuko.co.ke/facts-lifehacks/celebrity-biographies/630583-meet-brian-austin-greens-kids-shares-3-different-partners/",
           "source": {
-            "name": "Nine.com.au"
+            "name": "Tuko News"
           },
-          "publishedAt": "2026-07-07T05:14:51Z",
-          "image": "https://static.ffx.io/images/$zoom_0.873%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_126/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/37428df5cbb4cace2f83767c47ebb9b09664dd2b7d435b45c1d5b91d677be005",
+          "publishedAt": "2026-07-07T07:56:26Z",
+          "image": "https://cdn.tuko.co.ke/images/1200x675/d0d9f75fd33892f5.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "RFAs: Fair Housing Initiatives Program - Education and Outreach Initiative (US)",
-          "description": "Deadline: 02-Nov-2026 The Fair Housing Initiatives Program (FHIP) Education and Outreach Initiative provides competitive funding to organizations that educate the public, housing providers, and communities about fair housing rights and responsibilities in the United States. The programme supports outreach, education campaigns, media initiatives, and community-based activities designed to prevent and eliminate discriminatory housing practices. The",
-          "url": "https://www2.fundsforngos.org/community-development-2/rfas-fair-housing-initiatives-program-education-and-outreach-initiative-us/",
+          "title": "Popular Arewa Influencer Hadiza Mago’s Last Social Media Post Trends Barely Hours After Her Death",
+          "description": "Popular Arewa influencer Hadiza Mago's last social media post has gone viral after reports of her death, prompting emotional reactions from fans.",
+          "url": "https://www.legit.ng/entertainment/celebrities/1717963-popular-arewa-influencer-hadiza-magos-social-media-post-barely-hours-death-trends/",
           "source": {
-            "name": "fundsforNGOs"
+            "name": "Legit News"
           },
-          "publishedAt": "2026-07-07T05:14:34Z",
-          "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+          "publishedAt": "2026-07-07T07:56:23Z",
+          "image": "https://cdn.legit.ng/images/1200x675/c4dcc6fc534da307.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "Uganda Pushes Diplomats to Deliver Economic Results, Not Just Activity",
-          "description": "Uganda has directed its diplomats to focus on delivering measurable trade, investment and tourism gains rather than reporting activities, as the government moves to strengthen implementation of its Economic and Commercial Diplomacy (ECD) strategy. Opening the Annual Retreat on Economic and Commercial Diplomacy Implementation in Kampala on Monday, Permanent Secretary Vincent Bagiire Waiswa said Uganda's …",
-          "url": "https://chimpreports.com/uganda-pushes-diplomats-to-deliver-economic-results-not-just-activity/",
+          "title": "“We are created for relationships”: 7 ways to relate to people living with dementia",
+          "description": "What does it mean when the Bible tells us that we are “made in the image of God”? This was a question Rev Prof John Swinton posed to participants of the Dementia Ministry Conference organised by Koinonia Inclusion Network (KIN) on May 30, 2026. He was speaking at the second keynote address of the conference. […]",
+          "url": "https://saltandlight.sg/health/we-are-created-for-relationships-7-ways-to-relate-to-people-living-with-dementia/",
           "source": {
-            "name": "ChimpReports"
+            "name": "Salt&Light"
           },
-          "publishedAt": "2026-07-07T05:13:28Z",
-          "image": "https://cdn-network.chimpreports.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-07-at-00.18.452-1204x802.jpeg",
+          "publishedAt": "2026-07-07T07:56:06Z",
+          "image": "https://saltandlight.sg/wp-content/uploads/2026/06/Depositphotos_497171794_L.jpg",
           "language": "en"
         },
         {
-          "title": "Cristiano Ronaldo was indulged at this World Cup and Portugal paid the price",
-          "description": "Ronaldo's history cannot be doubted but he never looked capable of sustained excellence at this tournament",
-          "url": "https://www.nytimes.com/athletic/7426995/2026/07/06/cristiano-ronaldo-portugal-world-cup-martinez/",
-          "source": {
-            "name": "The New York Times"
-          },
-          "publishedAt": "2026-07-07T05:13:21Z",
-          "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/06221051/GettyImages-2284975491-scaled.jpg?width=1200&height=630&fit=cover",
-          "language": "en"
-        },
-        {
-          "title": "Shropshire slug sleuths on the trail of gorging gastropods",
-          "description": "How predicting slugs' behaviour is helping farmers and their crops.",
-          "url": "https://www.bbc.co.uk/news/articles/cm200kxg3zlo",
+          "title": "Expert warns of tropical nights amid amber West Country heat alert",
+          "description": "Temperatures could soar to 34C across some areas in the south-west of England.",
+          "url": "https://www.bbc.co.uk/news/articles/cp366pnl3xdo",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-07-07T05:12:12Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ab2/live/ec8b79e0-7934-11f1-b976-0b9c15b0ccfc.jpg",
+          "publishedAt": "2026-07-07T07:55:44Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/336b/live/af1e12e0-7a1d-11f1-9510-1546718f668b.jpg",
           "language": "en"
         },
         {
-          "title": "'We're watching closely': US Senator warns Pak over 'double role' after Khamenei tribute",
-          "description": "US News: US Senator Rick Scott on Tuesday sharply criticised Pakistan's role in the US-Iran peace deal, accusing Islamabad of hypocrisy after Prime Minister Sh.",
-          "url": "https://timesofindia.indiatimes.com/world/us/were-watching-closely-us-senator-warns-pak-over-double-role-after-khamenei-tribute/articleshow/132230979.cms",
+          "title": "Democrats begin pulling Platner endorsements after sexual assault allegation",
+          "description": "Maine Democratic Senate candidate Graham Platner denied the allegation, but said he would be considering next steps for his campaign.",
+          "url": "https://apnews.com/article/graham-platner-maine-assault-senate-061e18bdd180928bbcd94b18a52f4ec9",
           "source": {
-            "name": "The Times of India"
+            "name": "AP News"
           },
-          "publishedAt": "2026-07-07T05:12:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-132230953,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-07-07T07:55:00Z",
+          "image": "https://dims.apnews.com/dims4/default/c448f46/2147483647/strip/true/crop/5037x3356+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1e%2Fe9%2F045272a6ed25215357e96c37bf2d%2Fd1ebd6f47a5246409c3ca2465a56ffc6",
           "language": "en"
         },
         {
-          "title": "UC astronomer on trail of clues to rare interstellar comet",
-          "description": "A University of Canterbury (UC) astronomer has contributed to international research uncovering new clues about the origin of 3I/ATLAS, the brightest interstellar object ever seen. Associate Professor Michele Bannister, from the University’s School of Physical and Chemical Sciences, is part of the international team that used the European Southern Observatory’s Very Large Telescope (VLT) to […]",
-          "url": "https://insidegovernment.co.nz/uc-astronomer-on-trail-of-clues-to-rare-interstellar-comet/",
+          "title": "TB screenings part of proactive disease surveillance",
+          "description": "Senior Minister of State Tan Kiat How states that tuberculosis screenings in May were part of a proactive approach to infectious disease surveillance. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/singapore/politics/tb-screenings-in-may-part-of-more-proactive-infectious-disease-surveillance-tan-kiat-how",
           "source": {
-            "name": "Inside Government NZ"
+            "name": "The Straits Times"
           },
-          "publishedAt": "2026-07-07T05:12:00Z",
-          "image": "https://insidegovernment.co.nz/wp-content/uploads/2026/07/unnamed-8.jpg",
+          "publishedAt": "2026-07-07T07:55:00Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b767028abcd5cd8e5ae3a274dc4efcbcf70d7674314f8022a08a5f7b08dac5ae",
           "language": "en"
         },
         {
-          "title": "We Lower Barrick's Fair Value Estimate on Reduced Assumed Near-Term Gold Prices",
-          "description": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.",
-          "url": "https://www.morningstar.com/company-reports/1487164-we-lower-barricks-fair-value-estimate-on-reduced-assumed-near-term-gold-prices",
+          "title": "Wetang'ula Demands Retraction Over Standard's Alleged Defamatory Publication Titled 'Broad",
+          "description": "Standard Media Group has increasingly come under the spotlight over its publications, with government officials and key state figures frequently finding themselves at the center of its reporting.",
+          "url": "https://www.kenyans.co.ke/news/124992-wetangula-demands-retraction-over-standards-alleged-defamatory-publication-titled-broad",
           "source": {
-            "name": "Morningstar"
+            "name": "Kenyans.co.ke"
           },
-          "publishedAt": "2026-07-07T05:11:52Z",
-          "image": "https://www.morningstar.com/company-reports/:/[object Object]",
+          "publishedAt": "2026-07-07T07:54:18Z",
+          "image": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/wetangula-the-standard.jpg?itok=r3GE88mK",
           "language": "en"
         },
         {
-          "title": "Leading US Democrats withdraw support for Platner after assault allegations",
-          "description": "Monday’s accusations are the latest in a long string of controversies surrounding the Maine Democratic Senate candidate.",
-          "url": "https://www.aljazeera.com/news/2026/7/6/leading-us-democrats-withdraw-support-for-platner-after-assault-allegations",
+          "title": "Public media Ombudsman defends editorial right to choose news coverage",
+          "description": "Latvia's public media Ombudsman, representing the Public Electronic Media Council (SEPLP) has issued an opinion defending the editorial right to not cover something that someone else th...",
+          "url": "https://eng.lsm.lv/article/features/media/07.07.2026-public-media-ombudsman-defends-editorial-right-to-choose-news-coverage.a654130/",
           "source": {
-            "name": "Al Jazeera"
+            "name": "LSM"
           },
-          "publishedAt": "2026-07-07T05:11:34Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26161067852261-1783375452.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-07-07T07:52:52Z",
+          "image": "https://static.lsm.lv/media/2026/07/large/1/tp11.jpg",
           "language": "en"
         },
         {
-          "title": "Egyptians dream of toppling Argentina in historic World Cup match",
-          "description": "Streets lined with flags, conversations centred on one match, and hopes pinned on the team ahead of Egypt vs Argentina.",
-          "url": "https://www.aljazeera.com/sports/2026/7/7/chk_egyptians-dream-of-toppling-argentina-in-historic-world-cup-match",
+          "title": "'Prolonged spell' of warm weather expected",
+          "description": "Met Éireann has said that a prolonged spell of very warm weather is expected, with temperatures exceeding 25C over the coming days.",
+          "url": "https://www.rte.ie/news/2026/0707/1582135-ireland-weather/",
           "source": {
-            "name": "Al Jazeera"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-07-07T05:09:30Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-03T210125Z_1821885971_UP1EM731MECHS_RTRMADP_3_SOCCER-WORLDCUP-AUS-EGY-FANS-CAIRO-1783395261.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-07-07T07:51:41Z",
+          "image": "https://www.rte.ie/images/0024a749-1600.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Prince Harry in London on judgment day in his legal battle against the Daily Mail",
+          "description": "LONDON, July 7 (Reuters) - Prince ⁠Harry, the estranged younger son of King Charles, will be in London without his wife ⁠and family when he hears later on Tuesday whether he has won a hugely ‌expensive court case against the publisher of the Daily Mail.",
+          "url": "https://www.thestar.com.my/news/world/2026/07/07/prince-harry-in-london-on-judgment-day-in-his-legal-battle-against-the-daily-mail",
+          "source": {
+            "name": "The Star"
+          },
+          "publishedAt": "2026-07-07T07:51:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3996996.jpg",
           "language": "en"
         }
       ]
