@@ -1,10 +1,32 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-08T02:47:56.353Z",
+  "updatedAt": "2026-07-08T05:52:56.178Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "『Apex Legends』×『サイバーパンク』コラボが7月15日開始！ マップ“E地区”がナイトシティとなり、サンデヴィスタンが登場の限定モードも",
+          "description": "『Apex Legends』と『サイバーパンク』シリーズのコラボ日程が発表。",
+          "url": "https://www.famitsu.com/article/202607/80709",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-07-07T16:30:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/80709/ogp_IgQR.jpg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "髙橋海人と「エトロ」が再びタッグ！ カプセルコレクション「ETRO per Kaito Takahashi」第2弾を発表",
+          "description": "エトロ（Etro）が、グローバルブランドアンバサダーを務める髙橋海人（King & Prince）とのカプセル",
+          "url": "https://numero.jp/news-20260708-etro/",
+          "source": {
+            "name": "Numero TOKYO"
+          },
+          "publishedAt": "2026-07-07T15:04:24Z",
+          "image": "https://numero.jp/wp-content/uploads/2026/07/kaito-fb.jpg",
+          "language": "ja"
+        },
         {
           "title": "『攻殻機動隊』新作アニメはキャスト一新 草薙素子役は坂本真綾で2024年に亡くなった田中敦子さん後任",
           "description": "『攻殻機動隊』シリーズの新作テレビアニメ『攻殻機動隊 THE GHOST IN THE SHELL』が7日、カンテレ・フジテレビ系で放送された。キャスト情報が解禁され、主要キャストは一新となり、2",
@@ -92,139 +114,117 @@
           "publishedAt": "2026-07-07T09:09:00Z",
           "image": "https://contents.oricon.co.jp/upimg/news/2467000/2466232/20260707_180730_p_o_45250089.jpg",
           "language": "ja"
-        },
-        {
-          "title": "任天堂、バッテリ交換可能な「Switch 2」を欧州で秋に発売",
-          "description": "任天堂は、2027年2月中旬から適用される欧州のバッテリー規制変更に備え、欧州で販売する一部製品について、ユーザー交換可能なバッテリーを備えた改良版へ順次切り替える。改良版は2026年夏以降、製品ごとに順次投入される予定で、バッテリー交換に対応する点を除き、現行モデルとの機能面での違いはない。",
-          "url": "https://www.watch.impress.co.jp/docs/news/2123173.html",
-          "source": {
-            "name": "Impress Watch"
-          },
-          "publishedAt": "2026-07-07T09:02:34Z",
-          "image": "https://www.watch.impress.co.jp/img/ipw/list/2123/173/nin01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「はやぶさ2」が小惑星トリフネへの超接近に成功、“地球防衛”の実証に向けた挑戦の意義",
-          "description": "JAXAの探査機「はやぶさ2」が、このほど小惑星「トリフネ」への超近接フライバイに成功した。中心からわずか800mを秒速約5kmで通過する“離れ業”の成功は、地球防衛技術の実証に向けた大きな一歩でもある。",
-          "url": "https://wired.jp/article/hayabusa2-torifune-flyby-success/",
-          "source": {
-            "name": "WIRED.jp"
-          },
-          "publishedAt": "2026-07-07T09:00:00Z",
-          "image": "https://media.wired.jp/photos/6a4ca70e243aec714b07c345/16:9/w_1280,c_limit/20260706-3-01_bg-clean.png",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Tanzania hosting Africa's first summit on pollination in Arusha",
-          "description": "The forthcoming inaugural Pollination Africa Summit, is scheduled to take place in Northern Tanzania and at the country’s safari capital of Arusha, located right at the central point between Cape Town and Cairo.",
-          "url": "https://tanzaniatimes.net/tanzania-to-host-africas-maiden-summit-on-pollination-focused-on-the-protection-of-bees-birds-and-butterflies/",
+          "title": "DVLA clarifies stolen GH¢308,000 does not belong to Authority",
+          "description": "DVLA clarifies that alleged Gh¢308,000 theft did not involve Authority funds, says matter is personal dispute involving former National Service Person.",
+          "url": "https://www.graphic.com.gh/news/general-news/dvla-clarifies-stolen-ghc308-000-does-not-belong-to-authority.html",
           "source": {
-            "name": "The Tanzania Times"
+            "name": "Graphic Online"
           },
-          "publishedAt": "2026-07-07T14:45:52Z",
-          "image": "https://i0.wp.com/tanzaniatimes.net/wp-content/uploads/2026/07/pollination-africa-summit-arusha-2026.jpg?fit=1170%2C674&ssl=1",
+          "publishedAt": "2026-07-07T17:52:12Z",
+          "image": "https://www.graphic.com.gh/images/2017/images%202.jpg",
           "language": "en"
         },
         {
-          "title": "How is id Software supposed to keep making DOOM after Xbox reportedly laid off half the studio?",
-          "description": "Xbox's reported layoffs have reportedly cut around half of id Software, raising serious questions about the future of DOOM and id Tech.",
-          "url": "https://www.windowscentral.com/gaming/xbox/how-is-id-software-supposed-to-keep-making-doom-after-xbox-reportedly-laid-off-half-the-studio",
+          "title": "Are 'Trump Accounts' free? Saving options for youth in Georgia",
+          "description": "'Trump Accounts' launched across the U.S. Monday, offering savings accounts for children and babies. Here are other options in Georgia.",
+          "url": "https://www.usatoday.com/story/money/2026/07/07/are-trump-accounts-free-saving-options-for-youth-in-georgia/90832881007/",
           "source": {
-            "name": "Windows Central"
+            "name": "USA Today"
           },
-          "publishedAt": "2026-07-07T14:45:42Z",
-          "image": "https://cdn.mos.cms.futurecdn.net/wyPXjnYd5c55BhcPmEutfW-2048-80.jpg",
+          "publishedAt": "2026-07-07T17:51:00Z",
+          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/07/USAT/90831789007-trump-accounts-3.JPG?crop=4913,2765,x0,y97&width=3200&height=1801&format=pjpg&auto=webp",
           "language": "en"
         },
         {
-          "title": "AI Tackles Tuberculosis, Identifies Drugs that Penetrate Bacteria Membrane",
-          "description": "Researchers have developed new AI approach to select chemical compounds potentially effective for treating tuburculosis.",
-          "url": "https://www.genengnews.com/topics/infectious-diseases/ai-tackles-tuberculosis-identifies-drugs-that-penetrate-bacteria-membrane/",
+          "title": "Why Egypt's goal vs Argentina was ruled out after VAR intervention",
+          "description": "Egypt thought it had scored a beautiful goal, only to see the referee sent to the video monitor for a foul before the attacking move.",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/07/egypt-goal-argentina-var-overturned-foul-buildup/90836360007/",
           "source": {
-            "name": "Genetic Engineering and Biotechnology News"
+            "name": "USA Today"
           },
-          "publishedAt": "2026-07-07T14:45:35Z",
-          "image": "https://www.genengnews.com/wp-content/uploads/2023/10/GettyImages-1481211057.jpg",
+          "publishedAt": "2026-07-07T17:50:00Z",
+          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/07/USAT/90836382007-egypt-goal-wiped-out.JPG?crop=1032,580,x1,y35&width=1032&height=580&format=pjpg&auto=webp",
           "language": "en"
         },
         {
-          "title": "How Did It Go For Sananda Fru In FIBA World Cup Qualifying?",
-          "description": "Got to travel around Europe and turned in some quality minutes for the home country’s national team, nice little weekend.",
-          "url": "https://sports.yahoo.com/articles/did-sananda-fru-fiba-world-144500275.html",
+          "title": "Messi breaks Maradona record for most assists at FIFA World Cup",
+          "description": "Messi set up Cristian Romero’s goal, which opened the account for Argentina in their Round of 16 match against Egypt on Tuesday.",
+          "url": "https://sportstar.thehindu.com/football/fifa-world-cup/messi-breaks-record-for-most-assists-fifa-world-cup-diego-maradona-argentina-vs-egypt-round-of-16/article71195317.ece",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "Sportstar"
           },
-          "publishedAt": "2026-07-07T14:45:00Z",
-          "image": "https://s.yimg.com/ny/api/res/1.2/y._XqbaCUNK6La86AgDtaA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/56f4b201fc8922316ce0ef4bfcba2c42",
+          "publishedAt": "2026-07-07T17:49:55Z",
+          "image": "https://ss-i.thgim.com/public/incoming/olgau6/article71195318.ece/alternates/LANDSCAPE_1200/2026-07-07T174143Z_1959224874_UP1EM771D5IUE_RTRMADP_3_SOCCER-WORLDCUP-ARG-EGY.JPG",
           "language": "en"
         },
         {
-          "title": "Mark Carney appoints one of his top advisors and a Conservative MP to Senate",
-          "description": "Prime Minister Mark Carney said Tuesday that he will appoint one of his most senior advisers to the Senate, a move that could send shockwaves through the Red Chamber.",
-          "url": "https://www.cbc.ca/news/politics/mark-carney-senate-tom-pitfield-9.7261037",
-          "source": {
-            "name": "CBC"
-          },
-          "publishedAt": "2026-07-07T14:44:29Z",
-          "image": "https://i.cbc.ca/ais/c317b0c0-69c2-4d89-8e42-9c24d0113bb8,1783430794600/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C430%2C8256%2C4644%29%3BResize%3D620",
-          "language": "en"
-        },
-        {
-          "title": "Light Pollution Is Creating Deadly \"Death Spirals\" for Tiny Creatures",
-          "description": "New research reveals that artificial streetlights can trap thousands of pill bugs in deadly \"death spirals,\" highlighting the growing impact of light pollution on wildlife and fragile ecosystems.",
-          "url": "https://nerdbot.com/2026/07/07/light-pollution-is-creating-deadly-death-spirals-for-tiny-creatures/",
-          "source": {
-            "name": "nerdbot"
-          },
-          "publishedAt": "2026-07-07T14:43:33Z",
-          "image": "https://nerdbot.com/wp-content/uploads/2026/07/zebra-isopod-armadillidium-maculatum-closeup-zebra-isopod-closeup-scaled.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Farage resigns as MP for Clacton, triggering by-election which he says he will stand in",
-          "description": "The Reform UK leader's statement follows reports he failed to declare financial support from an ally. He has also faced questions over an unregistered £5m gift from a donor.",
-          "url": "https://www.bbc.co.uk/news/live/cn0v9l9x0g8t",
+          "title": "World Cup 2026: Jordan Henderson injury to prompt hoarding advice for England players",
+          "description": "England players will be advised not to jump over advertising hoardings after Jordan Henderson suffered a freak injury.",
+          "url": "https://www.bbc.com/sport/football/articles/czx5qev7nqno",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-07-07T14:42:10Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a83/live/fbaa8e80-7a05-11f1-9510-1546718f668b.jpg",
+          "publishedAt": "2026-07-07T17:49:34Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2bfc/live/1da570c0-7a2b-11f1-bee8-53ce494e1abc.jpg",
           "language": "en"
         },
         {
-          "title": "Judge sides with Taylor Swift in Florida poet's plagiarism lawsuit",
-          "description": "A federal judge on Monday dismissed a lawsuit accusing pop megastar Taylor Swift of plagiarizing phrases from a Florida woman's ‌poems for more than a dozen songs.",
-          "url": "https://www.cbc.ca/news/entertainment/swift-poet-plagiarism-lawsuit-9.7261092",
-          "source": {
-            "name": "CBC"
-          },
-          "publishedAt": "2026-07-07T14:41:44Z",
-          "image": "https://i.cbc.ca/ais/31f2de1f-cb02-4efd-8975-e49b401ba956,1783433681394/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5500%2C3093%29%3BResize%3D620",
-          "language": "en"
-        },
-        {
-          "title": "Harry loses High Court privacy case against Daily Mail publisher",
-          "description": "Judge Mr Justice Nicklin says the claimants had failed to prove the allegations.",
-          "url": "https://www.bbc.co.uk/news/articles/c9324nyqwjno",
+          "title": "World Cup 2026: Jordan Henderson injury to prompt hoarding advice for England players",
+          "description": "England players will be advised not to jump over advertising hoardings after Jordan Henderson suffered a freak injury.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/czx5qev7nqno",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-07-07T14:41:35Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/558b/live/18611500-79f5-11f1-907e-1db4355f6fc4.jpg",
+          "publishedAt": "2026-07-07T17:49:34Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2bfc/live/1da570c0-7a2b-11f1-bee8-53ce494e1abc.jpg",
           "language": "en"
         },
         {
-          "title": "Gikaria defends ‘cash-for-ID’ mobilisation, says checks meant for campaign accountability",
-          "description": "Gikaria dismissed claims that his team's insistence on retaining voters' IDs was intended to manipulate the electoral process.",
-          "url": "https://capitalfm.africa/gikaria-defends-cash-for-id-mobilisation-says-checks-meant-for-campaign-accountability/",
+          "title": "Legionnaires' disease outbreak on Upper East Side reaches 23 cases",
+          "description": "Legionnaires' disease symptoms include fever, cough and shortness of breath. New York City officials confirmed 23 cases linked to contaminated cooling towers on the Upper East Side.",
+          "url": "https://www.foxnews.com/health/deadly-legionnaires-disease-outbreak-sparks-concern-major-us-city-know-symptoms",
           "source": {
-            "name": "98.4 Capital FM Kenya"
+            "name": "Fox News"
           },
-          "publishedAt": "2026-07-07T14:41:33Z",
-          "image": "https://capitalfm.africa/wp-content/uploads/2026/07/DAVID-GIKARIA.webp",
+          "publishedAt": "2026-07-07T17:49:33Z",
+          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/older-woman-with-flu.jpg",
+          "language": "en"
+        },
+        {
+          "title": "DR Congo in “state of emergency,” Cardinal Ambongo Warns, Calls for Vigilance against Political Rhetoric",
+          "description": "Fridolin Cardinal Ambongo has warned that the Democratic Republic of Congo (DRC) faces a grave national crisis, lamenting that political leaders are prioritizing constitutional debates over citizens' pressing needs.",
+          "url": "https://www.aciafrica.org/news/22799/dr-congo-in-state-of-emergency-cardinal-ambongo-warns-calls-for-vigilance-against-political-rhetoric",
+          "source": {
+            "name": "ACI Africa"
+          },
+          "publishedAt": "2026-07-07T17:48:45Z",
+          "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-07t203326_1783445663.jpg?w=1200&format=jpeg",
+          "language": "en"
+        },
+        {
+          "title": "Atiku Must Wait Till 2031 Elections, Northerners Won't Vote For Him Next Year - Ali Modu Sheriff",
+          "description": "Former Borno State Governor and All Progressives Congress (APC) chieftain, Ali Modu Sheriff, has claimed that former Vice President Atiku Abubakar would not enjoy Northern support for the 2027 presidential election, insisting that power must remain in the South until 2031 in line with Nigeria's unwritten rotational arrangement. Atiku is contesting for Presidency in 2207 under the African Democratic Congress (ADC).",
+          "url": "https://saharareporters.com/2026/07/07/atiku-must-wait-till-2031-elections-northerners-wont-vote-him-next-year-ali-modu-sheriff",
+          "source": {
+            "name": "Sahara Reporters"
+          },
+          "publishedAt": "2026-07-07T17:48:45Z",
+          "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
+          "language": "en"
+        },
+        {
+          "title": "Netanyahu: Settler Violence in the West Bank Caused by '150 or So Juvenile Delinquents'",
+          "description": "Netanyahu also condemned Turkey's purchase of U.S. F-35s, describing Ankara to CNN as 'a regime that's infected with the Muslim Brotherhood, which hates the United States'",
+          "url": "https://www.haaretz.com/israel-news/israel-security/2026-07-07/ty-article/netanyahu-says-settler-attacks-caused-by-150-or-so-juvenile-delinquents/0000019f-3d9e-d07c-af9f-fddf6e160000",
+          "source": {
+            "name": "Haaretz"
+          },
+          "publishedAt": "2026-07-07T17:48:00Z",
+          "image": "https://img.haarets.co.il/bs/0000019f-3d9e-d07c-af9f-fddf6e160000/2c/a4/c947a422495a83b5a5e46da93293/22784891-netanyahu-mamdani16x9-00-01-24-28-still001.jpg?&width=1200&height=630&cmsprod",
           "language": "en"
         }
       ]
