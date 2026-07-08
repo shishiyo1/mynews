@@ -1,10 +1,32 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-08T14:11:30.699Z",
+  "updatedAt": "2026-07-08T16:39:52.615Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "ワイド版「Galaxy Z Fold8」など注目の新製品を予想--サムスンが7月22日にイベント開催",
+          "description": "サムスンは、製品発表イベント「Galaxy Unpacked」をロンドンで現地時間7月22日に開催すると発表した。",
+          "url": "https://japan.cnet.com/article/35250317/",
+          "source": {
+            "name": "CNET Japan"
+          },
+          "publishedAt": "2026-07-08T02:47:00Z",
+          "image": "https://japan.cnet.com/storage/2026/07/08/176c617ceaf2d5a367fe295ca6521986/p1043503_1280x960.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "大谷翔平が日本人初メジャー通算300号 打者としての出場は1121試合目、史上５番目の早さ",
+          "description": "大谷翔平が日本人初メジャー通算300号　打者としての出場は1121試合目、史上５番目の早さ（日刊スポーツ）＜ドジャース−ロッキーズ＞◇7日（日本時間8日）◇ドジャースタジアムドジャース大谷翔平投手（32）が、日本人初となるメジャー通算…",
+          "url": "https://topics.smt.docomo.ne.jp/article/nikkansports/sports/f-bb-tp2-260708-202607070001414?redirect=1",
+          "source": {
+            "name": "ｄメニューニュース"
+          },
+          "publishedAt": "2026-07-08T02:18:00Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/picture/nikkansports/m_f-bb-tp2-260708-202607070001414.jpg",
+          "language": "ja"
+        },
         {
           "title": "ミュージカル『ジャック・ザ・リッパー』木村達成・平間壮一（Wキャスト）ら出演者発表＆公演詳細・ビジュアルなども解禁",
           "description": "ミュージカル『ジャック・ザ・リッパー』木村達成・平間壮一（Wキャスト）ら出演者発表＆公演詳細・ビジュアルなども解禁",
@@ -92,139 +114,117 @@
           "publishedAt": "2026-07-08T00:51:17Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260708-00042490-jprime-000-3-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "米軍、イランを再び攻撃と発表 イランによるタンカー攻撃に対応と",
-          "description": "米中央軍は7日、イランに対して「一連の強力な攻撃」を開始したと発表した。イランが、ホルムズ海峡を通航していた商船3隻を攻撃したことへの対応だとしている。",
-          "url": "https://www.bbc.com/japanese/articles/cg53l1917r2o",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-07-08T00:23:18Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "iOS 27 Beta 3 で Siri の音声カスタマイズと見事な 3D 壁紙機能が解禁されるも、Siri AI は性能が低下",
-          "description": "Apple は iOS 27 開発者向けベータ 3 をリリースしました。これは前回のベータ版からわずか 2 週間で提供された重要なアップデートです。長年待ち望まれていた…",
-          "url": "https://finance.biggo.jp/news/202607080022_iOS-27-Beta-3-New-Features-Bugs",
-          "source": {
-            "name": "BigGo ファイナンス"
-          },
-          "publishedAt": "2026-07-08T00:22:00Z",
-          "image": "https://img.biggo.com/jBQ3GV-Y7mUxASYhloZjlkfl0qPUEmAKz3aCa2OtmnQ/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzIwMjYwNzA4MDAyMl9pT1MtMjctQmV0YS0zLU5ldy1GZWF0dXJlcy1CdWdzXzIwMjYwNzA4XzA4MzA0Ny5qcGc.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "JI to protest against ‘high’ petroleum levy on 10th",
-          "description": "Wants govt to raise water issue with India at world forums",
-          "url": "https://www.dawn.com/news/2013693/ji-to-protest-against-high-petroleum-levy-on-10th",
+          "title": "Family says woman died after hospital told her she faced a 25-hour wait",
+          "description": "A grieving family is seeking answers about what their loved one was told about waiting times at Palmerston North Hospital before she walked out and died hours later while going to get help at another hospital.",
+          "url": "https://www.rnz.co.nz/news/health/686950/family-says-woman-died-after-hospital-told-her-she-faced-a-25-hour-wait",
           "source": {
-            "name": "Dawn"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-07-08T02:10:16Z",
-          "image": "https://www.dawn.com/_img/social-default.jpg",
+          "publishedAt": "2026-07-08T04:38:59Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--0krf_aSF--/t_tohu-badge-facebook/f_auto/q_auto/4KE7QD5_IMG_20250102_104229_jpg",
           "language": "en"
         },
         {
-          "title": "Rainfall in several parts of Lahore",
-          "description": "As rainwater collected in several low-lying areas, Wasa activated its monsoon emergency response and launched drainage operations.",
-          "url": "https://www.dawn.com/news/2013699/rainfall-in-several-parts-of-lahore",
+          "title": "WP announces appointments for its top leadership body, co-opts MPs Fadli Fawzi, Andre Low",
+          "description": "Discover the latest appointments to the Workers' Party's top decision-making body and the co-option of two MPs. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/singapore/politics/wp-announces-appointments-for-its-top-leadership-body-co-opts-mps-fadli-fawzi-andre-low",
           "source": {
-            "name": "Dawn"
+            "name": "The Straits Times"
           },
-          "publishedAt": "2026-07-08T02:10:16Z",
-          "image": "https://i.dawn.com/large/2026/07/080846245910b2a.webp",
+          "publishedAt": "2026-07-08T04:37:44Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/5738aba2dd03f4db486b1277905fd6da88766045c96dce9a1844cb17fa3883aa",
           "language": "en"
         },
         {
-          "title": "Man with no history of swimming dies of brain infection caused by Naegleria fowleri in Karachi",
-          "description": "Year’s first death due to deadly infection raises concern over piped water quality; people urged to put chlorine tablets in water tanks.",
-          "url": "https://www.dawn.com/news/2013660",
+          "title": "Uganda Airlines Revenue Jumps to $116.2 Million",
+          "description": "Uganda Airlines has recorded a sharp increase in revenue, rising from $10.3 million in the 2019/20 financial year to $116.2 million in 2024/25, according to the Ministry of Works and Transport. The ministry said the performance reflects a compound annual growth rate of 62.4 percent. The disclosure came on Tuesday after Works and Transport Minister …",
+          "url": "https://chimpreports.com/uganda-airlines-revenue-jumps-to-116-2-million/",
           "source": {
-            "name": "Dawn"
+            "name": "ChimpReports"
           },
-          "publishedAt": "2026-07-08T02:10:05Z",
-          "image": "https://i.dawn.com/large/2026/07/0808225750be293.webp",
+          "publishedAt": "2026-07-08T04:36:33Z",
+          "image": "https://cdn-network.chimpreports.com/wp-content/uploads/2025/05/Uganda-Airlines.jpg",
           "language": "en"
         },
         {
-          "title": "Struggling wind projects warned their unused capacity will be returned to future CIS tenders",
-          "description": "Owners of wind projects struggling to get finance have been warned by the federal government that their unused capacity will be returned for future CIS tenders.",
-          "url": "https://reneweconomy.com.au/struggling-wind-projects-warned-their-unused-capacity-will-be-returned-to-future-cis-tenders/",
+          "title": "Airtel to Trent: 44 cos likely to report double-digit profit slump in Q1. Are your stocks on the list?",
+          "description": "Motilal Oswal expects 44 companies, including Bharti Airtel, Trent, IndiGo, HAL, GAIL and Cipla, to report double-digit year-on-year profit declines in the June quarter. Higher energy costs, weaker demand, geopolitical tensions and margin pressure are expected to weigh on earnings, even as overall corporate profit growth slows in Q1.",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/airtel-to-trent-44-stocks-likely-to-report-double-digit-profit-slump-in-q1-are-your-stocks-on-the-list/articleshow/132253779.cms?from=mdr",
           "source": {
-            "name": "Renew Economy"
+            "name": "The Economic Times"
           },
-          "publishedAt": "2026-07-08T02:09:31Z",
-          "image": "https://reneweconomy.com.au/wp-content/uploads/2026/06/Squadron-Energy-Uungula-wind-farm-pre-installation-1.jpg",
+          "publishedAt": "2026-07-08T04:33:56Z",
+          "image": "https://img.etimg.com/thumb/msid-132253773,width-1200,height-630,imgsize-89118,overlay-etmarkets/articleshow.jpg",
           "language": "en"
         },
         {
-          "title": "Bears snap five-session winning streak",
-          "description": "KARACHI: Despite a bullish opening, the Pakistan Stock Exchange (PSX) on Tuesday faced intense selling pressure,...",
-          "url": "https://www.dawn.com/news/2013720/bears-snap-five-session-winning-streak",
+          "title": "What to know about the total solar eclipse due in August",
+          "description": "Here is what you need to know about the total eclipse, which is the first visible in mainland Europe since 2006.",
+          "url": "https://citizen.digital/article/what-to-know-about-the-total-solar-eclipse-due-in-august-n386038",
           "source": {
-            "name": "Dawn"
+            "name": "Citizen Digital"
           },
-          "publishedAt": "2026-07-08T02:08:54Z",
-          "image": "https://i.dawn.com/large/2026/07/080438541041440.webp",
+          "publishedAt": "2026-07-08T04:32:34Z",
+          "image": "https://assets.citizen.digital/171321/conversions/6abb9d59-82a5-4424-b335-bc5b0fdb542c_AFP__20260703__B96H9KH__v3__HighRes__SpainEclipseGlassesAstronomySolar-og_image.webp",
           "language": "en"
         },
         {
-          "title": "Artificial intelligence to drive new tax model, says Aurangzeb",
-          "description": "Says Parliament has introduced a new tax administration operating model and approved a new structure in which notices will be issued through AI-led systems.",
-          "url": "https://www.dawn.com/news/2013725",
+          "title": "Australia launches $250 million diplomacy bid to boost NRL in the Pacific",
+          "description": "Australia will pour millions more into boosting the Pacific involvement in the NRL through youth competitions and matches held overseas as it battles China for influence in the region.",
+          "url": "https://www.nine.com.au/australia-news/australia-launches-250-million-sport-diplomacy-bid-to-boost-nrl-in-the-pacific-20260708-p60djb.html",
           "source": {
-            "name": "Dawn"
+            "name": "Nine.com.au"
           },
-          "publishedAt": "2026-07-08T02:08:54Z",
-          "image": "https://i.dawn.com/large/2026/07/08071617c9099a0.webp",
+          "publishedAt": "2026-07-08T04:31:01Z",
+          "image": "https://static.ffx.io/images/$zoom_0.7547%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/5001936a8f18652763b1c57afbe62a9cdf18c63d",
           "language": "en"
         },
         {
-          "title": "No MDR on individual deposits above Rs10m",
-          "description": "KARACHI: The State Bank of Pakistan (SBP) on Tuesday relaxed the condition of application of the Minimum Deposit ...",
-          "url": "https://www.dawn.com/news/2013721/no-mdr-on-individual-deposits-above-rs10m",
+          "title": "Charlie Kirk shooting DNA ties Tyler Robinson to alleged murder weapon",
+          "description": "Tyler Robinson's DNA and that of former lover Lance Twiggs were allegedly found on a towel and screwdriver recovered in the Charlie Kirk shooting investigation at Utah Valley University",
+          "url": "https://www.foxnews.com/us/tyler-robinson-lance-twiggs-dna-allegedly-found-key-evidence-charlie-kirks-assassination",
           "source": {
-            "name": "Dawn"
+            "name": "Fox News"
           },
-          "publishedAt": "2026-07-08T02:08:54Z",
-          "image": "https://www.dawn.com/_img/social-default.jpg",
+          "publishedAt": "2026-07-08T04:30:22Z",
+          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/charlie-kirk-witness-accounts.png",
           "language": "en"
         },
         {
-          "title": "Artificial intelligence to drive new tax model, says Aurangzeb",
-          "description": "Says Parliament has introduced a new tax administration operating model and approved a new structure in which notices will be issued through AI-led systems.",
-          "url": "https://www.dawn.com/news/2013725/artificial-intelligence-to-drive-new-tax-model-says-aurangzeb",
+          "title": "How the amino acid leucine helps our cells produce energy",
+          "description": "Discover how the amino acid leucine enhances energy production and protects mitochondrial health in our cells.",
+          "url": "https://www.thehindu.com/sci-tech/science/how-the-amino-acid-leucine-helps-our-cells-produce-energy/article71188124.ece",
           "source": {
-            "name": "Dawn"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-07-08T02:08:54Z",
-          "image": "https://i.dawn.com/large/2026/07/08071617c9099a0.webp",
+          "publishedAt": "2026-07-08T04:30:00Z",
+          "image": "https://th-i.thgim.com/public/sci-tech/science/4kfepi/article71188123.ece/alternates/LANDSCAPE_1200/ChatGPT%20Image%20Jul%206%202026%2011_15_33%20AM.png",
           "language": "en"
         },
         {
-          "title": "Trump berates allies, praises Erdogan as Nato summit opens",
-          "description": "• Vows to lift sanctions on Turkiye, signals F-35 deal • Ankara rejects Israel’s concerns over potential jet sale",
-          "url": "https://www.dawn.com/news/2013732",
+          "title": "99% of people on Earth will get sunlight at the same time this Wednesday",
+          "description": "On July 8, at about 11:10 GMT, about 99 percent of the world experiences sunlight at the same time.",
+          "url": "https://www.aljazeera.com/news/2026/7/8/99-of-people-on-earth-will-get-sunlight-at-the-same-time-this-wednesday",
           "source": {
-            "name": "Dawn"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-07-08T02:08:14Z",
-          "image": "https://i.dawn.com/large/2026/07/080616519650c7a.webp",
+          "publishedAt": "2026-07-08T04:29:24Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/INTERACTIVE-sunshine-cover-JULY-7-2026-copy-1783411077_df7abe-1783411316.png?resize=1200%2C630&quality=80",
           "language": "en"
         },
         {
-          "title": "Trump berates allies, praises Erdogan as Nato summit opens",
-          "description": "• Vows to lift sanctions on Turkiye, signals F-35 deal • Ankara rejects Israel’s concerns over potential jet sale",
-          "url": "https://www.dawn.com/news/2013732/trump-berates-allies-praises-erdogan-as-nato-summit-opens",
+          "title": "Girls' Generation member Yuri currently in Singapore, received new Beary plushie on Singapore Airlines flight",
+          "description": "Girls' Generation member Yuri is currently in Singapore and received a new Beary plushie on her Singapore Airlines flight.",
+          "url": "https://cnalifestyle.channelnewsasia.com/entertainment/girls-generation-member-yuri-currently-singapore-received-new-beary-plushie-singapore-airlines-flight-585686",
           "source": {
-            "name": "Dawn"
+            "name": "CNA Lifestyle"
           },
-          "publishedAt": "2026-07-08T02:08:14Z",
-          "image": "https://i.dawn.com/large/2026/07/080616519650c7a.webp",
+          "publishedAt": "2026-07-08T04:29:00Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--EDI7f_Jx--/c_crop,h_900,w_1600,x_0,y_78/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/08/girls_generation_yuri_singapore.jpg?itok=ejO20MfQ",
           "language": "en"
         }
       ]
