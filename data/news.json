@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-09T03:25:20.617Z",
+  "updatedAt": "2026-07-09T09:41:11.940Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "伝説、ついに完結。 ティモシー・シャラメ主演 SF超大作 映画『デューン 砂の惑星PART3』 新予告映像公開",
+          "description": "フランク・ハーバートの原作をもとにした壮大なSF叙事詩を、ティモシー・シャラメ主演で映画化した『デューン』シリーズの第三作にして完結編、映画『デューン",
+          "url": "https://otocoto.jp/news/dune3_0709/",
+          "source": {
+            "name": "otocoto"
+          },
+          "publishedAt": "2026-07-08T21:33:34Z",
+          "image": "https://otocoto.jp/wp-content/uploads/2026/07/b031b525e696e73716cc988336162dbb.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "台風9号は11日朝に石垣島など直撃へ 風速70メートルとはどんな風か",
+          "description": "大型で非常に強い台風9号は勢力を維持したまま、11日の朝に沖縄の石垣島などに直撃する恐れがあります。予想される最大瞬間風速70メートルとはどんな風なのか、どんな影響が出るのか、詳しく解説します。",
+          "url": "https://tenki.jp/forecaster/m_kimura/2026/07/09/39645.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-08T21:08:13Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/396/39645/main/20260709045014/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "櫻井翔＆Snow Man阿部亮平＆Travis Japan川島如恵留、＜プーさんタイム＞スペシャルアンバサダーに起用 “なんにもしないをする”やさしいひとときを発信",
+          "description": "ニュース｜　2026年10月14日に原作デビュー100周年を迎える『くまのプーさん』。これを記念して忙しい毎日を頑張るすべての人へ贈る、プーさんのように“なんにもしないをする”やさしいひととき＜プーさんタイム＞スペシャルアンバサダーに櫻井翔、阿部亮平（Snow Man）、川島如恵留（Travis Japan）が決定した。このほど、スペシャルビジュアル＆撮影のメイキング動画も解禁された。　1926年にA.A.ミルンによる児童小説『クマのプーさん』が出版されて以来、時代や世代を超え、世界中で愛されてきた「くまのプーさん」。プーさんは、のんびりとしたマイペースな暮らしを楽しみ、友達を大切にするやさしい心の持ち主。その純真無垢な好奇心は多くの人を笑顔にし、「“なんにもしない”をする」時間の豊かさや、日々の中で忘れがちだけれど大切な価値を思い出させてくれる。ありのままの自分を受け入れること、自分を大切にすること、そして時には立ち止まること――。プーさんが長きにわたり届けてきたメッセージは、時代が変わっても色あせることなく、世界中の人々の心に寄り添い続けている。",
+          "url": "https://www.oricon.co.jp/news/2466449/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-07-08T21:00:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2467000/2466449/20260708_163043_p_o_25563122.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "iPhone Air 2、バッテリー容量11%増の3500mAhに--A20チップとCoE OLEDで効率向上へ",
+          "description": "Appleの次世代スリム型スマートフォン「iPhone Air 2」に3500mAhのバッテリーが搭載される見通しであることが、中国の著名リーカーによるサプライチェーン情報か…",
+          "url": "https://finance.biggo.jp/news/e34a6360-7bfb-47c5-a60d-7c47f87612d8",
+          "source": {
+            "name": "BigGo ファイナンス"
+          },
+          "publishedAt": "2026-07-08T18:57:00Z",
+          "image": "https://img.biggo.com/LPjdhCfWrzoj7A_eE9r0FPLyUy_ZVvJSVLcllIcVDAw/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3L2UzNGE2MzYwLTdiZmItNDdjNS1hNjBkLTdjNDdmODc2MTJkOF8xNzgzNTY5MDU0X2RlZmF1bHQuanBn.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "サムスン「Galaxy Z Fold 8」、AIチューニング強化版のSnapdragon 8 Elite Gen 5を独占搭載か",
+          "description": "サムスン電子が2026年に発売予定の折りたたみスマートフォン「Galaxy Z Fold 8」に、クアルコムの最上位チップ「Snapdragon 8 Elite Gen 5」の特別選別版が搭載…",
+          "url": "https://finance.biggo.jp/news/728813ba-9de7-4423-a218-1d04428b1a52",
+          "source": {
+            "name": "BigGo ファイナンス"
+          },
+          "publishedAt": "2026-07-08T18:56:00Z",
+          "image": "https://finance.biggo.jp/favicon.ico",
+          "language": "ja"
+        },
+        {
+          "title": "43歳バーランダー 現役引退を発表 22年間で通算266勝右腕「今は次の章へ進む時です」",
+          "description": "タイガースのジャスティン・バーランダー投手（43）が今季限りで現役を引退することを8日（日本時間9日）、自身のXで発表した。\n　バーランダーは3月30日、アウェイのダイヤモンドバックス戦に先発し",
+          "url": "https://news.yahoo.co.jp/articles/f3255f489b8ae819047458931dd656aba42a29b0",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-08T17:41:10Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260708-00000397-spnannex-000-11-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "『攻殻機動隊』坂本真綾、草薙素子役の継承に葛藤「ずっと尊敬してきた大好きな田中敦子さんが…」 新ビジュアルほか情報一挙解禁【コメント全文】",
           "description": "『攻殻機動隊』シリーズの新作テレビアニメ『攻殻機動隊 THE GHOST IN THE SHELL』（毎週火曜　後11：00）のメインキャスト9人が発表された。あわせて、キービジュアル第4弾、プロ",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-07-08T13:00:56Z",
           "image": "https://www.sanspo.com/resizer/v2/DGZNIWB7AFIUDP7QZHHAONYCCM.jpg?auth=855eae8e0a9c1c6a387ec5b04f3657ae54e75ce2484a9893ebe7a0025ffff39d&quality=50&focal=1257%2C695&width=1200&height=675",
           "language": "ja"
-        },
-        {
-          "title": "バレー女子日本代表、前回銀のブラジルに1ー3で敗戦 日本R黒星スタート 石川真佑「前を向いて切り替えて」【ネーションズリーグ】",
-          "description": "■バレーボール ネーションズリーグ2026 女子予選ラウンド　日本 1ー3 ブラジル（8日、大阪市・Asueアリーナ大阪）\n世界TOP18チームが参戦しているバレーボールネーションズリーグで前回、",
-          "url": "https://news.yahoo.co.jp/articles/d1ef1401769588f89f38ef721437c03e69f0e7db",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-08T12:24:58Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260708-00010021-jnn-000-4-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "鎌田大地がクリスタル・パレスとの新シーズン契約に合意!! 会長「多くの選択肢を断ってくれたことを大変嬉しく思う」",
-          "description": "クリスタル・パレスは8日、日本代表MF鎌田大地(29)と2026-27シーズンの契約に合意したと発表した。新たな契約は27年夏までとしている。　鎌田は2024-25シーズンに2年契約でラツィオからクリスタル・パレスへ加...",
-          "url": "https://web.gekisaka.jp/news/world/detail/?455118-455118-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-07-08T12:13:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455118/news_455118_1.jpeg?time=20260708212052",
-          "language": "ja"
-        },
-        {
-          "title": "【バレー】日本女子、世界ランク２位ブラジルに１－３で敗れる VNL１次リーグ／ライブ詳細",
-          "description": "女子1次リーグの最終週が大阪で開幕。ここまで6勝2敗の日本（世界ランク6位）は、7勝1敗のブラジル（同2位）に1－3で敗れた。 2021年東京五輪銀メダル、2… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/sports/news/202607070001041.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-07-08T12:12:00Z",
-          "image": "https://www.nikkansports.com/sports/news/img/202607070001041-w500_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "橋本愛「夫婦役を受けるべきではない」佐藤二朗から受けた “女優キャリア” 否定発言に集まる同情…佐藤側の反論で広がった “誤解”",
-          "description": "7月7日、フジテレビが、佐藤二朗と橋本愛をめぐるトラブルに関して、公式サイトに見解を出した。詳細な経緯が記されていたが、SNSでは橋本の心境が心配されている。\n　2人は4月期のドラマ『夫婦別姓刑",
-          "url": "https://news.yahoo.co.jp/articles/d6a93a9645653afd123cd0d3ba442fc203dc67b9",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-08T11:48:24Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260708-00000071-flash-000-6-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "PlayStationのゲームディスク終了から考える、これからのゲームの“保存”と“所有”",
-          "description": "PlayStationがディスクの生産終了を発表しました。これは、ゲームの「保存」や「所有」という意味で大きな出来事といえます。反発が起きるのは当然ですし、その気持ちはよくわかります。でも同時に、傷つきやすい光学ディスクを、これからもゲーム",
-          "url": "https://www.gizmodo.jp/article/game-discs-deserve-to-die/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-07-08T11:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/07/05/0fac5027-1e0c-4836-bb2c-3901b796363e/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "【異様】「バリでも結婚おめでとう」同居女性の“唇縫う”傷害容疑の桜井容疑者 被害者に唇突き出させ“留め縫い”か",
-          "description": "民族衣装に身を包み、カメラ目線で写真に収まる女。インドネシアのバリで結婚式を挙げた際に撮影された1枚とみられます。この写真が投稿されたSNSのコメント欄には、「バリでも結婚おめでとう」と祝福の声が寄せられていました。ある時は、大きなジョッキを持ちカメラに向かってピースサイン。またある時は、ラーメンを食べた直後に満足そうな笑顔の女。茨城・古河市に住むアルバイト従業員桜井政恵容疑者（49）。同居する女性の唇を縫い付けた傷害の疑いが持たれています。この衝撃的な事件を巡り、新たな事実が判明しました。6…",
-          "url": "https://www.fnn.jp/articles/-/1072102",
-          "source": {
-            "name": "FNNプライムオンライン"
-          },
-          "publishedAt": "2026-07-08T10:25:00Z",
-          "image": "https://fnn.ismcdn.jp/mwimgs/1/e/600/img_1e080e4b35c19a93517053fa08201c4d458306.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Lenovo Kills Its 'Game Boy' That Was Preloaded With Illegal Games",
-          "description": "The Lenovo G02 came too close to touching the third rail of retro game emulation.",
-          "url": "https://gizmodo.com/lenovo-kills-its-game-boy-that-was-preloaded-with-illegal-games-2000782933",
+          "title": "Republic of Ireland to play Israel games as motion passed",
+          "description": "The Football Association of Ireland's (FAI) General Assembly endorses a motion for Republic of Ireland to go ahead with their upcoming Nations League fixtures against Israel.",
+          "url": "https://sports.yahoo.com/articles/fai-motion-continue-israel-games-202654793.html",
           "source": {
-            "name": "Gizmodo"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-07-08T15:25:09Z",
-          "image": "https://gizmodo.com/app/uploads/2026/05/Lenovo-G02-Handheld-2-1200x675.jpg",
+          "publishedAt": "2026-07-08T21:40:58Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/07ecb8dbc68bbe70646a557f23ec2a645ca06143e0265bfb16591fe45e587b2c/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F638d47600dc71af60cfa923b7f997dcb",
           "language": "en"
         },
         {
-          "title": "Peter Andre addresses Katie Price marriage breakdown in new doc",
-          "description": "Peter Andre has issued a rare statement about his marriage to Katie Price.",
-          "url": "https://www.express.co.uk/showbiz/tv-radio/2226930/peter-andre-speaks-out-katie-price-marriage-split-rare-statement-new-documentary",
+          "title": "U.S. launches new strikes on Iran after Trump vows to hit 'hard'",
+          "description": "U.S. strikes Iran following Trump’s vow to retaliate against recent attacks, escalating tensions in the Strait of Hormuz.",
+          "url": "https://www.thehindu.com/news/international/us-launches-new-strikes-on-iran-after-trump-vows-to-hit-hard/article71199867.ece",
           "source": {
-            "name": "Daily Express"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-07-08T15:25:00Z",
-          "image": "https://cdn.images.express.co.uk/img/dynamic/20/1200x630/7029604.jpg",
+          "publishedAt": "2026-07-08T21:39:23Z",
+          "image": "https://th-i.thgim.com/public/incoming/6959zn/article71199986.ece/alternates/LANDSCAPE_1200/2026-07-08T100113Z_786244989_RC2G7MAEDB2U_RTRMADP_3_USA-ELECTION-TRUMP-COMMUNISM.JPG",
           "language": "en"
         },
         {
-          "title": "Xbox Game Pass Members Are Being Treated To A Surprise New Release Today (July 8)",
-          "description": "\"Buckshot Roulette\" has been a massive hit on Steam - How's this for a surprise Xbox Game Pass addition?! Despite not being mentioned at all in yesterday's r...",
-          "url": "https://www.purexbox.com/news/2026/07/xbox-game-pass-members-are-being-treated-to-a-surprise-new-release-today-july-8",
+          "title": "100,000 years ago, one of the earliest Homo sapiens outside Africa was stabbed in the face, analysis finds",
+          "description": "A microscopic analysis of the skull of Qafzeh 25 revealed a cut mark likely made by a stone tool 100,000 years ago.",
+          "url": "https://www.livescience.com/archaeology/human-evolution/100-000-years-ago-one-of-the-earliest-homo-sapiens-outside-africa-was-stabbed-in-the-face-analysis-finds",
           "source": {
-            "name": "Pure Xbox"
+            "name": "Live Science"
           },
-          "publishedAt": "2026-07-08T15:25:00Z",
-          "image": "https://images.purexbox.com/c03ee5f261ae6/large.jpg",
+          "publishedAt": "2026-07-08T21:38:54Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/XBUYRVqQrtneXvRUkStDWc-2048-80.png",
           "language": "en"
         },
         {
-          "title": "Alexia Putellas has arrived! London City Lionesses confirm marquee signing of two-time Ballon d'Or winner after Barcelona exit",
-          "description": "London City Lionesses have completed the signing of Barcelona legend Alexia Putellas as Michele Kang's side aim to dominate the WSL.",
-          "url": "https://www.goal.com/en/lists/alexia-putellas-joins-london-city-lionesses-from-barcelona/bltd03380e21eb4b2f1",
+          "title": "Arsenal on alert after Bruno Guimarães tells Newcastle he wants to leave",
+          "description": "Arsenal are ready to step up their interest in Bruno Guimarães after the midfielder informed Newcastle that he wants to join them",
+          "url": "https://www.theguardian.com/football/2026/jul/08/arsenal-on-alert-after-bruno-guimaraes-tells-newcastle-he-wants-to-leave",
           "source": {
-            "name": "Goal.com"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-07-08T15:23:05Z",
-          "image": "https://assets.goal.com/images/v3/bltfb53cc0a41849468/crop/MM5DEOBQGA5DCNJXGU5G433XMU5DEOJWHI2DSMA=/MP_LA_AP_0923_v1.jpg",
+          "publishedAt": "2026-07-08T21:36:00Z",
+          "image": "https://i.guim.co.uk/img/media/135dfe03e527f9da3de6da422555d54769325268/412_60_5128_4102/master/5128.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=57bd0c9bf678cb10cb408fc28f6d4d40",
           "language": "en"
         },
         {
-          "title": "Cabinet restores TAR UMT's 10-year tax break after Dr Wee raises issue",
-          "description": "ISKANDAR PUTERI: Tunku Abdul Rahman University of Management and Technology's (TAR UMT) 10-year tax exemption was approved with a sole condition - that the institution submit audited annual accounts to the Finance Ministry every year, says Datuk Seri Dr Ahmad Zahid Hamidi.",
-          "url": "https://www.thestar.com.my/news/nation/2026/07/08/cabinet-restores-tar-umt039s-10-year-tax-break-after-dr-wee-raises-issue",
+          "title": "Beloved Uncle, 39, Dies After He Had Legs Amputated While Attending Brother’s Wedding",
+          "description": "Andrew Wasil, 39, was visiting India for the wedding in February when he got sick, family said",
+          "url": "https://nz.news.yahoo.com/beloved-uncle-39-dies-had-213549224.html?guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vXy9Eb3RzU3BsYXNoVWkvZGF0YS9iYXRjaGV4ZWN1dGU&guce_referrer_sig=AQAAALRkPIGFtH_Ruodr5QP7HLDQUxfRndroFSiQtNmaXnQ2q-yF4AefhvG1J9q1DeQWrOnowHQev9FCr1mQQ4bVQKy_NDR2oLeE9Tzvex0Uugi5R9Plf1zzK4lWWLFsOVlN-CgtK0yIstXtLplYu7Djhvrje0X6-on8OlWojA-E7N74&_guc_consent_skip=1783568260",
           "source": {
-            "name": "The Star"
+            "name": "Yahoo News New Zealand"
           },
-          "publishedAt": "2026-07-08T15:23:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/07/08/3999745.jpg",
+          "publishedAt": "2026-07-08T21:35:49Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/4d7d71ef6c9adac466bf80bcd403c05f7f454999ab151572d22db1fbfe03460a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F3a70f9e2800c9ddd7b79783fc42497da",
           "language": "en"
         },
         {
-          "title": "Some evacuations and street closures in effect after NYC building buckles",
-          "description": "Crews worked through the night to shore up a massive, under-construction apartment building in Manhattan after columns buckled and floors sagged, triggering widespread evacuations and street closures over concerns about a collapse.",
-          "url": "https://apnews.com/article/nyc-manhattan-building-collapse-risk-d2bd0614520398381fe4cfda069f7b5c",
+          "title": "Post-quake revival: Airport gets Pokemon nickname",
+          "description": "A ceremony was held Tuesday to commemorate Noto Airport’s adoption of the nickname “Noto Satoyama Pokemon With You Airport.”",
+          "url": "https://globalnation.inquirer.net/330188/post-quake-revival-airport-gets-pokemon-nickname",
           "source": {
-            "name": "AP News"
+            "name": "Inquirer.net"
           },
-          "publishedAt": "2026-07-08T15:23:00Z",
-          "image": "https://dims.apnews.com/dims4/default/6430631/2147483647/strip/true/crop/8085x5387+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffa%2Fcc%2F066531cf26344bddd766e5a4b77b%2Fc3c067c90562487e97fff92a571ba461",
+          "publishedAt": "2026-07-08T21:34:00Z",
+          "image": "https://globalnation.inquirer.net/files/2026/07/pokemon-airport.jpeg",
           "language": "en"
         },
         {
-          "title": "Ancient feeding-related neuropeptides regulate alloparenting in ants",
-          "description": "Alloparental care and division of labour are hallmarks of insect societies1. Social insect workers typically care for brood within the nest when they are young and transition to foraging outside the nest as they age2–5. This provides a powerful paradigm to study the neural basis of parenting and age-related behavioural change. Although previous work has interrogated aspects of these dynamics6–14, the underlying neural and molecular mechanisms remain poorly understood. Here, using an unbiased pharmacological screen of neuropeptides, we show that two ancestral regulators of feeding, neuropeptide F (NPF) and allatostatin A (AstA), modulate brood-care behaviour in the clonal raider ant. Through functional manipulations, we show that NPF increases brood-care behaviour, whereas AstA has the opposite effect. Furthermore, we find that the levels of NPF and AstA in the brain change naturally as ants age, suggesting that these changes underlie the age-related changes in brood-care behaviour. Finally, we show that, as in solitary species15,16, NPF and AstA remain sensitive to nutritional state, and nutritional state affects brood-care behaviour accordingly. Our results reveal that evolution has co-opted molecular mechanisms that regulated feeding ancestrally to enable cooperative brood care and age-associated division of labour. Pharmacological screening and behavioural assays in ants identify two specific neuropeptides that have key and opposite effects in regulating brood care, and that link nutritional state to age-dependent changes in parenting behaviour.",
-          "url": "https://www.nature.com/articles/s41586-026-10747-6?error=cookies_not_supported&code=690035b1-350a-47ae-9b4b-1562fa2e045b",
+          "title": "The Wrap: Moon Tech Levels Up; Prison Tech Upgrade; Navy Goes Deep",
+          "description": "Welcome to The Wrap for Wednesday, July 8! From the newsroom at MeriTalk, it’s the quickest read in federal tech news. Here’s what you need to know today: Moon Tech Levels Up NASA - National Aeronautics and Space Administration’s tiny-but-mighty CAPSTONE spacecraft has wrapped up nearly four years o",
+          "url": "https://www.linkedin.com/pulse/wrap-moon-tech-levels-up-prison-upgrade-navy-goes-deep-meritalk-p9plf",
           "source": {
-            "name": "Nature"
+            "name": "LinkedIn"
           },
-          "publishedAt": "2026-07-08T15:22:35Z",
-          "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10747-6/MediaObjects/41586_2026_10747_Fig1_HTML.png",
+          "publishedAt": "2026-07-08T21:32:11Z",
+          "image": "https://media.licdn.com/dms/image/v2/D4D12AQF3FONXMkdgdA/article-cover_image-shrink_720_1280/B4DZ9Dn7XoJwAQ-/0/1783545968410?e=2147483647&v=beta&t=feqifLanDmBuosJDjDdWeeyZFFwFQMZl4yotaqQWeZw",
           "language": "en"
         },
         {
-          "title": "Cholesterol tests should include apoB levels, study suggests",
-          "description": "Millions of Americans get their LDL, or \"bad\" cholesterol, tested. But another test may do a better job of finding who needs treatment.",
-          "url": "https://www.usatoday.com/story/life/health-wellness/2026/07/08/cholesterol-tests-apob-levels-study/90845698007/",
+          "title": "Who asked for a slightly worse version of Disney's Moana?",
+          "description": "The feeling that you could just be watching a better version of the same thing is unshakeable.",
+          "url": "https://www.rnz.co.nz/life/screens/movies/who-asked-for-a-slightly-worse-version-of-disney-s-moana",
           "source": {
-            "name": "USA Today"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-07-08T15:21:00Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/08/USAT/90847215007-getty-images-2257065509.jpg?crop=2118,1193,x3,y221&width=2118&height=1193&format=pjpg&auto=webp",
+          "publishedAt": "2026-07-08T21:31:39Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--feMVHYNA--/t_kt-lifestyle-review-social-share.kt-life-review-star-20/f_auto/q_auto/4JLRQYW_MNA_TP2_0086756_jpg",
           "language": "en"
         },
         {
-          "title": "Ruto appoints Kindiki to lead Sh2.2 trillion Dangote refinery project in Lamu",
-          "description": "Ruto says the committee would coordinate the government's engagement with private sector investors",
-          "url": "https://www.the-star.co.ke/news/2026-07-08-kindiki-to-lead-sh2tn-dangote-refinery-project",
+          "title": "Burnham's last potential rival Al Carns rules out leadership bid",
+          "description": "Carns's said a leadership contest was \"not the best use of Labour's time\" and \"we need to get on board\" with Burnham.",
+          "url": "https://www.bbc.co.uk/news/articles/cy9rzelexqlo",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-08T15:20:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/07/714cb016-b9f0-40da-8224-7e1ca3bfb1ca.webp?1783560752557",
+          "publishedAt": "2026-07-08T21:31:00Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc0c/live/ccb67030-7b04-11f1-9742-ddd4bea925d0.jpg",
           "language": "en"
         },
         {
-          "title": "Iranians testify about regime murders of loved ones in Jan. massacres",
-          "description": "Estimates state 35-40,000 were killed by the regime’s security forces after protests erupted on December 28.",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-901852",
+          "title": "Sizewell B nuclear power plant granted a 20-year life extension",
+          "description": "Extension comes as government encourages first nuclear power projects in a generation to meet UK’s growing need for electricity",
+          "url": "https://www.theguardian.com/environment/2026/jul/08/sizewell-b-nuclear-power-plant-granted-a-20-year-life-extension",
           "source": {
-            "name": "The Jerusalem Post"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-07-08T15:19:42Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728931",
+          "publishedAt": "2026-07-08T21:30:00Z",
+          "image": "https://i.guim.co.uk/img/media/af33cf3bb48484b3fbf594d4666df9bf06a3b558/250_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2748ce58b11a613783bcef61945e0c2e",
           "language": "en"
         }
       ]
