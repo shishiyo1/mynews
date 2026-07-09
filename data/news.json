@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-09T19:47:55.440Z",
+  "updatedAt": "2026-07-09T22:27:45.331Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "北海道～九州は高温傾向 梅雨明け前から猛暑に警戒 梅雨明けはいつ? 1か月予報",
+          "description": "気象庁は今日9日、最新の1か月予報を発表しました。この先1か月、北日本から西日本では気温が平年より高いでしょう。梅雨明け前から猛烈な暑さとなる所がありそうです。熱中症に警戒してください。この先、前線の影響を受けづらい時期があり、来週以降は九州南部から続々と梅雨明けとなりそうです。",
+          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/07/09/39659.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-09T09:41:14Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/396/39659/main/20260709150824/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "クレジットカード決済代行「全東信」破産 突然カードが使えなくなる店が続出 売上金が回収できていないケースも",
+          "description": "大阪市のクレジットカード決済代行「全東信」が破産手続きの開始決定を受けました。負債額は1151億円に上り、街ではカード決済ができなくなる店が相次いでいて、私たちの生活にも影響が出ています。",
+          "url": "https://news.ntv.co.jp/n/ytv/category/society/yt2ff0d9e9309f4a29b8258719fe784d36",
+          "source": {
+            "name": "日テレNEWS NNN"
+          },
+          "publishedAt": "2026-07-09T08:49:00Z",
+          "image": "https://image.gallery.play.jp/ytv-news/articles/8cd73795b0714b1d95c95100fb8ca598/a7a5bf0b-a6d8-4963-9a35-12687622e58b.jpg?w=1200",
+          "language": "ja"
+        },
+        {
+          "title": "台風9号 11日午前中に沖縄に最接近 長く続く暴風・高波に厳重警戒 警戒期間は?",
+          "description": "大型で非常に強い台風9号は、明後日11日の午前中に勢力を保ったまま沖縄県の先島諸島にかなり接近する見通しです。建物が倒壊するおそれもある猛烈な風が、長く続くことが予想されます。暴風、うねりを伴う高波、土砂災害、低い土地の浸水、河川の増水や氾濫、高潮に厳重に警戒してください。",
+          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/07/09/39657.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-09T08:40:10Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/396/39657/main/20260709164310/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【女子バレー】和田由紀子が得意のサーブで強豪国を翻弄 ブラジル戦で存在感を示したサイドアタッカー三本柱",
+          "description": "7月8日に開幕した「ACNバレーボールネーションズリーグ2026女子大阪大会」。女子日本代表はブラジルとの初戦に臨み、試合開始早々から連続得点を許して第1セットを落とした。\n　攻撃力のあるブラジル",
+          "url": "https://news.yahoo.co.jp/articles/52f0aa1890d708b74fd4fefa03195c1a62394599",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-09T08:22:51Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260709-01116140-sportiva-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "三菱自動車が「国産人型ロボ」量産へ 2027年に「月1000台の製造体制」 東大発スタートアップと協業",
+          "description": "三菱自動車工業（以下、三菱自動車）は7月9日、東京大学発のロボット開発スタートアップHighlanders（東京都豊島区）と「国産人型ロボット」の開発に関して協業すると発表した。量産化に向け、20",
+          "url": "https://news.yahoo.co.jp/articles/a18bf6ee3c5d6b3e81a59c79b2dabfca2b1971aa",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-09T07:54:45Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260709-00000066-zdn_n-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【↑】日経平均 大引け｜ 4日ぶり反発、半導体関連株中心に買い戻し (7月9日)",
+          "description": "前日の米国市場では、ＮＹダウは前日比５７６ドル安と続落した。中東情勢を巡る先行き不透明感や原油先物価格の上昇でリスク回避の売りが優勢となった。　東京市場では、日経平均株価は寄り付きから一気に上げ幅を広げ・・・。",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607090988",
+          "source": {
+            "name": "株探"
+          },
+          "publishedAt": "2026-07-09T07:34:43Z",
+          "image": "https://async.api.kabutan.jp/og_image?title=%E3%80%90%E2%86%91%E3%80%91%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%20%E5%A4%A7%E5%BC%95%E3%81%91%EF%BD%9C%204%E6%97%A5%E3%81%B6%E3%82%8A%E5%8F%8D%E7%99%BA%E3%80%81%E5%8D%8A%E5%B0%8E%E4%BD%93%E9%96%A2%E9%80%A3%E6%A0%AA%E4%B8%AD%E5%BF%83%E3%81%AB%E8%B2%B7%E3%81%84%E6%88%BB%E3%81%97%20%287%E6%9C%889%E6%97%A5%29",
+          "language": "ja"
+        },
         {
           "title": "韓国代表、米紙評価で“サウジアラビア以下”の屈辱 韓国紙は衝撃「34位と思ったのに38位」「本当にひどかった」",
           "description": "FIFAワールドカップ2026（北中米W杯）でグループリーグ敗退に終わった韓国代表に、海外メディアから厳しい評価が下された。韓国紙『毎日経済』は、米紙『The Athletic』のパワーランキング再評価を受け、「サウジ以下、ホン・ミョンボ",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-07-09T06:22:42Z",
           "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/cf38/live/7372a430-7b27-11f1-a52f-dd669ddb448b.jpg",
           "language": "ja"
-        },
-        {
-          "title": "明日以降も暑さに警戒 各地で猛暑日続出 名古屋や福岡など体温並みの37度予想も",
-          "description": "今日9日は広い範囲で晴れて、厳しい暑さになりました。大分県日田市では最高気温35.5℃と2日連続の猛暑日、新潟県新潟市秋葉区(新津)では35.0℃を観測し、北陸で今年初の猛暑日となりました。この先も真夏のような暑さが続く見込みです。九州では37℃前後、東海や近畿、関東甲信では35℃以上の猛暑日になる日があるでしょう。熱中症のリスクが高まるため、こまめな水分補給や冷房の活用など万全な対策が必要です。",
-          "url": "https://tenki.jp/forecaster/a_shibamoto/2026/07/09/39653.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-07-09T06:07:08Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/396/39653/main/20260709142809/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "カメラが2つでラベンダーカラー追加？ iPhone Air 2はこんな風になるかも",
-          "description": "通常版より安くて、性能もアップなら人気になる可能性も？「カメラは1つより2つのほうがいい。薄いスマホは厚いスマホよりバッテリーの持ちが悪い」。Apple（アップル）はこの戦略で、消費者が自然とiPhone ProやPro Maxを選ぶように",
-          "url": "https://www.gizmodo.jp/article/this-is-supposedly-the-iphone-air-2-in-lavender/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-07-09T06:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/07/08/4023d69a-69cd-4428-ad45-3f386d69f535/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "折りたたみiPhone発売10月に延期か、サムスンは3機種で迎撃へ--大立光は決算説明会前に株価急伸",
-          "description": "折りたたみスマートフォン市場は2026年7月、競争が激化している。サムスン電子は7月21日に3機種のGalaxy Z新製品を発表すると予告。このうちZ Fold8のデザインは…",
-          "url": "https://finance.biggo.jp/news/5783a496-87ec-4a01-abfc-fd11fdf38c39",
-          "source": {
-            "name": "BigGo ファイナンス"
-          },
-          "publishedAt": "2026-07-09T05:25:00Z",
-          "image": "https://img.biggo.com/50xB_0umRsgk3OjEH6o9Qglg2ZsETeDhtUisqeI91ec/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzU3ODNhNDk2LTg3ZWMtNGEwMS1hYmZjLWZkMTFmZGYzOGMzOV8xNzgzNTc3NTM0X2RlZmF1bHQuanBn.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "大谷翔平は４打数無安打で３戦連発ならず 佐々木朗希６回３失点 ドジャース競り勝つ／詳細",
-          "description": "ドジャース大谷翔平投手は「1番DH」で先発出場。4打数無安打2三振に終わり3試合連発となる21号は出なかった。佐々木朗希投手が先発。6回を投げソロ本塁打2発を… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/baseball/mlb/news/202607090000070.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-07-09T04:16:00Z",
-          "image": "https://www.nikkansports.com/mod2015/img/common/sns_nikkansports_daytime_sports.png",
-          "language": "ja"
-        },
-        {
-          "title": "トランプ氏、NATO首脳会議でスペインを「相手にするだけ無駄」と批判 グリーンランド領有めぐる主張も再燃",
-          "description": "アメリカのトランプ大統領は8日、トルコ・アンカラで開かれた大西洋条約機構（NATO）首脳会議に出席し、軍事協力などをめぐり対立が続くスペインを改めて厳しく批判した。また、グリーンランドを領有する意欲を再び示した。",
-          "url": "https://www.bbc.com/japanese/articles/c8e23d32jelo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-07-09T04:06:44Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/3e08/live/31618d80-7b46-11f1-bee8-53ce494e1abc.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【ミスタードーナツ】初めてのコラボレーションが実現！Mrs. GREEN APPLE×Mister Donut『Mrs. Donut（ミセスドーナツ）』を期間限定発売",
-          "description": "株式会社ダスキンのプレスリリース（2026年7月9日 13時00分）【ミスタードーナツ】初めてのコラボレーションが実現！Mrs. GREEN APPLE×Mister Donut『Mrs. Donut（ミセスドーナツ）』を期間限定発売",
-          "url": "https://prtimes.jp/main/html/rd/p/000001126.000005720.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-07-09T04:00:02Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/5720/1126/5720-1126-8239ce6ac09f95bc5f4513ee58473a6d-2866x2028.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Embracing Data for Credit Assessment",
-          "description": "Many Nigerian borrowers are labeled high-risk. Discover how alternative data and AI can accurately assess creditworthiness, unlocking capital for underserv",
-          "url": "https://punchng.com/data-and-high-risk-nigerian-borrowers/",
+          "title": "Gold prices in Pakistan Today",
+          "description": "Price of silver per tola remains unchanged at Rs6,421",
+          "url": "https://tribune.com.pk/story/2617327/gold-prices-rebound-in-global-local-markets",
           "source": {
-            "name": "Punch Newspapers"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-07-09T07:44:52Z",
-          "image": "https://punchng.com/wp-content/uploads/2026/07/handshake_1783566757-1200x630.webp",
+          "publishedAt": "2026-07-09T10:27:14Z",
+          "image": "https://i.tribune.com.pk/media/images/81781386613-4/81781386613-4-640x480.webp",
           "language": "en"
         },
         {
-          "title": "S’porean hired to teach primary school pupils starved them; forced one 6-year-old to drink urine",
-          "description": "A Singaporean teacher hired to teach primary pupils has pleaded guilty to child abuse, including starvation and physical violence. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/singapore/courts-crime/sporean-abused-boy-6-for-18-hours-hit-him-with-hanger-starved-and-forced-him-to-drink-own-urine",
+          "title": "Family's 'unimaginable loss' after mum and daughters found dead",
+          "description": "Bedfordshire Police is seeking Ndodana Mkhanyisi Tshuma, 45, also known as Mark.",
+          "url": "https://www.bbc.com/news/articles/clyr4l1p6d4o",
           "source": {
-            "name": "The Straits Times"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-09T07:43:56Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/5a63a75dd20dc7b912fe4428d6cd0d9ff901e70872157a8454aac665cbcfa920",
+          "publishedAt": "2026-07-09T10:27:02Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8963/live/2f679f30-7b7b-11f1-9835-1d509410fdca.png",
           "language": "en"
         },
         {
-          "title": "Apply Now for Young Leader Fellowship Program (India)",
-          "description": "Deadline: 20-Jul-2026 The NUSRL Ranchi and FNB Nepal Legal Fellowship provides Indian early-career legal professionals and scholars with a six-month international exchange opportunity focused on community justice, governance, legal literacy, migration, mediation, and field-based legal research. Selected fellows will receive practical exposure in Nepal along with a monthly stipend of Rs 60,000–70,000 while contributing to",
-          "url": "https://www2.fundsforngos.org/leadership/apply-now-for-young-leader-fellowship-program-india/",
+          "title": "Family's 'unimaginable loss' after mum and daughters found dead",
+          "description": "Bedfordshire Police is seeking Ndodana Mkhanyisi Tshuma, 45, also known as Mark.",
+          "url": "https://www.bbc.co.uk/news/articles/clyr4l1p6d4o",
           "source": {
-            "name": "fundsforNGOs"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-09T07:43:47Z",
-          "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+          "publishedAt": "2026-07-09T10:27:02Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8963/live/2f679f30-7b7b-11f1-9835-1d509410fdca.png",
           "language": "en"
         },
         {
-          "title": "Thailand’s 5th richest man Charoen Sirivadhanabhakdi's Frasers Property launches Singapore condo with units from $1.1M",
-          "description": "Thai billionaire Charoen Sirivadhanabhakdi’s Frasers Property is launching previews for a private condominium project in Singapore’s prime District 11, with the smallest units priced at S$1.475 million (US$1.14 million). - VnExpress International",
-          "url": "https://e.vnexpress.net/news/business/property/thailand-s-5th-richest-man-charoen-sirivadhanabhakdi-s-frasers-property-launches-singapore-condo-with-units-from-1-1m-5095280.html",
+          "title": "New global Alzheimer’s disease country insights tool reveals major inequalities in diagnosis, treatment access and preparedness across countries",
+          "description": "Alzheimer’s Disease International (ADI) has launched the Alzheimer’s Disease Atlas (AD Atlas), a first of its kind platform highlighting how countries diagnose, treat and support people living with dementia.",
+          "url": "https://www.news-medical.net/news/20260709/New-global-Alzheimere28099s-disease-country-insights-tool-reveals-major-inequalities-in-diagnosis-treatment-access-and-preparedness-across-countries.aspx",
           "source": {
-            "name": "VnExpress International"
+            "name": "News-Medical"
           },
-          "publishedAt": "2026-07-09T07:43:29Z",
-          "image": "https://vcdn1-english.vnecdn.net/2026/07/09/fps-dunearn-housec-artist-impr-7244-5765-1783568176.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=scToIcIxwH0-hvD3IJ-Oug",
+          "publishedAt": "2026-07-09T10:27:00Z",
+          "image": "https://www.news-medical.net/image-handler/picture/2016/2/Alzheimers_amyloid_plaque_-_Juan_Gaertner_9638f1223d534b518a192c8478871d65-620x480.jpg",
           "language": "en"
         },
         {
-          "title": "empowerment loans to youths, women",
-          "description": "BUKOBA: THE Bukoba District Council has disbursed 478.6m/- in empowerment loans to 60 youths, women and other marginalised groups to stimulate economic growth and create self-employment opportunities. Speaking recently, Bukoba District Executive Director (DED), Ms Fatina Laay, urged beneficiaries of the 10 per cent empowerment loans to use the funds effectively to improve their economic …",
-          "url": "https://dailynews.co.tz/bukoba-district-disburses-478-6m-empowerment-loans-to-youths-women/",
+          "title": "TCS Q1 profit down 2.7% QoQ at Rs 13,349 crore, revenue beats estimates; board declares Rs 12 dividend",
+          "description": "TCS reported a decline in Q1 net profit, following a one-time settlement of Rs 668 crores after its appeal was rejected in the DXC Technology trade secret lawsuit.",
+          "url": "https://www.moneycontrol.com/news/business/earnings/tcs-q1-profit-slips-below-estimates-at-rs-13-349-crore-revenue-tops-expectations-13969912.html",
           "source": {
-            "name": "dailynews.co.tz"
+            "name": "Moneycontrol.com"
           },
-          "publishedAt": "2026-07-09T07:43:29Z",
-          "image": "https://dailynews.co.tz/wp-content/uploads/2026/07/1777883716777-0E7A1213-scaled.jpg",
+          "publishedAt": "2026-07-09T10:25:31Z",
+          "image": "https://images.moneycontrol.com/static-mcnews/2025/04/20250410141834_tcsrtr1.png",
           "language": "en"
         },
         {
-          "title": "Man Utd transfer news: Red Devils suffer 'major blow' as key target signs new contract",
-          "description": "Aurelien Tchouameni reportedly signs a new long-term contract at Real Madrid, ending Manchester United's hopes of bringing him to Old Trafford this summer.",
-          "url": "https://www.sportsmole.co.uk/football/man-utd/transfer-talk/news/devastation-for-man-utd-as-leading-transfer-target-signs-new-contract_600917.html",
+          "title": "Palace: Sara Duterte's threat vs Marcos neither hypothetical nor conditional",
+          "description": "Malacañang said Vice President Sara Duterte's assassination remarks were neither hypothetical nor conditional, arguing that the Duterte camp's defense effectively amounted to an admission.",
+          "url": "https://www.philstar.com/headlines/2026/07/09/2541002/palace-sara-dutertes-threat-vs-marcos-neither-hypothetical-nor-conditional",
           "source": {
-            "name": "Sports Mole"
+            "name": "Philstar.com"
           },
-          "publishedAt": "2026-07-09T07:43:00Z",
-          "image": "https://www.sportsmole.co.uk/thumbor/_tmE5yEGgAFvuzGIXX1W-Do-jjw=/720x410/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F06%2Fmichael-carrick-6-6a318e9896c8f591063074.jpg",
+          "publishedAt": "2026-07-09T10:25:00Z",
+          "image": "https://media.philstar.com/photos/2024/05/20/d4125_2024-05-20_22-44-13.jpg",
           "language": "en"
         },
         {
-          "title": "African funders launch $12m joint call for research grants",
-          "description": "Grantmaking alliance opens two-stage competition for cross-border projects in STISA 2034 priority research areas",
-          "url": "https://www.researchprofessionalnews.com/rr-news-africa-pan-african-2026-7-african-funders-launch-joint-call-for-research-grants/",
+          "title": "Man Utd reveal where new 100,000-seater stadium will be built as Red Devils prepare to leave Old Trafford",
+          "description": "Manchester United have confirmed the exact location for their proposed new 100,000-seater stadium project.",
+          "url": "https://www.goal.com/en-ug/lists/manchester-united-confirm-new-stadium-location-trafford/blt83a5b186ad904e57",
           "source": {
-            "name": "Research Professional News"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-07-09T07:41:34Z",
-          "image": "https://www.researchprofessionalnews.com/wp-content/uploads/2019/09/favicon-32x32.png",
+          "publishedAt": "2026-07-09T10:23:56Z",
+          "image": "https://assets.goal.com/images/v3/blt6e13450395b92893/GOAL%20-%20Blank%20WEB%20-%20Facebook%20-%202026-07-01T164030.948.png",
           "language": "en"
         },
         {
-          "title": "ADB cuts Pakistan growth forecast to 3.7pc on higher energy costs",
-          "description": "Prolonged disruptions to energy markets caused by the Middle East conflict have weighed more heavily on the region’s prospects than anticipated, according to the ADB’s latest economic outlook.",
-          "url": "https://www.dawn.com/news/2014109",
+          "title": "Hormuz Tanker Traffic Stops",
+          "description": "Jorge Leon, Head of Geopolitical Analysis at Rystad, noted that tanker traffic through the Strait of Hormuz had 'essentially stopped'.",
+          "url": "https://www.rigzone.com/news/hormuz_tanker_traffic_stops-09-jul-2026-184099-article/",
           "source": {
-            "name": "Dawn"
+            "name": "Rigzone"
           },
-          "publishedAt": "2026-07-09T07:41:25Z",
-          "image": "https://i.dawn.com/large/2026/07/091238101075b9f.webp",
+          "publishedAt": "2026-07-09T10:23:19Z",
+          "image": "https://images.rigzone.com/images/news/articles/n_184099.png",
           "language": "en"
         },
         {
-          "title": "Taylor Swift fans pay $25 for garbage from outside wedding",
-          "description": "Taylor Swift fans have paid $25 for pieces of trash -- including cigarette butts and an ovulation test kit -- collected near the US pop queen's wedding to NFL star Travis Kelce.",
-          "url": "https://www.vanguardngr.com/2026/07/taylor-swift-fans-pay-25-for-garbage-from-outside-wedding/",
+          "title": "‘Total Eclipse of the Heart’ singer Bonnie Tyler dead at 75",
+          "description": "'Bonnie's family and team are heartbroken to announce that Bonnie unexpectedly passed away last night in hospital in Portugal,' her family said in a statement.",
+          "url": "https://globalnews.ca/news/11959357/bonnie-tyler-dead-at-75/",
           "source": {
-            "name": "Vanguard News"
+            "name": "Global News"
           },
-          "publishedAt": "2026-07-09T07:40:07Z",
-          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/AFP__20260703__B98N2RQ__v5__MidRes__UsEntertainmentMusicNflSwiftKelce.jpg",
+          "publishedAt": "2026-07-09T10:23:08Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/07/bonnie-tyler-dead.jpg?quality=65&strip=all&crop=0px%2C25px%2C1023px%2C541px&resize=720%2C379",
           "language": "en"
         },
         {
-          "title": "Reality TV pioneer and Born This Way star Cristina Sanz dies suddenly aged 36",
-          "description": "The reality star's family announced that Cristina died on Monday after suffering a sudden cardiac arrest and being rushed to hospital.",
-          "url": "https://metro.co.uk/2026/07/09/reality-tv-pioneer-born-this-way-star-cristina-sanz-dies-suddenly-aged-36-29093675/",
+          "title": "Irish man jailed over US tourist's murder in Budapest",
+          "description": "An Irish man has been sentenced to 14 years in high-security prison in Hungary for the murder of an American tourist.",
+          "url": "https://www.rte.ie/news/2026/0709/1582559-murder-budapest/",
           "source": {
-            "name": "Metro.co.uk"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-07-09T07:39:00Z",
-          "image": "https://metro.co.uk/wp-content/uploads/2026/07/SEI_304605016-2c3c_1783585775.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+          "publishedAt": "2026-07-09T10:21:36Z",
+          "image": "https://www.rte.ie/images/0024ab00-1600.jpg",
           "language": "en"
         }
       ]
