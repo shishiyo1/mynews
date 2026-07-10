@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-10T19:30:07.008Z",
+  "updatedAt": "2026-07-10T22:04:35.106Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "フジ月9「恋愛もの」企画変更報道…佐藤二朗・橋本愛ハラスメント騒動の “飛び火” に「過剰反応しすぎちゃう？」SNS呆れ",
+          "description": "フジ月9「恋愛もの」企画変更報道…佐藤二朗・橋本愛ハラスメント騒動の “飛び火” に「過剰反応しすぎちゃう？」SNS呆れ（SmartFLASH） \n　佐藤二朗と橋本愛のハラスメント騒動が、フジテレビの看板だった“月9ドラマ”を揺らしている。\n \n「10日配信の『ス…",
+          "url": "https://topics.smt.docomo.ne.jp/article/smartflash/entertainment/smartflash-418196?redirect=1",
+          "source": {
+            "name": "ｄメニューニュース"
+          },
+          "publishedAt": "2026-07-10T09:40:00Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/picture/smartflash/m_smartflash-418196.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ASCII.jp：「スターオーシャン」シリーズ30周年記念の公式生放送が7月19日に配信決定！",
+          "description": "ASCII.jp － ゲーム",
+          "url": "https://ascii.jp/elem/000/004/418/4418576/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-07-10T09:00:00Z",
+          "image": "https://ascii.jp/img/2026/07/10/4498746/xl/0a5087b97fbc546b.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "10代の黒人男性、白人の友人たちと出かけ遺体で発見 事件性なしとの発表に疑念高まる 米",
+          "description": "ノーラン・ウェルズさん（18）は4日、米ミシシッピ州のメキシコ湾沖にある人気の砂州島、ホーン島に出かけた。独立記念日を祝うためだった。 - (1/2)",
+          "url": "https://www.cnn.co.jp/usa/35250449.html",
+          "source": {
+            "name": "CNN.co.jp"
+          },
+          "publishedAt": "2026-07-10T08:42:00Z",
+          "image": "https://www.cnn.co.jp/storage/2026/07/10/ec845c4073b8497c39752825b82f5c5e/nolan-wells-from-jackson-county.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『パルワールド』正式版1.0が本日（7/10）発売。新種パル72種、天陽郷や世界樹といった新エリアなど、新要素が大量追加。過去最安値の30％オフセールも実施中",
+          "description": "『パルワールド』正式版“1.0”が2026年7月10日に配信開始。新エリアや新育成要素についてのパッチノートが公開。Steam などで過去最安値となる30%オフセールが実施中。",
+          "url": "https://www.famitsu.com/article/202607/81000",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-07-10T08:40:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/81000/thumbnail_yMcO.jpg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "『アサシン クリード ブラック フラッグ RE:シンクロ』発売1日後“賛否両論”スタート。多数の少額課金DLCと中国からのレビュー爆撃など原因か",
+          "description": "『アサシン クリード ブラック フラッグ RE:シンクロ』、順風満帆の船出とはいかず？",
+          "url": "https://www.gamespark.jp/article/2026/07/10/169105.html",
+          "source": {
+            "name": "Game*Spark"
+          },
+          "publishedAt": "2026-07-10T08:35:02Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1157463.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『スターオーシャン』30周年当日の7月19日に記念生放送。「#ここが好きだよスターオーシャン」キャンペーンも開催中",
+          "description": "『セカンドストーリー R』開発元ジェムドロップの北尾雄一郎さんらが出演。なお、シリーズ新作ゲームの情報はないとのこと",
+          "url": "https://news.denfaminicogamer.jp/news/2607102o",
+          "source": {
+            "name": "電ファミニコゲーマー"
+          },
+          "publishedAt": "2026-07-10T08:03:00Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/f854f881b05e58e7b3db4fd0cfc3cb79.jpg",
+          "language": "ja"
+        },
         {
           "title": "【↑】日経平均 大引け｜ 続伸、AI・半導体関連中心に買いが流入 (7月10日)",
           "description": "前日の米国市場では、ＮＹダウは前日比１３９ドル高と３日ぶりに反発した。対イラン和平協議の再開期待や原油安を受け、ハイテク株を中心に買いが優勢となった。　東京市場では、日経平均株価は続伸。前日の米株高を受けＡＩ・半導体関連株などに買いが流入した・・・。",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-07-10T06:04:26Z",
           "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/396/39675/main/20260710144012/large.jpg",
           "language": "ja"
-        },
-        {
-          "title": "原宿の新スポット「ULTRA MART TOKYO」に行ってみた！ まさかウルトラマンにこんな未来が待っていたなんて",
-          "description": "7月10日は「ウルトラマンの日」。 そんな記念すべき日に、原宿に新スポット「ULTRA MART TOKYO」がオープンした。 ひと足先にメディア向け内覧会で訪れたのだが、昭和 …",
-          "url": "https://rocketnews24.com/2026/07/10/2780281/",
-          "source": {
-            "name": "ロケットニュース24"
-          },
-          "publishedAt": "2026-07-10T06:00:51Z",
-          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/ULTRAMARTA-7-1.jpg?w=1200&h=630&crop=1",
-          "language": "ja"
-        },
-        {
-          "title": "XBOXのCEOアーシャ・シャルマ氏、米FRBの「生産性と雇用」タスクフォース共同リーダーに任命―約3,200人の人員削減を進める中で",
-          "description": "同タスクフォースの目的は、人工知能を含む新たな汎用技術の経済的影響を評価し、FRBの政策判断に役立てることとされています。",
-          "url": "https://www.gamebusiness.jp/article/2026/07/10/27424.html",
-          "source": {
-            "name": "GameBusiness.jp"
-          },
-          "publishedAt": "2026-07-10T06:00:04Z",
-          "image": "https://www.gamebusiness.jp/imgs/ogp_f/188820.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "有罪揺るがす証拠、5人の検察官が把握も開示せず 福井事件で報告書",
-          "description": "福井市で1986年に起きた女子中学生殺害事件をめぐり、殺人罪で服役した前川彰司さん（61）の再審無罪が昨年に確定したことを受け、名古屋高検は10日、公判担当の検察官らを聴取した調査結果を報告書にま",
-          "url": "https://news.yahoo.co.jp/articles/3a205db13abd75968edc64afffccc86cced96fd3",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-10T05:50:47Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260710-00000118-asahi-000-13-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【速報】渋野日向子は前半を2バーディ、2ボギー 古江彩佳は2連続ボギーが先行",
-          "description": "◇女子メジャー第4戦◇アムンディ エビアン選手権 2日目（10日）◇エビアンリゾートGC（フランス）◇6479yd（パー71） 渋野日向子は第2ラウンドの前半を2バーディ、2ボギーで終え、通算2アンダーで後半インに向かった。 20位からスタ",
-          "url": "https://news.golfdigest.co.jp/news/lpga/article/192937/1/",
-          "source": {
-            "name": "GDOゴルフニュース"
-          },
-          "publishedAt": "2026-07-10T05:31:00Z",
-          "image": "https://i.gimg.jp/cmsimg/429771.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『DOOM』を生んだ老舗id SoftwareにもXBOX大規模レイオフの影響及ぶ。本部の内製エンジン担当チームに“1人しか残ってない”と報じられるも、マイクロソフトが否定",
-          "description": "テキサス拠点のゲームエンジン「id Tech」を担当するチームでは、“1人を除いた全員”がレイオフされたという。",
-          "url": "https://automaton-media.com/articles/newsjp/20260710-454353/",
-          "source": {
-            "name": "AUTOMATON"
-          },
-          "publishedAt": "2026-07-10T05:30:25Z",
-          "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260710-454353-004.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「スターオーシャン」シリーズ30周年記念の公式生放送が7月19日（日）に配信決定のお知らせ",
-          "description": "Release No.2896097｜スターオーシャン30周年記念企画第一弾「#ここが好きだよスターオーシャン」キャンペーンも開催株式会社スクウェア・エニックス（本社：東京都新宿区、代表取締役社長：桐生 隆司）から展開中の「スターオーシ...",
-          "url": "https://www.oricon.co.jp/pressrelease/2896097/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-07-10T05:16:00Z",
-          "image": "https://prtimes.jp/img/128734/392/thumb/d128734-392-a01eecf7dc5f76a15067-0.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "US private equity firm Apollo enters bidding war for easyJet with £5.7bn offer",
-          "description": "Airline’s board minded to recommend deal – after accepting rival one from Castlelake earlier this week",
-          "url": "https://www.theguardian.com/business/2026/jul/10/us-private-equity-firm-apollo-enters-bidding-war-for-easyjet",
+          "title": "NL Federation of Labour Calling for Increased Pay for Injured Workers",
+          "description": "The Newfoundland and Labrador Federation of Labour says now is the time to give people who are unable to work ...",
+          "url": "https://vocm.com/2026/07/10/nl-federation-of-labour-calling-for-increased-pay-for-injured-workers/",
           "source": {
-            "name": "The Guardian"
+            "name": "VOCM"
           },
-          "publishedAt": "2026-07-10T07:30:00Z",
-          "image": "https://i.guim.co.uk/img/media/3910069696b0a90eb864e69b7c1b5c2820d07b06/168_0_2450_1961/master/2450.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=011cf0cd19db832a3d64f44f96616502",
+          "publishedAt": "2026-07-10T10:04:00Z",
+          "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/10/jessica-mccormick-federation-of-labour.jpg",
           "language": "en"
         },
         {
-          "title": "'Our son went to bed with a runny nose - he never woke up'",
-          "description": "Sheffield parents Anya Sousa, 41, and Hugo Sousa, 45, were devastated when their 16-month-old son Leonardo, known as Leo, died suddenly in his sleep",
-          "url": "https://www.mirror.co.uk/news/uk-news/our-son-went-bed-runny-37412730",
+          "title": "Prince Harry has Alison Hammond in hysterics in surprise This Morning appearance",
+          "description": "Prince Harry and This Morning host Alison Hammond play laser tag at Birmingham Invictus Games event before hugging and laughing.",
+          "url": "https://metro.co.uk/2026/07/10/prince-harry-alison-hammond-hysterics-surprise-this-morning-appearance-29101001/",
           "source": {
-            "name": "The Mirror"
+            "name": "Metro.co.uk"
           },
-          "publishedAt": "2026-07-10T07:29:54Z",
-          "image": "https://i2-prod.mirror.co.uk/article37412726.ece/ALTERNATES/s1200d/0_embedded12180331.jpg",
+          "publishedAt": "2026-07-10T10:04:00Z",
+          "image": "https://metro.co.uk/wp-content/uploads/2026/07/SEI_304745974-085d_1783680642.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
           "language": "en"
         },
         {
-          "title": "Slovakia Overtakes Poland, Malta, Bulgaria, Lithuania and More as Europe’s New Travel Hotspot Emerges in 2026 With Record Airport Growth, Surging Tourist Arrivals, Expanding Air Connectivity and Risin",
-          "description": "Slovakia Overtakes Poland, Malta, Bulgaria, Lithuania and More as Europe’s new travel hotspot emerges in 2026, driven by a historic 112.8% airport passenger surge, expanding air connectivity, rising holiday demand and stronger tourism momentum.",
-          "url": "https://www.travelandtourworld.com/news/article/jblszemiq2y8/",
+          "title": "2 Cebuanos hospitalized due to Kanlaon ashfall",
+          "description": "CEBU CITY – The Cebu provincial government recorded two cases of ashfall-related hospital admissions amid the persisting poor air quality caused by the...",
+          "url": "https://mb.com.ph/2026/07/10/2-cebuanos-hospitalized-due-to-kanlaon-ashfall",
           "source": {
-            "name": "Travel And Tour World"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-07-10T07:29:32Z",
-          "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/kvtypuMJXOWf5i5_TOqxMw2k.jpg",
+          "publishedAt": "2026-07-10T10:03:54Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/10/115211.webp",
           "language": "en"
         },
         {
-          "title": "Tanzanian photographer wins global award for documenting herbal medicine traditions",
-          "description": "Photoworks Director Louise Fedotov-Clements, who chaired the Earth Photo 2026 jury, said the winning projects demonstrated the power of visual storytelling in helping audiences understand...",
-          "url": "https://www.thecitizen.co.tz/tanzania/news/national/tanzanian-photographer-wins-global-award-for-documenting-herbal-medicine-traditions-5523190",
+          "title": "WHO Official: Congo Ebola Outbreak Still Spreading Largely Undetected",
+          "description": "Four out of every five new Ebola cases in parts of Democratic Republic of Congo have no known link to existing patients, a senior World Health Organization official said, warning that the true scale of the outbreak could be two to four times larger than official data suggest. The figures underscore the challenges facing health workers as they battle to contain the outbreak in the country's northeast, which has so far infected 1,792 people and killed 625, according to government data released on Thursday.",
+          "url": "https://english.aawsat.com/world/5294430-who-official-congo-ebola-outbreak-still-spreading-largely-undetected",
           "source": {
-            "name": "thecitizen.co.tz"
+            "name": "Asharq Al-Awsat English"
           },
-          "publishedAt": "2026-07-10T07:26:25Z",
-          "image": "https://www.thecitizen.co.tz/resource/image/5523192/landscape_ratio3x2/1200/800/26e9ac9a6374a20ee1e2ca3243a412d0/Vm/minja-1.jpg",
+          "publishedAt": "2026-07-10T10:02:15Z",
+          "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-07/1657998_0.jpeg.webp",
           "language": "en"
         },
         {
-          "title": "Climate litigation risk already here for banks and insurers, says ECB legal chief",
-          "description": "Banks, insurers, pension funds and asset managers all face materialising climate litigation risk, warns report on climate litigation trends.",
-          "url": "https://greencentralbanking.com/2026/07/10/climate-litigation-risk-banks-and-insurers-ecb/",
+          "title": "New York construction scare shows challenges of office conversions",
+          "description": "The buckling of two steel columns at the former Pfizer headquarters in Manhattan has raised questions about one of the nation’s largest office-to-apartment conversions.",
+          "url": "https://apnews.com/article/nyc-building-collapse-risk-pfizer-42nd-office-a2e18c24e554bcddc4989ce1c28d67d9",
           "source": {
-            "name": "Green Central Banking"
+            "name": "AP News"
           },
-          "publishedAt": "2026-07-10T07:25:12Z",
-          "image": "https://greencentralbanking.com/wp-content/uploads/2026/07/26682691294_231732837e_o.jpg",
+          "publishedAt": "2026-07-10T10:02:00Z",
+          "image": "https://dims.apnews.com/dims4/default/47a6241/2147483647/strip/true/crop/3902x2600+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F86%2F99%2F31d2000053d1cd7bd6947d4319f9%2F06e039e06507466daa1c65a108155b60",
           "language": "en"
         },
         {
-          "title": "E20 costlier to produce than pure petrol: Government",
-          "description": "India Business News: NEW DELHI: Petroleum and natural gas ministry on Friday said that E20 petrol is currently costlier to produce than pure petrol at prevailing global cr.",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/e20-costlier-to-produce-than-pure-petrol-government/articleshow/132305663.cms",
+          "title": "Baba Barfani ice lingam melts over 90% just days into Amarnath Yatra: ‘Climate change is reason’",
+          "description": "The Amarnath Yatra began on July 3 this year under unprecedented security following the April 2025 Pahalgam terror attack that killed 26 civilians. | India News",
+          "url": "https://www.hindustantimes.com/india-news/baba-barfani-ice-lingam-melts-over-90-just-days-into-amarnath-yatra-climate-change-is-reason-101783674979100.html",
           "source": {
-            "name": "The Times of India"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-07-10T07:25:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-132305870,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-07-10T10:01:56Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/07/10/550x309/Lingam_1783675815964_1783675823075_bad8eb9b-9ce9-4f5c-8bc9-542cee3fc025.jpeg",
           "language": "en"
         },
         {
-          "title": "Outer ring road cuts travel time, boosts business",
-          "description": "DODOMA: DODOMA’S outer ring road has nearly halved travel time for heavy trucks, easing traffic congestion in the city centre while opening up new business opportunities for communities along the route. The 112.3-kilometre dual carriageway is already transforming transport and trade ahead of its official commissioning in October. Designed to divert cargo trucks and transit …",
-          "url": "https://dailynews.co.tz/outer-ring-road-cuts-travel-time-boosts-business/",
+          "title": "Offering pure petrol, E10 not feasible; E20 fuel is superior, cleaner: Centre",
+          "description": "India achieved 20% ethanol blending in petrol last year and at present, the E20 fuel is the standard petrol variant across the country.",
+          "url": "https://indianexpress.com/article/business/government-rejects-e20-petrol-backlash-logistics-pure-petrol-india-10780500/",
           "source": {
-            "name": "dailynews.co.tz"
+            "name": "The Indian Express"
           },
-          "publishedAt": "2026-07-10T07:24:47Z",
-          "image": "https://dailynews.co.tz/wp-content/uploads/2026/07/Muonekano-wa-Barabara-ya-Mzunguko-ya-Dodoma-Dodoma-outer-ring-road-yenye-urefu-wa-km-112.3-J.jpg",
+          "publishedAt": "2026-07-10T10:01:15Z",
+          "image": "https://images.indianexpress.com/2026/07/ethanol-implementation-order.jpg",
           "language": "en"
         },
         {
-          "title": "Foundation raises concern about new HIV infection spread in Sunyani Municipality",
-          "description": "Mr Arnold Sopaal, the Monitoring and Evaluation Officer of the MIHOSO International Foundation, a Non-Governmental Organisation (NGO) has raised concern about the upsurge of new HIV infections and rapid spread of the virus in the Sunyani Municipality.",
-          "url": "https://www.ghanabusinessnews.com/2026/07/10/foundation-raises-concern-about-new-hiv-infection-spread-in-sunyani-municipality/",
+          "title": "Iran's Strait of Hormuz leverage over oil prices may be weakening",
+          "description": "Iran's attacks on commercial shipping in the Strait of Hormuz sent oil prices higher, but alternative routes and OPEC+ output may be weakening Tehran's leverage.",
+          "url": "https://www.foxnews.com/politics/irans-biggest-weapon-against-us-may-slipping-away-experts-say",
           "source": {
-            "name": "Ghana Business News"
+            "name": "Fox News"
           },
-          "publishedAt": "2026-07-10T07:21:28Z",
-          "image": "https://www.ghanabusinessnews.com/wp-content/uploads/2026/07/Health-Officer-HIV.jpg",
+          "publishedAt": "2026-07-10T10:00:45Z",
+          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/hormuz.jpg",
           "language": "en"
         },
         {
-          "title": "India lays out tariffs and quotas for U.K. vehicles under trade deal",
-          "description": "India establishes tariffs and quotas for U.K. vehicle imports, offering reduced rates under the new trade deal.",
-          "url": "https://www.thehindu.com/business/Economy/india-lays-out-tariffs-and-quotas-for-uk-vehicles-under-trade-deal/article71205545.ece",
+          "title": "GitHub Copilot CLI Gets Tabs and No-Config-File Tool Setup in Redesigned Terminal UI",
+          "description": "GitHub has made the redesigned GitHub Copilot CLI terminal interface generally available. It adds a tabbed layout for sessions, gists, issues, and pull requests; an in-session, form-driven setup for M",
+          "url": "https://www.infoq.com/news/2026/07/copilot-cli-terminal-ga/",
           "source": {
-            "name": "The Hindu"
+            "name": "infoq.com"
           },
-          "publishedAt": "2026-07-10T07:21:18Z",
-          "image": "https://th-i.thgim.com/public/incoming/umo7fv/article71205654.ece/alternates/LANDSCAPE_1200/2208323857.jpg",
+          "publishedAt": "2026-07-10T10:00:37Z",
+          "image": "https://res.infoq.com/news/2026/07/copilot-cli-terminal-ga/en/headerimage/header-1783593957858.jpeg",
           "language": "en"
         },
         {
-          "title": "Kizimkazi Festival 2026 set to spotlight tourism, culture",
-          "description": "The countdown has officially begun for Kizimkazi Festival 2026, with organisers promising a bigger celebration designed to showcase the rich culture, tourism attractions and investment potential...",
-          "url": "https://www.thecitizen.co.tz/tanzania/magazines/kizimkazi-festival-2026-set-to-spotlight-tourism-culture-5523198",
+          "title": "Antidepressants Linked to Suicide Risk, Irregular Heartbeat, and Sudden Death",
+          "description": "This week Mad in America examines three studies related to adverse effects of antidepressants. The first study finds that antidepressant use is linked to New research examines links between antidepressant use and self-injury in bipolar disorder, irregular heartbeat when combined with antipsychotics, and frequent side effects such as weight gain, insomnia, and sexual dysfunction.",
+          "url": "https://www.madinamerica.com/2026/07/antidepressants-linked-to-suicide-risk-irregular-heartbeat-and-sudden-death/",
           "source": {
-            "name": "thecitizen.co.tz"
+            "name": "Mad In America"
           },
-          "publishedAt": "2026-07-10T07:21:14Z",
-          "image": "https://www.thecitizen.co.tz/resource/image/5523200/landscape_ratio3x2/1200/800/8a5daf9cfc93973088a07221729b2174/Cl/kizimkazi-festival-pic.jpg",
+          "publishedAt": "2026-07-10T10:00:27Z",
+          "image": "https://www.madinamerica.com/wp-content/uploads/2026/03/WRD.jpg",
           "language": "en"
         }
       ]
