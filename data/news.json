@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-11T13:21:32.280Z",
+  "updatedAt": "2026-07-11T15:57:11.670Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "『ノンタン』新作アニメ制作決定。3DCG技術でノンタンが生まれ変わる。生誕50周年記念",
+          "description": "『ノンタン』の新作アニメ化が発表。最新3DCGデザインも公開された。",
+          "url": "https://www.famitsu.com/article/202607/81085",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-07-11T03:22:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/81085/thumbnail_IqKj.jpg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "Palworld（パルワールド）正式版1.0に対応した専用サーバーを提供中 ― 月額￥980（税抜）から、最低利用期間・解約金なし【BESTNET-GSERVER】",
+          "description": "日刊工業新聞の電子版。日刊工業新聞が紙面で提供している、およそ250件の記事を毎日閲覧することができます。機械、技術、情報通信、エネルギー、産業などの専門情報をご提供します。",
+          "url": "https://www.nikkan.co.jp/releases/view/220545",
+          "source": {
+            "name": "日刊工業新聞"
+          },
+          "publishedAt": "2026-07-11T03:05:11Z",
+          "image": "https://prtimes.jp/img/136721/10/thumb/d136721-10-7783b2e20a6f6cc59660-2.png",
+          "language": "ja"
+        },
+        {
+          "title": "中居騒動のトラウマが…佐藤二朗の“不信感”でフジテレビは俳優キャスティングが「ますます難航も」（FRIDAY）",
+          "description": "女優・橋本愛(30)と佐藤二朗(57)のハラスメントトラブルで“再び”注目を集めてしまっているのがフジテレビだ。\nフジといえば昨年、元タレント中居正広氏(53)の性的トラブル騒動で企業体質が問われ",
+          "url": "https://news.yahoo.co.jp/articles/6da6afbd808f5d84f897fd3eedf8ccba47709fd4",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-11T02:00:43Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260711-00000002-friday-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "「何で答えられないの？」木原官房長官 “男系男子に限定する合理性”問われ即答できず…高市首相“右腕”の“50秒フリーズ”にSNS落胆",
+          "description": "7月10日、皇族数確保を目的とした皇室典範改正案が衆院本会議で可決され、参院へ送付された。改正案では、女性皇族が結婚後も皇族の身分を保持できることや、旧宮家の男系男子を養子縁組で皇族とすることが盛り",
+          "url": "https://news.yahoo.co.jp/articles/584b545600f86bee48c78ccb3f5fcfa2d6407ab1",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-11T02:00:14Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260711-00000024-jisin-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "「山上さんありがとう！」と書かれ…安倍元首相の死を揶揄する“不謹慎チラシ”が物議…掲示された東北大学は「速やかに撤去」と回答（女性自身）",
+          "description": "安倍晋三元首相（享年67）が’22年7月に、奈良市内での応援演説中に銃撃を受けて亡くなってから4年が経過。7月5日に地元・山口県下関市で「偲ぶ会」が開かれ、約700人が参列した。\n「命日の8日には",
+          "url": "https://news.yahoo.co.jp/articles/ea5dcad4cfcf093c431498c87acf840a1d3a9d86",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-11T02:00:10Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260711-00000023-jisin-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "『The Elder Scrolls 6』開発への影響を現職＆元スタッフが懸念―XBOXの大規模レイオフがベセスダに直撃、27年越えベテラン社員の離職も",
+          "description": "発表から8年…どうなる『TES6』",
+          "url": "https://www.gamebusiness.jp/article/2026/07/11/27429.html",
+          "source": {
+            "name": "GameBusiness.jp"
+          },
+          "publishedAt": "2026-07-11T02:00:03Z",
+          "image": "https://www.gamebusiness.jp/imgs/ogp_f/188927.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "無念の途中交代…ベルギー代表GKクルトワが涙の理由を語る「残念だけど監督の判断だ」",
+          "description": "ベルギー代表GKティボー・クルトワ(レアル・マドリー)が2026 FIFAワールドカップ(W杯)北中米大会のベスト8敗退後、自身の途中交代について言及した。スペイン『アス』が伝えている。　クルトワは11日の準々決勝...",
+          "url": "https://web.gekisaka.jp/news/worldcup/detail/?455249-455249-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-07-11T01:54:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455249/news_455249_1.jpg?time=20260711112507",
+          "language": "ja"
+        },
         {
           "title": "無電源ノイキャンとも言える。ソニーの新イヤモニ「IER-M500」は2万円切り",
           "description": "モニターイヤホンは、アーティストのための特別な道具、という感じがしていました。でも、ソニーが今回出してきた「IER-M500」は、そのイメージを覆してくれそうです。8月28日発売で、価格はオープン価格。一部の販売店では19,800円という具",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-07-10T22:35:12Z",
           "image": "https://s.yimg.jp/images/news-web/versions/20260710-31a257f/all/images/ogp_default.png",
           "language": "ja"
-        },
-        {
-          "title": "指を写さず、片手でアクスタ撮影 町工場発「片手があくスタ」Makuakeで受付開始",
-          "description": "新田スプリング株式会社のプレスリリース（2026年7月11日 07時00分）指を写さず、片手でアクスタ撮影　町工場発「片手があくスタ」Makuakeで受付開始",
-          "url": "https://prtimes.jp/main/html/rd/p/000000003.000185113.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-07-10T22:00:01Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/185113/3/185113-3-1afac184179aa5865fb8cfdf8aa975a8-1600x900.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "【W杯】“無敵艦隊”スペインがベルギーに競り勝つ “2戦連発メリーノ弾” 2010年大会以来の優勝に向けて準決勝へ進出",
-          "description": "FIFAワールドカップ2026北中米大会 決勝トーナメント準々決勝\nスペイン 2対1 ベルギー（日本時間7月11日、アメリカ・ロサンゼルススタジアム）\nスペイン代表（世界ランキング3位）がベルギー",
-          "url": "https://news.yahoo.co.jp/articles/4872924e8b17b87420f84ec313d66fa5f3537c3d",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-10T21:28:48Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260711-90194759-ann-000-5-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "“三笘の1ミリ”以来の失点も…スペインがクルトワ途中交代のベルギーに土壇場で勝ち越し! 4大会ぶり4強へ",
-          "description": "[7.11 W杯準々決勝 スペイン 2-1 ベルギー ロサンゼルス]　2026 FIFAワールドカップ(W杯)北中米大会の準々決勝が11日に開催され、スペイン代表はベルギー代表に2-1で勝利した。同国史上最長記録の36試合連続無敗...",
-          "url": "https://web.gekisaka.jp/news/worldcup/detail/?455243-455243-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-07-10T20:59:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455243/news_455243_1.jpg?time=20260711060424",
-          "language": "ja"
-        },
-        {
-          "title": "「ブラッドボーン」50%オフで1,094円！ もうすぐ終了のセール情報まとめ【7月11日更新】",
-          "description": "サッカーワールドカップが盛り上がりを見せる今年の7月。各プラットフォームでは、サッカーゲームを含むさまざまなゲームのセールが実施されている。そのうちセール終了が間近に迫っているものをピックアップし、ご紹介したい。",
-          "url": "https://game.watch.impress.co.jp/docs/news/2123826.html",
-          "source": {
-            "name": "GAME Watch"
-          },
-          "publishedAt": "2026-07-10T15:00:00Z",
-          "image": "https://game.watch.impress.co.jp/img/gmw/list/2123/826/000.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『斉木楠雄のΨ難』燃堂力が「おー！相棒 ラーメン食いに行こーぜー！」と言い続ける耐久動画が公開。7月11日はラーメンの日とはいえ、なぜそんなことをする",
-          "description": "アニメ『斉木楠雄のΨ難』の燃堂力（声：小野大輔）が30分間流れ続ける耐久動画が公開された。公開期間は2026年7月11日(土)～2027年7月10日（土）。",
-          "url": "https://www.famitsu.com/article/202607/81070",
-          "source": {
-            "name": "ファミ通"
-          },
-          "publishedAt": "2026-07-10T15:00:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/81070/thumbnail_XfgA.jpg?x=1280",
-          "language": "ja"
-        },
-        {
-          "title": "アニメ『斉木楠雄のΨ難』燃堂力の「ラーメン食いに行こーぜー！」を30分間ひたすら聞ける耐久動画が公開",
-          "description": "7月11日の「ラーメンの日」を記念して、2027年7月10日までの1年間限定で視聴できる。ラーメンを食べている時や作っている時などの作業用BGMにも",
-          "url": "https://news.denfaminicogamer.jp/news/260711y",
-          "source": {
-            "name": "電ファミニコゲーマー"
-          },
-          "publishedAt": "2026-07-10T15:00:00Z",
-          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/adbf28e68d55b8e3986f9c96bfc9c5c6.png",
-          "language": "ja"
-        },
-        {
-          "title": "【巨人】大逆転負けの大敗 2戦連続2ケタ11失点の3連敗...ダルベックが初回 満塁弾も松本の落球など3失策絡み失点を重ねる 赤星は度会に痛恨3ラン被弾",
-          "description": "■プロ野球　DeNA11－6巨人　（10日　横浜スタジアム）\n巨人はDeNAに大逆転負け、前日・阪神戦10失点に続き2試合連続の今季4度目2ケタ11失点で大敗。DeNA戦の連勝も6で止まり今季4度",
-          "url": "https://news.yahoo.co.jp/articles/2b879febbc5c072a3ac9af3c21c74cbbc423b965",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-10T12:59:58Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260710-00010019-jnn-000-1-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Man accused in PoCSO case kills wife, 2 children and three more of complainant’s family in Telangana",
-          "description": "Man on bail arrested for murdering six, including two children, in Telangana amid ongoing PoCSO case investigation.",
-          "url": "https://www.thehindu.com/news/cities/Hyderabad/man-held-for-allegedly-killing-wife-two-children-and-three-others-in-telangana/article71209259.ece",
+          "title": "Vaval’s return touchdown turns tide for Blue Bombers in win over Argonauts",
+          "description": "Trey Vaval’s 129-yard return touchdown after a missed Toronto Argonauts field goal attempt broke the game open in the fourth quarter of the Winnipeg Blue Bombers’ 30-21 win on Friday.",
+          "url": "https://www.tsn.ca/cfl/article/vavals-return-touchdown-turns-tide-for-blue-bombers-in-win-over-argonauts/",
           "source": {
-            "name": "The Hindu"
+            "name": "TSN"
           },
-          "publishedAt": "2026-07-11T01:20:25Z",
-          "image": "https://th-i.thgim.com/public/incoming/rjjals/article71209261.ece/alternates/LANDSCAPE_1200/iStock-1332902346.jpg",
+          "publishedAt": "2026-07-11T03:57:00Z",
+          "image": "https://www.tsn.ca/resizer/v2/7VVAJDOBUVF2ZIBZ7MNAG4CMJU.JPG?smart=true&auth=aff93cee01979f0500da69a8cdc1b8b117165361f5f7963b0732990946949291&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Jaipur student suicide: Amaira approached teacher 5 times in 25 mins before fatal jump, claim parents",
-          "description": "According to Amaira's mother, her daughter was trying to explain something with sexual connotations to the teacher. But the teacher cornered Amaira and was seen threatening her.",
-          "url": "https://www.moneycontrol.com/city/jaipur-student-suicide-amaira-approached-teacher-5-times-in-25-mins-before-fatal-fall-claim-parents-article-13971294.html",
+          "title": "Kane vs Haaland in England vs Norway World Cup quarterfinal of strikers",
+          "description": "Haaland termed a ‘beast’ by England’s Kane as the lethal forwards aim to carry their teams into the semifinals.",
+          "url": "https://www.aljazeera.com/sports/2026/7/11/kane-vs-haaland-in-england-vs-norway-world-cup-quarterfinal-of-strikers",
           "source": {
-            "name": "Moneycontrol.com"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-07-11T01:19:56Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260711011709_Screenshot-2026-07-11-064648.png",
+          "publishedAt": "2026-07-11T03:56:15Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260709__B9RB97R__v1__HighRes__FblWc2026PresserNor-1783739920.jpg?resize=1920%2C1440",
           "language": "en"
         },
         {
-          "title": "Europe just unveiled a new rival to SpaceX’s Starship",
-          "description": "A detailed independent study found that SpaceX's Starship is every bit as revolutionary as expected, while revealing both its impressive capabilities and its biggest remaining hurdles. It also introduces an ambitious European rocket concept that could offer a very different route to affordable super heavy launches.",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260710003526.htm",
+          "title": "Meta scraps AI image feature amid privacy backlash",
+          "description": "Meta discontinues its AI image generation feature following widespread criticism over privacy concerns and backlash from users and unions. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/world/united-states/missed-the-mark-meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash",
           "source": {
-            "name": "ScienceDaily"
+            "name": "The Straits Times"
           },
-          "publishedAt": "2026-07-11T01:16:28Z",
-          "image": "https://www.sciencedaily.com/images/1920/spacex-starship-heavy-booster-separation.webp",
+          "publishedAt": "2026-07-11T03:55:00Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/73b9ba2409b695ebd29f4a8d4071852a14a96e197cc8c0e5f303634284a66073",
           "language": "en"
         },
         {
-          "title": "Europe just unveiled a new rival to SpaceX’s Starship",
-          "description": "A detailed independent study found that SpaceX's Starship is every bit as revolutionary as expected, while revealing both its impressive capabilities and its biggest remaining hurdles. It also introduces an ambitious European rocket concept that could offer a very different route to affordable super heavy launches.",
-          "url": "http://www.sciencedaily.com/releases/2026/07/260710003526.htm",
+          "title": "ACF hails northern governors over regional security trust fund",
+          "description": "ACF has commended the Northern States Governors’ Forum for establishing the Northern Nigeria Security Trust Fund",
+          "url": "https://www.vanguardngr.com/2026/07/acf-hails-northern-governors-over-regional-security-trust-fund/",
           "source": {
-            "name": "ScienceDaily"
+            "name": "Vanguard News"
           },
-          "publishedAt": "2026-07-11T01:16:28Z",
-          "image": "https://www.sciencedaily.com/images/1920/spacex-starship-heavy-booster-separation.webp",
+          "publishedAt": "2026-07-11T03:52:04Z",
+          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/04/Arewa-Consultative-Forum.png",
           "language": "en"
         },
         {
-          "title": "Apple Loop: iPhone 18 Pro Specs, Apple TV’s Emmy Success, iPhone Ultra Delays",
-          "description": "This week’s Apple headlines: iPhone 18 Pro specs confirmed, iPhone Ultra delays, Apple’s Chinese memory twist, Apple TV at the Emmys, a new award for the iPod, and more...",
-          "url": "https://www.forbes.com/sites/ewanspence/2026/07/10/apple-news-headlines-iphone-18-pro-specs-iphone-ultra-delay-apple-tv-emmys-ipod-award/",
+          "title": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes",
+          "description": "U.S. forces hit more than 170 targets, including air defense systems, drone and missile storage sites, and military speedboats.",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html",
           "source": {
-            "name": "Forbes"
+            "name": "The New York Times"
           },
-          "publishedAt": "2026-07-11T01:16:08Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a5195093dd9ea656c56d328/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "publishedAt": "2026-07-11T03:48:02Z",
+          "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10dc-military-zwfg/10dc-military-zwfg-facebookJumbo.jpg",
           "language": "en"
         },
         {
-          "title": "Android Circuit: Galaxy Z Fold8 Launch Dates, New York’s Pixel 11 Event, Google’s Backup Change",
-          "description": "Taking a look back at this week’s Android headlines: Samsung’s Galaxy Unpacked dates, Pixel 11 even confirmed, Galaxy S27 Ultra specs, Xiaomi’s five-year battery offer, and more...",
-          "url": "https://www.forbes.com/sites/ewanspence/2026/07/10/android-news-headlines-galaxy-unpacked-z-fold8-launch-s27-ultra-specs-redmii-lineage-pixel-11/",
+          "title": "Alia Bhatt performs to Shah Rukh Khan's Maahi Ve at BFF Akansha Ranjan Kapoor's pre-wedding bash. Watch",
+          "description": "Alia Bhatt attended her best friend Akansha Ranjan Kapoor's pre-wedding festivity in Mumbai, gave a special performance as well.  | Bollywood",
+          "url": "https://www.hindustantimes.com/entertainment/bollywood/alia-bhatt-performs-to-shah-rukh-khan-song-maahi-ve-at-bff-akansha-ranjan-kapoors-pre-wedding-bash-watch-101783737276948.html",
           "source": {
-            "name": "Forbes"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-07-11T01:14:43Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/688cf1db062bab83a5b2ec15/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "publishedAt": "2026-07-11T03:46:18Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/07/11/550x309/article-2020926112312645086000_1783741556464_1783741565798_241e7e23-6b5c-4b28-80a5-daf5466eceec.webp",
           "language": "en"
         },
         {
-          "title": "Cold Chisel saxophonist Andy Bickers dies",
-          "description": "Cold Chisel has paid tribute to one of its longest-serving musicians, announcing that saxophonist Andy Bickers has died after a battle with cancer.\nThe legendary Australian rock band announced Bickers’ death on Friday, describing the musician who spent more than three decades performing alongside them as “our brother”.",
-          "url": "https://www.nine.com.au/entertainment/celebrity/cold-chisel-andy-bickers-death-saxophonist-20260711-p60ehz.html",
+          "title": "HURIWA commends FG, Air Peace on evacuation of Nigerians from South Africa",
+          "description": "The Human Rights Writers Association of Nigeria (HURIWA) has commended the Federal Government and Air Peace for the successful evacuation",
+          "url": "https://guardian.ng/news/huriwa-commends-fg-air-peace-on-evacuation-of-nigerians-from-south-africa/",
           "source": {
-            "name": "Nine.com.au"
+            "name": "The Guardian Nigeria News"
           },
-          "publishedAt": "2026-07-11T01:14:36Z",
-          "image": "https://static.ffx.io/images/$zoom_0.8825%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/ce6723fcc7101e470ec9bab8271d26d42c012fbf8909e11e0a986611cca87ac7",
+          "publishedAt": "2026-07-11T03:46:09Z",
+          "image": "https://cdn.guardian.ng/wp-content/uploads/2026/07/Retunees1.jpg",
           "language": "en"
         },
         {
-          "title": "Apple sues OpenAI for stealing trade secrets",
-          "description": "The lawsuit paints a picture of an aggressive effort by OpenAI to poach Apple employees and extract confidential information to build its own device.",
-          "url": "https://www.channelnewsasia.com/world/apple-sues-openai-trade-secrets-6247591",
+          "title": "How police unravelled a sex-trafficking ring that sparked a landmark ruling",
+          "description": "Whispers of a syndicate helmed in Sydney by “Batman” – a Coles and Krispy Kreme manager – helped police to identify 20 brothels.",
+          "url": "https://www.smh.com.au/national/nsw/how-police-unravelled-a-sex-trafficking-ring-that-sparked-a-landmark-ruling-20260709-p60e34.html",
           "source": {
-            "name": "CNA"
+            "name": "SMH.com.au"
           },
-          "publishedAt": "2026-07-11T01:06:32Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--JpvhMYDC--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/11/000_73ge2zh.jpg?itok=M2RYrnDi",
+          "publishedAt": "2026-07-11T03:45:00Z",
+          "image": "https://static.ffx.io/images/$zoom_1.0342%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_1/t_crop_custom/q_86%2Cf_auto/61b9537474c8c56ecb95e31bdc31850cd126d0d70ca1c92be6ca44d3ad57c7bf",
           "language": "en"
         },
         {
-          "title": "JI stages rallies against high POL prices, rising inflation",
-          "description": "LAKKI MARWAT/DERA ISMAIL KHAN/SOUTH WAZIRISTAN: Jamaat-i-Islami activists on Friday staged demonstrations against ...",
-          "url": "https://www.dawn.com/news/2014440/ji-stages-rallies-against-high-pol-prices-rising-inflation",
+          "title": "Retiree, 85, refuses to miss Johor polls despite crash injuries",
+          "description": "85-year-old Ridzhuan suffered severe abrasions to his right arm and leg after being knocked down by a car while riding his motorcycle on July 1.",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/11/retiree-85-refuses-to-miss-johor-polls-despite-crash-injuries",
           "source": {
-            "name": "Dawn"
+            "name": "Free Malaysia Today"
           },
-          "publishedAt": "2026-07-11T01:05:59Z",
-          "image": "https://www.dawn.com/_img/social-default.jpg",
+          "publishedAt": "2026-07-11T03:43:49Z",
+          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/07/4db78eb5-pengundi-oku-prn-johor-china-press-pic-110726.webp",
           "language": "en"
         },
         {
-          "title": "CM launches free Wi-Fi service in Peshawar",
-          "description": "Initiative to be extended to all divisional headquarters later",
-          "url": "https://www.dawn.com/news/2014438",
+          "title": "New platform creates digital map for marine biobanks",
+          "description": "A new digital platform developed under the leadership of CIIMAR is making Portugal's marine biodiversity more accessible by bringing together thousands of biological resources into a single access point. The Blue Biobanks Digital Research Platform aims to bridge scientific research and industry by simplifying the identification of organisms and biological materials with potential applications in areas such as biotechnology, bioremediation, aquaculture, health, cosmetics and many others.",
+          "url": "https://phys.org/news/2026-07-platform-digital-marine-biobanks.html",
           "source": {
-            "name": "Dawn"
+            "name": "Phys.org"
           },
-          "publishedAt": "2026-07-11T01:05:59Z",
-          "image": "https://www.dawn.com/_img/social-default.jpg",
+          "publishedAt": "2026-07-11T03:40:01Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-platform-creates-d.jpg",
           "language": "en"
         }
       ]
