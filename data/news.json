@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-11T10:15:40.055Z",
+  "updatedAt": "2026-07-11T13:21:32.280Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "無電源ノイキャンとも言える。ソニーの新イヤモニ「IER-M500」は2万円切り",
+          "description": "モニターイヤホンは、アーティストのための特別な道具、という感じがしていました。でも、ソニーが今回出してきた「IER-M500」は、そのイメージを覆してくれそうです。8月28日発売で、価格はオープン価格。一部の販売店では19,800円という具",
+          "url": "https://www.gizmodo.jp/article/sony_ier-m500/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-07-11T00:30:00Z",
+          "image": "https://media.loom-app.com/loom/2026/07/10/477bff4f-409b-403b-bc5e-9e25cf04d002/original.png?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "関東以西は広く30℃超 九州では38℃予想も 熱中症対策を 今日7月11日(土)",
+          "description": "今日11日(土)も、各地で気温がグングン上昇。熱中症対策が欠かせません、関東から西は広く30℃を超えて、35℃以上の猛暑日の所もあるでしょう。九州北部の一部では38℃前後まで上がる予想です。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/07/11/39679.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-10T23:15:12Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/396/39679/main/20260711080028/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "日本は原発を手放さなくてよかった…41.8℃熱波で電力価格が一時6.6倍､エアコン不足に苦しむドイツの末路（プレジデントオンライン）",
+          "description": "6月下旬、ドイツを記録的な熱波が襲い、国内観測史上最高となる41.8℃が観測された。救急出動や交通インフラの被害が相次ぎ、冷房需要の急増で卸電力価格は一時、正午の約6.6倍に跳ね上がった。なぜ「環境",
+          "url": "https://news.yahoo.co.jp/articles/31788af1eeeba27e6efcb3b1e03e70e64e5925e6",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-10T22:35:12Z",
+          "image": "https://s.yimg.jp/images/news-web/versions/20260710-31a257f/all/images/ogp_default.png",
+          "language": "ja"
+        },
         {
           "title": "指を写さず、片手でアクスタ撮影 町工場発「片手があくスタ」Makuakeで受付開始",
           "description": "新田スプリング株式会社のプレスリリース（2026年7月11日 07時00分）指を写さず、片手でアクスタ撮影　町工場発「片手があくスタ」Makuakeで受付開始",
@@ -81,150 +114,117 @@
           "publishedAt": "2026-07-10T12:59:58Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260710-00010019-jnn-000-1-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "ダウ先物は上昇 半導体に利益確定売り 本日は韓国ＳＫハイニックスが上場＝米国株",
-          "description": "きょうの米株価指数先物市場でダウ先物は上昇しているもののナスダック１００は下落。前日は中東情勢への楽観的な見方が広まり、米株式市場は半導体中心に買いが広がっていたが、本日は時間外で半導体株に利益確定売りが出ており、ナスダック１００は下落している・・・。",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202607101196",
-          "source": {
-            "name": "株探"
-          },
-          "publishedAt": "2026-07-10T12:49:00Z",
-          "image": "https://async.api.kabutan.jp/og_image?title=%E3%83%80%E3%82%A6%E5%85%88%E7%89%A9%E3%81%AF%E4%B8%8A%E6%98%87%E3%80%80%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%81%AB%E5%88%A9%E7%9B%8A%E7%A2%BA%E5%AE%9A%E5%A3%B2%E3%82%8A%E3%80%80%E6%9C%AC%E6%97%A5%E3%81%AF%E9%9F%93%E5%9B%BD%EF%BC%B3%EF%BC%AB%E3%83%8F%E3%82%A4%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9%E3%81%8C%E4%B8%8A%E5%A0%B4%EF%BC%9D%E7%B1%B3%E5%9B%BD%E6%A0%AA",
-          "language": "ja"
-        },
-        {
-          "title": "『アークナイツ：エンドフィールド』新バージョン「向淵行」が7月16日にリリース。新オペレーター「オクギ」「リーノ」の実装など、ハーフアニバーサリーに相応しい盛りだくさんの内容",
-          "description": "7月10日、GRYPHLINEは、Hypergryphが開発する『アークナイツ：エンドフィールド』の絆の祝典&バージョン「向淵行」予告特別番組を配信した。\n同番組では、7月16日にリリース予定の新バージョン「向淵行」に関する最新情報や、ハーフアニバーサリーを記念した「絆の祝典」、各種機能改善やさまざまなキャンペーンについての情報が公開された。",
-          "url": "https://news.denfaminicogamer.jp/news/2607103d",
-          "source": {
-            "name": "電ファミニコゲーマー"
-          },
-          "publishedAt": "2026-07-10T12:44:00Z",
-          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/main-72-1024x576.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "FIFA審判委員長がアルゼンチン対エジプトの2シーンを説明…ゴール取り消しと決勝点めぐる判定に一部から批判の声",
-          "description": "国際サッカー連盟(FIFA)審判委員長のピエルルイジ・コリーナ氏が9日、FIFA公式サイトを通じてエジプト代表が判定を批判した2シーンについて説明した。　エジプトは北中米ワールドカップ決勝トーナメント2回戦で...",
-          "url": "https://web.gekisaka.jp/news/worldcup/detail/?455233-455233-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-07-10T11:48:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455233/news_455233_1.jpg?time=20260710204805",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Spain vs Belgium World Cup winners and losers",
-          "description": "Spain's Mikel Merino showed he's a playmaker in the World Cup quarterfinal victory over Belgium. Here's the other winners and losers.",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/10/spain-belgium-world-cup-winners-losers/90881058007/",
+          "title": "Man accused in PoCSO case kills wife, 2 children and three more of complainant’s family in Telangana",
+          "description": "Man on bail arrested for murdering six, including two children, in Telangana amid ongoing PoCSO case investigation.",
+          "url": "https://www.thehindu.com/news/cities/Hyderabad/man-held-for-allegedly-killing-wife-two-children-and-three-others-in-telangana/article71209259.ece",
           "source": {
-            "name": "USA Today"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-07-10T22:14:00Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/10/USAT/90881857007-2285562075.jpg?crop=4598,2587,x0,y133&width=3200&height=1801&format=pjpg&auto=webp",
+          "publishedAt": "2026-07-11T01:20:25Z",
+          "image": "https://th-i.thgim.com/public/incoming/rjjals/article71209261.ece/alternates/LANDSCAPE_1200/iStock-1332902346.jpg",
           "language": "en"
         },
         {
-          "title": "Harry, Meghan, King reunion: King Charles and Queen Camilla meet with Duke and Duchess of Sussex, Prince Archie and Princess Lilibet after four years",
-          "description": "King Charles has finally reunited with Prince Harry, Meghan Markle and their children during a private meeting at Highgrove House. Buckingham Palace confirmed the King and Queen Camilla hosted the Sussex family on Friday, marking Prince Archie and Princess Lilibet’s first visit with their grandfather in four years.",
-          "url": "https://www.nine.com.au/lifestyle/royals/harry-meghan-king-reunion-duke-duchess-sussex-kids-archie-lilibet-meet-with-charles-camilla-20260711-p60eh7.html",
+          "title": "Jaipur student suicide: Amaira approached teacher 5 times in 25 mins before fatal jump, claim parents",
+          "description": "According to Amaira's mother, her daughter was trying to explain something with sexual connotations to the teacher. But the teacher cornered Amaira and was seen threatening her.",
+          "url": "https://www.moneycontrol.com/city/jaipur-student-suicide-amaira-approached-teacher-5-times-in-25-mins-before-fatal-fall-claim-parents-article-13971294.html",
+          "source": {
+            "name": "Moneycontrol.com"
+          },
+          "publishedAt": "2026-07-11T01:19:56Z",
+          "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260711011709_Screenshot-2026-07-11-064648.png",
+          "language": "en"
+        },
+        {
+          "title": "Europe just unveiled a new rival to SpaceX’s Starship",
+          "description": "A detailed independent study found that SpaceX's Starship is every bit as revolutionary as expected, while revealing both its impressive capabilities and its biggest remaining hurdles. It also introduces an ambitious European rocket concept that could offer a very different route to affordable super heavy launches.",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260710003526.htm",
+          "source": {
+            "name": "ScienceDaily"
+          },
+          "publishedAt": "2026-07-11T01:16:28Z",
+          "image": "https://www.sciencedaily.com/images/1920/spacex-starship-heavy-booster-separation.webp",
+          "language": "en"
+        },
+        {
+          "title": "Europe just unveiled a new rival to SpaceX’s Starship",
+          "description": "A detailed independent study found that SpaceX's Starship is every bit as revolutionary as expected, while revealing both its impressive capabilities and its biggest remaining hurdles. It also introduces an ambitious European rocket concept that could offer a very different route to affordable super heavy launches.",
+          "url": "http://www.sciencedaily.com/releases/2026/07/260710003526.htm",
+          "source": {
+            "name": "ScienceDaily"
+          },
+          "publishedAt": "2026-07-11T01:16:28Z",
+          "image": "https://www.sciencedaily.com/images/1920/spacex-starship-heavy-booster-separation.webp",
+          "language": "en"
+        },
+        {
+          "title": "Apple Loop: iPhone 18 Pro Specs, Apple TV’s Emmy Success, iPhone Ultra Delays",
+          "description": "This week’s Apple headlines: iPhone 18 Pro specs confirmed, iPhone Ultra delays, Apple’s Chinese memory twist, Apple TV at the Emmys, a new award for the iPod, and more...",
+          "url": "https://www.forbes.com/sites/ewanspence/2026/07/10/apple-news-headlines-iphone-18-pro-specs-iphone-ultra-delay-apple-tv-emmys-ipod-award/",
+          "source": {
+            "name": "Forbes"
+          },
+          "publishedAt": "2026-07-11T01:16:08Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a5195093dd9ea656c56d328/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "language": "en"
+        },
+        {
+          "title": "Android Circuit: Galaxy Z Fold8 Launch Dates, New York’s Pixel 11 Event, Google’s Backup Change",
+          "description": "Taking a look back at this week’s Android headlines: Samsung’s Galaxy Unpacked dates, Pixel 11 even confirmed, Galaxy S27 Ultra specs, Xiaomi’s five-year battery offer, and more...",
+          "url": "https://www.forbes.com/sites/ewanspence/2026/07/10/android-news-headlines-galaxy-unpacked-z-fold8-launch-s27-ultra-specs-redmii-lineage-pixel-11/",
+          "source": {
+            "name": "Forbes"
+          },
+          "publishedAt": "2026-07-11T01:14:43Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/688cf1db062bab83a5b2ec15/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "language": "en"
+        },
+        {
+          "title": "Cold Chisel saxophonist Andy Bickers dies",
+          "description": "Cold Chisel has paid tribute to one of its longest-serving musicians, announcing that saxophonist Andy Bickers has died after a battle with cancer.\nThe legendary Australian rock band announced Bickers’ death on Friday, describing the musician who spent more than three decades performing alongside them as “our brother”.",
+          "url": "https://www.nine.com.au/entertainment/celebrity/cold-chisel-andy-bickers-death-saxophonist-20260711-p60ehz.html",
           "source": {
             "name": "Nine.com.au"
           },
-          "publishedAt": "2026-07-10T22:13:28Z",
-          "image": "https://static.ffx.io/images/$zoom_1.202%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_163/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/6ccf75d525d3bb66ab46dbe18c6b0958dae20dbb",
+          "publishedAt": "2026-07-11T01:14:36Z",
+          "image": "https://static.ffx.io/images/$zoom_0.8825%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/ce6723fcc7101e470ec9bab8271d26d42c012fbf8909e11e0a986611cca87ac7",
           "language": "en"
         },
         {
-          "title": "Iran attempting to restore nuclear sites damaged in war",
-          "description": "While CNN reported that repair efforts were identified at sites in Iran's Parchin and Pickaxe Mountain, imagery of sites at Isfahan, Fordow, and Natanz did not indicate any restoration efforts.",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-902143",
-          "source": {
-            "name": "The Jerusalem Post"
-          },
-          "publishedAt": "2026-07-10T22:08:18Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/705239",
-          "language": "en"
-        },
-        {
-          "title": "Banijay-All3Media-merger-Traitors-Black-mirror-Marco Bassetti",
-          "description": "Banijay CEO Marco Bassetti on the opportunities created by the new $8.5 B super indie, expanding beyond TV and whether ITV Studios is on his radar.",
-          "url": "https://www.hollywoodreporter.com/business/business-news/banijay-all3media-merger-traitors-black-mirror-bassetti-1236643830/",
-          "source": {
-            "name": "The Hollywood Reporter"
-          },
-          "publishedAt": "2026-07-10T22:07:59Z",
-          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/GettyImages-2183889983.jpg?w=1440&h=810&crop=1",
-          "language": "en"
-        },
-        {
-          "title": "US pauses Iran attack after ceasefire break as Israel reveals plot to kill Trump",
-          "description": "Following two days of retaliatory strikes, President Donald Trump paused the US-Iran conflict as former Supreme Leader Ali Khamenei is buried. Meanwhile, Iranian threats to the Strait of Hormuz have halted ceasefire hopes, sending Brent crude oil and local gas prices higher.",
-          "url": "https://www.foxnews.com/live-news/iran-war-oil-prices-07-10-26",
-          "source": {
-            "name": "Fox News"
-          },
-          "publishedAt": "2026-07-10T22:07:01Z",
-          "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/07/6aa8b94e12373953491b80dffe52110a.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Sources: Bam Adebayo, Tyler Herro had physical altercation in Las Vegas",
-          "description": "Former Heat teammates Bam Adebayo and Tyler Herro got into a physical altercation at a practice court in a Las Vegas hotel Friday morning during which Adebayo struck Herro in the head, sources told ESPN's Shams Charania.",
-          "url": "https://www.espn.com/nba/story/_/id/49328387/heat-bam-adebayo-bucks-tyler-herro-got-physical-altercation-las-vegas",
-          "source": {
-            "name": "ESPN"
-          },
-          "publishedAt": "2026-07-10T22:07:00Z",
-          "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0710%2Fr1687550_1296x729_16%2D9.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Spain defeat Belgium to reach World Cup semi-finals",
-          "description": "Super sub Mikel Merino broke Belgian hearts and sent Spain through to a World Cup semifinal against France with a late goal in a gripping 2-1 win on Friday.",
-          "url": "https://supersport.com/football/news/c27e09a7-957e-4057-badf-cc7ca6dd2a9a/spain-defeat-belgium-to-reach-world-cup-semi-finals",
-          "source": {
-            "name": "SuperSport"
-          },
-          "publishedAt": "2026-07-10T22:05:17Z",
-          "image": "https://images.supersport.com/media/lczl1vit/spaim.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Keyamo demands apology, fine from Peter Obi over airport cla",
-          "description": "Festus Keyamo demands Peter Obi apologize and pay a N25,000 fine for wrongful parking at Abuja airport, refuting Obi's 'persecution' claims.",
-          "url": "https://punchng.com/video-airport-clamping-keyamo-asks-obi-to-apologise-pay-n25000-fine/",
-          "source": {
-            "name": "Punch Newspapers"
-          },
-          "publishedAt": "2026-07-10T22:04:55Z",
-          "image": "https://punchng.com/wp-content/uploads/2026/06/KEYAMO.webp",
-          "language": "en"
-        },
-        {
-          "title": "SK hynix: From near collapse to AI chip powerhouse behind record US listing",
-          "description": "Once on the edge of financial ruin, the South Korean chip giant has rebounded to debut on Wall Street in what is the largest US listing by a foreign company.",
-          "url": "https://www.channelnewsasia.com/east-asia/sk-hynix-story-record-us-listing-ai-chips-6245921",
+          "title": "Apple sues OpenAI for stealing trade secrets",
+          "description": "The lawsuit paints a picture of an aggressive effort by OpenAI to poach Apple employees and extract confidential information to build its own device.",
+          "url": "https://www.channelnewsasia.com/world/apple-sues-openai-trade-secrets-6247591",
           "source": {
             "name": "CNA"
           },
-          "publishedAt": "2026-07-10T22:01:00Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--tyfYOAkO--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/11/sk_hynix.jpg?itok=BF0YbiZS",
+          "publishedAt": "2026-07-11T01:06:32Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--JpvhMYDC--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/11/000_73ge2zh.jpg?itok=M2RYrnDi",
           "language": "en"
         },
         {
-          "title": "Morgan Spector in Talks to Play Robert Langdon in Netflix Series",
-          "description": "Morgan Spector is in negotiations for the lead role of Robert Langdon in Netflix's upcoming series based on the Dan Brown book \"The Secret of Secrets\"",
-          "url": "https://variety.com/2026/tv/news/morgan-spector-robert-langdon-netflix-series-dan-brown-1236806909/",
+          "title": "JI stages rallies against high POL prices, rising inflation",
+          "description": "LAKKI MARWAT/DERA ISMAIL KHAN/SOUTH WAZIRISTAN: Jamaat-i-Islami activists on Friday staged demonstrations against ...",
+          "url": "https://www.dawn.com/news/2014440/ji-stages-rallies-against-high-pol-prices-rising-inflation",
           "source": {
-            "name": "Variety"
+            "name": "Dawn"
           },
-          "publishedAt": "2026-07-10T22:01:00Z",
-          "image": "https://variety.com/wp-content/uploads/2026/07/P1033KPI.jpg?w=1000&h=563&crop=1",
+          "publishedAt": "2026-07-11T01:05:59Z",
+          "image": "https://www.dawn.com/_img/social-default.jpg",
+          "language": "en"
+        },
+        {
+          "title": "CM launches free Wi-Fi service in Peshawar",
+          "description": "Initiative to be extended to all divisional headquarters later",
+          "url": "https://www.dawn.com/news/2014438",
+          "source": {
+            "name": "Dawn"
+          },
+          "publishedAt": "2026-07-11T01:05:59Z",
+          "image": "https://www.dawn.com/_img/social-default.jpg",
           "language": "en"
         }
       ]
