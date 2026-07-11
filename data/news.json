@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-10T22:04:35.106Z",
+  "updatedAt": "2026-07-11T02:44:35.692Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【巨人】大逆転負けの大敗 2戦連続2ケタ11失点の3連敗...ダルベックが初回 満塁弾も松本の落球など3失策絡み失点を重ねる 赤星は度会に痛恨3ラン被弾",
+          "description": "■プロ野球　DeNA11－6巨人　（10日　横浜スタジアム）\n巨人はDeNAに大逆転負け、前日・阪神戦10失点に続き2試合連続の今季4度目2ケタ11失点で大敗。DeNA戦の連勝も6で止まり今季4度",
+          "url": "https://news.yahoo.co.jp/articles/2b879febbc5c072a3ac9af3c21c74cbbc423b965",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-10T12:59:58Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260710-00010019-jnn-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "ダウ先物は上昇 半導体に利益確定売り 本日は韓国ＳＫハイニックスが上場＝米国株",
+          "description": "きょうの米株価指数先物市場でダウ先物は上昇しているもののナスダック１００は下落。前日は中東情勢への楽観的な見方が広まり、米株式市場は半導体中心に買いが広がっていたが、本日は時間外で半導体株に利益確定売りが出ており、ナスダック１００は下落している・・・。",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607101196",
+          "source": {
+            "name": "株探"
+          },
+          "publishedAt": "2026-07-10T12:49:00Z",
+          "image": "https://async.api.kabutan.jp/og_image?title=%E3%83%80%E3%82%A6%E5%85%88%E7%89%A9%E3%81%AF%E4%B8%8A%E6%98%87%E3%80%80%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%81%AB%E5%88%A9%E7%9B%8A%E7%A2%BA%E5%AE%9A%E5%A3%B2%E3%82%8A%E3%80%80%E6%9C%AC%E6%97%A5%E3%81%AF%E9%9F%93%E5%9B%BD%EF%BC%B3%EF%BC%AB%E3%83%8F%E3%82%A4%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9%E3%81%8C%E4%B8%8A%E5%A0%B4%EF%BC%9D%E7%B1%B3%E5%9B%BD%E6%A0%AA",
+          "language": "ja"
+        },
+        {
+          "title": "『アークナイツ：エンドフィールド』新バージョン「向淵行」が7月16日にリリース。新オペレーター「オクギ」「リーノ」の実装など、ハーフアニバーサリーに相応しい盛りだくさんの内容",
+          "description": "7月10日、GRYPHLINEは、Hypergryphが開発する『アークナイツ：エンドフィールド』の絆の祝典&バージョン「向淵行」予告特別番組を配信した。\n同番組では、7月16日にリリース予定の新バージョン「向淵行」に関する最新情報や、ハーフアニバーサリーを記念した「絆の祝典」、各種機能改善やさまざまなキャンペーンについての情報が公開された。",
+          "url": "https://news.denfaminicogamer.jp/news/2607103d",
+          "source": {
+            "name": "電ファミニコゲーマー"
+          },
+          "publishedAt": "2026-07-10T12:44:00Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/main-72-1024x576.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "FIFA審判委員長がアルゼンチン対エジプトの2シーンを説明…ゴール取り消しと決勝点めぐる判定に一部から批判の声",
+          "description": "国際サッカー連盟(FIFA)審判委員長のピエルルイジ・コリーナ氏が9日、FIFA公式サイトを通じてエジプト代表が判定を批判した2シーンについて説明した。　エジプトは北中米ワールドカップ決勝トーナメント2回戦で...",
+          "url": "https://web.gekisaka.jp/news/worldcup/detail/?455233-455233-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-07-10T11:48:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455233/news_455233_1.jpg?time=20260710204805",
+          "language": "ja"
+        },
+        {
+          "title": "佐藤二朗「反撃インタビュー」に登場した “取り調べ” 弁護士に集まる非難…「国分太一コンプラ違反」にも関与？ 本人の見解は",
+          "description": "7月8日、「デイリー新潮」が俳優・佐藤二朗の独占インタビューを配信。7月1日に「文春オンライン」が報道した、フジテレビのドラマ『夫婦別姓刑事』撮影中のトラブルに関して、佐藤本人の説明が掲載された。",
+          "url": "https://news.yahoo.co.jp/articles/3725c8f68ba85d4fa1e96fc7520e74f4d61d98b3",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-10T11:38:47Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260710-00000068-flash-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【Ｗ杯】やっぱりエムバペ！決勝弾 フランス３大会連続４強でも喜びなし「最強とは、勝ったチームのこと。まだ僕たちの隣にトロフィーはありません」得点ランクではトップのメッシに並ぶ",
+          "description": "◆サッカー北中米Ｗ杯▽準々決勝　フランス２―０モロッコ（９日、ボストン競技場）\n　【ボストン（米国）９日＝金川誉】前回、カタールＷ杯準優勝のフランス（ＦＩＦＡランク３位）が、同４位のモロッコ（同７",
+          "url": "https://news.yahoo.co.jp/articles/530068f55c26c6195cc6bf647d8996ea68196bab",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-10T10:29:48Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260710-07101347-sph-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "★本日の【イチオシ決算】 ＯＳＧ、古野電、良品計画 (7月10日)",
+          "description": "◆２６年１１月期の連結経常利益を従来予想の２３０億円→３２０億円に３９．１％上方修正。増益率が２．９％増→４３．２％増に拡大し、４期ぶりに過去最高益を更新する見通しとなった。想定以上の円安進行や堅調な需要環境の継続を背景に・・・。",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607101150",
+          "source": {
+            "name": "株探"
+          },
+          "publishedAt": "2026-07-10T10:16:13Z",
+          "image": "https://async.api.kabutan.jp/og_image?title=%E2%98%85%E6%9C%AC%E6%97%A5%E3%81%AE%E3%80%90%E3%82%A4%E3%83%81%E3%82%AA%E3%82%B7%E6%B1%BA%E7%AE%97%E3%80%91%20%EF%BC%AF%EF%BC%B3%EF%BC%A7%E3%80%81%E5%8F%A4%E9%87%8E%E9%9B%BB%E3%80%81%E8%89%AF%E5%93%81%E8%A8%88%E7%94%BB%20%287%E6%9C%8810%E6%97%A5%29",
+          "language": "ja"
+        },
+        {
+          "title": "★本日の【イチオシ決算】 ＯＳＧ、古野電、良品計画 (7月10日)",
+          "description": "１）本日（7月10日）引け後に発表された決算・業績修正\n　●イチオシ決算\n【ＯＳＧ <6136> [東証Ｐ]】　★今...",
+          "url": "https://finance.yahoo.co.jp/news/detail/a03ec7f020451c05a7ce218b1e0dab9c1c3e29d1",
+          "source": {
+            "name": "Yahoo!ファイナンス"
+          },
+          "publishedAt": "2026-07-10T10:16:00Z",
+          "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+          "language": "ja"
+        },
         {
           "title": "フジ月9「恋愛もの」企画変更報道…佐藤二朗・橋本愛ハラスメント騒動の “飛び火” に「過剰反応しすぎちゃう？」SNS呆れ",
           "description": "フジ月9「恋愛もの」企画変更報道…佐藤二朗・橋本愛ハラスメント騒動の “飛び火” に「過剰反応しすぎちゃう？」SNS呆れ（SmartFLASH） \n　佐藤二朗と橋本愛のハラスメント騒動が、フジテレビの看板だった“月9ドラマ”を揺らしている。\n \n「10日配信の『ス…",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-07-10T09:00:00Z",
           "image": "https://ascii.jp/img/2026/07/10/4498746/xl/0a5087b97fbc546b.jpg?20200122",
           "language": "ja"
-        },
-        {
-          "title": "10代の黒人男性、白人の友人たちと出かけ遺体で発見 事件性なしとの発表に疑念高まる 米",
-          "description": "ノーラン・ウェルズさん（18）は4日、米ミシシッピ州のメキシコ湾沖にある人気の砂州島、ホーン島に出かけた。独立記念日を祝うためだった。 - (1/2)",
-          "url": "https://www.cnn.co.jp/usa/35250449.html",
-          "source": {
-            "name": "CNN.co.jp"
-          },
-          "publishedAt": "2026-07-10T08:42:00Z",
-          "image": "https://www.cnn.co.jp/storage/2026/07/10/ec845c4073b8497c39752825b82f5c5e/nolan-wells-from-jackson-county.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『パルワールド』正式版1.0が本日（7/10）発売。新種パル72種、天陽郷や世界樹といった新エリアなど、新要素が大量追加。過去最安値の30％オフセールも実施中",
-          "description": "『パルワールド』正式版“1.0”が2026年7月10日に配信開始。新エリアや新育成要素についてのパッチノートが公開。Steam などで過去最安値となる30%オフセールが実施中。",
-          "url": "https://www.famitsu.com/article/202607/81000",
-          "source": {
-            "name": "ファミ通"
-          },
-          "publishedAt": "2026-07-10T08:40:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/81000/thumbnail_yMcO.jpg?x=1280",
-          "language": "ja"
-        },
-        {
-          "title": "『アサシン クリード ブラック フラッグ RE:シンクロ』発売1日後“賛否両論”スタート。多数の少額課金DLCと中国からのレビュー爆撃など原因か",
-          "description": "『アサシン クリード ブラック フラッグ RE:シンクロ』、順風満帆の船出とはいかず？",
-          "url": "https://www.gamespark.jp/article/2026/07/10/169105.html",
-          "source": {
-            "name": "Game*Spark"
-          },
-          "publishedAt": "2026-07-10T08:35:02Z",
-          "image": "https://www.gamespark.jp/imgs/ogp_f/1157463.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『スターオーシャン』30周年当日の7月19日に記念生放送。「#ここが好きだよスターオーシャン」キャンペーンも開催中",
-          "description": "『セカンドストーリー R』開発元ジェムドロップの北尾雄一郎さんらが出演。なお、シリーズ新作ゲームの情報はないとのこと",
-          "url": "https://news.denfaminicogamer.jp/news/2607102o",
-          "source": {
-            "name": "電ファミニコゲーマー"
-          },
-          "publishedAt": "2026-07-10T08:03:00Z",
-          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/f854f881b05e58e7b3db4fd0cfc3cb79.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【↑】日経平均 大引け｜ 続伸、AI・半導体関連中心に買いが流入 (7月10日)",
-          "description": "前日の米国市場では、ＮＹダウは前日比１３９ドル高と３日ぶりに反発した。対イラン和平協議の再開期待や原油安を受け、ハイテク株を中心に買いが優勢となった。　東京市場では、日経平均株価は続伸。前日の米株高を受けＡＩ・半導体関連株などに買いが流入した・・・。",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202607100970",
-          "source": {
-            "name": "株探"
-          },
-          "publishedAt": "2026-07-10T07:29:37Z",
-          "image": "https://async.api.kabutan.jp/og_image?title=%E3%80%90%E2%86%91%E3%80%91%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%20%E5%A4%A7%E5%BC%95%E3%81%91%EF%BD%9C%20%E7%B6%9A%E4%BC%B8%E3%80%81AI%E3%83%BB%E5%8D%8A%E5%B0%8E%E4%BD%93%E9%96%A2%E9%80%A3%E4%B8%AD%E5%BF%83%E3%81%AB%E8%B2%B7%E3%81%84%E3%81%8C%E6%B5%81%E5%85%A5%20%287%E6%9C%8810%E6%97%A5%29",
-          "language": "ja"
-        },
-        {
-          "title": "反町隆史『GTO』続編の実現は「相当時間がかかった。もうダメかなと思った時も」ファンと握手を交わし、万感の思いを語る",
-          "description": "反町隆史さん主演のドラマ『GTO』の第1話試写会と制作発表会が7月10日に行われ、反町さん、生見愛瑠さん、高橋メアリージュンさんらが登壇しました。“28年ぶりの連続ドラマ復活”と話題の『GTO』は、藤沢とおるさんによる同名漫画が原作（講談社『週刊少年マガジンKC』刊）で、元暴走族の教師・鬼塚英吉（反町）が、型破りな行動で生徒や学校の問題に体当たりでぶつかっていく学園ドラマです。反町隆史さん主演のドラマ『GTO』の第1話試写会と制作発表会が7月10日に行われ、反町さん、生見愛瑠さん、高橋メアリージュンさんらが登壇しました。今回、このイベントの司会を、98年版に続き2026年版にも出演する山崎裕…",
-          "url": "https://mezamashi.media/articles/-/319957",
-          "source": {
-            "name": "めざましmedia"
-          },
-          "publishedAt": "2026-07-10T07:20:00Z",
-          "image": "https://mezamashi.ismcdn.jp/mwimgs/e/2/1200xm/img_e28bbbc1cd49c3c0c80b38d0f66ba723503937.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【速報】江崎グリコが169品目値上げへ 看板商品ビスコなどの菓子類やプッチンプリン、セブンティーンアイスなども対象",
-          "description": "【速報】江崎グリコが169品目値上げへ　看板商品ビスコなどの菓子類やプッチンプリン、セブンティーンアイスなども対象（読売テレビニュース）　江崎グリコは、主力商品「ビスコ」など169品目を今年10月1日の出荷分から順次値上げすると発表しました。　江崎グリコによりま…",
-          "url": "https://topics.smt.docomo.ne.jp/article/ytv/business/ytv-2026071002977437?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-07-10T06:53:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/ytv/m_ytv-2026071002977437.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "今春から続いているエルニーニョ現象は今後秋にかけて続く 7月10日発表の監視速報",
-          "description": "気象庁は今日7月10日「エルニーニョ監視速報」を発表しました。エルニーニョ現象はこの春から続いているとみられ、今後、秋にかけてエルニーニョ現象が続く見込みです。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/07/10/39675.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-07-10T06:04:26Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/396/39675/main/20260710144012/large.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "NL Federation of Labour Calling for Increased Pay for Injured Workers",
-          "description": "The Newfoundland and Labrador Federation of Labour says now is the time to give people who are unable to work ...",
-          "url": "https://vocm.com/2026/07/10/nl-federation-of-labour-calling-for-increased-pay-for-injured-workers/",
+          "title": "THRDC and its partners enhance nationwide campaign to promote constitutionalism",
+          "description": "DAR ES SALAAM: THE Tanzania Human Rights Defenders Coalition (THRDC), in collaboration with the Pan African Lawyers Union (PALU), the East Africa Law Society (EALS), and the Zanzibar Female Lawyers Association (ZAFELA), continues to implement a nationwide Constitutionalism Promotion Campaign aimed at strengthening the rule of law, protecting human rights, and improving access to justice …",
+          "url": "https://dailynews.co.tz/thrdc-and-its-partners-enhance-nationwide-campaign-to-promote-constitutionalism/",
           "source": {
-            "name": "VOCM"
+            "name": "dailynews.co.tz"
           },
-          "publishedAt": "2026-07-10T10:04:00Z",
-          "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/10/jessica-mccormick-federation-of-labour.jpg",
+          "publishedAt": "2026-07-10T14:43:32Z",
+          "image": "https://dailynews.co.tz/wp-content/uploads/2026/07/THH.png",
           "language": "en"
         },
         {
-          "title": "Prince Harry has Alison Hammond in hysterics in surprise This Morning appearance",
-          "description": "Prince Harry and This Morning host Alison Hammond play laser tag at Birmingham Invictus Games event before hugging and laughing.",
-          "url": "https://metro.co.uk/2026/07/10/prince-harry-alison-hammond-hysterics-surprise-this-morning-appearance-29101001/",
+          "title": "‘Fake Agency’ Allegation Against Gbajabiamila Politically Motivated, Says Wike",
+          "description": "‘Fake Agency’ Allegation Against Gbajabiamila Politically Motivated, Says Wike",
+          "url": "https://www.channelstv.com/2026/07/10/fake-agency-allegation-against-gbajabiamila-politically-motivated-says-wike/",
           "source": {
-            "name": "Metro.co.uk"
+            "name": "Channels Television"
           },
-          "publishedAt": "2026-07-10T10:04:00Z",
-          "image": "https://metro.co.uk/wp-content/uploads/2026/07/SEI_304745974-085d_1783680642.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+          "publishedAt": "2026-07-10T14:43:14Z",
+          "image": "https://www.channelstv.com/wp-content/uploads/2026/07/Chief-of-Staff-to-the-president-Femi-Gbajabiamila-and-Prince-Adeniyi-Adeyemi.webp",
           "language": "en"
         },
         {
-          "title": "2 Cebuanos hospitalized due to Kanlaon ashfall",
-          "description": "CEBU CITY – The Cebu provincial government recorded two cases of ashfall-related hospital admissions amid the persisting poor air quality caused by the...",
-          "url": "https://mb.com.ph/2026/07/10/2-cebuanos-hospitalized-due-to-kanlaon-ashfall",
+          "title": "Russian youth forum welcomes Namibian competition winner",
+          "description": "Namibia has joined the growing African representation at Russia’s leading international youth nuclear forum, the Obninsk New 2026 International Youth Forum. The event focused on building […]",
+          "url": "https://www.namibian.com.na/russian-youth-forum-welcomes-namibian-competition-winner/",
           "source": {
-            "name": "Manila Bulletin"
+            "name": "The Namibian -"
           },
-          "publishedAt": "2026-07-10T10:03:54Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/10/115211.webp",
+          "publishedAt": "2026-07-10T14:42:53Z",
+          "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-10-at-2.52.58-PM-1024x681.jpeg",
           "language": "en"
         },
         {
-          "title": "WHO Official: Congo Ebola Outbreak Still Spreading Largely Undetected",
-          "description": "Four out of every five new Ebola cases in parts of Democratic Republic of Congo have no known link to existing patients, a senior World Health Organization official said, warning that the true scale of the outbreak could be two to four times larger than official data suggest. The figures underscore the challenges facing health workers as they battle to contain the outbreak in the country's northeast, which has so far infected 1,792 people and killed 625, according to government data released on Thursday.",
-          "url": "https://english.aawsat.com/world/5294430-who-official-congo-ebola-outbreak-still-spreading-largely-undetected",
+          "title": "Liverpool: Michael Edwards departs football chief role at FSG",
+          "description": "Liverpool owners Fenway Sports Group announce the departure of Michael Edwards, the company's chief executive of football.",
+          "url": "https://www.bbc.com/sport/football/articles/cpd3gqz6qleo",
           "source": {
-            "name": "Asharq Al-Awsat English"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-10T10:02:15Z",
-          "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-07/1657998_0.jpeg.webp",
+          "publishedAt": "2026-07-10T14:42:49Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0e52/live/718ca8d0-7c69-11f1-ab77-73970114f4de.jpg",
           "language": "en"
         },
         {
-          "title": "New York construction scare shows challenges of office conversions",
-          "description": "The buckling of two steel columns at the former Pfizer headquarters in Manhattan has raised questions about one of the nation’s largest office-to-apartment conversions.",
-          "url": "https://apnews.com/article/nyc-building-collapse-risk-pfizer-42nd-office-a2e18c24e554bcddc4989ce1c28d67d9",
+          "title": "Ukraine chokes fuel to Crimea, Russian consumers, targeting military supply",
+          "description": "Ukraine’s unmanned systems have cut overland routes and begun to target Russian shadow tankers.",
+          "url": "https://www.aljazeera.com/news/2026/7/10/ukraine-chokes-fuel-to-crimea-russian-consumers-targeting-military-supply",
           "source": {
-            "name": "AP News"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-07-10T10:02:00Z",
-          "image": "https://dims.apnews.com/dims4/default/47a6241/2147483647/strip/true/crop/3902x2600+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F86%2F99%2F31d2000053d1cd7bd6947d4319f9%2F06e039e06507466daa1c65a108155b60",
+          "publishedAt": "2026-07-10T14:42:41Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-06T215151Z_318518981_RC2I8MACV5HI_RTRMADP_3_UKRAINE-CRISIS-OMSK-FUEL-1783690504.jpg?resize=1920%2C1440",
           "language": "en"
         },
         {
-          "title": "Baba Barfani ice lingam melts over 90% just days into Amarnath Yatra: ‘Climate change is reason’",
-          "description": "The Amarnath Yatra began on July 3 this year under unprecedented security following the April 2025 Pahalgam terror attack that killed 26 civilians. | India News",
-          "url": "https://www.hindustantimes.com/india-news/baba-barfani-ice-lingam-melts-over-90-just-days-into-amarnath-yatra-climate-change-is-reason-101783674979100.html",
+          "title": "'Moana' Sets Sail With $4.5 Million In U.S. Previews",
+          "description": "Disney's live-action Moana made $4.5 million in previews from Thursday showtimes.",
+          "url": "https://deadline.com/2026/07/box-office-moana-1236979144/",
           "source": {
-            "name": "Hindustan Times"
+            "name": "Deadline"
           },
-          "publishedAt": "2026-07-10T10:01:56Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/07/10/550x309/Lingam_1783675815964_1783675823075_bad8eb9b-9ce9-4f5c-8bc9-542cee3fc025.jpeg",
+          "publishedAt": "2026-07-10T14:42:00Z",
+          "image": "https://deadline.com/wp-content/uploads/2025/12/Screenshot-2025-12-22-at-4.28.18 PM-e1766449738786.png?w=1024",
           "language": "en"
         },
         {
-          "title": "Offering pure petrol, E10 not feasible; E20 fuel is superior, cleaner: Centre",
-          "description": "India achieved 20% ethanol blending in petrol last year and at present, the E20 fuel is the standard petrol variant across the country.",
-          "url": "https://indianexpress.com/article/business/government-rejects-e20-petrol-backlash-logistics-pure-petrol-india-10780500/",
+          "title": "Conor McGregor is in a new fight for his future identity",
+          "description": "This fight week is different than any in Conor McGregor's career, because UFC 329 will reveal who McGregor really is.",
+          "url": "https://www.espn.com/mma/story/_/id/49324502/conor-mcgregor-fight-identity-ufc-329-max-holloway",
           "source": {
-            "name": "The Indian Express"
+            "name": "ESPN"
           },
-          "publishedAt": "2026-07-10T10:01:15Z",
-          "image": "https://images.indianexpress.com/2026/07/ethanol-implementation-order.jpg",
+          "publishedAt": "2026-07-10T14:42:00Z",
+          "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0710%2Fr1687308_1296x729_16%2D9.jpg",
           "language": "en"
         },
         {
-          "title": "Iran's Strait of Hormuz leverage over oil prices may be weakening",
-          "description": "Iran's attacks on commercial shipping in the Strait of Hormuz sent oil prices higher, but alternative routes and OPEC+ output may be weakening Tehran's leverage.",
-          "url": "https://www.foxnews.com/politics/irans-biggest-weapon-against-us-may-slipping-away-experts-say",
+          "title": "Pearl Bank, Partners Urge Agri SMEs to Take Advantage of Available Funding Opportunities at 3-Day Bootcamp",
+          "description": "Pearl Bank, in partnership with Ronalds in Africa, today concluded a 3-day bootcamp aimed at encouraging farmers to take advantage of available funding opportunities so that they can scale their operations. The call was made during the 3-day technical assistance training for over 30 agri-businesses that climaxed today at Skyz Hotel, Naguru. Agriculture forms one …",
+          "url": "https://chimpreports.com/pearl-bank-partners-urge-agri-smes-to-take-advantage-of-available-funding-opportunities-at-3-day-bootcamp/",
           "source": {
-            "name": "Fox News"
+            "name": "ChimpReports"
           },
-          "publishedAt": "2026-07-10T10:00:45Z",
-          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/hormuz.jpg",
+          "publishedAt": "2026-07-10T14:41:04Z",
+          "image": "https://cdn-network.chimpreports.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-10-at-16.26.56-802x1204.jpeg",
           "language": "en"
         },
         {
-          "title": "GitHub Copilot CLI Gets Tabs and No-Config-File Tool Setup in Redesigned Terminal UI",
-          "description": "GitHub has made the redesigned GitHub Copilot CLI terminal interface generally available. It adds a tabbed layout for sessions, gists, issues, and pull requests; an in-session, form-driven setup for M",
-          "url": "https://www.infoq.com/news/2026/07/copilot-cli-terminal-ga/",
+          "title": "‘Obsession’ Sets Peacock Streaming Release Date",
+          "description": "Curry Barker’s breakout horror hit “Obsession” will start streaming on Peacock on July 17. Barker’s debut film follows Bear (Michael Johnston), a hopeless romantic afraid to admit his crush for co-wor...",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/obsession-sets-peacock-streaming-release-144031561.html",
           "source": {
-            "name": "infoq.com"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-07-10T10:00:37Z",
-          "image": "https://res.infoq.com/news/2026/07/copilot-cli-terminal-ga/en/headerimage/header-1783593957858.jpeg",
+          "publishedAt": "2026-07-10T14:40:31Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/ed91ad2288c631759eca589576f193ff6834105e0b83124b6f28e5840d4e9a30/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F3b4d23f121d3987b0dfec5210e034eb1",
           "language": "en"
         },
         {
-          "title": "Antidepressants Linked to Suicide Risk, Irregular Heartbeat, and Sudden Death",
-          "description": "This week Mad in America examines three studies related to adverse effects of antidepressants. The first study finds that antidepressant use is linked to New research examines links between antidepressant use and self-injury in bipolar disorder, irregular heartbeat when combined with antipsychotics, and frequent side effects such as weight gain, insomnia, and sexual dysfunction.",
-          "url": "https://www.madinamerica.com/2026/07/antidepressants-linked-to-suicide-risk-irregular-heartbeat-and-sudden-death/",
+          "title": "How to Watch Online",
+          "description": "'Obsession' sets its Peacock streaming release date following a widely profitable theatrical run.",
+          "url": "https://variety.com/2026/film/news/obsession-peacock-release-date-streaming-how-to-watch-1236798622/",
           "source": {
-            "name": "Mad In America"
+            "name": "Variety"
           },
-          "publishedAt": "2026-07-10T10:00:27Z",
-          "image": "https://www.madinamerica.com/wp-content/uploads/2026/03/WRD.jpg",
+          "publishedAt": "2026-07-10T14:40:00Z",
+          "image": "https://variety.com/wp-content/uploads/2026/05/MCDOBSE_UC013.jpg?crop=0px%2C296px%2C3000px%2C1687px&resize=1000%2C563",
           "language": "en"
         }
       ]
