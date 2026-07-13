@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-13T12:07:08.058Z",
+  "updatedAt": "2026-07-13T17:12:47.126Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "『Yogibo 感謝祭 2026』を7月17日（金）より開催",
-          "description": "株式会社Yogiboのプレスリリース（2026年7月13日 09時01分）『Yogibo 感謝祭 2026』を7月17日（金）より開催",
-          "url": "https://prtimes.jp/main/html/rd/p/000000189.000018338.html",
+          "title": "日経平均は１６５０円程度安、売買代金はキオクシア、太陽誘電、村田製が上位 速報",
+          "description": "１３日午後２時７分すぎの日経平均株価は、前週末比１６５０円程度安い６万６９１０円付近で推移する。後場も売り優勢で取引を開始。軟調な展開が続き、午後１時５２分には同１６９４円３５銭安の６万６８６３円３・・・",
+          "url": "https://kabushiki.jp/news/757558",
           "source": {
-            "name": "PR TIMES"
+            "name": "kabushiki.jp"
           },
-          "publishedAt": "2026-07-13T00:01:42Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/18338/189/18338-189-c7276111ed645a803884fb6749bb147c-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "publishedAt": "2026-07-13T05:04:00Z",
+          "image": "https://kabushiki.jp/ogp.png",
           "language": "ja"
         },
         {
-          "title": "従来のゲーム制作手法のまま、AIの力でNPCを賢く見せるNVIDIAの新提案を徹底解説（西川善司のバビンチョなテクノコラム）",
-          "description": "ゲームにおける、NPC（Non Player Character）制御に生成AI系技術を使えないか。より具体的に言えば、人間ではなく、ゲームシステム側で動かす相棒キャラクターや敵キャラクターを言語型の生成系AIで動かせないか……というテーマについて。",
-          "url": "https://www.techno-edge.net/article/2026/07/13/5286.html",
+          "title": "米共和党重鎮のリンジー・グレアム上院議員、急病で死去と発表 トランプ氏の盟友",
+          "description": "米共和党の重鎮リンジー・グレアム上院議員が11日夕、死去した。71歳だった。グレアム氏の事務所は「短期間の急病」によるものだと説明した。グレアム氏はドナルド・トランプ米大統領の盟友として知られる。",
+          "url": "https://www.bbc.com/japanese/articles/c2dy9zjrgrko",
           "source": {
-            "name": "テクノエッジ TechnoEdge"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-13T00:00:03Z",
-          "image": "https://www.techno-edge.net/imgs/ogp_f/32885.jpg",
+          "publishedAt": "2026-07-13T04:18:41Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/8847/live/fa519f30-7e2c-11f1-91a9-7f19a8ed5bed.jpg",
           "language": "ja"
         },
         {
-          "title": "洗剤をかけるとオレンジ色の「iPhone」がピンク色に変わる？実験で確かめてみた",
-          "description": "米Appleの「iPhone 17 Pro」の鮮やかな「コズミックオレンジ」は、家庭用の化学薬品をかけるとホットピンクに変色する。昨年、Redditに「オレンジのiPhone 17 Proがピンクに変わった」という投稿があった。筆者は当初懐疑的だったが、自宅で実験してみたところ、本当だと分かった。",
-          "url": "https://japan.cnet.com/article/35250479/",
+          "title": "「ギークス ルール」× 最新アニメシリーズ「攻殻機動隊 THE GHOST IN THE SHELL」のコラボTシャツ2型が発売",
+          "description": "「ギークス ルール（GEEKS RULE）」は、7月7日から放送が開始されたアニメーション制作会社・サイエンスSARUが手がける「攻殻機動隊」の最新TVアニメシリーズ「攻殻機動隊 THE GHOST IN THE SHELL」とのコラボレーションTシャツ2型（各1万3200円）を発売する。",
+          "url": "https://www.wwdjapan.com/articles/2448812",
           "source": {
-            "name": "CNET Japan"
+            "name": "WWDJAPAN"
           },
-          "publishedAt": "2026-07-12T23:30:00Z",
-          "image": "https://japan.cnet.com/storage/2026/07/13/ddf07755e2c160b3e6c0e412a4ee8fdc/iphone-17-pro-cosmic-orange-pink-2.jpeg",
+          "publishedAt": "2026-07-13T03:41:50Z",
+          "image": "https://media.wwdjapan.com/wp-content/uploads/2026/07/13120304/og-55.jpg",
           "language": "ja"
         },
         {
-          "title": "Mac版Office 2019が読み取り専用に！無料代替ソフト「ONLYOFFICE」はどこまで使える？",
-          "description": "2023年10月10日にサポートが終了した「Office 2019 for Mac」は、2026年7月13日以降、ライセンス認証用証明書の期限切れにより、編集や保存、新規作成ができなくなります。そこで注目したいのが、無料で使えるOffice互換ソフト「ONLYOFFICE」です。本記事では、ONLYOFFICEの特徴を紹介しつつ、Office形式のファイルをどこまで扱えるのかを検証してみました。",
-          "url": "https://pc.watch.impress.co.jp/docs/column/macinfo/2124475.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-07-12T21:00:00Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2124/475/image00.png",
-          "language": "ja"
-        },
-        {
-          "title": "Windows 11新機能「Cloud Rebuild」の衝撃──加速するMSアカウントとクラウドへの強制移行",
-          "description": "Windowsのクラウド化が止まらない。2026年後半に予定されているWindows 11の大型アップデート「26H2」にて、新たなリカバリオプション「Cloud Rebuild」が登場する。その裏で、これまでオプトインだった企業向け環境でもクラウドバックアップが“デフォルト”で有効化されるなどの動きがある。その流れを追った。 (1/2)",
-          "url": "https://www.itmedia.co.jp/pcuser/articles/2607/13/news052.html",
+          "title": "静音性と操作性が極まったエレコムの最新トラックボール「IST PLUS」を試す ユニット換装にも対応（1/2 ページ）",
+          "description": "支持ユニットを換装できるエレコム「IST」シリーズに、「IST PLUS」が追加された。全く新しい支持方式を採用した本製品は、既存モデルとどのように使い勝手が異なるのだろうか。テレワーク時代に有効なIST PLUSをレビューする。 (1/2)",
+          "url": "https://www.itmedia.co.jp/pcuser/articles/2607/13/news072.html",
           "source": {
             "name": "ITmedia"
           },
-          "publishedAt": "2026-07-12T21:00:00Z",
-          "image": "https://image.itmedia.co.jp/pcuser/articles/2607/13/cover_news052.png",
+          "publishedAt": "2026-07-13T03:15:00Z",
+          "image": "https://image.itmedia.co.jp/pcuser/articles/2607/13/cover_news072.jpg",
           "language": "ja"
         },
         {
-          "title": "ACEes、事務所の伝統と歴史つなぐステージ 1万5000人の前でデビューへの思い「芸能界を荒らしにいきましょう」【ライブレポート】",
-          "description": "ニュース｜　5人組グループ・ACEes（浮所飛貴、那須雄登、作間龍斗、深田竜生、佐藤龍我）が12日、東京・有明アリーナで『ACEes　Arena Tour 2026 “V”』を開催した“V”の頭文字を持つさまざまなワードに今の自分たちや表現したい世界を重ね合わせながら事務所ならではの伝統というバトンをつなぎ、今確かに進化を遂げた5人の軌跡が詰まったステージに。最後のあいさつでは1万5000人を前に浮所から悲願であるデビューへの思いも語られた。（以下、ネタバレを含みます）",
-          "url": "https://www.oricon.co.jp/news/2467290/full/",
+          "title": "永井花奈が9年ぶりV！大会新記録で涙の復活優勝を飾った「ミネベアミツミレディス」激闘の4日間を振り返る【国内女子ツアー】 (1/2)",
+          "description": "女子ゴルフの今季国内ツアー第18戦「ミネベアミツミレディス北海道新聞カップ」（7月9～12日、北海道・真駒内CC空沼C＝6700ヤード、パー72）は、永井花奈の約9年ぶりとなる通算2勝目で幕を閉じた。最終日は単独首位から出て4バーディ、1ボギーの3アンダー69で回り、大会レコードの通算19アンダーで逃げ切った。雨模様の中で永井、初優勝を目指して大会をけん引した仲宗根澄香、ホステスプロ＆地元優勝を狙った阿部未悠らが熱戦を繰り広げた4日間を振り返る。",
+          "url": "https://www.golfdigest-minna.jp/_ct/17852094",
           "source": {
-            "name": "オリコンニュース"
+            "name": "golfdigest-minna.jp"
           },
-          "publishedAt": "2026-07-12T19:00:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2468000/2467290/20260712_185947_p_o_72898184.jpg",
+          "publishedAt": "2026-07-13T03:00:00Z",
+          "image": "https://d1uzk9o9cg136f.cloudfront.net/f/16782728/rc/2026/07/13/18e08f7973994730e5615d204ed5efa53a2ef794_xlarge.jpg",
           "language": "ja"
         },
         {
-          "title": "ACEes、嵐の背中から学んだこと「ファンの方をどれだけ大切に思えるか」",
-          "description": "ニュース｜　5人組グループ・ACEes（浮所飛貴、那須雄登、作間龍斗、深田竜生、佐藤龍我）が12日、東京・有明アリーナで開催された『ACEes Arena Tour 2026 “V”』公演前に囲み取材に参加した。5月まで行われた嵐のラストツアーにバックダンサーとして帯同。そこから学んだことを明かした。　結成2年目となり、5人の結束も強まっているようで浮所は「ステージに立っていて目が合う回数がめっちゃ多い。それぞれ高め合う。お前も頑張ってるから俺も頑張ろうって。メンバーに奮い立たされてる」と刺激。那須も「それぞれ特技を見せるコーナーのリハーサルで成功するとそれぞれ拍手するんですけどそのテンション感が僕ららしい」と実感した。　ツアー全公演に参加し、背中を見てきた大先輩・嵐からも得たものは大きく浮所は「メンバーさん同士目を合わせる姿とか端で笑い合う姿を見かけて、メンバー同士引き立て合うことを学んだのかもしれません」としみじみ。学んだこととして、那須は「ファンの方をどれだけ大切に思えるか。端から端まで一人ひとりを楽しませるぞという気概を感じたし、メンバーそれぞれがリスペクトを欠かさない。それぞれを大切にされている」と尊敬を表した。",
-          "url": "https://www.oricon.co.jp/news/2467273/full/",
+          "title": "餃子18個390円！『大阪ふくちぁんラーメン』工場直売でボリューム満点・格安中華定食を作ってみた!!",
+          "description": "コロナ禍をきっかけに一気に全国へ広まったのが、冷凍餃子の無人販売。その中でも、関西を中心に見かけるのが『大阪ふくちぁん餃子』だ。 無人販売での価格は、36個入り …",
+          "url": "https://rocketnews24.com/2026/07/13/2778948/",
           "source": {
-            "name": "オリコンニュース"
+            "name": "ロケットニュース24"
           },
-          "publishedAt": "2026-07-12T19:00:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2468000/2467273/20260712_191235_p_o_60858157.jpg",
+          "publishedAt": "2026-07-13T02:55:14Z",
+          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/fukuchan-gyoza022.jpg?w=1200&h=630&crop=1",
           "language": "ja"
         },
         {
-          "title": "米の戦略石油備蓄が急減 トランプ氏打つ手に限界も…イラン「ホルムズ封鎖」揺さぶり",
-          "description": "日本時間12日、イランの革命防衛隊が、「停戦の覚書」締結後、初めて「ホルムズ海峡の封鎖」を宣言しました。これに対して、アメリカ軍は、イラン国内の約140地点を空爆。\n中東地域の緊張度のフェーズが一段",
-          "url": "https://news.yahoo.co.jp/articles/6f25049966dc33800b368e7aa69d69621415af61",
+          "title": "県議会の“カツアゲ疑惑”に新たな証言 「計825万円支払った」元副議長 民主系会派も「自民重鎮に現金500万円渡した」 【福岡発】",
+          "description": "福岡県議会の県議2人が証言した正･副議長ポストを巡る金銭授受疑惑。副議長を経験した県議が自民の幹部らに合わせて825万円を支払ったことを明らかにした。また新たに2人が、自民幹部に金銭を渡したと証言。",
+          "url": "https://news.yahoo.co.jp/articles/40e4ff03bdbf1ac5cbfabe5137ce45ff44752979",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-07-12T17:36:36Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260713-90194858-ann-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-07-13T02:28:18Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260713-01174116-fnnprimev-000-1-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "「ヘルシーな透け感が好き」「ドット柄がめちゃかわいい」 GUの“990円シアーT”が大好評 「全色買いました」「とにかく使えてコスパ良すぎ」",
-          "description": "GUから販売されている「シアードットT(長袖)Q PF」が、ヘルシーなシアー感でどんなコーディネートにも合わせやすいのに、コスパがいいと高評価を集めています。　本記事では、「シアードットT(長袖)Q PF」について紹介します！「シアードットT(長袖)Q PF」とは？画像：GU…",
-          "url": "https://nlab.itmedia.co.jp/research/articles/3906630/",
+          "title": "全東信への金融債権、3分の1が朝鮮半島系機関 韓国メディアは在日自営業者への影響懸念",
+          "description": "破産手続き開始決定を受けたクレジットカード決済代行会社、全東信（大阪市）が大阪地裁に提出した破産申立書で、金融債権額1130億円のうち、3分の1以上の388億円が在日韓国・朝鮮人系信用組合や韓国の銀行だったことが分かった。在日韓国人系は5…",
+          "url": "https://www.sankei.com/article/20260713-57XF6D2X2NDXFPKCOMQCKYSH3Q/",
           "source": {
-            "name": "ねとらぼ"
+            "name": "産経ニュース"
           },
-          "publishedAt": "2026-07-12T13:20:00Z",
-          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/06/1782124370_1752492285_GU1-scaled.jpg",
+          "publishedAt": "2026-07-13T02:19:28Z",
+          "image": "https://www.sankei.com/resizer/v2/ACI4WJU4Q5PKRJJDTVE64Y5NJQ.jpg?auth=a2668a574c490b30df407d0271aeb1ecc9f143245da904cc1f113c54893b8ab8&quality=50&focal=1777%2C940&width=1200&height=675",
           "language": "ja"
         },
         {
-          "title": "普通のスマホに8割がストレス!? 2人に1人が狙う最新折りたたみスマホが大ヒットしている理由",
-          "description": "全国の20～59歳で横折りスマートフォンに関心がある1,062名を対象にした調査で、現在のバータイプ端末にストレスを感じる人が約8割にのぼりました。次回の買い替えで横折りを「ぜひ選びたい」「候補のひとつ」とする人は52.2%で、2人に1人が",
-          "url": "https://dxmagazine.jp/news/2625kowo093-2re-011/",
+          "title": "【女子バレーNL】予選R決着 日本が涙の大逆転劇で決勝R切符獲得！ 敗れたポーランドが敗退",
+          "description": "【女子バレーNL】予選R決着　日本が涙の大逆転劇で決勝R切符獲得！　敗れたポーランドが敗退（日テレNEWS NNN）◇バレーボールネーションズリーグ2026 予選ラウンド第3週(7月8日〜12日)女子ネーションズリーグ(NL)は第3週が12日に各地で行われ…",
+          "url": "https://topics.smt.docomo.ne.jp/article/ntv_news24/sports/ntv_news24-2026071302592858?redirect=1",
           "source": {
-            "name": "DXマガジン"
+            "name": "ｄメニューニュース"
           },
-          "publishedAt": "2026-07-12T12:55:44Z",
-          "image": "https://dxmagazine.jp/cp/wp-content/uploads/2026/07/news2624-1.png",
+          "publishedAt": "2026-07-13T02:04:00Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/picture/ntv_news24/m_ntv_news24-2026071302592858.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「水上バイク 転覆事故」丸1日経過したが、17歳女性 未だに行方不明、 落水後 波消しブロックに つかまっていたが 女性だけ 姿が見えなくなってしまった",
+          "description": "昨日、午前10時半ごろ、千葉県いすみ市岬町の夷隅（いすみ）川河口付近で、「3人が乗った 水上バイクが転覆し、1人が行方不明」と119番があった。\n警察と消防に話を聞くと、12日 午前10時半ごろ、",
+          "url": "https://news.yahoo.co.jp/articles/9dc637125243008383943a33ed937f454851b907",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-13T00:39:41Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260713-00010000-wjsm-000-6-view.jpg?exp=10800",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Pokémon Go at 10 and the millions still trying to catch 'em all",
-          "description": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
-          "url": "https://www.bbc.com/news/articles/cevlwk4nrm7o",
+          "title": "Changes to Coventry and Warwickshire ME services concern charity",
+          "description": "The charity says up to 6,000 people in the county could be affected by changes to ME services.",
+          "url": "https://www.bbc.co.uk/news/articles/c8r2ngd6mp0o",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-07-13T00:07:00Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c312/live/88ec5440-7be6-11f1-9010-bd4e2d0a26e0.png",
+          "publishedAt": "2026-07-13T05:12:37Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac0a/live/5fa9f690-7a07-11f1-9510-1546718f668b.jpg",
           "language": "en"
         },
         {
-          "title": "Pokémon Go at 10 and the millions still trying to catch 'em all",
-          "description": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
-          "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o",
+          "title": "KIS lowers SK Hynix's Q2 earnings forecast; shares fall 12%",
+          "description": "Original author: Long YueSource: Wall Street JournalOn July 13, South Korean local brokerage KIS released a forecast report for SK Hynix's second-quarter perfor",
+          "url": "https://www.kucoin.com/news/flash/kis-downgrades-sk-hynix-q2-earnings-forecast-shares-drop-12",
           "source": {
-            "name": "BBC"
+            "name": "KuCoin"
           },
-          "publishedAt": "2026-07-13T00:07:00Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c312/live/88ec5440-7be6-11f1-9010-bd4e2d0a26e0.png",
+          "publishedAt": "2026-07-13T05:11:34Z",
+          "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
           "language": "en"
         },
         {
-          "title": "Mayon Volcano sheds pyroclastic density current or 'uson' anew",
-          "description": "Pyroclastic density current known locally as \"uson\" were observed at Mayon Volcano on Monday morning, July 13, 2026, the Philippine Institute of Volcanology and Seismology said.",
-          "url": "https://www.gmanetwork.com/news/topstories/regions/994642/mayon-volcano-sheds-pyroclastic-density-current-or-uson-anew/story/",
+          "title": "Plantations surge on Bursa Malaysia as CPO price jumps",
+          "description": "KUALA LUMPUR: The FBM KLCI was pulled higher by plantation stocks in the early session, even as most of the Asian region was brought lower by a spike in crude oil prices that revived fresh inflation fears.",
+          "url": "https://www.thestar.com.my/business/business-news/2026/07/13/plantations-surge-on-bursa-malaysia-as-cpo-price-jumps",
           "source": {
-            "name": "GMA Network"
+            "name": "The Star"
           },
-          "publishedAt": "2026-07-13T00:06:16Z",
-          "image": "https://images.gmanews.tv/webpics/2026/05/Lava_flow_PDC_Mayon_volcano_2026_05_08_17_47_13.jpg",
+          "publishedAt": "2026-07-13T05:11:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/07/13/4007416.png",
           "language": "en"
         },
         {
-          "title": "Splitting Gordie Howe bridge profits with U.S. ‘good deal’ for both countries, minister says",
-          "description": "Business groups say the economic value of the new crossing outweighs Canada’s concession on toll profits",
-          "url": "https://www.theglobeandmail.com/canada/article-gordie-howe-bridge-split-good-deal-both-countries-minister-says/",
+          "title": "Hubble finds unexpected ultraviolet light from an ancient galaxy",
+          "description": "Astronomers used Hubble to detect ultraviolet light from a galaxy just 1.4 billion years after the Big Bang, challenging long-held theories.",
+          "url": "https://www.earth.com/news/hubble-finds-unexpected-light-from-one-of-the-universes-earliest-galaxies/",
           "source": {
-            "name": "The Globe and Mail"
+            "name": "Earth.com"
           },
-          "publishedAt": "2026-07-13T00:06:07Z",
-          "image": "https://www.theglobeandmail.com/resizer/v2/Q5573F4YRVEW5O7MD4LYZBJJAY.JPG?auth=c384737ef49f29e176470a25b5883b1465c72e0405b456f8200256a8dbaa204f&width=1200&height=800&quality=80&smart=true",
+          "publishedAt": "2026-07-13T05:10:00Z",
+          "image": "https://cff2.earth.com/uploads/2026/07/12225956/Galaxy-MXDFz4.4_nasa_1m.jpg",
           "language": "en"
         },
         {
-          "title": "What we know about South Africa soccer player Jayden Adams' death",
-          "description": "Police are opening an investigation after finding 25-year-old South Africa midfielder Jayden Adams' body in a house in central Cape Town.",
-          "url": "https://ca.sports.yahoo.com/news/know-south-africa-soccer-player-000635226.html",
+          "title": "Badrinath donation theft case: Temple employee Pramod Nautiyal arrested",
+          "description": "India News: NEW DELHI: Uttarakhand Police has arrested suspended Badrinath-Kedarnath Temple Committee (BKTC) employee Pramod Nautiyal in connection with the alleg.",
+          "url": "https://timesofindia.indiatimes.com/india/badrinath-donation-theft-case-temple-employee-pramod-nautiyal-arrested/articleshow/132357089.cms",
           "source": {
-            "name": "Yahoo Sports Canada"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-07-13T00:06:00Z",
-          "image": "https://s.yimg.com/ny/api/res/1.2/X9Jt.N8XrZRpcEeVKgApXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xODAwO2NmPXdlYnA-/https://media.zenfs.com/en/usa_today_sports_articles_558/ca0da4541477d165b8b418e536e383bd",
+          "publishedAt": "2026-07-13T05:10:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-132357147,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "South Africa's Jayden Adams died at age 25. Here's what we know",
-          "description": "Police are opening an investigation after finding 25-year-old South Africa midfielder Jayden Adams' body in a house in central Cape Town.",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/12/jayden-adams-south-africa-cause-of-death-world-cup/90896028007/",
+          "title": "July 12, 2026",
+          "description": "The United States is currently in the grip of an outbreak of the Cyclospora parasite, which causes severe diarrhea and has sickened more than 3,000 people across the U.S.",
+          "url": "https://heathercoxrichardson.substack.com/p/july-12-2026",
           "source": {
-            "name": "USA Today"
+            "name": "Letters from an American | Heather Cox Richardson"
           },
-          "publishedAt": "2026-07-13T00:06:00Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/12/USAT/90896211007-20260526-t-204322-z-1060205917-rc-2-tfka-19-kn-6-rtrmadp-3-soccerinternationalmen.JPG?crop=1999,1125,x0,y937&width=1999&height=1125&format=pjpg&auto=webp",
+          "publishedAt": "2026-07-13T05:09:46Z",
+          "image": "https://substackcdn.com/image/fetch/$s_!2MHE!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fheathercoxrichardson.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D489714354%26version%3D9",
           "language": "en"
         },
         {
-          "title": "The Chinese graduate accused of becoming Mexico's 'fentanyl king'",
-          "description": "Cartel members and ex-colleagues describe how Zhang Zhidong allegedly linked Chinese chemicals to Mexican drug labs.",
-          "url": "https://www.bbc.com/news/articles/c39ymggglxeo",
+          "title": "Stunning toll of Souths rookie’s gruesome injury revealed; big Broncos boost — NRL Team Tips",
+          "description": "Stunning toll of Souths rookie’s gruesome injury; big Broncos boost — NRL Team Tips",
+          "url": "https://www.foxsports.com.au/nrl/nrl-premiership/nrl-2026-round-20-team-tips-team-lists-ins-and-outs-injuries-suspensions/news-story/fe5abf7127ea0fc857954cfefff8d7b9",
           "source": {
-            "name": "BBC"
+            "name": "Fox Sports"
           },
-          "publishedAt": "2026-07-13T00:05:46Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4005/live/916366b0-7b8a-11f1-bee8-53ce494e1abc.jpg",
+          "publishedAt": "2026-07-13T05:09:27Z",
+          "image": "https://content.api.news/v3/images/bin/ccd2fce9b50df67939bab0a779461000",
           "language": "en"
         },
         {
-          "title": "what's your superpower? – Proctor",
-          "description": "Neurodivergence does not mean being less capable. It simply means taking a different path to reach the same outcome, writes Senior Associate Libby Thomas.",
-          "url": "https://www.qlsproctor.com.au/2026/07/i-have-adhd-whats-your-superpower/",
+          "title": "Suvendu Adhikari backs curbs on Kolkata airport mosque entry, cites security concerns",
+          "description": "Suvendu Adhikari defends restrictions on mosque access at Kolkata airport, emphasizing national security amid rising concerns.",
+          "url": "https://www.thehindu.com/news/national/west-bengal/suvendu-adhikari-backs-curbs-on-kolkata-airport-mosque-entry-cites-security-concerns/article71215981.ece",
           "source": {
-            "name": "qlsproctor.com.au"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-07-13T00:03:38Z",
-          "image": "https://www.qlsproctor.com.au/wp-content/uploads/2026/07/img20260626_Proctor_CATEGORY-0022_SML.jpg",
+          "publishedAt": "2026-07-13T05:09:23Z",
+          "image": "https://th-i.thgim.com/public/incoming/f9xgp3/article71215984.ece/alternates/LANDSCAPE_1200/Suvendu_GH4G897H3.1GEUG89BLM.3.jpg",
           "language": "en"
         },
         {
-          "title": "Chinese Spacecraft Approaches Mysterious Object Near Earth",
-          "description": "It's the \"smallest object that humans have visited with a spacecraft.\"",
-          "url": "https://nz.news.yahoo.com/chinese-spacecraft-approaches-mysterious-object-000300529.html",
+          "title": "Inquest hears emergency medical technician wouldn't handle fatal birth any differently",
+          "description": "An emergency medical technician has told an inquest even with the benefit of hindsight, she wouldn't have handled a birth where a 33-year-old woman later died any differently.",
+          "url": "https://www.rnz.co.nz/news/health/708172/inquest-hears-emergency-medical-technician-wouldn-t-handle-fatal-birth-any-differently",
           "source": {
-            "name": "Yahoo News New Zealand"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-07-13T00:03:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/7cf2bf37fd2b7216b5ed1c4662aa60d1a8dad868fdb2a12e26e0bfc3379d830c/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffuturism_981%2F9e0b320fcbe9cd17eafaa97fed7e90db",
+          "publishedAt": "2026-07-13T05:09:23Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--vSj402Tr--/t_tohu-badge-facebook/f_auto/q_auto/4L2ZWQ5_birth_acc_jpg",
           "language": "en"
         },
         {
-          "title": "U.S extends work authorization for Somali TPS holders under court order",
-          "description": "Washington (HOL) — US Citizenship and Immigration Services (USCIS) has updated guidance on work authorization for citizens of countries under Temporary Protected Status (TPS) whose cases remain tied to litigation over planned terminations of the program.",
-          "url": "https://www.hiiraan.com/news4/2026/Jul/205665/us_extends_work_authorization_for_somali_tps_holders_under_court_order.aspx",
+          "title": "grown electric vehicle battery in July — report",
+          "description": "Malaysia plans to start small-scale production of home-grown batteries for electric vehicles this month, Nikkei Asia reported on Monday.",
+          "url": "https://theedgemalaysia.com/node/810403",
           "source": {
-            "name": "Hiiraan Online"
+            "name": "theedgemalaysia.com"
           },
-          "publishedAt": "2026-07-13T00:02:42Z",
-          "image": "https://www.hiiraan.com/uploads/2026/07/17838341341783772730d7362a90-f095-11f0-95e0-85a8cfcc8ed7.jpg",
+          "publishedAt": "2026-07-13T05:08:58Z",
+          "image": "https://assets.theedgemarkets.com/ELECTRIC VEHICLE EV CALIFORNIA US_Bloomberg (confirmed)_0.jpg",
           "language": "en"
         }
       ]
