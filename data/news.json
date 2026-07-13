@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-13T06:21:00.202Z",
+  "updatedAt": "2026-07-13T12:07:08.058Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "『Yogibo 感謝祭 2026』を7月17日（金）より開催",
+          "description": "株式会社Yogiboのプレスリリース（2026年7月13日 09時01分）『Yogibo 感謝祭 2026』を7月17日（金）より開催",
+          "url": "https://prtimes.jp/main/html/rd/p/000000189.000018338.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-07-13T00:01:42Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/18338/189/18338-189-c7276111ed645a803884fb6749bb147c-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "従来のゲーム制作手法のまま、AIの力でNPCを賢く見せるNVIDIAの新提案を徹底解説（西川善司のバビンチョなテクノコラム）",
+          "description": "ゲームにおける、NPC（Non Player Character）制御に生成AI系技術を使えないか。より具体的に言えば、人間ではなく、ゲームシステム側で動かす相棒キャラクターや敵キャラクターを言語型の生成系AIで動かせないか……というテーマについて。",
+          "url": "https://www.techno-edge.net/article/2026/07/13/5286.html",
+          "source": {
+            "name": "テクノエッジ TechnoEdge"
+          },
+          "publishedAt": "2026-07-13T00:00:03Z",
+          "image": "https://www.techno-edge.net/imgs/ogp_f/32885.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "洗剤をかけるとオレンジ色の「iPhone」がピンク色に変わる？実験で確かめてみた",
+          "description": "米Appleの「iPhone 17 Pro」の鮮やかな「コズミックオレンジ」は、家庭用の化学薬品をかけるとホットピンクに変色する。昨年、Redditに「オレンジのiPhone 17 Proがピンクに変わった」という投稿があった。筆者は当初懐疑的だったが、自宅で実験してみたところ、本当だと分かった。",
+          "url": "https://japan.cnet.com/article/35250479/",
+          "source": {
+            "name": "CNET Japan"
+          },
+          "publishedAt": "2026-07-12T23:30:00Z",
+          "image": "https://japan.cnet.com/storage/2026/07/13/ddf07755e2c160b3e6c0e412a4ee8fdc/iphone-17-pro-cosmic-orange-pink-2.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "Mac版Office 2019が読み取り専用に！無料代替ソフト「ONLYOFFICE」はどこまで使える？",
+          "description": "2023年10月10日にサポートが終了した「Office 2019 for Mac」は、2026年7月13日以降、ライセンス認証用証明書の期限切れにより、編集や保存、新規作成ができなくなります。そこで注目したいのが、無料で使えるOffice互換ソフト「ONLYOFFICE」です。本記事では、ONLYOFFICEの特徴を紹介しつつ、Office形式のファイルをどこまで扱えるのかを検証してみました。",
+          "url": "https://pc.watch.impress.co.jp/docs/column/macinfo/2124475.html",
+          "source": {
+            "name": "PC Watch"
+          },
+          "publishedAt": "2026-07-12T21:00:00Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2124/475/image00.png",
+          "language": "ja"
+        },
+        {
+          "title": "Windows 11新機能「Cloud Rebuild」の衝撃──加速するMSアカウントとクラウドへの強制移行",
+          "description": "Windowsのクラウド化が止まらない。2026年後半に予定されているWindows 11の大型アップデート「26H2」にて、新たなリカバリオプション「Cloud Rebuild」が登場する。その裏で、これまでオプトインだった企業向け環境でもクラウドバックアップが“デフォルト”で有効化されるなどの動きがある。その流れを追った。 (1/2)",
+          "url": "https://www.itmedia.co.jp/pcuser/articles/2607/13/news052.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-07-12T21:00:00Z",
+          "image": "https://image.itmedia.co.jp/pcuser/articles/2607/13/cover_news052.png",
+          "language": "ja"
+        },
+        {
+          "title": "ACEes、事務所の伝統と歴史つなぐステージ 1万5000人の前でデビューへの思い「芸能界を荒らしにいきましょう」【ライブレポート】",
+          "description": "ニュース｜　5人組グループ・ACEes（浮所飛貴、那須雄登、作間龍斗、深田竜生、佐藤龍我）が12日、東京・有明アリーナで『ACEes　Arena Tour 2026 “V”』を開催した“V”の頭文字を持つさまざまなワードに今の自分たちや表現したい世界を重ね合わせながら事務所ならではの伝統というバトンをつなぎ、今確かに進化を遂げた5人の軌跡が詰まったステージに。最後のあいさつでは1万5000人を前に浮所から悲願であるデビューへの思いも語られた。（以下、ネタバレを含みます）",
+          "url": "https://www.oricon.co.jp/news/2467290/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-07-12T19:00:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2468000/2467290/20260712_185947_p_o_72898184.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ACEes、嵐の背中から学んだこと「ファンの方をどれだけ大切に思えるか」",
+          "description": "ニュース｜　5人組グループ・ACEes（浮所飛貴、那須雄登、作間龍斗、深田竜生、佐藤龍我）が12日、東京・有明アリーナで開催された『ACEes Arena Tour 2026 “V”』公演前に囲み取材に参加した。5月まで行われた嵐のラストツアーにバックダンサーとして帯同。そこから学んだことを明かした。　結成2年目となり、5人の結束も強まっているようで浮所は「ステージに立っていて目が合う回数がめっちゃ多い。それぞれ高め合う。お前も頑張ってるから俺も頑張ろうって。メンバーに奮い立たされてる」と刺激。那須も「それぞれ特技を見せるコーナーのリハーサルで成功するとそれぞれ拍手するんですけどそのテンション感が僕ららしい」と実感した。　ツアー全公演に参加し、背中を見てきた大先輩・嵐からも得たものは大きく浮所は「メンバーさん同士目を合わせる姿とか端で笑い合う姿を見かけて、メンバー同士引き立て合うことを学んだのかもしれません」としみじみ。学んだこととして、那須は「ファンの方をどれだけ大切に思えるか。端から端まで一人ひとりを楽しませるぞという気概を感じたし、メンバーそれぞれがリスペクトを欠かさない。それぞれを大切にされている」と尊敬を表した。",
+          "url": "https://www.oricon.co.jp/news/2467273/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-07-12T19:00:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2468000/2467273/20260712_191235_p_o_60858157.jpg",
+          "language": "ja"
+        },
         {
           "title": "米の戦略石油備蓄が急減 トランプ氏打つ手に限界も…イラン「ホルムズ封鎖」揺さぶり",
           "description": "日本時間12日、イランの革命防衛隊が、「停戦の覚書」締結後、初めて「ホルムズ海峡の封鎖」を宣言しました。これに対して、アメリカ軍は、イラン国内の約140地点を空爆。\n中東地域の緊張度のフェーズが一段",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-07-12T12:55:44Z",
           "image": "https://dxmagazine.jp/cp/wp-content/uploads/2026/07/news2624-1.png",
           "language": "ja"
-        },
-        {
-          "title": "「アニサマ」が“福岡”でも開催決定、同イベントとしては史上初の西日本エリアでの展開",
-          "description": "毎年夏に関東圏で開催されている世界最大級のアニソンライブイベントで、国内外から多くのファンが集う。来年は3月13日～14日の2日間にわたり、みずほPayPayドーム福岡でも開催予定",
-          "url": "https://news.denfaminicogamer.jp/news/260712g",
-          "source": {
-            "name": "電ファミニコゲーマー"
-          },
-          "publishedAt": "2026-07-12T12:30:00Z",
-          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/202607091551386a4f44fa26f9a.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「監督には分からないのかも」イングランド代表10番が指揮官に反論",
-          "description": "イングランド代表の10番MFジュード・ベリンガム(レアル・マドリー)が、試合内容に不満を示したトーマス・トゥヘル監督の発言に反論した。イギリス『ザ・サン』が伝えている。　2026 FIFAワールドカップ(W杯)北...",
-          "url": "https://web.gekisaka.jp/news/worldcup/detail/?455310-455310-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-07-12T12:16:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455310/news_455310_1.jpg?time=20260712211929",
-          "language": "ja"
-        },
-        {
-          "title": "Realtek RTL8127レビュー：7000円台で買える「蟹の10G LAN」カードを検証",
-          "description": "去年（2025年）ごろから流通が始まった、Realtek製10G LANチップ「RTL8127」が日本国内でも安く買えるようになりました。謎の中華業者がAmazonで約7000円くらいから売っています。実際に1枚買ってみたので、本当に10 Gbpsを出せるのか、本当に低発熱なのか･･･？ 軽く検証します。",
-          "url": "https://chimolog.co/realtek-rtl8127/",
-          "source": {
-            "name": "ちもろぐ"
-          },
-          "publishedAt": "2026-07-12T11:50:50Z",
-          "image": "https://chimolog.co/wp-content/uploads/2026/07/realtek-rtl8127-600.webp",
-          "language": "ja"
-        },
-        {
-          "title": "【大河ドラマ 豊臣兄弟！】第27回「本能寺の変」回想 兄弟の不思議な因果に囚われ、散った信長 秀吉と小一郎に託された「安寧の世」",
-          "description": "ドラマの一大クライマックスで語られた「きょうだい」 日本の歴史で最もドラマチックで、かつナゾ多き出来事のひとつです。これまでにも物語や絵画、小説、舞台、映画、ドラマ、ゲーム…など考え得るありとあらゆる形式で表現されてきた",
-          "url": "https://artexhibition.jp/topics/news/20260712-AEJ2945355/",
-          "source": {
-            "name": "美術展ナビ"
-          },
-          "publishedAt": "2026-07-12T11:49:00Z",
-          "image": "https://artexhibition.jp/wp-content/uploads/2026/07/0bb439a95ee2046cc2149a6b258f1f79-1200x630.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "アニサマ：初の福岡開催決定 みずほPayPayドーム福岡で2027年3月13、14日 世界最大級のアニソンイベント",
-          "description": "世界最大級のアニメソングのライブイベント「Animelo Summer Live（アニサマ）」が、「ANISAMA FUKUOKA 2027」として、みずほPayPayドーム福岡…",
-          "url": "https://mantan-web.jp/article/20260712dog00m200012000a.html",
-          "source": {
-            "name": "Mantan Web"
-          },
-          "publishedAt": "2026-07-12T10:37:38Z",
-          "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/07/12/20260712dog00m200012000a/001.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【アニサマ2026】『シャニマス』イルミネーションスターズが放クラ「太陽キッス」をサプライズ披露！",
-          "description": "【アニメイトタイムズ】年に一度のアニソンライブイベント「Animelo Summer Live 2026 -Messenger-」が、東京・幕張メッセで開催中です。最終日となる7月12日（日）のステージに登場した『アイドルマスター シャイニーカラーズ』のユニット「イルミネーションスターズ」は、「KoiKyun！」...",
-          "url": "https://www.animatetimes.com/news/details.php?id=1783851335",
-          "source": {
-            "name": "アニメイトタイムズ"
-          },
-          "publishedAt": "2026-07-12T10:20:00Z",
-          "image": "https://img2.animatetimes.com/2026/07/c59a542d1bd81d8364ee8c44fda532446a536a0d3a9192_62777609_d7e5333558dfe7c0faeee4a698752c6fe5e44795.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "バレー女子日本代表、運命の大一番ポーランド戦はメンバー変更なし 勝てば決勝ラウンド進出、負ければ敗退【ネーションズリーグ】",
-          "description": "オリンピック、世界バレーに並ぶバレーボール世界3大大会の一つ『ネーションズリーグ』で2大会ぶりの表彰台を目指す女子日本代表（世界ランク6位）は、予選ラウンド第3週日本ラウンド（大阪）のポーランド戦は",
-          "url": "https://news.yahoo.co.jp/articles/0cb03e839b6f1b3a8b20a2d4bd66147ff9b62f86",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-12T10:14:13Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260712-22796961-jnn-000-1-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Husband of late MAFS coach Mel Schilling marks wedding anniversary with tribute",
-          "description": "The Australian TV star died in March aged 54.",
-          "url": "https://www.irishnews.com/entertainment/husband-of-late-mafs-coach-mel-schilling-marks-wedding-anniversary-with-tribute-7A7FBD3XV5NZXCUOIJ4SFBX3CI/",
+          "title": "Pokémon Go at 10 and the millions still trying to catch 'em all",
+          "description": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
+          "url": "https://www.bbc.com/news/articles/cevlwk4nrm7o",
           "source": {
-            "name": "The Irish News"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-12T18:19:02Z",
-          "image": "https://www.irishnews.com/resizer/v2/HOXDPEPDSJIZZKNSAIUNHXV5CA.jpg?smart=true&auth=9a353028616b0b9f15bd95d073b64192d54b97f54a1386bab44847d65e6b2dd8&width=1200&height=630",
+          "publishedAt": "2026-07-13T00:07:00Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c312/live/88ec5440-7be6-11f1-9010-bd4e2d0a26e0.png",
           "language": "en"
         },
         {
-          "title": "All-Ireland SFC SF: Kerry reach decider",
-          "description": "All-Ireland SFC Semi-Final\nKerry 2-18 Dublin 0-20\nBy Cian O'Connell at Croke Park\nStern questions were posed by Dublin, but Kerry summoned the answers to book a place in the All-Ireland SFC Final.\nGer Brennan's defiant and dynamic team got so much right at GAA headquarters, but Kerry were that",
-          "url": "https://www.gaa.ie/article/all-ireland-sfc-sf-kerry-reach-decider",
+          "title": "Pokémon Go at 10 and the millions still trying to catch 'em all",
+          "description": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
+          "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o",
           "source": {
-            "name": "Gaa.ie"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-12T18:18:29Z",
-          "image": "https://www.gaa.ie/api/images/image/private/t_ratio16_9-size40/prd/jm4w01zbl82grv42pybj",
+          "publishedAt": "2026-07-13T00:07:00Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c312/live/88ec5440-7be6-11f1-9010-bd4e2d0a26e0.png",
           "language": "en"
         },
         {
-          "title": "Brendon McCullum to leave role as England Test coach but continue to lead white-ball sides",
-          "description": "Brendon McCullum gutted to leave Test role; England have lost eight of last 12 Tests, including 4-1 Ashes thrashing and 2-1 defeat to New Zealand; McCullum has just coached England to 4-0 T20I series win over India and top spot in world rankings; England MD Rob Key set to stay on",
-          "url": "https://www.skysports.com/cricket/news/12123/13562770/brendon-mccullum-to-leave-role-as-england-test-coach-but-continue-to-lead-white-ball-sides",
+          "title": "Mayon Volcano sheds pyroclastic density current or 'uson' anew",
+          "description": "Pyroclastic density current known locally as \"uson\" were observed at Mayon Volcano on Monday morning, July 13, 2026, the Philippine Institute of Volcanology and Seismology said.",
+          "url": "https://www.gmanetwork.com/news/topstories/regions/994642/mayon-volcano-sheds-pyroclastic-density-current-or-uson-anew/story/",
           "source": {
-            "name": "Sky Sports"
+            "name": "GMA Network"
           },
-          "publishedAt": "2026-07-12T18:17:53Z",
-          "image": "https://e0.365dm.com/26/06/1600x900/skysports-brendon-mccullum_7285505.jpg?20260629094853",
+          "publishedAt": "2026-07-13T00:06:16Z",
+          "image": "https://images.gmanews.tv/webpics/2026/05/Lava_flow_PDC_Mayon_volcano_2026_05_08_17_47_13.jpg",
           "language": "en"
         },
         {
-          "title": "Alexander Sorloth explains why he didn't pass to Erling Haaland when Norway had golden chance to establish two-goal lead vs England in World Cup quarter-final tie",
-          "description": "Alexander Sorloth has opened up on his failure to deliver a pass to a wide-open Erling Haaland during Norway's heartbreaking World Cup quarter-final defeat to England. Haaland was clearly in a good position to double his team's lead before half-time, but Sorloth opted to go for goal himself, a moment that proved to be a major turning point in the match.",
-          "url": "https://www.goal.com/en/lists/alexander-sorloth-explains-why-didn-t-pass-to-erling-haaland-norway-golden-chance-establish-two-goal-lead-vs-england-world-cup-quarter-final/blt5b4cd1fb7c3c185a",
+          "title": "Splitting Gordie Howe bridge profits with U.S. ‘good deal’ for both countries, minister says",
+          "description": "Business groups say the economic value of the new crossing outweighs Canada’s concession on toll profits",
+          "url": "https://www.theglobeandmail.com/canada/article-gordie-howe-bridge-split-good-deal-both-countries-minister-says/",
           "source": {
-            "name": "Goal.com"
+            "name": "The Globe and Mail"
           },
-          "publishedAt": "2026-07-12T18:17:07Z",
-          "image": "https://assets.goal.com/images/v3/bltb08cc2726cfbcf81/GOAL%20-%20Blank%20WEB%20-%20Facebook%20-%202026-07-12T190655.628.jpg",
+          "publishedAt": "2026-07-13T00:06:07Z",
+          "image": "https://www.theglobeandmail.com/resizer/v2/Q5573F4YRVEW5O7MD4LYZBJJAY.JPG?auth=c384737ef49f29e176470a25b5883b1465c72e0405b456f8200256a8dbaa204f&width=1200&height=800&quality=80&smart=true",
           "language": "en"
         },
         {
-          "title": "If Hanson fades, this four-week stretch will be remembered for the mistakes that brought her down",
-          "description": "Hardline comments on childcare, abortion and wages are still reverberating online and in community forums, according to major party hardheads tracking public sentiment.",
-          "url": "https://www.theage.com.au/politics/federal/if-hanson-fades-this-four-week-stretch-will-be-remembered-for-the-mistakes-that-brought-her-down-20260712-p60ema.html",
+          "title": "What we know about South Africa soccer player Jayden Adams' death",
+          "description": "Police are opening an investigation after finding 25-year-old South Africa midfielder Jayden Adams' body in a house in central Cape Town.",
+          "url": "https://ca.sports.yahoo.com/news/know-south-africa-soccer-player-000635226.html",
           "source": {
-            "name": "The Age"
+            "name": "Yahoo Sports Canada"
           },
-          "publishedAt": "2026-07-12T18:17:00Z",
-          "image": "https://static.ffx.io/images/$zoom_0.2536%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_45/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/4e088788b7411b91770cfda6ddcdd00c47c6f275",
+          "publishedAt": "2026-07-13T00:06:00Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/X9Jt.N8XrZRpcEeVKgApXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xODAwO2NmPXdlYnA-/https://media.zenfs.com/en/usa_today_sports_articles_558/ca0da4541477d165b8b418e536e383bd",
           "language": "en"
         },
         {
-          "title": "Alexander Sorloth explains why he didn't pass to Erling Haaland when Norway had golden chance to establish two-goal lead vs England in World Cup quarter-final tie",
-          "description": "Alexander Sorloth has opened up on his failure to deliver a pass to a wide-open Erling Haaland during Norway's heartbreaking World Cup quarter-final defeat to England. Haaland was clearly in a good position to double his team's lead before half-time, but Sorloth opted to go for goal himself, a moment that proved to be a major turning point in the match.",
-          "url": "https://www.goal.com/en-sg/lists/alexander-sorloth-explains-why-didn-t-pass-to-erling-haaland-norway-golden-chance-establish-two-goal-lead-vs-england-world-cup-quarter-final/blt5b4cd1fb7c3c185a",
+          "title": "South Africa's Jayden Adams died at age 25. Here's what we know",
+          "description": "Police are opening an investigation after finding 25-year-old South Africa midfielder Jayden Adams' body in a house in central Cape Town.",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/12/jayden-adams-south-africa-cause-of-death-world-cup/90896028007/",
           "source": {
-            "name": "Goal.com"
+            "name": "USA Today"
           },
-          "publishedAt": "2026-07-12T18:16:13Z",
-          "image": "https://assets.goal.com/images/v3/bltb08cc2726cfbcf81/GOAL%20-%20Blank%20WEB%20-%20Facebook%20-%202026-07-12T190655.628.jpg",
+          "publishedAt": "2026-07-13T00:06:00Z",
+          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/12/USAT/90896211007-20260526-t-204322-z-1060205917-rc-2-tfka-19-kn-6-rtrmadp-3-soccerinternationalmen.JPG?crop=1999,1125,x0,y937&width=1999&height=1125&format=pjpg&auto=webp",
           "language": "en"
         },
         {
-          "title": "OCR warning: Why homeowners should prepare for two more rate rises this year",
-          "description": "The Reserve Bank has lifted the cash rate for the first time in three years., All things property, under OneRoof",
-          "url": "https://www.oneroof.co.nz/news/ocr-warning-why-homeowners-should-prepare-for-two-more-rate-rises-this-year-49858",
+          "title": "The Chinese graduate accused of becoming Mexico's 'fentanyl king'",
+          "description": "Cartel members and ex-colleagues describe how Zhang Zhidong allegedly linked Chinese chemicals to Mexican drug labs.",
+          "url": "https://www.bbc.com/news/articles/c39ymggglxeo",
           "source": {
-            "name": "OneRoof"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-12T18:15:26Z",
-          "image": "https://s.oneroof.co.nz/image/83/38/8338fb414b5dae8c1cea1f3fd6811471.jpg?x-oss-process=image/quality,q_80",
+          "publishedAt": "2026-07-13T00:05:46Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4005/live/916366b0-7b8a-11f1-bee8-53ce494e1abc.jpg",
           "language": "en"
         },
         {
-          "title": "Canada's Dabrowski finishes as Wimbledon women's doubles runner-up for 3rd time",
-          "description": "Kristina Mladenovic won a seventh career Grand Slam women's doubles title by teaming up with Guo Hanyu to defeat Canada's Gabriela Dabrowski and Luisa Stefani 6-3, 7-5 in the Wimbledon final Sunday.",
-          "url": "https://www.cbc.ca/sports/tennis/wimbledon-recap-july-12-9.7267341",
+          "title": "what's your superpower? – Proctor",
+          "description": "Neurodivergence does not mean being less capable. It simply means taking a different path to reach the same outcome, writes Senior Associate Libby Thomas.",
+          "url": "https://www.qlsproctor.com.au/2026/07/i-have-adhd-whats-your-superpower/",
           "source": {
-            "name": "CBC"
+            "name": "qlsproctor.com.au"
           },
-          "publishedAt": "2026-07-12T18:15:01Z",
-          "image": "https://i.cbc.ca/ais/f2d1f524-1a01-47d3-af85-63318b2bef97,1783874975913/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C153%2C7636%2C4295%29%3BResize%3D620",
+          "publishedAt": "2026-07-13T00:03:38Z",
+          "image": "https://www.qlsproctor.com.au/wp-content/uploads/2026/07/img20260626_Proctor_CATEGORY-0022_SML.jpg",
           "language": "en"
         },
         {
-          "title": "Cricket: 'Of course I'm gutted' - Brendon McCullum sacked as England test coach",
-          "description": "Brendon McCullum has left his role as England's test head coach but will remain in charge of the national white-ball set-up, the England and Wales Cricket Board says.",
-          "url": "https://www.rnz.co.nz/news/sport/706859/cricket-of-course-i-m-gutted-brendon-mccullum-sacked-as-england-test-coach",
+          "title": "Chinese Spacecraft Approaches Mysterious Object Near Earth",
+          "description": "It's the \"smallest object that humans have visited with a spacecraft.\"",
+          "url": "https://nz.news.yahoo.com/chinese-spacecraft-approaches-mysterious-object-000300529.html",
           "source": {
-            "name": "RNZ"
+            "name": "Yahoo News New Zealand"
           },
-          "publishedAt": "2026-07-12T18:11:58Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--4-kBWKUG--/t_tohu-badge-facebook/f_auto/q_auto/4JYMH62_251101BlackcapsENG3rdODI_014_JPG_1",
+          "publishedAt": "2026-07-13T00:03:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/7cf2bf37fd2b7216b5ed1c4662aa60d1a8dad868fdb2a12e26e0bfc3379d830c/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffuturism_981%2F9e0b320fcbe9cd17eafaa97fed7e90db",
           "language": "en"
         },
         {
-          "title": "Evacuation alert for East Kootenay wildfire, Brunswick Creek fire grows: officials",
-          "description": "The BC Wildfire Service is issuing a call for compliance, as two out-of-control wildfires continue to burn in the Fraser Canyon.",
-          "url": "https://globalnews.ca/news/11962789/b-c-wildfire-service-calls-for-compliance-amid-reports-of-speeding-and-drone-flights/",
+          "title": "U.S extends work authorization for Somali TPS holders under court order",
+          "description": "Washington (HOL) — US Citizenship and Immigration Services (USCIS) has updated guidance on work authorization for citizens of countries under Temporary Protected Status (TPS) whose cases remain tied to litigation over planned terminations of the program.",
+          "url": "https://www.hiiraan.com/news4/2026/Jul/205665/us_extends_work_authorization_for_somali_tps_holders_under_court_order.aspx",
           "source": {
-            "name": "Global News"
+            "name": "Hiiraan Online"
           },
-          "publishedAt": "2026-07-12T18:11:12Z",
-          "image": "https://globalnews.ca/wp-content/uploads/2026/07/890458592cf22f9f3854a2f6c040dc76d97f65636c411bfeb6e47e793506cec4_1637ec.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+          "publishedAt": "2026-07-13T00:02:42Z",
+          "image": "https://www.hiiraan.com/uploads/2026/07/17838341341783772730d7362a90-f095-11f0-95e0-85a8cfcc8ed7.jpg",
           "language": "en"
         }
       ]
