@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-13T17:12:47.126Z",
+  "updatedAt": "2026-07-13T19:24:07.360Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【導入事例】エヌアセット、『Re:lation』のAI活用でメール作成時間を50%削減！",
+          "description": "株式会社インゲージのプレスリリース（2026年7月13日 16時15分）【導入事例】エヌアセット、『Re:lation』のAI活用でメール作成時間を50%削減！",
+          "url": "https://prtimes.jp/main/html/rd/p/000000321.000029485.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-07-13T07:15:25Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/29485/321/29485-321-5032e1baaffbc527ed44ad32cce355d8-1600x900.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "「マイナビオールスターゲーム２０２６」監督選抜選手を発表 井上温大＆田中瑛斗＆浦田俊輔の巨人フレッシュトリオ、阪神・ドリス、西武・岩城颯空、楽天・藤平尚真らが初選出",
+          "description": "「マイナビオールスターゲーム２０２６」（２８日・東京ドーム、２９日・富山）の監督選抜選手が１３日、発表された。セ・リーグは阪神・藤川球児監督、パ・リーグはソフトバンク・小久保裕紀監督が指揮を執る。",
+          "url": "https://hochi.news/articles/20260713-OHT1T51086.html",
+          "source": {
+            "name": "スポーツ報知"
+          },
+          "publishedAt": "2026-07-13T07:00:00Z",
+          "image": "https://hochi.news/images/2026/07/13/20260713-OHT1I51149-C.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "期待の塔昇りバトロワ『アーケロン』、CBTで新実装の「ラーニングスパイアーズ」＆「スパイアーズ」の詳細お披露目。初心者も安心、“戦闘民族”一直線モード",
+          "description": "『アーケロン（Arkheron）』に実装される「ラーニングスパイアーズ」および「スパイアーズ」の詳細が改めて解説されている。",
+          "url": "https://automaton-media.com/articles/newsjp/20260713-454710/",
+          "source": {
+            "name": "AUTOMATON"
+          },
+          "publishedAt": "2026-07-13T06:47:33Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260713-454710-header.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "渡部建、鬼越・良ちゃんとの騒動を激白 事務所から声明出した理由も明かす「あれが事実のようになっていた」",
+          "description": "ニュース｜　お笑いコンビ・アンジャッシュの渡部建が、13日放送のニッポン放送『ナイツ　ザ・ラジオショー』（後1：00）にゲスト出演。鬼越トマホーク・良ちゃんとの騒動について語った。　ナイツの塙宣之から「Xを見ていたら（渡部が）『大変お騒がせしています』みたいに書いていましたけど、あれもう6年前の出来事」と振られると、渡部が「違うよ！最近のやつがあるんだよ（笑）。まだ5日しか経ってないやつがあるんだよ。だから、申し訳ないよ。そのために出たみたいになっちゃった。ライブのお知らせで出してくれると、ありがたい話だったけど、そういうのが起きて。おかげでチケットが全部売れちゃったよ」と笑わせた。",
+          "url": "https://www.oricon.co.jp/news/2467440/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-07-13T06:00:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2468000/2467440/20260207_142614_p_o_87036300.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "時代を超える自作PCパーツが続々！ 復刻デザインのマザーボードから「ひもつき君」風リモコンまで、秋葉原レトロブーム最前線：古田雄介の「アキバPickUP！」（1/4 ページ）",
+          "description": "ROGブランド20周年を記念したマザーボード「ROG CROSSHAIR 2006」や、レトロデザインのPCケース「FLP03」「Retro TG」、さらには「ひもつき君」をほうふつとさせる電源延長コードまで、直近の新製品は時代を股に掛けている感じがすごい。 (1/4)",
+          "url": "https://www.itmedia.co.jp/pcuser/articles/2607/13/news085.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-07-13T06:00:00Z",
+          "image": "https://image.itmedia.co.jp/pcuser/articles/2607/13/cover_news085.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "CBTまであと3日！ 「アーケロン」ラーニングスパイアーズやスパイアーズの詳細公開",
+          "description": "DRIMAGEおよびDRIMAGE JAPANは、PC用次世代チームベースPvPゲーム「アーケロン（Arkheron）」について、新コンテンツなどのゲーム情報を公開した。",
+          "url": "https://game.watch.impress.co.jp/docs/news/2124671.html",
+          "source": {
+            "name": "GAME Watch"
+          },
+          "publishedAt": "2026-07-13T05:48:16Z",
+          "image": "https://game.watch.impress.co.jp/img/gmw/list/2124/671/006.jpg",
+          "language": "ja"
+        },
         {
           "title": "日経平均は１６５０円程度安、売買代金はキオクシア、太陽誘電、村田製が上位 速報",
           "description": "１３日午後２時７分すぎの日経平均株価は、前週末比１６５０円程度安い６万６９１０円付近で推移する。後場も売り優勢で取引を開始。軟調な展開が続き、午後１時５２分には同１６９４円３５銭安の６万６８６３円３・・・",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-07-13T03:15:00Z",
           "image": "https://image.itmedia.co.jp/pcuser/articles/2607/13/cover_news072.jpg",
           "language": "ja"
-        },
-        {
-          "title": "永井花奈が9年ぶりV！大会新記録で涙の復活優勝を飾った「ミネベアミツミレディス」激闘の4日間を振り返る【国内女子ツアー】 (1/2)",
-          "description": "女子ゴルフの今季国内ツアー第18戦「ミネベアミツミレディス北海道新聞カップ」（7月9～12日、北海道・真駒内CC空沼C＝6700ヤード、パー72）は、永井花奈の約9年ぶりとなる通算2勝目で幕を閉じた。最終日は単独首位から出て4バーディ、1ボギーの3アンダー69で回り、大会レコードの通算19アンダーで逃げ切った。雨模様の中で永井、初優勝を目指して大会をけん引した仲宗根澄香、ホステスプロ＆地元優勝を狙った阿部未悠らが熱戦を繰り広げた4日間を振り返る。",
-          "url": "https://www.golfdigest-minna.jp/_ct/17852094",
-          "source": {
-            "name": "golfdigest-minna.jp"
-          },
-          "publishedAt": "2026-07-13T03:00:00Z",
-          "image": "https://d1uzk9o9cg136f.cloudfront.net/f/16782728/rc/2026/07/13/18e08f7973994730e5615d204ed5efa53a2ef794_xlarge.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "餃子18個390円！『大阪ふくちぁんラーメン』工場直売でボリューム満点・格安中華定食を作ってみた!!",
-          "description": "コロナ禍をきっかけに一気に全国へ広まったのが、冷凍餃子の無人販売。その中でも、関西を中心に見かけるのが『大阪ふくちぁん餃子』だ。 無人販売での価格は、36個入り …",
-          "url": "https://rocketnews24.com/2026/07/13/2778948/",
-          "source": {
-            "name": "ロケットニュース24"
-          },
-          "publishedAt": "2026-07-13T02:55:14Z",
-          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/fukuchan-gyoza022.jpg?w=1200&h=630&crop=1",
-          "language": "ja"
-        },
-        {
-          "title": "県議会の“カツアゲ疑惑”に新たな証言 「計825万円支払った」元副議長 民主系会派も「自民重鎮に現金500万円渡した」 【福岡発】",
-          "description": "福岡県議会の県議2人が証言した正･副議長ポストを巡る金銭授受疑惑。副議長を経験した県議が自民の幹部らに合わせて825万円を支払ったことを明らかにした。また新たに2人が、自民幹部に金銭を渡したと証言。",
-          "url": "https://news.yahoo.co.jp/articles/40e4ff03bdbf1ac5cbfabe5137ce45ff44752979",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-13T02:28:18Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260713-01174116-fnnprimev-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "全東信への金融債権、3分の1が朝鮮半島系機関 韓国メディアは在日自営業者への影響懸念",
-          "description": "破産手続き開始決定を受けたクレジットカード決済代行会社、全東信（大阪市）が大阪地裁に提出した破産申立書で、金融債権額1130億円のうち、3分の1以上の388億円が在日韓国・朝鮮人系信用組合や韓国の銀行だったことが分かった。在日韓国人系は5…",
-          "url": "https://www.sankei.com/article/20260713-57XF6D2X2NDXFPKCOMQCKYSH3Q/",
-          "source": {
-            "name": "産経ニュース"
-          },
-          "publishedAt": "2026-07-13T02:19:28Z",
-          "image": "https://www.sankei.com/resizer/v2/ACI4WJU4Q5PKRJJDTVE64Y5NJQ.jpg?auth=a2668a574c490b30df407d0271aeb1ecc9f143245da904cc1f113c54893b8ab8&quality=50&focal=1777%2C940&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "【女子バレーNL】予選R決着 日本が涙の大逆転劇で決勝R切符獲得！ 敗れたポーランドが敗退",
-          "description": "【女子バレーNL】予選R決着　日本が涙の大逆転劇で決勝R切符獲得！　敗れたポーランドが敗退（日テレNEWS NNN）◇バレーボールネーションズリーグ2026 予選ラウンド第3週(7月8日〜12日)女子ネーションズリーグ(NL)は第3週が12日に各地で行われ…",
-          "url": "https://topics.smt.docomo.ne.jp/article/ntv_news24/sports/ntv_news24-2026071302592858?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-07-13T02:04:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/ntv_news24/m_ntv_news24-2026071302592858.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「水上バイク 転覆事故」丸1日経過したが、17歳女性 未だに行方不明、 落水後 波消しブロックに つかまっていたが 女性だけ 姿が見えなくなってしまった",
-          "description": "昨日、午前10時半ごろ、千葉県いすみ市岬町の夷隅（いすみ）川河口付近で、「3人が乗った 水上バイクが転覆し、1人が行方不明」と119番があった。\n警察と消防に話を聞くと、12日 午前10時半ごろ、",
-          "url": "https://news.yahoo.co.jp/articles/9dc637125243008383943a33ed937f454851b907",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-13T00:39:41Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260713-00010000-wjsm-000-6-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Changes to Coventry and Warwickshire ME services concern charity",
-          "description": "The charity says up to 6,000 people in the county could be affected by changes to ME services.",
-          "url": "https://www.bbc.co.uk/news/articles/c8r2ngd6mp0o",
+          "title": "Instagram Parental Controls: What Teens Hide Online",
+          "description": "Learn what your teen may be hiding on Instagram and how a private Instagram account viewer helps parents stay informed and keep kids safer online.",
+          "url": "https://www.tech-critter.com/instagram-parental-controls-what-teens-hide-online/",
+          "source": {
+            "name": "Tech Critter"
+          },
+          "publishedAt": "2026-07-13T07:23:42Z",
+          "image": "https://www.tech-critter.com/wp-content/uploads/2026/07/pexels-photo-15189496.webp",
+          "language": "en"
+        },
+        {
+          "title": "SK Hynix Posts Record Slump After US Debut Euphoria",
+          "description": "SK Hynix's US listing became the biggest foreign stock offering in US history, surpassing Alibaba's $25 billion IPO more than a decade ago.",
+          "url": "https://www.businessinsider.com/sk-hynix-stock-kospi-price-skhy-adr-samsung-korea-markets-2026-7",
+          "source": {
+            "name": "Business Insider"
+          },
+          "publishedAt": "2026-07-13T07:23:31Z",
+          "image": "https://i.insider.com/6a544e30daf4d560957bff61?width=1200&format=jpeg",
+          "language": "en"
+        },
+        {
+          "title": "Sam Neill: 'Jurassic Park' star dies at 78",
+          "description": "New Zealand actor Sam Neill has passed away at the age of 78, as announced by his family on Monday morning.",
+          "url": "https://thesun.ng/sam-neill-jurassic-park-star-dies-at-78/",
+          "source": {
+            "name": "The Sun Nigeria"
+          },
+          "publishedAt": "2026-07-13T07:22:48Z",
+          "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/07/0070560BD0FE2334988BBFACC71E01E3_low.webp",
+          "language": "en"
+        },
+        {
+          "title": "Children lead tributes to the late medical researcher at Sydney Opera House",
+          "description": "There were many warm-hearted moments as well as tears during the state memorial service for the former Australian of the Year.",
+          "url": "https://www.smh.com.au/lifestyle/health-and-wellness/we-treasure-every-moment-richard-scolyer-s-children-shine-on-a-difficult-emotional-day-20260713-p60erm.html",
+          "source": {
+            "name": "SMH.com.au"
+          },
+          "publishedAt": "2026-07-13T07:21:50Z",
+          "image": "https://static.ffx.io/images/$zoom_0.49187141482517016%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_38%2C$y_72/t_crop_custom/q_86%2Cf_auto/0ca9354968c89884d2c7eefa5af336776001ea03",
+          "language": "en"
+        },
+        {
+          "title": "African Wealth Briefing - Mon., July 13, 2026",
+          "description": "Aliko Dangote's refinery ambitions draw a $100 million suitor as his empire keeps expanding. And a widening accountability beat closes in on fortunes from Accra to Nairobi.",
+          "url": "https://www.billionaires.africa/2026/07/13/african-wealth-briefing-mon-july-13-2026/",
+          "source": {
+            "name": "Billionaires.Africa"
+          },
+          "publishedAt": "2026-07-13T07:21:46Z",
+          "image": "https://storage.ghost.io/c/08/35/0835e1b0-0cd7-4c1a-8c28-d6f7bc4d9c84/content/images/2026/07/July-13.png",
+          "language": "en"
+        },
+        {
+          "title": "Malaysia’s former minister Syed Saddiq walks free as prosecution loses appeal on graft charges",
+          "description": "Hours after the court hearing, former youth and sports minister Syed Saddiq Abdul Rahman was spotted entering Malaysia’s parliament that was in session in Kuala Lumpur.",
+          "url": "https://www.channelnewsasia.com/asia/malaysia-syed-saddiq-walks-free-federal-court-money-laundering-6250501",
+          "source": {
+            "name": "CNA"
+          },
+          "publishedAt": "2026-07-13T07:21:30Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--dUNphHk---/c_crop,h_559,w_995,x_1,y_1/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/13/img_1105.jpg?itok=BrhLu9LP",
+          "language": "en"
+        },
+        {
+          "title": "Age eligibility for Community Care Apartments to be lowered from 65 to 55, fees to be reduced",
+          "description": "Monthly service fees for Community Care Apartments will be cut by between 18 per cent and 75 per cent.",
+          "url": "https://www.channelnewsasia.com/singapore/community-care-apartments-age-eligibility-lowered-down-6250486",
+          "source": {
+            "name": "CNA"
+          },
+          "publishedAt": "2026-07-13T07:21:00Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--n5sXslYy--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2025/08/21/twl_0484.jpg?itok=K0C9J6Pf",
+          "language": "en"
+        },
+        {
+          "title": "Ayodhya Ram Mandir Donation Theft : Supreme Court Issues Notice To Union, UP & Temple Trust On Pleas Seeking CBI Probe",
+          "description": "The Supreme Court on Monday issued notice to the Union and the Uttar Pradesh Governments on a bunch of petitions seeking an investigation by the Central Bureau of Investigation into the allegations of...",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-ayodhya-ram-mandir-trust-donation-theft-plea-for-court-monitored-cbi-probe-540931",
+          "source": {
+            "name": "Live Law"
+          },
+          "publishedAt": "2026-07-13T07:20:58Z",
+          "image": "https://www.livelaw.in/h-upload/2026/07/10/685650-ayodhya-ram-mandir-and-sc-03.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Homes evacuated as huge fire rages in Fontainebleau forest near Paris",
+          "description": "Around 15 homes had been evacuated in the nearby village of Vaudoue and firefighters were defending several other towns in the area.",
+          "url": "https://www.thejournal.ie/huge-fire-rages-in-fontainebleau-forest-near-paris-7099842-Jul2026/",
+          "source": {
+            "name": "The Journal"
+          },
+          "publishedAt": "2026-07-13T07:20:00Z",
+          "image": "https://img2.thejournal.ie/article/7099842/river/?height=400&version=7099845",
+          "language": "en"
+        },
+        {
+          "title": "Sam Neill, Jurassic Park and Peaky Blinders actor, dies aged 78",
+          "description": "The New Zealand actor, who was born in Northern Ireland, died in Sydney. He had recovered from cancer and \"the loss was sudden and unexpected\", his family says.",
+          "url": "https://www.bbc.co.uk/news/live/crl1gk55rzet",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-07-13T05:12:37Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac0a/live/5fa9f690-7a07-11f1-9510-1546718f668b.jpg",
-          "language": "en"
-        },
-        {
-          "title": "KIS lowers SK Hynix's Q2 earnings forecast; shares fall 12%",
-          "description": "Original author: Long YueSource: Wall Street JournalOn July 13, South Korean local brokerage KIS released a forecast report for SK Hynix's second-quarter perfor",
-          "url": "https://www.kucoin.com/news/flash/kis-downgrades-sk-hynix-q2-earnings-forecast-shares-drop-12",
-          "source": {
-            "name": "KuCoin"
-          },
-          "publishedAt": "2026-07-13T05:11:34Z",
-          "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Plantations surge on Bursa Malaysia as CPO price jumps",
-          "description": "KUALA LUMPUR: The FBM KLCI was pulled higher by plantation stocks in the early session, even as most of the Asian region was brought lower by a spike in crude oil prices that revived fresh inflation fears.",
-          "url": "https://www.thestar.com.my/business/business-news/2026/07/13/plantations-surge-on-bursa-malaysia-as-cpo-price-jumps",
-          "source": {
-            "name": "The Star"
-          },
-          "publishedAt": "2026-07-13T05:11:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/07/13/4007416.png",
-          "language": "en"
-        },
-        {
-          "title": "Hubble finds unexpected ultraviolet light from an ancient galaxy",
-          "description": "Astronomers used Hubble to detect ultraviolet light from a galaxy just 1.4 billion years after the Big Bang, challenging long-held theories.",
-          "url": "https://www.earth.com/news/hubble-finds-unexpected-light-from-one-of-the-universes-earliest-galaxies/",
-          "source": {
-            "name": "Earth.com"
-          },
-          "publishedAt": "2026-07-13T05:10:00Z",
-          "image": "https://cff2.earth.com/uploads/2026/07/12225956/Galaxy-MXDFz4.4_nasa_1m.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Badrinath donation theft case: Temple employee Pramod Nautiyal arrested",
-          "description": "India News: NEW DELHI: Uttarakhand Police has arrested suspended Badrinath-Kedarnath Temple Committee (BKTC) employee Pramod Nautiyal in connection with the alleg.",
-          "url": "https://timesofindia.indiatimes.com/india/badrinath-donation-theft-case-temple-employee-pramod-nautiyal-arrested/articleshow/132357089.cms",
-          "source": {
-            "name": "The Times of India"
-          },
-          "publishedAt": "2026-07-13T05:10:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-132357147,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-          "language": "en"
-        },
-        {
-          "title": "July 12, 2026",
-          "description": "The United States is currently in the grip of an outbreak of the Cyclospora parasite, which causes severe diarrhea and has sickened more than 3,000 people across the U.S.",
-          "url": "https://heathercoxrichardson.substack.com/p/july-12-2026",
-          "source": {
-            "name": "Letters from an American | Heather Cox Richardson"
-          },
-          "publishedAt": "2026-07-13T05:09:46Z",
-          "image": "https://substackcdn.com/image/fetch/$s_!2MHE!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fheathercoxrichardson.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D489714354%26version%3D9",
-          "language": "en"
-        },
-        {
-          "title": "Stunning toll of Souths rookie’s gruesome injury revealed; big Broncos boost — NRL Team Tips",
-          "description": "Stunning toll of Souths rookie’s gruesome injury; big Broncos boost — NRL Team Tips",
-          "url": "https://www.foxsports.com.au/nrl/nrl-premiership/nrl-2026-round-20-team-tips-team-lists-ins-and-outs-injuries-suspensions/news-story/fe5abf7127ea0fc857954cfefff8d7b9",
-          "source": {
-            "name": "Fox Sports"
-          },
-          "publishedAt": "2026-07-13T05:09:27Z",
-          "image": "https://content.api.news/v3/images/bin/ccd2fce9b50df67939bab0a779461000",
-          "language": "en"
-        },
-        {
-          "title": "Suvendu Adhikari backs curbs on Kolkata airport mosque entry, cites security concerns",
-          "description": "Suvendu Adhikari defends restrictions on mosque access at Kolkata airport, emphasizing national security amid rising concerns.",
-          "url": "https://www.thehindu.com/news/national/west-bengal/suvendu-adhikari-backs-curbs-on-kolkata-airport-mosque-entry-cites-security-concerns/article71215981.ece",
-          "source": {
-            "name": "The Hindu"
-          },
-          "publishedAt": "2026-07-13T05:09:23Z",
-          "image": "https://th-i.thgim.com/public/incoming/f9xgp3/article71215984.ece/alternates/LANDSCAPE_1200/Suvendu_GH4G897H3.1GEUG89BLM.3.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Inquest hears emergency medical technician wouldn't handle fatal birth any differently",
-          "description": "An emergency medical technician has told an inquest even with the benefit of hindsight, she wouldn't have handled a birth where a 33-year-old woman later died any differently.",
-          "url": "https://www.rnz.co.nz/news/health/708172/inquest-hears-emergency-medical-technician-wouldn-t-handle-fatal-birth-any-differently",
-          "source": {
-            "name": "RNZ"
-          },
-          "publishedAt": "2026-07-13T05:09:23Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--vSj402Tr--/t_tohu-badge-facebook/f_auto/q_auto/4L2ZWQ5_birth_acc_jpg",
-          "language": "en"
-        },
-        {
-          "title": "grown electric vehicle battery in July — report",
-          "description": "Malaysia plans to start small-scale production of home-grown batteries for electric vehicles this month, Nikkei Asia reported on Monday.",
-          "url": "https://theedgemalaysia.com/node/810403",
-          "source": {
-            "name": "theedgemalaysia.com"
-          },
-          "publishedAt": "2026-07-13T05:08:58Z",
-          "image": "https://assets.theedgemarkets.com/ELECTRIC VEHICLE EV CALIFORNIA US_Bloomberg (confirmed)_0.jpg",
+          "publishedAt": "2026-07-13T07:19:12Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6bff/live/51246790-7e80-11f1-bbf9-c34ca6867eac.jpg",
           "language": "en"
         }
       ]
