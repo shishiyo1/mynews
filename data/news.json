@@ -1,10 +1,21 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-14T05:31:56.364Z",
+  "updatedAt": "2026-07-14T08:07:04.647Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "米共和党・外交タカ派が大幅減へ グラム氏が死去、引退も続々",
+          "description": "【ワシントン=飛田臨太郎】米与党・共和党からロシアや中国、イランに強硬な立場をとる外交政策「タカ派」で知られる重鎮議員が相次ぎ政界を去る。代表格だったリンゼー・グラム上院議員が11日に急死した。さらに11月の中間選挙に出馬せず、2027年1月に引退する議員が続出する。南部サウスカロライナ州選出のグラム氏はウクライナやイスラエルの強力な支持者として知られ、イランに対しては厳しい姿勢をとった。",
+          "url": "https://www.nikkei.com/article/DGXZQOGN13AQ80T10C26A7000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-07-13T20:05:29Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3305006013072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.74&fp-y=0.42&h=630&w=1200&s=d5bbb84113adddc0afdb1b43652822b2",
+          "language": "ja"
+        },
         {
           "title": "『ドラゴンズドグマ 2：ダークアリズン』「信じているぞ」ユーザーの声が開発を動かした。追加ストーリーだけで約20時間のボリューム。本編をやり尽くした覚者もしっかり楽しめる【インタビュー】",
           "description": "『ドラゴンズドグマ 2：ダークアリズン』インタビュー。追加ストーリーだけで約20時間のボリューム。大型アップデート立ち上げのきっかけについて訊いた。",
@@ -103,128 +114,117 @@
           "publishedAt": "2026-07-13T09:55:00Z",
           "image": "https://www.fashion-press.net/img/news/148602/top.jpg?1783931070",
           "language": "ja"
-        },
-        {
-          "title": "ASCII.jp：CBTまであと3日！『アーケロン（Arkheron）』のラーニングスパイアーズやスパイアーズの詳細を紹介",
-          "description": "ASCII.jp － ゲーム",
-          "url": "https://ascii.jp/elem/000/004/419/4419264/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-07-13T09:50:00Z",
-          "image": "https://ascii.jp/img/2026/07/13/4499944/xl/ecb4a0024c420957.jpg?20200122",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-          "description": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
-          "url": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo",
+          "title": "Al Pacino to head film festival jury at his acting guru's institute",
+          "description": "Al Pacino has strong ties with legendary acting coach Lee Strasberg; he was trained under his tutelage.Now, the critically acclaimed actor is set to take part as the lead juror on the 10th Lee...",
+          "url": "https://www.thenews.com.pk/latest/1409027-al-pacino-heads-to-lead-the-film-festival-jury-as-his-acting-guru",
           "source": {
-            "name": "BBC"
+            "name": "The News International"
           },
-          "publishedAt": "2026-07-13T17:31:54Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/814f/live/dbfc97c0-7ee9-11f1-926f-c90d1bcfbc84.jpg",
+          "publishedAt": "2026-07-13T20:07:00Z",
+          "image": "https://www.thenews.com.pk/assets/uploads/2026-07-14/1409027_010712_updates.jpg",
           "language": "en"
         },
         {
-          "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-          "description": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
-          "url": "https://www.bbc.com/news/articles/cp9ld3p324jo",
+          "title": "Four more charged over alleged kidnapping and murder of Chris Baghsarian in Sydney",
+          "description": "A man accused of coordinating the alleged murder and kidnapping of Sydney grandfather Chris Baghsarian has been charged.",
+          "url": "https://www.abc.net.au/news/2026-07-14/four-more-charged-alleged-kidnapping-murder-chris-baghsarian/106911796",
           "source": {
-            "name": "BBC"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-07-13T17:31:54Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/814f/live/dbfc97c0-7ee9-11f1-926f-c90d1bcfbc84.jpg",
+          "publishedAt": "2026-07-13T20:06:05Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/879b9fc6462a0ea0de118e745a6e79d3?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=86&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Alejandro Garnacho transfer plan confirmed as forgotten star gets Chelsea lifeline",
-          "description": "New Chelsea boss Xabi Alonso has discussed Alejandro Garnacho's future after taking charge of the Blues' squad last week and provided an update on the futures of other members of his team",
-          "url": "https://www.football.london/chelsea-fc/transfer-news/chelsea-transfer-news-alejandro-garnacho-34283925",
+          "title": "‘Heir to Messi and Maradona’: Spain’s Lamine Yamal ready to break French hearts again",
+          "description": "Winger’s talent has potential to advance perceived limits of football itself, it seems",
+          "url": "https://www.irishtimes.com/sport/soccer/2026/07/13/heir-to-messi-and-maradona-spains-lamine-yamal-ready-to-break-french-hearts-again/",
           "source": {
-            "name": "Football London"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-07-13T17:31:52Z",
-          "image": "https://i2-prod.football.london/article34283868.ece/ALTERNATES/s1200d/0_Xabi-Alonso.jpg",
+          "publishedAt": "2026-07-13T20:04:53Z",
+          "image": "https://www.irishtimes.com/resizer/v2/SZE76IYI4CGQ6FPPHO4EBCWRJQ.jpg?smart=true&auth=73c5f533ed8011ed99bd5811802349b42e37e0c0124c8d2da4f601fea7eaf47c&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Neither France nor Spain has trailed at this year's World Cup, but only one can reach the final",
-          "description": "Kylian Mbappé and France haven’t trailed at all at this year’s World Cup. Neither has Spain with teenage sensation Lamine Yamal and clutch goal-scoring substitute Mikel Merino. Only one of those teams can make it to the final.",
-          "url": "https://www.tsn.ca/soccer/fifa-world-cup/article/neither-france-nor-spain-has-trailed-at-this-years-world-cup-but-only-one-can-reach-the-final/",
+          "title": "Junior Bok resilience and leadership key factors in win over England",
+          "description": "The Junior Springboks will contest a second consecutive Junior World Championship final after overcoming a spirited England side in a hard-fought semifinal in Tbilisi on Tuesday evening.",
+          "url": "https://supersport.com/rugby/news/3341e308-8460-473f-9177-f5bf57356086/junior-bok-resilience-and-leadership-key-factors-in-win-over-england",
           "source": {
-            "name": "TSN"
+            "name": "supersport.com"
           },
-          "publishedAt": "2026-07-13T17:31:35Z",
-          "image": "https://www.tsn.ca/resizer/v2/JCT6D3X6IBCRLKWLHIDYSKT65Q.jpg?smart=true&auth=5c720be768270e762fec4541223f6673464621c1a7a4332e68ce6abe6bd5dd96&width=1200&height=630",
+          "publishedAt": "2026-07-13T20:04:32Z",
+          "image": "https://images.supersport.com/media/5zijtu2z/sa-u20-semifinal-xsarugby1920.jpg",
           "language": "en"
         },
         {
-          "title": "Dutch referee dead at 38 after being cut from World Cup",
-          "description": "Rob Dieperink has died aged 38 shortly after being removed from the World Cup officiating list following a police investigation in London.",
-          "url": "https://www.goal.com/en-ng/lists/dutch-referee-dead-38-after-world-cup-cut/blt2b7b7ca0510da904",
+          "title": "Can your smartwatch predict a fall? New research points to early warning signs",
+          "description": "Smartwatches and smartphones may help identify early changes in walking patterns linked to fall risk among older adults; Research suggests the technology can track functional decline and support earlier intervention, though it does not replace medical evaluation",
+          "url": "https://www.ynetnews.com/health_science/article/byo5i5m4ml",
           "source": {
-            "name": "Goal.com"
+            "name": "Ynetnews"
           },
-          "publishedAt": "2026-07-13T17:31:04Z",
-          "image": "https://assets.goal.com/images/v3/getty-1250933489/crop/MM5DEMJRGI5DCMJYHA5G433XMU5DCMZSHIYTENY=/GettyImages-1250933489.jpg",
+          "publishedAt": "2026-07-13T20:04:02Z",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/09/BJeIAjRh7Ge/BJeIAjRh7Ge_51_0_922_519_0_large.jpg",
           "language": "en"
         },
         {
-          "title": "'Deeply concerning and unfortunate' - Bankers Association condemns Okaikwei North MP's conduct",
-          "description": "The Ghana Association of Banks has condemned Okaikwei North MP Theresa Lardi Awuni over an alleged confrontation with a member bank staff during the national clean-up exercise.",
-          "url": "https://www.graphic.com.gh/business/business-news/deeply-concerning-and-unfortunate-bankers-association-condemns-okaikwei-north-mps-conduct.html",
+          "title": "Gold price slumps as US-Iran strikes, Fed’s Waller fuel rate hike bets",
+          "description": "Gold is down by more than a fifth since the Iran war started, with a wave of profit-taking ending a three-year bull run.",
+          "url": "https://www.mining.com/web/gold-price-slumps-as-us-iran-strikes-feds-waller-fuel-rate-hike-bets/",
           "source": {
-            "name": "Daily Graphic"
+            "name": "Mining.com"
           },
-          "publishedAt": "2026-07-13T17:30:04Z",
-          "image": "https://www.graphic.com.gh/images/2026/May/14/calbank26.jpg",
+          "publishedAt": "2026-07-13T20:02:33Z",
+          "image": "https://www.mining.com/wp-content/uploads/2020/10/download-1024x683.jpg",
           "language": "en"
         },
         {
-          "title": "How to live stream New Zealand vs West Indies: One-Day International Cricket, TV channel",
-          "description": "New Zealand and the West Indies are set to meet on Monday at Providence Stadium in Georgetown for the second of five matches between the two sides. How to Watch New Zealand vs West Indies The first of the five…",
-          "url": "https://sports.yahoo.com/articles/live-stream-zealand-vs-west-173000467.html",
+          "title": "Twelve US states sue Paramount to block Warner Bros merger",
+          "description": "The states claim the $110bn acquisition would limit competition in the TV and film industries.",
+          "url": "https://www.aljazeera.com/economy/2026/7/13/twelve-us-states-sue-paramount-to-block-warner-bros-merger",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-07-13T17:30:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/045dbe4551c657ca334ce86fac895ab7ca663cfb73acb866981edfaf7d771ccf/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2F107f2bb32bad6e5637448ee0eef8889f",
+          "publishedAt": "2026-07-13T20:02:05Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a552475-1783964789.jpg?resize=1920%2C1440",
           "language": "en"
         },
         {
-          "title": "Sam Neill’s final interview: ‘I’d like to think that, in life, I’m a goodie’",
-          "description": "The actor, who has died aged 78, recently answered Guardian readers’ questions about missing out on James Bond, the true terrors of Jurassic Park and why he called his prize cow Helena Bonham Carter",
-          "url": "https://www.theguardian.com/film/2026/jul/13/sam-neill-final-interview-readers-question-jurassic-park",
+          "title": "Ex-Iran President under house arrest over Israel plot to regime change",
+          "description": "The New York Times has reported that Mahmoud Ahmadinejad held secret contacts with Israeli intelligence during an alleged regime-change effort. The claims, centred on meetings in Hungary and a failed extraction plan, remain unverified and officially unanswered.",
+          "url": "https://www.indiatoday.in/world/story/ex-iran-president-mahmoud-ahmadinejad-under-house-arrest-over-secret-contacts-with-israeli-intelligence-2947220-2026-07-14",
           "source": {
-            "name": "The Guardian"
+            "name": "India Today"
           },
-          "publishedAt": "2026-07-13T17:30:00Z",
-          "image": "https://i.guim.co.uk/img/media/ad7fc1f41c3d5a61312c2e292b7e4073a9e6ea0f/0_536_2571_2057/master/2571.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46fb97ffbeda70f545a49c944fd1a421",
+          "publishedAt": "2026-07-13T20:01:40Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/donald-trump-130003577-16x9_0.jpg?VersionId=nHPHRkIxvUzcS7rJTwx60cMolYY.PXIt",
           "language": "en"
         },
         {
-          "title": "FBI fires 2 analysts who raised concerns about Fulton County 2020 election probe, sources say",
-          "description": "The two analysts expressed concerns that the 2020 election investigation in Fulton County, Georgia, was thin on evidence, sources said.",
-          "url": "https://www.cbsnews.com/news/fbi-2020-election-probe-fulton-county-georgia-analysts-fired/",
+          "title": "Today's NYT Connections Hints, Answers for July 14 #1129",
+          "description": "Here's today's Connections answer and hints for groups. These clues will help you solve New York Times' popular puzzle game, Connections, every day!",
+          "url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-14-1129/",
           "source": {
-            "name": "CBS News"
+            "name": "CNET"
           },
-          "publishedAt": "2026-07-13T17:28:27Z",
-          "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/13/b5262c1e-187a-4b4b-bd5d-cba30db28015/thumbnail/1200x630g6/fd2d6b064e953f2d70f708d6aead5c95/gettyimages-2182271953.jpg",
+          "publishedAt": "2026-07-13T20:01:00Z",
+          "image": "https://www.cnet.com/a/img/resize/600386913d35857db4ab5cf226431f739fe59ba9/hub/2025/03/26/c70b0a32-884a-4379-b77b-de75776952ba/nyt-word-games-connections-2798.jpg?auto=webp&fit=crop&height=675&width=1200",
           "language": "en"
         },
         {
-          "title": "Dutch referee dead at 38 after being cut from World Cup",
-          "description": "Rob Dieperink has died aged 38 shortly after being removed from the World Cup officiating list following a police investigation in London.",
-          "url": "https://www.goal.com/en/lists/dutch-referee-dead-38-after-world-cup-cut/blt2b7b7ca0510da904",
+          "title": "ANF arrests 8 suspects, seizes over 79kg of narcotics in nationwide operations",
+          "description": "RAWALPINDI - The Anti-Narcotics Force (ANF) conducted eight operations across the country and arrested 8 suspects and seized 79.154 kilograms(kgs) of narcotics worth",
+          "url": "https://www.nation.com.pk/14-Jul-2026/anf-arrests-8-suspects-seizes-79kg-narcotics-nationwide-operations",
           "source": {
-            "name": "Goal.com"
+            "name": "The Nation (Pakistan )"
           },
-          "publishedAt": "2026-07-13T17:28:25Z",
-          "image": "https://assets.goal.com/images/v3/getty-1250933489/crop/MM5DEMJRGI5DCMJYHA5G433XMU5DCMZSHIYTENY=/GettyImages-1250933489.jpg",
+          "publishedAt": "2026-07-13T20:01:00Z",
+          "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
           "language": "en"
         }
       ]
