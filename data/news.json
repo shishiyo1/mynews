@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-14T19:21:36.296Z",
+  "updatedAt": "2026-07-14T21:58:27.158Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "《50軒回っても買えない》ジャンプ奪い合いの裏で…『ONE PIECE』カード抜き取って“大量廃棄”が物議",
-          "description": "連載29周年突破を記念した特別付録『ONE PIECE』の主人公・ルフィの限定プロモーションカードが付属された、13日発売の『週刊少年ジャンプ』33号の転売が相次いでいる。\n　『ONE PIEC",
-          "url": "https://news.yahoo.co.jp/articles/8be4ec67913d22436e689ef909345a0c02ddd8a2",
+          "title": "明日15日は熱中症警戒アラートが今年最多 名古屋・熊谷は38℃、都心は35℃予想",
+          "description": "今日14日は、最高気温35℃以上の猛暑日が、今年初めて100地点を超えました。明日15日も最高気温は東京都心で35℃、熊谷、名古屋、富山は38℃の予想で、東日本を中心に危険な暑さとなる所が多い見込みです。水分をこまめに摂ったり、気温の高い時間帯は外出を控えたり、積極的に熱中症対策を行ってください。",
+          "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/07/14/39722.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-14T09:11:03Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/397/39722/main/20260714174246/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「秋葉原のように…」富山の53歳が“無差別殺人計画”、食い止めたのは加藤智大・元死刑囚の友人だった（弁護士ドットコムニュース）",
+          "description": "「無差別殺傷事件を起こせば、射殺されるか死刑になって死ねる」\n殺人予備の疑いで7月12日に逮捕された富山県滑川市の男性（53）が、そんな供述をしていると報じられた。\nリュックサックにナイフを忍ば",
+          "url": "https://news.yahoo.co.jp/articles/24b3594c8f84e9f46f51b928e9f8f8a9daa06f34",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-07-14T07:00:34Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260714-00042606-jprime-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-07-14T09:00:51Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260714-00020647-bengocom-000-5-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "突進するバイソンに跳ね飛ばされた男性、手術受け回復中 米イエローストーン国立公園",
-          "description": "（CNN）　孫と毎年恒例の旅行に出かけた米国の男性が、モンタナ州の病院に運び込まれる事態に見舞われた。イエローストーン国立公園でバイソンに襲われたためだ。\nカール・マクダニエルさん（65）は10日",
-          "url": "https://news.yahoo.co.jp/articles/c182e217c757ff057e670e10b27178c4a7a7cc69",
+          "title": "明日の株式相場に向けて＝ソフト復権の波、ティアフォー関連に刮目",
+          "description": "きょう（１４日）の東京株式市場は、日経平均株価が前営業日比５００円高の６万７７４３円と反発。それにしても、上下に振れまくる相場である。これが高値波乱の特徴であるが、この逃げたい向きと押し目を買いたい向きの音を立ててのぶつかり合いは、踊り場形成後に下降トレンド転換の前兆となるケースが多い・・・。",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607141054",
+          "source": {
+            "name": "株探"
+          },
+          "publishedAt": "2026-07-14T08:30:00Z",
+          "image": "https://async.api.kabutan.jp/og_image?title=%E6%98%8E%E6%97%A5%E3%81%AE%E6%A0%AA%E5%BC%8F%E7%9B%B8%E5%A0%B4%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6%EF%BC%9D%E3%82%BD%E3%83%95%E3%83%88%E5%BE%A9%E6%A8%A9%E3%81%AE%E6%B3%A2%E3%80%81%E3%83%86%E3%82%A3%E3%82%A2%E3%83%95%E3%82%A9%E3%83%BC%E9%96%A2%E9%80%A3%E3%81%AB%E5%88%AE%E7%9B%AE",
+          "language": "ja"
+        },
+        {
+          "title": "（まとめ）日経平均は500円高の67,743円で反発 今夜の米CPI・米銀決算に注目",
+          "description": "東京市場まとめ1.概況日経平均は239円安の67,002円と下落して取引を開始しました。前日の米国市場では、ホルムズ海峡をめぐる航行リスクへの警戒から原油価格が上昇したほか、人工知能（AI）・半導体関連銘柄が軟調に推移したことを受け、日本市場でもリスク回避姿勢が....",
+          "url": "https://media.monex.co.jp/articles/-/29755",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-07-14T08:27:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「表情が同じすぎる」佐野勇斗＆松本若菜が息ぴったりにポーズ！電波ジャックで見せた奇跡のシンクロショットに「姉弟みたい」の声",
+          "description": "TBS系ドラマ『君の好きは無敵』の公式Xが更新され、電波ジャックする佐野勇斗（M!LK）と松本若菜の2ショットが連続で公開された。 ■朝から全開の佐野勇斗＆松本若菜が魅せた最高のオープニング動画 ドラマ『君の好きは無敵』 […]",
+          "url": "https://www.thefirsttimes.jp/news/0000846279/",
+          "source": {
+            "name": "THE FIRST TIMES"
+          },
+          "publishedAt": "2026-07-14T08:01:45Z",
+          "image": "https://www.thefirsttimes.jp/admin/wp-content/uploads/5000/07/20260714-tknb-MILK-1200x630.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "99％の衆院議員が反対しない「男系男子の皇族復帰」「生まれた男子は皇位継承」をかたくなに拒否するのはなぜ?（FNNプライムオンライン（フジテレビ系））",
+          "description": "先週金曜（10日）に皇室典範改正案が衆院を通過した。\n与野党含めて批判的な議員が多いように見えるが、投票結果だけを見ると、10日の衆院本会議で465人の議員のうち反対したのは共産党の4人とれいわ新",
+          "url": "https://news.yahoo.co.jp/articles/a208eec366a951e6e3c381a7d9a270a1bd487832",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-07-14T06:57:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260714-35250531-cnn-000-2-view.jpg?exp=10800",
+          "publishedAt": "2026-07-14T08:00:38Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260714-01174895-fnn-000-1-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "JINS×「攻殻機動隊 THE GHOST IN THE SHELL」アイウェア。電子調光サングラスなど",
-          "description": "ジンズ(JINS)は、アニメ「攻殻機動隊 THE GHOST IN THE SHELL」とコラボレーションしたアイウェア全3型を、7月16日より一部のJINS店舗とオンラインショップで発売する。JINS初の「電子調光サングラス」1型1種、メガネ2型4種で、価格はサングラスが29,900円、メガネが19,900円。",
-          "url": "https://av.watch.impress.co.jp/docs/news/2124987.html",
-          "source": {
-            "name": "AV Watch"
-          },
-          "publishedAt": "2026-07-14T06:24:28Z",
-          "image": "https://av.watch.impress.co.jp/img/avw/list/2124/987/main.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「人災、やりきれない」消防隊員2人殉職の出火原因はたばこポイ捨て 遺族がコメント",
-          "description": "消防隊員2人が殉職した昨年8月の大阪・道頓堀でのビル火災で、たばこの不始末で火災を招いたとして、大阪府警が14日に重過失失火容疑で会社員の男（35）を書類送検したことを受け、死亡した消防司令、森貴志",
-          "url": "https://news.yahoo.co.jp/articles/8ace3117ce626174e0b6cc588577d4e983d57033",
+          "title": "三大流星群のひとつペルセウス座流星群が到来、2026年は当たり年 今週の夜空",
+          "description": "今週はいよいよ、夏を代表する流星群が三日月の宵に降り始める。\n14日は新月で、月が地球と太陽の間に入って私たちの目から姿をくらます。その後、月は日没後の宵の空に細く儚い姿で戻ってきて、しし座の1等",
+          "url": "https://news.yahoo.co.jp/articles/3aad8cbefa80610b3e6806adb8269e9790cc7cb7",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-07-14T06:18:10Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260714-00000122-san-000-7-view.jpg?exp=10800",
+          "publishedAt": "2026-07-14T08:00:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260714-00100896-forbes-000-1-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "Steam Machine、いうほど熱くないのに「オーバーヒート警告」しちゃう問題が報告される。“死の赤い線”フライング点灯、既知の不具合として修正へ",
-          "description": "「Steam Machine」について、LEDライトバーのエラー表示に不具合があり、改善予定であることが報告された。",
-          "url": "https://automaton-media.com/articles/newsjp/20260714-454839/",
+          "title": "King & Prince永瀬廉、28歳の誕生日に自身初のソロ写真集&『日日恋廉』エッセイ本発売へ【先行カット&コメント全文】",
+          "description": "ニュース｜　King ＆ Princeの永瀬廉が、自身初のソロ写真集と雑誌『Myojo』での約6年半の連載『日日恋廉』をまとめたエッセイ本が、28歳の誕生日を迎える2027年1月23日に集英社より同時発売されることが決定した。このほど先行カット・本人コメントが解禁された。　写真集は永瀬本人の希望もあり、クロアチアの都市・ドゥブロヴニクとザグレブを中心に5日間にわたって撮影。起き抜けのあどけない顔から、世界遺産の街並みで見せた王子のようなたたずまい、壮大な自然の中でのリラックスした表情、美食に舌鼓を打つ少年のような笑顔、夜の路地裏での大人なスーツ姿…。開放的な旅の中で見せた、27歳の永瀬の多彩な魅力を余すことなく切り撮っている。",
+          "url": "https://www.oricon.co.jp/news/2467497/full/",
           "source": {
-            "name": "AUTOMATON"
+            "name": "オリコンニュース"
           },
-          "publishedAt": "2026-07-14T06:10:13Z",
-          "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260714-454839-header.jpg",
+          "publishedAt": "2026-07-14T08:00:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2468000/2467497/20260713_165105_p_o_78739877.jpg",
           "language": "ja"
         },
         {
-          "title": "【サッカーワールドカップ】エムバペ擁するフランス、最少失点スペインの壁破れるか 準決勝",
-          "description": "【ダラス=木村慧】サッカーのワールドカップ（W杯）北中米3カ国大会は14日（日本時間15日）から準決勝の佳境に入る。勝ち残ったのは国際サッカー連盟（FIFA）ランキングのトップ4。フランス―スペイン、イングランド―アルゼンチン、いずれも決勝戦に勝るとも劣らない必見の好カードだ。フランスは地に足の着いた戦いぶりで4強まで勝ち進んだ。延長戦なく6戦6勝で積み上げたゴールは16。しかも道中ではノルウェ",
-          "url": "https://www.nikkei.com/article/DGXZQODH13AHN0T10C26A7000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-07-14T06:00:00Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3306142014072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.23&fp-y=0.33&h=630&w=1200&s=2f1b22e759dce9afd7c2896cc4ddbdb2",
-          "language": "ja"
-        },
-        {
-          "title": "警棒で右目失明の元高校生「デマで傷つけられている」 賠償報道を機に中傷再燃 弁護士「断固たる措置」",
-          "description": "沖縄県沖縄市で2022年1月、バイクを運転中の男子高校生=当時（17）=が、宮崎県警から沖縄県警に特別出向中だった男性巡査=同（29）=の警棒で右目を失明させられた事件で、元高校生の男性が14日、",
-          "url": "https://news.yahoo.co.jp/articles/1abc68c44f522bd60f1cacc1b7dd79f7b7f0a664",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-14T05:56:02Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260714-01880329-okinawat-000-3-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "警棒で右目失明の元高校生「デマで傷つけられている」 賠償報道を機に中傷再燃 弁護士「断固たる措置」【コメント全文・動画】",
-          "description": "沖縄県沖縄市で２０２２年１月、バイクを運転中の男子高校生＝当時（１７）＝が、宮崎県警から沖縄県警に特別出向中だった男性巡査＝同（２９）＝の警棒で右目を失明させられた事件で、元高校生の男性が１４日、コメントを発表した。",
-          "url": "https://www.okinawatimes.co.jp/articles/-/1880329",
-          "source": {
-            "name": "沖縄タイムス社"
-          },
-          "publishedAt": "2026-07-14T05:50:00Z",
-          "image": "https://oki.ismcdn.jp/mwimgs/5/4/1200wm/img_543c326326d90266a9eb753f0e69e6fe6356992.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「THE W」が示した“女性だけ”の賞レースの難しさと、大会がなくなっても消えない価値 #エキスパートトピ",
-          "description": "日本テレビの定例社長会見が13日に行われ、女性芸人No.1を決める賞レース「THE W」を今年は開催しないことが正式に発表されました。2017年から9回開催され「一定の役割を果たした」と同局は説明して",
-          "url": "https://news.yahoo.co.jp/expert/articles/e724cd3de0f0e4b8dad85df9bdcab7c2f6bdf325",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-14T04:39:59Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakanishimasao/02665772/title-1784003589531.jpeg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "俳優サム・ニールさん死去、「ジュラシック・パーク」「ピアノ・レッスン」など出演",
-          "description": "ニュージーランド出身の俳優サム・ニールさんが13日、オーストラリア・シドニーで亡くなった。78歳だった。「突然で予想外の」死去だったと、家族が発表した。",
-          "url": "https://www.bbc.com/japanese/articles/c9828ej79mvo",
+          "title": "トランプ氏とIRSの和解、無効と米地裁判事 2800億円超の基金設立や税務調査免除の付帯条項に影響か",
+          "description": "米フロリダ州の連邦地方裁判所は13日、トランプ大統領が自身の納税申告書の流出をめぐって起こした訴訟で、5月に成立した内国歳入庁（IRS）との和解について、無効とする判断を下した。この和解では、IRSは今後、トランプ氏と家族、および関連企業の過去の納税申告を調査することが禁止されることや、過去の政権下で政治的捜査の対象となったと主張する人々に補償を行うことを目的とした、約18億ドル（約2860億円）の「反武器化基金」を設立することが、付帯条項として加えられていた。",
+          "url": "https://www.bbc.com/japanese/articles/c5yzyeykn1lo",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-07-14T03:53:43Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/83b5/live/99882570-7e86-11f1-926f-c90d1bcfbc84.jpg",
+          "publishedAt": "2026-07-14T07:48:43Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/468c/live/a01b76f0-7ede-11f1-84b4-d5196cc76857.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "だからフジテレビは橋本愛も佐藤二朗も守れなかった…テレビ局から消える｢金にも視聴率にもならない仕事｣",
+          "description": "フジテレビのドラマ撮影現場をめぐり、俳優の橋本愛さんと佐藤二朗さんのトラブルを『週刊文春』が報じ、注目が集まっている。元テレビ東京社員で桜美林大学教授の田淵俊彦さんは「原因は、出演者と向き合えなくなったテレビ局の構造そのものにある」という。番組現場から消えつつある「金にも視聴率にもならない仕事」とは――。",
+          "url": "https://president.jp/articles/-/116066?page=1",
+          "source": {
+            "name": "PRESIDENT Online（プレジデントオンライン）"
+          },
+          "publishedAt": "2026-07-14T07:30:00Z",
+          "image": "https://president.ismcdn.jp/mwimgs/6/5/1200wm/img_6560702b057dd84075184e86b6dc1f851019017.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Botswana Is Asking Questions. Literally.",
-          "description": "Look around. Your favourite influencer's profile picture isn't a selfie anymore. It's a question mark. So is your other favourite influencer's. And the one after that. By now you've probably noticed; because it's everywhere. Add to that a double-decker bus rolling through the city dressed head to toe in balloons, flags and unapologetic fanfare, many a",
-          "url": "https://botswanaunplugged.com/botswana-is-asking-questions-literally/",
+          "title": "Charity raises concerns over new plans for modular homes",
+          "description": "Housing charity Threshold has expressed concern at plans to allow people to build modular homes without planning permission in their back gardens.",
+          "url": "https://www.rte.ie/news/2026/0714/1583276-modular-homes-government/",
           "source": {
-            "name": "Botswana Unplugged"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-07-14T07:20:30Z",
-          "image": "https://botswanaunplugged.com/wp-content/uploads/2026/07/WH-WN.jpg?v=1784020182",
+          "publishedAt": "2026-07-14T09:58:10Z",
+          "image": "https://www.rte.ie/images/00231f5e-1600.jpg",
           "language": "en"
         },
         {
-          "title": "Josie weakens into tropical depression",
-          "description": "The maximum sustained winds of Tropical Depression Josie (Haishen) are down to 45 km/h on Tuesday morning, July 14",
-          "url": "https://www.rappler.com/philippines/weather/tropical-depression-josie-lpa-update-pagasa-forecast-july-14-2026-11am/",
+          "title": "Remove your shades Balen Shah: Gen Z protesters return to Nepal streets",
+          "description": "The death of a 25-year-old ride-share driver who set himself on fire during a dispute with municipal police has sparked Gen Z-led protests across Nepal. Protesters and opposition lawmakers are demanding that Prime Minister Balen Shah, who rose to power on the youth-led wave, should resign.",
+          "url": "https://www.indiatoday.in/world/story/nepal-gen-z-movement-ganesh-nepali-self-immolation-protestors-kathmandu-demand-pm-balen-shah-resign-2947437-2026-07-14",
           "source": {
-            "name": "Rappler"
+            "name": "India Today"
           },
-          "publishedAt": "2026-07-14T07:20:30Z",
-          "image": "https://www.rappler.com/tachyon/2026/07/josie-satellite-july-14-2026-11am.jpg",
+          "publishedAt": "2026-07-14T09:58:09Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/balen-shah--nepal-india-border-controversy-014755460-16x9_0.jpg?VersionId=7PSUANcFPBiDNKyR8IETofkk7OR820iN",
           "language": "en"
         },
         {
-          "title": "Powering next-gen quantum computers",
-          "description": "Researchers at Aalto University have successfully built the world’s first cyclic quantum heat engine inside a superconducting circuit",
-          "url": "https://www.openaccessgovernment.org/worlds-first-superconducting-quantum-heat-engine-powering-next-gen-quantum-computers/211773/",
+          "title": "Parade passes former Belfast flashpoint without incident",
+          "description": "An Orange Order parade has passed a former flashpoint in Belfast without incident the morning after the traditional 12 July parades in Northern Ireland.",
+          "url": "https://www.rte.ie/news/ulster/2026/0714/1583277-orange-parade/",
           "source": {
-            "name": "Open Access Government"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-07-14T07:20:00Z",
-          "image": "https://www.openaccessgovernment.org/wp-content/uploads/2026/07/Low-Res_Heat_Engine_Landscape_FullRes.jpg",
+          "publishedAt": "2026-07-14T09:57:22Z",
+          "image": "https://www.rte.ie/images/0024b19b-1600.jpg",
           "language": "en"
         },
         {
-          "title": "Irish-based company reveals new dementia assessment service",
-          "description": "Announcement made at Alzheimer’s Association International Conference taking place in London this week, where new AI research tools were also publicised",
-          "url": "https://www.imt.ie/news/irish-based-company-reveals-new-dementia-assessment-service-14-07-2026/",
+          "title": "The U.S. is set to reinstate a blockade over the Strait of Hormuz",
+          "description": "The U.S. military announced it will begin its blockade of Iranian ships over the Strait of Hormuz on Tuesday, as Iran vowed to assert its own control over the critical international waterway.",
+          "url": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates",
           "source": {
-            "name": "Irish Medical Times"
+            "name": "NPR"
           },
-          "publishedAt": "2026-07-14T07:19:36Z",
-          "image": "https://d1l0gza1nowsqe.cloudfront.net/wp-content/uploads/sites/4/2026/07/head-diagnostics-620.webp",
+          "publishedAt": "2026-07-14T09:56:45Z",
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2F73%2F21aac05b433bad18a315f5a9b763%2Fgettyimages-2284845333.jpg",
           "language": "en"
         },
         {
-          "title": "ORPP edges two parties closer to joining Kenya's political arena",
-          "description": "The public has seven days to object before the provisional registration process moves forward.",
-          "url": "https://www.the-star.co.ke/news/2026-07-14-two-political-parties-move-closer-to-official-status",
+          "title": "Families claim bodies as Bangkok fire toll rises to 30",
+          "description": "Forensic police have been scouring the wreckage as authorities seek to establish how the fire started and why it was so deadly.",
+          "url": "https://www.dawn.com/news/2015379/families-claim-bodies-as-bangkok-fire-toll-rises-to-30",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "Dawn"
           },
-          "publishedAt": "2026-07-14T07:19:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/07/8450fe36-7b39-47a2-a558-932b08097b67.webp?1784015593634",
+          "publishedAt": "2026-07-14T09:56:42Z",
+          "image": "https://i.dawn.com/large/2026/07/141449039dab172.webp",
           "language": "en"
         },
         {
-          "title": "Rosmah sues comedian Harith Iskander over alleged defamatory jokes, body-shaming remarks in stand-up show",
-          "description": "KUALA LUMPUR, July 14 — Datin Seri Rosmah Mansor has filed a lawsuit against comedian and actor Harith Iskander, alleging she was defamed and subjected to body shaming during a...",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/14/rosmah-sues-comedian-harith-iskander-over-alleged-defamatory-jokes-body-shaming-remarks-in-stand-up-show/227549",
+          "title": "Families claim bodies as Bangkok fire toll rises to 30",
+          "description": "Forensic police have been scouring the wreckage as authorities seek to establish how the fire started and why it was so deadly.",
+          "url": "https://www.dawn.com/news/2015379",
           "source": {
-            "name": "Malay Mail"
+            "name": "Dawn"
           },
-          "publishedAt": "2026-07-14T07:16:16Z",
-          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/14/351830.png",
+          "publishedAt": "2026-07-14T09:56:42Z",
+          "image": "https://i.dawn.com/large/2026/07/141449039dab172.webp",
           "language": "en"
         },
         {
-          "title": "South African rand wobbly ahead of local mining data, US inflation print",
-          "description": "JOHANNESBURG, July 14 (Reuters) – The South African rand was under pressure early on Tuesday as uncertainty surrounding the Iran war hung over markets ahead of the release of domestic mining figures and key U.S. inflation data.",
-          "url": "https://www.cnbcafrica.com/2026/south-african-rand-wobbly-ahead-of-local-mining-data-us-inflation-print",
+          "title": "Tehran condemns UK move to classify IRGC as state-backed terror group",
+          "description": "Tehran's Foreign Ministry said the IRGC was an official part of Iran's armed forces and accused Britain of violating international law by targeting a state institution.",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-902468",
           "source": {
-            "name": "CNBC Africa"
+            "name": "The Jerusalem Post"
           },
-          "publishedAt": "2026-07-14T07:16:01Z",
-          "image": "https://cdn.cnbc.africa/wp-content/uploads/2024/09/RAND-DOLLAR-scaled.jpg",
+          "publishedAt": "2026-07-14T09:56:28Z",
+          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729831",
           "language": "en"
         },
         {
-          "title": "Palm oil advances as crude rally boosts outlook for biofuels",
-          "description": "PALM oil climbed for a second day as a surge in crude prices fueled by renewed US-Iran hostilities brightened demand prospects for biofuels.",
-          "url": "https://www.thestar.com.my/business/business-news/2026/07/14/palm-oil-advances-as-crude-rally-boosts-outlook-for-biofuels",
+          "title": "Victorian teachers set to strike again following deadlocked negotiations",
+          "description": "A fresh statewide strike by Victorian public school teachers will he held next week, after negotiations with the Victorian government reached an impasse.",
+          "url": "https://www.abc.net.au/news/2026-07-14/victorian-teachers-set-to-strike-in-late-july/106915610",
           "source": {
-            "name": "The Star"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-07-14T07:16:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/07/14/4009701.jpg",
+          "publishedAt": "2026-07-14T09:55:36Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/9ced444a338d77358fe03c58010de5fc?impolicy=wcms_watermark_news&cropH=1701&cropW=3024&xPos=0&yPos=1789&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Mascom Calls On Botswana To Step Up For Child Safety",
-          "description": "Protecting children is not the responsibility of parents alone. It belongs to every one of us. That is the message at the heart of this year's Mascom Batanani Walk, which returns on Saturday 8 August 2026, under the theme",
-          "url": "https://botswanaunplugged.com/mascom-calls-on-botswana-to-step-up-for-child-safety/",
+          "title": "Argentina war vets urge focus on football for England World Cup semifinal",
+          "description": "One of sport’s great rivalries sees Argentina face England in an ever feisty encounter in the 2026 edition’s semifinal.",
+          "url": "https://www.aljazeera.com/sports/2026/7/14/argentina-war-vets-urge-focus-on-football-for-england-world-cup-semifinal",
           "source": {
-            "name": "Botswana Unplugged"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-07-14T07:15:06Z",
-          "image": "https://botswanaunplugged.com/wp-content/uploads/2026/07/Dzene.jpg?v=1784016136",
+          "publishedAt": "2026-07-14T09:55:30Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-12T030017Z_1692128539_UP1EM7C08CFSW_RTRMADP_3_SOCCER-WORLDCUP-ARG-SWI-1784020312.jpg?resize=1743%2C1080",
           "language": "en"
         },
         {
-          "title": "Singapore contributes $2.5m to support Ebola outbreak response in Congo and Uganda",
-          "description": "It will support efforts in lab testing, contact tracing, infection prevention and control, and case management on the ground. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/singapore/singapore-contributes-2-5m-to-support-ebola-outbreak-response-in-congo-and-uganda",
+          "title": "3rd Gen Boy Group Member Admits To Doing Favors For His Superior Amidst Favoritism Scandal",
+          "description": "WINNER's Song Mino has admitted to carrying out several personal favors for his former public service supervisor amidst evasion controversy.",
+          "url": "https://www.koreaboo.com/news/3rd-gen-boy-group-member-admits-favors-superior-amidst-abuse-status-scandal/",
           "source": {
-            "name": "The Straits Times"
+            "name": "Koreaboo"
           },
-          "publishedAt": "2026-07-14T07:15:02Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/e865f3acc270981e06d542b292bc8e050edcce39fb09a869372df558c0a4e691",
+          "publishedAt": "2026-07-14T09:55:18Z",
+          "image": "https://image.koreaboo.com/2026/07/mino-winner.jpg",
           "language": "en"
         }
       ]
