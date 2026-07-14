@@ -1,10 +1,21 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-14T02:34:53.120Z",
+  "updatedAt": "2026-07-14T05:31:56.364Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "『ドラゴンズドグマ 2：ダークアリズン』「信じているぞ」ユーザーの声が開発を動かした。追加ストーリーだけで約20時間のボリューム。本編をやり尽くした覚者もしっかり楽しめる【インタビュー】",
+          "description": "『ドラゴンズドグマ 2：ダークアリズン』インタビュー。追加ストーリーだけで約20時間のボリューム。大型アップデート立ち上げのきっかけについて訊いた。",
+          "url": "https://www.famitsu.com/article/202607/80863",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-07-13T15:00:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/80863/thumbnail_osIz.jpg?x=1280",
+          "language": "ja"
+        },
         {
           "title": "バレー女子日本代表の決勝ラウンド日程が発表、2大会ぶりのメダル獲得へ22日ブラジル戦【ネーションズリーグ】（TBS NEWS DIG Powered by JNN）",
           "description": "バレーボールの世界三大大会の一つ『ネーションズリーグ（VNL）』決勝ラウンドの日程が日本時間13日、大会公式ページで発表された。予選ラウンド第3週の日本ラウンド最終戦（大阪）でポーランド（世界ランキ",
@@ -61,6 +72,17 @@
           "language": "ja"
         },
         {
+          "title": "“カツアゲ”疑惑の福岡県議会 録音の音声は「99.99％以上一致」 音声主とみられる副議長「金の授受がないのにそんなこと言わん」",
+          "description": "録音された音声が本人と一致する確率。FNNが独自に依頼した鑑定結果によれば実に99.99％。声紋鑑定の専門家：これだけ一致しているということは、別人とは考えにくい。福岡県議会での議長ポストなどを巡る金銭要求、いわゆる“カツアゲ”疑惑は新たな局面を迎えました。渦中の音声とは、自民党県議団の幹部で、現在は県議会の副議長を務める中尾正幸県議のものと指摘されるデータです。中尾副議長のものと指摘される音声：あした、松本（自民党県議団）会長が“荷物”は預かります。ちょっと大金やけんね。管理しとかんとね。音…",
+          "url": "https://www.fnn.jp/articles/-/1074514",
+          "source": {
+            "name": "FNNプライムオンライン"
+          },
+          "publishedAt": "2026-07-13T10:44:00Z",
+          "image": "https://fnn.ismcdn.jp/mwimgs/7/f/600/img_7ff9b120d67dbb1af49d3d467a1f5dac483157.jpg",
+          "language": "ja"
+        },
+        {
           "title": "働く低収入者にも給付検討、対象拡大でゆがむ制度案 消費税後回し",
           "description": "超党派の「社会保障国民会議」は13日の実務者会議で、新たな給付制度について中間取りまとめの修正案を議論した。税や社会保険料の負担が少ないために対象外としてきた働く低収入者への給付検討が新たに盛り込まれた。議長を務める自民党の小野寺五典氏は与野党の意見を一部取り入れ、6月26日に示した案を修正した。この日の会議では2029年度からの本格導入を目指す給付制度の設計を優先して話し合った。議長がつな",
           "url": "https://www.nikkei.com/article/DGXZQOUA10AA60Q6A710C2000000/",
@@ -92,139 +114,117 @@
           "publishedAt": "2026-07-13T09:50:00Z",
           "image": "https://ascii.jp/img/2026/07/13/4499944/xl/ecb4a0024c420957.jpg?20200122",
           "language": "ja"
-        },
-        {
-          "title": "タイ首都のバーで火災、少なくとも27人死亡 重体22人含む60人超負傷",
-          "description": "タイ首都バンコクの人気エリア、チャトチャック地区にあるバーで12日遅く、火災が発生し、少なくとも27人が死亡、重体22人を含む60人超が負傷した。",
-          "url": "https://www.bbc.com/japanese/articles/cp8l3dxejy6o",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-07-13T08:38:43Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/d29c/live/5d8808f0-7e91-11f1-bee8-53ce494e1abc.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "仲良し新コンビ登場！東京ディズニーリゾート“ディズニー・ハロウィーン2026”こわがりおばけちゃん＆かぼランタングッズ",
-          "description": "東京ディズニーランドと東京ディズニーシーでは、2026年9月16日（水）から10月31日（土）まで、スペシャルイベント「ディズニー・ハロウィーン」を開催！ イベントに先がけて、9月15日（火）からはハ ...",
-          "url": "https://dtimes.jp/post-1270859/",
-          "source": {
-            "name": "Dtimes"
-          },
-          "publishedAt": "2026-07-13T08:30:16Z",
-          "image": "https://dtimes.jp/wp-content/uploads/2026/07/グッズ2.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "200 tonnes of waste cleared in Volta Region as national clean-up ends",
-          "description": "The National Flood Aftermath Clean-Up Exercise ended in the Volta Region with the evacuation of a total of 200 tonnes of solid waste from towns and communities.",
-          "url": "https://www.graphic.com.gh/news/general-news/200-tonnes-of-waste-cleared-in-volta-region-as-national-clean-up-ends.html",
+          "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
+          "description": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
+          "url": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo",
           "source": {
-            "name": "Graphic Online"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-13T14:34:29Z",
-          "image": "https://www.graphic.com.gh/images/2026/June/15/WhatsApp%20Image%202026-07-12%20at%2013.01.24.jpeg",
+          "publishedAt": "2026-07-13T17:31:54Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/814f/live/dbfc97c0-7ee9-11f1-926f-c90d1bcfbc84.jpg",
           "language": "en"
         },
         {
-          "title": "SADC’s 28h Meeting seeks ways to bolster stability in DRC, Madagascar and Mozambique",
-          "description": "SALIMA: THE security situation in eastern Democratic Republic of Congo (DRC), Madagascar and Mozambique’s Cabo Delgado Province has taken centre stage at a high-level SADC meeting as regional experts seek ways to strengthen peace and stability in Southern Africa. The 28th Meeting of the Ministerial Committee of the SADC Organ on Politics, Defence and Security …",
-          "url": "https://dailynews.co.tz/sadcs-28h-meeting-seeks-ways-to-bolster-stability-in-drc-madagascar-and-mozambique/",
+          "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
+          "description": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
+          "url": "https://www.bbc.com/news/articles/cp9ld3p324jo",
           "source": {
-            "name": "dailynews.co.tz"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-13T14:33:12Z",
-          "image": "https://dailynews.co.tz/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-13-at-16.38.08-1-1.jpeg",
+          "publishedAt": "2026-07-13T17:31:54Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/814f/live/dbfc97c0-7ee9-11f1-926f-c90d1bcfbc84.jpg",
           "language": "en"
         },
         {
-          "title": "Report: Ahmadinejad met Mossad chief under Israeli plan to install him as Iran leader",
-          "description": "NYT cites US officials, sources as saying yearslong regime change plot involved at least 2 meetings with Mossad in Hungary, as Israel looked to prop up anti-Israel Holocaust-denier",
-          "url": "https://www.timesofisrael.com/report-ahmadinejad-met-mossad-chief-under-israeli-plan-to-install-him-as-iran-leader/",
+          "title": "Alejandro Garnacho transfer plan confirmed as forgotten star gets Chelsea lifeline",
+          "description": "New Chelsea boss Xabi Alonso has discussed Alejandro Garnacho's future after taking charge of the Blues' squad last week and provided an update on the futures of other members of his team",
+          "url": "https://www.football.london/chelsea-fc/transfer-news/chelsea-transfer-news-alejandro-garnacho-34283925",
           "source": {
-            "name": "The Times of Israel"
+            "name": "Football London"
           },
-          "publishedAt": "2026-07-13T14:32:43Z",
-          "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/DUAL4433.jpeg",
+          "publishedAt": "2026-07-13T17:31:52Z",
+          "image": "https://i2-prod.football.london/article34283868.ece/ALTERNATES/s1200d/0_Xabi-Alonso.jpg",
           "language": "en"
         },
         {
-          "title": "Ukraine updates: 'Coalition of the willing' meeting in Paris",
-          "description": "Ukraine's allies are meeting in Paris for talks on continued military support for Kyiv. Meanwhile the EU's top diplomat said there's no consensus yet on more Russian sanctions. DW has more.",
-          "url": "https://www.dw.com/en/ukraine-updates-coalition-of-the-willing-meeting-in-paris/live-77927840",
+          "title": "Neither France nor Spain has trailed at this year's World Cup, but only one can reach the final",
+          "description": "Kylian Mbappé and France haven’t trailed at all at this year’s World Cup. Neither has Spain with teenage sensation Lamine Yamal and clutch goal-scoring substitute Mikel Merino. Only one of those teams can make it to the final.",
+          "url": "https://www.tsn.ca/soccer/fifa-world-cup/article/neither-france-nor-spain-has-trailed-at-this-years-world-cup-but-only-one-can-reach-the-final/",
           "source": {
-            "name": "dw.com"
+            "name": "TSN"
           },
-          "publishedAt": "2026-07-13T14:32:07Z",
-          "image": "https://static.dw.com/image/77860628_6.jpg",
+          "publishedAt": "2026-07-13T17:31:35Z",
+          "image": "https://www.tsn.ca/resizer/v2/JCT6D3X6IBCRLKWLHIDYSKT65Q.jpg?smart=true&auth=5c720be768270e762fec4541223f6673464621c1a7a4332e68ce6abe6bd5dd96&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Tala Targets Kenyans With Free Financial Education on Debt, Budgeting",
-          "description": "Tala's Partner Wako Mtrue initiative, launched on 13 July 2026, offers free financial education for Kenyans while addressing debt reliance and financial stability.",
-          "url": "https://www.tuko.co.ke/business-economy/632428-tala-targets-money-management-plan-kenyans-tackle-debt-budgeting/",
+          "title": "Dutch referee dead at 38 after being cut from World Cup",
+          "description": "Rob Dieperink has died aged 38 shortly after being removed from the World Cup officiating list following a police investigation in London.",
+          "url": "https://www.goal.com/en-ng/lists/dutch-referee-dead-38-after-world-cup-cut/blt2b7b7ca0510da904",
           "source": {
-            "name": "Tuko News"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-07-13T14:31:48Z",
-          "image": "https://cdn.tuko.co.ke/images/1200x675/fcb26a0e05221ce8.jpeg?v=1",
+          "publishedAt": "2026-07-13T17:31:04Z",
+          "image": "https://assets.goal.com/images/v3/getty-1250933489/crop/MM5DEMJRGI5DCMJYHA5G433XMU5DCMZSHIYTENY=/GettyImages-1250933489.jpg",
           "language": "en"
         },
         {
-          "title": "The Latest Inflation Data Will Drop on July 14. Here's Why It's a Big Deal for the Stock Market",
-          "description": "The June reading of the Consumer Price Index will be released at 8:30 a.m. ET on July 14.",
-          "url": "https://www.fool.com/investing/2026/07/13/the-latest-inflation-data-will-drop-on-july-14-here-s-why-it-s-a-big-deal-for-the-stock-market/",
+          "title": "'Deeply concerning and unfortunate' - Bankers Association condemns Okaikwei North MP's conduct",
+          "description": "The Ghana Association of Banks has condemned Okaikwei North MP Theresa Lardi Awuni over an alleged confrontation with a member bank staff during the national clean-up exercise.",
+          "url": "https://www.graphic.com.gh/business/business-news/deeply-concerning-and-unfortunate-bankers-association-condemns-okaikwei-north-mps-conduct.html",
           "source": {
-            "name": "The Motley Fool"
+            "name": "Daily Graphic"
           },
-          "publishedAt": "2026-07-13T14:31:34Z",
-          "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Faa39ef48193dfabdab17c4545d5fe42e0a33c027-7952x5304.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+          "publishedAt": "2026-07-13T17:30:04Z",
+          "image": "https://www.graphic.com.gh/images/2026/May/14/calbank26.jpg",
           "language": "en"
         },
         {
-          "title": "Cops and army bust undocumented foreigners!",
-          "description": "This dramatic escalation comes hot on the heels of the 30 June national march.",
-          "url": "https://www.snl24.com/dailysun/news/police-and-army-launch-major-crackdown-on-undocumented-migrants-in-ekurhuleni-informal-settlements-20260713",
+          "title": "How to live stream New Zealand vs West Indies: One-Day International Cricket, TV channel",
+          "description": "New Zealand and the West Indies are set to meet on Monday at Providence Stadium in Georgetown for the second of five matches between the two sides. How to Watch New Zealand vs West Indies The first of the five…",
+          "url": "https://sports.yahoo.com/articles/live-stream-zealand-vs-west-173000467.html",
           "source": {
-            "name": "Daily Sun"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-07-13T14:31:21Z",
-          "image": "https://cdn.24.co.za/files/Cms/General/d/13108/38369e0889f0419b83e649ce9b82bc27.jpeg",
+          "publishedAt": "2026-07-13T17:30:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/045dbe4551c657ca334ce86fac895ab7ca663cfb73acb866981edfaf7d771ccf/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2F107f2bb32bad6e5637448ee0eef8889f",
           "language": "en"
         },
         {
-          "title": "Andy Serkis on Animal Farm, The Hunt for Gollum, AI and Motion-Capture",
-          "description": "Andy Serkis says AI will only be used in The Hunt for Gollum in de-aging and thinks a motion-capture performance should get its first Oscar nomination",
-          "url": "https://variety.com/2026/film/global/andy-serkis-animal-farm-ai-hunt-for-gollum-motion-capture-1236809573/",
+          "title": "Sam Neill’s final interview: ‘I’d like to think that, in life, I’m a goodie’",
+          "description": "The actor, who has died aged 78, recently answered Guardian readers’ questions about missing out on James Bond, the true terrors of Jurassic Park and why he called his prize cow Helena Bonham Carter",
+          "url": "https://www.theguardian.com/film/2026/jul/13/sam-neill-final-interview-readers-question-jurassic-park",
           "source": {
-            "name": "Variety"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-07-13T14:31:00Z",
-          "image": "https://variety.com/wp-content/uploads/2026/07/GettyImages-2271888391.jpg?w=1000&h=563&crop=1",
+          "publishedAt": "2026-07-13T17:30:00Z",
+          "image": "https://i.guim.co.uk/img/media/ad7fc1f41c3d5a61312c2e292b7e4073a9e6ea0f/0_536_2571_2057/master/2571.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46fb97ffbeda70f545a49c944fd1a421",
           "language": "en"
         },
         {
-          "title": "2026 MLB Draft: Ranking the five best draft classes",
-          "description": "The Chicago White Sox took the best player at No. 1, but let's go deeper into this weekend's selections",
-          "url": "https://www.cbssports.com/mlb/news/2026-mlb-draft-ranking-five-best-classes/",
+          "title": "FBI fires 2 analysts who raised concerns about Fulton County 2020 election probe, sources say",
+          "description": "The two analysts expressed concerns that the 2020 election investigation in Fulton County, Georgia, was thin on evidence, sources said.",
+          "url": "https://www.cbsnews.com/news/fbi-2020-election-probe-fulton-county-georgia-analysts-fired/",
           "source": {
-            "name": "CBS Sports"
+            "name": "CBS News"
           },
-          "publishedAt": "2026-07-13T14:30:34Z",
-          "image": "https://sportshub.cbsistatic.com/i/r/2026/07/13/c2c57c7e-ce0a-4f6f-9d7b-13b082654ae6/thumbnail/1200x675/161deca4abd056212fcceb18dc653a18/roch-imagn.png",
+          "publishedAt": "2026-07-13T17:28:27Z",
+          "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/13/b5262c1e-187a-4b4b-bd5d-cba30db28015/thumbnail/1200x630g6/fd2d6b064e953f2d70f708d6aead5c95/gettyimages-2182271953.jpg",
           "language": "en"
         },
         {
-          "title": "Smart Glasses Backlash Is Reaching New Celebrity Heights",
-          "description": "Where do you sit on the Kylie Jenner/Lorde spectrum?",
-          "url": "https://gizmodo.com/smart-glasses-backlash-is-reaching-new-celebrity-heights-2000784767",
+          "title": "Dutch referee dead at 38 after being cut from World Cup",
+          "description": "Rob Dieperink has died aged 38 shortly after being removed from the World Cup officiating list following a police investigation in London.",
+          "url": "https://www.goal.com/en/lists/dutch-referee-dead-38-after-world-cup-cut/blt2b7b7ca0510da904",
           "source": {
-            "name": "Gizmodo"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-07-13T14:30:23Z",
-          "image": "https://gizmodo.com/app/uploads/2026/07/lorde-1200x675.jpg",
+          "publishedAt": "2026-07-13T17:28:25Z",
+          "image": "https://assets.goal.com/images/v3/getty-1250933489/crop/MM5DEMJRGI5DCMJYHA5G433XMU5DCMZSHIYTENY=/GettyImages-1250933489.jpg",
           "language": "en"
         }
       ]
