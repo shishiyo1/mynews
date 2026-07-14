@@ -1,10 +1,109 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-14T10:47:22.608Z",
+  "updatedAt": "2026-07-14T13:46:05.613Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "アップル、「iOS 27」初のパブリックベータ版を公開 「Siri AI」など注目の新機能まとめ",
+          "description": "アップルは、「iPhone」向けの次期OSである「iOS 27」初のパブリックベータ版を公開した。",
+          "url": "https://japan.cnet.com/article/35250518/",
+          "source": {
+            "name": "CNET Japan"
+          },
+          "publishedAt": "2026-07-14T01:46:00Z",
+          "image": "https://japan.cnet.com/storage/2026/07/14/453ae72fd6e5decf2c297add95e2d14f/siri-ai-03_1280x960.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「彼を見るたびにますます好きになる」…飛行機から降り立ったハーランド、手にしていたのはアライグマ!?",
+          "description": "ノルウェー代表FWアーリング・ハーランドがアライグマのはく製を手に、母国に帰還したようだ。英『ザ・サン』が伝えている。　初出場となったW杯で異次元の決定力を示したハーランド。グループリーグ初戦イラク...",
+          "url": "https://web.gekisaka.jp/news/worldcup/detail/?455376-455376-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-07-14T01:37:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455376/news_455376_1.jpg?time=20260714103851",
+          "language": "ja"
+        },
+        {
+          "title": "日経平均は３０円程度高、売り先行後は上げ転換＝１４日前場(ウエルスアドバイザー)",
+          "description": "１４日午前１０時１２分すぎの日経平均株価は、前日比３０円程度高い６万７２７０円前後で推移する。現地１３日の米国株式は、...",
+          "url": "https://finance.yahoo.co.jp/news/detail/ef7c32dd059911dab194deded885ed379f1e07b7",
+          "source": {
+            "name": "Yahoo!ファイナンス"
+          },
+          "publishedAt": "2026-07-14T01:19:00Z",
+          "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+          "language": "ja"
+        },
+        {
+          "title": "Apple、「iOS 27」の初パブリックβ公開──新しい「Siri AI」など搭載",
+          "description": "Appleは、今秋正式リリース予定のiPhone向け次期OS「iOS 27」の最初のパブリックβ版を公開した。無料のプログラムに登録すれば誰でも試すことができる。新しいAIアシスタント「Siri AI」が導入されるほか、写真のAI編集ツールや子どもの安全機能が強化され、各種パフォーマンスも高速化する。",
+          "url": "https://www.itmedia.co.jp/mobile/articles/2607/14/news066.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-07-14T01:17:00Z",
+          "image": "https://image.itmedia.co.jp/mobile/articles/2607/14/cover_news066.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ヨツバ印刷、オリジナル缶バッジ制作に関する情報提供を強化 サイズ選びとデザイン作成時の注意点を整理した解説コンテンツを公開",
+          "description": "株式会社MAWのプレスリリース（2026年7月14日 09時57分）ヨツバ印刷、オリジナル缶バッジ制作に関する情報提供を強化　サイズ選びとデザイン作成時の注意点を整理した解説コンテンツを公開",
+          "url": "https://prtimes.jp/main/html/rd/p/000000382.000072705.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-07-14T00:57:30Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/72705/382/72705-382-6ae7f7e6817b889e45e2383f2025e97f-800x803.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "【男子バレー】ネーションズリーグ８連勝をもたらした二枚看板 西田有志と宮浦健人、それぞれの成長",
+          "description": "バレーボールネーションズリーグ（VNL）2026男子、第３週の日本ラウンドが、７月15日、大阪で開幕する。VNLは第１週から第３週まで予選ラウンドを行ない、その上位７チームと開催国・中国の計８チームで決勝ラウンドを戦う。　日本は予選ラウ…",
+          "url": "https://sportiva.shueisha.co.jp/clm/otherballgame/volleyball/2026/07/14/post_56/",
+          "source": {
+            "name": "webスポルティーバ"
+          },
+          "publishedAt": "2026-07-14T00:50:39Z",
+          "image": "https://sportiva.shueisha.co.jp/clm/otherballgame/volleyball/2026/images/nishidayuji20260714plus.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Apple、秋リリース予定OSのパブリックベータ開始、「iOS 27」「macOS 27」など",
+          "description": "米Appleは7月13日（現地時間）、Apple Beta Software Programを通じて、2026年秋の正式リリースを予定する次期OSのパブリックベータ版の提供を開始した。 今回公開された",
+          "url": "https://article.auone.jp/detail/1/3/7/37_7_r_20260714_1783987337194466",
+          "source": {
+            "name": "au Webポータル"
+          },
+          "publishedAt": "2026-07-13T23:29:00Z",
+          "image": "https://portal.st-img.jp/thumb/ded5ec59e59ff2c1a5bc5768f872aa96_1783987337_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【画像】「ゾクゾクする」 ハーランド、W杯に別れを告げた“奇跡の一枚”に反響 「漫画みたいなアングル」",
+          "description": "サッカー・ノルウェー代表のアーリング・ハーランドが、FIFAワールドカップ2026での戦いを終えてSNSに投稿した写真が注目を集めた。得点をあげた瞬間をゴールネット越しにとらえた一枚に、「漫画みたいなアングル」など称賛の声が相次いでいる。",
+          "url": "https://www.sportingnews.com/jp/soccer/news/erling-haalands-world-cup-2026-photo-sparks-huge-reactions-fans/1a7cf90043c470056b5d71c7",
+          "source": {
+            "name": "sportingnews.com"
+          },
+          "publishedAt": "2026-07-13T23:05:51Z",
+          "image": "https://library.sportingnews.com/styles/crop_style_16_9_1200_webp/s3/2026-07/Erling%20Haaland%20Norway%20%20070526%20IMAGN%20%E3%83%8F%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89.jpg.webp?itok=BurB4qg0",
+          "language": "ja"
+        },
+        {
+          "title": "維新は触れぬ、他党は触れたい 都構想で禁断の「パワーワード」",
+          "description": "あの言葉、触れるべきなのに。 　いや、触れる必要はないのに。 　それぞれの言い分に、どうして溝があるのか。 　大都市の命運を左右しかねない「パワーワード」だからだろうか。",
+          "url": "https://mainichi.jp/articles/20260713/k00/00m/010/093000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-07-13T23:00:00Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/07/13/20260713k0000m010094000p/0c10.jpg?1",
+          "language": "ja"
+        },
         {
           "title": "14日は東京都心で今年一番の暑さ 名古屋は38℃予想 熱中症警戒アラート今年最多",
           "description": "今日14日は、猛暑エリアが西日本だけでなく、東日本にも広がるでしょう。東京都心でも35℃まで気温が上がり、今年一番の暑さとなりそうです。前橋や名古屋では38℃と体温超えの暑さとなりそうです。熱中症警戒アラートは今年最多となる17県に発表されています。万全な熱中症対策を。",
@@ -15,216 +114,117 @@
           "publishedAt": "2026-07-13T22:45:52Z",
           "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/397/39710/main/20260714070918/large.jpg",
           "language": "ja"
-        },
-        {
-          "title": "W杯フランス代表対スペイン代表の地上波放送、ネット配信の予定は？ 視聴方法を紹介",
-          "description": "日本時間の7月15日に、北中米W杯準決勝が行われ、フランス代表対スペイン代表が対戦する。試合は、ダラス・スタジアム（アメリカ合衆国）で行われる。",
-          "url": "https://www.footballchannel.jp/2026/07/14/post946698/",
-          "source": {
-            "name": "フットボールチャンネル"
-          },
-          "publishedAt": "2026-07-13T22:30:21Z",
-          "image": "https://img-footballchannel.com/wordpress/assets/2026/07/71dcc294880778650269a804fea7c6bb.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ウクライナと欧州が弾道ミサイル迎撃連合を設立、ラファール取得も動きだす",
-          "description": "ウクライナはデンマーク、フランス、ドイツ、イタリア、オランダ、ノルウェー、スペイン、スウェーデン、英国と弾道ミサイル迎撃連合の設立を正式に発表、ウクライナのラファールF4取得も正式に動き出し、AASM、ASTER30、SCALP-EGのライセンス生産も開始される。",
-          "url": "https://grandfleet.info/european-region/ukraine-and-europe-move-to-establish-a-ballistic-missile-interception-coalition-and-initiate-the-acquisition-of-rafale-jets/",
-          "source": {
-            "name": "航空万能論GF"
-          },
-          "publishedAt": "2026-07-13T22:28:30Z",
-          "image": "https://grandfleet.info/wp-content/uploads/2026/07/UA_2026_0714_04.webp",
-          "language": "ja"
-        },
-        {
-          "title": "『踊る大捜査線N.E.W.』最新ビジュアル・予告が解禁 オリジナルメンバーも大集結",
-          "description": "9月18日公開の映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』の最新ポスタービジュアルと予告映像が14日、解禁された。シリーズでおなじみのオリジナルメンバーの出演が明らかになったほ",
-          "url": "https://news.yahoo.co.jp/articles/8c090ea4eb00038a696b72556837f1a31893c8c7",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-13T22:11:33Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260714-00000367-oric-000-7-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "Acer、背面ディスプレイ付き新型スマホ「Sospiro A15」を一部市場で発売。",
-          "description": "Acerが数年ぶりのスマートフォン製品となる「Sospiro A15」を発表しました。背面に小型サブディスプレイを搭載するという特徴を備えつつ、価格を抑えた製品です。",
-          "url": "https://www.techno-edge.net/article/2026/07/14/5289.html",
-          "source": {
-            "name": "テクノエッジ TechnoEdge"
-          },
-          "publishedAt": "2026-07-13T21:30:03Z",
-          "image": "https://www.techno-edge.net/imgs/ogp_f/32930.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "橋本愛に「ハラスメント」報道 独白100分 佐藤二朗が語った「全真相」",
-          "description": "謂れのない誹謗中傷が相次ぐ このたびは、僕が主演を務めたドラマの撮影現場でのトラブルがこれほど大きな騒動となり、皆さまにご迷惑をかけてしまったことを誠に申し訳なく思っております。謂れのない誹謗中傷が相次いでいます。…",
-          "url": "https://que.dailyshincho.jp/node/19809/",
-          "source": {
-            "name": "新潮QUE"
-          },
-          "publishedAt": "2026-07-13T21:03:00Z",
-          "image": "https://que.dailyshincho.jp/sites/default/files/styles/og_letterbox_191_1/public/2026-07/19809_02.webp?itok=cu8NtOaZ",
-          "language": "ja"
-        },
-        {
-          "title": "ダブル台風発生中 9号は低気圧に変わり日本海へ 北海道や東北で警報級の大雨の恐れ",
-          "description": "14日(火)、台風9号と台風11号が発生しています。台風9号は今後、温帯低気圧に変わり、日本海へ進むでしょう。台風から変わる低気圧は前線を伴いながら北日本へ近づき、北海道や東北では15日(水)から16日(木)にかけて警報級の大雨となる恐れがあります。台風11号はあまり発達せず、16日(木)には熱帯低気圧に変わるでしょう。",
-          "url": "https://tenki.jp/forecaster/t_yoshida/2026/07/14/39708.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-07-13T20:56:06Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/397/39708/main/20260714053228/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ダウ平均は下落 中東情勢が再び緊迫化 半導体に売り＝米国株概況",
-          "description": "NY株式13日（NY時間16:21）（日本時間05:21） ダウ平均　　　52498.64（-138.37　-0.26%） S＆P500　　　　7515.34（-60.05　-0.79%） ナスダック...",
-          "url": "https://fx.minkabu.jp/news/373012",
-          "source": {
-            "name": "みんかぶ FX/為替"
-          },
-          "publishedAt": "2026-07-13T20:23:40Z",
-          "image": "https://mfx-assets.s3.ap-northeast-1.amazonaws.com/news_ogp/stock.png",
-          "language": "ja"
-        },
-        {
-          "title": "米共和党・外交タカ派が大幅減へ グラム氏が死去、引退も続々",
-          "description": "【ワシントン=飛田臨太郎】米与党・共和党からロシアや中国、イランに強硬な立場をとる外交政策「タカ派」で知られる重鎮議員が相次ぎ政界を去る。代表格だったリンゼー・グラム上院議員が11日に急死した。さらに11月の中間選挙に出馬せず、2027年1月に引退する議員が続出する。南部サウスカロライナ州選出のグラム氏はウクライナやイスラエルの強力な支持者として知られ、イランに対しては厳しい姿勢をとった。",
-          "url": "https://www.nikkei.com/article/DGXZQOGN13AQ80T10C26A7000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-07-13T20:05:29Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3305006013072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.74&fp-y=0.42&h=630&w=1200&s=d5bbb84113adddc0afdb1b43652822b2",
-          "language": "ja"
-        },
-        {
-          "title": "『ドラゴンズドグマ 2：ダークアリズン』「信じているぞ」ユーザーの声が開発を動かした。追加ストーリーだけで約20時間のボリューム。本編をやり尽くした覚者もしっかり楽しめる【インタビュー】",
-          "description": "『ドラゴンズドグマ 2：ダークアリズン』インタビュー。追加ストーリーだけで約20時間のボリューム。大型アップデート立ち上げのきっかけについて訊いた。",
-          "url": "https://www.famitsu.com/article/202607/80863",
-          "source": {
-            "name": "ファミ通"
-          },
-          "publishedAt": "2026-07-13T15:00:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/80863/thumbnail_osIz.jpg?x=1280",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Meghan Markle’s kids get dragged into royal row: ‘Boggles her mind that people are so cruel’",
-          "description": "Another allegation lands in Meghan Markle’s camp and this one accuses them of trying to use Prince Archie and Princess LilIbet, both of whom are in the line of Succession to their benefit, in...",
-          "url": "https://www.thenews.com.pk/latest/1409042-meghan-markles-kids-get-dragged-into-royal-row-boggles-her-mind-that-people-are-so-cruel",
+          "title": "Police arrest suspect over bomb threat at South Jakarta elementary school",
+          "description": "Greater Jakarta Police spokesperson Sr. Comr. Budi Hermanto said the 34-year old man had been taken into custody and was being questioned by investigators at the South Jakarta Police headquarters.",
+          "url": "https://asianews.network/police-arrest-suspect-over-bomb-threat-at-south-jakarta-elementary-school/",
           "source": {
-            "name": "The News International"
+            "name": "Asia News Network"
           },
-          "publishedAt": "2026-07-13T22:46:59Z",
-          "image": "https://www.thenews.com.pk/assets/uploads/2026-07-14/1409042_032110_updates.jpg",
+          "publishedAt": "2026-07-14T01:43:18Z",
+          "image": "https://asianews.network/wp-content/uploads/2026/07/AFP__20251107__83D39AU__v1__MidRes__IndonesiaBlast.jpg",
           "language": "en"
         },
         {
-          "title": "Tehran attacks ships in Strait of Hormuz",
-          "description": "The UAE Defense Ministry said the country retained its full right to respond and take all necessary measures to protect its sovereignty and security.",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-902418",
+          "title": "Step up prosecution, conviction of personalities behind illicit tobacco trade--Valeriano",
+          "description": "Manila 2nd district Rep. Rolando Valeriano has urged law enforcement agencies to shift their focus from merely confiscating illicit tobacco products to...",
+          "url": "https://mb.com.ph/2026/07/14/step-up-prosecution-conviction-of-personalities-behind-illicit-tobacco-trade-valeriano",
           "source": {
-            "name": "The Jerusalem Post"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-07-13T22:46:17Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729540",
+          "publishedAt": "2026-07-14T01:42:51Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/14/115871.webp",
           "language": "en"
         },
         {
-          "title": "'How to Eat Fried Worms' child star Blake Garrett's cause of death revealed",
-          "description": "\"How to Eat Fried Worms\" child star Blake Garrett's died on Feb. 8 due to an accidental fentanyl overdose. He was 33.",
-          "url": "https://pagesix.com/2026/07/13/celebrity-news/how-to-eat-fried-worms-child-star-blake-garretts-cause-of-death-revealed/",
+          "title": "Australia Alongside Canada and New Zealand Grapple with FIFA World Cup 2026 Airfare Nightmare as Price Shock of Flights Sell Out and Travellers Paying a Heavy Price by Adopting Shocking New Approaches",
+          "description": "FIFA World Cup 2026 semifinals trigger record airfare increases as Australian, Canadian and New Zealand travellers adopt different strategies to manage soaring travel costs.",
+          "url": "https://www.travelandtourworld.com/news/article/jfrm7mya6dte/",
           "source": {
-            "name": "Page Six"
+            "name": "Travel And Tour World"
           },
-          "publishedAt": "2026-07-13T22:44:00Z",
-          "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/134292357.jpg?quality=75&strip=all&w=1200",
+          "publishedAt": "2026-07-14T01:41:15Z",
+          "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Screenshot-2026-07-14-064529.jpg",
           "language": "en"
         },
         {
-          "title": "EU announces restrictions on trading Sudanese gold",
-          "description": "The European Union announced on Monday new sanctions against Sudan by targeting the country’s gold trade, which it said was being used to finance the military conflict in the country.“The decision introduces a ban on the purchase, import or transfer of gold originating in Sudan. It also bans the sale, supply, transfer or export of mercury and cyanide to Sudan,” said a statement by the Council of the European Union.The conflict between Sudan’s army and the paramilitary Rapid Support Forces began more than three years ago, and it has caused a vast humanitarian crisis.(By Sudip Kar-Gupta; Editing by Louise Heavens)",
-          "url": "https://www.kitco.com/news/off-the-wire/2026-07-13/eu-announces-restrictions-trading-sudanese-gold",
+          "title": "Typhoons mix up bacteria and biochemistry",
+          "description": "After a typhoon surprised a research cruise, scientists took advantage of the unique sampling opportunity to reveal rapid changes in bacterioplankton communities and biogeochemical cycling.",
+          "url": "https://phys.org/news/2026-07-typhoons-bacteria-biochemistry.html",
           "source": {
-            "name": "KITCO"
+            "name": "Phys.org"
           },
-          "publishedAt": "2026-07-13T22:41:38Z",
-          "image": "https://image-api.prod.kitco.com/image/4ba1b3f6-ad04-4294-85ce-1c544837b7f8.png?top=10.323683110368&left=0&width=450&height=253.35263377926&scale_width=1920&token=e55f8b816a6419ec64396acf5cf8eb7a79fedceef72e67258ef922d296e6623e",
+          "publishedAt": "2026-07-14T01:40:04Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/2026/typhoons-mix-up-bacter.jpg",
           "language": "en"
         },
         {
-          "title": "Watch: David Seymour announces Paul Henry as election candidate for Act",
-          "description": "The Act Party has announced broadcaster Paul Henry will be a list candidate for the 2026 election. “He infects rooms with enthusiasm,” Act leader David...",
-          "url": "https://www.nzherald.co.nz/nz/politics/watch-david-seymour-makes-major-election-announcement/LM5W2R4XSVERLPB6DGXLTTLWAY/",
+          "title": "Man, 70, to be charged today over fatal Proton X70 crash that killed motorcyclist in PJ’s Section 17",
+          "description": "KUALA LUMPUR, July 14 — The driver of a Proton X70 who fatally struck a motorcyclist in a crash along Jalan 17/21 on May 5 will be charged in court today.Petaling Jaya police...",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/14/man-70-to-be-charged-today-over-fatal-proton-x70-crash-that-killed-motorcyclist-in-pjs-section-17/227497",
+          "source": {
+            "name": "Malay Mail"
+          },
+          "publishedAt": "2026-07-14T01:39:58Z",
+          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/14/351773.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Covid-19: What's new and should we be worried",
+          "description": "Last week, I received a flurry of messages from friends and strangers when the Quezon City government announced a 265 percent increase in Covid-19 cases over...",
+          "url": "https://mb.com.ph/2026/07/14/covid-19-whats-new-and-should-we-be-worried",
+          "source": {
+            "name": "Manila Bulletin"
+          },
+          "publishedAt": "2026-07-14T01:39:51Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/14/115867.webp",
+          "language": "en"
+        },
+        {
+          "title": "Govinda announces comeback, says industry wrote him off many times: ‘People said now he will not appear in films’",
+          "description": "Bollywood actor Govinda confirmed his return with the film Roopa, where he stars opposite newcomer Rani Swarnkar. | Bollywood",
+          "url": "https://www.hindustantimes.com/entertainment/bollywood/govinda-announces-comeback-says-industry-wrote-him-off-many-times-people-said-now-he-will-not-appear-in-films-101783952602707.html",
+          "source": {
+            "name": "Hindustan Times"
+          },
+          "publishedAt": "2026-07-14T01:37:31Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/07/13/550x309/Govinda_1727763309279_1783952600719_ae7d54e5-30af-48c2-8d26-b859d1ef6404.jpg",
+          "language": "en"
+        },
+        {
+          "title": "USCIS Issues Additional Updates To TPS-Related EAD Expirations",
+          "description": "The United States Citizenship and Immigration Services has announced revised expiration dates for Employment Authorization Documents tied to Temporary Protected Status for nationals of seven countries, following Supreme Court rulings on DHS termination authority. Employers must navigate these shifting deadlines to maintain compliance with federal immigration laws while awaiting potential further modifications.",
+          "url": "https://www.mondaq.com/unitedstates/work-visas/1816434/uscis-issues-additional-updates-to-tps-related-ead-expirations",
+          "source": {
+            "name": "Mondaq"
+          },
+          "publishedAt": "2026-07-14T01:35:22Z",
+          "image": "http://www.mondaq.com/images/profile/companythumb/14816.webp?v=20241101121958",
+          "language": "en"
+        },
+        {
+          "title": "MRT backpack incident sparks heated argument",
+          "description": "An MRT backpack incident in Singapore has divided netizens, highlighting issues of commuter etiquette and public transport space.",
+          "url": "https://www.stomp.sg/trending-now/your-bag-problem-heated-confrontation-breaks-out-mrt-after-backpack-brushes-against-passenger",
+          "source": {
+            "name": "Stomp"
+          },
+          "publishedAt": "2026-07-14T01:34:51Z",
+          "image": "https://cassette.sphdigital.com.sg/image/stomp/dc4db7f8cdad5108a87bb7cb62e1189273dbb16890fbaba399fae880769abbb9",
+          "language": "en"
+        },
+        {
+          "title": "Margaret Green guilty of manslaughter for stabbing partner Selwyn Robson in Manurewa",
+          "description": "Warning: This story contains graphic details that may disturb some people. A jury has found Margaret Green guilty of manslaughter, not murder, for fatally...",
+          "url": "https://www.nzherald.co.nz/nz/margaret-green-guilty-of-manslaughter-for-stabbing-partner-selwyn-robson-in-manurewa/F6POQTADHZDO3M4LEYYWK5M6NM/",
           "source": {
             "name": "NZ Herald"
           },
-          "publishedAt": "2026-07-13T22:41:18Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/WFZPP73T4ZC25KGBFPXXO3YGXY.jpg?auth=1dce64b51d5ebfd4741ccbf52415616a1acfe5b77ac84b8fab6974cf2b537796&width=1200&height=675&quality=70&smart=true",
-          "language": "en"
-        },
-        {
-          "title": "Police rescue missing boy with autism from West Auckland mangroves",
-          "description": "A young boy with autism was rescued from West Auckland mangroves after he went missing from his home. Police said the missing boy was found “wet and muddy”...",
-          "url": "https://www.nzherald.co.nz/nz/auckland/police-rescue-missing-boy-with-autism-from-west-auckland-mangroves/OXE6PY2GFREPLEFTUQCMOPMQ7I/",
-          "source": {
-            "name": "NZ Herald"
-          },
-          "publishedAt": "2026-07-13T22:41:15Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/ANHORPQWUZBLRJ32MJKPV6PBSA.jpg?auth=3c3dfa660e27b5a98df0f523b36cf004688c38d0e99749c8d48a398df785949b&width=1200&height=675&quality=70&focal=436%2C381&smart=false",
-          "language": "en"
-        },
-        {
-          "title": "How to install public betas for iOS 27, macOS 27, iPadOS 27, and more",
-          "description": "Apple just launched public betas for its next big round of software revisions. Here's how to try iOS 27 and macOS 27 Golden Gate.",
-          "url": "https://mashable.com/tech/apple-ios-ipados-watchos-macos-27-public-beta-how-to-download",
-          "source": {
-            "name": "Mashable"
-          },
-          "publishedAt": "2026-07-13T22:41:15Z",
-          "image": "https://helios-i.mashable.com/imagery/articles/01T3c8ogfmV4Zz461FwGrcb/hero-image.fill.size_1200x675.v1783960902.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Prison Leprosy Screening Detects Hidden Cases",
-          "description": "Leprosy screening uncovered undiagnosed disease and disability among incarcerated men in Brazil. Read more about the findings.",
-          "url": "https://www.emjreviews.com/dermatology/news/prison-screening-exposes-hidden-burden-of-leprosy/",
-          "source": {
-            "name": "EMJ"
-          },
-          "publishedAt": "2026-07-13T22:40:33Z",
-          "image": "https://www.emjreviews.com/wp-content/uploads/2026/07/AdobeStock_699964653.jpeg",
-          "language": "en"
-        },
-        {
-          "title": "Didier Deschamps issues Kylian Mbappe injury update after scare before France vs Spain clash",
-          "description": "Striker is recovering from an ankle problem and trained separately on Monday",
-          "url": "https://sports.yahoo.com/articles/didier-deschamps-issues-kylian-mbappe-223730374.html",
-          "source": {
-            "name": "Yahoo Sports"
-          },
-          "publishedAt": "2026-07-13T22:37:30Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/2e834eff421f10a1cad50e4295d6bed32189a462d7b85b326e5c80d788967b40/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fevening_standard_239%2F51eb55710352974f6168da00cf086df6",
-          "language": "en"
-        },
-        {
-          "title": "ThreatLocker CEO: AI vs. AI in cybersecurity is ‘complete garbage’",
-          "description": "As outlined in CRN, ThreatLocker CEO Danny Jenkins has strongly refuted the notion that artificial intelligence (AI) can effectively defend against AI-powered cyberattacks, calling the concept \"complete garbage.\"",
-          "url": "https://www.scworld.com/brief/threatlocker-ceo-ai-vs-ai-in-cybersecurity-is-complete-garbage",
-          "source": {
-            "name": "SC Media"
-          },
-          "publishedAt": "2026-07-13T22:36:54Z",
-          "image": "https://files.cyberriskalliance.com/wp-content/uploads/2026/06/AdobeStock_712166448-scaled.jpeg",
+          "publishedAt": "2026-07-14T01:34:07Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/ORZ2LJ7YMNHVTPK5EDIM5W32GY.jpg?auth=fce01ed231e99b4eca10be25f127c063fb3fd0b7cb4e2dc802144b2ed14c41a0&width=1200&height=675&quality=70&smart=true",
           "language": "en"
         }
       ]
