@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-15T08:12:19.425Z",
+  "updatedAt": "2026-07-15T10:50:49.206Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "１５日の東京株式市場見通し＝堅調に推移しそう 速報",
+          "description": "予想レンジ：６万７５００円－６万８５００円（１４日終値６万７７４３円５０銭）　１５日の東京株式は、堅調に推移しそうだ。現地１４日の米国株高の動きを受けて、引き続き、買い優勢の展開が見込まれる。ただ、・・・",
+          "url": "https://kabushiki.jp/news/757897",
+          "source": {
+            "name": "kabushiki.jp"
+          },
+          "publishedAt": "2026-07-14T22:48:00Z",
+          "image": "https://kabushiki.jp/ogp.png",
+          "language": "ja"
+        },
+        {
+          "title": "スペイン、W杯史上初6試合クリーンシートを達成!! 鉄壁の守備に遭ったフランスのゴール期待値は同代表最低に",
+          "description": "スペイン代表がフランス代表から2-0の完封勝利を収め、北中米W杯決勝へと駒を進めた。　現地時間14日に行われた準決勝でスペインとフランスが激突。20分にPA内に走り込んだMFラミネ・ヤマルがDFリュカ・ディ...",
+          "url": "https://web.gekisaka.jp/news/worldcup/detail/?455401-455401-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-07-14T22:25:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455401/news_455401_1.jpg?time=20260715074344",
+          "language": "ja"
+        },
+        {
+          "title": "フランス代表指揮官が主審に苦言「準決勝を裁くだけの力量があったのか」ヤマルのハンド疑惑に専門家見解は",
+          "description": "[7.14 W杯準決勝 フランス 0-2 スペイン]　フランス代表のディディエ・デシャン監督はスペイン代表に敗れた準決勝後、「負けたから泣き言を言っているように思われるだろう。だが、その審判に準決勝を裁くだけの...",
+          "url": "https://web.gekisaka.jp/news/worldcup/detail/?455400-455400-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-07-14T22:03:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455400/news_455400_1.jpg?time=20260715070926",
+          "language": "ja"
+        },
+        {
+          "title": "開放的なリビングでシアターの没入感も追求！ 吹き抜けを活かした広大な音場感で130型に没入",
+          "description": "共有スペースとしてリビングの美観は保ちつつも、ホームシアターは没入感たっぷりに楽しみたかったというO邸の実例。インストールはFIST Sound旭川の園田幸一氏が担当する。",
+          "url": "https://www.phileweb.com/sp/review/column/202607/15/3086.html",
+          "source": {
+            "name": "PHILE WEB"
+          },
+          "publishedAt": "2026-07-14T21:30:00Z",
+          "image": "https://www.phileweb.com/news/ogp/column/30/9348f397d2529c728a33749a450dc7e1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "今日15日も熱中症に警戒 関東以西に加えて北陸や東北も所々で猛暑日に",
+          "description": "今日15日も気温がグングン上がるでしょう。関東以西は内陸を中心に35℃以上の猛暑日が続き、北陸や東北も所々で猛暑日になりそうです。さらに、北海道でも30℃を超える所があり、暑さが増すでしょう。各地、熱中症対策が欠かせません。",
+          "url": "https://tenki.jp/forecaster/yosh_ika/2026/07/15/39723.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-14T21:06:35Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/397/39723/main/20260715060122/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "トランプ大統領 ホルムズ海峡“手数料請求”一日で撤回 米中央軍はイランへ追加攻撃開始 水道や電力関連施設周辺に攻撃か",
+          "description": "アメリカのトランプ大統領は、ホルムズ海峡を通過する貨物の20％相当額を各国に請求するとした自らの主張を撤回しました。\nアメリカ　トランプ大統領\n「誰であれ、海峡で手数料を取るべきではないと思う。手",
+          "url": "https://news.yahoo.co.jp/articles/583a2b22ceab27c8974dfb174455e99cbcdd6a08",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-14T21:00:01Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260715-07315351-jnn-000-5-thumb.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【W杯】スペインが4大会ぶりの決勝進出！ パスワークで圧倒して2得点、エムバペなどフランスの強力攻撃陣を封じて快勝",
+          "description": "現地時間7月14日に行なわれた北中米ワールドカップ（W杯）の準決勝で、フランスとスペインが対戦した。立ち上がりから狙いとするパスワークで優勢に進めるスペインが、前半にPKで先制して主導権を握り、後半",
+          "url": "https://news.yahoo.co.jp/articles/3a125d9d346ff6039d0274fef6f4ffaf693eb637",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-14T20:58:59Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260715-00010000-soccerm-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "ダイアン・津田、ドラマ初主演！情けないのに愛おしいシングルファザーを熱演「タイムトラベルダディ」8月1日スタート 愛妻役には橋本マナミ",
           "description": "「水曜日のダウンタウン」の人気シリーズ\"名探偵津田\"が大きな話題を呼び、「リブート」など俳優業もこなす人気芸人、津田篤宏(ダイアン)が、8月1日から放送される「タイムトラベルダディ」でドラマ初主演を務めることがわかった。本作は、人気劇団\"ヨ",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-07-14T20:00:00Z",
           "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3243594030062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=55d2cb4ede8edba6e8e80e78c09e33bc",
           "language": "ja"
-        },
-        {
-          "title": "中森明菜、20年ぶりのライブツアー＆61歳バースデー公演は大熱狂！（ニッポン放送 NEWS ONLINE）｜ｄメニューニュース",
-          "description": "中森明菜、20年ぶりのライブツアー＆61歳バースデー公演は大熱狂！（ニッポン放送 NEWS ONLINE）7月1日（水）の愛知・Niterra日本特殊陶業市民会館 フォレストホールを皮切りに、20年ぶりのライブツアー「AKINA NAKAMORI LIVE T…",
-          "url": "https://topics.smt.docomo.ne.jp/article/news1242/entertainment/news1242-550171?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-07-14T15:21:49Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/news1242/m_news1242-550171.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【ＮＹ為替オープニング】ウォーシュFRB議長発言に注目、原油高でインフレ懸念根強い、CPIは予想以上に鈍化｜FX・為替ニュース",
-          "description": "◇重要イベント・ポイント ・NY原油先物反発、80ドル台 ・トランプ米大統領 ・米・5月対米証券投資 ・ウォーシュFRB議長が下院金融サービス委員会で金融政策報告に関する証言、FRB理事バー氏、クック",
-          "url": "https://zai.diamond.jp/articles/-/492163",
-          "source": {
-            "name": "ザイFX！"
-          },
-          "publishedAt": "2026-07-14T13:59:00Z",
-          "image": "https://zai.diamond.jp/mwimgs/9/e/-/img_9e47ac79ce2cf237f05d70fc22e16d45110540.png",
-          "language": "ja"
-        },
-        {
-          "title": "【市場反応】米6月CPIはパンデミック来のマイナスに鈍化、ドル売り優勢｜FX・為替ニュース",
-          "description": "[欧米市場の為替相場動向] 米国労働統計局が発表した6月消費者物価指数（CPI）は前月比－0.4％と2020年5月来のマイナスとなった。前年比では＋3.5％と5月＋4.2％から予想以上に鈍化し、3月来で",
-          "url": "https://zai.diamond.jp/articles/-/492162",
-          "source": {
-            "name": "ザイFX！"
-          },
-          "publishedAt": "2026-07-14T13:16:00Z",
-          "image": "https://zai.diamond.jp/mwimgs/9/e/-/img_9e47ac79ce2cf237f05d70fc22e16d45110540.png",
-          "language": "ja"
-        },
-        {
-          "title": "【巨人】橋上監督代行「初登板と思えないぐらい良かった」復帰の山崎伊織に期待 浦田俊輔は体調面で大事を取って交代…一問一答",
-          "description": "巨人が接戦を落として、９連戦黒星スタートとなった。",
-          "url": "https://hochi.news/articles/20260714-OHT1T51409.html",
-          "source": {
-            "name": "スポーツ報知"
-          },
-          "publishedAt": "2026-07-14T13:05:00Z",
-          "image": "https://hochi.news/images/2026/07/14/20260714-OHT1I51588-C.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "太陽系の果ての2つの惑星。一般的な認識とは違う感じかもしれない（ギズモード・ジャパン）",
-          "description": "行って、この目で見てみたい。\nボイジャー2号が天王星と海王星に接近通過する以前、太陽系の果てにあるこの2つ惑星は、「冷たく生命のいない世界」だと考えられてきました。\nしかし、この歴史的な探査機が",
-          "url": "https://news.yahoo.co.jp/articles/c2e79f3763a5391b957f2f659014eef6ca384cb3",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-14T13:00:01Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260714-00000015-giz-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "太陽系の果ての2つの惑星。一般的な認識とは違う感じかもしれない|au Webポータル",
-          "description": "行って、この目で見てみたい。ボイジャー2号が天王星と海王星に接近通過する以前、太陽系の果てにあるこの2つ惑星は、「冷たく生命のいない世界」だと考えられてきました。しかし、この歴史的な探査機が訪れたこと",
-          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260714_1784034372102865",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-07-14T12:30:00Z",
-          "image": "https://portal.st-img.jp/assets/img/article_ogp.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "吾輩はSteam MachineをWindows化するための公式ドライバーである。デュアルブートはまだできない",
-          "description": "見慣れたWindowsを使いたい人へ。Valveから、Steam DeckやSteam MachineなどにWindowsをインストールするための公式ドライバーが公開・配布されました。これを導入すれば、お手持ちのValve製ハードをWind",
-          "url": "https://www.gizmodo.jp/article/7451ae4a-036d-41d2-a4a2-b093d54fb3fe/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-07-14T11:30:00Z",
-          "image": "https://media.loom-app.com/loom/2026/07/14/8c7e568d-49d4-469a-af02-0cb143e09d1d/original.jpg?w=1200&h=630",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "\"Don't Marry Your Enemy\": Sarah Martins Recounts What Happened After She Offered Woman a Ride",
-          "description": "Nollywood actress Sarah Martins has sparked a conversation online after sharing a video recounting a disturbing encounter she had with a couple she tried to help",
-          "url": "https://www.legit.ng/entertainment/celebrities/1719332-dont-marry-enemy-sarah-martins-recounts-what-happened-offered-woman-a-ride/",
-          "source": {
-            "name": "Legit.ng"
-          },
-          "publishedAt": "2026-07-14T20:12:09Z",
-          "image": "https://cdn.legit.ng/images/1200x675/9f1127792697b19c.jpeg?v=1",
-          "language": "en"
-        },
-        {
-          "title": "Health myths, rules and old wives tales, debunked: The truth behind these claims",
-          "description": "In an era of so much information, it’s funny that we tend to hold on to myths and old wives’ tales as absolute truths. \nMany of us uphold what came before us, repeating what our parents and grandparents used to do – because if it’s not broken, don’t fix it, right? Read more.",
-          "url": "https://www.nine.com.au/lifestyle/health-wellness/health-rules-myths-old-wives-tales-truth-debunked-20260709-p60dzn.html",
-          "source": {
-            "name": "Nine.com.au"
-          },
-          "publishedAt": "2026-07-14T20:11:59Z",
-          "image": "https://static.ffx.io/images/$zoom_0.3346%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_563%2C$y_186/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/831a21e4a2196e9de78702db7d25700d97a717e0",
-          "language": "en"
-        },
-        {
-          "title": "Elon Musk likely broke the law by giving voters $1 million, Wisconsin board says",
-          "description": "Billionaire Elon Musk likely broke Wisconsin law when he handed out $1 million checks to voters in the 2025 state Supreme Court election, a bipartisan panel has found.",
-          "url": "https://www.cnn.com/2026/07/14/politics/elon-musk-wisconsin-supreme-court-1-million-checks",
+          "title": "US carries out more strikes on Iran and begins blockade of Iranian ports",
+          "description": "The US has reimposed its naval blockade of Iranian ports, according to a US military statement. Follow for live news updates.",
+          "url": "https://edition.cnn.com/2026/07/14/world/live-news/iran-war-trump",
           "source": {
             "name": "CNN"
           },
-          "publishedAt": "2026-07-14T20:11:44Z",
-          "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2207713832.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2026-07-14T22:50:00Z",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26194329729132.jpg?c=16x9&q=w_800,c_fill",
           "language": "en"
         },
         {
-          "title": "Eminem's Ex-Wife Kim Scott Rushed To Hospital After Emergency Call",
-          "description": "Eminem's ex-wife Kim Scott seems to be in trouble again ... this time, paramedics removed her from her Michigan home on a gurney after receiving an emergency call ... and we've got footage.",
-          "url": "https://www.tmz.com/2026/07/14/kim-scott-rushed-to-the-hospital/",
+          "title": "Twelve foreign nationals among Spain wildfire victims",
+          "description": "Twelve of the 13 victims of a deadly wildfire that swept through Andalusia in southern Spain were foreign nationals, the authorities said after completing post-mortem examinations.",
+          "url": "https://www.rte.ie/news/world/2026/0714/1583392-spain-wildfires/",
           "source": {
-            "name": "TMZ"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-07-14T20:10:38Z",
-          "image": "https://imagez.tmz.com/image/fc/16by9/2026/07/14/fcc64c8a7ab346d4985b3bdfe53998f1_xl.png",
+          "publishedAt": "2026-07-14T22:49:54Z",
+          "image": "https://www.rte.ie/images/0024b2d9-1600.jpg",
           "language": "en"
         },
         {
-          "title": "Spain eliminate France to advance to World Cup final",
-          "description": "The win was the sixth shutout at the competition for Spain who have turned into a defensive juggernaut",
-          "url": "https://www.cbssports.com/soccer/news/france-vs-spain-live-updates-world-cup-2026-score-result/live/",
+          "title": "Minister Warns Against Bribery in People's School Enrollment",
+          "description": "A minister reminds the public not to easily believe parties offering assistance to enroll in People's School in exchange for certain benefits.",
+          "url": "https://en.tempo.co/read/2113713/minister-warns-against-bribery-in-peoples-school-enrollment",
           "source": {
-            "name": "CBS Sports"
+            "name": "Tempo.co English"
           },
-          "publishedAt": "2026-07-14T20:09:46Z",
-          "image": "https://sportshub.cbsistatic.com/i/r/2026/07/14/22d023ea-2e38-4b28-9ef0-d125ae431db0/thumbnail/1200x675/be5634a45fe644c6c8d4ca6d4dd13c05/spain-france.jpg",
+          "publishedAt": "2026-07-14T22:47:24Z",
+          "image": "https://statik.tempo.co/data/2026/07/14/id_1482099/1482099_720.jpg",
           "language": "en"
         },
         {
-          "title": "Donald Trump backs away from 20 per cent fee plan on Strait of Hormuz",
-          "description": "The US president had proposed a 20 per cent fee on cargo passing through the waterway, but said he would instead seek additional investment deals with Gulf states.",
-          "url": "https://www.smh.com.au/world/north-america/trump-backs-away-from-fee-plan-on-strait-of-hormuz-20260715-p60fcf.html",
-          "source": {
-            "name": "SMH.com.au"
-          },
-          "publishedAt": "2026-07-14T20:08:49Z",
-          "image": "https://static.ffx.io/images/$zoom_0.6390607407407407%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_210%2C$y_33/t_crop_custom/q_86%2Cf_auto/1bc4e2b9d63e603f0737046cbbc9452ce4fd6153",
-          "language": "en"
-        },
-        {
-          "title": "Burnham hails Hillsborough law as ‘rewiring of the state’ as MPs approve bill",
-          "description": "PM-in-waiting says bill is major step towards securing accountability families had fought for, in rare moment of Labour unity",
-          "url": "https://www.theguardian.com/football/2026/jul/14/burnham-hails-hillsborough-law-rewiring-state-mps-approve-bill",
+          "title": "Seven Britons among 12 foreign nationals killed in Spain’s deadly wildfires",
+          "description": "Fire broke out last Thursday in the southeastern province of Almería, which is home to many foreign residents",
+          "url": "https://www.theguardian.com/world/2026/jul/14/seven-britons-among-12-foreign-nationals-killed-in-spains-deadly-wildfires",
           "source": {
             "name": "The Guardian"
           },
-          "publishedAt": "2026-07-14T20:07:00Z",
-          "image": "https://i.guim.co.uk/img/media/320cd07ec7349d770ab43d3f83fda09890c374e4/0_0_3016_2413/master/3016.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=623691bc30ad3c0da41230692688f5e5",
+          "publishedAt": "2026-07-14T22:46:00Z",
+          "image": "https://i.guim.co.uk/img/media/560f156da3df47e509a680fac9015917edaf33fe/323_0_5002_4000/master/5002.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2154ae414c3403db7389a045b23584c9",
           "language": "en"
         },
         {
-          "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
-          "description": "Meta denies using AI to terminate workers with disabilities and medical problems.",
-          "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+          "title": "These are the 17 Mexicans whose ICE-related deaths prompted Mexico to demand accountability",
+          "description": "The deaths of 17 Mexican immigrants in ICE custody or operations have escalated tensions between Mexico and the US",
+          "url": "https://www.cnn.com/2026/07/14/americas/mexicans-deaths-ice-custody-operations-latam-intl",
           "source": {
-            "name": "Ars Technica"
+            "name": "CNN"
           },
-          "publishedAt": "2026-07-14T20:05:53Z",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/meta-ai-1152x648-1784056210.jpg",
+          "publishedAt": "2026-07-14T22:39:37Z",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26192748063409a.JPG?c=16x9&q=w_800,c_fill",
           "language": "en"
         },
         {
-          "title": "Garda Commissioner apologises for 'significant failures' investigating Bill Kenneally",
-          "description": "The apology comes more than a month after a major report found a “clear and serious dereliction of duty” on behalf of gardaí investigating the paedophile.",
-          "url": "https://www.breakingnews.ie/ireland/garda-apology-month-after-bill-kenneally-report-1926929.html",
+          "title": "Congress takes next step to make daylight saving time permanent",
+          "description": "The House of Representatives passed a Trump-backed bill that would end decades of Americans having to reset their clocks twice a year.",
+          "url": "https://www.bbc.com/news/articles/cz9l9venjd8o",
           "source": {
-            "name": "BreakingNews.ie"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-14T20:05:18Z",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMTQyMDU2MTVcXFwvMi44NDIyNjM2NC1lMTc4NDA1OTI1MTU0NC5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjYyNDhlN2FhNDZhNjY0ZDgzMDQwZjVlMGViOTg0ZmMyMGQwYWRjMDAifQ==/garda-commissioner-apologises-for-significant-failures-investigating-bill-kenneally.jpg",
+          "publishedAt": "2026-07-14T22:39:29Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8854/live/13a1fe10-7fce-11f1-82bc-eb96a9eb8087.jpg",
           "language": "en"
         },
         {
-          "title": "Why the Parramatta Eels signing Jarome Luai makes no sense, young halves, Alex McKinnon column",
-          "description": "Surprise loser in desperate Luai call... and reeking excuse over young gun Eels halves",
-          "url": "https://www.foxsports.com.au/nrl/nrl-premiership/nrl-2026-why-the-parramatta-eels-signing-jarome-luai-makes-no-sense-young-halves-alex-mckinnon-column/news-story/42755b46648e28f6b3d42fd0aca8e3e6",
+          "title": "'You are so loved': Taika Waititi remembers dear friend Sir Sam Neill",
+          "description": "\"Love you and see you soon,\" the Hunt for the Wilderpeople director said.",
+          "url": "https://www.1news.co.nz/2026/07/15/you-are-so-loved-taika-waititi-remembers-dear-friend-sir-sam-neill/",
           "source": {
-            "name": "Fox Sports"
+            "name": "1News"
           },
-          "publishedAt": "2026-07-14T20:03:38Z",
-          "image": "https://content.api.news/v3/images/bin/2bb8cc2a93eb04fe72655441694e9588",
+          "publishedAt": "2026-07-14T22:37:02Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/taika-waititi-and-sir-sam-neill-SH752TK6Q5BDVFRN5GVJYIXZMY.jpg?auth=ee75d76d36477407c0059411fbae0fda26889c2a0ea34d847752828c243d7041&quality=70&width=600&height=315&focal=2187%2C748",
+          "language": "en"
+        },
+        {
+          "title": "'I will not fall into the trap'",
+          "description": "FRANCE boss Didier Deschamps cryptically hit out at referee Ivan Barton after his side were dumped out of the World Cup by Spain.\nLes Bleus...",
+          "url": "https://www.thesun.co.uk/sport/39760681/didier-deschamps-referee-france-world-cup-spain/",
+          "source": {
+            "name": "The Sun"
+          },
+          "publishedAt": "2026-07-14T22:37:00Z",
+          "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/epa13111847-frances-head-coach-didier-1095351249.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+          "language": "en"
+        },
+        {
+          "title": "Mbappé silenced in all-time World Cup heist",
+          "description": "Kylian Mbappé’s swaggering France were brought to their knees by a Spain side that produced one of the great World Cup ambushes in Dallas.",
+          "url": "https://www.nine.com.au/sport/football/fifa-world-cup-spain-france-semi-final-result-reaction-news-kylian-mbappe-didier-deschamps-20260715-p60fcs.html",
+          "source": {
+            "name": "Nine.com.au"
+          },
+          "publishedAt": "2026-07-14T22:36:27Z",
+          "image": "https://static.ffx.io/images/$zoom_0.9981%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_89/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/0b3fabc9fc029fae54b838793e0e446447796657",
+          "language": "en"
+        },
+        {
+          "title": "World Cup favorites France unravel as Spain book spot in final with ease",
+          "description": "Spain have sealed their place in the 2026 World Cup final, but why did France collapse so easily?",
+          "url": "https://www.espn.in/football/story/_/id/49361910/world-cup-favorites-france-unravel-spain-book-spot-final-ease",
+          "source": {
+            "name": "espn.in"
+          },
+          "publishedAt": "2026-07-14T22:36:00Z",
+          "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0714%2Fr1689255_1296x729_16%2D9.jpg",
           "language": "en"
         }
       ]
