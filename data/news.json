@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-15T10:50:49.206Z",
+  "updatedAt": "2026-07-15T13:45:18.578Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "9歳少女の動画、48万円の送金も 被害認識持たせぬ巧妙な手口",
+          "description": "マニラから車で約1時間。のどかな田園風景が広がる農村に、トタン屋根の家々が並ぶ。その裏を、大きな川がゆったりと流れている。 　川沿いの家屋の中に、真新しいレンガ張りの外壁が目に入った。事件当時、少女たちが暮らしていた家だ。今も「祖母」はここに住んでいる。",
+          "url": "https://mainichi.jp/articles/20260712/k00/00m/030/097000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-07-15T01:02:00Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/07/12/20260712k0000m030094000p/0c10.jpg?1",
+          "language": "ja"
+        },
+        {
+          "title": "トランプ米大統領、ホルムズ海峡の貨物「対価20％」徴収を撤回 橋や発電所の空爆を脅す",
+          "description": "アメリカのドナルド・トランプ大統領は14日、ホルムズ海峡を通過するすべての貨物輸送に20％の対価を課すという脅しを撤回した。代わりに、湾岸諸国との「巨大な」貿易投資協定で置き換えると述べた。トランプ氏はさらに、米FOXニュースで、イランが交渉に戻らないなら、イランの橋や発電所を来週にも空爆すると脅した。この間、米軍はイラン港湾の海上封鎖を再開した。",
+          "url": "https://www.bbc.com/japanese/articles/cy8w8lnn2vyo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-07-15T00:43:44Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/d6c0/live/e8f90230-7fb4-11f1-926f-c90d1bcfbc84.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【男子バレー】清水邦広が挙げたVNL日本ラウンドの「一番の山場」となる試合は？ 代表復帰の西田有志は「漫画の主人公みたい」",
+          "description": "清水邦広が語るネーションズリーグ男子と日本代表　後編（中編：石川祐希は「なかなか調子が上がらなかったが......」 激化する正セッター争いも語った＞＞）　７月15日からAsueアリーナ大阪で行なわれるネーションズリーグ（VNL）男子の…",
+          "url": "https://sportiva.shueisha.co.jp/clm/otherballgame/volleyball/2026/07/15/post_62/",
+          "source": {
+            "name": "webスポルティーバ"
+          },
+          "publishedAt": "2026-07-15T00:30:00Z",
+          "image": "https://sportiva.shueisha.co.jp/clm/otherballgame/volleyball/2026/images/af6e5555e9ce719310f2da13ee629854c7ae9eab.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "連載「歌うテックニュース」第9回：Transformer論文を読めば、倦怠期カップルも愛を取り戻せるはずなのだ（西川善司）",
+          "description": "今回の楽曲は、先日掲載された、ローカルSLMに対応したNVIDIAのゲーム向けAI技術のACEの記事にちなんだ歌です。",
+          "url": "https://www.techno-edge.net/article/2026/07/15/5294.html",
+          "source": {
+            "name": "テクノエッジ TechnoEdge"
+          },
+          "publishedAt": "2026-07-14T23:30:34Z",
+          "image": "https://www.techno-edge.net/imgs/ogp_f/32943.png",
+          "language": "ja"
+        },
+        {
+          "title": "橋本環奈、チェ・ジョンヒョプと相談して作り上げた胸キュンシーン 共演者とのLINEグループは2日で誕生「陽キャの集まり」【「バカンスの法則」インタビュー】",
+          "description": "7月27日にスタートするABEMAオリジナルドラマ「バカンスの法則」（毎週月・水・金／1話15分・全18話）で主演を務める女優の橋本環奈（はしもと・かんな／27）にインタビュー。今作への思いや、相手役のチェ・ジョンヒョプと現場で相談しながら作り上げたというこだわりの胸キュンシーンの舞台裏を語ってもらった。さらに「失敗を引きずらない」という彼女のしなやかで力強いポジティブマインドの根源に迫る。",
+          "url": "https://mdpr.jp/interview/detail/4812071",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-07-14T23:00:00Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/ZodF/wm/ZodFnN1wKABXE6vimkOTYX34s-iL3c2KidG-uAY48XE.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
         {
           "title": "１５日の東京株式市場見通し＝堅調に推移しそう 速報",
           "description": "予想レンジ：６万７５００円－６万８５００円（１４日終値６万７７４３円５０銭）　１５日の東京株式は、堅調に推移しそうだ。現地１４日の米国株高の動きを受けて、引き続き、買い優勢の展開が見込まれる。ただ、・・・",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-07-14T21:06:35Z",
           "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/397/39723/main/20260715060122/large.jpg",
           "language": "ja"
-        },
-        {
-          "title": "トランプ大統領 ホルムズ海峡“手数料請求”一日で撤回 米中央軍はイランへ追加攻撃開始 水道や電力関連施設周辺に攻撃か",
-          "description": "アメリカのトランプ大統領は、ホルムズ海峡を通過する貨物の20％相当額を各国に請求するとした自らの主張を撤回しました。\nアメリカ　トランプ大統領\n「誰であれ、海峡で手数料を取るべきではないと思う。手",
-          "url": "https://news.yahoo.co.jp/articles/583a2b22ceab27c8974dfb174455e99cbcdd6a08",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-14T21:00:01Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260715-07315351-jnn-000-5-thumb.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【W杯】スペインが4大会ぶりの決勝進出！ パスワークで圧倒して2得点、エムバペなどフランスの強力攻撃陣を封じて快勝",
-          "description": "現地時間7月14日に行なわれた北中米ワールドカップ（W杯）の準決勝で、フランスとスペインが対戦した。立ち上がりから狙いとするパスワークで優勢に進めるスペインが、前半にPKで先制して主導権を握り、後半",
-          "url": "https://news.yahoo.co.jp/articles/3a125d9d346ff6039d0274fef6f4ffaf693eb637",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-14T20:58:59Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260715-00010000-soccerm-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "ダイアン・津田、ドラマ初主演！情けないのに愛おしいシングルファザーを熱演「タイムトラベルダディ」8月1日スタート 愛妻役には橋本マナミ",
-          "description": "「水曜日のダウンタウン」の人気シリーズ\"名探偵津田\"が大きな話題を呼び、「リブート」など俳優業もこなす人気芸人、津田篤宏(ダイアン)が、8月1日から放送される「タイムトラベルダディ」でドラマ初主演を務めることがわかった。本作は、人気劇団\"ヨ",
-          "url": "https://eiga.com/news/20260715/1/",
-          "source": {
-            "name": "映画.com"
-          },
-          "publishedAt": "2026-07-14T20:00:00Z",
-          "image": "https://media.eiga.com/images/buzz/127763/987124ed8d8b3442.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「犯罪に加担することに…」 抵抗した28歳、配慮足りぬ職場",
-          "description": "「犯罪に加担することになる」 　恐怖と不安が入り交じりながら、必死に抵抗する姿が浮かんでくる。 　病気休職願と題された文書は、和歌山市職員だった男性が書き残していた。連なっていたのは、市役所内で繰り返されていた不正の告発だった。",
-          "url": "https://mainichi.jp/articles/20260707/k00/00m/040/141000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-07-14T20:00:00Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/07/09/20260709k0000m040032000p/0c10.jpg?1",
-          "language": "ja"
-        },
-        {
-          "title": "「最古の霊長類」の新たな化石を発見、6550万年前 繁栄の謎に光",
-          "description": "2025年、米コロラド州コロラドスプリングスの近郊で、6550万〜6540万年前のプルガトリウス（Purgatorius）と呼ばれる動物のごく小さな歯の化石が3本見つかった。小惑星の衝突によって非鳥類型恐竜が絶滅したおよそ55万〜65万年後だ。プルガトリウスの化石では最南端の産出地であり、恐竜時代後の世界で初期の霊長類がどのように進化し繁栄していったかを探る上で興味深い手がかりとなる。論文は26",
-          "url": "https://www.nikkei.com/article/DGXZQOSG3064N0Q6A630C2000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-07-14T20:00:00Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3243594030062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=55d2cb4ede8edba6e8e80e78c09e33bc",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "US carries out more strikes on Iran and begins blockade of Iranian ports",
-          "description": "The US has reimposed its naval blockade of Iranian ports, according to a US military statement. Follow for live news updates.",
-          "url": "https://edition.cnn.com/2026/07/14/world/live-news/iran-war-trump",
+          "title": "How Ice Cream Helps England Coach Thomas Tuchel Unwind As World Cup History Beckons",
+          "description": "How does Thomas Tuchel stay loose at the World Cup between some of the biggest games of his coaching career? Ice cream, as it turns out.",
+          "url": "https://www.foxsports.com/stories/soccer/how-ice-cream-helps-england-coach-thomas-tuchel-unwind-world-cup-history-beckons",
           "source": {
-            "name": "CNN"
+            "name": "FOX Sports"
           },
-          "publishedAt": "2026-07-14T22:50:00Z",
-          "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26194329729132.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2026-07-15T01:43:43Z",
+          "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/tuchel1-1.jpg?ve=1&tl=1",
           "language": "en"
         },
         {
-          "title": "Twelve foreign nationals among Spain wildfire victims",
-          "description": "Twelve of the 13 victims of a deadly wildfire that swept through Andalusia in southern Spain were foreign nationals, the authorities said after completing post-mortem examinations.",
-          "url": "https://www.rte.ie/news/world/2026/0714/1583392-spain-wildfires/",
+          "title": "NCT 127 Renews Contracts With SM Entertainment",
+          "description": "NCT 127 will continue their journey with SM Entertainment! On July 15, SM entertainment released a statement confirming that the members of NCT",
+          "url": "https://www.soompi.com/article/1854749wpp/nct-127-renews-contracts-with-sm-entertainment",
           "source": {
-            "name": "RTE.ie"
+            "name": "Soompi"
           },
-          "publishedAt": "2026-07-14T22:49:54Z",
-          "image": "https://www.rte.ie/images/0024b2d9-1600.jpg",
+          "publishedAt": "2026-07-15T01:43:25Z",
+          "image": "https://0.soompi.io/wp-content/uploads/2026/07/14180249/nct-127.png",
           "language": "en"
         },
         {
-          "title": "Minister Warns Against Bribery in People's School Enrollment",
-          "description": "A minister reminds the public not to easily believe parties offering assistance to enroll in People's School in exchange for certain benefits.",
-          "url": "https://en.tempo.co/read/2113713/minister-warns-against-bribery-in-peoples-school-enrollment",
+          "title": "In Largest Study of Its Kind, U.S. Fiction Audiobook Consumers Rate Spoken Multi-Cast Higher Than Human Narration",
+          "description": "Results from Edison Research Reveal Increased Willingness to Purchase AI-narrated Audiobooks, Signaling a Shift in Market Readiness",
+          "url": "https://podnews.net/press-release/edison-spoken",
           "source": {
-            "name": "Tempo.co English"
+            "name": "Podnews"
           },
-          "publishedAt": "2026-07-14T22:47:24Z",
-          "image": "https://statik.tempo.co/data/2026/07/14/id_1482099/1482099_720.jpg",
+          "publishedAt": "2026-07-15T01:43:02Z",
+          "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzUwIDEyMCAyNTAgMjUwJz48cGF0aCBmaWxsPScjZmZmJyBkPSdNMTMwIDI5N2g4MFYxNDdoLTgweicvPjxwYXRoIGZpbGw9JyNiMDEyMTInIGQ9J00xNjAgMzQ0YTEwIDEwIDAgMSAxIDAgMTkgMTAgMTAgMCAwIDEgMC0xOW01MC0xNDRjMCAzLTIgNS01IDVhNSA1IDAgMCAxLTUtNXYtMjBjMC0zIDItNSA1LTVzNSAyIDUgNXptLTM2LTcycy01OS0zLTU5IDYydjEwN2gyOXYtMTloLTZ2LTg4YTM4IDM4IDAgMCAxIDM2LTM4aDJjMTUgMCAyNyA4IDM0IDIwYTkgOSAwIDAgMC0xNCA4djIwYTkgOSAwIDAgMCAxNCA4IDM4IDM4IDAgMCAxLTUzIDE1djU1aC02djM0YTEwIDEwIDAgMCAwIDkgOWM1IDAgMTAtNCAxMC05di02YTcgNyAwIDAgMSA2LTcgNyA3IDAgMCAxIDcgN3YxN2MwIDMgMSA1IDMgNyAyIDEgNCAzIDcgMyA1LTEgOS01IDktMTB2LTE3YTcgNyAwIDAgMSA3LTdjMiAwIDUgMiA2IDRhNyA3IDAgMCAxIDAgM3Y0OGMwIDIgMSA1IDMgNiAyIDIgNCAzIDcgM2ExMCAxMCAwIDAgMCA5LTlWMTkzYzAtNjktNjAtNjUtNjAtNjUnLz48L3N2Zz4=",
           "language": "en"
         },
         {
-          "title": "Seven Britons among 12 foreign nationals killed in Spain’s deadly wildfires",
-          "description": "Fire broke out last Thursday in the southeastern province of Almería, which is home to many foreign residents",
-          "url": "https://www.theguardian.com/world/2026/jul/14/seven-britons-among-12-foreign-nationals-killed-in-spains-deadly-wildfires",
+          "title": "Bea Alonzo's lawyer confirms actress has married Vincent Co",
+          "description": "After hours of speculation fueled by reports from several entertainment outlets citing sources unrelated to the couple, cryptic social media posts, and blurred...",
+          "url": "https://mb.com.ph/2026/07/15/bea-alonzos-lawyer-confirms-actress-has-married-vincent-co",
           "source": {
-            "name": "The Guardian"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-07-14T22:46:00Z",
-          "image": "https://i.guim.co.uk/img/media/560f156da3df47e509a680fac9015917edaf33fe/323_0_5002_4000/master/5002.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2154ae414c3403db7389a045b23584c9",
+          "publishedAt": "2026-07-15T01:41:29Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/15/116160.webp",
           "language": "en"
         },
         {
-          "title": "These are the 17 Mexicans whose ICE-related deaths prompted Mexico to demand accountability",
-          "description": "The deaths of 17 Mexican immigrants in ICE custody or operations have escalated tensions between Mexico and the US",
-          "url": "https://www.cnn.com/2026/07/14/americas/mexicans-deaths-ice-custody-operations-latam-intl",
+          "title": "Tokyo stocks open higher after Wall Street gains",
+          "description": "TOKYO (Kyodo) -- Tokyo stocks opened higher Wednesday, tracking overnight gains on Wall Street after the U.S. consumer price index for June showed slo",
+          "url": "https://mainichi.jp/english/articles/20260715/p2g/00m/0bu/019000c",
           "source": {
-            "name": "CNN"
+            "name": "毎日新聞"
           },
-          "publishedAt": "2026-07-14T22:39:37Z",
-          "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26192748063409a.JPG?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2026-07-15T01:41:16Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/07/01/20260701p2g00m0bu039000p/0c10.jpg?1",
           "language": "en"
         },
         {
-          "title": "Congress takes next step to make daylight saving time permanent",
-          "description": "The House of Representatives passed a Trump-backed bill that would end decades of Americans having to reset their clocks twice a year.",
-          "url": "https://www.bbc.com/news/articles/cz9l9venjd8o",
+          "title": "Spain and goalkeeper Unai Simón post another shutout to reach the World Cup final",
+          "description": "Spain and goalkeeper Unai Simón posted another shutout to get to the World Cup final",
+          "url": "https://www.foxsports.com/articles/soccer/spain-and-goalkeeper-unai-simon-post-another-shutout-to-reach-the-world-cup-final",
           "source": {
-            "name": "BBC"
+            "name": "FOX Sports"
           },
-          "publishedAt": "2026-07-14T22:39:29Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8854/live/13a1fe10-7fce-11f1-82bc-eb96a9eb8087.jpg",
+          "publishedAt": "2026-07-15T01:41:15Z",
+          "image": "https://a57.foxsports.com/statics.foxsports.com/static/orion/images/defaults/1408/814/story-card.jpg?ve=1&tl=1",
           "language": "en"
         },
         {
-          "title": "'You are so loved': Taika Waititi remembers dear friend Sir Sam Neill",
-          "description": "\"Love you and see you soon,\" the Hunt for the Wilderpeople director said.",
-          "url": "https://www.1news.co.nz/2026/07/15/you-are-so-loved-taika-waititi-remembers-dear-friend-sir-sam-neill/",
+          "title": "way drone boats for first time in combat against Iran",
+          "description": "The United States is using one-way drone boats in combat against Iran for the first time in its military history. A defence expert says America is catching on to this \"cheaper and more effective\" tactic employed by Iran and Ukraine.",
+          "url": "https://www.abc.net.au/news/2026-07-15/us-uses-explosive-drone-speedboats-against-iran-for-first-time/106912714",
           "source": {
-            "name": "1News"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-07-14T22:37:02Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/taika-waititi-and-sir-sam-neill-SH752TK6Q5BDVFRN5GVJYIXZMY.jpg?auth=ee75d76d36477407c0059411fbae0fda26889c2a0ea34d847752828c243d7041&quality=70&width=600&height=315&focal=2187%2C748",
+          "publishedAt": "2026-07-15T01:40:22Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/0e14318a04570b88ea97e27bbfa73ba8?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "'I will not fall into the trap'",
-          "description": "FRANCE boss Didier Deschamps cryptically hit out at referee Ivan Barton after his side were dumped out of the World Cup by Spain.\nLes Bleus...",
-          "url": "https://www.thesun.co.uk/sport/39760681/didier-deschamps-referee-france-world-cup-spain/",
+          "title": "Pregnant Samantha Ruth Prabhu says she has been waiting for this moment: ‘Always wanted to be a mother’",
+          "description": "Actor Samantha Ruth Prabhu is expecting her first child with filmmaker Raj Nidimoru. Here's what she said about her pregnancy.",
+          "url": "https://www.hindustantimes.com/entertainment/telugu-cinema/pregnant-samantha-ruth-prabhu-says-she-has-been-waiting-for-motherhood-raj-nidimoru-101784027969547.html",
           "source": {
-            "name": "The Sun"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-07-14T22:37:00Z",
-          "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/epa13111847-frances-head-coach-didier-1095351249.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+          "publishedAt": "2026-07-15T01:36:47Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/07/14/550x309/Samantha_Ruth_Prabhu_bump_1784027944805_1784027963547_dbab5d42-4739-4142-ac47-362be9f43638.jpg",
           "language": "en"
         },
         {
-          "title": "Mbappé silenced in all-time World Cup heist",
-          "description": "Kylian Mbappé’s swaggering France were brought to their knees by a Spain side that produced one of the great World Cup ambushes in Dallas.",
-          "url": "https://www.nine.com.au/sport/football/fifa-world-cup-spain-france-semi-final-result-reaction-news-kylian-mbappe-didier-deschamps-20260715-p60fcs.html",
+          "title": "Thomas Tuchel: 'No cracks' in Jude Bellingham relationship",
+          "description": "Thomas Tuchel insists there are \"no cracks\" with Jude Bellingham and believes the pair are closer than ever before despite the England star publicly hitting back at his manager.",
+          "url": "https://www.espn.com.sg/soccer/story/_/id/49363424/thomas-tuchel-jude-bellingham-england-fifa-world-cup-2026",
           "source": {
-            "name": "Nine.com.au"
+            "name": "ESPN Singapore"
           },
-          "publishedAt": "2026-07-14T22:36:27Z",
-          "image": "https://static.ffx.io/images/$zoom_0.9981%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_89/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/0b3fabc9fc029fae54b838793e0e446447796657",
+          "publishedAt": "2026-07-15T01:35:05Z",
+          "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0715%2Fr1689378_1296x729_16%2D9.jpg",
           "language": "en"
         },
         {
-          "title": "World Cup favorites France unravel as Spain book spot in final with ease",
-          "description": "Spain have sealed their place in the 2026 World Cup final, but why did France collapse so easily?",
-          "url": "https://www.espn.in/football/story/_/id/49361910/world-cup-favorites-france-unravel-spain-book-spot-final-ease",
+          "title": "Enest ends first ACE Market day below IPO price",
+          "description": "Enest Group Bhd (KL:ENEST) fell in its first trading day on the ACE Market following the bird's nest company's listing transfer from the LEAP Market.",
+          "url": "https://theedgemalaysia.com/node/810701",
           "source": {
-            "name": "espn.in"
+            "name": "The Edge Malaysia"
           },
-          "publishedAt": "2026-07-14T22:36:00Z",
-          "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0714%2Fr1689255_1296x729_16%2D9.jpg",
+          "publishedAt": "2026-07-15T01:34:26Z",
+          "image": "https://assets.theedgemarkets.com/20260715_PEO_BURSA_MALAYSIA_ACE_MARKET_LISTING-ENEST_GROUP_BERHAD-group_px_ZHD-2_20260715110538-APP.jpg",
           "language": "en"
         }
       ]
