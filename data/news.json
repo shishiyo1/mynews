@@ -1,10 +1,54 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-15T19:12:27.036Z",
+  "updatedAt": "2026-07-15T22:01:42.367Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【速報中】第175回芥川賞は小砂川チトさん「ゾンビ回収婦」、直木賞は朝倉かすみさん「けんぐゎい」 オードリーの若林正恭さん「青天」受賞ならず",
+          "description": "第175回の直木賞に朝倉かすみさんの「けんぐゎい」が選ばれました。",
+          "url": "https://news.tv-asahi.co.jp/news_society/articles/900195078.html",
+          "source": {
+            "name": "テレ朝NEWS"
+          },
+          "publishedAt": "2026-07-15T10:00:00Z",
+          "image": "https://news.tv-asahi.co.jp/articles_img/900195078_1200.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "フランスのプレスが機能せず…ムバッペがスペイン戦の采配を疑問視「難しい状況だった」",
+          "description": "フランス代表FWキリアン・ムバッペがスペイン代表に0-2で敗れた2026 FIFAワールドカップ(W杯)北中米大会準決勝後、ディディエ・デシャン監督の戦術的アプローチに疑問を呈した。イギリス『トーク・スポーツ』が...",
+          "url": "https://web.gekisaka.jp/news/worldcup/detail/?455426-455426-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-07-15T09:38:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455426/news_455426_1.jpg?time=20260715184055",
+          "language": "ja"
+        },
+        {
+          "title": "ViVi国宝級イケメンランキング：SixTONES松村北斗が「ADULT部門」で首位 前人未踏の3部門殿堂入り 「僕をいいと思ってくれる人がいると思うと自信に繋がる」 2026年上半期のランキング発表",
+          "description": "人気グループ「SixTONES（ストーンズ）」の松村北斗さんが、女性ファッション誌「ViVi（ヴィヴィ）」（講談社）の名物企画「ViVi国宝級イケメンランキング」の2026年上半期のランキングで、3…",
+          "url": "https://mainichikirei.jp/article/20260715dog00m100009000a.html",
+          "source": {
+            "name": "毎日キレイ"
+          },
+          "publishedAt": "2026-07-15T08:30:00Z",
+          "image": "https://storage.mainichikirei.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/07/15/20260715dog00m100009000a/001.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "SixTONES松村北斗、「ViVi国宝級イケメンランキング」初の3部門殿堂入り達成「シンプルにうれしい」【一覧掲載】",
+          "description": "ニュース｜　6人組グループ・SixTONESの松村北斗が、23日発売のファッション雑誌『ViVi』9月号（講談社）で特集される人気企画「ViVi国宝級イケメンランキング」2026年上半期のADULT部門（30歳以上）で首位を獲得。主要3部門（NEXT（22歳以下）、NOW、ADULT）すべてで殿堂入りとなる同誌初のグランドスラムを達成した。　ADULT部門は、30歳以上が対象となり、過去には町田啓太、山田裕貴、坂口健太郎など、日本の名作を支える俳優たちが殿堂入りしてきた。松村は、2度目となる1位に輝いた。松村は、前例のない“国宝級グランドスラム”を達成した。",
+          "url": "https://www.oricon.co.jp/news/2468015/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-07-15T08:30:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2469000/2468015/20260715_154956_p_o_23180141.jpg",
+          "language": "ja"
+        },
         {
           "title": "「経営を動かすマーケは、何が違うのか？」慶應義塾大学名誉教授・池尾恭一氏×ポーラ代表取締役社長・小林琢磨氏が「MARKETING NOVA SUMMIT 2026」基調講演で対談",
           "description": "TOYNOVA株式会社のプレスリリース（2026年7月15日 16時00分）「経営を動かすマーケは、何が違うのか？」慶應義塾大学名誉教授・池尾恭一氏×ポーラ代表取締役社長・小林琢磨氏が「MARKETING NOVA SUMMIT 2026」基調講演で対談",
@@ -61,170 +105,126 @@
           "language": "ja"
         },
         {
-          "title": "ダウンロード版ゲームが最大83％OFFとなるセールが開催中！『スーパーロボット大戦V』は52%OFF！",
-          "description": "産経新聞社のニュースサイト。政治、経済、国際、社会、スポーツ、エンタメ、災害情報などの速報記事と解説記事を掲載しています。",
-          "url": "https://www.sankei.com/pressrelease/prtimes/GDYFN6DPDBLULHJP4FE4H73KEU/",
+          "title": "西川貴教「THE FIRST TAKE」で偉業達成 日之内エミ「口パク」批判が呼んだ皮肉な結末",
+          "description": "歌手のT.M.Revolutionこと西川貴教（55）が出演して1998年にリリースした代表曲「HOT LIMIT」を熱唱したYouTubeチャンネル「THE FIRST TAKE（ザ・ファースト・テイク）」の動画が、再生回数1000万回…",
+          "url": "https://www.zakzak.co.jp/article/20260715-XNOKW75UBZBG7GLC6I4MDWD2EY/",
           "source": {
-            "name": "産経ニュース"
+            "name": "zakⅡ"
           },
-          "publishedAt": "2026-07-15T05:00:00Z",
-          "image": "https://www.sankei.com/resizer/v2/https%3A%2F%2Fdpgdieoe6npux.cloudfront.net%2Fprtimes%2F5IH7376SFVMJTGAHIYVOI5UXBQ?auth=71a41d3b44027153c63b2d0438030b15413a8c96fb0927d8aa2fc2f3be102ade&quality=50&smart=true&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "【解説】 ホルムズ海峡めぐる対立、米イラン合意の弱点があらわに",
-          "description": "停戦合意が頓挫する中、ホルムズ海峡を誰がどう管理するのかが、アメリカとイランの主要な争点となっている。",
-          "url": "https://www.bbc.com/japanese/articles/cm202x4yne2o",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-07-15T04:48:44Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/2d0c/live/39f9d170-7fa9-11f1-a5f4-433bb9aa2e5a.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "県議会“金銭授受”疑惑 副議長 音声データ「信ぴょう性乏しい」から一転 「AI生成ではない」と記者から指摘 「私の声紋なんでしょう」と認める 【福岡発】",
-          "description": "福岡県議会の“金銭授受”疑惑。音声データについて「本人のもので間違いない」と指摘された県議会副議長が、改めて疑惑を否定する会見を開いたが…。",
-          "url": "https://news.yahoo.co.jp/articles/8f09c343de42c51d960ff4368e45be53f2ab5d41",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-15T04:35:29Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260715-01175521-fnnprimev-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "佐藤二朗・橋本愛トラブルでフジ「火9テロップ」から消えたスポンサーの名 「中居ショック」の再来か",
-          "description": "佐藤二朗・橋本愛トラブルでフジ「火9テロップ」から消えたスポンサーの名　「中居ショック」の再来か（デイリー新潮）　ドラマ「夫婦別姓刑事」の撮影中に起きたトラブルについては、目下、フジテレビの責任を問う声が広がっている。フジ局内からは…",
-          "url": "https://topics.smt.docomo.ne.jp/article/dailyshincho/entertainment/dailyshincho-1476084?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-07-15T04:08:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/dailyshincho/m_dailyshincho-1476084.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『ゴースト・オブ・ヨウテイ』25%オフ『バイオレクイエム』20%オフ。PSの人気タイトルがオトクになるサマーセールが開催",
-          "description": "PS Storeにて、プレイステーション5とプレイステーション4のタイトルがオトクな価格で購入できるSUMMER SALEが開催中。第1弾が2026年7月15日（水）～7月29日（水）、第2弾が2026年7月27日（月）～8月12日（水）に展開。",
-          "url": "https://www.famitsu.com/article/202607/81436",
-          "source": {
-            "name": "ファミ通"
-          },
-          "publishedAt": "2026-07-15T03:23:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/81436/thumbnail_MfBG.jpg?x=1280",
+          "publishedAt": "2026-07-15T05:01:16Z",
+          "image": "https://www.zakzak.co.jp/resizer/v2/AKCFKUYUKNOAZNXHXZAJ63AEVY.jpg?auth=c09bd9f511810ed00d16be01f00f6f679fccd67130d73a4860ca8b0b7c94e513&quality=50&focal=1674%2C1130&width=1200&height=675",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Fifa World Cup: England v Argentina labelled ‘highest risk’ game by FBI",
-          "description": "England’s Fifa World Cup semi-final against Argentina has been designated the “highest risk” game of the competition by the United States’ FBI. A pre-match...",
-          "url": "https://www.nzherald.co.nz/sport/football/football-world-cup/fifa-world-cup-england-v-argentina-labelled-highest-risk-game-by-fbi/Q76NGODGZJDRVCG2QC7JZMI3LU/",
+          "title": "Nandi-Ndaitwah heads to SA for bilateral commission",
+          "description": "President Netumbo Nandi-Ndaitwah will travel to Pretoria on Thursday to co-chair the fourth session of the Namibia-South Africa Bi-National Commission (BNC) with South African president Cyril […]",
+          "url": "https://www.namibian.com.na/nandi-ndaitwah-heads-to-sa-for-bilateral-commission/",
           "source": {
-            "name": "NZ Herald"
+            "name": "The Namibian -"
           },
-          "publishedAt": "2026-07-15T07:11:40Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/X5G4FGCPERAGFDZC6X3QEFMPNQ.jpg?auth=09cdf169e8c0ce6654745afb9f6065579fb94a8b002b3dbb5da73cb6e8c1a48a&width=1200&height=675&quality=70&smart=true",
+          "publishedAt": "2026-07-15T10:01:44Z",
+          "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-11.46.22-AM-1024x683.jpeg",
           "language": "en"
         },
         {
-          "title": "Spain recapture 2010 spirit after reaching World Cup final: De la Fuente",
-          "description": "After a masterclass against France in the semifinals, Spain are just one win from winning their second World Cup.",
-          "url": "https://www.aljazeera.com/news/2026/7/15/spain-france-world-cup-semifinal-luis-de-la-fuente-2010-title",
+          "title": "Africa Urged to Invest in Cancer Experts",
+          "description": "AFRICA has been urged to invest in training and retaining home-grown neuro-oncology specialists to tackle the growing burden of brain and spinal tumours and improve access to quality cancer care across the continent.",
+          "url": "https://allafrica.com/stories/202607150219.html",
           "source": {
-            "name": "Al Jazeera"
+            "name": "allAfrica.com"
           },
-          "publishedAt": "2026-07-15T07:11:09Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260710__B9TE9PG__v1__HighRes__FblWc2026PresserEsp-1784096183.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-07-15T10:01:32Z",
+          "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
           "language": "en"
         },
         {
-          "title": "Trump's Situation Room meeting signals dangerous new phase in Iran war: 'The aim now is to ...'",
-          "description": "The meeting comes amid a renewed escalation between both the sides after a shaky ceasefire collapsed earlier this month. Iran has launched fresh strikes on US bases in Jordan, Kuwait and Bahrain.",
-          "url": "https://www.moneycontrol.com/world/trump-s-situation-room-meeting-signals-dangerous-new-phase-in-iran-war-the-aim-now-is-to-article-13974490.html",
+          "title": "Travellers warned of methanol poisoning risks in new campaign",
+          "description": "Holidaymakers are urged to understand the dangers and symptoms of methanol poisoning.",
+          "url": "https://www.bbc.co.uk/news/articles/c9929dg5l5lo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-07-15T10:00:29Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/410b/live/b8303310-8033-11f1-a2a1-e90920ef9667.jpg",
+          "language": "en"
+        },
+        {
+          "title": "CEO Q&A with Kieran Daly, HealthBeacon",
+          "description": "HealthBeacon Co-Founder Kieran Daly discusses digital health innovation, leadership, business growth, motivation and the future of home healthcare in this CEO Q&A.",
+          "url": "https://businessandfinance.com/news/success-is-about-building-something-meaningful-ceo-qa-with-kieran-daly-general-manager-and-co-founder-of-healthbeacon/",
+          "source": {
+            "name": "Business & Finance"
+          },
+          "publishedAt": "2026-07-15T10:00:26Z",
+          "image": "https://businessandfinance.com/wp-content/uploads/2026/07/Screenshot-17-1-1.png",
+          "language": "en"
+        },
+        {
+          "title": "Microsoft Fixes Record 600+ Vulnerabilities In July 2026 Patch Tuesday, Including Three Zero-Day Flaws",
+          "description": "Microsoft has released its July 2026 Patch Tuesday security updates, delivering fixes for a record-breaking 622 vulnerabilities across Windows, Microsoft Office, SharePoint, Azure-related components, Visual Studio, and other products. The release marks the largest Patch Tuesday update in the company",
+          "url": "https://www.linkedin.com/pulse/microsoft-fixes-record-600-vulnerabilities-july-xykve",
+          "source": {
+            "name": "LinkedIn"
+          },
+          "publishedAt": "2026-07-15T10:00:21Z",
+          "image": "https://media.licdn.com/dms/image/v2/D4E12AQFGqQR3rODwaQ/article-cover_image-shrink_720_1280/B4EZ9iEBZtJkAQ-/0/1784056651790?e=2147483647&v=beta&t=VWz3Mg6gngTi3EmMu-ResL21PMCNwzjC9K5PAvdO-Ps",
+          "language": "en"
+        },
+        {
+          "title": "A tragedy leaves Maine Democrats with less time to choose",
+          "description": "Unlike some major news developments that provide a moment of political clarity, this situation resolves nothing. Instead, it raises the stakes for Democrats to make the right choice.",
+          "url": "https://www.bostonglobe.com/2026/07/15/nation/how-tragedy-changed-timeline-politics-maines-senate-race/",
+          "source": {
+            "name": "The Boston Globe"
+          },
+          "publishedAt": "2026-07-15T10:00:10Z",
+          "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/SKRRZID66ALCESQO5XDVMCD3HI.JPG?auth=8b9ca7718ee0f9f32ae7ca77dc5b9ed6045d6e9c6d28532e4fce8c0fdce03995&width=1440",
+          "language": "en"
+        },
+        {
+          "title": "'The Daily Show' reacts to Trump's blunt words about Lindsey Graham's cause of death",
+          "description": "\"Daily Show\" host Michael Kosta has reacted to Trump sharing his thoughts on Lindsey Graham's cause of death.",
+          "url": "https://mashable.com/entertainment/daily-show-trump-lindsey-graham-cause-of-death",
+          "source": {
+            "name": "Mashable"
+          },
+          "publishedAt": "2026-07-15T10:00:08Z",
+          "image": "https://helios-i.mashable.com/imagery/videos/06eLzUq4CgXGMs3QrK6IszA/hero-image.fill.size_1200x675.v1784106726.png",
+          "language": "en"
+        },
+        {
+          "title": "PlayStation 3 emulator RPCS3 hits new milestone with 75% of its library now fully ‘Playable’",
+          "description": "The leading PlayStation 3 emulator RPCS3 has reached another major milestone, with 75% of all PS3 games now being ‘Playable’.",
+          "url": "https://www.kitguru.net/desktop-pc/mustafa-mahmoud/playstation-3-emulator-rpcs3-hits-new-milestone-with-75-of-its-library-now-fully-playable/",
+          "source": {
+            "name": "KitGuru"
+          },
+          "publishedAt": "2026-07-15T10:00:06Z",
+          "image": "https://www.kitguru.net/wp-content/uploads/2026/07/rpcs3-732x330.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Cabinet okays mobile phone manufacturing scheme with outlay of Rs 62,500 crore",
+          "description": "The Union Cabinet on Wednesday approved a mobile phone manufacturing scheme with an outlay of Rs 62,500 crore.",
+          "url": "https://www.moneycontrol.com/news/india/cabinet-approves-mobile-phone-manufacturing-scheme-with-layout-of-rs-62-500-crore-13974686.html",
           "source": {
             "name": "Moneycontrol.com"
           },
-          "publishedAt": "2026-07-15T07:10:49Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260708090504_Trump-Crypto.jpg",
+          "publishedAt": "2026-07-15T10:00:02Z",
+          "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260711103639_Ashwini-Vaishnaw-new-image.png",
           "language": "en"
         },
         {
-          "title": "The Earth's inner core grows by roughly a millimetre a year as molten iron freezes onto it, and that slow crystallisation releases the energy that stirs the outer core and keeps the planet's magnetic",
-          "description": "Earth's inner core grows by about a millimetre a year as molten iron freezes onto its surface, and the latent heat and buoyant fluids released by that slow crystallisation drive the convection in the outer core that generates the planet's magnetic field.",
-          "url": "https://spacedaily.com/j-the-earths-inner-core-grows-by-roughly-a-millimetre-a-year-as-molten-iron-freezes-onto-it-and-that-slow-crystallisation-releases-the-energy-that-stirs-the-outer-core-and-keeps-the-planets-magnetic-f/",
+          "title": "Oil reserves eased Iran war price shock, but now they are 'spent', IMF says",
+          "description": "The International Monetary Fund says the global economy was spared the worst of the oil price shock because of large reserves. Now they are running out.",
+          "url": "https://www.abc.net.au/news/2026-07-15/oil-reserves-spent-imf-us-iran-war/106918074",
           "source": {
-            "name": "Space Daily"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-07-15T07:10:41Z",
-          "image": "https://spacedaily.com/wp-content/uploads/2026/07/j-the-earths-inner-core-grows-by-roughly-a-millimetre-a-year.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Tokyo stocks rise on slowing US inflation, tech gains",
-          "description": "TOKYO (Kyodo) -- Tokyo stocks rose Wednesday as investors welcomed slowing inflation in the United States, while there was a sense of optimism toward",
-          "url": "https://mainichi.jp/english/articles/20260715/p2g/00m/0bu/034000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-07-15T07:10:31Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/07/01/20260701p2g00m0bu040000p/0c10.jpg?1",
-          "language": "en"
-        },
-        {
-          "title": "Phil Collins talks meeting Oasis at upcoming Rock Hall Of Fame induction after Noel Gallagher called him \"the Antichrist\"",
-          "description": "Phil Collins has opened up about potentially meeting Oasis at the upcoming Rock & Roll Hall Of Fame 2026 ceremony.",
-          "url": "https://www.nme.com/news/music/phil-collins-talks-meeting-oasis-at-upcoming-rock-hall-of-fame-induction-after-noel-gallagher-called-him-the-antichrist-3957052",
-          "source": {
-            "name": "NME"
-          },
-          "publishedAt": "2026-07-15T07:10:06Z",
-          "image": "https://www.nme.com/wp-content/uploads/2026/07/2026_philcollins_oasis_getty_bigbrotherecordings_2000x1270.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Taoiseach slams 'horrific' abuse on Jamey Carney's social media and says platforms must act",
-          "description": "Meta has indicated that people can report comments that they deem to be abusive, and action will subsequently be taken.",
-          "url": "https://www.thejournal.ie/jamey-carney-online-abuse-7101732-Jul2026/",
-          "source": {
-            "name": "The Journal"
-          },
-          "publishedAt": "2026-07-15T07:10:00Z",
-          "image": "https://img2.thejournal.ie/article/7101732/river/?height=400&version=7102291",
-          "language": "en"
-        },
-        {
-          "title": "Singapore man gets over nine years’ jail, 12 strokes of cane for sexual offences against two 13-year-old girls",
-          "description": "SINGAPORE: While chatting with a 13-year-old girl online, a 20-year-old man lied that he was 18 and asked her to be his girlfriend.",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/15/singapore-man-gets-over-nine-years-jail-12-strokes-of-cane-for-sexual-offences-against-two-13-year-old-girls",
-          "source": {
-            "name": "The Star"
-          },
-          "publishedAt": "2026-07-15T07:09:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/07/15/4011894.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Call The Midwife star Helen George reveals tragic death of secret boyfriend",
-          "description": "Call The Midwife star Helen George has opened up about the tragic and devastating death of her secret boyfriend, who died from leukaemia after just a short while together",
-          "url": "https://www.mirror.co.uk/3am/celebrity-news/helen-george-secret-boyfriend-death-37432273",
-          "source": {
-            "name": "The Mirror"
-          },
-          "publishedAt": "2026-07-15T07:09:00Z",
-          "image": "https://i2-prod.mirror.co.uk/article37389325.ece/ALTERNATES/s1200d/0_High-Society-press-night-After-Party-London-UK-03-Jun-2026.jpg",
-          "language": "en"
-        },
-        {
-          "title": "India’s ethanol rush prompts anger among vehicle owners, questions for gov’t",
-          "description": "Indian petrol stations now only offer fuel with 20 percent ethanol blended in. But the rushed move triggers criticism.",
-          "url": "https://www.aljazeera.com/news/2026/7/15/indias-ethanol-rush-prompts-anger-among-vehicle-owners-questions-for-govt",
-          "source": {
-            "name": "Al Jazeera"
-          },
-          "publishedAt": "2026-07-15T07:08:54Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/8-1784091204.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-07-15T10:00:02Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/dd693d3b036678b7ecc1de34a13a2db2?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
           "language": "en"
         }
       ]
