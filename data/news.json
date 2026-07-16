@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-16T19:12:47.406Z",
+  "updatedAt": "2026-07-16T22:04:09.909Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "《SHINJOの信条》それが一番、安心しました",
+          "description": "■パ・リーグ１４回戦　ソフトバンク６－２日本ハム（７月１６日、エスコンフィールド北海道）　試合詳細はコチラ　試合後、取材に応じた新庄剛志監督（５４）の一問一答は以下の通り。【ファイターズの最新記...",
+          "url": "https://www.doshinsports.com/article_detail/id=25903",
+          "source": {
+            "name": "道新スポーツ"
+          },
+          "publishedAt": "2026-07-16T09:09:51Z",
+          "image": "https://www.doshinsports.com/files/topics/25903_ext_01_0.png?v=1784192636",
+          "language": "ja"
+        },
+        {
+          "title": "全国的に高温傾向続く 夏休み中も熱中症に厳重に警戒を 最新の1か月予報",
+          "description": "気象庁は今日16日、最新の1か月予報を発表しました。この先1か月、全国的に気温が高く、特に今月末にかけてはかなりの高温が予想されています。来週は最高気温40℃の酷暑日一歩手前の気温も予想されていて、夏休み中も熱中症に厳重に警戒が必要です。来週は関東甲信や東海で梅雨明けを迎えそうです。",
+          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/07/16/39747.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-16T08:50:32Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/397/39747/main/20260716145940/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "控除なし所得連動給付、29年度導入 対象は年収53万円〜など3案",
+          "description": "超党派の「社会保障国民会議」の実務者会議は16日、所得に連動した新たな給付制度を2029年度に全面導入する方針を決めた。働く中低所得の人に配る。対象となる具体的な年収水準や支援額、財源は未定のままだ。与野党8党が参加する実務者会議は16日、議長を務める自民党の小野寺五典氏が示した給付制度案について、高市早苗首相をトップに各党代表らが参加する「親会議」へ報告することを了承した。高市首相は同日、",
+          "url": "https://www.nikkei.com/article/DGXZQOUA156W00V10C26A7000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-07-16T08:48:26Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3320620016072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=eba2c6ec0041240565147f8f2ecf42fc",
+          "language": "ja"
+        },
+        {
+          "title": "『アーケロン（Arkheron）』攻略ガイド。おすすめアイテムを活用して立ち回り、戦闘特化型モード「スパイアーズ」と45人バトロワ「アセンション」を生き抜け",
+          "description": "3人ひと組のチームを組んで戦う『アーケロン』のクローズドβテストが2026年7月16日からスタート。スムーズに遊ぶためのプレイガイドをお届けする。",
+          "url": "https://www.famitsu.com/article/202607/81524",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-07-16T08:30:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/81524/thumbnail_MFPZ.jpg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "愛子さま巡る中曽根氏発言で見え隠れ 女性の怒りを呼ぶ価値観",
+          "description": "10日に衆院を通過し、近く参院で可決、成立する見通しの皇室典範改正案を巡り、ある国会議員の発言が物議を醸しました。発言から半月がたった今も、女性たちを中心とした批判の声はやむことはありません。",
+          "url": "https://mainichi.jp/articles/20260716/k00/00m/010/038000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-07-16T07:30:00Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/07/15/20260715k0000m040418000p/0c10.jpg?1",
+          "language": "ja"
+        },
         {
           "title": "【速報】車内で\"熱中症\" 生後11か月の男児が死亡 母親「家事や仕事に気を取られて」 熱中症警戒アラート発表中 32.5℃まで気温上がる 熊本市",
           "description": "警察などによりますと、15日午後2時15分ごろ、熊本市北区池田の住宅の駐車場で、生後11か月の男の子が、駐車場の車の中で心肺停止状態で見つかり、運ばれた病院で死亡しました。\n司法解剖の結果、死因は",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-07-16T04:58:53Z",
           "image": "https://pc.watch.impress.co.jp/img/pcw/list/2125/695/01.jpg",
           "language": "ja"
-        },
-        {
-          "title": "日本でもGoogleのオフィス・一般用途向けAIエージェント「Gemini Spark」が利用可能に",
-          "description": "米Googleは7月14日（現地時間）、オフィス・一般用途向けAIエージェント機能「Gemini Spark」がEU、ナイジェリア、スイス、英国を除く、「Gemini」アプリがサポートされている地域で利用できるようになったことを発表した。利用可能になった地域には日本も含まれる。",
-          "url": "https://forest.watch.impress.co.jp/docs/news/2125671.html",
-          "source": {
-            "name": "窓の杜"
-          },
-          "publishedAt": "2026-07-16T04:47:00Z",
-          "image": "https://forest.watch.impress.co.jp/img/wf/list/2125/671/image1.png",
-          "language": "ja"
-        },
-        {
-          "title": "『スターオーシャン セカンドストーリー R』Switch 2版が本日（7/16）発売。従来プラットフォーム対応版は価格改定で値下げ",
-          "description": "Nintendo Switch 2版『スターオーシャン セカンドストーリー R』が本日2026年7月16日に発売。19日にはシリーズ30周年を記念した生放送も実施される。",
-          "url": "https://www.famitsu.com/article/202607/81574",
-          "source": {
-            "name": "ファミ通"
-          },
-          "publishedAt": "2026-07-16T04:26:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/81574/thumbnail_rcQP.jpg?x=1280",
-          "language": "ja"
-        },
-        {
-          "title": "黄金カード・横浜対東海大相模のスタメン！横浜は149キロ左腕、東海大相模は1年生左腕が先発【神奈川】｜記事一覧｜高校野球ドットコム",
-          "description": "頑張っている球児を応援する高校野球報道サイト。コラムや試合記事など高校野球情報を公開中。",
-          "url": "https://www.hb-nippon.com/articles/14965",
-          "source": {
-            "name": "高校野球ドットコム"
-          },
-          "publishedAt": "2026-07-16T03:19:13Z",
-          "image": "https://cdn.hb-nippon.com/article-img/01KXJE957QKGZE6NSGEKX4Y18J.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【2026年サッカー男子W杯】アルゼンチン代表、フォークランド諸島について横断幕を試合後に掲示 FIFAが処分の可能性",
-          "description": "サッカー男子ワールドカップ（W杯）北中米大会は15日（日本時間16日）、アメリカのアトランタ・スタジアムで準決勝があり、イングランドがアルゼンチンに1-2で敗れた。試合後にアルゼンチンの選手たちはピッチで、フォークランド諸島に対する自国の領有権を主張する横断幕を掲げた。このため、国際サッカー連盟（FIFA）から処分を受ける可能性が出ている。",
-          "url": "https://www.bbc.com/japanese/articles/cjd4k3gk442o",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-07-16T02:40:05Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/b3c0/live/7f838280-809a-11f1-abcc-2d303f4b40e8.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "NMC、新型エルグランドベースのカスタムカー「オーテック」「オーテックライン」「VIP」「ステップタイプ」",
-          "description": "日産モータースポーツ＆カスタマイズ（略称NMC）は7月16日、新型「エルグランド」をベースにしたカスタムカー「AUTECH（オーテック）」「AUTECH LINE（オーテックライン）」「VIP」「ステップタイプ」を発表した（AUTECHのみ8月上旬発売）。価格は、AUTECHが824万7800円、AUTECH LINEが717万9700円～778万4700円、VIPが869万8800円、ステップタイプが714万6700円～803万4400円。",
-          "url": "https://car.watch.impress.co.jp/docs/news/2125593.html",
-          "source": {
-            "name": "Car Watch"
-          },
-          "publishedAt": "2026-07-16T02:34:26Z",
-          "image": "https://car.watch.impress.co.jp/img/car/list/2125/593/006.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Woman in fraudulent scheme for foreigners to get PR status in Singapore gets jail",
-          "description": "One Chinese national, hoping to obtain Singapore PR status, testified about how he paid S$360,000 (US$278,970) as an \"investment\" in what turned out to be a sham job arrangement.",
-          "url": "https://www.channelnewsasia.com/singapore/wang-jue-sham-scheme-foreigner-pr-jail-6257886",
+          "title": "Photos: Messi’s Argentina stun England to reach World Cup final vs Spain",
+          "description": "Messi inspires Argentina’s dramatic late comeback win over England to reach final against Spain.",
+          "url": "https://www.aljazeera.com/gallery/2026/7/16/photos-messis-argentina-stun-england-to-reach-world-cup-final-vs-spain",
           "source": {
-            "name": "CNA"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-07-16T07:10:09Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--O1pt9MUe--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/16/wang_jue_1.jpg?itok=BYeKJO-3",
+          "publishedAt": "2026-07-16T10:03:44Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/GettyImages-2286310515-1784181449.jpg?resize=1920%2C1440",
           "language": "en"
         },
         {
-          "title": "Gemini Spark can do more things for you and is faster too",
-          "description": "Gemini Spark is getting new features including more capable Workspace integrations and it's also getting a noticeable speed boost.",
-          "url": "https://www.androidauthority.com/gemini-spark-workspace-features-speed-improvements-3688053/",
+          "title": "Nobel Laureates sign Rome Declaration on Nuclear Weapons and AI",
+          "description": "Nobel laureates, international experts and scientists, religious leaders, and former heads of state and government gather at Rome's Capitoline Hill to ...",
+          "url": "https://www.vaticannews.va/en/world/news/2026-07/global-nobel-laureates-assembly-sign-declaration-on-peace-ai.html",
           "source": {
-            "name": "Android Authority"
+            "name": "Vatican News"
           },
-          "publishedAt": "2026-07-16T07:10:00Z",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-2-scaled.jpg",
+          "publishedAt": "2026-07-16T10:03:05Z",
+          "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2019/03/21/AdobeStock_143966124.jpeg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
           "language": "en"
         },
         {
-          "title": "Kim Kardashian's Brit bodyguard Mason Haynes dies aged 52 after horror motorbike crash as tributes pour in",
-          "description": "KIM Kardashian's Brit bodyguard has died in a horror motorbike crash at 52.\nMason Haynes was found dead at the scene of the crash in Hampshire,...",
-          "url": "https://www.thesun.co.uk/tvandshowbiz/39775059/kim-kardashian-bodyguard-mason-haynes-dies-horror-crash/",
+          "title": "Judgment reserved in Ramaphosa's Phala Phala interdict",
+          "description": "The Western Cape High Court has reserved judgment in President Cyril Ramaphosa's urgent application to halt Parliament's Section 89 impeachment process.",
+          "url": "https://www.enca.com/news-top-stories/judgment-reserved-ramaphosas-phala-phala-interdict",
           "source": {
-            "name": "The Sun"
+            "name": "eNCA"
           },
-          "publishedAt": "2026-07-16T07:10:00Z",
-          "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/newspress-collage-i36dbtrml-1784188721143.jpg?quality=90&strip=all&1784192352&w=1920&h=1080&crop=1",
+          "publishedAt": "2026-07-16T10:02:35Z",
+          "image": "https://www.enca.com/sites/default/files/styles/large/public/2026-07/AFP__20260309__A2KA4QR__v1__MidRes__BrazilSafricaDiplomacy.jpg.webp?itok=cXiXMbC2",
           "language": "en"
         },
         {
-          "title": "US approves nearly $2bn in weapons sales to Saudi Arabia",
-          "description": "\"Proposed sale will improve Saudi Arabia's capability to deter current and future threats by strengthening its homeland defence and improving interoperability with US forces,\" US State Department says.",
-          "url": "https://www.dawn.com/news/2015878",
+          "title": "Astronomers decode the ‘ringing’ of black holes",
+          "description": "A major review reveals how black hole \"ringdowns\" are becoming powerful tools for testing Einstein's theory, probing dark matter, and uncovering new physics.",
+          "url": "https://www.techexplorist.com/astronomers-decode-ringing-black-holes/103568/",
           "source": {
-            "name": "Dawn"
+            "name": "Tech Explorist"
           },
-          "publishedAt": "2026-07-16T07:09:28Z",
-          "image": "https://i.dawn.com/large/2026/07/161210371052d7a.webp",
+          "publishedAt": "2026-07-16T10:01:44Z",
+          "image": "https://www.techexplorist.com/wp-content/uploads/2026/07/GW250114.webp",
           "language": "en"
         },
         {
-          "title": "US expands strikes into northern Iran and disables ship",
-          "description": "The United States has intensified its strikes on Iran, hitting targets further north. American forces also fired into a ship the U.S. accused of trying to break its naval blockade on the Islamic Republic.",
-          "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-16-2026-f98ff56554de2336f0e85bb5fdcae769",
+          "title": "Ultra-processed food linked to quarter of heart disease cases and deaths - study",
+          "description": "Data suggests deaths will fall if people cut their intake of UPFs.",
+          "url": "https://www.standard.co.uk/news/health/france-canada-european-people-dundee-b1290143.html",
           "source": {
-            "name": "AP News"
+            "name": "London Evening Standard"
           },
-          "publishedAt": "2026-07-16T07:08:00Z",
-          "image": "https://dims.apnews.com/dims4/default/09b80d7/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd3%2F75%2Ff03a4bcffb8fd77a6a549133ce6d%2Fec48a42f3f85489ab27a8b28a0f15d66",
+          "publishedAt": "2026-07-16T10:01:15Z",
+          "image": "https://static.standard.co.uk/2026/07/15/23/31124634-3aa91aa1-900b-48fb-b520-f105376c4425.jpg?width=1200&auto=webp&quality=75",
           "language": "en"
         },
         {
-          "title": "Cell-suppressing treatments may be detrimental to Alzheimer's patients",
-          "description": "Irish research suggests that immune cells could play a critical role in maintaining the stability of neuronal networks in Alzheimer’s disease",
-          "url": "https://www.imt.ie/news/cell-suppressing-treatments-may-be-detrimental-to-alzheimers-patients-16-07-2026/",
+          "title": "NZ's South Island struck by magnitude-5.9 earthquake",
+          "description": "The earthquake struck 40 kilometres north of Te Anau, with the west coast of the South Island from Milford Sound to Puysegur Point, likely to be affected.",
+          "url": "https://www.abc.net.au/news/2026-07-16/tsunami-warning-for-new-zealand-south-island/106925218",
           "source": {
-            "name": "Irish Medical Times"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-07-16T07:07:30Z",
-          "image": "https://d1l0gza1nowsqe.cloudfront.net/wp-content/uploads/sites/4/2026/07/GettyImages-924834316-brain-620.webp",
+          "publishedAt": "2026-07-16T10:01:06Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/b76213e30be805a1e3e782eaef8078b4?impolicy=wcms_watermark_news&cropH=497&cropW=884&xPos=220&yPos=216&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Iran targets military bases as US launches wave of strikes",
-          "description": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
-          "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo",
+          "title": "State investigation into paedophile Michael Shine should begin 'immediately', report says",
+          "description": "Lorcan Staines insisted that any public inquiry undertaken must be carried out as expeditiously as possible.",
+          "url": "https://www.thejournal.ie/michael-shine-inquiry-7103518-Jul2026/",
           "source": {
-            "name": "BBC"
+            "name": "The Journal"
           },
-          "publishedAt": "2026-07-16T07:06:38Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b67e/live/039382d0-80de-11f1-a5c2-db1656c1a0a8.jpg",
+          "publishedAt": "2026-07-16T10:01:00Z",
+          "image": "https://img2.thejournal.ie/article/7103518/river/?height=400&version=7103525",
           "language": "en"
         },
         {
-          "title": "Iran targets military bases as US launches wave of strikes",
-          "description": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
-          "url": "https://www.bbc.com/news/articles/c2lq1ed28jxo",
+          "title": "Nomos Adds Two New Compact Tetra 27 to the Collection",
+          "description": "Fine German mechanics in miniature... The addition of two new Tetra 27 versions expands Nomos' dressy square watch range.",
+          "url": "https://monochrome-watches.com/2026-nomos-tetra-27-white-and-tetra-27-duo-hand-wound-introducing-price/",
           "source": {
-            "name": "BBC"
+            "name": "Monochrome Watches"
           },
-          "publishedAt": "2026-07-16T07:06:38Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b67e/live/039382d0-80de-11f1-a5c2-db1656c1a0a8.jpg",
+          "publishedAt": "2026-07-16T10:01:00Z",
+          "image": "https://monochrome-watches.com/app/uploads/2026/07/2026-Nomos-Tetra-27-Duo-and-Tetra-27-White-1.jpg",
           "language": "en"
         },
         {
-          "title": "Kerry hotel restaurant added to Michelin Guide",
-          "description": "The Falls Restaurant, part of the five-star Sheen Falls Lodge in Co Kerry, has been added to the prestigious Michelin Guide.",
-          "url": "https://www.rte.ie/lifestyle/food/2026/0716/1583595-kerry-hotel-restaurant-added-to-michelin-guide/",
+          "title": "While home ownership rates in some states are improving, one state is a clear outlier for unaffordable housing",
+          "description": "Sydney is no longer affordable for most, as new data reveals the number of people who own the home they live in is the lowest it has been in decades.",
+          "url": "https://www.abc.net.au/news/2026-07-16/kpmg-housing-report-sydney-home-ownership-gone-backwards/106922620",
           "source": {
-            "name": "RTE.ie"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-07-16T07:06:14Z",
-          "image": "https://www.rte.ie/images/00219a89-1600.jpg",
+          "publishedAt": "2026-07-16T10:00:41Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/659d501fdb8827c766b04a74c84514db?impolicy=wcms_watermark_news&cropH=461&cropW=820&xPos=0&yPos=77&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Leaked WhatsApp Chats Expose Rental Scam Targeting Kenyans Searching for Holiday Apartments",
-          "description": "Kenyans are warned of a rental scam after a Reddit user exposed a fraudster posing as a booking agent. Learn to identify apartment booking scams and stay safe.",
-          "url": "https://www.tuko.co.ke/entertainment/celebrities/632901-leaked-whatsapp-chats-expose-rental-scam-targeting-kenyans-searching-holiday-apartments/",
+          "title": "‘They’re paying back the money’: Ford breaks silence on hotel expense scandal",
+          "description": "The premier also defended his government when asked whether the hotel expenses violated his 2018 election promise that the party with the taxpayer dollar is over.",
+          "url": "https://globalnews.ca/news/11967511/doug-ford-comments-hotel-expenses/",
           "source": {
-            "name": "Tuko News"
+            "name": "Global News"
           },
-          "publishedAt": "2026-07-16T07:05:11Z",
-          "image": "https://cdn.tuko.co.ke/images/1200x675/f9e0f1bc44c137fe.jpeg?v=1",
+          "publishedAt": "2026-07-16T10:00:21Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/07/CP176170414-1-e1784151235959.jpg?quality=65&strip=all&w=720&h=379&crop=1",
           "language": "en"
         }
       ]
