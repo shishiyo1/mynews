@@ -1,10 +1,21 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-16T02:41:44.526Z",
+  "updatedAt": "2026-07-16T05:41:36.255Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "＜インタビュー＞白紙になったデビュー、そして出会った運命の7人――TAGRIGHTの\"ZERO\"から始まる物語",
+          "description": "米国で最も権威のある音楽チャート・Billboard（ビルボード）の日本公式サイト。洋楽チャート、邦楽チャート、音楽ニュース、プレゼント情報などを提供。",
+          "url": "https://www.billboard-japan.com/special/detail/5364",
+          "source": {
+            "name": "Billboard JAPAN"
+          },
+          "publishedAt": "2026-07-15T15:58:14Z",
+          "image": "https://www.billboard-japan.com/scale/special/00000005/5364/x200_image.jpg",
+          "language": "ja"
+        },
         {
           "title": "佐々木麟太郎、マーリンズ入り決断へ MLBドラフト指名の舞台裏",
           "description": "佐々木麟太郎、マーリンズ入り決断へ　MLBドラフト指名の舞台裏",
@@ -103,128 +114,117 @@
           "publishedAt": "2026-07-15T08:30:00Z",
           "image": "https://storage.mainichikirei.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/07/15/20260715dog00m100009000a/001.jpg",
           "language": "ja"
-        },
-        {
-          "title": "SixTONES松村北斗、「ViVi国宝級イケメンランキング」初の3部門殿堂入り達成「シンプルにうれしい」【一覧掲載】",
-          "description": "ニュース｜　6人組グループ・SixTONESの松村北斗が、23日発売のファッション雑誌『ViVi』9月号（講談社）で特集される人気企画「ViVi国宝級イケメンランキング」2026年上半期のADULT部門（30歳以上）で首位を獲得。主要3部門（NEXT（22歳以下）、NOW、ADULT）すべてで殿堂入りとなる同誌初のグランドスラムを達成した。　ADULT部門は、30歳以上が対象となり、過去には町田啓太、山田裕貴、坂口健太郎など、日本の名作を支える俳優たちが殿堂入りしてきた。松村は、2度目となる1位に輝いた。松村は、前例のない“国宝級グランドスラム”を達成した。",
-          "url": "https://www.oricon.co.jp/news/2468015/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-07-15T08:30:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2469000/2468015/20260715_154956_p_o_23180141.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Broad says England need extra ODI seamer after India defeat",
-          "description": "They suffered a six-wicket defeat against India in the first ODI",
-          "url": "https://tribune.com.pk/story/2618413/broad-says-england-need-extra-odi-seamer-after-india-defeat",
+          "title": "Flipping photoredox selectivity with indiscriminate electron transfer",
+          "description": "Mechanistic hack enables chemists to couple molecules that have mismatched reduction potentials",
+          "url": "https://cen.acs.org/synthesis/reaction-mechanisms/synthesis-redox-photochemistry/104/web/2026/07",
           "source": {
-            "name": "The Express Tribune"
+            "name": "Chemical & Engineering News"
           },
-          "publishedAt": "2026-07-15T14:41:35Z",
-          "image": "https://i.tribune.com.pk/media/images/img-92741784126365-0/img-92741784126365-0-640x480.webp",
+          "publishedAt": "2026-07-15T17:41:02Z",
+          "image": "https://s7d1.scene7.com/is/image/CENODS/news--a-new-way-to-think-about-photoredox---523806-1:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp",
           "language": "en"
         },
         {
-          "title": "ASUS ROG Raikiri II Pro PC Controller Announced With 8K Polling Rate And 79",
-          "description": "The ASUS ROG Raikiri II Pro PC controller is announced with features like 8000Hz polling rate, hot-swappable TMR joysticks, Dual Mode Triggers, and up to 79 hours of wireless battery life.",
-          "url": "https://pokde.net/gadget/gamepad/rog-raikiri-ii-pro-pc-controller",
+          "title": "Exclusive: Officials asked to turn over phones at the White House as Wiles, Patel lead intensifying leak probe",
+          "description": "Chief of staff Susie Wiles, President Donald Trump’s closest aide, and FBI Director Kash Patel helped personally orchestrate a sprawling investigation last week at the White House aimed at determining who in the government leaked information about the security deficiencies of a Qatari-gifted airplane meant to be used as Air Force One – with some officials being asked to turn over their phones to investigators on White House grounds, sources familiar with the matter told CNN.",
+          "url": "https://www.cnn.com/2026/07/15/politics/susie-wiles-kash-patel-leak",
           "source": {
-            "name": "Pokde.Net"
+            "name": "CNN"
           },
-          "publishedAt": "2026-07-15T14:41:31Z",
-          "image": "https://cdn.pokde.net/wp-content/uploads/2026/07/15223422/rograikiriiipropccover.jpg",
+          "publishedAt": "2026-07-15T17:40:22Z",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2220897902.jpg?c=16x9&q=w_800,c_fill",
           "language": "en"
         },
         {
-          "title": "Indonesia Proposes 60:40 Hajj Cost-Sharing Scheme for 2027",
-          "description": "The 60:40 program was created to ease the financial burden on pilgrims amid the possibility of rising Hajj costs.",
-          "url": "https://en.tempo.co/read/2113884/indonesia-proposes-6040-hajj-cost-sharing-scheme-for-2027",
-          "source": {
-            "name": "Tempo.co English"
-          },
-          "publishedAt": "2026-07-15T14:40:59Z",
-          "image": "https://statik.tempo.co/data/2025/05/01/id_1395718/1395718_720.jpg",
-          "language": "en"
-        },
-        {
-          "title": "‘Are you Muslim?’: Indian man asked about religion, stabbed 15 times in US",
-          "description": "Peter Michael Larsen, 48, has been booked on suspicion of attempted murder and prohibited dangerous weapon conduct | World News",
-          "url": "https://www.hindustantimes.com/world-news/are-you-muslim-indian-man-asked-about-religion-stabbed-15-times-in-us-101784124309415.html",
-          "source": {
-            "name": "Hindustan Times"
-          },
-          "publishedAt": "2026-07-15T14:40:12Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/07/15/550x309/utah_muslim_man_stabbed_1784124681591_1784124687422_302725a7-abe0-4f49-b5ce-bf06c0e87e15.png",
-          "language": "en"
-        },
-        {
-          "title": "New malaria drug candidate shows promise in Phase I trial",
-          "description": "The early-stage trial of a potential novel nonartemisinin malaria drug found it rapidly killed malaria parasites and was generally well tolerated in infected volunteers, showing it is a promising candidate for uncomplicated malaria that could help meet the need for new medicines to overcome the growing threat of parasite drug resistance.",
-          "url": "https://medicalxpress.com/news/2026-07-malaria-drug-candidate-phase-trial.html",
+          "title": "Brain's immune cells put the brakes on out-of-control circuits in mouse model of Alzheimer's disease",
+          "description": "Researchers at Trinity College Dublin have discovered that microglia—the main immune cells of the brain—play a critical role in maintaining the stability of neuronal networks in Alzheimer's disease. Crucially, this suggests treatments that indiscriminately suppress these cells could be counterproductive.",
+          "url": "https://medicalxpress.com/news/2026-07-brain-immune-cells-circuits-mouse.html",
           "source": {
             "name": "Medical Xpress"
           },
-          "publishedAt": "2026-07-15T14:40:10Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/hires/2014/malaria.jpg",
+          "publishedAt": "2026-07-15T17:40:10Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/hires/2018/brain.jpg",
           "language": "en"
         },
         {
-          "title": "Mapping the seafloor: How deep can we go?",
-          "description": "Australia's ocean territory is vast and covers an area more than 1.5 times the nation's landmass. Within these waters is a diversity of resources, marine species and habitats. And they're deep. Excluding Antarctic waters, 70% of Australia's ocean territory is deeper than 1,000 meters (3,281 feet), and nearly 50% is deeper than 3,000 meters (9,843 feet).",
-          "url": "https://phys.org/news/2026-07-seafloor-deep.html",
+          "title": "Religious ministry urges Umrah pilgrims to submit application through listed companies only",
+          "description": "The Ministry of Religious Affairs on Wednesday urged intending Umrah pilgrims to submit their applications only through certified companies listed on the ministry's website, following the cabinet's approval of the new Umrah regulations.",
+          "url": "https://www.app.com.pk/national/religious-ministry-urges-umrah-pilgrims-to-submit-application-through-listed-companies-only/",
           "source": {
-            "name": "Phys.org"
+            "name": "| Associated Press Of Pakistan"
           },
-          "publishedAt": "2026-07-15T14:40:05Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/2026/mapping-the-seafloor-h-2.jpg",
+          "publishedAt": "2026-07-15T17:40:09Z",
+          "image": "https://www.app.com.pk/wp-content/uploads/2026/07/images-45-2.jpg",
           "language": "en"
         },
         {
-          "title": "India bets billions on breaking China's grip on smartphone manufacturing",
-          "description": "New Delhi announced a $6.5 billion smartphone manufacturing program and a $13.3 billion semiconductor push to deepen India's electronics supply chain.",
-          "url": "https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/",
+          "title": "Incidence of ischemic cardio-cerebrovascular disease rises among young women",
+          "description": "Announcing a new article publication for Cardiovascular Innovations and Applications journal. The global burden, secular trends, and future projections of ischemic cardio-cerebrovascular disease (ICCVD), a composite indicator of ischemic heart disease (IHD) and ischemic stroke (IS), have not been specifically described in women.",
+          "url": "https://www.news-medical.net/news/20260715/Incidence-of-ischemic-cardio-cerebrovascular-disease-rises-among-young-women.aspx",
           "source": {
-            "name": "TechCrunch"
+            "name": "News-Medical"
           },
-          "publishedAt": "2026-07-15T14:39:52Z",
-          "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1681877521.jpg?resize=1200,800",
+          "publishedAt": "2026-07-15T17:40:00Z",
+          "image": "https://www.news-medical.net/images/tags/TagImage-2853-45847040760138896314-620x480.jpg",
           "language": "en"
         },
         {
-          "title": "Highlights: Day 6 of Sara Duterte impeachment trial | July 15, 2026",
-          "description": "No witnesses took the stand during the sixth day of Vice President Sara Duterte's impeachment trial on Wednesday.",
-          "url": "https://newsinfo.inquirer.net/2264615/highlights-day-6-of-sara-duterte-impeachment-trial-july-15-2026",
+          "title": "Real Madrid star critical of France after World Cup exit",
+          "description": "Real Madrid star Kylian Mbappé did not hold back in his criticism of the French national team, following their exit from the World Cup on Tuesday.This of course comes fresh off a night to forget for ...",
+          "url": "https://sports.yahoo.com/articles/real-madrid-star-critical-france-173500998.html",
           "source": {
-            "name": "Inquirer.net"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-07-15T14:39:00Z",
-          "image": "https://newsinfo.inquirer.net/files/2026/07/Sara-Impeachment-Trial-july-15.jpg",
+          "publishedAt": "2026-07-15T17:39:56Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/MI0vtcAezLAjQazVy7y__w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE7Y2Y9d2VicA--/https://media.zenfs.com/en/get_spanish_football_news_articles_403/61e634c814f4409224fecd8359721b69",
           "language": "en"
         },
         {
-          "title": "The hidden skeleton “gatekeeper” inside brain cells could help fight Alzheimer's",
-          "description": "Researchers have discovered that a microscopic skeleton inside neurons does much more than hold cells together. It acts as a gatekeeper that controls what brain cells absorb and when they absorb it. When this protective structure weakens, neurons rapidly take in harmful proteins associated with Alzheimer's disease, suggesting that stabilizing it could become a promising new strategy for preventing brain cell damage.",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260714225542.htm",
+          "title": "Cynthia Uchendu Pens Heartfelt Birthday Tribute To Husband Ebuka",
+          "description": "Cynthia Uchendu has taken to social media to celebrate her husband, media personality Ebuka Uchendu, on his birthday. In a heartfelt post on Instagram,",
+          "url": "https://www.thenigerianvoice.com/movie/370978/cynthia-uchendu-pens-heartfelt-birthday-tribute-to-husband-e.html",
           "source": {
-            "name": "ScienceDaily"
+            "name": "Nigerian Voice"
           },
-          "publishedAt": "2026-07-15T14:38:43Z",
-          "image": "https://www.sciencedaily.com/images/1920/neuron-brain-cell-signal-transmission.webp",
+          "publishedAt": "2026-07-15T17:39:30Z",
+          "image": "https://cdn.thenigerianvoice.com/images/content/715202673504_screen_shot_20260715_at_6.33.00_pm.png",
           "language": "en"
         },
         {
-          "title": "Ebola Outbreak Tops 2,000 Cases In DR Congo",
-          "description": "Ebola Outbreak Tops 2,000 Cases In DR Congo",
-          "url": "https://www.channelstv.com/2026/07/15/ebola-outbreak-tops-2000-cases-in-dr-congo/",
+          "title": "Man Utd to bid £30m for Arsenal target to replace Marcus Rashford",
+          "description": "Manchester United want to sign Crysencio Summerville from West Ham United this summer for £30million as a replacement for Marcus Rashford.",
+          "url": "https://metro.co.uk/2026/07/15/man-utd-bid-30m-arsenal-target-replace-marcus-rashford-29146647/",
           "source": {
-            "name": "Channels Television"
+            "name": "Metro.co.uk"
           },
-          "publishedAt": "2026-07-15T14:37:37Z",
-          "image": "https://www.channelstv.com/wp-content/uploads/2026/07/Ebola-DR-Congo.jpg",
+          "publishedAt": "2026-07-15T17:39:00Z",
+          "image": "https://metro.co.uk/wp-content/uploads/2026/07/GettyImages-2285670483_1784137204.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+          "language": "en"
+        },
+        {
+          "title": "Tectonic forces may explain why Antarctica is covered in ice",
+          "description": "Scientists uncovered how ancient tectonic activity reshaped Antarctica, setting the stage for its massive ice sheet millions of years later.",
+          "url": "https://www.earth.com/news/ancient-tectonic-forces-may-explain-why-antarctica-is-covered-in-ice/",
+          "source": {
+            "name": "Earth.com"
+          },
+          "publishedAt": "2026-07-15T17:38:48Z",
+          "image": "https://cff2.earth.com/uploads/2026/07/15135241/Antarctica-ice-sheet.jpg",
+          "language": "en"
+        },
+        {
+          "title": "The curious case of the absent ostrich",
+          "description": "Bertha, metal sculpture installed on Bill Thorpe Walking Bridge as part of Fredericton’s temporary art program, was vandalized over weekend and has been removed for repairs",
+          "url": "https://ftonindependent.substack.com/p/the-curious-case-of-the-absent-ostrich",
+          "source": {
+            "name": "Fredericton Independent"
+          },
+          "publishedAt": "2026-07-15T17:37:36Z",
+          "image": "https://substackcdn.com/image/fetch/$s_!fMiB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09daa309-349a-4e16-9afb-5dc68059791a_1600x900.jpeg",
           "language": "en"
         }
       ]
