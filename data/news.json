@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-15T22:01:42.367Z",
+  "updatedAt": "2026-07-16T02:41:44.526Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "佐々木麟太郎、マーリンズ入り決断へ MLBドラフト指名の舞台裏",
+          "description": "佐々木麟太郎、マーリンズ入り決断へ　MLBドラフト指名の舞台裏",
+          "url": "https://sports.yahoo.co.jp/column/detail/2026071500003-spnavi",
+          "source": {
+            "name": "スポーツナビ"
+          },
+          "publishedAt": "2026-07-15T14:00:00Z",
+          "image": "https://sports-pctr.c.yimg.jp/dk/iwiz-sports/text/images/2026/0715/2026071500003-spnavi_1784122838_view.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "NVIDIAジェンスン・フアンCEO、セガのレジェンド鈴木裕氏、入交昭一郎氏が秋葉原で一堂に会す！",
+          "description": "今や世界トップ企業まで上り詰めたNVIDIAだが、創業当初の窮地を救ったのは、ほかならぬ日本のゲーム会社――セガだった。",
+          "url": "https://pc.watch.impress.co.jp/docs/news/2125527.html",
+          "source": {
+            "name": "PC Watch"
+          },
+          "publishedAt": "2026-07-15T13:57:39Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2125/527/1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【バレー男子NL】日本が世界2位イタリア撃破！約2時間半のフルセット死闘制す 日本Rも好発進で負けなし9連勝首位キープ 髙橋藍が26得点躍動",
+          "description": "◇バレーボール　男子ネーションズリーグ2026 予選ラウンド第3週（7月15日～19日)\nバレーボール男子日本代表(世界ランク5位)が15日、日本ラウンド初戦であるイタリア(同2位)に3－2(24",
+          "url": "https://news.yahoo.co.jp/articles/793a925c53d17bc2d782cbc9d0049c2a26b367c2",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-15T12:49:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260715-04293565-nnn-000-9-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "バレー男子日本代表、開幕9連勝で決勝ラウンド進出決定！王者・イタリアをフルセットで破り8強入り 26得点の髙橋藍「最高でーす！」【ネーションズリーグ】",
+          "description": "■バレーボール ネーションズリーグ2026 男子予選ラウンド　日本 3ー2 イタリア（15日、Asueアリーナ大阪）\n世界TOP18チームが参戦しているバレーボールネーションズリーグで、8戦全勝の",
+          "url": "https://news.yahoo.co.jp/articles/f429c1fed2b730e6c142d83965f2eb8e76e76dfb",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-15T12:48:36Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260715-00010022-jnn-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【ＮＹ為替オープニング】ウォーシュFRB議長上院証言やベージュブックに注目｜FX・為替ニュース",
+          "description": "◇重要イベント・ポイント ・NY原油先物反発、80ドル台 ・米・7月ニューヨーク連銀製造業景気指数(7月) ・米・6月生産者物価指数(PPI) ・加・カナダ銀行(中央銀行)が政策金利発表 ・ウォーシュF",
+          "url": "https://zai.diamond.jp/articles/-/492235",
+          "source": {
+            "name": "ザイFX！"
+          },
+          "publishedAt": "2026-07-15T12:40:00Z",
+          "image": "https://zai.diamond.jp/mwimgs/9/e/-/img_9e47ac79ce2cf237f05d70fc22e16d45110540.png",
+          "language": "ja"
+        },
+        {
+          "title": "【日本ハム】新庄監督「相性の悪いソフトバンクさんに勝ち始めるかもしれないしね」一問一答",
+          "description": "日本ハムが9回、ソフトバンクの猛攻を振り切った。5回まで試合をつくった先発の加藤貴之投手（34）が、ハーラー単独トップの10勝目。9回に3点を返され、1点差に… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/baseball/news/202607150001407.html",
+          "source": {
+            "name": "日刊スポーツ"
+          },
+          "publishedAt": "2026-07-15T10:49:35Z",
+          "image": "https://www.nikkansports.com/baseball/news/img/202607150001407-w500_0.jpg",
+          "language": "ja"
+        },
         {
           "title": "【速報中】第175回芥川賞は小砂川チトさん「ゾンビ回収婦」、直木賞は朝倉かすみさん「けんぐゎい」 オードリーの若林正恭さん「青天」受賞ならず",
           "description": "第175回の直木賞に朝倉かすみさんの「けんぐゎい」が選ばれました。",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-07-15T08:30:00Z",
           "image": "https://contents.oricon.co.jp/upimg/news/2469000/2468015/20260715_154956_p_o_23180141.jpg",
           "language": "ja"
-        },
-        {
-          "title": "「経営を動かすマーケは、何が違うのか？」慶應義塾大学名誉教授・池尾恭一氏×ポーラ代表取締役社長・小林琢磨氏が「MARKETING NOVA SUMMIT 2026」基調講演で対談",
-          "description": "TOYNOVA株式会社のプレスリリース（2026年7月15日 16時00分）「経営を動かすマーケは、何が違うのか？」慶應義塾大学名誉教授・池尾恭一氏×ポーラ代表取締役社長・小林琢磨氏が「MARKETING NOVA SUMMIT 2026」基調講演で対談",
-          "url": "https://prtimes.jp/main/html/rd/p/000000123.000057937.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-07-15T07:00:01Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/57937/123/57937-123-d9a781271cbdba5231e9d3950aef13cc-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "高市首相、中傷動画報道は「全く身に覚えない、大変心外」 党首討論",
-          "description": "国会最終盤、高市早苗首相は野党6党首との一対一の論戦に、いかに臨むのか。党首討論をタイムラインで詳報します。",
-          "url": "https://www.asahi.com/articles/ASV7H227HV7HUTFK014M.html",
-          "source": {
-            "name": "朝日新聞"
-          },
-          "publishedAt": "2026-07-15T06:31:00Z",
-          "image": "https://imgopt.asahi.com/ogp/AS20260715003387_comm.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "龍が如く３外伝 Dark Ties』がお買い得！セガが「サマーセール」をPS Storeとニンテンドーeショップで開催",
-          "description": "ASCII.jp － ゲーム",
-          "url": "https://ascii.jp/elem/000/004/419/4419899/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-07-15T06:15:00Z",
-          "image": "https://ascii.jp/img/2026/07/15/4500995/xl/2e0ed719eeea9a4e.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "「はやく消えたい」「みんな私のこと嫌い」朝ドラ出演のベテラン女優 深夜に“不穏な意味深投稿”を連投…舞台出演中のなか心配の声続出",
-          "description": "Snow Man・渡辺翔太（33）と芳根京子（29）がW主演を務める舞台『ウェンディ＆ピーターパン』。7月5日に東京公演が千秋楽を迎え、13日からは大阪公演が始まったばかり。夢と希望が詰まった舞台が",
-          "url": "https://news.yahoo.co.jp/articles/af2e54b3bd5b4f11cf29c97681d54a432e4fa15b",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-15T05:35:46Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260715-00000026-jisin-000-6-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "au Webポータル芸能ニュース",
-          "description": "Snow Man・渡辺翔太（33）と芳根京子（29）がW主演を務める舞台『ウェンディ＆ピーターパン』。7月5日に東京公演が千秋楽を迎え、13日からは大阪公演が始まったばかり。夢と希望が詰まった舞台が評",
-          "url": "https://article.auone.jp/detail/1/5/9/99_1_r_20260715_1784094662223975",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-07-15T05:35:00Z",
-          "image": "https://portal.st-img.jp/thumb/377e898c26e0db403dc359ac022b4e9f_1784101856_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "西川貴教「THE FIRST TAKE」で偉業達成 日之内エミ「口パク」批判が呼んだ皮肉な結末",
-          "description": "歌手のT.M.Revolutionこと西川貴教（55）が出演して1998年にリリースした代表曲「HOT LIMIT」を熱唱したYouTubeチャンネル「THE FIRST TAKE（ザ・ファースト・テイク）」の動画が、再生回数1000万回…",
-          "url": "https://www.zakzak.co.jp/article/20260715-XNOKW75UBZBG7GLC6I4MDWD2EY/",
-          "source": {
-            "name": "zakⅡ"
-          },
-          "publishedAt": "2026-07-15T05:01:16Z",
-          "image": "https://www.zakzak.co.jp/resizer/v2/AKCFKUYUKNOAZNXHXZAJ63AEVY.jpg?auth=c09bd9f511810ed00d16be01f00f6f679fccd67130d73a4860ca8b0b7c94e513&quality=50&focal=1674%2C1130&width=1200&height=675",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Nandi-Ndaitwah heads to SA for bilateral commission",
-          "description": "President Netumbo Nandi-Ndaitwah will travel to Pretoria on Thursday to co-chair the fourth session of the Namibia-South Africa Bi-National Commission (BNC) with South African president Cyril […]",
-          "url": "https://www.namibian.com.na/nandi-ndaitwah-heads-to-sa-for-bilateral-commission/",
+          "title": "Broad says England need extra ODI seamer after India defeat",
+          "description": "They suffered a six-wicket defeat against India in the first ODI",
+          "url": "https://tribune.com.pk/story/2618413/broad-says-england-need-extra-odi-seamer-after-india-defeat",
           "source": {
-            "name": "The Namibian -"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-07-15T10:01:44Z",
-          "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-11.46.22-AM-1024x683.jpeg",
+          "publishedAt": "2026-07-15T14:41:35Z",
+          "image": "https://i.tribune.com.pk/media/images/img-92741784126365-0/img-92741784126365-0-640x480.webp",
           "language": "en"
         },
         {
-          "title": "Africa Urged to Invest in Cancer Experts",
-          "description": "AFRICA has been urged to invest in training and retaining home-grown neuro-oncology specialists to tackle the growing burden of brain and spinal tumours and improve access to quality cancer care across the continent.",
-          "url": "https://allafrica.com/stories/202607150219.html",
+          "title": "ASUS ROG Raikiri II Pro PC Controller Announced With 8K Polling Rate And 79",
+          "description": "The ASUS ROG Raikiri II Pro PC controller is announced with features like 8000Hz polling rate, hot-swappable TMR joysticks, Dual Mode Triggers, and up to 79 hours of wireless battery life.",
+          "url": "https://pokde.net/gadget/gamepad/rog-raikiri-ii-pro-pc-controller",
           "source": {
-            "name": "allAfrica.com"
+            "name": "Pokde.Net"
           },
-          "publishedAt": "2026-07-15T10:01:32Z",
-          "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+          "publishedAt": "2026-07-15T14:41:31Z",
+          "image": "https://cdn.pokde.net/wp-content/uploads/2026/07/15223422/rograikiriiipropccover.jpg",
           "language": "en"
         },
         {
-          "title": "Travellers warned of methanol poisoning risks in new campaign",
-          "description": "Holidaymakers are urged to understand the dangers and symptoms of methanol poisoning.",
-          "url": "https://www.bbc.co.uk/news/articles/c9929dg5l5lo",
+          "title": "Indonesia Proposes 60:40 Hajj Cost-Sharing Scheme for 2027",
+          "description": "The 60:40 program was created to ease the financial burden on pilgrims amid the possibility of rising Hajj costs.",
+          "url": "https://en.tempo.co/read/2113884/indonesia-proposes-6040-hajj-cost-sharing-scheme-for-2027",
           "source": {
-            "name": "BBC"
+            "name": "Tempo.co English"
           },
-          "publishedAt": "2026-07-15T10:00:29Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/410b/live/b8303310-8033-11f1-a2a1-e90920ef9667.jpg",
+          "publishedAt": "2026-07-15T14:40:59Z",
+          "image": "https://statik.tempo.co/data/2025/05/01/id_1395718/1395718_720.jpg",
           "language": "en"
         },
         {
-          "title": "CEO Q&A with Kieran Daly, HealthBeacon",
-          "description": "HealthBeacon Co-Founder Kieran Daly discusses digital health innovation, leadership, business growth, motivation and the future of home healthcare in this CEO Q&A.",
-          "url": "https://businessandfinance.com/news/success-is-about-building-something-meaningful-ceo-qa-with-kieran-daly-general-manager-and-co-founder-of-healthbeacon/",
+          "title": "‘Are you Muslim?’: Indian man asked about religion, stabbed 15 times in US",
+          "description": "Peter Michael Larsen, 48, has been booked on suspicion of attempted murder and prohibited dangerous weapon conduct | World News",
+          "url": "https://www.hindustantimes.com/world-news/are-you-muslim-indian-man-asked-about-religion-stabbed-15-times-in-us-101784124309415.html",
           "source": {
-            "name": "Business & Finance"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-07-15T10:00:26Z",
-          "image": "https://businessandfinance.com/wp-content/uploads/2026/07/Screenshot-17-1-1.png",
+          "publishedAt": "2026-07-15T14:40:12Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/07/15/550x309/utah_muslim_man_stabbed_1784124681591_1784124687422_302725a7-abe0-4f49-b5ce-bf06c0e87e15.png",
           "language": "en"
         },
         {
-          "title": "Microsoft Fixes Record 600+ Vulnerabilities In July 2026 Patch Tuesday, Including Three Zero-Day Flaws",
-          "description": "Microsoft has released its July 2026 Patch Tuesday security updates, delivering fixes for a record-breaking 622 vulnerabilities across Windows, Microsoft Office, SharePoint, Azure-related components, Visual Studio, and other products. The release marks the largest Patch Tuesday update in the company",
-          "url": "https://www.linkedin.com/pulse/microsoft-fixes-record-600-vulnerabilities-july-xykve",
+          "title": "New malaria drug candidate shows promise in Phase I trial",
+          "description": "The early-stage trial of a potential novel nonartemisinin malaria drug found it rapidly killed malaria parasites and was generally well tolerated in infected volunteers, showing it is a promising candidate for uncomplicated malaria that could help meet the need for new medicines to overcome the growing threat of parasite drug resistance.",
+          "url": "https://medicalxpress.com/news/2026-07-malaria-drug-candidate-phase-trial.html",
           "source": {
-            "name": "LinkedIn"
+            "name": "Medical Xpress"
           },
-          "publishedAt": "2026-07-15T10:00:21Z",
-          "image": "https://media.licdn.com/dms/image/v2/D4E12AQFGqQR3rODwaQ/article-cover_image-shrink_720_1280/B4EZ9iEBZtJkAQ-/0/1784056651790?e=2147483647&v=beta&t=VWz3Mg6gngTi3EmMu-ResL21PMCNwzjC9K5PAvdO-Ps",
+          "publishedAt": "2026-07-15T14:40:10Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/hires/2014/malaria.jpg",
           "language": "en"
         },
         {
-          "title": "A tragedy leaves Maine Democrats with less time to choose",
-          "description": "Unlike some major news developments that provide a moment of political clarity, this situation resolves nothing. Instead, it raises the stakes for Democrats to make the right choice.",
-          "url": "https://www.bostonglobe.com/2026/07/15/nation/how-tragedy-changed-timeline-politics-maines-senate-race/",
+          "title": "Mapping the seafloor: How deep can we go?",
+          "description": "Australia's ocean territory is vast and covers an area more than 1.5 times the nation's landmass. Within these waters is a diversity of resources, marine species and habitats. And they're deep. Excluding Antarctic waters, 70% of Australia's ocean territory is deeper than 1,000 meters (3,281 feet), and nearly 50% is deeper than 3,000 meters (9,843 feet).",
+          "url": "https://phys.org/news/2026-07-seafloor-deep.html",
           "source": {
-            "name": "The Boston Globe"
+            "name": "Phys.org"
           },
-          "publishedAt": "2026-07-15T10:00:10Z",
-          "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/SKRRZID66ALCESQO5XDVMCD3HI.JPG?auth=8b9ca7718ee0f9f32ae7ca77dc5b9ed6045d6e9c6d28532e4fce8c0fdce03995&width=1440",
+          "publishedAt": "2026-07-15T14:40:05Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/2026/mapping-the-seafloor-h-2.jpg",
           "language": "en"
         },
         {
-          "title": "'The Daily Show' reacts to Trump's blunt words about Lindsey Graham's cause of death",
-          "description": "\"Daily Show\" host Michael Kosta has reacted to Trump sharing his thoughts on Lindsey Graham's cause of death.",
-          "url": "https://mashable.com/entertainment/daily-show-trump-lindsey-graham-cause-of-death",
+          "title": "India bets billions on breaking China's grip on smartphone manufacturing",
+          "description": "New Delhi announced a $6.5 billion smartphone manufacturing program and a $13.3 billion semiconductor push to deepen India's electronics supply chain.",
+          "url": "https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/",
           "source": {
-            "name": "Mashable"
+            "name": "TechCrunch"
           },
-          "publishedAt": "2026-07-15T10:00:08Z",
-          "image": "https://helios-i.mashable.com/imagery/videos/06eLzUq4CgXGMs3QrK6IszA/hero-image.fill.size_1200x675.v1784106726.png",
+          "publishedAt": "2026-07-15T14:39:52Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1681877521.jpg?resize=1200,800",
           "language": "en"
         },
         {
-          "title": "PlayStation 3 emulator RPCS3 hits new milestone with 75% of its library now fully ‘Playable’",
-          "description": "The leading PlayStation 3 emulator RPCS3 has reached another major milestone, with 75% of all PS3 games now being ‘Playable’.",
-          "url": "https://www.kitguru.net/desktop-pc/mustafa-mahmoud/playstation-3-emulator-rpcs3-hits-new-milestone-with-75-of-its-library-now-fully-playable/",
+          "title": "Highlights: Day 6 of Sara Duterte impeachment trial | July 15, 2026",
+          "description": "No witnesses took the stand during the sixth day of Vice President Sara Duterte's impeachment trial on Wednesday.",
+          "url": "https://newsinfo.inquirer.net/2264615/highlights-day-6-of-sara-duterte-impeachment-trial-july-15-2026",
           "source": {
-            "name": "KitGuru"
+            "name": "Inquirer.net"
           },
-          "publishedAt": "2026-07-15T10:00:06Z",
-          "image": "https://www.kitguru.net/wp-content/uploads/2026/07/rpcs3-732x330.jpg",
+          "publishedAt": "2026-07-15T14:39:00Z",
+          "image": "https://newsinfo.inquirer.net/files/2026/07/Sara-Impeachment-Trial-july-15.jpg",
           "language": "en"
         },
         {
-          "title": "Cabinet okays mobile phone manufacturing scheme with outlay of Rs 62,500 crore",
-          "description": "The Union Cabinet on Wednesday approved a mobile phone manufacturing scheme with an outlay of Rs 62,500 crore.",
-          "url": "https://www.moneycontrol.com/news/india/cabinet-approves-mobile-phone-manufacturing-scheme-with-layout-of-rs-62-500-crore-13974686.html",
+          "title": "The hidden skeleton “gatekeeper” inside brain cells could help fight Alzheimer's",
+          "description": "Researchers have discovered that a microscopic skeleton inside neurons does much more than hold cells together. It acts as a gatekeeper that controls what brain cells absorb and when they absorb it. When this protective structure weakens, neurons rapidly take in harmful proteins associated with Alzheimer's disease, suggesting that stabilizing it could become a promising new strategy for preventing brain cell damage.",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260714225542.htm",
           "source": {
-            "name": "Moneycontrol.com"
+            "name": "ScienceDaily"
           },
-          "publishedAt": "2026-07-15T10:00:02Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260711103639_Ashwini-Vaishnaw-new-image.png",
+          "publishedAt": "2026-07-15T14:38:43Z",
+          "image": "https://www.sciencedaily.com/images/1920/neuron-brain-cell-signal-transmission.webp",
           "language": "en"
         },
         {
-          "title": "Oil reserves eased Iran war price shock, but now they are 'spent', IMF says",
-          "description": "The International Monetary Fund says the global economy was spared the worst of the oil price shock because of large reserves. Now they are running out.",
-          "url": "https://www.abc.net.au/news/2026-07-15/oil-reserves-spent-imf-us-iran-war/106918074",
+          "title": "Ebola Outbreak Tops 2,000 Cases In DR Congo",
+          "description": "Ebola Outbreak Tops 2,000 Cases In DR Congo",
+          "url": "https://www.channelstv.com/2026/07/15/ebola-outbreak-tops-2000-cases-in-dr-congo/",
           "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+            "name": "Channels Television"
           },
-          "publishedAt": "2026-07-15T10:00:02Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/dd693d3b036678b7ecc1de34a13a2db2?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-07-15T14:37:37Z",
+          "image": "https://www.channelstv.com/wp-content/uploads/2026/07/Ebola-DR-Congo.jpg",
           "language": "en"
         }
       ]
