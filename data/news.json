@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-16T16:17:29.426Z",
+  "updatedAt": "2026-07-16T19:12:47.406Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【速報】車内で\"熱中症\" 生後11か月の男児が死亡 母親「家事や仕事に気を取られて」 熱中症警戒アラート発表中 32.5℃まで気温上がる 熊本市",
+          "description": "警察などによりますと、15日午後2時15分ごろ、熊本市北区池田の住宅の駐車場で、生後11か月の男の子が、駐車場の車の中で心肺停止状態で見つかり、運ばれた病院で死亡しました。\n司法解剖の結果、死因は",
+          "url": "https://news.yahoo.co.jp/articles/bb9d436773c63f46e7ccb8f5545da193c7893995",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-16T06:05:27Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260716-22807144-rkkv-000-15-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "『ドラクエ』40周年記念展が明日（7/17）開催。堀井雄二、小倉唯、EXIT兼近大樹がイベントに登壇、VRで駆け抜けてモンスターの触感を体験!?",
+          "description": "2026年7月17日より東京・東急プラザ原宿ハラカドにて“ドラゴンクエスト40 周年記念展ドラゴンクエストthe DIVE -まだ⾒ぬ冒険の舞台へ-”が開催予定だ。堀井雄二氏、スクウェア・エニックスの村上洋平氏、芸人のEXIT兼近大樹さん、声優の小倉唯さんが登壇してコメント。",
+          "url": "https://www.famitsu.com/article/202607/81521",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-07-16T06:00:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/81521/thumbnail_uxLR.jpg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "ロングセラー駅弁「チキン弁当」が今年も「Suicaのペンギン」とコラボ！「Suicaのペンギン チキンのり弁」を7月24日(金)から数量限定で販売！",
+          "description": "株式会社JR東日本クロスステーションのプレスリリース（2026年7月16日 14時00分）ロングセラー駅弁「チキン弁当」が今年も「Suicaのペンギン」とコラボ！「Suicaのペンギン チキンのり弁」を7月24日(金)から数量限定で販売！",
+          "url": "https://prtimes.jp/main/html/rd/p/000001163.000082978.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-07-16T05:00:02Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/82978/1163/82978-1163-6072ea028631566fc46356d00de5ed39-1920x1280.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "フランス議会、「支援を受けた死」法案を可決 一部条項は合憲性を判断へ",
+          "description": "フランスの国民議会（下院、定数577）は15日、長年にわたる議論と内容変更を経て、厳格な条件の下で「支援を受けた死」を選ぶ権利を創設することを可決した。セバスチャン・ルコルニュ首相は、法案が成立する前に、一部条項を憲法評議会に付託し、審査を求めるとしている。",
+          "url": "https://www.bbc.com/japanese/articles/cd69yjd8j1zo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-07-16T04:59:33Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/16a7/live/8bde6ac0-807e-11f1-bee8-53ce494e1abc.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "予定調整も情報収集もAIにお任せ、24時間働く「Gemini Spark」日本上陸",
+          "description": "面倒な調べ物も、スケジュール調整も、旅行の手配も、寝ている間にAIが済ませておいてくれる——。そんな「自分専用の秘書」がついに日本語で使えるようになった。Googleは7月16日、パーソナルAIエージェント「Gemini Spark」の日本語での提供を開始した。指示したタスクをユーザーの代わりに24時間体制で自動実行するAIで、Google AI Ultraプランのユーザー向けにGeminiアプリを通じて順次展開する。",
+          "url": "https://pc.watch.impress.co.jp/docs/news/2125695.html",
+          "source": {
+            "name": "PC Watch"
+          },
+          "publishedAt": "2026-07-16T04:58:53Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2125/695/01.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "日本でもGoogleのオフィス・一般用途向けAIエージェント「Gemini Spark」が利用可能に",
+          "description": "米Googleは7月14日（現地時間）、オフィス・一般用途向けAIエージェント機能「Gemini Spark」がEU、ナイジェリア、スイス、英国を除く、「Gemini」アプリがサポートされている地域で利用できるようになったことを発表した。利用可能になった地域には日本も含まれる。",
+          "url": "https://forest.watch.impress.co.jp/docs/news/2125671.html",
+          "source": {
+            "name": "窓の杜"
+          },
+          "publishedAt": "2026-07-16T04:47:00Z",
+          "image": "https://forest.watch.impress.co.jp/img/wf/list/2125/671/image1.png",
+          "language": "ja"
+        },
+        {
+          "title": "『スターオーシャン セカンドストーリー R』Switch 2版が本日（7/16）発売。従来プラットフォーム対応版は価格改定で値下げ",
+          "description": "Nintendo Switch 2版『スターオーシャン セカンドストーリー R』が本日2026年7月16日に発売。19日にはシリーズ30周年を記念した生放送も実施される。",
+          "url": "https://www.famitsu.com/article/202607/81574",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-07-16T04:26:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/81574/thumbnail_rcQP.jpg?x=1280",
+          "language": "ja"
+        },
         {
           "title": "黄金カード・横浜対東海大相模のスタメン！横浜は149キロ左腕、東海大相模は1年生左腕が先発【神奈川】｜記事一覧｜高校野球ドットコム",
           "description": "頑張っている球児を応援する高校野球報道サイト。コラムや試合記事など高校野球情報を公開中。",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-07-16T02:34:26Z",
           "image": "https://car.watch.impress.co.jp/img/car/list/2125/593/006.jpg",
           "language": "ja"
-        },
-        {
-          "title": "8度目婚の“ビッグダディ”林下清志氏「深刻な状況です」「嫁さんから離婚届が届きました」",
-          "description": "ニュース｜　先月24日に8回目の結婚を発表した“ビッグダディ”こと林下清志氏が16日、自身のブログを更新。妻から離婚届が届いたことを明かし、その写真を公開した。　林下氏は「深刻な状況です、嫁さんから離婚届が届きました」と報告。「『離婚届』字の如くです」とつづった。",
-          "url": "https://www.oricon.co.jp/news/2468172/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-07-16T02:31:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2469000/2468172/20170127_155746_p_l_1815.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ロシアに「ホルムズ海峡型の危機」迫る、ウクライナ軍の攻撃で重要な水路が封鎖（CNN.co.jp）",
-          "description": "（CNN）　黒海への玄関口に対するロシアの支配力が揺らぎ始めている。ウクライナによる一連の攻撃を受け、今週には黒海へつながる重要な水路の通航を停止せざるを得なくなった。こうした措置によって現在、世界",
-          "url": "https://news.yahoo.co.jp/articles/5a5b8aea5648f6f281ae816319047d229c2c2720",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-16T02:30:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260716-35250648-cnn-000-5-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "福岡県議「カツアゲ告発」騒動の裏に県政めぐる“三つ巴”抗争「後継者問題」待ったなしの麻生氏が地元で抱える“劣勢”（女性自身）",
-          "description": "「これは単なる自民党県議の内紛ではありません。麻生太郎党副総裁、武田良太元総務相、そして藏内勇夫県議会議長――福岡県政を牛耳る3人の“三つ巴”の抗争が、ついに“表面化”したということです」\nそう語",
-          "url": "https://news.yahoo.co.jp/articles/70a8416a36fa46c4ccf4f75b4ea1ba288efae2a5",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-16T02:00:49Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260716-00000019-jisin-000-10-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "ホンダ、「N-BOX」をマイナーチェンジ 各タイプの個性を際立たせてさまざまなライフスタイルに寄り添うモデルに",
-          "description": "本田技研工業は7月16日、軽自動車「N-BOX（エヌボックス）」をマイナーモデルチェンジして7月17日に発売すると発表した。価格は176万8800円～273万7900円。",
-          "url": "https://car.watch.impress.co.jp/docs/news/2124950.html",
-          "source": {
-            "name": "Car Watch"
-          },
-          "publishedAt": "2026-07-16T02:00:00Z",
-          "image": "https://car.watch.impress.co.jp/img/car/list/2124/950/004.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "日産『エルグランド』正式発売、価格は689万7000円…16年ぶり刷新で『アルファード』追撃へ",
-          "description": "日産自動車は7月16日、16年ぶりのフルモデルチェンジとなる高級ミニバンの新型『エルグランド』を発売した。価格は689万7000円から。",
-          "url": "https://s.response.jp/article/2026/07/16/414108.html",
-          "source": {
-            "name": "レスポンス（Response.jp）"
-          },
-          "publishedAt": "2026-07-16T01:54:00Z",
-          "image": "https://response.jp/imgs/ogp_f/2227886.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Gemini Spark、日本でスタート グーグルのパーソナルAIエージェント",
-          "description": "Googleは16日、パーソナルAIエージェント「Gemini Spark」を日本語で展開開始した。Geminiが情報収集やデータ整理、日々のやり取り、スケジュール調整、旅行の手配などを、24時間体制で自動実行する。Gemini Sparkは 「Gemini」アプリで、Ultra プラン(月額14,500円～)のユーザーに向けて順次提供される。",
-          "url": "https://www.watch.impress.co.jp/docs/news/2125584.html",
-          "source": {
-            "name": "Impress Watch"
-          },
-          "publishedAt": "2026-07-16T01:37:42Z",
-          "image": "https://www.watch.impress.co.jp/img/ipw/list/2125/584/gs4.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "横浜5点リードで終盤へ 追う東海大相模 神奈川の両雄が激突",
-          "description": "（16日、第108回全国高校野球選手権神奈川大会4回戦　横浜―東海大相模）　神奈川大会4回戦は一昨年、昨年の決勝と同じカードとなった。　いずれも全国制覇の経験を持つ横浜―東海大相模だ。東海大相模が2",
-          "url": "https://vk.sportsbull.jp/koshien/articles/ASV7J0438V7JUTQP00FM.html",
-          "source": {
-            "name": "バーチャル高校野球"
-          },
-          "publishedAt": "2026-07-16T01:37:00Z",
-          "image": "https://www.asahicom.jp/koshien/articles/images/AS20260716001213_comm.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Jude Bellingham caught slapping Argentina's Barco as England star loses cool after World Cup heartbreak - Watch video",
-          "description": "In the video, Jude Bellingham can be seen walking towards the Argentine players and then slapping Valentin Barco on the head. | Football News",
-          "url": "https://www.hindustantimes.com/sports/football/jude-bellingham-caught-slapping-argentinas-barco-as-england-star-loses-after-world-cup-heartbreak-watch-viral-video-101784174622131.html",
+          "title": "Woman in fraudulent scheme for foreigners to get PR status in Singapore gets jail",
+          "description": "One Chinese national, hoping to obtain Singapore PR status, testified about how he paid S$360,000 (US$278,970) as an \"investment\" in what turned out to be a sham job arrangement.",
+          "url": "https://www.channelnewsasia.com/singapore/wang-jue-sham-scheme-foreigner-pr-jail-6257886",
           "source": {
-            "name": "Hindustan Times"
+            "name": "CNA"
           },
-          "publishedAt": "2026-07-16T04:17:30Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/07/16/550x309/1000259180_1784179721725_1784179734761_02d311aa-9a67-47f8-b3ff-8052a4489291.jpg",
+          "publishedAt": "2026-07-16T07:10:09Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--O1pt9MUe--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/16/wang_jue_1.jpg?itok=BYeKJO-3",
           "language": "en"
         },
         {
-          "title": "Indian activist urged to end hunger strike as he loses 9.1kg in 19 days",
-          "description": "The environmental activist has been on a hunger strike for 19 days and has visibly weakened.",
-          "url": "https://www.bbc.com/news/articles/crm0mg4z7edo",
+          "title": "Gemini Spark can do more things for you and is faster too",
+          "description": "Gemini Spark is getting new features including more capable Workspace integrations and it's also getting a noticeable speed boost.",
+          "url": "https://www.androidauthority.com/gemini-spark-workspace-features-speed-improvements-3688053/",
+          "source": {
+            "name": "Android Authority"
+          },
+          "publishedAt": "2026-07-16T07:10:00Z",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-2-scaled.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Kim Kardashian's Brit bodyguard Mason Haynes dies aged 52 after horror motorbike crash as tributes pour in",
+          "description": "KIM Kardashian's Brit bodyguard has died in a horror motorbike crash at 52.\nMason Haynes was found dead at the scene of the crash in Hampshire,...",
+          "url": "https://www.thesun.co.uk/tvandshowbiz/39775059/kim-kardashian-bodyguard-mason-haynes-dies-horror-crash/",
+          "source": {
+            "name": "The Sun"
+          },
+          "publishedAt": "2026-07-16T07:10:00Z",
+          "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/newspress-collage-i36dbtrml-1784188721143.jpg?quality=90&strip=all&1784192352&w=1920&h=1080&crop=1",
+          "language": "en"
+        },
+        {
+          "title": "US approves nearly $2bn in weapons sales to Saudi Arabia",
+          "description": "\"Proposed sale will improve Saudi Arabia's capability to deter current and future threats by strengthening its homeland defence and improving interoperability with US forces,\" US State Department says.",
+          "url": "https://www.dawn.com/news/2015878",
+          "source": {
+            "name": "Dawn"
+          },
+          "publishedAt": "2026-07-16T07:09:28Z",
+          "image": "https://i.dawn.com/large/2026/07/161210371052d7a.webp",
+          "language": "en"
+        },
+        {
+          "title": "US expands strikes into northern Iran and disables ship",
+          "description": "The United States has intensified its strikes on Iran, hitting targets further north. American forces also fired into a ship the U.S. accused of trying to break its naval blockade on the Islamic Republic.",
+          "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-16-2026-f98ff56554de2336f0e85bb5fdcae769",
+          "source": {
+            "name": "AP News"
+          },
+          "publishedAt": "2026-07-16T07:08:00Z",
+          "image": "https://dims.apnews.com/dims4/default/09b80d7/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd3%2F75%2Ff03a4bcffb8fd77a6a549133ce6d%2Fec48a42f3f85489ab27a8b28a0f15d66",
+          "language": "en"
+        },
+        {
+          "title": "Cell-suppressing treatments may be detrimental to Alzheimer's patients",
+          "description": "Irish research suggests that immune cells could play a critical role in maintaining the stability of neuronal networks in Alzheimer’s disease",
+          "url": "https://www.imt.ie/news/cell-suppressing-treatments-may-be-detrimental-to-alzheimers-patients-16-07-2026/",
+          "source": {
+            "name": "Irish Medical Times"
+          },
+          "publishedAt": "2026-07-16T07:07:30Z",
+          "image": "https://d1l0gza1nowsqe.cloudfront.net/wp-content/uploads/sites/4/2026/07/GettyImages-924834316-brain-620.webp",
+          "language": "en"
+        },
+        {
+          "title": "Iran targets military bases as US launches wave of strikes",
+          "description": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
+          "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-07-16T04:16:10Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/411a/live/b0c50c60-80d1-11f1-8992-cb8dba5f2846.jpg",
+          "publishedAt": "2026-07-16T07:06:38Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b67e/live/039382d0-80de-11f1-a5c2-db1656c1a0a8.jpg",
           "language": "en"
         },
         {
-          "title": "CS Ruku Confirms Salary Increase for All Civil Servants from August 1",
-          "description": "Teachers and members of the security forces, including police, are among those expected to receive the pay rise promised by President Ruto.",
-          "url": "https://www.kenyans.co.ke/news/125288-cs-ruku-confirms-salary-increase-all-civil-servants-august-1",
+          "title": "Iran targets military bases as US launches wave of strikes",
+          "description": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
+          "url": "https://www.bbc.com/news/articles/c2lq1ed28jxo",
           "source": {
-            "name": "Kenyans.co.ke"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-16T04:15:23Z",
-          "image": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/public-service-cs-geoffrey-ruku-1.jpg.webp?itok=6YL2rnLj",
+          "publishedAt": "2026-07-16T07:06:38Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b67e/live/039382d0-80de-11f1-a5c2-db1656c1a0a8.jpg",
           "language": "en"
         },
         {
-          "title": "Again, Senate rejects PFIPC probe as Atiku slams FG over N6.44b W’Cup budget",
-          "description": "The Senate, yesterday, again blocked Senator Kawu Sumaila’s fresh attempt to investigate the controversial Presidential Foreign Intervention Promotion Council (PFIPC)",
-          "url": "https://guardian.ng/news/again-senate-rejects-pfipc-probe-as-atiku-slams-fg-over-n6-44b-wcup-budget/",
+          "title": "Kerry hotel restaurant added to Michelin Guide",
+          "description": "The Falls Restaurant, part of the five-star Sheen Falls Lodge in Co Kerry, has been added to the prestigious Michelin Guide.",
+          "url": "https://www.rte.ie/lifestyle/food/2026/0716/1583595-kerry-hotel-restaurant-added-to-michelin-guide/",
           "source": {
-            "name": "The Guardian Nigeria News"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-07-16T04:15:17Z",
-          "image": "https://cdn.guardian.ng/wp-content/uploads/2026/06/Senate.jpg",
+          "publishedAt": "2026-07-16T07:06:14Z",
+          "image": "https://www.rte.ie/images/00219a89-1600.jpg",
           "language": "en"
         },
         {
-          "title": "Hong Kong police raid two bookstores, arrest five people",
-          "description": "Five booksellers have been arrested in Hong Kong over the sale of allegedly \"seditious\" publications. Two bookstores have become the latest target in a continued crackdown on independent bookshops",
-          "url": "https://www.dw.com/en/hong-kong-police-raid-two-bookstores-arrest-five-people/a-77976983",
+          "title": "Leaked WhatsApp Chats Expose Rental Scam Targeting Kenyans Searching for Holiday Apartments",
+          "description": "Kenyans are warned of a rental scam after a Reddit user exposed a fraudster posing as a booking agent. Learn to identify apartment booking scams and stay safe.",
+          "url": "https://www.tuko.co.ke/entertainment/celebrities/632901-leaked-whatsapp-chats-expose-rental-scam-targeting-kenyans-searching-holiday-apartments/",
           "source": {
-            "name": "DW.com"
+            "name": "Tuko News"
           },
-          "publishedAt": "2026-07-16T04:14:33Z",
-          "image": "https://static.dw.com/image/77976806_6.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Ramaphosa seeks Impeachment postponement to 'resolve' legal problem",
-          "description": "President Cyril Ramaphosa says he is not trying to avoid accountability. He is, however, seeking a postponement to resolve a legal problem.",
-          "url": "https://www.enca.com/news-top-stories/ramaphosa-seeks-impeachment-postponement-resolve-legal-problem",
-          "source": {
-            "name": "eNCA"
-          },
-          "publishedAt": "2026-07-16T04:12:30Z",
-          "image": "https://www.enca.com/sites/default/files/styles/large/public/2023-07/screen_shot_2022-11-16_at_11.23.20_am.png.webp?itok=mLF7Iul7",
-          "language": "en"
-        },
-        {
-          "title": "FILSCAP equips next generation of Filipino music creators through Master Lecture Series 2026",
-          "description": "As the Philippine music industry continues to evolve through streaming platforms, independent releases, social media, and emerging technologies, the Filipino...",
-          "url": "https://mb.com.ph/2026/07/16/filscap-equips-next-generation-of-filipino-music-creators-through-master-lecture-series-2026",
-          "source": {
-            "name": "Manila Bulletin"
-          },
-          "publishedAt": "2026-07-16T04:12:13Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/16/116505.webp",
-          "language": "en"
-        },
-        {
-          "title": "2026 BMW M3 Touring Competition M xDrive launched in Malaysia - 551 hp, RM951k with extended warranty",
-          "description": "The BMW M3 Touring Competition M xDrive with 551 hp is now launched in Malaysia, priced from RM951k, with extended warranty.",
-          "url": "https://autobuzz.my/2026/07/16/2026-bmw-m3-touring-competition-m-xdrive-launched-in-malaysia-551-hp-rm951k-with-extended-warranty/",
-          "source": {
-            "name": "AutoBuzz.my"
-          },
-          "publishedAt": "2026-07-16T04:09:03Z",
-          "image": "https://assets.autobuzz.my/wp-content/uploads/2026/07/16115434/2026-BMW-M3-Touring-Competition-Malaysia-1.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Norway Backs Digital Accountability Project with TZS1.8 Billion Grant",
-          "description": "The project seeks to improve public financial accountability by helping citizens access and use government information more effectively while expanding opportunities for public oversight through digital platforms.",
-          "url": "https://thechanzo.com/2026/07/16/norway-backs-digital-accountability-project-with-tzs1-8-billion-grant/",
-          "source": {
-            "name": "The Chanzo"
-          },
-          "publishedAt": "2026-07-16T04:09:00Z",
-          "image": "https://thechanzo.com/wp-content/uploads/2026/07/Copy-of-Poster-ya-Muda-Wote-1-3.png",
-          "language": "en"
-        },
-        {
-          "title": "Singapore Night Festival 2026 returns with new Museum Zone, light installations and more",
-          "description": "From immersive walking trails to projection mapping displays inspired by myths and legends, here's what to look forward to at this year's Singapore Night Festival, taking place from Aug 21 to Sep 5.",
-          "url": "https://cnalifestyle.channelnewsasia.com/living/singapore-night-festival-highlights-586036",
-          "source": {
-            "name": "CNA Lifestyle"
-          },
-          "publishedAt": "2026-07-16T04:08:41Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--TDmUcVAo--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/16/landscape_artist_impression_of_tales_of_earth_and_sea._image_courtesy_of_the_fox_the_folks.png?itok=ldb18z9N",
+          "publishedAt": "2026-07-16T07:05:11Z",
+          "image": "https://cdn.tuko.co.ke/images/1200x675/f9e0f1bc44c137fe.jpeg?v=1",
           "language": "en"
         }
       ]
