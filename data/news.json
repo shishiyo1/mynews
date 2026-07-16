@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-16T13:53:34.532Z",
+  "updatedAt": "2026-07-16T16:17:29.426Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "黄金カード・横浜対東海大相模のスタメン！横浜は149キロ左腕、東海大相模は1年生左腕が先発【神奈川】｜記事一覧｜高校野球ドットコム",
+          "description": "頑張っている球児を応援する高校野球報道サイト。コラムや試合記事など高校野球情報を公開中。",
+          "url": "https://www.hb-nippon.com/articles/14965",
+          "source": {
+            "name": "高校野球ドットコム"
+          },
+          "publishedAt": "2026-07-16T03:19:13Z",
+          "image": "https://cdn.hb-nippon.com/article-img/01KXJE957QKGZE6NSGEKX4Y18J.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【2026年サッカー男子W杯】アルゼンチン代表、フォークランド諸島について横断幕を試合後に掲示 FIFAが処分の可能性",
+          "description": "サッカー男子ワールドカップ（W杯）北中米大会は15日（日本時間16日）、アメリカのアトランタ・スタジアムで準決勝があり、イングランドがアルゼンチンに1-2で敗れた。試合後にアルゼンチンの選手たちはピッチで、フォークランド諸島に対する自国の領有権を主張する横断幕を掲げた。このため、国際サッカー連盟（FIFA）から処分を受ける可能性が出ている。",
+          "url": "https://www.bbc.com/japanese/articles/cjd4k3gk442o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-07-16T02:40:05Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/b3c0/live/7f838280-809a-11f1-abcc-2d303f4b40e8.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "NMC、新型エルグランドベースのカスタムカー「オーテック」「オーテックライン」「VIP」「ステップタイプ」",
+          "description": "日産モータースポーツ＆カスタマイズ（略称NMC）は7月16日、新型「エルグランド」をベースにしたカスタムカー「AUTECH（オーテック）」「AUTECH LINE（オーテックライン）」「VIP」「ステップタイプ」を発表した（AUTECHのみ8月上旬発売）。価格は、AUTECHが824万7800円、AUTECH LINEが717万9700円～778万4700円、VIPが869万8800円、ステップタイプが714万6700円～803万4400円。",
+          "url": "https://car.watch.impress.co.jp/docs/news/2125593.html",
+          "source": {
+            "name": "Car Watch"
+          },
+          "publishedAt": "2026-07-16T02:34:26Z",
+          "image": "https://car.watch.impress.co.jp/img/car/list/2125/593/006.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "8度目婚の“ビッグダディ”林下清志氏「深刻な状況です」「嫁さんから離婚届が届きました」",
+          "description": "ニュース｜　先月24日に8回目の結婚を発表した“ビッグダディ”こと林下清志氏が16日、自身のブログを更新。妻から離婚届が届いたことを明かし、その写真を公開した。　林下氏は「深刻な状況です、嫁さんから離婚届が届きました」と報告。「『離婚届』字の如くです」とつづった。",
+          "url": "https://www.oricon.co.jp/news/2468172/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-07-16T02:31:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2469000/2468172/20170127_155746_p_l_1815.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ロシアに「ホルムズ海峡型の危機」迫る、ウクライナ軍の攻撃で重要な水路が封鎖（CNN.co.jp）",
+          "description": "（CNN）　黒海への玄関口に対するロシアの支配力が揺らぎ始めている。ウクライナによる一連の攻撃を受け、今週には黒海へつながる重要な水路の通航を停止せざるを得なくなった。こうした措置によって現在、世界",
+          "url": "https://news.yahoo.co.jp/articles/5a5b8aea5648f6f281ae816319047d229c2c2720",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-16T02:30:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260716-35250648-cnn-000-5-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "福岡県議「カツアゲ告発」騒動の裏に県政めぐる“三つ巴”抗争「後継者問題」待ったなしの麻生氏が地元で抱える“劣勢”（女性自身）",
+          "description": "「これは単なる自民党県議の内紛ではありません。麻生太郎党副総裁、武田良太元総務相、そして藏内勇夫県議会議長――福岡県政を牛耳る3人の“三つ巴”の抗争が、ついに“表面化”したということです」\nそう語",
+          "url": "https://news.yahoo.co.jp/articles/70a8416a36fa46c4ccf4f75b4ea1ba288efae2a5",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-16T02:00:49Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260716-00000019-jisin-000-10-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "ホンダ、「N-BOX」をマイナーチェンジ 各タイプの個性を際立たせてさまざまなライフスタイルに寄り添うモデルに",
+          "description": "本田技研工業は7月16日、軽自動車「N-BOX（エヌボックス）」をマイナーモデルチェンジして7月17日に発売すると発表した。価格は176万8800円～273万7900円。",
+          "url": "https://car.watch.impress.co.jp/docs/news/2124950.html",
+          "source": {
+            "name": "Car Watch"
+          },
+          "publishedAt": "2026-07-16T02:00:00Z",
+          "image": "https://car.watch.impress.co.jp/img/car/list/2124/950/004.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "日産『エルグランド』正式発売、価格は689万7000円…16年ぶり刷新で『アルファード』追撃へ",
+          "description": "日産自動車は7月16日、16年ぶりのフルモデルチェンジとなる高級ミニバンの新型『エルグランド』を発売した。価格は689万7000円から。",
+          "url": "https://s.response.jp/article/2026/07/16/414108.html",
+          "source": {
+            "name": "レスポンス（Response.jp）"
+          },
+          "publishedAt": "2026-07-16T01:54:00Z",
+          "image": "https://response.jp/imgs/ogp_f/2227886.jpg",
+          "language": "ja"
+        },
         {
           "title": "Gemini Spark、日本でスタート グーグルのパーソナルAIエージェント",
           "description": "Googleは16日、パーソナルAIエージェント「Gemini Spark」を日本語で展開開始した。Geminiが情報収集やデータ整理、日々のやり取り、スケジュール調整、旅行の手配などを、24時間体制で自動実行する。Gemini Sparkは 「Gemini」アプリで、Ultra プラン(月額14,500円～)のユーザーに向けて順次提供される。",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-07-16T01:37:00Z",
           "image": "https://www.asahicom.jp/koshien/articles/images/AS20260716001213_comm.jpg",
           "language": "ja"
-        },
-        {
-          "title": "Googleの24時間働くAIエージェント「Gemini Spark」が日本語対応--Ultraプランで利用可",
-          "description": "Googleは7月16日、パーソナルAIエージェント「Gemini Spark」の日本語展開を開始した。調べ物やデータ整理、日々のやり取り、スケジュール調整、旅行の手配まで、ユーザーの代わりに24時間体制でこなす。GeminiアプリのUltraプランユーザーに順次提供する。",
-          "url": "https://japan.cnet.com/article/35250652/",
-          "source": {
-            "name": "CNET Japan"
-          },
-          "publishedAt": "2026-07-16T01:31:00Z",
-          "image": "https://japan.cnet.com/storage/2026/05/20/b803fe82d25d12823aeea24ac13420d6/cnet-gemini-ai-1510.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "人類が最初に目指すべき太陽系外惑星はどこ？専門家に訊いてみた|au Webポータル",
-          "description": "太陽系のはるか外側について多くのことがわかってきた今でも、実際に太陽系を出て恒星間空間へ到達した探査機は、NASAのボイジャー1号とボイジャー2号のみです。もっともこの2機は、もともと恒星間飛行を目指",
-          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260716_1784167732023672",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-07-16T01:30:00Z",
-          "image": "https://portal.st-img.jp/thumb/7005f19b588f17ae9d1852c5aeba0571_1784167732_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【DRIMAGE JAPAN プレスリリース】プレイヤー待望のCBT、遂に開幕！『アーケロン（Arkheron）』事前登録してない！？安心してください！そんな貴方も今からでも参加可能です！",
-          "description": "株式会社DRIMAGE JAPANのプレスリリース（2026年7月16日 10時00分）【DRIMAGE JAPAN　プレスリリース】プレイヤー待望のCBT、遂に開幕！『アーケロン（Arkheron）』事前登録してない！？安心してください！そんな貴方も今からでも参加可能です！",
-          "url": "https://prtimes.jp/main/html/rd/p/000000092.000162216.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-07-16T01:00:27Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/162216/92/162216-92-ce02737d9e2bb409b245f67db39c4a17-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "期待の45人塔昇りバトロワ『アーケロン』Steamにてクローズドベータテスト開幕。塔の頂上を目指す3人1組バトル、アマギフ券抽選プレゼント企画も実施",
-          "description": "DRIMAGE JAPANは7月16日、『アーケロン（Arkheron）』のクローズドベータテストを開始した。7月27日16時まで開催予定だ。",
-          "url": "https://automaton-media.com/articles/newsjp/arkheron-20260716-455187/",
-          "source": {
-            "name": "AUTOMATON"
-          },
-          "publishedAt": "2026-07-16T01:00:04Z",
-          "image": "https://automaton-media.com/wp-content/uploads/2026/07/arkheron-20260716-455187-header.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "神田うの夫「恫喝音声」の新潮報道にGMO代表が異例の謝罪 何があった？",
-          "description": "神田うの夫「恫喝音声」の新潮報道にGMO代表が異例の謝罪　何があった？（ZAKⅡ）タレントの神田うのの夫であり、日拓グループ・ホールディングス代表取締役の西村拓郎氏による「恫喝音声」が流出し、大きな波紋…",
-          "url": "https://topics.smt.docomo.ne.jp/article/zak2/entertainment/zak2-LECTHRCO2ZDTXIPZCLTDL4V2CY?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-07-16T00:53:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/zak2/m_zak2-LECTHRCO2ZDTXIPZCLTDL4V2CY.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【速報】関東で地震 Ｍ４．４ 東京、千葉、茨城、栃木で揺れ 震源は千葉県北東部 地震が及んだ地域人口２８２万人",
-          "description": "１６日午前９時１分ごろ、千葉県北東部を震源とする地震があった。最大震度２、地震の規模を示すマグニチュード（Ｍ）は４．４と推定される。震源の深さは約５０キロ。銚子市、東金市、旭市などで震度２を観測した。",
-          "url": "https://www.chibanippo.co.jp/articles/1641840",
-          "source": {
-            "name": "千葉日報オンライン"
-          },
-          "publishedAt": "2026-07-16T00:12:45Z",
-          "image": "https://www.chibanippo.co.jp/sites/default/files/image/202607/zisin_map20260716090439.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "FX/為替「ドル/円今日の見通し｜ドル安・円安 ポンド/円は18年半ぶり高値」 外為どっとコム トゥデイ 2026年7月16日号",
-          "description": "昨日のドル/円は前日比10銭未満の小幅安となる162.19円前後で取引を終えた。米6月生産者物価指数（PPI）が予想を下回ると161.90円前後まで弱含んだものの、ポンド/円を筆頭にクロス円が上昇する中でドル/円の下値は限定的だった。なお、英国では数日中に首相に就任する見込みのバーナム氏が、次期財務相に財政規律を重視するマフムード内相を起用すると伝わった。これを受けて英ポンドは、財政懸念がくすぶる日本円に対して18年半ぶりの高値まで買い進まれた。一方、米国では一昨日の6月消費者物価指数（CPI）に続き、6月PPIも予想以上に伸びが鈍化したことで連邦準備制度理事会（FRB）の早期利上げ観測が後退している。本日のNYタイムに発表される米6月小売売上高についても、当時のガソリン価格低下を背景に下振れ余地がありそうだ。もっとも、仮に6月小売売上高を受けてドル安に振れても、ドル以外の通貨に対する円安も続く公算が大きいことから、ドル/円は162円台前半を中心とするもみ合いから大きく下放れする展開にはならないだろう。",
-          "url": "https://www.gaitame.com/media/entry/2026/07/16/081945",
-          "source": {
-            "name": "外為どっとコム"
-          },
-          "publishedAt": "2026-07-15T23:20:10Z",
-          "image": "https://cdn.image.st-hatena.com/image/scale/5bf81f327511f5bef32b0f52914080b84ee7a448/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgaitamesk%2F20250327%2F20250327201949.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "決勝スペインvsアルゼンチンで自国出身監督の優勝が確定…W杯史上いまだ破られない法則は100年目へ",
-          "description": "北中米ワールドカップの王者を率いるのは、今回も自国出身の指揮官となることが決まった。決勝に進出したスペイン代表はスペイン人のルイス・デ・ラ・フエンテ監督(65)、アルゼンチン代表はアルゼンチン人のリ...",
-          "url": "https://web.gekisaka.jp/news/worldcup/detail/?455456-455456-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-07-15T23:01:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455456/news_455456_1.jpg?time=20260716080125",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Firmus meets with community over plans to build 'AI factory' at Tailem Bend",
-          "description": "An AI company says its proposed projects have the potential to create hundreds of jobs in South Australia, but residents of one River Murray town say they want to know more about the potential impacts.",
-          "url": "https://www.abc.net.au/news/2026-07-16/sa-firmus-factory-tailem-bend-community-meeting/106919542",
+          "title": "Jude Bellingham caught slapping Argentina's Barco as England star loses cool after World Cup heartbreak - Watch video",
+          "description": "In the video, Jude Bellingham can be seen walking towards the Argentine players and then slapping Valentin Barco on the head. | Football News",
+          "url": "https://www.hindustantimes.com/sports/football/jude-bellingham-caught-slapping-argentinas-barco-as-england-star-loses-after-world-cup-heartbreak-watch-viral-video-101784174622131.html",
           "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-07-16T01:53:04Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/f3582b0dbe411f3abe39aa07a29b9513?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=469&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-07-16T04:17:30Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/07/16/550x309/1000259180_1784179721725_1784179734761_02d311aa-9a67-47f8-b3ff-8052a4489291.jpg",
           "language": "en"
         },
         {
-          "title": "Sarangani resumes regular gov't work, classes after major quake",
-          "description": "The provincial government of Sarangani has restored regular government operations that were disrupted by the powerful magnitude 7.8 earthquake on June 8.",
-          "url": "https://newsinfo.inquirer.net/2264748/sarangani-resumes-regular-govt-work-classes-after-major-quake",
+          "title": "Indian activist urged to end hunger strike as he loses 9.1kg in 19 days",
+          "description": "The environmental activist has been on a hunger strike for 19 days and has visibly weakened.",
+          "url": "https://www.bbc.com/news/articles/crm0mg4z7edo",
           "source": {
-            "name": "Inquirer.net"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-16T01:52:00Z",
-          "image": "https://newsinfo.inquirer.net/files/2026/07/747795799_1284345786902391_6155888019480996543_n.jpg",
+          "publishedAt": "2026-07-16T04:16:10Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/411a/live/b0c50c60-80d1-11f1-8992-cb8dba5f2846.jpg",
           "language": "en"
         },
         {
-          "title": "Alhamra summer art camp draws huge response, inspires young artists",
-          "description": "LAHORE  -  The Lahore Arts Council (Alhamra) Summer Art Camp has emerged as a major success, attracting an overwhelming response from families and providing",
-          "url": "https://www.nation.com.pk/16-Jul-2026/alhamra-summer-art-camp-draws-huge-response-inspires-young-artists",
+          "title": "CS Ruku Confirms Salary Increase for All Civil Servants from August 1",
+          "description": "Teachers and members of the security forces, including police, are among those expected to receive the pay rise promised by President Ruto.",
+          "url": "https://www.kenyans.co.ke/news/125288-cs-ruku-confirms-salary-increase-all-civil-servants-august-1",
           "source": {
-            "name": "The Nation (Pakistan )"
+            "name": "Kenyans.co.ke"
           },
-          "publishedAt": "2026-07-16T01:52:00Z",
-          "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+          "publishedAt": "2026-07-16T04:15:23Z",
+          "image": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/public-service-cs-geoffrey-ruku-1.jpg.webp?itok=6YL2rnLj",
           "language": "en"
         },
         {
-          "title": "Jude Bellingham on Lionel Messi exchange at World Cup",
-          "description": "England star Jude Bellingham played down the significance of the moment that went viral.",
-          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/15/jude-bellingham-lionel-messi-exchange-england-argentina-world-cup/90937668007/",
+          "title": "Again, Senate rejects PFIPC probe as Atiku slams FG over N6.44b W’Cup budget",
+          "description": "The Senate, yesterday, again blocked Senator Kawu Sumaila’s fresh attempt to investigate the controversial Presidential Foreign Intervention Promotion Council (PFIPC)",
+          "url": "https://guardian.ng/news/again-senate-rejects-pfipc-probe-as-atiku-slams-fg-over-n6-44b-wcup-budget/",
           "source": {
-            "name": "USA Today"
+            "name": "The Guardian Nigeria News"
           },
-          "publishedAt": "2026-07-16T01:52:00Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/16/USAT/90937971007-afp-2285622573.jpg?crop=2173,1222,x208,y471&width=2173&height=1222&format=pjpg&auto=webp",
+          "publishedAt": "2026-07-16T04:15:17Z",
+          "image": "https://cdn.guardian.ng/wp-content/uploads/2026/06/Senate.jpg",
           "language": "en"
         },
         {
-          "title": "Sam Neill died from pneumonia, representative for 'Jurassic Park' actor says",
-          "description": "Sam Neill, known for his roles in the \"Jurassic Park\" films, died from pneumonia, a representative for the actor said in a statement on Wednesday.",
-          "url": "https://abcnews.com/GMA/Culture/sam-neill-died-pneumonia-representative-jurassic-park-actor/story?id=134805458",
+          "title": "Hong Kong police raid two bookstores, arrest five people",
+          "description": "Five booksellers have been arrested in Hong Kong over the sale of allegedly \"seditious\" publications. Two bookstores have become the latest target in a continued crackdown on independent bookshops",
+          "url": "https://www.dw.com/en/hong-kong-police-raid-two-bookstores-arrest-five-people/a-77976983",
           "source": {
-            "name": "ABC News - Breaking News, Latest News and Videos"
+            "name": "DW.com"
           },
-          "publishedAt": "2026-07-16T01:51:55Z",
-          "image": "https://i.abcnewsfe.com/a/72621c55-2e72-40a5-accb-17e2956f713c/AP24073232880830_1784173162274_hpMain_16x9.jpg?w=1600",
+          "publishedAt": "2026-07-16T04:14:33Z",
+          "image": "https://static.dw.com/image/77976806_6.jpg",
           "language": "en"
         },
         {
-          "title": "Cosmic Rescue: NASA scrambles to save a falling space telescope",
-          "description": "That is, unless a daring robotic rescue can pull off a never-before-tried feat: catching Swift and nudging it back to safety. That rescue spacecraft, named Link, successfully launched on July 3.",
-          "url": "https://www.dtnext.in/edit/cosmic-rescue-nasa-scrambles-to-save-a-falling-space-telescope",
+          "title": "Ramaphosa seeks Impeachment postponement to 'resolve' legal problem",
+          "description": "President Cyril Ramaphosa says he is not trying to avoid accountability. He is, however, seeking a postponement to resolve a legal problem.",
+          "url": "https://www.enca.com/news-top-stories/ramaphosa-seeks-impeachment-postponement-resolve-legal-problem",
           "source": {
-            "name": "DT Next"
+            "name": "eNCA"
           },
-          "publishedAt": "2026-07-16T01:50:59Z",
-          "image": "https://media.assettype.com/dt-next%2F2026-07-16%2Fe8f7aqs8%2Fnasa.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "publishedAt": "2026-07-16T04:12:30Z",
+          "image": "https://www.enca.com/sites/default/files/styles/large/public/2023-07/screen_shot_2022-11-16_at_11.23.20_am.png.webp?itok=mLF7Iul7",
           "language": "en"
         },
         {
-          "title": "BHP reaches record iron ore production ahead of landmark Port Hedland strike",
-          "description": "As hundreds of BHP workers prepare to down tools in a landmark strike, the miner has revealed its highest-ever levels of iron ore production.",
-          "url": "https://www.abc.net.au/news/2026-07-16/bhp-record-iron-ore-produdction-port-hedland-strike/106903200",
+          "title": "FILSCAP equips next generation of Filipino music creators through Master Lecture Series 2026",
+          "description": "As the Philippine music industry continues to evolve through streaming platforms, independent releases, social media, and emerging technologies, the Filipino...",
+          "url": "https://mb.com.ph/2026/07/16/filscap-equips-next-generation-of-filipino-music-creators-through-master-lecture-series-2026",
           "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-07-16T01:49:14Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/faac31b21ad8ac0d634f35f9cc84989f?impolicy=wcms_watermark_news&cropH=2916&cropW=5184&xPos=0&yPos=270&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-07-16T04:12:13Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/16/116505.webp",
           "language": "en"
         },
         {
-          "title": "ACT proposes 'innovation trials' to pause regulations on new tech",
-          "description": "The ACT Party has launched a new policy to make it easier for Ministers to pause regulations to allow companies to test new technologies.",
-          "url": "https://www.rnz.co.nz/news/politics/724986/act-proposes-innovation-trials-to-pause-regulations-on-new-tech",
+          "title": "2026 BMW M3 Touring Competition M xDrive launched in Malaysia - 551 hp, RM951k with extended warranty",
+          "description": "The BMW M3 Touring Competition M xDrive with 551 hp is now launched in Malaysia, priced from RM951k, with extended warranty.",
+          "url": "https://autobuzz.my/2026/07/16/2026-bmw-m3-touring-competition-m-xdrive-launched-in-malaysia-551-hp-rm951k-with-extended-warranty/",
           "source": {
-            "name": "RNZ"
+            "name": "AutoBuzz.my"
           },
-          "publishedAt": "2026-07-16T01:46:41Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--4Tmivv_f--/t_tohu-badge-facebook/f_auto/q_auto/4JOQQNG_David_Seymour_1_2_jpg",
+          "publishedAt": "2026-07-16T04:09:03Z",
+          "image": "https://assets.autobuzz.my/wp-content/uploads/2026/07/16115434/2026-BMW-M3-Touring-Competition-Malaysia-1.jpg",
           "language": "en"
         },
         {
-          "title": "Development to Ravidassia outreach: Why PM Modi’s Punjab visit is key to BJP’s 2027 bid",
-          "description": "Amid the “Satluj” row, Modi is visiting Jalandhar on Friday to unveil various development and railway infrastructure projects",
-          "url": "https://indianexpress.com/article/political-pulse/pm-narendra-modi-punjab-visit-satluj-row-bjp-ravidassia-outreach-why-pm-narendra-modis-punjab-visit-is-key-to-bjps-2027-bid-10788475/",
+          "title": "Norway Backs Digital Accountability Project with TZS1.8 Billion Grant",
+          "description": "The project seeks to improve public financial accountability by helping citizens access and use government information more effectively while expanding opportunities for public oversight through digital platforms.",
+          "url": "https://thechanzo.com/2026/07/16/norway-backs-digital-accountability-project-with-tzs1-8-billion-grant/",
           "source": {
-            "name": "The Indian Express"
+            "name": "The Chanzo"
           },
-          "publishedAt": "2026-07-16T01:46:26Z",
-          "image": "https://images.indianexpress.com/2026/07/Iran-attacks-Gulf-targets-1.jpg",
+          "publishedAt": "2026-07-16T04:09:00Z",
+          "image": "https://thechanzo.com/wp-content/uploads/2026/07/Copy-of-Poster-ya-Muda-Wote-1-3.png",
           "language": "en"
         },
         {
-          "title": "First Tick: Top global cues to watch in today's trade",
-          "description": "At close, the Sensex rose 130.49 points, or 0.17 percent, to 77,185.43, while the Nifty gained 26.45 points, or 0.11 percent, to 24,078.50.",
-          "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/first-tick-top-global-cues-to-watch-in-today-s-trade-187-13974900.html",
+          "title": "Singapore Night Festival 2026 returns with new Museum Zone, light installations and more",
+          "description": "From immersive walking trails to projection mapping displays inspired by myths and legends, here's what to look forward to at this year's Singapore Night Festival, taking place from Aug 21 to Sep 5.",
+          "url": "https://cnalifestyle.channelnewsasia.com/living/singapore-night-festival-highlights-586036",
           "source": {
-            "name": "Moneycontrol.com"
+            "name": "CNA Lifestyle"
           },
-          "publishedAt": "2026-07-16T01:42:40Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260714025931_sensex_nifty_stock-stocks_stock.jpg",
+          "publishedAt": "2026-07-16T04:08:41Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--TDmUcVAo--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/16/landscape_artist_impression_of_tales_of_earth_and_sea._image_courtesy_of_the_fox_the_folks.png?itok=ldb18z9N",
           "language": "en"
         }
       ]
