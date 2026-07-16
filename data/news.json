@@ -1,10 +1,109 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-16T11:01:16.276Z",
+  "updatedAt": "2026-07-16T13:53:34.532Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "Gemini Spark、日本でスタート グーグルのパーソナルAIエージェント",
+          "description": "Googleは16日、パーソナルAIエージェント「Gemini Spark」を日本語で展開開始した。Geminiが情報収集やデータ整理、日々のやり取り、スケジュール調整、旅行の手配などを、24時間体制で自動実行する。Gemini Sparkは 「Gemini」アプリで、Ultra プラン(月額14,500円～)のユーザーに向けて順次提供される。",
+          "url": "https://www.watch.impress.co.jp/docs/news/2125584.html",
+          "source": {
+            "name": "Impress Watch"
+          },
+          "publishedAt": "2026-07-16T01:37:42Z",
+          "image": "https://www.watch.impress.co.jp/img/ipw/list/2125/584/gs4.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "横浜5点リードで終盤へ 追う東海大相模 神奈川の両雄が激突",
+          "description": "（16日、第108回全国高校野球選手権神奈川大会4回戦　横浜―東海大相模）　神奈川大会4回戦は一昨年、昨年の決勝と同じカードとなった。　いずれも全国制覇の経験を持つ横浜―東海大相模だ。東海大相模が2",
+          "url": "https://vk.sportsbull.jp/koshien/articles/ASV7J0438V7JUTQP00FM.html",
+          "source": {
+            "name": "バーチャル高校野球"
+          },
+          "publishedAt": "2026-07-16T01:37:00Z",
+          "image": "https://www.asahicom.jp/koshien/articles/images/AS20260716001213_comm.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Googleの24時間働くAIエージェント「Gemini Spark」が日本語対応--Ultraプランで利用可",
+          "description": "Googleは7月16日、パーソナルAIエージェント「Gemini Spark」の日本語展開を開始した。調べ物やデータ整理、日々のやり取り、スケジュール調整、旅行の手配まで、ユーザーの代わりに24時間体制でこなす。GeminiアプリのUltraプランユーザーに順次提供する。",
+          "url": "https://japan.cnet.com/article/35250652/",
+          "source": {
+            "name": "CNET Japan"
+          },
+          "publishedAt": "2026-07-16T01:31:00Z",
+          "image": "https://japan.cnet.com/storage/2026/05/20/b803fe82d25d12823aeea24ac13420d6/cnet-gemini-ai-1510.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "人類が最初に目指すべき太陽系外惑星はどこ？専門家に訊いてみた|au Webポータル",
+          "description": "太陽系のはるか外側について多くのことがわかってきた今でも、実際に太陽系を出て恒星間空間へ到達した探査機は、NASAのボイジャー1号とボイジャー2号のみです。もっともこの2機は、もともと恒星間飛行を目指",
+          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260716_1784167732023672",
+          "source": {
+            "name": "au Webポータル"
+          },
+          "publishedAt": "2026-07-16T01:30:00Z",
+          "image": "https://portal.st-img.jp/thumb/7005f19b588f17ae9d1852c5aeba0571_1784167732_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【DRIMAGE JAPAN プレスリリース】プレイヤー待望のCBT、遂に開幕！『アーケロン（Arkheron）』事前登録してない！？安心してください！そんな貴方も今からでも参加可能です！",
+          "description": "株式会社DRIMAGE JAPANのプレスリリース（2026年7月16日 10時00分）【DRIMAGE JAPAN　プレスリリース】プレイヤー待望のCBT、遂に開幕！『アーケロン（Arkheron）』事前登録してない！？安心してください！そんな貴方も今からでも参加可能です！",
+          "url": "https://prtimes.jp/main/html/rd/p/000000092.000162216.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-07-16T01:00:27Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/162216/92/162216-92-ce02737d9e2bb409b245f67db39c4a17-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "期待の45人塔昇りバトロワ『アーケロン』Steamにてクローズドベータテスト開幕。塔の頂上を目指す3人1組バトル、アマギフ券抽選プレゼント企画も実施",
+          "description": "DRIMAGE JAPANは7月16日、『アーケロン（Arkheron）』のクローズドベータテストを開始した。7月27日16時まで開催予定だ。",
+          "url": "https://automaton-media.com/articles/newsjp/arkheron-20260716-455187/",
+          "source": {
+            "name": "AUTOMATON"
+          },
+          "publishedAt": "2026-07-16T01:00:04Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/07/arkheron-20260716-455187-header.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "神田うの夫「恫喝音声」の新潮報道にGMO代表が異例の謝罪 何があった？",
+          "description": "神田うの夫「恫喝音声」の新潮報道にGMO代表が異例の謝罪　何があった？（ZAKⅡ）タレントの神田うのの夫であり、日拓グループ・ホールディングス代表取締役の西村拓郎氏による「恫喝音声」が流出し、大きな波紋…",
+          "url": "https://topics.smt.docomo.ne.jp/article/zak2/entertainment/zak2-LECTHRCO2ZDTXIPZCLTDL4V2CY?redirect=1",
+          "source": {
+            "name": "ｄメニューニュース"
+          },
+          "publishedAt": "2026-07-16T00:53:00Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/picture/zak2/m_zak2-LECTHRCO2ZDTXIPZCLTDL4V2CY.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【速報】関東で地震 Ｍ４．４ 東京、千葉、茨城、栃木で揺れ 震源は千葉県北東部 地震が及んだ地域人口２８２万人",
+          "description": "１６日午前９時１分ごろ、千葉県北東部を震源とする地震があった。最大震度２、地震の規模を示すマグニチュード（Ｍ）は４．４と推定される。震源の深さは約５０キロ。銚子市、東金市、旭市などで震度２を観測した。",
+          "url": "https://www.chibanippo.co.jp/articles/1641840",
+          "source": {
+            "name": "千葉日報オンライン"
+          },
+          "publishedAt": "2026-07-16T00:12:45Z",
+          "image": "https://www.chibanippo.co.jp/sites/default/files/image/202607/zisin_map20260716090439.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "FX/為替「ドル/円今日の見通し｜ドル安・円安 ポンド/円は18年半ぶり高値」 外為どっとコム トゥデイ 2026年7月16日号",
+          "description": "昨日のドル/円は前日比10銭未満の小幅安となる162.19円前後で取引を終えた。米6月生産者物価指数（PPI）が予想を下回ると161.90円前後まで弱含んだものの、ポンド/円を筆頭にクロス円が上昇する中でドル/円の下値は限定的だった。なお、英国では数日中に首相に就任する見込みのバーナム氏が、次期財務相に財政規律を重視するマフムード内相を起用すると伝わった。これを受けて英ポンドは、財政懸念がくすぶる日本円に対して18年半ぶりの高値まで買い進まれた。一方、米国では一昨日の6月消費者物価指数（CPI）に続き、6月PPIも予想以上に伸びが鈍化したことで連邦準備制度理事会（FRB）の早期利上げ観測が後退している。本日のNYタイムに発表される米6月小売売上高についても、当時のガソリン価格低下を背景に下振れ余地がありそうだ。もっとも、仮に6月小売売上高を受けてドル安に振れても、ドル以外の通貨に対する円安も続く公算が大きいことから、ドル/円は162円台前半を中心とするもみ合いから大きく下放れする展開にはならないだろう。",
+          "url": "https://www.gaitame.com/media/entry/2026/07/16/081945",
+          "source": {
+            "name": "外為どっとコム"
+          },
+          "publishedAt": "2026-07-15T23:20:10Z",
+          "image": "https://cdn.image.st-hatena.com/image/scale/5bf81f327511f5bef32b0f52914080b84ee7a448/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgaitamesk%2F20250327%2F20250327201949.jpg",
+          "language": "ja"
+        },
         {
           "title": "決勝スペインvsアルゼンチンで自国出身監督の優勝が確定…W杯史上いまだ破られない法則は100年目へ",
           "description": "北中米ワールドカップの王者を率いるのは、今回も自国出身の指揮官となることが決まった。決勝に進出したスペイン代表はスペイン人のルイス・デ・ラ・フエンテ監督(65)、アルゼンチン代表はアルゼンチン人のリ...",
@@ -15,216 +114,117 @@
           "publishedAt": "2026-07-15T23:01:00Z",
           "image": "https://f.image.geki.jp/data/image/news/2560/456000/455456/news_455456_1.jpg?time=20260716080125",
           "language": "ja"
-        },
-        {
-          "title": "「深夜の従業員用エレベーターに乗ると、異世界に取り込まれてしまう――」都市伝説を体験するXRホラーアトラクション『迷界デパート』を7月16日より期間限定開催",
-          "description": "株式会社日本XRセンターのプレスリリース（2026年7月16日 08時00分）「深夜の従業員用エレベーターに乗ると、異世界に取り込まれてしまう――」都市伝説を体験するXRホラーアトラクション『迷界デパート』を7月16日より期間限定開催",
-          "url": "https://prtimes.jp/main/html/rd/p/000000080.000110387.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-07-15T23:00:02Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/110387/80/110387-80-af4026fd53b8afaf30ae6b36884961d2-1080x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "ニュース NVIDIAジェンスン・フアンCEOが来日、16日「日本のAIが始まる“大きな発表”」へ",
-          "description": "7月15日に都内で開催された、自律型AIエージェントをテーマにしたNVIDIA主催のイベント「Build-a-Claw-Tokyo」に、同社ジェンスン・フアンCEOが駆けつけた。妻にプレゼントしてもらったという新しいジャケットで登場した同氏は、「明日（16日）大きな発表がある」と述べるとともに、日本のAI産業のポテンシャルの高さを語った。",
-          "url": "https://ai.watch.impress.co.jp/docs/news/2125544.html",
-          "source": {
-            "name": "株式会社インプレス"
-          },
-          "publishedAt": "2026-07-15T22:44:36Z",
-          "image": "https://ai.watch.impress.co.jp/img/aiw/list/2125/544/001.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Microsoft、2026年7月定例パッチで史上最多569件の脆弱性を修正-AD FSとSharePointの2件がゼロデイ攻撃で悪用済み(CVE-2026-56155, CVE-2026-56164)",
-          "description": "Microsoftが2026年7月14日、月例セキュリティ更新プログラムで過去最多となる569件の脆弱性を修正。Active Directory フェデレーション サービス(CVE-2026-56155)とSharePoint Server(CVE-2026-56164)の2件はパッチ公開前から実際の攻撃で悪用されていたゼロデイ。BitLockerのセキュリティ機能バイパス(CVE-2026-50661)やKerberos RC4のEnforcementフェーズ適用も解説し、AIによる脆弱性発見の加速という記録的な件数増加の背景と、情報システム部門が優先すべき対応を紹介します。",
-          "url": "https://rocket-boys.co.jp/security-measures-lab/microsoft-patch-tuesday-july-2026-cve-2026-56155/",
-          "source": {
-            "name": "合同会社ロケットボーイズ"
-          },
-          "publishedAt": "2026-07-15T22:00:55Z",
-          "image": "https://rocket-boys.co.jp/wp-content/uploads/2026/07/microsoft-patch-tuesday-july-2026-cve-2026-56155.png",
-          "language": "ja"
-        },
-        {
-          "title": "内田有紀 寺西拓人の丁寧すぎる返答に驚き！「監督に『かしこまりました』と返す俳優さん、初めて見ました（笑）」【『ラストノート』インタビュー】",
-          "description": "内田有紀さんがドラマ『ラストノート』で共演する寺西拓人さんとの、撮影エピソードを語りました。木曜劇場『ラストノート』は、環境も積み重ねてきた人生もまったく違う、“年の差男女”一瀬葵（内田有紀）と、樋口澄晴（寺西拓人）が主人公の大人の純愛ドラマ。交わるはずのなかった2人が出会い、静かに惹（ひ）かれあい、やがて人生で最も激しい恋へと導かれていく姿が描かれます。内田有紀さんと寺西拓人さんがW主演を務める木曜劇場『ラストノート』のアザ－ビジュアルが解禁されました。めざましmediaは、内田さんにインタビュー。寺西さんとの撮影裏話や、現場の雰囲気、実際に演じることで感じた葵の魅力、そして、香りの取り入…",
-          "url": "https://mezamashi.media/articles/-/320543",
-          "source": {
-            "name": "めざましmedia"
-          },
-          "publishedAt": "2026-07-15T21:30:00Z",
-          "image": "https://mezamashi.ismcdn.jp/mwimgs/c/c/1200xm/img_cc65ae87509b73570bffee7fcc7b41b91921036.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "メッシ2アシストで終盤大逆転!アルゼンチンW杯連覇に王手! イングランドは60年ぶり決勝進出ならず",
-          "description": "[7.15 W杯準決勝 イングランド 1-2 アルゼンチン アトランタ]　北中米W杯は15日、準決勝をアトランタ・スタジアムで行い、アルゼンチンがイングランドを2-1で破った。後半40分まで0-1でリードされていたが、そこ...",
-          "url": "https://web.gekisaka.jp/news/worldcup/detail/?455453-455453-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-07-15T21:02:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455453/news_455453_1.jpg?time=20260716060925",
-          "language": "ja"
-        },
-        {
-          "title": "『Rise of the Ronin』登場！『アバター：フロンティア・オブ・パンドラ』『ファイアファイティングシミュレ一タ一 イグナイト』も配信される2026年7月度PS Plus「ゲームカタログ」ラインナップ",
-          "description": "PS2『ギタルマン』も登場！",
-          "url": "https://www.gamespark.jp/article/2026/07/16/169315.html",
-          "source": {
-            "name": "Game*Spark"
-          },
-          "publishedAt": "2026-07-15T21:00:04Z",
-          "image": "https://www.gamespark.jp/imgs/ogp_f/1159651.webp",
-          "language": "ja"
-        },
-        {
-          "title": "あいみょん ２日間８万人ＡＩＭと約束の大合唱に涙 １０周年祝う４年ぶり甲子園「私の地元にようこそ！」",
-          "description": "ただいま甲子園！女性シンガー・ソングライターのあいみょん（３１）が１４、１５日に故郷・兵庫県西宮市の阪神甲子園球場で凱旋ライブ「ＡＩＭＹＯＮ　１０ｔｈ　ａｎｎｉｖｅｒｓａｒｙ　ＬＩＶＥ『、、、』Ｉ",
-          "url": "https://news.yahoo.co.jp/articles/d699d9004639f8c0f8cde428a8071e54e1fa46ed",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-15T20:10:13Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260716-00000025-dal-000-5-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "9月スタート『仮面ライダーマイス』主要キャスト解禁！主人公はドラマ初主演の22歳・秋谷郁甫",
-          "description": "「仮面ライダー生誕55周年」という節目の年に誕生する『仮面ライダーマイス』。9月のスタートに向けて、よりいっそう期待が高まるなか、作品世界を支える主要キャストが待望の解禁となった。マイスに変身する主人公・音澄宙（おとすみ・そら）役は、気鋭の俳",
-          "url": "https://post.tv-asahi.co.jp/post-799185/",
-          "source": {
-            "name": "テレ朝POST"
-          },
-          "publishedAt": "2026-07-15T20:05:15Z",
-          "image": "https://post.tv-asahi.co.jp/wp-content/uploads/2026/07/mais0716_00.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "＜インタビュー＞白紙になったデビュー、そして出会った運命の7人――TAGRIGHTの\"ZERO\"から始まる物語",
-          "description": "米国で最も権威のある音楽チャート・Billboard（ビルボード）の日本公式サイト。洋楽チャート、邦楽チャート、音楽ニュース、プレゼント情報などを提供。",
-          "url": "https://www.billboard-japan.com/special/detail/5364",
-          "source": {
-            "name": "Billboard JAPAN"
-          },
-          "publishedAt": "2026-07-15T15:58:14Z",
-          "image": "https://www.billboard-japan.com/scale/special/00000005/5364/x200_image.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Call for Government to adhere to spending limits",
-          "description": "The independent body set up by the State to advise on keeping Ireland competitive has called on the Government adhere to spending limits.",
-          "url": "https://www.rte.ie/news/business/2026/0716/1583553-ireland-competitive-productivity-council/",
+          "title": "Firmus meets with community over plans to build 'AI factory' at Tailem Bend",
+          "description": "An AI company says its proposed projects have the potential to create hundreds of jobs in South Australia, but residents of one River Murray town say they want to know more about the potential impacts.",
+          "url": "https://www.abc.net.au/news/2026-07-16/sa-firmus-factory-tailem-bend-community-meeting/106919542",
           "source": {
-            "name": "RTE.ie"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-07-15T23:01:00Z",
-          "image": "https://www.rte.ie/images/00233c44-1600.jpg",
+          "publishedAt": "2026-07-16T01:53:04Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/f3582b0dbe411f3abe39aa07a29b9513?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=469&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Zimbabwe must move beyond policy to bankable projects",
-          "description": "The Zimbabwe Investment and Development Agency (ZIDA) has urged stakeholders to transform Zimbabwe’s devolution agenda into bankable investment projects that can attract local and foreign capital. Zimbabwe’s devolution policy is a constitutional and socio-economic strategy aimed at transferring powers, responsibilities and resources from the central government to provincial and local authorities to improve service delivery, […]",
-          "url": "https://www.newzimbabwe.com/zimbabwe-must-move-beyond-policy-to-bankable-projects-zida/",
+          "title": "Sarangani resumes regular gov't work, classes after major quake",
+          "description": "The provincial government of Sarangani has restored regular government operations that were disrupted by the powerful magnitude 7.8 earthquake on June 8.",
+          "url": "https://newsinfo.inquirer.net/2264748/sarangani-resumes-regular-govt-work-classes-after-major-quake",
           "source": {
-            "name": "NewZimbabwe.com"
+            "name": "Inquirer.net"
           },
-          "publishedAt": "2026-07-15T23:00:54Z",
-          "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2026/07/15133346/tafadzwa-chinamo.jpeg",
+          "publishedAt": "2026-07-16T01:52:00Z",
+          "image": "https://newsinfo.inquirer.net/files/2026/07/747795799_1284345786902391_6155888019480996543_n.jpg",
           "language": "en"
         },
         {
-          "title": "Celebrity influencers paid up to £1m to promote deodorant on social media",
-          "description": "The chief executive of Wild reveals what happens behind the scenes of social media posts.",
-          "url": "https://www.bbc.com/news/articles/cvgegqrp656o",
+          "title": "Alhamra summer art camp draws huge response, inspires young artists",
+          "description": "LAHORE  -  The Lahore Arts Council (Alhamra) Summer Art Camp has emerged as a major success, attracting an overwhelming response from families and providing",
+          "url": "https://www.nation.com.pk/16-Jul-2026/alhamra-summer-art-camp-draws-huge-response-inspires-young-artists",
           "source": {
-            "name": "BBC"
+            "name": "The Nation (Pakistan )"
           },
-          "publishedAt": "2026-07-15T23:00:42Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/aa6c/live/202769c0-8057-11f1-a10f-077d9cf2208e.jpg",
+          "publishedAt": "2026-07-16T01:52:00Z",
+          "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
           "language": "en"
         },
         {
-          "title": "Least paid mine worker to earn US$418 as new wage agreement takes effect",
-          "description": "The lowest-paid employee in Zimbabwe’s mining sector will now earn a minimum monthly salary of US$418 following the adoption of a new wage structure under the latest National Employment Council (NEC) for the Mining Industry Circular to Mines. The revised salary structure follows successful wage negotiations between the Associated Mine Workers Union of Zimbabwe (AMWUZ), […]",
-          "url": "https://www.newzimbabwe.com/least-paid-mine-worker-to-earn-us418-as-new-wage-agreement-takes-effect/",
+          "title": "Jude Bellingham on Lionel Messi exchange at World Cup",
+          "description": "England star Jude Bellingham played down the significance of the moment that went viral.",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/15/jude-bellingham-lionel-messi-exchange-england-argentina-world-cup/90937668007/",
           "source": {
-            "name": "NewZimbabwe.com"
+            "name": "USA Today"
           },
-          "publishedAt": "2026-07-15T23:00:36Z",
-          "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2024/10/31091648/Gold-miners-Zimbabwe-e1550128714237.webp",
+          "publishedAt": "2026-07-16T01:52:00Z",
+          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/16/USAT/90937971007-afp-2285622573.jpg?crop=2173,1222,x208,y471&width=2173&height=1222&format=pjpg&auto=webp",
           "language": "en"
         },
         {
-          "title": "PS6 Could Fix The Launch PS5's Liquid Metal Cooling Snafu",
-          "description": "A new patent suggests a notable revision for next-gen",
-          "url": "https://kotaku.com/ps6-could-fix-the-launch-ps5sliquid-metal-cooling-snafu-2000716337",
+          "title": "Sam Neill died from pneumonia, representative for 'Jurassic Park' actor says",
+          "description": "Sam Neill, known for his roles in the \"Jurassic Park\" films, died from pneumonia, a representative for the actor said in a statement on Wednesday.",
+          "url": "https://abcnews.com/GMA/Culture/sam-neill-died-pneumonia-representative-jurassic-park-actor/story?id=134805458",
           "source": {
-            "name": "Kotaku"
+            "name": "ABC News - Breaking News, Latest News and Videos"
           },
-          "publishedAt": "2026-07-15T23:00:14Z",
-          "image": "https://kotaku.com/app/uploads/2026/07/ps6.jpg",
+          "publishedAt": "2026-07-16T01:51:55Z",
+          "image": "https://i.abcnewsfe.com/a/72621c55-2e72-40a5-accb-17e2956f713c/AP24073232880830_1784173162274_hpMain_16x9.jpg?w=1600",
           "language": "en"
         },
         {
-          "title": "Argentina v England, semi-final, players, teams, games, fixtures, results",
-          "description": "Lionel Messi and Argentina were behind after 84 minutes, then produced two goals to continue their pursuit of back-to-back tournament wins.",
-          "url": "https://www.theage.com.au/sport/soccer/fifa-world-cup-2026-live-updates-england-meet-argentina-for-chance-to-play-spain-in-final-20260715-p60fnz.html",
+          "title": "Cosmic Rescue: NASA scrambles to save a falling space telescope",
+          "description": "That is, unless a daring robotic rescue can pull off a never-before-tried feat: catching Swift and nudging it back to safety. That rescue spacecraft, named Link, successfully launched on July 3.",
+          "url": "https://www.dtnext.in/edit/cosmic-rescue-nasa-scrambles-to-save-a-falling-space-telescope",
           "source": {
-            "name": "The Age"
+            "name": "DT Next"
           },
-          "publishedAt": "2026-07-15T23:00:06Z",
-          "image": "https://static.ffx.io/images/$zoom_0.20467723231542326%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/b294e853548dee2d38e495790d041eec6f557dd2",
+          "publishedAt": "2026-07-16T01:50:59Z",
+          "image": "https://media.assettype.com/dt-next%2F2026-07-16%2Fe8f7aqs8%2Fnasa.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
           "language": "en"
         },
         {
-          "title": "Black women need more help in accessing breast cancer screening",
-          "description": "Black African and Black Caribbean women in the UK want clearer and more accessible information about breast cancer screening, according to a study from the University of Surrey.",
-          "url": "https://medicalxpress.com/news/2026-07-black-women-accessing-breast-cancer.html",
+          "title": "BHP reaches record iron ore production ahead of landmark Port Hedland strike",
+          "description": "As hundreds of BHP workers prepare to down tools in a landmark strike, the miner has revealed its highest-ever levels of iron ore production.",
+          "url": "https://www.abc.net.au/news/2026-07-16/bhp-record-iron-ore-produdction-port-hedland-strike/106903200",
           "source": {
-            "name": "Medical Xpress"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-07-15T23:00:03Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/black-woman-patient-1.jpg",
+          "publishedAt": "2026-07-16T01:49:14Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/faac31b21ad8ac0d634f35f9cc84989f?impolicy=wcms_watermark_news&cropH=2916&cropW=5184&xPos=0&yPos=270&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "related trade to double over next five years",
-          "description": "Trade related to artificial intelligence is already having a significant effect on the Irish economy, according to business group Ibec.",
-          "url": "https://www.rte.ie/news/2026/0716/1583559-ai-trade-ibec/",
+          "title": "ACT proposes 'innovation trials' to pause regulations on new tech",
+          "description": "The ACT Party has launched a new policy to make it easier for Ministers to pause regulations to allow companies to test new technologies.",
+          "url": "https://www.rnz.co.nz/news/politics/724986/act-proposes-innovation-trials-to-pause-regulations-on-new-tech",
           "source": {
-            "name": "RTE.ie"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-07-15T23:00:00Z",
-          "image": "https://www.rte.ie/images/00249ed0-1600.jpg",
+          "publishedAt": "2026-07-16T01:46:41Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--4Tmivv_f--/t_tohu-badge-facebook/f_auto/q_auto/4JOQQNG_David_Seymour_1_2_jpg",
           "language": "en"
         },
         {
-          "title": "Spain vs. Argentina Combined XI: Messi, Yamal Lead World Cup Final Team",
-          "description": "Ahead of the Spain vs. Argentina 2026 FIFA World Cup final, we picked a combined XI featuring Lionel Messi, Lamine Yamal, Rodri and Emiliano Martínez.",
-          "url": "https://www.foxsports.com/stories/soccer/spain-vs-argentina-combined-xi-messi-yamal-lead-world-cup-final-team",
+          "title": "Development to Ravidassia outreach: Why PM Modi’s Punjab visit is key to BJP’s 2027 bid",
+          "description": "Amid the “Satluj” row, Modi is visiting Jalandhar on Friday to unveil various development and railway infrastructure projects",
+          "url": "https://indianexpress.com/article/political-pulse/pm-narendra-modi-punjab-visit-satluj-row-bjp-ravidassia-outreach-why-pm-narendra-modis-punjab-visit-is-key-to-bjps-2027-bid-10788475/",
           "source": {
-            "name": "FOX Sports"
+            "name": "The Indian Express"
           },
-          "publishedAt": "2026-07-15T22:59:06Z",
-          "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/16x9esp-arg-xi-1.jpg?ve=1&tl=1",
+          "publishedAt": "2026-07-16T01:46:26Z",
+          "image": "https://images.indianexpress.com/2026/07/Iran-attacks-Gulf-targets-1.jpg",
           "language": "en"
         },
         {
-          "title": "The Morgan Supersport in Photos",
-          "description": "Morgan is bringing the lightweight Supersport to the U.S. The car is less powerful than its European counterpart but weighs just 2,520 lbs.",
-          "url": "https://robbreport.com/motors/cars/gallery/photos-u-s-spec-morgan-supersport-1238469882/",
+          "title": "First Tick: Top global cues to watch in today's trade",
+          "description": "At close, the Sensex rose 130.49 points, or 0.17 percent, to 77,185.43, while the Nifty gained 26.45 points, or 0.11 percent, to 24,078.50.",
+          "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/first-tick-top-global-cues-to-watch-in-today-s-trade-187-13974900.html",
           "source": {
-            "name": "Robb Report"
+            "name": "Moneycontrol.com"
           },
-          "publishedAt": "2026-07-15T22:59:00Z",
-          "image": "https://robbreport.com/wp-content/uploads/2026/07/morgan-supersport-us-00.jpg?w=681&h=383&crop=1",
+          "publishedAt": "2026-07-16T01:42:40Z",
+          "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260714025931_sensex_nifty_stock-stocks_stock.jpg",
           "language": "en"
         }
       ]
