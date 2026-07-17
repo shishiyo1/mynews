@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-17T08:11:02.118Z",
+  "updatedAt": "2026-07-17T10:47:39.543Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "映画『オデュッセイア』日本語吹替版の同時公開が決定。平田広明さん吹替キャスト情報も公開",
+          "description": "7月17日、クリストファー・ノーラン監督の新作映画『オデュッセイア』日本語吹替版の同時公開が決定したことが発表された。\nまた、吹替版の発表にあわせて吹替キャストも解禁。マット・デイモン演じる主人公・オデュッセウスの吹替は、『オデッセイ』と同じく平田広明さんが担当する。そのほか、榎木淳弥さんに坂本真綾さん、江口拓也さんといった豪華声優陣が集結することとなった。",
+          "url": "https://news.denfaminicogamer.jp/news/2607173g",
+          "source": {
+            "name": "電ファミニコゲーマー"
+          },
+          "publishedAt": "2026-07-16T22:00:00Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/5be9f1e063c88f809c1298e218cf1167.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Microsoft、7月の月例更新で約570件を修正 悪用済みゼロデイ2件にまず対応を：セキュリティニュースアラート",
+          "description": "Microsoftは、2026年7月の月例更新で約570件の脆弱性を修正した。AI活用で発見件数が急増し、ゼロデイ3件への対応と効率的な脆弱性管理の必要性を示した。",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2607/17/news042.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-07-16T22:00:00Z",
+          "image": "https://image.itmedia.co.jp/enterprise/articles/2607/17/cover_news042.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "九州や関東などで雨雲発達 滝のような雨も 厳しい暑さ続く 7月17日(金)の天気",
+          "description": "今日17日は、九州や関東甲信で雨雲が発達しやすく、局地的には滝のような非常に激しい雨が降るでしょう。また、全国的に厳しい暑さが続き、近畿や東海を中心に最高気温35℃以上の猛暑日になる所がありそうです。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/07/17/39750.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-16T21:45:34Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/397/39750/main/20260717063619/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "NVIDIA新GPUを2.7万基導入、国策AI基盤モデル開発「FRONTia」始動",
+          "description": "2026年7月16日、経済産業省は「我が国のフィジカルAI政策に関する対外発信イベント」を開催し、6月30日に発表した「AIロボット・フィジカルAIを見据えたマルチモーダル基盤モデル開発事業」について説明した。",
+          "url": "https://pc.watch.impress.co.jp/docs/news/2125880.html",
+          "source": {
+            "name": "PC Watch"
+          },
+          "publishedAt": "2026-07-16T21:17:00Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2125/880/P1587934.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "金ロー 8.7から3週連続ジブリ",
+          "description": "【モデルプレス＝2026/07/17】日本テレビ系では、「金曜ロードショー」（よる9時～）にて8月7日から3週連続でスタジオジブリ作品を放送。7日に『借りぐらしのアリエッティ』、14日に『風の谷のナウ",
+          "url": "https://article.auone.jp/detail/1/5/9/81_9_r_20260717_1784235832018263",
+          "source": {
+            "name": "au Webポータル"
+          },
+          "publishedAt": "2026-07-16T21:07:01Z",
+          "image": "https://portal.st-img.jp/thumb/0ab90bc278eec7fc00f4afaa0177b264_1784235832_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "小栗旬が生んだ“史上最強”の信長…「鎌倉殿」とも重なる、にじむ悲しみが“名人芸”【豊臣兄弟】",
+          "description": "関西のおいしい、楽しい、知りたい…がいっぱい。関西人による、関西が好きな人のための、関西を24時間遊ぶニュースサイトです。",
+          "url": "https://www.lmaga.jp/news/2026/07/1078092/",
+          "source": {
+            "name": "Lmaga.jp"
+          },
+          "publishedAt": "2026-07-16T21:05:12Z",
+          "image": "https://www.lmaga.jp/wp-content/themes/lmaga/img/favicons/favicon-16x16.png",
+          "language": "ja"
+        },
+        {
+          "title": "左ひざに水が…大谷翔平32歳の二刀流“最大の懸念”は規定投球回不足でもドジャース2番手捕手ラッシングとの相性でもなく「投打のウエイト」問題では（Number Web）",
+          "description": "大谷翔平の「2026年の冒険」は終わったのか？　登板回避とオールスター出場辞退は、そう思うくらいのインパクトがあった。\n　今季の大谷は春先から、投手の最高の栄誉であるサイ・ヤング賞を取りにいくと",
+          "url": "https://news.yahoo.co.jp/articles/6dfed30ae29a6b1ba8fc60dbe78484cd992913ec",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-16T21:02:40Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260717-00871218-number-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "【市場反応】米7月NAHB住宅市場指数/6月中古住宅販売成約指数/米5月企業在庫、ドル底堅い｜FX・為替ニュース",
           "description": "[欧米市場の為替相場動向] 全米ホームビルダー（NAHB）が発表した米7月NAHB住宅市場指数は34と、6月36から低下し、予想も下回った。4月来で最低。27カ月連続で50を下回り、住宅建設企業の悲観的",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-07-16T14:25:00Z",
           "image": "https://img.biggo.com/NZoFRAsaEZDo2tLC07zBRQvcOwO0epG7uSa24FSlLvs/fit/1720/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzgwOTdiYzI3LTUzMTgtNDFjYi1hYzE4LTJiNjExZTQzN2MyZF8xNzg0MjEyMTE1X2RlZmF1bHQuanBn.webp",
           "language": "ja"
-        },
-        {
-          "title": "キーウやウクライナ各地で市民がフェドロウ国防相解任に抗議集会開催",
-          "description": "１６日、キーウ中心部のイヴァン・フランコ広場で、市民がミハイロ・フェドロウ国防相の解任への抗議を表明する集会を開催している。 — ウクルインフォルム.",
-          "url": "https://www.ukrinform.jp/rubric-society/4144804-kiu-zhong-xin-bude-shi-mingafedorou-guo-fang-xiang-jie-renni-kang-yi-ji-hui-kai-cui.html",
-          "source": {
-            "name": "ウクルインフォルム"
-          },
-          "publishedAt": "2026-07-16T13:25:00Z",
-          "image": "https://static.ukrinform.com/photos/2026_07/thumb_files/630_360_1784186441-1960.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "【バレー男子NL】日本、カナダとのフルセット激闘制し、怒とうの10連勝 序盤苦戦も2セットビハインドから驚異の盛り返し 宮浦・大塚・富田・ラリーが躍動し二桁得点",
-          "description": "◇バレーボール 男子ネーションズリーグ2026 予選ラウンド第3週（7月15日～19日)\nバレーボール男子日本代表(世界ランク4位)が16日、日本ラウンド第2戦で相まみえたカナダ(同15位)に3-",
-          "url": "https://news.yahoo.co.jp/articles/83612db94fcb599d5ebba7a43194c7378d8af111",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-16T12:49:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260716-09959627-nnn-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "バレー男子日本代表が総力戦で10連勝！カナダに0－2からの大逆転勝ち 今大会フルセットは6戦6勝 最多18点の大塚「諦めず戦った結果」【ネーションズリーグ】",
-          "description": "■バレーボール ネーションズリーグ2026 男子予選ラウンド　日本 3ー2カナダ（16日、Asueアリーナ大阪）\n世界TOP18チームが参戦しているバレーボールネーションズリーグで、男子日本代表（",
-          "url": "https://news.yahoo.co.jp/articles/4f87983e40b6845ff598ad4131411c991c3bedff",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-16T12:48:16Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260716-00010016-jnn-000-4-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "ロシアとウクライナ、黒海・アゾフ海で船舶攻撃 小麦価格急騰",
-          "description": "ウクライナとロシアは１６日、黒海とアゾフ海の船舶に対してミサイルとドローン（無人機）による攻撃を実施し、戦闘が激化した。両海域は穀物輸出に極めて重要な地域で、攻撃を受けて世界の小麦​価格が上昇している。",
-          "url": "https://jp.reuters.com/world/ukraine/R267YMCN7BNL7OVXDSM4BX3T6Y-2026-07-16/",
-          "source": {
-            "name": "ロイター"
-          },
-          "publishedAt": "2026-07-16T12:39:44Z",
-          "image": "https://www.reuters.com/resizer/v2/JJMKT3MLVFKEBKMNQQXX3XU3O4.jpg?auth=2c2f13291d7009c9fb311e1c6deae412494fa4ca8f1ca6250c91d492817a3259&height=1005&width=1920&quality=80&smart=true",
-          "language": "ja"
-        },
-        {
-          "title": "【巨人】ヤクルトにセ最多18度目逆転勝ちで連勝！首位と1差ピタリ 笹原2号決勝2ラン 赤星が2死満塁凌ぎ5勝目 マタ6回途中1失点",
-          "description": "■プロ野球　ヤクルト 1ー3 巨人　（16日　神宮）\n巨人はヤクルトにリーグ最多18度目の逆転勝ちで連勝。2カード連続の勝ち越しを決め44勝37敗2分の貯金7。また首位・阪神が中日に勝利したためゲ",
-          "url": "https://news.yahoo.co.jp/articles/0638ccb97de772d5309ecc3f330559d3888d6f6e",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-16T12:28:47Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260716-00010014-jnn-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "ヘグセス氏、米軍でテストステロン欠乏症の検査を開始すると発言",
-          "description": "米国防総省のヘグセス長官は15日、30歳以上の軍人を対象に、毎年の健康診断の一環としてテストステロン欠乏症の検査を実施すると発表した。テストステロン値が低い兵士には、任意でホルモン補充療法が提供されるという。",
-          "url": "https://www.bbc.com/japanese/articles/c5y4l01zqgyo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-07-16T11:24:33Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/d5dc/live/04f4b590-8093-11f1-9946-258bcfdcbe12.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "日産、新型「エルグランド」発売記念イベントを開催 なぜ走りにこだわるのか、なぜe-4ORCE仕様だけの設定なのか？",
-          "description": "日産自動車は7月16日、同日に発売した新型「エルグランド」の発売記念イベントを日産グローバル本社ギャラリー（神奈川県横浜市西区）で開催した。",
-          "url": "https://car.watch.impress.co.jp/docs/news/2125816.html",
-          "source": {
-            "name": "Car Watch"
-          },
-          "publishedAt": "2026-07-16T11:20:07Z",
-          "image": "https://car.watch.impress.co.jp/img/car/list/2125/816/018.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Brampton man murdered, body dumped in Hamilton: police",
-          "description": "The body of a man found in Stoney Creek on Wednesday has been identified as belonging to a Brampton man, and his death has been deemed a homicide.",
-          "url": "https://www.cp24.com/local/hamilton/2026/07/16/brampton-man-murdered-his-body-dumped-in-stoney-creek-police-say/",
+          "title": "1Password Brings Secure Credential Access to Claude",
+          "description": "1Password has introduced a browser integration that lets Anthropic‘s Claude access stored credentials without sharing those credentials.",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/1password-and-anthropic-bring-secure-credential-access-to-claude/",
           "source": {
-            "name": "CP24"
+            "name": "PYMNTS.com"
           },
-          "publishedAt": "2026-07-16T20:11:00Z",
-          "image": "https://www.cp24.com/resizer/v2/U6B5DUSYFVD4HFC2X3ZIJISE34.jpg?smart=true&auth=7cd0ea74a06c8547f699b0a33dca72af6d541d014b33e6eb41ca3239cee6a577&width=1200&height=630",
+          "publishedAt": "2026-07-16T22:47:09Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/1Password-Anthropic-Claude.jpg",
           "language": "en"
         },
         {
-          "title": "‘I'm still here, don’t remarry': Documenting the past through 'simple' remittance letters",
-          "description": "A surprise Chinese box-office hit that has been screening in Auckland this month has documented the rich history of remittance letters that migrants once sent to their families back home.",
-          "url": "https://www.rnz.co.nz/news/chinese_english/728646/i-m-still-here-don-t-remarry-documenting-the-past-through-simple-remittance-letters",
+          "title": "EU Orders Google to Give Rival AI Apps the Same Android Access as Gemini",
+          "description": "The European Commission today formally ordered Google to give third-party AI services the same access to Android device features that Gemini has. Europe's Digital Markets Act requires software makers like Apple and Google to grant equal interoperability to third-party apps and services, and the EC is enforcing it. DMA interoperability rules are why Siri AI won't be available in the European Union when iOS 27 launches.",
+          "url": "https://www.macrumors.com/2026/07/16/eu-google-ai-apps-android-access/",
           "source": {
-            "name": "RNZ"
+            "name": "MacRumors"
           },
-          "publishedAt": "2026-07-16T20:10:10Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--BUcY7QwA--/t_tohu-badge-facebook/f_auto/q_auto/4JLCZVK_Alexander_Don_SINGLE_USE_ONLY_jpg",
+          "publishedAt": "2026-07-16T22:45:12Z",
+          "image": "https://images.macrumors.com/t/pPDCn-hQtSI9kC8urpqYAeRxKF0=/2000x/article-new/2026/04/gemini-for-mac-app-google.jpg",
           "language": "en"
         },
         {
-          "title": "Country music star Luke Combs headlines Slane this weekend - here's all you need to know",
-          "description": "Combs will be joined by a number of special guests, including Irish band The Script.",
-          "url": "https://www.thejournal.ie/slane-luke-combs-who-is-he-7104759-Jul2026/",
+          "title": "New Lawsuit Filed Against Apple for 'Hide My Email' Privacy Vulnerability",
+          "description": "A major flaw in Apple's Hide My Email feature exposes users' real email addresses to anyone who can look them up online.",
+          "url": "https://www.cnet.com/tech/services-and-software/new-lawsuit-filed-against-apple-hide-my-email-privacy-flaw/",
           "source": {
-            "name": "The Journal"
+            "name": "CNET"
           },
-          "publishedAt": "2026-07-16T20:10:00Z",
-          "image": "https://img2.thejournal.ie/article/7104759/river/?height=400&version=7104781",
+          "publishedAt": "2026-07-16T22:45:00Z",
+          "image": "https://www.cnet.com/a/img/resize/038a765ce0fd6cf26d2a987cac66bbab4a75358f/hub/2026/07/16/113cd6bd-2dc7-4fd2-a844-5c2ec9090c7c/gettyimages-2044028530.jpg?auto=webp&fit=crop&height=675&width=1200",
           "language": "en"
         },
         {
-          "title": "Netflix Q2 Earnings Results In-Line With Expectations, Stock Drops",
-          "description": "Netflix reported earnings for the second quarter of 2026 as investors remain concerned over a slowdown in viewer engagement.",
-          "url": "https://variety.com/2026/tv/news/netflix-q2-2026-earnings-1236812558/",
+          "title": "Isaac Herzog: Israel wants peace with Saudi Arabia, Iran conflict is unsurprising",
+          "description": "President Isaac Herzog discussed the unfolding situation with Iran and the prospect of normalization in the region in a Thursday interview with Saudi state-owned Al-Arabiya.",
+          "url": "https://www.jpost.com/middle-east/article-902806",
           "source": {
-            "name": "Variety"
+            "name": "The Jerusalem Post"
           },
-          "publishedAt": "2026-07-16T20:09:00Z",
-          "image": "https://variety.com/wp-content/uploads/2026/07/Enola-Homes-3.jpg?w=1000&h=563&crop=1",
+          "publishedAt": "2026-07-16T22:43:40Z",
+          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728435",
           "language": "en"
         },
         {
-          "title": "Texas AG: Walmart to pay $13M settlement over Spark driver pay, tips",
-          "description": "Settlement repays affected Texans and requires Walmart to provide clearer, more accurate compensation information for Spark drivers going forward.",
-          "url": "https://www.kbtx.com/2026/07/16/texas-ag-walmart-pay-13m-settlement-over-spark-driver-pay-tips/",
+          "title": "Oppo Reno15 to the rescue on the road",
+          "description": "Smartphones have become the control centre of modern cars, so when one combines reliable performance with easy connectivity, it quickly earns its place, writes SHERYL GOLDSTUCK.",
+          "url": "https://gadget.co.za/reno15incars59f/",
           "source": {
-            "name": "KBTX News 3"
+            "name": "gadget.co.za"
           },
-          "publishedAt": "2026-07-16T20:08:00Z",
-          "image": "https://gray-kbtx-prod.gtv-cdn.com/resizer/v2/YWHU37DC7BFTFJXRKAR2HI3Z6A.jpg?auth=df2b13012d9ac63957b5be8ee1ce9703ed11084d8d1c38749f2a125964393da4&width=1200&height=600&smart=true",
+          "publishedAt": "2026-07-16T22:42:19Z",
+          "image": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2026/07/Screenshot-2026-07-16-101649.png?resize=1000%2C600&ssl=1",
           "language": "en"
         },
         {
-          "title": "Rare N.J. meteorite holds amino acids that could explain life on Earth",
-          "description": "A rare carbonaceous chondrite meteorite that hit a home in 2024 contains the building blocks of life, according to a newly-published paper",
-          "url": "https://torontosun.com/news/world/new-jersey-meteorite-holds-amino-acids-that-could-explain-life-on-earth",
+          "title": "Native bird flu case sparks 'nightmare' wildlife fears",
+          "description": "Share via: Facebook X (Twitter) A KILLER  bird flu strain has been discovered in an Australian native seabird for the first time, sparking fears it could trigger a wildlife emergency. Testing detected the H5N1 strain in a greater crested tern discovered at Robe in South Australia. The case marked a major escalation in the crisis, […]",
+          "url": "https://myallcoast.newsofthearea.com.au/native-bird-flu-case-sparks-nightmare-wildlife-fears",
           "source": {
-            "name": "Toronto Sun"
+            "name": "Myall Coast News Of The Area"
           },
-          "publishedAt": "2026-07-16T20:07:53Z",
-          "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/07/meteorite22.jpg",
+          "publishedAt": "2026-07-16T22:41:33Z",
+          "image": "https://myallcoast.newsofthearea.com.au/wp-content/uploads/2026/07/NEWS_Bird-flu_AAP_PY.jpg",
           "language": "en"
         },
         {
-          "title": "Family Notices One Bizarre Detail In Framed Photo Inside Airbnb That Sent Them 'Spiralling'",
-          "description": "A family was stunned after discovering an old photo of themselves displayed inside their San Diego Airbnb. Creepy World, Curiosities, Family",
-          "url": "https://www.boredpanda.com/family-notices-one-bizarre-detail-in-framed-photo-inside-airbnb/",
+          "title": "DCP takes early lead in Ol Kalou by-election",
+          "description": "The figures were yet to be confirmed by IEBC",
+          "url": "https://www.the-star.co.ke/news/2026-07-17-dcp-takes-early-lead-in-ol-kalou-by-election",
           "source": {
-            "name": "Bored Panda"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-07-16T20:07:17Z",
-          "image": "https://static.boredpanda.com/blog/wp-content/uploads/2026/07/fb_image_6a58ded84a1b8.png",
+          "publishedAt": "2026-07-16T22:40:20Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/07/d7ec1278-0082-41ad-aec2-b67fe4b08325.webp?1784242562227",
           "language": "en"
         },
         {
-          "title": "SNL Star Chloe Fineman Is Leaving the Show After 7 Seasons",
-          "description": "'SNL' star Chloe Fineman is leaving the show after seven seasons, the star announced.",
-          "url": "https://www.billboard.com/culture/tv-film/snl-chloe-fineman-leaving-show-1236296292/",
+          "title": "Our Ultimate Guide to Sonoma County’s Great Outdoors",
+          "description": "Whether seeking thrills or something more chill, here are the places and experiences that make our outdoors such a great place to be.",
+          "url": "https://www.sonomamag.com/our-ultimate-guide-to-sonoma-countys-great-outdoors/",
           "source": {
-            "name": "Billboard"
+            "name": "Sonoma Magazine"
           },
-          "publishedAt": "2026-07-16T20:05:57Z",
-          "image": "https://www.billboard.com/wp-content/uploads/2026/07/chloe-fineman-britney-spears-snl-2023-billboard-1800.jpg?w=1024",
+          "publishedAt": "2026-07-16T22:39:06Z",
+          "image": "https://www.sonomamag.com/wp-content/uploads/2026/07/TPD-L-kp0430_Jenner_09.jpg",
           "language": "en"
         },
         {
-          "title": "2nd ODI: Joe Root's unbeaten 99 helps England down India, level series 1-1",
-          "description": "Joe Root anchored England's chase with an unbeaten 99 as the hosts defeated India by four wickets in the second ODI to level the three-match series in Cardiff on Thursday.",
-          "url": "https://m.rediff.com/cricket/report/2nd-odi-indias-middle-order-meltdown-wastes-kohli-iyer-efforts-vs-england/20260716.htm",
+          "title": "Thousands of Google workers demand layoff protections amid AI boom in petition to CEO",
+          "description": "The petition to Sundar Pichai, the CEO, included more than 4,500 signatures and included calls for buyout options",
+          "url": "https://www.theguardian.com/technology/2026/jul/16/google-workers-layoff-protections-ai",
           "source": {
-            "name": "Rediff"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-07-16T20:04:39Z",
-          "image": "https://im.rediff.com/1200-630/cricket/2026/jul/16root-ecb.jpg",
+          "publishedAt": "2026-07-16T22:39:00Z",
+          "image": "https://i.guim.co.uk/img/media/084704b047341a565d01ac2d669e0f274dda5c13/335_0_4510_3610/master/4510.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e43fe296b43e08265a6859c5a89be153",
           "language": "en"
         },
         {
-          "title": "570-Megapixel Dark Energy Camera Photographs Van Gogh-Esque 'Starry Night'",
-          "description": "NOIRLab's Dark Energy Camera (DECam) turned its 570-megapixel camera array toward a local stellar nursery.",
-          "url": "https://petapixel.com/2026/07/16/570-megapixel-dark-energy-camera-photographs-van-gogh-esque-starry-night/",
+          "title": "US launches fresh wave of strikes as war with Iran shows little sign of de-escalating",
+          "description": "Washington and Tehran have not publicly signaled any diplomatic progress after nearly a week straight of renewed strikes. Follow live updates.",
+          "url": "https://www.cnn.com/2026/07/16/world/live-news/iran-war-trump",
           "source": {
-            "name": "PetaPixel"
+            "name": "CNN"
           },
-          "publishedAt": "2026-07-16T20:04:18Z",
-          "image": "https://petapixel.com/assets/uploads/2026/07/noirlab2617a1600x840.jpg",
+          "publishedAt": "2026-07-16T22:39:00Z",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2282234262.jpg?c=16x9&q=w_800,c_fill",
           "language": "en"
         }
       ]
