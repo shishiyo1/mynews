@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-17T19:11:13.480Z",
+  "updatedAt": "2026-07-17T21:54:46.091Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "ASCII.jp：『アーケロン（Arkheron）』の7月19日に開催する「けんきカスタムイベント」の出演陣を一部公開！",
+          "description": "ASCII.jp － ゲーム",
+          "url": "https://ascii.jp/elem/000/004/420/4420655/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-07-17T09:45:00Z",
+          "image": "https://ascii.jp/img/2026/07/17/4502344/xl/212b665001d3485e.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "18日からの3連休は北海道で大雨 関東以西は雷雨に注意 連休明けは40℃の酷暑か",
+          "description": "18日(土)から20日(月・祝)の3連休は北海道では日本海側と太平洋側を中心に大雨となる見込みです。大雨による低い土地の浸水や河川の増水、土砂災害に十分注意してください。関東から九州は日差しが届きますが、急な雨や雷雨に注意が必要です。連休明けの21日(火)以降は暑さのレベルがアップし、名古屋市などで酷暑日(最高気温40℃以上)となる可能性があります。",
+          "url": "https://tenki.jp/forecaster/t_yoshida/2026/07/17/39766.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-17T09:08:11Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/397/39766/main/20260717164054/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "GIGABYTEから、美しい円形ツインファンを搭載したAORUS INFINITYシリーズよりGeForce RTX 5080 / 5070 Ti / 5070搭載グラフィックボード4製品を発売",
+          "description": "日刊工業新聞の電子版。日刊工業新聞が紙面で提供している、およそ250件の記事を毎日閲覧することができます。機械、技術、情報通信、エネルギー、産業などの専門情報をご提供します。",
+          "url": "https://www.nikkan.co.jp/releases/view/220942",
+          "source": {
+            "name": "日刊工業新聞"
+          },
+          "publishedAt": "2026-07-17T09:02:42Z",
+          "image": "https://prtimes.jp/img/32645/1132/thumb/d32645-1132-a87af2e6f0e92994f21b-0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "アメリカとイラン、戦闘が再び激化 トランプ大統領は、新たな攻撃目標に言及 “完全破壊”には地上作戦必要との見方も",
+          "description": "アメリカ軍は6日連続でイランへの攻撃を実施したと発表した。トランプ大統領は新たな攻撃目標にも言及しているが、戦闘終結に向けた協議はストップしてしまうのだろうか。",
+          "url": "https://news.tv-asahi.co.jp/news_international/articles/900195234.html",
+          "source": {
+            "name": "テレ朝NEWS"
+          },
+          "publishedAt": "2026-07-17T09:00:00Z",
+          "image": "https://news.tv-asahi.co.jp/articles_img/900195234_1200.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "広島・矢野雅哉抹消はゾンビたばこ確認できずも「私の判断でお願い」 鈴木本部長と一問一答全文",
+          "description": "広島の鈴木清明球団本部長が17日、この日登録抹消となった矢野雅哉内野手（27）について、マツダスタジアムで行われる試合前に報道陣に説明した。\n　矢野に関しては、指定薬物「エトミデート」（通称「ゾ",
+          "url": "https://news.yahoo.co.jp/articles/e883637125261210116514dac66528ef4614a941",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-17T08:42:24Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260717-00000241-spnannex-000-8-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "ゼレンスキー氏、ウクライナで高い支持のフェドロフ国防相を更迭 各地で抗議広がる",
+          "description": "ウクライナのゼレンスキー大統領が16日までに、フェドロフ国防相を更迭した。フェドロフ氏は人気が高く、国民や議員らから激しい怒りと抗議の声が上がっている。",
+          "url": "https://www.bbc.com/japanese/articles/c1m10vx833jo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-07-17T08:20:28Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/91c2/live/5c429900-80f4-11f1-8edb-6f86e45a0f45.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【米津玄師「夜鷹」ロングインタビュー】泥臭い原体験と「キングダム」主人公に重ねた反骨心「なんじゃ、やっちゃらあ、今に見とけ！」",
+          "description": "シンガーソングライターの米津玄師（35）が7月17日公開『キングダム 魂の決戦』主題歌に新曲「夜鷹」（読み：よだか）を書き下ろした。中華統一という途方もない夢を描く「キングダム」。この巨大な物語に、米津はいかにして自らの魂を共鳴させたのか。その源流には、彼がかつて身を投じていた「泥臭く、カオスな」初期インターネット空間での原体験があった。 荒野を生き抜く主人公の姿に自身のルーツを重ねて生まれた「夜鷹」。モデルプレスインタビューでは、名曲を生み出そうとする創作への執念から、夢を叶えるための秘訣を赤裸々に語ってくれた。迷いながらも「おもろい方へ」と歩み続ける彼の、嘘偽りのない言葉の記録。",
+          "url": "https://mdpr.jp/interview/detail/4810394",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-07-17T08:00:00Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/7jLq/nm/7jLquS5tuQcDfZoQBtjD1Sedn1_MVPrTVznIQ8ioBj8.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
+        {
+          "title": "「ムーンスウォッチ」新作は月面着陸がモチーフのゴールド仕様。購入申請は7月22日朝6:59まで！──GQ新着ウォッチ",
+          "description": "オメガ×スウォッチ「ムーンスウォッチ」新作はアポロ11号にちなみ、11gのゴールドをオメガのヴィンテージパーツから流用。購入には事前申請が必要となり、承認を受けた者のみが購入権を付与される。",
+          "url": "https://www.gqjapan.jp/article/20260717-omega-swatch-moonswatch-mission-to-the-moon-1969-07-16-2026-news",
+          "source": {
+            "name": "GQ Japan"
+          },
+          "publishedAt": "2026-07-17T07:29:49Z",
+          "image": "https://media.gqjapan.jp/photos/6a59953dc2e2f8f16f3dbc4a/16:9/w_1280,c_limit/Untitled%20design%20(25).jpg",
+          "language": "ja"
+        },
         {
           "title": "【詳しく】温泉施設から行方不明となった5歳男児の捜索 遺体のようなものが見つかる 鹿児島・霧島市 浴室から川まで“複数の段差”…何が",
           "description": "鹿児島県霧島市で行方不明となった5歳の男の子の一斉捜索が行われ、遺体のようなものが見つかったことが分かりました。",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-07-17T06:40:00Z",
           "image": "https://www.cnn.co.jp/storage/2026/07/17/75041ca7b78f05ef2dc06ce1a3c64555/newhorizonsplutosurface.jpg",
           "language": "ja"
-        },
-        {
-          "title": "【解説】 バーナム氏の政策について分かっていること 週明けに新たな英首相に",
-          "description": "英与党・労働党のアンディ・バーナム議員は、20日にイギリスの新たな首相に就任する見込みだ。同氏は17日にロンドン中心部で開催される特別党大会で、正式に党首に任命される見通し。",
-          "url": "https://www.bbc.com/japanese/articles/cq56dxvxwnyo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-07-17T06:10:28Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/6902/live/29927da0-6feb-11f1-a9c4-37da5d161ee0.png",
-          "language": "ja"
-        },
-        {
-          "title": "【DRIMAGE JAPAN プレスリリース】次世代チームベースPvP『アーケロン（Arkheron）』7月19日（日）開催！豪華ストリーマー集結の「けんきカスタムイベント」出演者情報を一部公開",
-          "description": "株式会社DRIMAGE JAPANのプレスリリース（2026年7月17日 15時00分）【DRIMAGE JAPAN　プレスリリース】次世代チームベースPvP『アーケロン（Arkheron）』7月19日（日）開催！豪華ストリーマー集結の「けんきカスタムイベント」出演者情報を一部公開",
-          "url": "https://prtimes.jp/main/html/rd/p/000000093.000162216.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-07-17T06:00:02Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/162216/93/162216-93-10584d36f73e22b82311052335951499-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "セガのオフィシャルストアが北京に初出店！「SEGA STORE BEIJING」7月18日（土）グランドオープン",
-          "description": "株式会社セガのプレスリリース（2026年7月17日 14時12分）セガのオフィシャルストアが北京に初出店！「SEGA STORE BEIJING」7月18日（土）グランドオープン",
-          "url": "https://prtimes.jp/main/html/rd/p/000007521.000005397.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-07-17T05:12:31Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/5397/7521/5397-7521-04ea010c2f3532668c0bc24226758376-1080x1436.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "Jリーグのリーグ戦24年ぶりゴールデン地上波全国生中継が決定!! 横浜FM対鹿島は“日本スポーツ興行史上最大規模の演出”を予定",
-          "description": "Jリーグは17日、8月7日に行われるJ1第1節の横浜F・マリノス対鹿島アントラーズがフジテレビ系列で全国生中継されることを発表した。Jリーグによるとリーグ戦のゴールデンタイムでの地上波全国生中継は、2002年...",
-          "url": "https://web.gekisaka.jp/news/jleague/detail/?455538-455538-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-07-17T05:11:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455538/news_455538_1.jpg?time=20260717141829",
-          "language": "ja"
-        },
-        {
-          "title": "ジェンスン・フアン氏がアキバのゲーセンに来訪、NVIDIAとセガの歴史をゲーマーと祝うイベントが開催",
-          "description": "NVIDIAとセガの歴史を日本のゲーマーと一緒に祝うイベントが7月15日に開催。NVIDIA CEOのジェンスン・フアン氏が来日し、前セガ社長 入交昭一郎氏、バーチャファイターの生みの親 鈴木裕氏とセガのレジェンドをゲストに迎え、フアン氏とセガとの過去のエピソードの紹介や、実際に動作する「NVIDIA RTX Spark」搭載ノートPCのお披露目も行われた。",
-          "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2125909.html",
-          "source": {
-            "name": "AKIBA PC Hotline!"
-          },
-          "publishedAt": "2026-07-17T05:05:00Z",
-          "image": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2125/909/DSC08629.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "GALLERIAからRyzen 7 7700X3D搭載ゲーミングPCが新登場",
-          "description": "サードウェーブのゲーミングブランドGALLERIAは7月17日、CPUにRyzen 7 7700X3Dを搭載したゲーミングPCを複数モデル、ドスパラで発売した。価格は37万4,980円から。",
-          "url": "https://pc.watch.impress.co.jp/docs/news/2126054.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-07-17T04:40:21Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2126/054/1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "改正皇室典範が成立 自民・小林氏「大切なのは我が国の歴史、伝統」",
-          "description": "高市早苗首相が強い意欲を示してきた皇室典範改正案や国旗損壊処罰法案、さらには再審制度を見直す法案が17日午前、軒並み成立しました。午後には高市首相が参院予算委員会の論戦に立ち、国会の会期延長も決まる…",
-          "url": "https://www.asahi.com/articles/ASV7K02J6V7KUTFK020M.html",
-          "source": {
-            "name": "朝日新聞"
-          },
-          "publishedAt": "2026-07-17T04:10:36Z",
-          "image": "https://imgopt.asahi.com/ogp/AS20260717002128_comm.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "東海で危険な暑さ 22日は愛知県で40℃予想が続出",
-          "description": "東海地方は、3連休は極端な暑さはありませんが、連休明けの21日(火)からは、再び体温超えの危険な暑さとなる見込みです。22日(水)は、名古屋や豊田などで、酷暑日(最高気温40℃以上)が予想されます。連日の暑さで体調を崩さないよう気をつけてお過ごしください。",
-          "url": "https://tenki.jp/forecaster/n_takeshita/2026/07/17/39757.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-07-17T04:05:37Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/397/39757/ogp/20260717113225/large.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "How period trackers share women's private details",
-          "description": "Stardust is a period tracking app that combines users' menstrual cycles with astrology and horoscopes",
-          "url": "https://www.the-star.co.ke/news/2026-07-17-how-period-trackers-share-womens-private-details",
+          "title": "America tightens rules for international students starting September",
+          "description": "The Trump administration has confirmed tough new rules for foreign students in the US, set to take effect in September.",
+          "url": "https://www.africanews.com/2026/07/17/america-tightens-rules-for-international-students-starting-september/",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "africanews.com"
           },
-          "publishedAt": "2026-07-17T07:10:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/07/2a112357-13a7-4ceb-a615-647e3beda901.webp?1784290839836",
+          "publishedAt": "2026-07-17T09:53:54Z",
+          "image": "https://images.euronews.com/articles/stories/09/84/16/81/1024x538_cmsv2_addb943e-cb22-547d-ab2e-47e379ce8179-9841681.jpg",
           "language": "en"
         },
         {
-          "title": "Cairngorms wildfire burns for third day across nearly four miles",
-          "description": "Firefighters are still on the scene and an area commander says there are \"adequate resources\" to deal with the incident.",
-          "url": "https://www.bbc.co.uk/news/articles/cr59ng05nngo",
+          "title": "Japan Looks to Ukraine’s Cheap Drone Killers as China Pressure Builds",
+          "description": "Japan is exploring Ukraine's low-cost drone tactics to counter rising China pressure, focusing on affordable unmanned systems for defense.",
+          "url": "https://united24media.com/defense-tech/japan-looks-to-ukraines-cheap-drone-killers-as-china-pressure-builds-20838",
+          "source": {
+            "name": "UNITED24 Media"
+          },
+          "publishedAt": "2026-07-17T09:53:36Z",
+          "image": "https://storage.united24media.com/og/e/ac/a59abce094f2ff78158c709162fb8ace.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Israel headed for October election as parliament dissolved",
+          "description": "PM Netanyahu’s political survival at stake as Knesset dissolves before the vote.",
+          "url": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved",
+          "source": {
+            "name": "Al Jazeera"
+          },
+          "publishedAt": "2026-07-17T09:53:32Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a59e171855f-1784275313.jpg?resize=1920%2C1440",
+          "language": "en"
+        },
+        {
+          "title": "How Gadi Eisenkot's snub of Rabbi Yitzhak Yosef redefines Israeli politics",
+          "description": "POLITICAL AFFAIRS: Yitzhak Yosef’s embrace – and Eisenkot's effort to distance himself from it – reflects Israel's shifting political landscape.",
+          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-902785",
+          "source": {
+            "name": "The Jerusalem Post"
+          },
+          "publishedAt": "2026-07-17T09:52:32Z",
+          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730272",
+          "language": "en"
+        },
+        {
+          "title": "‘No-one’s ever been able to stop Lionel Messi’ - Why England ‘can’t complain’ about painful lesson in World Cup semi-final masterclass from Argentine GOAT",
+          "description": "England “can’t complain” about being on the receiving end of another masterclass from Lionel Messi as “no-one’s ever been able to stop” the Argentina GOAT, ex-Three Lions international Joleon Lescott has told GOAL.",
+          "url": "https://www.goal.com/en/lists/stop-lionel-messi-england-lesson-world-cup-semi-final-masterclass-argentine-goat/blt206eb2dbc1607f58",
+          "source": {
+            "name": "Goal.com"
+          },
+          "publishedAt": "2026-07-17T09:51:50Z",
+          "image": "https://assets.goal.com/images/v3/bltaa6d64ac675ef063/GOAL%20-%20Blank%20WEB%20-%20Facebook%20-%202026-07-17T093316.668.png",
+          "language": "en"
+        },
+        {
+          "title": "Commissioner Karachi reviews preparedness, measures ahead onset of monsoon showers",
+          "description": "Commissioner Karachi Syed Hassan Naqvi on Friday directed all civic and emergency departments to expedite monsoon preparedness measures, emphasizing that the cleaning of all storm water drains must be completed before the onset of the rains.",
+          "url": "https://www.app.com.pk/sindh/commissioner-karachi-reviews-preparedness-measures-ahead-onset-of-monsoon-showers/",
+          "source": {
+            "name": "| Associated Press Of Pakistan"
+          },
+          "publishedAt": "2026-07-17T09:51:11Z",
+          "image": "https://www.app.com.pk/wp-content/uploads/2025/10/Commissioner-Karachi-Syed-Hassan-Naqvi.webp",
+          "language": "en"
+        },
+        {
+          "title": "Lights, camera, no lunch allowance: AI boards the Tazara train",
+          "description": "DAR ES SALAAM: PERMIT me to begin with a confession, because every respectable Friday read should start with somebody admitting something mildly embarrassing before advising the nation. I belong to the generation that believes most photographic problems can be solved by searching a camera bag. Beneath a dead battery, three mysterious cables, a receipt from …",
+          "url": "https://dailynews.co.tz/lights-camera-no-lunch-allowance-ai-boards-the-tazara-train/",
+          "source": {
+            "name": "dailynews.co.tz"
+          },
+          "publishedAt": "2026-07-17T09:51:05Z",
+          "image": "https://dailynews.co.tz/wp-content/uploads/2026/07/Screenshot-2026-07-17-124946.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Attorney General sends warning letter to government ministers",
+          "description": "Following the dissolution of the Knesset, Attorney Baharav-Miara informed ministers that Israel has officially entered the period of a caretaker government and instructed them to consult with her before making any significant decisions.",
+          "url": "https://www.israelnationalnews.com/news/430328",
+          "source": {
+            "name": "Israel National News"
+          },
+          "publishedAt": "2026-07-17T09:51:00Z",
+          "image": "https://2.a7.org/files/pictures/000/1219051.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Andy Burnham to become Labour leader and will promise to 'fix things politics has neglected'",
+          "description": "The Makerfield MP is due to speak later when he is appointed at a special conference in central London. He will then become prime minister on Monday.",
+          "url": "https://www.bbc.co.uk/news/live/clywy2n7g4dt",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-07-17T07:09:31Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e63/live/ccc40930-81b1-11f1-bc34-d11e2a8fe857.jpg",
+          "publishedAt": "2026-07-17T09:50:13Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b283/live/6dd43310-81ab-11f1-b976-0b9c15b0ccfc.jpg",
           "language": "en"
         },
         {
-          "title": "Mutahi Ngunyi Urges Ruto to Sack CSs from Mt Kenya after Humiliating Defeat in Ol Kalou",
-          "description": "Political analyst advises President Ruto to abandon Kikuyu support after Ol Kalau by-election defeat, urging a focus on Luo and Luhya communities instead.",
-          "url": "https://www.tuko.co.ke/politics/633089-mutahi-ngunyi-urges-ruto-sack-css-mt-kenya-humiliating-defeat-ol-kalou/",
+          "title": "There will be a vanilla Poco X8 after all, HyperOS source code suggests",
+          "description": "It might be a rebranded Redmi Note 17 Pro for China. The Poco X8 Pro and X8 Pro Max were both announced in March, but after months had passed, many believe...",
+          "url": "https://www.gsmarena.com/there_will_be_a_vanilla_poco_x8_after_all-news-73767.php",
           "source": {
-            "name": "Tuko News"
+            "name": "GSMArena.com"
           },
-          "publishedAt": "2026-07-17T07:09:27Z",
-          "image": "https://cdn.tuko.co.ke/images/1200x675/e6c28560654d2019.jpeg?v=1",
-          "language": "en"
-        },
-        {
-          "title": "Stakeholders Call for Implementation of Commonwealth Recommendations to Resolve Tanzania’s Political Crisis",
-          "description": "Stakeholders endorse the Commonwealth 30-60-90-day roadmap and propose Warioba, Tibaijuka, Chakwera, and Pandor as possible mediators.",
-          "url": "https://thechanzo.com/2026/07/17/stakeholders-call-for-implementation-of-commonwealth-recommendations-to-resolve-tanzanias-political-crisis/",
-          "source": {
-            "name": "The Chanzo"
-          },
-          "publishedAt": "2026-07-17T07:09:18Z",
-          "image": "https://thechanzo.com/wp-content/uploads/2026/07/TG-MSG-BuberwaMwakitwangeLwaitama-1280x960.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Asaram Bapu seeks interim bail on medical grounds; Supreme Court asks Rajasthan to check his health reports",
-          "description": "\"Please take appropriate instructions; we don’t want any untoward thing to happen. If anything likely, we will give (bail) for sometime only for that purpose,\" the Court told Rajasthan's counsel.",
-          "url": "https://www.barandbench.com/news/litigation/asaram-bapu-seeks-interim-bail-on-medical-grounds-supreme-court-asks-rajasthan-to-check-his-health-reports",
-          "source": {
-            "name": "Bar and Bench"
-          },
-          "publishedAt": "2026-07-17T07:08:58Z",
-          "image": "https://cf-images.assettype.com/barandbench%2F2023-04%2F18f5614b-bdda-4034-b305-0294e147f4ed%2F09.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-          "language": "en"
-        },
-        {
-          "title": "DCP's Sammy Kamau Waweru wins Ol Kalou seat in landslide victory",
-          "description": "Kamau trounced his closest rival by almost seven times the number of votes cast",
-          "url": "https://www.the-star.co.ke/news/2026-07-17-dcps-kamau-wins-ol-kalou-seat-by-landslide",
-          "source": {
-            "name": "the-star.co.ke"
-          },
-          "publishedAt": "2026-07-17T07:08:55Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/07/b3712bf5-8369-4844-967c-27b4c4a3597f.webp?1784283479881",
-          "language": "en"
-        },
-        {
-          "title": "Singapore may block under-18s from social media platforms that fail child safety standards: Josephine Teo",
-          "description": "However, the minister said restricting access is not the government's starting point and \"not the preferred outcome\".",
-          "url": "https://www.channelnewsasia.com/singapore/social-media-ban-children-under-18s-josephine-teo-6260356",
-          "source": {
-            "name": "CNA"
-          },
-          "publishedAt": "2026-07-17T07:07:55Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--gg_X6vEA--/c_crop,h_704,w_1253,x_1,y_67/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2024/09/19/istock-1371763060.jpg?itok=ZpFqrx3f",
-          "language": "en"
-        },
-        {
-          "title": "Aamir Khan Denies '3 Idiots' Character Was Based on Sonam Wangchuk",
-          "description": "Aamir Khan denies '3 Idiots' was based on Sonam Wangchuk, addresses his hunger strike, at London Indian Film Festival talk.",
-          "url": "https://variety.com/2026/film/news/aamir-khan-denies-3-idiots-character-based-on-sonam-wangchuk-1236814459/",
-          "source": {
-            "name": "Variety"
-          },
-          "publishedAt": "2026-07-17T07:07:00Z",
-          "image": "https://variety.com/wp-content/uploads/2026/07/Aamir-Khan.jpg?w=1000&h=563&crop=1",
-          "language": "en"
-        },
-        {
-          "title": "Teenager who declined cancer treatment has capacity to make decisions on medical care, court rules",
-          "description": "Tusla went to High Court in May after concerns were raised regarding welfare of girl diagnosed with stage 4 vaginal cancer",
-          "url": "https://www.irishtimes.com/crime-law/courts/2026/07/17/teenager-who-declined-cancer-treatment-has-capacity-to-make-decisions-on-medical-care-court-rules/",
-          "source": {
-            "name": "The Irish Times"
-          },
-          "publishedAt": "2026-07-17T07:06:16Z",
-          "image": "https://www.irishtimes.com/resizer/v2/PKIA3TQAIRECTIWQUL5NIUL3VE.jpg?smart=true&auth=ded2862d126a7d6865850aa2018b632637d04201d52c9f8cfd1ec0d3a776c22b&width=1200&height=630",
-          "language": "en"
-        },
-        {
-          "title": "Prosthetics developer Metacarpal seizes on reliability",
-          "description": "Metacarpal developed what it says is the first multi-articulating, body-powered prosthetic hand, with no sensors, batteries or motors.",
-          "url": "https://www.medicaldesignandoutsourcing.com/metacarpal-gem-prosthetic-hand-fergal-mackie/",
-          "source": {
-            "name": "Medical Design & Outsourcing"
-          },
-          "publishedAt": "2026-07-17T07:05:26Z",
-          "image": "https://www.medicaldesignandoutsourcing.com/wp-content/uploads/2026/07/Metacarpal-GEM-Pinch-Grip.jpg",
+          "publishedAt": "2026-07-17T09:50:02Z",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/03/poco-x8-pro-max-ifr/-952x498w6/gsmarena_000.jpg",
           "language": "en"
         }
       ]
