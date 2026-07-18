@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-18T19:06:10.369Z",
+  "updatedAt": "2026-07-18T21:52:04.357Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "「都内でもドライブデート。結婚は…」川口春奈（31）＆板倉滉（29）が真剣交際 「川口さんはオランダまで会いに」",
+          "description": "女優・川口春奈（31）とサッカー日本代表キャプテン・板倉滉（29）が交際していることが「 週刊文春 」の取材で分かった。",
+          "url": "https://news.yahoo.co.jp/articles/1f6053efebc94be686d272bee75149bcc7ffb267",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-18T09:12:16Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260718-00090461-bunshun-000-5-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "『ゴシックは魔法乙女〜さっさと契約しなさい！～』「第4回リアルスコア大会 -KING of MASTERS-」11月21日(土)開催決定！",
+          "description": "株式会社ケイブのプレスリリース（2026年7月18日 18時00分）『ゴシックは魔法乙女〜さっさと契約しなさい！～』「第4回リアルスコア大会 -KING of MASTERS-」11月21日(土)開催決定！",
+          "url": "https://prtimes.jp/main/html/rd/p/000001178.000001290.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-07-18T09:00:01Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/1290/1178/1290-1178-9d34b820a981daddfb81896e458f0037-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "反町隆史主演「GTO」相関図 28年ぶり連ドラ復活、50代の鬼塚が令和の学校で大暴れ",
+          "description": "反町隆史が主演するカンテレ・フジテレビ系の月10ドラマ「GTO」が、7月20日（月・祝）午後10時にスタートする。1998年に大ヒットした藤沢とおる原作の学園ドラマが、28年ぶりに連続ドラマとして復活する。大手企業の出資で設立された高校「…",
+          "url": "https://www.sankei.com/article/20260718-NXAWN3LKTRGGTPQVDTDGDBJMFI/?outputType=theme_tvnavi",
+          "source": {
+            "name": "産経ニュース"
+          },
+          "publishedAt": "2026-07-18T09:00:00Z",
+          "image": "https://www.sankei.com/resizer/v2/V6P65CYRUJFPTNEHL5GGTTYGM4.jpg?auth=27396f603e617607f8ea777b4e8efffde36af79e130eb6bec28688a2236753f7&quality=50&focal=2031%2C2305&width=1200&height=675",
+          "language": "ja"
+        },
+        {
+          "title": "【速報】松山英樹はパーでムービングデーを開始 7打差の首位を追う",
+          "description": "◇メジャー最終戦◇全英オープン 3日目（18日）◇ロイヤルバークデールGC（イングランド）◇7223yd（パー70） 1アンダーの38位で予選を通過した松山英樹がパーでムービングデーのプレーを開始した。ジャスティン・トーマスとの2サム。8ア",
+          "url": "https://news.golfdigest.co.jp/news/pga/article/193238/1/",
+          "source": {
+            "name": "GDOゴルフニュース"
+          },
+          "publishedAt": "2026-07-18T08:55:57Z",
+          "image": "https://i.gimg.jp/cmsimg/431196.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "中森明菜 30年ぶり『Mステ』で見せた“フリフリ衣装”に衝撃…“活動激減”期乗り越えデビュー45周年目前、貫く“セルフプロデュース”",
+          "description": "7月17日、歌手の中森明菜が、音楽番組『ミュージックステーション 夏の2時間スペシャル』（テレビ朝日系、以下『Mステ』）に出演した。圧巻のパフォーマンスを見せたが、番組で披露した衣装が注目を集めて",
+          "url": "https://news.yahoo.co.jp/articles/8317fab80ff98768102e8d8c183745bb9113e2ff",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-18T08:40:22Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260718-00000037-flash-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【速報中】「RIZIN広島大会」全試合結果 サバテロvs鹿志村のタイトルマッチ、萩原vsダウトベックなど全12試合",
+          "description": "総合格闘技イベント「RIZIN LANDMARK 15 in HIROSHIMA」が、7月18日（土）に広島県にある広島グリーンアリーナで開催されている。2026年3月以降、毎月開催されているRIZIN。今後は8月に東京、9月に大阪、12月大晦日には名古屋での開催が発表済み。東京での「RIZIN.54」ではクレベル・コイケ選手と秋元強真選手が激突、大阪…",
+          "url": "https://kai-you.net/article/95983",
+          "source": {
+            "name": "KAI-YOU"
+          },
+          "publishedAt": "2026-07-18T08:28:00Z",
+          "image": "https://img.kai-you.net/storage/2026/07/3a31f596-0d1f-4dc5-891e-2d451e194686/jpg/re_RL15_DAUTBEK_vs_HAGIWARA.jpg",
+          "language": "ja"
+        },
         {
           "title": "原発不明がん公表の山田五郎、近影公開 酸素チューブを付け… 3月に一時昏睡状態に「立って歩くことも飯食うこともできねえ」",
           "description": "ニュース｜　2024年10月に原発不明がんを公表した編集者・評論家でテレビなどでも活躍中の山田五郎（67）の公式YouTube「山田五郎 オトナの教養講座」が、17日更新。山田が近況を報告した。　久しぶりの収録となった動画で、山田は酸素チューブを鼻に付けて出演。「このザマですけどね」と語り、「体調は良くない？」との質問に「ご覧の通りですわ」と話した。",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-07-18T05:10:00Z",
           "image": "https://sports-pctr.c.yimg.jp/dk/iwiz-sports/text/images/2026/0718/2026071800015-spnaviow_1784348517_view.jpeg",
           "language": "ja"
-        },
-        {
-          "title": "TBS『音楽の日2026』タイムテーブル きょう18日午後2時から8時間生放送【総勢80組 一覧掲載】",
-          "description": "ニュース｜　TBS系列の夏の大型音楽特番『音楽の日2026』が、きょう18日午後2時から8時間にわたって生放送される。このほど、タイムテーブルが番組公式サイトで公開された。出演アーティストの出演時間帯や歌唱曲に加え、各コーナーの詳細も明らかになった。　今年の番組テーマは「こえる。きこえる。」。東日本大震災から15年を迎える今年、言葉にならない悲しみや幾多の困難をともに「こえて」きた人々へ、音楽の力で寄り添い、明日への一歩を後押しするという思いが込められている。",
-          "url": "https://www.oricon.co.jp/news/2468702/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-07-18T04:13:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2469000/2468702/20260717_110501_p_o_23998695.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『音楽の日2026』タイムテーブル公開 8時間にわたる生放送、総勢80組のアーティストが出演",
-          "description": "本日7月18日14時から生放送される音楽特番『音楽の日2026』（TBS系）のタイムテーブルが発表された。　同番組は、生放送にて8時間にわたり総勢80組のアーティストが出演。TVerでは、放送後の無料配信に加えて、リアルタイム配信の実施も行われる。　タイムテーブルは以下の通り。時間帯ごとアーテ…",
-          "url": "https://realsound.jp/2026/07/post-2464488.html",
-          "source": {
-            "name": "リアルサウンド"
-          },
-          "publishedAt": "2026-07-18T04:00:01Z",
-          "image": "https://realsound.jp/wp-content/uploads/2026/07/20260717-ongakunohitt-98.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ASCII.jp：『アーケロン（Arkheron）』のCBTプレイ権をひとりにつき3枚配布中！フレンドに配って一緒に遊ぼう",
-          "description": "ASCII.jp － ゲーム",
-          "url": "https://ascii.jp/elem/000/004/420/4420686/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-07-18T03:55:00Z",
-          "image": "https://ascii.jp/img/2026/07/18/4502512/xl/eb6c9db55fc7eb26.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "有害鳥獣捕獲のため巡回中の40代のハンターの男性がクマに襲われ重傷「素手で目を潰した」激しく抵抗し格闘しながら発砲して仕留めたか 役場が状況を説明 北海道更別村",
-          "description": "18日夕方、北海道更別村でハンターの男性がクマに襲われけがをしました。\n更別村によりますと、18日午後6時45分ごろ、更別村更南の山林で40代の男性が\nクマに襲われました。\n男性は、地元の猟友会",
-          "url": "https://news.yahoo.co.jp/articles/83ea5f74280aab21b08884533002a2a2798a378b",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-18T03:15:30Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260718-22811940-hbcv-000-4-thumb.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "「物理ディスクが廃止されても全く問題はない」―米・大手小売GameStopのCEOがソフトの売り上げは全体の12%未満などと語る",
-          "description": "GameStopではカードやフィギュアなど、「コレクターズアイテム」の取り扱いを主流にしているようです。",
-          "url": "https://www.gamebusiness.jp/article/2026/07/18/27494.html",
-          "source": {
-            "name": "GameBusiness.jp"
-          },
-          "publishedAt": "2026-07-18T03:00:03Z",
-          "image": "https://www.gamebusiness.jp/imgs/ogp_f/189555.png",
-          "language": "ja"
-        },
-        {
-          "title": "クレカ決済代行「全東信」破産 債権者の金融機関の社員は「業界では名の知れた取引先。破綻は読めなかった」 “異変”気づき難を逃れた美容室オーナーも",
-          "description": "クレカ決済代行「全東信」破産　債権者の金融機関の社員は「業界では名の知れた取引先。破綻は読めなかった」　“異変”気づき難を逃れた美容室オーナーも（FNNプライムオンライン）\n負債額は1150億円以上。先週、大阪市に本社を置き、クレジットカードの決済代行を手掛ける「全東信」が破産した。ことし最大規模…",
-          "url": "https://topics.smt.docomo.ne.jp/article/fnn/business/fnn-1077582?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-07-18T03:00:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/fnn/m_fnn-1077582.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Atong Ang's lawyer asks DOJ to junk obstruction of justice complaint over payoff claims",
-          "description": "Lawyer Caroline Cruz, legal counsel for Charlie “Atong” Ang, has asked the Department of Justice (DOJ) to dismiss the obstruction of justice compliant filed...",
-          "url": "https://mb.com.ph/2026/07/18/atong-angs-lawyer-asks-doj-to-junk-obstruction-of-justice-complaint-over-payoff-claims",
-          "source": {
-            "name": "Manila Bulletin"
-          },
-          "publishedAt": "2026-07-18T07:05:21Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/18/117099.webp",
-          "language": "en"
-        },
-        {
-          "title": "Ahaan Panday, Aneet Padda's romantic Wembley reunion marks Saiyaara's first anniversary: ‘Written in the stars’",
-          "description": "YRF marks one year of Saiyaara with a collector's edition vinyl featuring songs, score, dialogues and exclusive memorabilia. | Bollywood",
-          "url": "https://www.hindustantimes.com/entertainment/bollywood/ahaan-panday-aneet-padda-romantic-wembley-reunion-marks-saiyaaras-first-anniversary-written-in-the-stars-101784356474754.html",
-          "source": {
-            "name": "Hindustan Times"
-          },
-          "publishedAt": "2026-07-18T07:04:07Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/07/18/550x309/Aneet_Ahaan_1784357236599_1784357241524_d4c923c7-5033-4f0e-98a2-689d5a86d1a8.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Christopher Pulichene Launches \"Respect the Water\" Personal Pledge to Promote Safer and More Responsible Time on the Water",
-          "description": "Florida Keys marine tourism professional Christopher Pulichene is encouraging individuals to build safer boating habits, protect coastal environments, and make every day on the water a positive experience for everyone.",
-          "url": "https://www.24-7pressrelease.com/press-release/536912/christopher-pulichene-launches-respect-the-water-personal-pledge-to-promote-safer-and-more-responsible-time-on-the-water",
-          "source": {
-            "name": "24-7 Press Release Newswire"
-          },
-          "publishedAt": "2026-07-18T07:03:37Z",
-          "image": "https://www.24-7pressrelease.com/images/icon-247pressrelease.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Malaysian lawyer accuses ICC prosecutor Karim Khan of sexual misconduct",
-          "description": "THE HAGUE: A Malaysian lawyer working at the International Criminal Court has accused Chief Prosecutor Karim Khan of non-consensual sexual contact, in her first public media appearance on a CNN interview aired on Thursday (July 16).",
-          "url": "https://www.thestar.com.my/news/nation/2026/07/18/malaysian-lawyer-accuses-icc-prosecutor-khan-of-sexual-misconduct",
+          "title": "Indonesia's Mt Semeru erupts three times, second blast triggers huge 3.5km pyroclastic flow",
+          "description": "Indonesia's Mount Semeru erupted three times on Saturday morning, with the second eruption at 6.21 am triggering a pyroclastic flow that travelled about 3.5 kilometres.",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/18/indonesia039s-mt-semeru-erupts-three-times-second-blast-triggers-huge-35km-pyroclastic-flow",
           "source": {
             "name": "The Star"
           },
-          "publishedAt": "2026-07-18T07:03:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/07/18/4016708.jpg",
+          "publishedAt": "2026-07-18T09:51:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/07/18/4016902.jpg",
           "language": "en"
         },
         {
-          "title": "‘Walking Ebola’ helps explain why Congo’s outbreak is so hard to stop - and how to treat it",
-          "description": "The virus’s slower progression leaves patients sick enough to spread the virus but not so unwell to stop them moving through their communities.",
-          "url": "https://www.japantimes.co.jp/news/2026/07/18/world/science-health/walking-ebola/",
+          "title": "Christopher Nolan ends his movie with an added plot twist.",
+          "description": "The writer-director’s characteristically crafty new ending changes the meaning of the whole story.",
+          "url": "https://slate.com/culture/2026/07/the-odyssey-movie-ending-zendaya-troy-sea-people.html",
           "source": {
-            "name": "The Japan Times"
+            "name": "Slate Magazine"
           },
-          "publishedAt": "2026-07-18T07:03:00Z",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/18/552378.jpg?v=3.1",
+          "publishedAt": "2026-07-18T09:50:00Z",
+          "image": "https://compote.slate.com/images/4d6d0eae-6b15-4857-ac1c-d95a618d1400.jpeg?crop=5906%2C3937%2Cx0%2Cy152&width=1560",
           "language": "en"
         },
         {
-          "title": "Zimbabwe increases citrus production as export volumes rise",
-          "description": "Zimbabwe has made a successful start to the citrus export season and is expecting a rise in shipments thanks to favourable weather conditions and increased production.",
-          "url": "https://tvbrics.com/en/news/zimbabwe-increases-citrus-production-as-export-volumes-rise/",
+          "title": "Can KiwiSaver members handle a long investment downturn?",
+          "description": "A longer downturn may prompt some customers to reassess their investments, experts say.",
+          "url": "https://www.1news.co.nz/2026/07/18/can-kiwisaver-members-handle-a-long-investment-downturn/",
           "source": {
-            "name": "TV BRICS"
+            "name": "1News"
           },
-          "publishedAt": "2026-07-18T07:02:24Z",
-          "image": "https://tvbrics.com/upload/dev2fun.imagecompress/webp/resize_cache/iblock/8de/300_300_1/8dapehuh22haj9y9a1dujv8fbgghjr4z.webp",
+          "publishedAt": "2026-07-18T09:47:16Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/protect-piggybank-D5UOTV37VJCCZO42X332254SRQ.jpg?auth=d3fbca7f47dfb17abef81a91fc27f36df069d6feb886f7d833fe45845592f446&quality=70&width=600&height=315&focal=1944%2C1301",
           "language": "en"
         },
         {
-          "title": "Gamers warn PlayStation’s move to digital-only games could drive players away",
-          "description": "Sony Interactive Entertainment announced that physical disc production for all new PlayStation games will stop from January 2028.",
-          "url": "https://witness.co.za/news/pietermaritzburg/2026/07/18/gamers-warn-playstations-move-to-digital-only-games-could-drive-players-away/",
+          "title": "Palestinian agency warns about Israeli plans for more than 1,000 new illegal settlement units in West Bank",
+          "description": "Israel's Higher Planning Council advances nine such projects since beginning of July, entrenching de facto annexation",
+          "url": "https://tribune.com.pk/story/2618952/palestinian-agency-warns-israeli-plans-for-more-than-1000-illegal-settlement-units-in-west-bank",
           "source": {
-            "name": "The Witness | Your compass in the community"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-07-18T07:01:56Z",
-          "image": "https://witness.co.za/wp-content/uploads/sites/144/2026/07/PlayStation.jpg",
+          "publishedAt": "2026-07-18T09:46:49Z",
+          "image": "https://i.tribune.com.pk/media/images/palestine1784367615-0/palestine1784367615-0-640x480.webp",
           "language": "en"
         },
         {
-          "title": "Families left in the dark after methanol deaths",
-          "description": "Laotian authorities have treated the families of dead Australian travellers Holly Morton-Bowles and Bianca Jones with contempt.",
-          "url": "https://www.theage.com.au/world/asia/families-left-in-the-dark-after-methanol-deaths-20260717-p60gdb.html",
+          "title": "Eswatini’s King Mswati III remains one of the last absolute monarchs on Earth, appointing the prime minister, dissolving parliament, and keeping political parties out of elections",
+          "description": "King Mswati III of Eswatini spent three days in late April 2026 marking 40 years on the throne. There was a scarlet military tunic, a choir arranged into the",
+          "url": "https://spacedaily.com/d-eswatinis-king-mswati-iii-remains-one-of-the-last-absolute-monarchs-on-earth-appointing-the-prime-minister-dissolving-parliament-and-keeping-political-parties-out-of-elections/",
           "source": {
-            "name": "The Age"
+            "name": "Space Daily"
           },
-          "publishedAt": "2026-07-18T07:01:49Z",
-          "image": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/a9dc05e6888da1235c1ef44fb51ae7ae0253cf15",
+          "publishedAt": "2026-07-18T09:45:01Z",
+          "image": "https://spacedaily.com/wp-content/uploads/2026/07/Posts-1600840-2026-07-18T131728.347.png",
           "language": "en"
         },
         {
-          "title": "Wessex Water chief pockets above-inflation pay rise despite bonus ban over sewage spills",
-          "description": "CEO’s pay packet surges to £791,000 as union says public ‘sick of obscene pay’ and bosses ‘feathering own nests’",
-          "url": "https://www.theguardian.com/business/2026/jul/18/wessex-water-chief-pay-rise-bonus-ban",
+          "title": "New British PM faces long list of challenges",
+          "description": "LONDON - Andy Burnham, who is set to become Britain’s prime minister Monday, will face a roster of challenges when he steps into the office as the UK’s seventh leader in a decade.",
+          "url": "https://www.bangkokpost.com/world/3287935/new-british-pm-faces-long-list-of-challenges",
           "source": {
-            "name": "The Guardian"
+            "name": "Bangkok Post"
           },
-          "publishedAt": "2026-07-18T07:01:00Z",
-          "image": "https://i.guim.co.uk/img/media/26918c44a1e5fac213fd9446313467bd7cc0661f/552_271_2900_2322/master/2900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=50a5b03c20f6a4cb2b87d70edd46b14f",
+          "publishedAt": "2026-07-18T09:45:00Z",
+          "image": "https://static.bangkokpost.com/media/content/20260718/c1_6158850_700.jpg",
           "language": "en"
         },
         {
-          "title": "Oil settles up on renewed US-Iran hostilities and threat of Red Sea closure",
-          "description": "Brent crude futures settled $3.87, or 4.59 percent, higher to $88.10 a barrel",
-          "url": "https://www.thedailystar.net/business/news/oil-settles-renewed-us-iran-hostilities-and-threat-red-sea-closure-4226651",
+          "title": "MIIF, GHIB Open Talks on Big‑Ticket Financing to Power Ghana’s Mining Value Chain",
+          "description": "The Minerals Income Investment Fund (MIIF) and Ghana International Bank (GHIB) have initiated discussions toward a strategic partnership aimed at expanding investment and financing opportunities across Ghana rsquo;s mining sector. This follows a courtesy visit by a GHIB delegation led by its newly appointed Chief Executive Officer, Ian Greenstreet, to MIIF CEO Justina Nelson, where both sides explored areas of mutual interest that could deepen investment in Ghana rsquo;s mineral",
+          "url": "https://www.modernghana.com/news/1511674/miif-ghib-open-talks-on-bigticket-financing-to.html",
           "source": {
-            "name": "The Daily Star"
+            "name": "Modern Ghana"
           },
-          "publishedAt": "2026-07-18T07:00:56Z",
-          "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-06/oil_depot.jpg",
+          "publishedAt": "2026-07-18T09:44:55Z",
+          "image": "https://cdn.modernghana.com/images/content/7182026103615-8eu2xkjwvq-ghibmiif.jpeg",
+          "language": "en"
+        },
+        {
+          "title": "After Ol-Kalou mini-poll setback, Kenya Kwanza MPs urge Ruto to pick Western running mate",
+          "description": "Kenya Kwanza leaders have intensified calls for President William Ruto to pick a running mate from Western Kenya.",
+          "url": "https://www.standardmedia.co.ke/politics/article/2001553121/after-ol-kalou-mini-poll-setback-kenya-kwanza-mps-urge-ruto-to-pick-western-running-mate",
+          "source": {
+            "name": "standardmedia.co.ke"
+          },
+          "publishedAt": "2026-07-18T09:43:56Z",
+          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/kgAjIgmfTsZ84FTcQSlcEW52L0TmrmGAGHRJB2g7.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Families of martyred policemen end Quetta sit-in after 10 days as agreement reached with govt",
+          "description": "Judicial commission to be formed to probe Ziarat and Hanna Urak attacks; police stations, educational institutions, and healthcare facilities to be renamed after the martyrs.",
+          "url": "https://www.dawn.com/news/2016456",
+          "source": {
+            "name": "Dawn"
+          },
+          "publishedAt": "2026-07-18T09:43:51Z",
+          "image": "https://i.dawn.com/large/2026/07/18135522c664a63.webp",
+          "language": "en"
+        },
+        {
+          "title": "COLUMN: MIND YOUR LANGUAGE. Commercial banks and fuel stations are also businesses",
+          "description": "DAR ES SALAAM: JULY 7 has a long history as a public holiday in Tanzania. Originally, the holiday was to commemorate the date when the ruling political party, then known as Tanganyika African National Union (TANU) was born, on the 7th of July 1954. Today, it is largely related to the Dar es Salaam International …",
+          "url": "https://dailynews.co.tz/column-mind-your-language-commercial-banks-and-fuel-stations-are-also-businesses/",
+          "source": {
+            "name": "dailynews.co.tz"
+          },
+          "publishedAt": "2026-07-18T09:43:36Z",
+          "image": "https://dailynews.co.tz/wp-content/uploads/2026/07/AKI.jpg",
           "language": "en"
         }
       ]
