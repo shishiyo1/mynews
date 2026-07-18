@@ -1,6 +1,6 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-18T05:27:36.064Z",
+  "updatedAt": "2026-07-18T07:52:15.812Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
@@ -25,6 +25,17 @@
           },
           "publishedAt": "2026-07-17T13:51:00Z",
           "image": "https://i.gimg.jp/cmsimg/430967.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "英労働党、新党首にバーナム氏を任命 週明けに首相に就任し政権発足へ",
+          "description": "英与党・労働党は17日、ロンドン中心部で特別党大会を開き、アンディ・バーナム下院議員を新たな党首に任命した。バーナム新党首は20日に、キア・スターマー氏の後任として、新たなイギリス首相に就任する。バーナム氏は党首就任演説で、イギリス各地に権力を再分配する自らの政策構想をあらためて示した。また、党首として取り組む五つの公約を表明した。",
+          "url": "https://www.bbc.com/japanese/articles/c1513495w5no",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-07-17T13:40:28Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/d125/live/78d3d170-81d9-11f1-a290-5dcfa2e128f8.jpg",
           "language": "ja"
         },
         {
@@ -103,128 +114,117 @@
           "publishedAt": "2026-07-17T10:33:26Z",
           "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/07/17/20260717dog00m200031000a/001.jpg",
           "language": "ja"
-        },
-        {
-          "title": "なぜキオクシアは半値になったのか？暴落の背景と復活シナリオ",
-          "description": "トウシル編集部（以下、トウシル）：キオクシアホールディングス（285A）の株価が大きく下落している主な要因を教えてください。楽天証券経済研究所・今中能夫チーフアナリスト（以下、今中）：直接の引き金は、韓国のSKハイニックスが発表した大型設…",
-          "url": "https://media.rakuten-sec.net/articles/-/52973",
-          "source": {
-            "name": "トウシル"
-          },
-          "publishedAt": "2026-07-17T10:20:00Z",
-          "image": "https://media.rakuten-sec.net/mwimgs/9/a/-/img_9aa500dd5039045e84d1386942758f5c212224.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Messi eyes glorious farewell as Spain, Argentina clash in World Cup final",
-          "description": "Spanish elan meets Argentinian steel in a historic World Cup final on Sunday which sees the reigning champions of Europe and South America battle for football's ultimate prize.",
-          "url": "https://supersport.com/football/news/dad4c208-ec0b-4c11-9d2b-f1ec3f455731/epic-showdown-messi-eyes-glorious-farewell-as-spain-argentina-clash-in-world-cup-final",
+          "title": "Ododo receives four rescued Kogi school abduction victims, vows to strengthen security",
+          "description": "Ahmed Ododo, governor of Kogi state, has received the four victims rescued after they were abducted from the Government Secondary School (GSS) in Olowa, Dekina LGA of Kogi state.",
+          "url": "https://www.thecable.ng/ododo-receives-four-rescued-kogi-school-abduction-victims-vows-to-strengthen-security/",
           "source": {
-            "name": "supersport.com"
+            "name": "TheCable"
           },
-          "publishedAt": "2026-07-17T17:26:11Z",
-          "image": "https://images.supersport.com/media/3rvkp5lk/lionelmessi-1200g-gestures-2024.jpg",
+          "publishedAt": "2026-07-17T19:51:45Z",
+          "image": "https://www.thecable.ng/wp-content/uploads/2026/07/Ododo-receives-rescued-victims-2026-07-17-740.jpg",
           "language": "en"
         },
         {
-          "title": "Lewis Hamilton and Kim Kardashian Went on a Lake Trip",
-          "description": "The couple posted photos Jet-Skiing, hiking, and hanging with Kardashian’s kids Psalm and Chicago. The F1 driver also featured photos of his niece and nephew, Willow and Kaiden.",
-          "url": "https://www.thecut.com/article/lewis-hamilton-kim-kardashian-family-vacation-lake-trip.html",
+          "title": "Apple and Google ordered to purge 'nudify' apps from App Stores",
+          "description": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law.",
+          "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
           "source": {
-            "name": "The Cut"
+            "name": "TechCrunch"
           },
-          "publishedAt": "2026-07-17T17:25:49Z",
-          "image": "https://pyxis.nymag.com/v1/imgs/42c/987/a89db8e6fedb773332abe693d7097b74da-kim-kardashian-lewis-hamilton.1x.rsocial.w1200.jpg",
+          "publishedAt": "2026-07-17T19:49:53Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2255009714.jpg?resize=1200,800",
           "language": "en"
         },
         {
-          "title": "Aston Villa transfers: Johan Manzambi signs in club record deal",
-          "description": "Unai Emery makes his first summer signing by bringing in Johan Manzambi for a club record fee of just over £50m.",
-          "url": "https://www.bbc.com/sport/football/articles/cj365336l52o",
+          "title": "Wildfire smoke engulfs millions in US ahead of World Cup final",
+          "description": "Dense wildfire smoke billowing down from Canada set off unhealthy air quality alerts across the United States on Friday, triggering concern over the weekend's World Cup final outside New York.",
+          "url": "https://www.rnz.co.nz/news/world/737431/wildfire-smoke-engulfs-millions-in-us-ahead-of-world-cup-final",
           "source": {
-            "name": "BBC"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-07-17T17:25:24Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4798/live/e028a970-8203-11f1-926f-c90d1bcfbc84.jpg",
+          "publishedAt": "2026-07-17T19:49:48Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--tq6-0t5r--/t_tohu-badge-facebook/f_auto/q_auto/4JLB61C_AFP__20260716__C2EK9N2__v3__HighRes__AirQualityFromCanadianWildfires_jpg",
           "language": "en"
         },
         {
-          "title": "Lenovo Announces World’s First Laptop With Inkjet-Printed OLED",
-          "description": "Inkjet-printed OLED debuts in the Lenovo Legion R9000P, cutting manufacturing waste - with affordable 27-inch monitors targeting mass production by 2026.",
-          "url": "https://tech.yahoo.com/computing/articles/lenovo-announces-world-first-laptop-172239922.html",
+          "title": "Mosquitoes in Toronto test positive for West Nile virus, public health officials confirm",
+          "description": "Toronto Public Health says a batch of mosquitoes in the city has tested positive for West Nile virus.",
+          "url": "https://toronto.citynews.ca/2026/07/17/mosquitoes-in-toronto-test-positive-for-west-nile-virus-public-health-officials-confirm/",
           "source": {
-            "name": "Yahoo Tech"
+            "name": "CityNews Toronto"
           },
-          "publishedAt": "2026-07-17T17:22:39Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/805c87c17a413c398b676f8bf9c251004780c7750f596ff1ab91b545b66e88b2/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fgadget_review_articles_822%2F98dd94c914c101ac0273abd7b784a61c",
+          "publishedAt": "2026-07-17T19:49:00Z",
+          "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/06/a7af6ed0c4b26cb5d43cdc5fa8551217ce0b8d2485a24ca03324006da188aed8.jpg",
           "language": "en"
         },
         {
-          "title": "Lenovo Announces World’s First Laptop With Inkjet-Printed OLED",
-          "description": "Inkjet-printed OLED debuts in the Lenovo Legion R9000P, cutting manufacturing waste — with affordable 27-inch monitors targeting mass production by 2026.",
-          "url": "https://www.gadgetreview.com/lenovo-announces-worlds-first-laptop-with-inkjet-printed-oled",
+          "title": "The Truth About Digital Game Ownership Tech Fans Overlook Completely",
+          "description": "Gamers and tech enthusiasts love to debate who truly “owns” digital games or downloadable content, but most arguments",
+          "url": "https://www.technology.org/2026/07/17/the-truth-about-digital-game-ownership-tech-fans-overlook-completely/",
           "source": {
-            "name": "Gadget Review"
+            "name": "Technology Org"
           },
-          "publishedAt": "2026-07-17T17:22:39Z",
-          "image": "https://www.gadgetreview.com/wp-content/uploads/image-2026-07-17T213359.280.jpg",
+          "publishedAt": "2026-07-17T19:48:32Z",
+          "image": "https://www.technology.org/texorgwp/wp-content/uploads/2024/11/onur-binay-J7Spe1GTCUw-unsplash.jpg",
           "language": "en"
         },
         {
-          "title": "Brenda Fricker, Oscar-winning 'pigeon lady' of 'Home Alone 2,' dead at 81",
-          "description": "Oscar-winning Irish actress Brenda Fricker, known as the pigeon lady in \"Home Alone 2\" and her role in \"My Left Foot\" with Daniel Day-Lewis, has died at 81 in Dublin.",
-          "url": "https://www.foxnews.com/entertainment/oscar-winner-brenda-fricker-pigeon-lady-home-alone-2-dead-81",
+          "title": "Josh Duhamel addresses being 'too old' for wife Audra Mari",
+          "description": "Josh Duhamel joked he's \"too old\" for wife Audra Mari while discussing their 21-year age gap.",
+          "url": "https://pagesix.com/2026/07/17/celebrity-news/josh-duhamel-addresses-being-too-old-for-wife-audra-mari/",
           "source": {
-            "name": "Fox News"
+            "name": "Page Six"
           },
-          "publishedAt": "2026-07-17T17:21:12Z",
-          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/brenda-fricker-pigeon-lady.jpg",
+          "publishedAt": "2026-07-17T19:48:00Z",
+          "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/josh-duhamel-audra-age-gap.jpg?quality=75&strip=all&w=1200",
           "language": "en"
         },
         {
-          "title": "AI-designed proteins help scientists see inside living cells",
-          "description": "Cells are like metropolises, home to millions of molecular residents. If one were to stand atop a high-rise, trying to identify most of its inhabitants would seem an impossible task. Even with the sophisticated imaging tools currently available to scientists, it is challenging to zoom in on specific molecules and view them with a high degree of detail.",
-          "url": "https://phys.org/news/2026-07-ai-proteins-scientists-cells.html",
+          "title": "Political polarization drives surge in anti-vaccine legislation across the US",
+          "description": "Despite overwhelming evidence on the safety and efficacy of COVID-19 vaccines, vaccine hesitancy intensified during the COVID-19 pandemic and has fueled skepticism towards other life-saving vaccines for children, adults, and pets.",
+          "url": "https://www.news-medical.net/news/20260717/Political-polarization-drives-surge-in-anti-vaccine-legislation-across-the-US.aspx",
           "source": {
-            "name": "Phys.org"
+            "name": "News-Medical"
           },
-          "publishedAt": "2026-07-17T17:20:06Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/2026/novotags-ai-designed-p.jpg",
+          "publishedAt": "2026-07-17T19:48:00Z",
+          "image": "https://www.news-medical.net/images/tags/TagImage-3347-458389964760995353448-620x480.jpg",
           "language": "en"
         },
         {
-          "title": "Microbiota dysbiosis triggers intestinal cancer stemness",
-          "description": "Scientists at National Taiwan University College of Medicine have discovered that cancer formation is not simply caused by gene mutations. Colorectal cancers primarily originate from epithelial cells that form adenocarcinomas at the interface between the host and microbiota. In addition to genetic mutations, the trillions of microbes in the gut environment, termed microbiota or microbiome, play important roles in cancer development. The microbiome is now regarded as a promising therapeutic target, in addition to controlling host factors, for managing colon cancer.",
-          "url": "https://medicalxpress.com/news/2026-07-microbiota-dysbiosis-triggers-intestinal-cancer.html",
+          "title": "FAA says Boeing can resume self-certifying its jets as airworthy",
+          "description": "The Federal Aviation Administration says Boeing will be allowed to take responsibility for certifying all of its 737 Max and 787 planes starting next week.",
+          "url": "https://apnews.com/article/boeing-faa-safety-737-max-787-airworthiness-a02a9a863428e7cc372c7fd3ff2b079b",
           "source": {
-            "name": "Medical Xpress"
+            "name": "AP News"
           },
-          "publishedAt": "2026-07-17T17:20:03Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/2026/new-research-unveils-t.jpg",
+          "publishedAt": "2026-07-17T19:47:00Z",
+          "image": "https://dims.apnews.com/dims4/default/172add5/2147483647/strip/true/crop/8025x5347+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1d%2Fe2%2Fa8307f24e65d227e5a9099e2e8ef%2Faf55ab42c895483f9f1767755383c650",
           "language": "en"
         },
         {
-          "title": "Ariana Grande, Ty Dolla $ign Sing 'Safety Net' at Her Show",
-          "description": "Ariana Grande brought out Ty Dolla $ign to sing \"Safety Net\" on night three of the Eternal Sunshine Tour shows in Brooklyn.",
-          "url": "https://www.billboard.com/music/pop/ariana-grande-ty-dolla-sign-safety-net-eternal-sunshine-show-1236296763/",
+          "title": "Will the Canadian wildfire smoke affect Spain vs Argentina World Cup final?",
+          "description": "World Cup organisers are monitoring the situation ‘closely’, with US and FIFA presidents meeting on Friday.",
+          "url": "https://www.aljazeera.com/sports/2026/7/17/will-the-canadian-wildfire-smoke-affect-spain-vs-argentina-world-cup-final",
           "source": {
-            "name": "Billboard"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-07-17T17:20:00Z",
-          "image": "https://www.billboard.com/wp-content/uploads/2026/07/ariana-grande-June62026-katia-temkin-billboard-1800.jpg?w=1024",
+          "publishedAt": "2026-07-17T19:46:30Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260717__C2GH7M2__v2__HighRes__FblWc2026Venue-1784313271.jpg?resize=1920%2C1440",
           "language": "en"
         },
         {
-          "title": "Ventiva touts fanless cooler for 15% data center energy efficiency gains",
-          "description": "The company says its ionic air mover improves performance of back-of-rack server components while fewer front-of-rack bulk fans means reduced energy costs.",
-          "url": "https://www.facilitiesdive.com/news/ventiva-touts-fanless-cooler-for-15-data-center-energy-efficiency-gains/822600/",
+          "title": "Apple Raises iPhone Prices in Japan",
+          "description": "After raising prices on all Macs and iPads worldwide last month, Apple has now increased the price of iPhone models in Japan. As spotted by the Spanish blog iPhoneros, the iPhone 16, iPhone 17e, iPhone 17, iPhone Air, iPhone 17 Pro, and iPhone 17 Pro Max all received price increases on Apple's online store in Japan today. Prices increased by up to 11%.",
+          "url": "https://www.macrumors.com/2026/07/17/apple-raises-iphone-prices-in-japan/",
           "source": {
-            "name": "Facilities Dive"
+            "name": "MacRumors"
           },
-          "publishedAt": "2026-07-17T17:19:27Z",
-          "image": "https://imgproxy.divecdn.com/ZgORb2Z832TKXaMUEY7IEabKTSt5unlm7pkSV7We4MA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9WZW50aXZhX0ZpbmdlcnMucG5n.webp",
+          "publishedAt": "2026-07-17T19:45:52Z",
+          "image": "https://images.macrumors.com/t/gQVaO6C8CS0AFFpG1TiFJjl3jkk=/2500x/article-new/2026/07/iPhone-17-17-Pro-and-Air-Feature.jpg",
           "language": "en"
         }
       ]
