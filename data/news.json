@@ -1,10 +1,21 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-19T02:49:29.252Z",
+  "updatedAt": "2026-07-19T05:54:43.090Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "サイバー攻撃最速27秒、AIが「弱点」突き速度3倍 社内にも潜む脅威",
+          "description": "【この記事でわかること】・AIの攻撃がどのくらい進化したか・防御側の検知、なぜ伸び悩む？・ソフトの脆弱性をなくすには",
+          "url": "https://www.nikkei.com/article/DGXZQOUE084MP0Y6A600C2000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-07-18T17:00:00Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3330953018072026000000-1.png?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=2fa5ed5bfa77318d79a05351028af468",
+          "language": "ja"
+        },
         {
           "title": "松本人志「大腸がん手術・ストーマ造設」発表の衝撃 人工肛門で生活どう変わる？",
           "description": "松本人志「大腸がん手術・ストーマ造設」発表の衝撃　人工肛門で生活どう変わる？（ZAKⅡ）吉本興業「大腸の腫瘍切除手術」発表吉本興業から17日、大腸の腫瘍切除手術を受け、無事に退院したことが発表された人気お笑いコ…",
@@ -50,6 +61,17 @@
           "language": "ja"
         },
         {
+          "title": "「Apex Legends」大規模カジュアルイベント『えぺまつり NEON NIGHT -Apex Legends × Cyberpunk Event-』開催【7月23日19:00配信】",
+          "description": "産経新聞社のニュースサイト。政治、経済、国際、社会、スポーツ、エンタメ、災害情報などの速報記事と解説記事を掲載しています。",
+          "url": "https://www.sankei.com/pressrelease/prtimes/EKESZ4HBIFPC3CE6YGXW6BJCGI/",
+          "source": {
+            "name": "産経ニュース"
+          },
+          "publishedAt": "2026-07-18T11:10:00Z",
+          "image": "https://www.sankei.com/resizer/v2/https%3A%2F%2Fdpgdieoe6npux.cloudfront.net%2Fprtimes%2F7FGKQYTNVVPTPKBVCHFNYBAS4M?auth=90fd3522ba25fd037fed110018099e22977ec3cf38bc5dc769b7735e8c33463a&quality=50&smart=true&width=1200&height=675",
+          "language": "ja"
+        },
+        {
           "title": "［ＴＧＣ新潟］舞台裏の出演者に直撃！その②HIKAKINさん､北原里英さん､柏木由紀さん､影山優佳さん､大塚七海さん",
           "description": "東京ガールズコレクション「NAMICS presents TGC 新潟 2026」（ＴＧＣ新潟）が１８日、新潟市中央区の朱鷺メッセで開催されました。このページでは舞台裏の出演者たちに直撃し、インタビ…",
           "url": "https://www.niigata-nippo.co.jp/articles/-/870337",
@@ -92,139 +114,117 @@
           "publishedAt": "2026-07-18T09:00:01Z",
           "image": "https://prcdn.freetls.fastly.net/release_image/1290/1178/1290-1178-9d34b820a981daddfb81896e458f0037-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
           "language": "ja"
-        },
-        {
-          "title": "反町隆史主演「GTO」相関図 28年ぶり連ドラ復活、50代の鬼塚が令和の学校で大暴れ",
-          "description": "反町隆史が主演するカンテレ・フジテレビ系の月10ドラマ「GTO」が、7月20日（月・祝）午後10時にスタートする。1998年に大ヒットした藤沢とおる原作の学園ドラマが、28年ぶりに連続ドラマとして復活する。大手企業の出資で設立された高校「…",
-          "url": "https://www.sankei.com/article/20260718-NXAWN3LKTRGGTPQVDTDGDBJMFI/?outputType=theme_tvnavi",
-          "source": {
-            "name": "産経ニュース"
-          },
-          "publishedAt": "2026-07-18T09:00:00Z",
-          "image": "https://www.sankei.com/resizer/v2/V6P65CYRUJFPTNEHL5GGTTYGM4.jpg?auth=27396f603e617607f8ea777b4e8efffde36af79e130eb6bec28688a2236753f7&quality=50&focal=2031%2C2305&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "【速報】松山英樹はパーでムービングデーを開始 7打差の首位を追う",
-          "description": "◇メジャー最終戦◇全英オープン 3日目（18日）◇ロイヤルバークデールGC（イングランド）◇7223yd（パー70） 1アンダーの38位で予選を通過した松山英樹がパーでムービングデーのプレーを開始した。ジャスティン・トーマスとの2サム。8ア",
-          "url": "https://news.golfdigest.co.jp/news/pga/article/193238/1/",
-          "source": {
-            "name": "GDOゴルフニュース"
-          },
-          "publishedAt": "2026-07-18T08:55:57Z",
-          "image": "https://i.gimg.jp/cmsimg/431196.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Venezuela earthquakes death toll surpasses 5,000",
-          "description": "The death toll from two powerful earthquakes that shook Venezuela last month rose to 5,069 late on Friday, local authorities said",
-          "url": "https://abcnews.com/International/wireStory/venezuela-earthquakes-death-toll-surpasses-5000-134873069",
+          "title": "The Genetic Architecture of Adaptations to High Altitude in Ethiopia: The Amhara People as a Case Study",
+          "description": "Genetic and physiological studies have identified distinctive adaptations related to oxygen transport, hemoglobin regulation, and cardiovascular function that enable Ethiopian highlanders ....",
+          "url": "https://borkena.com/2026/07/18/genetic-architecture-of-adaptations-to-high-altitude-in-ethiopia-the-amhara-people-as-a-case-study/",
           "source": {
-            "name": "ABC News - Breaking News, Latest News and Videos"
+            "name": "Borkena"
           },
-          "publishedAt": "2026-07-18T14:49:05Z",
-          "image": "https://i.abcnewsfe.com/a/63235cfb-6cc2-4a07-924b-6b7f9cbb5ed2/wirestory_d32eecaceabe88b93670e27accabfea2_16x9.jpg?w=1600",
+          "publishedAt": "2026-07-18T17:54:35Z",
+          "image": "https://borkena.com/wp-content/uploads/2026/07/Girma-Berhanu-_-Ethiopia-_-politics-2.webp",
           "language": "en"
         },
         {
-          "title": "Watch Diamond League London LIVE: Josh Kerr mile world record, Keely Hodgkinson wins 800m",
-          "description": "Follow live BBC One coverage of the Diamond League as Britain's Keely Hodgkinson and Josh Kerr headline London Athletics Meet",
-          "url": "https://www.bbc.co.uk/sport/athletics/live/c89kg289gqet",
+          "title": "Second ex-wife of ICE agent who shot man in Biddeford recounts history of violent behavior",
+          "description": "David Brouillette's former wife, Lucinda Brouillette, writes about her experiences in a message Saturday.",
+          "url": "https://www.pressherald.com/2026/07/18/second-ex-wife-of-ice-agent-who-shot-man-in-biddeford-recounts-history-of-violent-behavior/",
+          "source": {
+            "name": "The Portland Press Herald"
+          },
+          "publishedAt": "2026-07-18T17:53:18Z",
+          "image": "https://www.pressherald.com/wp-content/uploads/sites/4/2026/07/Screenshot-2026-07-16-at-6.18.19-PM-e1784415959130.jpg?w=780",
+          "language": "en"
+        },
+        {
+          "title": "Key detail on how Chelsea managed to beat Arsenal to £117m Morgan Rogers deal",
+          "description": "Chelsea have agreed an £117m deal for Morgan Rogers from Aston Villa thanks to the influence of Xabi Alonso.",
+          "url": "https://www.thechelseachronicle.com/transfer-news/key-detail-on-how-chelsea-managed-to-beat-arsenal-to-117m-morgan-rogers-deal/",
+          "source": {
+            "name": "The Chelsea Chronicle"
+          },
+          "publishedAt": "2026-07-18T17:49:40Z",
+          "image": "https://cdn1.thechelseachronicle.com/uploads/17/2026/07/GettyImages-2285899000-scaled.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+          "description": "The announcement comes after Jordan said it intercepted 10 Iranian missiles fired into its airspace overnight into Saturday.",
+          "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-07-18T14:48:45Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/98a6/live/bff0c750-82b7-11f1-87aa-2bcbbeff03e6.jpg",
+          "publishedAt": "2026-07-18T17:49:39Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb90/live/f934e660-82d3-11f1-a42c-29abcdb2a052.jpg",
           "language": "en"
         },
         {
-          "title": "Further disruption to water supply in Kerry as repairs continue until tomorrow",
-          "description": "A burst water main on the N22 Farranfore to Killarney road continues to cause disruption to water supply in various parts of Kerry.",
-          "url": "https://www.radiokerry.ie/news/further-disruption-to-water-supply-in-kerry-as-repairs-continue-until-tomorrow-491694",
+          "title": "Right Activist Demands Independent Probe, Autopsy For Mary Habila, Found Dead In Minister Umahi's House",
+          "description": "Human rights activist Agena R. Ande has called for a full criminal investigation, an independent autopsy and a coroner's inquest into the death of Mary Habila, who was found dead in the house of Minister of Works, David Umahi, insisting that public explanations offered so far cannot replace a lawful investigation.",
+          "url": "https://saharareporters.com/2026/07/18/right-activist-demands-independent-probe-autopsy-mary-habila-found-dead-minister-umahis",
           "source": {
-            "name": "Radio Kerry"
+            "name": "Sahara Reporters"
           },
-          "publishedAt": "2026-07-18T14:48:16Z",
-          "image": "https://img.resized.co/radiokerry-ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1nLnJhZGlva2VycnkuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcL1Vpc2NlLUVpcmVhbm4tTG9nby0xMDI0eDUwMy5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnJhZGlva2VycnkuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI5YjlhNzA4YmQ2ZmY1Mzc1MDM3ODEzMWI3ZjNhYzcyOWFlYzkzOTE0In0=/further-disruption-to-water-supply-in-kerry-as-repairs-continue-until-tomorrow.jpg",
+          "publishedAt": "2026-07-18T17:49:30Z",
+          "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
           "language": "en"
         },
         {
-          "title": "London Diamond League results: Josh Kerr smashes men's mile world record",
-          "description": "Great Britain's Josh Kerr smashes the long-standing men's mile world record in a spectacular performance at the London Diamond League.",
-          "url": "https://www.bbc.com/sport/athletics/articles/cx2jl1wge2po",
+          "title": "Uganda's 87-year-old MP Gen Moses Ali is dead",
+          "description": "Museveni announced that Ali died at Nakasero Hospital at 4 pm.",
+          "url": "https://www.the-star.co.ke/news/africa/2026-07-18-ugandas-gen-moses-ali-dies-at-87",
           "source": {
-            "name": "BBC"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-07-18T14:48:16Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3a49/live/37aa2290-82be-11f1-87aa-2bcbbeff03e6.jpg",
+          "publishedAt": "2026-07-18T17:48:42Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/07/4c764493-c972-4fa5-8835-d56e99ede2b2.webp?1784404096330",
           "language": "en"
         },
         {
-          "title": "72nd National Film Awards | ‘Raayan,’ ‘Amaran’ bag top honours; ‘Meiyazhagan’ and ‘Maharaja’ miss marquee categories",
-          "description": "The 72nd National Film Awards celebrate Tamil cinema, with 'Raayan' winning Best Tamil Film and 'Amaran' taking multiple honors.",
-          "url": "https://www.thehindu.com/entertainment/movies/72nd-national-film-awards-raayan-amaran-bag-top-honours-meiyazhagan-and-maharaja-miss-marquee-categories/article71238331.ece",
+          "title": "CS Murkomen dares Gachagua to report alleged Ol Kalou rape cases to police",
+          "description": "The CS said police would investigate and prosecute anyone found responsible if formal complaints are made.",
+          "url": "https://www.the-star.co.ke/news/2026-07-18-murkomen-to-gachagua-report-alleged-ol-kalou-rape-cases",
           "source": {
-            "name": "The Hindu"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-07-18T14:46:32Z",
-          "image": "https://th-i.thgim.com/public/entertainment/movies/jorile/article71238524.ece/alternates/LANDSCAPE_1200/Raayan%20Amaran%20National%20Film%20Awards.jpg",
+          "publishedAt": "2026-07-18T17:48:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/07/97af39a5-1fe4-4128-ab7f-3884004a0b01.webp?1784398443405",
           "language": "en"
         },
         {
-          "title": "Ateneo de Zamboanga holds active shooter drill",
-          "description": "ZAMBOANGA CITY – The Ateneo de Zamboanga University conducted an active shooter drill at the Fr. William H. Kreutz campus here on Saturday, July 18. The...",
-          "url": "https://mb.com.ph/2026/07/18/ateneo-de-zamboanga-holds-active-shooter-drill",
+          "title": "'Rapt' Dave Rennie issues warning to the world after All Blacks start",
+          "description": "A delighted Dave Rennie has warned their rivals that the All Blacks have “a lot more in us” after hammering Ireland at Eden Park on Saturday.",
+          "url": "https://www.planetrugby.com/news/rapt-dave-rennie-issues-warning-to-the-world-after-pleasing-and-exciting-all-blacks-start",
           "source": {
-            "name": "Manila Bulletin"
+            "name": "Planet Rugby"
           },
-          "publishedAt": "2026-07-18T14:45:27Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/18/117152.webp",
+          "publishedAt": "2026-07-18T17:45:30Z",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/07/18181020/Dave-Rennie-and-All-Blacks-try-1.jpg",
           "language": "en"
         },
         {
-          "title": "'Netanyahu belongs in the Hague': Mamdani in talks over Israeli PM's arrest during NYC visit",
-          "description": "US News: New York City mayor Zohran Mamdani has said his administration is examining whether it has any legal authority to act if Israeli Prime Minister Benjam.",
-          "url": "https://timesofindia.indiatimes.com/world/us/netanyahu-belongs-in-the-hague-mamdani-in-talks-over-israeli-pms-arrest-during-nyc-visit/articleshow/132482256.cms",
+          "title": "BTS’ ‘NORMAL’ Music Video Sets Spotify Record in First Day",
+          "description": "BTS’ “NORMAL” sets a Spotify record as the most-streamed K-pop music video in a single day in the platform’s history.",
+          "url": "https://www.billboard.com/music/music-news/bts-normal-music-video-spotify-single-day-record-1236297349/",
           "source": {
-            "name": "The Times of India"
+            "name": "Billboard"
           },
-          "publishedAt": "2026-07-18T14:45:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-132482350,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-07-18T17:43:35Z",
+          "image": "https://www.billboard.com/wp-content/uploads/2026/03/bts-press-2026-cr-bighit-music-biillboard-1800.jpg?w=1024",
           "language": "en"
         },
         {
-          "title": "Ukrainian drones hit Russian warehouses and other sites, kill 9",
-          "description": "Russian officials report that Ukrainian drone attacks overnight and later on Saturday have killed nine people and wounded more than 80 others.",
-          "url": "https://apnews.com/article/russia-ukraine-war-drone-attacks-c2d0d713643288b81dbbea714d5db5ac",
+          "title": "Arsenal transfer news LIVE: Chelsea 'hijack' Morgan Rogers deal, move 'agreed' for ex",
+          "description": "MORGAN ROGERS has verbally agreed to join Chelsea in a huge blow to Arsenal. The Aston Villa star was Mikel Arteta’s top target this summer. But Chelsea have struck a deal worth £117million a…",
+          "url": "https://www.thesun.co.uk/sport/39415117/arsenal-transfer-news-live-morgan-rogers-tzolis-updates/",
           "source": {
-            "name": "AP News"
+            "name": "The Sun"
           },
-          "publishedAt": "2026-07-18T14:43:00Z",
-          "image": "https://dims.apnews.com/dims4/default/73e00fd/2147483647/strip/true/crop/5500x3665+0+230/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8c%2Fe6%2Fc03816274baa02b76fd99d3fdfb1%2Fb51daf268b9b45b3a92a03eca2aefe06",
-          "language": "en"
-        },
-        {
-          "title": "Where Wildfire Smoke Remains-And What To Do About It",
-          "description": "The smoke has gotten so bad in some states this week that elected officials demanded answers from Canada, and one senator has even called for sanctions.",
-          "url": "https://www.forbes.com/sites/maryroeloffs/2026/07/18/air-quality-alerts-remain-in-16-states-as-canadian-wildfire-smoke-spreads-to-midwest-northeast/",
-          "source": {
-            "name": "Forbes"
-          },
-          "publishedAt": "2026-07-18T14:41:00Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a5a35ed36905361e1c5d734/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "language": "en"
-        },
-        {
-          "title": "Tanzania marks Mandela Day with call for unity, volunteerism, youth empowerment",
-          "description": "DAR ES SALAAM: TANZANIA has joined the global community in commemorating Nelson Mandela International Day, with government leaders, the United Nations and the South African High Commission calling for greater unity, volunteerism and investment in young people as the country advances its Development Vision 2050. The event, held at the Women Empowerment and Entrepreneurship Development …",
-          "url": "https://dailynews.co.tz/tanzania-marks-mandela-day-with-call-for-unity-volunteerism-youth-empowerment/",
-          "source": {
-            "name": "dailynews.co.tz"
-          },
-          "publishedAt": "2026-07-18T14:40:07Z",
-          "image": "https://dailynews.co.tz/wp-content/uploads/2026/07/IMG-20260718-WA00801-2.jpg",
+          "publishedAt": "2026-07-18T17:42:04Z",
+          "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/arsenal-transfer-news-16.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
           "language": "en"
         }
       ]
