@@ -1,10 +1,32 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-19T05:54:43.090Z",
+  "updatedAt": "2026-07-19T08:21:16.724Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "AMDのRyzen 7 7700X3D、発売直後に279ドルへ値下げ。NeweggのバンドルでAM5構築コストが大幅減",
+          "description": "AMDが発売したばかりのRyzen 7 7700X3Dが、Neweggにてプロモコード「PKC337」の適用により、デビュー価格329ドルからわずか数日で279ドルへと即時値下げされた。…",
+          "url": "https://finance.biggo.jp/news/83ebea1c-7a6c-4b07-97c1-000149e0fe1a",
+          "source": {
+            "name": "BigGo ファイナンス"
+          },
+          "publishedAt": "2026-07-18T18:25:00Z",
+          "image": "https://img.biggo.com/ou6njqpOgM7fcU-NM-vLoyoRjvvdnHKvY8Ny3TSI6Ys/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzgzZWJlYTFjLTdhNmMtNGIwNy05N2MxLTAwMDE0OWUwZmUxYV8xNzg0Mzk5MzQ0X2RlZmF1bHQuanBn.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【F1ベルギーGP｜予選Q3結果】選手権首位のアントネッリが圧巻のポール 最後尾のハジャーがフェルスタッペン援護、3番手ノリスは降格",
+          "description": "7月18日(土)、2026年F1第9戦ベルギーGP（シルバーストン・サーキット）、予選Q3(13分)が開催された。\nポールポジションを獲得したのはアンドレア・キミ・アントネッリ（メルセデス／メルセ",
+          "url": "https://news.yahoo.co.jp/articles/52387e404efbf629572deb2942d6b1e3e238c84b",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-18T17:59:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260719-00000001-fliv-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "サイバー攻撃最速27秒、AIが「弱点」突き速度3倍 社内にも潜む脅威",
           "description": "【この記事でわかること】・AIの攻撃がどのくらい進化したか・防御側の検知、なぜ伸び悩む？・ソフトの脆弱性をなくすには",
@@ -92,139 +114,117 @@
           "publishedAt": "2026-07-18T10:32:45Z",
           "image": "https://prcdn.freetls.fastly.net/release_image/182680/6/182680-6-908cb166418ffe120d73117281f2bf8e-813x1312.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
           "language": "ja"
-        },
-        {
-          "title": "「都内でもドライブデート。結婚は…」川口春奈（31）＆板倉滉（29）が真剣交際 「川口さんはオランダまで会いに」",
-          "description": "女優・川口春奈（31）とサッカー日本代表キャプテン・板倉滉（29）が交際していることが「 週刊文春 」の取材で分かった。",
-          "url": "https://news.yahoo.co.jp/articles/1f6053efebc94be686d272bee75149bcc7ffb267",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-18T09:12:16Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260718-00090461-bunshun-000-5-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "『ゴシックは魔法乙女〜さっさと契約しなさい！～』「第4回リアルスコア大会 -KING of MASTERS-」11月21日(土)開催決定！",
-          "description": "株式会社ケイブのプレスリリース（2026年7月18日 18時00分）『ゴシックは魔法乙女〜さっさと契約しなさい！～』「第4回リアルスコア大会 -KING of MASTERS-」11月21日(土)開催決定！",
-          "url": "https://prtimes.jp/main/html/rd/p/000001178.000001290.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-07-18T09:00:01Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/1290/1178/1290-1178-9d34b820a981daddfb81896e458f0037-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "The Genetic Architecture of Adaptations to High Altitude in Ethiopia: The Amhara People as a Case Study",
-          "description": "Genetic and physiological studies have identified distinctive adaptations related to oxygen transport, hemoglobin regulation, and cardiovascular function that enable Ethiopian highlanders ....",
-          "url": "https://borkena.com/2026/07/18/genetic-architecture-of-adaptations-to-high-altitude-in-ethiopia-the-amhara-people-as-a-case-study/",
+          "title": "Cat Deeley shares 'intimate date' with movie executive at Lewis Capaldi gig",
+          "description": "This Morning presenter Cat Deeley appeared to enjoy a date night with a movie executive at a recent Lewis Capaldi gig 12 months on from her split from husband Patrick Kielty",
+          "url": "https://www.mirror.co.uk/3am/celebrity-news/cat-deeley-charlie-coleman-dating-37448661",
           "source": {
-            "name": "Borkena"
+            "name": "The Mirror"
           },
-          "publishedAt": "2026-07-18T17:54:35Z",
-          "image": "https://borkena.com/wp-content/uploads/2026/07/Girma-Berhanu-_-Ethiopia-_-politics-2.webp",
+          "publishedAt": "2026-07-18T20:21:00Z",
+          "image": "https://i2-prod.mirror.co.uk/article37448698.ece/ALTERNATES/s1200d/1_This-Morning-TV-show-London-UK-09-Jul-2026.jpg",
           "language": "en"
         },
         {
-          "title": "Second ex-wife of ICE agent who shot man in Biddeford recounts history of violent behavior",
-          "description": "David Brouillette's former wife, Lucinda Brouillette, writes about her experiences in a message Saturday.",
-          "url": "https://www.pressherald.com/2026/07/18/second-ex-wife-of-ice-agent-who-shot-man-in-biddeford-recounts-history-of-violent-behavior/",
+          "title": "From 40 cartographers to two: street directories nearing end of the road",
+          "description": "While sales of the once-ubiquitous street directories have fallen dramatically since their peak in the 1980s, they still have a niche market.",
+          "url": "https://www.abc.net.au/news/2026-07-19/street-directories-are-nearing-the-end-of-the-road/106883510",
           "source": {
-            "name": "The Portland Press Herald"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-07-18T17:53:18Z",
-          "image": "https://www.pressherald.com/wp-content/uploads/sites/4/2026/07/Screenshot-2026-07-16-at-6.18.19-PM-e1784415959130.jpg?w=780",
+          "publishedAt": "2026-07-18T20:18:01Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/0e9b2eef401501cecfb07e85abf3f144?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Key detail on how Chelsea managed to beat Arsenal to £117m Morgan Rogers deal",
-          "description": "Chelsea have agreed an £117m deal for Morgan Rogers from Aston Villa thanks to the influence of Xabi Alonso.",
-          "url": "https://www.thechelseachronicle.com/transfer-news/key-detail-on-how-chelsea-managed-to-beat-arsenal-to-117m-morgan-rogers-deal/",
+          "title": "FIFA World Cup 2026 LIVE scores: France vs England third place play-off results, highlights, latest news; What’s still at stake in game ‘nobody wants to play’",
+          "description": "Follow Nine.com.au’s live coverage of the World Cup 2026 Third Place Play-off. Get real-time scores, latest football news, highlights and expert analysis.",
+          "url": "https://www.nine.com.au/sport/football/fifa-world-cup-live-scores-france-england-third-place-play-off-results-highlights-latest-news-20260718-p60ggf.html",
           "source": {
-            "name": "The Chelsea Chronicle"
+            "name": "Nine.com.au"
           },
-          "publishedAt": "2026-07-18T17:49:40Z",
-          "image": "https://cdn1.thechelseachronicle.com/uploads/17/2026/07/GettyImages-2285899000-scaled.jpg",
+          "publishedAt": "2026-07-18T20:17:50Z",
+          "image": "https://static.ffx.io/images/$zoom_0.7019%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_865%2C$y_75/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/bfbf7563fd85ffd724740b7ab3731d9a5368b3ab",
           "language": "en"
         },
         {
-          "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-          "description": "The announcement comes after Jordan said it intercepted 10 Iranian missiles fired into its airspace overnight into Saturday.",
-          "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o",
+          "title": "Andy Burnham to scrap digital ID to focus on 'helping with cost of living'",
+          "description": "A spokesperson for the incoming prime minister says his Government would “put its focus where people need it right now”.",
+          "url": "https://www.bbc.com/news/articles/c5y08z25q8eo",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-07-18T17:49:39Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb90/live/f934e660-82d3-11f1-a42c-29abcdb2a052.jpg",
+          "publishedAt": "2026-07-18T20:15:26Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/69d5/live/98b78d40-82df-11f1-ae6b-3189bc758570.jpg",
           "language": "en"
         },
         {
-          "title": "Right Activist Demands Independent Probe, Autopsy For Mary Habila, Found Dead In Minister Umahi's House",
-          "description": "Human rights activist Agena R. Ande has called for a full criminal investigation, an independent autopsy and a coroner's inquest into the death of Mary Habila, who was found dead in the house of Minister of Works, David Umahi, insisting that public explanations offered so far cannot replace a lawful investigation.",
-          "url": "https://saharareporters.com/2026/07/18/right-activist-demands-independent-probe-autopsy-mary-habila-found-dead-minister-umahis",
+          "title": "France vs. England Livestream: How to Watch Today's FIFA World Cup Third-Place Match Online for Free",
+          "description": "Kylian Mbappé, Harry Kane, and Jude Bellingham can still win the Golden Boot. Who will make the stronger claim? Watch the France vs. England third-place final using a streaming app or VPN to find out.",
+          "url": "https://www.pcmag.com/news/how-to-watch-france-vs-england-fifa-world-cup-third-place-match-for-free",
           "source": {
-            "name": "Sahara Reporters"
+            "name": "PCMag"
           },
-          "publishedAt": "2026-07-18T17:49:30Z",
-          "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
+          "publishedAt": "2026-07-18T20:14:39Z",
+          "image": "https://i.pcmag.com/imagery/articles/05GgqUSk1GtcQC9Rlm0ByZE-6.fit_lim.size_1200x630.v1784294186.jpg",
           "language": "en"
         },
         {
-          "title": "Uganda's 87-year-old MP Gen Moses Ali is dead",
-          "description": "Museveni announced that Ali died at Nakasero Hospital at 4 pm.",
-          "url": "https://www.the-star.co.ke/news/africa/2026-07-18-ugandas-gen-moses-ali-dies-at-87",
+          "title": "the hidden grief of loving a partner w",
+          "description": "Dementia gradually reshapes communication, intimacy, decision-making and daily life, often turning one spouse into caregiver, advocate and shared memory keeper; a geriatric specialist explains how couples can adapt without losing their bond",
+          "url": "https://www.ynetnews.com/health_science/article/hjy90alvml",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "Ynetnews"
           },
-          "publishedAt": "2026-07-18T17:48:42Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/07/4c764493-c972-4fa5-8835-d56e99ede2b2.webp?1784404096330",
+          "publishedAt": "2026-07-18T20:13:53Z",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/06/r1Q4W11tmGe/r1Q4W11tmGe_0_0_1000_563_0_large.jpg",
           "language": "en"
         },
         {
-          "title": "CS Murkomen dares Gachagua to report alleged Ol Kalou rape cases to police",
-          "description": "The CS said police would investigate and prosecute anyone found responsible if formal complaints are made.",
-          "url": "https://www.the-star.co.ke/news/2026-07-18-murkomen-to-gachagua-report-alleged-ol-kalou-rape-cases",
+          "title": "5 huge Casualty spoilers for next week (25 July)",
+          "description": "New Casualty spoilers - Flynn is treats his enemy when Bard is injured, Dylan and Matty attempt to get back on track, and Rash awaits important results.",
+          "url": "https://www.digitalspy.com/soaps/casualty/a73170508/casualty-spoilers-dylan-rash-flynn/",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "Digital Spy"
           },
-          "publishedAt": "2026-07-18T17:48:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/07/97af39a5-1fe4-4128-ab7f-3884004a0b01.webp?1784398443405",
+          "publishedAt": "2026-07-18T20:13:09Z",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/ce631821-0943-45b9-b78a-9b96fbbbcb30.jpg?crop=1.00xw:0.752xh;0,0&resize=1200:*",
           "language": "en"
         },
         {
-          "title": "'Rapt' Dave Rennie issues warning to the world after All Blacks start",
-          "description": "A delighted Dave Rennie has warned their rivals that the All Blacks have “a lot more in us” after hammering Ireland at Eden Park on Saturday.",
-          "url": "https://www.planetrugby.com/news/rapt-dave-rennie-issues-warning-to-the-world-after-pleasing-and-exciting-all-blacks-start",
+          "title": "US renews strikes on Iran after two military personnel were killed by Iranian attack",
+          "description": "US Central Command also said the strikes are designed to further degrade Iran's ability to threaten commercial shipping in the Strait of Hormuz.",
+          "url": "https://www.channelnewsasia.com/world/iran-war-us-strikes-military-deaths-hormuz-6263116",
           "source": {
-            "name": "Planet Rugby"
+            "name": "CNA"
           },
-          "publishedAt": "2026-07-18T17:45:30Z",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/07/18181020/Dave-Rennie-and-All-Blacks-try-1.jpg",
+          "publishedAt": "2026-07-18T20:10:00Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--UcQdJbk8--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/19/2026-07-18t112029z_1150327645_rc27gmafhbzo_rtrmadp_3_iran-crisis.jpg?itok=iSdE5ZRJ",
           "language": "en"
         },
         {
-          "title": "BTS’ ‘NORMAL’ Music Video Sets Spotify Record in First Day",
-          "description": "BTS’ “NORMAL” sets a Spotify record as the most-streamed K-pop music video in a single day in the platform’s history.",
-          "url": "https://www.billboard.com/music/music-news/bts-normal-music-video-spotify-single-day-record-1236297349/",
+          "title": "US says two military personnel killed in Jordan",
+          "description": "WASHINGTON: The US military said on Saturday (Jul 18) that two of its personnel were killed in Jordan and another was missing after an Iranian attack, while Iran's supreme leader said Washington would pay for \"",
+          "url": "https://www.channelnewsasia.com/world/us-says-two-military-personnel-killed-in-jordan-6263116",
           "source": {
-            "name": "Billboard"
+            "name": "CNA"
           },
-          "publishedAt": "2026-07-18T17:43:35Z",
-          "image": "https://www.billboard.com/wp-content/uploads/2026/03/bts-press-2026-cr-bighit-music-biillboard-1800.jpg?w=1024",
+          "publishedAt": "2026-07-18T20:10:00Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--ciBAwFhf--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-07T144534Z_1_LYNXMPEM660UU_RTROPTP_3_NATO-SUMMIT-TRUMP.JPG?itok=MypFYibc",
           "language": "en"
         },
         {
-          "title": "Arsenal transfer news LIVE: Chelsea 'hijack' Morgan Rogers deal, move 'agreed' for ex",
-          "description": "MORGAN ROGERS has verbally agreed to join Chelsea in a huge blow to Arsenal. The Aston Villa star was Mikel Arteta’s top target this summer. But Chelsea have struck a deal worth £117million a…",
-          "url": "https://www.thesun.co.uk/sport/39415117/arsenal-transfer-news-live-morgan-rogers-tzolis-updates/",
+          "title": "Argentina pay tribute to 1986 World Cup winners with special kit for England clash",
+          "description": "Argentina’s rugby team gave a nod to their footballing counterparts ahead of the World Cup final",
+          "url": "https://www.independent.co.uk/sport/rugby/rugby-union/argentina-england-1986-world-cup-rugby-nations-championship-b3017508.html",
           "source": {
-            "name": "The Sun"
+            "name": "The Independent"
           },
-          "publishedAt": "2026-07-18T17:42:04Z",
-          "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/arsenal-transfer-news-16.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+          "publishedAt": "2026-07-18T20:10:00Z",
+          "image": "https://static.independent.co.uk/2026/07/18/21/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
           "language": "en"
         }
       ]
