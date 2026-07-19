@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-19T13:19:31.067Z",
+  "updatedAt": "2026-07-19T15:58:25.555Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【バレー男子NL】日本史上初の“予選ラウンド全勝”へ最終戦 イタリア＆ブルガリア＆トルコ決勝ラウンド進出目前 カナダは降格",
+          "description": "◇バレーボール 男子ネーションズリーグ2026 予選ラウンド第3週（7月15日～19日)",
+          "url": "https://news.ntv.co.jp/category/sports/6ecc84342a114d80a1d6f115d1ec9dba",
+          "source": {
+            "name": "日テレNEWS NNN"
+          },
+          "publishedAt": "2026-07-19T03:28:00Z",
+          "image": "https://news.ntv.co.jp/gimage/n24/articles/10069377e4024a29a8ff9b6d02d65015/64d777c2-08a8-4449-ba65-133078db292c.jpg?w=1200",
+          "language": "ja"
+        },
+        {
+          "title": "日曜劇場「VIVANT」第1シーズン未回収の伏線＆謎【まとめ】｜シネマトゥデイ",
+          "description": "2023年7月期に放送され、社会現象を巻き起こした日曜劇場「VIVANT」（TBS系）の第2シーズンが、7月26日（日）よりスタートする。",
+          "url": "https://www.cinematoday.jp/page/A0009806",
+          "source": {
+            "name": "シネマトゥデイ"
+          },
+          "publishedAt": "2026-07-19T03:10:00Z",
+          "image": "https://img.cinematoday.jp/a/wmxzcaUwTWGF/_size_r1200x630/_v_1784268320/main.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "VITURE Beast レビュー／大画面・没入特化のXRグラス。ゲームも映画も寝ながら楽しむ",
+          "description": "VITUREのXRグラス『VITURE Beast』を実機レビュー。視野角58°・174インチの大画面で、ゲームも映画も寝ながら楽しめます。画質や3DoFの使い勝手から、モバイルドックなど豊富なオプションの選び方、Luma Ultraとの違いまで詳しく解説します。",
+          "url": "https://monopedia.jp/viture-beast/",
+          "source": {
+            "name": "モノペディア"
+          },
+          "publishedAt": "2026-07-19T03:09:50Z",
+          "image": "https://monopedia.jp/wp-content/uploads/2026/06/viture-beast-0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "セガさんおぼえていますか？ 30年前に助けてもらったNVIDIAです",
+          "description": "日本語で、というのも嬉しい。2026年7月16日、経済産業省主催の「我が国のフィジカルAI政策に関する対外発信イベント」が開催されました。フィジカルAIの重要性を説きつつ、国ぐるみで取り組んでいく姿勢を再確認するものです。イベントにはNVI",
+          "url": "https://www.gizmodo.jp/article/b0d4b520-3c52-49c4-bbf3-5fbc1bff663e/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-07-19T03:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/07/17/9f04aafb-004f-4f9d-878e-093fc94ed9e5/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "「選ばれた首長なのに」産休めぐりSNS賛否 市長が語った組織論",
+          "description": "京都府八幡（やわた）市の川田（かわた）翔子市長が20日、首長としては初めてとみられる産休に入る。11月上旬まで。5月に表明して以降、応援の声に混じり、疑問や反発も飛び交う。「選挙で選ばれたのに」「災…",
+          "url": "https://www.asahi.com/articles/ASV7K3CP9V7KPTIL00JM.html",
+          "source": {
+            "name": "朝日新聞"
+          },
+          "publishedAt": "2026-07-19T02:00:00Z",
+          "image": "https://imgopt.asahi.com/ogp/AS20260717003757_comm.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "八幡市長の産休めぐる論議、海外メディア相次ぎ報道 一部批判に驚き",
+          "description": "京都府八幡市の川田翔子市長（35）が4カ月の産休を取得すると5月に表明した。その後、海外メディアが相次いで日本の反応や現状などを報じている。欧米では要職の女性が産休を取るのは一般的といい、全国ニュ",
+          "url": "https://news.yahoo.co.jp/articles/3bfede6656bbf0cff7b208d1db2a82651723009a",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-19T02:00:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260719-00000056-asahi-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【F1】アントネッリ、今季6回目ポールポジション「全てがうまくまとめられた」 ホンダPUのアストンは定位置の最下位【ベルギーGP予選】",
+          "description": "F1第10戦ベルギーGPは18日、スパフランコルシャンサーキットで予選を行い、メルセデスのキミ・アントネッリが今季6回目のポールポジションを獲得した。「セッションを通じて改善することができ、Q3で",
+          "url": "https://news.yahoo.co.jp/articles/b50ff75badf0de3e6221ab3900e314e671b4fcd7",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-19T01:48:25Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260719-00000040-chuspo-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "【北浜流一郎のズバリ株先見！】 ─ 「キオクシア・ショック」の衝撃、目を転じるべき投資対象は？",
           "description": "「『キオクシア・ショック』の衝撃、目を転じるべき投資対象は？」●急失速したＡＩ・半導体相場の「希望の星」　「キオクシア・ショック」が東京市場を襲っている。韓国市場でのサムスン電子、ＳＫハイニックスの株安が東京市場にも及び、７月１７日の日経平均株価は一時４０００円以上も下げた・・・。",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-07-19T00:15:02Z",
           "image": "https://www.inside-games.jp/imgs/ogp_f/1755870.png",
           "language": "ja"
-        },
-        {
-          "title": "『名探偵プリキュア！』キュアエクレールの正体は「帆羽くれあ（CV：長谷川育美）」と判明",
-          "description": "担当声優の長谷川育美さんは役を射止めた直後に「全員に秘密に」と言われ混乱。アフレコ現場ではバレないようにするのが大変だったと明かした。また、8月2日・9日の地上波放送は「提供アナウンス」をエクレールが担当。かつてはキュアアルカナ・シャドウも放送をジャックしたことがある",
-          "url": "https://news.denfaminicogamer.jp/news/260719m",
-          "source": {
-            "name": "電ファミニコゲーマー"
-          },
-          "publishedAt": "2026-07-19T00:00:00Z",
-          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/WhiteCanvas-8.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "晴れていても急な雨に注意 北陸など日本海側中心に猛暑 今日7月19日(日)の天気",
-          "description": "今日19日(日)は、北海道と東北北部は午前中ほど雨雲が発達しやすく、激しい雨の降る所があります。東北南部から九州にかけては晴れ間が出ますが、急な雨や雷雨に注意が必要です。全国的に暑さが厳しく、北陸など日本海側の地域を中心に所々で猛暑日の予想です。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/07/19/39781.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-07-18T22:44:45Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/397/39781/main/20260719070428/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Xのメディア欄がなぜ動画優先に？画像は▼マークの奥へ追いやられたワケ - shiritomo",
-          "description": "【SNS】「プロフィールを開いたら知らない動画ばかり出てきて、自分の投稿した写真がどこにも見当たらない」。 2026年7月18日ごろから、Xでこんな戸惑いの声が急に増えま…",
-          "url": "https://hashout.jp/sns/3748/",
-          "source": {
-            "name": "shiritomo"
-          },
-          "publishedAt": "2026-07-18T22:43:37Z",
-          "image": "https://hashout.jp/wp-content/uploads/2026/07/2078603991693615524-img-1200x675.png",
-          "language": "ja"
-        },
-        {
-          "title": "社員逮捕→信用不安、そして巨額倒産へ 負債1151億円「全東信」崩壊の裏で、何が起きている？",
-          "description": "クレジットカード決済サービスを手掛ける全東信（大阪市）は7月6日、大阪地裁へ準自己破産を申請し、同日に破産手続き開始決定を受けた。負債額は約1151億円と、今年最高額となった。同社は、なぜこれほど",
-          "url": "https://news.yahoo.co.jp/articles/bc1bf0d9b98e9ffdb795498c1f57bfaca51bbc9f",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-18T22:00:12Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260719-00000005-zdn_mkt-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【会見全文(1)】”1000万円要求の音声データ” の金銭授受疑惑 中尾正幸 副議長「もらっていないものはもらっていない」と会見で主張",
-          "description": "■正副議長ポストめぐる現金授受の疑惑\n福岡県議会の正副議長ポストをめぐり現金の授受があったとされる疑惑。\n福岡県議会 元議長　吉松源昭 県議\n「人の弱みにつけこんだカツアゲ、あるいはみかじめ料的",
-          "url": "https://news.yahoo.co.jp/articles/5b790a275da500bb731dc91a0423f41d74af15fc",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-18T21:07:19Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260719-22811740-jnn-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "推し活の思い出を”キロク”するWebアプリ「推しロク」の提供を開始",
-          "description": "有限会社葵屋のプレスリリース（2026年7月19日 06時00分）推し活の思い出を”キロク”するWebアプリ「推しロク」の提供を開始",
-          "url": "https://prtimes.jp/main/html/rd/p/000000002.000186096.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-07-18T21:00:01Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/186096/2/186096-2-2566d9194d1072c6f1855d940f060cda-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "日本の隣にあった「緑のウクライナ」なぜ消えた？ 絶たれた希望",
-          "description": "4年以上にわたりロシアの侵攻を受けるウクライナ。 　日本とは遠く離れているが、かつて極東にウクライナ人の一大コミュニティーがあった。 　「緑のウクライナ」だ。 　隣国の日本とどのような関わりがあったのか。なぜこのコミュニティーは消えてしまったのか。知られざる歴史をたどる。",
-          "url": "https://mainichi.jp/articles/20260717/k00/00m/040/201000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-07-18T21:00:00Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/07/17/20260717k0000m040191000p/0c10.jpg?1",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "July 18, 2026 - US-Iran war news",
-          "description": "There’s no sign that renewed fighting between the US and Iran will end soon. A week of intensified strikes has left the ceasefire in tatters.",
-          "url": "https://edition.cnn.com/2026/07/18/world/live-news/iran-war-trump",
+          "title": "Four new films to see this week: The Odyssey, Animal Farm, Cactus Pears, Effi o Blaenau",
+          "description": "Matt Damon, Zendaya, Seth Rogen and Kieran Culkin feature in a quartet of movies released in the week of July 17th, 2026",
+          "url": "https://www.irishtimes.com/culture/film/2026/07/19/four-new-films-to-see-this-week-the-odyssey-animal-farm-cactus-pears-effi-o-blaenau/",
           "source": {
-            "name": "CNN"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-07-19T01:19:00Z",
-          "image": "https://media.cnn.com/api/v1/images/stellar/prod/nic-r-jlem-2p.png?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2026-07-19T03:57:06Z",
+          "image": "https://www.irishtimes.com/resizer/v2/IUHHUF5ZRJEPBPB6O23R6KIGXE.jpg?smart=true&auth=b5a0eb79cb6c12f9b47f48fc5fd37c0bb08c9a761bc2ecad4b195975a15e11d0&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Final teams for Suns v Bulldogs, Tigers v Hawks. Follow it LIVE",
-          "description": "Follow all the action from Sunday's round 19 games",
-          "url": "https://www.afl.com.au/news/1561028/follow-it-live-richmond-v-hawthorn-gold-coast-v-western-bulldogs-essendon-v-greater-western-sydney-afl-round-19-2026",
+          "title": "One Nation rural policies could have ‘catastrophic’ consequences. We need to know more",
+          "description": "Even Hanson “devotees” may think twice about voting for her after reading the fine print.",
+          "url": "https://www.theage.com.au/politics/federal/when-hanson-s-supporters-examine-all-her-policies-what-they-find-could-horrify-them-20260719-p60gjg.html",
           "source": {
-            "name": "afl.com.au"
+            "name": "The Age"
           },
-          "publishedAt": "2026-07-19T01:16:05Z",
-          "image": "https://resources.afl.com.au/afl/photo/2026/07/17/1106198a-5953-477f-8337-b734b123303e/08HaRi25QR059206987.jpg",
+          "publishedAt": "2026-07-19T03:53:53Z",
+          "image": "https://static.ffx.io/images/$zoom_0.2615556255688581%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_215%2C$y_8/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/2a55c8249397fe4e4788d10f5cbcf65a52963f64",
           "language": "en"
         },
         {
-          "title": "Bryson DeChambeau trolls everyone one day after British Open saga",
-          "description": "Bryson DeChambeau is continuing his antics at the British Open one day after a two-shot penalty stroke caused plenty of drama at Royal Birkdale.",
-          "url": "https://nypost.com/2026/07/18/sports/bryson-dechambeau-trolls-everyone-one-day-after-british-open-saga/",
+          "title": "Truth Without Reconciliation",
+          "description": "On January 5, 2025, then president Joe Biden addressed reporters and reaffirmed his commitment to a peaceful transfer of power amid the wait for election results, nearly four years to the day after the infamous attempted coup of January 6. “I think what [Trump] did was a genuine threat to democracy,” Biden said, “and I’m...",
+          "url": "https://independent.ng/truth-without-reconciliation/",
           "source": {
-            "name": "New York Post"
+            "name": "Independent Newspaper Nigeria"
           },
-          "publishedAt": "2026-07-19T01:16:00Z",
-          "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-m27ueyliq-1784422688064.jpg?quality=75&strip=all&1784408298&w=1200",
+          "publishedAt": "2026-07-19T03:53:52Z",
+          "image": "https://independent.ng/wp-content/uploads/2026/07/1-116.png",
           "language": "en"
         },
         {
-          "title": "Susie Bradley Todd Carney relationship: MAFS bride confirms split from NRL Star",
-          "description": "Married At First Sight’s Susie Bradley, wife of NRL star Todd Carney, has confirmed her split from the former Cronulla Sharks player.",
-          "url": "https://www.nine.com.au/entertainment/celebrity/susie-bradley-confirms-split-todd-carney-two-years-marriage-20260719-p60gk3.html",
+          "title": "iQoo tablet with new Snapdragon chipset tipped to debut alongside iQoo 16",
+          "description": "A new iQoo device has appeared in China's SRRC database. According to tipster Digital Chat Station, the device may launch as iQoo's first \"mini\" tablet. It is also tipped to feature a next-generation flagship Snapdragon chipset and launch alongside the iQoo 16.",
+          "url": "https://www.notebookcheck.net/iQoo-tablet-with-new-Snapdragon-chipset-tipped-to-debut-alongside-iQoo-16.1346161.0.html",
           "source": {
-            "name": "Nine.com.au"
+            "name": "Notebookcheck"
           },
-          "publishedAt": "2026-07-19T01:15:37Z",
-          "image": "https://static.ffx.io/images/$zoom_0.6621%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_88/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/cc5d3a362b98254266c1d286643c0e326461d081",
+          "publishedAt": "2026-07-19T03:51:00Z",
+          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/iqoo-mini-tablet.png",
           "language": "en"
         },
         {
-          "title": "Shizuoka, JR Tokai sign pact to start maglev construction",
-          "description": "The completion of the Shizuoka section of the line is expected to take over 10 years.",
-          "url": "https://www.japantimes.co.jp/news/2026/07/19/japan/shizuoka-jr-tokai-sign-maglev-pact/",
+          "title": "Shocking Revelations Out of West Antarctica",
+          "description": "It’s mid-winter but a large area of West Antarctica that should be frozen solid is not frozen. What’s up? Antarctica is the coldest spot on the planet where the…",
+          "url": "https://countercurrents.org/2026/07/shocking-revelations-out-of-west-antarctica/",
           "source": {
-            "name": "The Japan Times"
+            "name": "Countercurrents"
           },
-          "publishedAt": "2026-07-19T01:15:00Z",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/19/552399.jpg?v=3.1",
+          "publishedAt": "2026-07-19T03:50:59Z",
+          "image": "https://cdn.countercurrents.org/2026/07/antarctica.jpg",
           "language": "en"
         },
         {
-          "title": "Grace Kelly’s granddaughter Camille Gottlieb shines at the Monaco Gala",
-          "description": "Grace Kelly’s granddaughter Camille Gottlieb shines in yellow at the Monaco Red Cross Gala alongside Prince Albert and Princess Charlene in Monte Carlo.",
-          "url": "https://www.hola.com/us/royals/20260719913620/grace-kelly-granddaughter-camille-gottlieb-monaco-gala/",
+          "title": "IDAC under scrutiny: Ombudsman to address media on corruption allegations",
+          "description": "Retired Judge Takalani Raulinga, the newly appointed Ombudsman for the Independent Directorate Against Corruption (IDAC), will address media on Sunday regarding the agency's ongoing controversies and allegations of misconduct.",
+          "url": "https://iol.co.za/news/south-africa/2026-07-19-idac-under-scrutiny-ombudsman-to-address-media-on-corruption-allegations/",
           "source": {
-            "name": "HOLA"
+            "name": "IOL"
           },
-          "publishedAt": "2026-07-19T01:14:00Z",
-          "image": "https://www.hola.com/us/horizon/landscape/978717500a67-gettyimages-2286667000.jpg?im=Resize=(1200)",
+          "publishedAt": "2026-07-19T03:50:00Z",
+          "image": "https://iol-prod.appspot.com/image/4f95fcf8427d7b2fe91f36b6926aeabfe2b3b34d/1000/jpeg",
           "language": "en"
         },
         {
-          "title": "National promises stricter rules on sexual consent",
-          "description": "Justice spokesperson Paul Goldsmith says there must be a \"yes\" rather than the absence of a \"no\".",
-          "url": "https://www.1news.co.nz/2026/07/19/national-promises-stricter-rules-on-sexual-consent/",
+          "title": "Kumawood Actor Kwadwo Kwakye Obuobi Dies After Kidney Failure Battle",
+          "description": "Kumawood mourned the loss of veteran actor and filmmaker Kwadwo Kwakye Obuobi, who passed away on 18 July 2026 after battling kidney failure, amid industry support.",
+          "url": "https://yen.com.gh/entertainment/celebrities/308190-kumawood-actor-kwadwo-kwakye-obuobi-dies-kidney-failure-battle/",
           "source": {
-            "name": "1News"
+            "name": "Yen News"
           },
-          "publishedAt": "2026-07-19T01:11:49Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/justice-spokesperson-paul-goldsmith-made-the-announcement-to-T3TXPWUW7RBTRNAU2Q6G566HZQ.jpg?auth=f8868980567e6e13d8c75484fa1f3f57bd23f4cfb019f239fb6b7442efee8f8a&quality=70&width=600&height=315&focal=960%2C540",
+          "publishedAt": "2026-07-19T03:48:13Z",
+          "image": "https://cdn.yen.com.gh/images/1200x675/ea36242ada10a993.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "Why the World Cup half-time show may be a taste of things to come",
-          "description": "The 2026 World Cup's spectacle is creating debate about the place of music in sport - and how it could infiltrate other tournaments.",
-          "url": "https://www.bbc.com/news/articles/cwyr498vqqpo",
+          "title": "World Cup: England beat France 6-4 as Saka makes history with hat-trick",
+          "description": "The third-place match produced so many goals as well as so many records",
+          "url": "https://www.premiumtimesng.com/news/top-news/896434-world-cup-england-beat-france-6-4-as-saka-makes-history-with-hat-trick.html",
           "source": {
-            "name": "BBC"
+            "name": "Premium Times Nigeria"
           },
-          "publishedAt": "2026-07-19T01:11:23Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/85ef/live/7c99f4a0-81ee-11f1-926f-c90d1bcfbc84.png",
+          "publishedAt": "2026-07-19T03:47:14Z",
+          "image": "https://media.premiumtimesng.com/wp-content/files/2026/07/HNi5MIjXQAAPcNJ-e1784432615238.jpg",
           "language": "en"
         },
         {
-          "title": "Shane Bieber leads Blue Jays to shutout win over White Sox",
-          "description": "TORONTO -- When your franchise unveils its first player statue outside the stadium and celebrates its two World Series teams in a sprawling pregame ceremony, you’d better find a way to win the game that follows.\nThe Blue Jays did just that, beating the White Sox, 1-0, in front of",
-          "url": "https://www.mlb.com/news/shane-bieber-leads-blue-jays-to-shutout-win-over-white-sox",
+          "title": "PNP probes online activities in pro-Marcos vlogger's slay",
+          "description": "The PNP on Sunday ordered a full investigation into the fatal shooting of a female vlogger supporting President Ferdinand Marcos Jr. in Caloocan City.",
+          "url": "https://newsinfo.inquirer.net/2266216/pnp-probes-online-activities-in-pro-marcos-vloggers-slay",
           "source": {
-            "name": "MLB.com"
+            "name": "Inquirer.net"
           },
-          "publishedAt": "2026-07-19T01:11:22Z",
-          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1784419551/mlb/iwti7ks1ewklzbpelmxq.jpg",
+          "publishedAt": "2026-07-19T03:46:00Z",
+          "image": "https://newsinfo.inquirer.net/files/2022/09/Caloocan.jpg",
           "language": "en"
         },
         {
-          "title": "Beyond Tiki-Taka: The tactical evolution that has Spain one win from FIFA World Cup glory",
-          "description": "Football News: A month ago, when the World Cup got underway, Spain were among the favourites, though barely anyone was talking about them. Most of the pre-tournament.",
-          "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/beyond-tiki-taka-the-tactical-evolution-that-has-spain-one-win-from-fifa-world-cup-glory/articleshow/132488893.cms",
+          "title": "3 'jumper boys' arrested after viral Tondo truck cargo attempt",
+          "description": "Three suspected “jumper boys” are now in police custody after a video showing them attempting to open a truck’s cargo while stuck in traffic in Tondo went...",
+          "url": "https://mb.com.ph/2026/07/19/3-jumper-boys-arrested-after-viral-tondo-truck-cargo-attempt",
           "source": {
-            "name": "The Times of India"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-07-19T01:11:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-132488926,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-07-19T03:45:52Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/19/117195.webp",
           "language": "en"
         }
       ]
