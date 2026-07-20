@@ -1,10 +1,54 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-20T14:07:45.147Z",
+  "updatedAt": "2026-07-20T16:24:16.884Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "渦中の県議会議長がアメリカ出張から帰国 匿名議員の“支払い証言”に「いちいちコメントしない」 県議会金銭授受疑惑 【福岡発】",
+          "description": "福岡県議会の正･副議長ポストを巡る金銭授受疑惑で、アメリカに出張中だった福岡県議会議長が7月17日に帰国し、テレビ西日本報道部の単独インタビューに応じた。",
+          "url": "https://news.yahoo.co.jp/articles/daece12b115386bf7101fa7f9a70b775e5383495",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-20T04:23:18Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260720-01178312-fnnprimev-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "「Call of Duty: Modern Warfare 4」“キルブロック”モードの本格的なゲームプレイ映像が解禁",
+          "description": "「doope!」は、国内外の様々なゲームニュースをお届けする情報サイトです。",
+          "url": "https://doope.jp/2026/07168776.html",
+          "source": {
+            "name": "doope!"
+          },
+          "publishedAt": "2026-07-20T04:05:18Z",
+          "image": "https://doope.jp/wp-content/uploads/2016/06/cropped-fav-32x32.png",
+          "language": "ja"
+        },
+        {
+          "title": "青山テルマ、第1子男児出産を報告 感謝の言葉を添え「We love you!!」",
+          "description": "ニュース｜　歌手の青山テルマ（38）が20日、自身のインスタグラムを更新し、第1子となる男児を出産したことを報告した。　青山は「先日、午年の元気な息子を出産致しました」と報告。「ここまで来るのにさまざまな冒険がありました」と振り返り、「感謝したい人はもちろん沢山居ますが、まずは旦那よ～!!」と夫への感謝をつづった。",
+          "url": "https://www.oricon.co.jp/news/2468925/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-07-20T03:04:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2469000/2468925/20260312_135004_p_o_23514073.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "米軍のイラン攻撃続く イランの攻撃で米兵の死者増える",
+          "description": "アメリカ中央軍は19日、米東部時間同日午後7時に、「9夜連続でイランへの攻撃を開始した」と発表した。同軍はこれに先立ち、イラク北部で18日に米兵1人が死亡したと発表。前日には、17日にヨルダンの基地がイランに弾道ミサイルやドローンなどで攻撃され、米兵2人が死亡、1人が行方不明になったと発表していた。",
+          "url": "https://www.bbc.com/japanese/articles/cre4z3gzereo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-07-20T02:40:29Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg",
+          "language": "ja"
+        },
         {
           "title": "準Vアルゼンチン代表は裏口からスタジアムを去る…4年前とは対照的な“沈黙の取材拒否”",
           "description": "北中米W杯決勝でスペインに敗れ、連覇を逃したアルゼンチン代表の選手たちは試合後、大会規定に定められている取材対応を行わず、全員が裏口を通ってスタジアムを後にした。トロフィーを手に歓喜に沸いていた4...",
@@ -70,161 +114,117 @@
           "publishedAt": "2026-07-20T00:00:00Z",
           "image": "https://magazine.fany.lol/wp-content/uploads/2026/07/7966bae78213db11914ad7af893f8431-10.png",
           "language": "ja"
-        },
-        {
-          "title": "「混沌の神」アポフィス、地球最接近まで1000日切る 肉眼で観測可能な小惑星",
-          "description": "混沌を象徴する古代エジプトの蛇神の名を冠した地球近傍小惑星「アポフィス（99942 Apophis）」が、観測史上最も地球に接近する大型小惑星となるまであと1000日を切った。2029年4月13日、",
-          "url": "https://news.yahoo.co.jp/articles/165fd6ce03fe41a25e4a2b93e605ab48cdc2495b",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-19T23:00:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260720-00101222-forbes-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "Xbox、既存ディスクをデジタルソフト化できるプロジェクトをリリース間近。",
-          "description": "なにごとにも、過渡期はあるもので。今月初め、PlayStationが2028年からディスク式のソフトを廃止すると発表しました。その途端、ゲーマーからは厳しい批判の声が噴出。もちろん、みんながみんな「世界の終わりだ！」と絶望したわけではありま",
-          "url": "https://www.gizmodo.jp/article/xbox-might-have-way-to-win-over-playstation-fans-as-sony-ditches-discs/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-07-19T23:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/07/18/fcd0c30a-4d3c-469b-a9c4-831e486f4e0e/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "Siri AI、あんまり長話を続けると「休憩しようよ」的なメッセージを出すらしい",
-          "description": "Apple（アップル）は年内にも、一部のiPhoneやiPad、Macなどの最新デバイス向けに“高性能なAIアシスタント”と謳うSiri AI（ベータ版）を展開する予定です。このSiri AIについてAppleは、Apple Intelli",
-          "url": "https://www.gizmodo.jp/article/siri-ai-prompts-breaks-when-you-talk-too-long/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-07-19T22:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/07/05/43216c57-28f2-4ece-b6d3-d345580883ec/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "米軍、イランとの戦闘で2日連続の死者 高まる大規模報復のリスク",
-          "description": "【ワシントン=飛田臨太郎】米中央軍は19日、イランとの戦闘で18日に米兵1人が死亡したと発表した。米兵の死者は2日連続となる。米軍が大規模な報復措置に出るリスクが高まっている。米中央軍によると、イラク北部で、イランが発射したドローン（無人機）を撃墜した際、残った爆発物を処理した米兵が戦死した。別の兵士1人も負傷した。17日にもヨルダンでイランからのミサイルやドローンを迎撃する中で米兵2人が死亡",
-          "url": "https://www.nikkei.com/article/DGXZQOGN192HO0Z10C26A7000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-07-19T20:06:41Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3332114019072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.52&fp-y=0.42&h=630&w=1200&s=9c8d8eb397ca74c8584b766a98152413",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "‘Growing disquiet’ over BHP’s decarbonisation walk back",
-          "description": "BHP has significantly walked back its commitment to decarbonisation and, the reality is, there are significant risks to this strategy for investors.",
-          "url": "https://www.accr.org.au/news/%E2%80%98growing-disquiet%E2%80%99-over-bhp%E2%80%99s-decarbonisation-walk-back/",
+          "title": "Andy Burnham to become PM as Keir Starmer prepares to leave No 10",
+          "description": "The Makerfield MP was confirmed as Labour Party leader on Friday after the resignation of Keir Starmer last month.",
+          "url": "https://www.bbc.co.uk/news/live/cgrkv8e8l9qt",
           "source": {
-            "name": "ACCR"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-20T02:06:59Z",
-          "image": "https://www.accr.org.au/downloads/rust_8.jpg",
+          "publishedAt": "2026-07-20T04:23:59Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd11/live/37b9fd60-83f8-11f1-bafe-f33e3a49b027.jpg",
           "language": "en"
         },
         {
-          "title": "Dim sum and bubble tea at 3am: football fans pack Hong Kong malls for World Cup final",
-          "description": "‘A lot of people are here for both teams. It feels like a stadium – it’s better to be here,’ football fan Shannon Dias says.",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3361141/dim-sum-and-bubble-tea-3am-football-fans-pack-hong-kong-malls-world-cup-final",
+          "title": "Huawei Mate XT 2 render shows what real U-shape design looks like",
+          "description": "Huawei Mate XT 2 design rumors are constantly gaining traction, and a new render reveals what the real U-shaped appearance might look like. T",
+          "url": "https://www.huaweicentral.com/huawei-mate-xt-2-render-shows-u-shape-design/",
           "source": {
-            "name": "South China Morning Post"
+            "name": "Huawei Central"
           },
-          "publishedAt": "2026-07-20T02:04:54Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/20/795585c4-e2ee-47b3-b7f0-1ba2875ce797_d0f061dd.jpg?itok=k-kjJhGb&v=1784513090",
+          "publishedAt": "2026-07-20T04:22:20Z",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/MateXT2-render.jpg",
           "language": "en"
         },
         {
-          "title": "NYT Strands hints, answers for July 20, 2026",
-          "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
-          "url": "https://mashable.com/entertainment/strands-nyt-hint-july-20-2026",
+          "title": "Labor MP Mark Dreyfus shares experiences of antisemitism with royal commission",
+          "description": "Former attorney-general Mark Dreyfus has pushed for more robust social media moderation and protest laws at the Royal Commission on Antisemitism and Social Cohesion.",
+          "url": "https://www.abc.net.au/news/2026-07-20/mark-dreyfus-gives-evidence-antisemitism-royal-commission/106935698",
           "source": {
-            "name": "Mashable"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-07-20T02:03:47Z",
-          "image": "https://helios-i.mashable.com/imagery/articles/07kyCveo3GX2edUwfUR0cB9/hero-image.fill.size_1200x675.v1784304675.jpg",
+          "publishedAt": "2026-07-20T04:21:53Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/6e25cea2d3a2af0f702588e9590febc2?impolicy=wcms_watermark_news&cropH=2968&cropW=5277&xPos=0&yPos=1&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Vertu wants executives to pay $6,880 for an AI agent - here’s how it actually performs",
-          "description": "Newsletter platform Beehiiv is expanding into new avenues of engagement by launching a feature called Community, which lets subscribers of a...",
-          "url": "http://www.businessghana.com/site/news/Technology/352360/Vertu-wants-executives-to-pay-$6,880-for-an-AI-agent-%E2%80%94-here%E2%80%99s-how-it-actually-performs",
+          "title": "Malaysia’s exports surge 45% in June on electronics, petroleum shipments",
+          "description": "Malaysia’s exports accelerated further in June as shipments of electronics and petroleum defied geopolitical tensions in the Middle East.",
+          "url": "https://theedgemalaysia.com/node/811302",
           "source": {
-            "name": "BusinessGhana"
+            "name": "The Edge Malaysia"
           },
-          "publishedAt": "2026-07-20T02:03:30Z",
-          "image": "http://www.businessghana.com/site/img/../../cms/img/news/2026-07-19-174938000.jpg",
+          "publishedAt": "2026-07-20T04:19:44Z",
+          "image": "https://assets.theedgemarkets.com/20230321_INF_PELABUHAN_TANJUNG_PELEAS_(PTP_PORT)_ZHD_4412_20260720122255_theedgemalaysia.jpg",
           "language": "en"
         },
         {
-          "title": "Barnaby Joyce backs plan but says One Nation does not want White Australia policy return",
-          "description": "Barnaby Joyce has backed party leader Pauline Hanson’s call for mass deportations from Australia, suggesting illegal immigrants could be targeted when they seek medical treatment.",
-          "url": "https://www.smh.com.au/politics/federal/joyce-backs-hanson-on-mass-deportations-denies-one-nation-wants-return-of-white-australia-policy-20260720-p60goy.html",
+          "title": "Rodri wins Golden Ball, Kylian Mbappe claims Golden Boot as FIFA announces 2026 World Cup awards",
+          "description": "Spain’s dominance extended beyond the World Cup trophy, with Rodri headlining the tournament’s official award winners. France's Kylian Mbappe took home the Golden Boot after scoring 10 goals, while Unai Simon and Pau Cubarsi earned individual honors as nearly 6.9 million fans attended the expanded 104-match competition across North America.",
+          "url": "https://www.goal.com/en-sa/lists/rodri-wins-golden-ball-kylian-mbappe-claims-golden-boot-as-fifa-announces-2026-world-cup-awards/blt4e6ee529fa2610b8",
           "source": {
-            "name": "SMH.com.au"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-07-20T02:02:23Z",
-          "image": "https://static.ffx.io/images/$zoom_0.236%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_56/t_crop_custom/q_86%2Cf_auto/fcb3244c75f6e356aae68d226ab69bc22406222a",
+          "publishedAt": "2026-07-20T04:18:51Z",
+          "image": "https://assets.goal.com/images/v3/getty-2286821868/crop/MM5DKMBQGQ5DEOBRGU5G433XMU5DAORSGYYQ====/GettyImages-2286821868.jpg",
           "language": "en"
         },
         {
-          "title": "NCCE Director urges learners to commit to the fight against corruption",
-          "description": "Mr Ernest Amedior, Hohoe Municipal Director, National Commission for Civic Education (NCCE) has called on learners to resist, reject and report...",
-          "url": "http://www.businessghana.com/site/news/General/352287/NCCE-Director-urges-learners-to-commit-to-the-fight-against-corruption",
+          "title": "Strands NYT Hints, Spangram, and Answer for Today, July 20, 2026",
+          "description": "If you’re looking for hints and answers for Monday, July 20, 2026 with the theme “Small talk,” read on.",
+          "url": "https://lifehacker.com/entertainment/strands-nyt-hint-today-small-talk-july-20-2026",
           "source": {
-            "name": "BusinessGhana"
+            "name": "Lifehacker"
           },
-          "publishedAt": "2026-07-20T02:01:44Z",
-          "image": "http://www.businessghana.com/site/img/../../cms/img/news/2026-07-17-140223000.jpg",
+          "publishedAt": "2026-07-20T04:18:45Z",
+          "image": "https://lifehacker.com/imagery/articles/01KXR35H14X0FE75TP8Y12TMZ0/hero-image.fill.size_1200x675.jpg",
           "language": "en"
         },
         {
-          "title": "‘House of the Dragon’ Season 3, Episode 5 Recap: Under Pressure",
-          "description": "Queen Rhaenrya is beginning to sound a little paranoid. That rarely bodes well with an autocrat.",
-          "url": "https://www.nytimes.com/2026/07/19/arts/television/house-of-the-dragon-recap-season-3-episode-5.html",
+          "title": "Bird flu in New Zealand: Woolworths reassures shoppers on egg supply",
+          "description": "Woolworths is urging customers to shop normally as egg and poultry supply chains remain stable. It comes as New Zealand’s largest egg supplier Mainland...",
+          "url": "https://www.nzherald.co.nz/business/bird-flu-in-new-zealand-woolworths-reassures-shoppers-on-egg-supply/SDRIISLH7ZGCZATIYV64JZXABA/",
           "source": {
-            "name": "The New York Times"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-07-20T02:00:05Z",
-          "image": "https://static01.nyt.com/images/2026/07/19/arts/19cul-dragon-recap/19cul-dragon-recap-facebookJumbo.jpg",
+          "publishedAt": "2026-07-20T04:18:31Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/LCIJD7SEIHUN2CR5UM7CLH45K4.jpg?auth=2004d00985455ed90802bcc53bf5e9f182301b4c01c8a45b8bca4e5d53889750&width=1200&height=675&quality=70&focal=1057%2C917&smart=false",
           "language": "en"
         },
         {
-          "title": "Baronice Hans appointed CEO of Lady Pohamba Private Hospital",
-          "description": "THE Lady Pohamba Private Hospital (LPPH) has announced the appointment of Baronice Hans as its new Chief Executive Officer, effective...",
-          "url": "https://informante.web.na/?p=397846",
+          "title": "South Korean traders' leveraged bets unravel",
+          "description": "South Korean retail investors suffer heavy losses after Samsung and SK Hynix shares reverse sharply.",
+          "url": "https://www.cnbc.com/2026/07/20/give-me-my-money-back-south-korean-traders-leveraged-bets-unravel.html",
           "source": {
-            "name": "Informanté"
+            "name": "CNBC"
           },
-          "publishedAt": "2026-07-20T02:00:00Z",
-          "image": "https://informante.web.na/wp-content/uploads/2026/07/Baronice-Hans-takes-helm-at-Lady-Pohamba-Hospital-Informante-Image-workspace-1024x677.jpg",
+          "publishedAt": "2026-07-20T04:18:05Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108304939-1778505131249-gettyimages-2275069095-jung-southkor260511_npDS9.jpeg?v=1778505157&w=1920&h=1080",
           "language": "en"
         },
         {
-          "title": "From bread to fuel: How Kenyans are quietly swindled",
-          "description": "Manufacturers, retailers, restaurants and service providers are cutting quantities or lowering quality of products.",
-          "url": "https://www.the-star.co.ke/news/2026-07-20-from-bread-to-fuel-how-you-are-quietly-swindled",
+          "title": "Man admits to making 'menacing' phone call to Age journalist Nick McKenzie",
+          "description": "David Scholes, 32, has been ordered to complete an anger management course after he was caught making a \"menacing\" phone call to award-winning journalist Nick McKenzie.",
+          "url": "https://www.abc.net.au/news/2026-07-20/man-admits-to-making-menacing-phone-call-to-nick-mckenzie/106936206",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-07-20T02:00:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/07/9363b4ea-13f5-41cf-8923-11df06e8ad81.webp?1784515246657",
+          "publishedAt": "2026-07-20T04:17:56Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/95505599d4df710cc9b653add4ff1e3a?impolicy=wcms_watermark_news&cropH=563&cropW=1000&xPos=0&yPos=29&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Ewan Mitchell helps Aemond show his true colors in 'House of the Dragon'",
-          "description": "The British actor, who plays Aemond Targaryen in HBO's \"House of the Dragon,\" spoke in depth about Season 3, Episode 5, which examines his relationship with Alys Rivers.",
-          "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-07-19/ewan-mitchell-aemond-targaryen-house-of-the-dragon-season-3-episode-5",
+          "title": "Edmund Chen's jail term cut to one day",
+          "description": "Former actor Edmund Chen's jail sentence for a traffic accident that injured a motorcyclist has been reduced from five days to one day by the High Court. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/singapore/courts-crime/ex-actor-edmund-chens-jail-term-over-accident-that-injured-motorcyclist-cut-from-5-days-to-1-day",
           "source": {
-            "name": "Los Angeles Times"
+            "name": "The Straits Times"
           },
-          "publishedAt": "2026-07-20T02:00:00Z",
-          "image": "https://ca-times.brightspotcdn.com/dims4/default/fc4f748/2147483647/strip/true/crop/8256x4334+0+585/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F94%2F81%2Fa1180ec741e1ae6519b5d37f0ea6%2F1562775-et-ewan-mitchell-jennifermccord-145.jpg",
+          "publishedAt": "2026-07-20T04:17:40Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/651989c9d4e0d0fb4ea04dee653f822cd586309aa2de8dad39f3634a6fe4b532",
           "language": "en"
         }
       ]
