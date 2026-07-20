@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-20T19:44:31.571Z",
+  "updatedAt": "2026-07-20T22:00:16.593Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "マイナ保険証9443万人、スマホ搭載は800万人 「紙」は7月末終了",
+          "description": "健康保険証が8月からマイナンバーカードと一体化したマイナ保険証に完全に切り替わる。スマートフォンに搭載して使う人も800万人と浸透しつつある。飲み合わせの悪い薬の処方を防ぎやすいなど、紙の保険証にはない利点がある。紙などの従来型の保険証は2025年12月1日に有効期限を迎えた。厚生労働省は期限が切れた保険証でも、受診時に示せば公的保険を適用する暫定措置を続けていた。マイナ保険証への移行に伴う混",
+          "url": "https://www.nikkei.com/article/DGXZQOUA142NA0U6A710C2000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-07-20T09:00:00Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3329614017072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=cd0e58d23a3bbb7b78c19e7d5e1de872",
+          "language": "ja"
+        },
+        {
+          "title": "ブラックホールが“燃料切れ”しない理由が明らかになってきた",
+          "description": "ブラックホールは強力なエネルギージェットを噴出するが、周囲のガスを遠くへ吹き飛ばす。それなら“燃料切れ”を起こすはずなのに、なぜ成長し続けられるのか──。最新の観測結果により、その謎の答えが見えてきた。",
+          "url": "https://wired.jp/article/black-hole-cosmic-recycling-jwst/",
+          "source": {
+            "name": "WIRED.jp"
+          },
+          "publishedAt": "2026-07-20T09:00:00Z",
+          "image": "https://media.wired.jp/photos/6a5ac5bf658452487c79d98b/16:9/w_1280,c_limit/ngc4696_optical.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "完全オフラインAI文字起こしソフト「サクッと動画＆音声AI文字起こし」が大幅バージョンアップ",
+          "description": "株式会社マグノリアのプレスリリース（2026年7月20日 17時50分）完全オフラインAI文字起こしソフト「サクッと動画＆音声AI文字起こし」が大幅バージョンアップ",
+          "url": "https://prtimes.jp/main/html/rd/p/000000007.000178187.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-07-20T08:50:29Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/178187/7/178187-7-ccec9460c8778b11dcd8c928b27a77cb-1000x1000.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
         {
           "title": "スペイン代表選手を蹴り倒し、パンチを浴びせる…アルゼンチン代表MFの暴走に批判の声「許される余地などない」",
           "description": "北中米W杯決勝後に乱闘騒ぎが起こった。　現地時間19日に開催されたスペイン代表とアルゼンチン代表による頂上決戦。試合は、スペインが立ち上がりから圧倒的にボールを支配しながらも、得点が生まれずに0-0...",
@@ -81,150 +114,117 @@
           "publishedAt": "2026-07-20T03:04:00Z",
           "image": "https://contents.oricon.co.jp/upimg/news/2469000/2468925/20260312_135004_p_o_23514073.jpg",
           "language": "ja"
-        },
-        {
-          "title": "米軍のイラン攻撃続く イランの攻撃で米兵の死者増える",
-          "description": "アメリカ中央軍は19日、米東部時間同日午後7時に、「9夜連続でイランへの攻撃を開始した」と発表した。同軍はこれに先立ち、イラク北部で18日に米兵1人が死亡したと発表。前日には、17日にヨルダンの基地がイランに弾道ミサイルやドローンなどで攻撃され、米兵2人が死亡、1人が行方不明になったと発表していた。",
-          "url": "https://www.bbc.com/japanese/articles/cre4z3gzereo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-07-20T02:40:29Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "準Vアルゼンチン代表は裏口からスタジアムを去る…4年前とは対照的な“沈黙の取材拒否”",
-          "description": "北中米W杯決勝でスペインに敗れ、連覇を逃したアルゼンチン代表の選手たちは試合後、大会規定に定められている取材対応を行わず、全員が裏口を通ってスタジアムを後にした。トロフィーを手に歓喜に沸いていた4...",
-          "url": "https://web.gekisaka.jp/news/worldcup/detail/?455642-455642-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-07-20T01:34:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455642/news_455642_1.jpg?time=20260720110226",
-          "language": "ja"
-        },
-        {
-          "title": "松下洸平、第1子誕生を報告「家族で力を合わせて歩んでいきたいと思います」 2025年7月に結婚を発表",
-          "description": "ニュース｜　俳優の松下洸平（39）が20日、自身のインスタグラムで第1子の誕生を報告した。　「盛夏の候、皆様におかれましては益々ご健勝のこととお慶び申し上げます。この度、第一子が誕生いたしました」と報告した。",
-          "url": "https://www.oricon.co.jp/news/2468919/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-07-20T01:32:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2469000/2468919/20260124_221608_p_o_52659444.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "A Breakthrough in Public Health, ETPharma",
-          "description": "Takeda's Qdenga becomes the first dengue vaccine approved in India, promising significant protection against all four dengue virus serotypes for all age groups. With plans to produce 100 million doses annually, this vaccine aims to combat dengue's increasing threat in India and beyond.",
-          "url": "https://pharma.economictimes.indiatimes.com/news/drug-approvals-and-launches/takeda-dengue-vaccine-qdenga-wins-marketing-approval-in-india/132509401",
+          "title": "Soldiers Arrest Sudanese Man, Ghanaian Woman",
+          "description": "Troops in Borno have arrested a Sudanese man suspected of terrorism and a Ghanaian woman, an illegal immigrant, in Askira/Uba LGA. Read more on the Borno a",
+          "url": "https://punchng.com/soldiers-arrest-sudanese-man-ghanaian-woman-in-borno-forest/",
           "source": {
-            "name": "ETPharma.com"
+            "name": "Punch Newspapers"
           },
-          "publishedAt": "2026-07-20T07:44:13Z",
-          "image": "https://etimg.etb2bimg.com/thumb/msid-132509401,imgsize-116648,width-1200,height=627,overlay-etpharma,resizemode-75/news/drug-approvals-and-launches/takeda-dengue-vaccine-qdenga-wins-marketing-approval-in-india.jpg",
+          "publishedAt": "2026-07-20T10:00:07Z",
+          "image": "https://punchng.com/wp-content/uploads/2026/07/324019_1784539738-1200x424.webp",
           "language": "en"
         },
         {
-          "title": "Electricity Authority halts server farm permits",
-          "description": "The Authority suspended the grant of permits for 140 days, after applications reached 27,000 megawatts.",
-          "url": "https://en.globes.co.il/en/article-electricity-authority-halts-server-farm-permits-1001549860",
+          "title": "NYT Connections Companion for July 21, 2026",
+          "description": "Scroll down for hints and conversation about the puzzle for Tuesday, July 21, 2026.",
+          "url": "https://www.nytimes.com/2026/07/20/crosswords/connections-companion-1136.html",
           "source": {
-            "name": "Globes - Israel Business News"
+            "name": "The New York Times"
           },
-          "publishedAt": "2026-07-20T07:43:14Z",
-          "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1783591667/direct/shutterstock_2766334669_e9ihnt.jpg",
+          "publishedAt": "2026-07-20T10:00:07Z",
+          "image": "https://static01.nyt.com/images/2026/07/20/crosswords/21connections-art-1224/21connections-art-1224-facebookJumbo.jpg",
           "language": "en"
         },
         {
-          "title": "\"Shangwe, le bal\": a dance project full of joy",
-          "description": "On a sweltering afternoon in the French city of Lyon, around 60 dancers fully ignored the heat to immerse themselves in a festive performance brought to them by Kenyan-American choreographer and dancer Wanjiru Kamuyu.",
-          "url": "https://www.africanews.com/2026/07/17/shangwe-le-bal-a-dance-project-full-of-joy/",
+          "title": "Second death reported in Legionnaires' disease outbreak in New York City",
+          "description": "A second person has died in connection with an outbreak of Legionnaires' disease in New York, the New York City Health Department announced Saturday.",
+          "url": "https://medicalxpress.com/news/2026-07-death-legionnaires-disease-outbreak-york-1.html",
           "source": {
-            "name": "africanews.com"
+            "name": "Medical Xpress"
           },
-          "publishedAt": "2026-07-20T07:41:52Z",
-          "image": "https://images.euronews.com/articles/stories/09/84/09/35/1024x538_cmsv2_cfad84bc-1163-5428-b785-5d5dc4fa7615-9840935.jpg",
+          "publishedAt": "2026-07-20T10:00:01Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/second-death-reported.jpg",
           "language": "en"
         },
         {
-          "title": "Two Palestinians arrested on suspicion of starting Gilad Farm fire in West Bank",
-          "description": "The fire damaged dozens of structures and vehicles and led to the injury of several people, including two firefighters.",
-          "url": "https://www.jpost.com/israel-news/crime-in-israel/article-903034",
+          "title": "Mapping how influenza virus rewires human host cells",
+          "description": "Researchers at EMBL Hamburg and collaborators at the Leibniz Research Institute for Molecular Pharmacology (FMP) have mapped how the influenza A virus rewires infected human cells in unprecedented detail.",
+          "url": "https://www.news-medical.net/news/20260720/Mapping-how-influenza-virus-rewires-human-host-cells.aspx",
           "source": {
-            "name": "The Jerusalem Post"
+            "name": "News-Medical"
           },
-          "publishedAt": "2026-07-20T07:41:47Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730578",
+          "publishedAt": "2026-07-20T10:00:00Z",
+          "image": "https://www.news-medical.net/image-handler/picture/2017/6/Anatomical_structure_of_biological_animal_cell_with_organelles-eranicle_1d73b50575dc4546875a4a2fc7d429a6-620x480.jpg",
           "language": "en"
         },
         {
-          "title": "Government allocates Sh17b to compensate landowners for infrastructure projects",
-          "description": "The government has allocated Sh17 billion to compensate landowners under the National Securitisation Programme that aims to unlock funding for infrastructure projects.",
-          "url": "https://www.standardmedia.co.ke/national/article/2001553264/government-allocates-sh17b-to-compensate-landowners-for-infrastructure-projects",
+          "title": "Albert Breer’s Biggest Storylines to Track as NFL Training Camps Get Underway",
+          "description": "From Aaron Donald’s status to Patrick Mahomes’s mobility to the next round of contract extensions, a preview of the buzz we’re expecting to hear.",
+          "url": "https://www.si.com/nfl/albert-breer-biggest-storylines-nfl-training-camp",
           "source": {
-            "name": "standardmedia.co.ke"
+            "name": "Sports Illustrated"
           },
-          "publishedAt": "2026-07-20T07:41:16Z",
-          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/DfXjajknty9fGyzPX8U5bHfU3R6MPA1VuTS1ioMl.jpg",
+          "publishedAt": "2026-07-20T10:00:00Z",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_5793,h_3258/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01kxymafanjskng3vd8d-a06371049f43cdab84e8d7f1fa653e7f.webp",
           "language": "en"
         },
         {
-          "title": "Dodoma RC orders timely Nanenane preparations",
-          "description": "DODOMA: DODOMA Regional Commissioner, Rosemary Senyamule has directed officials overseeing preparations for this year’s Nanenane Agricultural Exhibition to complete key infrastructure at the John Samuel Malecela Exhibition Grounds in Nzuguni on schedule to ensure the venue is ready to receive exhibitors and visitors. Ms Senyamule issued the directive after inspecting the exhibition grounds, stressing the …",
-          "url": "https://dailynews.co.tz/dodoma-rc-orders-timely-nanenane-preparations/",
+          "title": "The Pixel 11 Pro's LED lights are a brilliant Android throwback",
+          "description": "Google's finally teased the Pixel 11 Pro's new Pixel Glow feature. It reminds me a lot of old-school notification LEDs — in a good way.",
+          "url": "https://www.androidauthority.com/pixel-11-pro-pixel-glow-throwback-3688717/",
           "source": {
-            "name": "dailynews.co.tz"
+            "name": "Android Authority"
           },
-          "publishedAt": "2026-07-20T07:40:57Z",
-          "image": "https://dailynews.co.tz/wp-content/uploads/2022/09/DODOMA-REGIONAL-COMMISSIONER-RC-Rosemary-Senyamule.jpg",
+          "publishedAt": "2026-07-20T10:00:00Z",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/pixel-11-google-store-teaser.jpg",
           "language": "en"
         },
         {
-          "title": "HDFC Bank, PNB, RIL, L&T among buzzing stocks as SENSEX falls over 600 pts, NIFTY below 24,150",
-          "description": "Shares of Punjab National Bank (PNB) jumped 5.6% YoY to ₹111.68 per unit, as it posted a 213% rise in its standalone net profits at ₹5,253 crore in the first quarter of FY27, compared with ₹1,675 crore in the same period a year earlier.",
-          "url": "https://upstox.com/news/market-news/stocks/hdfc-bank-pnb-ril-l-and-t-among-buzzing-stocks-as-sensex-falls-over-600-pts-nifty-below-24-150/article-197203/",
+          "title": "The Odyssey Costumes Discard the Sword-and-Sandals Playbook",
+          "description": "“We were not after a historical period. We were after a timeless period,” says costume designer Ellen Mirojnick.",
+          "url": "https://www.vogue.com/article/the-odyssey-costumes-ellen-mirojnick-christopher-nolan",
           "source": {
-            "name": "Upstox"
+            "name": "Vogue"
           },
-          "publishedAt": "2026-07-20T07:40:45Z",
-          "image": "https://assets.upstox.com/content/assets/images/news/buzzing-stocks-july-20-converted-from-jpg.webp",
+          "publishedAt": "2026-07-20T10:00:00Z",
+          "image": "https://assets.vogue.com/photos/6a5a3aa8fa70ffbf80f34688/16:9/w_1280,c_limit/CT-54129_MSG.jpg",
           "language": "en"
         },
         {
-          "title": "Kenya showcases Affordable Housing financing model at UN urban development forum",
-          "description": "Kenya has showcased its efforts to finance sustainable urban development at a high-level United Nations meeting, highlighting progress made under the Affordable Housing Act, 2024.",
-          "url": "https://www.kbc.co.ke/kenya-showcases-affordable-housing-financing-model-at-un-urban-development-forum/",
+          "title": "An artificial 'Saturn's ring' of satellites could soon fill the sky, astronomers warn",
+          "description": "A bright Saturn's ring of satellites will encircle Earth if plans to launch a million orbiting data centers and tens of thousands of space mirrors will come to pass.",
+          "url": "https://www.yahoo.com/news/science/articles/artificial-saturns-ring-satellites-could-100000060.html",
           "source": {
-            "name": "KBC Digital"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-07-20T07:39:52Z",
-          "image": "https://www.kbc.co.ke/wp-content/uploads/2026/07/AMB-SUSAN-e1784532082736.jpg",
+          "publishedAt": "2026-07-20T10:00:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/57fa39634c6ea3be8384c485213c3f82e96a1dd7112e01c48854a6149bb3026c/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fspace_311%2F7fc702531c73194d0ce2b068a8227d3d",
           "language": "en"
         },
         {
-          "title": "'The Odyssey' makes history at global box office for Christopher Nolan",
-          "description": "Christopher Nolan’s adaptation of \"The Odyssey\" has secured a massive international debut, collecting $264m in global ticket sales during its opening weekend - representing the director's biggest international opening ever.",
-          "url": "https://www.euronews.com/culture/2026/07/20/the-odyssey-makes-history-at-global-box-office-for-christopher-nolan",
+          "title": "This $46 Million Toilet Startup Is Betting Smart Seats Can Be A Billion-Dollar Business",
+          "description": "Medical tech company Casana raised $46 million to launch a toilet seat that monitors your health. Their goal? Make sittables the next wearables.",
+          "url": "https://www.forbes.com/sites/alexyork/2026/07/20/this-46-million-toilet-startup-is-betting-smart-seats-can-be-a-billion-dollar-business/",
           "source": {
-            "name": "Euronews.com"
+            "name": "Forbes"
           },
-          "publishedAt": "2026-07-20T07:39:14Z",
-          "image": "https://images.euronews.com/articles/stories/09/84/39/58/1200x675_cmsv2_9bcda747-9242-55fb-b7f9-006ed6599eeb-9843958.jpg",
+          "publishedAt": "2026-07-20T10:00:00Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a5d3eb481bb3c99c4438ae5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
           "language": "en"
         },
         {
-          "title": "Auckland planning chair says proposed changes will remove density around local centres",
-          "description": "The chair of Auckland Council's planning committee Richard Hills says proposed changes to new intensification rules will remove density around local centres and focus it near frequent transport services.",
-          "url": "https://www.rnz.co.nz/news/politics/754405/auckland-planning-chair-says-proposed-changes-will-remove-density-around-local-centres",
+          "title": "Narrative Podcasts Have Found Their Niche...Can They Thrive There?",
+          "description": "Narrative podcasts face significant challenges despite their unique strengths. While video podcasting gains traction, proponents argue narrative audio serves a distinct, hands-free need, fostering unparalleled listener connection.",
+          "url": "https://www.forbes.com/sites/frankracioppi/2026/07/20/narrative-podcasts-have-found-their-nichecan-they-thrive-there/",
           "source": {
-            "name": "RNZ"
+            "name": "Forbes"
           },
-          "publishedAt": "2026-07-20T07:39:04Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--pjezlOjC--/t_tohu-badge-facebook/f_auto/q_auto/4K8SPLO_Image_7_jpg",
+          "publishedAt": "2026-07-20T10:00:00Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a4a8ac994cc7d09727e431a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
           "language": "en"
         }
       ]
