@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-21T08:30:41.024Z",
+  "updatedAt": "2026-07-21T11:09:28.381Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "子役が番組レギュラー SNS賛否",
+          "description": "永尾柚乃 　9歳の子役・永尾柚乃が、日本テレビ系『ヒルナンデス!』の木曜シーズンレギュラーに就任することが7月16日に発表された。出演期間は小学校の夏休みにあたる7月23日から8月27日までとなってお",
+          "url": "https://article.auone.jp/detail/1/5/9/100_9_r_20260721_1784588651414761",
+          "source": {
+            "name": "au Webポータル"
+          },
+          "publishedAt": "2026-07-20T23:08:52Z",
+          "image": "https://portal.st-img.jp/thumb/bfd62a1fd2c8a01ceb475444f59f5ba1_1784588651_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Tera Term の TTSSH2 プラグインに複数の脆弱性",
+          "description": "独立行政法人情報処理推進機構（IPA）および一般社団法人JPCERT コーディネーションセンター（JPCERT/CC）は7月16日、Tera TermのTTSSH2プラグインにおける複数の脆弱性について「Japan Vulnerability Notes（JVN）」で発表した。",
+          "url": "https://s.netsecurity.ne.jp/article/2026/07/21/55734.html",
+          "source": {
+            "name": "ScanNetSecurity"
+          },
+          "publishedAt": "2026-07-20T23:00:13Z",
+          "image": "https://scan.netsecurity.ne.jp/base/images/img_ogp.png",
+          "language": "ja"
+        },
+        {
+          "title": "２１日の東京株式市場見通し＝反発後はもみ合いか 速報",
+          "description": "予想レンジ：６万４５００円－６万５２００円（１７日終値６万４１４１円１２銭）　２１日の東京株式は反発後、もみ合いか。２０日の米国株式市場は、ＮＹダウとナスダック総合指数が３日続落したものの、日経平均・・・",
+          "url": "https://kabushiki.jp/news/758457",
+          "source": {
+            "name": "kabushiki.jp"
+          },
+          "publishedAt": "2026-07-20T22:48:00Z",
+          "image": "https://kabushiki.jp/ogp.png",
+          "language": "ja"
+        },
+        {
+          "title": "実写映画『カイジ 人生リベンジゲーム』新キャスト＆予告映像”が解禁",
+          "description": "実写映画『カイジ 人生リベンジゲーム』兵頭和也役は「亀梨和也」さんに決定！“新キャスト＆予告映像”が解禁",
+          "url": "https://news.denfaminicogamer.jp/news/260721b",
+          "source": {
+            "name": "電ファミニコゲーマー"
+          },
+          "publishedAt": "2026-07-20T21:54:00Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HNrpaPpaQAA03Em.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "愛子さま人気への恐れと“麻生太郎の野望”…皇室典範改正のドタバタ劇で“読売”が最後に激怒した法改正の核心（文春オンライン）",
+          "description": "新聞をチェックしていると面白い瞬間がある。あるテーマが、どんな順番でメディアに現れてくるのかを見ることだ。",
+          "url": "https://news.yahoo.co.jp/articles/7ffa1d3cefe0c353262ea7905d7b6b3a33f37ae1",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-20T21:12:16Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260721-00090486-bunshun-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "今日21日 東海や関東で危険な暑さ 40℃以上の酷暑日予想 熱中症に厳重警戒",
+          "description": "今日21日(火)は、九州から東北で、猛暑日(最高気温35℃以上)が続出するでしょう。予想最高気温は愛知県豊田市で41℃、名古屋市や岐阜県多治見市で40℃など、全国で今年初の酷暑日(最高気温40℃以上)になる所もありそうです。熱中症警戒アラートは、沖縄から東北にかけて、今年最多の42都府県に発表されています。昼夜問わず、最大限の熱中症対策を心がけてください。",
+          "url": "https://tenki.jp/forecaster/kubo_tomoko/2026/07/21/39797.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-20T21:07:54Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/397/39797/main/20260721054928/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【会見全文(6)】“1000万円要求の音声データ” の金銭授受疑惑 中尾正幸 副議長 “納得できる説明”問われ「科学的客観的証拠。そういうのは一切ありません」 一方で「納得して頂くしかない」とも",
+          "description": "■議長ポストめぐる現金授受の疑惑\n福岡県議会の正副議長ポストをめぐり現金の授受があったとされる疑惑。\n福岡県議会 元議長　吉松源昭 県議\n「人の弱みにつけこんだカツアゲ、あるいはみかじめ料的な要",
+          "url": "https://news.yahoo.co.jp/articles/91995b1f2502fed36793206dcd3d93a130ff431b",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-20T21:05:43Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260721-22814066-jnn-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "【独白】兵庫県告発文書問題・告発の元県民局長の死から2年 元同僚男性が語る実状 斎藤知事の対応は「幼児性の表れ」 「適切・適正・適法だった」と繰り返す知事に「行政の世界ではあり得ない」",
           "description": "兵庫県で告発文書問題の混乱が収まらない。文書を作成した元県民局長の死亡から2年、同僚だった男性が匿名で取材に応じた。元県民局長に対して「お悔やみの言葉」を繰り返す斎藤知事に、強い言葉で怒りをにじませ",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-07-20T13:39:04Z",
           "image": "https://www.sanspo.com/resizer/v2/6HEKSEFA3FJ2ZFLSWPMYKFFWUA.jpg?auth=88ae09a5f9ba664ce27dd713c090da19e511c9c6850136d4ec0e25daff9fd7d2&quality=50&focal=1080%2C391&width=1200&height=675",
           "language": "ja"
-        },
-        {
-          "title": "【超速報】『ダブルインパクト2026 漫才＆コント二刀流No.1決定戦』優勝は滝音!",
-          "description": "漫才とコント両方の頂点を決めるお笑い賞レース『アサヒビール スマドリ ダブルインパクト 2026 漫才＆コント二刀流No.1決定戦』の決勝が、7月20日（月・祝）19:00より日本テレビ系・読売テレビ系で放送され、王者が決定しました！ 優勝は滝音 ファイナリストの、ななまがり、蛙亭、ダンビラムーチョ、TCクラクション、今夜も星が綺麗、滝音、ドンデコルテ、ビスケットブラザーズの8組が戦いました。見事ファーストステージを勝ち上がった、滝音、ダンビラムーチョ、蛙亭、ビスケットブラザーズ、ドンデコルテの5組がファイナルステージで戦い、結果、滝音が記念すべき王者となりました！ おめでとうございま ...",
-          "url": "https://magazine.fany.lol/283307/",
-          "source": {
-            "name": "Fany Magazine"
-          },
-          "publishedAt": "2026-07-20T12:59:57Z",
-          "image": "https://magazine.fany.lol/wp-content/uploads/2026/07/999570f0f29c23cd5de2729d148b5686.png",
-          "language": "ja"
-        },
-        {
-          "title": "【ボクシング】増田陸が世界初戴冠 寺地拳四朗３階級制覇 岩田翔吉初防衛 トリプル世界戦／詳細",
-          "description": "WBC世界ライトフライ級王者の岩田翔吉（30＝帝拳）が“鬼門”の初防衛に成功した。同級1位で19戦全勝（8KO）の最強挑戦者エリク・バディージョ（30＝メキシ… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/battle/news/202607190002087.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-07-20T12:08:00Z",
-          "image": "https://www.nikkansports.com/battle/news/img/202607190002087-w500_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "相場展望 ７月２０日号 SOX指数が調整入り、スペースX公募割れ・中国AI新興企業も脅威",
-          "description": "米半導体株指数SOXが高値から2割超下落し調整局面入り。スペースX株も公募価格を割り込み、日経平均は連動安で6万4千円台に急落、先行き不透明感が強まっている。",
-          "url": "https://www.zaikei.co.jp/article/20260720/861948.html",
-          "source": {
-            "name": "財経新聞"
-          },
-          "publishedAt": "2026-07-20T12:03:32Z",
-          "image": "http://www.zaikei.co.jp/files/general/20260720210538sii0big.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【ボクシング】寺地拳四朗が涙の３階級制覇「日本初の３階級２団体王者になる」快挙後に宣言",
-          "description": "前WBA、WBC世界フライ級統一王者でWBO世界スーパーフライ級3位の寺地拳四朗（34＝BMB）が、日本人8人目となる快挙を達成した。同級4位のイスラエル・ゴ… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/battle/boxing/news/202607200000891.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-07-20T11:27:00Z",
-          "image": "https://www.nikkansports.com/battle/boxing/news/img/202607200000891-w500_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【ボクシング】寺地拳四朗、涙の世界３階級制覇！「もう泣きそう」日本人８人目の快挙 井上尚弥らが保持していたＷＢＯ世界スーパーフライ級王者に",
-          "description": "ＷＢＯ世界スーパーフライ級王座決定戦は、同級３位・寺地拳四朗（３４）＝ＢＭＢ＝が、同級４位イスラエル・ゴンサレス（２９）＝メキシコ＝を３－０の判定で破って新王者となり、世界３階級制覇を達成した。日本",
-          "url": "https://hochi.news/articles/20260720-OHT1T51323.html",
-          "source": {
-            "name": "スポーツ報知"
-          },
-          "publishedAt": "2026-07-20T11:25:00Z",
-          "image": "https://hochi.news/images/2026/07/20/20260720-OHT1I51528-C.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "甲子園逃した選抜準Vの智弁学園・小坂監督「杉本は限界だった」",
-          "description": "全国高校野球選手権の奈良大会で20日、今春のセンバツで準優勝した智弁学園が3回戦で奈良大付に6―9で敗れ、2年ぶりの夏の甲子園出場を逃した。【村上正】 　智弁学園の小坂将商監督の試合後のコメントは次の通り",
-          "url": "https://mainichi.jp/articles/20260720/k00/00m/050/124000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-07-20T11:04:52Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/07/20/20260720k0000m050127000p/0c10.jpg?1",
-          "language": "ja"
-        },
-        {
-          "title": "コンビニに車突っ込む 威嚇発砲の音声も 包丁男「部屋に火放った」 神奈川・相模原市",
-          "description": "深夜のコンビニ店に突っ込んだ車から現れたのは包丁を手にした男でした。直前には目の前のマンションで火災も発生です。■車から包丁男　威嚇発砲の音声近隣住民「ぶつかった時はドーンッていう感じだった。だから",
-          "url": "https://news.tv-asahi.co.jp/news_society/articles/000520475.html",
-          "source": {
-            "name": "テレ朝NEWS"
-          },
-          "publishedAt": "2026-07-20T10:24:11Z",
-          "image": "https://news.tv-asahi.co.jp/articles_img/000520475_1200.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Roaring Engines and Rubber Thrill Mark The Auto Show Weekend",
-          "description": "Kololo Independence Grounds came alive over the weekend as thousands of motorsport enthusiasts, families and adventure seekers flocked to the NCBA Auto Show for three days of speed, precision driving and automotive innovation. The annual motoring festival transformed the grounds into a spectacle of roaring engines and screeching tyres as professional drivers thrilled crowds with […]",
-          "url": "https://softpower.ug/roaring-engines-and-rubber-thrill-mark-the-auto-show-weekend/",
+          "title": "Why is my TNB electricity bill suddenly high? The AFA fuel surcharge explained",
+          "description": "KUALA LUMPUR, July 21 — If your June electricity bill looks higher than usual, you’re not alone.Many Malaysians are noticing a bigger Automatic Fuel Adjustment (AFA) or fuel...",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/21/why-is-my-tnb-electricity-bill-suddenly-high-the-afa-fuel-surcharge-explained/227856",
           "source": {
-            "name": "SoftPower News"
+            "name": "Malay Mail"
           },
-          "publishedAt": "2026-07-20T20:30:26Z",
-          "image": "https://softpower.ug/wp-content/uploads/2026/07/BP9A5197.jpg-scaled.jpeg",
+          "publishedAt": "2026-07-20T23:04:38Z",
+          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/20/352233.jpg",
           "language": "en"
         },
         {
-          "title": "Researchers Probe GLP-1 Insurance Coverage Barriers",
-          "description": "Despite growing evidence that GLP-1 medications improve health and are worth their cost, many insurance plans still limit coverage. University of",
-          "url": "https://www.miragenews.com/researchers-probe-glp-1-insurance-coverage-1713102/",
+          "title": "Pensioners drag NSSA to court over 'peanuts' payouts",
+          "description": "A group of pensioners has taken the National Social Security Authority (NSSA) to the High Court, accusing the pension body of violating their constitutional rights by paying what they describe as “grossly inadequate” pensions. The applicants, led by Gideon Shoko, are seeking a court order compelling NSSA to urgently review pension payouts to levels they […]",
+          "url": "https://www.newzimbabwe.com/pensioners-drag-nssa-to-court-over-peanuts-payouts/",
           "source": {
-            "name": "Mirage News"
+            "name": "NewZimbabwe.com"
           },
-          "publishedAt": "2026-07-20T20:30:00Z",
-          "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1588600878108-578307a3cc9d%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D755%26amp%3Bq%3D80",
+          "publishedAt": "2026-07-20T23:04:30Z",
+          "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2024/01/03053310/nssa.jpeg",
           "language": "en"
         },
         {
-          "title": "This Period-Tracking App Actually Keeps Your Data Private",
-          "description": "Most period tracking apps keep your data on a company's servers and some share data with advertisers. Euki does not, and it even aced a recent privacy audit.",
-          "url": "https://lifehacker.com/health/euki-period-tracking-app",
+          "title": "Trump imposes 50% tariffs on Canadian goods in response to ‘continued discrimination’",
+          "description": "The White House said the tariffs would go into effect in 30 days",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-tariffs-canada-trade-carney-b3018482.html",
           "source": {
-            "name": "Lifehacker"
+            "name": "The Independent"
           },
-          "publishedAt": "2026-07-20T20:30:00Z",
-          "image": "https://lifehacker.com/imagery/articles/01KY0H0T3ZA0BZDA90MT598Y5P/hero-image.fill.size_1200x675.webp",
+          "publishedAt": "2026-07-20T23:04:00Z",
+          "image": "https://static.independent.co.uk/2026/07/20/02/2286821260..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
           "language": "en"
         },
         {
-          "title": "This Period-Tracking App Actually Keeps Your Data Private",
-          "description": "Euki stores its data locally on your phone, with no account needed.",
-          "url": "https://au.lifehacker.com/fitness/119127/this-period-tracking-app-actually-keeps-your-data-private",
+          "title": "Tehran won’t be moved by US strikes as war enters limbo phase: Analysts",
+          "description": "Iran’s government is unlikely to feel significant impact or soften its negotiating position as a result of new US military strikes, according to a new...",
+          "url": "https://www.nzherald.co.nz/world/tehran-wont-be-moved-by-us-strikes-as-war-enters-limbo-phase-analysts/RQFDS6TNWFB6BJWVW4N3OUPZHM/",
           "source": {
-            "name": "Lifehacker"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-07-20T20:30:00Z",
-          "image": "https://sm.lifehacker.com/t/lifehacker_au/opinion/t/this-perio/this-period-tracking-app-actually-keeps-your-data-private_dh91.1200.jpg",
+          "publishedAt": "2026-07-20T23:02:21Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/OYXPFM5RHBBUBDUVZOXWHBYRS4.jpg?auth=24abd9fb614626cf032d134ea136b7f3bc0f11cb340cfaf3c394f320e79fa743&width=1200&height=675&quality=70&smart=true",
           "language": "en"
         },
         {
-          "title": "Rebel Wilson's 'The Deb' Gets First Trailer, Digital Release Date",
-          "description": "Watch the first trailer for Rebel Wilson's directorial debut 'The Deb.' The film is getting a digital release in late August amid an ugly legal battle.",
-          "url": "https://deadline.com/2026/07/the-deb-trailer-release-date-rebel-wilson-1236998746/",
+          "title": "On The Up: Electrician shortlisted for world’s top astrophotography award",
+          "description": "From a space flight video game to collecting Nasa space photos as a pastime, Evan McKay developed “the bug” for astrophotography when he bought his first...",
+          "url": "https://www.nzherald.co.nz/whanganui-chronicle/news/on-the-up-electrician-shortlisted-for-worlds-top-astrophotography-award/RGI727INK5A5FLOF76M4BWCJ3Q/",
           "source": {
-            "name": "Deadline"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-07-20T20:30:00Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/01/Screenshot-2025-12-11-at-18.50.44.png?w=1024",
+          "publishedAt": "2026-07-20T23:01:31Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/TPH2E7LD7ZHA3CX2FC44CICU4Q.jpg?auth=1251fe67ab55320080f194849186a2e9d764fe4902d7080871169f474da9c77d&width=1200&height=675&quality=70&smart=true",
           "language": "en"
         },
         {
-          "title": "Army links fresh Maguindanao attacks to antiterror operations",
-          "description": "Four attacks against AFP units in Maguindanao over the weekend may have been retaliatory actions by Islamic State-inspired militants.",
-          "url": "https://newsinfo.inquirer.net/2267156/army-links-fresh-maguindanao-attacks-to-antiterror-operations",
+          "title": "JPMorgan Chase CEO Jamie Dimon says markets underestimate risks",
+          "description": "Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.",
+          "url": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
           "source": {
-            "name": "Inquirer.net"
+            "name": "CNBC"
           },
-          "publishedAt": "2026-07-20T20:30:00Z",
-          "image": "https://newsinfo.inquirer.net/files/2022/09/Maguindanao-map-filephoto-091522.jpg",
+          "publishedAt": "2026-07-20T23:01:01Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108213166-1760638891612-gettyimages-2241014705-IMF_WORLD_BANK.jpeg?v=1784579291&w=1920&h=1080",
           "language": "en"
         },
         {
-          "title": "Hilarious moment Spanish pilot plays 'sick joke' fooling plane full of Argentina fans into thinking they'd won World Cup",
-          "description": "THIS is the hilarious moment when a Spanish pilot appeared to fool a plane full of Argentinian passengers into believing they had won the World...",
-          "url": "https://www.thesun.co.uk/sport/39820540/pilot-fools-plane-argentina-fans-world-cup-win-spain/",
+          "title": "South Africa immigration rows ‘discouraging foreign academics’",
+          "description": "Universities warned that rising anti-migrant sentiment could harm internationalisation goals",
+          "url": "https://www.timeshighereducation.com/news/south-africa-immigration-rows-discouraging-foreign-academics",
           "source": {
-            "name": "The Sun"
+            "name": "Times Higher Education"
           },
-          "publishedAt": "2026-07-20T20:28:00Z",
-          "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/TM-20-07-Argentina-fan-Joke-v2_OP-1.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+          "publishedAt": "2026-07-20T23:01:00Z",
+          "image": "https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/gettyimages-2213790335.jpg?itok=n56tiN_P",
           "language": "en"
         },
         {
-          "title": "U.S. Ambassador to Canada talks CUSMA and continuing partnerships",
-          "description": "U.S. Ambassador to Canada Pete Hoekstra finished his talk at the Pacific Northwest Economic Region summit in Edmonton with a shot of whiskey.",
-          "url": "https://edmontonjournal.com/news/politics/pete-hoekstra-united-states-canada-donald-trump",
+          "title": "Measles returns to back-to-school conversation as Georgia vaccination rates slip",
+          "description": "The new school year also comes as vaccine messaging remains under pressure nationally.",
+          "url": "https://www.atlantanewsfirst.com/2026/07/20/measles-returns-back-to-school-conversation-georgia-vaccination-rates-slip/",
           "source": {
-            "name": "Edmonton Journal"
+            "name": "Atlanta News First"
           },
-          "publishedAt": "2026-07-20T20:26:15Z",
-          "image": "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2026/07/20260720db001.ej_304382797.jpg",
+          "publishedAt": "2026-07-20T23:01:00Z",
+          "image": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/7M3MYEGBYNBCLNY2BLMO5XQRXE.jpg?auth=d337ed5496fcce42b9bf64723199521a809ec858cf59d38c5a8faabdccd39212&width=1200&height=600&smart=true",
           "language": "en"
         },
         {
-          "title": "Darline Graham to run for late brother Lindsey Graham's Senate seat",
-          "description": "Sen. Darline Graham announces she's running for a full term in her late brother Lindsey Graham's Senate seat.",
-          "url": "https://apnews.com/article/darline-graham-full-term-south-carolina-senate-ef319a09b47a57b8c31950b90ed4f82b",
+          "title": "2030 no longer enough",
+          "description": "Barely days after President Emmerson Mnangagwa signed the Constitution of Zimbabwe Amendment (No. 3) Act, 2026 into law, ZANU PF Harare Province has begun pushing to extend his tenure beyond 2030 to 2037. The latest call comes as the ruling party celebrates the enactment of the controversial constitutional amendment, which postpones Zimbabwe’s next harmonised elections […]",
+          "url": "https://www.newzimbabwe.com/2030-no-longer-enough-zanu-pf-now-pushes-to-extend-mnangagwas-presidency-to-2037/",
           "source": {
-            "name": "AP News"
+            "name": "NewZimbabwe.com"
           },
-          "publishedAt": "2026-07-20T20:24:00Z",
-          "image": "https://dims.apnews.com/dims4/default/5f58f2a/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F95%2F74%2F64d16c92a217ce11f2d59370832a%2Fb7d549221e4e4b00b45549342978b3ef",
+          "publishedAt": "2026-07-20T23:00:59Z",
+          "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2023/07/22195935/F1o4Bw1WwAEXt93.jpg",
           "language": "en"
         },
         {
-          "title": "NRL 2026: Free agency state of play, November 1, who is set to hit the open market, players, Nathan Cleary, Latrell Mitchell, Hudson Young, opinion and analysis, news",
-          "description": "Madge’s Walsh move; $1.4m Latrell frenzy: Nov 1 stars and where they could land",
-          "url": "https://www.foxsports.com.au/nrl/nrl-premiership/nrl-2026-free-agency-state-of-play-november-1-who-is-set-to-hit-the-open-market-players-nathan-cleary-latrell-mitchell-hudson-young-opinion-and-analysis-news/news-story/f12eb9758f7b47677c5c30639c14df9e",
+          "title": "Zimbabwe's Unfinished Transition: Why Stability Alone Cannot Deliver Prosperity",
+          "description": "Economic recoveries often succeed twice. The first success is restoring stability. The second, if it comes, is restoring prosperity. The two are related, but they are not the same achievement. Inflation falls, markets begin functioning again, shops fill with goods and consumers regain confidence. After years of instability, these are the changes people naturally celebrate […]",
+          "url": "https://www.newzimbabwe.com/zimbabwes-unfinished-transition-why-stability-alone-cannot-deliver-prosperity/",
           "source": {
-            "name": "Fox Sports"
+            "name": "NewZimbabwe.com"
           },
-          "publishedAt": "2026-07-20T20:22:24Z",
-          "image": "https://content.api.news/v3/images/bin/9aea675178af80f0ae5c81604047e92c",
+          "publishedAt": "2026-07-20T23:00:44Z",
+          "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2024/03/08111459/harare.jpeg",
           "language": "en"
         }
       ]
