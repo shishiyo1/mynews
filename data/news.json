@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-20T22:00:16.593Z",
+  "updatedAt": "2026-07-21T02:46:36.397Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【●虎将トーク】阪神・藤川監督、「甲子園で最後まで可能性があるゲームを必ずやりたいし、やらなければいけないけど…」",
+          "description": "（セ・リーグ、阪神0－7DeNA、11回戦、DeNA6勝5敗、20日、甲子園）阪神は先発の大竹耕太郎投手（31）が5回⅔を投げ1失点と粘ったが、0－1の八回に新外国人・アンダーソン・セベリーノ投手（31）＝前メッツ3A＝が痛恨の3ランを浴…",
+          "url": "https://www.sanspo.com/article/20260720-5XVCTALB3NPDHHDWZUU5EV2SPY/?outputType=theme_tigers",
+          "source": {
+            "name": "サンスポ"
+          },
+          "publishedAt": "2026-07-20T13:39:04Z",
+          "image": "https://www.sanspo.com/resizer/v2/6HEKSEFA3FJ2ZFLSWPMYKFFWUA.jpg?auth=88ae09a5f9ba664ce27dd713c090da19e511c9c6850136d4ec0e25daff9fd7d2&quality=50&focal=1080%2C391&width=1200&height=675",
+          "language": "ja"
+        },
+        {
+          "title": "【ボクシング】増田陸が世界初戴冠 寺地拳四朗３階級制覇 岩田翔吉初防衛 トリプル世界戦／詳細",
+          "description": "WBC世界ライトフライ級王者の岩田翔吉（30＝帝拳）が“鬼門”の初防衛に成功した。同級1位で19戦全勝（8KO）の最強挑戦者エリク・バディージョ（30＝メキシ… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/battle/news/202607190002087.html",
+          "source": {
+            "name": "日刊スポーツ"
+          },
+          "publishedAt": "2026-07-20T12:08:00Z",
+          "image": "https://www.nikkansports.com/battle/news/img/202607190002087-w500_0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "相場展望 ７月２０日号 SOX指数が調整入り、スペースX公募割れ・中国AI新興企業も脅威",
+          "description": "米半導体株指数SOXが高値から2割超下落し調整局面入り。スペースX株も公募価格を割り込み、日経平均は連動安で6万4千円台に急落、先行き不透明感が強まっている。",
+          "url": "https://www.zaikei.co.jp/article/20260720/861948.html",
+          "source": {
+            "name": "財経新聞"
+          },
+          "publishedAt": "2026-07-20T12:03:32Z",
+          "image": "http://www.zaikei.co.jp/files/general/20260720210538sii0big.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【ボクシング】寺地拳四朗が涙の３階級制覇「日本初の３階級２団体王者になる」快挙後に宣言",
+          "description": "前WBA、WBC世界フライ級統一王者でWBO世界スーパーフライ級3位の寺地拳四朗（34＝BMB）が、日本人8人目となる快挙を達成した。同級4位のイスラエル・ゴ… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/battle/boxing/news/202607200000891.html",
+          "source": {
+            "name": "日刊スポーツ"
+          },
+          "publishedAt": "2026-07-20T11:27:00Z",
+          "image": "https://www.nikkansports.com/battle/boxing/news/img/202607200000891-w500_0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【ボクシング】寺地拳四朗、涙の世界３階級制覇！「もう泣きそう」日本人８人目の快挙 井上尚弥らが保持していたＷＢＯ世界スーパーフライ級王者に",
+          "description": "ＷＢＯ世界スーパーフライ級王座決定戦は、同級３位・寺地拳四朗（３４）＝ＢＭＢ＝が、同級４位イスラエル・ゴンサレス（２９）＝メキシコ＝を３－０の判定で破って新王者となり、世界３階級制覇を達成した。日本",
+          "url": "https://hochi.news/articles/20260720-OHT1T51323.html",
+          "source": {
+            "name": "スポーツ報知"
+          },
+          "publishedAt": "2026-07-20T11:25:00Z",
+          "image": "https://hochi.news/images/2026/07/20/20260720-OHT1I51528-C.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "甲子園逃した選抜準Vの智弁学園・小坂監督「杉本は限界だった」",
+          "description": "全国高校野球選手権の奈良大会で20日、今春のセンバツで準優勝した智弁学園が3回戦で奈良大付に6―9で敗れ、2年ぶりの夏の甲子園出場を逃した。【村上正】 　智弁学園の小坂将商監督の試合後のコメントは次の通り",
+          "url": "https://mainichi.jp/articles/20260720/k00/00m/050/124000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-07-20T11:04:52Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/07/20/20260720k0000m050127000p/0c10.jpg?1",
+          "language": "ja"
+        },
+        {
+          "title": "コンビニに車突っ込む 威嚇発砲の音声も 包丁男「部屋に火放った」 神奈川・相模原市",
+          "description": "深夜のコンビニ店に突っ込んだ車から現れたのは包丁を手にした男でした。直前には目の前のマンションで火災も発生です。■車から包丁男　威嚇発砲の音声近隣住民「ぶつかった時はドーンッていう感じだった。だから",
+          "url": "https://news.tv-asahi.co.jp/news_society/articles/000520475.html",
+          "source": {
+            "name": "テレ朝NEWS"
+          },
+          "publishedAt": "2026-07-20T10:24:11Z",
+          "image": "https://news.tv-asahi.co.jp/articles_img/000520475_1200.jpg",
+          "language": "ja"
+        },
         {
           "title": "マイナ保険証9443万人、スマホ搭載は800万人 「紙」は7月末終了",
           "description": "健康保険証が8月からマイナンバーカードと一体化したマイナ保険証に完全に切り替わる。スマートフォンに搭載して使う人も800万人と浸透しつつある。飲み合わせの悪い薬の処方を防ぎやすいなど、紙の保険証にはない利点がある。紙などの従来型の保険証は2025年12月1日に有効期限を迎えた。厚生労働省は期限が切れた保険証でも、受診時に示せば公的保険を適用する暫定措置を続けていた。マイナ保険証への移行に伴う混",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-07-20T08:50:29Z",
           "image": "https://prcdn.freetls.fastly.net/release_image/178187/7/178187-7-ccec9460c8778b11dcd8c928b27a77cb-1000x1000.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
           "language": "ja"
-        },
-        {
-          "title": "スペイン代表選手を蹴り倒し、パンチを浴びせる…アルゼンチン代表MFの暴走に批判の声「許される余地などない」",
-          "description": "北中米W杯決勝後に乱闘騒ぎが起こった。　現地時間19日に開催されたスペイン代表とアルゼンチン代表による頂上決戦。試合は、スペインが立ち上がりから圧倒的にボールを支配しながらも、得点が生まれずに0-0...",
-          "url": "https://web.gekisaka.jp/news/worldcup/detail/?455653-455653-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-07-20T07:37:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455653/news_455653_1.jpg?time=20260720163825",
-          "language": "ja"
-        },
-        {
-          "title": "Xperia純正ケース、ソニーストア在庫情報。Xperia 1 VII 用ケースはまもなく販売終了？",
-          "description": "ソニーストアで、Xperia純正ケースの在庫状況をチェックしてみると、昨年のモデル「Xperia 1 VII」",
-          "url": "https://kunkoku.jp/xperia-case-2026.html",
-          "source": {
-            "name": "ソニーが基本的に好き。"
-          },
-          "publishedAt": "2026-07-20T07:23:27Z",
-          "image": "https://kunkoku.jp/wp-content/uploads/2026/05/260511a09.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「Apex Legends」×「Cyberpunk」の大規模コラボイベント開催決定！ 豪華配信者60名が集結する『えぺまつり NEON NIGHT』は7月23日19時から配信",
-          "description": "UUUMマーケティング株式会社は7月18日、「Apex Legends」の大規模カジュアルイベント『えぺまつり NEON NIGHT -Apex Legends × Cyberpunk Event-』を7月23日に開催すると発表しました。",
-          "url": "https://www.appbank.net/2026/07/20/youtubernews/3059563.php",
-          "source": {
-            "name": "AppBank"
-          },
-          "publishedAt": "2026-07-20T07:04:19Z",
-          "image": "https://www.appbank.net/wp-content/uploads/2026/07/20260719_153426_878_01.webp",
-          "language": "ja"
-        },
-        {
-          "title": "関東甲信は梅雨明け直後の危険な暑さに警戒 連休明けの明日21日は40℃に迫る所も",
-          "description": "関東甲信では今日20日に梅雨明けの発表がありました。梅雨明け直後の危険な暑さに警戒が必要です。連休明けの明日21日は、猛暑日(最高気温が35℃以上)地点が続出し、40℃に迫る所もあるでしょう。こまめな水分補給や暑さを避けるなど、熱中症対策をしっかりと行ってください。",
-          "url": "https://tenki.jp/forecaster/t_okamoto/2026/07/20/39794.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-07-20T05:44:30Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/397/39794/main/20260720142549/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "渦中の県議会議長がアメリカ出張から帰国 匿名議員の“支払い証言”に「いちいちコメントしない」 県議会金銭授受疑惑 【福岡発】",
-          "description": "福岡県議会の正･副議長ポストを巡る金銭授受疑惑で、アメリカに出張中だった福岡県議会議長が7月17日に帰国し、テレビ西日本報道部の単独インタビューに応じた。",
-          "url": "https://news.yahoo.co.jp/articles/daece12b115386bf7101fa7f9a70b775e5383495",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-20T04:23:18Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260720-01178312-fnnprimev-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "「Call of Duty: Modern Warfare 4」“キルブロック”モードの本格的なゲームプレイ映像が解禁",
-          "description": "「doope!」は、国内外の様々なゲームニュースをお届けする情報サイトです。",
-          "url": "https://doope.jp/2026/07168776.html",
-          "source": {
-            "name": "doope!"
-          },
-          "publishedAt": "2026-07-20T04:05:18Z",
-          "image": "https://doope.jp/wp-content/uploads/2016/06/cropped-fav-32x32.png",
-          "language": "ja"
-        },
-        {
-          "title": "青山テルマ、第1子男児出産を報告 感謝の言葉を添え「We love you!!」",
-          "description": "ニュース｜　歌手の青山テルマ（38）が20日、自身のインスタグラムを更新し、第1子となる男児を出産したことを報告した。　青山は「先日、午年の元気な息子を出産致しました」と報告。「ここまで来るのにさまざまな冒険がありました」と振り返り、「感謝したい人はもちろん沢山居ますが、まずは旦那よ～!!」と夫への感謝をつづった。",
-          "url": "https://www.oricon.co.jp/news/2468925/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-07-20T03:04:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2469000/2468925/20260312_135004_p_o_23514073.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Soldiers Arrest Sudanese Man, Ghanaian Woman",
-          "description": "Troops in Borno have arrested a Sudanese man suspected of terrorism and a Ghanaian woman, an illegal immigrant, in Askira/Uba LGA. Read more on the Borno a",
-          "url": "https://punchng.com/soldiers-arrest-sudanese-man-ghanaian-woman-in-borno-forest/",
+          "title": "Best price ever: Save $500 on Samsung 65-inch S85H OLED TV at Amazon",
+          "description": "Samsung's 65-inch S85H OLED 4K TV is on sale at Amazon for just $1,497.99. That's $500 off its list price and its best price ever.",
+          "url": "https://mashable.com/tech/july-20-samsung-s85h-oled-tv-deal",
           "source": {
-            "name": "Punch Newspapers"
+            "name": "Mashable"
           },
-          "publishedAt": "2026-07-20T10:00:07Z",
-          "image": "https://punchng.com/wp-content/uploads/2026/07/324019_1784539738-1200x424.webp",
+          "publishedAt": "2026-07-20T14:46:37Z",
+          "image": "https://helios-i.mashable.com/imagery/articles/00tgMBdTXI3ZOiSoTCR9hSU/hero-image.fill.size_1200x675.v1784554568.png",
           "language": "en"
         },
         {
-          "title": "NYT Connections Companion for July 21, 2026",
-          "description": "Scroll down for hints and conversation about the puzzle for Tuesday, July 21, 2026.",
-          "url": "https://www.nytimes.com/2026/07/20/crosswords/connections-companion-1136.html",
+          "title": "Kevin Keegan: England and Liverpool FC legend dies aged 75 after cancer battle",
+          "description": "Former forward won the Ballon d’Or twice in the 1970s",
+          "url": "https://www.standard.co.uk/sport/football/kevin-keegan-dies-liverpool-fc-newcastle-b1290652.html",
           "source": {
-            "name": "The New York Times"
+            "name": "London Evening Standard"
           },
-          "publishedAt": "2026-07-20T10:00:07Z",
-          "image": "https://static01.nyt.com/images/2026/07/20/crosswords/21connections-art-1224/21connections-art-1224-facebookJumbo.jpg",
+          "publishedAt": "2026-07-20T14:46:30Z",
+          "image": "https://static.standard.co.uk/2026/06/01/10/47/Kevin-Keegan.png?width=1200&auto=webp&quality=75",
           "language": "en"
         },
         {
-          "title": "Second death reported in Legionnaires' disease outbreak in New York City",
-          "description": "A second person has died in connection with an outbreak of Legionnaires' disease in New York, the New York City Health Department announced Saturday.",
-          "url": "https://medicalxpress.com/news/2026-07-death-legionnaires-disease-outbreak-york-1.html",
+          "title": "This Year's Budget Pixel Might Be Less of a Cop-Out",
+          "description": "The Pixel 11a might just utilize Google's flagship processor.",
+          "url": "https://gizmodo.com/this-years-budget-pixel-might-be-less-of-a-cop-out-2000787731",
           "source": {
-            "name": "Medical Xpress"
+            "name": "Gizmodo"
           },
-          "publishedAt": "2026-07-20T10:00:01Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/second-death-reported.jpg",
+          "publishedAt": "2026-07-20T14:45:40Z",
+          "image": "https://gizmodo.com/app/uploads/2026/03/google-pixel-10a-review-24-1200x675.jpg",
           "language": "en"
         },
         {
-          "title": "Mapping how influenza virus rewires human host cells",
-          "description": "Researchers at EMBL Hamburg and collaborators at the Leibniz Research Institute for Molecular Pharmacology (FMP) have mapped how the influenza A virus rewires infected human cells in unprecedented detail.",
-          "url": "https://www.news-medical.net/news/20260720/Mapping-how-influenza-virus-rewires-human-host-cells.aspx",
+          "title": "Iran-backed Houthis say they will block Saudi shipping at Red Sea gateway",
+          "description": "Yemen's Iranian-backed Houthi rebels on Monday announced they are imposing a maritime embargo against Saudi Arabia in retaliation for a blockade.",
+          "url": "https://globalnews.ca/news/11972397/houthis-iran-saudi-red-sea-blockade/",
           "source": {
-            "name": "News-Medical"
+            "name": "Global News"
           },
-          "publishedAt": "2026-07-20T10:00:00Z",
-          "image": "https://www.news-medical.net/image-handler/picture/2017/6/Anatomical_structure_of_biological_animal_cell_with_organelles-eranicle_1d73b50575dc4546875a4a2fc7d429a6-620x480.jpg",
+          "publishedAt": "2026-07-20T14:44:20Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/07/Houthi-supporters-yemen.jpg-e1784558515988.jpg?quality=65&strip=all&w=720&h=379&crop=1",
           "language": "en"
         },
         {
-          "title": "Albert Breer’s Biggest Storylines to Track as NFL Training Camps Get Underway",
-          "description": "From Aaron Donald’s status to Patrick Mahomes’s mobility to the next round of contract extensions, a preview of the buzz we’re expecting to hear.",
-          "url": "https://www.si.com/nfl/albert-breer-biggest-storylines-nfl-training-camp",
+          "title": "Researchers Build a Low-Visibility Drone That Uses Motion Blur, Not Camouflage",
+          "description": "Phantom Twist drone uses counter-rotation to exploit human motion blur, making it 10 times harder to spot than a standard quadcopter.",
+          "url": "https://www.gadgetreview.com/researchers-build-a-low-visibility-drone-that-uses-motion-blur-not-camouflage",
           "source": {
-            "name": "Sports Illustrated"
+            "name": "Gadget Review"
           },
-          "publishedAt": "2026-07-20T10:00:00Z",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_5793,h_3258/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/01kxymafanjskng3vd8d-a06371049f43cdab84e8d7f1fa653e7f.webp",
+          "publishedAt": "2026-07-20T14:44:17Z",
+          "image": "https://www.gadgetreview.com/wp-content/uploads/drone1540__ScaleMaxWidthWzc3MF0.jpg",
           "language": "en"
         },
         {
-          "title": "The Pixel 11 Pro's LED lights are a brilliant Android throwback",
-          "description": "Google's finally teased the Pixel 11 Pro's new Pixel Glow feature. It reminds me a lot of old-school notification LEDs — in a good way.",
-          "url": "https://www.androidauthority.com/pixel-11-pro-pixel-glow-throwback-3688717/",
+          "title": "Will the Tate brothers be extradited from the US to the UK?",
+          "description": "Andrew and Tristan Tate are set to face extradition proceedings in the US as British prosecutors issued 38 new charges against the brothers.",
+          "url": "https://www.bbc.com/news/articles/cjej0j0lzkno",
           "source": {
-            "name": "Android Authority"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-20T10:00:00Z",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/pixel-11-google-store-teaser.jpg",
+          "publishedAt": "2026-07-20T14:43:55Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/81e5/live/f35734e0-841e-11f1-926f-c90d1bcfbc84.jpg",
           "language": "en"
         },
         {
-          "title": "The Odyssey Costumes Discard the Sword-and-Sandals Playbook",
-          "description": "“We were not after a historical period. We were after a timeless period,” says costume designer Ellen Mirojnick.",
-          "url": "https://www.vogue.com/article/the-odyssey-costumes-ellen-mirojnick-christopher-nolan",
+          "title": "Former Liverpool and England star Kevin Keegan dies aged 75",
+          "description": "LONDON: Former Liverpool and England star Kevin Keegan has died aged 75 after battling cancer, his family announced on Monday (Jul 20).Keegan, regarded as one of the greatest players of his generation, was diagnosed with stage four cancer and underwent treatment in January.\"It is with immense sadness t",
+          "url": "https://www.channelnewsasia.com/sport/kevin-keegan-dies-liverpool-england-football-6266066",
           "source": {
-            "name": "Vogue"
+            "name": "CNA"
           },
-          "publishedAt": "2026-07-20T10:00:00Z",
-          "image": "https://assets.vogue.com/photos/6a5a3aa8fa70ffbf80f34688/16:9/w_1280,c_limit/CT-54129_MSG.jpg",
+          "publishedAt": "2026-07-20T14:43:00Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--EmNO0tSF--/c_crop,h_449,w_799,x_1,y_24/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-20T144639Z_2_LYNXMPEM6J134_RTROPTP_3_SOCCER-ENGLAND-KEEGAN.JPG?itok=FYgigkL-",
           "language": "en"
         },
         {
-          "title": "An artificial 'Saturn's ring' of satellites could soon fill the sky, astronomers warn",
-          "description": "A bright Saturn's ring of satellites will encircle Earth if plans to launch a million orbiting data centers and tens of thousands of space mirrors will come to pass.",
-          "url": "https://www.yahoo.com/news/science/articles/artificial-saturns-ring-satellites-could-100000060.html",
+          "title": "When the Rivers Heal: Child Welfare and Ghana’s Anti Galamsey Fight",
+          "description": "In Ghana, illegal mining is commonly known as “galamsey,” derived from the phrase “gather them and sell.” It is an informal and unregulated small-scale mining activity that provides alternative [...]",
+          "url": "https://www.newsecuritybeat.org/2026/07/when-the-rivers-heal-child-welfare-and-ghanas-anti-galamsey-fight/",
           "source": {
-            "name": "Yahoo"
+            "name": "New Security Beat"
           },
-          "publishedAt": "2026-07-20T10:00:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/57fa39634c6ea3be8384c485213c3f82e96a1dd7112e01c48854a6149bb3026c/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fspace_311%2F7fc702531c73194d0ce2b068a8227d3d",
+          "publishedAt": "2026-07-20T14:42:58Z",
+          "image": "https://www.newsecuritybeat.org/wp-content/uploads/2026/07/AdobeStock_2011694894-235x132.jpeg",
           "language": "en"
         },
         {
-          "title": "This $46 Million Toilet Startup Is Betting Smart Seats Can Be A Billion-Dollar Business",
-          "description": "Medical tech company Casana raised $46 million to launch a toilet seat that monitors your health. Their goal? Make sittables the next wearables.",
-          "url": "https://www.forbes.com/sites/alexyork/2026/07/20/this-46-million-toilet-startup-is-betting-smart-seats-can-be-a-billion-dollar-business/",
+          "title": "Andy Burnham becomes U.K. PM, promising new social and political model",
+          "description": "Former Manchester Mayor, Andrew Burnham, was appointed Prime Minister of the U.K., its seventh in a decade; outgoing Prime Minister Keir Starmer, who had made history two years ago, when he led the Labour Party in one of the largest victories in modern times, made history again, for becoming the U.K.’s shortest serving Labour Prime Minister in modern history.",
+          "url": "https://www.thehindu.com/news/international/i-go-with-good-grace-and-a-smile-on-my-face-starmer-says-making-way-for-burnham/article71244798.ece",
           "source": {
-            "name": "Forbes"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-07-20T10:00:00Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a5d3eb481bb3c99c4438ae5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "publishedAt": "2026-07-20T14:42:37Z",
+          "image": "https://th-i.thgim.com/public/incoming/35skhu/article71245408.ece/alternates/LANDSCAPE_1200/2026-07-20T125643Z_101372689_RC2OHMA0NV91_RTRMADP_3_BRITAIN-POLITICS.JPG",
           "language": "en"
         },
         {
-          "title": "Narrative Podcasts Have Found Their Niche...Can They Thrive There?",
-          "description": "Narrative podcasts face significant challenges despite their unique strengths. While video podcasting gains traction, proponents argue narrative audio serves a distinct, hands-free need, fostering unparalleled listener connection.",
-          "url": "https://www.forbes.com/sites/frankracioppi/2026/07/20/narrative-podcasts-have-found-their-nichecan-they-thrive-there/",
+          "title": "Europe Has to Take on China to Save Free Trade",
+          "description": "The US and the European Union have been on a trade agreement tear, competing to define the future global trading system. The EU looks to backstop the more established rules of the road; the US, to muscle bilateral commercial balances in its favor. Each has lessons for the other: The US would do well to […]",
+          "url": "https://www.cfr.org/articles/europe-has-to-take-on-china-to-save-free-trade",
           "source": {
-            "name": "Forbes"
+            "name": "Council on Foreign Relations"
           },
-          "publishedAt": "2026-07-20T10:00:00Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a4a8ac994cc7d09727e431a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "publishedAt": "2026-07-20T14:42:13Z",
+          "image": "https://res.cloudinary.com/dmovl8u5q/images/f_auto,q_auto/v1784557353/2026-01-17T183924Z_273785767_RC203JAYVLMP_RTRMADP_3_EU-MERCOSUR-PARAGUAY/2026-01-17T183924Z_273785767_RC203JAYVLMP_RTRMADP_3_EU-MERCOSUR-PARAGUAY.jpg?_i=AA",
           "language": "en"
         }
       ]
