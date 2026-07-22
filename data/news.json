@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-22T08:30:29.350Z",
+  "updatedAt": "2026-07-22T11:10:14.497Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "英国人史上最高額の255億円!! チェルシーがイングランド代表MFロジャーズを獲得!! 33年までの7年契約に",
+          "description": "チェルシーは21日、アストン・ビラに所属するイングランド代表MFモーガン・ロジャーズの獲得を正式発表した。33年までの長期契約となり、英『スカイスポーツ』によると移籍金は英国人史上最高となる1億1700万ポ...",
+          "url": "https://web.gekisaka.jp/news/world/detail/?455712-455712-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-07-21T23:08:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455712/news_455712_1.jpg?time=20260722080841",
+          "language": "ja"
+        },
+        {
+          "title": "土屋鞄 objcts.io、上質な光沢感のナイロンデイパック・ホーボー",
+          "description": "土屋鞄製造所のレザープロダクトブランド・objcts.ioは、イタリア・リモンタ社製のナイロンを使用した「エッセンシャル ナイロンホーボー」「エッセンシャル ナイロンデイパック」を7月29日に発売する。価格は38,500円から50,600円。",
+          "url": "https://www.watch.impress.co.jp/docs/news/2126227.html",
+          "source": {
+            "name": "Impress Watch"
+          },
+          "publishedAt": "2026-07-21T23:00:00Z",
+          "image": "https://www.watch.impress.co.jp/img/ipw/list/2126/227/objcts_00.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Google Workspace、7月13日に発表したアップデートをまとめて紹介",
+          "description": "Googleは7月17日（現地時間）、7月13日に発表したGoogle Workspaceのアップデートをまとめて紹介した。 Google Credential Provider for Windo...",
+          "url": "https://codezine.jp/news/detail/29042",
+          "source": {
+            "name": "CodeZine"
+          },
+          "publishedAt": "2026-07-21T23:00:00Z",
+          "image": "https://codezine.jp/static/images/article/29042/1200goo.png",
+          "language": "ja"
+        },
+        {
+          "title": "２２日の東京株式市場見通し＝続伸後はもみ合いか 速報",
+          "description": "予想レンジ：６万６５００円－６万７２００円（２１日終値６万６２３２円１９銭）　２２日の東京株式は続伸後、もみ合いか。現地２１日の米国株高を追い風に、買い先行が見込まれる。為替相場は、１ドル＝１６３円・・・",
+          "url": "https://kabushiki.jp/news/758610",
+          "source": {
+            "name": "kabushiki.jp"
+          },
+          "publishedAt": "2026-07-21T22:47:00Z",
+          "image": "https://kabushiki.jp/ogp.png",
+          "language": "ja"
+        },
+        {
+          "title": "愛車の履歴書──Vol90 岡本健一さん（前編）",
+          "description": "愛車を見せてもらえば、その人の人生が見えてくる。気になる人のクルマに隠されたエピソードをたずねるシリーズ第90回の前編。俳優・アーティストの岡本健一さんが、かつて乗っていた愛車と再会した。",
+          "url": "https://www.gqjapan.jp/article/20260722-kenichi-okamoto-my-car-history-vol1",
+          "source": {
+            "name": "GQ Japan"
+          },
+          "publishedAt": "2026-07-21T22:00:00Z",
+          "image": "https://media.gqjapan.jp/photos/6a59b0d105f606b5e554f6f7/16:9/w_1280,c_limit/DSC_9278-Edit_(2).jpg",
+          "language": "ja"
+        },
+        {
+          "title": "22日も危険な暑さに厳重警戒 名古屋・岐阜など 40℃以上の「酷暑日」",
+          "description": "今日22日も危険な暑さに厳重な警戒が必要です。九州から東北にかけて、広い範囲で35℃以上の猛暑日、さらには岐阜市や名古屋市、甲府市、熊谷市などで最高気温40℃以上の「酷暑日」が予想されています。屋外での活動は控えたり、こまめな水分補給を心掛けたりするなど、万全の熱中症対策をしてお過ごしください。",
+          "url": "https://tenki.jp/forecaster/s_ono/2026/07/22/39808.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-21T20:50:52Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/398/39808/main/20260722051749/large.jpg",
+          "language": "ja"
+        },
         {
           "title": "福岡県議会カツアゲ疑惑 自民“72歳のドン”巡る「藏内税」とは 「あの人は筑後で一番現金を持っている」",
           "description": "平成まで暴力団関連の発砲事件が絶えず、「修羅の国」と揶揄する声もあった福岡県。県警の「頂上作戦」により暴力団は青息吐息となり、かつての汚名は返上されつつある。ところが、こと政界では、別の意味での“",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-07-21T19:01:00Z",
           "image": "https://artexhibition.jp/wp-content/uploads/2026/07/a9fdb101073c845950ea7cc99c2ee9eb-1080x630.jpg",
           "language": "ja"
-        },
-        {
-          "title": "ソニー Cinema Line(シネマライン) カメラ新製品、本体デザインがよりわかるヨーロッパ向けティザー画像掲載。2026年7月22日(水)23時発表。「Lighting the Way Forward」（未来への道を照らす） - ソニーが基本的に好き。",
-          "description": "ソニーは、日本時間2026年7月22日（水）23時より、「Cinema Line（シネマライン）」の新製品を発",
-          "url": "https://kunkoku.jp/newcimemaline2026-2.html",
-          "source": {
-            "name": "ソニーが基本的に好き。"
-          },
-          "publishedAt": "2026-07-21T14:30:28Z",
-          "image": "https://kunkoku.jp/wp-content/uploads/2026/07/260721c02.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "ケンタッキー、全店舗が通常運営を再開 「発生原因の如何を問わず」謝罪…お詫びの「特別クーポン」発表",
-          "description": "ニュース｜　ニチレイグループのシステム障害の影響が「ケンタッキーフライドチキン」に及んでいた件で、日本ケンタッキー・フライド・チキンは、22日付で全店舗が通常運営を再開すると発表した。　公式サイトに「通常営業再開のお知らせ」を掲載し、「2026年7月13日（月）にお知らせいたしました、弊社が食材配送を委託しております物流会社における、不正アクセスに起因するシステム障害の影響により、KFC店舗におきまして、商品の一部品切れ、販売メニューの制限、営業時間の短縮等が発生し、お客さまには多大なるご不便とご迷惑をおかけしてまいりました。本件の発生原因の如何を問わず、商品の安定供給および店舗におけるお客さま体験の維持は、当社KFCの重要な責務であると認識しております」と見解。",
-          "url": "https://www.oricon.co.jp/news/2469254/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-07-21T12:32:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2470000/2469254/20260507_095309_p_o_50919804.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "生命の材料となる「糖」、宇宙空間で初めて検出される|au Webポータル",
-          "description": "生命の材料は、ずっと昔から早く宇宙にあったのかも。長い間、太陽系の外に広がる深宇宙にも「糖」が存在すると考えられてきました。そしてこの仮説は、小惑星ベンヌから持ち帰られたサンプルの中に糖が見つかったこ",
-          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260721_1784639036778743",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-07-21T12:30:00Z",
-          "image": "https://portal.st-img.jp/thumb/026818ee1e0006a7ad91aa2029ff1188_1784639036_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【巨人】今季初2ケタ・11得点快勝で3連勝 2年ぶり貯金”10”！浦田が初回好守で先制凌ぐ ダルベックダメ押し3点打 山﨑今季初勝利",
-          "description": "■プロ野球　巨人 11－5 広島　（21日　東京ドーム）\n巨人は広島に今季初の11得点を奪い快勝。3連勝で48勝38敗2分、4年ぶり39度目のリーグ制覇を達成した24年以来、2年ぶりに貯金が2ケタ",
-          "url": "https://news.yahoo.co.jp/articles/a7b3baab9c4500021cb53992269b2ec048ef0ef2",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-21T12:19:14Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260721-00010010-jnn-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "次期macOS「Golden Gate」に登場するSiri AI。無口でマヌケなのがありがたい",
-          "description": "2026年秋に正式リリースが予定されているApple（アップル）のMac向け次世代OS「macOS 27 Golden Gate」。今回のアップデートでは、「Siri AI」と呼ばれる新しいSiriの登場に注目が集まります。開発者向けベータ",
-          "url": "https://www.gizmodo.jp/article/thank-god-macos-golden-gates-siri-is-a-terse-idiot/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-07-21T11:30:00Z",
-          "image": "https://media.loom-app.com/loom/2026/07/21/17ca1304-8699-4d0d-9a1c-1c0c33326fe0/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "【明日の好悪材料】を開示情報でチェック！ (7月21日発表分)",
-          "description": "中国事業のポートフォリオ再構築の一環として、中国における牛乳・ヨーグルト事業およびＢｔｏＢ事業を上海澳雅食品に譲渡する。譲渡価額は約７６億円。■Ｔｅｒｒａ　Ｄｒｏｎｅ ＜２７８Ａ＞ ［東証Ｇ］自律型ＡＩ迎撃ドローン「Ｔｅｒｒａ Ａ１ Ａｕｔｏｎｏｍｏｕｓ」の市場展開を開始・・・。",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202607211206",
-          "source": {
-            "name": "株探"
-          },
-          "publishedAt": "2026-07-21T11:00:00Z",
-          "image": "https://async.api.kabutan.jp/og_image?title=%E3%80%90%E6%98%8E%E6%97%A5%E3%81%AE%E5%A5%BD%E6%82%AA%E6%9D%90%E6%96%99%E3%80%91%E3%82%92%E9%96%8B%E7%A4%BA%E6%83%85%E5%A0%B1%E3%81%A7%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%EF%BC%81%20%287%E6%9C%8821%E6%97%A5%E7%99%BA%E8%A1%A8%E5%88%86%29",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Godzilla actor Kaylee Hottle dies in car crash at 18",
-          "description": "\"I'm so devastated to hear this. You will be deeply missed Kaylee,\" her Godzilla co-star Millie Bobby Brown posted on Instagram.",
-          "url": "https://www.1news.co.nz/2026/07/22/godzilla-actor-kaylee-hottle-dies-in-car-crash-at-18/",
+          "title": "Donald Trump hosts Lebanon's Aoun, says he'd speak with Hezbollah if asked",
+          "description": "Trump: US will hit Pickaxe Mountain 'pretty soon,' Iran desperate to hold talks after US strikes • Aoun: 'It's about time for Lebanon to be stable and secure'",
+          "url": "https://www.jpost.com/middle-east/article-903213",
           "source": {
-            "name": "1News"
+            "name": "The Jerusalem Post"
           },
-          "publishedAt": "2026-07-21T20:30:03Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/kaylee-hottle-in-2024-27CXQJWLHZHYRDZW6J64LMKFOY.jpg?auth=bf43d77eed40653985b5000a164621f0a0dd080b73d58733b4b6aa65ba4d64bc&quality=70&width=600&height=315&focal=1658%2C986",
+          "publishedAt": "2026-07-21T23:09:25Z",
+          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730857",
           "language": "en"
         },
         {
-          "title": "How to watch Samsung's Galaxy Unpacked event to see its latest foldables, watches, and more",
-          "description": "Live from London, early in the US",
-          "url": "https://www.androidpolice.com/how-to-watch-samsungs-galaxy-unpacked-event-to-see-its-latest-foldables-watches-and-more/",
+          "title": "Doing what Lionel Messi avoided!.. Emiliano Martinez stirs controversy over his future and confirms: \"The pain cannot be described\"",
+          "description": "The veteran Argentine goalkeeper Emiliano Martinez has stirred up \"controversy\" over his international future, following the loss of the 2026 World Cup title with his national team.",
+          "url": "https://www.goal.com/en-my/lists/doing-what-lionel-messi-avoided-emiliano-martinez-stirs-controversy-over-his-future-and-confirms-the-pain-cannot-be-described/blt0249523033d35330",
           "source": {
-            "name": "Android Police"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-07-21T20:28:59Z",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/samsung-galaxy-unpacked-july-ticket.png?w=1600&h=900&fit=crop",
+          "publishedAt": "2026-07-21T23:09:06Z",
+          "image": "https://assets.goal.com/images/v3/blt395c137b3679cbbb/crop/MM5DKMBQGU5DEOBRGU5G433XMU5DAORYGQ======/GettyImages-2280594153.jpg",
           "language": "en"
         },
         {
-          "title": "SIM Card Agent Jailed for Illegal Registration Linked to Fraud",
-          "description": "A court has sentenced an Airtel Uganda SIM card registration agent to one year in prison or a fine of UGX 500,000 after convicting him of violating Uganda's SIM card registration regulations. Patrick Wanyera was found guilty of unlawfully registering a subscriber outside an authorised SIM card registration point, signing the subscriber registration form on …",
-          "url": "https://chimpreports.com/sim-card-agent-jailed-for-illegal-registration-linked-to-fraud/",
+          "title": "Doing what Lionel Messi avoided!.. Emiliano Martinez stirs controversy over his future and confirms: \"The pain cannot be described\"",
+          "description": "The veteran Argentine goalkeeper Emiliano Martinez has stirred up \"controversy\" over his international future, following the loss of the 2026 World Cup title with his national team.",
+          "url": "https://www.goal.com/en-ug/lists/doing-what-lionel-messi-avoided-emiliano-martinez-stirs-controversy-over-his-future-and-confirms-the-pain-cannot-be-described/blt0249523033d35330",
           "source": {
-            "name": "ChimpReports"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-07-21T20:27:56Z",
-          "image": "https://cdn-network.chimpreports.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-21-at-18.56.03-1204x802.jpeg",
+          "publishedAt": "2026-07-21T23:08:48Z",
+          "image": "https://assets.goal.com/images/v3/blt395c137b3679cbbb/crop/MM5DKMBQGU5DEOBRGU5G433XMU5DAORYGQ======/GettyImages-2280594153.jpg",
           "language": "en"
         },
         {
-          "title": "Swimming can be clinically effective in reducing disability from chronic low back pain",
-          "description": "Australian research has shown for the first time that a program of swimming can be clinically effective in reducing disability from chronic low back pain.",
-          "url": "https://www.news-medical.net/news/20260721/Swimming-can-be-clinically-effective-in-reducing-disability-from-chronic-low-back-pain.aspx",
+          "title": "Doing what Lionel Messi avoided!.. Emiliano Martinez stirs controversy over his future and confirms: \"The pain cannot be described\"",
+          "description": "The veteran Argentine goalkeeper Emiliano Martinez has stirred up \"controversy\" over his international future, following the loss of the 2026 World Cup title with his national team.",
+          "url": "https://www.goal.com/en-au/lists/doing-what-lionel-messi-avoided-emiliano-martinez-stirs-controversy-over-his-future-and-confirms-the-pain-cannot-be-described/blt0249523033d35330",
           "source": {
-            "name": "News-Medical"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-07-21T20:26:00Z",
-          "image": "https://www.news-medical.net/image-handler/picture/2014/7/Disability-620x480.jpg",
+          "publishedAt": "2026-07-21T23:08:47Z",
+          "image": "https://assets.goal.com/images/v3/blt395c137b3679cbbb/crop/MM5DKMBQGU5DEOBRGU5G433XMU5DAORYGQ======/GettyImages-2280594153.jpg",
           "language": "en"
         },
         {
-          "title": "Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton",
-          "description": "Sgt. Michael Emmanuel Swinton, the 17th service member to be named, was killed during the disposal of a drone in northern Iraq.",
-          "url": "https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html",
+          "title": "FIFA president Gianni Infantino accused of 'destroying the football industry' with World Cup expansion",
+          "description": "FIFA president Gianni Infantino comes in for more heavy criticism, this time at the hands of La Liga boss Javier Tebas.",
+          "url": "https://www.abc.net.au/news/2026-07-22/fifa-president-gianni-infantino-destroying-football-javier-tebas/106943082",
           "source": {
-            "name": "The New York Times"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-07-21T20:25:29Z",
-          "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21nat-soldier17-named-mkbj/21nat-soldier17-named-mkbj-facebookJumbo.jpg",
+          "publishedAt": "2026-07-21T23:08:30Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/74367cec0d42b34a0ade5bd39b4b0e1e?impolicy=wcms_watermark_news&cropH=2212&cropW=3932&xPos=0&yPos=138&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Trump announces 50% tariffs on Canada. What it means for consumers",
-          "description": "The hit to Americans' budgets is likely to be limited after Trump announced a 50% tariff on many Canadian imports, unless they rely on buying them.",
-          "url": "https://www.usatoday.com/story/money/economy/2026/07/21/canada-tariffs-prices-rise-impact-limited/90993514007/",
+          "title": "Christopher Nolan's 'The Odyssey' Makes Universal Envy of the Industry",
+          "description": "With the smash opening of \"The Odyssey,\" Christopher Nolan becomes the most powerful director in town. It's also an important win for Universal.",
+          "url": "https://variety.com/2026/film/news/christopher-nolan-odyssey-success-donna-langley-universal-1236817681/",
           "source": {
-            "name": "USA Today"
+            "name": "Variety"
           },
-          "publishedAt": "2026-07-21T20:25:00Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/21/USAT/90993572007-20260719-t-223627-z-254609248-up-1-em-7-j-1-qspax-rtrmadp-3-soccerworldcupesparg.JPG?crop=7862,4423,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+          "publishedAt": "2026-07-21T23:08:00Z",
+          "image": "https://variety.com/wp-content/uploads/2026/07/IMG_0807.jpg?w=1000&h=563&crop=1",
           "language": "en"
         },
         {
-          "title": "Carney says he and Trump have agreed to ‘intensify’ trade negotiations",
-          "description": "Relations between Canada and its largest trading partner have been tested by Trump’s repeated jibes, threats and tariffs",
-          "url": "https://www.aljazeera.com/economy/2026/7/21/carney-says-he-and-trump-have-agreed-to-intensify-trade-negotiations",
+          "title": "$1.5 billion Phase 2 launched",
+          "description": "Canada’s busiest airport is in the midst of a $4.5B makeover.",
+          "url": "https://www.cp24.com/local/peel/2026/07/21/toronto-pearson-airport-launches-phase-2-of-its-45b-transformation/",
           "source": {
-            "name": "Al Jazeera"
+            "name": "CP24"
           },
-          "publishedAt": "2026-07-21T20:24:10Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2025/05/AFP__20250404__393G2PZ__v1__HighRes__CanadaUsTradeTariffsDiplomacy-1746804431.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-07-21T23:07:46Z",
+          "image": "https://www.cp24.com/resizer/v2/FED257I22NEG5AYWFMAMDUF7EE.JPG?smart=true&auth=ea807980deb4ecc9d8c011e033c3049b43818ae332e061526bb8cf44371d9998&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Canada faces tough choice on US trade",
-          "description": "The Canadian leader must weigh whether to make more concessions or take a tough stance as difficult trade talks drag on.",
-          "url": "https://www.bbc.co.uk/news/articles/cg5l2mn8lllo",
+          "title": "Coffee And Heart Health: Reassurance, Not A Prescription To Drink More",
+          "description": "A new American Heart Association statement redefines coffee's impact on heart health, moving from historical caution to reassurance.",
+          "url": "https://www.forbes.com/sites/robertglatter/2026/07/21/coffee-and-heart-health-reassurance-not-a-prescription-to-drink-more/",
           "source": {
-            "name": "BBC"
+            "name": "Forbes"
           },
-          "publishedAt": "2026-07-21T20:23:27Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e32f/live/44f282d0-8539-11f1-ab57-69b83adbeeff.jpg",
+          "publishedAt": "2026-07-21T23:06:39Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a5fe8803f2dd00025e711a1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
           "language": "en"
         },
         {
-          "title": "Cahill to continue as Tipperary manager until 2029",
-          "description": "Liam Cahill has been ratified as Tipperary senior hurling manager for another three years, with the Ballingarry man set to continue in the role up to the end of the 2029 season.",
-          "url": "https://www.rte.ie/sport/hurling/2026/0721/1584486-cahill-to-contine-as-tipperary-manager-until-2029/",
+          "title": "Aston Martin Vanquish 25 celebrates a quarter-century of British supercar muscle",
+          "description": "Limited-run Vanquish marks 25 years since the original model made its debut",
+          "url": "https://www.autoexpress.co.uk/aston-martin/vanquish/370054/aston-martin-vanquish-25-celebrates-quarter-century-british-supercar",
           "source": {
-            "name": "RTE.ie"
+            "name": "Auto Express"
           },
-          "publishedAt": "2026-07-21T20:23:15Z",
-          "image": "https://www.rte.ie/images/0023c8ba-1600.jpg",
+          "publishedAt": "2026-07-21T23:05:44Z",
+          "image": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1784631053/autoexpress/2026/07/Aston Martin Vanquish 25-5.jpg",
           "language": "en"
         },
         {
-          "title": "A Melbourne woman's family was told she was dead. She's still figuring out why",
-          "description": "Michelle Buckley vividly remembers the moment she was told she was supposed to be dead.",
-          "url": "https://www.rnz.co.nz/news/world/765306/a-melbourne-woman-s-family-was-told-she-was-dead-she-s-still-figuring-out-why",
+          "title": "Chelsea sign Rogers from Villa for reported UK record fee",
+          "description": "Chelsea signed England midfielder Morgan Rogers from Aston Villa on Tuesday in a deal British media valued at £117 million ($157 million), a price that smashed the transfer record for a British player.",
+          "url": "https://supersport.com/football/news/790eaf88-b9b8-45b2-a66b-105e5427c925/chelsea-sign-rogers-from-villa-for-reported-uk-record-fee",
           "source": {
-            "name": "RNZ"
+            "name": "supersport.com"
           },
-          "publishedAt": "2026-07-21T20:17:59Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--n4xL1X4D--/t_tohu-badge-facebook/f_auto/q_auto/4JL3P3X_25488336fb02a64c2d39765007379f4a_avif",
+          "publishedAt": "2026-07-21T23:05:18Z",
+          "image": "https://images.supersport.com/media/0nbo4mhl/morgan-rogers-22607-g-2000.jpg",
           "language": "en"
         }
       ]
