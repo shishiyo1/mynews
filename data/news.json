@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-22T11:10:14.497Z",
+  "updatedAt": "2026-07-22T13:57:31.681Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "トヨタの技術トップ 中嶋裕樹副社長兼CTO、「NVIDIAとの提携業務拡大は事実、自動車業界も最先端半導体を使っていくことを示せた」",
+          "description": "世界的なAI半導体メーカーであるNVIDIAが、7月16日に同社創業者兼CEO ジェンスン・フアン氏の来日に合わせて発表したのが、トヨタ自動車との提携関係の拡大。この発表では、CESやGTCで発表されたトヨタとの関係が単なる半導体採用ではなく、ソフトウェアエンジニアリング、工場のロボットシミュレーション、ウーブン・バイ・トヨタにおけるマルチモーダル・ビジョン言語モデルにまで拡大したことを明確にしていた。",
+          "url": "https://car.watch.impress.co.jp/docs/news/2126763.html",
+          "source": {
+            "name": "Car Watch"
+          },
+          "publishedAt": "2026-07-22T01:48:01Z",
+          "image": "https://car.watch.impress.co.jp/img/car/list/2126/763/001.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "延長国会で本格審議再開 自民幹部から「副首都」など優先に疑問の声",
+          "description": "会期を延長した国会では、21日から本格的な法案審議が再開されます。内閣支持率が下落する中、自民党幹部からも副首都法案などを優先して進めることに、疑問の声が上がっています。■高市総理「久々に5時間も睡",
+          "url": "https://news.tv-asahi.co.jp/news_politics/articles/000520832.html",
+          "source": {
+            "name": "テレ朝NEWS"
+          },
+          "publishedAt": "2026-07-22T01:41:53Z",
+          "image": "https://news.tv-asahi.co.jp/articles_img/000520832_1200.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "紫外線99%カット、レンズ濃度は自動変化。偏光機能まで搭載した鯖江のサングラス",
+          "description": "20gの軽さでズレにくく、偏光・調光・UVカットを1本に備えた大人気の「ゾルゲサングラス」。鯖江の技術とサステナブル素材を採用し、デイリー使いはもちろん、アウトドアやスポーツで活躍する1本です。",
+          "url": "https://www.gizmodo.jp/article/2607-costorypo-sorgesunglasses-end-1653326216/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-07-22T00:55:00Z",
+          "image": "https://media.loom-app.com/loom/2026/07/15/2e3b1aff-6be6-4379-8c35-ab503a2c08f0/original.png?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "【先輩エンジニア本音調査2026】約8割が後輩に言えない本音、最多は「質問前に仮説を」",
+          "description": "共同通信グループのプレスリリース配信メディア",
+          "url": "https://kyodonewsprwire.jp/release/202607072142",
+          "source": {
+            "name": "共同通信PRワイヤー"
+          },
+          "publishedAt": "2026-07-22T00:30:00Z",
+          "image": "https://kyodonewsprwire.jp/prwfile/release/M108838/202607072142/_prw_PI1lg_0G16q7yY.png",
+          "language": "ja"
+        },
+        {
+          "title": "大谷翔平、第２打席で幻のタイムリー「１番DH」でフィリーズ戦 雨で開始遅れ／速報中",
+          "description": "ドジャース大谷翔平投手は「1番DH」で先発出場。後半戦初アーチとなる23号は出るか。試合開始は当初午前7時40分の予定だったが雨のため遅れ同9時となった。ドジ… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/baseball/mlb/news/202607220000032.html",
+          "source": {
+            "name": "日刊スポーツ"
+          },
+          "publishedAt": "2026-07-22T00:20:00Z",
+          "image": "https://www.nikkansports.com/baseball/mlb/news/img/202607220000032-w500_0.jpg",
+          "language": "ja"
+        },
         {
           "title": "英国人史上最高額の255億円!! チェルシーがイングランド代表MFロジャーズを獲得!! 33年までの7年契約に",
           "description": "チェルシーは21日、アストン・ビラに所属するイングランド代表MFモーガン・ロジャーズの獲得を正式発表した。33年までの長期契約となり、英『スカイスポーツ』によると移籍金は英国人史上最高となる1億1700万ポ...",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-07-21T22:00:00Z",
           "image": "https://media.gqjapan.jp/photos/6a59b0d105f606b5e554f6f7/16:9/w_1280,c_limit/DSC_9278-Edit_(2).jpg",
           "language": "ja"
-        },
-        {
-          "title": "22日も危険な暑さに厳重警戒 名古屋・岐阜など 40℃以上の「酷暑日」",
-          "description": "今日22日も危険な暑さに厳重な警戒が必要です。九州から東北にかけて、広い範囲で35℃以上の猛暑日、さらには岐阜市や名古屋市、甲府市、熊谷市などで最高気温40℃以上の「酷暑日」が予想されています。屋外での活動は控えたり、こまめな水分補給を心掛けたりするなど、万全の熱中症対策をしてお過ごしください。",
-          "url": "https://tenki.jp/forecaster/s_ono/2026/07/22/39808.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-07-21T20:50:52Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/398/39808/main/20260722051749/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "福岡県議会カツアゲ疑惑 自民“72歳のドン”巡る「藏内税」とは 「あの人は筑後で一番現金を持っている」",
-          "description": "平成まで暴力団関連の発砲事件が絶えず、「修羅の国」と揶揄する声もあった福岡県。県警の「頂上作戦」により暴力団は青息吐息となり、かつての汚名は返上されつつある。ところが、こと政界では、別の意味での“",
-          "url": "https://news.yahoo.co.jp/articles/9c534a2789b29dea380ce6c31e195ed77a6e0cdd",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-21T20:00:25Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260722-01476837-shincho-000-3-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "映画『魔法のプリンセス ミンキーモモ』32年ぶりの新作映像が初公開。夢と希望の国“デジナーサ”を救う新たな物語が始まる。主人公・ミンキーモモ役は陽木くるみ",
-          "description": "映画『魔法のプリンセス ミンキーモモ 憧れの夢へ まごころの二重奏』の本ポスターと特報映像、メインキャストが公開された。主人公・桃/ミンキーモモ役は陽木くるみさん、デッタブック役は落合福嗣さん、チャモチャ役は藤原夏海さん、ピピルピ役は釘宮理恵さんが演じる。",
-          "url": "https://www.famitsu.com/article/202607/81981",
-          "source": {
-            "name": "ファミ通"
-          },
-          "publishedAt": "2026-07-21T20:00:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/81981/thumbnail_PftD.jpg?x=1280",
-          "language": "ja"
-        },
-        {
-          "title": "大河ドラマ「豊臣兄弟！」千利休役に吉岡秀隆、北条氏政役に谷原章介が決定 “徳川四天王”ら新キャストも",
-          "description": "大河ドラマ「豊臣兄弟！」千利休役に吉岡秀隆、北条氏政役に谷原章介が決定　“徳川四天王”ら新キャストも（WEBザテレビジョン）大河ドラマ「豊臣兄弟！」出演が決まった吉岡秀隆 / (C)高橋マナミ\n仲野太賀が主演を務める大河ドラマ「豊臣兄弟！」(毎週日曜夜8…",
-          "url": "https://topics.smt.docomo.ne.jp/article/thetv/entertainment/thetv-1426166?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-07-21T19:16:32Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/thetv/m_thetv-1426166.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【大河ドラマ 豊臣兄弟！】「天下一統編」の新キャスト 千利休に吉岡秀隆さん、北条氏政に谷原章介さん、榊原康政に栗原類さんなど９人",
-          "description": "大河ドラマ「豊臣兄弟！」では第29回（7月26日放送）から「天下一統編」がスタートします。新たな登場人物のうち、戦国の世に大きな影響を及ぼす茶人・千利休、関東の雄として兄弟の最後の壁となる北条氏政をはじめとする戦国武将な",
-          "url": "https://artexhibition.jp/topics/news/20260721-AEJ2952931/",
-          "source": {
-            "name": "美術展ナビ"
-          },
-          "publishedAt": "2026-07-21T19:01:00Z",
-          "image": "https://artexhibition.jp/wp-content/uploads/2026/07/a9fdb101073c845950ea7cc99c2ee9eb-1080x630.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Donald Trump hosts Lebanon's Aoun, says he'd speak with Hezbollah if asked",
-          "description": "Trump: US will hit Pickaxe Mountain 'pretty soon,' Iran desperate to hold talks after US strikes • Aoun: 'It's about time for Lebanon to be stable and secure'",
-          "url": "https://www.jpost.com/middle-east/article-903213",
+          "title": "Why unease is growing in Mt Kenya East region",
+          "description": "Flashpoint is apparent refusal by Mt Kenya West to back Ruto’s reelection in 2027",
+          "url": "https://www.the-star.co.ke/news/2026-07-22-why-unease-is-growing-in-mt-kenya-east-region",
           "source": {
-            "name": "The Jerusalem Post"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-07-21T23:09:25Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730857",
+          "publishedAt": "2026-07-22T01:57:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/02/21504428-60e6-4e51-9bdc-a580c0c22e7b.png?1784686385345",
           "language": "en"
         },
         {
-          "title": "Doing what Lionel Messi avoided!.. Emiliano Martinez stirs controversy over his future and confirms: \"The pain cannot be described\"",
-          "description": "The veteran Argentine goalkeeper Emiliano Martinez has stirred up \"controversy\" over his international future, following the loss of the 2026 World Cup title with his national team.",
-          "url": "https://www.goal.com/en-my/lists/doing-what-lionel-messi-avoided-emiliano-martinez-stirs-controversy-over-his-future-and-confirms-the-pain-cannot-be-described/blt0249523033d35330",
+          "title": "OpenAI Launches Program to Accelerate SMB AI Adoption",
+          "description": "OpenAI has launched a program designed to help small businesses use ChatGPT to increase their productivity and scale their businesses.",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-launches-program-to-accelerate-small-business-ai-adoption/",
           "source": {
-            "name": "Goal.com"
+            "name": "PYMNTS.com"
           },
-          "publishedAt": "2026-07-21T23:09:06Z",
-          "image": "https://assets.goal.com/images/v3/blt395c137b3679cbbb/crop/MM5DKMBQGU5DEOBRGU5G433XMU5DAORYGQ======/GettyImages-2280594153.jpg",
+          "publishedAt": "2026-07-22T01:56:52Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2025/08/OpenAI-artificial-intelligence-ChatGPT.jpg",
           "language": "en"
         },
         {
-          "title": "Doing what Lionel Messi avoided!.. Emiliano Martinez stirs controversy over his future and confirms: \"The pain cannot be described\"",
-          "description": "The veteran Argentine goalkeeper Emiliano Martinez has stirred up \"controversy\" over his international future, following the loss of the 2026 World Cup title with his national team.",
-          "url": "https://www.goal.com/en-ug/lists/doing-what-lionel-messi-avoided-emiliano-martinez-stirs-controversy-over-his-future-and-confirms-the-pain-cannot-be-described/blt0249523033d35330",
+          "title": "News and politics live updates: Pauline Hanson blasted for comments on domestic violence",
+          "description": "LIVE UPDATES: One Nation Leader Pauline Hanson has been blasted for comments she made during a radio interview about domestic violence.",
+          "url": "https://thenightly.com.au/politics/news-and-politics-live-updates-donald-trump-considers-joint-us-israel-military-campaign-against-iran-c-22610196",
           "source": {
-            "name": "Goal.com"
+            "name": "The Nightly"
           },
-          "publishedAt": "2026-07-21T23:08:48Z",
-          "image": "https://assets.goal.com/images/v3/blt395c137b3679cbbb/crop/MM5DKMBQGU5DEOBRGU5G433XMU5DAORYGQ======/GettyImages-2280594153.jpg",
+          "publishedAt": "2026-07-22T01:55:00Z",
+          "image": "https://images.thenightly.com.au/publication/C-22610196/7062dc1ce56c900c57d6e260f445ead1543fcf5e-16x9-x0y230w3000h1687.webp?imwidth=1200",
           "language": "en"
         },
         {
-          "title": "Doing what Lionel Messi avoided!.. Emiliano Martinez stirs controversy over his future and confirms: \"The pain cannot be described\"",
-          "description": "The veteran Argentine goalkeeper Emiliano Martinez has stirred up \"controversy\" over his international future, following the loss of the 2026 World Cup title with his national team.",
-          "url": "https://www.goal.com/en-au/lists/doing-what-lionel-messi-avoided-emiliano-martinez-stirs-controversy-over-his-future-and-confirms-the-pain-cannot-be-described/blt0249523033d35330",
+          "title": "Ryan Fox plans victory lap of NZ with Claret Jug after Open win",
+          "description": "The Open Championship winner has a long list of people ready to welcome him – and his Claret Jug – back home.",
+          "url": "https://www.1news.co.nz/2026/07/22/ryan-fox-plans-victory-lap-of-nz-with-claret-jug-after-open-win/",
           "source": {
-            "name": "Goal.com"
+            "name": "1News"
           },
-          "publishedAt": "2026-07-21T23:08:47Z",
-          "image": "https://assets.goal.com/images/v3/blt395c137b3679cbbb/crop/MM5DKMBQGU5DEOBRGU5G433XMU5DAORYGQ======/GettyImages-2280594153.jpg",
+          "publishedAt": "2026-07-22T01:53:41Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/theres-a-lot-to-process-ryan-fox-on-british-open-win-EUBA2Y3C7BG7ZEOLZNFPHJULIQ.png?auth=7043084b22829b8070bad6bd8a7560a88c0dba2bb5851c74210a7d7fd2d78d49&quality=70&width=600&height=315&focal=0%2C0",
           "language": "en"
         },
         {
-          "title": "FIFA president Gianni Infantino accused of 'destroying the football industry' with World Cup expansion",
-          "description": "FIFA president Gianni Infantino comes in for more heavy criticism, this time at the hands of La Liga boss Javier Tebas.",
-          "url": "https://www.abc.net.au/news/2026-07-22/fifa-president-gianni-infantino-destroying-football-javier-tebas/106943082",
+          "title": "Vector's majority shareholder says electricity market 'failing consumers'",
+          "description": "Entrust chair Denise Lee says the current system isn't delievering reliability or affordability.",
+          "url": "https://www.1news.co.nz/2026/07/22/vectors-majority-shareholder-says-electricity-market-failing-consumers/",
           "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+            "name": "1News"
           },
-          "publishedAt": "2026-07-21T23:08:30Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/74367cec0d42b34a0ade5bd39b4b0e1e?impolicy=wcms_watermark_news&cropH=2212&cropW=3932&xPos=0&yPos=138&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-07-22T01:52:11Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/entrust-chair-denise-lee-file-photo-FAYYOJ36F5BSXFOKLW7PUAITQY.jpg?auth=e5b477c4a6c2db883dffd323630912def8bddfea1a40fe8bd3fd15c1fce82e96&quality=70&width=600&height=315&focal=414%2C233",
           "language": "en"
         },
         {
-          "title": "Christopher Nolan's 'The Odyssey' Makes Universal Envy of the Industry",
-          "description": "With the smash opening of \"The Odyssey,\" Christopher Nolan becomes the most powerful director in town. It's also an important win for Universal.",
-          "url": "https://variety.com/2026/film/news/christopher-nolan-odyssey-success-donna-langley-universal-1236817681/",
+          "title": "Won't spare paper leakers, making exams foolproof: PM",
+          "description": "India News: NEW DELHI: PM Modi Tuesday said govt is taking measures to make the exam system \\\"foolproof\\\" and called for shunning partisan politics over paper leaks.",
+          "url": "https://timesofindia.indiatimes.com/india/wont-spare-paper-leakers-making-exams-foolproof-pm/articleshow/132549411.cms",
           "source": {
-            "name": "Variety"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-07-21T23:08:00Z",
-          "image": "https://variety.com/wp-content/uploads/2026/07/IMG_0807.jpg?w=1000&h=563&crop=1",
+          "publishedAt": "2026-07-22T01:51:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-132549440,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "$1.5 billion Phase 2 launched",
-          "description": "Canada’s busiest airport is in the midst of a $4.5B makeover.",
-          "url": "https://www.cp24.com/local/peel/2026/07/21/toronto-pearson-airport-launches-phase-2-of-its-45b-transformation/",
+          "title": "Canada, premiers push back on U.S. booze",
+          "description": "After announcing new tariffs Mark Carney says are 'in violation' of CUSMA, Donald Trump told reporters of Canada: 'Without us there’s no way they can survive.'",
+          "url": "https://www.bnnbloomberg.ca/tariffs/2026/07/22/premiers-push-back-against-us-booze-as-canada-reacts-to-trumps-latest-tariffs/",
           "source": {
-            "name": "CP24"
+            "name": "BNN Bloomberg"
           },
-          "publishedAt": "2026-07-21T23:07:46Z",
-          "image": "https://www.cp24.com/resizer/v2/FED257I22NEG5AYWFMAMDUF7EE.JPG?smart=true&auth=ea807980deb4ecc9d8c011e033c3049b43818ae332e061526bb8cf44371d9998&width=1200&height=630",
+          "publishedAt": "2026-07-22T01:47:00Z",
+          "image": "https://www.bnnbloomberg.ca/resizer/v2/5CPESFRQJNGTJPSITHE57WRDOE.jpg?smart=true&auth=82af98e698ad683cc903e2277a559d6dde6506888d3818195695e0c03317d46d&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Coffee And Heart Health: Reassurance, Not A Prescription To Drink More",
-          "description": "A new American Heart Association statement redefines coffee's impact on heart health, moving from historical caution to reassurance.",
-          "url": "https://www.forbes.com/sites/robertglatter/2026/07/21/coffee-and-heart-health-reassurance-not-a-prescription-to-drink-more/",
+          "title": "5th person dies in New York Legionnaires' disease outbreak",
+          "description": "A fifth person has died in a Legionnaires’ disease outbreak in New York City. Health officials made the announcement Tuesday night.",
+          "url": "https://apnews.com/article/legionnaires-disease-new-york-5942c978bf0860eeef0eb94717298e76",
           "source": {
-            "name": "Forbes"
+            "name": "AP News"
           },
-          "publishedAt": "2026-07-21T23:06:39Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a5fe8803f2dd00025e711a1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "publishedAt": "2026-07-22T01:47:00Z",
+          "image": "https://dims.apnews.com/dims4/default/0c84cf2/2147483647/strip/true/crop/2653x1768+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F92%2Fa1%2F4c60432bc0e9ca3219e126a5e271%2F7f6173fb26b74263a45165a679fb1e18",
           "language": "en"
         },
         {
-          "title": "Aston Martin Vanquish 25 celebrates a quarter-century of British supercar muscle",
-          "description": "Limited-run Vanquish marks 25 years since the original model made its debut",
-          "url": "https://www.autoexpress.co.uk/aston-martin/vanquish/370054/aston-martin-vanquish-25-celebrates-quarter-century-british-supercar",
+          "title": "Tributes flow for Sydney mother killed in backyard barbecue fire tragedy",
+          "description": "A Sydney mother trying to create a special school holiday memory for her children has died after suffering severe burns in a backyard accident. Charlotte...",
+          "url": "https://www.nzherald.co.nz/world/tributes-flow-for-sydney-mother-killed-in-backyard-barbecue-fire-tragedy/AOW5LKWZSJA73NLC2ZBJGCZAAE/",
           "source": {
-            "name": "Auto Express"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-07-21T23:05:44Z",
-          "image": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1784631053/autoexpress/2026/07/Aston Martin Vanquish 25-5.jpg",
+          "publishedAt": "2026-07-22T01:46:33Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/HHL73OQWERD7PIG4OHU6ZXDGLI.jpg?auth=74ce72f34609429ab25d5ade5df57c27ff6ca9bb108f84c932d33673fbdc549b&width=1200&height=675&quality=70&focal=583%2C589&smart=false",
           "language": "en"
         },
         {
-          "title": "Chelsea sign Rogers from Villa for reported UK record fee",
-          "description": "Chelsea signed England midfielder Morgan Rogers from Aston Villa on Tuesday in a deal British media valued at £117 million ($157 million), a price that smashed the transfer record for a British player.",
-          "url": "https://supersport.com/football/news/790eaf88-b9b8-45b2-a66b-105e5427c925/chelsea-sign-rogers-from-villa-for-reported-uk-record-fee",
+          "title": "Burnham pulls back on suggestion to increase tax-free personal allowance",
+          "description": "The new prime minister previously said voters were frustrated over the freeze in tax-free personal allowance.",
+          "url": "https://www.bbc.co.uk/news/articles/c935g67wyvgo",
           "source": {
-            "name": "supersport.com"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-21T23:05:18Z",
-          "image": "https://images.supersport.com/media/0nbo4mhl/morgan-rogers-22607-g-2000.jpg",
+          "publishedAt": "2026-07-22T01:43:54Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0f0/live/aef0e940-855e-11f1-bee8-53ce494e1abc.jpg",
           "language": "en"
         }
       ]
