@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-22T13:57:31.681Z",
+  "updatedAt": "2026-07-22T16:20:30.683Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "Keychron×ギズマート共同開発の左右分割キーボード「Keychron Orca echo」、支援総額5億円を突破",
+          "description": "［株式会社TNLメディアジーン］──ギズマート史上初の5億円プロジェクトに。クラウドファンディングは8月31日まで実施中 ──TNLメディアジーン（NASDAQ：TNMG）のグループ会社、株式会社メディアジーンが運営するギズモード・ジャパンのメディア連動型クラウドファンディングプラットフォーム「GIZMART」（以下、ギズマート）は、グローバルキーボードブランド「Keychron（キークロン）」と共同開発した左右分割キーボード「Keychron Orca echo（キークロン オルカ エコー）」…",
+          "url": "https://www.jiji.com/jc/article?k=000000138.000144504&g=prt",
+          "source": {
+            "name": "時事ドットコム"
+          },
+          "publishedAt": "2026-07-22T04:16:00Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/144504/138/144504-138-088e9dbdf0b81091be73a79d6423d80b-1066x626.png?width=536&quality=85%2C75&format=jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "Garmin初！軽量＆快適なバンド型ヘルス＆フィットネストラッカー『CIRQA Smart Band』を8月6日（木）に発売",
+          "description": "ガーミンジャパン株式会社のプレスリリース（2026年7月22日 13時04分）Garmin初！軽量＆快適なバンド型ヘルス＆フィットネストラッカー『CIRQA Smart Band』を8月6日（木）に発売",
+          "url": "https://prtimes.jp/main/html/rd/p/000000114.000135223.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-07-22T04:04:17Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/135223/114/135223-114-8e2885666b247d69b4bc477a51eac16e-2200x1450.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "改正皇室典範成立 産経「男系継承」堅持高く評価 他紙「総意でない」などと批判 社説検証",
+          "description": "皇族数確保策を盛り込んだ改正皇室典範が17日、成立した。皇族との養子縁組による旧宮家の男系男子の皇籍復帰と、女性皇族が婚姻後も皇族の身分を保持し続けるとの2つの制度を設けた。",
+          "url": "https://www.sankei.com/article/20260722-EGZJNPDY5JKEJFUCRFFVLLNKUE/",
+          "source": {
+            "name": "産経ニュース"
+          },
+          "publishedAt": "2026-07-22T04:00:00Z",
+          "image": "https://www.sankei.com/resizer/v2/JSHWEQVHJRLPLO3A36MYTQQBPI.jpg?auth=c0cbaa7b71c00992c0c8cc7cce765719d134f4c7e517ab0f45955d5443c37f7e&quality=50&smart=true&width=1200&height=675",
+          "language": "ja"
+        },
+        {
+          "title": "ドジャースの走塁プレーに賛否（Yahoo!ニュース オリジナル THE PAGE）",
+          "description": "ドジャースの試合で発生したアルフォンソ選手と大谷選手の走塁プレーについて、Yahoo!ニュースのコメント欄で話題になっています。\nコメントでは、アルフォンソ選手がホームインを確実にできる場面で減速し",
+          "url": "https://news.yahoo.co.jp/articles/6557badf728cd19829dd2099d6a439da29b7eb1d",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-22T02:19:22Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260722-00000013-wordleafai-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "ガーミン、画面なし健康トラッカー「CIRQA Smart Band」発表 約3万3000円",
+          "description": "ガーミンは、手首または上腕に装着できる健康トラッカー「CIRQA Smart Band」を発表した。",
+          "url": "https://japan.cnet.com/article/35250844/",
+          "source": {
+            "name": "CNET Japan"
+          },
+          "publishedAt": "2026-07-22T02:13:00Z",
+          "image": "https://japan.cnet.com/storage/2026/07/22/a235764922037e5f23fb7fbd9497f650/Garmin-Cirqa-pink_1280x960.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "PE-BANK、AIアスリートとなる学生を発掘・育成する「第7回全国学生AIアスリート選手権大会 シンギュラリティバトルクエスト2026」に協賛",
+          "description": "株式会社PEｰBANKのプレスリリース（2026年7月22日 11時00分）PE-BANK、AIアスリートとなる学生を発掘・育成する「第7回全国学生AIアスリート選手権大会　シンギュラリティバトルクエスト2026」に協賛",
+          "url": "https://prtimes.jp/main/html/rd/p/000000423.000012015.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-07-22T02:00:02Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/12015/423/12015-423-4d1ee5d653239086d1b35130c6c7bab4-3900x1300.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "ちょっと早いけどPixel 11aのスペックがリーク。チップのアップデート中心か？",
+          "description": "Googleのスマホ、Pixelシリーズ。中でも、前年のフラッグシップ機に投入された機能やスペックをお手頃価格で体験できるPixel aシリーズは人気のモデルです。が、日本では今年の春リリースされたPixel 10aは、ほぼPixel 9a",
+          "url": "https://www.gizmodo.jp/article/this-years-budget-pixel-might-be-less-of-a-cop-out/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-07-22T02:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/07/21/30b471c2-4270-45e9-b77e-9bfd7d96f30b/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
         {
           "title": "トヨタの技術トップ 中嶋裕樹副社長兼CTO、「NVIDIAとの提携業務拡大は事実、自動車業界も最先端半導体を使っていくことを示せた」",
           "description": "世界的なAI半導体メーカーであるNVIDIAが、7月16日に同社創業者兼CEO ジェンスン・フアン氏の来日に合わせて発表したのが、トヨタ自動車との提携関係の拡大。この発表では、CESやGTCで発表されたトヨタとの関係が単なる半導体採用ではなく、ソフトウェアエンジニアリング、工場のロボットシミュレーション、ウーブン・バイ・トヨタにおけるマルチモーダル・ビジョン言語モデルにまで拡大したことを明確にしていた。",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-07-22T00:55:00Z",
           "image": "https://media.loom-app.com/loom/2026/07/15/2e3b1aff-6be6-4379-8c35-ab503a2c08f0/original.png?w=1200&h=630",
           "language": "ja"
-        },
-        {
-          "title": "【先輩エンジニア本音調査2026】約8割が後輩に言えない本音、最多は「質問前に仮説を」",
-          "description": "共同通信グループのプレスリリース配信メディア",
-          "url": "https://kyodonewsprwire.jp/release/202607072142",
-          "source": {
-            "name": "共同通信PRワイヤー"
-          },
-          "publishedAt": "2026-07-22T00:30:00Z",
-          "image": "https://kyodonewsprwire.jp/prwfile/release/M108838/202607072142/_prw_PI1lg_0G16q7yY.png",
-          "language": "ja"
-        },
-        {
-          "title": "大谷翔平、第２打席で幻のタイムリー「１番DH」でフィリーズ戦 雨で開始遅れ／速報中",
-          "description": "ドジャース大谷翔平投手は「1番DH」で先発出場。後半戦初アーチとなる23号は出るか。試合開始は当初午前7時40分の予定だったが雨のため遅れ同9時となった。ドジ… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/baseball/mlb/news/202607220000032.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-07-22T00:20:00Z",
-          "image": "https://www.nikkansports.com/baseball/mlb/news/img/202607220000032-w500_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "英国人史上最高額の255億円!! チェルシーがイングランド代表MFロジャーズを獲得!! 33年までの7年契約に",
-          "description": "チェルシーは21日、アストン・ビラに所属するイングランド代表MFモーガン・ロジャーズの獲得を正式発表した。33年までの長期契約となり、英『スカイスポーツ』によると移籍金は英国人史上最高となる1億1700万ポ...",
-          "url": "https://web.gekisaka.jp/news/world/detail/?455712-455712-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-07-21T23:08:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455712/news_455712_1.jpg?time=20260722080841",
-          "language": "ja"
-        },
-        {
-          "title": "土屋鞄 objcts.io、上質な光沢感のナイロンデイパック・ホーボー",
-          "description": "土屋鞄製造所のレザープロダクトブランド・objcts.ioは、イタリア・リモンタ社製のナイロンを使用した「エッセンシャル ナイロンホーボー」「エッセンシャル ナイロンデイパック」を7月29日に発売する。価格は38,500円から50,600円。",
-          "url": "https://www.watch.impress.co.jp/docs/news/2126227.html",
-          "source": {
-            "name": "Impress Watch"
-          },
-          "publishedAt": "2026-07-21T23:00:00Z",
-          "image": "https://www.watch.impress.co.jp/img/ipw/list/2126/227/objcts_00.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Google Workspace、7月13日に発表したアップデートをまとめて紹介",
-          "description": "Googleは7月17日（現地時間）、7月13日に発表したGoogle Workspaceのアップデートをまとめて紹介した。 Google Credential Provider for Windo...",
-          "url": "https://codezine.jp/news/detail/29042",
-          "source": {
-            "name": "CodeZine"
-          },
-          "publishedAt": "2026-07-21T23:00:00Z",
-          "image": "https://codezine.jp/static/images/article/29042/1200goo.png",
-          "language": "ja"
-        },
-        {
-          "title": "２２日の東京株式市場見通し＝続伸後はもみ合いか 速報",
-          "description": "予想レンジ：６万６５００円－６万７２００円（２１日終値６万６２３２円１９銭）　２２日の東京株式は続伸後、もみ合いか。現地２１日の米国株高を追い風に、買い先行が見込まれる。為替相場は、１ドル＝１６３円・・・",
-          "url": "https://kabushiki.jp/news/758610",
-          "source": {
-            "name": "kabushiki.jp"
-          },
-          "publishedAt": "2026-07-21T22:47:00Z",
-          "image": "https://kabushiki.jp/ogp.png",
-          "language": "ja"
-        },
-        {
-          "title": "愛車の履歴書──Vol90 岡本健一さん（前編）",
-          "description": "愛車を見せてもらえば、その人の人生が見えてくる。気になる人のクルマに隠されたエピソードをたずねるシリーズ第90回の前編。俳優・アーティストの岡本健一さんが、かつて乗っていた愛車と再会した。",
-          "url": "https://www.gqjapan.jp/article/20260722-kenichi-okamoto-my-car-history-vol1",
-          "source": {
-            "name": "GQ Japan"
-          },
-          "publishedAt": "2026-07-21T22:00:00Z",
-          "image": "https://media.gqjapan.jp/photos/6a59b0d105f606b5e554f6f7/16:9/w_1280,c_limit/DSC_9278-Edit_(2).jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Why unease is growing in Mt Kenya East region",
-          "description": "Flashpoint is apparent refusal by Mt Kenya West to back Ruto’s reelection in 2027",
-          "url": "https://www.the-star.co.ke/news/2026-07-22-why-unease-is-growing-in-mt-kenya-east-region",
-          "source": {
-            "name": "the-star.co.ke"
-          },
-          "publishedAt": "2026-07-22T01:57:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/02/21504428-60e6-4e51-9bdc-a580c0c22e7b.png?1784686385345",
-          "language": "en"
-        },
-        {
-          "title": "OpenAI Launches Program to Accelerate SMB AI Adoption",
-          "description": "OpenAI has launched a program designed to help small businesses use ChatGPT to increase their productivity and scale their businesses.",
-          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-launches-program-to-accelerate-small-business-ai-adoption/",
-          "source": {
-            "name": "PYMNTS.com"
-          },
-          "publishedAt": "2026-07-22T01:56:52Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2025/08/OpenAI-artificial-intelligence-ChatGPT.jpg",
-          "language": "en"
-        },
-        {
-          "title": "News and politics live updates: Pauline Hanson blasted for comments on domestic violence",
-          "description": "LIVE UPDATES: One Nation Leader Pauline Hanson has been blasted for comments she made during a radio interview about domestic violence.",
-          "url": "https://thenightly.com.au/politics/news-and-politics-live-updates-donald-trump-considers-joint-us-israel-military-campaign-against-iran-c-22610196",
-          "source": {
-            "name": "The Nightly"
-          },
-          "publishedAt": "2026-07-22T01:55:00Z",
-          "image": "https://images.thenightly.com.au/publication/C-22610196/7062dc1ce56c900c57d6e260f445ead1543fcf5e-16x9-x0y230w3000h1687.webp?imwidth=1200",
-          "language": "en"
-        },
-        {
-          "title": "Ryan Fox plans victory lap of NZ with Claret Jug after Open win",
-          "description": "The Open Championship winner has a long list of people ready to welcome him – and his Claret Jug – back home.",
-          "url": "https://www.1news.co.nz/2026/07/22/ryan-fox-plans-victory-lap-of-nz-with-claret-jug-after-open-win/",
-          "source": {
-            "name": "1News"
-          },
-          "publishedAt": "2026-07-22T01:53:41Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/theres-a-lot-to-process-ryan-fox-on-british-open-win-EUBA2Y3C7BG7ZEOLZNFPHJULIQ.png?auth=7043084b22829b8070bad6bd8a7560a88c0dba2bb5851c74210a7d7fd2d78d49&quality=70&width=600&height=315&focal=0%2C0",
-          "language": "en"
-        },
-        {
-          "title": "Vector's majority shareholder says electricity market 'failing consumers'",
-          "description": "Entrust chair Denise Lee says the current system isn't delievering reliability or affordability.",
-          "url": "https://www.1news.co.nz/2026/07/22/vectors-majority-shareholder-says-electricity-market-failing-consumers/",
-          "source": {
-            "name": "1News"
-          },
-          "publishedAt": "2026-07-22T01:52:11Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/entrust-chair-denise-lee-file-photo-FAYYOJ36F5BSXFOKLW7PUAITQY.jpg?auth=e5b477c4a6c2db883dffd323630912def8bddfea1a40fe8bd3fd15c1fce82e96&quality=70&width=600&height=315&focal=414%2C233",
-          "language": "en"
-        },
-        {
-          "title": "Won't spare paper leakers, making exams foolproof: PM",
-          "description": "India News: NEW DELHI: PM Modi Tuesday said govt is taking measures to make the exam system \\\"foolproof\\\" and called for shunning partisan politics over paper leaks.",
-          "url": "https://timesofindia.indiatimes.com/india/wont-spare-paper-leakers-making-exams-foolproof-pm/articleshow/132549411.cms",
+          "title": "David Warner pleads guilty to drink-driving, could face 9-month jail term and hefty fine",
+          "description": "Cricket News: NEW DELHI: Former Australia opener David Warner has pleaded guilty to a drink-driving charge after being stopped during a random breath test in Sydney.",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/david-warner-pleads-guilty-to-drink-driving-could-face-9-month-jail-term-and-hefty-fine/articleshow/132550901.cms",
           "source": {
             "name": "The Times of India"
           },
-          "publishedAt": "2026-07-22T01:51:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-132549440,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-07-22T04:20:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-132550949,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Canada, premiers push back on U.S. booze",
-          "description": "After announcing new tariffs Mark Carney says are 'in violation' of CUSMA, Donald Trump told reporters of Canada: 'Without us there’s no way they can survive.'",
-          "url": "https://www.bnnbloomberg.ca/tariffs/2026/07/22/premiers-push-back-against-us-booze-as-canada-reacts-to-trumps-latest-tariffs/",
+          "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+          "description": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities.",
+          "url": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
           "source": {
-            "name": "BNN Bloomberg"
+            "name": "The Hacker News"
           },
-          "publishedAt": "2026-07-22T01:47:00Z",
-          "image": "https://www.bnnbloomberg.ca/resizer/v2/5CPESFRQJNGTJPSITHE57WRDOE.jpg?smart=true&auth=82af98e698ad683cc903e2277a559d6dde6506888d3818195695e0c03317d46d&width=1200&height=630",
+          "publishedAt": "2026-07-22T04:18:00Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1700-e365/openai.jpg",
           "language": "en"
         },
         {
-          "title": "5th person dies in New York Legionnaires' disease outbreak",
-          "description": "A fifth person has died in a Legionnaires’ disease outbreak in New York City. Health officials made the announcement Tuesday night.",
-          "url": "https://apnews.com/article/legionnaires-disease-new-york-5942c978bf0860eeef0eb94717298e76",
-          "source": {
-            "name": "AP News"
-          },
-          "publishedAt": "2026-07-22T01:47:00Z",
-          "image": "https://dims.apnews.com/dims4/default/0c84cf2/2147483647/strip/true/crop/2653x1768+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F92%2Fa1%2F4c60432bc0e9ca3219e126a5e271%2F7f6173fb26b74263a45165a679fb1e18",
-          "language": "en"
-        },
-        {
-          "title": "Tributes flow for Sydney mother killed in backyard barbecue fire tragedy",
-          "description": "A Sydney mother trying to create a special school holiday memory for her children has died after suffering severe burns in a backyard accident. Charlotte...",
-          "url": "https://www.nzherald.co.nz/world/tributes-flow-for-sydney-mother-killed-in-backyard-barbecue-fire-tragedy/AOW5LKWZSJA73NLC2ZBJGCZAAE/",
+          "title": "Highway showdown: Pāpāmoa altercation caught on video as car knocks man off his feet",
+          "description": "A man involved in an apparent road rage incident in Pāpāmoa was reversed into by a vehicle, launching him into the air. The altercation was caught on video...",
+          "url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/highway-showdown-papamoa-altercation-caught-on-video-as-car-knocks-man-off-his-feet/NOQYHT6ABBFJ7KIUOGPLXHNAFU/",
           "source": {
             "name": "NZ Herald"
           },
-          "publishedAt": "2026-07-22T01:46:33Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/HHL73OQWERD7PIG4OHU6ZXDGLI.jpg?auth=74ce72f34609429ab25d5ade5df57c27ff6ca9bb108f84c932d33673fbdc549b&width=1200&height=675&quality=70&focal=583%2C589&smart=false",
+          "publishedAt": "2026-07-22T04:18:00Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/JFDVSSKN4ZG5JLNI7TP55W4GIU.jpg?auth=a0a68f359b070b3835809a6f2df4728badf01c5d229c1e4297e755f05a2b46b4&width=1200&height=675&quality=70&focal=1046%2C753&smart=false",
           "language": "en"
         },
         {
-          "title": "Burnham pulls back on suggestion to increase tax-free personal allowance",
-          "description": "The new prime minister previously said voters were frustrated over the freeze in tax-free personal allowance.",
-          "url": "https://www.bbc.co.uk/news/articles/c935g67wyvgo",
+          "title": "PLDT Home brings all your digital essentials in one bundle with the new Fiber Unli All plans",
+          "description": "Between streaming subscriptions, mobile data, TV services, and home internet, today's families are juggling more digital subscriptions than ever before. While...",
+          "url": "https://mb.com.ph/2026/07/22/pldt-home-brings-all-your-digital-essentials-in-one-bundle-with-the-new-fiber-unli-all-plans",
           "source": {
-            "name": "BBC"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-07-22T01:43:54Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0f0/live/aef0e940-855e-11f1-bee8-53ce494e1abc.jpg",
+          "publishedAt": "2026-07-22T04:15:37Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/22/117851.webp",
+          "language": "en"
+        },
+        {
+          "title": "Xiaomi Redmi Note 17 Pro Max 5G heads for global release",
+          "description": "The Xiaomi Redmi Note 17 series has surfaced in new regulatory certifications. The listings reveal two models for the global market: the Redmi Note 17 5G and the Redmi Note 17 Pro Max 5G.",
+          "url": "https://www.notebookcheck.net/Xiaomi-Redmi-Note-17-Pro-Max-5G-heads-for-global-release.1348844.0.html",
+          "source": {
+            "name": "Notebookcheck"
+          },
+          "publishedAt": "2026-07-22T04:15:00Z",
+          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/xiaomi-redmi-note-17-pro-max-global-news.png",
+          "language": "en"
+        },
+        {
+          "title": "DPIRD issues shark advice after dolphin carcasses reported by Parks and Wildlife officers off Albany harbour",
+          "description": "A shark advice was issued for Albany’s Princess Royal Harbour on Wednesday morning after dolphin carcasses were spotted at Melville Point.",
+          "url": "https://www.albanyadvertiser.com.au/news/wa/dpird-issues-shark-advice-after-dolphin-carcasses-reported-by-parks-and-wildlife-officers-off-albany-harbour--c-22611934",
+          "source": {
+            "name": "The Albany Advertiser"
+          },
+          "publishedAt": "2026-07-22T04:14:58Z",
+          "image": "https://images.thewest.com.au/publication/C-22611934/b08128104861a4469d4982e4a33318328e7d0efc-16x9-x0y94w4152h2336.jpg?imwidth=1200",
+          "language": "en"
+        },
+        {
+          "title": "AAT, Suthisak Studio launch pro bono campaign for Siriraj Hospital cancer foundation",
+          "description": "The Advertising Association of Thailand (AAT) has partnered with Suthisak Studio and Play Digital Agency to launch a pro bono public service campaign for The Foundation for Cancer Care Siriraj Hospital, highlighting the harsh reality that for many families, serious illness is simply unaffordable.",
+          "url": "https://campaignbriefasia.com/2026/07/22/aat-suthisak-studio-launch-pro-bono-campaign-for-siriraj-hospital-cancer-foundation/",
+          "source": {
+            "name": "Campaign Brief Asia"
+          },
+          "publishedAt": "2026-07-22T04:14:39Z",
+          "image": "https://campaignbriefasia.com/wp-content/uploads/sites/2/2026/07/Cancer-Care-Siriraj-Hospital2.jpg",
+          "language": "en"
+        },
+        {
+          "title": "A winning journey: From HONOR 600 to Mercedes-Benz EQA",
+          "description": "HONOR Philippines has officially awarded the grand prize of its much-anticipated HONOR 600 Win-a-Benz Promo, turning one lucky HONOR fan into the proud owner of...",
+          "url": "https://mb.com.ph/2026/07/22/a-winning-journey-from-honor-600-to-mercedes-benz-eqa",
+          "source": {
+            "name": "Manila Bulletin"
+          },
+          "publishedAt": "2026-07-22T04:12:37Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/22/117850.webp",
+          "language": "en"
+        },
+        {
+          "title": "Traces of grass used in Indigenous rituals 25,000 years ago unearthed in Victorian cave",
+          "description": "Evidence of ancient burnt grasses unearthed in a Victorian cave on GunaiKurnai country suggest old ancestors used the cave for fire rituals during the Ice Age.",
+          "url": "https://www.abc.net.au/news/science/2026-07-22/gunaikurnai-plant-burnt-25000-years-cave-study/106936554",
+          "source": {
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+          },
+          "publishedAt": "2026-07-22T04:12:29Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/868cbbf3f3c622367aa5130ccb196a34?impolicy=wcms_watermark_news&cropH=2772&cropW=4928&xPos=0&yPos=436&width=862&height=485&imformat=generic",
+          "language": "en"
+        },
+        {
+          "title": "Karua to Kenya Kwanza: Be good losers, accept Ol Kalou defeat",
+          "description": "\"That is democracy. Kenyans have lost patience and faith in you,\" Karua said.",
+          "url": "https://www.the-star.co.ke/news/2026-07-22-karua-to-uda-be-good-losers-accept-defeat",
+          "source": {
+            "name": "the-star.co.ke"
+          },
+          "publishedAt": "2026-07-22T04:12:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/07/15044059-e164-4042-a22f-6b2f9a18db19.webp?1784695757492",
           "language": "en"
         }
       ]
