@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-23T16:27:11.704Z",
+  "updatedAt": "2026-07-23T19:19:09.243Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "キオクシアについて、東芝は保有割合が減少したと報告 [変更報告書No.18]",
+          "description": "キオクシアホールディングス <285A> について、東芝は7月23日受付で財務省に変更報告書...",
+          "url": "https://s.kabutan.jp/news/n202607231177/",
+          "source": {
+            "name": "株探"
+          },
+          "publishedAt": "2026-07-23T07:03:02Z",
+          "image": "https://async.api.kabutan.jp/og_image?title=%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%80%81%E6%9D%B1%E8%8A%9D%E3%81%AF%E4%BF%9D%E6%9C%89%E5%89%B2%E5%90%88%E3%81%8C%E6%B8%9B%E5%B0%91%E3%81%97%E3%81%9F%E3%81%A8%E5%A0%B1%E5%91%8A%20%5B%E5%A4%89%E6%9B%B4%E5%A0%B1%E5%91%8A%E6%9B%B8No.18%5D",
+          "language": "ja"
+        },
+        {
+          "title": "今日23日 今年初の41℃台を観測 酷暑日は今年最多の6地点 24日も酷暑日予想",
+          "description": "今日23日も各地で災害級の暑さとなり、佐久間(静岡県)では今年全国で初めて41℃を上回りました。40℃以上の酷暑日となった所は6地点で、今年最多となりました。明日24日も東海や近畿で酷暑日が予想され、引き続き熱中症に最大級の警戒が必要です。",
+          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/07/23/39831.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-23T06:29:22Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/398/39831/main/20260723145851/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "VITURE、グラス無償提供の支援企画「世界の見方を変えよう」開始、「VITURE Luma Ultra」最大100枠を無償提供",
+          "description": "VITURE Inc.は日本のクリエイターおよびコミュニティを対象とした支援企画「世界の見方を変えよう」を開始しました。 本企画では、XRグラス「VITURE Luma Ultra」を個人クリエイター最大50名・団体最大 […]",
+          "url": "https://www.moguravr.com/viture-creator-support-program-2026/",
+          "source": {
+            "name": "Mogura VR"
+          },
+          "publishedAt": "2026-07-23T05:35:09Z",
+          "image": "https://assets.moguravr.com/uploads/2026/07/5a558ef033768c90a93d7414513bf992-kix.lvu43rel7ybg.webp",
+          "language": "ja"
+        },
+        {
+          "title": "アメリカ、サウジアラビアとの画期的な原子力協定に署名 ウラン濃縮への懸念の声も",
+          "description": "アメリカとサウジアラビアは22日、民生用の原子力協力協定に署名した。アメリカの技術を用いて、サウジアラビアの原発事業を推進するもので、将来的にはウラン濃縮ができるようになる可能性があると報じられている。",
+          "url": "https://www.bbc.com/japanese/articles/c0rdq7vgzxwo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-07-23T05:31:09Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/63a6/live/6a9afff0-85af-11f1-9454-77c2271a5b4a.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ウクライナ、ロシアの通販大手の倉庫を相次ぎ攻撃 中小企業に打撃",
+          "description": "ウクライナ軍は22日、ロシアのオンライン・マーケットプレイス（市場）最大手ワイルドベリーズが所有する複数の倉庫をドローンで攻撃した。これにより、ロシア国内の多数の中小企業が影響を受けている。ウクライナは、ロシアが軍事装備を購入するために利用する物流拠点を標的にし、軍への物資供給を妨害していると述べている。",
+          "url": "https://www.bbc.com/japanese/articles/cg7mz1nmze0o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-07-23T04:31:09Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/3c64/live/d7b13ca0-85f3-11f1-8ade-a7a676c613b9.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ウクライナ、ロシアの通販大手の倉庫を相次ぎ攻撃 中小企業に打撃",
+          "description": "ソフィア・ウォリャノワ、ヤロスラヴァ・キリュヒナ、アマリア・ザタリ、タティアナ・コフトゥン（BBCニュースロシア語）\nウクライナ軍は22日、ロシアのオンライン・マーケットプレイス（市場）最大手ワイ",
+          "url": "https://news.yahoo.co.jp/articles/6f583e922325668d3caf330b3525a392184682c2",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-23T04:28:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260723-16387347-bbc-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "感覚過敏の当事者と一緒に考える、音楽ライブにおける新たな鑑賞体験と未来像②",
           "description": "都市型音楽フェス『CENTRAL MUSIC ＆ ENTERTAINMENT FESTIVAL 2026』で実施した、感覚過敏のある来場者を対象とする概念実証について、感覚過敏の当事者と関係スタッフが語り合う座談会。",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-07-23T02:40:17Z",
           "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/398/39825/ogp/20260723095550/large.jpg",
           "language": "ja"
-        },
-        {
-          "title": "複数のバッテリーがあるiPhone？ iOS 27のコードから発掘されたUltraの気配",
-          "description": "そんなiPhone、存在していないぞ？ 今は。出るか出ないのか、嘘か真か、折りたたみiPhone、iPhone Ultra（仮称）。これまでさまざまな噂が聞こえていますが、その実在確率をさらに上げる新たな情報が入ってきました。MacRumo",
-          "url": "https://www.gizmodo.jp/article/rumors-of-iphone-with-multiple-batteries/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-07-23T02:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/07/22/67c8a722-985c-4922-bf64-5dbd37e7ea72/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "【F1】アップデートでホンダの強みが本領発揮される？ 浅木泰昭「レッドブルの位置まで戻れる可能性も」",
-          "description": "【連載】元ホンダ・浅木泰昭「F1解説・アサキの視点」第14回（前編）\n　2026年シーズンからアストンマーティンと組み、ワークス復帰を果たしたホンダ。ファンの大きな期待を集めてスタートを切ったが、",
-          "url": "https://news.yahoo.co.jp/articles/b9f3bb3c8805a0c9019f24c5fb8b0bf5be084511",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-23T01:05:01Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260723-01117230-sportiva-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "強力エアフロー＆“魅せる”内部構造が素敵！Ryzen 9 9950X3D2＆RTX 5070のポテンシャルをASRockで引き出すゲーミングPCはいかが？",
-          "description": "パソコンショップSEVENの「ZEFT R65YB」は、‟しっかり魅せてしっかり冷やせる”ゲーミングPCだ。ASRock製PCパーツを多く採用している点にも注目！",
-          "url": "https://ascii.jp/elem/000/004/419/4419680/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-07-23T01:00:00Z",
-          "image": "https://ascii.jp/img/2026/07/15/4500737/xl/77cd260765c3dffd.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "GeForce RTX 5070搭載ゲーミングノートが9万円オフの26万円に。\"ビッグサマーセール\"は8月5日まで。ゲーミングPCが最大14万円オフ【マウスコンピューター】",
-          "description": "マウスコンピューター公式ECサイトにてゲーミングデスクトップPCとノートPCが最大14万円オフで購入できる“ビッグサマーセール\"が2026年8月5日10時59分までの期間で開催中。",
-          "url": "https://www.famitsu.com/article/202607/82192",
-          "source": {
-            "name": "ファミ通"
-          },
-          "publishedAt": "2026-07-23T00:00:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/None/thumbnail_zwcJ.jpg?x=1280",
-          "language": "ja"
-        },
-        {
-          "title": "（朝）米国市場は3指数揃って下落 決算への警戒や中東情勢への懸念から売り優勢の展開へ",
-          "description": "【米国株式市場】ニューヨーク市場NYダウ：　52,218.58　▼6.06　（7/22）NASDAQ：　25,690.90　▼146.30　（7/22）1.概況米国市場は主要3指数が揃って下落しました。今後の決算シーズンへの警戒感や中東情勢悪化を背景とした原油高が重荷となり売り優勢となりました。....",
-          "url": "https://media.monex.co.jp/articles/-/29799",
-          "source": {
-            "name": "マネクリ"
-          },
-          "publishedAt": "2026-07-22T23:07:00Z",
-          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "リンゴマークに囲まれている方に朗報。なんとAppleデバイス専用クロスが登場しました|au Webポータル",
-          "description": "しかも3枚セットだよ。iPhoneにApple Watch、MacBookにiPad…。気がつくと身の回りには、Appleデバイスでいっぱい。そんな人も多いことでしょう。ガジェット類というのは、結構汚",
-          "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260723_1784765207323295",
-          "source": {
-            "name": "au Webポータル"
-          },
-          "publishedAt": "2026-07-22T23:00:00Z",
-          "image": "https://portal.st-img.jp/thumb/6fb2820d139c78aca0353616fe62b99c_1784765207_l.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "CAM MUNSTER BOMBSHELL: Storm superstar given permission to speak with rival NRL club",
-          "description": "MUNSTER BOMBSHELL: Storm superstar given permission to speak with rival club",
-          "url": "https://www.foxsports.com.au/nrl/nrl-premiership/nrl-2026-cameron-munster-granted-permission-to-speak-with-png-chiefs-melbourne-storm-transfer-news-whispers/news-story/2764542dcfbb7cc1d41681aa21608d25",
+          "title": "Personal and banking details among customer data stolen in Origin Energy hack",
+          "description": "Hackers access Australian customers’ names, addresses, dates of birth, phone numbers and some bank account details, company says",
+          "url": "https://www.theguardian.com/australia-news/2026/jul/23/personal-and-banking-details-among-customer-data-stolen-in-origin-energy-hack",
           "source": {
-            "name": "Fox Sports"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-07-23T04:26:54Z",
-          "image": "https://content.api.news/v3/images/bin/a45f384ccc165acae977a372701f5347",
+          "publishedAt": "2026-07-23T07:18:00Z",
+          "image": "https://i.guim.co.uk/img/media/13e2f1b00d2aaf0332a01d443b8acb648ec68fd6/55_0_2915_2332/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f18ed882cb8f0529166249a66f57a64a",
           "language": "en"
         },
         {
-          "title": "Tear gas, stones, bottles: Video shows late-night clash during CJP protest in Delhi",
-          "description": "NEW DELHI: Fresh violence erupted during the Cockroach Janta Party’s (CJP) protest in the national capital on Wednesday evening, with an assistant com.",
-          "url": "https://timesofindia.indiatimes.com/city/delhi/tear-gas-stones-bottles-video-shows-late-night-clash-during-cjp-protest-in-delhi/articleshow/132571801.cms",
+          "title": "Goldman tests the bubble case behind the IPO boom",
+          "description": "While U.S. IPO issuance is on track for a record-breaking year, Goldman Sachs views the surge as a normalization of market activity.",
+          "url": "https://www.cnbc.com/2026/07/23/us-ipo-activity-bubble-goldman.html",
           "source": {
-            "name": "The Times of India"
+            "name": "CNBC"
           },
-          "publishedAt": "2026-07-23T04:25:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-132571882,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-07-23T07:17:27Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108336169-1784226598678-gettyimages-2285758548-US_STOCKS.jpeg?v=1784227838&w=1920&h=1080",
           "language": "en"
         },
         {
-          "title": "Jantar Mantar protest LIVE: CJP demands Dharmendra Pradhan’s resignation in response to PM Modi’s assurance of probe into paper leaks",
-          "description": "CJP protest LIVE updates: Follow The Hindu LIVE for the latest updates as Sonam Wangchuk sets conditions to end his fast, while the CJP reiterates its demand for Dharmendra Pradhan's resignation.",
-          "url": "https://www.thehindu.com/news/national/cjp-jantar-mantar-protest-live-updates-abhijeet-dipke-saurav-das-sonam-wangchuk-hunger-strike-dharmendra-pradhan-resignation/article71256169.ece",
+          "title": "'Will thrash anyone': Raj Thackeray's open threat to disruptors ahead July 26 protest in Mumbai",
+          "description": "The MNS chief stated that anyone who tries to disrupt the peaceful protest on Sunday, “will be thrashed.” | India News",
+          "url": "https://www.hindustantimes.com/india-news/will-thrash-anyone-raj-thackerays-open-threat-to-disruptors-ahead-july-26-mumbai-protest-cjp-protests-neet-news-101784790821194.html",
           "source": {
-            "name": "The Hindu"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-07-23T04:24:13Z",
-          "image": "https://th-i.thgim.com/public/hindi/editorial/vjpob1/article71256448.ece/alternates/LANDSCAPE_1200/HN4FAtGboAAgKJ3.jpg",
+          "publishedAt": "2026-07-23T07:17:24Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/07/23/550x309/MNS_chief_raj_thackeray_1784791100075_1784791100269_709913fc-7e67-4fe9-9711-cf923c5f50b5.jpg",
           "language": "en"
         },
         {
-          "title": "African leaders urge acceleration of regional drug production to reduce reliance on imports",
-          "description": "Health leaders said Africa still imports about 80 per cent of its medicines and 99 per cent of its vaccines, leaving millions vulnerable during global.",
-          "url": "https://eastleighvoice.co.ke/africa/382060/african-leaders-urge-acceleration-of-regional-drug-production-to-reduce-reliance-on-imports",
+          "title": "Jews targeted by antisemitism regardless of views on Israel, inquiry hears",
+          "description": "A recent wave of antisemitism has been far-reaching, even targeting Jewish people who are critical of the Israeli government, a royal commission probing the phenomenon has heard.",
+          "url": "https://www.abc.net.au/news/2026-07-23/antisemitism-royal-commission-anti-israel-jews-targeted/106948762",
           "source": {
-            "name": "The Eastleigh Voice"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-07-23T04:24:11Z",
-          "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-22-164544.webp",
+          "publishedAt": "2026-07-23T07:17:22Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/29522be2a56ba43af45e164e3ad0f272?impolicy=wcms_watermark_news&cropH=1361&cropW=2420&xPos=0&yPos=227&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Private sector credit hits N83trn, as money supply surges",
-          "description": "The Central Bank of Nigeria (CBN) has revealed a significant expansion in the country’s financial system, with credit to the private sector rising by 2.8 percent month-on-month to N83.3 trillion in June 2026, up from the N81 trillion recorded in May 2026.",
-          "url": "https://www.vanguardngr.com/2026/07/private-sector-credit-hits-n83trn-as-money-supply-surges/",
+          "title": "Students speak out about hazing culture at school",
+          "description": "A hazing culture at a prestigious regional school has been laid bare by a new report, despite boarders feeling pressured to keep quiet about the troubling claims.",
+          "url": "https://www.theage.com.au/national/victoria/makes-me-sick-to-my-stomach-students-speak-out-about-strapping-scandal-20260723-p60hyp.html",
           "source": {
-            "name": "Vanguard News"
+            "name": "The Age"
           },
-          "publishedAt": "2026-07-23T04:22:42Z",
-          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/08/Money-naira-cash-transfer.jpg",
+          "publishedAt": "2026-07-23T07:17:01Z",
+          "image": "https://static.ffx.io/images/$zoom_0.1902%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/q_86%2Cf_auto/140759f44912fd11519eb64b6bb21e2a4051ecf2",
           "language": "en"
         },
         {
-          "title": "Goodbye, cavities? New gel could regrow tooth enamel",
-          "description": "Researchers have developed a fluoride-free gel that could help rebuild damaged tooth enamel, something the body cannot naturally replace once it is lost. Inspired by the proteins that guide enamel formation in infancy, the gel fills microscopic cracks and draws calcium and phosphate from saliva to grow a new mineral layer that closely matches healthy enamel.",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260717033046.htm",
+          "title": "PSX remains in the green as KSE-100 gains over 100 points",
+          "description": "KSE-100 stays range-bound, advances 0.06% to 174,533 in cautious trade",
+          "url": "https://tribune.com.pk/story/2619791/psx-remains-in-the-green-as-kse-100-gains-over-100-points",
           "source": {
-            "name": "ScienceDaily"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-07-23T04:20:29Z",
-          "image": "https://www.sciencedaily.com/images/1920/teeth-dental-cavities-mouth-tongue.webp",
+          "publishedAt": "2026-07-23T07:16:15Z",
+          "image": "https://i.tribune.com.pk/media/images/psx1782808720-0/psx1782808720-0-640x480.webp",
           "language": "en"
         },
         {
-          "title": "Goodbye, cavities? New gel could regrow tooth enamel",
-          "description": "Researchers have developed a fluoride-free gel that could help rebuild damaged tooth enamel, something the body cannot naturally replace once it is lost. Inspired by the proteins that guide enamel formation in infancy, the gel fills microscopic cracks and draws calcium and phosphate from saliva to grow a new mineral layer that closely matches healthy enamel.",
-          "url": "http://www.sciencedaily.com/releases/2026/07/260717033046.htm",
+          "title": "EV sales surge while gas-powered cars drop as overall auto market weakens",
+          "description": "Sales of electric vehicles (xEVs) more than doubled in the first half of 2026, while overall automotive industry sales declined by 11 percent as elevated fuel...",
+          "url": "https://mb.com.ph/2026/07/23/ev-sales-surge-while-gas-powered-cars-drop-as-overall-auto-market-weakens",
           "source": {
-            "name": "ScienceDaily"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-07-23T04:20:29Z",
-          "image": "https://www.sciencedaily.com/images/1920/teeth-dental-cavities-mouth-tongue.webp",
+          "publishedAt": "2026-07-23T07:15:31Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/23/118212.webp",
           "language": "en"
         },
         {
-          "title": "Kenya receives 4.5 tonnes of medical supplies from India to boost Ebola preparedness",
-          "description": "The medical supplies include personal protective equipment (PPE) kits, sample transportation kits",
-          "url": "https://www.the-star.co.ke/news/2026-07-23-kenya-gets-major-ebola-preparedness-boost-from-india",
+          "title": "Study Investigates Bee Venom as an Adjunct to Parkinson's Disease Therapy",
+          "description": "Scientists investigate bee venom as a potential companion to conventional Parkinson’s therapy",
+          "url": "https://www.einpresswire.com/article/928642640/study-investigates-bee-venom-as-an-adjunct-to-parkinson-s-disease-therapy",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "EIN Presswire"
           },
-          "publishedAt": "2026-07-23T04:19:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/07/9726d66e-4152-41b8-8dac-f5a2174668f2.webp?1784780937864",
+          "publishedAt": "2026-07-23T07:15:00Z",
+          "image": "https://img.einnews.com/facebook/1156493/exploring-bee-venom-s-potential.png",
           "language": "en"
         },
         {
-          "title": "3 Vietnam Airlines managers charged with taking bribes linked to excess baggage charges",
-          "description": "A Singaporean man, who was acting or deputy station manager of Vietnam Airlines Company at the time, allegedly took S$41,700 in bribes.",
-          "url": "https://www.channelnewsasia.com/singapore/vietnam-airlines-managers-charged-bribe-excess-baggage-6272516",
+          "title": "Book traces history of legendary Latvian stately home",
+          "description": "A new book titled  \"Kaucminde's Horseshoe\" (Kaucmindes pakavs) by author Andris Grīnbergs has just been published, telling the story of one of Latvia's most striking but currently tragic-looking...",
+          "url": "https://eng.lsm.lv/article/culture/history/23.07.2026-book-traces-history-of-legendary-latvian-stately-home.a656017/",
           "source": {
-            "name": "CNA"
+            "name": "LSM"
           },
-          "publishedAt": "2026-07-23T04:17:56Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--P61gtc3N--/c_crop,h_449,w_799,x_1,y_28/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-24T024306Z_1_LYNXMPEM2N03P_RTROPTP_3_VIETNAM-AIRLINES.JPG?itok=Pe0VyIkU",
+          "publishedAt": "2026-07-23T07:14:53Z",
+          "image": "https://static.lsm.lv/media/2026/06/large/1/tlkz.jpg",
           "language": "en"
         },
         {
-          "title": "AI Agents Coordinate Scheduling, Materials and Tooling for Composites Production",
-          "description": "Plataine demonstrates its Agentic AI tools, including a Production Scheduler and Material AI Agent, built to integrate with existing ERP, MES and PLM systems.",
-          "url": "https://www.compositesworld.com/products/ai-agents-coordinate-scheduling-materials-and-tooling-for-composites-production",
+          "title": "RIP La La Hand saga: Ryan Gosling detail fixed in 10-year anniversary 'La La Land' poster",
+          "description": "Flat hand out, perky hand in. For the film's 10th anniversary, a new version of the 'La La Land' poster has been released, and it fixes a small detail that has kept Ryan Gosling up at night...",
+          "url": "https://www.euronews.com/culture/2026/07/23/rip-la-la-hand-saga-ryan-gosling-detail-fixed-in-10-year-anniversary-la-la-land-poster",
           "source": {
-            "name": "CompositesWorld"
+            "name": "Euronews.com"
           },
-          "publishedAt": "2026-07-23T04:17:26Z",
-          "image": "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/cw/2026-cw/0626-cw-camx26-plataine.png;maxWidth=1200",
+          "publishedAt": "2026-07-23T07:13:59Z",
+          "image": "https://images.euronews.com/articles/stories/09/84/77/72/1200x675_cmsv2_ee85c411-a0b7-59de-90ff-fbfff33a99a6-9847772.jpg",
           "language": "en"
         }
       ]
