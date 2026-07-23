@@ -1,10 +1,54 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-23T14:02:36.930Z",
+  "updatedAt": "2026-07-23T16:27:11.704Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "感覚過敏の当事者と一緒に考える、音楽ライブにおける新たな鑑賞体験と未来像②",
+          "description": "都市型音楽フェス『CENTRAL MUSIC ＆ ENTERTAINMENT FESTIVAL 2026』で実施した、感覚過敏のある来場者を対象とする概念実証について、感覚過敏の当事者と関係スタッフが語り合う座談会。",
+          "url": "https://cocotame.jp/series/118288/",
+          "source": {
+            "name": "Cocotame"
+          },
+          "publishedAt": "2026-07-23T04:25:12Z",
+          "image": "https://cocotame.jp/wp-content/uploads/2026/07/202606xx-sustainability-central01_SNS.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "初代XboxのゲームをPCで遊べるように。後方互換機能が提供開始",
+          "description": "Microsoftは7月22日、XboxのゲームをPCでプレイできる後方互換機能を提供開始すると発表した。対応地域では、以下の4本のタイトルがすでにプレイ可能で、Xbox on PCアプリからゲームにアクセスできる。",
+          "url": "https://pc.watch.impress.co.jp/docs/news/2127222.html",
+          "source": {
+            "name": "PC Watch"
+          },
+          "publishedAt": "2026-07-23T04:24:13Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2127/222/01.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "26日にかけ東北や北陸で大雨の恐れ 関東の猛暑は一旦収まるが東海・近畿は猛暑続く",
+          "description": "24日(金)以降は東北や北陸、関東では雲が多く、27日(月)頃まで雨が降りやすいでしょう。東北や北陸では大雨となる恐れがあります。関東では最高気温が35℃を超えるような猛烈な暑さはいったん収まりそうです。東海から九州では晴れる日が続くでしょう。24日(金)は名古屋などで40℃以上の酷暑日となりそうです。引き続き熱中症に警戒が必要です。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/07/23/39826.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-23T02:56:40Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/398/39826/main/20260723111204/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "今日23日も東海は40℃予想 3日連続の酷暑日か 災害級の暑さは25日まで",
+          "description": "今日23日(木)は、二十四節気の一つ「大暑」で、1年で最も暑い頃です。東海地方は、暦通りに危険な暑さが続き、40℃以上の酷暑日エリアが拡大するでしょう。25日(土)まで、災害級の暑さが続くため、熱中症に厳重に警戒してください。",
+          "url": "https://tenki.jp/forecaster/n_takeshita/2026/07/23/39825.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-23T02:40:17Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/398/39825/ogp/20260723095550/large.jpg",
+          "language": "ja"
+        },
         {
           "title": "複数のバッテリーがあるiPhone？ iOS 27のコードから発掘されたUltraの気配",
           "description": "そんなiPhone、存在していないぞ？ 今は。出るか出ないのか、嘘か真か、折りたたみiPhone、iPhone Ultra（仮称）。これまでさまざまな噂が聞こえていますが、その実在確率をさらに上げる新たな情報が入ってきました。MacRumo",
@@ -50,6 +94,17 @@
           "language": "ja"
         },
         {
+          "title": "（朝）米国市場は3指数揃って下落 決算への警戒や中東情勢への懸念から売り優勢の展開へ",
+          "description": "【米国株式市場】ニューヨーク市場NYダウ：　52,218.58　▼6.06　（7/22）NASDAQ：　25,690.90　▼146.30　（7/22）1.概況米国市場は主要3指数が揃って下落しました。今後の決算シーズンへの警戒感や中東情勢悪化を背景とした原油高が重荷となり売り優勢となりました。....",
+          "url": "https://media.monex.co.jp/articles/-/29799",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-07-22T23:07:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
+          "language": "ja"
+        },
+        {
           "title": "リンゴマークに囲まれている方に朗報。なんとAppleデバイス専用クロスが登場しました|au Webポータル",
           "description": "しかも3枚セットだよ。iPhoneにApple Watch、MacBookにiPad…。気がつくと身の回りには、Appleデバイスでいっぱい。そんな人も多いことでしょう。ガジェット類というのは、結構汚",
           "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260723_1784765207323295",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-07-22T23:00:00Z",
           "image": "https://portal.st-img.jp/thumb/6fb2820d139c78aca0353616fe62b99c_1784765207_l.jpg",
           "language": "ja"
-        },
-        {
-          "title": "ネトフリ実写新作『寄生獣 ーTAMIYAー』2027年配信。『ガス人間』のヨン・サンホがパラサイト田宮良子から見た世界を描く",
-          "description": "Netflixシリーズ『寄生獣 ーTAMIYAー』が2027年に世界配信。『寄生獣』の田宮良子を主人公としたオリジナルストーリー。演じるのは忽那汐里。",
-          "url": "https://www.famitsu.com/article/202607/82144",
-          "source": {
-            "name": "ファミ通"
-          },
-          "publishedAt": "2026-07-22T23:00:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/82144/thumbnail_NCRb.jpg?x=1280",
-          "language": "ja"
-        },
-        {
-          "title": "『寄生獣』の「田宮良子」が主役の実写ドラマ『寄生獣 ーTAMIYAー』がNetflixで制作決定",
-          "description": "忽那汐里さんが主演を務め2027年に世界配信",
-          "url": "https://news.denfaminicogamer.jp/news/260723w",
-          "source": {
-            "name": "電ファミニコゲーマー"
-          },
-          "publishedAt": "2026-07-22T23:00:00Z",
-          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/TAMIYA_release0723_4_5.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "リンゴマークに囲まれている方に朗報。なんとAppleデバイス専用クロスが登場しました",
-          "description": "しかも3枚セットだよ。iPhoneにApple Watch、MacBookにiPad…。気がつくと身の回りには、Appleデバイスでいっぱい。そんな人も多いことでしょう。ガジェット類というのは、結構汚れが目立つものが多いですよね。液晶ディス",
-          "url": "https://www.gizmodo.jp/article/monocloth-for-apple-devices/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-07-22T23:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/07/22/f4d45f82-ed19-436c-a212-928fce72b175/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "山田五郎さん訃報のフライング投稿で物議 SNS時代のモラルとは",
-          "description": "公式な公表よりも一足早く、画面の向こうへ言葉を投げてしまうその手つき。 評論家、編集者でタレントの山田五郎さんが、原発不明がんのためで67歳で亡くなった。その訃報が所属事務所による動画で7月22日に公式発表される数日前から、X（旧ツイッタ…",
-          "url": "https://www.zakzak.co.jp/article/20260723-ERMFB27F3NFORMMFDNDRYL3PPQ/",
-          "source": {
-            "name": "zakⅡ"
-          },
-          "publishedAt": "2026-07-22T22:48:54Z",
-          "image": "https://www.zakzak.co.jp/resizer/v2/2CXGKVKVXZIHTF5VQTUWT4QNIE.jpg?auth=aa72254b87430e36d6e8e67479ed5e347ae9c74a0fcdce4ba815cab75bce380d&quality=50&focal=1893%2C2021&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "異常気象下の試合開催にファンの懸念（Yahoo!ニュース オリジナル THE PAGE）",
-          "description": "ロッテ浦和球場で猛暑によるノーゲームが発生したことについて、Yahoo!ニュースのコメント欄で話題になっています。\nコメントでは、浦和球場が埼玉の街中に位置し、直射日光や風通しの悪さから観戦・プレー",
-          "url": "https://news.yahoo.co.jp/articles/68be5a1d596609b1e3ee32795e528026a1fa1e93",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-22T22:33:09Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260723-00000005-wordleafai-000-1-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Iran says stopped three oil tankers transiting Hormuz",
-          "description": "Iran's Revolutionary Guards report halting three oil tankers in the Strait of Hormuz amid tensions with the U.S.",
-          "url": "https://www.thehindu.com/news/international/iran-says-stopped-three-oil-tankers-transiting-hormuz/article71256194.ece",
+          "title": "CAM MUNSTER BOMBSHELL: Storm superstar given permission to speak with rival NRL club",
+          "description": "MUNSTER BOMBSHELL: Storm superstar given permission to speak with rival club",
+          "url": "https://www.foxsports.com.au/nrl/nrl-premiership/nrl-2026-cameron-munster-granted-permission-to-speak-with-png-chiefs-melbourne-storm-transfer-news-whispers/news-story/2764542dcfbb7cc1d41681aa21608d25",
+          "source": {
+            "name": "Fox Sports"
+          },
+          "publishedAt": "2026-07-23T04:26:54Z",
+          "image": "https://content.api.news/v3/images/bin/a45f384ccc165acae977a372701f5347",
+          "language": "en"
+        },
+        {
+          "title": "Tear gas, stones, bottles: Video shows late-night clash during CJP protest in Delhi",
+          "description": "NEW DELHI: Fresh violence erupted during the Cockroach Janta Party’s (CJP) protest in the national capital on Wednesday evening, with an assistant com.",
+          "url": "https://timesofindia.indiatimes.com/city/delhi/tear-gas-stones-bottles-video-shows-late-night-clash-during-cjp-protest-in-delhi/articleshow/132571801.cms",
+          "source": {
+            "name": "The Times of India"
+          },
+          "publishedAt": "2026-07-23T04:25:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-132571882,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Jantar Mantar protest LIVE: CJP demands Dharmendra Pradhan’s resignation in response to PM Modi’s assurance of probe into paper leaks",
+          "description": "CJP protest LIVE updates: Follow The Hindu LIVE for the latest updates as Sonam Wangchuk sets conditions to end his fast, while the CJP reiterates its demand for Dharmendra Pradhan's resignation.",
+          "url": "https://www.thehindu.com/news/national/cjp-jantar-mantar-protest-live-updates-abhijeet-dipke-saurav-das-sonam-wangchuk-hunger-strike-dharmendra-pradhan-resignation/article71256169.ece",
           "source": {
             "name": "The Hindu"
           },
-          "publishedAt": "2026-07-23T02:02:31Z",
-          "image": "https://th-i.thgim.com/public/incoming/9ncxg2/article71256200.ece/alternates/LANDSCAPE_1200/2026-07-22T162551Z_463917612_RC2M3LATB1OL_RTRMADP_3_IRAN-CRISIS-EMIRATES-DP-WORLD.JPG",
+          "publishedAt": "2026-07-23T04:24:13Z",
+          "image": "https://th-i.thgim.com/public/hindi/editorial/vjpob1/article71256448.ece/alternates/LANDSCAPE_1200/HN4FAtGboAAgKJ3.jpg",
           "language": "en"
         },
         {
-          "title": "Catholic Development Partners Renew Commitment to Supporting AMECEA’s Synodal Journey with Young People",
-          "description": "Catholic development agencies and Church partners have reaffirmed their commitment to supporting the Association of Member Episcopal Conferences in Eastern Africa (AMECEA) in accompanying young people, describing youths as central to the Church's mission and to Africa's future.",
-          "url": "https://www.aciafrica.org/news/23105/catholic-development-partners-renew-commitment-to-supporting-ameceas-synodal-journey-with-young-people",
+          "title": "African leaders urge acceleration of regional drug production to reduce reliance on imports",
+          "description": "Health leaders said Africa still imports about 80 per cent of its medicines and 99 per cent of its vaccines, leaving millions vulnerable during global.",
+          "url": "https://eastleighvoice.co.ke/africa/382060/african-leaders-urge-acceleration-of-regional-drug-production-to-reduce-reliance-on-imports",
           "source": {
-            "name": "ACI Africa"
+            "name": "The Eastleigh Voice"
           },
-          "publishedAt": "2026-07-23T02:02:15Z",
-          "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-23t050111_1784772087.jpg?w=1200&format=jpeg",
+          "publishedAt": "2026-07-23T04:24:11Z",
+          "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-22-164544.webp",
           "language": "en"
         },
         {
-          "title": "‘Our whole village went under water’: The devastating impact of Assam floods",
-          "description": "According to estimates by the Assam State Disaster Management Authority, the number of people affected by the floods rose from 3.6 lakh on Monday to 5.6 lakh on Tuesday, signalling the rapid deterioration of the situation.",
-          "url": "https://indianexpress.com/article/india/our-whole-village-went-under-water-the-devastating-impact-of-assam-floods-10799221/",
+          "title": "Private sector credit hits N83trn, as money supply surges",
+          "description": "The Central Bank of Nigeria (CBN) has revealed a significant expansion in the country’s financial system, with credit to the private sector rising by 2.8 percent month-on-month to N83.3 trillion in June 2026, up from the N81 trillion recorded in May 2026.",
+          "url": "https://www.vanguardngr.com/2026/07/private-sector-credit-hits-n83trn-as-money-supply-surges/",
           "source": {
-            "name": "The Indian Express"
+            "name": "Vanguard News"
           },
-          "publishedAt": "2026-07-23T02:00:17Z",
-          "image": "https://images.indianexpress.com/2026/07/People-cross-a-flood-affected-area-on-a-makeshift-raft-after-heavy-rainfall-in-Golaghat-on-Wednesday.-PTI.jpg",
+          "publishedAt": "2026-07-23T04:22:42Z",
+          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/08/Money-naira-cash-transfer.jpg",
           "language": "en"
         },
         {
-          "title": "A Pandastic Summer Birthday Celebration at Ocean Park Chance to win the all",
-          "description": "Even more exciting, visitors could take home fabulous prices, including the newly launched MAXUS MIFA 7 PLUS, the mid-size family pure electric MPV – by",
-          "url": "https://panafricanvisions.com/2026/07/a-pandastic-summer-birthday-celebration-at-ocean-park-chance-to-win-the-all-new-maxus-mifa-7-plus-pure-electric-7-seater-mpv/",
+          "title": "Goodbye, cavities? New gel could regrow tooth enamel",
+          "description": "Researchers have developed a fluoride-free gel that could help rebuild damaged tooth enamel, something the body cannot naturally replace once it is lost. Inspired by the proteins that guide enamel formation in infancy, the gel fills microscopic cracks and draws calcium and phosphate from saliva to grow a new mineral layer that closely matches healthy enamel.",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260717033046.htm",
           "source": {
-            "name": "pan african visions"
+            "name": "ScienceDaily"
           },
-          "publishedAt": "2026-07-23T02:00:00Z",
-          "image": "https://panafricanvisions.com/wp-content/uploads/2026/07/789147-image-1-png-400x0-2.png",
+          "publishedAt": "2026-07-23T04:20:29Z",
+          "image": "https://www.sciencedaily.com/images/1920/teeth-dental-cavities-mouth-tongue.webp",
           "language": "en"
         },
         {
-          "title": "Eight actions to take for a healthy heart",
-          "description": "The American Heart Association has put together eight measures that can help maintain your heart health.",
-          "url": "https://www.thestar.com.my/lifestyle/health/tell-me-about/2026/07/23/eight-actions-to-take-for-a-healthy-heart",
+          "title": "Goodbye, cavities? New gel could regrow tooth enamel",
+          "description": "Researchers have developed a fluoride-free gel that could help rebuild damaged tooth enamel, something the body cannot naturally replace once it is lost. Inspired by the proteins that guide enamel formation in infancy, the gel fills microscopic cracks and draws calcium and phosphate from saliva to grow a new mineral layer that closely matches healthy enamel.",
+          "url": "http://www.sciencedaily.com/releases/2026/07/260717033046.htm",
           "source": {
-            "name": "The Star"
+            "name": "ScienceDaily"
           },
-          "publishedAt": "2026-07-23T02:00:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/07/17/4015879.png",
+          "publishedAt": "2026-07-23T04:20:29Z",
+          "image": "https://www.sciencedaily.com/images/1920/teeth-dental-cavities-mouth-tongue.webp",
           "language": "en"
         },
         {
-          "title": "Ruto's running mate headache as 2027 arithmetic shifts",
-          "description": "Humiliating defeat for the UDA Party in last week's Ol Kalou MP by-election has altered the arithmetic.",
-          "url": "https://www.the-star.co.ke/news/2026-07-23-ruto-running-mate-headache-as-2027-arithmetic-shifts",
-          "source": {
-            "name": "the-star.co.ke"
-          },
-          "publishedAt": "2026-07-23T02:00:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/07/97b47eaf-32f4-4bab-a62d-d190724076e8.webp?1784773725671",
-          "language": "en"
-        },
-        {
-          "title": "Can belly fat affect your brain? Neurologist Dr Sudhir Kumar explains how what's good for your waist is good for brain",
-          "description": "Dr Sudhir highlights the impact of visceral fat on brain health, linking it to reduced cognitive function, and urges proactive lifestyle changes. | Health",
-          "url": "https://www.hindustantimes.com/lifestyle/health/can-belly-fat-affect-your-brain-neurologist-dr-sudhir-kumar-explains-how-what-is-good-for-your-waist-is-good-for-brain-101784705065868.html",
-          "source": {
-            "name": "Hindustan Times"
-          },
-          "publishedAt": "2026-07-23T01:58:24Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/07/22/550x309/belly_fat_1780399891525_1780399891665_1e35c689-09ad-4635-98c9-c98b18c4c3fb_1784707485950_605b7438-b233-4782-b70a-fc19bb21053b.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Sifuna team reaches out to Matiang’i as allies drift towards Linda Mwananchi",
-          "description": "Leaders say they want entire western region to move as a united voting block.",
-          "url": "https://www.the-star.co.ke/news/2026-07-23-sifuna-team-reaches-out-to-matiangi-as-allies-drift-to-linda-mwananchi",
+          "title": "Kenya receives 4.5 tonnes of medical supplies from India to boost Ebola preparedness",
+          "description": "The medical supplies include personal protective equipment (PPE) kits, sample transportation kits",
+          "url": "https://www.the-star.co.ke/news/2026-07-23-kenya-gets-major-ebola-preparedness-boost-from-india",
           "source": {
             "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-07-23T01:58:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/07/94fa239a-09ee-4b36-ac12-14482b0bf096.webp?1784773743744",
+          "publishedAt": "2026-07-23T04:19:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/07/9726d66e-4152-41b8-8dac-f5a2174668f2.webp?1784780937864",
           "language": "en"
         },
         {
-          "title": "Body of 10-year-old Maximo Au Ramirez recovered from Nutimik Lake",
-          "description": "The body of 10-year-old Maximo Au Ramirez has been recovered from Nutmik Lake, RCMP confirm.",
-          "url": "https://www.cbc.ca/news/canada/manitoba/maximo-au-ramirez-body-found-9.7280388",
+          "title": "3 Vietnam Airlines managers charged with taking bribes linked to excess baggage charges",
+          "description": "A Singaporean man, who was acting or deputy station manager of Vietnam Airlines Company at the time, allegedly took S$41,700 in bribes.",
+          "url": "https://www.channelnewsasia.com/singapore/vietnam-airlines-managers-charged-bribe-excess-baggage-6272516",
           "source": {
-            "name": "CBC"
+            "name": "CNA"
           },
-          "publishedAt": "2026-07-23T01:57:00Z",
-          "image": "https://i.cbc.ca/ais/3de42f42-6c14-4d25-a541-a10f017182d4,1784726948471/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C198%2C2420%2C1361%29%3BResize%3D620",
+          "publishedAt": "2026-07-23T04:17:56Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--P61gtc3N--/c_crop,h_449,w_799,x_1,y_28/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-24T024306Z_1_LYNXMPEM2N03P_RTROPTP_3_VIETNAM-AIRLINES.JPG?itok=Pe0VyIkU",
           "language": "en"
         },
         {
-          "title": "Audit shows Sh3.7bn gamble on dialysis machines has paid off",
-          "description": "Controversial MES project breaks even and is making a profit despite many machines still lying idle",
-          "url": "https://www.the-star.co.ke/news/2026-07-23-audit-shows-sh37bn-gamble-on-dialysis-machines-has-paid-off",
+          "title": "AI Agents Coordinate Scheduling, Materials and Tooling for Composites Production",
+          "description": "Plataine demonstrates its Agentic AI tools, including a Production Scheduler and Material AI Agent, built to integrate with existing ERP, MES and PLM systems.",
+          "url": "https://www.compositesworld.com/products/ai-agents-coordinate-scheduling-materials-and-tooling-for-composites-production",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "CompositesWorld"
           },
-          "publishedAt": "2026-07-23T01:57:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/07/d89d29a1-6ba0-4fef-b9da-d51c4e5cace6.webp?1784773672890",
+          "publishedAt": "2026-07-23T04:17:26Z",
+          "image": "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/cw/2026-cw/0626-cw-camx26-plataine.png;maxWidth=1200",
           "language": "en"
         }
       ]
