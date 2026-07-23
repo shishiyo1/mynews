@@ -1,10 +1,54 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-23T11:10:50.592Z",
+  "updatedAt": "2026-07-23T14:02:36.930Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "複数のバッテリーがあるiPhone？ iOS 27のコードから発掘されたUltraの気配",
+          "description": "そんなiPhone、存在していないぞ？ 今は。出るか出ないのか、嘘か真か、折りたたみiPhone、iPhone Ultra（仮称）。これまでさまざまな噂が聞こえていますが、その実在確率をさらに上げる新たな情報が入ってきました。MacRumo",
+          "url": "https://www.gizmodo.jp/article/rumors-of-iphone-with-multiple-batteries/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-07-23T02:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/07/22/67c8a722-985c-4922-bf64-5dbd37e7ea72/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "【F1】アップデートでホンダの強みが本領発揮される？ 浅木泰昭「レッドブルの位置まで戻れる可能性も」",
+          "description": "【連載】元ホンダ・浅木泰昭「F1解説・アサキの視点」第14回（前編）\n　2026年シーズンからアストンマーティンと組み、ワークス復帰を果たしたホンダ。ファンの大きな期待を集めてスタートを切ったが、",
+          "url": "https://news.yahoo.co.jp/articles/b9f3bb3c8805a0c9019f24c5fb8b0bf5be084511",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-23T01:05:01Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260723-01117230-sportiva-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "強力エアフロー＆“魅せる”内部構造が素敵！Ryzen 9 9950X3D2＆RTX 5070のポテンシャルをASRockで引き出すゲーミングPCはいかが？",
+          "description": "パソコンショップSEVENの「ZEFT R65YB」は、‟しっかり魅せてしっかり冷やせる”ゲーミングPCだ。ASRock製PCパーツを多く採用している点にも注目！",
+          "url": "https://ascii.jp/elem/000/004/419/4419680/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-07-23T01:00:00Z",
+          "image": "https://ascii.jp/img/2026/07/15/4500737/xl/77cd260765c3dffd.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "GeForce RTX 5070搭載ゲーミングノートが9万円オフの26万円に。\"ビッグサマーセール\"は8月5日まで。ゲーミングPCが最大14万円オフ【マウスコンピューター】",
+          "description": "マウスコンピューター公式ECサイトにてゲーミングデスクトップPCとノートPCが最大14万円オフで購入できる“ビッグサマーセール\"が2026年8月5日10時59分までの期間で開催中。",
+          "url": "https://www.famitsu.com/article/202607/82192",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-07-23T00:00:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/None/thumbnail_zwcJ.jpg?x=1280",
+          "language": "ja"
+        },
         {
           "title": "リンゴマークに囲まれている方に朗報。なんとAppleデバイス専用クロスが登場しました|au Webポータル",
           "description": "しかも3枚セットだよ。iPhoneにApple Watch、MacBookにiPad…。気がつくと身の回りには、Appleデバイスでいっぱい。そんな人も多いことでしょう。ガジェット類というのは、結構汚",
@@ -70,161 +114,117 @@
           "publishedAt": "2026-07-22T22:33:09Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260723-00000005-wordleafai-000-1-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "アニメ調オープンワールドARPG『ドラゴンソード:アウェイクニング』正式リリース延期―Steam審査が完了してない。本日7月23日7時にリリース予定だった",
-          "description": "最終審査の結果を待っている段階で、「リリース日程が確定次第、改めてご案内いたします」とのこと。",
-          "url": "https://www.gamespark.jp/article/2026/07/23/169615.html",
-          "source": {
-            "name": "Game*Spark"
-          },
-          "publishedAt": "2026-07-22T22:22:17Z",
-          "image": "https://www.gamespark.jp/imgs/ogp_f/1162339.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "仮面ライダーゼッツエージェンドリーム誕生秘話 東映・谷中寿成P＆PLEX山本輝デザイナー、映画限定フォームで初の試み",
-          "description": "「仮面ライダーゼッツ」（テレビ朝日系・毎週日曜午前9時～）の集大成を飾る映画『仮面ライダーゼッツ　さよならのミッション』で誕生する、ゼッツの映画限定フォーム「仮面ライダーゼッツエージェンドリーム」。",
-          "url": "https://www.cinematoday.jp/news/N0155873",
-          "source": {
-            "name": "シネマトゥデイ"
-          },
-          "publishedAt": "2026-07-22T22:10:00Z",
-          "image": "https://img.cinematoday.jp/a/fucFNcd7EQ10/_size_r1200x630/_v_1784705150/main.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "NVIDIAフアンCEOが語る“日本復活”のシナリオ 10年続く半導体バブルと「原発活用」の勝算",
-          "description": "米NVIDIAのジェンスン・フアンCEOが来日し、日本経済の復活を宣言した。国内のAIインフラ構築へ数十億ドル規模の投資を発表。フアン氏は「何兆ものAIがAIを使う時代」の到来によって半導体需要は人口に制約されないと指摘。データセンターの電力不足に対して「原発活用」を日本の強みとして提言した。「材料科学で世界一」とする日本企業への信頼や、任天堂・岩田聡氏との秘話など、日本復活へのビジョンを熱く語った。",
-          "url": "https://www.itmedia.co.jp/business/articles/2607/23/news041.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-07-22T22:00:00Z",
-          "image": "https://image.itmedia.co.jp/business/articles/2607/23/cover_news041.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "愛車の履歴書──Vol90 岡本健一さん（後編）",
-          "description": "愛車を見せてもらえば、その人の人生が見えてくる。気になる人のクルマに隠されたエピソードをたずねるシリーズ第90回の後編。俳優・アーティストの岡本健一さんが、自身の愛車と共に今気になるクルマなどについて語った。",
-          "url": "https://www.gqjapan.jp/article/20260723-kenichi-okamoto-my-car-history-vol2",
-          "source": {
-            "name": "GQ Japan"
-          },
-          "publishedAt": "2026-07-22T22:00:00Z",
-          "image": "https://media.gqjapan.jp/photos/6a59b0d0e8192d71babd565b/16:9/w_1280,c_limit/DSC_9745-Edit_(2).jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Mamdani's vision of NY as 'a city of international law' runs up against reality",
-          "description": "More than a year and half after pledging to arrest Netanyahu, New York City mayor forced to reckon with foreign courts' irrelevance in US",
-          "url": "https://www.timesofisrael.com/mamdanis-vision-of-ny-as-a-city-of-international-law-runs-up-against-reality/",
+          "title": "Iran says stopped three oil tankers transiting Hormuz",
+          "description": "Iran's Revolutionary Guards report halting three oil tankers in the Strait of Hormuz amid tensions with the U.S.",
+          "url": "https://www.thehindu.com/news/international/iran-says-stopped-three-oil-tankers-transiting-hormuz/article71256194.ece",
           "source": {
-            "name": "The Times of Israel"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-07-22T23:10:01Z",
-          "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26141583905164-e1784753143688.jpg",
+          "publishedAt": "2026-07-23T02:02:31Z",
+          "image": "https://th-i.thgim.com/public/incoming/9ncxg2/article71256200.ece/alternates/LANDSCAPE_1200/2026-07-22T162551Z_463917612_RC2M3LATB1OL_RTRMADP_3_IRAN-CRISIS-EMIRATES-DP-WORLD.JPG",
           "language": "en"
         },
         {
-          "title": "Canada is rolling out new graphic image warnings on cigarette packs",
-          "description": "Experts have welcomed a new series of graphic images on cigarette packaging in Canada, which will be required by August 1, noting they lead to 'significant increases in the effectiveness' of health warnings.",
-          "url": "https://www.cbc.ca/news/health/canada-graphic-image-warnings-cigarette-packs-9.7279931",
+          "title": "Catholic Development Partners Renew Commitment to Supporting AMECEA’s Synodal Journey with Young People",
+          "description": "Catholic development agencies and Church partners have reaffirmed their commitment to supporting the Association of Member Episcopal Conferences in Eastern Africa (AMECEA) in accompanying young people, describing youths as central to the Church's mission and to Africa's future.",
+          "url": "https://www.aciafrica.org/news/23105/catholic-development-partners-renew-commitment-to-supporting-ameceas-synodal-journey-with-young-people",
+          "source": {
+            "name": "ACI Africa"
+          },
+          "publishedAt": "2026-07-23T02:02:15Z",
+          "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-23t050111_1784772087.jpg?w=1200&format=jpeg",
+          "language": "en"
+        },
+        {
+          "title": "‘Our whole village went under water’: The devastating impact of Assam floods",
+          "description": "According to estimates by the Assam State Disaster Management Authority, the number of people affected by the floods rose from 3.6 lakh on Monday to 5.6 lakh on Tuesday, signalling the rapid deterioration of the situation.",
+          "url": "https://indianexpress.com/article/india/our-whole-village-went-under-water-the-devastating-impact-of-assam-floods-10799221/",
+          "source": {
+            "name": "The Indian Express"
+          },
+          "publishedAt": "2026-07-23T02:00:17Z",
+          "image": "https://images.indianexpress.com/2026/07/People-cross-a-flood-affected-area-on-a-makeshift-raft-after-heavy-rainfall-in-Golaghat-on-Wednesday.-PTI.jpg",
+          "language": "en"
+        },
+        {
+          "title": "A Pandastic Summer Birthday Celebration at Ocean Park Chance to win the all",
+          "description": "Even more exciting, visitors could take home fabulous prices, including the newly launched MAXUS MIFA 7 PLUS, the mid-size family pure electric MPV – by",
+          "url": "https://panafricanvisions.com/2026/07/a-pandastic-summer-birthday-celebration-at-ocean-park-chance-to-win-the-all-new-maxus-mifa-7-plus-pure-electric-7-seater-mpv/",
+          "source": {
+            "name": "pan african visions"
+          },
+          "publishedAt": "2026-07-23T02:00:00Z",
+          "image": "https://panafricanvisions.com/wp-content/uploads/2026/07/789147-image-1-png-400x0-2.png",
+          "language": "en"
+        },
+        {
+          "title": "Eight actions to take for a healthy heart",
+          "description": "The American Heart Association has put together eight measures that can help maintain your heart health.",
+          "url": "https://www.thestar.com.my/lifestyle/health/tell-me-about/2026/07/23/eight-actions-to-take-for-a-healthy-heart",
+          "source": {
+            "name": "The Star"
+          },
+          "publishedAt": "2026-07-23T02:00:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/07/17/4015879.png",
+          "language": "en"
+        },
+        {
+          "title": "Ruto's running mate headache as 2027 arithmetic shifts",
+          "description": "Humiliating defeat for the UDA Party in last week's Ol Kalou MP by-election has altered the arithmetic.",
+          "url": "https://www.the-star.co.ke/news/2026-07-23-ruto-running-mate-headache-as-2027-arithmetic-shifts",
+          "source": {
+            "name": "the-star.co.ke"
+          },
+          "publishedAt": "2026-07-23T02:00:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/07/97b47eaf-32f4-4bab-a62d-d190724076e8.webp?1784773725671",
+          "language": "en"
+        },
+        {
+          "title": "Can belly fat affect your brain? Neurologist Dr Sudhir Kumar explains how what's good for your waist is good for brain",
+          "description": "Dr Sudhir highlights the impact of visceral fat on brain health, linking it to reduced cognitive function, and urges proactive lifestyle changes. | Health",
+          "url": "https://www.hindustantimes.com/lifestyle/health/can-belly-fat-affect-your-brain-neurologist-dr-sudhir-kumar-explains-how-what-is-good-for-your-waist-is-good-for-brain-101784705065868.html",
+          "source": {
+            "name": "Hindustan Times"
+          },
+          "publishedAt": "2026-07-23T01:58:24Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/07/22/550x309/belly_fat_1780399891525_1780399891665_1e35c689-09ad-4635-98c9-c98b18c4c3fb_1784707485950_605b7438-b233-4782-b70a-fc19bb21053b.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Sifuna team reaches out to Matiang’i as allies drift towards Linda Mwananchi",
+          "description": "Leaders say they want entire western region to move as a united voting block.",
+          "url": "https://www.the-star.co.ke/news/2026-07-23-sifuna-team-reaches-out-to-matiangi-as-allies-drift-to-linda-mwananchi",
+          "source": {
+            "name": "the-star.co.ke"
+          },
+          "publishedAt": "2026-07-23T01:58:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/07/94fa239a-09ee-4b36-ac12-14482b0bf096.webp?1784773743744",
+          "language": "en"
+        },
+        {
+          "title": "Body of 10-year-old Maximo Au Ramirez recovered from Nutimik Lake",
+          "description": "The body of 10-year-old Maximo Au Ramirez has been recovered from Nutmik Lake, RCMP confirm.",
+          "url": "https://www.cbc.ca/news/canada/manitoba/maximo-au-ramirez-body-found-9.7280388",
           "source": {
             "name": "CBC"
           },
-          "publishedAt": "2026-07-22T23:10:00Z",
-          "image": "https://i.cbc.ca/ais/ce563945-553a-47b9-b832-6a8cf41e8edf,1784752029232/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C84%2C5480%2C3082%29%3BResize%3D620",
+          "publishedAt": "2026-07-23T01:57:00Z",
+          "image": "https://i.cbc.ca/ais/3de42f42-6c14-4d25-a541-a10f017182d4,1784726948471/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C198%2C2420%2C1361%29%3BResize%3D620",
           "language": "en"
         },
         {
-          "title": "Jason Sudeikis on Fresh Season 4 Story, New Team",
-          "description": "In a THR cover story, Jason Sudeikis, Hannah Waddingham and Juno Temple talk returning to ‘Ted Lasso’ for season 4.",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/ted-lasso-returns-jason-sudeikis-interview-season-four-1236653124/",
+          "title": "Audit shows Sh3.7bn gamble on dialysis machines has paid off",
+          "description": "Controversial MES project breaks even and is making a profit despite many machines still lying idle",
+          "url": "https://www.the-star.co.ke/news/2026-07-23-audit-shows-sh37bn-gamble-on-dialysis-machines-has-paid-off",
           "source": {
-            "name": "The Hollywood Reporter"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-07-22T23:09:14Z",
-          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/260607_THE_HOLLYWOOD_REPORTER_TED_LASSO_S2_GROUP_482-JPG-SPLASH-2026.jpg?w=1440&h=810&crop=1",
-          "language": "en"
-        },
-        {
-          "title": "Wind Signal No. 1 raised over parts of N. Luzon due to Kiyapo",
-          "description": "Tropical Cyclone Wind Signal No. 1 was hoisted over several areas over Northern Luzon due to tropical depression Kiyapo, the state weather bureau said.",
-          "url": "https://newsinfo.inquirer.net/2268913/pagasa-wind-signal-no-1-raised-over-parts-of-n-luzon-due-to-kiyapo",
-          "source": {
-            "name": "Inquirer.net"
-          },
-          "publishedAt": "2026-07-22T23:08:00Z",
-          "image": "https://newsinfo.inquirer.net/files/2026/07/kiyapo-23july2026.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Mexico mayor killed in town hall months after surviving assassination attempt",
-          "description": "Mayor Valentin Lavin, who was allied to President Claudia Sheinbaum's leftist party, had already survived an armed attack in January, according to local media reports.",
-          "url": "https://www.cbsnews.com/news/mexico-mayor-valentin-lavin-killed-town-hall-temoac/",
-          "source": {
-            "name": "CBS News"
-          },
-          "publishedAt": "2026-07-22T23:07:30Z",
-          "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/22/8dcafe12-a156-49ac-8b7b-0bb0f9e87e43/thumbnail/1200x630/929c7bfb9f65248f1fd1f7c10382bde8/654584550-4306329473017517-4134496553829442597-n.jpg",
-          "language": "en"
-        },
-        {
-          "title": "'Precious' items stolen from altar at Wellington church",
-          "description": "The church plans to close its doors for a day if the two icons aren't returned.",
-          "url": "https://www.1news.co.nz/2026/07/23/precious-items-stolen-from-altar-at-wellington-church/",
-          "source": {
-            "name": "1News"
-          },
-          "publishedAt": "2026-07-22T23:07:10Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/the-two-items-taken-from-st-peters-can-be-seen-on-the-left-a-RPIFIKDL3RFPZDQDTGZJGCKEUI.jpg?auth=e04370d92d272b125103fa9eefc32e1688712f4f042476d1717f77fb7c3e5ba1&quality=70&width=600&height=315&focal=960%2C540",
-          "language": "en"
-        },
-        {
-          "title": "Premiers rally behind Carney, but not everyone is confident a tariff deal is close",
-          "description": "Canada's premiers say they're behind the federal government as it tries to talk down U.S. President Donald Trump from his escalated trade war — although not everyone at the table is feeling confident that will happen soon.",
-          "url": "https://www.cbc.ca/news/politics/charlottetown-premiers-meeting-day-two-9.7279213",
-          "source": {
-            "name": "CBC"
-          },
-          "publishedAt": "2026-07-22T23:05:14Z",
-          "image": "https://i.cbc.ca/ais/3c52b020-1491-4cfd-8069-c83b3757c45c,1784756636401/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C354%2C6789%2C3818%29%3BResize%3D620",
-          "language": "en"
-        },
-        {
-          "title": "Samsung CEO explains why new Galaxy foldable phones are cheaper in Korea",
-          "description": "LONDON — Samsung Electronics has unveiled the global prices for its new Galaxy Z8 foldable smartphone lineup, which are up to 48 percent higher tha...",
-          "url": "https://www.koreatimes.co.kr/business/tech-science/20260723/samsung-ceo-explains-why-new-galaxy-foldable-phones-are-cheaper-in-korea",
-          "source": {
-            "name": "The Korea Times"
-          },
-          "publishedAt": "2026-07-22T23:05:00Z",
-          "image": "https://newsimg.koreatimes.co.kr/2026/07/23/924bfbb2-5be0-466f-aacf-d3a8edd50d6a.jpg",
-          "language": "en"
-        },
-        {
-          "title": "SpaceX And Tesla ‘Can’t Talk About’ A Merge In Earnings Call, Musk Says",
-          "description": "Musk told investors there is “more and more overlap” between his two companies.",
-          "url": "https://www.forbes.com/sites/tylerroush/2026/07/22/musk-says-tesla-and-spacex-cant-talk-about-merging-on-earnings-call-but-heres-what-he-did-say/",
-          "source": {
-            "name": "Forbes"
-          },
-          "publishedAt": "2026-07-22T23:04:00Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/66fabba9a1c90d15a3329321/0x0.jpg?format=jpg&crop=2189,1231,x66,y69,safe&height=900&width=1600&fit=bounds",
-          "language": "en"
-        },
-        {
-          "title": "Botswana Eyes Alternative Markets; Expert Urges Continued Development Of Diamond Industry",
-          "description": "The southern African nation is plotting economic diversification as it looks to counteract the challenges in its key industry. Diamonds account for approximately 80% of Botswana’s export revenue and 30% of its GDP, but dropping prices, spurred, in large part, by the rise of lab-grown stones, have exposed the economy’s vulnerability to market shocks. Now, […]",
-          "url": "https://www.forbesafrica.com/current-affairs/2026/07/23/botswana-eyes-alternative-markets-expert-urges-continued-development-of-diamond-industry",
-          "source": {
-            "name": "Forbes Africa"
-          },
-          "publishedAt": "2026-07-22T23:03:56Z",
-          "image": "https://cms.forbesafrica.com/wp-content/uploads/2026/07/GettyImages-1171522926.jpg",
+          "publishedAt": "2026-07-23T01:57:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/07/d89d29a1-6ba0-4fef-b9da-d51c4e5cace6.webp?1784773672890",
           "language": "en"
         }
       ]
