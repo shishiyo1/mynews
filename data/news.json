@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-24T16:43:12.486Z",
+  "updatedAt": "2026-07-24T19:26:00.491Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "「Claude」音声モードが大幅進化、OpusとSonnetを利用可能に 日本語にも対応",
-          "description": "Anthropicは、AI「Claude」の音声モードを大幅に強化したと発表した。上位モデルが利用可能になり、複数の言語に対応した。",
-          "url": "https://japan.cnet.com/article/35250946/",
-          "source": {
-            "name": "CNET Japan"
-          },
-          "publishedAt": "2026-07-24T04:26:00Z",
-          "image": "https://japan.cnet.com/storage/2026/07/24/c7de44b5a33572391f7dffd0bf887747/Claude-Voice-2-3-up_1280x960.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "中島歩「全部裏切っていきます」 『Tシャツが乾くまで』はジャンルを超える挑戦作",
-          "description": "ニュース｜　俳優の蒼井優が主演を務める、TBS系金曜ドラマ『Tシャツが乾くまで』（毎週金曜　後10：00）の第3話が、24日に放送される。主人公・瀬尾咲子役の蒼井優に続き、今回は中島歩にインタビュー。演じる園田樹生は、製菓メーカー社員で、咲子の夫・充（松山ケンイチ）が行方不明になったバス事故で亡くなったあずさ（夏帆）の夫。素朴で生真面目な性格だが、若干空気を読めないところもある。本人に悪気はなく、その不器用さがどこか憎めない人物だ。そんな樹生は、あずさと充の関係を疑っていて…。　第2話では、事故の日までのあずさと充について調べる咲子と樹生の姿が描かれた。シャンプーとタバコのにおいを通して、それぞれのパートナーを思い起こす場面では、互いに抱えた心の傷を感じ、徐々に距離を縮めていく二人。すると、咲子のもとに事故の対応にあたる警察からの一本の電話が…。新たな展開を予感させる第3話を前に、樹生という役について、撮影現場の雰囲気、今後の見どころなどについて聞いた。",
-          "url": "https://www.oricon.co.jp/news/2469843/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-07-24T04:01:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2470000/2469843/20260724_130055_p_o_90172774.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "後場の日経平均は1985円安でスタート、キオクシアHDや太陽誘電などが下落／後場の寄り付き概況(フィスコ)",
-          "description": "後場の日経平均は前日比1,985.98円安の64,436.62円と、前引け（64,568.75円）からやや下げ幅を拡大してスタート。ランチタイム中の日経225先物は64,230円-64,630円のレンジでもみ合い。ドル・円は1ドル＝163.80-90円と...",
-          "url": "https://finance.yahoo.co.jp/news/detail/9a783230162a54c9b5ce546115761f7641cf4391",
-          "source": {
-            "name": "Yahoo!ファイナンス"
-          },
-          "publishedAt": "2026-07-24T03:55:00Z",
-          "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
-          "language": "ja"
-        },
-        {
-          "title": "トランプ政権、新たな関税を発動 強制労働対策が不十分として60の国・地域に",
-          "description": "アメリカは24日、約60の貿易相手国・地域に対し、強制労働を適切に阻止していないとして、新たな関税を発動した。アメリカは輸入の大半を、それらの国・地域と行っている。",
-          "url": "https://www.bbc.com/japanese/articles/cgmky0wmxy1o",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-07-24T03:45:38Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/02b7/live/fa2c0bc0-86b1-11f1-bb58-d3ffca85db6d.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "モニターヘッドホン『MDR-CD900ST』と「THE FIRST TAKE」のコラボレーションモデルをソニーストア限定で販売、7月24日(金)から事前申し込みを開始",
-          "description": "日刊工業新聞の電子版。日刊工業新聞が紙面で提供している、およそ250件の記事を毎日閲覧することができます。機械、技術、情報通信、エネルギー、産業などの専門情報をご提供します。",
-          "url": "https://www.nikkan.co.jp/releases/view/221269",
-          "source": {
-            "name": "日刊工業新聞"
-          },
-          "publishedAt": "2026-07-24T03:05:55Z",
-          "image": "https://prtimes.jp/img/18968/336/thumb/d18968-336-35113ed0fa63c57fcc37-0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "南鳥島EEZ海域でのレアアース泥採鉱システム接続試験の結果について",
-          "description": "内閣府の戦略的イノベーション創造プログラム（SIP）「海洋安全保障プラットフォームの構築」では、海底鉱物資源として注目される南鳥島周辺の排他的経済水域（EEZ）の海底下にあるレアアース泥（ハイテク製品に欠かせないレアアースを高濃度に含む堆積物）の探査、採鉱、分離・精製・製錬などの実証に取り組んでいる。",
-          "url": "https://www.jamstec.go.jp/j/about/press_release/20260724/",
-          "source": {
-            "name": "jamstec.go.jp"
-          },
-          "publishedAt": "2026-07-24T02:31:28Z",
-          "image": "https://www.jamstec.go.jp/assets/images/ogimage.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "米ドル/円は165円も覚悟!? 「骨太の方針」への懸念と日本の個人投資家による逆張りの踏み上げで、円安が一段と進む恐れ！",
-          "description": "日本政府の「骨太の方針」への懸念と日本の個人投資家の逆張りで、米ドル/円の上昇が進む可能性が高く、いったん165円の打診も覚悟した方が良い。少なくとも消費税減税に関する方針が決定する8月上旬までは米ドル高・円安が進行しやすいだろう。",
-          "url": "https://zai.diamond.jp/articles/-/492741",
-          "source": {
-            "name": "ザイFX！"
-          },
-          "publishedAt": "2026-07-24T02:21:00Z",
-          "image": "https://zai.diamond.jp/mwimgs/4/2/-/img_42f86549a3d1c7668e682542284918a0373340.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ウクライナの兵器メーカーが明かす、ドローン作戦成功の影にあったフェドロフ前国防相の「前代未聞の組織改革」（海外）（BUSINESS INSIDER JAPAN）",
-          "description": "改革派として知られるウクライナのミハイロ・フェドロフ国防相の解任は、同氏の革新的な手法を高く評価してきた地元兵器メーカー各社に大きな衝撃を与えた。フェドロフ氏はドローン戦を強力に推し進めただけでなく",
-          "url": "https://news.yahoo.co.jp/articles/6291a54956959030e15ecf244d566a32971cfd20",
+          "title": "テレ朝ドラマ『大空港』は地味めの作りながらどうして「民放1位の高視聴率」を獲得できたのか #エキスパートトピ",
+          "description": "趣里主演の『大空港〜GATE24〜』の第1回が放送され、世帯視聴率が10.7%と高視聴率でスタートした。テレビ朝日の木曜9時ドラマは長く続くドラマ枠で、かつては米倉涼子の『ドクターＸ』や、天海祐希の『",
+          "url": "https://news.yahoo.co.jp/expert/articles/8f2aab4cb429e532fd8990f8a255652fac9d77ee",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-07-24T02:10:02Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260724-00000010-binsider-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-07-24T07:16:07Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/horiikenichiro/02674421/title-1784871802130.jpeg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "三山凌輝のダブル不倫騒動がまさかの展開に…「趣里がんばれ」エール殺到で主演ドラマもヒットの兆し（日刊ゲンダイDIGITAL）｜ｄメニューニュース",
-          "description": "三山凌輝のダブル不倫騒動がまさかの展開に…「趣里がんばれ」エール殺到で主演ドラマもヒットの兆し（日刊ゲンダイDIGITAL）　夫で俳優三山凌輝（27）の「ダブル不倫」騒動で、渦中の女優、趣里（35）は23日、主演でこの日スタートのテレビ朝日系ドラマ「…",
-          "url": "https://topics.smt.docomo.ne.jp/article/nikkangendai/entertainment/nikkangendai-1234310?redirect=1",
+          "title": "【TAC会計資格】大学生にオススメ！8/24(月)15：00から「60分でわかる！会計業界資格オンラインセミナー」開催します!",
+          "description": "TAC株式会社のプレスリリース（2026年7月24日 16時05分）【TAC会計資格】大学生にオススメ！8/24(月)15：00から「60分でわかる！会計業界資格オンラインセミナー」開催します!",
+          "url": "https://prtimes.jp/main/html/rd/p/000002684.000021078.html",
           "source": {
-            "name": "ｄメニューニュース"
+            "name": "PR TIMES"
           },
-          "publishedAt": "2026-07-24T01:55:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/nikkangendai/m_nikkangendai-1234310.jpg",
+          "publishedAt": "2026-07-24T07:05:48Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/21078/2684/21078-2684-d16257a9a1905a8d460b5b4d240f6955-1950x1210.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
           "language": "ja"
         },
         {
-          "title": "注目の45人塔昇りバトロワ『アーケロン』クローズドベータテストに急遽アプデ実施。CBT期間最後の週末を前に2種類のエターナル投入、永久報酬も獲得しやすく",
-          "description": "DRIMAGE JAPANは7月24日、チーム制PvPゲーム『アーケロン（Arkheron）』にて現在実施中のクローズドベータテストにおいて、最新アップデートを実施した。",
-          "url": "https://automaton-media.com/articles/newsjp/20260724-456431/",
+          "title": "【TAC税理士】大学生にオススメ！【今知っておくべき「税理士」という最強のキャリアパス】8/18(火)15時からオンラインセミナー開催します！",
+          "description": "TAC株式会社のプレスリリース（2026年7月24日 16時05分）【TAC税理士】大学生にオススメ！【今知っておくべき「税理士」という最強のキャリアパス】8/18(火)15時からオンラインセミナー開催します！",
+          "url": "https://prtimes.jp/main/html/rd/p/000002682.000021078.html",
           "source": {
-            "name": "AUTOMATON"
+            "name": "PR TIMES"
           },
-          "publishedAt": "2026-07-24T01:53:13Z",
-          "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260724-456431-header.jpeg",
+          "publishedAt": "2026-07-24T07:05:13Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/21078/2682/21078-2682-9522dbac12b08808f7f8dc2d41a0ec04-1950x1210.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "今日24日 4日連続の酷暑日 7月末～8月初旬はまた酷暑日続出か 暑さのピークは",
+          "description": "今日24日も桑名(三重県)と美濃(岐阜県)では40℃を超え、国内で4日連続の酷暑日となりました。明日25日も名古屋などで40℃以上の気温が予想されています。その後、危険な暑さのピークは過ぎて、酷暑日の地点はほとんどなくなりますが、7月末～8月初旬はまた酷暑日が続出しそうです。",
+          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/07/24/39846.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-24T07:05:02Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/398/39846/main/20260724154350/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "CD900ST」に「THE FIRST TAKE」コラボモデル。数量限定500個",
+          "description": "ソニーストアは、モニターヘッドホン「MDR-CD900ST」と、YouTubeチャンネル『THE FIRST TAKE』のコラボレーションモデル「THE FIRST TAKE×MDR-CD900ST SPECIAL COLABORATION BOX 2026」を、数量限定500個で販売する。価格は36,300円（税込）。",
+          "url": "https://www.phileweb.com/sp/news/d-av/202607/24/65646.html",
+          "source": {
+            "name": "PHILE WEB"
+          },
+          "publishedAt": "2026-07-24T07:00:55Z",
+          "image": "https://www.phileweb.com/news/ogp/d-av/656/d0349064e88f19fabc3fcf15f1ce7983.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "アップルの全Mac刷新ロードマップが判明か 今秋のM6モデルから2028年の見通しまで",
+          "description": "アップルが販売するすべてのMacを刷新するロードマップについて、Bloombergのマーク・ガーマン氏が報じた。「MacBook Neo」や「Mac Studio」など、アップルは各MacBookシリーズとデスクトップ型Macの刷新に取り組んでいるという。",
+          "url": "https://japan.cnet.com/article/35250949/",
+          "source": {
+            "name": "CNET Japan"
+          },
+          "publishedAt": "2026-07-24T06:48:00Z",
+          "image": "https://japan.cnet.com/storage/2026/07/24/ebb5f099793ba0338f32393a2190eb05/898e5548-12f2-4385-8574-79d63054d129_1280x960.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "蔵内議長「君は並のトカゲじゃないよ。進化しない大トカゲだ」 中尾副議長の辞職を受理 県議会“金銭授受”疑惑 【福岡発】",
+          "description": "福岡県議会の正･副議長を巡る金銭授受疑惑で、副議長を務める議員が、議員辞職を申し出て、議長に受理された。",
+          "url": "https://news.yahoo.co.jp/articles/4e22a7dbe12c283bd6e9a7dffd961b7fb246d39d",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-24T06:12:25Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260724-01181162-fnnprimev-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "今年3月に契約満了伝達「W杯まで」JFA宮本会長の翻意で森保監督“半年続投”へ",
+          "description": "日本サッカー協会(JFA)は24日、東京都内で記者会見を行い、宮本恒靖会長が今年3月に日本代表の森保一監督に対し、北中米W杯限りでの契約満了を告げていたことを明らかにした。その後、今年5月に方針を転換し、...",
+          "url": "https://web.gekisaka.jp/news/japan/detail/?455783-455783-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-07-24T06:12:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455783/news_455783_1.jpg?time=20260724151215",
+          "language": "ja"
+        },
+        {
+          "title": "更迭されたウクライナ前国防相、復帰を要求 ほかの役職は受け入れないと",
+          "description": "今月中旬に更迭されたウクライナのフェドロフ前国防相は23日、ゼレンスキー大統領から提示された政権内の別の役職に就くつもりはないと表明し、国防相への復帰を強く求めた。",
+          "url": "https://www.bbc.com/japanese/articles/czxqnlrn001o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-07-24T05:58:22Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/bcc1/live/101e62c0-86b7-11f1-bb58-d3ffca85db6d.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "副首都法案、野党採決に応じず膠着 予算委開会「全く予測つかない」",
+          "description": "国会は24日、最終局面の与野党攻防に突入しました。「副首都構想」関連法案をめぐり与党は午前中の成立を目指していましたが、野党側が採決に応じず、膠着（こうちゃく）状態に。午後には高市早苗首相出席の衆院…",
+          "url": "https://www.asahi.com/articles/ASV7S0GPYV7SUTFK007M.html",
+          "source": {
+            "name": "朝日新聞"
+          },
+          "publishedAt": "2026-07-24T05:35:11Z",
+          "image": "https://imgopt.asahi.com/ogp/AS20260724001133_comm.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "PML-N believes in development, public welfare politics: Danyal Chaudhry",
-          "description": "ISLAMABAD  -  Parliamentary Secretary for Information Barrister Danyal Chaudhry on Thursday said the Pakistan Muslim League-Nawaz (PML-N) believes in the",
-          "url": "https://www.nation.com.pk/24-Jul-2026/pml-n-believes-development-public-welfare-politics-danyal-chaudhry",
+          "title": "France sends boats to evacuate tourist hotspot Cap Ferret as wildfires rage",
+          "description": "French authorities ordered the complete evacuation of the Cap Ferret peninsula on Friday, launching boats to help rescue people from the popular tourist destination that’s now threatened by wildfires.",
+          "url": "https://www.cnn.com/2026/07/24/europe/cap-ferret-peninsula-evacuated-intl",
           "source": {
-            "name": "The Nation (Pakistan )"
+            "name": "CNN"
           },
-          "publishedAt": "2026-07-24T04:43:00Z",
-          "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+          "publishedAt": "2026-07-24T07:24:52Z",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2286772051.jpg?c=16x9&q=w_800,c_fill",
           "language": "en"
         },
         {
-          "title": "Nigeria's Dangote raises Ksh.323B to expand Africa's largest refinery",
-          "description": "Nigeria's Dangote mega-refinery Thursday said it has secured $2.5 billion in investment from private investors to fund its expansion plans, as it widens its refining business to east Africa.",
-          "url": "https://citizen.digital/article/nigerias-dangote-raises-ksh323b-to-expand-africas-largest-refinery-n386993",
+          "title": "Putting Tanzania first through dialogue, cooperation and peaceful political understanding for future generations",
+          "description": "DAR ES SALAAM: POLITICAL competition is a natural feature of every democratic society. Different political parties often present different ideas, policies and priorities as they seek public support. While these differences are important in strengthening democracy, they need not become barriers to national unity or development. When dialogue replaces confrontation and cooperation takes precedence over …",
+          "url": "https://dailynews.co.tz/putting-tanzania-first-through-dialogue-cooperation-and-peaceful-political-understanding-for-future-generations/",
           "source": {
-            "name": "Citizen Digital"
+            "name": "dailynews.co.tz"
           },
-          "publishedAt": "2026-07-24T04:42:18Z",
-          "image": "https://assets.citizen.digital/166854/conversions/dangote-og_image.webp",
+          "publishedAt": "2026-07-24T07:22:42Z",
+          "image": "https://dailynews.co.tz/wp-content/uploads/2026/07/Screenshot-2026-07-24-104641.jpg",
           "language": "en"
         },
         {
-          "title": "IHC seeks FIA response regarding travel ban on Yar Muhammad Rind",
-          "description": "ISLAMABAD  -  The Islamabad High Court (IHC) on Thursday directed the Federal Investigation Agency (FIA) to submit its reply in a petition filed by former",
-          "url": "https://www.nation.com.pk/24-Jul-2026/ihc-seeks-fia-response-regarding-travel-ban-yar-muhammad-rind",
+          "title": "Wangadya: Vicious Campaign Against Me Paralysed Human Rights Commission",
+          "description": "KAMPALA — Uganda Human Rights Commission (UHRC) Chairperson Mariam Fauzat Wangadya on Thursday apologised for remarks in which she accused President Yoweri Museveni of turning the Commission into a “dumping ground for political failures” and said the President should show “some respect” for the constitutional body, telling Parliament she had been pushed “to the edge” …",
+          "url": "https://chimpreports.com/wangadya-vicious-campaign-against-me-paralysed-human-rights-commission/",
           "source": {
-            "name": "The Nation (Pakistan )"
+            "name": "ChimpReports"
           },
-          "publishedAt": "2026-07-24T04:41:00Z",
-          "image": "https://www.nation.com.pk/print_images/large/2026-07-24/ihc-seeks-fia-response-regarding-travel-ban-yar-muhammad-rind-1784868078-3911.jpg",
+          "publishedAt": "2026-07-24T07:22:18Z",
+          "image": "https://cdn-network.chimpreports.com/wp-content/uploads/2026/07/wangadya.jpg",
           "language": "en"
         },
         {
-          "title": "Splice and Spitfire Audio Launch Four New Originals Libraries",
-          "description": "Splice and Spitfire Audio launch four new Originals libraries and upgrade 17 existing titles to full fidelity.",
-          "url": "https://content-technology.com/audio-radio-podcasting/splice-and-spitfire-audio-launch-four-new-originals-libraries/",
+          "title": "Arsenal set to table £70m Bruno Guimaraes transfer offer despite Newcastle's hard stance",
+          "description": "Arsenal are preparing a £70m Bruno Guimaraes transfer offer despite Newcastle's firm stance, with the Brazilian midfielder keen on a move to the Emirates Stadium.",
+          "url": "https://www.goal.com/en-ug/lists/arsenal-bruno-guimaraes-70m-transfer-offer-newcastle/blt2ad6862c3bd18cea",
           "source": {
-            "name": "Content + Technology"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-07-24T04:40:47Z",
-          "image": "https://content-technology.com/wp-content/uploads/2026/07/unnamed.png",
+          "publishedAt": "2026-07-24T07:22:10Z",
+          "image": "https://assets.goal.com/images/v3/blteb6b94d0631530b0/GOAL%20-%20Blank%20WEB%20-%20Facebook%20-%202026-03-24T104242.566.png",
           "language": "en"
         },
         {
-          "title": "Eric Adjepong ordered to stay away from daughter amid abuse claims",
-          "description": "A Maryland judge barred Food Network personality and 'Top Chef' alum Eric Adjepong from being alone with his 7-year-old daughter after finding a 'preponderance of evidence to believe' abuse claims.",
-          "url": "https://www.latimes.com/entertainment-arts/story/2026-07-23/chef-eric-adjepong-ordered-to-stay-away-from-daughter-amid-abuse-claims",
+          "title": "Arsenal set to table £70m Bruno Guimaraes transfer offer despite Newcastle's hard stance",
+          "description": "Arsenal are preparing a £70m Bruno Guimaraes transfer offer despite Newcastle's firm stance, with the Brazilian midfielder keen on a move to the Emirates Stadium.",
+          "url": "https://www.goal.com/en-ke/lists/arsenal-bruno-guimaraes-70m-transfer-offer-newcastle/blt2ad6862c3bd18cea",
           "source": {
-            "name": "Los Angeles Times"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-07-24T04:40:00Z",
-          "image": "https://ca-times.brightspotcdn.com/dims4/default/9e351f8/2147483647/strip/true/crop/4000x2100+0+186/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5a%2F2f%2Fd857c44a477ca9ec98cfce9b177b%2F2151142927.jpg",
+          "publishedAt": "2026-07-24T07:22:10Z",
+          "image": "https://assets.goal.com/images/v3/blteb6b94d0631530b0/GOAL%20-%20Blank%20WEB%20-%20Facebook%20-%202026-03-24T104242.566.png",
           "language": "en"
         },
         {
-          "title": "NAB chairman stresses integrity, character-building",
-          "description": "ISLAMABAD  -  The participants of the 3rd Senior Management Course from the Sindh Provincial Civil Service visited NAB (Headquarters) on Thursday. NAB Chairman",
-          "url": "https://www.nation.com.pk/24-Jul-2026/nab-chairman-stresses-integrity-character-building",
+          "title": "Inheritance tax overhaul for people who don't have children would cost State hundreds of millions",
+          "description": "Department of Finance papers say proposals to introduce a single €460,000 lifetime tax-free threshold would have “significant costs”.",
+          "url": "https://www.thejournal.ie/inheritance-tax-relief-children-cost-budget-7111851-Jul2026/",
           "source": {
-            "name": "The Nation (Pakistan )"
+            "name": "The Journal"
           },
-          "publishedAt": "2026-07-24T04:40:00Z",
-          "image": "https://www.nation.com.pk/print_images/large/2026-07-24/nab-chairman-stresses-integrity-character-building-1784868039-8970.jpg",
+          "publishedAt": "2026-07-24T07:22:00Z",
+          "image": "https://img2.thejournal.ie/article/7111851/river/?height=400&version=7111857",
           "language": "en"
         },
         {
-          "title": "Weekend weather: Expect chilly conditions with coastal showers and strong winds in KwaZulu-Natal",
-          "description": "South Africans are in for a chilly weekend as cold conditions persist across the country, with coastal showers affecting the Eastern Cape and KwaZulu-Natal.",
-          "url": "https://iol.co.za/news/weather/2026-07-24-weekend-weather-expect-chilly-conditions-with-coastal-showers-and-strong-winds-in-kwazulu-natal/",
+          "title": "Destination X Season 2: What we know about the cast return of the hit series",
+          "description": "Destination X Season 2 is officially on the way. Discover the latest on the release date, returning cast, filming updates, and where to watch the hit series.",
+          "url": "https://www.tuko.co.ke/entertainment/tv-shows/633691-destination-x-season-2-what-cast-return-hit-series/",
           "source": {
-            "name": "IOL"
+            "name": "Tuko News"
           },
-          "publishedAt": "2026-07-24T04:39:40Z",
-          "image": "https://iol-prod.appspot.com/image/2f153edfbe71106ab9022feec46924c34329b171/1000/jpeg",
+          "publishedAt": "2026-07-24T07:20:44Z",
+          "image": "https://cdn.tuko.co.ke/images/1200x675/b2ea462ff6fe765b.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
-          "description": "The company has said that it broadly wants to ensure, in part through government policy, that AI technology \"benefits all of humanity.\"",
-          "url": "https://www.the-star.co.ke/news/world/2026-07-24-lawmakers-push-for-ai-kill-switch-after-openai-goes-rogue",
+          "title": "Xiaomi and Redmi's 2026 Audio Range Delivers Flagship Sound Without the Flagship Price < NAG",
+          "description": "Xiaomi has spent years building a reputation on the core idea that technology should be affordable even at the high-end level. It is a philosophy that has worked exceptionally well for their smartphone ranges, and now the company is applying the same idea to personal audio. In South Africa we have no shortage of options when it comes to Bluetooth headphones, from entry-level imported brands to the most expensive flagship hardware. Even for a hardware reviewer like me, it becomes […]",
+          "url": "https://www.nag.co.za/2026/07/24/xiaomi-and-redmis-2026-audio-range-delivers-flagship-sound-without-the-flagship-price/",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "nag.co.za"
           },
-          "publishedAt": "2026-07-24T04:36:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/07/7d67e08d-7a7e-4b50-9a2c-797d9febf2ed.webp?1784872120206",
+          "publishedAt": "2026-07-24T07:17:16Z",
+          "image": "https://www.nag.co.za/wp-content/uploads/2026/07/xiaomiaudio_1.jpg",
           "language": "en"
         },
         {
-          "title": "Botswana: About 81,000 Batswana Live With NCDs",
-          "description": "About 81 000 Batswana are living with non-communicable diseases, including diabetes, high blood pressure, and cancer particularly cervical cancer, President Advocate Duma Boko has said.",
-          "url": "https://allafrica.com/stories/202607240015.html",
+          "title": "WAFCON 2026: Super Falcons hit Rabat for title defence",
+          "description": "Defending champions, Super Falcons of Nigeria will arrive in Rabat on Friday (today) for the 2026 Women's Africa Cup of Nations, DAILY POST reports.",
+          "url": "https://dailypost.ng/2026/07/24/wafcon-2026-super-falcons-hit-rabat-for-title-defence/",
           "source": {
-            "name": "allAfrica.com"
+            "name": "Daily Post Nigeria"
           },
-          "publishedAt": "2026-07-24T04:35:25Z",
-          "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+          "publishedAt": "2026-07-24T07:17:13Z",
+          "image": "https://dailypost.ng/wp-content/uploads/2025/07/Super-Falcons-1.jpg",
           "language": "en"
         },
         {
-          "title": "Botswana: Govt Intensifies Dairy Research",
-          "description": "Government has intensified dairy research at Sunnyside Ranch in Lobatse to determine which crossbreed is best suited for local production.",
-          "url": "https://allafrica.com/stories/202607240016.html",
+          "title": "Team Liquid PH and Team Falcons PH at MSC 2026: Results recap",
+          "description": "The battle for the Mobile Legends: Bang Bang Mid Season Cup (MSC) title is officially underway.",
+          "url": "https://www.gmanetwork.com/news/sports/othersports/995999/team-liquid-ph-and-team-falcons-ph-at-msc-2026-results-recap/story/",
           "source": {
-            "name": "allAfrica.com"
+            "name": "GMA Network"
           },
-          "publishedAt": "2026-07-24T04:34:49Z",
-          "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+          "publishedAt": "2026-07-24T07:16:38Z",
+          "image": "https://images.gmanews.tv/webpics/2026/07/TLPH_Falcons_PH_in_MSC_EWC_2026_07_24_15_15_24.jpg",
           "language": "en"
         }
       ]
