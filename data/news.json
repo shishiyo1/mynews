@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-24T19:26:00.491Z",
+  "updatedAt": "2026-07-24T22:05:00.283Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "Windows 11にCopilotキーを無効化する設定が登場へ。テスト版で「何もしない」項目が追加",
+          "description": "Windows 11のテスト版ビルドに、Copilotキーの動作を「何もしない（Do nothing）」に変更し、キーを実質的に無効化できる設定が追加されていることが分かりました。",
+          "url": "https://gazlog.jp/entry/windows-11-copilot-do-nothing/",
+          "source": {
+            "name": "GAZLOG"
+          },
+          "publishedAt": "2026-07-24T10:04:56Z",
+          "image": "https://gazlog.jp/wp-content/uploads/2026/05/image-54.png",
+          "language": "ja"
+        },
+        {
+          "title": "全て半額以下！フロムの名作ACT『AC6』『SEKIRO』や、良リメイクの『ロマサガ2R』、『ユニコーンオーバーロード』と『SO6』もお手頃価格に【PS Storeのお薦めセール】",
+          "description": "次に遊ぶゲームを探している方は、セールでお得に手に入れてみてはいかがでしょうか。",
+          "url": "https://www.inside-games.jp/article/2026/07/24/185092.html",
+          "source": {
+            "name": "インサイド"
+          },
+          "publishedAt": "2026-07-24T10:00:03Z",
+          "image": "https://www.inside-games.jp/imgs/ogp_f/1757235.png",
+          "language": "ja"
+        },
+        {
+          "title": "ガーミン初、画面なしのフィットネストラッカー。しかもサブスク不要",
+          "description": "画面なしフィットネストラッカー市場をリードする存在だった「Whoop」ですが、今年初めにGoogle（グーグル）から「Fitbit Air」が登場し、その地位を揺るがしました。そして、ついにGarmin（ガーミン）からも画面なしモデル「CI",
+          "url": "https://www.gizmodo.jp/article/garmins-new-screenless-wearable-could-be-a-serious-whoop-competitor/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-07-24T10:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/07/23/8de4afe5-126d-4d0b-b674-6cedd85c4846/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "高市早苗首相が目指す「富国強兵」 支持率低下も織り込み済みか",
+          "description": "高市早苗内閣の支持率に陰りが目立ち始めた。 　高市首相は今年2月の衆院選で自民党を大勝に導いたが、有権者が切望する物価高対策は先送りされ、半年もたたないうちに失速した形だ。",
+          "url": "https://mainichi.jp/articles/20260724/k00/00m/010/207000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-07-24T09:00:00Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/07/24/20260724k0000m030226000p/0c10.jpg?1",
+          "language": "ja"
+        },
+        {
+          "title": "Apple、全Mac刷新ロードマップ判明 M6搭載MacBook Proと新iMacが今秋登場か",
+          "description": "Appleが全Mac製品ラインアップの刷新ロードマップを準備しているとBloombergが報じた。今秋にはM6チップ搭載の14インチMacBook Proと新型iMacが登場し、2026年末…",
+          "url": "https://finance.biggo.jp/news/3518e2f8-a4a8-4391-8f3d-734d78507081",
+          "source": {
+            "name": "BigGo ファイナンス"
+          },
+          "publishedAt": "2026-07-24T08:46:00Z",
+          "image": "https://img.biggo.com/eo98eaRTS3Ij4ZJ1xBXgxLQY4-qvoeQ9IepO7rbNJWk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzM1MThlMmY4LWE0YTgtNDM5MS04ZjNkLTczNGQ3ODUwNzA4MV8xNzg0ODgzMTI1X2RlZmF1bHQuanBn.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "加藤麗奈 自身初のトーナメントリーダーへ浮上",
+          "description": "一般社団法人日本女子プロゴルフ協会(JLPGA)の公式サイトです。",
+          "url": "https://www.lpga.or.jp/news/info/82649",
+          "source": {
+            "name": "日本女子プロゴルフ協会"
+          },
+          "publishedAt": "2026-07-24T08:37:35Z",
+          "image": "https://cdn.lpga.or.jp/lpga/cms/2026/07/24/xl/bb31fd1d482f8d49e6009d7a4bdbcea3a89eaf7b.jpg?1784888604",
+          "language": "ja"
+        },
+        {
+          "title": "（まとめ）日経平均は1,811円安の64,611円で大幅反落 AI・半導体に売り優勢",
+          "description": "東京市場まとめ1.概況日経平均は838円安の65,584円と下落して取引を開始しました。前日の米国市場では、ハイテク株が軟調に推移したことで、日本市場も売りが優勢でスタートしました。寄付きから、下げ幅を拡大した日経平均は徐々に水準を切り下げ、前場は1,853円安の64...",
+          "url": "https://media.monex.co.jp/articles/-/29815",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-07-24T08:00:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
+          "language": "ja"
+        },
         {
           "title": "テレ朝ドラマ『大空港』は地味めの作りながらどうして「民放1位の高視聴率」を獲得できたのか #エキスパートトピ",
           "description": "趣里主演の『大空港〜GATE24〜』の第1回が放送され、世帯視聴率が10.7%と高視聴率でスタートした。テレビ朝日の木曜9時ドラマは長く続くドラマ枠で、かつては米倉涼子の『ドクターＸ』や、天海祐希の『",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-07-24T07:05:13Z",
           "image": "https://prcdn.freetls.fastly.net/release_image/21078/2682/21078-2682-9522dbac12b08808f7f8dc2d41a0ec04-1950x1210.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
           "language": "ja"
-        },
-        {
-          "title": "今日24日 4日連続の酷暑日 7月末～8月初旬はまた酷暑日続出か 暑さのピークは",
-          "description": "今日24日も桑名(三重県)と美濃(岐阜県)では40℃を超え、国内で4日連続の酷暑日となりました。明日25日も名古屋などで40℃以上の気温が予想されています。その後、危険な暑さのピークは過ぎて、酷暑日の地点はほとんどなくなりますが、7月末～8月初旬はまた酷暑日が続出しそうです。",
-          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/07/24/39846.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-07-24T07:05:02Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/398/39846/main/20260724154350/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "CD900ST」に「THE FIRST TAKE」コラボモデル。数量限定500個",
-          "description": "ソニーストアは、モニターヘッドホン「MDR-CD900ST」と、YouTubeチャンネル『THE FIRST TAKE』のコラボレーションモデル「THE FIRST TAKE×MDR-CD900ST SPECIAL COLABORATION BOX 2026」を、数量限定500個で販売する。価格は36,300円（税込）。",
-          "url": "https://www.phileweb.com/sp/news/d-av/202607/24/65646.html",
-          "source": {
-            "name": "PHILE WEB"
-          },
-          "publishedAt": "2026-07-24T07:00:55Z",
-          "image": "https://www.phileweb.com/news/ogp/d-av/656/d0349064e88f19fabc3fcf15f1ce7983.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "アップルの全Mac刷新ロードマップが判明か 今秋のM6モデルから2028年の見通しまで",
-          "description": "アップルが販売するすべてのMacを刷新するロードマップについて、Bloombergのマーク・ガーマン氏が報じた。「MacBook Neo」や「Mac Studio」など、アップルは各MacBookシリーズとデスクトップ型Macの刷新に取り組んでいるという。",
-          "url": "https://japan.cnet.com/article/35250949/",
-          "source": {
-            "name": "CNET Japan"
-          },
-          "publishedAt": "2026-07-24T06:48:00Z",
-          "image": "https://japan.cnet.com/storage/2026/07/24/ebb5f099793ba0338f32393a2190eb05/898e5548-12f2-4385-8574-79d63054d129_1280x960.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "蔵内議長「君は並のトカゲじゃないよ。進化しない大トカゲだ」 中尾副議長の辞職を受理 県議会“金銭授受”疑惑 【福岡発】",
-          "description": "福岡県議会の正･副議長を巡る金銭授受疑惑で、副議長を務める議員が、議員辞職を申し出て、議長に受理された。",
-          "url": "https://news.yahoo.co.jp/articles/4e22a7dbe12c283bd6e9a7dffd961b7fb246d39d",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-24T06:12:25Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260724-01181162-fnnprimev-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "今年3月に契約満了伝達「W杯まで」JFA宮本会長の翻意で森保監督“半年続投”へ",
-          "description": "日本サッカー協会(JFA)は24日、東京都内で記者会見を行い、宮本恒靖会長が今年3月に日本代表の森保一監督に対し、北中米W杯限りでの契約満了を告げていたことを明らかにした。その後、今年5月に方針を転換し、...",
-          "url": "https://web.gekisaka.jp/news/japan/detail/?455783-455783-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-07-24T06:12:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/456000/455783/news_455783_1.jpg?time=20260724151215",
-          "language": "ja"
-        },
-        {
-          "title": "更迭されたウクライナ前国防相、復帰を要求 ほかの役職は受け入れないと",
-          "description": "今月中旬に更迭されたウクライナのフェドロフ前国防相は23日、ゼレンスキー大統領から提示された政権内の別の役職に就くつもりはないと表明し、国防相への復帰を強く求めた。",
-          "url": "https://www.bbc.com/japanese/articles/czxqnlrn001o",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-07-24T05:58:22Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/bcc1/live/101e62c0-86b7-11f1-bb58-d3ffca85db6d.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "副首都法案、野党採決に応じず膠着 予算委開会「全く予測つかない」",
-          "description": "国会は24日、最終局面の与野党攻防に突入しました。「副首都構想」関連法案をめぐり与党は午前中の成立を目指していましたが、野党側が採決に応じず、膠着（こうちゃく）状態に。午後には高市早苗首相出席の衆院…",
-          "url": "https://www.asahi.com/articles/ASV7S0GPYV7SUTFK007M.html",
-          "source": {
-            "name": "朝日新聞"
-          },
-          "publishedAt": "2026-07-24T05:35:11Z",
-          "image": "https://imgopt.asahi.com/ogp/AS20260724001133_comm.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "France sends boats to evacuate tourist hotspot Cap Ferret as wildfires rage",
-          "description": "French authorities ordered the complete evacuation of the Cap Ferret peninsula on Friday, launching boats to help rescue people from the popular tourist destination that’s now threatened by wildfires.",
-          "url": "https://www.cnn.com/2026/07/24/europe/cap-ferret-peninsula-evacuated-intl",
+          "title": "Citi stresses human oversight in AI deployment",
+          "description": "Citi is expanding its use of artificial intelligence to improve internal productivity and client services while maintaining human accountability for decisions made with the technology.",
+          "url": "https://newsbytes.ph/2026/07/24/citi-stresses-human-oversight-in-ai-deployment/",
           "source": {
-            "name": "CNN"
+            "name": "Newsbytes.PH"
           },
-          "publishedAt": "2026-07-24T07:24:52Z",
-          "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2286772051.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2026-07-24T10:04:14Z",
+          "image": "https://newsbytes.ph/wp-content/uploads/2026/07/Paul-Favila-CEO-and-banking-head-Citi-PH.jpg",
           "language": "en"
         },
         {
-          "title": "Putting Tanzania first through dialogue, cooperation and peaceful political understanding for future generations",
-          "description": "DAR ES SALAAM: POLITICAL competition is a natural feature of every democratic society. Different political parties often present different ideas, policies and priorities as they seek public support. While these differences are important in strengthening democracy, they need not become barriers to national unity or development. When dialogue replaces confrontation and cooperation takes precedence over …",
-          "url": "https://dailynews.co.tz/putting-tanzania-first-through-dialogue-cooperation-and-peaceful-political-understanding-for-future-generations/",
+          "title": "Ex-Lakers superstar LeBron James gets $4M contract update as Warriors, Heat, Cavs, 76ers wait",
+          "description": "LeBron James has said throughout his entire free agency process that it is not about the money. That seems to be very true after the latest report surrounding his future contract.",
+          "url": "https://sports.yahoo.com/articles/ex-lakers-superstar-lebron-james-100413582.html",
           "source": {
-            "name": "dailynews.co.tz"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-07-24T07:22:42Z",
-          "image": "https://dailynews.co.tz/wp-content/uploads/2026/07/Screenshot-2026-07-24-104641.jpg",
+          "publishedAt": "2026-07-24T10:04:13Z",
+          "image": "https://s.yimg.com/os/en/the_sporting_news_articles_584/eb1222762d98fddbf4d1c2ad9a980073",
           "language": "en"
         },
         {
-          "title": "Wangadya: Vicious Campaign Against Me Paralysed Human Rights Commission",
-          "description": "KAMPALA — Uganda Human Rights Commission (UHRC) Chairperson Mariam Fauzat Wangadya on Thursday apologised for remarks in which she accused President Yoweri Museveni of turning the Commission into a “dumping ground for political failures” and said the President should show “some respect” for the constitutional body, telling Parliament she had been pushed “to the edge” …",
-          "url": "https://chimpreports.com/wangadya-vicious-campaign-against-me-paralysed-human-rights-commission/",
+          "title": "Kiyapo causes widespread flooding in Iloilo, Antique",
+          "description": "ILOILO CITY — Flooding inundated at least 40 barangay in Iloilo City and some parts of Antique on Friday, July 24, due to the continuous rains brought by the southwest monsoon, enhanced by Tropical Cyclone Kiyapo.",
+          "url": "https://www.manilatimes.net/2026/07/24/regions/kiyapo-causes-widespread-flooding-in-iloilo-antique/2390933",
           "source": {
-            "name": "ChimpReports"
+            "name": "The Manila Times"
           },
-          "publishedAt": "2026-07-24T07:22:18Z",
-          "image": "https://cdn-network.chimpreports.com/wp-content/uploads/2026/07/wangadya.jpg",
+          "publishedAt": "2026-07-24T10:04:00Z",
+          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/24/1149837.jpeg",
           "language": "en"
         },
         {
-          "title": "Arsenal set to table £70m Bruno Guimaraes transfer offer despite Newcastle's hard stance",
-          "description": "Arsenal are preparing a £70m Bruno Guimaraes transfer offer despite Newcastle's firm stance, with the Brazilian midfielder keen on a move to the Emirates Stadium.",
-          "url": "https://www.goal.com/en-ug/lists/arsenal-bruno-guimaraes-70m-transfer-offer-newcastle/blt2ad6862c3bd18cea",
+          "title": "Fixing the labour market will be a defining feature of Andy Burnham’s premiership",
+          "description": "Fixing the labour market will be a defining feature of Andy Burnham’s premiership and more. We support the business community in Edinburgh to grow success.",
+          "url": "https://www.edinburghchamber.co.uk/fixing-the-labour-market-will-be-a-defining-feature-of-andy-burnhams-premiership/",
           "source": {
-            "name": "Goal.com"
+            "name": "Edinburgh Chamber of Commerce"
           },
-          "publishedAt": "2026-07-24T07:22:10Z",
-          "image": "https://assets.goal.com/images/v3/blteb6b94d0631530b0/GOAL%20-%20Blank%20WEB%20-%20Facebook%20-%202026-03-24T104242.566.png",
+          "publishedAt": "2026-07-24T10:03:27Z",
+          "image": "https://www.edinburghchamber.co.uk/wp-content/uploads/2026/07/MHA-LOGO-1.jpg",
           "language": "en"
         },
         {
-          "title": "Arsenal set to table £70m Bruno Guimaraes transfer offer despite Newcastle's hard stance",
-          "description": "Arsenal are preparing a £70m Bruno Guimaraes transfer offer despite Newcastle's firm stance, with the Brazilian midfielder keen on a move to the Emirates Stadium.",
-          "url": "https://www.goal.com/en-ke/lists/arsenal-bruno-guimaraes-70m-transfer-offer-newcastle/blt2ad6862c3bd18cea",
+          "title": "Romania says F-16 shot down drone over the country's airspace",
+          "description": "Romania's Ministry of Defence said the jet engaged a drone with an air-to-air missile while carrying out an air policing mission.",
+          "url": "https://www.euronews.com/my-europe/2026/07/24/romania-says-f-16-jet-shot-down-a-drone-over-its-airspace",
           "source": {
-            "name": "Goal.com"
+            "name": "Euronews.com"
           },
-          "publishedAt": "2026-07-24T07:22:10Z",
-          "image": "https://assets.goal.com/images/v3/blteb6b94d0631530b0/GOAL%20-%20Blank%20WEB%20-%20Facebook%20-%202026-03-24T104242.566.png",
+          "publishedAt": "2026-07-24T10:03:22Z",
+          "image": "https://images.euronews.com/articles/stories/09/84/93/17/1200x675_cmsv2_e30f22db-cf56-5e0a-8261-47e16e41c144-9849317.jpg",
           "language": "en"
         },
         {
-          "title": "Inheritance tax overhaul for people who don't have children would cost State hundreds of millions",
-          "description": "Department of Finance papers say proposals to introduce a single €460,000 lifetime tax-free threshold would have “significant costs”.",
-          "url": "https://www.thejournal.ie/inheritance-tax-relief-children-cost-budget-7111851-Jul2026/",
+          "title": "Mindful Maestros highlights emotional journeys of young boys",
+          "description": "Namibian documentary, 'Mindful Maestros', explores themes of identity, mental health and emotional expression, while creating space for young boys to confront a",
+          "url": "https://neweralive.na/mindful-maestros-highlights-emotional-journeys-of-young-boys/",
           "source": {
-            "name": "The Journal"
+            "name": "neweralive.na"
           },
-          "publishedAt": "2026-07-24T07:22:00Z",
-          "image": "https://img2.thejournal.ie/article/7111851/river/?height=400&version=7111857",
+          "publishedAt": "2026-07-24T10:03:17Z",
+          "image": "https://neweralive.na/wp-content/uploads/2026/07/Maestros-1-scaled.jpg",
           "language": "en"
         },
         {
-          "title": "Destination X Season 2: What we know about the cast return of the hit series",
-          "description": "Destination X Season 2 is officially on the way. Discover the latest on the release date, returning cast, filming updates, and where to watch the hit series.",
-          "url": "https://www.tuko.co.ke/entertainment/tv-shows/633691-destination-x-season-2-what-cast-return-hit-series/",
+          "title": "The Structure of The Milky Way May Have Shaped Earth's Continents",
+          "description": "In the beginning, there was moosh.",
+          "url": "https://www.sciencealert.com/the-structure-of-the-milky-way-may-have-shaped-earths-continents",
           "source": {
-            "name": "Tuko News"
+            "name": "ScienceAlert"
           },
-          "publishedAt": "2026-07-24T07:20:44Z",
-          "image": "https://cdn.tuko.co.ke/images/1200x675/b2ea462ff6fe765b.jpeg?v=1",
+          "publishedAt": "2026-07-24T10:03:12Z",
+          "image": "https://www.sciencealert.com/images/2026/07/milky-way-arch.jpg",
           "language": "en"
         },
         {
-          "title": "Xiaomi and Redmi's 2026 Audio Range Delivers Flagship Sound Without the Flagship Price < NAG",
-          "description": "Xiaomi has spent years building a reputation on the core idea that technology should be affordable even at the high-end level. It is a philosophy that has worked exceptionally well for their smartphone ranges, and now the company is applying the same idea to personal audio. In South Africa we have no shortage of options when it comes to Bluetooth headphones, from entry-level imported brands to the most expensive flagship hardware. Even for a hardware reviewer like me, it becomes […]",
-          "url": "https://www.nag.co.za/2026/07/24/xiaomi-and-redmis-2026-audio-range-delivers-flagship-sound-without-the-flagship-price/",
+          "title": "‘Jobless graduates not stats but human’ ...Selma Oskar’s story puts face to housing crisis",
+          "description": "Unemployed but qualified teacher Selma Oskar has highlighted the daily struggles faced by informal settlement residents, including limited access to basic servi",
+          "url": "https://neweralive.na/jobless-graduates-not-stats-but-human-selma-oskars-story-puts-face-to-housing-crisis/",
           "source": {
-            "name": "nag.co.za"
+            "name": "neweralive.na"
           },
-          "publishedAt": "2026-07-24T07:17:16Z",
-          "image": "https://www.nag.co.za/wp-content/uploads/2026/07/xiaomiaudio_1.jpg",
+          "publishedAt": "2026-07-24T10:02:34Z",
+          "image": "https://neweralive.na/wp-content/uploads/2026/07/Graudaute-2-scaled.png",
           "language": "en"
         },
         {
-          "title": "WAFCON 2026: Super Falcons hit Rabat for title defence",
-          "description": "Defending champions, Super Falcons of Nigeria will arrive in Rabat on Friday (today) for the 2026 Women's Africa Cup of Nations, DAILY POST reports.",
-          "url": "https://dailypost.ng/2026/07/24/wafcon-2026-super-falcons-hit-rabat-for-title-defence/",
+          "title": "Poor adoptions leave children in limbo ... only 524 adopted in 10 years",
+          "description": "Auleria Wakudumo\nDespite steady improvements in Namibia’s child protection system over the past decade, adoption remains one of the country’s weakest chi",
+          "url": "https://neweralive.na/poor-adoptions-leave-children-in-limbo-only-524-adopted-in-10-years/",
           "source": {
-            "name": "Daily Post Nigeria"
+            "name": "neweralive.na"
           },
-          "publishedAt": "2026-07-24T07:17:13Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2025/07/Super-Falcons-1.jpg",
+          "publishedAt": "2026-07-24T10:02:34Z",
+          "image": "https://neweralive.na/wp-content/uploads/2026/07/Adoption.jpg",
           "language": "en"
         },
         {
-          "title": "Team Liquid PH and Team Falcons PH at MSC 2026: Results recap",
-          "description": "The battle for the Mobile Legends: Bang Bang Mid Season Cup (MSC) title is officially underway.",
-          "url": "https://www.gmanetwork.com/news/sports/othersports/995999/team-liquid-ph-and-team-falcons-ph-at-msc-2026-results-recap/story/",
+          "title": "Walvis: Council moves to silence noise",
+          "description": "WALVIS BAY - The Walvis Bay Municipal Council has passed a motion to enforce its by-laws relating to noise pollution in the town.\nCouncillor Sharon Roodt tab",
+          "url": "https://neweralive.na/walvis-council-moves-to-silence-noise/",
           "source": {
-            "name": "GMA Network"
+            "name": "neweralive.na"
           },
-          "publishedAt": "2026-07-24T07:16:38Z",
-          "image": "https://images.gmanews.tv/webpics/2026/07/TLPH_Falcons_PH_in_MSC_EWC_2026_07_24_15_15_24.jpg",
+          "publishedAt": "2026-07-24T10:02:11Z",
+          "image": "https://neweralive.na/wp-content/uploads/2026/06/Walvis-Bay-scaled.jpg",
           "language": "en"
         }
       ]
