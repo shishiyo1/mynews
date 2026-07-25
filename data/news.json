@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-25T08:07:18.788Z",
+  "updatedAt": "2026-07-25T10:27:35.098Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "25日は名古屋など40℃予想 史上初の5日連続の酷暑日か 暑い時間帯の外出避けて",
+          "description": "今日25日も、近畿や東海を中心に災害級の暑さが続くでしょう。今日、国内で最高気温40℃以上になれば5日連続の酷暑日となり、観測史上初めてのことになります。暑い時間帯の外出は避け、時間を決めて水分をとるなど、万全の熱中症対策をしてください。",
+          "url": "https://tenki.jp/forecaster/a_aoyama/2026/07/25/39852.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-24T21:43:39Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/398/39852/main/20260725063818/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【レバノンで死亡】日本赤軍・岡本公三容疑者（78）、実現しなかった〈身柄引き渡し交渉〉の内幕（文春オンライン）",
+          "description": "「テルアビブ・ロッド空港事件」の実行犯の一人、 元日本赤軍の岡本公三容疑者（78） が、亡命先のレバノンで7月23日に死亡したことをパレスチナ解放人民戦線が発表した。\n「テルアビブ・ロッド空港",
+          "url": "https://news.yahoo.co.jp/articles/f7e868574e3f65daaeb417d41ba70f2b54d8ca8e",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-24T21:26:03Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260725-00090675-bunshun-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "大谷翔平32歳…そろそろ“打者専念”すべき？ 投手コンディショニング専門家が語る、“30代の二刀流”に必要な3つのケア「投手復帰後は球速に注目」",
+          "description": "コルチゾン注射ではなく、潤滑剤を膝に注入した――いま、大谷翔平の左膝に何が起こっているのか。投手コンディショニングの専門家に意見を求めた。〈NumberWebレポート全2回の後編〉\n　ドジャースの",
+          "url": "https://news.yahoo.co.jp/articles/5ed3855fae64035b1e0f54b97776316ded5ac4f1",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-24T21:17:06Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260725-00871336-number-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "「AI暴走なら政府が停止」法案にNVIDIAら25社が反発、OpenAI・Anthropicは署名せず",
           "description": "AIが暴走したら、政府が強制的に止められるようにする——そんな「AIキルスイッチ法案」が7月23日(米国時間)、米連邦議会に提出された。その翌日、NVIDIAやMicrosoft、Metaなど25の企業・団体が、共同書簡「Open Weights and American AI Leadership」を公開した。規制で縛るのではなく、AIを広く公開することこそが安全につながるという、AI業界側の反論だ。ただ、この反論がAIキルスイッチ法案の行方を左右できるかどうかは、まだ見えない。",
@@ -81,150 +114,117 @@
           "publishedAt": "2026-07-24T12:00:00Z",
           "image": "https://aeradot.ismcdn.jp/mwimgs/1/7/1200xm/img_17a4b0b8281d7ad067841684a15c72ef846578.jpg",
           "language": "ja"
-        },
-        {
-          "title": "宝塚宙組の「黒蜥蜴」…桜木みなと「純愛をさせてもらっている」東京公演前会見一問一答",
-          "description": "宝塚歌劇団宙組トップコンビ、桜木みなとと春乃さくらが24日、東京宝塚劇場で主演する「黒蜥蜴（とかげ）」（江戸川乱歩原作、三島由紀夫戯曲、生田大和潤色・演出）の初日を翌日に控え、囲み取材に応じた。女賊・黒蜥蜴（春乃）を追い詰める名探偵、明智…",
-          "url": "https://www.sankei.com/article/20260724-CF3MGQJFN5OM3DAJGEHAH6NUHY/",
-          "source": {
-            "name": "産経ニュース"
-          },
-          "publishedAt": "2026-07-24T10:53:38Z",
-          "image": "https://www.sankei.com/resizer/v2/OBYT6KNYANJF5DQAW35QYAP46I.jpg?auth=394f603f7035a53dfc985156df31f337527105d37ae8a2c478a88acedfac8adf&quality=50&focal=1736%2C883&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "Windows 11にCopilotキーを無効化する設定が登場へ。テスト版で「何もしない」項目が追加",
-          "description": "Windows 11のテスト版ビルドに、Copilotキーの動作を「何もしない（Do nothing）」に変更し、キーを実質的に無効化できる設定が追加されていることが分かりました。",
-          "url": "https://gazlog.jp/entry/windows-11-copilot-do-nothing/",
-          "source": {
-            "name": "GAZLOG"
-          },
-          "publishedAt": "2026-07-24T10:04:56Z",
-          "image": "https://gazlog.jp/wp-content/uploads/2026/05/image-54.png",
-          "language": "ja"
-        },
-        {
-          "title": "全て半額以下！フロムの名作ACT『AC6』『SEKIRO』や、良リメイクの『ロマサガ2R』、『ユニコーンオーバーロード』と『SO6』もお手頃価格に【PS Storeのお薦めセール】",
-          "description": "次に遊ぶゲームを探している方は、セールでお得に手に入れてみてはいかがでしょうか。",
-          "url": "https://www.inside-games.jp/article/2026/07/24/185092.html",
-          "source": {
-            "name": "インサイド"
-          },
-          "publishedAt": "2026-07-24T10:00:03Z",
-          "image": "https://www.inside-games.jp/imgs/ogp_f/1757235.png",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Sperm Whales Use Bubbles as Ballast To Do Their Bizarre Vertical Rest",
-          "description": "Sperm whales sleep vertically beneath the waves, but physics says they should float back up.",
-          "url": "https://www.zmescience.com/science/oceanography/sperm-whales-use-bubbles-as-ballast-to-do-their-bizarre-vertical-rest/",
+          "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+          "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
           "source": {
-            "name": "ZME Science"
+            "name": "TechCrunch"
           },
-          "publishedAt": "2026-07-24T20:04:40Z",
-          "image": "https://cdn.zmescience.com/wp-content/uploads/2026/07/Low-Res_sperm-whale-vertical-rest.jpg",
+          "publishedAt": "2026-07-24T22:25:58Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?resize=1200,799",
           "language": "en"
         },
         {
-          "title": "Samsung Galaxy Z Fold 8 Ultra vs. Google Pixel 10 Pro Fold: Comparing the High",
-          "description": "Samsung’s $2,100 Galaxy Z Fold 8 Ultra is one of the most-expensive book-style foldable phones available right now. Here’s how it compares to Google’s $1,799 Pixel 10 Pro Fold.",
-          "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-8-ultra-vs-google-pixel-10-pro-fold-comparing-the-high-end-foldables/",
+          "title": "Detective says D4vd's phone had photos of teen, talk of abortion",
+          "description": "An LAPD detective took the witness stand Friday and laid out years worth of text messages and phone calls that authorities say indicate the singer D4vd, sexually abused a teenage girl for years, impregnated her and convinced her to have an abortion before allegedly killing her in April of 2025.",
+          "url": "https://www.latimes.com/california/story/2026-07-24/d4vd-david-anthony-burke-preliminary-hearing-testimony",
           "source": {
-            "name": "CNET"
+            "name": "Los Angeles Times"
           },
-          "publishedAt": "2026-07-24T20:04:04Z",
-          "image": "https://www.cnet.com/wp-content/uploads/sites/2/Galaxy-Z-Fold-8-Ultra-vs.-Pixel-10-Pro-Fold.png",
+          "publishedAt": "2026-07-24T22:23:45Z",
+          "image": "https://ca-times.brightspotcdn.com/dims4/default/14e9cc5/2147483647/strip/true/crop/4672x2453+0+454/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffc%2F09%2F1e17e70547c1848d1b0e45aad175%2Fap25070220118928a.jpg",
           "language": "en"
         },
         {
-          "title": "Can We Really Create Infinite Photons? Physicists Reveal What Might Happen if We Try to Cut Light in Half",
-          "description": "Photons act in freaky ways that remind us that nothing is as it seems at the smallest scales and most fundamental levels of existence.",
-          "url": "https://www.sciencealert.com/can-we-really-create-infinite-photons-physicists-reveal-what-might-happen-if-we-try-to-cut-light-in-half",
+          "title": "Tony Romo arrested and booked on suspicion of impaired driving in Milwaukee",
+          "description": "CBS football analyst and former Dallas Cowboys quarterback Tony Romo was arrested Thursday night in Milwaukee on suspicion of intoxicated driving, officials said.",
+          "url": "https://www.nbcnews.com/news/us-news/former-cowboys-qb-tony-romo-booked-suspicion-impaired-driving-rcna589122",
           "source": {
-            "name": "ScienceAlert"
+            "name": "NBC News"
           },
-          "publishedAt": "2026-07-24T20:03:41Z",
-          "image": "https://www.sciencealert.com/images/2026/07/Untitled-design-33.jpg",
+          "publishedAt": "2026-07-24T22:22:37Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260724-tony-romo-mn-1455-65b3f4.jpg",
           "language": "en"
         },
         {
-          "title": "ICC chief prosecutor removed over sexual misconduct allegations",
-          "description": "The chief prosecutor of the International Criminal Court has been removed from office. The vote Friday to oust British barrister Karim Khan came nearly two years after sexual misconduct allegations against him first emerged.",
-          "url": "https://apnews.com/article/icc-court-prosecutor-karim-khan-united-nations-5a9490e98b74f3bf13f5eae26fb3c3d7",
+          "title": "Sky News Australia",
+          "description": "SkyNews.com.au — Australian News Headlines & World News Online from the best award winning journalists",
+          "url": "https://www.skynews.com.au/nocookies?a=A.flavipes",
           "source": {
-            "name": "AP News"
+            "name": "Sky News Australia"
           },
-          "publishedAt": "2026-07-24T20:03:00Z",
-          "image": "https://dims.apnews.com/dims4/default/b033c0d/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2F30%2F08ff58ed5239775c3d97a3f55523%2F788287ed53e04cc3aad2ec249d120b71",
+          "publishedAt": "2026-07-24T22:22:14Z",
+          "image": "https://www.skynews.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-skynews-169.svg",
           "language": "en"
         },
         {
-          "title": "LeBron James is heading to the Philadelphia 76ers",
-          "description": "LeBron James is heading to the Philadelphia 76ers. James made the announcement on social media, saying it will be his “last decision” and that it comes after he strongly considered retirement.",
-          "url": "https://apnews.com/article/lebron-james-76ers-1db738a3a8c29aab2be24b1bc8082ae9",
+          "title": "Rampant Wigan sweep to derby win as St Helens’ Rowley sacking fails to spark change",
+          "description": "St Helens began life after head coach Paul Rowley with a heavy 38-16 Super League defeat at rivals Wigan",
+          "url": "https://www.theguardian.com/sport/2026/jul/24/rampant-wigan-show-no-mercy-to-ailing-st-helens-in-derby-rout",
           "source": {
-            "name": "AP News"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-07-24T20:00:00Z",
-          "image": "https://dims.apnews.com/dims4/default/dc42798/2147483647/strip/true/crop/5063x3374+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdc%2F69%2F0255981f07c9440084439a00ea69%2F6f9b1ad8986841ddaca00da404611fca",
+          "publishedAt": "2026-07-24T22:22:00Z",
+          "image": "https://i.guim.co.uk/img/media/78af3e92bc63f67254811c3d73d0ea2373a4efcd/845_351_2988_2391/master/2988.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2615e31984152e18f05b7fdb55d66823",
           "language": "en"
         },
         {
-          "title": "Police declare 'major incident' as weather change increases Cairngorms wildfire risk",
-          "description": "All residents in the village of Nethy Bridge have been evacuated over the threat the wildfire spreading.",
-          "url": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo",
+          "title": "Black MS patients dying younger than white ones, study finds",
+          "description": "Black people with multiple sclerosis (MS) die from the disease at a younger age than white people, a new study reports.",
+          "url": "https://medicalxpress.com/news/2026-07-black-ms-patients-dying-younger.html",
           "source": {
-            "name": "BBC"
+            "name": "Medical Xpress"
           },
-          "publishedAt": "2026-07-24T19:58:29Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1670/live/e28b44c0-8799-11f1-9d55-0b6742729f5d.jpg",
+          "publishedAt": "2026-07-24T22:20:04Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/2026/black-ms-patients-dyin.jpg",
           "language": "en"
         },
         {
-          "title": "Iowa EDA Proposes Rules on Federal Investment Tax Credit Program",
-          "description": "The Iowa Economic Development Authority (EDA) proposed to rescind and replace rules on the Federal Investment Tax Credit Program for rehabilitation of certified historic structures. The proposed rules would: 1) ...",
-          "url": "https://news.bloombergtax.com/daily-tax-report-international/iowa-eda-proposes-rules-for-federal-investment-tax-credit-program",
+          "title": "Man 'hit over head with bar' during fight outside Liverpool city centre pub",
+          "description": "A man in his 40s suffered head injuries and has been taken to hospital",
+          "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/man-hit-over-head-bar-34349373",
           "source": {
-            "name": "news.bloombergtax.com"
+            "name": "Liverpool Echo"
           },
-          "publishedAt": "2026-07-24T19:58:00Z",
-          "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+          "publishedAt": "2026-07-24T22:19:00Z",
+          "image": "https://i2-prod.liverpoolecho.co.uk/article34349374.ece/ALTERNATES/s1200d/1_Blarney-2.jpg",
           "language": "en"
         },
         {
-          "title": "‪UNMISS Force Commander, visits Rwandan Peacekeepers ‬",
-          "description": "The United Nations Mission in South Sudan (UNMISS) Force Commander, Major General Junhui Wu, today visited Rwandan peacekeepers serving with RWANBATT-3 in Durupi. The Force Commander was accompanied by the Sector South Commander, Brigadier General Shishir Bharadwaj, and other UNMISS Headquarters staff. Upon arrival, he was received by the Contingent Commander, Colonel Innocent Rwaka Muhirwe, […]",
-          "url": "https://taarifa.rw/2026/07/24/unmiss-force-commander-visits-rwandan-peacekeepers/",
+          "title": "Trump administration concedes that it canceled research grants in blue states",
+          "description": "The Trump administration admitted that it terminated nearly 300 federal research grants “solely because” the projects were connected to states that voted against Trump in 2024",
+          "url": "https://www.nbcnews.com/politics/trump-administration/trump-administration-concedes-canceled-research-grants-blue-states-rcna589129",
           "source": {
-            "name": "Taarifa Rwanda"
+            "name": "NBC News"
           },
-          "publishedAt": "2026-07-24T19:57:49Z",
-          "image": "https://taarifa.rw/wp-content/uploads/2026/07/IMG_0640.jpeg",
+          "publishedAt": "2026-07-24T22:12:40Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260724-dept-of-energy-washington-ww-1305-2ac1d2.jpg",
           "language": "en"
         },
         {
-          "title": "Chenab in high flood at Head Marala",
-          "description": "Chenab in high flood\nat Head Marala",
-          "url": "https://tribune.com.pk/story/2620096/chenab-in-high-flood-at-head-marala",
+          "title": "International Criminal Court prosecutor Karim Khan dismissed after sexual misconduct investigation",
+          "description": "The International Criminal Court has dismissed prosecutor Karim Khan following an investigation into sexual misconduct allegations.",
+          "url": "https://www.abc.net.au/news/2026-07-25/icc-prosecutor-karim-khan-dismissed-sexual-misconduct/106957660",
           "source": {
-            "name": "The Express Tribune"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-07-24T19:57:33Z",
-          "image": "https://i.tribune.com.pk/media/images/91784922618-4/91784922618-4-640x480.webp",
+          "publishedAt": "2026-07-24T22:11:35Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/c206d9d03c22b9301dedfd38a3aec7c2?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Eligibility for free Hepatitis vaccine expanded in Manitoba",
-          "description": "Manitoba Health, Seniors and Long-Term Care advises that the criteria for free hepatitis A vaccines have been ...",
-          "url": "https://qcountryfm.ca/2026/07/24/eligibility-for-free-hepatitis-vaccine-expanded-in-manitoba/",
+          "title": "Controversial Michael Jackson TV Show Almost Got Axed by Netflix a Week Before Its Release",
+          "description": "Netflix almost pulled a controversial Michael Jackson documentary before it ever aired. According to a recent report, the documentary series was nearly shelved over fears of legal action. However, the...",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/controversial-michael-jackson-tv-show-221124763.html",
           "source": {
-            "name": "Q Country 91.5FM"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-07-24T19:54:54Z",
-          "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/3178/files/2024/10/459247430-1200x675.jpg",
+          "publishedAt": "2026-07-24T22:11:24Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/7103481ee77afc571be1bbedf76fcf681eac9f14aefc32dd340567c4aa04fe03/lightyear_networkapi/resizefill_w640_h360;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F76536b33a61336bfb5cc3750c21ac020",
           "language": "en"
         }
       ]
