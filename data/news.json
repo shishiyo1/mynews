@@ -1,10 +1,32 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-25T02:44:08.356Z",
+  "updatedAt": "2026-07-25T05:43:41.814Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "「AI暴走なら政府が停止」法案にNVIDIAら25社が反発、OpenAI・Anthropicは署名せず",
+          "description": "AIが暴走したら、政府が強制的に止められるようにする——そんな「AIキルスイッチ法案」が7月23日(米国時間)、米連邦議会に提出された。その翌日、NVIDIAやMicrosoft、Metaなど25の企業・団体が、共同書簡「Open Weights and American AI Leadership」を公開した。規制で縛るのではなく、AIを広く公開することこそが安全につながるという、AI業界側の反論だ。ただ、この反論がAIキルスイッチ法案の行方を左右できるかどうかは、まだ見えない。",
+          "url": "https://pc.watch.impress.co.jp/docs/news/2127831.html",
+          "source": {
+            "name": "PC Watch"
+          },
+          "publishedAt": "2026-07-24T17:05:49Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2127/831/01.png",
+          "language": "ja"
+        },
+        {
+          "title": "Hey! Say! JUMP、2人1組でアジア旅へ 冠番組『Hey! Say! JUMP ONE NIGHT VOYAGE』3週連続放送へ【放送スケジュール】",
+          "description": "ニュース｜　7人組グループ・Hey! Say! JUMPが、8月21日からMBSで放送される冠特番『Hey! Say! JUMP ONE NIGHT VOYAGE』（全3回）に出演する。今年結成20周年イヤーに突入する同グループが2人1組でアジアの都市を訪問する。このほど、番組公式ビジュアルおよび、特報PR映像が公開された。　メンバーに課せられた旅のミッションは「エネルギーあふれるアジアの文化を体感して“美しい朝日”を目に焼き付けること」そして「メンバーの絆をさらに深めること」。唐突にメンバー全員が集められ、企画の全貌が明かされる。「どの国に行く？どのペアで行く？」のか、メンバーで語り合うところから番組はスタート。",
+          "url": "https://www.oricon.co.jp/news/2469842/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-07-24T15:00:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2470000/2469842/20260724_130015_p_o_26656622.jpg",
+          "language": "ja"
+        },
         {
           "title": "「心配になるくらいげっそり」 阿部寛、突然の“激痩せ姿”に視聴者衝撃 “生出演でさらした顔”に「大丈夫かな」「超小顔に見える」",
           "description": "俳優の阿部寛さんが7月24日放送の情報番組「THE TIME,」（TBS系）に出演。激痩せしたように見える姿に、視聴者からは「心配になるくらいげっそりしてる」「役作りだったら良いけど、元から細いから少し心配」などの声が上がっています。阿部さん（画像は「VIVANT」公式Instagramから）「…",
@@ -92,139 +114,117 @@
           "publishedAt": "2026-07-24T10:00:03Z",
           "image": "https://www.inside-games.jp/imgs/ogp_f/1757235.png",
           "language": "ja"
-        },
-        {
-          "title": "ガーミン初、画面なしのフィットネストラッカー。しかもサブスク不要",
-          "description": "画面なしフィットネストラッカー市場をリードする存在だった「Whoop」ですが、今年初めにGoogle（グーグル）から「Fitbit Air」が登場し、その地位を揺るがしました。そして、ついにGarmin（ガーミン）からも画面なしモデル「CI",
-          "url": "https://www.gizmodo.jp/article/garmins-new-screenless-wearable-could-be-a-serious-whoop-competitor/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-07-24T10:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/07/23/8de4afe5-126d-4d0b-b674-6cedd85c4846/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "高市早苗首相が目指す「富国強兵」 支持率低下も織り込み済みか",
-          "description": "高市早苗内閣の支持率に陰りが目立ち始めた。 　高市首相は今年2月の衆院選で自民党を大勝に導いたが、有権者が切望する物価高対策は先送りされ、半年もたたないうちに失速した形だ。",
-          "url": "https://mainichi.jp/articles/20260724/k00/00m/010/207000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-07-24T09:00:00Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/07/24/20260724k0000m030226000p/0c10.jpg?1",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "‘We are now seeing MAI models outperform general-purpose frontier models’: Microsoft CEO Satya Nadella touts in-house models to cut spiralling AI costs – and reduce growing reliance on frontier labs",
-          "description": "Satya Nadella wants companies to start boxing clever with AI model choice to reduce costs, and claims the firm’s in-house options are showing promising results.",
-          "url": "https://www.itpro.com/technology/artificial-intelligence/we-are-now-seeing-mai-models-outperform-general-purpose-frontier-models-microsoft-ceo-satya-nadella-touts-in-house-models-to-cut-spiralling-ai-costs-and-reduce-growing-reliance-on-frontier-labs",
+          "title": "George Russell: What Mercedes 'feared' from Ferrari came true in F1 Hungarian GP practice",
+          "description": "Ferrari was 'a good step ahead of everyone' as Mercedes struggled with poor balance and low grip in F1 Hungarian GP practice, according to George Russell",
+          "url": "https://www.motorsport.com/f1/news/russell-what-mercedes-feared-from-ferrari-came-true-in-f1-hungarian-gp-practice/10841519/",
           "source": {
-            "name": "IT Pro"
+            "name": "Motorsport.com"
           },
-          "publishedAt": "2026-07-24T14:44:00Z",
-          "image": "https://cdn.mos.cms.futurecdn.net/QojwEWhV4QWFHcEFxtEk2Z-1920-80.jpg",
+          "publishedAt": "2026-07-24T17:43:19Z",
+          "image": "https://cdn-7.motorsport.com/images/amp/0o5ARp1Y/s6/george-russell-mercedes.jpg",
           "language": "en"
         },
         {
-          "title": "First person gets new experimental vaccine for Bundibugyo species of Ebola",
-          "description": "Ed Hunt, 37 and from the UK, voluteered after seeing news reports of the deadly Ebola outbreak in DR Congo.",
-          "url": "https://www.bbc.com/news/articles/c8jn007gmpzo",
+          "title": "The Nick Bosa-Ryan Clark beef, from a MAGA hat to a single emoji",
+          "description": "San Francisco 49ers star Nick Bosa made his first post on X in nearly four years to apparently celebrate ESPN laying off NFL analyst Ryan Clark.",
+          "url": "https://www.sfgate.com/49ers/article/nick-bosa-espn-layoff-22358991.php",
+          "source": {
+            "name": "SFGATE"
+          },
+          "publishedAt": "2026-07-24T17:43:03Z",
+          "image": "https://s.hdnux.com/photos/01/66/72/37/31172582/3/rawImage.jpg",
+          "language": "en"
+        },
+        {
+          "title": "'US not piggybank for Europe': Trump to impose tariffs on EU for fining Google",
+          "description": "International Business News: US President Donald Trump on Friday threatened to impose tariffs on the European Union and launch a probe after accusing the bloc of unfairly targetin.",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/us-not-piggybank-for-europe-trump-to-impose-tariffs-on-eu-for-fining-google/articleshow/132611536.cms",
+          "source": {
+            "name": "The Times of India"
+          },
+          "publishedAt": "2026-07-24T17:42:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-132611694,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Ben and Casey Affleck's mother, Chris Affleck, dead at 83",
+          "description": "Chris Affleck, the mother of Oscar-winners Ben and Casey Affleck, has died at age 83.The family announced in The Boston Globe that she had died on June 2 after",
+          "url": "https://thenationaldesk.com/news/entertainment/ben-and-casey-afflecks-mother-chris-affleck-dead-at-83",
+          "source": {
+            "name": "National Desk"
+          },
+          "publishedAt": "2026-07-24T17:40:41Z",
+          "image": "https://thenationaldesk.com/resources/media2/16x9/1613/986/20x157/90/01924795-685d-4072-9363-79d7e96d1e6d-GettyImages80384573.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Man tells of attempt to save drowning girl and mum at West Mersea",
+          "description": "Craig Bowe says he heard screams during a trip to a beach to celebrate his daughter's birthday.",
+          "url": "https://www.bbc.co.uk/news/articles/cz7dve71n9lo",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-07-24T14:43:51Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c3db/live/e54a8ca0-8769-11f1-b279-1737aab624f9.jpg",
+          "publishedAt": "2026-07-24T17:40:14Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc4f/live/634ad170-87a4-11f1-9b54-591acc53357a.png",
           "language": "en"
         },
         {
-          "title": "First person gets new experimental vaccine for Bundibugyo species of Ebola",
-          "description": "Ed Hunt, 37 and from the UK, voluteered after seeing news reports of the deadly Ebola outbreak in DR Congo.",
-          "url": "https://www.bbc.co.uk/news/articles/c8jn007gmpzo",
+          "title": "Algorithms create foundry-ready photonic circuits",
+          "description": "Photonic microchips can process data at extremely high speeds and are embedded in a wide variety of today's technologies. Researchers at the Max Planck Institute for the Science of Light (MPL) and Harvard University have now succeeded in developing three functional components for such chips that are up to 500 times smaller than conventional designs. The researchers used inverse design, a computer algorithm, to achieve this. The results are published in Nature Communications.",
+          "url": "https://phys.org/news/2026-07-algorithms-foundry-ready-photonic-circuits.html",
           "source": {
-            "name": "BBC"
+            "name": "Phys.org"
           },
-          "publishedAt": "2026-07-24T14:43:51Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c3db/live/e54a8ca0-8769-11f1-b279-1737aab624f9.jpg",
+          "publishedAt": "2026-07-24T17:40:08Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/2026/beyond-human-intuition.jpg",
           "language": "en"
         },
         {
-          "title": "It's a privilege to succeed Guardiola at Man City",
-          "description": "Enzo Maresca said Friday it is a \"privilege\" to follow Pep Guardiola as manager of Manchester City.",
-          "url": "https://www.vanguardngr.com/2026/07/its-a-privilege-to-succeed-guardiola-at-man-city-maresca/",
+          "title": "Shirtless heroes, bucket hats and gold: reimagined Games find their glow",
+          "description": "Some big stars are absent, but day one in Glasgow showed the Commonwealth Games have retained plenty of soul",
+          "url": "https://www.theguardian.com/sport/2026/jul/24/shirtless-heroes-bucket-hats-and-gold-reimagined-commonwealth-games-find-their-glow",
           "source": {
-            "name": "Vanguard News"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-07-24T14:43:27Z",
-          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/05/Maresca.jpg",
+          "publishedAt": "2026-07-24T17:40:00Z",
+          "image": "https://i.guim.co.uk/img/media/a9437d09271d75b22e9ae06482922b15e5e5231c/256_0_4583_3666/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c8e488e465d1abf6ea30d0651654f06",
           "language": "en"
         },
         {
-          "title": "Related Muscle Loss No More? It Could Come Down To This Newly Discovered Molecule",
-          "description": "Scientists think a newly discovered molecule could be the key to stopping age-related muscle loss.",
-          "url": "https://www.forbes.com/sites/maryroeloffs/2026/07/24/getting-weaker-as-you-age-may-not-be-inevitable-scientists-say/",
+          "title": "Death of girl in Chinese gene-editing trial kept secret: Report",
+          "description": "The girls' parents were not adequately informed about the risks, the report said. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/world/death-of-girl-in-chinese-gene-editing-trial-kept-secret-report",
           "source": {
-            "name": "Forbes"
+            "name": "The Straits Times"
           },
-          "publishedAt": "2026-07-24T14:43:11Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a637817bf848ae40dfc7d5e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "publishedAt": "2026-07-24T17:39:39Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/2d8d68b275ccbc4f3afec396ce31bb1795750568521f39026ef85ad1c6530be9",
           "language": "en"
         },
         {
-          "title": "Tony Bartlett jailed for murder of baby son Atticus in Chard",
-          "description": "Tony Bartlett, who had been drinking heavily, inflicted severe injuries on baby Atticus.",
-          "url": "https://www.bbc.co.uk/news/articles/cx2rmn45m32o",
+          "title": "Pogacar conquers Alpe d’Huez in record climb to win stage 19 and extend Tour de France lead",
+          "description": "Tadej Pogacar conquered the famed hairpins of the Alpe d’Huez in a record time as he won stage 19 of the Tour de France to extend his overall lead",
+          "url": "https://www.theguardian.com/sport/2026/jul/24/pogacar-wins-stage-19-alpe-d-huez-extends-tour-de-france-lead",
           "source": {
-            "name": "BBC"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-07-24T14:42:02Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c4e/live/2d9ea500-876e-11f1-b430-afa19a42b819.jpg",
+          "publishedAt": "2026-07-24T17:39:00Z",
+          "image": "https://i.guim.co.uk/img/media/c7912969695255e754ca050ef279337a3cc02877/846_77_3858_3086/master/3858.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=262b08ff5599bb160cbe2dc3bef28d4f",
           "language": "en"
         },
         {
-          "title": "Birth exposes babies to maternal gut bacteria that help build early microbiomes",
-          "description": "The very first thing many babies encounter when they're born is their mother's poop. If they're born vaginally, head down, with the face against their mother's rectum, the pressure can expel fecal material just as they are born. This early exposure is not only normal but likely to be beneficial.",
-          "url": "https://medicalxpress.com/news/2026-07-birth-exposes-babies-maternal-gut.html",
+          "title": "AI spending threatens credit quality of Amazon, Meta, Alphabet",
+          "description": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
+          "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
           "source": {
-            "name": "Medical Xpress"
+            "name": "CNBC"
           },
-          "publishedAt": "2026-07-24T14:40:09Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/hires/2021/newborn.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Man jailed after striking victim 12 times with champagne bottle",
-          "description": "Hutchinson, with an address at Talbot Street, Dublin 1, pleaded guilty to one count of assault causing harm on North Earl Street on August 3rd of last year.",
-          "url": "https://www.breakingnews.ie/ireland/man-jailed-after-striking-victim-12-times-with-champagne-bottle-1931403.html",
-          "source": {
-            "name": "BreakingNews.ie"
-          },
-          "publishedAt": "2026-07-24T14:39:47Z",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMTJcXFwvMjExNTIyMDRcXFwvMi43NDE4ODQwNC1lMTcwNTkzMjk2Njk2Ny5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjcwOTc3N2JjMjc3ODYwMTg1MWNjMDVhMjQ2OTk5ZGJkOWRiZGIzZDEifQ==/man-jailed-after-striking-victim-12-times-with-champagne-bottle.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Asian Games 2026, Cricket: India, Pakistan, Sri Lanka and Bangladesh secure direct knockout entries",
-          "description": "Cricket’s return to the Asian Games continues to grow in importance for national boards across the continent. Direct qualification for the traditional powers, combined with a competitive qualifying path for others, creates a balanced format that rewards both established strength and emerging talent.",
-          "url": "https://www.livemint.com/sports/cricket-news/asian-games-2026-cricket-india-pakistan-sri-lanka-and-bangladesh-secure-direct-knockout-entries-11784902687006.html",
-          "source": {
-            "name": "livemint.com"
-          },
-          "publishedAt": "2026-07-24T14:38:21Z",
-          "image": "https://www.livemint.com/lm-img/img/2026/07/24/1600x900/logo/Asian_Games_1784902683923_1784902684029_6a78d685-45e1-47a1-b6a1-85df8c21f2a5.png",
-          "language": "en"
-        },
-        {
-          "title": "Namibia Records 1.3 Million International Arrivals in 2025 Amid Slight Decline",
-          "description": "Namibia welcomed 1,345,168 international visitors in 2025, a 6.9% decline from the 1,444,174 arrivals recorded in 2024, according to the Tourist Arrivals Statistical Report published by the Ministry of Environment and Tourism in June.",
-          "url": "https://atta.travel/resource/namibia-records-1-3-million-international-arrivals-in-2025-amid-slight-decline.html",
-          "source": {
-            "name": "Atta Travel."
-          },
-          "publishedAt": "2026-07-24T14:38:20Z",
-          "image": "https://atta.travel/assets/img/favicon/favicon-96.png",
+          "publishedAt": "2026-07-24T17:37:49Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108297139-1777061266263-techceos.jpg?v=1777061317&w=1920&h=1080",
           "language": "en"
         }
       ]
