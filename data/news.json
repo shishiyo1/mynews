@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-26T06:06:53.708Z",
+  "updatedAt": "2026-07-26T10:44:42.767Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "藤原季節 朝ドラ「風、薫る」出演中に居場所探し プロボクシング初戦９・１後楽園ホール",
+          "description": "藤原季節（33）が、NHK連続テレビ小説「風、薫る」（月～土曜午前8時）に出演中の9月1日に東京・後楽園ホールで行われる、プロボクシングのリングに立つ。それは… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/entertainment/column/sundayhero/news/202607260000052.html",
+          "source": {
+            "name": "日刊スポーツ"
+          },
+          "publishedAt": "2026-07-25T22:31:00Z",
+          "image": "https://www.nikkansports.com/entertainment/column/sundayhero/news/img/202607260000052-w500_0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "miraipageが「AIファクトチェック」提供開始、書き手が自分の記事を点検しバッジ表示",
+          "description": "株式会社ウォーカーは投稿プラットフォーム「miraipage」で「AIファクトチェック」の提供を開始した。記事本文から検証可能な事実主張を最大8件抽出し、Claude Sonnet 4.6とWeb検索で裏取りする。裏付け1件以上かつ反証0件の記事に「ファクトチェック済」バッジが付く。仕様と限界、制度面の背景を解説する。",
+          "url": "https://innovatopia.jp/ai/ai-news/114266/",
+          "source": {
+            "name": "innovaTopia"
+          },
+          "publishedAt": "2026-07-25T22:10:50Z",
+          "image": "https://innovatopia.jp/wp-content/uploads/2026/07/TaTsu_Minimal_conceptual_infographic_illustration_169_centere_d669f648-1dde-4444-a4b9-9c78566df493_1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "どうして体脂肪率わかるの？ 電流を体に流して筋肉や脂肪の量を測定",
+          "description": "■徳島県・高橋君江さん（76）からの質問　ののちゃん　お父さんが「健康が気になるから」って新しい体重計を買ったんだ。のるだけで体脂肪率や筋肉の量までわかるの。体の中のことなのに、なぜわかるのかな。　藤…",
+          "url": "https://www.asahi.com/articles/ASV7F1FN1V7FPLBJ004M.html",
+          "source": {
+            "name": "朝日新聞"
+          },
+          "publishedAt": "2026-07-25T22:00:00Z",
+          "image": "https://imgopt.asahi.com/ogp/AS20260714002568_comm.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "音楽プレイヤーが全面刷新！ Qobuzがディグ体験とクレジット表示を強化",
+          "description": "Xandrie Japan株式会社は7月24日、高音質音楽プラットフォーム「Qobuz（コバズ）」のスマートフォンおよびタブレット向けアプリで、音楽プレイヤーのデザインを一新したと発表しました。 新しいプレイヤーはiOSおよびAndroid",
+          "url": "https://www.appbank.net/2026/07/26/iphone-news/3062723.php",
+          "source": {
+            "name": "AppBank"
+          },
+          "publishedAt": "2026-07-25T21:00:25Z",
+          "image": "https://www.appbank.net/wp-content/uploads/2026/07/20260724_124218_821_01.webp",
+          "language": "ja"
+        },
+        {
+          "title": "旧満州で発行、ウクライナ「幻の辞典」 日本風の造語紹介の謎",
+          "description": "「これがあの“幻の辞典”か」 　日本におけるウクライナ研究の第一人者、岡部芳彦・神戸学院大教授は一冊の古びた本に思わず目を見張った。 　1944年4月、旧満州（現中国東北部）のハルビンで発行された『ウクライナ・日本語辞典』だ。",
+          "url": "https://mainichi.jp/articles/20260723/k00/00m/040/116000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-07-25T21:00:00Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/07/23/20260723k0000m040118000p/0c10.jpg?1",
+          "language": "ja"
+        },
+        {
+          "title": "娘の名前は「美帆」 記号じゃない 「甲」を拒んだ母の決意",
+          "description": "自身の名前を明かすことには今も迷いがある。 　実名公表には中傷やトラブルの恐れがつきまとうからだ。 　でも、娘が生きた証しを残したかった。 　世の中に知ってもらいたかった。",
+          "url": "https://mainichi.jp/articles/20260725/k00/00m/040/145000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-07-25T21:00:00Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/07/25/20260725k0000m040151000p/0c10.jpg?1",
+          "language": "ja"
+        },
+        {
+          "title": "【山田涼介】事務所初のソロドームツアー！「Ryosuke Yamada LIVE TOUR 2026 Are You Red.Y？」速報レポ【会見＆MCほぼ全文】",
+          "description": "Ryosuke Yamada としてソロドームツアー「Ryosuke Yamada LIVE TOUR 2026 Are You Red.Y？」を開催中の山田涼介さん。7月25日、待望の東京ドーム公演を行いプロフェッショナルをきわめたパフォーマンスと圧倒的なスター性で55000人を魅了しました。VOCE WEBの速報レポートでは、ライブ前に行われた記念会見、そしてライブ中のMCを【ほぼ全文・楽曲名記載なし】でお届けします。また、ライブレポートは「VOCE10月号」に掲載が決定！　人気連載「BEAUTY DIARIES」とともにぜひ併せてお楽しみください。",
+          "url": "https://i-voce.jp/feed/5072828/",
+          "source": {
+            "name": "VOCE"
+          },
+          "publishedAt": "2026-07-25T19:00:00Z",
+          "image": "https://wp.i-voce.jp/wp-content/uploads/2026/07/Bazaart_11EB0FC0-5B94-4A77-99B9-2F108BC248D8-1200x630.jpg",
+          "language": "ja"
+        },
         {
           "title": "国会閉会と高市首相 独りよがりが分断深めた",
           "description": "特別国会が閉会した。あらわになったのは、立法府の危機的状況である。巨大与党を率いる高市早苗首相は独善的な振る舞いに終始し、審議の形骸化が進んだ。 　異例ずくめの展開だった。通常国会冒頭で首相が唐突に衆院を解散した結果、自民党は戦後初めて単独で衆院の3分の2を超える圧勝を収めた。",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-07-25T15:14:47Z",
           "image": "https://fufc.jp/files/image/13122/1/B1W05628.JPG",
           "language": "ja"
-        },
-        {
-          "title": "『みいちゃんと山田さん』2027年にアニメ化決定 コミックス6巻で異例の累計280万部突破の話題作",
-          "description": "ニュース｜　漫画『みいちゃんと山田さん』が2027年にアニメ化されることが決定した。あわせてスペシャルPVと原作者・亜月ねね氏によるお祝いイラスト＆コメントが公開され、スタッフやキャスト情報は後日発表される。　講談社の公式漫画アプリ『マガジンポケット（マガポケ）』にて2024年9月より連載中の同作は、2012年の新宿・歌舞伎町が舞台で、夜の街でキャバクラ嬢として働く山田さんと、何をやっても“ちょっと足りない”新人・みいちゃんの、不器用で愛くるしい女の子たちを巡る夜の世界の12か月を描いた物語。",
-          "url": "https://www.oricon.co.jp/news/2469875/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-07-25T15:00:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2470000/2469875/20260724_153016_p_o_80840187.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『みいちゃんと山田さん』2027年にアニメ化が決定",
-          "description": "2012年の歌舞伎町を舞台に、キャバ嬢の山田さんと何をやっても“ちょっと足りない”新人・みいちゃんを巡る12か月を描く。原作者・亜月ねね氏のお祝いイラストも公開",
-          "url": "https://news.denfaminicogamer.jp/news/260726p",
-          "source": {
-            "name": "電ファミニコゲーマー"
-          },
-          "publishedAt": "2026-07-25T15:00:00Z",
-          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/dc24b524c269bb42314a2fa6a0df2063-723x1024.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【F1ハンガリーGP｜予選Q1結果】アストンマーティン・ホンダ、今季初のQ1突破！アロンソが16番手でQ2進出 大型アップデート効果発揮",
-          "description": "7月25日(土)、2026年F1第11戦ハンガリーGP（ハンガロリンク）、予選Q1(18分)が開催された。\n1番手はランド・ノリス（マクラーレン／メルセデス）、2番手はマックス・フェルスタッペン（",
-          "url": "https://news.yahoo.co.jp/articles/5d2e1d34dc3ddc6034386199d40975968f15803f",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-25T14:25:35Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260725-00000012-fliv-000-3-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【速報】原英莉花は2つ伸ばして後半へ／スコットランド女子OP3日目",
-          "description": "◇米国女子◇ISPS Handa スコットランド女子オープン 3日目（25日）◇ダンドナルドリンクス (スコットランド)◇6538yd（パー72） 4アンダー4位から出た原英莉花は前半を3バーディ、1ボギーの「34」（パー36）でプレーし、",
-          "url": "https://news.golfdigest.co.jp/news/lpga/article/193447/1/",
-          "source": {
-            "name": "GDOゴルフニュース"
-          },
-          "publishedAt": "2026-07-25T13:56:00Z",
-          "image": "https://i.gimg.jp/cmsimg/432125.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【透明すぎるスイーツ】シルクロード伝来のガラス文化を原点に、6つの空想正倉院宝物菓を再構築した〈玲瓏〉を発売",
-          "description": "秘宝、薔薇文様、瑠璃坏、秘心。異なる6つの造形を、無色透明のクリスタル羹による一つのコレクションへ 宝石のカット、薔薇を刻んだ鏡、異国のガラス器、心をかたどった宝物。異なる背景から生まれた6つの造形から色彩を取り払い、透明という一つの素材で編み直したコレクションです。 ナショナルデパート株式会社（本社：岡山県岡山…",
-          "url": "https://classy-online.jp/prtimes/item-152287/",
-          "source": {
-            "name": "CLASSY.[クラッシィ]"
-          },
-          "publishedAt": "2026-07-25T12:54:20Z",
-          "image": "https://prtimes.jp/img/9836/290/thumb/d9836-290-9e0ee4b752ce6363c763-0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "井口資仁監督が就任会見で「日本らしさ」を力説 関係者から球界全体を牽引する期待の声",
-          "description": "野球日本代表 侍ジャパンオフィシャルサイト。試合や選手、写真、グッズ情報など。",
-          "url": "https://www.japan-baseball.jp/jp/news/press/20260725_2.html",
-          "source": {
-            "name": "japan-baseball.jp"
-          },
-          "publishedAt": "2026-07-25T12:29:50Z",
-          "image": "https://www.japan-baseball.jp/files/whatsnew/4076/image01/600x400/20260725_2_2-5.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【阪神】巨人に完敗の2連敗で首位陥落...伊原が先制直後にダルベックに被弾 元山の失策絡み4失点 及川も佐々木に被弾 打線7安打1得点 4回以降は好機作れず",
-          "description": "■プロ野球　阪神1ー5巨人　（25日　甲子園）\n阪神は巨人に完敗、2連敗で9カードぶりに負け越して7月7日来の首位陥落。3回に元山の移籍後、初打点の犠飛で先制。だが先発・伊原が直後の4回、ダルベッ",
-          "url": "https://news.yahoo.co.jp/articles/be2791a43fa37ed403e40d3b682d81271cbcbcda",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-25T12:00:43Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260725-00010020-jnn-000-2-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Bon Iver's Justin Vernon Performs Bob Dylan Covers Set at Eaux Claires",
-          "description": "Bon Iver's Justin Vernon returned to the stage Friday at his Eaux Claires fest, performing a set of Bob Dylan covers and a surprise set of his own music.",
-          "url": "https://www.rollingstone.com/music/music-news/bon-iver-justin-vernon-bob-dylan-covers-set-eaux-claires-1235598818/",
+          "title": "National promises to extend paid parental leave from 26 weeks to 30, if re-elected",
+          "description": "National has pledged to extend paid parental leave from 26 weeks to 30, if re-elected.",
+          "url": "https://www.rnz.co.nz/news/politics/797174/national-promises-to-extend-paid-parental-leave-from-26-weeks-to-30-if-re-elected",
           "source": {
-            "name": "Rolling Stone"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-07-25T18:04:41Z",
-          "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/BONDYLAN-31.jpg?w=1600&h=900&crop=1",
+          "publishedAt": "2026-07-25T22:36:58Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--sMcplaYg--/t_tohu-badge-facebook/f_auto/q_auto/4JKW2X0_Image_13_jfif",
           "language": "en"
         },
         {
-          "title": "Athlone Town outclassed by Czarni in qualifier final",
-          "description": "Athlone Town suffered an emphatic 3-1 defeat to Czarni Sosnowiec in the Women's Champions League first qualifying round final.",
-          "url": "https://www.rte.ie/sport/soccer/2026/0725/1585044-athlone-town-outclassed-by-czarni-in-qualifier-final/",
+          "title": "Commonwealth Games quick hits: Williamson's cute moment with partner, McCann family watches on, history for Jersey",
+          "description": "The partner of an Australian gold medallist nervously watches his final while working on the pool deck, while a swimmer loses her cap in the middle of a race. Here are the quick hits from day two of the Commonwealth Games.",
+          "url": "https://www.abc.net.au/news/2026-07-26/commonwealth-games-glasgow-day-two-quick-hits/106957754",
           "source": {
-            "name": "RTE.ie"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-07-25T18:03:59Z",
-          "image": "https://www.rte.ie/images/0024c152-1600.jpg",
+          "publishedAt": "2026-07-25T22:36:22Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/1bebe7babb2c6f522597ea7d664a7cf5?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "I squared up to piece of s**t Diddy & told him I'll f**k you up after J",
-          "description": "JENNIFER Lopez’s first husband squared up to Sean “Diddy” Combs in a blazing row after the rapper had an affair with his wife, The Sun on...",
-          "url": "https://www.thesun.ie/tvandshowbiz/17355378/diddy-j-lo-cheated-ojani-noa-husband-fight/",
+          "title": "Department of Cancer Sciences head outlines vision for comprehensive cancer centre",
+          "description": "A group of experts are looking to turn around New Zealand's lagging cancer survival rates.",
+          "url": "https://www.newstalkzb.co.nz/on-air/the-sunday-session/audio/dr-ben-lawrence-auckland-university-department-of-cancer-sciences-head-outlines-vision-for-comprehensive-cancer-centre/",
           "source": {
-            "name": "The Irish Sun"
+            "name": "Newstalk ZB"
           },
-          "publishedAt": "2026-07-25T18:02:21Z",
-          "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/07/newspress-collage-ntou648rl-1784999516104.jpg?quality=90&strip=all&1785006031&w=1920&h=1080&crop=1",
+          "publishedAt": "2026-07-25T22:36:00Z",
+          "image": "https://www.newstalkzb.co.nz/media/p1xjc2s2/gettyimages-2179695007.jpg?rmode=crop&v=1dd1ce94bcdf750&height=395&width=635&quality=95&scale=both",
           "language": "en"
         },
         {
-          "title": "How to stay employed and earn more money when jobs are scarce and pay rates low",
-          "description": "Now is not the time for cruise control at work, including when it comes to pay negotiations.",
-          "url": "https://www.1news.co.nz/2026/07/26/how-to-stay-employed-and-earn-more-money-when-jobs-are-scarce-and-pay-rates-low/",
+          "title": "IDF Bars Palestinians From West Bank Settlements for the Coming Days",
+          "description": "U.S. military: 12 commercial vessels redirected over Iran blockade as of Saturday . IDF bars Palestinians from West Bank settlements for the coming days. Israeli settlers blocking vehicles between Salfit and Qalqiliya in West Bank, Palestinian reports say",
+          "url": "https://www.haaretz.com/israel-news/israel-security/2026-07-26/ty-article-live/golan-accuses-netanyahu-of-turning-west-bank-into-powder-keg-at-protest-rally/0000019f-9b1d-db22-a5df-ff1f35660005",
           "source": {
-            "name": "1News"
+            "name": "Haaretz"
           },
-          "publishedAt": "2026-07-25T18:01:35Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/money-in-pocket-LUU2UO47UVBK7ADREGCZ7JDC3Y.jpg?auth=c0ab8f5b5d8471c6345605ab9ad572dee0bf6ff34bc97134431bf3dea54a73e8&quality=70&width=600&height=315&focal=1109%2C654",
+          "publishedAt": "2026-07-25T22:34:00Z",
+          "image": "https://img.haarets.co.il/bs/0000019f-9b1d-db22-a5df-ff1f35660005/c7/82/ddc6f7e24b2ead50dfd44b1ff2a2/916973.jpg?precrop=2400,1395,x0,y165&width=1200&height=630&cmsprod",
           "language": "en"
         },
         {
-          "title": "Cameras attached to whale sharks capture krill chases never witnessed before",
-          "description": "Whale sharks (Rhincodon typus)—the world's biggest fish—are one of the most charismatic marine species. They connect with the hearts of anyone lucky enough to encounter them, making people deeply curious about their lives and invested in their conservation.",
-          "url": "https://phys.org/news/2026-07-cameras-whale-sharks-capture-krill.html",
+          "title": "US military says it redirected 12 ships trying to break Hormuz blockade",
+          "description": "RIYADH: The US military on Sunday said it had redirected 12 commercial vessels trying to run its blockade of Iranian ports. In a post on X, the Central Military Command said US forces disabled two ships that refused to comply, and boarded two more “to ensure total compliance.” Earlier on Saturday, US forces “completed a verification boarding aboard Comoros-flagged M/T",
+          "url": "https://www.arabnews.com/node/2652316/middle-east",
           "source": {
-            "name": "Phys.org"
+            "name": "Arab News"
           },
-          "publishedAt": "2026-07-25T18:00:01Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/hires/2023/whale-shark.jpg",
+          "publishedAt": "2026-07-25T22:31:37Z",
+          "image": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/26/4734870-949242108.jpg?itok=RXfKwKJP",
           "language": "en"
         },
         {
-          "title": "Satellite Town Housing Demand Reshapes Kenya’s Property Market",
-          "description": "NAIROBI, Kenya, Jul 25 – Kenya’s residential property market is witnessing growing demand for homes in satellite towns as buyers increasingly seek affordable, secure and well-planned communities outside Nairobi. Wilstone…",
-          "url": "https://capitalfm.africa/satellite-town-housing-demand-reshapes-kenyas-property-market/",
+          "title": "B.C. wildfire service at capacity with over 120 blazes in the province",
+          "description": "With over 120 fires blazing across the province as of Saturday morning, the B.C. Wildfire Service says it's all hands on deck — and then some.",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/wildfire-bc-evacuations-9.7284406",
           "source": {
-            "name": "98.4 Capital FM Kenya"
+            "name": "CBC"
           },
-          "publishedAt": "2026-07-25T18:00:00Z",
-          "image": "https://capitalfm.africa/wp-content/uploads/news/2023/08/Houses.jpg",
+          "publishedAt": "2026-07-25T22:30:26Z",
+          "image": "https://i.cbc.ca/ais/6938b700-436e-4487-b7c0-3e27a4aa68be,1785015948802/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3BResize%3D620",
           "language": "en"
         },
         {
-          "title": "Amazon Gaming Chief Says Soon We Won’t Need No Stinking Consoles",
-          "description": "Gattis says that cloud gaming can serve customers who can no longer afford dedicated gaming hardware, but his statements ignore the reality of the technology.",
-          "url": "https://hothardware.com/news/amazon-gaming-boss-says-local-gaming-is-too-expensive",
+          "title": "Nethy Bridge: Residents allowed to return after evacuation from Cairngorms wildfire",
+          "description": "The fire was declared a major incident on Friday, but that has now been stood down by Police Scotland.",
+          "url": "https://www.bbc.co.uk/news/articles/c75gdn674r9o",
           "source": {
-            "name": "HotHardware"
+            "name": "BBC"
           },
-          "publishedAt": "2026-07-25T18:00:00Z",
-          "image": "https://hothardware.com/contentimages/NewsItem/71214/content/16x9_2133x1200_highres-amazon-throw-away-game-consoles.jpg",
+          "publishedAt": "2026-07-25T22:26:07Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a7b/live/85eac4b0-8876-11f1-b2ab-0dd01740f9f6.jpg",
           "language": "en"
         },
         {
-          "title": "Akandoh briefs Otumfuo on Ghana Medical Trust Fund reforms",
-          "description": "Minister for Health, Kwabena Mintah Akandoh, has highlighted ongoing reforms under the Ghana Medical Trust Fund aimed at strengthening healthcare delivery and",
-          "url": "https://www.citinewsroom.com/2026/07/akandoh-briefs-otumfuo-on-ghana-medical-trust-fund-reforms/",
+          "title": "Weather: Heavy showers up north, severe frosts in the south",
+          "description": "It's a story of two islands for Sunday's weather, with heavy showers for Northland, Auckland, and Coromandel and severe inland frosts for most of the South Island.",
+          "url": "https://www.rnz.co.nz/news/weather/797311/weather-heavy-showers-up-north-severe-frosts-in-the-south",
           "source": {
-            "name": "CitiNewsroom.com"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-07-25T18:00:00Z",
-          "image": "https://www.citinewsroom.com/wp-content/uploads/2026/07/obuo-1.jpeg",
+          "publishedAt": "2026-07-25T22:23:57Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--cFZPEDaH--/t_tohu-badge-facebook/f_auto/q_auto/4KQEJO9_shared_image_1_jpg",
           "language": "en"
         },
         {
-          "title": "Suspected yam thief shot dead; farmer arrested in Oti Region",
-          "description": "The Dambai Divisional Police Command has arrested Kwabena Badam, a 35-year-old farmer, following the fatal shooting of a man suspected of attempting to steal",
-          "url": "https://www.citinewsroom.com/2026/07/suspected-yam-thief-shot-dead-farmer-arrested-in-oti-region/",
+          "title": "Economists urge SBP to hold rate at 11.5%",
+          "description": "Economists urge SBP to hold rate at 11.5%",
+          "url": "https://tribune.com.pk/story/2620304/economists-urge-sbp-to-hold-rate-at-115",
           "source": {
-            "name": "CitiNewsroom.com"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-07-25T18:00:00Z",
-          "image": "https://www.citinewsroom.com/wp-content/uploads/2024/07/dead-1140x570-1.jpg",
+          "publishedAt": "2026-07-25T22:23:07Z",
+          "image": "https://i.tribune.com.pk/media/images/sbp1783557532-0/sbp1783557532-0-640x480.webp",
           "language": "en"
         },
         {
-          "title": "Team Namibia records victories and milestones at Glasgow Commonwealth Games",
-          "description": "TEAM Namibia continued its Glasgow 2026 Commonwealth Games campaign with impressive performances across bowls, boxing and swimming...",
-          "url": "https://informante.web.na/?p=398327",
+          "title": "Kyle Shanahan suffers non-life-threatening injuries in car crash",
+          "description": "49ers head coach Kyle Shanahan will be limited as the team approaches training camp after he suffered non-significant injuries in a car accident.",
+          "url": "https://www.usatoday.com/story/sports/nfl/49ers/2026/07/25/kyle-shanahan-car-crash-49ers-injured/91048344007/",
           "source": {
-            "name": "Informanté"
+            "name": "USA Today"
           },
-          "publishedAt": "2026-07-25T18:00:00Z",
-          "image": "https://informante.web.na/wp-content/uploads/2026/07/Team-Namibias-winning-moments-Informante-Image-workspace-1024x677.jpg",
+          "publishedAt": "2026-07-25T22:22:00Z",
+          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/25/USAT/91049268007-usatsi-27896070.jpg?crop=3420,1924,x1443,y204&width=3200&height=1801&format=pjpg&auto=webp",
           "language": "en"
         }
       ]
