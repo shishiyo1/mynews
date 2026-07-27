@@ -1,10 +1,109 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-27T03:17:53.136Z",
+  "updatedAt": "2026-07-27T09:53:29.837Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【実録! 重役飯】中学時代はメモリ32KBのMSXでバグと戦った。サードウェーブ永井社長の原点と未来の描き方",
+          "description": "30周年記念の重役飯、第4回となる今回のお相手は、PCショップ「ドスパラ」の運営などを手がける株式会社サードウェーブ取締役社長の永井正樹氏。会食の場としては、永井氏が長年親しんでいる秋葉原の老舗和食店「神田明神下みやび本店」を選んでいただいた。",
+          "url": "https://pc.watch.impress.co.jp/docs/column/executive_dinner/2127260.html",
+          "source": {
+            "name": "PC Watch"
+          },
+          "publishedAt": "2026-07-26T21:28:00Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2127/260/01.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "鳴り物入りで登場した「Copilotキー」が早くもお蔵入りか──チャットボットからAIエージェントへの移行が示すMicrosoftの誤算",
+          "description": "Microsoftが鳴り物入りでWindows PCへの搭載を推進してきた「Copilotキー」に、早くも“無効化”の選択肢が用意される可能性が浮上した。最新のWindows 11 Insider Previewビルドで発見されたこの変更の背景には、強制配置に対するユーザーの不満だけでなく、AIが「単機能のチャットボット」から「自律的なAIエージェント」へと急激な進化を遂げているという事実がある。 (1/2)",
+          "url": "https://www.itmedia.co.jp/pcuser/articles/2607/27/news045.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-07-26T21:00:00Z",
+          "image": "https://image.itmedia.co.jp/pcuser/articles/2607/27/cover_news045.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「Fedora Xfce vs Xubuntu」--どちらが最高の「Linux」デスクトップか？",
+          "description": "古いPCに新たな命を吹き込むデスクトップ環境「Xfce」を2つの主要なディストリビューションが異なる形で提供している。どちらが優れているのか。",
+          "url": "https://japan.zdnet.com/article/35250841/",
+          "source": {
+            "name": "ZDNET Japan"
+          },
+          "publishedAt": "2026-07-26T21:00:00Z",
+          "image": "https://japan.zdnet.com/storage/2026/07/22/838924c557e182215fb82b69956af655/xfceherolaptop_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ホンダF1新パワーユニットが29日にコースデビューへ。オランダ投入を前にアストンマーティンと共にフィルミングデー走行",
+          "description": "アストンマーティンF1チームのパワーユニット（PU）パートナーであるホンダは、次戦オランダGPで投入する予定の新仕様パワーユニットを、事前にコースデビューさせ",
+          "url": "https://www.as-web.jp/f1/1338260",
+          "source": {
+            "name": "autosport web"
+          },
+          "publishedAt": "2026-07-26T20:51:00Z",
+          "image": "https://cdn-image.as-web.jp/2026/07/27053951/26Rd11Hun-Sun-Alo-Honda10.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "大谷翔平は４打数１安打 第１打席で二塁打 ドジャースは逆転負けで連勝ストップ／詳細",
+          "description": "ドジャース大谷翔平投手は「1番DH」で先発出場。4打数1安打だった。1回の第1打席で中二塁打を放った。ドジャースは逆転負け。連勝は「4」でストップした。ドジャ… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/baseball/mlb/news/202607270000017.html",
+          "source": {
+            "name": "日刊スポーツ"
+          },
+          "publishedAt": "2026-07-26T20:21:00Z",
+          "image": "https://www.nikkansports.com/baseball/mlb/news/img/202607270000017-w500_0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「雑魚は…」田中角栄が特捜検事に託した言葉 ロッキード50年",
+          "description": "逮捕状の取得は1976年7月26日だった。 　容疑者は田中角栄元首相。大手商社「丸紅」を通じて米国「ロッキード社」から5億円を受領したとする外為法違反の疑いがあった。",
+          "url": "https://mainichi.jp/articles/20260725/k00/00m/040/013000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-07-26T20:00:00Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/07/25/20260725k0000m040005000p/0c10.jpg?1",
+          "language": "ja"
+        },
+        {
+          "title": "「”IDOL1ST 中島健人“ LIVE TOUR 2026 」東京公演 囲み会見ほぼ全文でレポート！",
+          "description": "２nd アルバム「IDOL1ST」を引っ提げた全国ツアーの最終日を迎えた中島健人さんが「”IDOL1ST 中島健人“ LIVE TOUR 2026 」東京公演を開催。アイドルをきわめたカリスマティックな光彩と最高峰のきらめきを放ちながら、オーディエンスをケンティーワールドで包み込みました。VOCE WEB ではこのライブの速報レポートを、MC中に行われた囲み会見ほぼ全文でお届けします！",
+          "url": "https://i-voce.jp/feed/5072947/",
+          "source": {
+            "name": "VOCE"
+          },
+          "publishedAt": "2026-07-26T19:00:00Z",
+          "image": "https://wp.i-voce.jp/wp-content/uploads/2026/07/Bazaart_4C963EE7-51D6-4E51-8FC5-651C10D09113-1200x630.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "村上宗隆が復帰１２戦目で待望初アーチ！ ２１号逆転２ランで本拠地大熱狂 ６０日ぶり弾で大谷翔平の米１年目記録に王手…ボブルヘッド人形配布試合で",
+          "description": "村上宗隆が復帰１２戦目で待望初アーチ！　２１号逆転２ランで本拠地大熱狂　６０日ぶり弾で大谷翔平の米１年目記録に王手…ボブルヘッド人形配布試合で（スポーツ報知）◆米大リーグ　ホワイトソックス―アストロズ（２６日、米イリノイ州シカゴ＝レートフィールド）\n　ホワイトソックス・…",
+          "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260726-OHT1T51428?redirect=1",
+          "source": {
+            "name": "ｄメニューニュース"
+          },
+          "publishedAt": "2026-07-26T18:44:51Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/-/20260708100447/img/dmenu_service-brand-logo_200x200.png",
+          "language": "ja"
+        },
+        {
+          "title": "あこがれの旗艦モバイルノートPC最新モデル=「ThinkPad X1 Carbon Gen 14 Aura Edition」実機レビュー",
+          "description": "レノボのフラッグシップ・モバイルノートPCを試用しました",
+          "url": "https://ascii.jp/limit/group/ida/elem/000/004/422/4422188/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-07-26T16:00:00Z",
+          "image": "https://ascii.jp/img/2026/07/24/4505131/l/c4d2dcd2b82dd295.jpg?20200122",
+          "language": "ja"
+        },
         {
           "title": "VIVANT続編 初回からサプライズの連続 大物声優、金メダリストらが出演 事前公表なく驚きの声続出",
           "description": "俳優・堺雅人（52）主演のTBS系日曜劇場「VIVANT」第2シーズン（日曜後9・00）の初回となる第11話が、26日に放送された。初回から事前に公表されていなかったキャストやゲストが次々に登場す",
@@ -15,216 +114,117 @@
           "publishedAt": "2026-07-26T13:22:21Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260726-00000384-spnannex-000-6-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "【山田久志】投手戦制した阪神の勝因は“ダルベック封じ” ９回のピンチ抑えた伏線は第１打席に",
-          "description": "シーズン前半戦の最終戦になった阪神－巨人は、典型的といえる「1対0」の投手戦だった。阪神の勝因は“ダルベック封じ”にあった。わずか1点リードの9回無死一、二塁… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/baseball/column/analyst/news/202607260002246.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-07-26T12:50:52Z",
-          "image": "https://www.nikkansports.com/baseball/column/analyst/news/img/202607260002246-w500_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【速報】原英莉花は首位と6打差でサンデーバックナインへ／スコットランド女子OP",
-          "description": "◇米国女子◇ISPS Handa スコットランド女子オープン 最終日（26日）◇ダンドナルドリンクス (スコットランド)◇6538yd（パー72） 首位と7打差の3位で出た原英莉花は前半を2バーディ、4ボギーの「38」（パー36）とスコアを",
-          "url": "https://news.golfdigest.co.jp/news/lpga/article/193473/1/",
-          "source": {
-            "name": "GDOゴルフニュース"
-          },
-          "publishedAt": "2026-07-26T12:05:00Z",
-          "image": "https://i.gimg.jp/cmsimg/432244.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "映画『アルマゲドン』は正しかった？ 小惑星を内側から核爆破する地球防衛策",
-          "description": "ブルース・ウィリスが犠牲にならなくてもいい『アルマゲドン』ならありかも…？中国の科学者たちによれば、巨大な小惑星の地球衝突を阻止するもっとも効果的な方法は核爆発かもしれなくて、しかもそれを実現するためのベストな戦略まで見つけちゃったみたいで",
-          "url": "https://www.gizmodo.jp/article/scientists-say-we-should-nuke-dangerous-asteroids-just-not-the-way-you-think/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-07-26T12:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/07/19/241ebfe2-ca43-4353-90aa-dd68f8cbce07/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "【大河ドラマ 豊臣兄弟！】第29回「天下への道」回想 間違ったこの世を「わしが変える」 天下一統を自らに課した秀吉、ストーリーの一大転換点を迎える",
-          "description": "「おれたちの手で世を変える」　転換点迎えたドラマ 大河ドラマ「豊臣兄弟！」の第29回は、ストーリーの重要な転換点を迎えました。明智光秀（要潤さん）を討ち、秀吉（池松壮亮さん）と小一郎（仲野太賀さん）の兄弟が戦国時代の主役",
-          "url": "https://artexhibition.jp/topics/news/20260726-AEJ2956238/",
-          "source": {
-            "name": "美術展ナビ"
-          },
-          "publishedAt": "2026-07-26T11:50:00Z",
-          "image": "https://artexhibition.jp/wp-content/uploads/2026/07/34b13e205d35b9e0edde0792b3950ce1-1200x630.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "大河ドラマ史上初「秀吉と光秀最後の対面」をどう見る？ そして光秀の首は…【豊臣兄弟！ 満喫リポート】29",
-          "description": "ライターＩ（以下Ｉ）：『豊臣兄弟！』第29回。秀吉（演・池松壮亮）と光秀（演・要潤）の決戦の火ぶたが切って落とされました。 編集者Ａ（以下Ａ）：なんといっても衝撃的だったのは、山崎の戦いで敗北した光秀が生け捕りにされて、…",
-          "url": "https://serai.jp/hobby/1276762",
-          "source": {
-            "name": "サライ.jp"
-          },
-          "publishedAt": "2026-07-26T11:47:48Z",
-          "image": "https://serai.jp/wp-content/uploads/2026/07/49d862d47cd2300328e683c98f637943.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【F1ハンガリーGP｜予選結果】アストンマーティン・ホンダに光 アロンソ今季初Q2 ノリスがフェラーリを抑えポール獲得",
-          "description": "7月25日（土）、2026年F1第11戦ハンガリーGP（ハンガロリンク）の予選が行われ、ランド・ノリス（マクラーレン）がポールポジションを獲得した。\nホンダのパワーユニット（PU）を搭載するアスト",
-          "url": "https://news.yahoo.co.jp/articles/e0099759a7b80b6aef05396ad4e024e38435344c",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-26T10:45:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260726-00000008-fliv-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "偽ディズニーと言われた北京の遊園地「石景山遊楽園」に行ってみた！ 開園40周年も、2026年7月のリアルな現状",
-          "description": "中国に行くことがあれば訪問してみたい場所があった。それが過去にネットで偽ミッキーの登場が物議を醸した『石景山遊楽園』である。広い北京市の端なので、北京に滞在す …",
-          "url": "https://rocketnews24.com/2026/07/26/2784074/",
-          "source": {
-            "name": "ロケットニュース24"
-          },
-          "publishedAt": "2026-07-26T10:00:25Z",
-          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/isikei34.jpg?crop=0px%2C368px%2C1500px%2C788px&resize=1200%2C630",
-          "language": "ja"
-        },
-        {
-          "title": "【避難・交通情報タイムライン】東北道仙台宮城ー泉ＩＣ間の通行止め解除",
-          "description": "東日本高速道路は２６日午後８時２５分、東北自動車道仙台宮城―泉インターチェンジ（IC）間の上下線の通行止めを解除した。通行止めは午前８時５０分ごろから１１時間以上に及び、往来に影響が出た。…",
-          "url": "https://kahoku.news/articles/20260726khn000016.html",
-          "source": {
-            "name": "河北新報オンライン"
-          },
-          "publishedAt": "2026-07-26T09:36:37Z",
-          "image": "https://kahoku.news/images/2026/07/26/20260726khn000016/001_size7.jpg?timestamp=20260726205739",
-          "language": "ja"
-        },
-        {
-          "title": "ジェジュン、美ボディの秘訣とは？最新設備を備えた自宅も公開…明日放送「しゃべくり007」に注目",
-          "description": "7月27日（月）夜9時放送の「しゃべくり007」には、ジェジュン、那須雄登（ACEes）、新山（さや香）、畑野ひろ子、濵田崇裕（WEST.）、森香澄、Yumicoが、美ボディ軍団として登場する。日々… - 韓流・韓国芸能ニュースはKstyle",
-          "url": "https://kstyle.com/article.ksn?articleNo=2281875",
-          "source": {
-            "name": "Kstyle"
-          },
-          "publishedAt": "2026-07-26T09:02:42Z",
-          "image": "https://cdn.livedoor.jp/kstyle/736f4949e06ab45cd57bc18c0cad1643_WI.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Lando Norris wins Hungarian Grand Prix for first F1 triumph in 2026",
-          "description": "Defending champion Norris wins his first race of the year as Verstappen finishes second, and leader Antonelli third.",
-          "url": "https://www.aljazeera.com/sports/2026/7/26/lando-norris-wins-hungarian-grand-prix-for-first-f1-triumph-in-2026",
+          "title": "Rumour confirmed: Federal ‘mega poll’ release delayed due to results",
+          "description": "3AW Breakfast host Ross Stevenson’s rumour on Friday, July 24, was confirmed by a “mega poll” released to the public early on Monday morning. Speaking on Monday, Stevenson said the first large seat-by-seat federal poll since the last election showed One Nation would be “within arm’s reach of forming government with the support of the […]",
+          "url": "https://www.3aw.com.au/rumour-confirmed-federal-mega-poll-release-delayed-due-to-unexpected-results/",
           "source": {
-            "name": "Al Jazeera"
+            "name": "3AW"
           },
-          "publishedAt": "2026-07-26T15:17:05Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26207535066195-1785077865.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-07-26T21:53:28Z",
+          "image": "https://www.3aw.com.au/wp-content/uploads/sites/12/2026/07/RUMOUR_CONFIRMED_POLLS_THUMB.jpg",
           "language": "en"
         },
         {
-          "title": "Knockout in friendly: referee unable to continue after furious mass confrontation",
-          "description": "The French club FC Metz’s friendly win over Fortuna Sittard ultimately became a side issue.",
-          "url": "https://www.goal.com/en/news/scandal-in-international-friendly-referee-knocked-out-in-mass-confrontation/bltdb33350962fba913",
+          "title": "‘Much-loved’ broadcaster Gerry Kelly dies aged 77",
+          "description": "Tributes paid to former UTV and BBC Radio Ulster presenter",
+          "url": "https://www.irishtimes.com/culture/tv-radio/2026/07/26/much-loved-broadcaster-gerry-kelly-dies-aged-77/",
+          "source": {
+            "name": "The Irish Times"
+          },
+          "publishedAt": "2026-07-26T21:51:45Z",
+          "image": "https://www.irishtimes.com/resizer/v2/JCBJ3WAMRVBN5O2ZTO2RGJGLZQ.png?smart=true&auth=68f5bc21228de6f70f97b8a70c388754842df68d0aa3b33d2ea66fd761fc5143&width=1200&height=630",
+          "language": "en"
+        },
+        {
+          "title": "Creating is a constant thing for Filipina storyteller Miki Labarda",
+          "description": "What Miki has proven is that gentleness is a commodity in the attention economy. In a feed engineered for speed and provocation, she is the pause.",
+          "url": "https://philstarlife.com/geeky/788549-creating-is-a-constant-thing-for-filipina-storyteller-miki-labarda",
+          "source": {
+            "name": "Philstar Life"
+          },
+          "publishedAt": "2026-07-26T21:50:22Z",
+          "image": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/YS%20Covers/STAR40/Miki%20Labarda%20-%20Banner.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Ryan Coogler Met David Jonsson in a Secret Meeting About Black Panther",
+          "description": "Ryan Coogler met with David Jonsson in a secret meeting to dicuss 'Black Panther 3.'",
+          "url": "https://variety.com/2026/film/news/kevin-feige-ryan-coogler-david-jonsson-black-panther-3-1236821563/",
+          "source": {
+            "name": "Variety"
+          },
+          "publishedAt": "2026-07-26T21:49:00Z",
+          "image": "https://variety.com/wp-content/uploads/2026/07/GettyImages-2287655839.jpg?crop=0px%2C0px%2C3880px%2C2183px&resize=1000%2C563",
+          "language": "en"
+        },
+        {
+          "title": "System of a Down, Faith No More to play one-off show in Wellington",
+          "description": "The show will take place at Hnry Stadium on Sunday, February 7.",
+          "url": "https://www.1news.co.nz/2026/07/27/system-of-a-down-faith-no-more-to-play-one-off-show-in-wellington/",
+          "source": {
+            "name": "1News"
+          },
+          "publishedAt": "2026-07-26T21:47:57Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/system-of-a-down-HOTCNDWC2FHF5AXRQUWYBT6VLA.png?auth=5bb12e85bdd5619b6dc13cfcf368a833af322905cdaca2cbcdc27a3dcec3929a&quality=70&width=600&height=315&focal=1083%2C206",
+          "language": "en"
+        },
+        {
+          "title": "Successful start for Algeria at the Women's Africa Cup of Nations with a win over Senegal",
+          "description": "Algeria's women's national football team secured a valuable win against their Senegalese counterparts (2-0) on Sunday evening, in the opening round of Group One at the Africa Cup of Nations.",
+          "url": "https://www.goal.com/en/news/successful-start-for-algeria-at-the-women-s-africa-cup-of-nations-with-a-win-over-senegal/blta3277f48b5dfe428",
           "source": {
             "name": "Goal.com"
           },
-          "publishedAt": "2026-07-26T15:15:59Z",
-          "image": "https://assets.goal.com/images/v3/getty-1234569495/crop/MM5DGNJXHA5DEMBRGM5G433XMU5DAORRHA2Q====/GettyImages-1234569495.jpg",
+          "publishedAt": "2026-07-26T21:46:16Z",
+          "image": "https://assets.goal.com/images/v3/imago-sport-1079109890/crop/MM5DKMBQGQ5DEOBRGU5G433XMU5DAORSGYYQ====/imago-image.jpeg;%20charset=utf-8",
           "language": "en"
         },
         {
-          "title": "From Jantar Mantar to Parliament: Govt, opposition brace for fight over NEET row, other issues",
-          "description": "India News: NEW DELHI: The protests are over. Dharmendra Pradhan has resigned as Union education minister. A slew of reform measures have been announced. Jantar M.",
-          "url": "https://timesofindia.indiatimes.com/india/from-jantar-mantar-to-parliament-govt-opposition-brace-for-fight-over-neet-row-other-issues/articleshow/132643378.cms",
+          "title": "IN DETAIL: Stock market turnover surged by 54% to N306bn in five days",
+          "description": "The Nigerian Exchange Limited (NGX) says investors traded 4.43 billion shares worth N306.14 billion in 255,589 deals in one week.",
+          "url": "https://www.thecable.ng/in-detail-stock-market-turnover-surged-by-54-to-n306bn-in-five-days/",
           "source": {
-            "name": "The Times of India"
+            "name": "TheCable"
           },
-          "publishedAt": "2026-07-26T15:15:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-132643784,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-07-26T21:46:00Z",
+          "image": "https://www.thecable.ng/wp-content/uploads/2023/11/NGX-Stock-Exchange_TheCable-E.jpeg",
           "language": "en"
         },
         {
-          "title": "Canadian gymnast Félix Dolci wins Commonwealth Games silver medal in all-around final",
-          "description": "Canada’s Felix Dolci came within two-tenths of a point from a gold medal in the men’s gymnastics all-around final, earning silver with a score of 79.450.",
-          "url": "https://www.cbc.ca/sports/commonwealth-games-canadian-roundup-day-3-july-26-9.7284763",
+          "title": "Records fall as Australian swimmers bank more gold at Glasgow Commonwealth Games",
+          "description": "Australia takes home gold, silver and bronze medals in men’s 50m freestyle final",
+          "url": "https://www.theguardian.com/sport/2026/jul/27/commonwealth-games-australian-swimming-medals-cam-mcevoy-lani-palliser-glasgow",
+          "source": {
+            "name": "The Guardian"
+          },
+          "publishedAt": "2026-07-26T21:43:00Z",
+          "image": "https://i.guim.co.uk/img/media/d713dd424cc46ee86b92874ecbfc61ca415a557e/440_0_6517_5213/master/6517.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ce2104af7c53892ca140ccaa7b80111",
+          "language": "en"
+        },
+        {
+          "title": "ChatGPT’s Health Launch Is Foreshadowing The Future Of Healthcare",
+          "description": "The integration of health data into consumer AI platforms is rapidly growing.",
+          "url": "https://www.forbes.com/sites/saibala/2026/07/26/chatgpts-health-launch-is-foreshadowing-the-future-of-healthcare/",
+          "source": {
+            "name": "Forbes"
+          },
+          "publishedAt": "2026-07-26T21:41:44Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/66c7eb6be1c323c19b6563e1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "language": "en"
+        },
+        {
+          "title": "Community baffled by vandalism of previously harmed historic tree in Halifax Public Gardens",
+          "description": "Enjoyers of the Halifax Public Gardens say they are left with questions and sadness following the recent vandalism of a historic tree that was first harmed in a 2022 tree attack incident.",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/weeping-birch-damaged-halifax-public-gardens-9.7285193",
           "source": {
             "name": "CBC"
           },
-          "publishedAt": "2026-07-26T15:14:28Z",
-          "image": "https://i.cbc.ca/ais/2b5676d3-c8b4-4c8a-9d43-393770c34b52,1785073851603/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C127%2C4686%2C2635%29%3BResize%3D620",
-          "language": "en"
-        },
-        {
-          "title": "France wildfires creep toward wine city of Bordeaux",
-          "description": "A raging wildfire in southwest France forced the evacuation of 55,000 people overnight Sunday, bringing the total forced out of their homes to a staggering 220,000 in one region alone as flames crept ever closer to the wine region city of Bordeaux.",
-          "url": "https://www.cbc.ca/news/world/wildfires-bordeaux-evacuations-9.7284915",
-          "source": {
-            "name": "CBC"
-          },
-          "publishedAt": "2026-07-26T15:14:09Z",
-          "image": "https://i.cbc.ca/ais/58f6ba62-e8c2-4f72-b305-52e58d04ed18,1785076861571/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C288%2C5529%2C3110%29%3BResize%3D620",
-          "language": "en"
-        },
-        {
-          "title": "Man Believed to Be Aide to Detained Prosecutor Febrie Adriansyah Found Dead",
-          "description": "Police are investigating the death of a man reportedly serving as an aide to detained corruption suspect Febrie Adriansyah.",
-          "url": "https://jakartaglobe.id/news/man-believed-to-be-aide-to-detained-prosecutor-febrie-adriansyah-found-dead",
-          "source": {
-            "name": "Jakarta Globe"
-          },
-          "publishedAt": "2026-07-26T15:14:00Z",
-          "image": "https://img2.beritasatu.com/cache/jakartaglobe/960x620-w/2026/07/1785079913-3697x2801.webp",
-          "language": "en"
-        },
-        {
-          "title": "Mirabai completes hattrick of golds at Commonwealth Games",
-          "description": "Mirabai Chanu secures her third consecutive Commonwealth Games gold, shattering records with an impressive 190kg total lift.",
-          "url": "https://www.thehindu.com/sport/mirabai-completes-hattrick-of-golds-at-commonwealth-games/article71270013.ece",
-          "source": {
-            "name": "The Hindu"
-          },
-          "publishedAt": "2026-07-26T15:13:21Z",
-          "image": "https://th-i.thgim.com/public/incoming/z8cyly/article71270014.ece/alternates/LANDSCAPE_1200/PTI07_26_2026_000416B.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Syria's Sharaa: Talks with Israel ongoing, could lead to comprehensive peace deal",
-          "description": "Syrian leader tells Al Jazeera that Damascus has no interest in conflict with Israel; again rejects Trump's urgings for him to send troops to deal with Hezbollah in Lebanon",
-          "url": "https://www.timesofisrael.com/syrias-sharaa-talks-with-israel-ongoing-could-lead-to-comprehensive-peace-deal/",
-          "source": {
-            "name": "The Times of Israel"
-          },
-          "publishedAt": "2026-07-26T15:11:35Z",
-          "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26189526139219.jpg",
-          "language": "en"
-        },
-        {
-          "title": "BREAKING: Bandits abduct Kebbi High Court judge",
-          "description": "Bandits have kidnapped Kebbi State High Court judge, Justice Faruku Hassan Bunza. Justice Bunza was whisked away on Sunday at his home along",
-          "url": "https://dailypost.ng/2026/07/26/bandits-abduct-kebbi-high-court-judge/",
-          "source": {
-            "name": "Daily Post Nigeria"
-          },
-          "publishedAt": "2026-07-26T15:11:15Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2025/11/gunmen-1-1024x576-1.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Apple launching its first water-resistant iPad soon",
-          "description": "The next iPad mini will be water-resistant, according to new reports.",
-          "url": "https://mashable.com/tech/apple-launching-water-resistant-ipad-mini-soon",
-          "source": {
-            "name": "Mashable"
-          },
-          "publishedAt": "2026-07-26T15:11:15Z",
-          "image": "https://helios-i.mashable.com/imagery/articles/010k4g9XRXK4146fg3BJIos/hero-image.fill.size_1200x675.v1785077110.jpg",
+          "publishedAt": "2026-07-26T21:40:33Z",
+          "image": "https://i.cbc.ca/ais/4aaf38da-1d82-4ea5-97e2-144dd948dae9,1785096777635/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3BResize%3D620",
           "language": "en"
         }
       ]
