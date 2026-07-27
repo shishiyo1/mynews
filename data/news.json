@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-27T09:53:29.837Z",
+  "updatedAt": "2026-07-27T14:36:56.802Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "【実録! 重役飯】中学時代はメモリ32KBのMSXでバグと戦った。サードウェーブ永井社長の原点と未来の描き方",
-          "description": "30周年記念の重役飯、第4回となる今回のお相手は、PCショップ「ドスパラ」の運営などを手がける株式会社サードウェーブ取締役社長の永井正樹氏。会食の場としては、永井氏が長年親しんでいる秋葉原の老舗和食店「神田明神下みやび本店」を選んでいただいた。",
-          "url": "https://pc.watch.impress.co.jp/docs/column/executive_dinner/2127260.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-07-26T21:28:00Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2127/260/01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "鳴り物入りで登場した「Copilotキー」が早くもお蔵入りか──チャットボットからAIエージェントへの移行が示すMicrosoftの誤算",
-          "description": "Microsoftが鳴り物入りでWindows PCへの搭載を推進してきた「Copilotキー」に、早くも“無効化”の選択肢が用意される可能性が浮上した。最新のWindows 11 Insider Previewビルドで発見されたこの変更の背景には、強制配置に対するユーザーの不満だけでなく、AIが「単機能のチャットボット」から「自律的なAIエージェント」へと急激な進化を遂げているという事実がある。 (1/2)",
-          "url": "https://www.itmedia.co.jp/pcuser/articles/2607/27/news045.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-07-26T21:00:00Z",
-          "image": "https://image.itmedia.co.jp/pcuser/articles/2607/27/cover_news045.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「Fedora Xfce vs Xubuntu」--どちらが最高の「Linux」デスクトップか？",
-          "description": "古いPCに新たな命を吹き込むデスクトップ環境「Xfce」を2つの主要なディストリビューションが異なる形で提供している。どちらが優れているのか。",
-          "url": "https://japan.zdnet.com/article/35250841/",
-          "source": {
-            "name": "ZDNET Japan"
-          },
-          "publishedAt": "2026-07-26T21:00:00Z",
-          "image": "https://japan.zdnet.com/storage/2026/07/22/838924c557e182215fb82b69956af655/xfceherolaptop_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ホンダF1新パワーユニットが29日にコースデビューへ。オランダ投入を前にアストンマーティンと共にフィルミングデー走行",
-          "description": "アストンマーティンF1チームのパワーユニット（PU）パートナーであるホンダは、次戦オランダGPで投入する予定の新仕様パワーユニットを、事前にコースデビューさせ",
-          "url": "https://www.as-web.jp/f1/1338260",
-          "source": {
-            "name": "autosport web"
-          },
-          "publishedAt": "2026-07-26T20:51:00Z",
-          "image": "https://cdn-image.as-web.jp/2026/07/27053951/26Rd11Hun-Sun-Alo-Honda10.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "大谷翔平は４打数１安打 第１打席で二塁打 ドジャースは逆転負けで連勝ストップ／詳細",
-          "description": "ドジャース大谷翔平投手は「1番DH」で先発出場。4打数1安打だった。1回の第1打席で中二塁打を放った。ドジャースは逆転負け。連勝は「4」でストップした。ドジャ… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/baseball/mlb/news/202607270000017.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-07-26T20:21:00Z",
-          "image": "https://www.nikkansports.com/baseball/mlb/news/img/202607270000017-w500_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「雑魚は…」田中角栄が特捜検事に託した言葉 ロッキード50年",
-          "description": "逮捕状の取得は1976年7月26日だった。 　容疑者は田中角栄元首相。大手商社「丸紅」を通じて米国「ロッキード社」から5億円を受領したとする外為法違反の疑いがあった。",
-          "url": "https://mainichi.jp/articles/20260725/k00/00m/040/013000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-07-26T20:00:00Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/07/25/20260725k0000m040005000p/0c10.jpg?1",
-          "language": "ja"
-        },
-        {
-          "title": "「”IDOL1ST 中島健人“ LIVE TOUR 2026 」東京公演 囲み会見ほぼ全文でレポート！",
-          "description": "２nd アルバム「IDOL1ST」を引っ提げた全国ツアーの最終日を迎えた中島健人さんが「”IDOL1ST 中島健人“ LIVE TOUR 2026 」東京公演を開催。アイドルをきわめたカリスマティックな光彩と最高峰のきらめきを放ちながら、オーディエンスをケンティーワールドで包み込みました。VOCE WEB ではこのライブの速報レポートを、MC中に行われた囲み会見ほぼ全文でお届けします！",
-          "url": "https://i-voce.jp/feed/5072947/",
-          "source": {
-            "name": "VOCE"
-          },
-          "publishedAt": "2026-07-26T19:00:00Z",
-          "image": "https://wp.i-voce.jp/wp-content/uploads/2026/07/Bazaart_4C963EE7-51D6-4E51-8FC5-651C10D09113-1200x630.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "村上宗隆が復帰１２戦目で待望初アーチ！ ２１号逆転２ランで本拠地大熱狂 ６０日ぶり弾で大谷翔平の米１年目記録に王手…ボブルヘッド人形配布試合で",
-          "description": "村上宗隆が復帰１２戦目で待望初アーチ！　２１号逆転２ランで本拠地大熱狂　６０日ぶり弾で大谷翔平の米１年目記録に王手…ボブルヘッド人形配布試合で（スポーツ報知）◆米大リーグ　ホワイトソックス―アストロズ（２６日、米イリノイ州シカゴ＝レートフィールド）\n　ホワイトソックス・…",
-          "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260726-OHT1T51428?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-07-26T18:44:51Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/-/20260708100447/img/dmenu_service-brand-logo_200x200.png",
-          "language": "ja"
-        },
-        {
-          "title": "あこがれの旗艦モバイルノートPC最新モデル=「ThinkPad X1 Carbon Gen 14 Aura Edition」実機レビュー",
-          "description": "レノボのフラッグシップ・モバイルノートPCを試用しました",
-          "url": "https://ascii.jp/limit/group/ida/elem/000/004/422/4422188/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-07-26T16:00:00Z",
-          "image": "https://ascii.jp/img/2026/07/24/4505131/l/c4d2dcd2b82dd295.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "VIVANT続編 初回からサプライズの連続 大物声優、金メダリストらが出演 事前公表なく驚きの声続出",
-          "description": "俳優・堺雅人（52）主演のTBS系日曜劇場「VIVANT」第2シーズン（日曜後9・00）の初回となる第11話が、26日に放送された。初回から事前に公表されていなかったキャストやゲストが次々に登場す",
-          "url": "https://news.yahoo.co.jp/articles/85807326c3ca8ad0f8f9e27543c8e0bcc328e53d",
+          "title": "《「最終回でがっかり」ドラマランキング》元祖“バッドエンド”の衝撃作を抑えた1位は（週刊女性PRIME）",
+          "description": "「『田鎖ブラザーズ』、『GIFT』（共にTBS系）は最終回放送後に“ドラマだけでも夢を見せてよ”という声が視聴者から殺到しました」（放送関係者）\n　終わり方が賛否を巻き起こした春ドラマ。主人公の兄",
+          "url": "https://news.yahoo.co.jp/articles/b367906ba6d3a453dc5ec166a29c624f6482e196",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-07-26T13:22:21Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260726-00000384-spnannex-000-6-view.jpg?exp=10800",
+          "publishedAt": "2026-07-27T02:00:34Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260727-00042575-jprime-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "グーグル「Gemini」の利用枠ルールが変更、使用量と上限の確認方法",
+          "description": "グーグルはGeminiの使用量を計測する仕組みを変更した。必要な計算資源を基準に使用量を測る新制度により、場合によってはAIに送れる指示の回数が以前より減る可能性がある。",
+          "url": "https://wired.jp/article/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+          "source": {
+            "name": "WIRED.jp"
+          },
+          "publishedAt": "2026-07-27T02:00:00Z",
+          "image": "https://media.wired.jp/photos/6a5eb950ba909fda8b5893bc/16:9/w_1280,c_limit/GeminiStorage.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "しかし「衛星」の定義を揺るがす事態に 一体なぜ？",
+          "description": "太陽系の外で初めて、「衛星」とみられる天体が見つかった。1992年の初発見以来、系外惑星はおよそ6000個確認されてきたが、その周りを回る衛星は一つも見つかっていなかった。",
+          "url": "https://japan.cnet.com/article/35250980/",
+          "source": {
+            "name": "CNET Japan"
+          },
+          "publishedAt": "2026-07-27T01:37:00Z",
+          "image": "https://japan.cnet.com/storage/2026/07/27/7524338040ec253767286d826e3a4311/NASA-Brown-Dwarf__1_.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "肉塊400グラム！ 門前仲町にオープンした「チャーシューエッグ専門店」でキングサイズを喰らってきた",
+          "description": "もう少し大々的に『チャーシューエッグ』が流行っていい気がする。チャーシューエッグとはチャーシューと目玉焼きの定食で、ワンパクどもなら高確率で大好きであろう “野 …",
+          "url": "https://rocketnews24.com/2026/07/27/2783976/",
+          "source": {
+            "name": "ロケットニュース24"
+          },
+          "publishedAt": "2026-07-27T01:30:05Z",
+          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_2088.jpg?w=1200&h=630&crop=1",
+          "language": "ja"
+        },
+        {
+          "title": "『がんばれゴエモン』サントラCD-BOXが発売決定。『ネオ桃山幕府のおどり』、初収録の『アコギング』など2ボックス展開。各500曲以上を収録",
+          "description": "『がんばれゴエモン』シリーズのサントラCD-BOXが2026年10月14日に発売決定。コナミスタイルで予約開始。『宇宙海賊アコギング』『もののけ双六』などCD初収録タイトルが登場。",
+          "url": "https://www.famitsu.com/article/202607/82547",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-07-27T01:27:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/82547/thumbnail_bxPw.jpg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "Nintendo Switch 2・Nintendo Switchソフト『ぼくと釣り日記』「お台場ファンライジング」への協賛決定のお知らせ",
+          "description": "イベントエリア内にてプロモーション映像を放映イマジニア株式会社（東京都新宿区、代表取締役社長 兼 CEO 澄岡和憲、以下「当社」）より10月8日に発売予定の、Nintendo Switch 2™及びNintendo Switch™ソフト『ぼく…",
+          "url": "https://kahoku.news/release/dpr139963.html",
+          "source": {
+            "name": "河北新報オンライン"
+          },
+          "publishedAt": "2026-07-27T01:01:11Z",
+          "image": "https://digitalpr.jp/release/media/2601/139963/202607011928116a44ebbb06311.png",
+          "language": "ja"
+        },
+        {
+          "title": "ＴＢＳ日曜劇場「ＶＩＶＡＮＴ」第２シーズン初回は世帯視聴率１８・８％の好発進 ７月期民放連ドラでトップ！高山みなみ、五輪金・角田夏実サプライズ出演にもわく",
+          "description": "２６日に放送されたＴＢＳ「ＶＩＶＡＮＴ」（日曜・後９時）第２シーズン初回の世帯平均視聴率が１８・８％だったことが２７日、分かった。第１シーズン最終話に迫る好発進となった。\n　２０２３年７月期に放",
+          "url": "https://news.yahoo.co.jp/articles/8de8a3d4c30a56ce6190504273c33fa63db9fef3",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-27T00:00:45Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【テクノア】AIが24時間その場で回答！生産管理システム『TECHS-S NOA』ユーザー専用チャットボット公開",
+          "description": "株式会社テクノアのプレスリリース（2026年7月27日 09時00分）【テクノア】AIが24時間その場で回答！生産管理システム『TECHS-S NOA』ユーザー専用チャットボット公開",
+          "url": "https://prtimes.jp/main/html/rd/p/000000318.000053131.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-07-27T00:00:16Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/53131/318/53131-318-9a6b8a3c08443037647cf4fedbc11780-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "FX/為替「ドル/円今日の見通し｜米・イラン攻撃停止でリスクオフの巻き戻しも ドル/円の下値は限定的」 外為どっとコム トゥデイ 2026年7月27日号",
+          "description": "24日のドル/円は約40年ぶりの高値圏でほぼ横ばい。「パキスタンが中断している米国とイランの戦闘終結に向けた交渉の再開を模索している」との報道を受けて、NY原油（WTI）先物価格が下落したことで、有事のドル買いが巻き戻され、163.64円前後まで下落する場面も見られたが、ドル売りは一時的だった。 またトランプ米大統領が「イランへの新たな攻撃を行わないように軍に指示した」と伝わり、週末を通して米国とイランが攻撃の応酬を停止した。これを受けて、週明けのWTI原油先物価格は84ドル台へと大幅に下落している。もっとも、イエメンの親イラン武装組織フーシ派はサウジアラビアは、サウジの国有石油会社サウジアラムコの施設へ攻撃をしたと伝わっており、戦火がイエメンへ拡大するとの懸念もある。そのため、米連邦準備制度理事会（FRB）の早期利上げ観測が大きく後退するには至っていない。今週は米連邦公開市場委員会（FOMC）が予定されている。オーバーナイト・インデックス・スワップ（OIS）では今月のFOMCでの利上げの織り込み度は40％未満に留まっているものの、フォワード・ガイダンスを発さないウォーシュFRB議長の下で、サプライズ利上げの可能性もあるとの警戒感がドルの下支え要因となっている。原油価格の低下がドル/円の上値を抑える要因とはなるものの、下値も限定的となりそうだ。",
+          "url": "https://www.gaitame.com/media/entry/2026/07/27/083730",
+          "source": {
+            "name": "外為どっとコム"
+          },
+          "publishedAt": "2026-07-26T23:37:25Z",
+          "image": "https://cdn.image.st-hatena.com/image/scale/5bf81f327511f5bef32b0f52914080b84ee7a448/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgaitamesk%2F20250327%2F20250327201949.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "日本株、夏の波乱続く？目先は慎重姿勢を継続（窪田真之）",
+          "description": "先週（営業日7月21～24日）の日経平均株価は、引き続き、半導体・AI関連株乱高下の影響を受けて大荒れでした。先週前半には急落する半導体・AI関連株に押し目買いが入って急反発しましたが、週末には再び半導体・AI関連株への売りが増えて、急…",
+          "url": "https://media.rakuten-sec.net/articles/-/53037",
+          "source": {
+            "name": "トウシル"
+          },
+          "publishedAt": "2026-07-26T23:00:00Z",
+          "image": "https://media.rakuten-sec.net/mwimgs/9/5/-/img_95110870ceef12a3adb3be88adfdfcdb128383.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Rumour confirmed: Federal ‘mega poll’ release delayed due to results",
-          "description": "3AW Breakfast host Ross Stevenson’s rumour on Friday, July 24, was confirmed by a “mega poll” released to the public early on Monday morning. Speaking on Monday, Stevenson said the first large seat-by-seat federal poll since the last election showed One Nation would be “within arm’s reach of forming government with the support of the […]",
-          "url": "https://www.3aw.com.au/rumour-confirmed-federal-mega-poll-release-delayed-due-to-unexpected-results/",
+          "title": "Prince Harry interrupts Meghan Markle’s Masterchef debut: ‘Very sorry to disturb you’",
+          "description": "Royal surprised his wife with a phone call to the show studio",
+          "url": "https://www.the-independent.com/arts-entertainment/tv/news/prince-harry-meghan-markle-phone-call-masterchef-australia-b3021919.html",
           "source": {
-            "name": "3AW"
+            "name": "The Independent"
           },
-          "publishedAt": "2026-07-26T21:53:28Z",
-          "image": "https://www.3aw.com.au/wp-content/uploads/sites/12/2026/07/RUMOUR_CONFIRMED_POLLS_THUMB.jpg",
+          "publishedAt": "2026-07-27T02:36:00Z",
+          "image": "https://static.the-independent.com/2026/07/26/12/23/Meghan-Markle-Masterchef-Australia.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
           "language": "en"
         },
         {
-          "title": "‘Much-loved’ broadcaster Gerry Kelly dies aged 77",
-          "description": "Tributes paid to former UTV and BBC Radio Ulster presenter",
-          "url": "https://www.irishtimes.com/culture/tv-radio/2026/07/26/much-loved-broadcaster-gerry-kelly-dies-aged-77/",
+          "title": "Oil prices ease after US and Iran pause their attacks",
+          "description": "NEW YORK: Oil prices eased in early trading Sunday, falling further from a two-month high set last week, after the United States and Iran refrained from launching military strikes in the Arabian Gulf for a second straight day. The price for a barrel of Brent crude oil to be delivered in September dropped 4.9 percent to $92.02 shortly after trading resumed. The decline followed",
+          "url": "https://www.arabnews.pk/node/2652418/business-economy",
           "source": {
-            "name": "The Irish Times"
+            "name": "Arab News PK"
           },
-          "publishedAt": "2026-07-26T21:51:45Z",
-          "image": "https://www.irishtimes.com/resizer/v2/JCBJ3WAMRVBN5O2ZTO2RGJGLZQ.png?smart=true&auth=68f5bc21228de6f70f97b8a70c388754842df68d0aa3b33d2ea66fd761fc5143&width=1200&height=630",
+          "publishedAt": "2026-07-27T02:35:23Z",
+          "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/07/27/4735148-995788116.jpg?itok=n6mpSDdt",
           "language": "en"
         },
         {
-          "title": "Creating is a constant thing for Filipina storyteller Miki Labarda",
-          "description": "What Miki has proven is that gentleness is a commodity in the attention economy. In a feed engineered for speed and provocation, she is the pause.",
-          "url": "https://philstarlife.com/geeky/788549-creating-is-a-constant-thing-for-filipina-storyteller-miki-labarda",
+          "title": "RDNA 5 Is Coming Earlier Than Anyone Expected. What That Means for Your Next Build",
+          "description": "RDNA 5 may land in mid-2027, not 2028. Here's how Tech Critter breaks down the accelerated roadmap and what builders should do with their GPU budget right now.",
+          "url": "https://www.tech-critter.com/rdna-5-gpu-build-timing/",
           "source": {
-            "name": "Philstar Life"
+            "name": "Tech Critter"
           },
-          "publishedAt": "2026-07-26T21:50:22Z",
-          "image": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/YS%20Covers/STAR40/Miki%20Labarda%20-%20Banner.jpg",
+          "publishedAt": "2026-07-27T02:33:56Z",
+          "image": "https://www.tech-critter.com/wp-content/uploads/2026/07/image-12.webp",
           "language": "en"
         },
         {
-          "title": "Ryan Coogler Met David Jonsson in a Secret Meeting About Black Panther",
-          "description": "Ryan Coogler met with David Jonsson in a secret meeting to dicuss 'Black Panther 3.'",
-          "url": "https://variety.com/2026/film/news/kevin-feige-ryan-coogler-david-jonsson-black-panther-3-1236821563/",
+          "title": "Dog bite victim forced to seek private care after health centre in Hosur shuts before closing time",
+          "description": "There are eight Urban and Health Wellness Centres under the HCMC that work from 8 am to 12 pm and 4 pm to 8 pm. When TNIE visited the centre, it was closed befo",
+          "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Jul/27/dog-bite-victim-forced-to-seek-private-care-after-health-centre-in-hosur-shuts-before-closing-time",
           "source": {
-            "name": "Variety"
+            "name": "The New Indian Express"
           },
-          "publishedAt": "2026-07-26T21:49:00Z",
-          "image": "https://variety.com/wp-content/uploads/2026/07/GettyImages-2287655839.jpg?crop=0px%2C0px%2C3880px%2C2183px&resize=1000%2C563",
+          "publishedAt": "2026-07-27T02:30:54Z",
+          "image": "https://cf-images.assettype.com/newindianexpress%2F2026-05-30%2Fltd8wz5u%2FMedical-negligence.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
           "language": "en"
         },
         {
-          "title": "System of a Down, Faith No More to play one-off show in Wellington",
-          "description": "The show will take place at Hnry Stadium on Sunday, February 7.",
-          "url": "https://www.1news.co.nz/2026/07/27/system-of-a-down-faith-no-more-to-play-one-off-show-in-wellington/",
+          "title": "Conservatives call for emergency meeting on Trump threats, demand Carney explain plan",
+          "description": "The Conservative shadow minister for Canada-U.S. relations is calling on Ottawa to provide its negotiation plan with U.S. President Donald Trump at an emergency meeting.",
+          "url": "https://www.castanet.net/news/Canada/626087/Conservatives-call-for-emergency-meeting-on-Trump-threats-demand-Carney-explain-plan",
+          "source": {
+            "name": "Castanet"
+          },
+          "publishedAt": "2026-07-27T02:30:00Z",
+          "image": "https://www.castanet.net/content/2026/7/61b7afbe36aa7ab9397075b403de09b0b9f86ad3a1f2fc0581ecfe629b2f6946.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Luxon rejects criticism on party's paid parental leave record",
+          "description": "National on Sunday announced extending paid parental leave to 30 weeks, and allowing parents to take their leave at the same time.",
+          "url": "https://www.1news.co.nz/2026/07/27/luxon-rejects-criticism-on-partys-paid-parental-leave-record/",
           "source": {
             "name": "1News"
           },
-          "publishedAt": "2026-07-26T21:47:57Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/system-of-a-down-HOTCNDWC2FHF5AXRQUWYBT6VLA.png?auth=5bb12e85bdd5619b6dc13cfcf368a833af322905cdaca2cbcdc27a3dcec3929a&quality=70&width=600&height=315&focal=1083%2C206",
+          "publishedAt": "2026-07-27T02:29:33Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/prime-minister-christopher-luxon-M2FZD2C3XZC7DHRKVONSMIX6VE.jpg?auth=6f4df4e66733f5083ae6ae60db9da35b15a9ec21b2b8435bd8b6c6651216360c&quality=70&width=600&height=315&focal=414%2C233",
           "language": "en"
         },
         {
-          "title": "Successful start for Algeria at the Women's Africa Cup of Nations with a win over Senegal",
-          "description": "Algeria's women's national football team secured a valuable win against their Senegalese counterparts (2-0) on Sunday evening, in the opening round of Group One at the Africa Cup of Nations.",
-          "url": "https://www.goal.com/en/news/successful-start-for-algeria-at-the-women-s-africa-cup-of-nations-with-a-win-over-senegal/blta3277f48b5dfe428",
+          "title": "Special DemosAU poll has Labor well short of a parliamentary majority",
+          "description": "If this poll’s results were reflected at an election, Labor would lose its majority, with One Nation and the Coalition combined leading Labor in seats by 73–68.",
+          "url": "https://theconversation.com/special-demosau-poll-has-labor-well-short-of-a-parliamentary-majority-287867",
           "source": {
-            "name": "Goal.com"
+            "name": "The Conversation"
           },
-          "publishedAt": "2026-07-26T21:46:16Z",
-          "image": "https://assets.goal.com/images/v3/imago-sport-1079109890/crop/MM5DKMBQGQ5DEOBRGU5G433XMU5DAORSGYYQ====/imago-image.jpeg;%20charset=utf-8",
+          "publishedAt": "2026-07-27T02:27:00Z",
+          "image": "https://images.theconversation.com/files/750164/original/file-20260727-69-37n0hx.jpg?ixlib=rb-4.1.1&rect=0%2C1288%2C7717%2C3858&q=45&auto=format&w=1356&h=668&fit=crop",
           "language": "en"
         },
         {
-          "title": "IN DETAIL: Stock market turnover surged by 54% to N306bn in five days",
-          "description": "The Nigerian Exchange Limited (NGX) says investors traded 4.43 billion shares worth N306.14 billion in 255,589 deals in one week.",
-          "url": "https://www.thecable.ng/in-detail-stock-market-turnover-surged-by-54-to-n306bn-in-five-days/",
+          "title": "Over 2,900 A-Shares Fall as Semiconductor, Oil Stocks Drag; N Changxin Surges 470% in Debut to Claim Market Cap Crown",
+          "description": "China's A-share market opened broadly lower on July 27, with the Shanghai Composite Index dipping 0.14% and over 2,900 stocks declining. Oil & gas,…",
+          "url": "https://finance.biggo.com/news/0050aff3-21d4-49dd-855a-4b4063da4072",
           "source": {
-            "name": "TheCable"
+            "name": "finance.biggo.com"
           },
-          "publishedAt": "2026-07-26T21:46:00Z",
-          "image": "https://www.thecable.ng/wp-content/uploads/2023/11/NGX-Stock-Exchange_TheCable-E.jpeg",
+          "publishedAt": "2026-07-27T02:26:00Z",
+          "image": "https://img.biggo.com/3AuLF6aSX3_fGmd_D8wKe5grkGY8xaipc1e2dPQjF3Q/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzAwNTBhZmYzLTIxZDQtNDlkZC04NTVhLTRiNDA2M2RhNDA3Ml8xNzg1MTE5NDY5X2RlZmF1bHQuanBn.jpg",
           "language": "en"
         },
         {
-          "title": "Records fall as Australian swimmers bank more gold at Glasgow Commonwealth Games",
-          "description": "Australia takes home gold, silver and bronze medals in men’s 50m freestyle final",
-          "url": "https://www.theguardian.com/sport/2026/jul/27/commonwealth-games-australian-swimming-medals-cam-mcevoy-lani-palliser-glasgow",
+          "title": "PLAYE Uses AI Production For New Fortescue Campaign",
+          "description": "AI and mining? This story sounds like Greenpeace's worst nightmare.",
+          "url": "https://www.bandt.com.au/playe-uses-ai-production-for-new-fortescue-campaign/",
           "source": {
-            "name": "The Guardian"
+            "name": "bandt.com.au"
           },
-          "publishedAt": "2026-07-26T21:43:00Z",
-          "image": "https://i.guim.co.uk/img/media/d713dd424cc46ee86b92874ecbfc61ca415a557e/440_0_6517_5213/master/6517.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ce2104af7c53892ca140ccaa7b80111",
+          "publishedAt": "2026-07-27T02:24:53Z",
+          "image": "https://www.bandt.com.au/information/uploads/2026/07/Screenshot-2026-07-27-114910.png",
           "language": "en"
         },
         {
-          "title": "ChatGPT’s Health Launch Is Foreshadowing The Future Of Healthcare",
-          "description": "The integration of health data into consumer AI platforms is rapidly growing.",
-          "url": "https://www.forbes.com/sites/saibala/2026/07/26/chatgpts-health-launch-is-foreshadowing-the-future-of-healthcare/",
+          "title": "Alouettes rally in final three minutes to knock off Tiger-Cats",
+          "description": "Jose Maltos Diaz kicked two fields and a single with just under three minutes left in the final quarter as the Montreal Alouettes beat the Hamilton Tiger-Cats 31-18 in front of 21,014 fans at Percival Molson Stadium on Sunday.",
+          "url": "https://www.tsn.ca/cfl/article/alouettes-rally-in-final-three-minutes-to-knock-off-tiger-cats/",
           "source": {
-            "name": "Forbes"
+            "name": "TSN"
           },
-          "publishedAt": "2026-07-26T21:41:44Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/66c7eb6be1c323c19b6563e1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "language": "en"
-        },
-        {
-          "title": "Community baffled by vandalism of previously harmed historic tree in Halifax Public Gardens",
-          "description": "Enjoyers of the Halifax Public Gardens say they are left with questions and sadness following the recent vandalism of a historic tree that was first harmed in a 2022 tree attack incident.",
-          "url": "https://www.cbc.ca/news/canada/nova-scotia/weeping-birch-damaged-halifax-public-gardens-9.7285193",
-          "source": {
-            "name": "CBC"
-          },
-          "publishedAt": "2026-07-26T21:40:33Z",
-          "image": "https://i.cbc.ca/ais/4aaf38da-1d82-4ea5-97e2-144dd948dae9,1785096777635/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3BResize%3D620",
+          "publishedAt": "2026-07-27T02:24:00Z",
+          "image": "https://www.tsn.ca/resizer/v2/HFOWDSUENJA6NE6772HBG7OIAU.JPG?smart=true&auth=c62d54f4181177b2e9e77c982be68d602c2d5734fce5140f30c23ccfe5dbe58d&width=1200&height=630",
           "language": "en"
         }
       ]
