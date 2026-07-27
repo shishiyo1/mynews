@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-27T14:36:56.802Z",
+  "updatedAt": "2026-07-27T16:58:17.267Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "この夏はCAPCOMIXで「鬼武者」の世界観を体感せよ！ 『鬼武者 Way of the Sword』の発売を記念して、CAPCOMIXで期間限定コラボイベント開催！",
+          "description": "株式会社カプコンのプレスリリース（2026年7月27日 13時48分）この夏はCAPCOMIXで「鬼武者」の世界観を体感せよ！　『鬼武者 Way of the Sword』の発売を記念して、CAPCOMIXで期間限定コラボイベント開催！",
+          "url": "https://prtimes.jp/main/html/rd/p/000005918.000013450.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-07-27T04:48:20Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/13450/5918/13450-5918-3b19df5bf1cb76060bb978098ca60d0b-1200x1200.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "『ドラクエ7 リイマジンド』30%オフ、『ゴースト・オブ・ヨウテイ』29%オフ。PSの人気タイトルがお得に買えるサマーセール第2弾が開催",
+          "description": "PS StoreにてPS5とPS4のタイトルがお得に購入できるSUMMER SALE第2弾が開催中。期間は2026年8月12日（水）まで。『ドラゴンクエスト VII Reimagined』デジタルデラックス版が30%オフ、『Ghost of Yōtei』が29%オフなど、人気タイトルが多数ラインナップされている。",
+          "url": "https://www.famitsu.com/article/202607/82559",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-07-27T04:20:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/82559/thumbnail_ECxN.jpeg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "【高校野球】関東第一や天理など9校が“甲子園の切符” 残りは6校 大阪、広島らが28日に決勝戦",
+          "description": "【高校野球】関東第一や天理など9校が“甲子園の切符”　残りは6校　大阪、広島らが28日に決勝戦（日テレNEWS NNN）第108回全国高等学校野球選手権大会の地方大会が各地で開催。27日は9校が新たに甲子園出場の切符をつかみました。三重（三重）、…",
+          "url": "https://topics.smt.docomo.ne.jp/article/ntv_news24/sports/ntv_news24-2026072706684694?redirect=1",
+          "source": {
+            "name": "ｄメニューニュース"
+          },
+          "publishedAt": "2026-07-27T04:18:00Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/picture/ntv_news24/m_ntv_news24-2026072706684694.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "290台限定のポルシェ「964カレラRS」をルーフが3.8Lターボ化。約6789万円で落札",
+          "description": "世界限定290台のポルシェ「964型カレラRS N/GT」をベースに、名門チューナーであるRUF（ルーフ）が3.8リッターターボエンジンを換装した「BTR 3.8」仕様がオークションに登場。約6789万円で落札された希少な空冷ポルシェの歴史と過激なスペックを解説する。",
+          "url": "https://www.automesseweb.jp/2026/07/27/1973905",
+          "source": {
+            "name": "Auto Messe Web"
+          },
+          "publishedAt": "2026-07-27T03:04:03Z",
+          "image": "https://image-automesseweb.com/wp-content/uploads/2026/07/06_AMW_260723_Porsche-RUF-BTR-3-8_.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "【為替】7/27～7/31の米ドル／円を予想する",
+          "description": "先週（7月20日週）の米ドル／円は、「骨太の方針」の決定後に約1ヶ月続いたレンジをブレークしたことで、米ドル高・円安が勢いづいた。。今週（7月27日週）は、日米金融政策発表などをきっかけに165円トライとなるかが焦点。一方で米ドル買い・円売りの「行き過ぎ」懸念...",
+          "url": "https://media.monex.co.jp/articles/-/29822",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-07-27T02:45:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/a/7/-/img_a7c9ac1cbc7b099076c75c9fb3211e45544367.png",
+          "language": "ja"
+        },
         {
           "title": "《「最終回でがっかり」ドラマランキング》元祖“バッドエンド”の衝撃作を抑えた1位は（週刊女性PRIME）",
           "description": "「『田鎖ブラザーズ』、『GIFT』（共にTBS系）は最終回放送後に“ドラマだけでも夢を見せてよ”という声が視聴者から殺到しました」（放送関係者）\n　終わり方が賛否を巻き起こした春ドラマ。主人公の兄",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-07-27T01:27:00Z",
           "image": "https://cimg.kgl-systems.io/camion/files/82547/thumbnail_bxPw.jpg?x=1280",
           "language": "ja"
-        },
-        {
-          "title": "Nintendo Switch 2・Nintendo Switchソフト『ぼくと釣り日記』「お台場ファンライジング」への協賛決定のお知らせ",
-          "description": "イベントエリア内にてプロモーション映像を放映イマジニア株式会社（東京都新宿区、代表取締役社長 兼 CEO 澄岡和憲、以下「当社」）より10月8日に発売予定の、Nintendo Switch 2™及びNintendo Switch™ソフト『ぼく…",
-          "url": "https://kahoku.news/release/dpr139963.html",
-          "source": {
-            "name": "河北新報オンライン"
-          },
-          "publishedAt": "2026-07-27T01:01:11Z",
-          "image": "https://digitalpr.jp/release/media/2601/139963/202607011928116a44ebbb06311.png",
-          "language": "ja"
-        },
-        {
-          "title": "ＴＢＳ日曜劇場「ＶＩＶＡＮＴ」第２シーズン初回は世帯視聴率１８・８％の好発進 ７月期民放連ドラでトップ！高山みなみ、五輪金・角田夏実サプライズ出演にもわく",
-          "description": "２６日に放送されたＴＢＳ「ＶＩＶＡＮＴ」（日曜・後９時）第２シーズン初回の世帯平均視聴率が１８・８％だったことが２７日、分かった。第１シーズン最終話に迫る好発進となった。\n　２０２３年７月期に放",
-          "url": "https://news.yahoo.co.jp/articles/8de8a3d4c30a56ce6190504273c33fa63db9fef3",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-27T00:00:45Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【テクノア】AIが24時間その場で回答！生産管理システム『TECHS-S NOA』ユーザー専用チャットボット公開",
-          "description": "株式会社テクノアのプレスリリース（2026年7月27日 09時00分）【テクノア】AIが24時間その場で回答！生産管理システム『TECHS-S NOA』ユーザー専用チャットボット公開",
-          "url": "https://prtimes.jp/main/html/rd/p/000000318.000053131.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-07-27T00:00:16Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/53131/318/53131-318-9a6b8a3c08443037647cf4fedbc11780-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "FX/為替「ドル/円今日の見通し｜米・イラン攻撃停止でリスクオフの巻き戻しも ドル/円の下値は限定的」 外為どっとコム トゥデイ 2026年7月27日号",
-          "description": "24日のドル/円は約40年ぶりの高値圏でほぼ横ばい。「パキスタンが中断している米国とイランの戦闘終結に向けた交渉の再開を模索している」との報道を受けて、NY原油（WTI）先物価格が下落したことで、有事のドル買いが巻き戻され、163.64円前後まで下落する場面も見られたが、ドル売りは一時的だった。 またトランプ米大統領が「イランへの新たな攻撃を行わないように軍に指示した」と伝わり、週末を通して米国とイランが攻撃の応酬を停止した。これを受けて、週明けのWTI原油先物価格は84ドル台へと大幅に下落している。もっとも、イエメンの親イラン武装組織フーシ派はサウジアラビアは、サウジの国有石油会社サウジアラムコの施設へ攻撃をしたと伝わっており、戦火がイエメンへ拡大するとの懸念もある。そのため、米連邦準備制度理事会（FRB）の早期利上げ観測が大きく後退するには至っていない。今週は米連邦公開市場委員会（FOMC）が予定されている。オーバーナイト・インデックス・スワップ（OIS）では今月のFOMCでの利上げの織り込み度は40％未満に留まっているものの、フォワード・ガイダンスを発さないウォーシュFRB議長の下で、サプライズ利上げの可能性もあるとの警戒感がドルの下支え要因となっている。原油価格の低下がドル/円の上値を抑える要因とはなるものの、下値も限定的となりそうだ。",
-          "url": "https://www.gaitame.com/media/entry/2026/07/27/083730",
-          "source": {
-            "name": "外為どっとコム"
-          },
-          "publishedAt": "2026-07-26T23:37:25Z",
-          "image": "https://cdn.image.st-hatena.com/image/scale/5bf81f327511f5bef32b0f52914080b84ee7a448/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgaitamesk%2F20250327%2F20250327201949.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "日本株、夏の波乱続く？目先は慎重姿勢を継続（窪田真之）",
-          "description": "先週（営業日7月21～24日）の日経平均株価は、引き続き、半導体・AI関連株乱高下の影響を受けて大荒れでした。先週前半には急落する半導体・AI関連株に押し目買いが入って急反発しましたが、週末には再び半導体・AI関連株への売りが増えて、急…",
-          "url": "https://media.rakuten-sec.net/articles/-/53037",
-          "source": {
-            "name": "トウシル"
-          },
-          "publishedAt": "2026-07-26T23:00:00Z",
-          "image": "https://media.rakuten-sec.net/mwimgs/9/5/-/img_95110870ceef12a3adb3be88adfdfcdb128383.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Prince Harry interrupts Meghan Markle’s Masterchef debut: ‘Very sorry to disturb you’",
-          "description": "Royal surprised his wife with a phone call to the show studio",
-          "url": "https://www.the-independent.com/arts-entertainment/tv/news/prince-harry-meghan-markle-phone-call-masterchef-australia-b3021919.html",
+          "title": "Commonwealth Games 2026 Day 5 Live: Results, Medal Table, Schedule & Highlights",
+          "description": "Commonwealth Games 2026 Day 5 is underway in Glasgow, Scotland and it is shaping up to be India’s biggest day of the tournament so far. Athletics officially opens today at Scotstoun Stadium, bringing Neeraj Chopra, Murali Sreeshankar, and sprint sensation Gurindervir Singh into the picture for the first time. Weightlifting, boxing, and gymnastics also continue, with […] The post Commonwealth Games 2026 Day 5 Live: Results, Medal Table, Schedule & Highlights appeared first on Stadium Rant.",
+          "url": "https://sports.yahoo.com/articles/commonwealth-games-2026-day-5-045725239.html",
           "source": {
-            "name": "The Independent"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-07-27T02:36:00Z",
-          "image": "https://static.the-independent.com/2026/07/26/12/23/Meghan-Markle-Masterchef-Australia.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+          "publishedAt": "2026-07-27T04:57:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/762ff91e5eaddfaa498719e214b4f6921bed83d05fcf83130e100a92b9ffc2f4/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fstadium_rant_681%2F805c76176d0f0916be45a9cf0853e36c",
           "language": "en"
         },
         {
-          "title": "Oil prices ease after US and Iran pause their attacks",
-          "description": "NEW YORK: Oil prices eased in early trading Sunday, falling further from a two-month high set last week, after the United States and Iran refrained from launching military strikes in the Arabian Gulf for a second straight day. The price for a barrel of Brent crude oil to be delivered in September dropped 4.9 percent to $92.02 shortly after trading resumed. The decline followed",
-          "url": "https://www.arabnews.pk/node/2652418/business-economy",
+          "title": "Traces of protest removed from Jantar Mantar in clean-up drive",
+          "description": "NDMC cleans Jantar Mantar, removing 60 metric tonnes of waste post-protest, restoring the site for public use.",
+          "url": "https://www.thehindu.com/news/national/traces-of-protest-removed-from-jantar-mantar-in-clean-up-drive/article71269433.ece",
           "source": {
-            "name": "Arab News PK"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-07-27T02:35:23Z",
-          "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/07/27/4735148-995788116.jpg?itok=n6mpSDdt",
+          "publishedAt": "2026-07-27T04:55:40Z",
+          "image": "https://th-i.thgim.com/public/incoming/7uohdw/article71270193.ece/alternates/LANDSCAPE_1200/Cockroach%20Janta%20Party%20CJP%20Protest%20Delhi%202.JPG",
           "language": "en"
         },
         {
-          "title": "RDNA 5 Is Coming Earlier Than Anyone Expected. What That Means for Your Next Build",
-          "description": "RDNA 5 may land in mid-2027, not 2028. Here's how Tech Critter breaks down the accelerated roadmap and what builders should do with their GPU budget right now.",
-          "url": "https://www.tech-critter.com/rdna-5-gpu-build-timing/",
+          "title": "Protests erupt in Libya’s Tripoli as anger grows over power cuts",
+          "description": "Protesters shut roads and the foreign ministry in Tripoli as a civil disobedience campaign over power cuts spreads.",
+          "url": "https://www.aljazeera.com/news/2026/7/27/protests-erupt-in-libyas-tripoli-as-anger-grows-over-power-cuts",
           "source": {
-            "name": "Tech Critter"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-07-27T02:33:56Z",
-          "image": "https://www.tech-critter.com/wp-content/uploads/2026/07/image-12.webp",
+          "publishedAt": "2026-07-27T04:52:55Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-06T135225Z_1260374856_RC25JEA4INVG_RTRMADP_3_PAKISTAN-LIBYA-1785127578.jpg?resize=1920%2C1440",
           "language": "en"
         },
         {
-          "title": "Dog bite victim forced to seek private care after health centre in Hosur shuts before closing time",
-          "description": "There are eight Urban and Health Wellness Centres under the HCMC that work from 8 am to 12 pm and 4 pm to 8 pm. When TNIE visited the centre, it was closed befo",
-          "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Jul/27/dog-bite-victim-forced-to-seek-private-care-after-health-centre-in-hosur-shuts-before-closing-time",
+          "title": "UDISE+ 2025-26: Key takeaways in graphics",
+          "description": "The latest UDISE+ report, an annual report tracking key schooling indicators, was released last week. Here are some broad takeaways from the report.",
+          "url": "https://www.thehindu.com/education/udise-2025-26-key-takeaways-in-graphics/article71249470.ece",
           "source": {
-            "name": "The New Indian Express"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-07-27T02:30:54Z",
-          "image": "https://cf-images.assettype.com/newindianexpress%2F2026-05-30%2Fltd8wz5u%2FMedical-negligence.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "publishedAt": "2026-07-27T04:52:43Z",
+          "image": "https://th-i.thgim.com/public/news/national/tuyxi4/article66123057.ece/alternates/LANDSCAPE_1200/UDISE.jpg",
           "language": "en"
         },
         {
-          "title": "Conservatives call for emergency meeting on Trump threats, demand Carney explain plan",
-          "description": "The Conservative shadow minister for Canada-U.S. relations is calling on Ottawa to provide its negotiation plan with U.S. President Donald Trump at an emergency meeting.",
-          "url": "https://www.castanet.net/news/Canada/626087/Conservatives-call-for-emergency-meeting-on-Trump-threats-demand-Carney-explain-plan",
-          "source": {
-            "name": "Castanet"
-          },
-          "publishedAt": "2026-07-27T02:30:00Z",
-          "image": "https://www.castanet.net/content/2026/7/61b7afbe36aa7ab9397075b403de09b0b9f86ad3a1f2fc0581ecfe629b2f6946.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Luxon rejects criticism on party's paid parental leave record",
-          "description": "National on Sunday announced extending paid parental leave to 30 weeks, and allowing parents to take their leave at the same time.",
-          "url": "https://www.1news.co.nz/2026/07/27/luxon-rejects-criticism-on-partys-paid-parental-leave-record/",
+          "title": "Green faithful voice support for taxing wealth",
+          "description": "\"Tax reform is fundamental to all of the policies,\" one supporter says.",
+          "url": "https://www.1news.co.nz/2026/07/27/green-faithful-voice-support-for-taxing-wealth/",
           "source": {
             "name": "1News"
           },
-          "publishedAt": "2026-07-27T02:29:33Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/prime-minister-christopher-luxon-M2FZD2C3XZC7DHRKVONSMIX6VE.jpg?auth=6f4df4e66733f5083ae6ae60db9da35b15a9ec21b2b8435bd8b6c6651216360c&quality=70&width=600&height=315&focal=414%2C233",
+          "publishedAt": "2026-07-27T04:52:42Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/greens-co-leader-chloe-swarbrick-takes-the-stage-at-the-part-2JEKNM6HFJCE7MXDEJNCLJGLCQ.jpg?auth=0780466bd01b8e34a3af137b412b7cc07212eba91591dab896a23870e2a10bea&quality=70&width=600&height=315&focal=1500%2C1125",
           "language": "en"
         },
         {
-          "title": "Special DemosAU poll has Labor well short of a parliamentary majority",
-          "description": "If this poll’s results were reflected at an election, Labor would lose its majority, with One Nation and the Coalition combined leading Labor in seats by 73–68.",
-          "url": "https://theconversation.com/special-demosau-poll-has-labor-well-short-of-a-parliamentary-majority-287867",
+          "title": "Trump rejects munitions shortage claims, says US has 'far more than we need'",
+          "description": "Middle East News: US president Donald Trump on Sunday dismissed reports that the Pentagon is facing critical shortages of air defence interceptors. Insisting the United.",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/trump-rejects-munitions-shortage-claims-says-us-has-far-more-than-we-need/articleshow/132652552.cms",
           "source": {
-            "name": "The Conversation"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-07-27T02:27:00Z",
-          "image": "https://images.theconversation.com/files/750164/original/file-20260727-69-37n0hx.jpg?ixlib=rb-4.1.1&rect=0%2C1288%2C7717%2C3858&q=45&auto=format&w=1356&h=668&fit=crop",
+          "publishedAt": "2026-07-27T04:52:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-132652586,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Over 2,900 A-Shares Fall as Semiconductor, Oil Stocks Drag; N Changxin Surges 470% in Debut to Claim Market Cap Crown",
-          "description": "China's A-share market opened broadly lower on July 27, with the Shanghai Composite Index dipping 0.14% and over 2,900 stocks declining. Oil & gas,…",
-          "url": "https://finance.biggo.com/news/0050aff3-21d4-49dd-855a-4b4063da4072",
+          "title": "He embalmed his own grandparents - and found his calling",
+          "description": "Embalmer Shane Edwards shares how he found his calling, what it was like embalming his own grandparents and the truths behind a misunderstood profession.",
+          "url": "https://www.stomp.sg/community-voices/death-always-intrigued-me-spore-embalmer-embalming-his-own-grandparents-and-preparing-final-goodbyes",
           "source": {
-            "name": "finance.biggo.com"
+            "name": "Stomp"
           },
-          "publishedAt": "2026-07-27T02:26:00Z",
-          "image": "https://img.biggo.com/3AuLF6aSX3_fGmd_D8wKe5grkGY8xaipc1e2dPQjF3Q/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzAwNTBhZmYzLTIxZDQtNDlkZC04NTVhLTRiNDA2M2RhNDA3Ml8xNzg1MTE5NDY5X2RlZmF1bHQuanBn.jpg",
+          "publishedAt": "2026-07-27T04:50:50Z",
+          "image": "https://cassette.sphdigital.com.sg/image/stomp/47a3afe4b3d9d8ad3e1ba625a1472e6a948065e13cb3ee1e0fca73947c222f05",
           "language": "en"
         },
         {
-          "title": "PLAYE Uses AI Production For New Fortescue Campaign",
-          "description": "AI and mining? This story sounds like Greenpeace's worst nightmare.",
-          "url": "https://www.bandt.com.au/playe-uses-ai-production-for-new-fortescue-campaign/",
+          "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
+          "description": "Another heatwave is set to complicate efforts to tackle the expanding blaze.",
+          "url": "https://www.the-star.co.ke/news/world/2026-07-27-macron-calls-crisis-meeting-as-wildfires-threaten-bordeaux-and-heatwave-looms",
           "source": {
-            "name": "bandt.com.au"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-07-27T02:24:53Z",
-          "image": "https://www.bandt.com.au/information/uploads/2026/07/Screenshot-2026-07-27-114910.png",
+          "publishedAt": "2026-07-27T04:50:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/07/3d990434-c21f-4773-8a7b-83dda1932886.webp?1785133691844",
           "language": "en"
         },
         {
-          "title": "Alouettes rally in final three minutes to knock off Tiger-Cats",
-          "description": "Jose Maltos Diaz kicked two fields and a single with just under three minutes left in the final quarter as the Montreal Alouettes beat the Hamilton Tiger-Cats 31-18 in front of 21,014 fans at Percival Molson Stadium on Sunday.",
-          "url": "https://www.tsn.ca/cfl/article/alouettes-rally-in-final-three-minutes-to-knock-off-tiger-cats/",
+          "title": "Luxon appears to rule out National working with Opportunity Party",
+          "description": "\"Well, I'm just saying to you, they want to increase taxes,\" he told media.",
+          "url": "https://www.1news.co.nz/2026/07/27/luxon-appears-to-rule-out-national-working-with-opportunity-party/",
           "source": {
-            "name": "TSN"
+            "name": "1News"
           },
-          "publishedAt": "2026-07-27T02:24:00Z",
-          "image": "https://www.tsn.ca/resizer/v2/HFOWDSUENJA6NE6772HBG7OIAU.JPG?smart=true&auth=c62d54f4181177b2e9e77c982be68d602c2d5734fce5140f30c23ccfe5dbe58d&width=1200&height=630",
+          "publishedAt": "2026-07-27T04:46:46Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/christopher-luxon-left-and-qiulae-wong-right-OXBZ3NGW2REMFPJCGRXVZXC25I.png?auth=607b0166ea5a508a2ebd18a3b31a927efd7a8a9b7914391a9b0b87bf80df45cb&quality=70&width=600&height=315&focal=960%2C540",
+          "language": "en"
+        },
+        {
+          "title": "Meghan Markle proves critics wrong as MasterChef ratings soar",
+          "description": "It was the most-watched Sunday episode of the show in weeks.",
+          "url": "https://au.lifestyle.yahoo.com/meghan-markle-proves-critics-wrong-as-masterchef-ratings-soar-044505659.html",
+          "source": {
+            "name": "Yahoo Lifestyle Australia"
+          },
+          "publishedAt": "2026-07-27T04:45:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/26e9c42db363c635e25eada39df8544f73db8ded9cb4e0ad6355f91a67d1d49f/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fmasterchef-6_2185.jpg",
           "language": "en"
         }
       ]
