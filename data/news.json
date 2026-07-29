@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-29T05:53:09.746Z",
+  "updatedAt": "2026-07-29T08:41:57.568Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "トランプ氏、対イラン方針でイスラエルに不満 戦闘終結巡り続く対立",
+          "description": "【ワシントン=甲原潤之介、エルサレム=岐部秀光】トランプ米大統領は28日、ホワイトハウスでイスラエルのネタニヤフ首相と会談した。トランプ氏は会談に先立つインタビューで、イランへの強硬姿勢の継続を望むネタニヤフ氏に不満を表明した。戦闘終結を巡る両国のずれが顕在化した。ネタニヤフ氏との対面、イラン戦闘後初めて両氏の対面は2月のイランとの戦闘開始後、初めて。ネタニヤフ氏は急死したリンゼー・グラム米",
+          "url": "https://www.nikkei.com/article/DGXZQOGN28BJK0Y6A720C2000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-07-28T20:06:16Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3373843028072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.6&fp-y=0.44&h=630&w=1200&s=02b7fca751c36cf55ee0d496d33c7ded",
+          "language": "ja"
+        },
+        {
+          "title": "Snow Man岩本照、“東国一の空飛ぶ忍”演じる 『真田十勇士』で主演務める",
+          "description": "ニュース｜　9人組グループ・Snow Manの岩本照が主演するテレビ朝日系金曜ナイトドラマプレミアム『真田十勇士 SHADOWS OF THE TEN NINJA』（後11：15）が、10月から放送される。放送に先駆け、岩本のコメントが公開された。　エミー賞やゴールデン・グローブ賞など、権威ある賞を多数獲得した『SHOGUN 将軍』（2024年～）のヒットなど、世界レベルで人気が上昇している日本の時代劇。そんな今、日本が誇る“忍者”を世界へ。今秋、“テレビ朝日発・世界照準の超大型プロジェクト”が始動する。忍者アクション時代劇である今作は、通常の「金曜ナイトドラマ」枠ではなく、スケール・映像・物語性すべてにおいて“プレミアム”な作品を届ける「金曜ナイトドラマプレミアム」として放送する。　主軸を担う真田十勇士は、忍者である猿飛佐助や霧隠才蔵ら、実在の戦国名将・真田幸村（信繁）に仕えたとされる架空の家臣10人。そんな真田十勇士の物語を、史実とフィクションを大胆に織り交ぜてドラマ化。全編京都ロケも敢行し、“本格アクション”と“最新映像技術も駆使した圧倒的スケールの映像表現”、“奥深き人間ドラマ”が融合した、胸躍る忍者ストーリーを発信する。",
+          "url": "https://www.oricon.co.jp/news/2470558/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-07-28T20:00:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2471000/2470558/20260728_152952_p_o_83020189.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ASRockのリークが示す2026年の4GBグラフィックスカード復活、メモリ不足が低価格PCゲーミングを圧迫",
+          "description": "ASRockが、わずか4GBのGDDR6メモリを搭載したRadeon RX 9050グラフィックスカードの製品ページを一時的に公開した。これは2022年以来初めて、現行世代のGPUが8GB…",
+          "url": "https://finance.biggo.jp/news/434edc13-fd95-4ed3-a361-6d84d08721af",
+          "source": {
+            "name": "BigGo ファイナンス"
+          },
+          "publishedAt": "2026-07-28T18:35:00Z",
+          "image": "https://img.biggo.com/oTIzs64K-CvazkX7YYblRJo5nTIKdONQ1tqRrykMW2Q/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzQzNGVkYzEzLWZkOTUtNGVkMy1hMzYxLTZkODRkMDg3MjFhZl8xNzg1MjY1NjIwX2RlZmF1bHQuanBn.jpg",
+          "language": "ja"
+        },
         {
           "title": "煙突が倒れた熊本県の日本製紙八代工場 2人が心肺停止",
           "description": "熊本県を震源とする最大震度7の地震が28日午後4時半ごろ、発生しました。有明海に津波注意報も発令されました。情報をこちらでお伝えします。",
@@ -81,150 +114,117 @@
           "publishedAt": "2026-07-28T10:30:03Z",
           "image": "https://www.gamespark.jp/imgs/ogp_f/1164568.png",
           "language": "ja"
-        },
-        {
-          "title": "MacBookのタッチパネル化、作るのはSamsung1社だけ。2社目は2029年以降か",
-          "description": "✅この記事では、次期MacBook Pro向けOLEDタッチパネルをSamsung Displayが1社で供給するという報道を整理します。 要点まとめ：作るのはSamsung1社、量産は8月前後 なぜSamsung1社なのか。決め手はガラスの大きさだった 「250万枚」という数字。英語圏に流れた25万枚とは1桁違う パネルの中身。タッチは貼るのではなく画面に埋め込む 2社目が来るのは2029年以降。値下げを頼む相手がいない 海外の反応：画面への期待と、値段への警戒 ひとこと：部品の話まで下りると、噂の輪郭が急に固くなる まとめ：画面の出どころが決まり、値段の見通しも一緒に決まった どうも、とな…",
-          "url": "https://www.apple-hacks.com/entry/macbook-oled-touch-panel-samsung-sole-supplier",
-          "source": {
-            "name": "apple-hacks.com"
-          },
-          "publishedAt": "2026-07-28T09:54:29Z",
-          "image": "https://cdn.image.st-hatena.com/image/scale/e513144edee5e9828ad51d40cd2d16ce72fd3b98/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnumberhunter%2F20260728%2F20260728183303.webp",
-          "language": "ja"
-        },
-        {
-          "title": "ジダン監督のレ・ブルー就任が正式発表!!「フランス代表以上に素晴らしいものは存在しない」",
-          "description": "フランスサッカー連盟(FFF)は28日、フランス代表監督にジネディーヌ・ジダン氏の就任が決まったと発表した。契約期間は2030年W杯までの4年間。1998年自国開催のW杯で初優勝に導いたスターが、レ・ブルーの監督...",
-          "url": "https://web.gekisaka.jp/news/worldcup/detail/?456062-456062-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-07-28T09:28:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/457000/456062/news_456062_1.jpg?time=20260728182819",
-          "language": "ja"
-        },
-        {
-          "title": "Google Classroom、1億5000万人以上のユーザー向けに役割別ホームページを展開",
-          "description": "Google Classroomのホームページが刷新され、教師・生徒・管理者の役割に応じた動的なダッシュボードが1億5000万人以上のユーザーに展開される。",
-          "url": "https://www.zaikei.co.jp/article/20260728/863238.html",
-          "source": {
-            "name": "財経新聞"
-          },
-          "publishedAt": "2026-07-28T09:13:14Z",
-          "image": "http://www.zaikei.co.jp/files/general/20260728181315fdq0big.png",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "With NCAA rules set to change on Saturday, Notre Dame and Ohio State sign 8-figure jersey sponsorship deals",
-          "description": "Schools will be allowed to have corporate logos on their jerseys starting with the 2026-27 seasons.",
-          "url": "https://sports.yahoo.com/college-football/breaking-news/article/with-ncaa-rules-set-to-change-on-saturday-notre-dame-and-ohio-state-sign-8-figure-jersey-sponsorship-deals-175144096.html",
+          "title": "Poultry industry as 'prepared as they can be' to combat new strain",
+          "description": "Biosecurity Minister Andrew Hoggard has announced legislation requiring anyone with more than 100 birds to have a bird flu prevention and response plan.",
+          "url": "https://www.newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/john-mckay-mainland-poultry-ceo-on-the-industrys-preparations-for-the-new-strain-of-bird-flu/",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "Newstalk ZB"
           },
-          "publishedAt": "2026-07-28T17:51:44Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/67cacb065176bf7a40e6c57c12f1a5fbce7c676423e3adf52ab28f8b1991fe76/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fosu-cfe-072826_1108.jpg",
+          "publishedAt": "2026-07-28T20:41:00Z",
+          "image": "https://www.newstalkzb.co.nz/media/zb5p00ru/conservation-primary-industry-working-with-poultry-industry-after-bird-flu-detected-in-australia.png?rmode=crop&v=1dd1f35db150ae0&height=395&width=635&quality=95&scale=both",
           "language": "en"
         },
         {
-          "title": "Europe makes progress on hepatitis but remains off track for 2030 targets: WHO",
-          "description": "OSLO, July 28 (Xinhua) -- The World Health Organization (WHO) said Tuesday that its European Region has made significant progress in preventing viral hepatitis and controlling hepatitis C, but remains off track to meet all elimination targets by 2030 as millions of people still lack diagnosis and treatment.",
-          "url": "https://www.thestar.com.my/news/world/2026/07/29/europe-makes-progress-on-hepatitis-but-remains-off-track-for-2030-targets-who",
+          "title": "Health unit warns after West Nile virus detected in mosquito traps",
+          "description": "Health officials say most infections are mild, but the virus can cause serious illness in rare cases.",
+          "url": "https://lfpress.com/news/local-news/health-unit-warns-after-west-nile-virus-detected-in-area-mosquito-traps",
           "source": {
-            "name": "The Star"
+            "name": "London Free Press"
           },
-          "publishedAt": "2026-07-28T17:51:00Z",
-          "image": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+          "publishedAt": "2026-07-28T20:39:08Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/lfpress/wp-content/uploads/2026/06/0822-so-westnile2.SO_.jpg",
           "language": "en"
         },
         {
-          "title": "Commonwealth Games 2026 LIVE Updates Day 6: Weightlifter Harjinder eyes gold after setting snatch record",
-          "description": "Commonwealth Games 2026 LIVE Updates Day 6: Harjinder Kaur aims to bring India's seventh weightlifting medal at CWG 2026.",
-          "url": "https://www.hindustantimes.com/sports/commonwealth-games/glasgow-2026-commonwealth-games-live-updates-cwg-day-6-weightlifting-athletics-swimming-boxing-india-july-28-101785225250709.html",
+          "title": "Alex Eala rallies past Zheng Qinwen in Mubadala DC Open first round, sets up showdown with Leylah Fernandez",
+          "description": "The victory marked Eala's first career win over Zheng after falling to the Chinese star in their lone previous meeting at the 2023 Asian Games.",
+          "url": "https://www.espn.ph/tennis/story/_/id/49473258/alex-eala-rallies-zheng-qinwen-mubadala-dc-open-first-round-sets-showdown-leylah-fernandez",
           "source": {
-            "name": "Hindustan Times"
+            "name": "ESPN Philippines"
           },
-          "publishedAt": "2026-07-28T17:49:05Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/07/28/550x309/HOVYicoaoAAwsOf_1785262922060_1785262925281_9f8e0b5d-255d-4870-9369-3bf22d01a50c.jfif",
+          "publishedAt": "2026-07-28T20:39:06Z",
+          "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0728%2Fr1694815_1296x729_16%2D9.jpg",
           "language": "en"
         },
         {
-          "title": "13 Indian sailors trapped amid attacks in Black Sea: Union",
-          "description": "Indian seafarers aboard M.V. AMIR1 face life-threatening missile attacks in the Black Sea, prompting urgent pleas for safety.",
-          "url": "https://www.thehindu.com/news/national/indian-seafarers-trapped-near-ukraine-black-sea-ship-attack/article71278526.ece",
+          "title": "‘That’s nuts!’: Aussie sprint king and queen crowned as records tumble in Comm Games epics",
+          "description": "‘That’s nuts’: Aussie sprint king, queen smash 100m records, medal in Games epics",
+          "url": "https://www.foxsports.com.au/commonwealth-games/commonwealth-games-2026-lachlan-kennedy-breaks-australian-100m-record-as-he-claims-silver-in-final-torrie-lewis-breaks-her-own-national-100m-record-ky-robinson-wins-10000m-final-results-latest-news/news-story/96b6f90f9b70ba6c2c7add84db4f64d2",
           "source": {
-            "name": "The Hindu"
+            "name": "Fox Sports"
           },
-          "publishedAt": "2026-07-28T17:48:43Z",
-          "image": "https://th-i.thgim.com/public/news/national/bgfp0g/article71278523.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-28%20at%2023.11.35.jpeg",
+          "publishedAt": "2026-07-28T20:38:27Z",
+          "image": "https://content.api.news/v3/images/bin/c510a230a5d0ffa5fa6cdbf83242664f",
           "language": "en"
         },
         {
-          "title": "How Zeta Global Uses AI to Support Employee Experience",
-          "description": "Zeta Global employees explain how the company's new internal AI tool helps teams navigate feedback, goal-setting and everyday workplace communications.",
-          "url": "https://builtin.com/articles/how-zeta-global-uses-ai-help-employees-navigate-everyday-workplace-moments",
+          "title": "Thames speedboat killer Jack Shepherd pleads guilty to assaulting girlfriend after beating her with BBQ tongs",
+          "description": "Shepherd guilty of violently assaulting his new girlfriend after his release from jail after killing Charlotte Brown on first date on Thames",
+          "url": "https://www.standard.co.uk/news/london/speedboat-killer-jack-shepherd-guilty-assault-girlfriend-b1291584.html",
           "source": {
-            "name": "Built In"
+            "name": "London Evening Standard"
           },
-          "publishedAt": "2026-07-28T17:47:54Z",
-          "image": "https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/sites/www.builtin.com/files/2026-07/Zeek%20image.png",
+          "publishedAt": "2026-07-28T20:37:38Z",
+          "image": "https://static.standard.co.uk/2024/01/24/15/143ae89e3edca21cd81c8c5714158ba2Y29udGVudHNlYXJjaGFwaSwxNzA2MTg4MDQx-2.40988670.jpg?width=1200&auto=webp&quality=75",
           "language": "en"
         },
         {
-          "title": "GSK to cut jobs amid £1.9bn cost-cutting plan and bid for faster drug development",
-          "description": "Pharmaceuticals company is investing £400m in UK life sciences and moving scientists to new Cambridge R&D site",
-          "url": "https://www.theguardian.com/business/2026/jul/28/gsk-cut-jobs-cost-cutting-faster-drug-development-cambridge",
+          "title": "Girl, 10, dies days after crash in which mother killed",
+          "description": "A 10-year-old girl who was left in a critical condition following a road crash involving a car and a flatbed van in Co Cavan last Friday night has died in hospital.",
+          "url": "https://www.rte.ie/news/ulster/2026/0728/1585535-girl-dies-cavan-crash/",
           "source": {
-            "name": "The Guardian"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-07-28T17:47:00Z",
-          "image": "https://i.guim.co.uk/img/media/73341c379e966aef74ab78eff45724cb38933f14/366_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bd93c8ad9b9fb729fe369313474ae194",
+          "publishedAt": "2026-07-28T20:37:33Z",
+          "image": "https://www.rte.ie/images/0024c0bf-1600.jpg",
           "language": "en"
         },
         {
-          "title": "Florida executes 2 men in a day, including an octogenarian",
-          "description": "Florida on Tuesday became the first state in nearly a decade to have two executions in one day, putting to death Dominick Occhicone, 80, and James Aren Duckett, 68.",
-          "url": "https://www.cnn.com/2026/07/28/us/florida-double-execution",
+          "title": "Bite of Seattle mass shooting likely gang-related, police recover ghost gun at the scene",
+          "description": "Seattle Police Chief Shon Barnes says that investigators now believe the mass shooting at Seattle Center that killed three people and wounded four was gang-related. A ghost gun was also recovered at the scene.",
+          "url": "https://komonews.com/news/local/police-return-scene-bite-of-seattle-shooting-manhunt-for-3rd-suspect-continues-food-festival-7-shot-3-dead-seattle-center-gun-violence-crime",
           "source": {
-            "name": "CNN"
+            "name": "KOMO"
           },
-          "publishedAt": "2026-07-28T17:46:28Z",
-          "image": "https://media.cnn.com/api/v1/images/stellar/prod/james-duckett-dominick-occhicone.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2026-07-28T20:37:30Z",
+          "image": "https://komonews.com/resources/media2/16x9/4032/1320/0x378/90/a30c11de-3260-4067-8743-237fd2536476-Image10.jpeg",
           "language": "en"
         },
         {
-          "title": "Online passport renewals now open for Canadians ‘whenever it is convenient’",
-          "description": "All eligible Canadians can now renew their passports online, the federal government announced Tuesday, removing previous daily limits on how many people could apply online.",
-          "url": "https://globalnews.ca/news/11996946/online-passport-renewals-canada/",
+          "title": "Gardaí believe pensioner missing from his Dublin home was murdered and body disposed of",
+          "description": "Man (20s) detained at a Garda station in Dublin city area, with a property in The Liberties sealed off for examination",
+          "url": "https://www.irishtimes.com/crime-law/2026/07/28/gardai-investigating-disappearance-of-man-in-his-60s-make-arrest/",
           "source": {
-            "name": "Global News"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-07-28T17:46:00Z",
-          "image": "https://globalnews.ca/wp-content/uploads/2026/07/Passport-Online-Renewal.jpg-e1785260382102.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+          "publishedAt": "2026-07-28T20:37:02Z",
+          "image": "https://www.irishtimes.com/resizer/v2/G3OTT3R76BDW3BKPRVFJSM7GVY.JPG?smart=true&auth=5b0ef3c10d432184e4447a530775f3e2f4bc93326ce101c126fc2852d4ed41ca&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "'Left to rot': Auckland residents say Kainga Ora ghost homes attracting illegal dumping",
-          "description": "A resident on a central Auckland street say multiple boarded up houses and vacant lots have been \"left to rot\", after a major Kainga Ora project was stopped last year.",
-          "url": "https://www.rnz.co.nz/news/regions_auckland/825269/left-to-rot-auckland-residents-say-kainga-ora-ghost-homes-attracting-illegal-dumping",
+          "title": "Witness in street artist Anthony Lister's rape case speaks out to help others navigate system",
+          "description": "A woman who accused street artist Anthony Lister of rape is speaking up to help others navigate the police and court systems. Lister was acquitted of all charges last year.",
+          "url": "https://www.abc.net.au/news/2026-07-29/nsw-lister-violet-speaks-out-after-failed-court-case/106949450",
           "source": {
-            "name": "RNZ"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-07-28T17:45:19Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--V9DtWfUd--/t_tohu-badge-facebook/f_auto/q_auto/4JKS0HL_0Z9A0053_2_jpg",
+          "publishedAt": "2026-07-28T20:36:42Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/cf2c37fc3f279b2799eef6ce52ca7774?impolicy=wcms_watermark_news&cropH=1862&cropW=3310&xPos=568&yPos=647&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "‘Hungry’ Joao Pedro makes strong first impression under Xabi Alonso",
-          "description": "Chelsea claimed a 6-4 victory over Australian side Western Sydney Wanderers in a pre-season friendly on Tuesday.Dastan Satpayev, Dario Essugo and Jamie Gittens scored a goal apiece before Joao Pedro b...",
-          "url": "https://sports.yahoo.com/articles/hungry-joao-pedro-makes-strong-174500767.html",
+          "title": "'Spider-Man: Brand New Day:' Steve Lacy accidentally spoils a secret",
+          "description": "At the 'Spider-Man: Brand New Day' premiere, Grammy winner Steve Lacy allegedly also spilled the beans on 'Stranger Things' alumna Sadie Sink's 'Spider-Man' top-secret character.",
+          "url": "https://www.latimes.com/entertainment-arts/story/2026-07-28/spider-man-brand-new-day-steve-lacy-spoils-secret-character",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "Los Angeles Times"
           },
-          "publishedAt": "2026-07-28T17:45:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/199411b9d774f85f56557763100a6319321d5bbb63ad355ac0481965e013492f/lightyear_networkapi/resizefill_w760_h507;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_today_articles_719%2F674535f594ce9a0c298f0a0620100cc8",
+          "publishedAt": "2026-07-28T20:36:28Z",
+          "image": "https://ca-times.brightspotcdn.com/dims4/default/fb530b4/2147483647/strip/true/crop/3691x1938+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6e%2Fa3%2F399abde24dd2bba3b6bd9d0bb293%2F2287917264.jpg",
           "language": "en"
         }
       ]
