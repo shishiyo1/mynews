@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-29T08:41:57.568Z",
+  "updatedAt": "2026-07-29T11:26:28.965Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "「なぜそれを入れたのか…」関係者も首をひねる三山凌輝と花乃まりあ 謝罪声明の「余計な一文」が物議",
+          "description": "俳優の三山凌輝(27)と元宝塚女優・花乃まりあ(33)の“密会報道”で双方の事務所が出したコメントが物議を醸している。\n「なぜこの文言を入れたのか……」\nそう本サイトの取材に首をひねるのは大手芸",
+          "url": "https://news.yahoo.co.jp/articles/b683c4ad4a23bc490cdb7fc5713c0f0f9efd032d",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-28T23:04:01Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260729-00000005-friday-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "OpenAIやAnthropicなどの従業員、米政府に「AI開発のペース調整を」と提言",
+          "description": "OpenAIやGoogleなどの従業員1000人以上が、AI開発のペース調整に向けた国際的支援を米政府に求める公開書簡を発表した。AI自律化の急速な加速に伴う制御不能リスクを指摘し、開発速度の調整に必要なツール開発を訴える。企業主導のオープンモデル規制回避を求める動きとは対照的な提起となった。",
+          "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000255/",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-07-28T22:11:48Z",
+          "image": "https://www.itmedia.co.jp/news/article/ogp/2607/29/2000000255/10001221/2048",
+          "language": "ja"
+        },
+        {
+          "title": "東北や北陸は激しい雨や雷雨 関東から西は厳しい暑さ 今日29日(水曜日)の天気",
+          "description": "今日7月29日(水)は、北海道は昼過ぎから雨が降るでしょう。東北や北陸は激しい雨や雷雨に注意が必要です。関東から西はおおむね晴れて猛暑となるでしょう。ただ、所々でにわか雨や雷雨がありそうです。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/07/29/39921.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-28T22:07:36Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/399/39921/main/20260729065444/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "人気小説『君の話』が映画化！主演・北村匠海×ヒロイン・出口夏希 記憶をめぐる純愛ラブストーリーが11月27日公開",
+          "description": "人気小説『君の話』の映画化が決定し、北村匠海さんが主演、出口夏希さんがヒロインを務めることが発表に。あわせてティザービジュアルと特報が解禁されました。映画『君の話』は、2018年の刊行以来、重版を重ねてきた三秋縋さんによる人気小説の実写化作品。脚本はドラマ『恋せぬふたり』（NHK）や連続テレビ小説『虎に翼』（NHK）などを手掛ける吉田恵里香さん、映画『やがて海へと届く』やABEMAオリジナル連続ドラマ『わかっていても the shapes of love』の中川龍太郎さんが監督を務めます。孤独に生きる大学生・千尋は、不幸な過去を忘れるため、記憶を消す治療を受けます。しかし目覚めると、記憶は消…",
+          "url": "https://mezamashi.media/articles/-/327629",
+          "source": {
+            "name": "めざましmedia"
+          },
+          "publishedAt": "2026-07-28T22:00:00Z",
+          "image": "https://mezamashi.ismcdn.jp/mwimgs/6/6/1200xm/img_66f712bce21641aa2a409e070189fd4b1896870.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「iOS 26」の「Siri」と「iOS 27」の「Siri AI」を車内で比較してみた--圧勝したのは？",
+          "description": "筆者は最近、2台の「iPhone」を車に持ち込んだ。1台は「iOS 26」を、もう1台は「iOS 27」のパブリックベータ版を搭載している。両方に同じ質問や依頼を与え、新しい「Siri AI」が現行版の「Siri」を上回るのか確認した。",
+          "url": "https://japan.zdnet.com/article/35250895/",
+          "source": {
+            "name": "ZDNET Japan"
+          },
+          "publishedAt": "2026-07-28T22:00:00Z",
+          "image": "https://japan.zdnet.com/storage/2026/07/23/305aa84d96bd5b6129ac6ba4b719a1fc/large-figure-top-i-asked-siri-ai-for-help-in-my-car-via-carplay.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "29日も猛暑続く 関東から西で35℃以上続出 熱中症に警戒を",
+          "description": "今日29日(水)も全国的に厳しい暑さが続きます。関東から西日本では最高気温35℃以上の猛暑日となる所が多く、東京都心は36℃予想。熱中症警戒アラートは19都県に発表されています。屋外での活動は無理をせず、こまめな水分補給、適度な塩分補給や適切な冷房の使用など、万全の熱中症対策を心掛けてください。",
+          "url": "https://tenki.jp/forecaster/s_ono/2026/07/29/39924.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-07-28T21:08:33Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/399/39924/main/20260729055331/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "手のひらに収まるページめくりデバイス「BOOX Tappy」。スマホでも使えるか？",
+          "description": "「BOOX Tappy」は、E Ink採用のAndroid端末「BOOX」ブランドで販売されている、電子書籍のページをめくるためのワイヤレスデバイスだ。以前紹介した楽天Koboの「Kobo Remote」と同じく、メーカー純正オプションとして販売される本製品は、ページめくりだけにとどまらず、モードの切り替えによって上下スクロールなどにも対応するなど、見かけによらない多機能さが売りだ。",
+          "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2128697.html",
+          "source": {
+            "name": "PC Watch"
+          },
+          "publishedAt": "2026-07-28T21:01:00Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2128/697/01.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "第134回：ハンガリーGPはマクラーレンのノリス選手が優勝！ そして気になるアストンマーティンは大幅アップデートでどう変わった？",
+          "description": "ハンガリーGP。優勝はマクラーレンのノリス選手でしたが、多くの方の興味は、最下位を定位置としていたアストンマーティンの大幅なアップデートに興味があったのではないでしょうか？",
+          "url": "https://car.watch.impress.co.jp/docs/column/atsuta/2128680.html",
+          "source": {
+            "name": "Car Watch"
+          },
+          "publishedAt": "2026-07-28T21:00:00Z",
+          "image": "https://car.watch.impress.co.jp/img/car/list/2128/680/001.jpg",
+          "language": "ja"
+        },
         {
           "title": "トランプ氏、対イラン方針でイスラエルに不満 戦闘終結巡り続く対立",
           "description": "【ワシントン=甲原潤之介、エルサレム=岐部秀光】トランプ米大統領は28日、ホワイトハウスでイスラエルのネタニヤフ首相と会談した。トランプ氏は会談に先立つインタビューで、イランへの強硬姿勢の継続を望むネタニヤフ氏に不満を表明した。戦闘終結を巡る両国のずれが顕在化した。ネタニヤフ氏との対面、イラン戦闘後初めて両氏の対面は2月のイランとの戦闘開始後、初めて。ネタニヤフ氏は急死したリンゼー・グラム米",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-07-28T20:00:00Z",
           "image": "https://contents.oricon.co.jp/upimg/news/2471000/2470558/20260728_152952_p_o_83020189.jpg",
           "language": "ja"
-        },
-        {
-          "title": "ASRockのリークが示す2026年の4GBグラフィックスカード復活、メモリ不足が低価格PCゲーミングを圧迫",
-          "description": "ASRockが、わずか4GBのGDDR6メモリを搭載したRadeon RX 9050グラフィックスカードの製品ページを一時的に公開した。これは2022年以来初めて、現行世代のGPUが8GB…",
-          "url": "https://finance.biggo.jp/news/434edc13-fd95-4ed3-a361-6d84d08721af",
-          "source": {
-            "name": "BigGo ファイナンス"
-          },
-          "publishedAt": "2026-07-28T18:35:00Z",
-          "image": "https://img.biggo.com/oTIzs64K-CvazkX7YYblRJo5nTIKdONQ1tqRrykMW2Q/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzQzNGVkYzEzLWZkOTUtNGVkMy1hMzYxLTZkODRkMDg3MjFhZl8xNzg1MjY1NjIwX2RlZmF1bHQuanBn.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "煙突が倒れた熊本県の日本製紙八代工場 2人が心肺停止",
-          "description": "熊本県を震源とする最大震度7の地震が28日午後4時半ごろ、発生しました。有明海に津波注意報も発令されました。情報をこちらでお伝えします。",
-          "url": "https://www.asahi.com/articles/ASV7X2PHXV7XDIFI00NM.html",
-          "source": {
-            "name": "朝日新聞"
-          },
-          "publishedAt": "2026-07-28T15:50:32Z",
-          "image": "https://imgopt.asahi.com/ogp/AS20260728004152_comm.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【随時更新】イオンモール熊本で爆発 ガス漏れが原因か 数人の死亡確認 従業員とみられる20〜30人の安否不明 「ドンッ」という大きな音が… 自衛隊も救助活動に 熊本で震度7の地震発生",
-          "description": "熊本県嘉島町の「イオンモール熊本」で起きた爆発について、複数の政権幹部は、ガス漏れが原因の可能性があると指摘し、確認を進めています。",
-          "url": "https://news.tv-asahi.co.jp/news_society/articles/900196033.html",
-          "source": {
-            "name": "テレ朝NEWS"
-          },
-          "publishedAt": "2026-07-28T15:30:00Z",
-          "image": "https://news.tv-asahi.co.jp/articles_img/900196033_1200.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「夏の部屋着はこれ一択」 GUの“990円ルームウェアセット”が大人気 「涼しくて着心地も最高」「近所のコンビニくらいならそのまま行けます」",
-          "description": "GUから販売されている“990円ルームウェアセット”が、涼しい着心地で夏の部屋着にぴったりだと高評価を集めています。　本記事では、そんな「コットンカラーラウンジセット（半袖＆ショートパンツ）」について紹介します。画像：GU「コットンカラーラウンジセット（半袖＆ショートパンツ）」とは？…",
-          "url": "https://nlab.itmedia.co.jp/research/articles/3954526/",
-          "source": {
-            "name": "ねとらぼ"
-          },
-          "publishedAt": "2026-07-28T12:50:00Z",
-          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/06/1749716636_7340ea8e6aaf03a8e88db60c082628e5-scaled.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「ジズーはジズーだ」ジダン新監督、フランス代表でどんなサッカーを目ざすのか。前体制から継続を強調も「率直に言って、やり方は変わる」（SOCCER DIGEST Web）",
-          "description": "フランスサッカー協会は現地７月28日、フランス代表の新監督にジネディーヌ・ジダンが就任したことを発表した。\n　同日に記者会見が実施され、ジダン監督は「フランス代表の監督に就任できたことは、喜びで",
-          "url": "https://news.yahoo.co.jp/articles/1e4a58a1f8252a3c0be46f67e660e01b051a544e",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-28T11:25:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260728-00195031-sdigestw-000-5-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "BYD、広瀬アリスさんも登場した新型軽EV「ラッコ」発表会",
-          "description": "BYD Auto Japanは7月28日、日本の軽自動車規格に合わせて専用設計した新型軽EV（電気自動車）「ラッコ（RACCO）」を発売した。価格は214万5000円〜249万7000円で、全車15万円のCEV補助金対象となる。",
-          "url": "https://car.watch.impress.co.jp/docs/news/2128538.html",
-          "source": {
-            "name": "Car Watch"
-          },
-          "publishedAt": "2026-07-28T10:43:15Z",
-          "image": "https://car.watch.impress.co.jp/img/car/list/2128/538/15.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "板東英二さん “行方不明状態” から3年で届いた訃報…本誌直撃に長女は「ウチはもう関係ない」宣言で心配集めていた “孤立”",
-          "description": "7月28日、タレント・板東英二さんが、慢性心不全のため亡くなっていたことがわかった。86歳だった。\n　28日、板東さんの公式サイトにて、《突然のお知らせとなりますが、板東英二は、令和8年7月22",
-          "url": "https://news.yahoo.co.jp/articles/78d189cd5bee9345db71814eb3e3924c80b5874a",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-28T10:35:34Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260728-00000051-flash-000-5-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "全て最安値を更新！『龍が如く8』等のシリーズ作が1,000円台～2,000円台─『ときメモ』や『マール王国の人形姫』3作セットは50%オフに【eショップ・PS Storeのお薦めセール】",
-          "description": "次に遊ぶゲームを探している方は、セールでお得に手に入れてみてはいかがでしょうか。",
-          "url": "https://www.gamespark.jp/article/2026/07/28/169856.html",
-          "source": {
-            "name": "Game*Spark"
-          },
-          "publishedAt": "2026-07-28T10:30:03Z",
-          "image": "https://www.gamespark.jp/imgs/ogp_f/1164568.png",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Poultry industry as 'prepared as they can be' to combat new strain",
-          "description": "Biosecurity Minister Andrew Hoggard has announced legislation requiring anyone with more than 100 birds to have a bird flu prevention and response plan.",
-          "url": "https://www.newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/john-mckay-mainland-poultry-ceo-on-the-industrys-preparations-for-the-new-strain-of-bird-flu/",
+          "title": "Kayly Loh gives birth to first child",
+          "description": "Kayly Loh has become a mum.In an Instagram post today (July 28), the 38-year-old local actress announced the good news: \"He's home. We've spent months preparing our home for him, thinking we still had a little more time.\"But he had other plans and decided he was ready to meet us a little earlier. The funny thing is... even if he...",
+          "url": "https://www.asiaone.com/entertainment/kayly-loh-baby-gives-birth",
           "source": {
-            "name": "Newstalk ZB"
+            "name": "AsiaOne"
           },
-          "publishedAt": "2026-07-28T20:41:00Z",
-          "image": "https://www.newstalkzb.co.nz/media/zb5p00ru/conservation-primary-industry-working-with-poultry-industry-after-bird-flu-detected-in-australia.png?rmode=crop&v=1dd1f35db150ae0&height=395&width=635&quality=95&scale=both",
+          "publishedAt": "2026-07-28T23:24:56Z",
+          "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Jul2026/260728_Kaylyloh.png?itok=hgnE5c-A",
           "language": "en"
         },
         {
-          "title": "Health unit warns after West Nile virus detected in mosquito traps",
-          "description": "Health officials say most infections are mild, but the virus can cause serious illness in rare cases.",
-          "url": "https://lfpress.com/news/local-news/health-unit-warns-after-west-nile-virus-detected-in-area-mosquito-traps",
+          "title": "Zelensky, Netanyahu lobby Trump for his support as lawmakers gather to mourn Lindsey Graham",
+          "description": "Late U.S. senator was a proponent of Ukraine and Israel’s respective military aims",
+          "url": "https://www.theglobeandmail.com/world/us-politics/article-lindsey-graham-funeral-trump-zelensky-netanyahu/",
           "source": {
-            "name": "London Free Press"
+            "name": "The Globe and Mail"
           },
-          "publishedAt": "2026-07-28T20:39:08Z",
-          "image": "https://smartcdn.gprod.postmedia.digital/lfpress/wp-content/uploads/2026/06/0822-so-westnile2.SO_.jpg",
+          "publishedAt": "2026-07-28T23:23:29Z",
+          "image": "https://www.theglobeandmail.com/resizer/v2/4QGIYO6IL5FNRJONW56ATLZBBQ.jpg?auth=22b71e0857b33e58fe948ee252cbef65b16324a0c6df0916e12a748381789de8&width=1200&height=800&quality=80&smart=true",
           "language": "en"
         },
         {
-          "title": "Alex Eala rallies past Zheng Qinwen in Mubadala DC Open first round, sets up showdown with Leylah Fernandez",
-          "description": "The victory marked Eala's first career win over Zheng after falling to the Chinese star in their lone previous meeting at the 2023 Asian Games.",
-          "url": "https://www.espn.ph/tennis/story/_/id/49473258/alex-eala-rallies-zheng-qinwen-mubadala-dc-open-first-round-sets-showdown-leylah-fernandez",
+          "title": "KPK Breaks Silence on Possible Perry Warjiyo Questioning in BI Corruption Probe",
+          "description": "The Corruption Eradication Commission (KPK) emphasizes that the summoning of witnesses depends on the needs of the investigators, not because Perry Warjiyo resigned as the Governor of Bank Indonesia.",
+          "url": "https://en.tempo.co/read/2115883/kpk-breaks-silence-on-possible-perry-warjiyo-questioning-in-bi-corruption-probe",
           "source": {
-            "name": "ESPN Philippines"
+            "name": "Tempo.co English"
           },
-          "publishedAt": "2026-07-28T20:39:06Z",
-          "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0728%2Fr1694815_1296x729_16%2D9.jpg",
+          "publishedAt": "2026-07-28T23:23:23Z",
+          "image": "https://statik.tempo.co/data/2026/07/11/id_1481756/1481756_720.jpg",
           "language": "en"
         },
         {
-          "title": "‘That’s nuts!’: Aussie sprint king and queen crowned as records tumble in Comm Games epics",
-          "description": "‘That’s nuts’: Aussie sprint king, queen smash 100m records, medal in Games epics",
-          "url": "https://www.foxsports.com.au/commonwealth-games/commonwealth-games-2026-lachlan-kennedy-breaks-australian-100m-record-as-he-claims-silver-in-final-torrie-lewis-breaks-her-own-national-100m-record-ky-robinson-wins-10000m-final-results-latest-news/news-story/96b6f90f9b70ba6c2c7add84db4f64d2",
+          "title": "Chronic pain left me housebound for two years",
+          "description": "After years of unexplained chronic pain, a chronic fatigue syndrome diagnosis and therapy helped her manage her symptoms, regain confidence and reclaim her life.",
+          "url": "https://cnalifestyle.channelnewsasia.com/women/chronic-fatigue-syndrome-therapy-586231",
           "source": {
-            "name": "Fox Sports"
+            "name": "CNA Lifestyle"
           },
-          "publishedAt": "2026-07-28T20:38:27Z",
-          "image": "https://content.api.news/v3/images/bin/c510a230a5d0ffa5fa6cdbf83242664f",
+          "publishedAt": "2026-07-28T23:22:09Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--7pPFQRwk--/c_crop,h_900,w_1600,x_0,y_166/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/20/living-with-chronic-pain.jpg?itok=CKGFDbOp",
           "language": "en"
         },
         {
-          "title": "Thames speedboat killer Jack Shepherd pleads guilty to assaulting girlfriend after beating her with BBQ tongs",
-          "description": "Shepherd guilty of violently assaulting his new girlfriend after his release from jail after killing Charlotte Brown on first date on Thames",
-          "url": "https://www.standard.co.uk/news/london/speedboat-killer-jack-shepherd-guilty-assault-girlfriend-b1291584.html",
+          "title": "Missing person: Salmo RCMP seek public assistance in locating Kayla Boisvert",
+          "description": "A 28-year-old woman was reported missing today by Salmo RCMP, having been seen last at the Shambhala Music Festival on Monday night.",
+          "url": "https://www.castanet.net/news/Nelson/626304/Missing-person-Salmo-RCMP-seek-public-assistance-in-locating-Kayla-Boisvert-",
           "source": {
-            "name": "London Evening Standard"
+            "name": "Castanet"
           },
-          "publishedAt": "2026-07-28T20:37:38Z",
-          "image": "https://static.standard.co.uk/2024/01/24/15/143ae89e3edca21cd81c8c5714158ba2Y29udGVudHNlYXJjaGFwaSwxNzA2MTg4MDQx-2.40988670.jpg?width=1200&auto=webp&quality=75",
+          "publishedAt": "2026-07-28T23:22:00Z",
+          "image": "https://www.castanet.net/content/2026/7/large/kayla_p4295708.jpg",
           "language": "en"
         },
         {
-          "title": "Girl, 10, dies days after crash in which mother killed",
-          "description": "A 10-year-old girl who was left in a critical condition following a road crash involving a car and a flatbed van in Co Cavan last Friday night has died in hospital.",
-          "url": "https://www.rte.ie/news/ulster/2026/0728/1585535-girl-dies-cavan-crash/",
+          "title": "After days of calm, U.S. says it intercepted Iranian missile attack on American troops",
+          "description": "Iran launched multiple ballistic missiles at American forces in the Middle East on Tuesday, shattering a brief pause in fighting as mediators tried to get both sides back to negotiations and toward a ceasefire, the U.S. military said.",
+          "url": "https://www.cbc.ca/news/world/us-iran-attack-9.7288259",
           "source": {
-            "name": "RTE.ie"
+            "name": "CBC"
           },
-          "publishedAt": "2026-07-28T20:37:33Z",
-          "image": "https://www.rte.ie/images/0024c0bf-1600.jpg",
+          "publishedAt": "2026-07-28T23:21:59Z",
+          "image": "https://i.cbc.ca/ais/6306357f-843a-4002-8b43-c9332642d6f6,1785279973707/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C53%2C6283%2C3534%29%3BResize%3D620",
           "language": "en"
         },
         {
-          "title": "Bite of Seattle mass shooting likely gang-related, police recover ghost gun at the scene",
-          "description": "Seattle Police Chief Shon Barnes says that investigators now believe the mass shooting at Seattle Center that killed three people and wounded four was gang-related. A ghost gun was also recovered at the scene.",
-          "url": "https://komonews.com/news/local/police-return-scene-bite-of-seattle-shooting-manhunt-for-3rd-suspect-continues-food-festival-7-shot-3-dead-seattle-center-gun-violence-crime",
+          "title": "For An Elegant English Getaway, Check In To Rosewood London",
+          "description": "Guests needn’t leave to taste British cuisine and beverages, relax with British influenced spa treatments, linger over high tea, and more across the manor.",
+          "url": "https://www.forbes.com/sites/melissakravitz/2026/07/28/for-an-elegant-english-getaway-check-in-to-rosewood-london/",
           "source": {
-            "name": "KOMO"
+            "name": "Forbes"
           },
-          "publishedAt": "2026-07-28T20:37:30Z",
-          "image": "https://komonews.com/resources/media2/16x9/4032/1320/0x378/90/a30c11de-3260-4067-8743-237fd2536476-Image10.jpeg",
+          "publishedAt": "2026-07-28T23:21:13Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a69350fd8d4f6b87381f99e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
           "language": "en"
         },
         {
-          "title": "Gardaí believe pensioner missing from his Dublin home was murdered and body disposed of",
-          "description": "Man (20s) detained at a Garda station in Dublin city area, with a property in The Liberties sealed off for examination",
-          "url": "https://www.irishtimes.com/crime-law/2026/07/28/gardai-investigating-disappearance-of-man-in-his-60s-make-arrest/",
+          "title": "For An Elegant English Getaway, Check In To Rosewood London",
+          "description": "Guests needn’t leave to taste British cuisine and beverages, relax with British influenced spa treatments, linger over high tea, and more across the manor.",
+          "url": "https://ca.style.yahoo.com/elegant-english-getaway-check-rosewood-232113567.html",
           "source": {
-            "name": "The Irish Times"
+            "name": "Yahoo Lifestyle Canada"
           },
-          "publishedAt": "2026-07-28T20:37:02Z",
-          "image": "https://www.irishtimes.com/resizer/v2/G3OTT3R76BDW3BKPRVFJSM7GVY.JPG?smart=true&auth=5b0ef3c10d432184e4447a530775f3e2f4bc93326ce101c126fc2852d4ed41ca&width=1200&height=630",
+          "publishedAt": "2026-07-28T23:21:13Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/37dece00e1552df1b1962bfba5476b7909a399211581c00e32d1c8f512490335/lightyear_networkapi/resizefill_w958_h638;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F14c4a2b1c9255809ef6f9db160444c3d",
           "language": "en"
         },
         {
-          "title": "Witness in street artist Anthony Lister's rape case speaks out to help others navigate system",
-          "description": "A woman who accused street artist Anthony Lister of rape is speaking up to help others navigate the police and court systems. Lister was acquitted of all charges last year.",
-          "url": "https://www.abc.net.au/news/2026-07-29/nsw-lister-violet-speaks-out-after-failed-court-case/106949450",
+          "title": "Genetic deletions may help explain differences in schizophrenia severity",
+          "description": "Schizophrenia affects approximately 23 million people worldwide, with onset usually occurring during a person's late adolescence or 20s. Impairments associated with schizophrenia include hallucinations, delusions, and disorganized thinking and behavior.",
+          "url": "https://medicalxpress.com/news/2026-07-genetic-deletions-differences-schizophrenia-severity.html",
           "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+            "name": "Medical Xpress"
           },
-          "publishedAt": "2026-07-28T20:36:42Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/cf2c37fc3f279b2799eef6ce52ca7774?impolicy=wcms_watermark_news&cropH=1862&cropW=3310&xPos=568&yPos=647&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-07-28T23:20:01Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/schizophrenia-2.jpg",
           "language": "en"
         },
         {
-          "title": "'Spider-Man: Brand New Day:' Steve Lacy accidentally spoils a secret",
-          "description": "At the 'Spider-Man: Brand New Day' premiere, Grammy winner Steve Lacy allegedly also spilled the beans on 'Stranger Things' alumna Sadie Sink's 'Spider-Man' top-secret character.",
-          "url": "https://www.latimes.com/entertainment-arts/story/2026-07-28/spider-man-brand-new-day-steve-lacy-spoils-secret-character",
+          "title": "Senate confirms Trump ally Jay Clayton as director of national intelligence",
+          "description": "At confirmation hearing, Clayton sidestepped questions about 2020 election and declined to say Trump lost",
+          "url": "https://www.theguardian.com/us-news/2026/jul/28/senate-confirms-jay-clayton-national-intelligence-director",
           "source": {
-            "name": "Los Angeles Times"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-07-28T20:36:28Z",
-          "image": "https://ca-times.brightspotcdn.com/dims4/default/fb530b4/2147483647/strip/true/crop/3691x1938+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6e%2Fa3%2F399abde24dd2bba3b6bd9d0bb293%2F2287917264.jpg",
+          "publishedAt": "2026-07-28T23:19:00Z",
+          "image": "https://i.guim.co.uk/img/media/5f4187f93effd830732747ab6ae98fe983919c8e/312_0_4561_3648/master/4561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=60665242635aafc3b70ed2055e07d387",
           "language": "en"
         }
       ]
