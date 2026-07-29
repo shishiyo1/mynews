@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-29T19:17:32.704Z",
+  "updatedAt": "2026-07-29T22:01:17.572Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "中日 細川成也がホームランダービー初制覇 初戦からアーチ量産 決勝で佐藤輝明を撃破 優勝賞金１００万円ゲット",
+          "description": "「マイナビオールスターゲーム２０２６・第２戦、全セ－全パ」（２９日、富山市民球場アルペンスタジアム）\n　ホームランダービー決勝が行われ、中日の細川成也外野手が東京ドームでの第１戦を勝ち抜いた阪",
+          "url": "https://news.yahoo.co.jp/articles/125d205bf7bcc5ef3bded297d2f165e3cd390d38",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-07-29T09:07:30Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260729-00000107-dal-000-9-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "記録にも記憶にも残るスマイリングシンデレラ／全英女子を制した日本人＜渋野日向子＞",
+          "description": "◇女子メジャー最終戦◇AIG女子オープン（全英女子） 事前◇ロイヤルリザム＆セントアンズGC (イングランド)◇6601yd（パー71） 今季女子メジャー最終戦「AIG女子オープン（全英女子）」が30日（木）に開幕する。もともと1969年か",
+          "url": "https://news.golfdigest.co.jp/news/lpga/article/193522/1/",
+          "source": {
+            "name": "GDOゴルフニュース"
+          },
+          "publishedAt": "2026-07-29T08:00:12Z",
+          "image": "https://i.gimg.jp/cmsimg/432415.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "花乃まりあの夫婦仲にも重大疑念 実父に三山凌輝との関係を直撃「名前は知ってる…」",
+          "description": "俳優の三山凌輝（２７）と元宝塚女優・花乃（かの）まりあ（３３）の密会報道が波紋を広げている...",
+          "url": "https://www.tokyo-sports.co.jp/articles/-/397477",
+          "source": {
+            "name": "東スポWEB"
+          },
+          "publishedAt": "2026-07-29T08:00:00Z",
+          "image": "https://tokyo-sports.ismcdn.jp/mwimgs/2/e/1200w/img_2e2796229d159ce1345740ec728c7451193384.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "トヨタ3工場月内停止、半導体・飲料工場も止まる 熊本地震の影響拡大",
+          "description": "28日に熊本県で発生した最大震度7の地震で企業活動への影響が広がっている。トヨタ自動車は福岡県にある3工場の稼働を29日夕方から31日まで停止することを明らかにした。ソニーグループとルネサスエレクトロニクスは熊本県にある半導体製造工場を止めた。携帯4社で被災した基地局は150カ所を超え、物流も混乱している。トヨタが停止するのは高級車ブランドの「レクサス」を生産している宮田工場（福岡県宮若市）の",
+          "url": "https://www.nikkei.com/article/DGXZQOUC290QA0Z20C26A7000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-07-29T07:52:10Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3374243029072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=7efbb5d51ef6ac3f64879dfe254d1146",
+          "language": "ja"
+        },
+        {
+          "title": "（まとめ）日経平均は930円安の61,434円で続落 韓国株安が重荷に",
+          "description": "東京市場まとめ1.概況日経平均は369円高の62,734円と反発して取引を開始しました。前日は2,500円程下げた反動もあり、序盤は自律反発の買いが優勢となりました。一方で、韓国総合株価指数（KOSPI）が大幅安となったことで中盤に下落に転じ、前引けは675円安の61,689円と...",
+          "url": "https://media.monex.co.jp/articles/-/29844",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-07-29T07:32:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
+          "language": "ja"
+        },
         {
           "title": "「2人でストレッチしながら…」「反省していない」三山凌輝（27）＆花乃まりあ（33）\"ホテル密会”報道後の「裏切り行動」（文春オンライン）",
           "description": "〈「趣里さんは知っている?」“愛の不時着”共演ヒロインと連日密会、三山凌輝を「週刊文春」が直撃した!「2人の関係は“不時着”している?」〉 から続く\n「週刊文春」が報じた、ミュージカル『愛の不時",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-07-29T06:40:39Z",
           "image": "https://mfx-assets.s3.ap-northeast-1.amazonaws.com/news_ogp/forex.png",
           "language": "ja"
-        },
-        {
-          "title": "【まとめてわかる】熊本地震 被害状況、交通の影響、断層、主な震度",
-          "description": "熊本県を震源とする最大震度7の地震が28日午後4時半ごろ、発生しました。これまでに分かっている被害状況、交通への影響、地震の原因や見通しなどを随時更新してお伝えします。■(1)被害の状況は　関連を調…",
-          "url": "https://www.asahi.com/articles/ASV7X7SFLV7XUEFT013M.html",
-          "source": {
-            "name": "朝日新聞"
-          },
-          "publishedAt": "2026-07-29T05:47:02Z",
-          "image": "https://imgopt.asahi.com/ogp/AS20260729000775_comm.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "＝LOVE高松瞳＆瀧脇笙古、メンバーは「全員がバディ」10周年目前で意気込み語る「10人で結束して頑張りたい」",
-          "description": "指原莉乃プロデュースのアイドルグループ＝LOVE（イコールラブ）の高松瞳（※「高」は正式には「はしごだか」）と瀧脇笙古が7月29日、都内で行われた「Happyくじ『ズートピア』10thアニバーサリー商品発表会」に出席。来年の結成10周年を控え、意気込みを語った。",
-          "url": "https://mdpr.jp/news/detail/4821323",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-07-29T05:23:05Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/Cf6l/wm/Cf6lRRBuT6GE8PMiAgiV8mzi8Brx79gDRXAB8AL9nk4.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "“金銭授受疑惑”で揺れる福岡県議会 自民会長が政治資金パーティー開催 震度7熊本地震発生も予定通り【福岡発】",
-          "description": "福岡県議会の正副議長のポストを巡る金銭授受疑惑で、高市総理や自民党福岡県議団の内部からも事実確認や真相究明を求める厳しい声が高まる中、自民党福岡県議団の松尾統章会長が、7月28日、政治資金パーティーを開催した。なぜ、今なのか…？ 2026年7月27日、国会閉会後の記者会見で高市総理が、福岡県議会の正副議長のポストを巡る金銭授受疑惑について、初めて言及した。「まずは、自民党福岡県連においてしっかり事実確認されるということが重要。県連の対応を踏まえ、党本部として対応すべきことがあれば、必要な対応を…",
-          "url": "https://www.fnn.jp/articles/-/1084154",
-          "source": {
-            "name": "fnn.jp"
-          },
-          "publishedAt": "2026-07-29T04:36:00Z",
-          "image": "https://fnn.ismcdn.jp/mwimgs/0/a/600/img_0a2f1c618cf09663db147c1a31e421c3432052.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "停電、断水、熱中症 「これからどうなる」兄亡くし一睡もできず",
-          "description": "真夏の熊本県を襲った地震は発生から一夜明けた29日、甚大な被害の一端が明らかになってきた。被災地では、広範囲の停電や断水の影響で役場の機能がストップし、指定避難所を開設できない自治体も出ている。「これからどうなるのか」。突然の激震に見舞われた住民たちは先が見えない状況に不安を抱え、大切な家族を亡く",
-          "url": "https://mainichi.jp/articles/20260729/k00/00m/040/091000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-07-29T04:08:47Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/07/29/20260729k0000m040102000p/0c10.jpg?1",
-          "language": "ja"
-        },
-        {
-          "title": "PS5/PS4向け「PS Plusフリープレイ」8月は人気作『ダイイングライト2』配布へ。定価8778円のゾンビオープンワールドゲーム",
-          "description": "PlayStation Plus加入者向けの8月のフリープレイでは、『ダイイングライト2 ステイヒューマン』など3作品がラインナップされている。",
-          "url": "https://automaton-media.com/articles/newsjp/ps-plus-20260729-457151/",
-          "source": {
-            "name": "AUTOMATON"
-          },
-          "publishedAt": "2026-07-29T03:35:36Z",
-          "image": "https://automaton-media.com/wp-content/uploads/2026/07/ps-plus-20260729-457151-header.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "US bans foreign-made humanoid robots, targeting China over national security",
-          "description": "The Federal Communications Commission in the U.S. has announced a ban on foreign-made humanoid robots, mainly targeting China, over national security concerns",
-          "url": "https://abcnews.com/Business/wireStory/us-bans-foreign-made-humanoid-robots-targeting-china-135179676",
+          "title": "Elite Force cop martyred, four terrorists killed in Swat: sources",
+          "description": "SWAT: Counter Terrorism Department and police conducted a joint operation in Swat, killing four terrorists, security sources said on Wednesday.An Elite Force constable embraced martyrdom...",
+          "url": "https://www.thenews.pk/story/1428986-elite-force-personnel-martyred-four-terrorists-neutralised-in-swat-operation-sources",
           "source": {
-            "name": "ABC News - Breaking News, Latest News and Videos"
+            "name": "The News Pakistan"
           },
-          "publishedAt": "2026-07-29T07:17:09Z",
-          "image": "https://i.abcnewsfe.com/a/da610c28-ef09-46cf-941d-8882768d757e/wirestory_c9f5e3c94d91d00eff3b61b141fab366_16x9.jpg?w=1600",
+          "publishedAt": "2026-07-29T10:01:00Z",
+          "image": "https://www.thenews.pk/assets/uploads/updates/2026-07-29/1428986_024607_updates.jpg",
           "language": "en"
         },
         {
-          "title": "Uefa World Cup boycott may be raised over Fifa's private investment plan",
-          "description": "Uefa's 55 member associations will hold an emergency meeting this week to discuss Fifa's controversial proposals to sell stakes in its major competitions.",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo",
+          "title": "Top CD rates July 29, 2026: Lock in up to up to 4.45%",
+          "description": "We’ve rounded up the highest available CD rates, many of which are above 4.00%.",
+          "url": "https://fortune.com/article/cd-rates-7-29-26/",
           "source": {
-            "name": "BBC"
+            "name": "Fortune"
           },
-          "publishedAt": "2026-07-29T07:16:37Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3d76/live/95c800d0-8b16-11f1-b8ee-9b3c26ad07bb.jpg",
+          "publishedAt": "2026-07-29T10:01:00Z",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/CD-Rates-July-29.jpg?resize=1200,600",
           "language": "en"
         },
         {
-          "title": "Magomeni housing project nears completion",
-          "description": "DAR ES SALAAM: THE Tanzania Building Agency (TBA) Advisory Board has expressed satisfaction with the progress of the 11bn/- government housing project at Magomeni Kota in Dar es Salaam, saying construction remains on schedule for completion by October this year. Board Chairman Laurean Ndumbaro expressed optimism on the project recently after concluding a two-day board …",
-          "url": "https://dailynews.co.tz/magomeni-housing-project-nears-completion/",
+          "title": "Elon Musk finally launches X Money. What could possibly go wrong?",
+          "description": "Expect bumps with X Money rollout as major US financial markets are excluded.",
+          "url": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
           "source": {
-            "name": "dailynews.co.tz"
+            "name": "Ars Technica"
           },
-          "publishedAt": "2026-07-29T07:16:03Z",
-          "image": "https://dailynews.co.tz/wp-content/uploads/2026/07/mh.jpeg",
+          "publishedAt": "2026-07-29T10:00:51Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2239391568-1024x648.jpg",
           "language": "en"
         },
         {
-          "title": "Suren making moves on mountain bike track",
-          "description": "Roger Suren has been making steady progress in Europe, competing against the world’s top mountain bike riders for the Alpecin Premier Tech Development team. Suren (18) […]",
-          "url": "https://www.namibian.com.na/suren-making-moves-on-mountain-bike-track/",
+          "title": "As Trump doubles down on tariffs, Canadian distillers see a glass half full",
+          "description": "Canada’s boycott of US booze appears to be working. Not only are US liquor exports down, but an uptick in sales is boosting the spirits of Canada’s alcohol makers.",
+          "url": "https://www.cnn.com/2026/07/29/americas/trump-canada-liquor-distillers-latam-intl",
+          "source": {
+            "name": "cnn.com"
+          },
+          "publishedAt": "2026-07-29T10:00:26Z",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-03-11t034455z-1947534259-rc2lada1adl9-rtrmadp-3-usa-trump-tariffs.jpg?c=16x9&q=w_800,c_fill",
+          "language": "en"
+        },
+        {
+          "title": "CNN Poll: Americans doubt Trump is paying enough attention to the country’s most important problems",
+          "description": "A record-high 73% of US adults say that President Donald Trump hasn’t paid enough attention to the country’s most important problems, a new CNN poll conducted by SSRS finds, with just 27% saying he’s had the right priorities.",
+          "url": "https://www.cnn.com/2026/07/29/politics/cnn-poll-donald-trump-midterms-polls-iran-war",
+          "source": {
+            "name": "CNN"
+          },
+          "publishedAt": "2026-07-29T10:00:26Z",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2287069701.jpg?c=16x9&q=w_800,c_fill",
+          "language": "en"
+        },
+        {
+          "title": "Today’s Wordle Hints for July 30, 2026",
+          "description": "Scroll down for hints and conversation about the puzzle for Thursday, July 30, 2026.",
+          "url": "https://www.nytimes.com/2026/07/29/crosswords/wordle-review-1867.html",
+          "source": {
+            "name": "The New York Times"
+          },
+          "publishedAt": "2026-07-29T10:00:07Z",
+          "image": "https://static01.nyt.com/images/2026/07/29/crosswords/30wordle-review-art-1867/30wordle-review-art-1867-facebookJumbo.jpg",
+          "language": "en"
+        },
+        {
+          "title": "The adventure is over: Neymar officially announces his international retirement",
+          "description": "Brazil's Neymar da Silva, the Santos star, has announced his international retirement following a disappointing appearance at the 2026 World Cup in the United States, Canada and Mexico.",
+          "url": "https://www.goal.com/en/news/the-adventure-is-over-neymar-officially-announces-his-international-retirement/blt51c43c92d53c8603",
+          "source": {
+            "name": "Goal.com"
+          },
+          "publishedAt": "2026-07-29T10:00:02Z",
+          "image": "https://assets.goal.com/images/v3/getty-2284226323/crop/MM5DGOJTGI5DEMRRGI5G433XMU5DAORSGA2Q====/GettyImages-2284226323.jpg",
+          "language": "en"
+        },
+        {
+          "title": "D4vd murder case: What's been revealed, what questions are unanswered",
+          "description": "A preliminary hearing revealed a trove of new information about the singer D4vd's relationship with 14-year-old Celeste Rivas Hernandez, but it also offered a preview of potential defenses his lawyers might trot out at trial — and showed there are some questions prosecutors can't seem to answer.",
+          "url": "https://www.latimes.com/california/story/2026-07-29/d4vd-preliminary-hearing-evidence-questions",
+          "source": {
+            "name": "Los Angeles Times"
+          },
+          "publishedAt": "2026-07-29T10:00:00Z",
+          "image": "https://ca-times.brightspotcdn.com/dims4/default/1a9b384/2147483647/strip/true/crop/2943x1545+0+75/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F83%2F98%2Fdb6f9b824ee0926f22889da15294%2Fa3f1ebbf70794fa4b7c832b660074afa.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Gordie Howe International Bridge report shows how Ottawa shirks accountability for major projects",
+          "description": "Bridge report is yet another stain on Ottawa’s troubled track record on transparency and serves as a cautionary tale",
+          "url": "https://www.theglobeandmail.com/business/commentary/article-gordie-howe-international-bridge-report-major-projects/",
+          "source": {
+            "name": "The Globe and Mail"
+          },
+          "publishedAt": "2026-07-29T10:00:00Z",
+          "image": "https://www.theglobeandmail.com/resizer/v2/K4OJIRUSOBD6XIHVKH3JUO2PNU.JPG?auth=5c60a64ca4eebd480be7278b8d25812c8585d94fdae316c2c7151d1c5a9d1cff&width=1200&height=800&quality=80&smart=true",
+          "language": "en"
+        },
+        {
+          "title": "Thrills on the turf at Tsumeb",
+          "description": "%%title%% %%sep%% %%primary_category%% %%sep%% %%sitename%% %%sep%% Spectators got their money’s worth during leg three of the national rally championship over the weekend, featuring a high-octane special stage through the streets of Tsumeb.",
+          "url": "https://www.namibian.com.na/thrills-on-the-turf-at-tsumeb/",
           "source": {
             "name": "The Namibian -"
           },
-          "publishedAt": "2026-07-29T07:15:55Z",
-          "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/07/Suren-World-Cup-1.jpeg",
-          "language": "en"
-        },
-        {
-          "title": "Something for the Weekend: Edie Hand's cultural picks",
-          "description": "Dirt Pickers is the acclaimed debut novel from debut author Edie...",
-          "url": "https://www.rte.ie/culture/2026/0729/1583128-something-for-the-weekend-edie-hands-cultural-picks/",
-          "source": {
-            "name": "RTE.ie"
-          },
-          "publishedAt": "2026-07-29T07:15:44Z",
-          "image": "https://www.rte.ie/images/00247c94-1600.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Results, drawing",
-          "description": "The odds of winning the Mega Millions jackpot are 1 in 290,472,336.",
-          "url": "https://nypost.com/2026/07/29/us-news/mega-millions-800m-jackpot-winning-ticket-sold-in-florida-results-drawing/",
-          "source": {
-            "name": "New York Post"
-          },
-          "publishedAt": "2026-07-29T07:15:12Z",
-          "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/newspress-collage-onjtnqwz5-1781751992424.jpg?quality=75&strip=all&1781737598&w=1200",
-          "language": "en"
-        },
-        {
-          "title": "Real Madrid forward wants to re-join former club this summer",
-          "description": "It’s expected that multiple Real Madrid players will leave before the summer transfer window closes at the end of next month. Jose Mourinho has already informed the likes of Raul Asencio and Eduardo...",
-          "url": "https://sports.yahoo.com/articles/real-madrid-forward-wants-join-071500997.html",
-          "source": {
-            "name": "Yahoo Sports"
-          },
-          "publishedAt": "2026-07-29T07:15:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/e1d6498f37f5ca3a868f12dc699a262a585aa3885e14a57d547e5e2804a0e53d/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmadrid_voice_articles_898%2Fa8cf6666a6e491fdd0e5a1e6b05fef12",
-          "language": "en"
-        },
-        {
-          "title": "Latest AI Uses Tabular Foundation Models To Turn Columnar Data Into Vital Insights",
-          "description": "Latest AI advancements are leaning toward the development of tabular foundational models (TFMs). These are extremely useful. An AI Insider analysis and scoop.",
-          "url": "https://www.forbes.com/sites/lanceeliot/2026/07/29/latest-ai-uses-tabular-foundation-models-to-turn-columnar-data-into-vital-insights/",
-          "source": {
-            "name": "Forbes"
-          },
-          "publishedAt": "2026-07-29T07:15:00Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a66ed579065588e6fd97620/0x0.jpg?format=jpg&crop=2001,1333,x505,y0,safe&height=900&width=1600&fit=bounds",
-          "language": "en"
-        },
-        {
-          "title": "Taiwan to stop buying PNG gas on spot market over 'One China' spat",
-          "description": "Taiwan suspends some liquefied natural gas purchases from Papua New Guinea as part of an escalating diplomatic dispute over the future of its representative office in Port Moresby.",
-          "url": "https://www.abc.net.au/news/2026-07-29/taiwan-to-stop-buying-png-gas-on-spot-market/106972968",
-          "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
-          },
-          "publishedAt": "2026-07-29T07:13:59Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/2309efaaeba491788c49111914ba8279?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=546&width=862&height=485&imformat=generic",
-          "language": "en"
-        },
-        {
-          "title": "Today’s Wordle Answer #1866 for July 29, 2026: Get Hints and Solve!",
-          "description": "Hints and the solution for today’s Wordle for Wednesday, July 29.",
-          "url": "https://www.aol.com/articles/today-wordle-answer-1866-july-040400000.html",
-          "source": {
-            "name": "AOL.com"
-          },
-          "publishedAt": "2026-07-29T07:13:26Z",
-          "image": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
+          "publishedAt": "2026-07-29T10:00:00Z",
+          "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/07/T-REV.jpg",
           "language": "en"
         }
       ]
