@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-07-29T14:11:30.403Z",
+  "updatedAt": "2026-07-29T16:21:59.723Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "停電、断水、熱中症 「これからどうなる」兄亡くし一睡もできず",
+          "description": "真夏の熊本県を襲った地震は発生から一夜明けた29日、甚大な被害の一端が明らかになってきた。被災地では、広範囲の停電や断水の影響で役場の機能がストップし、指定避難所を開設できない自治体も出ている。「これからどうなるのか」。突然の激震に見舞われた住民たちは先が見えない状況に不安を抱え、大切な家族を亡く",
+          "url": "https://mainichi.jp/articles/20260729/k00/00m/040/091000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-07-29T04:08:47Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/07/29/20260729k0000m040102000p/0c10.jpg?1",
+          "language": "ja"
+        },
+        {
+          "title": "PS5/PS4向け「PS Plusフリープレイ」8月は人気作『ダイイングライト2』配布へ。定価8778円のゾンビオープンワールドゲーム",
+          "description": "PlayStation Plus加入者向けの8月のフリープレイでは、『ダイイングライト2 ステイヒューマン』など3作品がラインナップされている。",
+          "url": "https://automaton-media.com/articles/newsjp/ps-plus-20260729-457151/",
+          "source": {
+            "name": "AUTOMATON"
+          },
+          "publishedAt": "2026-07-29T03:35:36Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/07/ps-plus-20260729-457151-header.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "友近千鶴さん死去 FM南海放送が公表 『友近ママの魔法の引き出し』今週の放送は「生前のお声をお送りします」",
+          "description": "ニュース｜　お笑い芸人・友近の母である友近千鶴さんが、27日に亡くなった。千鶴さんがプレゼンターを務めていたラジオ局・FM南海放送の公式Xで伝えられた。　同局のXでは「2011年4月スタートした『友近ママの魔法の引き出し』番組プレゼンター友近千鶴さんが2026年7月27日逝去されました。謹んで哀悼の意を表し、お知らせ申し上げます」と報告。",
+          "url": "https://www.oricon.co.jp/news/2470659/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-07-29T03:16:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2471000/2470659/20260729_121605_p_o_37058764.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『ちいかわ』の電柱広告にセイレーンがもう1体出現！映画公開を記念！",
+          "description": "株式会社講談社のプレスリリース（2026年7月29日 12時01分）『ちいかわ』の電柱広告にセイレーンがもう1体出現！映画公開を記念！",
+          "url": "https://prtimes.jp/main/html/rd/p/000008737.000001719.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-07-29T03:01:29Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/1719/8737/1719-8737-18de2bd5458ab247f62e20d47d70847b-618x1873.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "世界最高のショット精度、山下美夢有の大会連覇なるか 上田桃子が今季海外メジャー最終戦・AIG女子オープンの見どころを語る",
+          "description": "今季海外女子メジャー最終戦『AIG女子オープン』が7月30日、イングランドのロイヤルリザム＆セントアンズGCで開幕する…",
+          "url": "https://sports.yahoo.co.jp/column/detail/2026072900001-spnavi",
+          "source": {
+            "name": "スポーツナビ"
+          },
+          "publishedAt": "2026-07-29T02:55:00Z",
+          "image": "https://sports-pctr.c.yimg.jp/dk/iwiz-sports/text/images/2026/0729/2026072900001-spnavi_1785291388_view.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "大谷翔平、第１打席で23号先頭打者アーチ お待たせ、後半戦初本塁打／速報中",
+          "description": "ドジャース大谷翔平投手は「1番DH」で先発出場。1回の第1打席で後半戦初アーチとなる23号先頭打者本塁打を放った。ドジャース大谷翔平　2026年全ホームラン／… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/baseball/mlb/news/202607290000039.html",
+          "source": {
+            "name": "日刊スポーツ"
+          },
+          "publishedAt": "2026-07-29T02:19:00Z",
+          "image": "https://www.nikkansports.com/baseball/mlb/news/img/202607290000039-w500_0.jpg",
+          "language": "ja"
+        },
         {
           "title": "【F1】アストンマーティン・ホンダ「最大級のダウンフォース増」を実現するも、アロンソが苦言を呈した理由",
           "description": "F1第11戦ハンガリーGPレビュー（後編）◆レビュー前編＞＞　ハンガリーGP決勝に、アストンマーティン・ホンダの2台は攻めの戦略で臨んだ。　ソフトタイヤを積極的に使い、その速さでライバルとの差を埋める戦略──。　それ自体は、これまで…",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-07-29T01:23:29Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takahashiakiko/02677499/title-1785287297893.jpeg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "今夜『有吉の壁』出演者がサプライズの“結婚発表”へ 「まさかの展開」も予告【出演者情報あり】",
-          "description": "ニュース｜　日本テレビ系バラエティー『有吉の壁』（毎週水曜　後7：00）の公式Xが29日に更新され、同日放送の番組内で出演者が結婚を発表することを予告した。　公式Xでは「有吉の壁 今夜7時！」と切り出し、「竜宮城スパホテル三日月さん全面協力　おもしろホテル三日月の人選手権」と紹介。「レギュラー放送終了まで残り5回！　駆け込みで？　今夜、誰かがネタ中に結婚発表　果たして誰？そしてサプライズ発表にまさかの展開が」と告知した。",
-          "url": "https://www.oricon.co.jp/news/2470692/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-07-29T00:40:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2471000/2470692/20260715_190246_p_o_56931267.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "米ドル/円は為替介入があっても5円程度の下落で160円すら割れない可能性が高い！今週の中銀ウィークではFOMCでの「サプライズ利上げ」に注目！｜志摩力男の「マーケットの常識を疑え！」",
-          "description": "リスクとしては、為替介入です。日銀政策決定会合後に、米ドル/円が上昇することはよくあるパターンです。おそらく今回も、会合後に円安が進むのではないかと予想しますが、カウンターで為替介入が入る可能性もあります。為替介入があれば、その分だけ米ドル/円は落ちます。しかし、落としても5円程度なので、下手をすると頑張って介入しても160円すら割らない可能性もあります。世界中の多くのトレーダーが為替介入を待って、米ドル/円をロングにしたいと待ち構えています。",
-          "url": "https://zai.diamond.jp/articles/-/492977",
-          "source": {
-            "name": "ザイFX！"
-          },
-          "publishedAt": "2026-07-28T23:30:00Z",
-          "image": "https://zai.diamond.jp/mwimgs/f/2/-/img_f2c2a8ea6ca548c7d78524baaa294304829022.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「なぜそれを入れたのか…」関係者も首をひねる三山凌輝と花乃まりあ 謝罪声明の「余計な一文」が物議",
-          "description": "俳優の三山凌輝(27)と元宝塚女優・花乃まりあ(33)の“密会報道”で双方の事務所が出したコメントが物議を醸している。\n「なぜこの文言を入れたのか……」\nそう本サイトの取材に首をひねるのは大手芸",
-          "url": "https://news.yahoo.co.jp/articles/b683c4ad4a23bc490cdb7fc5713c0f0f9efd032d",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-07-28T23:04:01Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260729-00000005-friday-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "OpenAIやAnthropicなどの従業員、米政府に「AI開発のペース調整を」と提言",
-          "description": "OpenAIやGoogleなどの従業員1000人以上が、AI開発のペース調整に向けた国際的支援を米政府に求める公開書簡を発表した。AI自律化の急速な加速に伴う制御不能リスクを指摘し、開発速度の調整に必要なツール開発を訴える。企業主導のオープンモデル規制回避を求める動きとは対照的な提起となった。",
-          "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000255/",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-07-28T22:11:48Z",
-          "image": "https://www.itmedia.co.jp/news/article/ogp/2607/29/2000000255/10001221/2048",
-          "language": "ja"
-        },
-        {
-          "title": "東北や北陸は激しい雨や雷雨 関東から西は厳しい暑さ 今日29日(水曜日)の天気",
-          "description": "今日7月29日(水)は、北海道は昼過ぎから雨が降るでしょう。東北や北陸は激しい雨や雷雨に注意が必要です。関東から西はおおむね晴れて猛暑となるでしょう。ただ、所々でにわか雨や雷雨がありそうです。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/07/29/39921.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-07-28T22:07:36Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/399/39921/main/20260729065444/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "人気小説『君の話』が映画化！主演・北村匠海×ヒロイン・出口夏希 記憶をめぐる純愛ラブストーリーが11月27日公開",
-          "description": "人気小説『君の話』の映画化が決定し、北村匠海さんが主演、出口夏希さんがヒロインを務めることが発表に。あわせてティザービジュアルと特報が解禁されました。映画『君の話』は、2018年の刊行以来、重版を重ねてきた三秋縋さんによる人気小説の実写化作品。脚本はドラマ『恋せぬふたり』（NHK）や連続テレビ小説『虎に翼』（NHK）などを手掛ける吉田恵里香さん、映画『やがて海へと届く』やABEMAオリジナル連続ドラマ『わかっていても the shapes of love』の中川龍太郎さんが監督を務めます。孤独に生きる大学生・千尋は、不幸な過去を忘れるため、記憶を消す治療を受けます。しかし目覚めると、記憶は消…",
-          "url": "https://mezamashi.media/articles/-/327629",
-          "source": {
-            "name": "めざましmedia"
-          },
-          "publishedAt": "2026-07-28T22:00:00Z",
-          "image": "https://mezamashi.ismcdn.jp/mwimgs/6/6/1200xm/img_66f712bce21641aa2a409e070189fd4b1896870.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "immersion cooling as compute demand grows",
-          "description": "Singapore data centre player Reader Server has deployed full-immersion cooling for its servers that let it deliver services more efficiently.",
-          "url": "https://www.techgoondu.com/2026/07/29/ready-server-tests-full-immersion-cooling-as-compute-demand-grows/",
+          "title": "Petrol depot prices drop as marketers slash rates by up to N23/litre",
+          "description": "Petrol depot prices declined across major supply centres  yesterday  as marketers implemented fresh price cuts, signalling increased competition in the downstream petroleum market.",
+          "url": "https://www.vanguardngr.com/2026/07/petrol-depot-prices-drop-as-marketers-slash-rates-by-up-to-n23-litre/",
           "source": {
-            "name": "Techgoondu"
+            "name": "Vanguard News"
           },
-          "publishedAt": "2026-07-29T02:11:20Z",
-          "image": "https://www.techgoondu.com/wp-content/uploads/2026/07/server1_tank.jpg",
+          "publishedAt": "2026-07-29T04:21:52Z",
+          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/09/image-11.png",
           "language": "en"
         },
         {
-          "title": "Brazil court ties soccer player's suspension to recovery time for his injured rival Gabriel Pec",
-          "description": "Inter Porto Alegre defender Víctor Gabriel has been suspended until Cruzeiro forward Gabriel Pec returns to training from a broken leg",
-          "url": "https://www.foxsports.com/articles/soccer/brazil-court-ties-soccer-players-suspension-to-recovery-time-for-his-injured-rival-gabriel-pec",
+          "title": "Uganda officially Ebola-free, 42 days after last patient discharged",
+          "description": "Authorities in Uganda declared the East Africa nation free of Ebola on Tuesday following the discharge of the country's last patient in mid-June, a delicate milestone as the virus continues to plague neighboring Congo.",
+          "url": "https://www.africanews.com/2026/07/29/uganda-officially-ebola-free-42-days-after-last-patient-discharged/",
           "source": {
-            "name": "FOX Sports"
+            "name": "africanews.com"
           },
-          "publishedAt": "2026-07-29T02:11:16Z",
-          "image": "https://a57.foxsports.com/statics.foxsports.com/static/orion/images/defaults/1408/814/story-card.jpg?ve=1&tl=1",
+          "publishedAt": "2026-07-29T04:21:23Z",
+          "image": "https://images.euronews.com/articles/stories/09/85/43/07/1024x538_cmsv2_88410a1e-2a0d-50cf-b559-b383521d3754-9854307.jpg",
           "language": "en"
         },
         {
-          "title": "Mayo GAA ready to reap financial rewards of historic All-Ireland success",
-          "description": "Mayo, considered the cash cows of the GAA for the guts of a decade up to 2021 - in Croke Park, they still talk about the crash of 2018 when the team finished up nowhere in Newbridge - are spending again.",
-          "url": "https://www.irishexaminer.com/sport/gaa/arid-41887456.html",
+          "title": "A closer look at Parkinson’s brains finds tau where standard tests saw little",
+          "description": "Researchers used single-molecule and super-resolution imaging to profile protein aggregates across six brain regions from 29 post-mortem donors, detecting high-intensity phosphorylated tau aggregates in the Parkinson’s disease putamen despite negligible conventional tau staining. PD cases with dementia showed greater tau burden than those without dementia, while the assay did not detect a PD-specific population of nanoscopic alpha-synuclein aggregates.",
+          "url": "https://www.news-medical.net/news/20260729/A-closer-look-at-Parkinsone28099s-brains-finds-tau-where-standard-tests-saw-little.aspx",
           "source": {
-            "name": "Irish Examiner"
+            "name": "News-Medical"
           },
-          "publishedAt": "2026-07-29T02:11:00Z",
-          "image": "https://www.irishexaminer.com/cms_media/module_img/10346/5173162_4_org_ws290726mayocelebMONEY1_1_2_.jpg",
+          "publishedAt": "2026-07-29T04:21:00Z",
+          "image": "https://www.news-medical.net/images/news/ImageForNews_843578_17852988155047673.jpg",
           "language": "en"
         },
         {
-          "title": "US and Saudi forces conduct strikes on Iranian proxies in Iraq",
-          "description": "US Central Command said the US military and Saudi Arabian forces conducted joint strikes “against Iran-aligned terrorists” in Iraq. Earlier, it said the US military intercepted ballistic missiles fired by Iran in an attempted “surprise attack.” Follow for live updates.",
-          "url": "https://www.cnn.com/2026/07/28/world/live-news/iran-trump-news",
+          "title": "Tanzania builds cyber resilience",
+          "description": "DAR ES SALAAM: TANZANIA has intensified efforts to strengthen cybersecurity, protect personal data and promote the responsible use of Artificial Intelligence (AI) through a specialised training programme for local Information and Communications Technology (ICT) experts. The programme, implemented by the ICT Commission (ICTC) in partnership with the European Union (EU) and experts from Germany, Finland …",
+          "url": "https://dailynews.co.tz/tanzania-builds-cyber-resilience/",
           "source": {
-            "name": "CNN"
+            "name": "dailynews.co.tz"
           },
-          "publishedAt": "2026-07-29T02:11:00Z",
-          "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26209742987379.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2026-07-29T04:19:13Z",
+          "image": "https://dailynews.co.tz/wp-content/uploads/2026/07/syb.jpg",
           "language": "en"
         },
         {
-          "title": "Local transmission of H5 bird flu 'very, very likely', SA government says",
-          "description": "A further 11 suspected cases of H5 bird flu have been detected in South Australia’s south-east and Kangaroo Island.",
-          "url": "https://www.abc.net.au/news/2026-07-29/h5-bird-flu-strain-very-likely-spreading-locally-in-sa/106970486",
+          "title": "Increased surveillance of foreign nationals to be introduced in top Bali tourist hotspots after run club row",
+          "description": "Bali officials are looking to monitor every community event on the island in the wake of a run club event that resulted in organisers being banned from returning to Indonesia.",
+          "url": "https://www.perthnow.com.au/news/bali/increased-surveillance-of-foreign-nationals-to-be-introduced-in-top-bali-tourist-hotspots-after-run-club-row--c-22644708",
           "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+            "name": "PerthNow"
           },
-          "publishedAt": "2026-07-29T02:10:17Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/337c0d29e4571a3184ffa326299e2ac4?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=144&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-07-29T04:19:00Z",
+          "image": "https://images.perthnow.com.au/publication/C-22644708/7749427c58410b89846921cacdf6d172c09709ca-16x9-x1y0w2446h1376.jpg?imwidth=1200",
           "language": "en"
         },
         {
-          "title": "Nexon Confirms 'Overgeared' as Official Title for Project T MMORPG",
-          "description": "Nexon announced on July 28 that Project T, the massively multiplayer online role-playing g",
-          "url": "https://www.thelec.net/news/articleView.html?idxno=12604",
+          "title": "six Sasagi Rosalie Filoa sentenced to home detention for $190k Working for Families tax fraud",
+          "description": "An Auckland mother of six who received just under $190,000 in Working for Families tax credits she wasn’t entitled to went on 20 overseas trips in eight...",
+          "url": "https://www.nzherald.co.nz/business/auckland-mother-of-six-sasagi-rosalie-filoa-sentenced-to-home-detention-for-190k-working-for-families-tax-fraud/4HPWDZANGNBUXAZWNGSL7XG74A/",
           "source": {
-            "name": "thelec.net"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-07-29T02:09:41Z",
-          "image": "https://cdn.thelec.net/news/photo/202607/12604_12703_2351.jpg",
+          "publishedAt": "2026-07-29T04:18:02Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/WVZNYQLG25HAHJRQNVVKZUANBY.JPG?auth=6162a3fa3b4e2798e64703e529d465da24f8d28bcf9715ad79021f96128e34f3&width=1200&height=675&quality=70&focal=1283%2C1366&smart=false",
           "language": "en"
         },
         {
-          "title": "Auckland school threat trial: Police detail discovery of guns, ammunition and firearm plans linked to Tiedan Huo",
-          "description": "Police searching properties linked to a man alleged to have made violent threats against two Auckland schools found a blueprint for a military-style firearm and a loaded shotgun in a bedroom.",
-          "url": "https://www.rnz.co.nz/news/crime-and-justice/829461/auckland-school-threat-trial-police-detail-discovery-of-guns-ammunition-and-firearm-plans-linked-to-tiedan-huo",
+          "title": "Scientists discover 210-million-year-old dinosaur in Zimbabwe",
+          "description": "The discovery of the new species, named Musango matusadonaensis, is based on a skeleton excavated on the shores of Lake Kariba in northern Zimbabwe in 2018, and is the fifth dinosaur identified from the country, they said.",
+          "url": "https://citizen.digital/article/scientists-discover-210-million-year-old-dinosaur-in-zimbabwe-1-n387313",
           "source": {
-            "name": "RNZ"
+            "name": "Citizen Digital"
           },
-          "publishedAt": "2026-07-29T02:09:38Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--wCOoaBR5--/t_tohu-badge-facebook/f_auto/q_auto/4JKSD54_IMG_4013_jpeg",
+          "publishedAt": "2026-07-29T04:16:54Z",
+          "image": "https://assets.citizen.digital/172210/conversions/da81fc79-ef6f-4a57-9c32-134ef851927b_210-million-year-old-dinosaur-discovered-in-Zimbabwe-scaled-og_image.webp",
           "language": "en"
         },
         {
-          "title": "Moza moves into PS5 racing with a Gran Turismo partnership and hardware expansion",
-          "description": "Moza Racing has made a further push into dominating the sim racing market with the announcement of a partnership with Gran Turismo and a new range of equipment.",
-          "url": "https://www.drivencarguide.co.nz/news/moza-moves-into-ps5-racing-with-a-gran-turismo-partnership-and-hardware-expansion/",
+          "title": "Burglar suffers fatal heart attack during break-in in Ipoh",
+          "description": "He entered the house with an accomplice before a struggle with the house's caretaker. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/asia/se-asia/burglar-suffers-fatal-heart-attack-during-break-in-in-ipoh",
           "source": {
-            "name": "Driven Car Guide"
+            "name": "The Straits Times"
           },
-          "publishedAt": "2026-07-29T02:09:03Z",
-          "image": "https://www.drivencarguide.co.nz/media/fqqfow4c/moza-racing-010.jpg?v=1dd1f615f2baed0",
+          "publishedAt": "2026-07-29T04:16:00Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c772f1d9808e08c38e3e7abdc2f35f12df1e101de74ed35e9d66e3a32d856908",
           "language": "en"
         },
         {
-          "title": "Scared by tech’s debt deluge, investors are questioning the AI boom",
-          "description": "Shares in AI-related companies have been falling as competition from China, rogue AI agents, complex financing deals and vast capital expenditures stress the markets’ capacity to fund the sector.",
-          "url": "https://www.smh.com.au/business/markets/scared-by-tech-s-debt-deluge-investors-are-questioning-the-ai-boom-20260729-p60jhr.html",
+          "title": "At least five security officers killed in al-Shabaab IED attack in Mandera",
+          "description": "The explosion happened before the team came under attack from suspected al-Shabaab militants",
+          "url": "https://www.the-star.co.ke/news/2026-07-29-at-least-5-security-officers-killed-in-shabaab-attack",
           "source": {
-            "name": "SMH.com.au"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-07-29T02:07:06Z",
-          "image": "https://static.ffx.io/images/$zoom_0.5842803703703704%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_3%2C$y_50/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/f6f6a92964a1bdc69c369f06c4fd4d2e743fc61c",
+          "publishedAt": "2026-07-29T04:15:58Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/07/c3fd5b88-2aea-4244-927e-28b3f2bf4c7c.webp?1785301091649",
           "language": "en"
         },
         {
-          "title": "Negri polls: Cops open paper on Jempol MP over speech",
-          "description": "SEREMBAN: A police report has been lodged against Jempol MP Datuk Shamshulkahar Mohd Deli for remarks allegedly made while campaigning in Seremban Jaya, said Dep Comm Datuk Alzafny Ahmad",
-          "url": "https://www.thestar.com.my/news/nation/2026/07/29/negri-polls-cops-open-paper-on-jempol-mp-over-speech",
+          "title": "GTA Online In-game Gambling Suddenly Disabled in Australia",
+          "description": "Australia joins a list of around 50 countries worldwide where GTA Online gambling features are blocked.",
+          "url": "https://nordic.ign.com/grand-theft-auto-online/110507/gta-online-in-game-gambling-suddenly-disabled-in-australia",
           "source": {
-            "name": "The Star"
+            "name": "IGN Nordic"
           },
-          "publishedAt": "2026-07-29T02:07:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/07/29/4032831.jpeg",
+          "publishedAt": "2026-07-29T04:14:05Z",
+          "image": "https://sm.ign.com/t/ign_nordic/news/g/gta-online/gta-online-in-game-gambling-suddenly-disabled-in-australia_cqfm.1200.jpg",
           "language": "en"
         }
       ]
