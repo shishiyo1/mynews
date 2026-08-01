@@ -1,10 +1,54 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-01T19:08:56.991Z",
+  "updatedAt": "2026-08-01T21:58:07.142Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【海外向け】EC アプリ「UR: Newsletter Signup Popup」を株式会社 UnReact がリリース",
+          "description": "IT ベンチャー企業 株式会社UnReact が、海外向け EC アプリ「UR: Newsletter Signup Popup」をリリース...",
+          "url": "https://straightpress.jp/company_news/detail?pr=000000273.000072693",
+          "source": {
+            "name": "STRAIGHT PRESS"
+          },
+          "publishedAt": "2026-08-01T09:26:17Z",
+          "image": "https://straightpress.jp/wp-content/themes/straight-press-renew/assets/images/meta/straightpress-ogp-new.png",
+          "language": "ja"
+        },
+        {
+          "title": "ChromeのAIバグハンティングが本格化、2回のリリースで過去2年分を上回る1,072件の脆弱性を修正",
+          "description": "GoogleはAIを活用し、Chromeの2回のリリースで過去2年分を上回る1072件の脆弱性を修正した。AIによる自動化が脆弱性発見を加速させ、セキュリティ業界に構造的変化をもたらしている。",
+          "url": "https://www.zaikei.co.jp/article/20260801/863982.html",
+          "source": {
+            "name": "財経新聞"
+          },
+          "publishedAt": "2026-08-01T09:18:54Z",
+          "image": "http://www.zaikei.co.jp/files/general/20260801181855Alm0big.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『HUNTER×HUNTER』×櫻坂46のコラボMV公開へ「Unhappy birthday構文」",
+          "description": "ニュース｜　漫画『HUNTER×HUNTER』（ハンター×ハンター）×「Unhappy birthday構文」櫻坂46のコラボMVが、ジャンプチャンネルにて8月2日23時55分よりプレミア公開されることが決定した。櫻坂46の13作目のシングルとして発売され、楽曲のセンターポジションは村井優が務めており、MVの中ではソロダンスも見どころとなっている。　『HUNTER×HUNTER』は、1998年より週刊少年ジャンプ（集英社）にて連載がスタートし、冨樫義博氏が描く少年たちの壮大な冒険ストーリー。父と同じ「ハンター」になるために、故郷を旅だった少年ゴンは、ハンター試験で出会ったレオリオ、クラピカ、キルアとともに、数々の試練を乗り越え成長していく。　ヒソカや、クロロなど癖のある魅力的なキャラクターが大きな反響を呼び、綿密に練られた世界観と驚愕のストーリー展開、高度な心理戦と手に汗握る念能力バトルといった突出した独創性が読者の心を掴んだ。シリーズ累計発行部数（デジタル版含む）は8400万部を突破し、２度のTVアニメ化やゲーム化などメディアミックス展開されている。　櫻坂46は、2015年、乃木坂46に続く「坂道シリーズ」第2弾グループ・欅坂46として結成。2020年10月より櫻坂46に改名して活動をスタートさせた。",
+          "url": "https://www.oricon.co.jp/news/2471479/full/",
+          "source": {
+            "name": "oricon.co.jp"
+          },
+          "publishedAt": "2026-08-01T09:12:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2472000/2471479/20260801_181037_p_o_87159805.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "つばきファクトリー、可憐にして凛とした魅力を詰め込んだ完璧なセットリストで会場を虜に＜TIF2026＞",
+          "description": "ハロー！プロジェクトのつばきファクトリーが8月1日、世界最大のアイドルフェス「TOKYO IDOL FESTIVAL 2026」(7月31日～8月2日、お台場・青海周辺エリア)のHOT STAGEに登...",
+          "url": "https://thetv.jp/news/detail/1428962/",
+          "source": {
+            "name": "WEBザテレビジョン"
+          },
+          "publishedAt": "2026-08-01T07:39:27Z",
+          "image": "https://thetv.jp/i/nw/1428962/18108118.jpg?w=1284",
+          "language": "ja"
+        },
         {
           "title": "木村昴、父はドイツ人…知られざる本名をサラリと明かす 共演者も驚きの声「そうなんですか!？」",
           "description": "ニュース｜　声優の木村昴（36）が1日放送のNHK『土スタ』に出演。本名を明かし、共演者を驚かせた。　冒頭、MCの近藤春菜（ハリセンボン）から「今年4月にスタートしました『世界でひらけ！ひみつのドアーズ』の水先案内人、木村昴さんです！」と紹介を受けると、木村は「どうも、よろしくお願いします！」とあいさつ。続けて「僕、本名はスバル・サミュエル・バーチュっていうんですけど」と本名を打ち明けた。",
@@ -70,161 +114,117 @@
           "publishedAt": "2026-08-01T03:42:00Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260801-35251192-cnn-000-3-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "トランプ米政権、リンカーン記念堂の反射池の改修「ミス」認める 器物損壊罪での起訴取り下げ",
-          "description": "アメリカの首都ワシントンにあるリンカーン記念堂のリフレクティング・プール（反射池）が、改修完了後間もなく、青い塗装がはがれているのが確認された問題で、米検察は7月31日、反射池を損壊した罪に問われた元オリンピック選手に対する起訴を取り下げた。検察は裁判所に提出された文書の中で、反射池の損傷は「請負業者による不適切な施工の結果」とみられると説明した。",
-          "url": "https://www.bbc.com/japanese/articles/cly8r1433xeo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-08-01T03:40:58Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/569e/live/c89709f0-8d39-11f1-a7ab-8b30adf0800a.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『風、薫る』新たな相関図 サラッと“大物キャスト”が追加",
-          "description": "ニュース｜　俳優の見上愛と上坂樹里がW主演を務めるNHK連続テレビ小説『風、薫る』（月～土曜前8：00、NHK総合ほか）の人物相関図が更新され、新潟編の新キャラクターが公開された。患者役で出演する中村倫也のビジュアルも初めて相関図に加わり、SNSでは「いよいよ登場するのか」と期待の声が寄せられている。　同作は、大関和さんと鈴木雅さんという2人のトレインドナースをモチーフにした物語。考え方もやり方も異なる2人の主人公・りん（見上愛）と直美（上坂樹里）が、同じ看護婦養成所を卒業後、患者や医師との向き合い方に悩みながら成長し、やがて“最強のバディ”となっていく姿を描く。明治という激動の時代を舞台に、看護の世界へ飛び込んだ2人が、傷ついた人々を守るために奔走し、ときには権力に立ち向かう冒険譚となっている。　公式サイトと公式Xでは「人物相関図を更新しました」と発表。直美が立ち上げた「恵風看護婦会」が新たに加わり、チュウこと丸山忠蔵（若林時英）のビジュアルがコック帽姿に変更されたほか、直美とともに働く派出看護婦・織田しのぶ（木越明）が新たに相関図へ加わった。　あわせて「新潟で出会う人びと」の相関図も公開された。すでに登場している女学校校長・望月勘治（関智一）に加え、患者・柳生藤次（中村倫也）、村長・本間忠良（大高洋夫）、村役場職員・山辺（六角慎司）ら新キャラクターの姿も明らかになった。　相関図の公開を受け、SNSでは「ついに出演するんだ」「登場が待ち遠しい」「中村倫也さんはいつ出てくるの？」「ようやく相関図に加わった」「ビジュアルがすごくいい」といった反応が相次ぎ、中村の本格登場を期待する声が広がっている。",
-          "url": "https://www.oricon.co.jp/news/2471304/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-08-01T03:20:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2472000/2471304/20260731_162030_p_o_20930162.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "妖しい光がまるで『トロン』。世界初の205馬力ハイパーバイク「ウルトロン」",
-          "description": "『トロン』みたいな「ウルトロン」。自動車にはスーパーカーやハイパーカー、最近ではその上のメガカーまであります。バイク界では市販車をフルチューンしたレース車がスーパーバイクと呼ばれます。ハイパーバイクは正式な定義がないものの、200馬力前後で",
-          "url": "https://www.gizmodo.jp/article/da22-ultron/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-08-01T03:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/07/19/c3c737d1-fb7e-4b1a-8fa0-08d589987d1c/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "北海道、青森県、岩手県で震度4の地震 津波の心配なし",
-          "description": "1日午前11時48分頃、青森県東方沖を震源とするマグニチュード5.8の地震が発生し、北海道、青森県、岩手県で最大震度4を観測しました。この地震による津波の心配はありません。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/08/01/39969.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-08-01T02:55:49Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/399/39969/main/20260801115550/large.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Welcome to Wahsworld: Warriors run rampant with 42-6 win over Titans",
-          "description": "The Warriors got one over their bogey team at their home away from home - demolishing the Titans in front of a near full capacity crowd on the Gold Coast.",
-          "url": "https://www.rnz.co.nz/news/sport/855724/welcome-to-wahsworld-warriors-run-rampant-with-42-6-win-over-titans",
+          "title": "US makes $20,000 visa bond programme permanent; India not on 50-country list",
+          "description": "US News: The US State Department has decided to make its visa bond programme permanent after successfully running it as a pilot scheme, expanding a policy aime.",
+          "url": "https://timesofindia.indiatimes.com/world/us/us-makes-20000-visa-bond-programme-permanent-india-not-on-50-country-list/articleshow/132786395.cms",
           "source": {
-            "name": "RNZ"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-08-01T07:08:32Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--7FdJD-y9--/t_tohu-badge-facebook/f_auto/q_auto/4JKKLMY_260801_TitansWarriorsNRL007_JPG",
+          "publishedAt": "2026-08-01T09:58:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-132786546,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "LIVE: History in Panthers star’s ‘ridiculous’ 72-year first as ‘genius’ Cleary move stuns",
-          "description": "LIVE: History in Panthers star’s ‘ridiculous’ 72-year first as ‘genius’ Cleary move stuns",
-          "url": "https://www.foxsports.com.au/nrl/nrl-premiership/nrl-live-updates-2026-penrith-panthers-v-canberra-raiders-scores-mudgee-nathan-cleary/news-story/3da799c028dfd43541e06c2d15317e9e",
-          "source": {
-            "name": "Fox Sports"
-          },
-          "publishedAt": "2026-08-01T07:07:39Z",
-          "image": "https://content.api.news/v3/images/bin/82b42e0797468ba818f08c35ca537bb5",
-          "language": "en"
-        },
-        {
-          "title": "Answer in 10 seconds or lose your fleet: The e-bike row dividing Yarra",
-          "description": "Lime has accused the council of a “vendetta” as a six-year Melbourne trial comes to a halt.",
-          "url": "https://www.theage.com.au/national/victoria/answer-in-10-seconds-or-lose-your-fleet-the-e-bike-row-dividing-yarra-20260730-p60k3i.html",
-          "source": {
-            "name": "The Age"
-          },
-          "publishedAt": "2026-08-01T07:07:15Z",
-          "image": "https://static.ffx.io/images/$zoom_0.5458%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_2101%2C$y_207/t_crop_custom/q_86%2Cf_auto/f1e8b37bc6e2bd23b5b9978c9a352dc0052d5b7a",
-          "language": "en"
-        },
-        {
-          "title": "\"Want to make home our fortress\": West Indies skipper Roston Chase ahead of second Test against Pakistan",
-          "description": "West Indies Test captain Roston Chase said the team is determined to build on its improved home record and make the Caribbean a \"fortress\" for visiting sides as they prepare to face Pakistan in the second Test",
-          "url": "https://www.aninews.in/news/sports/cricket/want-to-make-home-our-fortress-west-indies-skipper-roston-chase-ahead-of-second-test-against-pakistan20260801123739/",
-          "source": {
-            "name": "ANI News"
-          },
-          "publishedAt": "2026-08-01T07:07:00Z",
-          "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260801070319-thumbnail-320x180-70.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Chief Justice launches new justice strategy, aims to reduce case backlog",
-          "description": "Kampala, Uganda | URN | Chief Justice Dr. Flavian Zeija has unveiled the Administration of Justice Programme (AJP) Strategy for the 2026/27–2029/30 financial years. Key among the expectations is improving access to justice, reducing case backlog and strengthening public confidence in the country’s justice system. Speaking during the launch at the Supreme Court in Kampala …",
-          "url": "https://www.independent.co.ug/chief-justice-launches-new-justice-strategy-aims-to-reduce-case-backlog/",
-          "source": {
-            "name": "The Independent Uganda"
-          },
-          "publishedAt": "2026-08-01T07:06:34Z",
-          "image": "https://www.independent.co.ug/wp-content/uploads/2026/08/Chief-Justice-Dr-Flavian-Zeija-Unveiling-the-Program-on-Friday-at-the-Supreme-Court..jpg",
-          "language": "en"
-        },
-        {
-          "title": "Lucas Casey inspires Otago to comfortable win on Stag Day",
-          "description": "Lucas Casey inspires Otago to comfortable win on Stag Day",
-          "url": "https://www.odt.co.nz/sport/rugby/lucas-casey-inspires-otago-to-comfortable-win-on-stag-day-w6muii7r",
-          "source": {
-            "name": "ODT"
-          },
-          "publishedAt": "2026-08-01T07:05:18Z",
-          "image": "https://images.odt.co.nz/view/acePublic/alias/contentid/1stpyx3fwfm93tqv6gx/0/otagoatags-jpg.jpeg?f=3%3A2",
-          "language": "en"
-        },
-        {
-          "title": "What happened in Ceuta? The migrant surge that shook Europe's borders",
-          "description": "An estimated 50,000 migrants crossed from Morocco into the Spanish enclave of Ceuta in chaotic scenes that left dozens dead. Here's what happened and why the crisis has prompted parts of Europe to tighten its borders.",
-          "url": "https://www.abc.net.au/news/2026-08-01/europe-tightens-its-borders-after-ceuta-migrant-surge/106985526",
-          "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
-          },
-          "publishedAt": "2026-08-01T07:04:52Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/647055a8babe2720f0e0e6ee5ef35566?impolicy=wcms_watermark_news&cropH=1661&cropW=2953&xPos=0&yPos=153&width=862&height=485&imformat=generic",
-          "language": "en"
-        },
-        {
-          "title": "Witnness Music Festival",
-          "description": "Preparations continue to stage the Witnness Festival for a second time Fairyhouse Racecourse.",
-          "url": "https://www.rte.ie/archives/2026/0801/1578122-witnness-music-festival/",
+          "title": "Infantino has 'lost UEFA's confidence' as plan crumbles",
+          "description": "FIFA president Gianni Infantino has \"lost the confidence\" of UEFA over a plan to sell stakes in a World Cup company to private investors, the European football governing body has said.",
+          "url": "https://www.rte.ie/sport/soccer/2026/0801/1586106-infantino-has-lost-uefas-confidence-as-plan-crumbles/",
           "source": {
             "name": "RTE.ie"
           },
-          "publishedAt": "2026-08-01T07:04:37Z",
-          "image": "https://www.rte.ie/images/002481fa-1500.jpg",
+          "publishedAt": "2026-08-01T09:57:25Z",
+          "image": "https://www.rte.ie/images/0024c975-1600.jpg",
           "language": "en"
         },
         {
-          "title": "Nuwagaba Denies Arrest as Planned Interview Fails to Materialize",
-          "description": "KAMPALA — The whereabouts of Stephen Nuwagaba remained unclear on Saturday morning after he denied reports that he had been arrested by security agencies and challenged claims that he had been living at State Lodge, Nakasero. In a telephone conversation with ChimpReports, Nuwagaba dismissed earlier reports that he had been detained while returning from a …",
-          "url": "https://chimpreports.com/nuwagaba-denies-arrest-as-planned-interview-fails-to-materialize/",
+          "title": "Quade Cooper eyes World Cup comeback",
+          "description": "He took up a coaching role with Japanese club Kintestu Liners",
+          "url": "https://tribune.com.pk/story/2621503/quade-cooper-eyes-world-cup-comeback",
           "source": {
-            "name": "ChimpReports"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-08-01T07:03:15Z",
-          "image": "https://cdn-network.chimpreports.com/wp-content/uploads/2026/08/IMG_9980.jpeg",
+          "publishedAt": "2026-08-01T09:56:50Z",
+          "image": "https://i.tribune.com.pk/media/images/11785578034-0/11785578034-0-640x480.webp",
           "language": "en"
         },
         {
-          "title": "Sid Wilson has reportedly been fired from Slipknot",
-          "description": "Slipknot’s Jim Root responds to rumours of Sid Wilson’s departure: “Don’t believe everything you read. Stop. Think.”",
-          "url": "https://www.loudersound.com/bands-artists/jim-root-responds-to-rumours-that-sid-wilson-has-been-fired-from-slipknot-dont-believe-everything-you-read-stop-think",
+          "title": "UEFA declare loss of confidence in Gianni Infantino after World Cup sell-off controversy",
+          "description": "European nations welcome decision to abandon FFE scheme",
+          "url": "https://sports.yahoo.com/articles/uefa-declare-loss-confidence-gianni-095503544.html",
           "source": {
-            "name": "Louder"
+            "name": "sports.yahoo.com"
           },
-          "publishedAt": "2026-08-01T07:00:39Z",
-          "image": "https://cdn.mos.cms.futurecdn.net/5fCqkz2SLaohqfETwKwrk6-1280-80.jpg",
+          "publishedAt": "2026-08-01T09:55:03Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/f964618ebbcafc186bdb4b367ce23c1941a666d030c77ed83c73ec34bacd4508/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fevening_standard_239%2F16c7808874cd741175d8b5ce05dca43b",
+          "language": "en"
+        },
+        {
+          "title": "It looked like a fox, but this is no fox – or even a member of the dog family. It was in fact a bizarre stepping stone in the evolution of whales – yes really!",
+          "description": "It’s hard to imagine the largest animal that’s ever lived - the blue whale - can trace its family tree back to this small, pig-like mammal…",
+          "url": "https://www.discoverwildlife.com/prehistoric-life/indohyus",
+          "source": {
+            "name": "BBC Wildlife Magazine"
+          },
+          "publishedAt": "2026-08-01T09:54:58Z",
+          "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/3b0473e2-73f8-4119-9240-cff7d497e47d/thumbnails/227bb5ab-977e-43d1-9d29-b961eba73b0a.png?w=1200",
+          "language": "en"
+        },
+        {
+          "title": "ZIMRA urges accountants to drive tax compliance",
+          "description": "She said Zimbabwe’s evolving tax landscape requires a modern compliance framework that balances efficient revenue collection with improved taxpayer services.",
+          "url": "https://www.newsday.co.zw/local-news/article/200058898/zimra-urges-accountants-to-drive-tax-compliance",
+          "source": {
+            "name": "newsday.co.zw"
+          },
+          "publishedAt": "2026-08-01T09:54:02Z",
+          "image": "https://cdn.thestandard.co.zw/images/newsday/uploads/2026/08/nLCyKr3sG8oE8FBrSi122zkCO0Qx4VrKrAXIXPmA.jpg",
+          "language": "en"
+        },
+        {
+          "title": "The insiders dismantling Putin’s iron grip from within as Russia’s ruling elite turn on tyrant in humiliating blow",
+          "description": "VLADIMIR Putin's ruling elite are growing \"increasingly impatient\" with the Kremlin leader as his dictatorship edges closer to collapse, insiders...",
+          "url": "https://www.thesun.co.uk/news/39906847/insiders-dismantle-putins-grip-ruling-elite-turn-on-tyrant/",
+          "source": {
+            "name": "The Sun"
+          },
+          "publishedAt": "2026-08-01T09:54:00Z",
+          "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/crop-39919460.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+          "language": "en"
+        },
+        {
+          "title": "Negri polls: Counting of postal votes start at 5pm",
+          "description": "SEREMBAN: Counting of postal votes for the 16th Negri Sembilan Election has started at 5pm on Saturday (Aug 1).",
+          "url": "https://www.thestar.com.my/news/nation/2026/08/01/negri-polls-counting-of-postal-votes-start-at-5pm",
+          "source": {
+            "name": "The Star"
+          },
+          "publishedAt": "2026-08-01T09:54:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/01/4038692.png",
+          "language": "en"
+        },
+        {
+          "title": "Why Ukraine is targeting Russia’s ‘Amazon’ Wildberries with major strikes",
+          "description": "Why is Ukraine attacking Russia’s Wildberries warehouses?",
+          "url": "https://www.independent.co.uk/news/world/europe/ukraine-drone-strikes-wildberries-warehouses-map-russia-b3025749.html",
+          "source": {
+            "name": "The Independent"
+          },
+          "publishedAt": "2026-08-01T09:54:00Z",
+          "image": "https://static.independent.co.uk/2026/07/29/09/2286796619..?trim=0,1,0,1&width=1200&height=800&crop=1200:800",
+          "language": "en"
+        },
+        {
+          "title": "Amino acid found in everyday foods shows potential against cancer, viral infections",
+          "description": "MHC‑I proteins act like the body’s security alert system. They sit on the surface of cells and display tiny pieces of viruses or abnormal proteins from.",
+          "url": "https://eastleighvoice.co.ke/health/385780/amino-acid-found-in-everyday-foods-shows-potential-against-cancer-viral-infections",
+          "source": {
+            "name": "The Eastleigh Voice"
+          },
+          "publishedAt": "2026-08-01T09:53:26Z",
+          "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/08/eastleighvoice-co-ke-2026-august-01-122456.webp",
           "language": "en"
         }
       ]
