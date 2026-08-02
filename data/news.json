@@ -1,10 +1,32 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-02T02:52:13.733Z",
+  "updatedAt": "2026-08-02T06:02:19.891Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "主要国6割で首都圏離れ、住宅高騰を映す 日本は高給期待で一極集中",
+          "description": "【この記事でわかること】・世界では首都圏離れが進む理由・集中が行き過ぎると何が起きる・人口集中是正、海外の取り組みは",
+          "url": "https://www.nikkei.com/article/DGXZQOUF12ALB0S6A510C2000000/",
+          "source": {
+            "name": "nikkei.com"
+          },
+          "publishedAt": "2026-08-01T17:00:00Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3343150022072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=46791277da6a716cf35bed4948f85276",
+          "language": "ja"
+        },
+        {
+          "title": "TBS/JNNのニュースサイト",
+          "description": "DIG：掘り起こす、探求する、発見する。TBS系JNN28局のニュースサイト、「TBS NEWS DIG」は、国内外の取材網を生かし、いち速く正確な情報・動画と、より深い調査報道・より分かりやすい解説で、社会の関心に応えます。",
+          "url": "https://newsdig.tbs.co.jp",
+          "source": {
+            "name": "TBS NEWS DIG"
+          },
+          "publishedAt": "2026-08-01T16:03:30Z",
+          "image": "https://newsdig.ismcdn.jp/mwimgs/f/5/-/img_f5d72f587b90c8e581b63bf8d2d61ac619307.png",
+          "language": "ja"
+        },
         {
           "title": "【バレー】日本男子、決勝ならず…米にフルセット惜敗 2大会ぶりメダル懸けスロベニアとの3決へ",
           "description": "【バレー】日本男子、決勝ならず…米にフルセット惜敗　2大会ぶりメダル懸けスロベニアとの3決へ（スポニチアネックス）　◇バレーボールネーションズリーグ男子決勝大会　日本―米国（2026年8月1日　中国・寧波）　準決勝が行われ、日本は米国に2―3で敗…",
@@ -92,139 +114,117 @@
           "publishedAt": "2026-08-01T11:05:00Z",
           "image": "https://contents.oricon.co.jp/upimg/news/2472000/2471475/20260702_132753_p_o_42908125.jpg",
           "language": "ja"
-        },
-        {
-          "title": "【ENGEI8 笑いの夏祭り】どぶろっく“衝撃の歌ネタ”に騒然 長浜広奈のコメントに…今田耕司ツッコミ",
-          "description": "ニュース｜　フジテレビ大型企画「ENGEI8　笑いの夏祭り」が1日、午後3時よりスタート。2番手は『爆笑レッドカーペット』（後6：30）となった。どぶろっくが、生放送で“衝撃の歌ネタ”を披露し、スタジオを騒然とさせた。　2人が披露したのは「エグツィンコタンゴ」。体の部位を、タンゴのリズムに乗せて紹介していくもので、生放送ながら”放送コード”ギリギリを攻めた、どぶろっくらしさあふれるネタとなった。ネタ後の長浜広奈の「江口さん…」というコメントが誤解を取られかねないものとなっていたことから、今田耕司が「そこにぬいぐるみを置くことになるよ（笑）！」とすかさずツッコミを入れていた。",
-          "url": "https://www.oricon.co.jp/news/2471489/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-08-01T10:43:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2472000/2471489/20260801_194247_p_o_27299117.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【台風情報】台風13号の今後の進路予想は 3日午後3時には非常に強い勢力で小笠原近海に達する見込み 5日午後3時には強い勢力で日本の南に達する見込み",
-          "description": "気象庁によりますと、非常に強い台風13号は、1日午後6時現在、南鳥島近海にあって、1時間に約20キロの速さで北西へ進んでいます。中心気圧は935ヘクトパスカル、中心付近の最大風速は50メートル、最大瞬間風速は70メートルとなっています。この台風は、3日午後3時には、勢力を維持したまま小笠原近海に達する見込みです。5日午後3時には、強い勢力で日本の南に達する見込みです。■台風13号の今後の予報は台風13号(ドルフィン)の今後の予報は以下の通り（8月1日午後6時45分発表　気象庁より）【1日午後6…",
-          "url": "https://www.fnn.jp/articles/-/1086792",
-          "source": {
-            "name": "FNNプライムオンライン"
-          },
-          "publishedAt": "2026-08-01T10:00:00Z",
-          "image": "https://fnn.ismcdn.jp/mwimgs/2/6/600/img_266e8e91cb296123879dcde4ae7ec32c223171.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "AI Efficiency Layer Cuts Energy Use and Expands Server Capacity on Existing Hardware",
-          "description": "Signed measurements across five open AI models show lower energy use per card, cooler operating temperatures and higher throughput without changing model outputs",
-          "url": "https://www.manilatimes.net/2026/08/01/tmt-newswire/globenewswire/ai-efficiency-layer-cuts-energy-use-and-expands-server-capacity-on-existing-hardware/2396395",
+          "title": "The hidden cost of raising a young competitor in Hawke’s Bay - nearly $44k and counting",
+          "description": "When Paula Wilson sat down and added up what she had spent supporting her teenage son’s competitive chess over the past two-and-a-half years, she was...",
+          "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/the-hidden-cost-of-raising-a-young-competitor-in-hawkes-bay-nearly-44k-and-counting/premium/SQYNQ2FODJBNVF2T2O7AY6WAOE/",
           "source": {
-            "name": "The Manila Times"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-08-01T14:51:45Z",
-          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/01/1160413.png",
+          "publishedAt": "2026-08-01T18:02:14Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/LTSZBWH64NAA3GQSP5KUNP6DBY.jpg?auth=f99efc729377525b222005e88e4095bbed5c44d993d2f0f32652d6e355e406a5&width=1200&height=675&quality=70&focal=416%2C458&smart=false",
           "language": "en"
         },
         {
-          "title": "Brand New Day' $168M+ U.S. Record Opening Day",
-          "description": "Spider-Man: Brand New Day posted opening day record of $168M. Pic could beat Avengers: Endgame's $357M all-time 3-day domestic opening.",
-          "url": "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-1237014268/",
+          "title": "NURSES COUNCIL ROT! Investigation Exposes Licensing Mess, Contract Irregularities Under CEO Nimwesiga",
+          "description": "Only 36% of health facilities licensed as watchdog uncovers procurement and contract management failures The...",
+          "url": "https://redpepper.co.ug/nurses-council-rot-investigation-exposes-licensing-mess-contract-irregularities-under-ceo-nimwesiga/150043/",
           "source": {
-            "name": "Deadline"
+            "name": "redpepper.co.ug"
           },
-          "publishedAt": "2026-08-01T14:51:00Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/07/MCDSPMA_SP139.jpg?w=1024",
+          "publishedAt": "2026-08-01T18:01:47Z",
+          "image": "https://redpepper.co.ug/wp-content/uploads/2026/07/1414262898_e950aa8ccd_b-780x405-1.jpg",
           "language": "en"
         },
         {
-          "title": "Korean Actress Shocks With Why She Left The Entertainment Industry",
-          "description": "A Korean actress confessed the shocking reasons she left the entertainment industry, evoking sympathy from netizens. On July 30th, MBN’s Exclusive World featured Kim Se In. Kim Se In debuted…",
-          "url": "https://www.koreaboo.com/news/korean-actress-shocks-left-entertainment-industry/",
-          "source": {
-            "name": "Koreaboo"
-          },
-          "publishedAt": "2026-08-01T14:50:44Z",
-          "image": "https://image.koreaboo.com/2026/07/Kim-Se-In-FI.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Environment: Six revolutions and four billion years made today’s biosphere",
-          "description": "This week’s environment round-up looks at the metabolic revolutions that remade Earth, China’s simultaneous coal and renewables boom, habitat gardens and Australia’s Cape Grim climate monitoring.",
-          "url": "https://johnmenadue.com/post/2026/08/environment-six-revolutions-and-4-billion-years-made-todays-biosphere/",
-          "source": {
-            "name": "Pearls and Irritations"
-          },
-          "publishedAt": "2026-08-01T14:49:14Z",
-          "image": "https://publish.pearlsandirritations.com/wp-content/uploads/2026/08/nasa-view-of-earth-a.jpg",
-          "language": "en"
-        },
-        {
-          "title": "'Shabby and opaque!' - UEFA declares loss of confidence in Gianni Infantino after FIFA backs down on £15bn World Cup sell-off plot",
-          "description": "UEFA has issued a scathing statement against FIFA president Gianni Infantino after the collapse of a controversial plan to sell World Cup stakes.",
-          "url": "https://www.goal.com/en/lists/uefa-loss-of-confidence-gianni-infantino-fifa-world-cup-deal/blt30cc27baafd8db20",
+          "title": "Pressure mounts on Infantino: Concacaf demands review of FIFA presidency",
+          "description": "Gianni Infantino's crises, the president of FIFA, are not over yet. After the warning issued to him by UEFA calling on him to resign, CONCACAF, the Confederation of North, Central America and Caribbean Association Football, has called for a comprehensive review of the FIFA presidency.",
+          "url": "https://www.goal.com/en/news/pressure-mounts-on-infantino-concacaf-calls-for-a-review-of-the-fifa-presidency/blt4d249ee9c175fed7",
           "source": {
             "name": "Goal.com"
           },
-          "publishedAt": "2026-08-01T14:48:32Z",
-          "image": "https://assets.goal.com/images/v3/getty-2159209953/crop/MM5DENZSGA5DCNJTGA5G433XMU5DGOBRHI3DM===/GettyImages-2159209953.jpg",
+          "publishedAt": "2026-08-01T18:01:34Z",
+          "image": "https://assets.goal.com/images/v3/blt62f258bf7eccb9d7/Concacaf-logo.jpg",
           "language": "en"
         },
         {
-          "title": "Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran",
-          "description": "Michigan and Minnesota are among at least seven states coping with cyberattacks aimed at disrupting water systems nationwide.",
-          "url": "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html",
+          "title": "I'm not convinced the 20th anniversary iPhone will be what we think, here's why",
+          "description": "Next year, the iPhone will be turning 20 – and Apple is heavily rumored to be working on a radical...",
+          "url": "https://9to5mac.com/2026/08/01/heres-why-iphone-20-could-actually-be-iphone-air-3/",
           "source": {
-            "name": "The New York Times"
+            "name": "9to5Mac"
           },
-          "publishedAt": "2026-08-01T14:46:38Z",
-          "image": "https://static01.nyt.com/images/2026/08/01/multimedia/01dc-cyberattack-topart-fgpz/01dc-cyberattack-topart-fgpz-facebookJumbo.jpg",
+          "publishedAt": "2026-08-01T18:01:00Z",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-03.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
           "language": "en"
         },
         {
-          "title": "ASUS Brings A Floating Structure To Prime AP304 Case For Superior GPU Cooling And Panoramic View Through Curved Side Panel",
-          "description": "ASUS Prime AP304 mid-tower chassis features innovative cooling, tool-free GPU installation with a clamp, and panoramic curved glass design.",
-          "url": "https://wccftech.com/asus-launches-prime-ap304-pc-case/",
+          "title": "Alexander Roediger։ Innovation, Access, and Patient Participation in Cancer Care",
+          "description": "Alexander Roediger։ Innovation, Access, and Patient Participation in Cancer Care / Alexander Roediger, cancer, OncoDaily, Oncology, UNICEF",
+          "url": "https://oncodaily.com/voices/alexander-roediger-556994",
           "source": {
-            "name": "Wccftech"
+            "name": "Oncodaily"
           },
-          "publishedAt": "2026-08-01T14:45:57Z",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/ASUS-Prime-AP304-1-1920x1110.jpg",
+          "publishedAt": "2026-08-01T18:00:49Z",
+          "image": "https://oncodaily.com/pub/uploads/2026/08/1767620986730-1.webp",
           "language": "en"
         },
         {
-          "title": "Negri polls: Pakatan leaders to take collective responsibility for defeat, says Amirudin",
-          "description": "SEREMBAN: Pakatan Harapan has accepted its defeat in the Negri Sembilan election, with Datuk Seri Amirudin Shari highlighting that the 11 seats it had won showed that the coalition still retains voter support.",
-          "url": "https://www.thestar.com.my/news/nation/2026/08/01/negri-polls-pakatan-leaders-to-take-collective-responsibility-for-defeat-says-amirudin",
+          "title": "Oil droplets remodel themselves, swallow their surroundings like living cells",
+          "description": "NYU researchers have made microscopic oil droplets in water do something usually reserved for living cells: change shape in complex, controllable ways and even engulf their surroundings.",
+          "url": "https://phys.org/news/2026-07-oil-droplets-remodel-swallow-cells.html",
           "source": {
-            "name": "The Star"
+            "name": "Phys.org"
           },
-          "publishedAt": "2026-08-01T14:45:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/01/4038959.jpg",
+          "publishedAt": "2026-08-01T18:00:03Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/oil-droplets-remodel-t.jpg",
           "language": "en"
         },
         {
-          "title": "🧨 Milan's No 10, Gimenez future, Taylor in Serie A? Transfer talk 🤑",
-          "description": "August begins with a Saturday packed with pre-season friendlies, with as many as 10 teams taking to the field.Don’t miss a single minute of Inter’s preseason! All of the Italian champions’ pre-s...",
-          "url": "https://sports.yahoo.com/articles/milans-no-10-gimenez-future-144500121.html",
+          "title": "Juliette Lewis on Fiery ‘Cape Fear’ Finale, ‘Nostalgic’ Nods to 1991 Film and Why Crystal Will ‘Haunt’ Max Forever",
+          "description": "SPOILER ALERT: This post contains spoilers for “The Executioners,” the finale of “Cape Fear,” now streaming on Apple TV. Nothing good ever happens on a houseboat in a “Cape Fear” adaptation — just ask...",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/juliette-lewis-fiery-cape-fear-180000252.html",
           "source": {
-            "name": "sports.yahoo.com"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-08-01T14:45:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/4f22c7b7cb9c63c0eff6254d94f7007245596bffc3bfd9c8553c99870600e5fc/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2Fbc6ee93b258009c1855d4c7f869e9253",
+          "publishedAt": "2026-08-01T18:00:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/24a99ad86193110fe286a5d480dbae860d08b0753d3386241e373b8ae5b0152d/lightyear_networkapi/resizefill_w1000_h685;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fc0dca248c12b693990b6ab04617d12b8",
           "language": "en"
         },
         {
-          "title": "These Android Phones Are Losing YouTube App Access In 2026",
-          "description": "Some Android phones are going to start to lose access to the YouTube app in the coming weeks. Here's why that will happen and what you can do instead.",
-          "url": "https://www.slashgear.com/2227437/android-6-0-phones-losing-youtube-app-2026/",
+          "title": "Juliette Lewis on 'Cape Fear' Finale, Crystal's Death, 1991 Movie",
+          "description": "'Cape Fear' star Juliette Lewis breaks down the finale, Crystal's motivations and her memories of working with Jessica Lange and Robert De Niro.",
+          "url": "https://variety.com/2026/tv/news/juliette-lewis-cape-fear-finale-crystal-death-1991-movie-1236818597/",
           "source": {
-            "name": "slashgear.com"
+            "name": "Variety"
           },
-          "publishedAt": "2026-08-01T14:45:00Z",
-          "image": "https://www.slashgear.com/img/gallery/these-android-phones-are-losing-youtube-app-access-in-2026/l-intro-1785442360.jpg",
+          "publishedAt": "2026-08-01T18:00:00Z",
+          "image": "https://variety.com/wp-content/uploads/2026/08/CapeFear_109_00649F.jpg?w=1000&h=563&crop=1",
+          "language": "en"
+        },
+        {
+          "title": "MAONO P1 USB Hybrid Audio Interface Review",
+          "description": "Packed with Features and designed with adaptability in mind, the MAONO P1 USB Hybrid Audio Interface is an excellent, cost-conscious audio interface.",
+          "url": "https://www.cgmagonline.com/review/hardware/maono-p1-usb-hybrid-audio-interface/",
+          "source": {
+            "name": "CGMagazine"
+          },
+          "publishedAt": "2026-08-01T18:00:00Z",
+          "image": "https://www.cgmagonline.com/wp-content/uploads/2026/08/maono-p1-usb-hybrid-audio-interface-review-8120.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Woman Bites Rapist’s Tongue But Also Loses Ear In Horror Sex Attack",
+          "description": "Territorial police in Kasese district are hunting for suspects linked to a brutal attack on...",
+          "url": "https://redpepper.co.ug/woman-bites-rapists-tongue-but-also-loses-ear-in-horror-sex-attack/150058/",
+          "source": {
+            "name": "redpepper.co.ug"
+          },
+          "publishedAt": "2026-08-01T18:00:00Z",
+          "image": "https://redpepper.co.ug/wp-content/uploads/2026/07/image-2-4.png",
           "language": "en"
         }
       ]
