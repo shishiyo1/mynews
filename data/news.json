@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-03T19:38:27.864Z",
+  "updatedAt": "2026-08-03T22:09:28.667Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【バレー】中国戦で急きょ交代の小野寺太志は「経過観察中」コートにバタッと倒れ、翌日帰国…ネーションズリーグ４位から帰国",
+          "description": "バレーボール男子日本代表が３日、国際大会のネーションズリーグ（２日閉幕、中国・寧波）を４位で終えて成田空港着の航空機で…",
+          "url": "https://sportsbull.jp/p/2389885/",
+          "source": {
+            "name": "スポーツブル"
+          },
+          "publishedAt": "2026-08-03T09:52:00Z",
+          "image": "https://img.sportsbull.jp/raw/2026080319110374efe0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "イエローボールに「くわしほ」 感覚派・桑木志帆がメジャーを制したギア",
+          "description": "◇女子メジャー最終戦◇AIG女子オープン（全英女子） 最終日（2日）◇ロイヤルリザム＆セントアンズGC (イングランド)◇6601yd（パー71） 桑木志帆が日本勢として史上7人目の女子メジャー制覇を遂げた。ともに首位と3打差の2位から「7",
+          "url": "https://news.golfdigest.co.jp/news/winnersbag/lpga/article/193722/1/",
+          "source": {
+            "name": "GDOゴルフニュース"
+          },
+          "publishedAt": "2026-08-03T09:00:51Z",
+          "image": "https://i.gimg.jp/cmsimg/433425.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "SNS・動画の視聴時間、長いほど成績低く 中3半数が1日3時間以上",
+          "description": "文部科学省は3日、小学6年生と中学3年生を対象とした2026年度の全国学力・学習状況調査（全国学力テスト）の分析結果を公表した。小学生の3割超、中学生の半数がSNSや動画を1日3時間以上視聴しており、長時間であるほど各教科の成績が低い傾向があった。視聴と学力の直接的な因果関係は不明だが、文科省担当者は「SNSなどの長時間利用によって、生活習慣が崩れる可能性はある」と指摘。利用に関する家庭内ルー",
+          "url": "https://www.nikkei.com/article/DGXZQOUD289ZI0Y6A720C2000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-08-03T08:00:00Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3393866031072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=b5dc23d057acdcd8276f8274b3cfda2d",
+          "language": "ja"
+        },
+        {
+          "title": "最強小型ゲーミングタブ「Legion Tab」が12万2800円！ 限定白モデルはケース付き",
+          "description": "Amazon.co.jpにて、8.8インチ「Lenovo Legion Tab (8.8\", 5) タブレット」がセール中。ゲームも動画もサクサク動くコンパクトさで人気です。",
+          "url": "https://ascii.jp/elem/000/004/424/4424360/?rss",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-08-03T08:00:00Z",
+          "image": "https://ascii.jp/img/2026/08/03/4508723/xl/9425183e08d28bdb.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "最強小型ゲーミングタブ「Legion Tab」が12万2800円！ 限定白モデルはケース付き",
+          "description": "Amazon.co.jpにて、8.8インチ「Lenovo Legion Tab (8.8\", 5) タブレット」がセール中。ゲームも動画もサクサク動くコンパクトさで人気です。",
+          "url": "https://ascii.jp/elem/000/004/424/4424360/?focus=4",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-08-03T08:00:00Z",
+          "image": "https://ascii.jp/img/2026/08/03/4508723/xl/9425183e08d28bdb.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "最強小型ゲーミングタブ「Legion Tab」が12万2800円！ 限定白モデルはケース付き",
+          "description": "Amazon.co.jpにて、8.8インチ「Lenovo Legion Tab (8.8\", 5) タブレット」がセール中。ゲームも動画もサクサク動くコンパクトさで人気です。",
+          "url": "https://ascii.jp/elem/000/004/424/4424360/?topnew=2",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-08-03T08:00:00Z",
+          "image": "https://ascii.jp/img/2026/08/03/4508723/xl/9425183e08d28bdb.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "（まとめ）日経平均は607円安の63,754円と反落 円急伸が輸出関連銘柄の売り材料に",
+          "description": "東京市場まとめ1.概況日経平均は527円安の63,834円と反落して取引を開始しました。先週末の日経平均は2,494円高と大きく上昇したこともあり、戻り待ちの売りが先行しました。序盤から売りが先行した日経平均は、10時18分に1,658円安の62,703円をつけ、この日の安値を更....",
+          "url": "https://media.monex.co.jp/articles/-/29876",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-08-03T07:46:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
+          "language": "ja"
+        },
         {
           "title": "バスケ男子日本代表が合宿メンバー14名発表…八村塁と河村勇輝も招集「期待に応えられる 『最強の布陣』 を」",
           "description": "8月3日、日本バスケットボール協会（JBA）は、「FIBAバスケットボールワールドカップ2027 アジア地区予選 Window4」に向けた男子日本代表直前合宿···",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-08-03T06:36:00Z",
           "image": "https://contents.oricon.co.jp/upimg/news/2472000/2471778/20260719_180910_p_o_14218720.jpg",
           "language": "ja"
-        },
-        {
-          "title": "「スパイダーマン：ブランド・ニュー・デイ」歴代シリーズ最高の初日興収。世界興収は歴代2位",
-          "description": "7月31日に日米同時公開された「スパイダーマン：ブランド・ニュー・デイ」の興行成績が発表された。公開3日間の動員は973,259人、興行収入15億5,944万2,594円を突破し、2020年以降に公開された洋画実写作品でNo.1となった。",
-          "url": "https://av.watch.impress.co.jp/docs/news/2130073.html",
-          "source": {
-            "name": "AV Watch"
-          },
-          "publishedAt": "2026-08-03T06:26:29Z",
-          "image": "https://av.watch.impress.co.jp/img/avw/list/2130/073/pos.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "“ここから、世界だ”…Jリーグ新シーズン開幕イベントで意気込み語る 連覇目指す鹿島GK早川友基「チャレンジャーとして戦っていく」",
-          "description": "2026/27明治安田Jリーグ開幕イベントが行われた。\n　2026年から欧州主要リーグの開幕時期に合わせ、Jリーグは8月開幕・6月閉幕の秋春制へ移行。今年2月から6月にかけて行われた特別大会・明",
-          "url": "https://news.yahoo.co.jp/articles/741719f40849c570e52d8121e3eab1aacbbfa8fb",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-03T06:12:30Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260803-02189339-soccerk-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "『パルワールドオンライン』始動。モバイル向けに最適化された、パルや仲間といつでもどこでも楽しめるオンラインマルチプレイ・サバイバルクラフト",
-          "description": "シンガポールのGarena Online Private Limitedは、ポケットペアよりライセンス許諾を受けたスマートフォン向け新作ゲーム『パルワールドオンライン』を発表した。",
-          "url": "https://www.famitsu.com/article/202608/83309",
-          "source": {
-            "name": "ファミ通"
-          },
-          "publishedAt": "2026-08-03T06:02:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/83309/thumbnail_KTEz.jpg?x=1280",
-          "language": "ja"
-        },
-        {
-          "title": "新GPU「Radeon RX 9050」が登場するもアキバの反応は静か――2026年8月最新パーツ事情",
-          "description": "ゲーミングPCを組む上で、必要最低限クラスといえるグレードの新GPUを搭載した製品が複数のメーカーから登場した。グラフィックスカードの全般的な値上がりが不安視される中、ユーザーからの反響はまだ静かな様子だ。 (1/4)",
-          "url": "https://www.itmedia.co.jp/pcuser/articles/2608/03/news070.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-08-03T06:00:00Z",
-          "image": "https://image.itmedia.co.jp/pcuser/articles/2608/03/cover_news070.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "消費減税1％で「手取り7％減る」 納税免除農家の苦悩「販売価格上げざるを得ない」",
-          "description": "高市早苗総理大臣が食料品の消費税率を1％に引き下げる方針を表明したことを受け、農家からは悲鳴が上がっています。",
-          "url": "https://news.yahoo.co.jp/articles/7ce9c9c15893039b3ccaa2ee7cbef16637c4f1c1",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-03T05:00:36Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260803-90196379-ann-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "Pixel 11 Pro Foldの公式風画像リーク。噂の背面虹色ライト「Pixel Glow」もある",
-          "description": "8月12日から予約が始まるGoogle（グーグル）の最新スマホPixel 11シリーズ。ニューヨークで開催されるMade by Googleイベントで発表されます。Googleの折りたたみスマホの新モデルPixel 11 Pro Foldも",
-          "url": "https://www.gizmodo.jp/article/pixel-11-pro-fold-pixel-glow/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-08-03T05:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/08/03/2bd57ffa-07f8-4cad-a5b8-b861f70f882f/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "ロシア首都のレストランで爆発、3人死亡と国営メディア",
-          "description": "ロシア・モスクワのイタリアンレストランで1日、手製の爆発物が爆発し、少なくとも3人が死亡、21人が負傷した。ロシア国営メディアが治安当局の話として伝えた。",
-          "url": "https://www.bbc.com/japanese/articles/c62qnq445pgo",
-          "source": {
-            "name": "bbc.com"
-          },
-          "publishedAt": "2026-08-03T04:35:15Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/074e/live/33005890-8e4e-11f1-b2ab-0dd01740f9f6.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Nigeria regulator says 43 insurers met new capital rules",
-          "description": "LAGOS, Aug 3 (Reuters) – Forty-three Nigerian insurance and reinsurance companies have met new capital requirements introduced under landmark industry reforms, the country’s insurance regulator said on Sunday, marking a major milestone in a year-long recapitalisation exercise. The National Insurance Commission (NAICOM) said eight insurers that submitted evidence of compliance shortly before the July 31 deadline were […]",
-          "url": "https://www.cnbcafrica.com/2026/nigeria-regulator-says-43-insurers-met-new-capital-rules",
-          "source": {
-            "name": "cnbcafrica.com"
-          },
-          "publishedAt": "2026-08-03T07:37:36Z",
-          "image": "https://cdn.cnbc.africa/wp-content/uploads/2025/11/PO5FH5LMLBNHVDVT4MB26XKALY.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Gianni Infantino: Wales withdraws support for FIFA president's re-election",
-          "description": "Wales has become the first football association to officially withdraw support for Gianni Infantinos re-election as FIFA president; the FAW has written to FIFA about its position on its chief; Infantino scrapped plans to sell a ‌stake in the World Cup to private investors",
-          "url": "https://www.skysports.com/football/news/12040/13569308/gianni-infantino-wales-withdraws-support-for-fifa-presidents-re-election",
-          "source": {
-            "name": "Sky Sports"
-          },
-          "publishedAt": "2026-08-03T07:35:49Z",
-          "image": "https://e0.365dm.com/26/07/1600x900/skysports-gianni-infantino_7311449.jpg?20260731192706",
-          "language": "en"
-        },
-        {
-          "title": "Moroccan Football mourns 20-year-old player who drowned trying to reach Spain",
-          "description": "Moroccan football mourns 20-year-old Faten Ben Omar El Azizi, who drowned trying to reach Spain’s Ceuta amid rising irregular migration and deadly sea crossings.",
-          "url": "https://gulfnews.com/sport/football/moroccan-football-mourns-20-year-old-player-who-drowned-trying-to-reach-spain-1.500628961",
-          "source": {
-            "name": "Gulf News"
-          },
-          "publishedAt": "2026-08-03T07:35:34Z",
-          "image": "https://media.assettype.com/gulfnews%2F2026-08-03%2Fb8qzx9qm%2FMorocco.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-          "language": "en"
-        },
-        {
-          "title": "Farage urged to ‘come clean’ as fresh questions raised over £5 million gift",
-          "description": "It casts new doubt on his defence for not declaring a £5 million gift from crypto-billionaire and Reform donor Christopher Harborne.",
-          "url": "https://www.standard.co.uk/news/politics/nigel-farage-richard-tice-mps-clacton-bridget-phillipson-b1292151.html",
-          "source": {
-            "name": "London Evening Standard"
-          },
-          "publishedAt": "2026-08-03T07:34:56Z",
-          "image": "https://static.standard.co.uk/2026/08/03/08/b40e40188d295486dc07bd6f42f2bc36Y29udGVudHNlYXJjaGFwaSwxNzg1NzgwODEw-2.85373111.jpg?width=1200&auto=webp&quality=75",
-          "language": "en"
-        },
-        {
-          "title": "Makinde, Fayemi, Oyinlola Visit Obasanjo Over National Issue",
-          "description": "Oyo State Governor Seyi Makinde, alongside Fayemi and Oyinlola, visited former President Olusegun Obasanjo to discuss crucial national issues.",
-          "url": "https://punchng.com/photos-makinde-fayemi-oyinlola-visit-obasanjo/",
+          "title": "Veekee James defends constant outings with husband",
+          "description": "Fashion designer Veekee James claps back at critics, defending her constant public appearances with her husband, Femi Atere. She calls him her \"personal ha",
+          "url": "https://punchng.com/he-is-my-personal-handbag-veekee-james-defends-constant-outings-with-husband/",
           "source": {
             "name": "Punch Newspapers"
           },
-          "publishedAt": "2026-08-03T07:34:10Z",
-          "image": "https://punchng.com/wp-content/uploads/2026/08/IMG_5351_1785736571-1000x630.webp",
+          "publishedAt": "2026-08-03T10:08:49Z",
+          "image": "https://punchng.com/wp-content/uploads/2026/08/476850920_18384430102129716_6988761126550288789_n_1785751224-1080x630.webp",
           "language": "en"
         },
         {
-          "title": "Oppn raises 'Amit Shah absent', chanda chori banners at Parl",
-          "description": "Opposition MPs, including Priyanka Gandhi Vadra, staged a protest in the Parliament House complex against alleged donation theft at the Ram temple in Ayodhya and 'police excesses' against student protesters. The INDIA bloc vowed to continue their agitation, demanding accountability from the government, particularly Home Minister Amit Shah, on these issues.",
-          "url": "https://m.rediff.com/news/report/oppn-raises-amit-shah-absent-chanda-chori-banners-at-parl/20260803.htm",
+          "title": "Cuba plunges into darkness as electric grid collapses",
+          "description": "Cuba’s electricity grid collapsed late Sunday, the state-owned grid ​operator said, plunging the island of ‌about 10 million people into darkness as blackouts become more frequent.",
+          "url": "https://www.nbcnews.com/world/cuba/cuba-plunges-darkness-electric-grid-collapses-rcna590542",
           "source": {
-            "name": "Rediff"
+            "name": "NBC News"
           },
-          "publishedAt": "2026-08-03T07:33:58Z",
-          "image": "https://im.rediff.com/1200-630/news/2026/aug/03jaya-bachchan.jpg",
+          "publishedAt": "2026-08-03T10:08:44Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260803-cuba-blackout-mb-1103-a223b7.jpg",
           "language": "en"
         },
         {
-          "title": "Geoffrey Mosiria Rescues Gengetone Singer Maddox From Streets, Takes Him to Rehab",
-          "description": "Gengetone star Maddox was found living on the streets, battling depression and addiction. Activist Geoffrey Mosiria stepped in to help with his recovery journey.",
-          "url": "https://www.tuko.co.ke/entertainment/celebrities/634975-geoffrey-mosiria-rescues-gengetone-singer-maddox-streets-takes-rehab-edited/",
+          "title": "External Debt Crowds Out Education Spending in Southern Africa, Teachers Unions Say",
+          "description": "Teachers' unions from eight Southern African countries adopted the Johannesburg Declaration on July 30, demanding governments allocate 6% of GDP and",
+          "url": "https://www.ecofinagency.com/news-services/0308-57941-external-debt-crowds-out-education-spending-in-southern-africa-teachers-unions-say",
           "source": {
-            "name": "Tuko News"
+            "name": "Ecofin Agency"
           },
-          "publishedAt": "2026-08-03T07:32:20Z",
-          "image": "https://cdn.tuko.co.ke/images/1200x675/23fa2c410c0487ea.jpeg?v=1",
+          "publishedAt": "2026-08-03T10:08:37Z",
+          "image": "https://www.ecofinagency.com/media/k2/items/cache/31d0ac96f2bd4f61ba7c3a73160ce018_S.jpg",
           "language": "en"
         },
         {
-          "title": "NYS entry rules 'shut out' vulnerable youth, MP warns",
-          "description": "Swapo member of parliament Willem Amutenya has urged education minister Sanet Steenkamp to review the National Youth Service's (NYS) admission requirements, arguing that they unfairly exclude […]",
-          "url": "https://www.namibian.com.na/nys-entry-rules-shut-out-vulnerable-youth-mp-warns/",
+          "title": "Celebrating a week of Asia’s best bars",
+          "description": "Wynn Macau and Wynn Palace successfully concluded Asia’s 50 Best Bars 2026, serving as official host partner for the second consecutive year, once again bringing the region’s most influential bar industry event to Macau and placing the city at the centre of Asia’s cocktail conversation.",
+          "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3295869/celebrating-a-week-of-asias-best-bars",
           "source": {
-            "name": "The Namibian -"
+            "name": "Bangkok Post"
           },
-          "publishedAt": "2026-08-03T07:31:40Z",
-          "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-8.18.29-AM-937x1024.jpeg",
+          "publishedAt": "2026-08-03T10:08:00Z",
+          "image": "https://static.bangkokpost.com/media/content/20260803/c2_3295869_260803172259.jpg",
           "language": "en"
         },
         {
-          "title": "Cervical screening: Almost one million notifications not sent, review finds",
-          "description": "By RNZ Almost a million notifications did not get sent to people eligible for cancer screening due to flaws in the national cervical cancer screening...",
-          "url": "https://www.nzherald.co.nz/nz/cervical-screening-almost-one-million-notifications-not-sent-review-finds/APPXI37MVFA4HLZFPAIQI4SYYA/",
+          "title": "One Nation reveals Victorian state leader and upper house candidates",
+          "description": "One Nation reveals its upper house candidates for Victoria, with army veteran and party state president Warren Pickering set to lead the party to the upcoming state election.",
+          "url": "https://www.abc.net.au/news/2026-08-03/one-nation-victoria-candiates-revealed/106989410",
           "source": {
-            "name": "NZ Herald"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-08-03T07:31:14Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/5QCM7A3S3SMXQNUDOXQB7LVKKY.jpg?auth=9de80c2c5cc0839a5f2a01227a557dfaf4d930e9a867a72fcd452ac87f8b4cf3&width=1200&height=675&quality=70&smart=true",
+          "publishedAt": "2026-08-03T10:07:57Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/601aac719d3334253b8f2450302160c7?impolicy=wcms_watermark_news&cropH=864&cropW=1536&xPos=0&yPos=262&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "The first crack in West Africa’s plan to unify its currency is showing, as one of its members decides to play safe",
-          "description": "Guinea has become the first member of the Economic Community of West African States (ECOWAS) to officially refuse membership in the proposed Eco currency, opting to keep the Guinean franc as the regional bloc inches closer to forming a monetary union. | Business Insider Africa",
-          "url": "https://africa.businessinsider.com/local/markets/the-first-crack-in-west-africas-plan-to-unify-its-currency-is-showing-as-one-of-its/bpedwzn",
+          "title": "The Ceuta crisis will strengthen \"Fortress Europe\"",
+          "description": "The EU has realised that, to preserve the Schengen Area, it is essential to harden the continent's external borders",
+          "url": "https://www.newstatesman.com/world/europe/2026/08/the-ceuta-crisis-will-fortify-fortress-europe",
           "source": {
-            "name": "Business Insider Africa"
+            "name": "New Statesman"
           },
-          "publishedAt": "2026-08-03T07:30:22Z",
-          "image": "https://ocdn.eu/pulscms-transforms/1/oD9ktkpTURBXy85NDY3YTYwNTU0YWJhYTM0YTYwNmMxMmI3MDE1NWU2My5qcGeSlQMAAM0HgM0EOJMFzQSwzQJ2",
+          "publishedAt": "2026-08-03T10:07:51Z",
+          "image": "https://dl6pgk4f88hky.cloudfront.net/2026/08/02/gettyimages-2288489248-800x418.jpg?1785749921",
+          "language": "en"
+        },
+        {
+          "title": "Bruno Guimaraes: Arsenal transfer target arrives in Spain to join Newcastle's pre-season training camp in La Manga",
+          "description": "Newcastle captain Bruno Guimaraes was expected to meet up with his team-mates on Sunday in their Spain training camp; The Brazil international is on his way and set to arrive on Monday, after he told them last month he wanted to join Arsenal",
+          "url": "https://www.skysports.com/football/news/11678/13565570/bruno-guimaraes-arsenal-transfer-target-failed-to-turn-up-for-newcastles-pre-season-training-camp-in-la-manga-as-planned-on-sunday",
+          "source": {
+            "name": "Sky Sports"
+          },
+          "publishedAt": "2026-08-03T10:07:30Z",
+          "image": "https://e0.365dm.com/26/07/1600x900/skysports-guimaraes-arsenal_7303206.jpg?20260721120010",
+          "language": "en"
+        },
+        {
+          "title": "Kakamega County launches campaign against teen pregnancies, HIV infections and SGBV",
+          "description": "Kakamega County launches a campaign dubbed the Triple Threat Campaign to combat rising cases of teenage pregnancies, HIV infections and sexual and gender-based violence (SGBV).",
+          "url": "https://www.standardmedia.co.ke/western/article/2001554418/kakamega-county-launches-campaign-against-teen-pregnancies-hiv-infections-and-sgbv",
+          "source": {
+            "name": "standardmedia.co.ke"
+          },
+          "publishedAt": "2026-08-03T10:07:00Z",
+          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/9PVy93sql5OVYWOwr6H0ovlwu1BF9Oo7laWp4fKY.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Play For a Cure director named to WRH Foundation",
+          "description": "A local advocate for cancer care will now bring his expertise to the Windsor Regional Hospital (WRH) Foundation.",
+          "url": "https://sarnianewstoday.ca/windsor/news/2026/07/31/play-for-a-cure-director-named-to-wrh-foundation",
+          "source": {
+            "name": "Sarnia News Today"
+          },
+          "publishedAt": "2026-08-03T10:06:25Z",
+          "image": "https://media.mynewstoday.ca/i/A9BE4Rel",
+          "language": "en"
+        },
+        {
+          "title": "VP calls for practical Hai//Om solutions",
+          "description": "Mulisa Simiyasa \nOUTJO  – Vice President Lucia Witbooi has directed a high-level delegation tasked with addressing challenges facing the Hai//Om San",
+          "url": "https://neweralive.na/vp-calls-for-practical-hai-om-solutions/",
+          "source": {
+            "name": "neweralive.na"
+          },
+          "publishedAt": "2026-08-03T10:06:06Z",
+          "image": "https://neweralive.na/wp-content/uploads/2026/08/VP-scaled.jpg",
           "language": "en"
         }
       ]
