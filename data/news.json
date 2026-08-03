@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-03T02:53:28.509Z",
+  "updatedAt": "2026-08-03T06:24:08.159Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "阪神・坂本誠志郎 キャリア初1試合2発「好調の理由は…何でですかね？」 本人もビックリ2戦連発",
+          "description": "◇セ・リーグ　阪神4―3ヤクルト（2026年8月2日　神宮）\n　阪神・坂本誠志郎捕手（32）が、2日のヤクルト戦（神宮）でキャリア初となる1試合2本塁打を放った。4回1死から、こちらも自身初の2",
+          "url": "https://news.yahoo.co.jp/articles/2a35c031570da9460fa925cb876d9b89253f7f3f",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-02T16:15:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260803-00000050-spnannex-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "イオンモール宇城で天井下敷きになった80代男性死亡 氷川町で車中泊の70代女性死亡 初めての災害関連死疑い",
+          "description": "イオンは熊本・宇城市にある「イオンモール宇城」で、男性客1人が地震で崩れた天井の下敷きになり死亡したと発表しました。イオンによりますと、「イオンモール宇城」では地震発生後、従業員が客を屋外に避難させた後、館内に残っている人がいないことを目視で確認したということです。7月31日、警察とともに改めて館内を確認をしたところ、天井の下敷きになった意識不明の80代男性客1人を発見し、病院に搬送しましたが、2日、死亡が確認されました。一方、熊本県は、7月28日の地震の後、車中泊をしていた70代の女性が熱中…",
+          "url": "https://www.fnn.jp/articles/-/1087227",
+          "source": {
+            "name": "fnn.jp"
+          },
+          "publishedAt": "2026-08-02T16:01:00Z",
+          "image": "https://fnn.ismcdn.jp/mwimgs/b/7/600/img_b7924b9af3e3b58945e80cd8af182306580439.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「命に代えるものではなかった」イオンモール熊本爆発事故 従業員2人死亡のテナント幹部が通夜で謝罪 「売上を金庫に入れるよう」指示",
+          "description": "熊本地震で爆発事故が起きたイオンモール熊本のテナント会社で、従業員2人が死亡した「ハビタ」の幹部が、初めて報道陣の取材に応じました。\n一度、屋外へ避難した従業員に「売上金を金庫に入れるよう」幹部が",
+          "url": "https://news.yahoo.co.jp/articles/c6dcb30d5af99749c7ed70b1d48eac5021b21130",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-02T15:16:10Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260803-22845281-rkkv-000-5-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "【マイ・フィクション】宮澤エマ“石野”、奪われた娘と人生を取り戻すべく玉森裕太“伊川”と協力 第6話あらすじ＆場面写真",
           "description": "ニュース｜　6人組グループ・Kis-My-Ft2の玉森裕太が主演を務める、9日放送のABCテレビ・テレビ朝日系連続ドラマ『マイ・フィクション』（毎週日曜　後10：15）第6話のあらすじと場面写真が解禁された。　今作は、記憶に隠された真実をめぐる、予測不能なサスペンス・ラブストーリー。平和な町で平凡に暮らす男・伊川正樹（玉森）の身に起きた不可思議な出来事を描く。■第6話あらすじ",
@@ -81,150 +114,117 @@
           "publishedAt": "2026-08-02T09:49:00Z",
           "image": "https://contents.oricon.co.jp/upimg/news/2472000/2471588/20260802_184353_p_o_59296219.jpg",
           "language": "ja"
-        },
-        {
-          "title": "【 清水アキラ 】息子・清水良太郎さんの死去に悲痛「この現状を受け止めることができておりません」【 全文掲載 】",
-          "description": "ものまねタレントの清水アキラさんが、亡くなったことが分かったタレントで息子の清水良太郎さんについて、所属事務所の公式サイトを通じてコメントを寄せました。 清水さんは「この現状を受け止めることができて… (1ページ)",
-          "url": "https://newsdig.tbs.co.jp/articles/-/2845206?display=1",
-          "source": {
-            "name": "TBS NEWS DIG"
-          },
-          "publishedAt": "2026-08-02T09:44:00Z",
-          "image": "https://newsdig.ismcdn.jp/mwimgs/5/a/1200w/img_5aeafd7facad3f6b1263cf4d78314738303301.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "明日3日 東京都心は気温ダウン 近畿～九州は猛烈な暑さが続く 熊本は41℃予想",
-          "description": "明日3日の東京都心は雲が広がりやすく、最高気温は大幅にダウンする見込みです。一方、西日本では、晴れ間が出る所が多く、猛烈な暑さが続くでしょう。特に熊本県など九州山地の西側では、一段と日中の気温が上がって、最高気温40℃以上の酷暑日となる所が出てくる可能性があります。気温の高い時間帯は無理をせず、できるだけ涼しい場所で過ごすなど、最大限の熱中症対策を行ってください。",
-          "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/08/02/39985.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-08-02T09:29:36Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/399/39985/main/20260802170016/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【巨人】逆転負けで6カードぶり負け越し... 首位浮上ならず NPB復帰3戦目の小笠原は7回2失点2敗目 プロ初三塁打含むマルチも 松本先制打",
-          "description": "■プロ野球　巨人 1ー2 DeNA　（2日　東京ドーム）\n巨人はDeNAに敗戦。2連敗でカード1勝2敗となり、6カードぶりの負け越しとなった。51勝42敗2分の貯金9で2位、DeNAとの対戦成績は",
-          "url": "https://news.yahoo.co.jp/articles/12e7bcc016c51c804f9c0cba5c674979f5447e7d",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-02T07:45:04Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260802-00010006-jnn-000-1-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Nicole Kidman Stuns in a Witchy LBD With Underboob Cutouts and Waist-Length Icy Blonde Hair",
-          "description": "The ‘Practical Magic 2’ actress brought a little Owens sister magic to Cinespia.",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/nicole-kidman-stuns-witchy-lbd-145302167.html",
+          "title": "Hoyts Cinema's IMAX plans for New Zealand",
+          "description": "Big cinema chain operators like Hoyts have tended to rely on sure-fire, big-name blockbusters and superhero movies to drive ticket sales at cinemas across New Zealand and Australia.",
+          "url": "https://www.rnz.co.nz/news/business/868726/hoyts-cinema-s-imax-plans-for-new-zealand",
           "source": {
-            "name": "Yahoo"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-08-02T14:53:02Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/e67c5ff804f43d2d576cde9ab8e4311e42b5a3281b4b0f627cd8ddd29a15efbf/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F5cf620b338e629e5db127b2ede021972",
+          "publishedAt": "2026-08-02T18:23:31Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--eoAHsxSt--/t_tohu-badge-facebook/f_auto/q_auto/4JKTRN5_ct_04168_msgcrop_webp",
           "language": "en"
         },
         {
-          "title": "Kelsey Plum trade grades: Mercury make a head-scratching move; Sparks embrace the rebuild",
-          "description": "The Mercury are sending Monique Akoa Makani, a 2027 first-round pick and a 2028 second-rounder to the Sparks",
-          "url": "https://www.cbssports.com/wnba/news/wnba-trade-deadline-sparks-kelsey-plum-grades-mercury-blockbuster/",
+          "title": "Deaf man dies after being spear tackled by police officer",
+          "description": "A trip to the pub took a deadly turn, when a police arrest resulted in the death of a 65-year-old man.",
+          "url": "https://www.rnz.co.nz/news/crime-and-justice/868727/deaf-man-dies-after-being-spear-tackled-by-police-officer",
           "source": {
-            "name": "CBS Sports"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-08-02T14:52:00Z",
-          "image": "https://sportshub.cbsistatic.com/i/r/2026/08/02/9e4efcd8-8e5e-446c-8def-08456e141dfa/thumbnail/1200x675/6457e09f7f045bdecf8ebc19142c99a8/kelsey-plum-wnba-trade-sparks-mercury.png",
+          "publishedAt": "2026-08-02T18:23:31Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--XdoMVblz--/t_tohu-badge-facebook/f_auto/q_auto/4JO8DZH_police_pay_01e_jpg",
           "language": "en"
         },
         {
-          "title": "Pumas revive Currie Cup campaign",
-          "description": "Flyhalf Nevaldo Fleurs’ 15-point haul propelled the Pumas past the Boland Cavaliers in Wellington on Sunday. The Pumas won 20-15, having led 10-5 at the break, with their first victory of the Currie Cup campaign lifting them to sixth on the log. Boland, meanwhile, end round three in fourth position. ALSO: Frans upbeat despite Cheetahs defeat Fleurs opened the scoring... Read more →",
-          "url": "https://www.sarugbymag.co.za/pumas-revive-currie-cup-campaign/",
+          "title": "Op-Ed: Sanctions Drive Growth of a Parallel Shipping Economy",
+          "description": "The Russia – Ukraine war started on 24 February 2022, when Moscow invaded its neighbor. The invasion triggered widespread condemnation, and a coalitio...",
+          "url": "https://maritime-executive.com/editorials/op-ed-sanctions-drive-growth-of-a-parallel-shipping-economy",
           "source": {
-            "name": "SA Rugby magazine"
+            "name": "maritime-executive.com"
           },
-          "publishedAt": "2026-08-02T14:50:27Z",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/08/Nevaldo-Fleurs-2-August-2026-Ashley-Vlotman-Gallo-Images-e1785681576830.jpg",
+          "publishedAt": "2026-08-02T18:22:06Z",
+          "image": "https://maritime-executive.com/media/images/article/1785695510_6a6f8d16c28a0.jpg",
           "language": "en"
         },
         {
-          "title": "Canada hopes 'very frustrating' loss to USA helps 'light a fire' on road to World Juniors",
-          "description": "Team Canada left the World Junior Summer Showcase with a sour taste in its mouth following a 7-2 loss to the United States on Saturday at the WFCU Centre. Mark Masters has more on a \"frustrating\" few games.",
-          "url": "https://www.tsn.ca/hockey-canada/article/canada-hopes-very-frustrating-loss-to-usa-helps-light-a-fire-on-road-to-world-juniors/",
+          "title": "U.S. Box Office Record $429M Weekend Due to 'Spider",
+          "description": "North American box office sees record $429M weekend thanks to 'Brand New Day', as YTD B.O. soars past $6B.",
+          "url": "https://deadline.com/2026/08/box-office-domestic-record-weekend-spider-man-brand-new-day-1237015511/",
+          "source": {
+            "name": "Deadline"
+          },
+          "publishedAt": "2026-08-02T18:20:00Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-2287934545.jpg?w=1024",
+          "language": "en"
+        },
+        {
+          "title": "Gap Emerges Between Board Of Peace Roadmap And Israel's Policy On The Ground",
+          "description": "\"There is no ceasefire,\" Israeli sources tells i24NEWS. \"We will continue to respond to every threat and carry out operations whenever necessary\"",
+          "url": "https://www.i24news.tv/en/news/middle-east/palestinian-territories/artc-gap-emerges-between-board-of-peace-roadmap-and-israel-s-policy-on-the-ground",
+          "source": {
+            "name": "i24NEWS"
+          },
+          "publishedAt": "2026-08-02T18:19:20Z",
+          "image": "https://cdn.i24news.tv/uploads/19/c0/3b/f5/b2/b9/6c/cf/48/c8/97/23/1d/5a/c7/a2/19c03bf5b2b96ccf48c897231d5ac7a2.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Multiple homes destroyed overnight by Bradley Creek fire",
+          "description": "A number of homes were lost to the Bradley Creek wildfire overnight.",
+          "url": "https://www.castanet.net/news/Vernon/626819/Multiple-homes-destroyed-overnight-by-Bradley-Creek-fire",
+          "source": {
+            "name": "Castanet"
+          },
+          "publishedAt": "2026-08-02T18:15:00Z",
+          "image": "https://www.castanet.net/content/2026/8/626819_0.jpg",
+          "language": "en"
+        },
+        {
+          "title": "British prime minister says Infantino is not the right man to lead FIFA",
+          "description": "British Prime Minister Andy Burnham said Sunday that FIFA President Gianni Infantino was not the right man to lead world soccer’s governing body in the latest fallout from the now abandoned plan to sell stakes in the World Cup to private investors.",
+          "url": "https://www.tsn.ca/soccer/fifa-world-cup/article/british-prime-minister-says-infantino-is-not-the-right-man-to-lead-fifa/",
           "source": {
             "name": "TSN"
           },
-          "publishedAt": "2026-08-02T14:50:14Z",
-          "image": "https://www.tsn.ca/resizer/v2/6SQJKHRDU5HUJKSMCWPLABLG2Y.jpg?smart=true&auth=f6ea8147d4249c20ea11320e346972487c264faa08b0b0c7ddab1e0961899855&width=1200&height=630",
+          "publishedAt": "2026-08-02T18:14:52Z",
+          "image": "https://www.tsn.ca/resizer/v2/RNCDAR6GBEY3JMFNME2JAC5CWQ.jpg?smart=true&auth=70398a4c5af6145ac1da5ccb3352eb0355b00dd0c8cd097627907ac0e527148d&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Report: Tottenham Hotspur ready to pay £55m to sign world-class striker",
-          "description": "Tottenham Transfer News: Victor Osimhen Interest Makes Sense, But Spurs Must Keep Their HeadsTottenham are being linked with Victor Osimhen and, on the face of it, the logic is obvious. If you want a ...",
-          "url": "https://sports.yahoo.com/articles/report-tottenham-hotspur-ready-pay-145000152.html",
+          "title": "2026 MLB trade deadline rumors, news, live updates: Dodgers acquire ace Tarik Skubal from Tigers; Mets deal Freddy Peralta to Rays",
+          "description": "Follow along for the latest news ahead of the MLB trade deadline.",
+          "url": "https://sports.yahoo.com/mlb/live/2026-mlb-trade-deadline-rumors-news-live-updates-dodgers-acquire-ace-tarik-skubal-from-tigers-mets-deal-freddy-peralta-to-rays-182640023.html",
           "source": {
             "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-08-02T14:50:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/c67d800b8471e58da99ceb68409b3f49c34a1fc01433502afa7f733c200a3bbb/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fepl_index_articles_253%2F74a631cd6f36066fabedb1316a49ecef",
+          "publishedAt": "2026-08-02T18:14:18Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/f0cc4207199bca65ca4559f3259f2d0559e613ed1aa17d87cc2614a0cc435d7b/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fa21b1655-21e4-43ff-a927-02f05fec67ea",
           "language": "en"
         },
         {
-          "title": "Donald Trump set to visit Ireland in September",
-          "description": "The trip will include a visit to Co Clare, where he is expected to attend the Irish Open golf tournament at his course in Doonbeg.",
-          "url": "https://www.thejournal.ie/trump-visit-co-clare-september-7119899-Aug2026/",
+          "title": "FBI 'under pressure' to expand role in Nancy Guthrie investigation",
+          "description": "In Nancy Guthrie's case, the Pima County Sheriff's Department is taking a lead in investigating her disappearance.But six months have passed, and frustration is boiling in the public in general and,...",
+          "url": "https://www.thenews.com.pk/latest/1411046-fbi-under-pressure-to-expand-its-role-in-the-nancy-guthrie-investigation",
           "source": {
-            "name": "The Journal"
+            "name": "The News International"
           },
-          "publishedAt": "2026-08-02T14:50:00Z",
-          "image": "https://img2.thejournal.ie/article/7119899/river/?height=400&version=7119901",
+          "publishedAt": "2026-08-02T18:14:00Z",
+          "image": "https://www.thenews.com.pk/assets/uploads/2026-08-02/1411046_111438_updates.jpg",
           "language": "en"
         },
         {
-          "title": "B.C. wildfires continue to flare up, with almost 30 added in past 24 hours",
-          "description": "Even if a wildfire is not threatening your community, the BC Wildfire Service is recommending that British Columbians be prepared if you need to leave quickly.",
-          "url": "https://globalnews.ca/news/12006840/bc-wildfires-new-blazes-evacuations-aug-2/",
+          "title": "Dangote, Sinoma sign $800m MoU to expand Itori Cement plant capacity to 12 MTPA",
+          "description": "By Udeme Akpan Dangote Industries Limited and Sinoma International Engineering Co., Ltd. have signed a landmark Memorandum of Understanding (MoU) worth more than $800 million to expand the Dangote Cement Plant in Itori, Ogun State, increasing its production capacity from six million to 12 million metric tonnes per annum (MTPA). The agreement was signed by […]",
+          "url": "https://www.vanguardngr.com/2026/08/dangote-sinoma-sign-800m-mou-to-expand-itori-cement-plant-capacity-to-12-mtpa/",
           "source": {
-            "name": "Global News"
+            "name": "Vanguard News"
           },
-          "publishedAt": "2026-08-02T14:49:28Z",
-          "image": "https://globalnews.ca/wp-content/uploads/2026/08/b8f17671936d063e14898363fc48f48471ff5dac87e1b15d7930092ab9160e7c.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-          "language": "en"
-        },
-        {
-          "title": "Bulawayo man arrested over alleged copper cable theft",
-          "description": "The suspect, Nigel Chakanyuka, was arrested on July 30 after he was allegedly caught attempting to smuggle copper cable out of the company’s premises.",
-          "url": "https://www.newsday.co.zw/local-news/article/200058969/bulawayo-man-arrested-over-alleged-copper-cable-theft",
-          "source": {
-            "name": "NewsDay Zimbabwe"
-          },
-          "publishedAt": "2026-08-02T14:48:45Z",
-          "image": "https://cdn.thestandard.co.zw/images/newsday/uploads/2026/08/M5rWW9PyXFMUZhqHVF9MAmOKDUJqV5ztXBmJOV4J.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Netball: Silver Ferns crowned Commonwealth Games champions after beating Jamaica",
-          "description": "New Zealand are Commonwealth Games netball champions for the first time since 2010, capping off a remarkable story of sporting resilience. The Silver Ferns...",
-          "url": "https://www.nzherald.co.nz/sport/netball/silver-ferns/netball-silver-ferns-crowned-commonwealth-games-champions-after-beating-jamaica-56-48/DAC4Y7DTZ5CQ5CLRXB4XIT6TTU/",
-          "source": {
-            "name": "NZ Herald"
-          },
-          "publishedAt": "2026-08-02T14:48:39Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/KDBT6DAVRBD7DD5IYRPGEW7NIM.JPG?auth=3dc4bcdbf233bc4d8f31e9e102fd042ba351fd5bce5cf9c871eb71b3b1d4543b&width=1200&height=675&quality=70&smart=true",
-          "language": "en"
-        },
-        {
-          "title": "Rumours ignite social media over alleged Cristiano Ronaldo and Georgina Rodríguez wedding",
-          "description": "If Cristiano Ronaldo and Georgina Rodríguez had married this weekend, as so many tabloids claimed, it would have been the best-kept media secret in history.View on euronews",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/rumours-ignite-social-media-over-134703400.html",
-          "source": {
-            "name": "Yahoo"
-          },
-          "publishedAt": "2026-08-02T14:48:23Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/4c6843deb7d1a0246b97fb69127109c3379807d30419ef57f83631d5c6609d55/lightyear_networkapi/resizefill_w1024_h576;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fb2d5447c48dc8603e1b65dc59a0a0413",
+          "publishedAt": "2026-08-02T18:13:55Z",
+          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/11/alike-dangote.webp",
           "language": "en"
         }
       ]
