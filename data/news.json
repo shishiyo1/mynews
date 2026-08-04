@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-04T11:23:47.906Z",
+  "updatedAt": "2026-08-04T14:14:49.341Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "iOS 27の写真アプリで自分が撮った写真だけが並ぶ。今のiPhoneでどこまでできるか",
+          "description": "✅この記事では、iOS 27の写真アプリに増える「Captured by Me」で何が変わるのかを、今のiPhoneでできることと並べて整理します。 要点まとめ：iOS 27の「Captured by Me」で何が変わるのか 「Captured by Me」に入るのは、カメラで撮ったものだけ 今のiPhoneにあるのは、消したいものを消す設定 「保存した側」を集める場所は、先にできていた 海外の反応：カメラロールを探し続けた人たち ひとこと：増えるより、混ざらないほうがうれしい まとめ：正式版が来たら、最初に開くのはユーティリティ どうも、となりです。 写真アプリを開いて、去年撮った1枚を探し…",
+          "url": "https://www.apple-hacks.com/entry/ios27-photos-captured-by-me",
+          "source": {
+            "name": "apple-hacks.com"
+          },
+          "publishedAt": "2026-08-04T01:29:15Z",
+          "image": "https://cdn.image.st-hatena.com/image/scale/b812bb70dd8cc5d2d3c21195a1bfc1aa5e244952/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnumberhunter%2F20260804%2F20260804094701.webp",
+          "language": "ja"
+        },
+        {
+          "title": "絶滅しているのは動物だけじゃない。科学者たちは「植物」を本気で心配している",
+          "description": "あの「バニラ」が絶滅危惧種だって知っていましたか？私たちは、動物が絶滅の危機に瀕していると知ると大騒ぎしますよね。でも、Science Alertによると、地球上に咲く花のうち、5分の1以上が\"このままだと失われてしまう\"危機にあるのだそう",
+          "url": "https://www.gizmodo.jp/article/scientists-are-worried-about-plant-extinction/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-08-04T00:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/08/03/6933752f-3f74-497f-8d32-e201da6e161c/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "カメラ搭載「AirPods」、年内にも登場か",
+          "description": "米Appleが、カメラを搭載した「AirPods」を2026年内にも発売する可能性がある。米Bloombergのマーク・ガーマン記者が2日（現地時間）に報じた。これまでは2027年の投入とみられており、前倒しの観測が浮上した形だ。",
+          "url": "https://japan.cnet.com/article/35251234/",
+          "source": {
+            "name": "CNET Japan"
+          },
+          "publishedAt": "2026-08-03T23:48:00Z",
+          "image": "https://japan.cnet.com/storage/2026/08/04/2caaf70bc2b03698bb99e04ef48be437/Airpod-pro-3.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "４日の東京株式市場見通し＝伸び悩みそう 速報",
+          "description": "予想レンジ：６万３２００円－６万４０００円（３日終値６万３７５４円９０銭）　４日の東京株式は伸び悩みそう。現地３日の米国株式は、ＮＹダウが過去最高値を更新したが、東京市場では、ドル売り・円買いの追加・・・",
+          "url": "https://kabushiki.jp/news/760786",
+          "source": {
+            "name": "kabushiki.jp"
+          },
+          "publishedAt": "2026-08-03T23:32:00Z",
+          "image": "https://kabushiki.jp/ogp.png",
+          "language": "ja"
+        },
+        {
+          "title": "物理ディスクなら安心ってわけじゃなかった。Xboxのシステム障害でわかったこと",
+          "description": "なんというか、タイムリーな。ゲームディスクさえ手元に持っていれば、Xboxのサーバーで何が起きてもゲームを遊べる。少なくとも、物理ディスクにはそんな安心感があるはずでした。しかし、先日Xboxで発生したほぼ丸1日にわたったシステム障害では、",
+          "url": "https://www.gizmodo.jp/article/684fd302-a627-44c7-97a6-4e19c3a572e7/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-08-03T23:30:00Z",
+          "image": "https://media.loom-app.com/loom/2026/08/03/bbbc1462-3680-431b-b2a2-ea09f5885d4f/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
         {
           "title": "日本史と世界史を旅する受験学習RPG『時渡り』、iOS / Android で配信開始",
           "description": "合同会社SNAPLACEのプレスリリース（2026年8月4日 08時10分）日本史と世界史を旅する受験学習RPG『時渡り』、iOS / Android で配信開始",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-08-03T22:13:42Z",
           "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/4/280bfbbdbeeb2bacac896983f9df14505b98dbdb3d9b3e6c1d01a82831849b46.jpg",
           "language": "ja"
-        },
-        {
-          "title": "台風13号は小笠原に最接近 暴風・高波に厳重警戒 沖縄は6日以降影響強まる",
-          "description": "大型で非常に強い台風13号は、4日、小笠原諸島に最接近し、猛烈なしけや暴風となる見込み。その後は日本の南を西へ進み、6日から8日頃にかけて沖縄地方へ接近する予想で、高波や暴風、大雨による影響にご注意ください。",
-          "url": "https://tenki.jp/forecaster/s_ono/2026/08/04/40002.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-08-03T22:13:00Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/400/40002/main/20260804070509/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「スーパースキャンダル」に揺れる検察 転げ落ちたエリートたち",
-          "description": "「スーパースキャンダルだ」 　ある検事は不祥事の一報を聞き耳を疑った。 　「そんな暇じゃないはずなんだよ」 　別の検事は怒っていた。 　一人の男性検事が取った女性への行動で検察に激震が走っている。",
-          "url": "https://mainichi.jp/articles/20260803/k00/00m/040/183000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-08-03T22:00:00Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/08/03/20260803k0000m040178000p/0c10.jpg?1",
-          "language": "ja"
-        },
-        {
-          "title": "桑木志帆が自己最高16位 日本勢3番手に浮上／女子世界ランキング",
-          "description": "3日付の女子ゴルフ世界ランキングが更新された。前週「AIG女子オープン（全英女子）」で海外メジャー初優勝をあげた桑木志帆が46位から自己最高16位に浮上した。 昨年末の71位から主戦場とする国内ツアーで2勝をあげて順位をあげてきた。山下美夢",
-          "url": "https://news.golfdigest.co.jp/news/weeklywr/lpga/article/193748/1/",
-          "source": {
-            "name": "GDOゴルフニュース"
-          },
-          "publishedAt": "2026-08-03T21:34:07Z",
-          "image": "https://i.gimg.jp/cmsimg/433580.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【「ブルーロック」なにわ男子・高橋恭平＆野村康太インタビュー】「大好きな存在を壊してしまわないか」人気キャラへの覚悟 10キロ増量の肉体改造秘話",
-          "description": "8月7日公開の映画『ブルーロック』に出演するなにわ男子の高橋恭平（たかはし・きょうへい／26）と俳優の野村康太（のむら・こうた／22）にモデルプレスがインタビュー。累計発行部数6,000万部を突破し、日本中に“エゴ”の嵐を巻き起こした人気サッカー漫画「ブルーロック」（原作：金城宗幸・ノ村優介／講談社「週刊少年マガジン」連載）を実写化した本作で、千切豹馬（ちぎり・ひょうま）役を演じる高橋と、國神錬介（くにがみ・れんすけ）役を演じる野村。初共演で深まった関係性から、役作り、肉体改造、人気キャラクターを背負うプレッシャーまでたっぷり語ってもらった。",
-          "url": "https://mdpr.jp/interview/detail/4821827",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-08-03T21:00:00Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/lwX1/wm/lwX1kUgHi9JsSR6nz9i0P7MPf1wfzMY-yzBqtrP1tgo.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "NVLinkが抱えるCache Coherencyの問題と、それを捨てたUALinkのアプローチ",
-          "description": "さて、前回に引き続き、NVLinkの話である。前回はVolta同士、およびVoltaとPOWER9の間でCache Coherencyが提供されたという話を紹介した。ただ、Volta V100は6MBのL2 Cacheを搭載する。この全量に対して完全なCache Coherentを提供するためには、L2の各エントリがどこのメモリを参照しているかを完全に把握する必要がある。",
-          "url": "https://internet.watch.impress.co.jp/docs/column/nettech/2126157.html",
-          "source": {
-            "name": "INTERNET Watch"
-          },
-          "publishedAt": "2026-08-03T21:00:00Z",
-          "image": "https://internet.watch.impress.co.jp/img/iw/list/2126/157/01.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Death toll from Venezuela earthquakes passes 6,000",
-          "description": "National Assembly President Jorge Rodriguez says 6,125 people confirmed dead as government response faces scrutiny.",
-          "url": "https://www.aljazeera.com/news/2026/8/3/death-toll-from-venezuela-earthquakes-passes-6000",
+          "title": "South Korea's Lee urges authorities to step up support as heatwave kills 16",
+          "description": "Temperatures in Yangsan, a southeastern inland city, hit 42.5°C on Sunday, the highest in 122 years of weather observations.",
+          "url": "https://www.channelnewsasia.com/east-asia/south-korea-heatwave-kills-16-lee-jae-myung-6296586",
           "source": {
-            "name": "Al Jazeera"
+            "name": "CNA"
           },
-          "publishedAt": "2026-08-03T23:22:04Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a71120d3b75b-1785795085.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-08-04T02:14:00Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--gIqy3w5_--/c_crop,h_1125,w_1999,x_1,y_204/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/03/000_c3tr7ke.jpg?itok=susLWPyB",
           "language": "en"
         },
         {
-          "title": "Why firms are struggling to set prices",
-          "description": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
-          "url": "https://www.bbc.com/news/articles/c872r52x7jgo",
+          "title": "Police arrest suspect after 3 Bangladeshis found dead in Port Dickson",
+          "description": "SEREMBAN: Three Bangladeshis were killed in a fight in Taman Linggi in Port Dickson near here, says Dept Comm Datuk Alzafny Ahmad.",
+          "url": "https://www.thestar.com.my/news/nation/2026/08/04/police-arrest-suspect-after-3-bangladeshis-found-dead-in-port-dickson",
           "source": {
-            "name": "BBC"
+            "name": "thestar.com.my"
           },
-          "publishedAt": "2026-08-03T23:21:10Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ae1d/live/13ce3de0-79de-11f1-a627-714adb4eed6e.jpg",
+          "publishedAt": "2026-08-04T02:14:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/04/4042468.png",
           "language": "en"
         },
         {
-          "title": "Four labs find experimental differences can undermine AI catalyst predictions",
-          "description": "To turn abundant carbon dioxide into valuable fuel, we need a fast and efficient way to determine which catalysts work best over the longest time. AI models have the potential to help guide catalyst selection, but as with internet chatbots, AI models are only as good as the data you put into them.",
-          "url": "https://phys.org/news/2026-08-labs-experimental-differences-undermine-ai.html",
+          "title": "Physicists Use Cloud Service in Breakthrough Experiment",
+          "description": "Ippei Danshita from Kindai University and Daichi Kagamihara from Chuo University used Oqtant, a cloud-based service for state-of-the-art physics",
+          "url": "https://www.miragenews.com/physicists-use-cloud-service-in-breakthrough-1721242/",
           "source": {
-            "name": "Phys.org"
+            "name": "Mirage News"
           },
-          "publishedAt": "2026-08-03T23:20:01Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/2026/for-ai-to-drive-scienc.jpg",
+          "publishedAt": "2026-08-04T02:14:00Z",
+          "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1579154392128-bf8c7ebee541%3Fixlib%3Drb-1.2.1%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D750%26amp%3Bq%3D80",
           "language": "en"
         },
         {
-          "title": "Apple Plans iPhone-to-Windows Copy and Paste in EU After Microsoft Request",
-          "description": "Apple is working on a new feature that will support cross-device copy and paste between iOS devices and Windows PCs. Microsoft asked for the feature using Apple's EU interoperability request system for developers, which Apple implemented to comply with the Digital Markets Act. Apple began evaluating the request in March, and on June 26, proposed a project plan.",
-          "url": "https://www.macrumors.com/2026/08/03/apple-iphone-windows-copy-paste/",
+          "title": "Premier Ben Carroll reveals new Labor cabinet ministers to contest November state election",
+          "description": "The sudden change of leadership last week, as well as the resignations of three cabinet members, have enabled the premier to change a number of key portfolios.",
+          "url": "https://www.theage.com.au/politics/victoria/premier-ben-carroll-appoints-ai-minister-scraps-infrastructure-portfolios-in-new-look-cabinet-20260804-p60l6t.html",
           "source": {
-            "name": "MacRumors"
+            "name": "The Age"
           },
-          "publishedAt": "2026-08-03T23:19:55Z",
-          "image": "https://images.macrumors.com/t/nbIhavfmOMyZ6I7EfEnaTUZ148s=/1669x/article-new/2026/08/apple-universal-clipboard-copy-paste.jpg",
+          "publishedAt": "2026-08-04T02:12:34Z",
+          "image": "https://static.ffx.io/images/$zoom_0.2336%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_56%2C$y_60/t_crop_custom/q_86%2Cf_auto/90b7a0165d5daed98ba5db55952f434b5fd05670",
           "language": "en"
         },
         {
-          "title": "Tiaan Whelpton: New Zealand’s fastest man opens up on ‘tough’ Commonwealth Games snub",
-          "description": "New Zealand’s fastest man says it’s “tough” to have missed out on the Commonwealth Games, despite running a time this year that would have medalled at every...",
-          "url": "https://www.nzherald.co.nz/sport/tiaan-whelpton-new-zealands-fastest-man-opens-up-on-tough-commonwealth-games-snub/MPLMU4NUARDGZMWXJCICZM4EFM/",
+          "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 4 August",
+          "description": "The Indian stock market indices, Sensex and Nifty 50, are set to open flat to positive on 4 August, boosted by global trends. Analysts note strong technical indicators suggesting potential upward movement towards 25,000, with key support levels identified for investment strategies.",
+          "url": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-4-august-11785807602740.html",
           "source": {
-            "name": "NZ Herald"
+            "name": "livemint.com"
           },
-          "publishedAt": "2026-08-03T23:18:45Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/THY5SCYG45HGNPZ6MJTNOHQM6U.jpg?auth=9b9ed0359ed225b5259ef9b6741894249de5ce36aa93138064e331fe652eb7cc&width=1200&height=675&quality=70&focal=2262%2C486&smart=false",
+          "publishedAt": "2026-08-04T02:09:10Z",
+          "image": "https://www.livemint.com/lm-img/img/2026/08/04/1600x900/logo/INDIA-FUNDS-ABSL-AMC-0_1742379066038_1785809200331_d9827e94-1cf2-483d-9003-ac5ebcadfcb2.JPG",
           "language": "en"
         },
         {
-          "title": "New footage shows moment airborne car smashed into side of Brisbane bus",
-          "description": "CCTV footage, captured from inside the bus, shows the moment the car ploughed into it, its front wheels coming to rest on a bus seat.",
-          "url": "https://www.abc.net.au/news/2026-08-04/qld-new-cctv-airborne-car-hits-bus-rocklea/106993326",
+          "title": "SciCommPH urges review before Pax Silica deal, saying 'No terms, no commitment'",
+          "description": "“If the 20th century ran on oil and steel, the 21st century runs on computers and the minerals that feed it,” said Jacob Helberg, the American...",
+          "url": "https://mb.com.ph/2026/08/04/scicommph-urges-review-before-pax-silica-deal-saying-no-terms-no-commitment",
           "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-08-03T23:17:05Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/138963a8d063fc83ea0423861723b931?impolicy=wcms_watermark_news&cropH=464&cropW=825&xPos=139&yPos=0&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-08-04T02:08:24Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/04/120718.webp",
           "language": "en"
         },
         {
-          "title": "Allan Nascimento: UFC fighter dies at the age of 34",
-          "description": "MMA fighter Allan Nascimento dies at the age of 34, says the sport's leading promotion the UFC.",
-          "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/cvgwvnje09po",
+          "title": "Wordle today: The answer and hints for August 4, 2026",
+          "description": "Here's the answer for \"Wordle\" #1872 on August 4 as well as a few hints, tips, and clues to help you solve it yourself.",
+          "url": "https://mashable.com/entertainment/wordle-today-answer-august-4-2026",
           "source": {
-            "name": "BBC"
+            "name": "Mashable"
           },
-          "publishedAt": "2026-08-03T23:15:39Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0add/live/837e8c00-8f8f-11f1-8d66-b9d8b76e2f01.jpg",
+          "publishedAt": "2026-08-04T02:05:49Z",
+          "image": "https://helios-i.mashable.com/imagery/articles/06YScGKjzY0lYrmVpCvlqRK/hero-image.fill.size_1200x675.v1785768614.jpg",
           "language": "en"
         },
         {
-          "title": "The stories of a Nigerian and Ghanaian who left",
-          "description": "Nigerian Richard Itoro is one of tens of thousands who have abandoned their lives in South Africa.",
-          "url": "https://www.bbc.com/news/articles/c4gx2y454w5o",
+          "title": "Maud Bailly of Sofitel on rediscovering ”French luxury”",
+          "description": "Sofitel's global CEO Maud Bailly on why reviving the brand meant restoring a French icon's soul, not just its hotels.",
+          "url": "https://robbreport.com.sg/global-ceo-of-sofitel-maud-bailly/",
           "source": {
-            "name": "BBC"
+            "name": "Robb Report Singapore"
           },
-          "publishedAt": "2026-08-03T23:14:12Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e74a/live/7ef55710-8c31-11f1-a7ab-8b30adf0800a.png",
+          "publishedAt": "2026-08-04T02:02:37Z",
+          "image": "https://robbreport.com.sg/storage/2026/07/Maud-Bailly-1.jpg",
           "language": "en"
         },
         {
-          "title": "Kalu urges Tinubu to listen to Catholic Bishops amid economic criticism",
-          "description": "Orji Kalu Senator,has urged President Bola Tinubu to pay close attention to the Catholic Bishops Conference of Nigeria (CBCN)...",
-          "url": "https://businessday.ng/news/article/kalu-urges-tinubu-to-listen-to-catholic-bishops-amid-economic-criticism/",
+          "title": "Longchamp debuts capsule collection with textile artist Caroline Hélain for Winter 2026",
+          "description": "As a brand that is committed to contemporary art and design, Longchamp is teaming up with textile artist Caroline Hélain for the first time to launch a capsule collection of leather goods and ready-to-wear, featuring her delicate creative universe. A keen observer of the world around her, artist Caroline Hélain often explores the connections between […]",
+          "url": "https://nylon.com.sg/longchamp-debuts-capsule-collection-with-textile-artist-caroline-helain-for-winter-2026/",
           "source": {
-            "name": "Business News Nigeria"
+            "name": "nylon.com.sg"
           },
-          "publishedAt": "2026-08-03T23:14:05Z",
-          "image": "https://cdn.businessday.ng/wp-content/uploads/2024/08/orji-uzor-kalu.jpeg",
+          "publishedAt": "2026-08-04T02:02:10Z",
+          "image": "https://nylon.com.sg/wp-content/uploads/2026/07/longchamp-caroline-header.jpg",
           "language": "en"
         },
         {
-          "title": "53 lives lost: Heart and blood vessel diseases top Kalinga’s leading cause of death",
-          "description": "TABUK CITY, Kalinga — Diseases affecting the heart and blood vessels claimed 53 lives in Kalinga during the first six months of 2026, making them the province's leading cause of death, according to the Office of the Provincial Health Officer (OPHO).OPHO data showed that from January to June 2026, a total of 53 deaths were attributed to diseases of the circulatory system. Of the total, 28 were females and 25 were males.According to the Department of Health (DOH), diseases of the circulatory syste",
-          "url": "https://www.gurupress-cordillera.com/post/53-lives-lost-heart-and-blood-vessel-diseases-top-kalinga-s-leading-cause-of-death",
+          "title": "Bahawalnagar CCD officer awarded for showing good performance",
+          "description": "BAHAWALNAGAR  -  Crime Control Department Regional Officer awarded commendatory certificates to CCD Circle Officer for showing good performance in the fight",
+          "url": "https://www.nation.com.pk/04-Aug-2026/bahawalnagar-ccd-officer-awarded-showing-good-performance",
           "source": {
-            "name": "Guru Press Cordillera"
+            "name": "The Nation (Pakistan )"
           },
-          "publishedAt": "2026-08-03T23:11:39Z",
-          "image": "https://static.wixstatic.com/media/493608_bee04e335b1c4625a7de9b530380ee68%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/493608_bee04e335b1c4625a7de9b530380ee68%7Emv2.png",
+          "publishedAt": "2026-08-04T02:02:00Z",
+          "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
           "language": "en"
         }
       ]
