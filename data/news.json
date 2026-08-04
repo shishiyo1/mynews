@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-03T22:09:28.667Z",
+  "updatedAt": "2026-08-04T02:37:18.803Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【オリックス】サヨナラ弾の来田涼斗「めっちゃ気持ちいい」なにわ男子の藤原丈一郎インタビュアー（日刊スポーツ）",
+          "description": "＜オリックス9－6楽天＞◇3日◇東京ドーム\n　オリックスの劇的勝利の興奮を、人気アイドルグループ「なにわ男子」の藤原丈一郎（30）がさらに盛り上げた。始球式に続き、ヒーローインタビューに登場。サヨ",
+          "url": "https://news.yahoo.co.jp/articles/f865e66844a5148a568d28a4f7479d0515d9adae",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-03T13:25:38Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260803-38031630-nksports-000-8-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "もうデスクにLEDテープライト貼らなくていい。モニタースタンドを光らせる時代がきた",
+          "description": "新しいモニター？ いやいや、主役はその下です。スマート照明ブランドのNanoleafが、LEDライトを内蔵したモニタースタンド「Nanoleaf x FANTAQI Smart LED Monitor Stand」を発表しました。モニターを",
+          "url": "https://www.gizmodo.jp/article/nanoleafs-new-monitor-stand-lets-your-display-fart-out-rainbows/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-08-03T13:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/07/29/897bcd3c-aba7-4937-b5d2-e18960008475/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "Asus ROGのハイエンドヘッドセット「Kithara」。音は文句なし。過去1年でトップ。アダプターだけ面倒かな…",
+          "description": "今年のCESで発表されたAsusのオープン型ゲーミングヘッドセット「Asus ROG Kithara」。高級オーディオメーカーHiFiMANとタッグを組んだ音、xMEMSのMEMS技術を使ったマイクと期待が高まるポイントが非常に多い代物です",
+          "url": "https://www.gizmodo.jp/article/asus-rog-kithara-review-a-huge-gaming-headset-with-even-bigger-sound/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-08-03T11:30:00Z",
+          "image": "https://media.loom-app.com/loom/2026/07/22/7060bf4d-33af-42ab-8c2f-86e6de809767/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "「やってよかった」熊本地震直後に“ビアパーティー” 自民・福岡県議団トップが会長辞任へ 「被災者にどれほど失礼な言葉」",
+          "description": "熊本地震発生直後に政治資金パーティーを開き、「やってよかった」と発言した松尾統章県議が、自民党福岡県議団会長の辞任を表明した。県民からは判断や発言への厳しい批判が相次いでいた。\n◆「正直やってよか",
+          "url": "https://news.yahoo.co.jp/articles/2e55746cec46597b07d3c3269fc9479f288cef93",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-03T11:03:24Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260803-01187613-fnn-000-5-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "「やってよかった」熊本地震直後に“ビアパーティー” 自民・福岡県議団トップが会長辞任へ 「被災者にどれほど失礼な言葉」",
+          "description": "熊本地震発生直後に政治資金パーティーを開き、「やってよかった」と発言した松尾統章県議が、自民党福岡県議団会長の辞任を表明した。県民からは判断や発言への厳しい批判が相次いでいた。金銭授受疑惑に揺れる自民党福岡県議団のトップ、松尾統章会長が3日夕方、会長職を辞任する意向を明らかにした。松尾統章会長：私の発言によりまして多くの方々に不快な思いをさせたこと、辞意の表明をし役員会において　みなさま方のご理解をいただいたところであります。松尾会長をめぐっては7月28日、最大震度7を観測した熊本地震の直後に…",
+          "url": "https://www.fnn.jp/articles/-/1087613",
+          "source": {
+            "name": "FNNプライムオンライン"
+          },
+          "publishedAt": "2026-08-03T11:02:00Z",
+          "image": "https://fnn.ismcdn.jp/mwimgs/8/d/600/img_8d0a05e97ab7a23a22b18ccba67325e569856.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "二転三転するトランプ氏の対イラン発言 「勝利宣言」と相次ぐ前言撤回",
+          "description": "【AFP＝時事】米国のドナルド・トランプ大統領は、歴代政権の中でも極めて攻撃的な軍事威嚇を繰り返す一方、その撤回も頻繁に行ってきた。",
+          "url": "https://news.yahoo.co.jp/articles/665a183979c7f64db05f4d01a6b471b0f9ae1c47",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-03T10:55:18Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260803-00000018-jij_afp-000-5-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "星ナビ9月号は「『宇宙兄弟』完結」と「ペルセ群を見る・撮る」（アストロアーツ）｜ｄメニューニュース",
+          "description": "星ナビ9月号は「『宇宙兄弟』完結」と「ペルセ群を見る・撮る」（アストロアーツ）【2026年8月3日 星ナビ編集部】\n（Youtube動画）\n今回の表紙は北山輝泰さん撮影の「夜空の鼓動」。タムロン12-20mm F2.8で撮影…",
+          "url": "https://topics.smt.docomo.ne.jp/article/astroarts/world/astroarts-6a6c6f72-14604?redirect=1",
+          "source": {
+            "name": "ｄメニューニュース"
+          },
+          "publishedAt": "2026-08-03T10:26:00Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/-/20260803100341/img/dmenu_service-brand-logo_200x200.png",
+          "language": "ja"
+        },
+        {
+          "title": "相場展望 ８月３日号 米国株：AI・半導体株相場の終焉迫る? 7月半導体株（SOX)は▲20.6％下落 日本株：7/31の大幅高は「無理筋の上げ」だった、夏枯れ相場に備えを",
+          "description": "米国はAI・半導体決算好感で株高も月間SOXは急落、中国AI・DRAM勢が台頭。日経平均は7/31に大幅高も少数銘柄依存で「無理筋の上げ」、夏枯れ相場への警戒を促す内容。",
+          "url": "https://www.zaikei.co.jp/article/20260803/864187.html",
+          "source": {
+            "name": "財経新聞"
+          },
+          "publishedAt": "2026-08-03T10:14:18Z",
+          "image": "http://www.zaikei.co.jp/files/general/202608031916487Cz0big.jpg",
+          "language": "ja"
+        },
         {
           "title": "【バレー】中国戦で急きょ交代の小野寺太志は「経過観察中」コートにバタッと倒れ、翌日帰国…ネーションズリーグ４位から帰国",
           "description": "バレーボール男子日本代表が３日、国際大会のネーションズリーグ（２日閉幕、中国・寧波）を４位で終えて成田空港着の航空機で…",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-08-03T09:00:51Z",
           "image": "https://i.gimg.jp/cmsimg/433425.jpg",
           "language": "ja"
-        },
-        {
-          "title": "SNS・動画の視聴時間、長いほど成績低く 中3半数が1日3時間以上",
-          "description": "文部科学省は3日、小学6年生と中学3年生を対象とした2026年度の全国学力・学習状況調査（全国学力テスト）の分析結果を公表した。小学生の3割超、中学生の半数がSNSや動画を1日3時間以上視聴しており、長時間であるほど各教科の成績が低い傾向があった。視聴と学力の直接的な因果関係は不明だが、文科省担当者は「SNSなどの長時間利用によって、生活習慣が崩れる可能性はある」と指摘。利用に関する家庭内ルー",
-          "url": "https://www.nikkei.com/article/DGXZQOUD289ZI0Y6A720C2000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-08-03T08:00:00Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3393866031072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=b5dc23d057acdcd8276f8274b3cfda2d",
-          "language": "ja"
-        },
-        {
-          "title": "最強小型ゲーミングタブ「Legion Tab」が12万2800円！ 限定白モデルはケース付き",
-          "description": "Amazon.co.jpにて、8.8インチ「Lenovo Legion Tab (8.8\", 5) タブレット」がセール中。ゲームも動画もサクサク動くコンパクトさで人気です。",
-          "url": "https://ascii.jp/elem/000/004/424/4424360/?rss",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-08-03T08:00:00Z",
-          "image": "https://ascii.jp/img/2026/08/03/4508723/xl/9425183e08d28bdb.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "最強小型ゲーミングタブ「Legion Tab」が12万2800円！ 限定白モデルはケース付き",
-          "description": "Amazon.co.jpにて、8.8インチ「Lenovo Legion Tab (8.8\", 5) タブレット」がセール中。ゲームも動画もサクサク動くコンパクトさで人気です。",
-          "url": "https://ascii.jp/elem/000/004/424/4424360/?focus=4",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-08-03T08:00:00Z",
-          "image": "https://ascii.jp/img/2026/08/03/4508723/xl/9425183e08d28bdb.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "最強小型ゲーミングタブ「Legion Tab」が12万2800円！ 限定白モデルはケース付き",
-          "description": "Amazon.co.jpにて、8.8インチ「Lenovo Legion Tab (8.8\", 5) タブレット」がセール中。ゲームも動画もサクサク動くコンパクトさで人気です。",
-          "url": "https://ascii.jp/elem/000/004/424/4424360/?topnew=2",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-08-03T08:00:00Z",
-          "image": "https://ascii.jp/img/2026/08/03/4508723/xl/9425183e08d28bdb.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "（まとめ）日経平均は607円安の63,754円と反落 円急伸が輸出関連銘柄の売り材料に",
-          "description": "東京市場まとめ1.概況日経平均は527円安の63,834円と反落して取引を開始しました。先週末の日経平均は2,494円高と大きく上昇したこともあり、戻り待ちの売りが先行しました。序盤から売りが先行した日経平均は、10時18分に1,658円安の62,703円をつけ、この日の安値を更....",
-          "url": "https://media.monex.co.jp/articles/-/29876",
-          "source": {
-            "name": "マネクリ"
-          },
-          "publishedAt": "2026-08-03T07:46:00Z",
-          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "バスケ男子日本代表が合宿メンバー14名発表…八村塁と河村勇輝も招集「期待に応えられる 『最強の布陣』 を」",
-          "description": "8月3日、日本バスケットボール協会（JBA）は、「FIBAバスケットボールワールドカップ2027 アジア地区予選 Window4」に向けた男子日本代表直前合宿···",
-          "url": "https://basketballking.jp/news/japan/20260803/626550.html",
-          "source": {
-            "name": "バスケットボールキング"
-          },
-          "publishedAt": "2026-08-03T07:15:30Z",
-          "image": "https://basketballking.jp/wp-content/uploads/2026/08/0803_mn_01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "映画『ちいかわ』公開10日間で興収44億円突破",
-          "description": "ニュース｜　アニメ映画『映画ちいかわ 人魚の島のひみつ』（7月24日公開）の最新興収情報が発表された。公開10日間で観客動員数305万人、興収44億円を突破した（興行通信社調べ）。週末3日間（7月31日～8月2日）で動員数76万6000人、興収10億7200万円を記録し、週末動員ランキングは2位にランクインしている。　全国447館（通常382館＋IMAX65館）で公開された『ちいかわ』初の映画は、ナガノ氏が映画のために執筆した“セイレーン編”と呼ばれる長編ストーリーで、ちいかわ達が「特別な島」への招待状をもらい島合宿に行く物語が展開。話数を追うごとにSNSのトレンドを賑わせていた、シリーズ屈指の人気エピソードが待望の映像化となり、ナガノ氏の完全監修でちいかわたちの冒険が描かれている。",
-          "url": "https://www.oricon.co.jp/news/2471657/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-08-03T07:04:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2472000/2471657/20260731_173019_p_o_21327912.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『ジャンプSQ.』異例の重版決定 『新テニスの王子様』完結号で反響に作者感謝",
-          "description": "ニュース｜　漫画『新テニスの王子様』（作者・許斐剛）が、8月4日発売の連載誌『ジャンプSQ.』9月号で最終回を迎えることを受け、『ジャンプSQ.』同号が発売前重版されることが決定した。原作者の許斐剛氏は自身のXを更新し、反響に感謝した。　同号は『新テニスの王子様』完結号で、前代未聞となる許斐剛 feat.テニプリファミリアによる新曲CD「ラケットに想い出詰め込んで」が付録としてついてくることで話題に。そして、漫画『テニスの王子様』シリーズが完結し、1999年の連載開始から続いたシリーズ27年の物語の歴史に幕を下ろす。",
-          "url": "https://www.oricon.co.jp/news/2471778/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-08-03T06:36:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2472000/2471778/20260719_180910_p_o_14218720.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Veekee James defends constant outings with husband",
-          "description": "Fashion designer Veekee James claps back at critics, defending her constant public appearances with her husband, Femi Atere. She calls him her \"personal ha",
-          "url": "https://punchng.com/he-is-my-personal-handbag-veekee-james-defends-constant-outings-with-husband/",
+          "title": "Spider-Man Brand New Days Sets Box Office Opening Record, Beats Avengers: Endgame",
+          "description": "\"Spider-Man: Brand New Day\" beat the opening weekend record of \"Avengers: Endgame\" after all with $360 million in its domestic debut.",
+          "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-box-office-opening-record-avengers-endgame-1236826336/",
           "source": {
-            "name": "Punch Newspapers"
+            "name": "Variety"
           },
-          "publishedAt": "2026-08-03T10:08:49Z",
-          "image": "https://punchng.com/wp-content/uploads/2026/08/476850920_18384430102129716_6988761126550288789_n_1785751224-1080x630.webp",
+          "publishedAt": "2026-08-03T14:37:00Z",
+          "image": "https://variety.com/wp-content/uploads/2026/07/MCDSPMA_SP128.jpg?w=1000&h=563&crop=1",
           "language": "en"
         },
         {
-          "title": "Cuba plunges into darkness as electric grid collapses",
-          "description": "Cuba’s electricity grid collapsed late Sunday, the state-owned grid ​operator said, plunging the island of ‌about 10 million people into darkness as blackouts become more frequent.",
-          "url": "https://www.nbcnews.com/world/cuba/cuba-plunges-darkness-electric-grid-collapses-rcna590542",
+          "title": "New AI Tool Determines the Optical Axis Direction of the Telescope",
+          "description": "Scientists from Northwestern University, the University of Chicago, and Fermilab have created a novel artificial intelligence (AI) tool that autonomously decides the optimal positioning of a telescope.",
+          "url": "https://www.azoquantum.com/News.aspx?newsID=11209",
           "source": {
-            "name": "NBC News"
+            "name": "AZoQuantum"
           },
-          "publishedAt": "2026-08-03T10:08:44Z",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260803-cuba-blackout-mb-1103-a223b7.jpg",
+          "publishedAt": "2026-08-03T14:37:00Z",
+          "image": "https://www.azoquantum.com/images/news/ThumbForNews_11209_17857559174917838.jpg",
           "language": "en"
         },
         {
-          "title": "External Debt Crowds Out Education Spending in Southern Africa, Teachers Unions Say",
-          "description": "Teachers' unions from eight Southern African countries adopted the Johannesburg Declaration on July 30, demanding governments allocate 6% of GDP and",
-          "url": "https://www.ecofinagency.com/news-services/0308-57941-external-debt-crowds-out-education-spending-in-southern-africa-teachers-unions-say",
+          "title": "Court case opens in challenge to South Africa's land expropriate law",
+          "description": "A court case has opened challenging South Africa’s new law that allows the government to seize private land.",
+          "url": "https://apnews.com/article/south-africa-land-expropriation-court-trump-1c418e73bd0d6e48ed49913829c7bac0",
           "source": {
-            "name": "Ecofin Agency"
+            "name": "AP News"
           },
-          "publishedAt": "2026-08-03T10:08:37Z",
-          "image": "https://www.ecofinagency.com/media/k2/items/cache/31d0ac96f2bd4f61ba7c3a73160ce018_S.jpg",
+          "publishedAt": "2026-08-03T14:36:00Z",
+          "image": "https://dims.apnews.com/dims4/default/db1f5e4/2147483647/strip/true/crop/5760x3838+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F24%2F33%2F38dd92949397e92080202bc49c56%2Fa02830ef63b644c0b92688244bc7e2fc",
           "language": "en"
         },
         {
-          "title": "Celebrating a week of Asia’s best bars",
-          "description": "Wynn Macau and Wynn Palace successfully concluded Asia’s 50 Best Bars 2026, serving as official host partner for the second consecutive year, once again bringing the region’s most influential bar industry event to Macau and placing the city at the centre of Asia’s cocktail conversation.",
-          "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3295869/celebrating-a-week-of-asias-best-bars",
+          "title": "Using DNA sequencing for accurate identification of microbial infections in cystic fibrosis patients",
+          "description": "Lung infections are a constant risk for people living with cystic fibrosis (CF), a life-threatening genetic disorder which impairs lung function, predisposes people to persistent airway infections and exposes them to acquiring multidrug resistant infections.",
+          "url": "https://www.news-medical.net/news/20260803/Using-DNA-sequencing-for-accurate-identification-of-microbial-infections-in-cystic-fibrosis-patients.aspx",
           "source": {
-            "name": "Bangkok Post"
+            "name": "News-Medical"
           },
-          "publishedAt": "2026-08-03T10:08:00Z",
-          "image": "https://static.bangkokpost.com/media/content/20260803/c2_3295869_260803172259.jpg",
+          "publishedAt": "2026-08-03T14:36:00Z",
+          "image": "https://www.news-medical.net/image-handler/picture/2019/6/Kid_with_cystic_fibrosis_lying_in_a_hospital_bed_with_oxygen_mask_and_plush_toy__-_Photographee.eu_A1_1fea469355c34ada922185b319b527da-620x480.jpg",
           "language": "en"
         },
         {
-          "title": "One Nation reveals Victorian state leader and upper house candidates",
-          "description": "One Nation reveals its upper house candidates for Victoria, with army veteran and party state president Warren Pickering set to lead the party to the upcoming state election.",
-          "url": "https://www.abc.net.au/news/2026-08-03/one-nation-victoria-candiates-revealed/106989410",
+          "title": "Namibia's gold rush is intact thanks to Wia, B2Gold",
+          "description": "NAMIBIA’S gold industry is entering a defining period. Between now and 2030, billions of dollars in investment, several major discoveries and a fresh government strategy are expected to reshape the country’s mining landscape — and with it, its economy. That’s the assessment of Andreas Salom, acting senior manager for investment analysis and development at the […]",
+          "url": "https://www.miningmx.com/top-story/66110-namibias-gold-rush-is-intact-thanks-to-wia-b2gold/",
           "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+            "name": "Miningmx"
           },
-          "publishedAt": "2026-08-03T10:07:57Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/601aac719d3334253b8f2450302160c7?impolicy=wcms_watermark_news&cropH=864&cropW=1536&xPos=0&yPos=262&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-08-03T14:34:54Z",
+          "image": "https://www.miningmx.com/wp-content/uploads/2018/10/advice-vaccines-namibia-e1540795886137.jpg",
           "language": "en"
         },
         {
-          "title": "The Ceuta crisis will strengthen \"Fortress Europe\"",
-          "description": "The EU has realised that, to preserve the Schengen Area, it is essential to harden the continent's external borders",
-          "url": "https://www.newstatesman.com/world/europe/2026/08/the-ceuta-crisis-will-fortify-fortress-europe",
+          "title": "Ggoobi Tightens Budget Controls with Mandatory Quarterly Finance Meetings",
+          "description": "The Permanent Secretary and Secretary to the Treasury (PSST), Ramathan Ggoobi, has directed all Accounting Officers to convene quarterly Finance Committee meetings as part of measures to strengthen transparency, accountability, and discipline in public financial management. The directive is contained in the recent Budget Execution Circular (BEC), which requires the meetings to be held immediately […]",
+          "url": "https://softpower.ug/ggoobi-tightens-budget-controls-with-mandatory-quarterly-finance-meetings/",
           "source": {
-            "name": "New Statesman"
+            "name": "SoftPower News"
           },
-          "publishedAt": "2026-08-03T10:07:51Z",
-          "image": "https://dl6pgk4f88hky.cloudfront.net/2026/08/02/gettyimages-2288489248-800x418.jpg?1785749921",
+          "publishedAt": "2026-08-03T14:34:40Z",
+          "image": "https://softpower.ug/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-2.36.33-PM.jpeg",
           "language": "en"
         },
         {
-          "title": "Bruno Guimaraes: Arsenal transfer target arrives in Spain to join Newcastle's pre-season training camp in La Manga",
-          "description": "Newcastle captain Bruno Guimaraes was expected to meet up with his team-mates on Sunday in their Spain training camp; The Brazil international is on his way and set to arrive on Monday, after he told them last month he wanted to join Arsenal",
-          "url": "https://www.skysports.com/football/news/11678/13565570/bruno-guimaraes-arsenal-transfer-target-failed-to-turn-up-for-newcastles-pre-season-training-camp-in-la-manga-as-planned-on-sunday",
+          "title": "Growing older, staying connected in the digital age 27 July 2026",
+          "description": "Ratnam Periowsamy is 90 and continues to lead an active lifestyle, showing that growing older need not mean becoming disconnected in an...",
+          "url": "http://www.businessghana.com/site/news/general/353330/Growing-older,-staying-connected-in-the-digital-age-27-July-2026",
           "source": {
-            "name": "Sky Sports"
+            "name": "BusinessGhana"
           },
-          "publishedAt": "2026-08-03T10:07:30Z",
-          "image": "https://e0.365dm.com/26/07/1600x900/skysports-guimaraes-arsenal_7303206.jpg?20260721120010",
+          "publishedAt": "2026-08-03T14:34:37Z",
+          "image": "http://www.businessghana.com/site/img/../../cms/img/news/2026-08-03-1223230004.jpg",
           "language": "en"
         },
         {
-          "title": "Kakamega County launches campaign against teen pregnancies, HIV infections and SGBV",
-          "description": "Kakamega County launches a campaign dubbed the Triple Threat Campaign to combat rising cases of teenage pregnancies, HIV infections and sexual and gender-based violence (SGBV).",
-          "url": "https://www.standardmedia.co.ke/western/article/2001554418/kakamega-county-launches-campaign-against-teen-pregnancies-hiv-infections-and-sgbv",
+          "title": "Impact Subsea Launches SeaView 3.2 Software With New Sensor Support",
+          "description": "Impact Subsea's seaView 3.2 software update introduces support for the Unity Topside Control System and seaMux subsea multiplexer, along with a redesigned communications interface, a new Communications Monitor, sensor alarms, and enhanced ISS360 imaging capability down to 10 cm.",
+          "url": "https://oceannews.com/news/science-technology/impact-subsea-launches-seaview-3-2-software-with-new-sensor-support/",
           "source": {
-            "name": "standardmedia.co.ke"
+            "name": "Ocean News & Technology"
           },
-          "publishedAt": "2026-08-03T10:07:00Z",
-          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/9PVy93sql5OVYWOwr6H0ovlwu1BF9Oo7laWp4fKY.jpg",
+          "publishedAt": "2026-08-03T14:34:16Z",
+          "image": "https://oceannews.com/wp-content/uploads/2026/08/impact-subsea-launches-seaview-3-2-software-with-new-sensor-.jpg",
           "language": "en"
         },
         {
-          "title": "Play For a Cure director named to WRH Foundation",
-          "description": "A local advocate for cancer care will now bring his expertise to the Windsor Regional Hospital (WRH) Foundation.",
-          "url": "https://sarnianewstoday.ca/windsor/news/2026/07/31/play-for-a-cure-director-named-to-wrh-foundation",
+          "title": "NASA Delivers Lunar Relay Navigation System",
+          "description": "3 Min Read\n\tThe Moon's rocky, uneven, and otherworldly surface features are highlighted by the terminator - the difference between",
+          "url": "https://www.miragenews.com/nasa-delivers-lunar-relay-navigation-system-1720868/",
           "source": {
-            "name": "Sarnia News Today"
+            "name": "Mirage News"
           },
-          "publishedAt": "2026-08-03T10:06:25Z",
-          "image": "https://media.mynewstoday.ca/i/A9BE4Rel",
+          "publishedAt": "2026-08-03T14:34:00Z",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/06/art002e024603orig.jpg?w=1536",
           "language": "en"
         },
         {
-          "title": "VP calls for practical Hai//Om solutions",
-          "description": "Mulisa Simiyasa \nOUTJO  – Vice President Lucia Witbooi has directed a high-level delegation tasked with addressing challenges facing the Hai//Om San",
-          "url": "https://neweralive.na/vp-calls-for-practical-hai-om-solutions/",
+          "title": "Human remains exhumed at site of controversial World War II massacres in Ukraine: \"Each of them had their dreams\"",
+          "description": "It is believed that 30 to 40% of the 50 remains so far discovered at the site were children.",
+          "url": "https://www.cbsnews.com/news/volyn-massacres-remains-exhumed-ukraine-poland-diplolamtic-rift/",
           "source": {
-            "name": "neweralive.na"
+            "name": "CBS News"
           },
-          "publishedAt": "2026-08-03T10:06:06Z",
-          "image": "https://neweralive.na/wp-content/uploads/2026/08/VP-scaled.jpg",
+          "publishedAt": "2026-08-03T14:33:52Z",
+          "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/03/523155a8-f060-4984-8c29-0d00d5cd9915/thumbnail/1200x630/9c43fcc07c6f0fbe53b874be10bdb5f0/gettyimages-2287466721.jpg",
           "language": "en"
         }
       ]
