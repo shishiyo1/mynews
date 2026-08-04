@@ -1,10 +1,109 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-04T19:38:14.208Z",
+  "updatedAt": "2026-08-04T22:12:55.526Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【↑】日経平均 大引け｜ 反発、米株高を受けAIインフラ関連が高い (8月4日)",
+          "description": "前日の米国市場では、ＮＹダウは前週末比６９３ドル高と３日続伸した。米原油先物の下落や収益成長が好感されたマイクロソフト＜ＭＳＦＴ＞など超大型テック株に買いが向かった。　東京市場では、方向感の見えにくい不安定な地合いとなったが・・・。",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202608041204",
+          "source": {
+            "name": "株探"
+          },
+          "publishedAt": "2026-08-04T09:10:16Z",
+          "image": "https://async.api.kabutan.jp/og_image?title=%E3%80%90%E2%86%91%E3%80%91%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%20%E5%A4%A7%E5%BC%95%E3%81%91%EF%BD%9C%20%E5%8F%8D%E7%99%BA%E3%80%81%E7%B1%B3%E6%A0%AA%E9%AB%98%E3%82%92%E5%8F%97%E3%81%91AI%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E9%96%A2%E9%80%A3%E3%81%8C%E9%AB%98%E3%81%84%20%288%E6%9C%884%E6%97%A5%29",
+          "language": "ja"
+        },
+        {
+          "title": "台風13号 週末は沖縄に直撃のおそれ 台風から離れている地域でも高波に注意・警戒",
+          "description": "台風13号は17時現在、非常に強い勢力で小笠原付近を西に進んでいます。台風はこのあとも西よりに進み、7日(金)に強い勢力で沖縄本島に直撃するおそれがあります。沖縄地方では明日5日から次第に風が強まり、台風から離れている本州付近でも高波の影響が出てきそうです。沖縄や九州から東海にかけては、明日5日から警報級の高波のおそれがあるため、注意・警戒が必要です。",
+          "url": "https://tenki.jp/forecaster/k_itoh/2026/08/04/40011.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-08-04T09:04:20Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/400/40011/main/20260804175056/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【速報】スピードスケート高木美帆さんに国民栄誉賞 記念品は“包丁10本セット”「母親と一緒に使えたらいいなと」",
+          "description": "高木さんは4回のオリンピックに出場し、夏と冬を通じて日本女子最多の10個のメダルを獲得。\n3月の世界選手権を最後に現役を引退しました。",
+          "url": "https://news.yahoo.co.jp/articles/83054635e10b9f21a613fffe2c41c21999fdafc8",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-04T09:03:15Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260804-90196003-ann-000-8-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "自民議員の造反で消費税減税法案が否決されたら高市総理は衆院解散するのだろうか（FNNプライムオンライン（フジテレビ系））",
+          "description": "高市早苗総理が食料品に対する消費税を2年間1％にすることを表明したことに対し、自民党内の協議では異論も出た。\n「大物」議員の反対理由は以下の通りだ。\n石破茂前総理\n「公約だからと言うが、党内の意",
+          "url": "https://news.yahoo.co.jp/articles/760311cdf3ce4d354c120f54df3d083175f7a4da",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-04T09:00:47Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260804-01188279-fnn-000-5-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "地球から49光年の惑星が大気を持つ可能性、生命存在可能な候補にも",
+          "description": "地球から約49光年の距離に位置する太陽系外惑星のひとつに、大気が存在する可能性が明らかになった。生命が存在できる惑星の候補にもなり得る。 - (1/3)",
+          "url": "https://www.cnn.co.jp/fringe/35251269.html",
+          "source": {
+            "name": "CNN.co.jp"
+          },
+          "publishedAt": "2026-08-04T08:49:00Z",
+          "image": "https://www.cnn.co.jp/storage/2026/08/04/1e33ac805e86686ce731cdd4088ede7e/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXM3dXE0ajUwMDAxM2Q2NmhvYnhsbzlt-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntczd1cHhjbDAwMnUyN3A2MmNjeDFnOGE_.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "トヨタ 2027年3月期第1四半期決算、営業利益は前期比1026億円減ながら通期見通しは4000億円増 2027年から次世代ハイブリッド車用電池に",
+          "description": "トヨタ自動車は8月4日、2027年3月期 第1四半期（2026年4月～6月、3か月累計）決算を発表した。営業収益は13兆5254億円（前期比1兆2720億円増、10.4％増）、営業利益は1兆634億円（1026億円減、8.8％減）、親会社の所有者に帰属する四半期利益は1兆4770億円（6356億円増、75.6％増）。営業利益率は7.9％となった。",
+          "url": "https://car.watch.impress.co.jp/docs/news/2130421.html",
+          "source": {
+            "name": "car.watch.impress.co.jp"
+          },
+          "publishedAt": "2026-08-04T08:09:26Z",
+          "image": "https://car.watch.impress.co.jp/img/car/list/2130/421/013.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "手に持った瞬間「モノが良いな」と分かった。モトローラ初の横開きスマホ「motorola razr fold」ハンズオン",
+          "description": "モトローラ（motorola）から新しく発売された折りたたみスマホ「motorola razr fold」。razrシリーズといえば、コンパクトな縦開きでおなじみですが、motorola razr foldはモトローラ初となる横開きというこ",
+          "url": "https://www.gizmodo.jp/article/motorola-razr-fold-hands-on/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-08-04T08:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/07/27/bca1d1da-df7e-4251-aab7-7771ee846d93/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "（まとめ）日経平均は引け間際に上昇に転じ202円高の63,957円 明日はスペースXやAMD決算",
+          "description": "東京市場まとめ1.概況日経平均は240円高の63,995円と反発し取引を開始しました。前日の米国市場では、主要3指数が揃って上昇したことで序盤は堅調に推移し、一時は400円超上昇しました。一方で韓国総合株価指数（KOSPI）の下落をきっかけに下落に転じた日経平均は421円....",
+          "url": "https://media.monex.co.jp/articles/-/29887",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-08-04T07:50:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「CAPCOM SUMMER SALE」開催中！ 『ストリートファイター6』のYear 3「キャラクターパス」「アルティメットパス」がPS Storeとニンテンドーeショップで初セール！",
+          "description": "［株式会社カプコン］各デジタルストアで「CAPCOM SUMMER SALE」を開催中！「サガット」「C.ヴァイパー」「アレックス」「イングリッド」と、シリーズファンにはなじみ深い4キャラクターが含まれている『ストリートファイター6 - Year 3 キャラクターパス』および『ストリートファイター6 - Year 3 アルティメットパス』がついにPlayStation(TM) Storeとニンテンドーeショップで初セール！他にも「モンスターハンター」や「逆転裁判」「鬼武者」「デビル メイ クライ…",
+          "url": "https://www.jiji.com/jc/article?k=000005927.000013450&g=prt",
+          "source": {
+            "name": "時事ドットコム"
+          },
+          "publishedAt": "2026-08-04T07:46:00Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/13450/5927/13450-5927-0a557064622e40581d630b8ebd366397-902x319.jpg",
+          "language": "ja"
+        },
         {
           "title": "【夏の甲子園2026】「優勝は横浜じゃない」 波乱必至の組み合わせで識者５人が選んだ優勝校はここだ！",
           "description": "【夏の甲子園2026】「優勝は横浜じゃない」 波乱必至の組み合わせで識者５人が選んだ優勝校はここだ！（webスポルティーバ）　８月５日に開幕する第108回全国高等学校野球選手権大会。今年も全国49代表が甲子園に集結し、日本一を懸けた熱戦が始まる。だが…",
@@ -15,216 +114,117 @@
           "publishedAt": "2026-08-04T07:30:00Z",
           "image": "https://img.topics.smt.news.goo.ne.jp/picture/sportiva/m_sportiva-0000111870.jpg",
           "language": "ja"
-        },
-        {
-          "title": "侍ジャパンＵ12桑田真澄監督初陣へ 子どもたちに“桑田イズム”注入「前向きにポジティブに」",
-          "description": "侍ジャパンU12日本代表の桑田真澄監督（58）が4日、就任後初指揮となる「第12回　BFA U12　アジア野球選手権」（8月9日開幕、中国・杭州）へ向け、神奈… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/baseball/news/202608040000703.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-08-04T07:10:00Z",
-          "image": "https://www.nikkansports.com/baseball/news/img/202608040000703-w500_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "鈴木亮平、主演映画『TOKYO MER』公開延期にコメント 熊本地震の被災地に思いはせ「現実のヒーローたちに、チームMERから最大の敬意とエールを」【コメント全文】",
-          "description": "俳優の鈴木亮平（43）が4日、自身のSNSを更新。21日に公開予定だった主演映画『TOKYO MER～走る緊急救命室～CAPITAL CRISIS』の公開延期を受けて、コメントを発表。実際に救助活",
-          "url": "https://news.yahoo.co.jp/articles/ffc897f60b279307a87b55f1c0b8f80242db6e14",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-04T05:59:12Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260804-00000484-oric-000-18-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "「CAPCOM SUMMER SALE」開催中！ 『ストリートファイター6』のYear 3「キャラクターパス」「アルティメットパス」がPS Storeとニンテンドーeショップで初セール！",
-          "description": "株式会社カプコンのプレスリリース（2026年8月4日 14時45分）「CAPCOM SUMMER SALE」開催中！　『ストリートファイター6』のYear 3「キャラクターパス」「アルティメットパス」がPS Storeとニンテンドーeショップで初セール！",
-          "url": "https://prtimes.jp/main/html/rd/p/000005927.000013450.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-08-04T05:45:57Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/13450/5927/13450-5927-0a557064622e40581d630b8ebd366397-902x319.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "決算:トヨタ純利益16％減に上方修正 27年3月期、想定為替レート円安見直し",
-          "description": "トヨタ自動車は4日、2027年3月期の連結純利益（国際会計基準）が前期比16%減の3兆2500億円になりそうだと発表した。期初予想の前期比22%減の3兆円",
-          "url": "https://www.nikkei.com/article/DGXZQOFD031AG0T00C26A8000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-08-04T05:01:14Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3405086004082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=97f330b16b71c5deb209b5b3e1fbb2b1",
-          "language": "ja"
-        },
-        {
-          "title": "クボタ、今期最終を38％上方修正・3期ぶり最高益更新へ",
-          "description": "クボタ <6326> [東証Ｐ] が8月4日後場(14:00)に決算(国際会計基準=IFRS...",
-          "url": "https://s.kabutan.jp/news/k202608040022/",
-          "source": {
-            "name": "株探"
-          },
-          "publishedAt": "2026-08-04T05:00:00Z",
-          "image": "https://async.api.kabutan.jp/og_image?stock_code=6326&stock_name=%E3%82%AF%E3%83%9C%E3%82%BF&title=%E4%BB%8A%E6%9C%9F%E6%9C%80%E7%B5%82%E3%82%9238%EF%BC%85%E4%B8%8A%E6%96%B9%E4%BF%AE%E6%AD%A3%E3%83%BB3%E6%9C%9F%E3%81%B6%E3%82%8A%E6%9C%80%E9%AB%98%E7%9B%8A%E6%9B%B4%E6%96%B0%E3%81%B8",
-          "language": "ja"
-        },
-        {
-          "title": "ハピネッツ選手、今年も竿燈に参加 はやし方に挑戦、まつり楽しむ",
-          "description": "秋田市で３日開幕した秋田竿燈まつりに、バスケットボール男子Ｂリーグプレミア（１部）秋田ノーザンハピネッツの選手が参加した。はやし方に挑戦し、観客とともにまつりを楽しんだ。",
-          "url": "https://www.sakigake.jp/news/article/20260804AK0019/",
-          "source": {
-            "name": "秋田魁新報電子版"
-          },
-          "publishedAt": "2026-08-04T04:53:13Z",
-          "image": "https://www.sakigake.jp/images/news-entry/AK20260803G00061_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "2026年7月は西日本を中心に高温 酷暑日が5日も続き最長記録を更新 8月は?",
-          "description": "2026年7月は、西日本を中心に記録的高温となり、下旬には国内で酷暑日が5日も続き過去最長記録を更新しました。さて、8月はどうなるのでしょうか?",
-          "url": "https://tenki.jp/forecaster/t_hoshino/2026/08/04/39931.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-08-04T04:27:39Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/3/39/399/39931/main/20260729123515/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『スパイダーマン』新記録達成が決定づけた現実：私たちの知るMCUは、もう終わったのだ",
-          "description": "放射能を帯びたクモに噛まれた経験もない、アベンジャーズのメンバーでもない一般のキャラクターたちにとって、これからは極めて厳しい時代がやってくる",
-          "url": "https://jp.ign.com/avengers-doomsday/83926/mcu",
-          "source": {
-            "name": "IGN Japan"
-          },
-          "publishedAt": "2026-08-04T03:41:00Z",
-          "image": "https://sm.ign.com/t/ign_jp/feature/s/spider-man/spider-mans-record-breaking-box-office-clinches-it-marvel-as_2fr7.1200.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "明日8月5日よりMakuakeで受付開始。BLDB「メカ・ジェリーフィッシュ」の限定リターン3種を公開",
-          "description": "『明日8月5日よりMakuakeで受付開始。BLDB「メカ・ジェリーフィッシュ」の限定リターン3種を公開』の記事ページです。",
-          "url": "https://www.sankei.com/pressrelease/prtimes/62SRLEWGHJMUPGBNBFTY4KSA2U/",
-          "source": {
-            "name": "産経ニュース"
-          },
-          "publishedAt": "2026-08-04T03:28:32Z",
-          "image": "https://www.sankei.com/resizer/v2/https%3A%2F%2Fdpgdieoe6npux.cloudfront.net%2Fprtimes%2FJCU7PZB4VBMDDBN3STXMOG3AOE?auth=39094e02400a621f80611d4b99646f35f3ffdc660b149027d71e528eac78120f&quality=50&smart=true&width=1200&height=675",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "From Robot To Human In Loop: Robotics Terms Explained",
-          "description": "Key points Robots help scientists explore and work in environments that are too dangerous, remote or difficult for people to access, from coral reefs",
-          "url": "https://www.miragenews.com/from-robot-to-human-in-loop-robotics-terms-1721397/",
+          "title": "Ukraine and Russia exchange attacks after ‘seven killed on beach’",
+          "description": "Footage online shows a drone slamming into a crowded beach, with what sounds like rapid gunfire ringing in the background",
+          "url": "https://www.irishtimes.com/world/europe/2026/08/04/ukraine-and-russia-exchange-attacks-after-seven-killed-on-beach/",
           "source": {
-            "name": "Mirage News"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-08-04T07:38:00Z",
-          "image": "https://www.csiro.au/-/media/Owned-articles/2026/Robot-glossary/20250530_CSIRO_Data-61-Robotics_149.jpg?mw=1200&hash=E62AB40C1A7CF75D44A94B092EBD6086",
+          "publishedAt": "2026-08-04T10:12:52Z",
+          "image": "https://www.irishtimes.com/resizer/v2/SHGWTNGKSREZBE7MLPN55XEI2E.jpg?smart=true&auth=a4b981e5806a9e1abe25d96839409b3f56f3034ea615b6d011b9344801d56366&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Video of Karangu Muraya Narrating How Late Brother Kagema Fell Sick, Health Deteriorated Emerges",
-          "description": "A video of Karangu Muraya revealing his brother Kagema's battle with illness before his tragic death on August 3 went viral on social media platforms.",
-          "url": "https://www.tuko.co.ke/entertainment/celebrities/635094-video-karangu-muraya-narrating-how-late-brother-kagema-fell-sick-health-deteriorates-emerges/",
+          "title": "More than 150 migrants rescued after boat catches fire in Channel",
+          "description": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
+          "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo",
           "source": {
-            "name": "Tuko News"
+            "name": "BBC"
           },
-          "publishedAt": "2026-08-04T07:37:31Z",
-          "image": "https://cdn.tuko.co.ke/images/1200x675/116b133192fd53fc.jpeg?v=1",
+          "publishedAt": "2026-08-04T10:11:51Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72e6/live/08945d60-8ff0-11f1-a10e-47119dd4425c.jpg",
           "language": "en"
         },
         {
-          "title": "Gujarat Reports 22 Child Deaths from Chandipura Virus During Monsoon",
-          "description": "Gujarat has reported 22 deaths among children due to the Chandipura virus (CHPV) during the ongoing monsoon season, prompting the state health department to strengthen surveillance, treatment, and vector-control measures. […]",
-          "url": "https://theindianpractitioner.com/gujarat-reports-22-child-deaths-from-chandipura-virus-during-monsoon/",
+          "title": "Telegram briefly removed from Apple App Store over prohibited content",
+          "description": "The latest incident is reminiscent of a similar episode in 2018, when Apple temporarily removed Telegram from the App Store after inappropriate content.",
+          "url": "https://eastleighvoice.co.ke/technology/386532/telegram-briefly-removed-from-apple-app-store-over-prohibited-content",
           "source": {
-            "name": "The Indian Practitioner"
+            "name": "eastleighvoice.co.ke"
           },
-          "publishedAt": "2026-08-04T07:37:08Z",
-          "image": "https://theindianpractitioner.com/wp-content/uploads/2026/08/Gujarat-Reports-22-Child-Deaths-from-Chandipura-Virus-During-Monsoon.jpg",
+          "publishedAt": "2026-08-04T10:11:43Z",
+          "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/08/eastleighvoice-co-ke-2026-august-04-113108.webp",
           "language": "en"
         },
         {
-          "title": "Petrol prices set to soar past $2 a litre in Perth after fuel excise ends amid Middle East oil market turmoil",
-          "description": "WA drivers are in for a fresh round of pain at the petrol pump with the price of unleaded to skyrocket past $2 a litre on Wednesday.",
-          "url": "https://thewest.com.au/business/oil-gas/petrol-prices-set-to-soar-past-2-a-litre-in-perth-after-fuel-excise-ends-amid-middle-east-oil-market-turmoil-c-22675024",
+          "title": "More rain seen from LPA off La Union, southwest monsoon",
+          "description": "The low pressure area west of La Union now has a high chance of becoming a tropical cyclone, says PAGASA on Tuesday afternoon, August 4",
+          "url": "https://www.rappler.com/philippines/weather/lpa-southwest-monsoon-typhoon-dolphin-update-pagasa-forecast-august-4-2026-5pm/",
           "source": {
-            "name": "The West Australian"
+            "name": "Rappler"
           },
-          "publishedAt": "2026-08-04T07:37:00Z",
-          "image": "https://images.thewest.com.au/publication/C-22675024/f8e49bafecdb33d97549f86ca14741be0e0c437c-16x9-x0y209w4000h2250.jpg?imwidth=1200",
+          "publishedAt": "2026-08-04T10:10:54Z",
+          "image": "https://www.rappler.com/tachyon/2026/08/lpa-dolphin-satellite-august-4-2026-3pm.png",
           "language": "en"
         },
         {
-          "title": "How the UK is training its 'surgeons of the future' with robots",
-          "description": "The NHS wants robots in nine out of 10 keyhole surgeries by 2035. At a London hospital already using the newest system, surgeons and patients say the change is already being felt.",
-          "url": "https://www.euronews.com/next/2026/08/04/how-the-uk-is-training-its-surgeons-of-the-future-with-robots",
+          "title": "AR Glasses May Not Go Mainstream for Years",
+          "description": "nap CEO Evan Spiegel says its new Specs AR glasses may not achieve mass-market adoption until toward the end of the decade.",
+          "url": "https://www.uctoday.com/immersive-workplace-xr-tech/snap-q2-ar-glasses-mainstream-years/",
           "source": {
-            "name": "Euronews"
+            "name": "UC Today"
           },
-          "publishedAt": "2026-08-04T07:36:22Z",
-          "image": "https://images.euronews.com/articles/stories/09/86/15/15/1200x675_cmsv2_eb15b542-75d2-5c59-931b-40f97a604bd4-9861515.jpg",
+          "publishedAt": "2026-08-04T10:10:49Z",
+          "image": "http://www.uctoday.com/wp-content/uploads/2026/08/Untitled-design-2026-08-04T110330.658.jpg",
           "language": "en"
         },
         {
-          "title": "How the UK is training its 'surgeons of the future' with robots",
-          "description": "The NHS wants robots in nine out of 10 keyhole surgeries by 2035. At a London hospital already using the newest system, surgeons and patients say the change is already being felt.View on euronews",
-          "url": "https://sg.news.yahoo.com/uk-training-surgeons-future-robots-073622001.html",
+          "title": "Timini Egbuson Opens Up About Living a Fake Life and the Lesson That Changed Him",
+          "description": "Nollywood actor Timini Egbuson reveals his past financial struggles and lessons on authenticity, challenging the pressures of social media and lifestyle inflation.",
+          "url": "https://www.legit.ng/entertainment/celebrities/1723025-timini-egbuson-opens-living-a-fake-life-lesson-changed-him/",
           "source": {
-            "name": "Yahoo News Singapore"
+            "name": "Legit.ng"
           },
-          "publishedAt": "2026-08-04T07:36:22Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/72f7bfa0b01755040dc0c3f2cdcec93c5eccece43563745b0817132bc5199fe7/lightyear_networkapi/resizefill_w1024_h576;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_sg_articles_551%2Fb14edf965dcf3f99060bdea0846460d9",
+          "publishedAt": "2026-08-04T10:10:45Z",
+          "image": "https://cdn.legit.ng/images/1200x675/595eecb1e42b3272.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "Wildfire at Glencullen in Dublin Mountains has reduced 'considerably'",
-          "description": "Firefighters from Rathfarnham and Dún Laoghaire had tackled the gorse wildfire on the Dublin mountains.",
-          "url": "https://www.thejournal.ie/wildfire-at-glencullen-in-dublin-mountains-has-reduced-considerably-7120651-Aug2026/",
+          "title": "Football transfer rumours: Chelsea’s Mudryk to reunite with Lampard at Coventry?",
+          "description": "Arsenal launching six-transfer week? | Manor Solomon to West Ham? | Alistair Johnston to Everton?",
+          "url": "https://www.theguardian.com/football/2026/aug/04/football-transfer-rumour-mill-chelsea-mykhailo-mudryk-lampard-coventry",
           "source": {
-            "name": "The Journal"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-08-04T07:36:00Z",
-          "image": "https://img2.thejournal.ie/article/7120651/river/?height=400&version=7120665",
+          "publishedAt": "2026-08-04T10:10:43Z",
+          "image": "https://i.guim.co.uk/img/media/c4751e2bfd0f477bf529986689ffa2c1db81d8b4/689_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0cd9f480c395a0a26bc011451019e06a",
           "language": "en"
         },
         {
-          "title": "Australia turn to sauna sessions to combat heatwave ahead of Test match",
-          "description": "Knowing Eddie Jones will be taking full advantage of a well-timed heatwave, the Wallabies began preparing for it last week in Sydney.",
-          "url": "https://www.smh.com.au/sport/rugby-union/run-us-off-our-feet-wallabies-surprising-ploy-to-prepare-for-japanese-heat-20260804-p60l6r.html",
+          "title": "Ireland to call for solidarity with Spain over Ceuta crisis at emergency EU meeting",
+          "description": "It comes after more than 50,000 people crossed into the Spanish territory of Ceuta in North Africa from Morocco last Thursday and Friday.",
+          "url": "https://www.breakingnews.ie/ireland/ireland-to-call-for-solidarity-with-spain-over-ceuta-crisis-at-emergency-eu-meeting-1935782.html",
           "source": {
-            "name": "SMH.com.au"
+            "name": "BreakingNews.ie"
           },
-          "publishedAt": "2026-08-04T07:35:17Z",
-          "image": "https://static.ffx.io/images/$zoom_0.18964899713467048%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_66/t_crop_custom/q_86%2Cf_auto/3a8cedc4adcd8be548765b84b15bcd7d2a771851684e169fbdc4574412d5d9be",
+          "publishedAt": "2026-08-04T10:10:26Z",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDhcXFwvMDExNjUxMjJcXFwvNTU5Yzk0ZTcyN2QzNDM0NmFlODkyZTE3YzJhYWEyNjguanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJmYTE0YzgxNWUxNzA5NjdlNTcwNjU2YjBmMWNlMjgxN2M2YWEyNDI0In0=/ireland-to-call-for-solidarity-with-spain-over-ceuta-crisis-at-emergency-eu-meeting.jpg",
           "language": "en"
         },
         {
-          "title": "'Free-range' eggs could face existential threat",
-          "description": "Free-range farming was known as the ethical alternative. Now, experts say confining birds to barns is \"for their own good\".",
-          "url": "https://www.sbs.com.au/news/article/free-range-eggs-could-face-existential-threat-amid-bird-flu-warning/r7u3q7hys",
+          "title": "How Jantar Mantar became Delhi’s designated protest site | Explained",
+          "description": "Explore Jantar Mantar's history as Delhi's protest site and the Supreme Court's recent directive to consider Ramlila Maidan instead.",
+          "url": "https://www.thehindu.com/news/cities/Delhi/how-jantar-mantar-became-delhis-designated-protest-site-explained/article71304708.ece",
           "source": {
-            "name": "sbs.com.au"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-08-04T07:33:33Z",
-          "image": "https://assets.sbs.com.au/dims4/default/a4e9116/2147483647/strip/true/crop/4032x2268+0+378/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fee%2Fb2%2F08b9a1d14cf8bed63a3cff3623ad%2F20250529142503829386-original.jpg",
+          "publishedAt": "2026-08-04T10:09:10Z",
+          "image": "https://th-i.thgim.com/public/incoming/lhi8xq/article71304907.ece/alternates/LANDSCAPE_1200/20260803280L.jpg",
           "language": "en"
         },
         {
-          "title": "Hwang Bo-reum, Lee Geum-yi Among Authors in Busan Story Market’s 2026 Selections",
-          "description": "The Busan Story Market (BSM) has unveiled 25 official selections for 2026, including international bestseller Hwang Bo-reum and two-time Hans Christian Andersen Award finalist Lee Geum-yi, drawing on ...",
-          "url": "https://uk.news.yahoo.com/hwang-bo-reum-lee-geum-073326212.html",
+          "title": "turn was 'absolutely necessary'",
+          "description": "FIFA's chief of global football development Arsene Wenger says Gianni Infantino's decision to withdraw from a plan to sell stakes in a World Cup company to private investors was \"absolutely necessary and beyond question\".",
+          "url": "https://www.rte.ie/sport/soccer/2026/0804/1586395-wenger-fifas-u-turn-was-absolutely-necessary/",
           "source": {
-            "name": "Yahoo News UK"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-08-04T07:33:26Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/3d67ad9e00e534981b6dc8ab8b181322265578e721911551510cfd2edc6b3908/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fa2cb1e6e56ca3136eaf619ec741102e4",
+          "publishedAt": "2026-08-04T10:08:14Z",
+          "image": "https://www.rte.ie/images/0024cb47-1600.jpg",
           "language": "en"
         }
       ]
