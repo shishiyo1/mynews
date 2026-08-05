@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-05T16:42:38.630Z",
+  "updatedAt": "2026-08-05T19:35:51.439Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "〈海外移住 続々〉優木まおみ、娘2人とマレーシア教育移住10カ月 夫は日本に残るも「家族の絆はより強くなった」",
-          "description": "タレントの菊地亜美さんが4日、今夏からマレーシアと日本の二拠点生活を始めると発表した。長女の小学校入学を機に、教育環境を変えるという。同国に移住した優木まおみさんのインタビュー記事を再配信する。（…",
-          "url": "https://dot.asahi.com/articles/-/289313?page=1",
+          "title": "AIが自発的に人間を騙す事案発生。Claude Mythos 5が不正プルリクや標的型フィッシング、なりすまし誘導を自己判断で実行 セキュリティ試験結果を英政府機関が公表",
+          "description": "英国の政府機関 AI Security Institute（AISI）は8月4日、サイバーセキュリティ能力テスト中に、AIエージェントが自発的に実在の人物や組織を標的に、フィッシングや別人になりすま",
+          "url": "https://news.yahoo.co.jp/articles/af9baadbac85353dacd6f20dcc71339f96055e09",
           "source": {
-            "name": "dot.asahi.com"
+            "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-08-05T04:30:00Z",
-          "image": "https://aeradot.ismcdn.jp/mwimgs/9/e/1200xm/img_9e687a442ec1138830bff275d500ffdb176876.jpg",
+          "publishedAt": "2026-08-05T07:27:02Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260805-00000002-technoed-000-1-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "スペースXのロケット、まもなく月に衝突へ",
-          "description": "民間の無人月面着陸船2機の打ち上げに使われた米スペースXのロケット「ファルコン9」の一部が5日未明、月に衝突する見通しだ。",
-          "url": "https://www.cnn.co.jp/fringe/35251309.html",
+          "title": "ウクライナ、ロシア通販大手の倉庫をさらに攻撃 モスクワ近郊で5人死亡",
+          "description": "ロシアで3日夜から翌朝にかけ、同国最大のオンライン小売業者ワイルドベリーズの倉庫2カ所がウクライナの攻撃を受けた。また、同社と関連があるとみられるモスクワ近郊の別の施設も被害を受けた。ウクライナは最近、「ロシア版アマゾン」と呼ばれるワイルドベリーズの施設を狙った攻撃を続けている。",
+          "url": "https://www.bbc.com/japanese/articles/c4g37gmj6v9o",
           "source": {
-            "name": "CNN.co.jp"
+            "name": "BBC"
           },
-          "publishedAt": "2026-08-05T03:19:00Z",
-          "image": "https://www.cnn.co.jp/storage/2026/08/05/64168833b6a57ce45dd4f3b2ceb51205/gettyimages-2193430446.jpg",
+          "publishedAt": "2026-08-05T07:23:17Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/ad4f/live/138d6250-8fed-11f1-a10e-47119dd4425c.jpg",
           "language": "ja"
         },
         {
-          "title": "東野圭吾さんの「ガリレオ」シリーズ最新長編『永遠の記憶』が8月5日発売",
-          "description": "刑事・内海薫が何者かに刺され、湯川学と草薙が「忘れてはいけない謎」の扉を開く。発売記念キャンペーン「東野圭吾の“記憶”に残る一文は？」も開始",
-          "url": "https://news.denfaminicogamer.jp/news/260805r",
+          "title": "【台風情報】トリプル台風か 熱帯低気圧“台風のたまご”が発生 お盆に関東影響の可能性も 最も警戒なのは台風13号 7日午前に沖縄へ直撃の恐れ",
+          "description": "現在、台風13号が沖縄に接近しています。その中、南シナ海では新たに台風14号が発生。さらに、日本の南の海上には台風のたまごである熱帯低気圧があり、今後24時間以内に台風へ発達する見込みです。新たな台風が発生すれば、「トリプル台風」となります。5日午前9時、日本の南の海上で発生した熱帯低気圧は、今後24時間以内に台風へ発達する見込みです。その後は北上しながら進み、10日ごろには関東の東の海上へ近づく可能性があります。現時点では予想進路に幅があり、日本への影響はまだはっきりしていません。ただ、今後…",
+          "url": "https://www.fnn.jp/articles/-/1089050",
           "source": {
-            "name": "電ファミニコゲーマー"
+            "name": "FNNプライムオンライン"
           },
-          "publishedAt": "2026-08-05T03:18:00Z",
-          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/main-14.jpg",
+          "publishedAt": "2026-08-05T07:19:00Z",
+          "image": "https://fnn.ismcdn.jp/mwimgs/0/4/600/img_0439376a71d9707917ef93ac2125be1d1591642.jpg",
           "language": "ja"
         },
         {
-          "title": "Noctua×Pulsarコラボのファン内蔵ゲーミングマウスが発売、サンプル展示も開始",
-          "description": "手のひらへの送風機能を備えたゲーミングマウス「Pulsar Feinmann F01 Noctua Edition」が登場した。",
-          "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2130565.html",
+          "title": "ユニチャーム、今期最終を19％下方修正",
+          "description": "ユニ・チャーム <8113> [東証Ｐ] が8月5日大引け後(16:00)に決算(国際会計基...",
+          "url": "https://s.kabutan.jp/news/k202608050173/",
           "source": {
-            "name": "AKIBA PC Hotline!"
+            "name": "株探"
           },
-          "publishedAt": "2026-08-05T03:05:00Z",
-          "image": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2130/565/a1.jpg",
+          "publishedAt": "2026-08-05T07:00:00Z",
+          "image": "https://async.api.kabutan.jp/og_image?stock_code=8113&stock_name=%E3%83%A6%E3%83%8B%E3%83%81%E3%83%A3%E3%83%BC%E3%83%A0&title=%E4%BB%8A%E6%9C%9F%E6%9C%80%E7%B5%82%E3%82%9219%EF%BC%85%E4%B8%8B%E6%96%B9%E4%BF%AE%E6%AD%A3",
           "language": "ja"
         },
         {
-          "title": "【夏の甲子園】1年生でベンチ入りしたのは50名！打率5割超・仙台育英の強打者、健大高崎左腕らに注目！｜記事一覧｜高校野球ドットコム",
-          "description": "頑張っている球児を応援する高校野球報道サイト。コラムや試合記事など高校野球情報を公開中。",
-          "url": "https://www.hb-nippon.com/articles/15866",
+          "title": "あのSFやガジェット、ゲームに何年生で出会ったかがわかるインタラクティブ年表「SF・コンピューター技術ライフライン」を3倍に育てた。自分語りに便利なX共有機能も（CloseBox）",
+          "description": "過去から未来へのテクノロジーの歴史を、ちょっとした暇つぶしとしてテンポ良く、かつワクワクしながら読める壮大な読み物を改訂しました。",
+          "url": "https://www.techno-edge.net/article/2026/08/05/5365.html",
           "source": {
-            "name": "高校野球ドットコム"
+            "name": "techno-edge.net"
           },
-          "publishedAt": "2026-08-05T03:04:16Z",
-          "image": "https://cdn.hb-nippon.com/article-img/01KZ7K93M6AK8PR015VP0ZNMVM.jpg",
+          "publishedAt": "2026-08-05T06:22:51Z",
+          "image": "https://www.techno-edge.net/imgs/ogp_f/33367.png",
           "language": "ja"
         },
         {
-          "title": "食品消費税27年4月から1%、政府が午後決定へ 秋に関連法案提出",
-          "description": "政府は5日午後、食料品の消費税率を2027年4月から2年間、現行の8%から1%に引き下げる方針を閣議決定する。1%分の給付を組み合わせ、与党が衆院選で掲げた公約に沿うよう「実質ゼロ」にする。秋の臨時国会への関連法案の提出をめざす。自民党は5日午前、党本部で政調審議会を開き、政府の基本方針案を了承した。小林鷹之政調会長は冒頭、「国民のさらなる理解を得るため、今後の制度設計の具体化へしっかり対応す",
-          "url": "https://www.nikkei.com/article/DGXZQOUA011O20R00C26A8000000/",
+          "title": "《テレ朝は“出禁”検討》三山凌輝 密会報道後初のSNS更新で「謝罪ゼロ」の強気スタイルも…新規の仕事ゼロ、妻・趣里も憔悴で迎える「干され危機」",
+          "description": "8月2日、大千秋楽を迎えたミュージカル『愛の不時着』。その2日後、Xを更新し、ファンや関係者への感謝の言葉を綴った主演の三山凌輝（27）だったが……。\n三山は投稿で、《ミュージカル 愛の不時着　大",
+          "url": "https://news.yahoo.co.jp/articles/2a8587367e58378980d962557fa3e7fecd0ac84c",
           "source": {
-            "name": "日本経済新聞"
+            "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-08-05T02:46:25Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3409738004082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.75&fp-y=0.4&h=630&w=1200&s=5f75ff3a34e84d2812c63c9ae0ec1734",
+          "publishedAt": "2026-08-05T06:20:47Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260805-00000026-jisin-000-4-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "台風が次々と発生 台風13号は7日頃から沖縄を直撃の恐れ 2週間天気予報",
-          "description": "台風が次々と発生しています。台風13号は7日(金)頃から8日(土)頃にかけて沖縄本島を直撃する恐れがあります。台風の動きが遅くなるため、沖縄では影響が長引きそうです。一方、南シナ海の台風14号は日本への直接的な影響はないでしょう。また、ウェーク島近海では新たな台風が発生する予想で、今後の進路に注意が必要です。",
-          "url": "https://tenki.jp/forecaster/t_yoshida/2026/08/05/40016.html",
+          "title": "《テレ朝は“出禁”検討》三山凌輝 密会報道後初のSNS更新で「謝罪ゼロ」の強気スタイルも…新規の仕事ゼロ、妻・趣里も憔悴で迎える「干され危機」",
+          "description": "《テレ朝は“出禁”検討》三山凌輝　密会報道後初のSNS更新で「謝罪ゼロ」の強気スタイルも…新規の仕事ゼロ、妻・趣里も憔悴で迎える「干され危機」（女性自身）8月2日、大千秋楽を迎えたミュージカル『愛の不時着』。その2日後、Xを更新し、ファンや関係者への感謝の言葉を綴った主演の三山…",
+          "url": "https://topics.smt.docomo.ne.jp/article/jisin/entertainment/jisin-https_jisin.jp_p_2594425?redirect=1",
           "source": {
-            "name": "tenki.jp"
+            "name": "ｄメニューニュース"
           },
-          "publishedAt": "2026-08-05T02:39:03Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/400/40016/main/20260805111657/large.jpg",
+          "publishedAt": "2026-08-05T06:20:00Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/picture/jisin/m_jisin-https_jisin.jp_p_2594425.jpg",
           "language": "ja"
         },
         {
-          "title": "桑木志帆ショット力の“原点” 19歳ルーキー当時のレッスン振り返り 脱スライスもドロー習得も女王におまかせ♪",
-          "description": "「AIG女子オープン(全英女子)」を制し、日本勢7人目の海外女子メジャー覇者となった桑木志帆。本特集では、プロテスト合格直後の約4年前（当時19歳）に取材した全6回のレッスンを一挙公開する。スライスを防ぐ“お尻”の使い方から、パットで右手の",
-          "url": "https://lesson.golfdigest.co.jp/lesson/rescue/article/193735/1/",
+          "title": "『メタルギアソリッド』シリーズのポップアップストアが8月18日より新宿で開催。発見マークの前髪クリップやスネークのポスターが登場",
+          "description": "『METAL GEAR SOLID: MASTER COLLECTION Vol.2』発売を記念したポップアップストアが2026年8月18日から9月4日にかけて、紀伊國屋書店 新宿本店で開催。主人公・スネークをモチーフにした高精細なシルクスクリーンポスターをはじめ、シリーズ歴代作品に登場したキャラクターのアクリルスタンドなどのグッズが販売される。",
+          "url": "https://www.famitsu.com/article/202608/83572",
           "source": {
-            "name": "ゴルフダイジェスト・オンライン"
+            "name": "famitsu.com"
           },
-          "publishedAt": "2026-08-05T02:06:29Z",
-          "image": "https://i.gimg.jp/cmsimg/433577.png",
+          "publishedAt": "2026-08-05T06:00:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/83572/thumbnail_tubs.jpg?x=1280",
           "language": "ja"
         },
         {
-          "title": "『超かぐや姫！』ツインエンジンとバンダイが戦略的パートナーシップを締結",
-          "description": "アニメーション化を前提とした原作マンガの企画・開発からアニメ制作までを共同推進。総額最大40億円が投資される",
-          "url": "https://news.denfaminicogamer.jp/news/260805w",
+          "title": "田中みな実：“ふっくらおなか”際立つドレス姿で登場 結婚＆第1子妊娠後、初の公の場",
+          "description": "俳優の田中みな実さんが8月5日、東京都内で行われた映画「5秒で完全犯罪を生成する方法」（9月11日公開、近藤亮太監督）の完成披露試写会に登壇。田中さんは、6月29日に歌手で俳優の亀梨和也さんとの結婚…",
+          "url": "https://mainichikirei.jp/article/20260805dog00m100008000a.html",
           "source": {
-            "name": "news.denfaminicogamer.jp"
+            "name": "毎日キレイ"
           },
-          "publishedAt": "2026-08-05T02:00:00Z",
-          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/160209b97d90c8a32175242e79c01fbe.jpg",
+          "publishedAt": "2026-08-05T05:53:37Z",
+          "image": "https://storage.mainichikirei.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/08/05/20260805dog00m100008000a/001.jpg",
           "language": "ja"
         },
         {
-          "title": "夏の甲子園、秋田の小中出身４人が仙台育英などでメンバー入り【名簿】｜秋田魁新報電子版",
-          "description": "第１０８回全国高校野球選手権大会は５日に甲子園球場で開幕する。本県からは横手が５７年ぶり２度目の出場。１８日間（３日間の休養日を含む）の日程で、４９校が頂点を目指して戦う。暑さ対策のため、昨年に続い…",
-          "url": "https://www.sakigake.jp/news/article/20260805AK0009/",
+          "title": "〈海外移住 続々〉海外へ「教育移住」という選択肢 小3でわが子の特性に合った教育を求めて「マレーシア」を選んだ理由",
+          "description": "タレントの菊地亜美さんが4日、今夏からマレーシアと日本の二拠点生活を始めると発表した。長女の小学校入学を機に、教育環境を変えるという。近年、子育てのため海外に移住する「教育移住」が増えている。過去…",
+          "url": "https://dot.asahi.com/articles/-/289314?page=1",
           "source": {
-            "name": "秋田魁新報電子版"
+            "name": "AERA DIGITAL"
           },
-          "publishedAt": "2026-08-05T01:30:00Z",
-          "image": "https://www.sakigake.jp/images/news-entry/20260805ak0009_01_l.jpg",
+          "publishedAt": "2026-08-05T05:00:00Z",
+          "image": "https://aeradot.ismcdn.jp/mwimgs/c/3/1200xm/img_c3d42eac3a0a4b56004261d387a014cd55733.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Cyclists injured in Epsom rampage were teens from Auckland Grammar",
-          "description": "Police said CCTV vision appeared to show the driver deliberately veering into the cyclists.",
-          "url": "https://www.1news.co.nz/2026/08/05/cyclists-injured-in-epsom-rampage-were-teens-from-auckland-grammar/",
+          "title": "Stellenbosch announce 4th signing from Kaizer Chiefs",
+          "description": "Stellenbosch FC have completed the permanent signing of Gopolang Taunyana from Kaizer Chiefs.",
+          "url": "https://www.thesouthafrican.com/sport/soccer/psl-south-africa/stellenbosch-announce-4th-signing-from-kaizer-chiefs/",
           "source": {
-            "name": "1News"
+            "name": "The South African"
           },
-          "publishedAt": "2026-08-05T04:41:15Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/a-car-at-the-scene-of-the-incident-in-epsom-VMPLYSOK5RAFVOKGBWATVXIWWI.jpg?auth=4153e071a08fbfccb0965002ffd8bfa8e8428b6d313fe5fbcc198c6e3f7ad962&quality=70&width=600&height=315&focal=960%2C540",
+          "publishedAt": "2026-08-05T07:35:35Z",
+          "image": "https://www.thesouthafrican.com/wp-content/uploads/2026/08/2026-08-05-stellenbosch-announce-4th-signing-from-kaizer-chiefs.jpg.webp",
           "language": "en"
         },
         {
-          "title": "Japan and Southeast Asia: Trust and Strengthening People-to-People Exchanges",
-          "description": "By YUSUKE UMEZAKIRelations between Japan and Southeast Asia are growing ever closer. People-to-people exchanges, including tourism, are becoming increasingly...",
-          "url": "https://mb.com.ph/2026/08/05/japan-and-southeast-asia-trust-and-strengthening-people-to-people-exchanges",
+          "title": "First Fleadh Cheoil na hÉireann in Belfast brings 95% surge in footfall to city",
+          "description": "This year’s festival has been billed as one of the most culturally diverse in its history",
+          "url": "https://www.irishtimes.com/culture/2026/08/05/first-fleadh-cheoil-na-heireann-in-belfast-brings-95-surge-in-footfall-to-city/",
           "source": {
-            "name": "Manila Bulletin"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-08-05T04:41:12Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/05/121157.webp",
+          "publishedAt": "2026-08-05T07:35:01Z",
+          "image": "https://www.irishtimes.com/resizer/v2/S3OAXQPXYFYBELHVW7QKT3DBTM.jpg?smart=true&auth=3fad8b798c63fe54274041c0810dea549f9f06cc91a494fceffc29ff42754323&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Trump warns Iran to open Hormuz or get 'hit very hard'",
-          "description": "Iran wants to control the Strait of Hormuz and charge tolls - powers it did not exercise before the war began on Feb 28.",
-          "url": "https://www.channelnewsasia.com/world/donald-trump-warns-iran-open-hormuz-strait-or-get-hit-very-hard-6300131",
+          "title": "Dangote’s Sh2.2 trillion Lamu oil refinery to break ground before end of 2026",
+          "description": "The proposed project is expected to create about 60,000 jobs and boost Kenya's petroleum processing capacity",
+          "url": "https://www.the-star.co.ke/news/2026-08-05-dangotes-sh22tn-lamu-refinery-to-break-ground-in-2026",
           "source": {
-            "name": "CNA"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-08-05T04:41:00Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--JATRTozy--/c_crop,h_576,w_1024,x_0,y_103/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/05/000_c3vz9we.jpg?itok=9DQDNfE_",
+          "publishedAt": "2026-08-05T07:35:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/08/2698a4fc-9563-40f0-996f-95045b8676f5.webp?1785921650016",
           "language": "en"
         },
         {
-          "title": "Infinix AI Glasses arrive in the Philippines for PHP 8,999",
-          "description": "Infinix AI Glasses launch in the Philippines for PHP 8,999 with AI translation, offline transcription, open-ear audio, IP54, and Bluetooth 6.0.",
-          "url": "https://www.pinoymetrogeek.com/2026/08/infinix-ai-glasses-price-ph.html",
+          "title": "More than 800,000 displaced Lebanese returning home after war",
+          "description": "Naharnet is the leading Lebanese news destination, breaking the news as it happens!",
+          "url": "https://naharnet.com/stories/en/321644-more-than-800-000-displaced-lebanese-returning-home-after-war",
           "source": {
-            "name": "Pinoy Metro Geek"
+            "name": "Naharnet"
           },
-          "publishedAt": "2026-08-05T04:41:00Z",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguYuyLYjPkOd_dBfFCi5NuRct4MxcWQNE87ulC0BBHUywPQsidgegttg31QAorQdBORGZZxi3yw8Dyq0lz_b_9cUOMXfGprKQecCjYVMo3lMnABthunbgZNQA2_2Sm8rrKOOhv6DNh5QCRwFaQFqgfSYhafkaAevXXjbI7iZQpju68PrLE8r_AARctYh4C/w1600/Screenshot%202026-08-05%20at%2012.36.04%E2%80%AFPM.png",
+          "publishedAt": "2026-08-05T07:34:00Z",
+          "image": "http://images2.naharnet.com/images/275638/w140.jpg?1785915256",
           "language": "en"
         },
         {
-          "title": "I walked away from power rather than compromise my integrity -Octogenarian Eburajolo",
-          "description": "Few Nigerians have witnessed the country’s economic evolution as closely—or participated in it as actively—as Victor Eburajolo. For more than five decades, the industrial relations expert,...",
-          "url": "https://www.vanguardngr.com/2026/08/i-walked-away-from-power-rather-than-compromise-my-integrity-octogenarian-eburajolo/",
+          "title": "Football transfer rumours: Folarin Balogun to Spurs? Pedro Neto to Manchester City?",
+          "description": "Tijjani Reijnders to Nottingham Forest? | Crystal Palace to sign winger Zavier Gozo? | Jadon Sancho considering his future?",
+          "url": "https://www.theguardian.com/football/2026/aug/05/football-transfer-rumours-folarin-balogun-tottenham-hotspur-pedro-neto-manchester-city",
           "source": {
-            "name": "Vanguard News"
+            "name": "theguardian.com"
           },
-          "publishedAt": "2026-08-05T04:40:26Z",
-          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/EBurajolo.jpg",
+          "publishedAt": "2026-08-05T07:33:56Z",
+          "image": "https://i.guim.co.uk/img/media/0dbc0c0a28b2545682b304d3c5f8c2c020c8356e/379_0_3776_3023/master/3776.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eaf6b9b4a0b4521f8b8830682bebbb4b",
           "language": "en"
         },
         {
-          "title": "US THAAD arsenal nearly 80% depleted as Iran talks progress: Report",
-          "description": "International News: The US military has used nearly 80 per cent of its Terminal High Altitude Area Defence (Thaad) interceptors since the start of the war with Iran. Seni.",
-          "url": "https://timesofindia.indiatimes.com/defence/international/us-thaad-arsenal-nearly-80-depleted-as-iran-talks-progress-report/articleshow/132890418.cms",
+          "title": "oxygen plant at Mafinga hospital",
+          "description": "DAR ES SALAAM: CHAMA Cha Mapinduzi Women’s Wing (UWT) has hailed the sixth phase government for constructing a modern 1.7bn/- medical oxygen plant at Mafinga Town Hospital in Iringa Region, describing it as a major boost to emergency and specialised healthcare services. The remark was made during a visit by the women’s wing leaders to …",
+          "url": "https://dailynews.co.tz/uwt-hails-1-7bn-oxygen-plant-at-mafinga-hospital/",
           "source": {
-            "name": "The Times of India"
+            "name": "dailynews.co.tz"
           },
-          "publishedAt": "2026-08-05T04:38:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-132890418,width-1280,height-720,imgsize-113914,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-08-05T07:33:49Z",
+          "image": "https://dailynews.co.tz/wp-content/uploads/2026/08/Screenshot-2026-08-05-103310.jpg",
           "language": "en"
         },
         {
-          "title": "‘I Think We’re Friends’ - Alexandra Eala Opens Up About Leylah Fernandez and Their Shared Filipino Heritage",
-          "description": "Alexandra Eala has arrived in Toronto for the Canadian Open after achieving a major milestone at the Mubadala DC Open. Ahead of her opening match at the WTA 1000 event, Eala shed light on her relationship with Leylah Fernandez while also opening up about her dynamic with fellow players of Filipino heritage.",
-          "url": "https://sports.yahoo.com/articles/think-friends-alexandra-eala-opens-043822159.html",
+          "title": "Israeli Army Backs Netanyahu, Sets 3 Red Lines over Gaza Agreement",
+          "description": "The Israeli army backed on Tuesday Prime Minister Benjamin Netanyahu’s stance on the latest Gaza agreement, placing three red lines to the 15-point deal that was announced by the Board of Peace last week about ending the war in the Palestinian enclave. Israel’s Kan radio said senior military officials refuse to have restrictions imposed on the army in Gaza, demanding complete freedom of movement to eliminate “threats”.",
+          "url": "https://english.aawsat.com/arab-world/5303585-israeli-army-backs-netanyahu-sets-3-red-lines-over-gaza-agreement",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "ASHARQ AL-AWSAT English"
           },
-          "publishedAt": "2026-08-05T04:38:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/137472e426e87fb35f2b3c05a1a672952a8f4598a398dedacae4b6255fc54e9e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2Ff3af2dfb9e8cdfc5a56b57f9252ce5e8",
+          "publishedAt": "2026-08-05T07:33:27Z",
+          "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-08/1703502.jpeg.webp",
           "language": "en"
         },
         {
-          "title": "NEET-UG shift to computer-based testing under active consideration, Centre tells SC",
-          "description": "The Centre informs the Supreme Court about considering NEET-UG's shift to computer-based testing, ensuring stakeholder consultation and adequate notice.",
-          "url": "https://www.thehindu.com/news/national/neet-ug-shift-to-computer-based-testing-under-active-consideration-centre-tells-sc/article71306863.ece",
+          "title": "Perez Hilton hospitalised after harming himself on TikTok livestream",
+          "description": "Emergency services were seen outside Hilton’s home in Miami on Tuesday night",
+          "url": "https://www.irishtimes.com/life-style/people/2026/08/05/perez-hilton-hospitalised-after-harming-himself-on-tiktok-livestream/",
+          "source": {
+            "name": "The Irish Times"
+          },
+          "publishedAt": "2026-08-05T07:33:03Z",
+          "image": "https://www.irishtimes.com/resizer/v2/SRGPOIDDLBG6VIJNW6D2F2YVOY.jpg?smart=true&auth=1f012a3fd1c0a9fb308516bf7f6ae5eca1cb6ddd81cda475ad96e81d3966fe84&width=1200&height=630",
+          "language": "en"
+        },
+        {
+          "title": "Russian overnight strikes around Kyiv kill 15 and injure dozens more",
+          "description": "Moscow claims it hit ‌logistic hubs and ​supply centres in ​Kyiv and ⁠the surrounding region",
+          "url": "https://www.irishtimes.com/world/europe/2026/08/05/russian-strikes-kill-14-damage-warehouses-in-ukraine-capital-kyiv/",
+          "source": {
+            "name": "The Irish Times"
+          },
+          "publishedAt": "2026-08-05T07:31:47Z",
+          "image": "https://www.irishtimes.com/resizer/v2/JIJRICC3YBRSFTSLJVY6KBF6KE.jpg?smart=true&auth=cf53c5f4473b09a737f9ee247792790774f0f20a676e9d5494ff6db55ebd44e9&width=1200&height=630",
+          "language": "en"
+        },
+        {
+          "title": "West Asia war LIVE: Trump signals Hormuz deal soon; Iran-Oman diplomatic engagement enters a new phase",
+          "description": "Follow The Hindu LIVE for the latest updates on the conflict in West Asia as Iran says an understanding with Oman on the Strait of Hormuz is within reach if the U.S. ceases interference.",
+          "url": "https://www.thehindu.com/news/international/west-asia-war-tehran-washington-talks-iran-oman-diplomatic-engagement-strait-of-hormuz-live-updates-august-5-2026/article71307954.ece",
           "source": {
             "name": "The Hindu"
           },
-          "publishedAt": "2026-08-05T04:36:18Z",
-          "image": "https://th-i.thgim.com/public/incoming/bzijy8/article71306927.ece/alternates/LANDSCAPE_1200/TH16-Maitri-11.GJAG8T9N4.3.jpg.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Google is finally pulling the plug on Assistant for Android phones",
-          "description": "It looks like Google has started emailing users that Google Assistant will start disappearing from Android phones on September 4.",
-          "url": "https://www.androidauthority.com/google-assistant-shutdown-3694622/",
-          "source": {
-            "name": "Android Authority"
-          },
-          "publishedAt": "2026-08-05T04:36:00Z",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2020/08/Google-Assistant-stock-photo-2.jpg",
-          "language": "en"
-        },
-        {
-          "title": "SONABEL to begin controlled spillage of Bagre Dam from August 11",
-          "description": "SONABEL, the power-producing company of Burkina Faso, has announced plans to begin the controlled spillage of the Bagre Dam from Tuesday, August 11, 2026.",
-          "url": "https://www.ghanabusinessnews.com/2026/08/05/sonabel-to-begin-controlled-spillage-of-bagre-dam-from-august-11/",
-          "source": {
-            "name": "Ghana Business News"
-          },
-          "publishedAt": "2026-08-05T04:35:53Z",
-          "image": "https://www.ghanabusinessnews.com/wp-content/uploads/2021/08/Bagre-dam.jpg",
+          "publishedAt": "2026-08-05T07:31:45Z",
+          "image": "https://th-i.thgim.com/public/incoming/42901p/article71308611.ece/alternates/LANDSCAPE_1200/2026-08-04T182329Z_780623365_RC2RQMATSB7W_RTRMADP_3_GLOBAL-OIL.JPG",
           "language": "en"
         }
       ]
