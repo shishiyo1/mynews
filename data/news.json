@@ -1,10 +1,21 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-05T02:36:05.680Z",
+  "updatedAt": "2026-08-05T05:46:39.902Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "iPhone Ultraと18 Proの同時発売に自信〜的中率高いリーカーが考え示す",
+          "description": "折りたたみiPhone（仮称：iPhone Ultra）は、iPhone18 Proシリーズと同時に発表されるものの、量産開始の遅れにより、発売が約6週間後になるとの噂があります。",
+          "url": "https://iphone-mania.jp/iphone18-604168/",
+          "source": {
+            "name": "iphone-mania.jp"
+          },
+          "publishedAt": "2026-08-04T15:13:14Z",
+          "image": "https://iphone-mania.jp/wp-content/uploads/2026/08/05/iphone-Ultra-AH-0805.jpeg",
+          "language": "ja"
+        },
         {
           "title": "山本祐大の評価が「非常に高い」裏側…上沢直之と初バッテリーを小久保監督が明かす",
           "description": "日本ハム戦に1-0で勝利したソフトバンク。7回無失点で6勝目を挙げた上沢直之と山本祐大の初バッテリー結成の裏側、決勝犠飛を放った山本祐大への高い評価、さらに試合前に語った南海ホークスOBの秘話まで、小久保監督の一問一答をお届けします。",
@@ -61,6 +72,17 @@
           "language": "ja"
         },
         {
+          "title": "〈令和のロマンススターカップル爆誕〉三山凌輝＆花乃まりあ 無反省メールの裏にあった「意外な需要」",
+          "description": "〈令和のロマンススターカップル爆誕〉三山凌輝＆花乃まりあ　無反省メールの裏にあった「意外な需要」（FRIDAYデジタル）プライベートなメールが流出した三山凌輝（左）と元宝塚女優・花乃まりあ相当身近な人物が元『BE:FIRST』のメンバーで現在は俳優…",
+          "url": "https://topics.smt.docomo.ne.jp/article/friday/entertainment/friday-476770?redirect=1",
+          "source": {
+            "name": "ｄメニューニュース"
+          },
+          "publishedAt": "2026-08-04T11:30:00Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/picture/friday/m_friday-476770.jpg",
+          "language": "ja"
+        },
+        {
           "title": "THE RAMPAGE 川村壱馬、“マナー違反”された経験語り心のライトセーバーが赤色に",
           "description": "ニュース｜　THE RAMPAGEの川村壱馬が4日、都内で行われた動画配信サービス「Disney＋（ディズニープラス）」で5日から日米同時独占配信される日本発の長編アニメシリーズ『スター・ウォーズ：ビジョンズ／九人目のジェダイ』の前夜祭イベントに参加した。　本作は、世界各国のアニメーションスタジオが独自の解釈で「スター・ウォーズ」を描くプロジェクト『スター・ウォーズ：ビジョンズ』初の長編シリーズ。「攻殻機動隊」シリーズや『怪獣8号』などで知られるProduction I.Gがアニメーション制作を担い、神山健治が総監督を務める。",
           "url": "https://www.oricon.co.jp/news/2470998/full/",
@@ -92,139 +114,117 @@
           "publishedAt": "2026-08-04T11:04:02Z",
           "image": "https://kumanichi.com/sites/default/files/styles/sns_share/public/2026-08/IP260804TAN000046000_03.jpg?itok=AEd1HIZw",
           "language": "ja"
-        },
-        {
-          "title": "低価格PCも快速に。メモリ高騰でWindowsがダイエットを決断",
-          "description": "AIを使わないユーザーにはありがたいかも。Windows 11の登場から約5年。 マイクロソフトはついに、低価格なWindows PCに対してほんのわずかな配慮を見せ始めました。ただし、それはAI時代の善意からというわけではありません。あま",
-          "url": "https://www.gizmodo.jp/article/can-microsoft-really-make-windows-11-suck-less-on-weak-pcs/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-08-04T11:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/08/04/5938db81-ab5c-4ab1-abbf-640f9a01497e/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "「ダンプが横転…とんでもない音」夏休みの「こどもの国線」で「ひつじでんしゃ」が接触事故 乗客には乳幼児抱えた人も 横浜市",
-          "description": "夏休み本番となる中、4日、列車とトラックが接触する事故が起きました。事故は4日午前11時過ぎ、神奈川・横浜市青葉区を走る東急電鉄こどもの国線の線路脇で起きました。画面左からやってきた列車は、線路内に進入したトラックにそのまま衝突してしまいました。トラックは積んでいた土砂をまき散らして横転。列車は側面がはがれ落ちています。電車の正面を見てみると、羊の顔。「ひつじでんしゃ」と呼ばれるラッピング車両です。事故が起きたのは、子ども連れに人気のレジャー施設。「こどもの国」と長津田駅を結ぶ路線でした。さら…",
-          "url": "https://www.fnn.jp/articles/-/1088574",
-          "source": {
-            "name": "FNNプライムオンライン"
-          },
-          "publishedAt": "2026-08-04T10:37:00Z",
-          "image": "https://fnn.ismcdn.jp/mwimgs/e/d/600/img_edfce535cf56bfa2032ccaed4a8242d7655764.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "New Samsung TVs Will Support HDR10+ Advanced Streaming On Prime Video Starting This Month",
-          "description": "The main features of HDR10+ Advanced include Enhanced Overall Brightness and Intelligent Motion Smoothing.",
-          "url": "https://www.engadget.com/2229903/new-samsung-tvs-will-support-hdr10-plus-advanced-streaming-on-prime-video-starting-this-month/",
+          "title": "Munir says armed forces ready for monsoon relief",
+          "description": "Field Marshal Asim Munir says armed forces are prepared to assist NDMA and civil authorities in relief operations during the monsoon season.",
+          "url": "https://www.pakistantoday.com.pk/2026/08/04/munir-says-armed-forces-ready-to-back-relief-operations-during-monsoon",
           "source": {
-            "name": "Engadget"
+            "name": "Pakistan Today"
           },
-          "publishedAt": "2026-08-04T14:36:01Z",
-          "image": "https://www.engadget.com/img/gallery/new-samsung-tvs-will-support-hdr10-advanced-streaming-on-prime-video-starting-this-month/l-intro-1785854077.jpg",
+          "publishedAt": "2026-08-04T17:45:07Z",
+          "image": "https://www.geo.tv/assets/uploads/updates/2026-08-04/l_676140_084215_updates.jpg",
           "language": "en"
         },
         {
-          "title": "Sindh to introduce facial recognition attendance system in public schools",
-          "description": "The Sindh government has approved the launch of a facial recognition-based attendance system for teachers and non-teaching staff in public schools, with the first phase",
-          "url": "https://www.nation.com.pk/04-Aug-2026/sindh-introduce-facial-recognition-attendance-system-public-schools",
+          "title": "Officials report progress on a deal to reopen the Strait of Hormuz",
+          "description": "Iran and the Gulf Arab state of Oman have made progress toward a deal to reopen the Strait of Hormuz, a potential breakthrough that could help wind down the war in the Middle East.",
+          "url": "https://apnews.com/article/iran-us-war-strait-hormuz-oman-diplomacy-6587f90f2ab5beec373ce5fabf637541",
           "source": {
-            "name": "The Nation (Pakistan )"
+            "name": "AP News"
           },
-          "publishedAt": "2026-08-04T14:35:56Z",
-          "image": "https://www.nation.com.pk/digital_images/large/2026-08-04/sindh-introduce-facial-recognition-attendance-system-public-schools-1785854143-6311.jpg",
+          "publishedAt": "2026-08-04T17:45:00Z",
+          "image": "https://dims.apnews.com/dims4/default/626062e/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6c%2F8b%2F0754a9523ff797b2999f1ca27154%2F9154c051a0c246fdad9c7dbde5004cdc",
           "language": "en"
         },
         {
-          "title": "The agreement is done: a single condition separates Salah from signing for his new club",
-          "description": "Egypt's Mohamed Salah, the former Liverpool star, has finalised his agreement on the new club he will join during the current summer transfer window.",
-          "url": "https://www.goal.com/en/news/the-agreement-is-done-a-single-condition-separates-salah-from-signing-for-his-new-club/bltb7411c44e3151e50",
+          "title": "Microplastics in blood bags may affect red blood cells",
+          "description": "But ‘calling on manufacturers to overhaul blood storage materials would be premature’",
+          "url": "https://cen.acs.org/biological-chemistry/biochemistry/blood-bag-microplastics-may-affect-red-blood-cells/104/web/2026/08",
           "source": {
-            "name": "Goal.com"
+            "name": "Chemical & Engineering News"
           },
-          "publishedAt": "2026-08-04T14:35:15Z",
-          "image": "https://assets.goal.com/images/v3/getty-2278291749/crop/MM5DGNZRHA5DEMBZGE5G433XMU5DAORRHE2A====/GettyImages-2278291749.jpg",
+          "publishedAt": "2026-08-04T17:44:28Z",
+          "image": "https://s7d1.scene7.com/is/image/CENODS/Blood-storage-bags-leach-microplastics---554998:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
           "language": "en"
         },
         {
-          "title": "China pounces after hack on Apple's Indian supplier Tata Electronics",
-          "description": "In China's biggest electronics marketplace, Huaqiangbei, technicians don't have the parts to make exact copies of Apple's latest phones.",
-          "url": "https://www.cnbc.com/2026/08/04/china-apple-india-tata-electronics.html",
+          "title": "Former FIFA VP Prince Ali cites 'blackmail' by Infantino-led soccer body over unpaid prize money",
+          "description": "Former FIFA vice president Prince Ali bin Al Hussein criticized the soccer body’s leadership headed by Gianni Infantino on Tuesday, describing prize money withheld from his Jordan national team as a kind of blackmail.",
+          "url": "https://www.tsn.ca/soccer/fifa-world-cup/article/former-fifa-vp-prince-ali-cites-blackmail-by-infantino-led-soccer-body-over-unpaid-prize-money/",
           "source": {
-            "name": "CNBC"
+            "name": "TSN"
           },
-          "publishedAt": "2026-08-04T14:35:06Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108343800-1785766038715-gettyimages-2285371071-Apple_Logo.jpeg?v=1785766059&w=1920&h=1080",
+          "publishedAt": "2026-08-04T17:44:25Z",
+          "image": "https://www.tsn.ca/resizer/v2/WPG4527A27O5RSRZKFEA6OEK4A.jpg?smart=true&auth=92241b00b3b513bc58bab6b1cb4f0f4224dc6ca9cbad7daf731252d02d29638d&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Law passed to lower drink-driving limits, impose harsher penalties for dangerous driving causing grievous hurt",
-          "description": "Last year, there was a 10-year high of 149 fatalities on Singapore's roads – almost one death every two days.",
-          "url": "https://www.channelnewsasia.com/singapore/lower-drink-driving-limits-harsher-penalties-dangerous-driving-law-passed-6298166",
+          "title": "Princess Eugenie gives birth to a baby girl in Portugal",
+          "description": "The daughter of Andrew Mountbatten-Windsor and Sarah Ferguson welcomed her third child on Monday.",
+          "url": "https://www.bbc.com/news/articles/cpq81pxw5gro",
           "source": {
-            "name": "CNA"
+            "name": "BBC"
           },
-          "publishedAt": "2026-08-04T14:35:02Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--2nZrt_HZ--/c_crop,h_702,w_1248,x_163,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2025/09/20/twl_2550_0.jpg?itok=uyredsSt",
+          "publishedAt": "2026-08-04T17:44:10Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fa4b/live/bcc7b6e0-9029-11f1-9cf2-316ac336c337.jpg",
           "language": "en"
         },
         {
-          "title": "Bono recites U2 song 'Beautiful Day' as a poem at Glen Hansard's funeral",
-          "description": "Bono played a message from Patti Smith to the congregation before launching into a reading of Beautiful Day.",
-          "url": "https://www.thejournal.ie/bono-glen-hansard-patti-smith-7121152-Aug2026/",
+          "title": "Religious Leaders Shouldn't Be Partis",
+          "description": "FCT Minister Nyesom Wike criticises Cardinal Onaiyekan, stating religious leaders risk credibility if perceived as partisan. Wike faults Onaiyekan's consis",
+          "url": "https://punchng.com/wike-faults-onaiyekan-says-religious-leaders-shouldnt-be-partisan/",
           "source": {
-            "name": "The Journal"
+            "name": "Punch Newspapers"
           },
-          "publishedAt": "2026-08-04T14:33:00Z",
-          "image": "https://img2.thejournal.ie/article/7121152/river/?height=400&version=7121218",
+          "publishedAt": "2026-08-04T17:42:40Z",
+          "image": "https://punchng.com/wp-content/uploads/2026/06/Nyesom-Wike_1782223817-1200x630.webp",
           "language": "en"
         },
         {
-          "title": "Gold Price Today: XAU/USD Steady As Oil Crashes On Iran Talks",
-          "description": "Gold price today holds above $4,050 as oil crashes 7% on Iran diplomacy. What is driving gold, oil, the dollar and GBP/USD into NFP week.",
-          "url": "https://www.ig.com/uk/trading-strategies/gold-price-today--xau-usd-holds-above--4-050-as-oil-crashes-on-i-260804",
+          "title": "Jean Smart bids farewell to ‘Hacks’",
+          "description": "The fifth and final season of the HBO comedy series ‘Hacks’ is nominated for 24 Emmys, including one for Smart as best actress in a comedy series. The writers “raised the bar every single season,\" Smart tells guest interviewer Aarti Shahani. They talk about why the show is ending, Smart’s distant relative who narrowly escaped the Salem Witch Trials, and adopting a baby when she was in her 50s. Also, book critic Maureen Corrigan reviews the novel ‘Country People,’ by Daniel Mason. Subscribe to our free weekly newsletter Follow us on Instagram Subscribe to our YouTube channel Check out the Fresh Air Archives",
+          "url": "https://www.npr.org/2026/08/04/nx-s1-5919596/jean-smart-bids-farewell-to-hacks",
           "source": {
-            "name": "ig.com"
+            "name": "NPR"
           },
-          "publishedAt": "2026-08-04T14:32:14Z",
-          "image": "https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/news-article-image-folder/BB_gold_260514.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "publishedAt": "2026-08-04T17:41:32Z",
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1900x1069+0+416/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F2b%2F059d840e43f18e4a53604d62237f%2Fca7e4142-d517-4aa1-82d4-67c722131363.jpg",
           "language": "en"
         },
         {
-          "title": "MLB trade deadline: Grading every team's moves, from Dodgers' and Nationals' A to Yankees' and Orioles' D",
-          "description": "The Dodgers added Tarik Skubal, the Red Sox added Adley Rutschman and the Yankees did ... not much",
-          "url": "https://www.cbssports.com/mlb/news/mlb-trade-deadline-grading-every-team/",
+          "title": "Princess Eugenie gives birth to baby girl, Buckingham Palace confirms",
+          "description": "Princess Eugenie has given birth to a baby girl, Buckingham Palace has announced.. King Charles and Queen Camilla said they were “delighted” at the news, according to a post from the palace on social media",
+          "url": "https://www.nine.com.au/lifestyle/royals/princess-eugenie-baby-news-royal-gives-birth-to-baby-girl-in-portugal-buckingham-palace-confirms-20260805-p60lhm.html",
           "source": {
-            "name": "CBS Sports"
+            "name": "Nine.com.au"
           },
-          "publishedAt": "2026-08-04T14:30:27Z",
-          "image": "https://sportshub.cbsistatic.com/i/r/2026/08/04/371d2424-961e-4da0-9a38-365985c008ac/thumbnail/1200x675/eda62723dc9d64d761520674640c5c63/varsho-getty-1.png",
+          "publishedAt": "2026-08-04T17:40:39Z",
+          "image": "https://static.ffx.io/images/$zoom_0.6622%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_75/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/d4159902e30b87cc0cefbe6a963fddaaf6c3b23fc2b447db5cf2de04e91797c5",
           "language": "en"
         },
         {
-          "title": "Political cartoons on ultra-Orthodox IDF draft vandalized before Animix Festival",
-          "description": "A young man wearing a kippah confronted organizers and Tel Aviv Cinematheque CEO Tomer Cohen. They said he tore down and damaged parts of the exhibition before attempting to flee.",
-          "url": "https://www.jpost.com/israel-news/culture/article-904567",
+          "title": "Game of Thrones Author George R.R. Martin Shares Personal Update, Discusses Health and 'Falling Further and Further Behind'",
+          "description": "77-year-old Game of Thrones author George R.R. Martin has shared a candid update on his health, and discussed \"falling further and further behind.\"",
+          "url": "https://www.ign.com/articles/game-of-thrones-author-george-rr-martin-shares-personal-update-discusses-health-and-falling-further-and-further-behind",
           "source": {
-            "name": "The Jerusalem Post"
+            "name": "IGN"
           },
-          "publishedAt": "2026-08-04T14:30:19Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732702",
+          "publishedAt": "2026-08-04T17:39:29Z",
+          "image": "https://assets-prd.ignimgs.com/2026/08/04/gettyimages-2255544035-1785842821133.jpg?width=1280&format=jpg&auto=webp&quality=80",
           "language": "en"
         },
         {
-          "title": "Tata Steel Explains Why Jamshedpur FC Pulled Out of the ISL",
-          "description": "Jamshedpur FC's withdrawal from the Indian Super League was a pre-planned strategic decision to refocus on grassroots football development, independent of the league's commercial uncertainties, according to Tata Steel Vice President D B Sundara Raman.",
-          "url": "https://m.rediff.com/sports/report/tata-steel-explains-why-jamshedpur-fc-pulled-out-of-the-isl/20260804.htm",
+          "title": "Nightclub security assaulted, badly injured star Sea Bears player Teddy Allen, team says",
+          "description": "A Winnipeg Sea Bears player who the team says was assaulted and seriously injured has been released from hospital. The organization says security at a downtown Winnipeg nightclub is to blame for his injuries.",
+          "url": "https://www.cbc.ca/news/canada/manitoba/teddy-allen-sea-bears-assault-9.7295789",
           "source": {
-            "name": "Rediff"
+            "name": "CBC"
           },
-          "publishedAt": "2026-08-04T14:30:14Z",
-          "image": "https://im.rediff.com/1200-630/sports/2026/aug/04jamshedpur-fc-.jpg",
+          "publishedAt": "2026-08-04T17:39:08Z",
+          "image": "https://i.cbc.ca/ais/450490e5-2474-455b-a4c3-1937838273b2,1785865053040/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C5472%2C3078%29%3BResize%3D620",
           "language": "en"
         }
       ]
