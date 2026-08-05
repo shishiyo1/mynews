@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-05T14:10:30.852Z",
+  "updatedAt": "2026-08-05T16:42:38.630Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "〈海外移住 続々〉優木まおみ、娘2人とマレーシア教育移住10カ月 夫は日本に残るも「家族の絆はより強くなった」",
+          "description": "タレントの菊地亜美さんが4日、今夏からマレーシアと日本の二拠点生活を始めると発表した。長女の小学校入学を機に、教育環境を変えるという。同国に移住した優木まおみさんのインタビュー記事を再配信する。（…",
+          "url": "https://dot.asahi.com/articles/-/289313?page=1",
+          "source": {
+            "name": "dot.asahi.com"
+          },
+          "publishedAt": "2026-08-05T04:30:00Z",
+          "image": "https://aeradot.ismcdn.jp/mwimgs/9/e/1200xm/img_9e687a442ec1138830bff275d500ffdb176876.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "スペースXのロケット、まもなく月に衝突へ",
+          "description": "民間の無人月面着陸船2機の打ち上げに使われた米スペースXのロケット「ファルコン9」の一部が5日未明、月に衝突する見通しだ。",
+          "url": "https://www.cnn.co.jp/fringe/35251309.html",
+          "source": {
+            "name": "CNN.co.jp"
+          },
+          "publishedAt": "2026-08-05T03:19:00Z",
+          "image": "https://www.cnn.co.jp/storage/2026/08/05/64168833b6a57ce45dd4f3b2ceb51205/gettyimages-2193430446.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "東野圭吾さんの「ガリレオ」シリーズ最新長編『永遠の記憶』が8月5日発売",
+          "description": "刑事・内海薫が何者かに刺され、湯川学と草薙が「忘れてはいけない謎」の扉を開く。発売記念キャンペーン「東野圭吾の“記憶”に残る一文は？」も開始",
+          "url": "https://news.denfaminicogamer.jp/news/260805r",
+          "source": {
+            "name": "電ファミニコゲーマー"
+          },
+          "publishedAt": "2026-08-05T03:18:00Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/main-14.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Noctua×Pulsarコラボのファン内蔵ゲーミングマウスが発売、サンプル展示も開始",
+          "description": "手のひらへの送風機能を備えたゲーミングマウス「Pulsar Feinmann F01 Noctua Edition」が登場した。",
+          "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2130565.html",
+          "source": {
+            "name": "AKIBA PC Hotline!"
+          },
+          "publishedAt": "2026-08-05T03:05:00Z",
+          "image": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2130/565/a1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【夏の甲子園】1年生でベンチ入りしたのは50名！打率5割超・仙台育英の強打者、健大高崎左腕らに注目！｜記事一覧｜高校野球ドットコム",
+          "description": "頑張っている球児を応援する高校野球報道サイト。コラムや試合記事など高校野球情報を公開中。",
+          "url": "https://www.hb-nippon.com/articles/15866",
+          "source": {
+            "name": "高校野球ドットコム"
+          },
+          "publishedAt": "2026-08-05T03:04:16Z",
+          "image": "https://cdn.hb-nippon.com/article-img/01KZ7K93M6AK8PR015VP0ZNMVM.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "食品消費税27年4月から1%、政府が午後決定へ 秋に関連法案提出",
+          "description": "政府は5日午後、食料品の消費税率を2027年4月から2年間、現行の8%から1%に引き下げる方針を閣議決定する。1%分の給付を組み合わせ、与党が衆院選で掲げた公約に沿うよう「実質ゼロ」にする。秋の臨時国会への関連法案の提出をめざす。自民党は5日午前、党本部で政調審議会を開き、政府の基本方針案を了承した。小林鷹之政調会長は冒頭、「国民のさらなる理解を得るため、今後の制度設計の具体化へしっかり対応す",
+          "url": "https://www.nikkei.com/article/DGXZQOUA011O20R00C26A8000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-08-05T02:46:25Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3409738004082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.75&fp-y=0.4&h=630&w=1200&s=5f75ff3a34e84d2812c63c9ae0ec1734",
+          "language": "ja"
+        },
+        {
+          "title": "台風が次々と発生 台風13号は7日頃から沖縄を直撃の恐れ 2週間天気予報",
+          "description": "台風が次々と発生しています。台風13号は7日(金)頃から8日(土)頃にかけて沖縄本島を直撃する恐れがあります。台風の動きが遅くなるため、沖縄では影響が長引きそうです。一方、南シナ海の台風14号は日本への直接的な影響はないでしょう。また、ウェーク島近海では新たな台風が発生する予想で、今後の進路に注意が必要です。",
+          "url": "https://tenki.jp/forecaster/t_yoshida/2026/08/05/40016.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-08-05T02:39:03Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/400/40016/main/20260805111657/large.jpg",
+          "language": "ja"
+        },
         {
           "title": "桑木志帆ショット力の“原点” 19歳ルーキー当時のレッスン振り返り 脱スライスもドロー習得も女王におまかせ♪",
           "description": "「AIG女子オープン(全英女子)」を制し、日本勢7人目の海外女子メジャー覇者となった桑木志帆。本特集では、プロテスト合格直後の約4年前（当時19歳）に取材した全6回のレッスンを一挙公開する。スライスを防ぐ“お尻”の使い方から、パットで右手の",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-08-05T01:30:00Z",
           "image": "https://www.sakigake.jp/images/news-entry/20260805ak0009_01_l.jpg",
           "language": "ja"
-        },
-        {
-          "title": "アップル、「iPhone 20 Pro/Pro Max」で画面を大型化か",
-          "description": "アップルは2027年、iPhoneの発売20周年に合わせて、「iPhone Pro」と「iPhone Pro Max」のディスプレイを大型化する可能性がある。ある事情通が明らかにした。",
-          "url": "https://japan.cnet.com/article/35251296/",
-          "source": {
-            "name": "CNET Japan"
-          },
-          "publishedAt": "2026-08-05T01:18:00Z",
-          "image": "https://japan.cnet.com/storage/2026/08/05/93a0b5a4594429de40754c585e5f4b46/apple-logo-GettyImages-2285371071_1280x960.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【熊本地震】イオンモール爆発事故で生死を分けた「タイミング」と「金庫の売上金」",
-          "description": "「入館があと10分遅れていたら巻き込まれていた」〈以下、イオン2階の店舗で働いていた従業員が語る〉7月28日の16時半ごろ、仕事中に今まで経験したことのないよう激しい揺れに見舞われ、実際はもっと短いと思いますが、体感は10分ぐらい揺れ続けているように感じた、恐怖の時間でした。…",
-          "url": "https://que.dailyshincho.jp/node/20289/",
-          "source": {
-            "name": "新潮QUE"
-          },
-          "publishedAt": "2026-08-05T01:00:00Z",
-          "image": "https://que.dailyshincho.jp/sites/default/files/styles/og_letterbox_191_1/public/2026-08/20289_01.webp?itok=iIYon3s-",
-          "language": "ja"
-        },
-        {
-          "title": "ついに発売ファン内蔵で手のひらが涼しいマウス。2万9400円",
-          "description": "手のひらを冷やせば全身が涼しいはず。エアコンが効いた部屋でのPC作業は快適ですが、ただの事務仕事ではなくゲームをするなら話は別。おそらくマウスを握った手のひらは文字通り「手に汗握る」ほどヒートアップすることでしょう。汗でベタついたマウスは滑",
-          "url": "https://www.gizmodo.jp/article/noctua-feinmann-f01-gaming-mouse/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-08-05T01:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/07/23/62def515-a8cf-444e-9e11-bc79ab21cb06/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "グーグル「Pixel 11」、背面に新LED「HiLight」搭載か 新たなリーク情報",
-          "description": "グーグルの「Pixel 11」シリーズが正式発表されるまであと1週間余りとなる中、リークやうわさが相次いでいる。最新のリークでは、カメラ部分の隣に新たな多色通知ライトを搭載した端末の背面画像が公開された。",
-          "url": "https://japan.cnet.com/article/35251281/",
-          "source": {
-            "name": "CNET Japan"
-          },
-          "publishedAt": "2026-08-05T00:24:00Z",
-          "image": "https://japan.cnet.com/storage/2026/04/21/078c4dc51c368269d0e819eaf161d01f/pixel-10-pro-xl-review-test-cnet-1_1280x960.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "大谷翔平、第３打席で左前安打 スクバル初登板 鈴木誠也は「２番右翼」／速報中",
-          "description": "ドジャース大谷翔平投手は「1番DH」で先発出場。6回の第3打席で左前安打を放ち8試合連続安打をマークした。新加入のタリク・スクバル投手が移籍後初登板。こちらも… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/baseball/mlb/news/202608050000059.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-08-05T00:22:00Z",
-          "image": "https://www.nikkansports.com/mod2015/img/common/sns_nikkansports_morning_sports.png",
-          "language": "ja"
-        },
-        {
-          "title": "女王蜂のローヤルゼリー3D成分※1で、うねりもとろける濃密うるおい髪。ReFa HONEY QUEEN ROSE LINE 2026年8月10日（月）ReFa GINZAにて先行発売",
-          "description": "株式会社MTGのプレスリリース（2026年8月5日 09時00分）女王蜂のローヤルゼリー3D成分※1で、うねりもとろける濃密うるおい髪。ReFa HONEY QUEEN ROSE LINE 2026年8月10日（月）ReFa GINZAにて先行発売",
-          "url": "https://prtimes.jp/main/html/rd/p/000001037.000029736.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-08-05T00:00:02Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/29736/1037/29736-1037-a9d1fa502d041e4f4fe69acfa044ce7f-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "【流れ星・満月・サウナ】サウナガーデンで夏の夜空を楽しむ天体観測イベントを開催｜千葉・香取「おふろcafé かりんの湯」",
-          "description": "株式会社ザファームのプレスリリース（2026年8月5日 08時40分）【流れ星・満月・サウナ】サウナガーデンで夏の夜空を楽しむ天体観測イベントを開催｜千葉・香取「おふろcafé かりんの湯」",
-          "url": "https://prtimes.jp/main/html/rd/p/000000255.000020935.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-08-04T23:40:01Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/20935/255/20935-255-192d68d490262759b25463225f46dd77-1200x900.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Marines' Masuda Logs 250th Career Save, 5th All-Time in NPB",
-          "description": "Chiba, Aug. 5 (Jiji Press)--Right-hander Naoya Masuda of the Chiba Lotte Marines has become the fifth player i…",
-          "url": "https://www.nippon.com/en/news/yjj2026080401064/",
+          "title": "Cyclists injured in Epsom rampage were teens from Auckland Grammar",
+          "description": "Police said CCTV vision appeared to show the driver deliberately veering into the cyclists.",
+          "url": "https://www.1news.co.nz/2026/08/05/cyclists-injured-in-epsom-rampage-were-teens-from-auckland-grammar/",
           "source": {
-            "name": "nippon.com"
+            "name": "1News"
           },
-          "publishedAt": "2026-08-05T02:09:57Z",
-          "image": "https://www.nippon.com/en/ncommon/contents/news/3051572/3051572.jpg",
+          "publishedAt": "2026-08-05T04:41:15Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/a-car-at-the-scene-of-the-incident-in-epsom-VMPLYSOK5RAFVOKGBWATVXIWWI.jpg?auth=4153e071a08fbfccb0965002ffd8bfa8e8428b6d313fe5fbcc198c6e3f7ad962&quality=70&width=600&height=315&focal=960%2C540",
           "language": "en"
         },
         {
-          "title": "Marines' Masuda Logs 250th Career Save, 5th All-Time in NPB",
-          "description": "Chiba, Aug. 5 (Jiji Press)--Right-hander Naoya Masuda of the Chiba Lotte Marines has become the fifth player i…",
-          "url": "https://www.nippon.com/en/news/yjj2026080401064/marines'-masuda-logs-250th-career-save-5th-all-time-in-npb.html",
+          "title": "Japan and Southeast Asia: Trust and Strengthening People-to-People Exchanges",
+          "description": "By YUSUKE UMEZAKIRelations between Japan and Southeast Asia are growing ever closer. People-to-people exchanges, including tourism, are becoming increasingly...",
+          "url": "https://mb.com.ph/2026/08/05/japan-and-southeast-asia-trust-and-strengthening-people-to-people-exchanges",
           "source": {
-            "name": "nippon.com"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-08-05T02:09:57Z",
-          "image": "https://www.nippon.com/en/ncommon/contents/news/3051572/3051572.jpg",
+          "publishedAt": "2026-08-05T04:41:12Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/05/121157.webp",
           "language": "en"
         },
         {
-          "title": "High Court throws out reduced sentence for teen who killed Brisbane woman Emma Lovell",
-          "description": "The High Court of Australia throws out a reduced sentence handed to a 17-year-old jailed over the murder of Brisbane woman Emma Lovell.",
-          "url": "https://www.abc.net.au/news/2026-08-05/high-court-throws-reduced-sentence-teen-who-killed-emma-lovell/106998022",
+          "title": "Trump warns Iran to open Hormuz or get 'hit very hard'",
+          "description": "Iran wants to control the Strait of Hormuz and charge tolls - powers it did not exercise before the war began on Feb 28.",
+          "url": "https://www.channelnewsasia.com/world/donald-trump-warns-iran-open-hormuz-strait-or-get-hit-very-hard-6300131",
           "source": {
-            "name": "abc.net.au"
+            "name": "CNA"
           },
-          "publishedAt": "2026-08-05T02:09:02Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/81d80f1a02bdf58f2a8ed957dfbfb9a8?impolicy=wcms_watermark_news&cropH=540&cropW=960&xPos=0&yPos=79&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-08-05T04:41:00Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--JATRTozy--/c_crop,h_576,w_1024,x_0,y_103/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/05/000_c3vz9we.jpg?itok=9DQDNfE_",
           "language": "en"
         },
         {
-          "title": "The woman behind a K-pop empire - and its stunning collapse",
-          "description": "SEOUL: Cha Ga-won, CEO of One Hundred Label, was detained Monday (Aug 3) on fraud charges involving some 30 billion won (US$21 million), leaving the K-pop industry scrambling to understand how a real estate mogul built a multilabel entertainment empire in record time — and lost it just as quickly.",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/05/the-woman-behind-a-k-pop-empire---and-its-stunning-collapse",
+          "title": "Infinix AI Glasses arrive in the Philippines for PHP 8,999",
+          "description": "Infinix AI Glasses launch in the Philippines for PHP 8,999 with AI translation, offline transcription, open-ear audio, IP54, and Bluetooth 6.0.",
+          "url": "https://www.pinoymetrogeek.com/2026/08/infinix-ai-glasses-price-ph.html",
           "source": {
-            "name": "The Star"
+            "name": "Pinoy Metro Geek"
           },
-          "publishedAt": "2026-08-05T02:09:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/05/4044057.jpg",
+          "publishedAt": "2026-08-05T04:41:00Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguYuyLYjPkOd_dBfFCi5NuRct4MxcWQNE87ulC0BBHUywPQsidgegttg31QAorQdBORGZZxi3yw8Dyq0lz_b_9cUOMXfGprKQecCjYVMo3lMnABthunbgZNQA2_2Sm8rrKOOhv6DNh5QCRwFaQFqgfSYhafkaAevXXjbI7iZQpju68PrLE8r_AARctYh4C/w1600/Screenshot%202026-08-05%20at%2012.36.04%E2%80%AFPM.png",
           "language": "en"
         },
         {
-          "title": "GLP-1 therapy may help reduce fracture risk among adults with type 2 diabetes",
-          "description": "New research by UCLA Health found GLP-1 medications may reduce the risk of serious fractures for adults with type 2 diabetes.",
-          "url": "https://www.news-medical.net/news/20260804/GLP-1-therapy-may-help-reduce-fracture-risk-among-adults-with-type-2-diabetes.aspx",
+          "title": "I walked away from power rather than compromise my integrity -Octogenarian Eburajolo",
+          "description": "Few Nigerians have witnessed the country’s economic evolution as closely—or participated in it as actively—as Victor Eburajolo. For more than five decades, the industrial relations expert,...",
+          "url": "https://www.vanguardngr.com/2026/08/i-walked-away-from-power-rather-than-compromise-my-integrity-octogenarian-eburajolo/",
           "source": {
-            "name": "News-Medical"
+            "name": "Vanguard News"
           },
-          "publishedAt": "2026-08-05T02:08:00Z",
-          "image": "https://www.news-medical.net/images/tags/TagImage-777-458400661348495343015-620x480.jpg",
+          "publishedAt": "2026-08-05T04:40:26Z",
+          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/EBurajolo.jpg",
           "language": "en"
         },
         {
-          "title": "Indonesia Court to Hear Nadiem Makarim's First Chromebook Graft Appeal",
-          "description": "Indonesia's ex-education minister Nadiem Makarim faces his first appeal hearing over the Chromebook graft case after challenging his conviction.",
-          "url": "https://en.tempo.co/read/2116721/indonesia-court-to-hear-nadiem-makarims-first-chromebook-graft-appeal",
+          "title": "US THAAD arsenal nearly 80% depleted as Iran talks progress: Report",
+          "description": "International News: The US military has used nearly 80 per cent of its Terminal High Altitude Area Defence (Thaad) interceptors since the start of the war with Iran. Seni.",
+          "url": "https://timesofindia.indiatimes.com/defence/international/us-thaad-arsenal-nearly-80-depleted-as-iran-talks-progress-report/articleshow/132890418.cms",
           "source": {
-            "name": "Tempo.co English"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-08-05T02:07:59Z",
-          "image": "https://statik.tempo.co/data/2026/07/01/id_1480221/1480221_720.jpg",
+          "publishedAt": "2026-08-05T04:38:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-132890418,width-1280,height-720,imgsize-113914,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Facial recognition gantries being tested at Punggol Coast MRT station, no plans to expand trial for now: LTA",
-          "description": "When CNA visited the station, two priority-use gantries had screens installed, with a “facial recognition detection zone” marked on the ground.",
-          "url": "https://www.channelnewsasia.com/singapore/mrt-punggol-facial-recognition-lta-trial-6298531",
+          "title": "‘I Think We’re Friends’ - Alexandra Eala Opens Up About Leylah Fernandez and Their Shared Filipino Heritage",
+          "description": "Alexandra Eala has arrived in Toronto for the Canadian Open after achieving a major milestone at the Mubadala DC Open. Ahead of her opening match at the WTA 1000 event, Eala shed light on her relationship with Leylah Fernandez while also opening up about her dynamic with fellow players of Filipino heritage.",
+          "url": "https://sports.yahoo.com/articles/think-friends-alexandra-eala-opens-043822159.html",
           "source": {
-            "name": "channelnewsasia.com"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-08-05T02:07:45Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--cVNSb2cn--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/04/img_1915_0.jpg?itok=Mn6C_DIg",
+          "publishedAt": "2026-08-05T04:38:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/137472e426e87fb35f2b3c05a1a672952a8f4598a398dedacae4b6255fc54e9e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2Ff3af2dfb9e8cdfc5a56b57f9252ce5e8",
           "language": "en"
         },
         {
-          "title": "El-Sayed leads in Michigan primary in test for US Democrats, media report",
-          "description": "By Tim Reid and Nolan D. McCaskillWASHINGTON, Aug 4 (Reuters) - Progressive candidate Abdul El-Sayed held an early lead over U.S. Representative Haley Stevens in Michigan's Democratic U.S. Senate primary on Tuesday, though the outcome of a race viewed as a major test of the Democratic Party's future remained uncertain.With 26% of the estimated vote counted, CNN showed El-Sayed leading by 51.2% to 45.2% for Stevens.",
-          "url": "https://www.al-monitor.com/originals/2026/08/el-sayed-leads-michigan-primary-test-us-democrats-media-report",
+          "title": "NEET-UG shift to computer-based testing under active consideration, Centre tells SC",
+          "description": "The Centre informs the Supreme Court about considering NEET-UG's shift to computer-based testing, ensuring stakeholder consultation and adequate notice.",
+          "url": "https://www.thehindu.com/news/national/neet-ug-shift-to-computer-based-testing-under-active-consideration-centre-tells-sc/article71306863.ece",
           "source": {
-            "name": "Al-Monitor"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-08-05T02:07:36Z",
-          "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-08/2026-08-04T100644Z_1_LYNXMPEM730RX_RTROPTP_4_USA-ELECTION.JPG?h=707f0c65&itok=BoqD1jjS",
+          "publishedAt": "2026-08-05T04:36:18Z",
+          "image": "https://th-i.thgim.com/public/incoming/bzijy8/article71306927.ece/alternates/LANDSCAPE_1200/TH16-Maitri-11.GJAG8T9N4.3.jpg.jpg",
           "language": "en"
         },
         {
-          "title": "The MBU is real: Rocketry to G.D.N, Madhavan's biopic universe keeps growing",
-          "description": "With GDN set to release this week, R. Madhavan's filmography underlines his repeated turn towards real-life and real-life-inspired figures. From Guru and Rocketry to Dhurandhar and now G.D. Naidu, that pattern has become too clear to ignore.",
-          "url": "https://www.indiatoday.in/movies/regional-cinema/story/the-mbu-is-real-rocketry-to-gdn-madhavans-biopic-universe-keeps-growing-2963201-2026-08-05",
+          "title": "Google is finally pulling the plug on Assistant for Android phones",
+          "description": "It looks like Google has started emailing users that Google Assistant will start disappearing from Android phones on September 4.",
+          "url": "https://www.androidauthority.com/google-assistant-shutdown-3694622/",
           "source": {
-            "name": "India Today"
+            "name": "Android Authority"
           },
-          "publishedAt": "2026-08-05T02:06:18Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/madhavan-universe-050145657-16x9_0.png?VersionId=ubSfz1qXQulzAxv5OueZQuhWB6MDKuI3",
+          "publishedAt": "2026-08-05T04:36:00Z",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2020/08/Google-Assistant-stock-photo-2.jpg",
           "language": "en"
         },
         {
-          "title": "Will the RBI hold rates? Five things to watch out for in the August MPC",
-          "description": "With no change in interest rates expected, the central bank's outlook on inflation, capital flows and crude prices will be in focus.",
-          "url": "https://www.moneycontrol.com/news/business/banks/will-the-rbi-hold-rates-five-things-to-watch-out-for-in-the-august-mpc-13994183.html",
+          "title": "SONABEL to begin controlled spillage of Bagre Dam from August 11",
+          "description": "SONABEL, the power-producing company of Burkina Faso, has announced plans to begin the controlled spillage of the Bagre Dam from Tuesday, August 11, 2026.",
+          "url": "https://www.ghanabusinessnews.com/2026/08/05/sonabel-to-begin-controlled-spillage-of-bagre-dam-from-august-11/",
           "source": {
-            "name": "Moneycontrol.com"
+            "name": "Ghana Business News"
           },
-          "publishedAt": "2026-08-05T02:06:09Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2025/06/20250606060347_sanjay-malhotra8.jpg",
+          "publishedAt": "2026-08-05T04:35:53Z",
+          "image": "https://www.ghanabusinessnews.com/wp-content/uploads/2021/08/Bagre-dam.jpg",
           "language": "en"
         }
       ]
