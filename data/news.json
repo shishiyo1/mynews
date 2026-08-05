@@ -1,10 +1,32 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-05T05:46:39.902Z",
+  "updatedAt": "2026-08-05T08:36:45.599Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "東野圭吾さんの文庫本、リュックサックの底に18年 ある棋士の献身",
+          "description": "7月23日に68歳で亡くなった作家・東野圭吾さんの代表作「ガリレオ」シリーズの最新刊「永遠の記憶」が5日に刊行された。東野さんの作品を献身的に愛した将棋棋士にとって、永遠の記憶に刻む物語になる。",
+          "url": "https://www.asahi.com/articles/ASV844HWNV84UCVL00HM.html",
+          "source": {
+            "name": "朝日新聞"
+          },
+          "publishedAt": "2026-08-04T20:00:00Z",
+          "image": "https://imgopt.asahi.com/ogp/AS20260804004773_comm.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "堂本光一演出「百鬼夜鏡」キャスト11人が集結した幻想的なビジュアル公開（ステージナタリー）",
+          "description": "堂本光一が演出を務めるEX THEATER ARIAKE OPENING LINEUP「百鬼夜鏡」のキービジュアルが解禁された。\n公開されたビジュアルには、人間界と鬼の世界が交錯する本作の幻想的な",
+          "url": "https://news.yahoo.co.jp/articles/356ad12d4c384e29f66405554797920a7ad28cde",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-04T19:43:50Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260805-00000008-natalies-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "iPhone Ultraと18 Proの同時発売に自信〜的中率高いリーカーが考え示す",
           "description": "折りたたみiPhone（仮称：iPhone Ultra）は、iPhone18 Proシリーズと同時に発表されるものの、量産開始の遅れにより、発売が約6週間後になるとの噂があります。",
@@ -92,139 +114,117 @@
           "publishedAt": "2026-08-04T11:12:00Z",
           "image": "https://contents.oricon.co.jp/upimg/news/2471000/2470998/20260804_201130_p_o_46390968.jpg",
           "language": "ja"
-        },
-        {
-          "title": "Travis Japan、『Jリーグ』スペシャルアンバサダー“初仕事“ スカイツリー点灯に大興奮「きれい！」「すごい！」",
-          "description": "ニュース｜　7人組グループ・Travis Japan（宮近海斗、中村海人、七五三掛龍也、川島如恵留、吉澤閑也、松田元太、松倉海斗）が4日、都内で行われた「Jリーグ 8.7新開幕」東京スカイツリー点灯式に登壇した。　同所では全60クラブのカラーをイメージした史上最多となる1日で60種類の特別ライティング、さらに地上350メートルの展望デッキ上部にレーザーマッピングによるJリーグシンボルの投影を7日の「2026/27 明治安田Jリーグ」が開幕するまでの4日間にわたって実施する。　昨日3日にJリーグ2026/27 シーズンスペシャルアンバサダーに就任したばかりの7人がサッカー解説者の松木安太郎氏と共に参加。記念すべきアンバサダーとしての“初仕事”に「きょうが初出勤。新たなシーズンの灯火をあげて、大事なお仕事なので責任のある点灯をしたいと思います」とやる気十分。",
-          "url": "https://www.oricon.co.jp/news/2471002/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-08-04T11:08:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2472000/2471002/20260804_200742_p_o_39135024.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "＜2026年熊本地震＞7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
-          "description": "2026年熊本地震後に大規模な爆発が起きた大型商業施設「イオンモール熊本」（嘉島町）では、専門店の従業員7人が犠牲になった。7人はいずれも外に避難した後に館内に戻り、爆発に巻き込まれたとみられる。地震で無事だった命がなぜ失われたのか。イオ",
-          "url": "https://kumanichi.com/articles/2021870",
-          "source": {
-            "name": "熊本日日新聞社"
-          },
-          "publishedAt": "2026-08-04T11:04:02Z",
-          "image": "https://kumanichi.com/sites/default/files/styles/sns_share/public/2026-08/IP260804TAN000046000_03.jpg?itok=AEd1HIZw",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Munir says armed forces ready for monsoon relief",
-          "description": "Field Marshal Asim Munir says armed forces are prepared to assist NDMA and civil authorities in relief operations during the monsoon season.",
-          "url": "https://www.pakistantoday.com.pk/2026/08/04/munir-says-armed-forces-ready-to-back-relief-operations-during-monsoon",
+          "title": "SpaceX rocket set to crash into the Moon",
+          "description": "A SpaceX rocket's upper stage is set to unintentionally crash into the Moon tomorrow, a collision that poses no danger to Earth but will leave behind a lunar crater.",
+          "url": "https://www.rte.ie/news/world/2026/0804/1586494-spacex-rocket-moon/",
           "source": {
-            "name": "Pakistan Today"
+            "name": "rte.ie"
           },
-          "publishedAt": "2026-08-04T17:45:07Z",
-          "image": "https://www.geo.tv/assets/uploads/updates/2026-08-04/l_676140_084215_updates.jpg",
+          "publishedAt": "2026-08-04T20:34:56Z",
+          "image": "https://www.rte.ie/images/0024ccd4-1600.jpg",
           "language": "en"
         },
         {
-          "title": "Officials report progress on a deal to reopen the Strait of Hormuz",
-          "description": "Iran and the Gulf Arab state of Oman have made progress toward a deal to reopen the Strait of Hormuz, a potential breakthrough that could help wind down the war in the Middle East.",
-          "url": "https://apnews.com/article/iran-us-war-strait-hormuz-oman-diplomacy-6587f90f2ab5beec373ce5fabf637541",
+          "title": "More than $140M drained from Canada-made device",
+          "description": "Thousands of accounts were hacked and more than $140 million in bitcoin was stolen after a flaw was revealed in security devices sold by a Canada-based company.",
+          "url": "https://www.cp24.com/news/canada/2026/08/04/hackers-drain-more-than-140m-in-bitcoin-from-devices-made-by-canadian-firm/",
           "source": {
-            "name": "AP News"
+            "name": "CP24"
           },
-          "publishedAt": "2026-08-04T17:45:00Z",
-          "image": "https://dims.apnews.com/dims4/default/626062e/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6c%2F8b%2F0754a9523ff797b2999f1ca27154%2F9154c051a0c246fdad9c7dbde5004cdc",
+          "publishedAt": "2026-08-04T20:33:00Z",
+          "image": "https://www.cp24.com/resizer/v2/756XQ6QCEFD5HJK6FJGYJUNJQQ.jpg?smart=true&auth=1d1d226929da94f9fec9110375dc5a7ed5b2bf85e5b91464be7c205130a24e01&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Microplastics in blood bags may affect red blood cells",
-          "description": "But ‘calling on manufacturers to overhaul blood storage materials would be premature’",
-          "url": "https://cen.acs.org/biological-chemistry/biochemistry/blood-bag-microplastics-may-affect-red-blood-cells/104/web/2026/08",
+          "title": "More than $140M drained from Canada-made device",
+          "description": "Thousands of accounts were hacked and more than $140 million in bitcoin was stolen after a flaw was revealed in security devices sold by a Canada-based company.",
+          "url": "https://www.bnnbloomberg.ca/markets/crypto/2026/08/04/hackers-drain-more-than-140m-in-bitcoin-from-devices-made-by-canadian-firm/",
           "source": {
-            "name": "Chemical & Engineering News"
+            "name": "BNN Bloomberg"
           },
-          "publishedAt": "2026-08-04T17:44:28Z",
-          "image": "https://s7d1.scene7.com/is/image/CENODS/Blood-storage-bags-leach-microplastics---554998:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+          "publishedAt": "2026-08-04T20:33:00Z",
+          "image": "https://www.bnnbloomberg.ca/resizer/v2/756XQ6QCEFD5HJK6FJGYJUNJQQ.jpg?smart=true&auth=1d1d226929da94f9fec9110375dc5a7ed5b2bf85e5b91464be7c205130a24e01&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Former FIFA VP Prince Ali cites 'blackmail' by Infantino-led soccer body over unpaid prize money",
-          "description": "Former FIFA vice president Prince Ali bin Al Hussein criticized the soccer body’s leadership headed by Gianni Infantino on Tuesday, describing prize money withheld from his Jordan national team as a kind of blackmail.",
-          "url": "https://www.tsn.ca/soccer/fifa-world-cup/article/former-fifa-vp-prince-ali-cites-blackmail-by-infantino-led-soccer-body-over-unpaid-prize-money/",
+          "title": "Billie Eilish The Bell Jar Transformation Revealed",
+          "description": "Billie Eilish, who is set to star in the adaptation of Sylvia Plath’s The Bell Jar, showed off her transformation into Esther Greenwood while on set in Toronto.",
+          "url": "https://www.eonline.com/news/1434675/billie-eilish-the-bell-jar-transformation-revealed",
           "source": {
-            "name": "TSN"
+            "name": "E! News"
           },
-          "publishedAt": "2026-08-04T17:44:25Z",
-          "image": "https://www.tsn.ca/resizer/v2/WPG4527A27O5RSRZKFEA6OEK4A.jpg?smart=true&auth=92241b00b3b513bc58bab6b1cb4f0f4224dc6ca9cbad7daf731252d02d29638d&width=1200&height=630",
+          "publishedAt": "2026-08-04T20:32:00Z",
+          "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260804/facc114d-7c4b-471e-92b4-6e5bb3fb5b15_1785872581.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
           "language": "en"
         },
         {
-          "title": "Princess Eugenie gives birth to a baby girl in Portugal",
-          "description": "The daughter of Andrew Mountbatten-Windsor and Sarah Ferguson welcomed her third child on Monday.",
-          "url": "https://www.bbc.com/news/articles/cpq81pxw5gro",
+          "title": "OnePlus is sold out in the US and Canada - there are no more phones on the official site",
+          "description": "You might still find a few leftover units at third-party retailers, but the brand is officially out of the North American market.",
+          "url": "https://www.gsmarena.com/oneplus_is_sold_out_in_the_us_and_canada__there_are_no_more_phones_on_the_official_site-news-74005.php",
           "source": {
-            "name": "BBC"
+            "name": "GSMArena.com"
           },
-          "publishedAt": "2026-08-04T17:44:10Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fa4b/live/bcc7b6e0-9029-11f1-9cf2-316ac336c337.jpg",
+          "publishedAt": "2026-08-04T20:31:02Z",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/08/oneplus-sells-out-in-us-ca/-952x498w6/gsmarena_000.jpg",
           "language": "en"
         },
         {
-          "title": "Religious Leaders Shouldn't Be Partis",
-          "description": "FCT Minister Nyesom Wike criticises Cardinal Onaiyekan, stating religious leaders risk credibility if perceived as partisan. Wike faults Onaiyekan's consis",
-          "url": "https://punchng.com/wike-faults-onaiyekan-says-religious-leaders-shouldnt-be-partisan/",
+          "title": "Your guide to the books in the 2026 Miles Franklin award shortlist: provocation, ruin and empire",
+          "description": "Six authors are in the running for Australia’s most prestigious book award, which will be announced on Wednesday night. Here’s your primer",
+          "url": "https://www.theguardian.com/books/2026/aug/05/miles-franklin-award-2026-books-shortlist",
           "source": {
-            "name": "Punch Newspapers"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-08-04T17:42:40Z",
-          "image": "https://punchng.com/wp-content/uploads/2026/06/Nyesom-Wike_1782223817-1200x630.webp",
+          "publishedAt": "2026-08-04T20:30:00Z",
+          "image": "https://i.guim.co.uk/img/media/be53eb4fa90aeeaed849741b6132a3410ca75973/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=678a9eb13147139c1d2f3e362b90e4ce",
           "language": "en"
         },
         {
-          "title": "Jean Smart bids farewell to ‘Hacks’",
-          "description": "The fifth and final season of the HBO comedy series ‘Hacks’ is nominated for 24 Emmys, including one for Smart as best actress in a comedy series. The writers “raised the bar every single season,\" Smart tells guest interviewer Aarti Shahani. They talk about why the show is ending, Smart’s distant relative who narrowly escaped the Salem Witch Trials, and adopting a baby when she was in her 50s. Also, book critic Maureen Corrigan reviews the novel ‘Country People,’ by Daniel Mason. Subscribe to our free weekly newsletter Follow us on Instagram Subscribe to our YouTube channel Check out the Fresh Air Archives",
-          "url": "https://www.npr.org/2026/08/04/nx-s1-5919596/jean-smart-bids-farewell-to-hacks",
+          "title": "B.C. Wildfire Service warns of 'explosive' wildfire surge in B.C.",
+          "description": "Dry lightning and drought conditions are expected to drive more fire starts this week",
+          "url": "https://vancouversun.com/news/air-quality-warning-eastern-fraser-valley-wildfire-smoke",
           "source": {
-            "name": "NPR"
+            "name": "Vancouver Sun"
           },
-          "publishedAt": "2026-08-04T17:41:32Z",
-          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1900x1069+0+416/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F2b%2F059d840e43f18e4a53604d62237f%2Fca7e4142-d517-4aa1-82d4-67c722131363.jpg",
+          "publishedAt": "2026-08-04T20:28:36Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2026/08/png0804nsmoke-01_304593595.jpg",
           "language": "en"
         },
         {
-          "title": "Princess Eugenie gives birth to baby girl, Buckingham Palace confirms",
-          "description": "Princess Eugenie has given birth to a baby girl, Buckingham Palace has announced.. King Charles and Queen Camilla said they were “delighted” at the news, according to a post from the palace on social media",
-          "url": "https://www.nine.com.au/lifestyle/royals/princess-eugenie-baby-news-royal-gives-birth-to-baby-girl-in-portugal-buckingham-palace-confirms-20260805-p60lhm.html",
+          "title": "Epsom incident: Five people injured, one person arrested, section of Manukau Rd closed during morning rush hour",
+          "description": "Five people have been injured in a serious incident in the Auckland suburb of Epsom this morning just after 7am. Police have confirmed one person is in...",
+          "url": "https://www.nzherald.co.nz/nz/auckland/epsom-incident-five-people-injured-one-person-arrested-section-of-manukau-rd-closed-during-morning-rush-hour/V2IIEUPDGNBNPMJ4OXEQ5EWRKU/",
           "source": {
-            "name": "Nine.com.au"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-08-04T17:40:39Z",
-          "image": "https://static.ffx.io/images/$zoom_0.6622%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_75/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/d4159902e30b87cc0cefbe6a963fddaaf6c3b23fc2b447db5cf2de04e91797c5",
+          "publishedAt": "2026-08-04T20:27:04Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/SFIK44GWJ5BAXOJEHZB6FRBOPQ.jpg?auth=a6a999f3706397427da533236a1a20c42fb2592c66375b277df87f97cfe62e1b&width=1200&height=675&quality=70&smart=true",
           "language": "en"
         },
         {
-          "title": "Game of Thrones Author George R.R. Martin Shares Personal Update, Discusses Health and 'Falling Further and Further Behind'",
-          "description": "77-year-old Game of Thrones author George R.R. Martin has shared a candid update on his health, and discussed \"falling further and further behind.\"",
-          "url": "https://www.ign.com/articles/game-of-thrones-author-george-rr-martin-shares-personal-update-discusses-health-and-falling-further-and-further-behind",
+          "title": "Old faces, new friends: In Patrick's Park for Glen Hansard's surreal and soulful Dublin send-off",
+          "description": "The portaloos, hydration station and parched grass made it look like a festival, but that wasn’t the atmosphere.",
+          "url": "https://www.thejournal.ie/glen-hansard-funeral-3-7121376-Aug2026/",
           "source": {
-            "name": "IGN"
+            "name": "The Journal"
           },
-          "publishedAt": "2026-08-04T17:39:29Z",
-          "image": "https://assets-prd.ignimgs.com/2026/08/04/gettyimages-2255544035-1785842821133.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "publishedAt": "2026-08-04T20:26:00Z",
+          "image": "https://img2.thejournal.ie/article/7121376/river/?height=400&version=7121640",
           "language": "en"
         },
         {
-          "title": "Nightclub security assaulted, badly injured star Sea Bears player Teddy Allen, team says",
-          "description": "A Winnipeg Sea Bears player who the team says was assaulted and seriously injured has been released from hospital. The organization says security at a downtown Winnipeg nightclub is to blame for his injuries.",
-          "url": "https://www.cbc.ca/news/canada/manitoba/teddy-allen-sea-bears-assault-9.7295789",
+          "title": "Manchester United close in on permanent transfer with buy-back clause",
+          "description": "Radek Vitek is reportedly set to leave Manchester United on a permanent basis this summer, with the goalkeeper understood to be close to joining EFL Championship club Middlesbrough",
+          "url": "https://sports.yahoo.com/articles/manchester-united-close-permanent-transfer-202439936.html",
           "source": {
-            "name": "CBC"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-08-04T17:39:08Z",
-          "image": "https://i.cbc.ca/ais/450490e5-2474-455b-a4c3-1937838273b2,1785865053040/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C5472%2C3078%29%3BResize%3D620",
+          "publishedAt": "2026-08-04T20:24:39Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/c902c5ef247470812b424a4fb0518b335b6953a260617112a1c5a2451ae8cabc/lightyear_networkapi/resizefill_w810_h540%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fall_out_soccer_276%2F663ea964e2584773f2ef92b1ee4e02a8",
           "language": "en"
         }
       ]
