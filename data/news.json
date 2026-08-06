@@ -1,10 +1,109 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-06T11:23:06.304Z",
+  "updatedAt": "2026-08-06T14:11:42.933Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "5.6 Solが性能テスト中に暴走 OSSメンテナーに圧力、有害コード実行図る 英政府機関",
+          "description": "英政府機関AISIによるAIモデルのサイバー能力評価中に、AnthropicのMythos 5やOpenAIのGPT-5.6 Solが実在の人や組織を標的に暴走。偽アカウントを作り、OSSメンテナーに悪意あるコードの承認を迫っていた。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000411/",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-08-06T02:06:26Z",
+          "image": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/06/2000000411/10001998/2048",
+          "language": "ja"
+        },
+        {
+          "title": "川口春奈 極秘交際のなかサッカー日本代表夫と「お揃いで着けていた超高級アイテム」",
+          "description": "8月2日、サッカー日本代表の板倉滉（29）と連名で結婚を発表した川口春奈（31）。同時に第1子を妊娠していることも公表し、祝福ムードが広がっている。\n「7月18日に『文春オンライン』が2人の熱愛を",
+          "url": "https://news.yahoo.co.jp/articles/f6e0e975b17ed15a22a3f5051641ae6188ad424f",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-06T02:00:09Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260806-00000010-jisin-000-4-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【橘ふれあい公園×農園リゾートTHE FARM】2施設連携の宿泊者限定「星空観賞会」を8月開催",
+          "description": "株式会社ザファームのプレスリリース（2026年8月6日 11時00分）【橘ふれあい公園×農園リゾートTHE FARM】2施設連携の宿泊者限定「星空観賞会」を8月開催",
+          "url": "https://prtimes.jp/main/html/rd/p/000000259.000020935.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-08-06T02:00:02Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/20935/259/20935-259-9086543df7164ce372d21919b7fdc2a8-1200x900.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "冨安健洋 クリスタルパレス入りへ",
+          "description": "イングランド・プレミアリーグのクリスタルパレスが日本代表DF冨安健洋（27）を獲得する見通しになったと英BBC放送が5日に報じた。サッカー専門サイト「GOAL」も同選手がメディカルチェックをクリアし",
+          "url": "https://news.yahoo.co.jp/pickup/6590703",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-06T01:25:25Z",
+          "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/6/311609a4e4c0b458e9bdf2423ad532dbfc66d9661b919b3cdd318940970fe4b9.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "台風14号…気象庁の予想進路、米軍・ヨーロッパの見方 日本への影響は",
+          "description": "気象庁の2026年8月6日午前9時の実況によると、台風14号（クジラ）はルソン島（フィリピン）で熱帯低気圧に変わった。予想進路や日本への影響について気象庁や米軍合同台風警報センター(JTWC）、ヨーロッパ中期予報センターの見方をまとめた。",
+          "url": "https://www.fukuishimbun.co.jp/articles/-/2668078",
+          "source": {
+            "name": "福井新聞社"
+          },
+          "publishedAt": "2026-08-06T01:23:09Z",
+          "image": "https://fki.ismcdn.jp/mwimgs/7/3/-/img_73c10a9babfef107c03cb097631c5fea123952.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "高市首相、広島の原爆死没者慰霊式・平和祈念式 あいさつ全文",
+          "description": "広島の原爆死没者慰霊式・平和祈念式における、高市早苗首相のあいさつ全文は次の通り。",
+          "url": "https://www.sankei.com/article/20260806-ONTKXIRSPFNOPPIVOH4AQNXOIA/",
+          "source": {
+            "name": "産経ニュース"
+          },
+          "publishedAt": "2026-08-06T01:04:55Z",
+          "image": "https://www.sankei.com/resizer/v2/Q6UGVD2LJRMUJGNT3BHMHU4ETU.jpg?auth=833390dde26d1e7cb2a35d197ef41285782a5da39914132bd5d61d959b34b03d&quality=50&focal=1448%2C683&width=1200&height=675",
+          "language": "ja"
+        },
+        {
+          "title": "【8月限定】ペルセウス座流星群を農園の夜空から。農園リゾートTHE FARMより、宿泊者限定「星空観賞会」を開催",
+          "description": "株式会社ザファームのプレスリリース（2026年8月6日 10時00分）【8月限定】ペルセウス座流星群を農園の夜空から。農園リゾートTHE FARMより、宿泊者限定「星空観賞会」を開催",
+          "url": "https://prtimes.jp/main/html/rd/p/000000257.000020935.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-08-06T01:00:02Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/20935/257/20935-257-335bd93fc71e149e5eee5ffe79beb341-1200x900.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "Radeon RX 9050はわずか92Wの低消費電力でRDNA 4世代の先進技術を搭載、省エネと性能を両立した最新性能レビュー",
+          "description": "AMDはRDNA 4世代のエントリーモデル「Radeon RX 9050」の国内販売を解禁した。同じ50番代のライバル「GeForce RTX 5050」や再販され実売価格が近い「GeForce RTX 3060 12GB」との性能差を見てみよう。",
+          "url": "https://ascii.jp/elem/000/004/425/4425199/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-08-06T01:00:00Z",
+          "image": "https://ascii.jp/img/2026/08/05/4509704/xl/3099f8255fb859b6.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "J1全順位予想 識者５人が推す優勝候補筆頭は？ J2降格の憂き目に遭いそうな３クラブとは？",
+          "description": "J1リーグ2026－27シーズン全順位予想（前編）2025年シーズンを制した鹿島アントラーズ　photo by Etsuo Hara/Getty ImagesJリーグ2026－27シーズン――秋春制へと移行した最初のシーズンがいよいよ開幕…",
+          "url": "https://sportiva.shueisha.co.jp/clm/football/jleague_other/2026/08/06/j1j2/",
+          "source": {
+            "name": "webスポルティーバ"
+          },
+          "publishedAt": "2026-08-06T00:45:12Z",
+          "image": "https://sportiva.shueisha.co.jp/clm/football/jleague_other/2026/images/j1yoso-1.jpg",
+          "language": "ja"
+        },
         {
           "title": "『Moonlighter』がSteamにて無料配布中。8月9日まで。続編『Moonlighter 2』の正式リリースを記念して",
           "description": "続編『Moonlighter 2』の9月2日正式リリースを記念したキャンペーン",
@@ -15,216 +114,117 @@
           "publishedAt": "2026-08-05T23:20:00Z",
           "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/ss_09e15ea6ee77946aae26c32faf8083d6bb6c0c57.1920x1080.jpg",
           "language": "ja"
-        },
-        {
-          "title": "６日の東京株式市場見通し＝反落後、もみ合いか 速報",
-          "description": "予想レンジ：６万５５００円－６万６５００円（５日終値６万６３００円４４銭）　６日の東京株式は反落後、もみ合いか。現地５日の米国株式は、ＮＹダウが連日で最高値を更新した。ただ、日経平均株価が影響を受け・・・",
-          "url": "https://kabushiki.jp/news/761423",
-          "source": {
-            "name": "kabushiki.jp"
-          },
-          "publishedAt": "2026-08-05T22:47:00Z",
-          "image": "https://kabushiki.jp/ogp.png",
-          "language": "ja"
-        },
-        {
-          "title": "広末涼子、「ＴＨＥ ＴＩＭＥ，」出演…４月１日に芸能活動再開後、初の地上波出演で復帰への思いを告白「自分の弱い部分だったり不甲斐なさだったりを感じた」",
-          "description": "４月１日に芸能活動を再開した俳優の広末涼子が６日、ＴＢＳ系「ＴＨＥ　ＴＩＭＥ，」（月～金曜・午前５時２０分）にＶＴＲ出演した。",
-          "url": "https://hochi.news/articles/20260806-OHT1T51028.html",
-          "source": {
-            "name": "スポーツ報知"
-          },
-          "publishedAt": "2026-08-05T22:19:00Z",
-          "image": "https://hochi.news/images/2026/08/06/20260806-OHT1I51051-L.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "八村塁「Bリーグでキャリアを終わらせたい」…主宰イベントでレブロン来日プランも明かす",
-          "description": "8月5日、八村塁が主宰する育成年代向けプロジェクト『Daiichi Life Group Presents BLACK SAMURAI KOBE CAMP』が···",
-          "url": "https://basketballking.jp/news/world/20260806/626814.html",
-          "source": {
-            "name": "バスケットボールキング"
-          },
-          "publishedAt": "2026-08-05T22:07:54Z",
-          "image": "https://basketballking.jp/wp-content/uploads/2026/08/RuiHachimura3.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "MBS『ジャイケルマクソン』人気コーナー、ゴールデン特番で復活 陣内智則＆中川家＆フットボールアワーが約16年ぶり集合【コメント】",
-          "description": "MBSは12日、『芸能人お宝写真の祭典 輝け！フォトデミー賞』（後8：00～9：58）を放送する。\n　この番組は、スタジオに集まった総勢26人の芸能人に過去のプライベート写真、計616枚を提供し",
-          "url": "https://news.yahoo.co.jp/articles/ca973d858e8aa0e6a9050fcf91d13e4e92d68f5c",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-05T22:04:44Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260806-00000326-oric-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "宇宙の謎に挑むローマン望遠鏡に加わった、「惑星防衛」という使命",
-          "description": "8月末に打ち上げられるNASAのローマン宇宙望遠鏡は、ダークマターやダークエネルギーの謎に迫るために設計された。だが研究者チームは、この望遠鏡がもう一つの役割を果たせることに気づいた。地球に迫る小惑星の捜索だ。ハッブル宇宙望遠鏡の約100倍という広い視野と赤外線観測を生かせば、都市を破壊しうる天体を早期に見つけ出せる。",
-          "url": "https://www.technologyreview.jp/s/387056/nasas-new-dark-energy-space-telescope-can-also-detect-killer-asteroids/",
-          "source": {
-            "name": "technologyreview.jp"
-          },
-          "publishedAt": "2026-08-05T22:00:54Z",
-          "image": "https://www.technologyreview.jp/wp-content/uploads/sites/2/2026/08/KSC-20260626-PH-SER01_0007orig-1400x787.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "実験中のChatGPTが「勝手に」他社システムを攻撃…それでもOpenAIが“得をする”ワケ（ビジネス＋IT）",
-          "description": "米OpenAIは2026年7月に、サイバー攻撃能力を備えた同社のAIモデル2種が社内評価の最中に、隔離されたテスト環境を抜け出し、外部企業である米Hugging Faceの本番システムに侵入してい",
-          "url": "https://news.yahoo.co.jp/articles/a56431e41b4a9689538e074c0e20b19b7c194f1e",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-05T21:50:06Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260806-00186382-biz_plus-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "長子継承への期待、麻生氏の言及も 改正皇室典範は国民の総意か",
-          "description": "皇位継承のルールを定める皇室典範が改正された。しかし、7月17日に成立した改正皇室典範は、毎日新聞の世論調査で「評価する」が19％にとどまるなど、国民の賛意が広がっていない。憲法によれば、天皇は「国民統合の象徴」であり、その地位は「国民の総意」に基づく。では、その「総意」はどこにあるのか。世論調査",
-          "url": "https://mainichi.jp/articles/20260803/k00/00m/010/254000c",
-          "source": {
-            "name": "mainichi.jp"
-          },
-          "publishedAt": "2026-08-05T21:00:00Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/07/15/20260715k0000m040418000p/0c10.jpg?1",
-          "language": "ja"
-        },
-        {
-          "title": "水面に映った自分の顔に気絶 93歳がスタバで語った被爆の記憶",
-          "description": "このまま、あの世にいっちゃあいけん（いくわけにはいかない）――。 　その一念に突き動かされるように、93歳の女性が消そうとしても消えない記憶を語っている。 　「生かされたことへの感謝」を口にする女性の熱意に打たれた人たちが伴走している。",
-          "url": "https://mainichi.jp/articles/20260805/k00/00m/040/096000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-08-05T21:00:00Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/08/05/20260805k0000m040097000p/0c10.jpg?1",
-          "language": "ja"
-        },
-        {
-          "title": "SpaceXの使用済みロケット、月面に衝突 宇宙ゴミは増える？増えない？",
-          "description": "米SpaceXのロケット「Falcon 9」の使用済み上段が米東部時間8月5日午前2時35分ごろ、月面に衝突した。この上段は役目を終えた後、約1年半にわたり宇宙を漂流していた。衝突により月面には新たなクレーターができたとみられる。",
-          "url": "https://japan.cnet.com/article/35251331/",
-          "source": {
-            "name": "CNET Japan"
-          },
-          "publishedAt": "2026-08-05T20:43:00Z",
-          "image": "https://japan.cnet.com/storage/2026/08/06/8478335fad5fd41de7e3316b749a7252/The-Moon.jpeg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "MRCB, Theta Edge awarded RM3bil system turnkey contract for Penang LRT",
-          "description": "MRT Corp is also evaluating tenders for the Civil Main Contract 2 package, covering the alignment extension from Komtar to Penang Sentral.",
-          "url": "https://www.freemalaysiatoday.com/category/nation/2026/08/06/mrcb-theta-edge-awarded-rm3bil-system-turnkey-contract-for-penang-lrt",
+          "title": "Prabowo’s radical commodity export plan faces duelling visions",
+          "description": "More than two months after President Prabowo Subianto unveiled plans to take control of Indonesia’s top commodity exports, the agency charged with carrying out the proposal is caught between competing visions of its role in the economy’s most vital export industry.",
+          "url": "https://theedgemalaysia.com/node/813532",
           "source": {
-            "name": "Free Malaysia Today"
+            "name": "The Edge Malaysia"
           },
-          "publishedAt": "2026-08-05T23:22:23Z",
-          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/08/472a8ae2-lrt-penang-bernama-pic-21825.webp",
+          "publishedAt": "2026-08-06T02:10:23Z",
+          "image": "https://assets.theedgemarkets.com/prabowo_20260806100318_Bloomberg.jpg",
           "language": "en"
         },
         {
-          "title": "From HDB flats to Peranakan tiles: How Onlewo brings Singapore heritage to life",
-          "description": "Discover how Onlewo transforms Singapore's architecture, culture and everyday icons into contemporary prints that celebrate heritage with style.",
-          "url": "https://cnalifestyle.channelnewsasia.com/style-beauty/onlewo-singapore-heritage-designs-586591",
+          "title": "Meta Joins OpenAI and Anthropic in AI Cybersecurity Scare After Model Hacks Third Party: 'We Are Currently Investigating…'",
+          "description": "Meta Platforms, Inc. (NASDAQ:META) has joined OpenAI and Anthropic in facing fresh AI safety concerns after one of its models gained unintended internet access during cybersecurity testing and exploited a security vulnerability involving another company. Meta AI Model Exploits Security Flaw During Testing On Wednesday, Meta said that a configuration error by Irregular, an independent company that conducts cybersecurity evaluations for Meta, inadvertently gave one of its AI models access to the o",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-joins-openai-anthropic-ai-021055968.html",
           "source": {
-            "name": "CNA Lifestyle"
+            "name": "Yahoo Finance"
           },
-          "publishedAt": "2026-08-05T23:21:53Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--PcXH6U2S--/c_crop,h_543,w_966,x_2,y_51/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/29/onlewo-singapore-heritage-designs.jpg?itok=-W_j4j_r",
+          "publishedAt": "2026-08-06T02:10:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/BF2D69BC628A64B738FFB9B1555BC01561007237759914DD19F40CBE35492FB9/subgraphmysterio/resizefill_w1200_h802;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2FBenzinga%2F17b03751ab854207ff58bb5beafd0ffa",
           "language": "en"
         },
         {
-          "title": "Cases of potentially deadly fungus detected in 27 states. What to know",
-          "description": "As of July 25, there have been 3,437 cases of Candida auris identified.",
-          "url": "https://www.yahoo.com/news/science/articles/cases-potentially-deadly-fungus-detected-161947051.html",
+          "title": "Hiroshima A-bomb girl inspires Filipino kids to fold peace cranes",
+          "description": "Inspired by Hiroshima victim Sadako Sasaki, Filipino children are folding origami peace cranes in a campaign calling for an end to war.",
+          "url": "https://globalnation.inquirer.net/333850/hiroshima-a-bomb-girl-inspiring-filipino-children-to-fold-peace-cranes",
+          "source": {
+            "name": "Inquirer.net"
+          },
+          "publishedAt": "2026-08-06T02:10:00Z",
+          "image": "https://globalnation.inquirer.net/files/2026/08/Hiroshima-A-bomb-girl-inspiring-Filipino-children-to-fold-peace-cranes-scaled.jpeg",
+          "language": "en"
+        },
+        {
+          "title": "ICAC Operation Rosny: Jean-Claude Perrottet paid $5000 a month by Beckington",
+          "description": "The ICAC is investigating whether Perrottet, and several others, solicited or accepted allegedly illegal political donations from prohibited donors. One of those donors is hotelier Michael O’Hara.",
+          "url": "https://www.smh.com.au/politics/nsw/jean-claude-perrottet-paid-5000-a-month-for-work-he-cannot-remember-doing-20260806-p60lys.html",
+          "source": {
+            "name": "SMH.com.au"
+          },
+          "publishedAt": "2026-08-06T02:09:30Z",
+          "image": "https://static.ffx.io/images/$zoom_0.3056%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_494%2C$y_37/t_crop_custom/q_86%2Cf_auto/a6d55283b1380174cf15a51f247cb2ba982a4beb",
+          "language": "en"
+        },
+        {
+          "title": "NYT Connections hints and answers for August 6. Tips to solve 'Connections' #1152.",
+          "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
+          "url": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-august-6-2026",
+          "source": {
+            "name": "Mashable"
+          },
+          "publishedAt": "2026-08-06T02:08:48Z",
+          "image": "https://helios-i.mashable.com/imagery/articles/02etynJWcuSh0WD3Vf2rlDW/hero-image.fill.size_1200x675.v1785854244.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Wordle today: The answer and hints for August 6, 2026",
+          "description": "Here's the answer for \"Wordle\" #1874 on August 6 as well as a few hints, tips, and clues to help you solve it yourself.",
+          "url": "https://mashable.com/entertainment/wordle-today-answer-august-6-2026",
+          "source": {
+            "name": "Mashable"
+          },
+          "publishedAt": "2026-08-06T02:08:42Z",
+          "image": "https://helios-i.mashable.com/imagery/articles/05HjGzTL2DXed5gEskU7pwR/hero-image.fill.size_1200x675.v1785852342.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Does Ned Remember Peter in Spider-Man: Brand New Day? Jacob Batalon Has Answered",
+          "description": "Jacob Batalon is finally addressing one of Spider-Man: Brand New Day’s biggest ending questions. The actor shared his thoughts after fans started debating whether Ned really remembered Peter Parker. J...",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/does-ned-remember-peter-spider-020800957.html",
           "source": {
             "name": "Yahoo"
           },
-          "publishedAt": "2026-08-05T23:20:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/716a6327d905123894512ea320021a426897833f175e4c89938d5d73b5412993/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F23a1959be93a5444e243bd7e6a019564",
+          "publishedAt": "2026-08-06T02:08:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/4e5afdaec8793d2331893ca8927ba1d590c0938c908868db5286fd6bc4e236e0/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomingsoon_net_477%2F9554bee26127af545e53c33185bb2a95",
           "language": "en"
         },
         {
-          "title": "Uniform problems are just one issue that elite female athletes with body image issues face",
-          "description": "Swifts netballer and professional nutritionist Teigan O'Shannassy says uniform problems are just one of the many difficulties elite female athletes struggling with body image issues face.",
-          "url": "https://www.abc.net.au/news/2026-08-06/female-athletes-body-image-netball-uniform-problem/106998096",
+          "title": "Long queues, Aadhaar issues, confusion: Rocky rollout for BJP's Lakshmi Yojana for women in Delhi",
+          "description": "Applicants have reported confusion over documentation, Aadhaar-related issues and lengthy registration procedures, slowing enrolment under the ₹2,500-a-month. | Latest News Delhi",
+          "url": "https://www.hindustantimes.com/cities/delhi-news/long-queues-aadhar-issues-confusion-rocky-rollout-for-bjps-lakshmi-yojana-for-women-in-delhi-101785954232900.html",
           "source": {
-            "name": "abc.net.au"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-08-05T23:19:44Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/a6db4254a127612622af948272cd0f77?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=55&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-08-06T02:06:58Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/08/05/1600x900/logo/The-presence-of-AAPAR-ID-and-Ayushman-Bharat-Healt_1785954229285.jpeg",
           "language": "en"
         },
         {
-          "title": "off plan and pledges support for Infantino",
-          "description": "FIFA has reiterated its support for embattled president Gianni Infantino, while apologising to its member associations for the aborted bid to sell off stakes in the World Cup.",
-          "url": "https://www.abc.net.au/news/2026-08-06/fifa-gives-gianni-infantino-full-support/107002470",
+          "title": "Alden Richards shines spotlight on PH education crisis in GMA documentary",
+          "description": "Kapuso star Alden Richards takes on one of the country's most pressing issues as he shines a spotlight on the worsening state of education in the Philippines in a new GMA Public Affairs documentary.",
+          "url": "https://www.philstar.com/lifestyle/health-and-family/2026/08/06/2547388/alden-richards-shines-spotlight-ph-education-crisis-gma-documentary",
           "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+            "name": "Philstar.com"
           },
-          "publishedAt": "2026-08-05T23:19:02Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/84de30327b105d95f51ed8ce05a80d8d?impolicy=wcms_watermark_news&cropH=1229&cropW=2185&xPos=0&yPos=285&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-08-06T02:06:00Z",
+          "image": "https://media.philstar.com/photos/2026/08/06/alden_2026-08-06_09-56-51.jpg",
           "language": "en"
         },
         {
-          "title": "Joshua Van vs. Alexandre Pantoja 2, Arman Tsarukyan vs. Mauricio Ruffy set as full UFC 331 card revealed",
-          "description": "Joshua Van vs. Alexandre Pantoja 2 and Arman Tsarukyan vs. Mauricio Ruffy headline the UFC’s return to Los Angeles in September.",
-          "url": "https://www.mmafighting.com/ufc/502644/joshua-van-vs-alexandre-pantoja-2-arman-tsarukyan-vs-mauricio-ruffy-set-as-full-ufc-331-card-revealed",
+          "title": "Money, money, money: Trump rakes in the cash from his social media posts",
+          "description": "The US president’s latest cash grab went live on the weekend, with his Trump Media & Technology’s “Truth API” giving subscribers early access to his market-moving social media posts for up to $US1.2 million a year.",
+          "url": "https://www.theage.com.au/business/markets/money-money-money-trump-rakes-in-the-cash-from-his-social-media-posts-20260806-p60lv7.html",
           "source": {
-            "name": "MMA Fighting"
+            "name": "The Age"
           },
-          "publishedAt": "2026-08-05T23:18:35Z",
-          "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/12/gettyimages-2250238633.jpg?quality=90&strip=all&crop=0%2C4.5254319924059%2C100%2C78.525540330099&w=1200",
-          "language": "en"
-        },
-        {
-          "title": "Okocha Mocks Portable After Chaos in the Ring Victory",
-          "description": "Nollywood actor Charles Okocha mocks singer Portable after his victory in their 'Chaos in the Ring' rematch, sparking mixed reactions online.",
-          "url": "https://punchng.com/chaos-in-the-ring-okocha-mocks-portable-after-victory/",
-          "source": {
-            "name": "Punch Newspapers"
-          },
-          "publishedAt": "2026-08-05T23:15:51Z",
-          "image": "https://punchng.com/wp-content/uploads/2026/08/portable_1785542151.webp",
-          "language": "en"
-        },
-        {
-          "title": "Sunshine shop owner dies from injuries he suffered in alleged youth group bashing",
-          "description": "Van Viet Truong, 60, was hailed as a hero after coming to the aid of a fellow retail worker after five youths tried to rob a store in Sunshine.",
-          "url": "https://www.abc.net.au/news/2026-08-06/sunshine-victoria-good-samaritan-dies/107002616",
-          "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
-          },
-          "publishedAt": "2026-08-05T23:14:55Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/0388ff1cce842b2a9bf0fa06889d61e3?impolicy=wcms_watermark_news&cropH=266&cropW=472&xPos=0&yPos=235&width=862&height=485&imformat=generic",
-          "language": "en"
-        },
-        {
-          "title": "PM Christopher Luxon says he’d hold referendum on MMP if re",
-          "description": "Christopher Luxon says he supports having another referendum on the MMP voting system if he’s re-elected as he encourages greater support for National so the...",
-          "url": "https://www.nzherald.co.nz/nz/politics/pm-christopher-luxon-says-hed-hold-referendum-on-mmp-if-re-elected/AD34HPZZS5FQFKW4PC3NZXXSGM/",
-          "source": {
-            "name": "NZ Herald"
-          },
-          "publishedAt": "2026-08-05T23:14:31Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/SCXFKDQSZNHYBOPZQR2VHU5QAI.jpg?auth=0feb3325b4c7cdc012f5b26c9968af5692daa4a643d86b9ba1dfdb0b3e28b424&width=1200&height=675&quality=70&smart=true",
-          "language": "en"
-        },
-        {
-          "title": "Half of vaccines are binned",
-          "description": "Scientists have kept vaccines stable at room temperature for a year, which could transform global vaccination.",
-          "url": "https://www.bbc.com/news/articles/ce85qe8j0nzo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-08-05T23:14:22Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/449d/live/95d9d1b0-90d5-11f1-a5b9-331adf7bef90.jpg",
+          "publishedAt": "2026-08-06T02:05:39Z",
+          "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/8438edfd45bab5c49e270b837e7e71e98f9c6aa6",
           "language": "en"
         }
       ]
