@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-07T15:56:32.459Z",
+  "updatedAt": "2026-08-07T18:58:00.965Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "Xbox 360の名作がPCで遊べる？マイクロソフトが構想する「新・互換機能」の全貌",
+          "description": "マイクロソフトが、Xbox 360のゲームタイトルをWindows PCや携帯型ゲーム機、さらには次世代Xbo",
+          "url": "https://jp.ubergizmo.com/2026/08/07/26796/",
+          "source": {
+            "name": "Ubergizmo JAPAN"
+          },
+          "publishedAt": "2026-08-07T06:42:26Z",
+          "image": "https://jp.ubergizmo.com/wp-content/uploads/2026/08/minecraft-title-update-10-xbox-360.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ニチレイ、今期経常を11％下方修正",
+          "description": "ニチレイ <2871> [東証Ｐ] が8月7日大引け後(15:30)に決算を発表。26年12...",
+          "url": "https://s.kabutan.jp/news/k202608070511/",
+          "source": {
+            "name": "株探"
+          },
+          "publishedAt": "2026-08-07T06:30:00Z",
+          "image": "https://async.api.kabutan.jp/og_image?stock_code=2871&stock_name=%E3%83%8B%E3%83%81%E3%83%AC%E3%82%A4&title=%E4%BB%8A%E6%9C%9F%E7%B5%8C%E5%B8%B8%E3%82%9211%EF%BC%85%E4%B8%8B%E6%96%B9%E4%BF%AE%E6%AD%A3",
+          "language": "ja"
+        },
+        {
+          "title": "関東のお盆は雨が続く 11日～12日は台風15号の影響を受ける恐れ",
+          "description": "お盆期間中の関東は雨の降りやすい日が続くでしょう。最高気温は30℃に届かない日が多く、猛暑からは解放されそうです。なお、11日(火・山の日)から12日(水)にかけては、台風15号の影響を受ける可能性があります。今のうちから台風への対策を少しずつ進めておくとよさそうです。",
+          "url": "https://tenki.jp/forecaster/komuro_takuya/2026/08/07/40055.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-08-07T06:07:59Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/400/40055/main/20260807140029/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『GTA6』、「早く見るためにはサブスク契約？」予告映像Netflix先行公開を受けて反発も…皆が不満を漏らしている事実こそ上手くいってる証拠との声など挙がる",
+          "description": "『GTA6』予告動画がNetflix先行公開されることについて、さまざまな意見を交わす海外ゲーマー。",
+          "url": "https://www.gamespark.jp/article/2026/08/07/170353.html",
+          "source": {
+            "name": "Game*Spark"
+          },
+          "publishedAt": "2026-08-07T06:00:03Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1171417.png",
+          "language": "ja"
+        },
+        {
+          "title": "県議会議員の“海外視察”に街の人は「成功例見るなら価値ある」「市民は苦しい思いしているのに」大分で8年ぶりに県議の海外視察 議員22人でヨーロッパに 費用は約3400万円 大分発",
+          "description": "福岡県議会では正副議長ポストを巡る金銭授受疑惑が浮上しているほか、海外視察も高額だと批判されている。こうした中、他県の議会の海外視察の現状はどうなのか。大分県議会では2026年に8年ぶりに議員の海外視察（ヨーロッパ）が行われた。3か国に分かれて行われた視察、どのような観点で視察が行われたのか、費用はいくらかかったのかなど詳しく取材した。また議員の海外視察について街の人や専門家に話を聞いた。福岡県議会では、正副議長ポストを巡って現職の県議などが金銭を渡したと主張する一方、受け取ったとされる自民党…",
+          "url": "https://www.fnn.jp/articles/-/1090587",
+          "source": {
+            "name": "FNNプライムオンライン"
+          },
+          "publishedAt": "2026-08-07T05:40:00Z",
+          "image": "https://fnn.ismcdn.jp/mwimgs/b/2/600/img_b2d9d42cfbbfc0739b60a88a014fb1071643614.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "トランプ氏、アメリカの兵器不足を否定 情報「漏えい者」を「追い詰める」と宣言",
+          "description": "アメリカとイランとの戦争が6カ月目に入り、複数メディアは、アメリカの弾薬が枯渇していると報じている。ドナルド・トランプ米大統領は6日、こうした報道を否定したうえで、情報を漏えいした疑いのある者に「長期の禁錮刑」を科すよう求めると誓った。",
+          "url": "https://www.bbc.com/japanese/articles/c86nvwgz8zno",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-08-07T05:05:22Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/845f/live/c0766280-9193-11f1-9e9c-c71e84be4584.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【mimicle初のセール開催！】『アマガミASMR』シリーズなど人気独占タイトルが30%OFFになる「mimicle SUMMER SALE 2026」が本日よりスタート！",
+          "description": "株式会社KADOKAWAのプレスリリース（2026年8月7日 14時03分）【mimicle初のセール開催！】『アマガミASMR』シリーズなど人気独占タイトルが30%OFFになる「mimicle SUMMER SALE 2026」が本日よりスタート！",
+          "url": "https://prtimes.jp/main/html/rd/p/000019928.000007006.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-08-07T05:03:26Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/7006/19928/7006-19928-2b355e9e3efb9815a6bc787f969097a3-1500x1500.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
         {
           "title": "マーキュリーデュオ×ハリー・ポッター“ローブ風”ミニワンピース、「入学許可証」のミニバッグも",
           "description": "マーキュリーデュオ(MERCURYDUO)は、「ハリー・ポッター(Harry Potter)」シリーズの25周年を記念した「ハリー・ポッター コレクション」を、2026年8月19日(水)より全国のマー...",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-08-07T03:00:00Z",
           "image": "https://mezamashi.ismcdn.jp/mwimgs/1/2/1200xm/img_12c954f27789f68af96c6862ebca7085351819.jpg",
           "language": "ja"
-        },
-        {
-          "title": "『Mステ』豪華8組が登場！23年ぶりに披露される“ミリオンセラー達成の大ヒット曲”も",
-          "description": "本日8月7日（金）放送の『ミュージックステーション』では、8組のアーティストがパフォーマンス。今年メジャーデビュー10周年を迎えるあいみょんが登場し、ストリーミング累計再生数4億回を突破した『愛を伝えたいだとか』と、2020年リリースの『スーパーガー",
-          "url": "https://post.tv-asahi.co.jp/post-818450/",
-          "source": {
-            "name": "テレ朝POST"
-          },
-          "publishedAt": "2026-08-07T02:50:44Z",
-          "image": "https://post.tv-asahi.co.jp/wp-content/uploads/2026/08/mste0807_01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "クリスピー・クリーム・ドーナツ「ハリー・ポッター」4寮ドーナツ、食べるまで味は秘密！組分け帽子も",
-          "description": "クリスピー・クリーム・ドーナツ(Krispy Kreme Doughnuts)は、「ハリー・ポッター(Harry Potter)」と日本初コラボレーションした限定ドーナツを、2026年8月21日(金)...",
-          "url": "https://www.fashion-press.net/news/149612",
-          "source": {
-            "name": "ファッションプレス"
-          },
-          "publishedAt": "2026-08-07T02:30:00Z",
-          "image": "https://www.fashion-press.net/img/news/149612/top.jpg?1786069351",
-          "language": "ja"
-        },
-        {
-          "title": "【夏の甲子園2026】聖隷クリストファー・高部陸の「２回加速する」規格外のストレート それでもプロではなく大学進学を選ぶ理由",
-          "description": "「今まで８回くらい、ミットのヒモが切れたことがあります」　そんな\"伝説\"を明かしたのは、聖隷クリストファー（静岡）の正捕手を務める筧優亨（かけひ・ゆうと）である。ブルペンでの投球練習を含め、高校３年間で何度もエース左腕・高部陸に愛用のミッ…",
-          "url": "https://sportiva.shueisha.co.jp/clm/baseball/hs_other/2026/08/07/2026_1002/",
-          "source": {
-            "name": "webスポルティーバ"
-          },
-          "publishedAt": "2026-08-07T02:10:15Z",
-          "image": "https://sportiva.shueisha.co.jp/clm/baseball/hs_other/2026/images/Takabeiku2026.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【Harry Potter × クリスピー・クリーム・ドーナツ 日本初コラボ】 ホグワーツ魔法魔術学校の4つの寮をイメージした限定ドーナツや 食べるまでどの寮かわからない「組分け帽子」ドーナツが登場！",
-          "description": "ホグワーツ魔法魔術学校の4つの寮 「グリフィンドール」 「レイブンクロー」 「ハッフルパフ」 「スリザリン」をイメージした4種類に加え、 ホグワーツへの入学時に誰もが体験する ”組分けの儀式”をモチーフにした『組分け帽子 […]",
-          "url": "https://krispykreme.jp/news/16256/",
-          "source": {
-            "name": "krispykreme.jp"
-          },
-          "publishedAt": "2026-08-07T02:02:56Z",
-          "image": "https://krispykreme.jp/cms/wp-content/uploads/2026/07/26HP_sbanner_1040x1040_LTO_nouhin.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「新・小石河新党」をつくってみては 真っ当な判断ができなかった同志社国際高 大手町の片隅から 乾正人",
-          "description": "「真っ当なこと」を普通にできる大人が、とんと少なくなった。\n震災の約1時間20分後に熊本市のイオンモールで起きた爆発事故は、「常識」の大切さを思い知らされた。真っ当に考えれば、大地震発生直後の大型店舗は危険だらけだ。",
-          "url": "https://www.sankei.com/article/20260807-CX4RBXWIURNX3PIGP3U3IJ7FUQ/",
-          "source": {
-            "name": "産経ニュース"
-          },
-          "publishedAt": "2026-08-07T02:00:00Z",
-          "image": "https://www.sankei.com/resizer/v2/HHTOY5MEOJL6PPEGSTU2EI3REE.jpg?auth=7e69a1d67b8cce2c9012df436fc5f6ad953c24c52341b87da8bbb8ef872c337d&quality=50&smart=true&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "山本舞香、第1子出産を報告 夫はマイファスHiro「家族で穏やかな毎日を過ごしています」",
-          "description": "女優の山本舞香（28）が8月7日、自身のInstagramを更新。第1子出産を報告した。",
-          "url": "https://mdpr.jp/news/detail/4825685",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-08-07T01:07:34Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/viPx/wm/viPxbGKiyE9--VBISlSI-opGXBBJRXwF08TGsnQFO1Q.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "光GENJI、1987年8月19日のデビューからちょうど39年の時を経てついにサブスクとDL配信が解禁！",
-          "description": "1987年8月19日、シングル「STAR LIGHT」で鮮烈なデビュー以降大ヒット曲を連発し、瞬く間に社会現象を巻き起こし時代を作った史上最強スーパーアイドルグループ・光GENJI。デビュー39周年を迎える8月19日にサ […]",
-          "url": "https://news.ponycanyon.co.jp/2026/08/124340",
-          "source": {
-            "name": "PONY CANYON NEWS"
-          },
-          "publishedAt": "2026-08-07T01:05:10Z",
-          "image": "https://news.ponycanyon.co.jp/wp/wp-content/uploads/2026/08/光GENJIジャケット並び_JK_3000_3000px_2_light-580x580.jpeg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "AI used to create viruses not found in nature for first time",
-          "description": "US researchers say they created 16 viruses using AI, prompting hopes for medical advances and concerns about misuse.",
-          "url": "https://www.aljazeera.com/economy/2026/8/7/ai-used-to-create-viruses-not-found-in-nature-for-first-time",
-          "source": {
-            "name": "Al Jazeera"
-          },
-          "publishedAt": "2026-08-07T03:56:15Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20200526__1S994V__v5__MidRes__PanamaHealthVirusStemCells-1786064358_e9df65-1786064909.jpg?resize=1200%2C630&quality=80",
-          "language": "en"
-        },
-        {
-          "title": "One of The Block’s disastrous Daylesford homes finally sold",
-          "description": "One of the Block’s failed Daylesford auction properties from the disastrous end to last year’s season appears to have been sold.",
-          "url": "https://www.realestate.com.au/news/one-of-the-blocks-disastrous-daylesford-homes-finally-sold/",
-          "source": {
-            "name": "realestate.com.au"
-          },
-          "publishedAt": "2026-08-07T03:56:03Z",
-          "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/08/capi_9b678e125735b12014bd0bf0edee0c57_aa293a6a1c9e9a3f4e8c9cf65dfaf2d5.jpeg",
-          "language": "en"
-        },
-        {
-          "title": "How one businessman got nearly R4bn in education contracts",
-          "description": "Booking flights, hotels and meals for Eastern Cape education officials earned one tenderpreneur's company more than R1m a day for 10 months last year.",
-          "url": "https://iol.co.za/news/politics/2026-08-07-how-one-businessman-got-nearly-r4bn-in-education-contracts/",
-          "source": {
-            "name": "IOL"
-          },
-          "publishedAt": "2026-08-07T03:55:00Z",
-          "image": "https://iol-prod.appspot.com/image/f918cc88b64775b615cbd85582ce25c1b486a297/1000/jpeg",
-          "language": "en"
-        },
-        {
-          "title": "Home Minister orders immediate probe into deaths of three cops in Beaufort",
-          "description": "KOTA KINABALU: A comprehensive and transparent investigation has been ordered immediately to determine the actual cause of the electric shock tragedy that claimed the lives of three police personnel in Beaufort on Thursday (Aug 6).",
-          "url": "https://www.thestar.com.my/news/2026/08/07/home-minister-orders-immediate-probe-into-deaths-of-three-cops-in-beaufort",
-          "source": {
-            "name": "The Star"
-          },
-          "publishedAt": "2026-08-07T03:52:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/07/4048202.png",
-          "language": "en"
-        },
-        {
-          "title": "Malaysia Aviation Group rolls out stricter drug testing after pilot arrested",
-          "description": "A Malaysia Airlines pilot was detained last month after authorities found 26kg of the mind-altering drug MDMA in his luggage upon his arrival in Jakarta from Kuala Lumpur.",
-          "url": "https://www.channelnewsasia.com/asia/malaysia-aviation-group-stricter-drug-testing-pilot-arrested-6305286",
+          "title": "Thai teen kills seven in rampage at home and school before shooting himself",
+          "description": "Police identified the shooter as a student.",
+          "url": "https://www.channelnewsasia.com/asia/thailand-school-shooting-injuries-deaths-6305306",
           "source": {
             "name": "CNA"
           },
-          "publishedAt": "2026-08-07T03:51:00Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--yTHzBV6q--/c_crop,h_575,w_1022,x_0,y_107/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/31/000_c3mk3nr.jpg?itok=tTfuY4oT",
+          "publishedAt": "2026-08-07T06:57:14Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s---MwbejCB--/c_crop,h_404,w_720,x_0,y_546/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/07/7d1ba9a4-0cd7-4ac7-b642-a80ea5ce3e1a.jpg?itok=XViQ-cx9",
           "language": "en"
         },
         {
-          "title": "Rockstar Games and Netflix to premiere extended Grand Theft Auto VI footage on August 27",
-          "description": "Rockstar Games and Netflix to premiere extended Grand Theft Auto VI footage on August 27",
-          "url": "https://t2online.in/tech/gaming/rockstar-games-and-netflix-to-premiere-extended-grand-theft-auto-vi-footage-on-august-27/2007080",
+          "title": "Galamsey: 12 remanded for operating in Bosomtwe Forest Reserve",
+          "description": "Twelve suspected illegal miners have been remanded into police custody following their arrest during a two-day anti-galamsey operation in the Bosomtwe Range",
+          "url": "https://www.adomonline.com/galamsey-12-remanded-for-operating-in-bosomtwe-forest-reserve/",
           "source": {
-            "name": "t2ONLINE"
+            "name": "Adomonline.com"
           },
-          "publishedAt": "2026-08-07T03:50:00Z",
-          "image": "https://images.t2online.in/cdn-cgi/image/width=1200,height=675,fit=crop,gravity=auto,quality=70/https://apis.t2online.in/getImageStream/8261/1786074732573.jpg",
+          "publishedAt": "2026-08-07T06:56:35Z",
+          "image": "https://www.adomonline.com/wp-content/uploads/2019/04/Court-696x463.jpg",
           "language": "en"
         },
         {
-          "title": "Elephant raids leave Tanzania’s Karagwe farmers facing food crisis",
-          "description": "They reported that stray elephants regularly invade agricultural land and destroy various food and cash crops, leaving numerous families facing food insecurity.",
-          "url": "https://www.thecitizen.co.tz/tanzania/news/national/elephant-raids-leave-tanzania-s-karagwe-farmers-facing-food-crisis-5549438",
+          "title": "Canadian Open: Cameron Norrie saves match point to beat Alex de Minaur, Aryna Sabalenka through",
+          "description": "Britain's Cameron Norrie saves a match point as he produces a superb fightback to beat world number seven Alex de Minaur at the Canadian Open.",
+          "url": "https://www.bbc.com/sport/tennis/articles/cr7kl7jxv59o",
           "source": {
-            "name": "thecitizen.co.tz"
+            "name": "BBC"
           },
-          "publishedAt": "2026-08-07T03:49:39Z",
-          "image": "https://www.thecitizen.co.tz/resource/image/5549440/landscape_ratio3x2/1200/800/dfd13eb2d4c19febd824aab02bcd614d/qC/tembo-1.jpg",
+          "publishedAt": "2026-08-07T06:56:04Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3ce3/live/5a8a4990-922a-11f1-af4d-5164294a85c7.jpg",
           "language": "en"
         },
         {
-          "title": "Leaked Bose QuietComfort (2nd Gen) renders reveal refreshed design, color options",
-          "description": "The over-ear headphones could be available in six colorways. Bose launched the QuietComfort over-ear headphones in 2023, and three years later, the company...",
-          "url": "https://www.gsmarena.com/leaked_bose_quietcomfort_2nd_gen_renders_reveal_refreshed_design_color_options-news-74051.php",
+          "title": "You are in politics and fear eggs? Freedom fighters took bullets: Supreme Court refuses relief to Mahua Moitra",
+          "description": "Moitra had approached the Court seeking directions to appear virtually before an investigating officer in a case registered against her in June.",
+          "url": "https://www.barandbench.com/news/you-are-in-politics-and-fear-eggs-freedom-fighters-took-bullets-supreme-court-refuses-relief-to-mahua-moitra",
           "source": {
-            "name": "GSMArena.com"
+            "name": "Bar and Bench"
           },
-          "publishedAt": "2026-08-07T03:49:02Z",
-          "image": "https://fdn.gsmarena.com/imgroot/news/26/08/bose-quietcomfort-2nd-gen-renders-leak/-952x498w6/gsmarena_00.jpg",
+          "publishedAt": "2026-08-07T06:56:01Z",
+          "image": "https://cf-images.assettype.com/barandbench%2F2024-01%2F98ada615-f25a-48b0-a414-df259b87af33%2FSUPREME_COURT_OF_INDIA__WEB_PAGE_1600x900___Copyhg.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
           "language": "en"
         },
         {
-          "title": "NYT ‘Pips’ Hints, Answers And Walkthrough For Friday, August 7",
-          "description": "Looking for help with today's New York Times Pips? We'll walk you through today's puzzle and help you match dominoes to tiles.",
-          "url": "https://www.forbes.com/sites/erikkain/2026/08/06/nyt-pips-answers-friday-august-7/",
+          "title": "Norrie saves match point in superb Montreal fightback",
+          "description": "Britain's Cameron Norrie saves a match point as he produces a superb fightback to beat world number seven Alex de Minaur at the Canadian Open.",
+          "url": "https://sports.yahoo.com/articles/norrie-saves-match-point-superb-065609913.html",
           "source": {
-            "name": "forbes.com"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-08-07T03:44:41Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/68ab7aaa205e351d8e7e68df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "publishedAt": "2026-08-07T06:56:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/18446ce2eca71c834dc65dc2f27e4525f75537fb1fcfb9017a792cf7ff452e7b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fac837ed0d488c17f8034f85ab1483cd8",
           "language": "en"
         },
         {
-          "title": "Kinondoni launches immigration clubs in schools to promote legal migration awareness",
-          "description": "Launching the first immigration club in Dar es Salaam at Green Acres School, Kinondoni District Commissioner Saad Mtambule said the programme would be rolled out to more than 200 schools across...",
-          "url": "https://www.thecitizen.co.tz/tanzania/news/national/kinondoni-launches-immigration-clubs-in-schools-to-promote-legal-migration-awareness-5549426",
+          "title": "CNBC Daily Open: All the world’s a stage, but Trump's 'theater diplomacy' takes the spotlight",
+          "description": "Iran accused Trump of \"theater diplomacy,\" while also releasing a draft plan that would bar U.S. and Israeli ships from the Strait of Hormuz.",
+          "url": "https://www.cnbc.com/2026/08/07/cnbc-daily-open-iran-hormuz-trump-theater-diplomacy-meta.html",
           "source": {
-            "name": "thecitizen.co.tz"
+            "name": "CNBC"
           },
-          "publishedAt": "2026-08-07T03:44:34Z",
-          "image": "https://www.thecitizen.co.tz/resource/image/5549428/landscape_ratio3x2/1200/800/5c2f77cf4ed82f8386957435b683e9b9/cq/kinondoni-pic.jpg",
+          "publishedAt": "2026-08-07T06:55:00Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108313148-1779975426440-gettyimages-2277901418-AFP_B49H7EL.jpeg?v=1779975458&w=1920&h=1080",
+          "language": "en"
+        },
+        {
+          "title": "'Amazing and extremely sad' - Topp Twins among arts honourees",
+          "description": "Dame Lynda pays tribute to late sister as the Topp Twins join select group awarded the Arts Foundation’s Icon Whakamana Hiranga.",
+          "url": "https://www.1news.co.nz/2026/08/07/amazing-and-extremely-sad-topp-twins-among-arts-honourees/",
+          "source": {
+            "name": "1News"
+          },
+          "publishedAt": "2026-08-07T06:54:38Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/dame-lynda-topp-T33YJORVVNC6PKCPAZTDWNO6XU.jpg?auth=13969d6c95ae187c601bc54c9854d9305b1c15d28ca9b3800f2c0c16cb53c440&quality=70&width=600&height=315&focal=744%2C410",
+          "language": "en"
+        },
+        {
+          "title": "Parliament Monsoon Session: ‘No direction from the Chair’ for Amit Shah’s presence, says Rijiju as Opposition protests Home Minister’s absence",
+          "description": "Opposition protests Home Minister Amit Shah's absence in Parliament, as Speaker urges Rijiju to convey their sentiments for his presence.",
+          "url": "https://www.thehindu.com/news/national/parliament-monsoon-session-no-direction-from-the-chair-for-amit-shahs-presence-says-rijiju-as-opposition-protests-home-ministers-absence/article71316525.ece",
+          "source": {
+            "name": "The Hindu"
+          },
+          "publishedAt": "2026-08-07T06:54:25Z",
+          "image": "https://th-i.thgim.com/public/incoming/alrvhv/article71316565.ece/alternates/LANDSCAPE_1200/PTI08_07_2026_000031B.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Monkey which attacked 18 people in Indonesia trapped",
+          "description": "Animal trappers in Indonesia have captured a monkey which has been randomly attacking people on Sumatra Island over the last two weeks, prompting dozens of schools to close in fear.",
+          "url": "https://www.rte.ie/news/world/2026/0807/1586885-indonesia-monkey/",
+          "source": {
+            "name": "RTE.ie"
+          },
+          "publishedAt": "2026-08-07T06:54:06Z",
+          "image": "https://www.rte.ie/images/0024cf65-1600.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Netflix Gets GTA 6's First Extended Look Before Everyone Else",
+          "description": "Netflix subscribers get GTA 6's first extended look six hours early, with Australians able to watch from 5am AEST on 28 August.",
+          "url": "https://manofmany.com/entertainment/gaming/gta-6-netflix-extended-look",
+          "source": {
+            "name": "manofmany.com"
+          },
+          "publishedAt": "2026-08-07T06:53:58Z",
+          "image": "https://manofmany.com/wp-content/uploads/2026/08/Netflix-Grand-Theft-Auto-VI-An-Extended-Look-Premiere.jpg",
           "language": "en"
         }
       ]
