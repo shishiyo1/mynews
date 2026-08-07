@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-07T10:01:52.764Z",
+  "updatedAt": "2026-08-07T13:05:11.389Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "光GENJI、1987年8月19日のデビューからちょうど39年の時を経てついにサブスクとDL配信が解禁！",
+          "description": "1987年8月19日、シングル「STAR LIGHT」で鮮烈なデビュー以降大ヒット曲を連発し、瞬く間に社会現象を巻き起こし時代を作った史上最強スーパーアイドルグループ・光GENJI。デビュー39周年を迎える8月19日にサ […]",
+          "url": "https://news.ponycanyon.co.jp/2026/08/124340",
+          "source": {
+            "name": "PONY CANYON NEWS"
+          },
+          "publishedAt": "2026-08-07T01:05:10Z",
+          "image": "https://news.ponycanyon.co.jp/wp/wp-content/uploads/2026/08/光GENJIジャケット並び_JK_3000_3000px_2_light-580x580.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "（朝）米国市場は3指数揃って下落 中東情勢悪化懸念から投資家心理が悪化し売り優勢の展開",
+          "description": "【米国株式市場】ニューヨーク市場NYダウ：　53,885.10　▼464.02　（8/6）NASDAQ：　26,348.35　▼15.09　（8/6）1.概況米国市場は主要3指数が揃って下落しました。中東情勢をめぐりイランがホルムズ海峡を引き続き管理する仕組みを目指しており、米国の船舶の通航を認...",
+          "url": "https://media.monex.co.jp/articles/-/29908",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-08-06T23:09:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Snow Man深澤辰哉、有田哲平とのテンポに手応え “アイドル崩れ”イジりには即ツッコミ「一応ド真ん中を走ってるつもり」【アリフォルニア】",
+          "description": "Snow Manの深澤辰哉がこのほど、都内で開催されたシチュエーションコメディ『アリフォルニア』第2弾（9月9日～全4話／毎週水曜深夜1時～）の囲み取材に、有田哲平（くりぃむしちゅー）、鈴木もぐら（空気階段）、兎（ロングコートダディ）とともに出席。第2弾決定の心境を語った。",
+          "url": "https://mdpr.jp/news/detail/4817406",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-08-06T23:00:00Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/5P-v/wm/5P-vI_qkWGOpMJg61Ja7EFsthRIN2l6GJVyI2Z2qvao.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
         {
           "title": "【高橋文哉「ブルーロック」インタビュー後編】クランクアップ後にチームZメンバー11人で食事へ「お礼がしたくて」キャスト陣の印象＆ムードメーカー明かす",
           "description": "モデルプレスの独自企画「今月のカバーモデル」で2026年8月のカバーモデルを飾ったのは、映画「ブルーロック」（8月7日公開）で主演を務める俳優の高橋文哉（たかはし・ふみや／25）。インタビュー後編では、それぞれのキャストの印象や、クランクアップ後にチームZのメンバー11人を食事に連れて行ったエピソードなど、共演者についてたっぷりと聞いた。",
@@ -81,150 +114,117 @@
           "publishedAt": "2026-08-06T13:01:00Z",
           "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
           "language": "ja"
-        },
-        {
-          "title": "超合金の生みの親にして日本のキャラクタービジネスのパイオニア村上克司さんを偲んで",
-          "description": "2026年7月20日に逝去された超合金の生みの親、工業デザイナー・村上克司さんを偲んで。五十嵐浩司氏特別寄稿",
-          "url": "https://hobby.dengeki.com/news/3111330/",
-          "source": {
-            "name": "電撃ホビーウェブ"
-          },
-          "publishedAt": "2026-08-06T13:00:00Z",
-          "image": "https://hobby.dengeki.com/ss/hobby/2026/08/tc_QPNCqRTInpCeiTyKqOXX3NAToTcocovM_MWaQXBMMZ-iuuqqGzeX6ffkAOvSnlcBl.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "風、薫る：第94回「注目度」 母を思う長太郎の絶叫に視聴者クギヅケ “柳生”中村倫也の驚きの正体判明で76.0％まで到達",
-          "description": "俳優の見上愛さんと上坂樹里さんがダブル主演を務めるNHK連続テレビ小説（朝ドラ）「風、薫る」（総合、月～土曜午前8時など）の第94回（8月6日放送）で、視聴者を最も引き付けた場面…",
-          "url": "https://mantan-web.jp/article/20260806dog00m200100000a.html",
-          "source": {
-            "name": "Mantan Web"
-          },
-          "publishedAt": "2026-08-06T12:57:30Z",
-          "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/08/06/20260806dog00m200100000a/001.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【データセンター】秋田は風力発電、災害の少なさで優位か｜秋田魁新報電子版",
-          "description": "データセンターは、インターネット用のサーバーや通信機器を集約した施設で、大量のデータ処理を担う。スマートフォンやパソコンが世界で広く使われ、人工知能（ＡＩ）技術も進化しており、データ処理量は増大して…",
-          "url": "https://www.sakigake.jp/news/article/20260806AK0046/",
-          "source": {
-            "name": "秋田魁新報電子版"
-          },
-          "publishedAt": "2026-08-06T12:43:00Z",
-          "image": "https://www.sakigake.jp/images/news-entry/20260806ak0046_02_l.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "‘It will be a public urinal’: Calls to scrap statue of Dan Andrews",
-          "description": "A controversial statue planned to honour former Victorian Premier Dan Andrews could turn into a site of public mockery and desecration if it is built, the shadow treasurer has warned.",
-          "url": "https://www.nine.com.au/australia-news/vic/calls-to-scrap-dan-andrews-statue-melbourne-victoria-20260807-p60m8a.html",
-          "source": {
-            "name": "Nine.com.au"
-          },
-          "publishedAt": "2026-08-06T22:01:24Z",
-          "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_473%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/b48e866fd8f6a2df7e7038ac3547229d1f0451d8",
-          "language": "en"
-        },
-        {
-          "title": "Wearable fingertip sensor identifies physical patterns linked to stress and anxiety",
-          "description": "Researchers have shown that measurements taken from a person's fingertip could help identify physical patterns associated with stress, anxiety and depression. The international study, involving experts from Aston University, used a wearable device that shines light into the skin to measure blood flow through the smallest blood vessels as well as changes in the activity of the surrounding tissue.",
-          "url": "https://medicalxpress.com/news/2026-08-wearable-fingertip-sensor-physical-patterns.html",
-          "source": {
-            "name": "Medical Xpress"
-          },
-          "publishedAt": "2026-08-06T22:00:02Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/pulse-oxymeter.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Happy Birthday, Michelle Yeoh! 14 Gorgeous Vintage Photos of the Star",
-          "description": "Ahead of her turn in “Blade Runner 2099” later this year opposite Hunter Schafer—and in honor of her birthday—we’re taking a nostalgic trip back to the Oscar winner’s early years on the scene.",
-          "url": "https://www.vogue.com/slideshow/michelle-yeoh-vintage-photos",
-          "source": {
-            "name": "Vogue"
-          },
-          "publishedAt": "2026-08-06T22:00:00Z",
-          "image": "https://assets.vogue.com/photos/6a750ee88696348c9cdcd501/16:9/w_1280,c_limit/1460839028",
-          "language": "en"
-        },
-        {
-          "title": "Ex-offender becomes hawker’s apprentice to rebuild his life, one ayam penyet plate at a time",
-          "description": "Roziah Adon spent decades honing her craft, including a sambal recipe she had never shared. Then she met Shaly Farid. CNA’s The Hawker Apprentice explores what it takes to carry on a culinary legacy while rebuilding a life after prison.",
-          "url": "https://www.channelnewsasia.com/cna-insider/hawker-apprentice-ex-offender-secret-sambal-recipe-ayam-penyet-6304181",
-          "source": {
-            "name": "CNA"
-          },
-          "publishedAt": "2026-08-06T22:00:00Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--LEt-OGN1--/c_crop,h_607,w_1080,x_0,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/07/1.jpg?itok=jpBJXO8m",
-          "language": "en"
-        },
-        {
-          "title": "Flesh-eating bacteria has killed 5 in Louisiana this year, officials say",
-          "description": "A flesh-eating bacteria found in warm coastal waters is responsible for at least five deaths so far this year in Louisiana, state health officials reported Thursday.",
-          "url": "https://www.cbsnews.com/news/vibrio-vulnificus-flesh-eating-bacteria-5-dead-louisiana-2026/",
-          "source": {
-            "name": "CBS News"
-          },
-          "publishedAt": "2026-08-06T22:00:00Z",
-          "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/06/a5f9ac57-7a89-4010-8e4c-93cb4844aa4e/thumbnail/1200x630/33bcfa33ad210e5076c4be0082232725/gettyimages-179795898.jpg",
-          "language": "en"
-        },
-        {
-          "title": "MASLD and Hepatitis B Outcomes",
-          "description": "MASLD may increase cardiovascular and cancer risks in chronic hepatitis B. Read more about the long-term findings.",
-          "url": "https://www.emjreviews.com/microbiology-infectious-diseases/news/masld-in-chronic-hepatitis-b-raises-systemic-risks/",
-          "source": {
-            "name": "EMJ"
-          },
-          "publishedAt": "2026-08-06T21:59:13Z",
-          "image": "https://www.emjreviews.com/wp-content/uploads/2026/08/AdobeStock_1128696256.jpeg",
-          "language": "en"
-        },
-        {
-          "title": "Vulnerability to climate-driven pathogen-specific diarrheal diseases: secondary analysis from the Global Enteric Multicenter Study and Vaccine Impact on Diarrhea in Africa follow-up",
-          "description": "The identification of climate-related risk factors for pathogen-specific diarrhea is critical for building resilience in high-risk and low-resource settings. Here we performed secondary analysis of published data from the Global Enteric Multicenter Study (GEMS) and Vaccine Impact on Diarrhea in Africa (VIDA) follow-up. We used daily counts of rotavirus, Shigella, Cryptosporidium, and enterotoxigenic E. coli producing heat stable toxin from two case-control studies of moderate-to-severe diarrhea (MSD) in The Gambia, Kenya and Mali (n = 9378). Using Random forests we identify influential climate and vulnerability factors for predicting pathogen presence. Accounting for time trends, our Zero-inflated Poisson models found that associations between weather and MSD were modified by socio-economic factors including transportation, television ownership, electricity access, and introduction of the rotavirus vaccine, but these were site- and pathogen-specific. Our study provides evidence that socio-demographic-associated vulnerability factors are correlated with variable pathogen-specific disease risks. Across the three African countries of The Gambia, Kenya and Mali, Kowalcyk et al identify socio-demographic factors that may mitigate the risks of climate drivers on pathogen-specific diarrheal diseases in young children.",
-          "url": "https://www.nature.com/articles/s41467-026-76189-w?error=cookies_not_supported&code=63cc42f7-5e74-452d-8399-813de4d5f16b",
-          "source": {
-            "name": "Nature"
-          },
-          "publishedAt": "2026-08-06T21:57:16Z",
-          "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-          "language": "en"
-        },
-        {
-          "title": "Morgan Freeman Says You Can ‘Overlook’ a Mediocre Script ‘If They’re Going to Pay You Enough’ Money",
-          "description": "Morgan Freeman recently told The New York Times that he’s okay signing on for a movie with a mediocre script as long as the pay is good enough. “If somebody offers you a job, it’s very nice if they’re...",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/morgan-freeman-says-overlook-mediocre-215646389.html?guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vXy9Eb3RzU3BsYXNoVWkvZGF0YS9iYXRjaGV4ZWN1dGU&guce_referrer_sig=AQAAALTuoT2UH-m0kg9A34LWeulb89PBLxTSR6tVAN3dlaNhM-uhMAVSYF_qN2hCF21dmfOJw49TP7ui4smebCy1LNcUkSldyLjmPZc_ruyDx7y-nelLzLoRXeiMf5vZM6vGNYrUuSJ5B_gQIXcaKYMS-ONWcoYCjPBn7dnqC5JeGPeA&_guc_consent_skip=1786072100",
+          "title": "SB19 On New Single ‘Lawless’ And Making Their Lollapalooza Debut",
+          "description": "Following their Lollapalooza fest debut last week in Chicago, SB19 look back on one of the weekend's most talked about sets and dive into their latest single 'Lawless.'",
+          "url": "https://www.yahoo.com/entertainment/music/articles/sb19-single-lawless-making-lollapalooza-010513966.html",
           "source": {
             "name": "Yahoo"
           },
-          "publishedAt": "2026-08-06T21:56:46Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/d0500446dc05b8a7381f208ef2dcfba4d9b4efc1394ce0c2d5ea2e378fdcf816/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F5bc6b55335e0a48f1c28b0160b4473fd",
+          "publishedAt": "2026-08-07T01:05:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/2523f218bc0910618e68a0e117d5961727361c9f1df1c6ea30a005353a709df7/lightyear_networkapi/resizefill_w959_h651%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F3657428a2859d4def0f1c18549003ccf",
           "language": "en"
         },
         {
-          "title": "Opposition opposes FCRA bill, says minorities being targeted",
-          "description": "India News: NEW DELHI: Briefing the opposition parties about his discussion with parliamentary affairs minister Kiren Rijiju on the delimitation bill a day earlie.",
-          "url": "https://timesofindia.indiatimes.com/india/opposition-opposes-fcra-bill-says-minorities-being-targeted/articleshow/133015923.cms",
+          "title": "Pradeep Rawat's son Vikramaditya recalls actor's final moments: 'I saw doctors giving him CPR, that's when I understood'",
+          "description": "Veteran actor Pradeep Rawat's son, Vikramaditya, broke down as he recalled his father's final moments during the actor's last rites held at Oshiwara C.",
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pradeep-rawats-son-vikramaditya-recalls-actors-final-moments-i-saw-doctors-giving-him-cpr-thats-when-i-understood/articleshow/132963892.cms",
           "source": {
-            "name": "The Times of India"
+            "name": "timesofindia.indiatimes.com"
           },
-          "publishedAt": "2026-08-06T21:56:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-133015925,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-08-07T01:04:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-132963892,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "'We'll be laughing' - Tottenham told to let Arsenal sign star in unthinkable transfer",
-          "description": "Tottenham Hotspur have been urged to allow Cristian Romero to join Arsenal this summer.",
-          "url": "https://talksport.com/football/4496320/tottenham-arsenal-cristian-romero-transfer-darren-ambrose/",
+          "title": "Trump Signs Executive Orders Targeting Birthright Citizenship",
+          "description": "The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.",
+          "url": "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html",
           "source": {
-            "name": "talkSPORT"
+            "name": "nytimes.com"
           },
-          "publishedAt": "2026-08-06T21:52:47Z",
-          "image": "https://talksport.com/wp-content/uploads/2026/08/head-coach-roberto-de-zerbi-1098268205.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "publishedAt": "2026-08-07T01:03:06Z",
+          "image": "https://static01.nyt.com/images/2026/08/06/multimedia/06dc-birthright-fztc/06dc-birthright-fztc-facebookJumbo.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Charlotte FC vs Atlas: Where to Watch, Live Stream, TV Channel & Kick-Off Time",
+          "description": "Find out where to watch Charlotte FC vs Atlas in the Leagues Cup, including the live stream option, TV channel details, kick-off time, team news, and form guide.",
+          "url": "https://www.goal.com/en-us/news/watch-charlotte-fc-v-atlas-live-stream-online-tv-channel/blt3acdb555feaf8d35",
+          "source": {
+            "name": "Goal.com"
+          },
+          "publishedAt": "2026-08-07T01:01:05Z",
+          "image": "https://assets.goal.com/images/v3/bltad14c1a7cb71fff8/Liel%20Abada%20#11%20of%20Charlotte%20FC.png",
+          "language": "en"
+        },
+        {
+          "title": "Shearer sentenced for inflicting 'extreme violence' on lambs",
+          "description": "A shearer caught on film abusing three lambs was drinking too much as he struggled to cope with his father's death, a court heard.",
+          "url": "https://www.1news.co.nz/2026/08/07/shearer-sentenced-for-inflicting-extreme-violence-on-lambs/",
+          "source": {
+            "name": "1News"
+          },
+          "publishedAt": "2026-08-07T01:00:58Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/lamb-EY3DYSGVI5HVLOJ7L4JFJIF2WM.jpg?auth=878f9c213e23e3c4bba414018dc3e00a78a8778a1198bf93685c1f63ca10c8c6&quality=70&width=600&height=315&focal=1104%2C450",
+          "language": "en"
+        },
+        {
+          "title": "Bedroom where Pauline Hanna slept alone the focus of inquest into her death",
+          "description": "The first week of an inquest into Pauline Hanna's death has wound up on Friday afternoon, with her husband Philip Polkinghorne still to give witness testimony.",
+          "url": "https://www.rnz.co.nz/news/crime-and-justice/926178/bedroom-where-pauline-hanna-slept-alone-the-focus-of-inquest-into-her-death",
+          "source": {
+            "name": "RNZ"
+          },
+          "publishedAt": "2026-08-07T01:00:44Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--qhMURulS--/t_tohu-badge-facebook/f_auto/q_auto/4JKH67D_0Z9A9799_jpg",
+          "language": "en"
+        },
+        {
+          "title": "Namewee reveals uncle died alone in Singapore flat, body found a week later",
+          "description": "The rapper says his uncle's body was only discovered after a neighbour noticed an unusual smell and alerted authorities.",
+          "url": "https://www.thestar.com.my/lifestyle/entertainment/2026/08/07/namewee-reveals-uncle-died-alone-in-singapore-flat-body-found-a-week-later",
+          "source": {
+            "name": "The Star"
+          },
+          "publishedAt": "2026-08-07T01:00:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/06/4046769.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Lutheran Church ordains eleven new pastors",
+          "description": "THE Evangelical Lutheran Church in Namibia (ELCIN) ordained eleven new pastors during a solemn ceremony at its Western Diocese headquarters...",
+          "url": "https://informante.web.na/?p=398725",
+          "source": {
+            "name": "Informanté"
+          },
+          "publishedAt": "2026-08-07T01:00:00Z",
+          "image": "https://informante.web.na/wp-content/uploads/2026/08/Eleven-pastors-ordained-in-Omusati-Informante-Image-workspace-1024x677.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Oil rises amid supply fears on Iran's draft plan for Strait of Hormuz",
+          "description": "News of Iran's restrictive draft plan for the Strait of Hormuz sent oil prices higher, renewing concerns over supply disruptions.",
+          "url": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
+          "source": {
+            "name": "CNBC"
+          },
+          "publishedAt": "2026-08-07T01:00:00Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108345236-1785935747468-gettyimages-2286971571-AFP_C37P2FW.jpeg?v=1785935768&w=1920&h=1080",
+          "language": "en"
+        },
+        {
+          "title": "Alberta shuts down trucking company linked to fatal collision in Manitoba",
+          "description": "Conquer Transportation set up in Alberta in late 2021; an associated company had its safety credentials revoked in Manitoba earlier that year, regulators said",
+          "url": "https://www.theglobeandmail.com/canada/article-alberta-shuts-down-trucking-company-fatal-collision-manitoba/",
+          "source": {
+            "name": "The Globe and Mail"
+          },
+          "publishedAt": "2026-08-07T00:59:43Z",
+          "image": "https://www.theglobeandmail.com/resizer/v2/DRVLYEJPIJDV7MF2H6MDFBZIDI.JPG?auth=c18829a811443db6b0e086de9373d6fe6faf76ba7ad893c615721dc3855babce&width=1200&height=800&quality=80&smart=true",
           "language": "en"
         }
       ]
