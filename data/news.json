@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-08T09:38:17.083Z",
+  "updatedAt": "2026-08-08T12:49:50.418Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "OpenAI、次期モデル「Astra」の一部開発を停止 「Critical」級サイバー能力の可能性否定できず",
+          "description": "OpenAIは、次期主力モデル「Astra」のサイバー能力が自社の安全指針における最上位「Critical」に達している可能性を発表した。要件を満たさない一部活動を停止し、リアルタイム監視や思考過程の評価など管理を強化する。能力を抑制するのではなく、政府機関や外部組織と協力して検証と安全策の提供を進める方針だ。",
+          "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000459/",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-08-07T22:11:46Z",
+          "image": "https://www.itmedia.co.jp/news/article/ogp/2608/08/2000000459/10002203/2048",
+          "language": "ja"
+        },
+        {
+          "title": "4.9トンのスペースXロケットが月面衝突…韓国の探査機「タヌリ」が前後を撮影（KOREA WAVE）",
+          "description": "【08月08日 KOREA WAVE】韓国初の月周回衛星「タヌリ」が、重さ約4.9トンのスペースX「ファルコン9」ロケット上段が月面に衝突する前後の様子を捉えた。\n韓国宇宙航空庁は8月6日、ロケッ",
+          "url": "https://news.yahoo.co.jp/articles/bca6082e18f8a81eeb9ff0f16f6c7a87a1098f0f",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-07T22:00:28Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260808-03647741-clc_korea-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "『GTA6』、「早く見るためにはサブスク契約？」予告映像Netflix先行公開を受けて反発も…皆が不満を漏らしている事実こそ上手くいってる証拠との声など挙がる",
+          "description": "『GTA6』予告動画がNetflix先行公開されることについて、さまざまな意見を交わす海外ゲーマー。",
+          "url": "https://www.gamebusiness.jp/article/2026/08/08/27648.html",
+          "source": {
+            "name": "GameBusiness.jp"
+          },
+          "publishedAt": "2026-08-07T21:45:03Z",
+          "image": "https://www.gamebusiness.jp/imgs/ogp_f/192036.png",
+          "language": "ja"
+        },
         {
           "title": "「自衛隊員や報道カメラマンのフリをして泥棒を…」 500万円分の預金通帳を盗まれた高齢女性が明かす被害 「外出が怖くなり、避難所にも行けない」",
           "description": "最高気温が連日30度台、その上40度を超える日まで記録した異常気象の夏を、被災地は乗り越えられるのか。さらに、倒壊した家を狙う「火事場泥棒」も発生しており……。\n　***",
@@ -81,150 +114,117 @@
           "publishedAt": "2026-08-07T20:30:00Z",
           "image": "https://mezamashi.ismcdn.jp/mwimgs/3/4/1200xm/img_34152f13606f69590d2afd286a53f65d1004276.jpg",
           "language": "ja"
-        },
-        {
-          "title": "『ドッキリGP』4時間SP、東野幸治のMVPは向井康二 小池栄子は菊池風磨も指名「本当に頭が下がります」",
-          "description": "タレントの東野幸治と小池栄子がMCを務めるフジテレビ系『芸能人が本気で考えた！ドッキリGP　ドッキリも地球を救う 4時間テレビSP』が、きょう8日午後6時30分から放送される。このほど、東野、小池",
-          "url": "https://news.yahoo.co.jp/articles/0a7228387fc4792a02e9468738f9b22529ef11c0",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-07T20:30:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260808-00000350-oric-000-3-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "DOMOTO堂本光一＆井上芳雄、ツアー各会場に募金箱設置を報告 熊本地震受け「ステージから元気を届けられる形になれば」",
-          "description": "【モデルプレス＝2026/08/08】DOMOTOの堂本光一と井上芳雄が2026年8月7日、東京・東京ガーデンシアターで開催された「New HISTORY COMING ARENA LIVE-The",
-          "url": "https://news.yahoo.co.jp/articles/2c9d3f9afab1c866b9380af385a2db97a09a885e",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-07T19:00:02Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260808-04825917-mdpr-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "堂本光一、帝劇への愛に満ちた“帝コン”で歓喜！「レジェンドの皆さんと『Endless SHOCK』ができてうれしい」",
-          "description": "8月7日、「New HISTORY COMING ARENA LIVE -The Imperial Theatre Symphony-」開幕記念会見・公開ゲネプロが東京・東京ガーデンシアターにて行われ、出演する堂本光一、井上芳雄、島田歌穂、平原綾香、ソニン、佐藤隆紀、桜井玲香、岡宮来夢、そして石丸幹二が会見に登壇しました。",
-          "url": "https://fan.books.rakuten.co.jp/articles/9744",
-          "source": {
-            "name": "推し楽"
-          },
-          "publishedAt": "2026-08-07T19:00:00Z",
-          "image": "https://books.r10s.jp/fan/images/oshiraku-images/DSB_2014_SHOCK_fb25e23f33.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Carabao Cup: Will Lankshear strike sees Middlesbrough past Wrexham as Wolves beat Port Vale and Stevenage edge Wycombe",
-          "description": "Will Lankshear scores only goal to see Middlesbrough into Carabao Cup second round with 1-0 win over Wrexham; Josh Magennis strikes in 95th minute as Stevenage beat Wycombe 2-1; Wolves net three first-half goals to breeze past Port Vale",
-          "url": "https://www.skysports.com/football/news/11938/13570859/carabao-cup-will-lankshear-strike-sees-middlesbrough-past-wrexham-as-wolves-beat-port-vale-and-stevenage-edge-wycombe",
+          "title": "Full body MOTs - the future of healthcare or a headache for the NHS?",
+          "description": "The private body scan industry is booming, but is it doing more harm than good?",
+          "url": "https://www.bbc.co.uk/news/articles/cx2dj82v1rko",
           "source": {
-            "name": "Sky Sports"
+            "name": "BBC"
           },
-          "publishedAt": "2026-08-07T21:38:02Z",
-          "image": "https://e0.365dm.com/26/08/1600x900/skysports-will-lankshear-middlesbrough_7316474.jpg?20260807222608",
+          "publishedAt": "2026-08-08T00:49:48Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7154/live/5b1506b0-86a0-11f1-a0b6-435e4178a497.png",
           "language": "en"
         },
         {
-          "title": "Stock Market Today, Aug. 7: Markets Rally on Jobs Shock and Atlassian Surges 35%",
-          "description": "Today, Aug. 7, 2026, July payrolls fell unexpectedly, fueling investor optimism for lower interest rates and boosting major indexes.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-7-213800176.html",
+          "title": "IAF officer arrested for sharing defence information, booked under Secrets Act",
+          "description": "Senior sources in the Delhi Police said the arrest pointed to a “larger espionage network aimed at collecting strategic military intelligence”.",
+          "url": "https://indianexpress.com/article/cities/delhi/iaf-officer-arrested-for-sharing-defence-information-booked-under-secrets-act-10823198/",
           "source": {
-            "name": "Yahoo Finance"
+            "name": "The Indian Express"
           },
-          "publishedAt": "2026-08-07T21:38:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/57A348237D5BD9D169796504B15FD164A12D82844BC0CA441718A3AE9C162EA1/subgraphmysterio/resizefill_w1200_h1071;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fa19c508dd84971836e666155215947ca",
+          "publishedAt": "2026-08-08T00:45:15Z",
+          "image": "https://images.indianexpress.com/2026/08/Delhi-Police_20260716201236_20260729194834_20260808004425.jpg",
           "language": "en"
         },
         {
-          "title": "Rybakina advances while Andreeva exits at Toronto",
-          "description": "Reigning Australian Open champion Elena Rybakina advanced to the fourth round of the WTA Toronto Masters on Friday while French Open winner Mirra Andreeva was eliminated by Canada's Leylah Fernandez.Rybakina, who also won the 2022 Wimbledon title, advanced to a last-16 meeting with the winner of a later match between Russia's Liudmila Samsonova and Australian Maya Joint.",
-          "url": "https://uk.sports.yahoo.com/news/rybakina-advances-while-andreeva-exits-213725178.html",
+          "title": "Two men arrested over podcast allegedly touching on religious sensitivities, say police",
+          "description": "SHAH ALAM, Aug 8 — Police confirmed the arrest of two local men following a report received regarding a podcast episode that allegedly touched on religious sensitivities.North...",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/08/two-men-arrested-over-podcast-allegedly-touching-on-religious-sensitivities-say-police/230565",
           "source": {
-            "name": "Yahoo Sports UK"
+            "name": "malaymail.com"
           },
-          "publishedAt": "2026-08-07T21:37:25Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/4e78e71631901bdb1b5537d5c8e933c6d6e0749020e1a1fb87ac1bc3df7d4641/lightyear_networkapi/resizefill_w768_h512%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.co.uk%2F5704bd3b147b2cda18dcba40212b508d",
+          "publishedAt": "2026-08-08T00:44:35Z",
+          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/08/355993.jpg",
           "language": "en"
         },
         {
-          "title": "A mission to save NASA's falling observatory spun out of control. What happens next?",
-          "description": "A daring mission to rescue one of NASA's crucial space observatories from falling to Earth has encountered issues of its own - but there may still be hope for both spacecraft to beat the odds.",
-          "url": "https://www.rnz.co.nz/news/world/933686/a-mission-to-save-nasa-s-falling-observatory-spun-out-of-control-what-happens-next",
+          "title": "PleaseFix: Zenity Demonstrates Zero-Click Takeover of Every Major Agentic Browser",
+          "description": "A new vulnerability class called 'Intent Collision' lets attackers hijack Claude in Chrome, Gemini, Perplexity Comet, ChatGPT Atlas, and Copilot Edge using hidden instructions in any content the agent reads. Some vendors declined to patch.",
+          "url": "https://forkast.news/pleasefix-zenity-demonstrates-zero-click-takeover-of-every-major-agentic-browser/",
           "source": {
-            "name": "RNZ"
+            "name": "forkast.news"
           },
-          "publishedAt": "2026-08-07T21:36:30Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--sDBe3_Hp--/t_tohu-badge-facebook/f_auto/q_auto/4JK85I3_NeilGehrelsSwiftObservatory_NASA_jpg",
+          "publishedAt": "2026-08-08T00:44:00Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/08/forkast-128860-1024x572.jpg",
           "language": "en"
         },
         {
-          "title": "Geelong faces a 'please explain' over Jake Kolodjashnij concussion contract",
-          "description": "Geelong is finally issued a 'please explain' over its controversial concussion contract with premiership defender Jake Kolodjashnij.",
-          "url": "https://www.abc.net.au/news/2026-08-08/afl-geelong-faces-please-explain-over-concussion-contract/107012364",
+          "title": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
+          "description": "The new president, who replaces leftist Gustavo Petro, continues the rightward political shift in Latin America.",
+          "url": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups",
           "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-08-07T21:35:39Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/c5b55c267038822fa959e74bcd26f4c2?impolicy=wcms_watermark_news&cropH=1962&cropW=3488&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-08-08T00:40:16Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26219776301431-1786147020.jpg?resize=1920%2C1440",
           "language": "en"
         },
         {
-          "title": "Memphis Grizzlies forward Brandon Clarke died from heroin and cocaine",
-          "description": "Authorities have determined that Memphis Grizzlies forward Brandon Clarke died in May from the effects of heroin and cocaine.",
-          "url": "https://apnews.com/article/brandon-clarke-cause-of-death-fabd61ba587e22a040469f970e7c69e5",
+          "title": "S&P closes at record high as soft jobs report eases rate-hike concerns",
+          "description": "Nonfarm payrolls drop by 23,000 jobs in July, below estimates, US Labour Department says Read more at The Business Times.",
+          "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/sp-closes-record-high-soft-jobs-report-eases-rate-hike-concerns",
           "source": {
-            "name": "AP News"
+            "name": "The Business Times"
           },
-          "publishedAt": "2026-08-07T21:34:00Z",
-          "image": "https://dims.apnews.com/dims4/default/b840b65/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcc%2F0d%2F721796a46e3129cf9a329d2dbad4%2F66d3e72880ff4fd6a426085461ab5794",
+          "publishedAt": "2026-08-08T00:40:00Z",
+          "image": "https://cassette.sphdigital.com.sg/image/businesstimes/79e3c9629cca4c474444156317e66e1790ca230551dd8f7d029f293d1df957c5?w=1920&f=webp",
           "language": "en"
         },
         {
-          "title": "Wait for the announcement! Bruno Guimaraes' £75m Arsenal move delayed despite midfielder training with Mikel Arteta's squad",
-          "description": "Arsenal's £75m signing of Bruno Guimaraes from Newcastle United is delayed due to bureaucratic issues despite the Brazilian training with Mikel Arteta.",
-          "url": "https://www.goal.com/en-ug/lists/bruno-guimaraes-arsenal-transfer-delayed-newcastle-mikel-arteta/blt3a97ce7750343d19",
+          "title": "Hungarian envoy receives Order of Sikatuna",
+          "description": "President Ferdinand R. Marcos Jr. conferred the Order of Sikatuna on outgoing Hungarian Ambassador to the Philippines Dr. Titanilla Tóth, recognizing her...",
+          "url": "https://mb.com.ph/2026/08/08/hungarian-envoy-receives-order-of-sikatuna",
           "source": {
-            "name": "Goal.com"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-08-07T21:31:15Z",
-          "image": "https://assets.goal.com/images/v3/getty-2273184084/crop/MM5DENRXGI5DCNJQGM5G433XMU5DINBTHIZTGNY=/GettyImages-2273184084.jpg",
+          "publishedAt": "2026-08-08T00:37:52Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/08/121905.webp",
           "language": "en"
         },
         {
-          "title": "Wait for the announcement! Bruno Guimaraes' £75m Arsenal move delayed despite midfielder training with Mikel Arteta's squad",
-          "description": "Arsenal's £75m signing of Bruno Guimaraes from Newcastle United is delayed due to bureaucratic issues despite the Brazilian training with Mikel Arteta.",
-          "url": "https://www.goal.com/en-ke/lists/bruno-guimaraes-arsenal-transfer-delayed-newcastle-mikel-arteta/blt3a97ce7750343d19",
+          "title": "UK weather: Fifth heatwave of year likely as temperatures could hit 35C",
+          "description": "As temperatures start to rise again over the weekend, many parts of England and Wales will enter into the fifth heatwave of the year, as Simon King explains",
+          "url": "https://www.bbc.com/weather/articles/cgr7d28vvpno",
           "source": {
-            "name": "Goal.com"
+            "name": "BBC"
           },
-          "publishedAt": "2026-08-07T21:31:07Z",
-          "image": "https://assets.goal.com/images/v3/getty-2273184084/crop/MM5DENRXGI5DCNJQGM5G433XMU5DINBTHIZTGNY=/GettyImages-2273184084.jpg",
+          "publishedAt": "2026-08-08T00:37:42Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/e768/live/b7ab38d0-9240-11f1-afba-01cbe043dea0.jpg",
           "language": "en"
         },
         {
-          "title": "Wait for the announcement! Bruno Guimaraes' £75m Arsenal move delayed despite midfielder training with Mikel Arteta's squad",
-          "description": "Arsenal's £75m signing of Bruno Guimaraes from Newcastle United is delayed due to bureaucratic issues despite the Brazilian training with Mikel Arteta.",
-          "url": "https://www.goal.com/en-ng/lists/bruno-guimaraes-arsenal-transfer-delayed-newcastle-mikel-arteta/blt3a97ce7750343d19",
+          "title": "Middle East conflict weighs on PSX",
+          "description": "Middle East conflict weighs on PSX",
+          "url": "https://tribune.com.pk/story/2622690/middle-east-conflict-weighs-on-psx",
           "source": {
-            "name": "Goal.com"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-08-07T21:30:50Z",
-          "image": "https://assets.goal.com/images/v3/getty-2273184084/crop/MM5DENRXGI5DCNJQGM5G433XMU5DINBTHIZTGNY=/GettyImages-2273184084.jpg",
+          "publishedAt": "2026-08-08T00:34:54Z",
+          "image": "https://i.tribune.com.pk/media/images/psx-11785328716-0/psx-11785328716-0-640x480.webp",
           "language": "en"
         },
         {
-          "title": "Police release video showing gunman shooting victims at Idaho In-N-Out Burger drive-thru",
-          "description": "The video revealed more details of the chaotic scene last weekend. The gunman walked up to the drive-thru window four times and opened fire, killing an In-N-Out employee, police said.",
-          "url": "https://www.pbs.org/newshour/nation/police-release-video-showing-gunman-shooting-victims-at-idaho-in-n-out-burger-drive-thru",
+          "title": "Infectious Disease Advisor: Real-world data on BIC/FTC/TAF switch and long-acting ART in patients with viremia",
+          "description": "Real-world data support BIC/FTC/TAF switch in adults with HIV; Long-acting ART achieves HIV virologic suppression in patients with viremia.",
+          "url": "https://www.eatg.org/hiv-news/infectious-disease-advisor-real-world-data-on-bic-ftc-taf-switch-and-long-acting-art-in-patients-with-viremia/",
           "source": {
-            "name": "PBS"
+            "name": "eatg.org"
           },
-          "publishedAt": "2026-08-07T21:29:50Z",
-          "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-03T144013Z_1458127870_RC23QMASZNE1_RTRMADP_3_USA-IDAHO-SHOOTING-1-1024x575.jpg",
+          "publishedAt": "2026-08-08T00:34:27Z",
+          "image": "https://www.eatg.org/wp-content/uploads/2024/05/doctor-g67f140729-640.png",
           "language": "en"
         }
       ]
