@@ -1,10 +1,32 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-09T04:17:40.399Z",
+  "updatedAt": "2026-08-09T06:57:48.348Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "岩手県で震度4の地震 津波の心配なし",
+          "description": "9日午前2時58分頃、岩手県沖を震源とするマグニチュード5.6の地震が発生し、岩手県で最大震度4を観測しました。この地震による津波の心配はありません。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/08/09/40073.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-08-08T18:06:10Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/400/40073/main/20260809030610/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "暑さに強いコメ「西高東低」 秋田・宮城1割未満、ブランド米が定着",
+          "description": "【この記事でわかること】・耐性米、どのくらい普及している？・なぜ東西で広がりに差があるか・温暖化がコメに及ぼす悪影響",
+          "url": "https://www.nikkei.com/article/DGXZQOCC15ADK0V10C26A5000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-08-08T17:00:00Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3370602028072026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=ffa54957f853555b83b34d217fac59bd",
+          "language": "ja"
+        },
         {
           "title": "息子助けようと川に 父親溺れ死亡",
           "description": "愛知県東栄町で8日、川で溺れた息子を助けようとした父親が死亡しました。",
@@ -92,139 +114,117 @@
           "publishedAt": "2026-08-08T10:16:00Z",
           "image": "https://www.cnn.co.jp/storage/2025/07/03/b194085fabb17011997df52f2179d6c1/gettyimages-1408705704.jpg",
           "language": "ja"
-        },
-        {
-          "title": "『ゼンゼロ』に沼った！爽快アクションも豊満ボディも「らしさ」だ！2周年記念で新キャラも配布量もむちむちなのでいまが始めどき",
-          "description": "爽快感あふれるハイスピードアクションバトル！ High-Speed Action Battle！ 略してHSAB！ そしてボディが暴れている！ 豊満すぎて暴れるボディ！Houman-Sugite Abareru Body！ 略してHSAB！",
-          "url": "https://www.gamespark.jp/article/2026/08/08/170414.html",
-          "source": {
-            "name": "gamespark.jp"
-          },
-          "publishedAt": "2026-08-08T10:00:03Z",
-          "image": "https://www.gamespark.jp/imgs/ogp_f/1169140.png",
-          "language": "ja"
-        },
-        {
-          "title": "39歳DF長友佑都、代表引退を否定「選手である以上は常に目指していきたい」",
-          "description": "日本代表のDF長友佑都が8日、2021年から所属するFC東京と2026-27シーズンの選手契約を締結したと発表した。同日夕、味の素スタジアムで記者会見を行い、「選手である以上は日本代表を目指したい」と今後も代表...",
-          "url": "https://web.gekisaka.jp/news/japan/detail/?456547-456547-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-08-08T09:45:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/457000/456547/news_456547_1.jpg?time=20260808190346",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Australia pacer takes 8/25 as Bangladesh bowled out for 54, lose match by an innings",
-          "description": "Cricket News: Bangladesh were bowled out for just 54 in their second innings to lose their three-day tour match against a Cricket Australia XI by an innings and 38 .",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-pacer-takes-8/25-as-bangladesh-bowled-out-for-54-lose-match-by-an-innings/articleshow/133055344.cms",
+          "title": "Pro Football Hall of Fame 2026: Roger Craig speech highlights, Drew Brees, Larry Fitzgerald",
+          "description": "Craig shared his health diagnosis in a pre-recorded speech, while Brees honored his wife, Fitzgerald remembered his late father, Vinatieri roasted NFL legends and Kuechly reflected on his Panthers roots",
+          "url": "https://www.cbssports.com/nfl/news/pro-football-hall-of-fame-2026-induction-ceremony-live-updates-takeaways/live/",
           "source": {
-            "name": "The Times of India"
+            "name": "CBS Sports"
           },
-          "publishedAt": "2026-08-08T16:17:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-133055513,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-08-08T18:56:00Z",
+          "image": "https://sportshub.cbsistatic.com/i/r/2026/08/08/47c6090f-2336-4727-8f45-8d613dc4b8d3/thumbnail/1200x675/154433667a91c7b62ae08767caab85ae/craighof.jpg",
           "language": "en"
         },
         {
-          "title": "US-Iran war latest: JD Vance says US weighing safe Hormuz route for ships as Iran reiterates demands",
-          "description": "JD Vance said that he felt quite confident, adding that “some progress” has been made in the Iran talks. | World News",
-          "url": "https://www.hindustantimes.com/world-news/usiran-war-latest-jd-vance-says-us-working-on-safe-hormuz-route-as-iran-sets-reopening-terms-101786201934727.html",
+          "title": "The House: Luxon and Peters - who are you today?",
+          "description": "Pinning down answers from government ministers during Parliament's Question Time can be hard.",
+          "url": "https://www.rnz.co.nz/news/politics/943814/the-house-luxon-and-peters-who-are-you-today",
           "source": {
-            "name": "Hindustan Times"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-08-08T16:16:36Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/08/08/1600x900/logo/im-94717492_1784802923166_1784803054653_6f14eae6-18b8-4714-8e40-51c80561ea30_1786202206600_5e6d29de-bb34-4de4-857e-9519ce2a9727.jpg",
+          "publishedAt": "2026-08-08T18:55:50Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--SCQw6CVa--/t_tohu-badge-facebook/f_auto/q_auto/4JKO6NK_Untitled_1440_x_900_px_png",
           "language": "en"
         },
         {
-          "title": "Two children killed in accident at Karibib",
-          "description": "%%title%% %%sep%% %%primary_category%% %%sep%% %%sitename%% %%sep%% Two children aged five and six died after being struck by a vehicle at the Karibib road block on Thursday.",
-          "url": "https://www.namibian.com.na/two-children-killed-in-accident-at-karibib/",
-          "source": {
-            "name": "The Namibian -"
-          },
-          "publishedAt": "2026-08-08T16:16:26Z",
-          "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/08/1111Nampolice.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Higher health risks associated with consuming ultra-processed foods indicated by ICMR, says Union Minister",
-          "description": "ICMR warns that ultra-processed foods increase health risks, highlighting obesity and diabetes, according to Union Minister Prataprao Jadhav.",
-          "url": "https://www.thehindu.com/news/cities/puducherry/higher-health-risks-associated-with-consuming-ultra-processed-foods-indicated-by-icmr-says-union-minister/article71321592.ece",
-          "source": {
-            "name": "The Hindu"
-          },
-          "publishedAt": "2026-08-08T16:15:58Z",
-          "image": "https://www.thehindu.com/theme/images/og-image.png",
-          "language": "en"
-        },
-        {
-          "title": "Severe thunderstorm watch issued",
-          "description": "Environment Canada has issued a severe thunderstorm watch for parts of the GTA, warning storms could develop this afternoon bringing strong winds, large hail and heavy rain.",
-          "url": "https://www.cp24.com/local/toronto/2026/08/08/severe-thunderstorm-watch-issued-for-parts-of-gta-environment-canada/",
-          "source": {
-            "name": "CP24"
-          },
-          "publishedAt": "2026-08-08T16:13:10Z",
-          "image": "https://www.cp24.com/resizer/v2/OGJMWDOA6BADBLGSDWRUQEGQZY.JPG?smart=true&auth=ea1940f7fb3e532befb682a775df8bd9e86658cf5462e42fec5b2d2a0bfd512b&width=1200&height=630",
-          "language": "en"
-        },
-        {
-          "title": "Disquiet In Benue Over Atiku Camp's Alleged Alliance With Akume, Ortom, Others Ahead Of 2027 Polls",
-          "description": "There is political intrigue in Benue State following reports of a fresh political alliance involving former Vice President Atiku Abubakar, Secretary to the Government of the Federation (SGF), Senator George Akume, former Governor Samuel Ortom and former Attorney-General of the Federation, Chief Mike Kaase Aondoakaa, ahead of the 2027 general elections.",
-          "url": "https://saharareporters.com/2026/08/08/disquiet-benue-over-atiku-camps-alleged-alliance-akume-ortom-others-ahead-2027-polls",
-          "source": {
-            "name": "Sahara Reporters"
-          },
-          "publishedAt": "2026-08-08T16:12:56Z",
-          "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
-          "language": "en"
-        },
-        {
-          "title": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup",
-          "description": "Lionel Messi is the footballer who received death threats most often during the 2026 World Cup. That is revealed by Marca after reviewing a large-scale American police report on the global finals.",
-          "url": "https://www.goal.com/en/news/police-report-reveals-man-wanted-to-murder-lionel-messi-in-a-brutal-manner-during-the-world-cup/bltdf079d39ad1d2376",
+          "title": "Mbeumo to the rescue but Mount injured again! Man Utd draw with PSG as Tielemans makes debut in Gothenburg",
+          "description": "Man Utd drew 1-1 with PSG in Gothenburg as Bryan Mbeumo cancelled out Ibrahim Mbaye's opener, while Mason Mount and Tom Heaton suffered injuries.",
+          "url": "https://www.goal.com/en-in/lists/man-utd-psg-mason-mount-injury-youri-tielemans-debut/blt9262d77c2f35c648",
           "source": {
             "name": "Goal.com"
           },
-          "publishedAt": "2026-08-08T16:12:02Z",
-          "image": "https://assets.goal.com/images/v3/getty-2288363880/crop/MM5DGNBVGY5DCOJUGQ5G433XMU5DAORSGQZQ====/GettyImages-2288363880.jpg",
+          "publishedAt": "2026-08-08T18:55:30Z",
+          "image": "https://assets.goal.com/images/v3/getty-2288841765/crop/MM5DIMBQGA5DEMRVGA5G433XMU5DSOBYHIYTEOA=/GettyImages-2288841765.jpg",
           "language": "en"
         },
         {
-          "title": "Wanted him to join Real: ex-Neymar adviser reveals wild story",
-          "description": "Neymar’s career has been marked by highs and lows. The Brazilian reached his peak during his time at Santos and then, of course, at FC Barcelona. But as Neymar’s former advisor Wagner Ribeiro has ...",
-          "url": "https://sports.yahoo.com/articles/wanted-him-join-real-ex-161200775.html",
+          "title": "Class action lawsuit alleges Mercedes AMG car logos have a burn hazard",
+          "description": "Two drivers of Mercedes AMG cars have filed a class action lawsuit against the luxury car company, saying that the AMG logo on their driver’s seat gets so hot that it literally brands them and causes burns.",
+          "url": "https://apnews.com/article/mercedes-amg-lawsuit-logo-burns-c6896bba3d6ae337ff3a19479970cfb3",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "AP News"
           },
-          "publishedAt": "2026-08-08T16:12:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/c8afe2748bca7ea490e1322f6f28b7341d88676bdfdbec7b4b9f041a54822732/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2Faf5547182b48dc4af8e639aaf9afab80",
+          "publishedAt": "2026-08-08T18:53:00Z",
+          "image": "https://dims.apnews.com/dims4/default/154ee1e/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe2%2F0b%2F8a84d81f106fb4cf600e60c6e2ab%2F42886605706145b89ace76a77cc0d878",
           "language": "en"
         },
         {
-          "title": "ANC raises concerns over Madonsela's past legal work amid impeachment scrutiny",
-          "description": "Adv Thandazani Madonsela's appointment as Evidence Leader for Parliament's Section 89 Impeachment Committee faces scrutiny after the ANC reveals his past legal advice to the party, raising questions about his independence.",
-          "url": "https://iol.co.za/news/south-africa/2026-08-08-anc-raises-concerns-over-madonselas-past-legal-work-amid-impeachment-scrutiny/",
+          "title": "'Big Bang Theory' star John Ross Bowie makes surprising admission about his role",
+          "description": "John Ross Bowie has admitted that leaving his Big Bang Theory role behind after filming the spinoff was a bigger challenge.As he reprises his role as Kripke in Stuart Fails to Save the Universe, ...",
+          "url": "https://www.thenews.com.pk/latest/1411659-big-bang-theory-star-john-ross-bowie-makes-surprising-admission-about-his-role",
           "source": {
-            "name": "IOL"
+            "name": "thenews.com.pk"
           },
-          "publishedAt": "2026-08-08T16:10:59Z",
-          "image": "https://iol-prod.appspot.com/image/ecf2f060390c36ec427e176f6218ff36b0d4e8d3/1000/jpeg",
+          "publishedAt": "2026-08-08T18:52:00Z",
+          "image": "https://www.thenews.com.pk/assets/uploads/2026-08-08/1411659_115705_updates.jpg",
           "language": "en"
         },
         {
-          "title": "Lithuania is considering purchasing air defense systems from South Korea",
-          "description": "Lithuania is considering purchasing small-scale air defense systems and anti-drone equipment from South Korea. Officials in Vilnius say that when selecting equipment, it is not only its specifications and cost that matter, but also how quickly it can be delivered.",
-          "url": "https://ua.news/en/world/litva-rozgliadaie-mozhlivist-pridbannia-u-pivdennii-koreyi-sistem-ppo",
+          "title": "IEBC gazettes campaign financing rules, spending limits ahead of 2027 General Election",
+          "description": "The commission says the new framework shifts campaign financing from consultation to enforcement.",
+          "url": "https://www.the-star.co.ke/news/2026-08-08-iebc-locks-in-campaign-spending-rules-for-2027-polls",
           "source": {
-            "name": "ua.news"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-08-08T16:10:50Z",
-          "image": "https://cdn-cabinet.ua.news/uploads/images/630_360_1668181166_2730_1.webp",
+          "publishedAt": "2026-08-08T18:52:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/07/cfafd988-a251-4db8-9f2f-6fd8871bd538.webp?1786216831262",
+          "language": "en"
+        },
+        {
+          "title": "Lawyer, family of late Karachi entrepreneur Mir Raza says he was murdered after torture",
+          "description": "ISLAMABAD: Prominent rights activist Jibran Nasir, who represents the family of deceased Karachi entrepreneur Mir Raza Ali, said on Saturday that he was murdered after being tortured, hours after police issued his second postmortem report. Ali, the 25-year-old owner of Karachi-based dessert brand Wafflix, went missing on July 28. His body was found a day later from bushes in",
+          "url": "https://www.arabnews.pk/node/2653920/pakistan",
+          "source": {
+            "name": "Arab News PK"
+          },
+          "publishedAt": "2026-08-08T18:51:44Z",
+          "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/08/08/4739106-1665742943.jpg?itok=SdDWQvMS",
+          "language": "en"
+        },
+        {
+          "title": "scAmp enables focal gene amplification analysis from single-cell data",
+          "description": "Oncogene amplification on extrachromosomal DNA is a common driver of tumor progression and is associated with acquired drug resistance and poor patient survival. While bulk whole genome sequencing studies have revealed the landscape of genes amplified on extrachromosomal DNA in tumors, it remains challenging to study the subclonal heterogeneity and functional (e.g., transcriptomic) consequences of extrachromosomal DNA on tumors. To address this, we introduce scAmp: a probabilistic algorithm for detecting and analyzing extrachromosomal DNA from single-cell datasets. Using well-characterized cell lines, we demonstrate that scAmp has improved specificity over bulk genome sequencing in predicting extrachromosomal DNA status and can resolve the status of chromosomal amplifications that were historically extrachromosomal. We further showcase scAmp by analyzing 73 patient tumors profiled with single-cell assay for transposase-accessible chromatin by sequencing, where we characterize the subclonal evolution of subclones with extrachromosomal DNA and identify the effect of these amplifications on the chromatin accessibility landscape of cancer cells. Finally, we provide proof-of-concept analyses that scAmp aids in the detection of extrachromosomal DNA from clinical histopathology assays. Together, we anticipate that scAmp will broadly enable further studies – both retrospective and prospective – that dissect critical questions of how extrachromosomal DNAs affect cancer cells and the tumors in which they reside. Oncogene amplification on extrachromosomal DNA (ecDNA) is associated with poor patient prognosis and drug resistance but can be difficult to detect. Here, the authors describe a new computational tool, single-cell amplicon (“scAmp”), which enables the study of ecDNA from single-cell assays.",
+          "url": "https://www.nature.com/articles/s41467-026-76417-3?error=cookies_not_supported&code=30ec42ed-046a-4e81-b956-7cc492c7b2ee",
+          "source": {
+            "name": "Nature"
+          },
+          "publishedAt": "2026-08-08T18:50:18Z",
+          "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+          "language": "en"
+        },
+        {
+          "title": "Mbeumo to the rescue but Mount injured again! Man Utd draw with PSG as Tielemans makes debut in Gothenburg",
+          "description": "Man Utd drew 1-1 with PSG in Gothenburg as Bryan Mbeumo cancelled out Ibrahim Mbaye's opener, while Mason Mount and Tom Heaton suffered injuries.",
+          "url": "https://www.goal.com/en/lists/man-utd-psg-mason-mount-injury-youri-tielemans-debut/blt9262d77c2f35c648",
+          "source": {
+            "name": "Goal.com"
+          },
+          "publishedAt": "2026-08-08T18:49:33Z",
+          "image": "https://assets.goal.com/images/v3/getty-2288841765/crop/MM5DIMBQGA5DEMRVGA5G433XMU5DSOBYHIYTEOA=/GettyImages-2288841765.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Amazon Weekend Deal $500 off M5 Max 14 Inch MacBook Pro",
+          "description": "Amazon is again offering steep price cuts on Apple's current MacBook Pro line, with a $500 discount in effect this weekend on a high-end M5 Max model with a spacious 2TB SSD.",
+          "url": "https://appleinsider.com/articles/26/08/08/amazon-slashes-500-off-apples-m5-max-14-inch-macbook-pro-with-2tb-ssd",
+          "source": {
+            "name": "AppleInsider"
+          },
+          "publishedAt": "2026-08-08T18:49:00Z",
+          "image": "https://media.appleinsider.com/gallery/68508-144368-m5-max-macbook-pro-500-off-xl.jpg",
           "language": "en"
         }
       ]
