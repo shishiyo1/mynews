@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-09T09:39:56.328Z",
+  "updatedAt": "2026-08-09T12:51:56.712Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【台風情報】台風15号の今後の進路予想は 11日から12日にかけて、東北地方に上陸するおそれ 進路によっては北海道や関東でも雨の強まる所がある見込み お盆休みの交通機関への影響に注意",
+          "description": "気象庁によりますと、大型の台風15号(チャンホン)は、9日午前6時現在、日本の東にあって、1時間におよそ20キロの速さで西へ進んでいます。中心の気圧は994ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルとなっています。この台風は12日午前3時には、日本海に達する見通しとなっています。日本気象協会によりますと、台風15号は今日9日(日)午後6時には大型ではなくなりますが、10日(月)にかけて北よりに進路を変えつつ、やや発達しながら日本へ近づく見込みです。11日(火・…",
+          "url": "https://www.fnn.jp/articles/-/1091514",
+          "source": {
+            "name": "FNNプライムオンライン"
+          },
+          "publishedAt": "2026-08-09T00:19:00Z",
+          "image": "https://fnn.ismcdn.jp/mwimgs/5/d/600/img_5d2b0109eb32613bea806b8812e10c34128401.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "たった5.2gのフィットネストラッカー「Fitbit Air」",
+          "description": "フィットネストラッカーたるもの、手首に負担をかけるべからず。 5月27日に発売したGoogle（グーグル）の「Fitbit Air」 は、そんな教訓めいた願いを形にしてくれました。",
+          "url": "https://www.roomie.jp/2026/08/1797395/",
+          "source": {
+            "name": "ROOMIE（ルーミー）"
+          },
+          "publishedAt": "2026-08-08T23:45:50Z",
+          "image": "https://media.loom-app.com/roomie/dist/images/2026/06/5.png?w=1200",
+          "language": "ja"
+        },
+        {
+          "title": "【速報中】7連敗中のドジャース、大谷翔平が十回に勝ち越し打！！ 山本由伸は六回途中無失点で無念の降板",
+          "description": "ダイヤモンドバックス－ドジャース（8日、フェニックス）米大リーグ、ドジャースの大谷翔平投手（32）が「1番・DH」で出場。左膝に不安を抱えるが、10試合連続出塁中で本塁打が出れば2試合ぶり27号となる。ド軍の先発は山本由伸投手（27）で今…",
+          "url": "https://www.sanspo.com/article/20260809-2TMESVD3TZFZJNVRVAWRN4GXYA/?outputType=theme_mlb",
+          "source": {
+            "name": "サンスポ"
+          },
+          "publishedAt": "2026-08-08T23:14:00Z",
+          "image": "https://www.sanspo.com/resizer/v2/HNRMYJYSFJJVNO4GDYQUTKSU4Q.jpg?auth=171348b2e62dfd7c1031de161e81b41d7b472a1df3f298f40e54b1deb7096744&quality=50&smart=true&width=1200&height=675",
+          "language": "ja"
+        },
+        {
+          "title": "「ベンチで戦いたい」沖縄から鳥取へ 鳥取城北・苅田さん、甲子園へ",
+          "description": "3年連続で夏の甲子園出場を決め、9日に初戦に挑む鳥取城北高校。その躍進を陰で支える女子マネジャーがいる。苅田空琉さん（17）。故郷・沖縄から約1千キロ離れた鳥取の地へ、野球への情熱と「甲子園」の夢を",
+          "url": "https://vk.sportsbull.jp/koshien/articles/ASV873GQ5V87PUUB00LM.html",
+          "source": {
+            "name": "バーチャル高校野球"
+          },
+          "publishedAt": "2026-08-08T23:00:00Z",
+          "image": "https://www.asahicom.jp/koshien/articles/images/AS20260807004242_comm.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ドローン空母にロボット空挺強襲、ウクライナの無人機同士の連携が進化（ビジネス＋IT）",
+          "description": "ウクライナの戦場で、無人兵器の使われ方が大きく変わり始めている。これまで主流だったのは、FPVドローンや自爆型無人艇が単独で目標を攻撃する戦術だった。だが現在は、空中・水上・陸上の無人機を組み合わ",
+          "url": "https://news.yahoo.co.jp/articles/5e23f087deba3325094a6394959e3b95d6367c88",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-08T22:54:21Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260809-00186460-biz_plus-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "台風15号…気象庁の予想進路、米軍・ヨーロッパの見方 東北地方上陸おそれ",
+          "description": "台風15号（チャンホン）は2026年8月9日午前6時現在、日本の東を1時間に20キロの速さで西に進んでいる。予想進路や日本への影響について気象庁や米軍合同台風警報センター(JTWC）、ヨーロッパ中期予報センターの見方をまとめた。【最終更新】8月9日7:24　台風15号は大型で、今後日本に向かうように北西へ進むとみられる。まだ予想には幅があるが、東北地方など本州を横断する可能性があり、今後の最新情報に注意が必要だ。",
+          "url": "https://www.fukuishimbun.co.jp/articles/-/2671297",
+          "source": {
+            "name": "fukuishimbun.co.jp"
+          },
+          "publishedAt": "2026-08-08T22:24:00Z",
+          "image": "https://fki.ismcdn.jp/mwimgs/9/3/-/img_9342f40cf7b0e833e589be08cfa94675289817.png",
+          "language": "ja"
+        },
+        {
+          "title": "台風15号は11日に東北に上陸のおそれ 台風のたまご次々と発生でお盆休みに影響も",
+          "description": "台風15号は11日頃、東北に接近・上陸のおそれがあります。東北を中心に雨や風が強まり、交通機関に影響が出る可能性があります。関東など太平洋側ではお盆休みに雨が降りやすいでしょう。台風15号や、台風のたまごの動きによって今後の天気が変わる可能性がありますので、最新の台風情報や気象情報を確認してください。",
+          "url": "https://tenki.jp/forecaster/y_nakagawa/2026/08/09/40074.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-08-08T22:21:40Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/400/40074/main/20260809070835/large.jpg",
+          "language": "ja"
+        },
         {
           "title": "ドジャース連敗ストップへ山本由伸が先発 大谷翔平は「1番・DH」 Dバックス・ヌートバーは5番",
           "description": "ドジャース連敗ストップへ山本由伸が先発　大谷翔平は「1番・DH」　Dバックス・ヌートバーは5番（スポニチアネックス）　◇ナ・リーグ　ドジャース ― ダイヤモンドバックス（2026年8月8日　フェニックス）　今季ワースト7連敗中のドジャースは8日（日…",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-08-08T19:00:00Z",
           "image": "https://hochi.news/images/2026/08/08/20260808-OHT1I51701-C.jpg",
           "language": "ja"
-        },
-        {
-          "title": "岩手県で震度4の地震 津波の心配なし",
-          "description": "9日午前2時58分頃、岩手県沖を震源とするマグニチュード5.6の地震が発生し、岩手県で最大震度4を観測しました。この地震による津波の心配はありません。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/08/09/40073.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-08-08T18:06:10Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/400/40073/main/20260809030610/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "暑さに強いコメ「西高東低」 秋田・宮城1割未満、ブランド米が定着",
-          "description": "【この記事でわかること】・耐性米、どのくらい普及している？・なぜ東西で広がりに差があるか・温暖化がコメに及ぼす悪影響",
-          "url": "https://www.nikkei.com/article/DGXZQOCC15ADK0V10C26A5000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-08-08T17:00:00Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3370602028072026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=ffa54957f853555b83b34d217fac59bd",
-          "language": "ja"
-        },
-        {
-          "title": "息子助けようと川に 父親溺れ死亡",
-          "description": "愛知県東栄町で8日、川で溺れた息子を助けようとした父親が死亡しました。",
-          "url": "https://news.yahoo.co.jp/pickup/6591035",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-08T14:28:15Z",
-          "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/8/d17a2e89d6ce35e0192e1ba9a7eae520a677d4ad07b3ab5d832ab56f5cab73bd.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【速レポ】＜LuckyFes’26＞初日トリはTUBE、FRUITS ZIPPERや綾小路翔、鬼龍院翔を迎えた豪華コラボも「知ってたらぜひ一緒に歌ってちょうだい」",
-          "description": "＜LuckyFes'26＞初日公演、RAINBOW STAGEを締めくくるのは同フェス初出演となるTUBE。1980年代後半以降、数々のサマーソングで日本の夏を彩ってきたこともあり、「夏といえばTUBE」と刷り込まれてきたある一定以上の世代にとっては今回の＜LuckyFes＞出演は、「満を持して」「念願叶ったり」と言えるものかもしれない。また、自身の単独ライブで野外公演を定期的に行うものの、こうした野外ロックフェスに出演する機会も決して多くない。そういう意味でも、この日のステージは絶対に見逃せないものなのだ。 開始前から「TUBEコール」が飛び交う中、ステージが暗転するとフレンズたちの歓声が鳴り響く。そして、メンバーが1人、また1人と静かに姿を現すと、春畑道哉（G）のブルージーなギターフレーズに乗せて前田亘輝（Vo）がとある曲のフレーズを歌い始める。この2人のやり取りにオーディエンスが湧き上がり、「夏を待ちきれなくて」のスタートと同時に会場がクラップで包まれていく。 サポートメンバーのキーボーディストを含む5人でステージに立つTUBEは、松本玲二（Dr）による安定感の強いリズムに、ボトムをしっかりと支える角野秀行（B）のベース、バッキングとソロを巧みに使い分ける春畑道哉のギタープレイ、そして前田の燻銀の歌声でエバーグリーンな名曲を見事に表現。曲間には美しいハーモニーワークも交え、40年以上にわたり第一線で活躍してきたその実力を遺憾なく発揮してみせた。 待ちきれなかった“夏（＝TUBE）”がついに訪れたあとは、「夏だね」でじっくりと“夏”を満喫する。前田が「さあ、知ってたらぜひ一緒に歌ってちょうだい」と呼びかけると、客席からは自然とシンガロングやクラップが沸き起こり、サビでは手にしたペンライトをリズムに合わせて左右に振ることで一体感を生み出す。 「＜LuckyFes＞、何年も前から声をかけていただいていたのですが、我々は夏しか活動しないので、なかなかスケジュールが合わなくて（笑）」と前田がちゃめっ気たっぷりに語ると、「ここからはお父さん、お母さんのための曲を歌おうかな」と'80年代のヒットナンバー「Beach Time」「シーズン・イン・ザ・サン」を連発。世代やジャンル、国籍を超えたフレンズたちは、レジェンドバンドによる名曲の数々を前に、笑みを浮かべながら歌い踊る。これぞ「真夏の祝祭」と呼ぶべき光景は、5年におよぶ＜LuckyFes＞史において忘れられないものになったはずだ。 「この＜LuckyFes＞に出演させてもらう大きなきっかけになったのは、去年出会ったFRUITS ZIPPERとの出会い」と前田が明かすと、ステージにFRUITS ZIPPERを招き入れ、2組のコラボ曲「ファミリー・サマー・バケーション」をライブ初披露。カラフルな衣装に身を纏ったFRUITS ZIPPERの7人に囲まれた前田は、息の合ったダンスを交えながら、夏フェスならではの特別なパフォーマンスでフレンズを存分に楽しませた。 さらに、氣志團の綾小路翔、ゴールデンボンバーの鬼龍院翔も加わり、「あー One Night 女々しくて 夏休み」と題したこの日限りのスペシャルメドレーも用意。TUBE「あー夏休み」、氣志團「One Night Carnival」、ゴールデンボンバー「女々しくて」といったキラーチューンの数々を通じて、キャッチーな振り付けを交えながらステージと客席がひとつになっていく。 その終盤には打首獄門同好会の3人やキュウソネコカミのヨコタ シンノスケも飛び入りするサプライズもあり、フィナーレにふさわしい盛り上がりで今年の＜LuckyFes＞初日を盛大に締め括った。 文◎西廣智一写真◎石井亜希 堀内レイ(※) ◾️セットリスト1.夏を待ちきれなくて2.夏だね3.Beach Time4.シーズン・イン・ザ・サン5.ファミリー・サマー・バケーション6.あー One Night 女々しくて 夏休み ◼︎「ABEMA」では、LuckyFesの熱狂ライブステージを、4日間にわたり無料・独占生中継！見逃し配信は9月7日(月)23:59までお楽しみいただけます。https://abema.tv/video/title/556-6※一部アーティストは視聴対象外です 関連リンク◆ ＜LuckyFes’26＞オフィシャルサイト◆ ＜LuckyFes’26＞オフィシャルX◆＜LuckyFes’26＞ オフィシャルInstagram◆ ＜LuckyFes’26＞オフィシャルTikTok◆ ＜LuckyFes’26＞オフィシャルYouTube",
-          "url": "https://barks.jp/news/1082015/",
-          "source": {
-            "name": "barks.jp"
-          },
-          "publishedAt": "2026-08-08T14:11:00Z",
-          "image": "https://new-img.barks.jp/wp-content/uploads/2026/08/08220653/260808_AI_08198.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "佐野航大の蘭リーグ王者PSV加入が正式決定! 指揮官は元ジェフMF「日本語も少し話せます」",
-          "description": "オランダ・エールディビジのPSVは8日、NECナイメヘンから日本代表MF佐野航大(22)を完全移籍で獲得したと発表した。契約期間は2031年6月までの5年契約で、背番号は「24」に決定した。蘭『テレグラフ』によると、...",
-          "url": "https://web.gekisaka.jp/news/world/detail/?456587-456587-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-08-08T14:09:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/457000/456587/news_456587_1.jpg?time=20260808230920",
-          "language": "ja"
-        },
-        {
-          "title": "仲里依紗、ディズニーランドで買った1800円土産を「これは買わなきゃでしょ！」 「すっごい上手お買い物」と自画自賛",
-          "description": "俳優の仲里依紗さんが8月8日に公式YouTubeを更新。東京ディズニーランドで購入したアイテムの数々を紹介しました。購入品のなかには、仲さんが「かわいい～！」「これは買わなきゃでしょ！」と評したア",
-          "url": "https://news.yahoo.co.jp/articles/6b9f3c45fff946828ebe2e0464227b52019f414c",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-08T13:28:56Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260808-10163414-it_nlab-000-1-view.png?fmt=jpeg&q=85&exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "ライカ共同開発の2眼ジンバルカメラ「Insta360 Luna Ultra」レビュー",
-          "description": "Insta360初のジンバルカメラ「Insta360 Luna Ultra」。ライカと共同開発された8K対応カメラは、アクションカメラ、旅行用カメラ、そしてあらゆるシーンで役立つとして使えるほどの高品質な映像を撮影できます。ただし、ネックと",
-          "url": "https://www.gizmodo.jp/article/insta360-luna-ultra-review-this-is-the-only-gimbal-camera-you-need/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-08-08T12:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/08/04/07baa012-434f-4205-be3e-92caad409518/original.jpg?w=1200&h=630",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "AHF opens applications for HIV/TB media reporting project, targets seven states",
-          "description": "Nigeria has opened applications for journalists to participate in its 2026 HIV & TB Media Reporting Project aimed at strengthening ethical,",
-          "url": "https://tribuneonlineng.com/ahf-opens-applications-for-hiv-tb-media-reporting-project-targets-seven-states/",
+          "title": "Sophie Cunningham speaks out against DiJonai Carrington after flagrant foul and 'White privilege' post",
+          "description": "Sophie Cunningham called DiJonai Carrington's flagrant foul 'intentional' after the Chicago Sky star was ejected during the Indiana Fever's 90-86 WNBA win Saturday.",
+          "url": "https://www.foxnews.com/outkick-sports/sophie-cunningham-speaks-out-against-dijonai-carrington-flagrant-foul-white-privilege-post",
           "source": {
-            "name": "Tribune Online"
+            "name": "Fox News"
           },
-          "publishedAt": "2026-08-08T21:38:00Z",
-          "image": "https://tribuneonlineng.com/wp-content/uploads/2025/04/HIV.jpg",
+          "publishedAt": "2026-08-09T00:50:05Z",
+          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/sophie-cunningham-carrington-chicago-sky-wnba.jpg",
           "language": "en"
         },
         {
-          "title": "Tributes flow in for Fijian rugby star, dead at 26 from heatstroke",
-          "description": "Fijian rugby player Saimoni Vunilagi has died of suspected heatstroke after a training session in Japan. He was 26.",
-          "url": "https://www.nine.com.au/sport/rugby/news-saimoni-vunilagi-death-kyushu-kv-confirm-fiji-player-dead-training-heatstroke-20260808-p60mna.html",
+          "title": "FIFA warns of efforts to undermine Gianni Infantino amid leadership crisis",
+          "description": "The statement came amid an increasingly bitter standoff over Infantino’s leadership.",
+          "url": "https://www.japantimes.co.jp/sports/2026/08/09/soccer/fifa-backs-infantino-against-allegations/",
           "source": {
-            "name": "Nine.com.au"
+            "name": "The Japan Times"
           },
-          "publishedAt": "2026-08-08T21:36:32Z",
-          "image": "https://static.ffx.io/images/$zoom_1.34%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/0fea6fe920554b9f4f6552d0d5b27df99cf3a4b68f2be39738deb01bf3a4930a",
+          "publishedAt": "2026-08-09T00:50:00Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/09/556279.JPG?v=3.1",
           "language": "en"
         },
         {
-          "title": "Warren Buffett's Successor Starts Spending Berkshire's Cash Mountain",
-          "description": "Warren Buffett's famous cash pile shrank last quarter as new CEO Greg Abel ramped up spending on stocks and buybacks to multi-year highs.",
-          "url": "https://www.businessinsider.com/berkshire-hathaway-warren-buffett-greg-abel-spending-cash-pile-2026-8",
+          "title": "DiJonai Carrington ejected for flagrant 2 foul on Sophie Cunningham",
+          "description": "Chicago’s DiJonai Carrington was ejected Saturday after being called for a Flagrant 2 foul on Indiana’s Sophie Cunningham.",
+          "url": "https://apnews.com/article/dijonai-carrington-ejection-sophie-cunningham-a1bb6cc3ae0c98ff0f22dee3751d2932",
           "source": {
-            "name": "businessinsider.com"
+            "name": "AP News"
           },
-          "publishedAt": "2026-08-08T21:35:05Z",
-          "image": "https://i.insider.com/6a776bb00c6c5a263f3a7ed7?width=1200&format=jpeg",
+          "publishedAt": "2026-08-09T00:48:00Z",
+          "image": "https://dims.apnews.com/dims4/default/3175bf4/2147483647/strip/true/crop/3866x2576+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8d%2Fb8%2Fec2408eccad58caf473308433354%2Fded827b4eff949058292c563a4093a7c",
           "language": "en"
         },
         {
-          "title": "Trump Goons Reveal Trick Behind His Fluffy New Hair",
-          "description": "The president’s suddenly supersized hair sparked speculation about wigs and hair extensions.",
-          "url": "https://www.thedailybeast.com/karoline-leavitt-reveal-trick-behind-his-fluffy-new-hair/",
+          "title": "‘Definitely going ahead’: V’landys reveals bold NRL global push and FIFA World Cup copy",
+          "description": "‘Definitely going ahead’: V’landys reveals bold NRL global push and World Cup copy",
+          "url": "https://www.foxsports.com.au/nrl/nrl-premiership/nrl-2026-nrl-boss-peter-vlandys-plans-for-global-round-to-launch-in-2028-set-to-play-in-tokyo-england-las-vegas-and-hong-kong-latest-news/news-story/b93abdfd4d20f090f08aaa93f7a131cd",
           "source": {
-            "name": "The Daily Beast"
+            "name": "Fox Sports"
           },
-          "publishedAt": "2026-08-08T21:35:00Z",
-          "image": "https://www.thedailybeast.com/resizer/v2/WN5WUHXUPFAMHPXZCODQ2LZWAE.jpg?smart=true&auth=f9b03b5c8a2a26d25252df322f152da45fcf2404d23a073b655be2ce509cb2fc&width=1200&height=630",
+          "publishedAt": "2026-08-09T00:47:23Z",
+          "image": "https://content.api.news/v3/images/bin/1aca631cbf5fd185872ade32d15c3622",
           "language": "en"
         },
         {
-          "title": "Will Pakistan-Saudi-Turkiye defence pact change US strategy?",
-          "description": "Some experts say the deal precipitates a larger strategic shift in Middle East while others say it reinforces US goals.",
-          "url": "https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy",
+          "title": "A 12-year-old girl dies after Thailand school shooting, bringing the death toll to at least 8",
+          "description": "BANGKOK (AP) — A schoolgirl died from critical wounds on Saturday after a student opened fire at a high school and his home outside Bangkok the day before,...",
+          "url": "https://mb.com.ph/2026/08/09/a-12-year-old-girl-dies-after-thailand-school-shooting-bringing-the-death-toll-to-at-least-8",
           "source": {
-            "name": "aljazeera.com"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-08-08T21:34:37Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2011-12-20T000000Z_1863977538_GM1E7CK1RQT01_RTRMADP_3_IRAQ-WITHDRAWAL-1786204565.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-08-09T00:45:00Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/09/122134.webp",
           "language": "en"
         },
         {
-          "title": "Taylor Swift songs removed from several White House TikTok videos",
-          "description": "Videos that featured Taylor Swift songs on the Team Trump TikTok page now have no audio including ones that featured 'August' and 'Father Figure.'",
-          "url": "https://www.usatoday.com/story/entertainment/music/2026/08/08/taylor-swift-songs-removed-trump-tiktok/91229123007/",
+          "title": "Hungary nominates former Supreme Court chief Andras Baka for presidency",
+          "description": "Andras Baka, a strong advocate for judicial independence, becomes governing party’s pick for Hungary’s next president.",
+          "url": "https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency",
           "source": {
-            "name": "USA Today"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-08-08T21:34:00Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/03/USAT/90795293007-trump-swift.jpg?crop=3499,1969,x0,y265&width=3200&height=1801&format=pjpg&auto=webp",
+          "publishedAt": "2026-08-09T00:44:41Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a77bb9dec8f-1786231709.jpg?resize=1920%2C1440",
           "language": "en"
         },
         {
-          "title": "Yilwatda, an asset to progressive family, Nigeria - Gov Lawal",
-          "description": "Governor Lawal noted that Mr Yilwatda’s handling of the recent All Progressives Congress (APC) primary elections shows his knowledge, discipline, sincerity, and commitment to doing what is right",
-          "url": "https://www.premiumtimesng.com/promoted/901569-yilwatda-an-asset-to-progressive-family-nigeria-gov-lawal.html",
+          "title": "Allele-specific chromatin architecture shapes imprinted domains and coordinates a distal enhancer and antisense transcription at the mouse Mest-Copg2 domain",
+          "description": "Genomic imprinting results in parent-of-origin-dependent gene expression, but how three-dimensional genome organization contributes to imprinted gene regulation remains unclear. Using Capture Hi-C in mouse cortex and primary cortical neurons, we identified parental allele-specific chromatin architectures across multiple imprinted domains. These architectures largely originate from imprinting control regions and correlate with DNA methylation-sensitive CTCF binding. Active and inactive alleles of imprinted genes show distinct promoter interaction profiles and differential engagement with distal regulatory elements in both contact frequency and the epigenetic state of distal regions. A CRISPR interference screen identified a distal enhancer that regulates Mest-Copg2 imprinted expression through allele-specific chromatin interactions. In neurons, this enhancer activates Copg2 on the maternal allele, whereas on the paternal allele it drives Mest isoforms transcribed antisense to Copg2 and contributes to Copg2 repression. In summary, we show that allele-specific chromatin architecture coordinates maternal enhancer activity and paternal antisense transcription to control imprinted expression in neurons. Here the authors show that parent-specific 3D genome architecture is a common feature of imprinted genes and identify a distal enhancer that works with antisense transcription to regulate neuron-specific imprinting.",
+          "url": "https://www.nature.com/articles/s41467-026-76506-3?error=cookies_not_supported&code=791c14a0-02e3-46f1-8678-6424b8a67f9d",
           "source": {
-            "name": "Premium Times Nigeria"
+            "name": "nature.com"
           },
-          "publishedAt": "2026-08-08T21:32:21Z",
-          "image": "https://media.premiumtimesng.com/wp-content/files/2026/08/ec404ffa-b625-4746-a951-21c97d4a04bc.jpeg",
+          "publishedAt": "2026-08-09T00:44:23Z",
+          "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
           "language": "en"
         },
         {
-          "title": "‘Valuable asset to APC’ - Dauda Lawal hails Yilwatda at 58",
-          "description": "Dauda Lawal, governor of Zamfara, has described Nentawe Yilwatda, APC national chairman, as a valuable asset to the party.",
-          "url": "https://www.thecable.ng/valuable-asset-to-apc-dauda-lawal-hails-yilwatda-at-58/",
+          "title": "Nosipho’s journey of career, travel, creativity",
+          "description": "In an era where traditional career trajectories are constantly evolving, young emaSwati are continuously redefining what it means to build a multi-faceted professional presence. Nosipho Mkhwanazi, known to many as ‘Kithi’, stands out as an example of this modern ambition, seamlessly balancing a corporate career with a burgeoning presence in digital content creation. Born and […]",
+          "url": "https://times.co.sz/41124/lifestyle/nosiphos-journey-of-career-travel-creativity/",
           "source": {
-            "name": "TheCable"
+            "name": "times.co.sz"
           },
-          "publishedAt": "2026-08-08T21:31:34Z",
-          "image": "https://www.thecable.ng/wp-content/uploads/2026/08/1e492cac-5bdd-4b8d-985b-4aaf4a902aca-2026-08-08-621.jpeg",
+          "publishedAt": "2026-08-09T00:41:48Z",
+          "image": "https://times.co.sz/wp-content/uploads/2026/08/ChatGPT-Image-Aug-9-2026-01_52_47-AM-copy.jpg",
           "language": "en"
         },
         {
-          "title": "Real Warri Pikin cancels Warri show, rejects tribal, political divisions",
-          "description": "Comedian and actress Real Warri Pikin has announced the cancellation of her Warri show, citing “unfortunate divisions” in the state.",
-          "url": "https://www.vanguardngr.com/2026/08/real-warri-pikin-cancels-warri-show-rejects-tribal-political-divisions/",
+          "title": "Canada has half as many measles cases as U.S.: WHO data",
+          "description": "Measles data from the World Health Organization show that Canada has half the number of confirmed cases as the United States, despite having a population only about one-tenth the size of its neighbour.",
+          "url": "https://www.castanet.net/news/Canada/627480/Canada-has-half-as-many-measles-cases-as-U-S-WHO-data",
           "source": {
-            "name": "Vanguard News"
+            "name": "Castanet"
           },
-          "publishedAt": "2026-08-08T21:30:58Z",
-          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/09/image-109.png",
+          "publishedAt": "2026-08-09T00:40:00Z",
+          "image": "https://www.castanet.net/content/2026/8/b7a3dc8a3d0e5069ac55be86d41cdf98663680bb567d548ae8a2e2bc3f577069.jpg",
           "language": "en"
         },
         {
-          "title": "President names Zanetor, Ayariga in new appointments",
-          "description": "President John Dramani Mahama has made substantive appointments to the ministries of Defence and Environment, Science and Technology, while also reassigning two ministers to new portfolios in a minor reshuffle that features two new appointments",
-          "url": "https://www.graphic.com.gh/news/general-news/ghana-news-president-names-zanetor-ayariga-in-new-appointments.html",
+          "title": "Epic Games Store's New Boss Faces Steam's 74% Lead [2026]",
+          "description": "Epic Games Store news: Martin Keely replaces Steve Allison as GM while Steam holds a 74% share and Epic's losses top $700M.",
+          "url": "https://tech-insider.org/epic-games-store-new-boss-2026/",
           "source": {
-            "name": "Graphic Online"
+            "name": "tech-insider.org"
           },
-          "publishedAt": "2026-08-08T21:27:59Z",
-          "image": "https://www.graphic.com.gh/images/assets/favicon-16x16.png",
+          "publishedAt": "2026-08-09T00:39:49Z",
+          "image": "https://tech-insider.org/wp-content/uploads/2026/08/epic-games-store-new-boss-2026-1.webp",
           "language": "en"
         }
       ]
