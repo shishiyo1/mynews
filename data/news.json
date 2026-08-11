@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-11T10:00:56.384Z",
+  "updatedAt": "2026-08-11T13:06:44.711Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "iOS 27の『写真』アプリ、つよつよに。3つの新しいAI編集ツールを使ってみた",
+          "description": "iOS 27の『写真』アプリはApple Intelligenceの進化により、写真の編集機能が大幅に向上しました。完全無料で、誰でも簡単に使えるのが強みですね。iOS 27の目玉とされるSiri AIに関しては、最初は英語のみの展開とされ",
+          "url": "https://www.gizmodo.jp/article/ios-27-beta-photo-ai-edit/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-08-11T01:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/07/29/9f321eee-00e5-4dc6-8efa-65b4c234b86f/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "大谷翔平「１番DH」でロイヤルズ戦、スクバルが本拠地初先発で移籍後初勝利目指す／一覧",
+          "description": "ドジャース大谷翔平投手（32）が本拠地でのロイヤルズ戦に「1番DH」で出場する。1発が出れば今永昇太から放った先頭打者弾を含む今季初の1試合2本塁打を記録した… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/baseball/mlb/news/202608110000036.html",
+          "source": {
+            "name": "日刊スポーツ"
+          },
+          "publishedAt": "2026-08-11T00:00:31Z",
+          "image": "https://www.nikkansports.com/baseball/mlb/news/img/202608110000036-w500_0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「Kis-My-Ft2 LIVE TOUR 2026 fan IS ・・・・・・」がU-NEXT独占アーカイブ配信決定！さらにオリジナル冠番組『キスマイ×NEXT』各タイトル＆メインロゴがついに解禁！",
+          "description": "株式会社 U-NEXTのプレスリリース（2026年8月11日 08時00分）「Kis-My-Ft2 LIVE TOUR 2026 fan IS ・・・・・・」がU-NEXT独占アーカイブ配信決定！さらにオリジナル冠番組『キスマイ×NEXT』各タイトル＆メインロゴがついに解禁！",
+          "url": "https://prtimes.jp/main/html/rd/p/000002898.000031998.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-08-10T23:00:01Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/31998/2898/31998-2898-b150ee9c0a7eb4b666f9c0db00bfaf63-2000x1332.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "「おためし転職」求職者向けモバイルアプリのUIを刷新",
+          "description": "フィシルコム株式会社のプレスリリース（2026年8月11日 08時00分）「おためし転職」求職者向けモバイルアプリのUIを刷新",
+          "url": "https://prtimes.jp/main/html/rd/p/000000103.000145240.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-08-10T23:00:01Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/145240/103/145240-103-4f1a5b1208fe0ce1435245fe7b94e2f5-832x1591.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "綾瀬はるか主演『ファーストボイス』追加キャスト一挙解禁 鈴鹿央士、木村多江、筒井道隆ら実力派ズラリ",
+          "description": "俳優の綾瀬はるかが主演を務める映画『ファーストボイス』（10月2日全国公開）の本予告映像、本ポスタービジュアル、追加キャストが11日に解禁された。\n　本作は、昭和の終わりから平成初期を舞台に、当",
+          "url": "https://news.yahoo.co.jp/articles/39154c4982cf3a3c242fcf24784c0296b1a6014f",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-10T22:21:40Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-01046371-encount-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "10日の米国市場ダイジェスト：米国株式市場は反落、原油価格や金利の上昇を嫌気(フィスコ)",
+          "description": "■NY株式：米国株式市場は反落、原油価格や金利の上昇を嫌気\n米国株式市場は反落。ダウ平均は60.95ドル安の53975.98ドル、ナスダックは85.26ポイント安の26605.36で取引を終了した。\n戦争終結の協議の中で、イランが戦争賠償を要求してい...",
+          "url": "https://finance.yahoo.co.jp/news/detail/fcf4c3d295be377e4a933b7fe09cf2cd7b8ca085",
+          "source": {
+            "name": "Yahoo!ファイナンス"
+          },
+          "publishedAt": "2026-08-10T22:08:00Z",
+          "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+          "language": "ja"
+        },
         {
           "title": "「織田翔希はドラフト1位で競合する」元ヤクルト編成部長が154㎞横浜エースを「山本由伸級の逸材」と評価…沖縄尚学の末吉良丞は「直球で空振りファウルが取れない。評価が難しい」（RONSPO）",
           "description": "第108回全国高校野球選手権の1回戦4試合が10日、甲子園で行われ、横浜の織田翔希と沖縄尚学の末吉良丞のプロ注目の対決は、横浜の7－2の圧勝に終わった。織田は9回二死までで139球、6安打12奪三振",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-08-10T19:08:56Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00000357-oric-000-1-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "【Kis-My-Ft2】祝デビュー15周年！『Kis-My-Ft2 LIVE TOUR 2026 fan IS・・・・・・』速報【会見＆ライブレポ】",
-          "description": "今年でデビュー15周年を迎えるKis-My-Ft2が全国アリーナツアー『Kis-My-Ft2 LIVE TOUR 2026 fan IS・・・・・・』を開催中。VOCE WEBの速報レポートでは、デビュー記念日である8月10日に行われた横浜アリーナ公演での記者会見ほぼ全文とライブの詳細を【楽曲明記載なし】で速報レポートします。",
-          "url": "https://i-voce.jp/feed/5100241/",
-          "source": {
-            "name": "VOCE"
-          },
-          "publishedAt": "2026-08-10T19:00:00Z",
-          "image": "https://wp.i-voce.jp/wp-content/uploads/2026/08/Bazaart_52B40E6D-71F3-439A-81DD-A34ABCA668DD-1200x630.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "キスマイ、15周年記念日に2大発表 軌跡辿るツアーで初の演出・懐かしエピソードも【「fan IS ・・・・・・」ライブレポート】",
-          "description": "Kis-My-Ft2が8月10日、全国アリーナツアー「Kis-My-Ft2 LIVE TOUR 2026 fan IS ・・・・・・」の横浜アリーナ公演を開催。ここでは、昼公演の様子をレポートする。＜※ネタバレあり＞",
-          "url": "https://mdpr.jp/music/4827200",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-08-10T19:00:00Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/ihFT/nm/ihFTgEi72PUj0SA_cFTOC13fOdg_1Hnn_A8HOtIMnOQ.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "アプトイド、米国でグーグルプレイから直接入手可能な初の競合アプリストアに",
-          "description": "アプトイド・ゲームズは、グーグルがエピック・ゲームズとの反トラスト訴訟に敗訴したことを受け、米国でグーグルプレイストアを通じて直接ダウンロード可能な初…",
-          "url": "https://finance.biggo.jp/news/9feb3c39-dbe6-47c9-b9b3-a4215337cd59",
-          "source": {
-            "name": "BigGo ファイナンス"
-          },
-          "publishedAt": "2026-08-10T18:35:00Z",
-          "image": "https://finance.biggo.jp/favicon.ico",
-          "language": "ja"
-        },
-        {
-          "title": "【大好評セミナー】今日から使える！ChatGPT×事務自動化セミナー～明日からのデスクワークが激変する実践講座～",
-          "description": "職業訓練校「ジョブトレ」を運営するワークキャリア株式会社（所在地：東京都港区、代表取締役：秋吉正樹）は2026年8月25日(火)の10:00より、無料のオンラインセミナー「今日から使える！ChatGPT×事務自動化セミナー」を開催いたします。近年、ChatGPTをはじめとしたAIツ…",
-          "url": "https://news.toremaga.com/entertainment/others/4216266.html",
-          "source": {
-            "name": "とれまがニュース"
-          },
-          "publishedAt": "2026-08-10T17:01:25Z",
-          "image": "https://news.toremaga.com/modules/img/image.php?id=12125513&h=450&w=450",
-          "language": "ja"
-        },
-        {
-          "title": "ローカルでのコーディングに最適な30Bモデル「Muse Glimmer」公開！",
-          "description": "Metaは8月10日(米国時間)、ハイエンドなコンシューマ向けPC環境で完全にローカル動作する、AIエージェントやAIコーディングを行なうのに最適な300億(30B)パラメータ規模のマルチモーダル言語モデル「Muse Glimmer(Muse-Glimmer-30B)」を公開した。Hugging Faceなどを通じてモデル重みを無料でダウンロードできる。ライセンスはApache 2.0を採用しており商用利用も可能。",
-          "url": "https://pc.watch.impress.co.jp/docs/news/2132128.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-08-10T16:30:24Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2132/128/1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【ＮＹ為替オープニング】米イラン合意に不透明感、原油高でドル反発｜FX・為替ニュース",
-          "description": "◇重要イベント・ポイント ・NY原油先物79.48ドル、イランが安全保障トップに強硬派元司令官 ・城内経済相、「日銀は適切な金融政策を運営している」「高市政権の責任ある積極財政は円高圧力 ・イラン大統",
-          "url": "https://zai.diamond.jp/articles/-/493707",
-          "source": {
-            "name": "ザイFX！"
-          },
-          "publishedAt": "2026-08-10T13:32:00Z",
-          "image": "https://zai.diamond.jp/mwimgs/9/e/-/img_9e47ac79ce2cf237f05d70fc22e16d45110540.png",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Property agents may 'borrow' transactions to meet new requirement for registration renewal, despite the rules",
-          "description": "From 2027, property agents must complete at least three transactions over three years, or pass a refresher examination, to be eligible for registration renewal.",
-          "url": "https://www.channelnewsasia.com/singapore/property-agents-borrow-transactions-minimum-requirement-licence-6305691",
+          "title": "Judge temporarily blocks Mamdani’s pied-à-terre tax on second homes",
+          "description": "New York mayor’s office plans to appeal ruling, which comes after homeowners sued over property surcharges last week",
+          "url": "https://www.theguardian.com/us-news/2026/aug/10/judge-pauses-zohran-mamdani-pied-a-terre-tax-second-homes",
           "source": {
-            "name": "CNA"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-08-10T22:00:00Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--esuwSgzb--/c_crop,h_900,w_1600,x_0,y_380/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/04/24/hdb-flats-housing-2.jpg?itok=K-YtuV5I",
+          "publishedAt": "2026-08-11T01:06:00Z",
+          "image": "https://i.guim.co.uk/img/media/925a3700ec004d3d57bdd54e2eaecc1a3141e050/0_0_2280_1825/master/2280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7bea955bf4f9160aa8da670f55225c32",
           "language": "en"
         },
         {
-          "title": "NHA sets amortization moratorium, lease payments amid wrath of ‘habagat’",
-          "description": "MANILA, Philippines —  The National Housing Authority (NHA) has implemented an automatic moratorium on loan amortizations and lease payments falling until end of August for residential account holders in its housing projects.",
-          "url": "https://www.manilatimes.net/2026/08/11/news/nha-sets-amortization-moratorium-lease-payments-amid-wrath-of-habagat/2402487",
+          "title": "Judge blocks Mamdani's pied-à-terre tax rollout in NYC court ruling",
+          "description": "A judge blocked Zohran Mamdani's pied-a-terre tax rollout, ordering New York City to remove a list exposing over 900,000 homeowners' names and property values.",
+          "url": "https://www.foxnews.com/us/mamdanis-luxury-home-tax-rollout-derailed-judge-delivers-win-nyc-homeowners-massive-list",
           "source": {
-            "name": "manilatimes.net"
+            "name": "Fox News"
           },
-          "publishedAt": "2026-08-10T21:59:00Z",
-          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/11/1171473.jpg",
+          "publishedAt": "2026-08-11T01:05:36Z",
+          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/zohran-mamdani-nyc-pied-a-terre-tax-luxury-homes.jpg",
           "language": "en"
         },
         {
-          "title": "iPhone 18 Pro BOM cost estimated to be up by 40%",
-          "description": "Apple is reportedly paying three times more for RAM and storage than it did with the iPhone 17 Pro. We’ve already seen rumors that iPhone 18 Pro...",
-          "url": "https://www.gsmarena.com/iphone_18_pro_components_estimated_to_be_40_more_than_before__-news-74098.php",
+          "title": "Particle 101: Diphtheria",
+          "description": "The forgotten disease making headlines again.",
+          "url": "https://particle.scitech.org.au/mind-body/particle-101-diphtheria/",
           "source": {
-            "name": "GSMArena.com"
+            "name": "Scitech"
           },
-          "publishedAt": "2026-08-10T21:58:02Z",
-          "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-18-pro-bom-trendforce/-952x498w6/gsmarena_000.jpg",
+          "publishedAt": "2026-08-11T01:04:29Z",
+          "image": "https://particle.scitech.org.au/wp-content/uploads/2026/08/diptheria_FI.png",
           "language": "en"
         },
         {
-          "title": "Chorus outages affecting fibre internet across Auckland",
-          "description": "A number of fibre outages are impacting internet connectivity in different parts of Auckland, with as many as 30,000 connections impacted.",
-          "url": "https://www.rnz.co.nz/news/business/959275/chorus-outages-affecting-fibre-internet-across-auckland",
+          "title": "14 dead as landslides, heavy rain batter Cordillera",
+          "description": "Police say all the reported deaths were caused by landslides in Baguio City and Benguet",
+          "url": "https://www.rappler.com/philippines/deaths-landslides-heavy-rain-batter-cordillera-august-2026/",
           "source": {
-            "name": "rnz.co.nz"
+            "name": "Rappler"
           },
-          "publishedAt": "2026-08-10T21:56:45Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--u39D2kpg--/t_tohu-badge-facebook/f_auto/q_auto/4JK2J7X_outage_jpg",
+          "publishedAt": "2026-08-11T01:03:45Z",
+          "image": "https://www.rappler.com/tachyon/2026/08/Baguio-disaster-response-august-2026.jpg",
           "language": "en"
         },
         {
-          "title": "KT Tunstall returns to the Fringe 30 years on with ground-breaking musical",
-          "description": "A new play The Singer brings deaf and hearing performers together in a show at this year's Fringe.",
-          "url": "https://www.bbc.com/news/articles/c78gle9wdx8o",
+          "title": "Afghanistan Defeats Ireland in Belfast; Qualifies for ODI World Cup 2027",
+          "description": "Afghanistan qualifies for ODI World Cup 2027 after defeating Ireland. Follow Bhaskar English Latest Updates. Afghanistan defeated Ireland by 3 wickets in the third ODI. With this victory, Afghanistan directly qualified for the 2027 ODI World Cup.",
+          "url": "https://www.bhaskarenglish.in/sports/cricket/news/afghanistan-qualify-for-odi-world-cup-2027-beat-ireland-in-odi-138692509.html",
           "source": {
-            "name": "BBC"
+            "name": "Bhaskar English"
           },
-          "publishedAt": "2026-08-10T21:56:42Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5c47/live/4f72c180-94dd-11f1-8a7b-e7300179227e.jpg",
+          "publishedAt": "2026-08-11T01:03:22Z",
+          "image": "https://images.bhaskarassets.com/thumb/730x0/web2images/1884/2026/08/11/hpxfmpvwyaau-jv-730x548_1786389376610.jpg",
           "language": "en"
         },
         {
-          "title": "Tottenham transfer enters 'final stages' as two details remain after green light given",
-          "description": "Tottenham have spent £237m this summer, including a club record £100m to sign Sandro Tonali from Newcastle United, now one star looks to be on his way out of the club",
-          "url": "https://www.football.london/tottenham-hotspur-fc/transfer-news/cristian-romero-tottenham-transfer-latest-34436172",
+          "title": "Unitree IPO frenzy leaves Chinese retail investors with 1-in-5,500 odds",
+          "description": "Robotics company’s US$900 million Star Market listing offers slimmer odds than recent offerings by CXMT, Moore Threads and MetaX.",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3363570/unitree-ipo-frenzy-leaves-chinese-retail-investors-1-5500-odds",
           "source": {
-            "name": "Football London"
+            "name": "South China Morning Post"
           },
-          "publishedAt": "2026-08-10T21:56:13Z",
-          "image": "https://i2-prod.football.london/article34436174.ece/ALTERNATES/s1200d/0_GettyImages-2278087636.jpg",
+          "publishedAt": "2026-08-11T01:00:09Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/10/963c8ba2-88ae-4a11-a8b2-7aaa18bfb194_1ad28bed.jpg?itok=2ogizD2c&v=1786371929",
           "language": "en"
         },
         {
-          "title": "ASUS offers free Google AI with select laptops",
-          "description": "ASUS laptop owners can claim free Google AI subscriptions, but there are a few eligibility rules you need to know.",
-          "url": "https://www.androidauthority.com/asus-google-ai-promotion-3696731/",
+          "title": "Ragnarok Twilight tier list",
+          "description": "While classes aren't as big a deal in this idle RPG as in other MMOs in the IP, our Ragnarok Twilight tier list can still help you start your journey the right way!",
+          "url": "https://www.pocketgamer.com/ragnarok-twilight/tier-list/",
           "source": {
-            "name": "Android Authority"
+            "name": "pocketgamer.com"
           },
-          "publishedAt": "2026-08-10T21:56:00Z",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/asus-google-one.jpg",
+          "publishedAt": "2026-08-11T01:00:00Z",
+          "image": "https://media.pocketgamer.com/artwork/na-38642-1786354834/ragnarok-twilight-tier-list-cover.jpg",
           "language": "en"
         },
         {
-          "title": "5 killed, 21 injured as Russian attacks hit Zaporizhzhia, Kyiv",
-          "description": "Five people were killed and 20 injured in Zaporizhzhia, while one person was reported injured in Kyiv as Russia launched ballistic missiles, guided aerial bombs, and drones across Ukraine.",
-          "url": "https://kyivindependent.com/explosions-rock-kyiv-zaporizhzhia-as-russian-ballistic-missiles-strike-cities-across-ukraine/",
+          "title": "Ontario’s next Liberal leader needs seat, candidates argue",
+          "description": "Rivals targeted front-runner Navdeep Bains’ lack of a seat at the first candidates’ debate of the Ontario Liberal leadership race.",
+          "url": "https://www.thestar.com/politics/provincial/ontarios-next-liberal-leader-needs-a-seat-in-the-legislature-mpps-argue-in-first-candidates-debate/article_ac86affc-2160-4b95-be6b-e2cb62dac70c.html",
           "source": {
-            "name": "The Kyiv Independent"
+            "name": "Toronto Star"
           },
-          "publishedAt": "2026-08-10T21:55:26Z",
-          "image": "https://assets.kyivindependent.com/content/images/2026/08/photo_2026-08-10_18-44-00_20260810-231458.jpg",
+          "publishedAt": "2026-08-11T01:00:00Z",
+          "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/a5/5a57bca5-1b87-5ce0-b278-432f123f846b/6a7a70cc33ab6.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
           "language": "en"
         },
         {
-          "title": "War updates from Amhara Region, Ethiopia - August 3rd to 9th, 2026",
-          "description": "Disclaimer: AAA is a U.S. based NGO that documents human rights violations in the context of conflict, violence and political repression. One of AAA's core activities is also to educate policymakers, journalists, researchers and other stakeholders with up-to-date information on developments in Ethiopia. AAA does not endorse any political parties or organizations based in the U.S. or Ethiopia.Updated August 10th, 2026OverviewFor the week of August 3rd to 9th, 2026, fighting between the Amhara Fan",
-          "url": "https://www.amharaamerica.org/post/war-updates-from-amhara-region-ethiopia-august-3rd-to-9th-2026",
+          "title": "Philip Polkinghorne gives evidence at Pauline Hanna coroner’s inquest in Auckland",
+          "description": "Retired Auckland eye surgeon Philip Polkinghorne, acquitted of murdering wife Pauline Hanna in 2021, recounted cradling his wife’s lifeless body in his arms...",
+          "url": "https://www.nzherald.co.nz/nz/crime/philip-polkinghorne-gives-evidence-at-pauline-hanna-coroners-inquest-in-auckland/BANJ4GLX3ZB2XBNGLJXQFXNHRU/",
           "source": {
-            "name": "Amhara Association of America"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-08-10T21:54:02Z",
-          "image": "https://static.wixstatic.com/media/e494ca_3e6c2defa69143beb33b4470cc5c1da0~mv2.png/v1/fill/w_452,h_575,al_c,lg_1,q_85/e494ca_3e6c2defa69143beb33b4470cc5c1da0~mv2.png",
+          "publishedAt": "2026-08-11T01:00:00Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/UCOP2HFQC5AF5AKXS2NTEL24IA.jpg?auth=5a91838826c52c468b9844ce95e6db42a0c16c03b426bee59c681dfadaff1f87&width=1200&height=675&quality=70&focal=3292%2C1584&smart=false",
           "language": "en"
         },
         {
-          "title": "What is happening with the Rosebank and Jackdaw oil and gas fields?",
-          "description": "The UK government has moved a step closer to making a decision on whether to approve further drilling.",
-          "url": "https://www.bbc.co.uk/news/articles/ce85ld3y4rlo",
+          "title": "Panathinaikos owner says he attempted to lure three-time NBA MVP Nikola Jokić to Europe",
+          "description": "Dimitrios Giannakopoulos says he was willing to buy out the Serbian star’s Denver Nuggets contract",
+          "url": "https://www.theguardian.com/sport/2026/aug/10/panathinaikos-owner-says-he-attempted-to-lure-three-time-nba-mvp-nikola-jokic-to-europe",
           "source": {
-            "name": "BBC"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-08-10T21:53:18Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b95a/live/637d0750-94d1-11f1-b2ab-0dd01740f9f6.jpg",
+          "publishedAt": "2026-08-11T01:00:00Z",
+          "image": "https://i.guim.co.uk/img/media/d4491d9464a8876987f702b26b0af60727dc955c/481_0_3797_3038/master/3797.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c9e47d05da84c5a4041223c19bb0ec08",
           "language": "en"
         }
       ]
