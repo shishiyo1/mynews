@@ -1,10 +1,54 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-11T07:08:37.281Z",
+  "updatedAt": "2026-08-11T10:00:56.384Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "「織田翔希はドラフト1位で競合する」元ヤクルト編成部長が154㎞横浜エースを「山本由伸級の逸材」と評価…沖縄尚学の末吉良丞は「直球で空振りファウルが取れない。評価が難しい」（RONSPO）",
+          "description": "第108回全国高校野球選手権の1回戦4試合が10日、甲子園で行われ、横浜の織田翔希と沖縄尚学の末吉良丞のプロ注目の対決は、横浜の7－2の圧勝に終わった。織田は9回二死までで139球、6安打12奪三振",
+          "url": "https://news.yahoo.co.jp/articles/fc180d3865697e8fb6ad4e673190fd354a40b69e",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-10T21:35:59Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00010001-ronspo-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【異例】迷走台風15号がお盆休みの首都圏に直撃 11日は風雨強まり交通乱れに注意",
+          "description": "きょう11日(山の日)は台風15号の接近や上陸に伴い、関東を中心に大雨や暴風が予想されます。今回は東の海上から日本列島に接近する異例のコースで、関東や東北の太平洋側から影響が出始めます。お盆休みで行楽地への移動や帰省で交通機関を利用する方が多いですが、雨や風のピークと重なり、大きく影響が出る恐れがあります。最新の台風情報や交通情報をこまめに確認して下さい。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/08/11/40095.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-08-10T21:06:07Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/400/40095/main/20260811055829/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "メタ、AIを「数十億人に無償提供」 高性能モデルの技術を外部に開放",
+          "description": "【シリコンバレー=山田遼太郎】米メタは10日、高性能の人工知能（AI）の技術を外部に公開し、一部を無償提供すると発表した。AIの利用が高額化するなか、大部分が無料で使えるインターネットと同様に低価格化を進め普及を狙う。マーク・ザッカーバーグ最高経営責任者（CEO）が先端AIを「数十億人が使える無料版として提供する」と表明した。公開範囲の詳細は明らかにしていないが、開発する高性能なAIのうち多く",
+          "url": "https://www.nikkei.com/article/DGXZQOGN108XJ0Q6A810C2000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-08-10T20:59:08Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3440138011082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.48&fp-y=0.29&h=630&w=1200&s=eab98a826b4e1502d6e7b390b2de0b88",
+          "language": "ja"
+        },
+        {
+          "title": "Ft2、アルバムリリース＆ドーム公演決定 サプライズ発表にファン大歓声（オリコン）",
+          "description": "6人組グループ・Kis-My-Ft2がデビュー15周年となる10日、横浜アリーナでライブ『Kis-My-Ft2 LIVE TOUR 2026 fan IS ……』を開催した。（以下、ネタバレを含み",
+          "url": "https://news.yahoo.co.jp/articles/4c6402134cfbce6c07f6836dcc446a72c75ec071",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-10T19:08:56Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00000357-oric-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "【Kis-My-Ft2】祝デビュー15周年！『Kis-My-Ft2 LIVE TOUR 2026 fan IS・・・・・・』速報【会見＆ライブレポ】",
           "description": "今年でデビュー15周年を迎えるKis-My-Ft2が全国アリーナツアー『Kis-My-Ft2 LIVE TOUR 2026 fan IS・・・・・・』を開催中。VOCE WEBの速報レポートでは、デビュー記念日である8月10日に行われた横浜アリーナ公演での記者会見ほぼ全文とライブの詳細を【楽曲明記載なし】で速報レポートします。",
@@ -70,161 +114,117 @@
           "publishedAt": "2026-08-10T13:32:00Z",
           "image": "https://zai.diamond.jp/mwimgs/9/e/-/img_9e47ac79ce2cf237f05d70fc22e16d45110540.png",
           "language": "ja"
-        },
-        {
-          "title": "「誇りを持って終えられた」初出場の福山・小田監督 夏の甲子園",
-          "description": "全国高校野球選手権は第6日の10日、阪神甲子園球場で2回戦があり、春夏通じて初出場の福山（広島）は天理（奈良）に2―7で敗れ、甲子園初勝利とはならなかった。 　福山・小田浩監督の試合後の主なコメントは次の通り。",
-          "url": "https://mainichi.jp/articles/20260810/k00/00m/050/356000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-08-10T13:17:23Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/08/10/20260810mpj00m050143000p/0c10.jpg?1",
-          "language": "ja"
-        },
-        {
-          "title": "突如中止の花火大会 主催者が回答",
-          "description": "今月22日に滋賀県の3市で計画されていた「琵琶湖三市同時花火大会」が突如中止になった問題で、主催団体が10日、メールでMBSの取材に応じました。",
-          "url": "https://news.yahoo.co.jp/pickup/6591256",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-10T13:04:32Z",
-          "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/10/7691d3938daf9f56910cb585d5460bc57515f8c9e0656a4a3e3592c437bfb48b.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『Knytt Classic』海外インディーに大きな影響を与えた伝説的フリーゲームが20年の時を経て復活。Steam/GOGで無料配信",
-          "description": "海外のフリーゲームシーンのカルトクラシック『Knytt』を現代のPC環境向けにアップデートした『Knytt Classic』が無料配信。",
-          "url": "https://www.famitsu.com/article/202608/84045",
-          "source": {
-            "name": "famitsu.com"
-          },
-          "publishedAt": "2026-08-10T13:00:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/84045/ogp_KZDq.png?x=1280",
-          "language": "ja"
-        },
-        {
-          "title": "「前も後ろもとんでもない」東雲うみ 透け感＆極小の眼帯ビキニ 見れば元気になるフォトブック 「前後ともにとんでもない戦闘力」「桃ダイナマイトがすごい」",
-          "description": "人気コスプレイヤーでグラビアアイドルの東雲うみさんが、週刊SPA!8月19日号の表紙を飾り、特別付録「見れば元気になる！フォトブック」に登場しました。表紙では、メガネの東雲さんが眼帯のような布面積小さめのビキニでマシュマロをアピール。白と黒…",
-          "url": "https://maidonanews.jp/article/16789404",
-          "source": {
-            "name": "まいどなニュース"
-          },
-          "publishedAt": "2026-08-10T12:20:00Z",
-          "image": "https://p.potaufeu.asahi.com/2b3b-p/picture/31177291/342dc96c5c1ef0877152af01c7c3ab62.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Philippines, U.S. Mark 75th Anniversary of the Mutual Defense Treaty, Reaffirm Alliance Commitment at 2026 Mutual Defense Board-Security Engagement Board",
-          "description": "Adm. Samuel J. Paparo, commander of U.S. Pacific Command, and Gen. Antonio G. Nafarrete, chief of staff of the Armed Forces of the Philippines, co-chaired the annual Mutual Defense Board-Security Engagement Board (MDB-SEB) at Camp Aguinaldo, Quezon City, Philippines, Aug. 7, 2026.",
-          "url": "https://www.dvidshub.net/news/571986/philippines-us-mark-75th-anniversary-mutual-defense-treaty-reaffirm-alliance-commitment-2026-mutual-defense-board-security-engagement",
+          "title": "Property agents may 'borrow' transactions to meet new requirement for registration renewal, despite the rules",
+          "description": "From 2027, property agents must complete at least three transactions over three years, or pass a refresher examination, to be eligible for registration renewal.",
+          "url": "https://www.channelnewsasia.com/singapore/property-agents-borrow-transactions-minimum-requirement-licence-6305691",
           "source": {
-            "name": "DVIDS"
+            "name": "CNA"
           },
-          "publishedAt": "2026-08-10T19:07:00Z",
-          "image": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2608/9861189/1000w_q95.jpg",
+          "publishedAt": "2026-08-10T22:00:00Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--esuwSgzb--/c_crop,h_900,w_1600,x_0,y_380/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/04/24/hdb-flats-housing-2.jpg?itok=K-YtuV5I",
           "language": "en"
         },
         {
-          "title": "Liverpool sign Ronald Araujo as club legend reaches out and Andoni Iraola gets his wish",
-          "description": "Liverpool manager Andoni Iraola has been desperate for reinforcements in central defence following a difficult injury-hit pre-season - and now Ronald Araujo has arrived from Barcelona",
-          "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-ronald-araujo-suarez-37535867",
+          "title": "NHA sets amortization moratorium, lease payments amid wrath of ‘habagat’",
+          "description": "MANILA, Philippines —  The National Housing Authority (NHA) has implemented an automatic moratorium on loan amortizations and lease payments falling until end of August for residential account holders in its housing projects.",
+          "url": "https://www.manilatimes.net/2026/08/11/news/nha-sets-amortization-moratorium-lease-payments-amid-wrath-of-habagat/2402487",
           "source": {
-            "name": "The Mirror"
+            "name": "manilatimes.net"
           },
-          "publishedAt": "2026-08-10T19:07:00Z",
-          "image": "https://i2-prod.mirror.co.uk/article37535868.ece/ALTERNATES/s1200d/0_GettyImages-2289889447.jpg",
+          "publishedAt": "2026-08-10T21:59:00Z",
+          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/11/1171473.jpg",
           "language": "en"
         },
         {
-          "title": "El Niño looms: Murkomen names 18 high-risk counties",
-          "description": "The preparations come as international weather agencies warn of a strengthening El Niño.",
-          "url": "https://www.the-star.co.ke/news/2026-08-10-el-nino-murkomen-names-18-high-risk-counties",
+          "title": "iPhone 18 Pro BOM cost estimated to be up by 40%",
+          "description": "Apple is reportedly paying three times more for RAM and storage than it did with the iPhone 17 Pro. We’ve already seen rumors that iPhone 18 Pro...",
+          "url": "https://www.gsmarena.com/iphone_18_pro_components_estimated_to_be_40_more_than_before__-news-74098.php",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "GSMArena.com"
           },
-          "publishedAt": "2026-08-10T19:06:20Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/08/41eb5d8f-5dcc-4a83-a742-c85d12cb984c.webp?1786423082721",
+          "publishedAt": "2026-08-10T21:58:02Z",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-18-pro-bom-trendforce/-952x498w6/gsmarena_000.jpg",
           "language": "en"
         },
         {
-          "title": "First look at divisive $150m plans",
-          "description": "Lord Mayor Clover Moore plans to accelerate the demolition of Woolworths’ supermarket and six other buildings to make way for a long-vaunted public plaza at the corner of George, Park and Pitt streets by 2031.",
-          "url": "https://www.smh.com.au/national/nsw/first-look-at-the-divisive-plans-for-sydney-s-150m-town-hall-square-20260807-p60mgx.html",
+          "title": "Chorus outages affecting fibre internet across Auckland",
+          "description": "A number of fibre outages are impacting internet connectivity in different parts of Auckland, with as many as 30,000 connections impacted.",
+          "url": "https://www.rnz.co.nz/news/business/959275/chorus-outages-affecting-fibre-internet-across-auckland",
           "source": {
-            "name": "SMH.com.au"
+            "name": "rnz.co.nz"
           },
-          "publishedAt": "2026-08-10T19:05:00Z",
-          "image": "https://static.ffx.io/images/$zoom_0.8855%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_2%2C$y_0/t_crop_custom/q_86%2Cf_auto/d314a5c79eb63dd0ae0e222a1068f23b8c19d888a10a2d184e558197af25bebd",
+          "publishedAt": "2026-08-10T21:56:45Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--u39D2kpg--/t_tohu-badge-facebook/f_auto/q_auto/4JK2J7X_outage_jpg",
           "language": "en"
         },
         {
-          "title": "Where does your superannuation go when you die? How can you make a binding death benefit nomination?",
-          "description": "Millions of Australians could have no say in who inherits their superannuation. Here's how to check if you're one of them, and how to make sure your wishes are followed.",
-          "url": "https://www.abc.net.au/news/2026-08-11/superannuation-death-benefit-binding-non-binding-nomination-will/107016846",
-          "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
-          },
-          "publishedAt": "2026-08-10T19:03:06Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/a0366fec504e64f58429b6c722b49c9d?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-          "language": "en"
-        },
-        {
-          "title": "The NATO Center in Riga has published a new report on Russian propaganda",
-          "description": "The NATO Center of Excellence for Strategic Communications (NATO StratCom COE), based in Riga, has published a new report on the Russian propaganda system. The study is titled “Crisis, Control, Crusade” and focuses on the domestic communication strategies of Russia—the aggressor state.",
-          "url": "https://ua.news/en/world/tsentr-nato-u-rizi-opublikuvav-novii-zvit-pro-rosiisku-propagandu",
-          "source": {
-            "name": "ua.news"
-          },
-          "publishedAt": "2026-08-10T19:03:02Z",
-          "image": "https://cdn-cabinet.ua.news/uploads/images/nato_tsentr_u_ryzi_opublikuvav_zvit_pro_rosiisku_propahandu_1786387147830.webp",
-          "language": "en"
-        },
-        {
-          "title": "At least 111 killed in Colombia earthquake as national disaster declared",
-          "description": "The magnitude-7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away.",
-          "url": "https://www.bbc.com/news/articles/c20e360lx0vo",
+          "title": "KT Tunstall returns to the Fringe 30 years on with ground-breaking musical",
+          "description": "A new play The Singer brings deaf and hearing performers together in a show at this year's Fringe.",
+          "url": "https://www.bbc.com/news/articles/c78gle9wdx8o",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-08-10T19:02:45Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0df6/live/489ebde0-94cf-11f1-b2ab-0dd01740f9f6.jpg",
+          "publishedAt": "2026-08-10T21:56:42Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5c47/live/4f72c180-94dd-11f1-8a7b-e7300179227e.jpg",
           "language": "en"
         },
         {
-          "title": "When is census night? What happens if you do not complete the form?",
-          "description": "Census 2026 is here. This is the lowdown on how it works and whether there is a fine for not completing the form.",
-          "url": "https://www.abc.net.au/news/2026-08-11/all-you-need-to-know-about-census-2026/106993364",
+          "title": "Tottenham transfer enters 'final stages' as two details remain after green light given",
+          "description": "Tottenham have spent £237m this summer, including a club record £100m to sign Sandro Tonali from Newcastle United, now one star looks to be on his way out of the club",
+          "url": "https://www.football.london/tottenham-hotspur-fc/transfer-news/cristian-romero-tottenham-transfer-latest-34436172",
           "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+            "name": "Football London"
           },
-          "publishedAt": "2026-08-10T19:02:24Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/d5fc6154eab6941fe349be41ac1a284d?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-08-10T21:56:13Z",
+          "image": "https://i2-prod.football.london/article34436174.ece/ALTERNATES/s1200d/0_GettyImages-2278087636.jpg",
           "language": "en"
         },
         {
-          "title": "Landmark Cosmic Survey Maps the Accelerating Expansion of the Universe",
-          "description": "Dark energy - the invisible force accelerating the expansion of the universe - remains one of the deepest mysteries in modern science.",
-          "url": "https://www.azoquantum.com/News.aspx?newsID=11219",
+          "title": "ASUS offers free Google AI with select laptops",
+          "description": "ASUS laptop owners can claim free Google AI subscriptions, but there are a few eligibility rules you need to know.",
+          "url": "https://www.androidauthority.com/asus-google-ai-promotion-3696731/",
           "source": {
-            "name": "AZoQuantum"
+            "name": "Android Authority"
           },
-          "publishedAt": "2026-08-10T19:02:00Z",
-          "image": "https://www.azoquantum.com/images/news/ThumbForNews_11219_17863880921672163.jpg",
+          "publishedAt": "2026-08-10T21:56:00Z",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/asus-google-one.jpg",
           "language": "en"
         },
         {
-          "title": "LaLiga predictions: Can Mourinho break Barcelona dominance on Real Madrid return?",
-          "description": "LaLiga returns this week, and plenty of drama is in store as Real Madrid attempt to deny Barcelona a third straight title under Hansi Flick.",
-          "url": "https://www.beinsports.com/en-us/soccer/la-liga/articles/laliga-predictions-can-mourinho-break-barcelona-dominance-on-real-madrid-return-2026-08-10",
+          "title": "5 killed, 21 injured as Russian attacks hit Zaporizhzhia, Kyiv",
+          "description": "Five people were killed and 20 injured in Zaporizhzhia, while one person was reported injured in Kyiv as Russia launched ballistic missiles, guided aerial bombs, and drones across Ukraine.",
+          "url": "https://kyivindependent.com/explosions-rock-kyiv-zaporizhzhia-as-russian-ballistic-missiles-strike-cities-across-ukraine/",
           "source": {
-            "name": "beIN SPORTS"
+            "name": "The Kyiv Independent"
           },
-          "publishedAt": "2026-08-10T19:00:11Z",
-          "image": "https://prod-media.beinsports.com/image/1786392004347_7edb552e-0768-4de0-baf3-ae7a6083574d.1080.jpg",
+          "publishedAt": "2026-08-10T21:55:26Z",
+          "image": "https://assets.kyivindependent.com/content/images/2026/08/photo_2026-08-10_18-44-00_20260810-231458.jpg",
+          "language": "en"
+        },
+        {
+          "title": "War updates from Amhara Region, Ethiopia - August 3rd to 9th, 2026",
+          "description": "Disclaimer: AAA is a U.S. based NGO that documents human rights violations in the context of conflict, violence and political repression. One of AAA's core activities is also to educate policymakers, journalists, researchers and other stakeholders with up-to-date information on developments in Ethiopia. AAA does not endorse any political parties or organizations based in the U.S. or Ethiopia.Updated August 10th, 2026OverviewFor the week of August 3rd to 9th, 2026, fighting between the Amhara Fan",
+          "url": "https://www.amharaamerica.org/post/war-updates-from-amhara-region-ethiopia-august-3rd-to-9th-2026",
+          "source": {
+            "name": "Amhara Association of America"
+          },
+          "publishedAt": "2026-08-10T21:54:02Z",
+          "image": "https://static.wixstatic.com/media/e494ca_3e6c2defa69143beb33b4470cc5c1da0~mv2.png/v1/fill/w_452,h_575,al_c,lg_1,q_85/e494ca_3e6c2defa69143beb33b4470cc5c1da0~mv2.png",
+          "language": "en"
+        },
+        {
+          "title": "What is happening with the Rosebank and Jackdaw oil and gas fields?",
+          "description": "The UK government has moved a step closer to making a decision on whether to approve further drilling.",
+          "url": "https://www.bbc.co.uk/news/articles/ce85ld3y4rlo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-08-10T21:53:18Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b95a/live/637d0750-94d1-11f1-b2ab-0dd01740f9f6.jpg",
           "language": "en"
         }
       ]
