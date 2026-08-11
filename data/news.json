@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-11T13:06:44.711Z",
+  "updatedAt": "2026-08-11T16:01:18.512Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "iOS 27の『写真』アプリ、つよつよに。3つの新しいAI編集ツールを使ってみた",
-          "description": "iOS 27の『写真』アプリはApple Intelligenceの進化により、写真の編集機能が大幅に向上しました。完全無料で、誰でも簡単に使えるのが強みですね。iOS 27の目玉とされるSiri AIに関しては、最初は英語のみの展開とされ",
-          "url": "https://www.gizmodo.jp/article/ios-27-beta-photo-ai-edit/",
+          "title": "コロンビアでM7.4の地震、近年で最大級 130人以上死亡",
+          "description": "コロンビアで10日午前7時34分ごろ、マグニチュード（M）7.4の強い地震が発生し、少なくとも132人の死亡が確認された。近年で最大規模の地震を受け、非常事態宣言が発令された。",
+          "url": "https://www.bbc.com/japanese/articles/ce8lj4gwje3o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-08-11T03:35:43Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/7a6b/live/0eb51af0-94fe-11f1-9181-85140b8ce01b.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Windows 11の天気アプリが1.2GB以上のメモリを消費、その正体は「隠れブラウザ」",
+          "description": "Windows 11標準の天気アプリがChromiumブラウザとして動作し、1.2GB以上のRAMを消費していることが判明。8GBのPCでは影響が大きく、バックグラウンド実行の無効化等の対策が推奨される。",
+          "url": "https://www.zaikei.co.jp/article/20260811/865267.html",
+          "source": {
+            "name": "財経新聞"
+          },
+          "publishedAt": "2026-08-11T03:33:46Z",
+          "image": "http://www.zaikei.co.jp/files/general/20260811123345UEK0big.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ウクライナのドローン、ロシア領内深く攻撃 少なくとも13人殺害",
+          "description": "ロシア西部タタールスタン共和国の当局は10日、ウクライナ軍のドローン攻撃で、子ども1人を含む13人が殺害され、75人が負傷したと発表した。2022年2月にロシアがウクライナ全面侵攻を開始して以来、ウクライナによるロシア攻撃の中でも、特に死傷者の多い単独攻撃となった。ウクライナはこのところ、ロシアのウクライナ侵攻に軍資金や補給物資を提供しているとされる施設への長距離攻撃を強化している。",
+          "url": "https://www.bbc.com/japanese/articles/cy741ygv2e0o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-08-11T03:20:15Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/cc11/live/b8002050-9495-11f1-9ade-bb7c8a2b6bc0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "神奈川県の「冷やし中華」の名店10選！ 一番うまいと思う店はどこ？【人気投票実施中】",
+          "description": "異国情緒あふれる横浜中華街をはじめ、独自の麺文化が根付く神奈川県。本格的な中国料理店のぜいたくな一皿から、こだわりの素材をぜいたくに使用した一品まで、多彩な冷やし中華を味わえる名店がそろっています。　そんな神奈川県では、どの冷やし中華のお店が人気を集めているのでしょうか？　本記事では、神奈川県の冷やし中華の…",
+          "url": "https://nlab.itmedia.co.jp/research/articles/3956535/",
+          "source": {
+            "name": "ねとらぼ"
+          },
+          "publishedAt": "2026-08-11T03:00:00Z",
+          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/07/1785126719_29920575_1280.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "iOS 27でロック画面がさらに自分好みに。新機能2つを早速試してみた",
+          "description": "昨年発表されたiOS 26のリキッドグラスでガラっと変わったiPhoneのロック画面ですが、この秋一般公開予定のiOS 27にもロック画面向けの新機能がいくつか発表されました。iOS 27のパブリックベータ版で、そんな新機能を試してみました",
+          "url": "https://www.gizmodo.jp/article/ios27-lockscreen/",
           "source": {
             "name": "Gizmodo"
           },
-          "publishedAt": "2026-08-11T01:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/07/29/9f321eee-00e5-4dc6-8efa-65b4c234b86f/original.jpg?w=1200&h=630",
+          "publishedAt": "2026-08-11T03:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/08/02/aebc14d9-4b6e-4b6e-80d5-36b869568a65/original.jpg?w=1200&h=630",
           "language": "ja"
         },
         {
-          "title": "大谷翔平「１番DH」でロイヤルズ戦、スクバルが本拠地初先発で移籍後初勝利目指す／一覧",
-          "description": "ドジャース大谷翔平投手（32）が本拠地でのロイヤルズ戦に「1番DH」で出場する。1発が出れば今永昇太から放った先頭打者弾を含む今季初の1試合2本塁打を記録した… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/baseball/mlb/news/202608110000036.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-08-11T00:00:31Z",
-          "image": "https://www.nikkansports.com/baseball/mlb/news/img/202608110000036-w500_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「Kis-My-Ft2 LIVE TOUR 2026 fan IS ・・・・・・」がU-NEXT独占アーカイブ配信決定！さらにオリジナル冠番組『キスマイ×NEXT』各タイトル＆メインロゴがついに解禁！",
-          "description": "株式会社 U-NEXTのプレスリリース（2026年8月11日 08時00分）「Kis-My-Ft2 LIVE TOUR 2026 fan IS ・・・・・・」がU-NEXT独占アーカイブ配信決定！さらにオリジナル冠番組『キスマイ×NEXT』各タイトル＆メインロゴがついに解禁！",
-          "url": "https://prtimes.jp/main/html/rd/p/000002898.000031998.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-08-10T23:00:01Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/31998/2898/31998-2898-b150ee9c0a7eb4b666f9c0db00bfaf63-2000x1332.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "「おためし転職」求職者向けモバイルアプリのUIを刷新",
-          "description": "フィシルコム株式会社のプレスリリース（2026年8月11日 08時00分）「おためし転職」求職者向けモバイルアプリのUIを刷新",
-          "url": "https://prtimes.jp/main/html/rd/p/000000103.000145240.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-08-10T23:00:01Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/145240/103/145240-103-4f1a5b1208fe0ce1435245fe7b94e2f5-832x1591.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "綾瀬はるか主演『ファーストボイス』追加キャスト一挙解禁 鈴鹿央士、木村多江、筒井道隆ら実力派ズラリ",
-          "description": "俳優の綾瀬はるかが主演を務める映画『ファーストボイス』（10月2日全国公開）の本予告映像、本ポスタービジュアル、追加キャストが11日に解禁された。\n　本作は、昭和の終わりから平成初期を舞台に、当",
-          "url": "https://news.yahoo.co.jp/articles/39154c4982cf3a3c242fcf24784c0296b1a6014f",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-10T22:21:40Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-01046371-encount-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "10日の米国市場ダイジェスト：米国株式市場は反落、原油価格や金利の上昇を嫌気(フィスコ)",
-          "description": "■NY株式：米国株式市場は反落、原油価格や金利の上昇を嫌気\n米国株式市場は反落。ダウ平均は60.95ドル安の53975.98ドル、ナスダックは85.26ポイント安の26605.36で取引を終了した。\n戦争終結の協議の中で、イランが戦争賠償を要求してい...",
-          "url": "https://finance.yahoo.co.jp/news/detail/fcf4c3d295be377e4a933b7fe09cf2cd7b8ca085",
-          "source": {
-            "name": "Yahoo!ファイナンス"
-          },
-          "publishedAt": "2026-08-10T22:08:00Z",
-          "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
-          "language": "ja"
-        },
-        {
-          "title": "「織田翔希はドラフト1位で競合する」元ヤクルト編成部長が154㎞横浜エースを「山本由伸級の逸材」と評価…沖縄尚学の末吉良丞は「直球で空振りファウルが取れない。評価が難しい」（RONSPO）",
-          "description": "第108回全国高校野球選手権の1回戦4試合が10日、甲子園で行われ、横浜の織田翔希と沖縄尚学の末吉良丞のプロ注目の対決は、横浜の7－2の圧勝に終わった。織田は9回二死までで139球、6安打12奪三振",
-          "url": "https://news.yahoo.co.jp/articles/fc180d3865697e8fb6ad4e673190fd354a40b69e",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-10T21:35:59Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00010001-ronspo-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【異例】迷走台風15号がお盆休みの首都圏に直撃 11日は風雨強まり交通乱れに注意",
-          "description": "きょう11日(山の日)は台風15号の接近や上陸に伴い、関東を中心に大雨や暴風が予想されます。今回は東の海上から日本列島に接近する異例のコースで、関東や東北の太平洋側から影響が出始めます。お盆休みで行楽地への移動や帰省で交通機関を利用する方が多いですが、雨や風のピークと重なり、大きく影響が出る恐れがあります。最新の台風情報や交通情報をこまめに確認して下さい。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/08/11/40095.html",
+          "title": "台風15号 今夜関東に上陸か 東北・関東甲信180ミリ大雨に警戒",
+          "description": "台風15号は今日11日午前10時現在、いわき市の東約220キロを西へ進んでいます。今後も西寄りに進み、午後には関東地方にかなり接近し、今夜には上陸するおそれがあります。東北・関東甲信では明日12日正午までの24時間に最大で180ミリの雨が予想され、東北では12日にかけて土砂災害に厳重な警戒が必要です。台風は上陸後も西へ進み、12日は西日本まで達する見込みです。",
+          "url": "https://tenki.jp/forecaster/gureweather/2026/08/11/40100.html",
           "source": {
             "name": "tenki.jp"
           },
-          "publishedAt": "2026-08-10T21:06:07Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/400/40095/main/20260811055829/large.jpg",
+          "publishedAt": "2026-08-11T02:42:05Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/401/40100/main/20260811110705/large.jpg",
           "language": "ja"
         },
         {
-          "title": "メタ、AIを「数十億人に無償提供」 高性能モデルの技術を外部に開放",
-          "description": "【シリコンバレー=山田遼太郎】米メタは10日、高性能の人工知能（AI）の技術を外部に公開し、一部を無償提供すると発表した。AIの利用が高額化するなか、大部分が無料で使えるインターネットと同様に低価格化を進め普及を狙う。マーク・ザッカーバーグ最高経営責任者（CEO）が先端AIを「数十億人が使える無料版として提供する」と表明した。公開範囲の詳細は明らかにしていないが、開発する高性能なAIのうち多く",
-          "url": "https://www.nikkei.com/article/DGXZQOGN108XJ0Q6A810C2000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-08-10T20:59:08Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3440138011082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.48&fp-y=0.29&h=630&w=1200&s=eab98a826b4e1502d6e7b390b2de0b88",
-          "language": "ja"
-        },
-        {
-          "title": "Ft2、アルバムリリース＆ドーム公演決定 サプライズ発表にファン大歓声（オリコン）",
-          "description": "6人組グループ・Kis-My-Ft2がデビュー15周年となる10日、横浜アリーナでライブ『Kis-My-Ft2 LIVE TOUR 2026 fan IS ……』を開催した。（以下、ネタバレを含み",
-          "url": "https://news.yahoo.co.jp/articles/4c6402134cfbce6c07f6836dcc446a72c75ec071",
+          "title": "トランプ氏、トルコ出国時に秘密裏に別機使用 イランの暗殺脅威で＝米紙",
+          "description": "[ワシントン １０日 ロイター] - トランプ米大統領は先月、大統領専用機「エアフォースワン」に搭乗しているとホワイトハウスが発表していた際、実際にはトルコから秘密裏に別の軍‌用機で出国していた。イ",
+          "url": "https://news.yahoo.co.jp/articles/44e83a9cfcd24a9ffda20f28fe504ca64da90308",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-08-10T19:08:56Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00000357-oric-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-08-11T02:13:10Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00000037-reut-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "“謎の花火大会”突如中止 運営会社の電話つながらず 席代、出店料の返金説明なし",
+          "description": "突然、中止が発表された“謎の花火大会”の波紋が広がっています。出店を予定していた店や、有料席を購入した人からは困惑の声が上がる一方で、主催者側からは、いまだ返金について具体的な説明がありません。■出",
+          "url": "https://news.tv-asahi.co.jp/news_society/articles/000525492.html",
+          "source": {
+            "name": "テレ朝NEWS"
+          },
+          "publishedAt": "2026-08-11T02:05:24Z",
+          "image": "https://news.tv-asahi.co.jp/articles_img/000525492_1200.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "辻希美、息子2人が抱える症状告白「呪われたみたいになる」",
+          "description": "タレントの辻希美が8月9日、自身のYouTubeチャンネルを更新。息子2人が抱えている症状を明かした。",
+          "url": "https://mdpr.jp/news/detail/4827553",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-08-11T02:05:21Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/5Um_/wm/5Um_7PP63MmFpeWb5JxWZfq4qcHSf_5tX9EHNrd_bmw.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
+        {
+          "title": "ちいかわ、ハチワレが恐竜に！うさぎはアリスな“時計ウサギ”に!? 「ちいかわぽけっと」公式グッズ第3弾が発売 全国5箇所でポップアップも【8月21日～】",
+          "description": "『ちいかわ』初のスマホアプリ『ちいかわぽけっと（ちいぽけ）』より、「恐竜」と「アリス」をモチーフにした公式グッズ第3弾が登場。2026年8月21日より発売されることがわかった。東京・名古屋・福岡・仙台・大阪の全国5箇所にてポップアップストアも開催される。",
+          "url": "https://animeanime.jp/article/2026/08/11/101938.html",
+          "source": {
+            "name": "アニメ！アニメ！"
+          },
+          "publishedAt": "2026-08-11T01:30:03Z",
+          "image": "https://animeanime.jp/imgs/ogp_f/917284.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Judge temporarily blocks Mamdani’s pied-à-terre tax on second homes",
-          "description": "New York mayor’s office plans to appeal ruling, which comes after homeowners sued over property surcharges last week",
-          "url": "https://www.theguardian.com/us-news/2026/aug/10/judge-pauses-zohran-mamdani-pied-a-terre-tax-second-homes",
+          "title": "CJP founder Dipke announces nationwide campaign to improve government schools in villages",
+          "description": "CJP founder Abhijeet Dipke launches a nationwide campaign on August 15 to improve rural government schools and educational facilities.",
+          "url": "https://www.thehindu.com/news/national/cjp-founder-dipke-announces-nationwide-campaign-to-improve-government-schools-in-villages/article71330976.ece",
           "source": {
-            "name": "The Guardian"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-08-11T01:06:00Z",
-          "image": "https://i.guim.co.uk/img/media/925a3700ec004d3d57bdd54e2eaecc1a3141e050/0_0_2280_1825/master/2280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7bea955bf4f9160aa8da670f55225c32",
+          "publishedAt": "2026-08-11T04:01:10Z",
+          "image": "https://th-i.thgim.com/public/incoming/bmxnf2/article71330983.ece/alternates/LANDSCAPE_1200/2026-08-04T122611Z_852628074_RC2HRMADPY0Q_RTRMADP_3_INDIA-POLITICS-ABHIJEET-DIPKE.JPG",
           "language": "en"
         },
         {
-          "title": "Judge blocks Mamdani's pied-à-terre tax rollout in NYC court ruling",
-          "description": "A judge blocked Zohran Mamdani's pied-a-terre tax rollout, ordering New York City to remove a list exposing over 900,000 homeowners' names and property values.",
-          "url": "https://www.foxnews.com/us/mamdanis-luxury-home-tax-rollout-derailed-judge-delivers-win-nyc-homeowners-massive-list",
+          "title": "Minnesota primary is latest Democratic proxy fight and Lindell on ballot",
+          "description": "The Democratic Party's internal battle is heating up in Minnesota. Voters are deciding between centrist Rep. Angie Craig and progressive Lt. Gov.",
+          "url": "https://apnews.com/article/minnesota-primary-flanagan-craig-lindell-senate-governor-bbadfd4d2a4a1184be74f75ed26b9b72",
           "source": {
-            "name": "Fox News"
+            "name": "AP News"
           },
-          "publishedAt": "2026-08-11T01:05:36Z",
-          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/zohran-mamdani-nyc-pied-a-terre-tax-luxury-homes.jpg",
+          "publishedAt": "2026-08-11T04:01:00Z",
+          "image": "https://dims.apnews.com/dims4/default/65782b2/2147483647/strip/true/crop/7299x4864+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F56%2Fb5%2F611638f23e833ab23cf80616c58c%2F79aae7740f6f479ebe33e5a3dc6cd969",
           "language": "en"
         },
         {
-          "title": "Particle 101: Diphtheria",
-          "description": "The forgotten disease making headlines again.",
-          "url": "https://particle.scitech.org.au/mind-body/particle-101-diphtheria/",
+          "title": "Tin Pei Ling's NDP photo with Pritam Singh and Sylvia Lim draws praise for political goodwill",
+          "description": "A welfie featuring Singaporean politicians from across the political divide appeared to resonate with netizens.People’s Action Party (PAP) Member of Parliament (MP) Tin Pei Ling shared a welfie with Workers’ Party (WP) chief Pritam Singh and fellow WP MP Sylvia Lim during the National Day Parade (NDP) on Sunday (Aug 9).The three were all smiles as they waved Singapore flags...",
+          "url": "https://www.asiaone.com/singapore/tin-pei-lings-ndp-photo-pritam-singh-and-sylvia-lim-sparks-cheers-bipartisanship",
           "source": {
-            "name": "Scitech"
+            "name": "AsiaOne"
           },
-          "publishedAt": "2026-08-11T01:04:29Z",
-          "image": "https://particle.scitech.org.au/wp-content/uploads/2026/08/diptheria_FI.png",
+          "publishedAt": "2026-08-11T04:00:51Z",
+          "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Aug2026/FBA1ndp_110826.jpg?itok=wtAvcks6",
           "language": "en"
         },
         {
-          "title": "14 dead as landslides, heavy rain batter Cordillera",
-          "description": "Police say all the reported deaths were caused by landslides in Baguio City and Benguet",
-          "url": "https://www.rappler.com/philippines/deaths-landslides-heavy-rain-batter-cordillera-august-2026/",
-          "source": {
-            "name": "Rappler"
-          },
-          "publishedAt": "2026-08-11T01:03:45Z",
-          "image": "https://www.rappler.com/tachyon/2026/08/Baguio-disaster-response-august-2026.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Afghanistan Defeats Ireland in Belfast; Qualifies for ODI World Cup 2027",
-          "description": "Afghanistan qualifies for ODI World Cup 2027 after defeating Ireland. Follow Bhaskar English Latest Updates. Afghanistan defeated Ireland by 3 wickets in the third ODI. With this victory, Afghanistan directly qualified for the 2027 ODI World Cup.",
-          "url": "https://www.bhaskarenglish.in/sports/cricket/news/afghanistan-qualify-for-odi-world-cup-2027-beat-ireland-in-odi-138692509.html",
-          "source": {
-            "name": "Bhaskar English"
-          },
-          "publishedAt": "2026-08-11T01:03:22Z",
-          "image": "https://images.bhaskarassets.com/thumb/730x0/web2images/1884/2026/08/11/hpxfmpvwyaau-jv-730x548_1786389376610.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Unitree IPO frenzy leaves Chinese retail investors with 1-in-5,500 odds",
-          "description": "Robotics company’s US$900 million Star Market listing offers slimmer odds than recent offerings by CXMT, Moore Threads and MetaX.",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3363570/unitree-ipo-frenzy-leaves-chinese-retail-investors-1-5500-odds",
+          "title": "US swaps ideology for ‘flexible realism’ and hard deterrence in Southeast Asia",
+          "description": "Pentagon’s Colby urges allies to invest more in defence as Washington prioritises pragmatic Indo-Pacific partnerships over moral values.",
+          "url": "https://www.scmp.com/week-asia/politics/article/3363596/us-swaps-ideology-flexible-realism-and-hard-deterrence-southeast-asia",
           "source": {
             "name": "South China Morning Post"
           },
-          "publishedAt": "2026-08-11T01:00:09Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/10/963c8ba2-88ae-4a11-a8b2-7aaa18bfb194_1ad28bed.jpg?itok=2ogizD2c&v=1786371929",
+          "publishedAt": "2026-08-11T04:00:15Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/11/bc4e5fcb-0218-4e12-a7f0-d931448a925c_bf33d0a7.jpg?itok=dbXLQL9t&v=1786417327",
           "language": "en"
         },
         {
-          "title": "Ragnarok Twilight tier list",
-          "description": "While classes aren't as big a deal in this idle RPG as in other MMOs in the IP, our Ragnarok Twilight tier list can still help you start your journey the right way!",
-          "url": "https://www.pocketgamer.com/ragnarok-twilight/tier-list/",
+          "title": "Tougher than armour, hard as diamond: China’s unbreakable crystal breakthrough",
+          "description": "Scientists use carbon nanotubes to build an internal support structure that overcomes the brittle glasslike nature of diamonds.",
+          "url": "https://www.scmp.com/news/china/science/article/3362770/tougher-armour-hard-diamond-chinas-unbreakable-crystal-breakthrough",
           "source": {
-            "name": "pocketgamer.com"
+            "name": "South China Morning Post"
           },
-          "publishedAt": "2026-08-11T01:00:00Z",
-          "image": "https://media.pocketgamer.com/artwork/na-38642-1786354834/ragnarok-twilight-tier-list-cover.jpg",
+          "publishedAt": "2026-08-11T04:00:09Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/03/b4d66fc3-f6af-4960-b1a9-cb537cc1b8ef_aa6d0494.jpg?itok=vT9B9NOk&v=1785740051",
           "language": "en"
         },
         {
-          "title": "Ontario’s next Liberal leader needs seat, candidates argue",
-          "description": "Rivals targeted front-runner Navdeep Bains’ lack of a seat at the first candidates’ debate of the Ontario Liberal leadership race.",
-          "url": "https://www.thestar.com/politics/provincial/ontarios-next-liberal-leader-needs-a-seat-in-the-legislature-mpps-argue-in-first-candidates-debate/article_ac86affc-2160-4b95-be6b-e2cb62dac70c.html",
+          "title": "Democratic socialist looks to win Wisconsin primary for governor",
+          "description": "A democratic socialist is trying to rise above the incumbent governor’s endorsed candidate in Wisconsin’s chaotic primary race for governor.",
+          "url": "https://apnews.com/article/wisconsin-primary-governor-hong-socialist-acd872f6cf113e741291b9b47f9d9111",
           "source": {
-            "name": "Toronto Star"
+            "name": "AP News"
           },
-          "publishedAt": "2026-08-11T01:00:00Z",
-          "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/a5/5a57bca5-1b87-5ce0-b278-432f123f846b/6a7a70cc33ab6.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "publishedAt": "2026-08-11T04:00:00Z",
+          "image": "https://dims.apnews.com/dims4/default/c9893b8/2147483647/strip/true/crop/3669x2445+0+154/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe4%2F33%2F0c9fc192c6c65203a77b333c6faf%2Febe2070286134837a8f2a2506f9c9afc",
           "language": "en"
         },
         {
-          "title": "Philip Polkinghorne gives evidence at Pauline Hanna coroner’s inquest in Auckland",
-          "description": "Retired Auckland eye surgeon Philip Polkinghorne, acquitted of murdering wife Pauline Hanna in 2021, recounted cradling his wife’s lifeless body in his arms...",
-          "url": "https://www.nzherald.co.nz/nz/crime/philip-polkinghorne-gives-evidence-at-pauline-hanna-coroners-inquest-in-auckland/BANJ4GLX3ZB2XBNGLJXQFXNHRU/",
+          "title": "Stepdad bust in cemetery horror!",
+          "description": "Police arrested a 24-year-old stepfather after the body of a four-year-old boy was found wrapped in blankets and curtains at the Old Cemetery in Malebogo on Monday, 10 August 2026.",
+          "url": "https://www.snl24.com/news/stepdad-bust-in-cemetery-horror-20260811/",
           "source": {
-            "name": "NZ Herald"
+            "name": "snl24.com"
           },
-          "publishedAt": "2026-08-11T01:00:00Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/UCOP2HFQC5AF5AKXS2NTEL24IA.jpg?auth=5a91838826c52c468b9844ce95e6db42a0c16c03b426bee59c681dfadaff1f87&width=1200&height=675&quality=70&focal=3292%2C1584&smart=false",
+          "publishedAt": "2026-08-11T04:00:00Z",
+          "image": "https://media24-dailysun-prod.web.arc-cdn.net/resizer/v2/QUHJ5QHXNFHFRN3QACVNNG427M.jpg?smart=true&auth=01106d58e11851042e1245745411e047532c385e8656f0513af64d527ddea36c&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Panathinaikos owner says he attempted to lure three-time NBA MVP Nikola Jokić to Europe",
-          "description": "Dimitrios Giannakopoulos says he was willing to buy out the Serbian star’s Denver Nuggets contract",
-          "url": "https://www.theguardian.com/sport/2026/aug/10/panathinaikos-owner-says-he-attempted-to-lure-three-time-nba-mvp-nikola-jokic-to-europe",
+          "title": "Typhoon Dolphin's vast storm system pushes inland, threatens central China",
+          "description": "The orange alert for heavy rain - the second-highest warning level - has been issued, with northwestern Hubei expected to receive as much as 250mm of rain in 24 hours.",
+          "url": "https://www.channelnewsasia.com/east-asia/typhoon-dolphin-central-china-storm-6311111",
+          "source": {
+            "name": "CNA"
+          },
+          "publishedAt": "2026-08-11T04:00:00Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--gBW-TFpC--/c_crop,h_398,w_709,x_1,y_255/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/11/typhoon-dolphin-zhejiang-reuters.jpg?itok=TfZgRPRK",
+          "language": "en"
+        },
+        {
+          "title": "Fan who threw vape at pitch during Bromley game slapped with football ban",
+          "description": "An away fan who threw a vape at the pitch during a Bromley game has been banned from football matches.",
+          "url": "https://uk.sports.yahoo.com/news/fan-threw-vape-pitch-during-040000700.html",
+          "source": {
+            "name": "Yahoo Sports UK"
+          },
+          "publishedAt": "2026-08-11T04:00:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/2f067fa2ce3816a1487bea446172a5cdd7cde0539c23417a51686d75ee7f4c27/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnews_shopper_960%2F3c29f11899fd82acaf39c845ac93104f",
+          "language": "en"
+        },
+        {
+          "title": "The great silence: why haven’t we found any aliens yet?",
+          "description": "The long read: Given the size and age of the universe, it should be full of species with technology far more advanced than our own. But so far there is no trace",
+          "url": "https://www.theguardian.com/news/2026/aug/11/the-great-silence-why-havent-we-found-any-aliens-yet",
           "source": {
             "name": "The Guardian"
           },
-          "publishedAt": "2026-08-11T01:00:00Z",
-          "image": "https://i.guim.co.uk/img/media/d4491d9464a8876987f702b26b0af60727dc955c/481_0_3797_3038/master/3797.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c9e47d05da84c5a4041223c19bb0ec08",
+          "publishedAt": "2026-08-11T04:00:00Z",
+          "image": "https://i.guim.co.uk/img/media/c42bd6a72d410220a91e2a2a39ac3bc69e06af9a/802_0_3797_3038/master/3797.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f150399ce0e9ff0f7d1c97671bbbccef",
           "language": "en"
         }
       ]
