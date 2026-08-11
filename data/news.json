@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-11T19:02:43.450Z",
+  "updatedAt": "2026-08-11T21:49:01.402Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "台風15号は今夜関東上陸へ 明日12日は西日本へ 新たな台風も発生か",
+          "description": "台風15号は、今日11日夜に関東地方に上陸する見込みです。その後も西寄りに進み、明日12日は西日本まで達したあと、昼過ぎまでには熱帯低気圧に変わるでしょう。ただ、台風でなくなったあとも油断はできません。明日にかけて東北から西日本の広い範囲で大雨となる所があり、西日本では12日から13日にかけて高潮にも厳重な警戒が必要です。",
+          "url": "https://tenki.jp/forecaster/gureweather/2026/08/11/40107.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-08-11T09:05:13Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/401/40107/main/20260811164309/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "EBiDAN (恵比寿学園男子部)「Yes! 東京」インタビュー――15周年を記念したEBiDANの新たな代表曲！",
+          "description": "EBiDAN (恵比寿学園男子部) 15 周年！ 「Yes! 東京」リリース！ タカシ（超特急）・古川毅（SUPER★DRAGON）・田中雅功 & 髙田彪我（Sakurashimeji）・FUMINORI & FUMIYA （BUDDiiS）・志賀李玖 & 山本龍人（ICEx）・近藤駿太（Lienel）が集合！",
+          "url": "https://e.usen.com/interview/interview-original/ebidan-yes-tokyo.html",
+          "source": {
+            "name": "USENの音楽情報サイト"
+          },
+          "publishedAt": "2026-08-11T09:02:05Z",
+          "image": "https://e.usen.com/image/39df181b20d0a0484c25b26c8ed0c6c2435b4179.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "中国自動車販売、7月は前年比21％減 輸出シフト加速",
+          "description": "［北京　１１日　ロイター］ - 中国乗用車協会（ＣＰＣＡ）が１１日発表した７月の国内自動車販売台数は前年同月比２１．１％減の１４７万台となり、１０カ月連続で減少した。ただ、減少ペースは鈍化した。",
+          "url": "https://news.yahoo.co.jp/articles/0b18e6dd3641110df38af9b65f38f401fe2dce31",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-11T08:43:17Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00000061-reut-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【速報】「RIZIN54」全試合結果 秋元強真がクレベル・コイケに完封勝利",
+          "description": "総合格闘技イベント「RIZIN.54」が、8月11日（火）に東京・有明のTOYOTA ARENA TOKYO兵庫県・神戸で開催されている。現在、毎月開催されているRIZINにとって、東京開催は2026年初回となった3月以来。地方大会を経た東京凱旋では、前回東京開催と同様に秋元強真選手がメインカードの一人をつとめる。注目のメインカードはク…",
+          "url": "https://kai-you.net/article/96224",
+          "source": {
+            "name": "KAI-YOU"
+          },
+          "publishedAt": "2026-08-11T08:11:00Z",
+          "image": "https://img.kai-you.net/storage/2026/08/eea60e2b-0e2a-4175-876a-28d55f2b0072/jpg/RIZIN54_KOIKE_akimoto.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「過去から弾が出てるみたい」と話題のゲーミングマウス、あと3日で最安が終わります",
+          "description": "敵を視認して、「撃たなきゃー」と思って、左クリック。FPSゲームでは幾度となくこの操作が繰り返されます。その一回一回を少しでも速く、敵よりも速く撃ちたい。そんなプレイヤーの声に応える形で日々進化するのがゲーミングマウスの宿命。その一つが、K",
+          "url": "https://www.gizmodo.jp/article/g6-he-ultralight-3days-left/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-08-11T08:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/08/07/79acb821-ab43-4012-972d-ad649182c1f3/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "【巨人】首位攻防戦完敗で2位転落...3連勝ならず 山﨑6回途中6失点今季初黒星 近本に先制被弾 前川＆元山に痛打 ダルベック19号も",
+          "description": "■プロ野球　巨人 1－9 阪神（11日・東京ドーム）\n巨人は阪神との首位攻防戦に敗れ、2位に転落した。3連勝はならず、通算55勝45敗2分で貯金は10に減った。先発の山﨑は6回途中6失点のピッチン",
+          "url": "https://news.yahoo.co.jp/articles/170cd3cbd46441eaf93cf7171b812b1736e9304f",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-11T07:58:08Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00010009-jnn-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "フレンドと一緒に謎に満ちたオープンワールドを散策する『Big Walk』発売6日で100万本突破！『いたずらガチョウ』開発元新作",
+          "description": "Panicは、House Houseが手掛ける協力アドベンチャーゲーム『Big Walk』が発売から6日で100万本を売り上げたことを発表しました。\n『いたずらガチョウ』開発元新作、100万本突破",
+          "url": "https://news.yahoo.co.jp/articles/5082dbc3e40320584334e9f4b460fcd6b1c5516b",
+          "source": {
+            "name": "news.yahoo.co.jp"
+          },
+          "publishedAt": "2026-08-11T07:15:03Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00000023-gamespav-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "ゼレンスキーはロシアの「9月下院選後の大規模動員」を警戒 プーチンはカザフ大統領の「停戦」進言を一蹴…ウクライナ戦争終結の「暗い見通し」",
+          "description": "ロシアによるウクライナ侵攻で始まった両国の戦争はいつ終わるのか。ドローンを駆使した攻撃により、両国では前線から遠く離れた軍事拠点や民間施設が破壊・炎上し、民間人を含む人的被害も多数出ている。戦争終",
+          "url": "https://news.yahoo.co.jp/articles/25cd3a453390f64d9760feeb3bf3f7d0cbb02b2a",
+          "source": {
+            "name": "news.yahoo.co.jp"
+          },
+          "publishedAt": "2026-08-11T07:15:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00000007-pseven-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "“恐竜＆アリス”「ちいかわぽけっと」公式グッズ第3弾発売！ ポップアップストアも開催",
           "description": "「ちいかわ」初のスマホアプリ「ちいかわぽけっと」の公式グッズ第3弾が登場。全国5か所でポップアップストアも開催されることが分かった。「ちいかわぽけっと」は、“ちいかわたちといつでもどこでも一緒”をコンセプトに、「ちいかわ」の世界観を感じられ…",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-08-11T06:16:15Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00010006-jnn-000-1-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "『オーバーウォッチ』バトルパスが好きな報酬から取れるトラック制に変更―過去スキンに変えてしまう仕組みも登場へ。ルセラ新コラボも予告のシーズン4は8月12日開幕",
-          "description": "ゲーム内では、生存しているチームメイトと敵の数が表示されるようになり、状況の把握がしやすくなります。",
-          "url": "https://www.gamespark.jp/article/2026/08/11/170522.html",
-          "source": {
-            "name": "Game*Spark"
-          },
-          "publishedAt": "2026-08-11T06:00:04Z",
-          "image": "https://www.gamespark.jp/imgs/ogp_f/1173139.webp",
-          "language": "ja"
-        },
-        {
-          "title": "明日12日の気圧予報 台風が去った関東で影響度「大」 台風通過後の西日本も注意",
-          "description": "台風15号は関東にかなり接近しており、今日11日夜には上陸するおそれがあります。明日12日には台風が西日本まで進み、明後日13日朝までに熱帯低気圧に変わるでしょう。台風が去った後は関東で気圧の影響度が「大」となるため、気圧変化による体調不良にご注意ください。",
-          "url": "https://tenki.jp/forecaster/t_okamoto/2026/08/11/40104.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-08-11T05:48:06Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/401/40104/main/20260811123642/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ME:I・TSUZUMI、活休中の悔しさ糧にオーディション挑戦「背中を押された」再始動のきっかけとは【モアナと伝説の海】",
-          "description": "ガールズグループ・ME:I（ミーアイ）のTSUZUMIが8月11日、都内で開催された映画『モアナと伝説の海』大ヒット御礼イベントに出席。本作への熱い思いを語った。",
-          "url": "https://mdpr.jp/cinema/detail/4827652",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-08-11T05:35:13Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/HNAF/wm/HNAFS0wdgZ83QhgywHjya76_STt1T6AymtLHRGwA_FE.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "明日の風、薫る：8月12日 第98回 あらすじ＆場面カット 直美の職場に“訪ねてきた人物”は？",
-          "description": "見上愛さんと上坂樹里さんがダブル主演を務めるNHK連続テレビ小説（朝ドラ）「風、薫る」（総合、月～土曜午前8時ほか）は、第20週「家族のかたち」を放送。8月12日の第98回では……- 写真 (2/5枚)",
-          "url": "https://mantan-web.jp/article/20260810dog00m200064000a/photopage/002.html",
-          "source": {
-            "name": "Mantan Web"
-          },
-          "publishedAt": "2026-08-11T04:52:52Z",
-          "image": "https://storage.mantan-web.jp/w=1140,h=760,f=webp:auto/images/2026/08/10/20260810dog00m200064000a/002.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ドジャース、大谷翔平の激走で熱戦制す 3カ月ぶり二盗→決勝ホームイン 左膝不安感じさせない快走＆適時打含む4試合ぶりマルチ",
-          "description": "「ドジャース6―5ロイヤルズ」（10日、ロサンゼルス）\n　ドジャースが一進一退の激戦を制し、8月2勝目を挙げた。\n　大谷翔平投手は「1番・指名打者」で先発。4打数2安打1打点で、4試合ぶり37",
-          "url": "https://news.yahoo.co.jp/articles/a1293d83ebda67d2360f45980c86396cf98252de",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-11T04:47:14Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00010004-dal-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "コロンビアでM7.4の地震、近年で最大級 130人以上死亡",
-          "description": "コロンビアで10日午前7時34分ごろ、マグニチュード（M）7.4の強い地震が発生し、少なくとも132人の死亡が確認された。近年で最大規模の地震を受け、非常事態宣言が発令された。",
-          "url": "https://www.bbc.com/japanese/articles/ce8lj4gwje3o",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-08-11T03:35:43Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/7a6b/live/0eb51af0-94fe-11f1-9181-85140b8ce01b.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Windows 11の天気アプリが1.2GB以上のメモリを消費、その正体は「隠れブラウザ」",
-          "description": "Windows 11標準の天気アプリがChromiumブラウザとして動作し、1.2GB以上のRAMを消費していることが判明。8GBのPCでは影響が大きく、バックグラウンド実行の無効化等の対策が推奨される。",
-          "url": "https://www.zaikei.co.jp/article/20260811/865267.html",
-          "source": {
-            "name": "財経新聞"
-          },
-          "publishedAt": "2026-08-11T03:33:46Z",
-          "image": "http://www.zaikei.co.jp/files/general/20260811123345UEK0big.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ウクライナのドローン、ロシア領内深く攻撃 少なくとも13人殺害",
-          "description": "ロシア西部タタールスタン共和国の当局は10日、ウクライナ軍のドローン攻撃で、子ども1人を含む13人が殺害され、75人が負傷したと発表した。2022年2月にロシアがウクライナ全面侵攻を開始して以来、ウクライナによるロシア攻撃の中でも、特に死傷者の多い単独攻撃となった。ウクライナはこのところ、ロシアのウクライナ侵攻に軍資金や補給物資を提供しているとされる施設への長距離攻撃を強化している。",
-          "url": "https://www.bbc.com/japanese/articles/cy741ygv2e0o",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-08-11T03:20:15Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/cc11/live/b8002050-9495-11f1-9ade-bb7c8a2b6bc0.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Honor Play 80 featuring Dimensity 6300 chip is live on sale",
-          "description": "Honor Play 80 smartphone has now joined the sale pool. The device is open for purchase on authorized shopping channels like JD.com. Intereste",
-          "url": "https://www.huaweicentral.com/honor-play-80-featuring-dimensity-6300-chip-is-live-on-sale/",
+          "title": "Ronald Araujo reveals the reason behind choosing his Liverpool shirt number after Barcelona loan move",
+          "description": "Ronald Araujo explains why he chose the number 33 at Liverpool following his loan move from Barcelona to Anfield under Andoni Iraola.",
+          "url": "https://www.goal.com/en-ke/lists/ronald-araujo-liverpool-shirt-number-barcelona-loan/bltdb234bcbf6195205",
           "source": {
-            "name": "Huawei Central"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-08-11T07:02:31Z",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/HonorPlay80.jpg",
+          "publishedAt": "2026-08-11T09:48:57Z",
+          "image": "https://assets.goal.com/images/v3/getty-2281767519/crop/MM5DGMZZHA5DCOJRGE5G433XMU5DAORRG43Q====/GettyImages-2281767519.jpg",
           "language": "en"
         },
         {
-          "title": "Cairn Homes appoints former IIP chief Pat Farrell as non-executive director",
-          "description": "Former IIP chief executive’s appointment is effective from October 1st",
-          "url": "https://www.irishtimes.com/business/2026/08/11/cairn-homes-appoints-former-iip-chief-pat-farrell-as-non-executive-director/",
+          "title": "Delivery drivers to be paid minimum $31.30 an hour across Australia in ‘world-leading’ decision",
+          "description": "Fair Work Commission issues a new minimum standards order for gig workers to come into effect 17 August",
+          "url": "https://www.theguardian.com/business/2026/aug/11/delivery-drivers-to-be-paid-minimum-3130-an-hour-across-australia-in-world-leading-decision",
           "source": {
-            "name": "The Irish Times"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-08-11T07:02:26Z",
-          "image": "https://www.irishtimes.com/resizer/v2/LKCMJ4TKVRMNZEYQZIIXM52HXQ.jpg?smart=true&auth=9387a691b242597c871b0e7305ff81e5996de1b38886628241c56267ba59fe40&width=1200&height=630",
+          "publishedAt": "2026-08-11T09:47:00Z",
+          "image": "https://i.guim.co.uk/img/media/b08c2f80d5ee7504b93805cda932ee6594e25005/1206_1334_3932_3146/master/3932.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da0daffb50790669610b41fe7f9cb708",
           "language": "en"
         },
         {
-          "title": "Magnitude 7.4 quake hits western Colombia, killing at least 111",
-          "description": "The powerful quake trapped some residents under debris of collapsed buildings, and forced people to evacuate their homes as far as the capital of Bogotá.",
-          "url": "https://www.1news.co.nz/2026/08/11/magnitude-74-quake-hits-western-colombia-killing-at-least-111/",
+          "title": "Motshekga warned of border infrastructure shortcomings, including fencing",
+          "description": "The latest addition to the workload of Defence and Military Veterans Minister Angie Motshekga comes from her being part of the Inter-Ministerial Committee on",
+          "url": "https://defenceweb.co.za/security/border-security/motshekga-warned-of-border-infrastructure-shortcomings-including-fencing/",
           "source": {
-            "name": "1News"
+            "name": "defenceWeb"
           },
-          "publishedAt": "2026-08-11T07:01:49Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/esidents-search-through-the-rubble-after-an-earthquake-struc-WZKYL4LD7ZGZJA5E5RFEPUBCFE.jpg?auth=18f931a52d038f0d8ce65ea76e5eb9b4523fd3228c1ee0b972a9cb2bcf71a374&quality=70&width=600&height=315&focal=1556%2C834",
+          "publishedAt": "2026-08-11T09:46:50Z",
+          "image": "https://defenceweb.co.za/wp-content/uploads/Unorganized/no_border_fence_df_fb.jpg",
           "language": "en"
         },
         {
-          "title": "A private donation is empowering MS researchers to explore which exercises benefit patients - and why",
-          "description": "A major private donation is funding new multiple sclerosis (MS) research at Memorial University.The Branch Out Neurological Foundation has provided $723,820 from the Ralph M. Barford Foundation to. . .",
-          "url": "https://educationnewscanada.com/article/education/level/university/1/1212995/fuelling-discovery-a-private-donation-is-empowering-ms-researchers-to-explore-which-exercises-benefit-patients-and-why-.html",
+          "title": "Groups seek Supreme Court review of court order halting wage hike",
+          "description": "Akbayan asked the Supreme Court to review a Pasig court’s orders suspending Metro Manila’s new minimum wage hike.",
+          "url": "https://www.philstar.com/headlines/2026/08/11/2548575/groups-seek-supreme-court-review-court-order-halting-wage-hike",
           "source": {
-            "name": "Education News Canada"
+            "name": "Philstar.com"
           },
-          "publishedAt": "2026-08-11T07:01:02Z",
-          "image": "https://educationnewscanada.com/images_logo/banniere_24113.jpg?v=20260811",
+          "publishedAt": "2026-08-11T09:46:00Z",
+          "image": "https://media.philstar.com/photos/2026/08/11/akbayan-document-supreme-courtjpeg_2026-08-11_13-30-48.jpg",
           "language": "en"
         },
         {
-          "title": "Ex-Florida Cop Who Allegedly Tracked Actress He Met on Vince Vaughn TV Show Avoids Jail",
-          "description": "The Florida police officer who was arrested after authorities said he used law enforcement cameras -- also known as Flock cameras -- to track a woman he met on the set of a Vince Vaughn TV show avoided jail time with a pre-trial intervention program ... TMZ has learned.",
-          "url": "https://www.tmz.com/2026/08/11/former-florida-cop-on-probation-after-tracking-actress-he-met-on-set/",
+          "title": "Kids’ mental health unit shut as staff investigated for use of force",
+          "description": "An investigation is now under way into the claims which have been described as “disturbing and completely unacceptable” by the state government.",
+          "url": "https://www.theage.com.au/national/victoria/kids-mental-health-unit-shut-as-staff-investigated-for-use-of-force-20260811-p60nc9.html",
           "source": {
-            "name": "TMZ"
+            "name": "The Age"
           },
-          "publishedAt": "2026-08-11T07:00:55Z",
-          "image": "https://imagez.tmz.com/image/48/16by9/2026/08/10/48908af551184d49bd476460ee9f8cea_xl.jpg",
+          "publishedAt": "2026-08-11T09:45:00Z",
+          "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_12/t_crop_custom/q_86%2Cf_auto/510752f2aaab0ca3520f4ccc3cdd79af5c93a4cd429a12a21a5cbb30d31e8418",
           "language": "en"
         },
         {
-          "title": "How bioavailability is moving nutraceuticals closer to pharmaceutical science",
-          "description": "The term nutraceutical was coined in 1989 by combining “nutrition” and “pharmaceutical.” More than three decades later, that connection has never felt more relevant",
-          "url": "https://nutraceuticalbusinessreview.com/how-bioavailability-is-moving-nutraceuticals-closer-to-pharmaceutical",
+          "title": "Columbus Crew vs Club Universidad Nacional: TV channel, live stream & kick-off time",
+          "description": "Find out where to watch Columbus Crew vs Club Universidad Nacional live. Full TV channel and live stream details, kick-off time, team news, and form guide for this Leagues Cup 2026 fixture.",
+          "url": "https://www.goal.com/en-us/news/watch-columbus-crew-v-club-universidad-nacional-live-stream-online-tv-channel/bltf4dd1bd9feba43ea",
           "source": {
-            "name": "Nutraceutical Business Review"
+            "name": "goal.com"
           },
-          "publishedAt": "2026-08-11T07:00:21Z",
-          "image": "https://nutraceuticalbusinessreview.com/article-image-alias/how-bioavailability-is-moving-nutraceuticals-closer-2.jpg",
+          "publishedAt": "2026-08-11T09:44:40Z",
+          "image": "https://assets.goal.com/images/v3/93kOCNzkYGjiszFIvX-Di_DESKTOP/image.jpg",
           "language": "en"
         },
         {
-          "title": "FX Daily Snapshot",
-          "description": "Low FX volatility to persist as US earnings results impress again",
-          "url": "https://www.mufgresearch.com/fx/fx-daily-snapshot-11-august-2026/",
-          "source": {
-            "name": "MUFG Research"
-          },
-          "publishedAt": "2026-08-11T07:00:11Z",
-          "image": "https://www.mufgresearch.com/media/hfmdcxub/shutterstock_2363573339.png",
-          "language": "en"
-        },
-        {
-          "title": "Prudential warns against scammers impersonating staff, financial representatives",
-          "description": "Members of the public have reported receiving scam calls and WhatsApp messages, said the insurance provider. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/singapore/prudential-warns-against-scammers-impersonating-staff-financial-representatives",
+          "title": "Latvia finds tunnel under Belarus border, vows to combat people smugglers",
+          "description": "VILNIUS, Aug 11 - Latvia said on Tuesday a tunnel had been discovered under the border with Belarus and announced plans to combat networks that it says are helping a growing number of migrants cross the frontier illegally. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/world/europe/latvia-finds-tunnel-under-belarus-border-vows-to-combat-people-smugglers",
           "source": {
             "name": "The Straits Times"
           },
-          "publishedAt": "2026-08-11T07:00:00Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/2e06306dee5a3a71568d64d26ca39f4e1a33a2f4bea60d3d2b28878d016e84c7",
+          "publishedAt": "2026-08-11T09:44:21Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/029b8a83b685832e12814d43fa98fd6550934309a5d6c75c06d02d00e5cb76e1",
           "language": "en"
         },
         {
-          "title": "Report: Man City set to sign midfielder in £85m deal",
-          "description": "Man City transfer latest as Ayyoub Bouaddi move edges closer and Rodri nears Barcelona exitManchester City are advancing in talks to sign Ayyoub Bouaddi from Lille, a move that looks increasingly impo...",
-          "url": "https://sports.yahoo.com/articles/report-man-city-set-sign-070000303.html",
+          "title": "Russia is firing North Korean missiles at Ukraine, Zelenskyy claims, as more overnight attacks kill 9",
+          "description": "Russia and North Korea have been collaborating in the offensive against Ukraine since 2024.",
+          "url": "https://www.cbsnews.com/news/ukraine-north-korea-russia-missiles-war/",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "CBS News"
           },
-          "publishedAt": "2026-08-11T07:00:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/22d3a41106ce7e5bb06cbc234809ac48bb73eb1993cd2cfcd0e9112701104184/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fepl_index_articles_253%2F1b749ca617d5d7d73ed82dec728e1ed6",
+          "publishedAt": "2026-08-11T09:44:00Z",
+          "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/11/7db470ba-19f7-464b-a5f6-919f9fd50762/thumbnail/1200x630/1935c9d80be4cb174f0938c8e2f32369/gettyimages-2262363559.jpg",
           "language": "en"
         },
         {
-          "title": "Mourinho wants to make three more cuts to the Real Madrid squad - report",
-          "description": "While the summer transfer window remains open, Real Madrid manager Jose Mourinho is broadly satisfied with the squad at his disposal, although he still wants to trim it, reports AS.He made his prefere...",
-          "url": "https://sports.yahoo.com/articles/mourinho-wants-three-more-cuts-070000038.html",
+          "title": "Emraan Hashmi rubbishes reports of playing Mehmood in RD Burman biopic: ‘Haven’t been approached'",
+          "description": "Emraan Hashmi has denied playing Mehmood in the R D Burman biopic, clarifying he was not approached for the role. | Bollywood",
+          "url": "https://www.hindustantimes.com/entertainment/bollywood/emraan-hashmi-rubbishes-reports-of-playing-mehmood-in-rd-burman-biopic-haven-t-been-approached-101786439516780.html",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-08-11T07:00:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/8fca4bd451c105c01b0ec5c8a233bea0359de13c0d39c70d84136e2f45af44b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmadrid_universal_articles_561%2Fbdb17a5690cd025818c08d38093fae01",
+          "publishedAt": "2026-08-11T09:43:28Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/08/11/1600x900/logo/emraan_1786439893845_1786439893962_faa7e907-a18e-4ed7-bc5b-fdbc655a8ec1.webp",
+          "language": "en"
+        },
+        {
+          "title": "Syria court sentences Bashar al-Assad sentenced to death in absentia",
+          "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+          "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-08-11T09:42:48Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/edd9/live/d8ac8750-956f-11f1-98c3-1da4f20b80e4.jpg",
           "language": "en"
         }
       ]
