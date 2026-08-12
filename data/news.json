@@ -1,10 +1,21 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-12T04:46:58.275Z",
+  "updatedAt": "2026-08-12T07:25:39.790Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "マイクロソフト、Windows 11にOneDrive Photosを意図せず強制配信、簡単な削除方法なし",
+          "description": "マイクロソフトは8月1日頃から、ベータ版のOneDrive Photosアプリを一般消費者および企業向けのWindows 11 PCに意図せず配信していたことをWindows Latestに認め…",
+          "url": "https://finance.biggo.jp/news/67669997-72a7-487f-afe8-6286504d59cb",
+          "source": {
+            "name": "BigGo ファイナンス"
+          },
+          "publishedAt": "2026-08-11T18:24:00Z",
+          "image": "https://img.biggo.com/wL3VGyDW0aWEBSxvuHL8XkzQgrBFHsgbZZ6zU1aUMl4/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzY3NjY5OTk3LTcyYTctNDg3Zi1hZmU4LTYyODY1MDRkNTljYl8xNzg2NDczNTA4X2RlZmF1bHQuanBn.jpg",
+          "language": "ja"
+        },
         {
           "title": "阪神・村上頌樹が巨人戦3連勝 8回1失点で9勝目 同じ兵庫出身で同学年の巨人・山崎伊織に投げ勝った",
           "description": "◇セ・リーグ　阪神9―1巨人（2026年8月11日　東京ドーム）\n　根っからの阪神ファンの阪神・村上は、伝統の一戦が持つ重みをよく知っている。首位争いの行方を占う3連戦初戦で、ライバル心を結果に",
@@ -103,128 +114,117 @@
           "publishedAt": "2026-08-11T12:46:31Z",
           "image": "https://www.thefirsttimes.jp/admin/wp-content/uploads/2026/08/20260811-tako-2050001-1200x630.jpg",
           "language": "ja"
-        },
-        {
-          "title": "【ソフトバンク】モイネロ「100％じゃない分、なんか変な感じ」今季初登板初勝利／一問一答",
-          "description": "首位独走のソフトバンクにまた強力な戦力が帰ってきた。昨季MVP左腕リバン・モイネロ投手（30）がロッテ戦で今季初登板初先発し、6回4安打無失点で今季初勝利を挙… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/baseball/news/202608110001456.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-08-11T11:48:06Z",
-          "image": "https://www.nikkansports.com/baseball/news/img/202608110001456-w500_0.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-          "description": "SharePoint CVE-2026-55040 lets unauthenticated attackers impersonate users and chain with CVE-2026-63520 for code execution",
-          "url": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
+          "title": "Atlanta Braves Struggling All-Star Player Still Owed Nearly $150 Million",
+          "description": "The Atlanta Braves have experienced a large amount of offensive success this season, mostly behind the likes of Matt Olson, Drake Baldwin, Michael Harris II, Mauricio Dubon, and others. However, despite the overall success of the team, not every Braves player is exactly performing to the heights of their capabilities, which is okay because it’s […] The post Atlanta Braves Struggling All-Star Player Still Owed Nearly $150 Million appeared first on HEAVY.",
+          "url": "https://sports.yahoo.com/articles/atlanta-braves-struggling-star-player-192454811.html",
           "source": {
-            "name": "The Hacker News"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-08-11T16:47:00Z",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbDSDTAbeeAZ8pykGFRAGcCDs_3LZBuD8tYUJfh0jG35r_o84zM_bNo7q3TWcoEMPmZqvhzucujEF72b2c2HnzfDjowsj4Iw4psQEwcgADR_rVMCXVw18arcpSB0WLblkZeypa-bgJPsD0qwrqBUk2umKezFZTtuDpbi_kQlsGUSiveb2suBMRyc3oZhQ/s1700-e365/admin.jpg",
+          "publishedAt": "2026-08-11T19:24:54Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/74a5963698c7fb37efe1aac374df1efb1c3a7a28f4cce83d8f72098cb2a97b12/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F2f986ae233ecdd853ed92a92ee61f51b.jpg",
           "language": "en"
         },
         {
-          "title": "Venomous snake found inside Arkansas high school football player's helmet",
-          "description": "A Maumelle High School player shared his helmet with a dangerous reptile for over an hour during practice.",
-          "url": "https://www.usatoday.com/story/sports/high-school/football/2026/08/11/snake-high-school-football-player-helmet-arkansas/91254284007/",
+          "title": "European Championships: Sarah Healy finishes fourth in 5,000m final",
+          "description": "Dubliner tries longer distance on for size ahead of Saturday’s 1,500m",
+          "url": "https://www.irishtimes.com/sport/athletics/2026/08/11/live-european-championships-updates-sarah-healy-finishes-fourth-in-5000m-final/",
           "source": {
-            "name": "USA Today"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-08-11T16:46:00Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/11/USAT/91255248007-helmet-snake-aug-2026-pic-1.jpg?crop=1079,608,x0,y250&width=1079&height=608&format=pjpg&auto=webp",
+          "publishedAt": "2026-08-11T19:24:09Z",
+          "image": "https://www.irishtimes.com/resizer/v2/FBWAGBEPGIUGWZ3EOPCB4PO2CE.jpg?smart=true&auth=6b98f0512a113290d6d8882c4a28dda7d9ed2ffb5243e002d725b434bf9f9116&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Use NG-CDF funds to curb road carnage, MPs urged",
-          "description": "Members of Parliament have urged their colleagues to use part of the National Government Constituencies Development Fund (NG-CDF) to support road safety campaigns and help reduce road fatalities, particularly those involving boda boda riders. The MPs said boda boda-related accidents continue to claim the lives of many Kenyans despite various interventions by the government.- Advertisement […]",
-          "url": "https://www.kbc.co.ke/use-ng-cdf-funds-to-curb-road-carnage-mps-urged/",
+          "title": "Man, 54, charged in Halifax bomb threat",
+          "description": "Police have laid charges against Ali Assakereh in connection with a bomb threat that closed several downtown streets Monday.",
+          "url": "https://www.saltwire.com/nova-scotia/halifax/downtown-bomb-threat-charges-court-bail-us-consulate-police",
           "source": {
-            "name": "KBC Digital"
+            "name": "PNI Atlantic News"
           },
-          "publishedAt": "2026-08-11T16:45:58Z",
-          "image": "https://www.kbc.co.ke/wp-content/uploads/2026/08/NTSA-TODAY.jpg",
+          "publishedAt": "2026-08-11T19:23:11Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/saltwire/wp-content/uploads/2026/08/tch-tk081026bombthreat3_304660837.jpg",
           "language": "en"
         },
         {
-          "title": "Second Video Generation And Multimodal Inputs",
-          "description": "Alibaba has launched the beta version of Wan3.0, a generative AI video model capable of producing 30-second videos from text, images, audio, documents and web content.",
-          "url": "https://pokde.net/system/software/ai/alibaba-unveils-wan3-0-video-generation",
+          "title": "DSWD assures relief to all families affected by cyclones, 'habagat'",
+          "description": "MANILA, Philippines — The Department of Social Welfare and Development has assured the public that all families that were affected by Tropical Cyclones Luis and Maymay, vas well as the enhanced southwest monsoon will receive humanitarian assistance from the government.",
+          "url": "https://www.manilatimes.net/2026/08/12/news/dswd-assures-relief-to-all-families-affected-by-cyclones-habagat/2403402",
           "source": {
-            "name": "Pokde.Net"
+            "name": "manilatimes.net"
           },
-          "publishedAt": "2026-08-11T16:45:38Z",
-          "image": "https://cdn.pokde.net/wp-content/uploads/2026/08/12004417/wan3pbcover.jpg",
+          "publishedAt": "2026-08-11T19:23:00Z",
+          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/12/1171799.jpg",
           "language": "en"
         },
         {
-          "title": "Is People-Pleasing Making South Asian Women Sick?",
-          "description": "They’re taught to swallow their feelings and keep the peace. Research is only now revealing the toll this takes on the body.",
-          "url": "https://www.thejuggernaut.com/people-pleasing-south-asian-women-autoimmune-disease",
+          "title": "Fuel prices have risen substantially, new figures show",
+          "description": "Diesel up 19 cents and petrol up 9 cents from July, AA Ireland says, with further rises expected",
+          "url": "https://www.irishtimes.com/ireland/2026/08/11/fuel-prices-see-significant-month-on-month-increase-in-august/",
           "source": {
-            "name": "thejuggernaut.com"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-08-11T16:44:50Z",
-          "image": "https://images.ctfassets.net/ssn6gmzvvg61/eyRGm2uxtrosa80fN9NTV/f8a50c80a0849684152171c8b318809e/great_indian_kitchen_still.jpg",
+          "publishedAt": "2026-08-11T19:22:07Z",
+          "image": "https://www.irishtimes.com/resizer/v2/HGJ5LAV7WRFARFXJZR7R7NA4PA.jpg?smart=true&auth=c3c698bee7c2fdf898b3c3b55558c96a203f4b241d1718028bd31e25db1f3f87&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Inquest into death of young man at Kerry motorsport event opens in Cork",
-          "description": "22-year-old, Eoin McCarthy from Kildee, Dunmanway, Cork died following the incident during the Killarney Forest Rally on February 20th 2022",
-          "url": "https://www.radiokerry.ie/news/inquest-into-death-of-young-man-at-kerry-motorsport-event-opens-in-cork-494555",
+          "title": "Kogi Govt Flags Off Youth Entrepreneurship Grant Scheme, Urges Beneficiaries to Build Sustainable Businesses",
+          "description": "Spread the loveTweetThe Kogi State Government has flagged off the Kogi Youth Entrepreneurship and Business Grant Programme, with the state’s Executive Governor, Alhaji Ahmed Usman Ododo, reaffirming his administration’s commitment to empowering young people to become entrepreneurs and job creators. The Governor, who was represented at the Lokoja event by the Secretary to the Government […]",
+          "url": "https://kogireports.com/kogi-govt-flags-off-youth-entrepreneurship-grant-scheme-urges-beneficiaries-to-build-sustainable-businesses/",
           "source": {
-            "name": "Radio Kerry"
+            "name": "Kogi Reports"
           },
-          "publishedAt": "2026-08-11T16:43:15Z",
-          "image": "https://img.resized.co/radiokerry-ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1nLnJhZGlva2VycnkuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcL0VvaW5fTWNDYXJ0aHlfUklQLmllXy5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnJhZGlva2VycnkuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIyNzRmZjZkN2Q0Yzg1NTNkNjQ2YTAzMzI4ZTUyYTg0MTAwMDAzYmFhIn0=/inquest-into-death-of-young-man-at-kerry-motorsport-event-opens-in-cork.jpg",
+          "publishedAt": "2026-08-11T19:21:19Z",
+          "image": "https://kogireports.com/wp-content/uploads/2026/08/Grants-for-Kogi-Youths-2.jpeg",
           "language": "en"
         },
         {
-          "title": "Atlas Lionesses eye WAFCON final against Cameroon",
-          "description": "Atlas Lionesses eye WAFCON final against Cameroon. National coach Jorge Vilda announced Tuesday in Rabat that the women’s national team, having secured a spot in the upcoming World Cup, is now fully...",
-          "url": "https://en.yabiladi.com/articles/details/200476/atlas-lionesses-wafcon-final-against.html",
+          "title": "Breakfast briefing: Ignoring Hormuz & hoping for the best",
+          "description": "US data uninspiring; US 50% tariffs on Canada imminent; Singapore & Malaysia industry expands; Australian business sentiment stalls; RBA holds; UST 10yr at 4.69%; gold holds; oil prices firmer; NZ$1 = 58.8 USc; TWI-5 = 62.5",
+          "url": "https://www.interest.co.nz/economy/139767/us-data-uninspiring-us-50-tariffs-canada-imminent-singapore-malaysia-industry",
           "source": {
-            "name": "Yabiladi.com"
+            "name": "Interest.co.nz"
           },
-          "publishedAt": "2026-08-11T16:40:14Z",
-          "image": "https://static.yabiladi.com/files/articles/yabiladi.f047014f15f920edd1e2ed2e2d21cccc20260811174820.webp",
+          "publishedAt": "2026-08-11T19:21:00Z",
+          "image": "https://www.interest.co.nz/sites/default/files/2024-03/Breakfast2_Loop.gif",
           "language": "en"
         },
         {
-          "title": "‘Are you a staunch Hindu, do you eat non-veg food?’ Ram Temple CEO candidates asked to fill Google form",
-          "description": "The 18 candidates who were shortlisted from a pool of 5,200 applicants were also asked about their work experience and their families. | India News",
-          "url": "https://www.hindustantimes.com/india-news/ram-temple-mandir-ceo-post-interview-18-candidates-questions-selection-application-101786466080532.html",
+          "title": "iPhone 18 Pro Component Prices Could Surge 1.4x Prior to Release, Per Analysts",
+          "description": "Be prepared for a steep price increase with the next iPhone generation.",
+          "url": "https://finance.yahoo.com/technology/articles/iphone-18-pro-component-prices-191956791.html",
           "source": {
-            "name": "Hindustan Times"
+            "name": "Yahoo Finance"
           },
-          "publishedAt": "2026-08-11T16:39:50Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/08/11/1600x900/logo/ram_temple_1786466526584_1786466526688_6191945a-b969-484d-99e3-1964cf9b1f65.jpg",
+          "publishedAt": "2026-08-11T19:19:56Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/C53011A6DA40100A731BFC36621B07C25C9EA63EF3C50F92DBA595C328986A81/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fextreme_tech_articles_222%2F06fb5add5b247e33d2334d4dc18658ef",
           "language": "en"
         },
         {
-          "title": "Mr DIY, Scicom, Handal Energy, Cypark Resources, HE Group, SD Guthrie, Yoong Onn & West River",
-          "description": "Here is a brief recap of some business news and corporate announcements that made the headlines on Tuesday:",
-          "url": "https://theedgemalaysia.com/node/814147",
+          "title": "ASX set to slide, Wall Street retreats as oil rises on Hormuz uncertainty; CBA results ahead",
+          "description": "US stocks slipped a bit further from their records, while oil prices kept swinging on uncertainty about when the war with Iran will allow crude to flow freely again.",
+          "url": "https://www.smh.com.au/business/markets/asx-set-to-slide-wall-street-retreats-as-oil-rises-on-hormuz-uncertainty-cba-results-ahead-20260812-p60nha.html",
           "source": {
-            "name": "The Edge Malaysia"
+            "name": "SMH.com.au"
           },
-          "publishedAt": "2026-08-11T16:39:44Z",
-          "image": "https://assets.theedgemarkets.com/CITN_19.jpg",
+          "publishedAt": "2026-08-11T19:19:45Z",
+          "image": "https://static.ffx.io/images/$zoom_0.2491178546224418%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_42/t_crop_custom/q_86%2Cf_auto/ec2c2c6cdde39dc4afa8cd2507e77d5ad1a93578",
           "language": "en"
         },
         {
-          "title": "The SpaceX Rocket Finally Hit the Moon. Here's What Scientists Saw",
-          "description": "The crash carved a fresh lunar scar and exposed a growing space junk problem.",
-          "url": "https://www.zmescience.com/space/astrophysics-space/the-spacex-rocket-finally-hit-the-moon-heres-what-scientists-saw/",
+          "title": "'I mean kill Accord with votes, not violence’ - Osun senator backtracks on ‘killing’ comment",
+          "description": "Francis Fadahunsi says his ‘kill Accord’ comment circulating on social media was used metaphorically and not to incite violence.",
+          "url": "https://www.thecable.ng/i-mean-kill-accord-with-votes-not-violence-osun-senator-backtracks-on-killing-comment/",
           "source": {
-            "name": "ZME Science"
+            "name": "TheCable"
           },
-          "publishedAt": "2026-08-11T16:38:24Z",
-          "image": "https://cdn.zmescience.com/wp-content/uploads/2026/08/Melies_color_Voyage_dans_la_lune.jpg",
+          "publishedAt": "2026-08-11T19:16:00Z",
+          "image": "https://www.thecable.ng/wp-content/uploads/2025/08/IMG_6846.jpeg",
           "language": "en"
         }
       ]
