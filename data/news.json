@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-12T15:58:57.097Z",
+  "updatedAt": "2026-08-12T19:02:22.126Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "【台風情報】台風17号最新進路予想 17日にも本州に接近か 予想しづらい高気圧の「ガードレール」 お盆明けも天気急変に注意",
-          "description": "12日午前9時ごろ、新たな大型の台風17号が発生しました。現在の予想では、17日ごろにかけて関東の東の海上を北上する見込みですが、進路にはまだ幅があります。今回の台風は、「東へ進みたい台風」と「太平洋高気圧の壁」の綱引き状態となっていて、今後の進路を予想しづらくしています。今回の台風17号の東側には、太平洋高気圧がそびえ立っています。高気圧の周りでは時計回りに風が吹くため、台風はその縁をなぞるように進む性質があります。例えるなら、高気圧が道路脇の“ガードレール”のような役割を果たしていて、台風…",
-          "url": "https://www.fnn.jp/articles/-/1093163",
+          "title": "【12日の天気】台風一過とならず…各地で雷雨いつまで？ 新たな台風17号発生 週明け列島に影響も？",
+          "description": "11日(火)夜に関東に上陸した台風15号は、12日(水)朝に熱帯低気圧に変わりました。既に日本海へ抜けていますが、本州では12日(水)も広い範囲で雨や雷雨となっています。これまでの1日の天気を振り返ります。",
+          "url": "https://news.ntv.co.jp/category/weather/1d0f09262faf4cfeb52680cc3c6834a3",
           "source": {
-            "name": "FNNプライムオンライン"
+            "name": "news.ntv.co.jp"
           },
-          "publishedAt": "2026-08-12T03:42:00Z",
-          "image": "https://fnn.ismcdn.jp/mwimgs/7/2/600/img_722f5d8befd442f0b3140b8355b0fe8e456781.jpg",
+          "publishedAt": "2026-08-12T06:46:08Z",
+          "image": "https://news.ntv.co.jp/gimage/n24/articles/f669bec0f1e54f32bdcc1cf59e0f3ea6/f1e544f9-6f6a-4ad6-bd6a-f92dea010330.jpg?w=1200",
           "language": "ja"
         },
         {
-          "title": "「セガ 8月オススメセール」開催中！『新サクラ大戦』『メタファー：リファンタジオ』がセールに登場！",
-          "description": "『「セガ 8月オススメセール」開催中！『新サクラ大戦』『メタファー：リファンタジオ』がセールに登場！』の記事ページです。",
-          "url": "https://www.sankei.com/pressrelease/prtimes/OZXBMADW35LSTE2VF7H4IOHOFY/",
+          "title": "お盆期間中の関東の天気は? 週末に天気回復も 17日頃は台風17号の影響に注意",
+          "description": "関東は、13日(木)と14日(金)は、気圧の谷や湿った空気の影響で、曇りや雨でスッキリしないでしょう。15日(土)は次第に天気が回復し、16日(日)は各地で晴れそうです。なお、17日(月)頃は、今日12日(水)発生した台風17号が、関東の東まで北上する見通しです。今後の台風情報にご注意下さい。",
+          "url": "https://tenki.jp/forecaster/f_hiroaki/2026/08/12/40121.html",
           "source": {
-            "name": "産経ニュース"
+            "name": "tenki.jp"
           },
-          "publishedAt": "2026-08-12T03:19:14Z",
-          "image": "https://www.sankei.com/resizer/v2/https%3A%2F%2Fdpgdieoe6npux.cloudfront.net%2Fprtimes%2F2CW2BXZUNFNVXKOVHYZNT3OKXY?auth=c31f41b826dc2ce5dc8f15c54256810e4445c395ecdc39be1706e8e5de8eeb85&quality=50&smart=true&width=1200&height=675",
+          "publishedAt": "2026-08-12T06:00:10Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/401/40121/main/20260812123727/large.jpg",
           "language": "ja"
         },
         {
-          "title": "「セガ 8月オススメセール」開催中！『新サクラ大戦』『メタファー：リファンタジオ』がセールに登場！",
-          "description": "株式会社セガのプレスリリース（2026年8月12日 12時19分）「セガ 8月オススメセール」開催中！『新サクラ大戦』『メタファー：リファンタジオ』がセールに登場！",
-          "url": "https://prtimes.jp/main/html/rd/p/000007578.000005397.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-08-12T03:19:14Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/5397/7578/5397-7578-0bdd852759d2ef529a59caab86721249-900x506.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "本格的なJBLスピーカーを搭載したタブレットがモトローラから。日本でも発売して！",
-          "description": "タブレットの音、もう諦めなくて良い。タブレット端末はスマホより画面が大きいのに、音量や音響はスマホとどっこいどっこい。音に関しては期待せず、そういうモンだと割り切っています。場合によっては外部スピーカーに繋ぐこともありますが、ひとつ余計なデ",
-          "url": "https://www.gizmodo.jp/article/motorola-moto-pad-70-groove/",
-          "source": {
-            "name": "gizmodo.jp"
-          },
-          "publishedAt": "2026-08-12T03:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/08/11/64cf2e36-fa90-4939-b97c-d4e6b0eac84a/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "トランプ氏、7月に専用機からひそかに別機に乗り換えと報道認める 安全上の懸念と",
-          "description": "アメリカのドナルド・トランプ大統領は11日、先月トルコで開かれた北大西洋条約機構（NATO）首脳会議を終えて帰国する際、安全上の懸念があったため、ひそかに大統領専用機から別の軍用機に乗り換えていたことを認めた。これについては米紙ワシントン・ポストなどが報じていた。",
-          "url": "https://www.bbc.com/japanese/articles/c9q9dq0xlzro",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-08-12T02:38:15Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/7f69/live/2dd49110-956f-11f1-b2ab-0dd01740f9f6.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "在京イスラエル大使館、日本メディアを続々非難 毎日新聞には「プロパガンダ」、NHKには「訂正必要」",
-          "description": "在京イスラエル大使館の公式Xアカウントが2026年8月11日、毎日新聞が掲載した記事について「ジャーナリズムを装ったプロパガンダ」などと非難した。\n　同大使館は前10日にも、NHK報道に反論。日",
-          "url": "https://news.yahoo.co.jp/articles/e820b37a121b1f8a7b1630bb8154a84dc67f046a",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-12T02:30:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00000004-jct-000-5-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "「花火玉や花火師見てない」“公式カメラマン”が証言 謎の“琵琶湖大会”",
-          "description": "突如中止となった琵琶湖のナゾの花火大会の問題で、新たな証言です。大会の公式カメラマンを務めた男性が取材に応じ、「花火師や花火玉を一度も見ていない」と語りました。",
-          "url": "https://news.yahoo.co.jp/articles/e29684a48eaa7b4f14dbc94d57bb7be8afe3c1a6",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-12T02:21:25Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-90196969-ann-000-3-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "「チャンス紅陵」作曲者 「愛してるもいい、ただ…」夏の甲子園",
-          "description": "♪それ行けチャンスだ！かっ飛ばせ、かっ飛ばせ！ 　全国高校野球選手権大会第8日の12日、第1試合の2回戦に24年ぶり出場の拓大紅陵（千葉）が登場し、佐賀商に1―0で勝利した。",
-          "url": "https://mainichi.jp/articles/20260812/k00/00m/050/049000c",
+          "title": "「もう無理」中学受験で8連敗 深夜のどんでん返しで殻破った娘",
+          "description": "「落ちる未来しか見えてない」 　泣き言一つもらさなかった長女が突然、中学受験をやめると宣言した。今年2月4日、8回連続で入試の不合格が判明した夜のことだった。 　翌日に控えていた別の学校の試験に望みをかけようとする両親を、長女はかたくなに拒み続けた。",
+          "url": "https://mainichi.jp/articles/20260807/k00/00m/100/242000c",
           "source": {
             "name": "毎日新聞"
           },
-          "publishedAt": "2026-08-12T02:06:04Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/08/12/20260812k0000m050057000p/0c10.jpg?1",
+          "publishedAt": "2026-08-12T06:00:00Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/08/07/20260807k0000m100243000p/0c10.jpg?1",
           "language": "ja"
         },
         {
-          "title": "ASUS、世界初RGB OLED採用の34型湾曲ゲーミングモニター「ROG Swift OLED PG34WCDN」",
-          "description": "ASUSJAPANは、「RepublicofGamers（ROG）」ブランドの新製品として、世界初となるRGBOLEDを採用した34型湾曲ウルトラワイドゲーミングモニター「ROGSwiftOLEDPG34WCDN」を8月14日に発売する。...",
-          "url": "https://news.kakaku.com/prdnews/cd=pc/ctcd=0085/id=158106/",
+          "title": "『メタファー：リファンタジオ』が60%オフの3951円（Steam、PS Store）になるアトラス作品セール開催中",
+          "description": "『ペルソナ３ リロード』は65%オフの2687円（Steam版）、『ペルソナ５ ザ・ロイヤル』シリーズが70%オフの2303円（Steam版）に",
+          "url": "https://news.denfaminicogamer.jp/news/260812v",
           "source": {
-            "name": "kakaku.com"
+            "name": "電ファミニコゲーマー"
           },
-          "publishedAt": "2026-08-12T01:52:00Z",
-          "image": "https://img1.kakaku.k-img.com/Images/news_icv/1200x630/2026081/20260812104049_571_.jpg",
+          "publishedAt": "2026-08-12T05:52:00Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/sub1-1-1.jpg",
           "language": "ja"
         },
         {
-          "title": "ネクソン及びBlizzard Entertainment、韓国におけるPC版『オーバーウォッチ®』シーズン4のサービスを開始",
-          "description": "株式会社ネクソンのプレスリリース（2026年8月12日 10時00分）ネクソン及びBlizzard Entertainment、韓国におけるPC版『オーバーウォッチ®』シーズン4のサービスを開始",
-          "url": "https://prtimes.jp/main/html/rd/p/000000511.000014847.html",
+          "title": "映画『さとこはいつも』悪質な詐欺被害発生 悪質な手口を公開「被害の拡大を防ぐため」【報告全文】",
+          "description": "俳優の有村架純、石田ひかり、姫野花春がトリプル主演を務める沖田修一監督の最新作『さとこはいつも』（9月18日公開）の公式サイトが、12日に更新。同作の関係者を装った悪質な詐欺被害が発生したことを伝",
+          "url": "https://news.yahoo.co.jp/articles/985d77fd930acccd4a522e2f0748e655ce453386",
           "source": {
-            "name": "PR TIMES"
+            "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-08-12T01:00:02Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/14847/511/14847-511-c1a64c3a32796ba579b683b76e6bd4fc-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "publishedAt": "2026-08-12T05:50:59Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00000438-oric-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "＜独自＞米ボーイング、日航に謝罪 修理ミスの記述を削除「混乱招いた」 墜落事故41年",
+          "description": "乗客乗員520人が犠牲となった日航機墜落事故をめぐる米ボーイング社の修理ミスについて、ボーイングが自社サイトで公開していたミスの原因についての記述を削除し、「混乱を招いた」として日本航空に謝罪していたことが12日、分かった。産経新聞が昨年…",
+          "url": "https://www.sankei.com/article/20260812-HM4X5J5SGZOLVJKWCVAYUHP2UU/",
+          "source": {
+            "name": "産経ニュース"
+          },
+          "publishedAt": "2026-08-12T05:43:24Z",
+          "image": "https://www.sankei.com/resizer/v2/GEAYCUUDZ5KYLODZDC2Q3GCWQE.jpg?auth=5784d0b9b4139f810b82dc2b047715f905026f4e4841e8cf304dd612e89326ff&quality=50&focal=1818%2C1064&width=1200&height=675",
+          "language": "ja"
+        },
+        {
+          "title": "【台風情報】台風15号が熱帯低気圧に 去ってもゲリラ雷雨多発予想 雨雲バリアがなくなり、本州に雨雲が次々と侵入",
+          "description": "台風15号は12日午前に日本海で熱帯低気圧に変わったが、本州付近では広い範囲で13日にかけてゲリラ雷雨の可能性がある。これまで列島を覆っていた太平洋高気圧が列島から遠ざかってしまったため、雨雲をブロックするバリアがなくなり、列島には雨雲が侵入しやすい状況だ。本州の周りには熱帯低気圧と台風が複数存在する状況で、日本の周辺では雨雲が次々に発生しやすく、さらに熱帯低気圧などが雨雲を本州に送り込むポンプの役目をしている。すでに中国地方から東北地方にかけて、あちらこちらでゲリラ雷雨が発生している状況で、…",
+          "url": "https://www.fnn.jp/articles/-/1093264",
+          "source": {
+            "name": "FNNプライムオンライン"
+          },
+          "publishedAt": "2026-08-12T05:01:00Z",
+          "image": "https://fnn.ismcdn.jp/mwimgs/c/8/600/img_c8f2a4428a6949781d1b4bcdf7e1f447541721.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "＝LOVE、NCT DREAM、ME:I、INI、石川晟也、CUTIE STREET、THE RAMPAGEほか出演『STARフェス』開催決定！",
+          "description": "10月10日（土）、11日（日）、音楽番組『STAR』初の大型ライブイベント『STARフェス』が、ぴあアリーナMM（神奈川県横浜市）で開催されることが発表されました。番組初の大型ライブイベントとなる『STARフェス』には、番組名のとおり、ジャンルや世代を超えた“STAR”アーティストが一堂に集結。ライブパフォーマンスに加え、番組と連動したスペシャル企画やトークなどを展開します。10月10日（土）のDAY1には、抜群のパフォーマンス力でアリーナを魅了する、＝LOVE。世界的な人気を誇り圧倒的なライブパフォーマンスで人気を集める、NCT DREAM。オーディション番組から誕生しグローバルに活躍の…",
+          "url": "https://mezamashi.media/articles/-/333841",
+          "source": {
+            "name": "めざましmedia"
+          },
+          "publishedAt": "2026-08-12T04:45:00Z",
+          "image": "https://mezamashi.ismcdn.jp/mwimgs/2/b/1200xm/img_2b1754ebac1955db4fa5a3987a7e8be2110152.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "岩崎宏美、息子たちの“職業”明かす 長男は「私のマネージャー」 親子3ショットを“顔出し”公開",
+          "description": "ニュース｜　歌手の岩崎宏美（67）が12日、自身のインスタグラムを更新。「長男＆次男、大阪集結！」と書き出し、長男＆次男との“顔出し”親子3ショットを公開した。　岩崎は、1日・2日の2日間にわたり、ビルボードライブ大阪で『岩崎宏美 アコースティックツアー2026』を開催。息子たちが会場を訪れたことを紹介し、舞台裏で撮影した記念の親子ショットなどを披露した。",
+          "url": "https://www.oricon.co.jp/news/2473435/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-08-12T04:20:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2474000/2473435/20240621_180437_p_o_44886765.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "長崎県、熊本県で震度4の地震 津波の心配なし",
+          "description": "12日午後1時5分頃、熊本県天草・芦北地方を震源とするマグニチュード4.9の地震が発生し、長崎県、熊本県で最大震度4を観測しました。この地震による津波の心配はありません。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/08/12/40124.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-08-12T04:15:20Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/401/40124/main/20260812132604/large.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Tribunal dismisses aunt seeking access to children’s R2.2 million death benefit to save their home",
-          "description": "The Financial Services Tribunal prioritises the long-term financial security of two minor children over their aunt's urgent request to access their R2.2 million in death benefits to save their home.",
-          "url": "https://iol.co.za/news/crime-and-courts/2026-08-12-tribunal-dismisses-aunt-seeking-access-to-childrens-r22-million-death-benefit-to-save-their-home/",
+          "title": "Doctor and acquaintance jailed for drug consumption",
+          "description": "A doctor and an acquaintance have each been sentenced to a year in jail for consuming MDMA at a Sentosa hotel. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/singapore/courts-crime/doctor-acquaintance-who-took-drugs-in-sentosa-hotel-get-a-years-jail-each",
           "source": {
-            "name": "IOL"
+            "name": "The Straits Times"
           },
-          "publishedAt": "2026-08-12T03:55:00Z",
-          "image": "https://iol-prod.appspot.com/image/a5415cc38f75c663b7105531869f5f1350b50fe9/1000/jpeg",
+          "publishedAt": "2026-08-12T07:02:10Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/0470a7d95ddfca7e8a89b8f8d498840148c6dc73bd0cc3cc063cc1c016583bb3",
           "language": "en"
         },
         {
-          "title": "Review: Audio",
-          "description": "We review Audio-Technica's ATV-SG1 and ATV-SG1LE are on-camera shotgun mics for content creators – one feature-packed, one plug-and-play.",
-          "url": "https://mixdownmag.com.au/reviews/review-audio-technica-atv-sg1-atv-sg1le-shotgun-microphones/",
+          "title": "Norway wealth fund posts $184 billion profit, reveals SpaceX stake",
+          "description": "The fund — currently valued at around $2.34 trillion — is an investor in more than 7,000 companies across 60 countries.",
+          "url": "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html",
           "source": {
-            "name": "Mixdown Magazine"
+            "name": "CNBC"
           },
-          "publishedAt": "2026-08-12T03:53:34Z",
-          "image": "https://mixdownmag.com.au/wp-content/uploads/2026/08/Screenshot-2026-08-12-at-1.43.21-pm.png",
+          "publishedAt": "2026-08-12T07:01:56Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108093964-1738146257078-gettyimages-2195922457-NORWAY_NBIM.jpeg?v=1754981239&w=1920&h=1080",
           "language": "en"
         },
         {
-          "title": "Russia appoints former CJI DY Chandrachud as arbitrator in dispute with Ukrainian bank",
-          "description": "Costa Rican arbitrator and former trade minister Dyalá Jiménez will preside over the three-member tribunal.",
-          "url": "https://www.barandbench.com/news/russia-appoints-former-cji-dy-chandrachud-as-arbitrator-in-dispute-with-ukrainian-bank",
+          "title": "Dorothy Hisgrove exits KPMG Australia as leadership departures mount",
+          "description": "Hisgrove’s exit comes as KPMG’s handling of whistleblower claims faces scrutiny. She backed fines against three partners found to have misused client data.",
+          "url": "https://anz.peoplemattersglobal.com/news/leadership/dorothy-hisgrove-exits-kpmg-australia-as-leadership-departures-mount-51388",
           "source": {
-            "name": "Bar and Bench"
+            "name": "People Matters Global"
           },
-          "publishedAt": "2026-08-12T03:52:59Z",
-          "image": "https://cf-images.assettype.com/barandbench%2F2026-02-07%2Fwih84nrc%2FRakesh-Dwivedi-book-launch?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "publishedAt": "2026-08-12T07:00:54Z",
+          "image": "https://asset.peoplematters.in/images/668ed262-c9fa-49a7-b346-d121beb46f33.jpg",
           "language": "en"
         },
         {
-          "title": "FIFO boss resigns from flagship youth mental health service",
-          "description": "The chief executive of the Parkville Youth Mental Health and Wellbeing Service has announced she is leaving the role after workers complained of deteriorating patient care and frustration with so-called “absentee management”.",
-          "url": "https://www.theage.com.au/national/victoria/fifo-boss-resigns-from-flagship-youth-mental-health-service-20260812-p60nof.html",
-          "source": {
-            "name": "The Age"
-          },
-          "publishedAt": "2026-08-12T03:52:51Z",
-          "image": "https://static.ffx.io/images/$zoom_0.772%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_193%2C$y_136/t_crop_custom/q_86%2Cf_auto/14cf5cf14e91ce1eedc6ef21087308fb2c9b569a",
-          "language": "en"
-        },
-        {
-          "title": "Liberals pour cold water on Andrew Bragg's migration comments",
-          "description": "In a wideranging speech to the National Press Club, Andrew Bragg accuses the Morrison government of \"madness\" and says the major political parties have \"buggered it up\".",
-          "url": "https://www.abc.net.au/news/2026-08-12/liberals-pour-cold-water-on-bragg-migration-comments/107028192",
+          "title": "Roosters' coach Trent Robinson and Panthers' Ivan Cleary admit PNG Chiefs tax",
+          "description": "Two of the NRL's most successful modern coaches weigh into the debate about the concessions afforded to the league's forthcoming PNG franchise.",
+          "url": "https://www.abc.net.au/news/2026-08-12/super-coaches-weigh-into-png-chiefs-tax-debate/107029390",
           "source": {
             "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-08-12T03:52:09Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/245140691972b89e939f794aeb41ee13?impolicy=wcms_watermark_news&cropH=2953&cropW=5250&xPos=0&yPos=273&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-08-12T07:00:26Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/de55f1e73ea963e583405eb08fec2b8d?impolicy=wcms_watermark_news&cropH=1860&cropW=3306&xPos=0&yPos=8&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Sam Walker’s $5m knockback and contract leaks a sign of times in NRL’s wild player market",
-          "description": "Trent Robinson was pleased, disappointed and philosophical all at once after details of his star halfback’s contract talks became public.",
-          "url": "https://www.smh.com.au/sport/nrl/sam-walker-s-5m-knockback-and-contract-leaks-a-sign-of-times-in-nrl-s-wild-player-market-20260812-p60nm0.html",
+          "title": "Deputy CDF Gen. Okiding hails Museveni over Uganda's p",
+          "description": "Parliament has commended President Yoweri Museveni for his leadership in maintaining peace and security in Uganda, with lawmakers and military officials crediting his 40 years in power for the country’s stability.",
+          "url": "https://www.newvision.co.ug/category/news/deputy-cdf-gen-okiding-hails-museveni-over-ug-NV_238704_082026",
           "source": {
-            "name": "SMH.com.au"
+            "name": "NewVision.co.ug"
           },
-          "publishedAt": "2026-08-12T03:51:10Z",
-          "image": "https://static.ffx.io/images/$zoom_0.527931111111111%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_491%2C$y_121/t_crop_custom/q_86%2Cf_auto/852054c39f632efe7560966d8ddbb7d438872378",
+          "publishedAt": "2026-08-12T07:00:05Z",
+          "image": "https://newvision-media.s3.amazonaws.com/cms/95e2f379-bcd1-46a6-871e-604bcb87c24f.jpg",
           "language": "en"
         },
         {
-          "title": "With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy",
-          "description": "In response to a threat against the jet last month, the president was clandestinely removed in a catering container. But the plane was sent into the skies anyway with government employees and reporters onboard.",
-          "url": "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-decoy.html",
+          "title": "Janet Mbugua Raises Alarm Over Painful Periods: \"Has Become So Bad\"",
+          "description": "Janet Mbugua opens up about her health journey with endometriosis, discussing severe menstrual pain and inviting women to share their experiences on social media.",
+          "url": "https://www.tuko.co.ke/entertainment/celebrities/635980-janet-mbugua-raises-alarm-painful-periods-bad/",
           "source": {
-            "name": "The New York Times"
+            "name": "Tuko News"
           },
-          "publishedAt": "2026-08-12T03:50:46Z",
-          "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11dc-decoy-hjfg/11dc-decoy-hjfg-facebookJumbo.jpg",
+          "publishedAt": "2026-08-12T07:00:03Z",
+          "image": "https://cdn.tuko.co.ke/images/1200x675/50ddd5a45de89ca4.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "North Sumatra police detained three foreigners over alleged online scam",
-          "description": "North Sumatra police detained three foreigners over alleged online scam - Archipelago - The Jakarta Post",
-          "url": "https://www.thejakartapost.com/indonesia/2026/08/12/north-sumatra-police-detained-three-foreigners-over-alleged-online-scam",
+          "title": "Congo Ebola deaths surpass 2,000 as spread shows no sign of slowing",
+          "description": "DAKAR (Reuters) – Democratic Republic of Congo said on Tuesday that confirmed Ebola deaths had reached 2,011, the latest grim milestone in what health officials have described as the fastest-spreading outbreak on record. The latest data from Congo’s public health institute, seen by Reuters, also reported 4,381 confirmed cases across five provinces. Delayed detection, conflict and strained […]",
+          "url": "https://www.cnbcafrica.com/2026/congo-ebola-deaths-surpass-2000-as-spread-shows-no-sign-of-slowing",
           "source": {
-            "name": "The Jakarta Post"
+            "name": "CNBC Africa"
           },
-          "publishedAt": "2026-08-12T03:50:38Z",
-          "image": "https://img.jakpost.net/c/2026/02/27/2026_02_27_173091_1772186882._large.jpg",
+          "publishedAt": "2026-08-12T07:00:03Z",
+          "image": "https://cdn.cnbc.africa/wp-content/uploads/2026/05/NEFP4VIAJVMHPEMXETQVFWAMCE.jpg",
           "language": "en"
         },
         {
-          "title": "iPhone 18 Pro launch to bring up to Rs 10,000 price hike to old iPhone models: Here's what it means for you",
-          "description": "Apple could raise iPhone prices by up to Rs 10,000 after the iPhone 18 Pro launch, potentially affecting existing models including the iPhone 17, iPhone Air and iPhone 17e.",
-          "url": "https://www.moneycontrol.com/technology/iphone-18-pro-launch-to-bring-up-to-rs-10-000-price-hike-to-old-iphone-models-here-s-what-it-means-for-you-article-14002570.html",
+          "title": "Dangote refinery spurs West Africa fuel trading hub ambitions",
+          "description": "ABUJA (Reuters) – West African energy regulators are stepping up plans for a regional fuel pricing benchmark and trading hub, betting that a wave of new refining capacity led by Nigeria’s Dangote refinery can give Africa a greater role in fuel price discovery and trade, Nigeria’s regulator said on Tuesday.",
+          "url": "https://www.cnbcafrica.com/2026/dangote-refinery-spurs-west-africa-fuel-trading-hub-ambitions",
           "source": {
-            "name": "Moneycontrol.com"
+            "name": "CNBC Africa"
           },
-          "publishedAt": "2026-08-12T03:50:01Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260419051501_iPhone-18-Pro-colour-options.png",
+          "publishedAt": "2026-08-12T07:00:01Z",
+          "image": "https://cdn.cnbc.africa/wp-content/uploads/2026/07/35LZAYM56JNNXEDD5AVIICG6SM.jpg",
           "language": "en"
         },
         {
-          "title": "Physics-informed, cost-aware fault classification with comparative explainability for predictive maintenance: a SHAP-LIME agreement analysis",
-          "description": "Predictive maintenance is a core capability of Industry 4.0, yet most machine learning studies on the widely used AI4I 2020 benchmark rely on raw sensor signals, treat all misclassification errors as equally costly, and adopt explainability tools without verifying their mutual consistency. This study develops and evaluates a multi-class, cost-aware fault-classification framework on AI4I 2020 that combines three components: (i) five physics-informed features (mechanical power, overstrain index, thermal delta, a thermal-speed interaction, and a wear-torque ratio) derived from the documented failure equations; (ii) an illustrative fault-severity cost matrix used both as a class-weighting scheme and as an operational evaluation metric; and (iii) a quantitative agreement analysis between SHAP and LIME feature rankings using Spearman rank correlation. Four classifiers (logistic regression, support vector machine, random forest, and XGBoost) are trained on a scaled, SMOTE-balanced training partition and evaluated with a leakage-safe cross-validation design in which scaling and oversampling are fitted inside each fold. Random forest is the strongest model on the learnable classes (test weighted F1 = 0.987, macro F1 = 0.629, ROC-AUC = 0.992) and the lowest-cost model (total cost = 148). An ablation study shows that the physics-informed features contribute independently: a random forest trained on the five physics features alone (weighted F1 = 0.980, cost = 190) outperforms one trained on the six raw features alone (weighted F1 = 0.976, cost = 290), and the combined set is best (cost = 148); this feature contribution is the central, best-supported result of the study. We emphasise two limits. First, robust six-class classification is not demonstrated: the model misses every tool-wear (TWF) test instance and the random-failure (RNF) class is absent from the test partition, so the method performs well only for the learnable classes (no-failure, HDF, PWF, OSF). Second, because the physics features are derived from the same rules that generate the data, the strong SHAP alignment with the physical triggers is partly expected and should not be read as evidence of transfer to noisy real systems. Consistent with the cost-aware framing, across ten random seeds cost-derived class weighting does not produce a statistically significant reduction in total cost relative to standard training (120.0±13.8 versus 124.6±17.0; Wilcoxon p = 0.078), because the cost is dominated by the data-scarce TWF class. A multi-instance SHAP and LIME analysis (up to 50 correctly classified instances per class) yields a pooled median Spearman correlation of 0.714 (interquartile range 0.618 to 0.830), indicating moderate rather than strong agreement that is sensitive to the LIME sample size and varies across instances and seeds. The findings support physics-informed feature engineering for interpretable predictive maintenance, caution against single-instance LIME explanations, and show that cost-sensitive weighting is ineffective when the dominant cost driver is an unlearnable minority class.",
-          "url": "https://www.nature.com/articles/s41598-026-64374-2?error=cookies_not_supported&code=98f67daf-4b5b-47c4-b8b0-26eed2967c16",
+          "title": "Singers’ secret to a long marriage!",
+          "description": "Maskandi legend Ihhashi Elimhlophe and his wife Linah Ebony Ngcobo have been married for more than 40 years.",
+          "url": "https://www.snl24.com/celebs/singers-secret-to-a-long-marriage-20260812/",
           "source": {
-            "name": "Nature"
+            "name": "snl24.com"
           },
-          "publishedAt": "2026-08-12T03:49:50Z",
-          "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+          "publishedAt": "2026-08-12T07:00:00Z",
+          "image": "https://media24-dailysun-prod.web.arc-cdn.net/resizer/v2/NFDOPRCROJOIFGDM46TC3IJ7FM.jpg?smart=true&auth=07fbcb9fb24807df29d2d8be07157437da86848940a0d30c77e9c5cdadfd9f1e&width=1200&height=630",
+          "language": "en"
+        },
+        {
+          "title": "Meet ChatTJB, the \"AI\" chatbot with no AI. It's just one guy and 10,000 volunteers typing back",
+          "description": "More than 10,000 people are volunteering to do a chatbot's job themselves. Meet the guy behind the billboard.",
+          "url": "https://fortune.com/2026/08/12/chattjb-ai-chatbot-one-man-answering-volunteers-average-individual/",
+          "source": {
+            "name": "Fortune"
+          },
+          "publishedAt": "2026-08-12T07:00:00Z",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2170865687-e1786480553855.jpg?resize=1200,600",
           "language": "en"
         }
       ]
