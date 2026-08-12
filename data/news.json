@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-12T02:01:20.882Z",
+  "updatedAt": "2026-08-12T04:46:58.275Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "阪神・村上頌樹が巨人戦3連勝 8回1失点で9勝目 同じ兵庫出身で同学年の巨人・山崎伊織に投げ勝った",
+          "description": "◇セ・リーグ　阪神9―1巨人（2026年8月11日　東京ドーム）\n　根っからの阪神ファンの阪神・村上は、伝統の一戦が持つ重みをよく知っている。首位争いの行方を占う3連戦初戦で、ライバル心を結果に",
+          "url": "https://news.yahoo.co.jp/articles/450d602acd591608e4b9b998215818bb7b2026d8",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-11T16:15:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00000044-spnannex-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "ロ、22年から拘束の米国人釈放 トランプ氏「見返り求めず」と評価",
+          "description": "Steve Holland　Jonathan Landay\n[ワシントン １１日 ロイター] - ロシア当局は１１日、２０２２年から拘束していた元米海兵隊員のロバート・ギルマン氏（３２）を釈放‌し",
+          "url": "https://news.yahoo.co.jp/articles/ac6818e8cf29bdc535f00f0b1c57d0c601c9c14a",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-11T15:59:40Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00000001-reut-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【台風情報】台風15号の進路予想と影響 11日午後11時の実況では所沢市付近、12日午前0時の推定では東京都八王子付近 関東甲信地方では12日昼前にかけて、河川の増水や氾濫に厳重警戒",
+          "description": "気象庁によりますと、台風15号は、11日夜に茨城県南部付近に上陸した後、引き続き西寄りに進んでいます。関東甲信地方では、12日昼前にかけて、河川の増水や氾濫に厳重に警戒し、低い土地の浸水に警戒してください。12日明け方にかけて、うねりを伴った高波に、12日夜遅くにかけて、土砂災害や低い土地の浸水、河川の増水に注意・警戒が必要です。落雷や竜巻などの激しい突風、降ひょうにも注意してください。気象庁によりますと、台風15号は11日午後11時現在、所沢市付近にあって、1時間におよそ30キロの速さで西南…",
+          "url": "https://www.fnn.jp/articles/-/1092993",
+          "source": {
+            "name": "FNNプライムオンライン"
+          },
+          "publishedAt": "2026-08-11T15:16:00Z",
+          "image": "https://fnn.ismcdn.jp/mwimgs/5/d/600/img_5da616da1d1eed0dbac5a8b059d50a6c115222.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "遺品に虎のネクタイピン 日航123便に乗った阪神タイガース社長",
+          "description": "高校球児の熱戦が続く阪神甲子園球場に、甲子園ゆかりの品々が並ぶ甲子園歴史館が併設されている。そこに、阪神タイガースが1985年に21年ぶりのセ・リーグ優勝を成し遂げた時のウィニングボールもある。　監…",
+          "url": "https://www.asahi.com/articles/ASV863GYNV86UTIL01FM.html",
+          "source": {
+            "name": "朝日新聞"
+          },
+          "publishedAt": "2026-08-11T15:01:00Z",
+          "image": "https://imgopt.asahi.com/ogp/AS20260806003670_comm.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【速報】善福寺川 氾濫の危険高まる 「レベル4氾濫危険警報」発表",
+          "description": "今日11日、東京都を流れる善福寺川に「レベル4氾濫危険警報」が発表されました。これまでの大雨により氾濫の危険度が高まっています。直ちに川から離れるなど、危険な場所から避難してください。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/08/11/40110.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-08-11T14:18:34Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/401/40110/main/20260811231754/large.jpg",
+          "language": "ja"
+        },
         {
           "title": "ミニマムすぎるレトロTV。指先サイズなのにリモコンも付属",
           "description": "2025年9月2日の記事を編集して再掲載しています。デスクトップに置いときたいなー。2011年にアナログ放送が終了し、完全地デジ化になったテレビ放送。それ以降、テレビを持たない人が増えたという話を聞きます。もうスマホやPCで好きな動画を見れ",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-08-11T11:48:06Z",
           "image": "https://www.nikkansports.com/baseball/news/img/202608110001456-w500_0.jpg",
           "language": "ja"
-        },
-        {
-          "title": "Watch LIFE NEWS｜ウオッチライフを楽しむ時計総合ニュースサイト",
-          "description": "カシオ計算機が展開する“CASIO Collection（カシオ コレクション）”から、シンプルな3針のアナログウオッチ“MTP-1440DJ”がリリースされた。文字盤の仕様違いで、二つのモデルがライ",
-          "url": "https://www.powerwatch.jp/2026/08/11/casio-71/",
-          "source": {
-            "name": "Watch LIFE NEWS"
-          },
-          "publishedAt": "2026-08-11T11:10:12Z",
-          "image": "https://www.powerwatch.jp/wp496/wp-content/uploads/2026/08/MTP-1440DJ-1AJF_Top1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「子供にもプライバシーがある」辻希美 息子2人の“病気”公表に疑問の声…懸念され続ける“私生活を撮影”の子供への影響",
-          "description": "タレントの辻希美（39）が、8月9日、自身のYouTubeチャンネル「辻ちゃんねる」に新たな動画を投稿。しかし、そこで息子2人の“病気”を公表したことが物議を醸している。\n辻は「【夕飯準備】夏休み",
-          "url": "https://news.yahoo.co.jp/articles/7911e3c8aa75e45a0cef7964c28c4c19c455f3ff",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-11T10:50:21Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00000054-jisin-000-4-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "「子供にもプライバシーがある」辻希美 息子2人の“病気”公表に疑問の声…懸念され続ける“私生活を撮影”の子供への影響",
-          "description": "【女性自身】タレントの辻希美（39）が、8月9日、自身のYouTubeチャンネル「辻ちゃんねる」に新たな動画を投稿。しかし、そこで息子2人の“病気”を公表したことが物議を醸している。辻は「【夕飯準備】夏休み前に色々あったので聞いてください　初めて話す子どもの悩みも…【近況報告】」と題した動画をアップし、「子供たちがちょっとね、今いろいろちょっと大変な状況なの」と切り出した。「同動画内で辻さんは、現在中学2年生",
-          "url": "https://jisin.jp/entertainment/entertainment-news/2595152/",
-          "source": {
-            "name": "女性自身"
-          },
-          "publishedAt": "2026-08-11T10:50:00Z",
-          "image": "https://img.jisin.jp/uploads/2024/10/tsuji_nozomi_fb.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「子供にもプライバシーがある」辻希美 息子2人の“病気”公表に疑問の声…懸念され続ける“私生活を撮影”の子供への影響",
-          "description": "「子供にもプライバシーがある」辻希美　息子2人の“病気”公表に疑問の声…懸念され続ける“私生活を撮影”の子供への影響（女性自身）タレントの辻希美（39）が、8月9日、自身のYouTubeチャンネル「辻ちゃんねる」に新たな動画を投稿。しかし、そこで息子2人の“病気…",
-          "url": "https://topics.smt.docomo.ne.jp/article/jisin/entertainment/jisin-https_jisin.jp_p_2595152?redirect=1",
-          "source": {
-            "name": "topics.smt.docomo.ne.jp"
-          },
-          "publishedAt": "2026-08-11T10:50:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/jisin/m_jisin-https_jisin.jp_p_2595152.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ソニーセミコンダクタソリューションズとTSMC、 次世代イメージセンサーにおける合弁会社の設立に関する確定契約を締結",
-          "description": "ソニーセミコンダクタソリューションズとTSMC、 次世代イメージセンサーにおける合弁会社の設立に関する確定契約を締結｜ニュースリリース｜ソニーセミコンダクタソリューションズグループ",
-          "url": "https://www.sony-semicon.com/ja/news/2026/2026081101.html",
-          "source": {
-            "name": "sony-semicon.com"
-          },
-          "publishedAt": "2026-08-11T10:01:54Z",
-          "image": "https://www.sony-semicon.com/files/62/ogp-top.jpeg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "AI Designs 16 New E. Coli-Targeting Bacteriophages",
-          "description": "For the first time, scientists have used AI to generate bacteriophages that selectively target E. coli, raising hopes for new medicines.",
-          "url": "https://www.biotechniques.com/computational-biology/world-first-ai-designed-genomes-generate-16-powerful-new-bacteria-killing-viruses/",
+          "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+          "description": "SharePoint CVE-2026-55040 lets unauthenticated attackers impersonate users and chain with CVE-2026-63520 for code execution",
+          "url": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
           "source": {
-            "name": "biotechniques.com"
+            "name": "The Hacker News"
           },
-          "publishedAt": "2026-08-11T14:00:58Z",
-          "image": "https://www.biotechniques.com/wp-content/uploads/2026/08/AI-and-viruses.png",
+          "publishedAt": "2026-08-11T16:47:00Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbDSDTAbeeAZ8pykGFRAGcCDs_3LZBuD8tYUJfh0jG35r_o84zM_bNo7q3TWcoEMPmZqvhzucujEF72b2c2HnzfDjowsj4Iw4psQEwcgADR_rVMCXVw18arcpSB0WLblkZeypa-bgJPsD0qwrqBUk2umKezFZTtuDpbi_kQlsGUSiveb2suBMRyc3oZhQ/s1700-e365/admin.jpg",
           "language": "en"
         },
         {
-          "title": "Fishing confederation threatens court action against phosphate mining",
-          "description": "Staff Reporter THE Confederation of Namibian Fishermen's Association has threatened legal action following the granting of an Environmental Clearance Certificate (ECC) to the Namibia Marine Phosphate",
-          "url": "https://informante.web.na/?p=399194",
+          "title": "Venomous snake found inside Arkansas high school football player's helmet",
+          "description": "A Maumelle High School player shared his helmet with a dangerous reptile for over an hour during practice.",
+          "url": "https://www.usatoday.com/story/sports/high-school/football/2026/08/11/snake-high-school-football-player-helmet-arkansas/91254284007/",
           "source": {
-            "name": "Informanté"
+            "name": "USA Today"
           },
-          "publishedAt": "2026-08-11T14:00:51Z",
-          "image": "https://informante.web.na/wp-content/uploads/2026/08/Fishing-confederation-challenges-phosphate-mining-clearance-Informante-Image-workspace-1024x677.jpg",
+          "publishedAt": "2026-08-11T16:46:00Z",
+          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/11/USAT/91255248007-helmet-snake-aug-2026-pic-1.jpg?crop=1079,608,x0,y250&width=1079&height=608&format=pjpg&auto=webp",
           "language": "en"
         },
         {
-          "title": "Osun election: APC’s Oyebamiji downplays ‘federal might’, vows to banish poverty",
-          "description": "The APC candidate said his priority, if elected, would be the welfare and development of residents across the state, irrespective of their location.",
-          "url": "https://www.vanguardngr.com/2026/08/osun-election-apcs-oyebamiji-downplays-federal-might-vows-to-banish-poverty/",
+          "title": "Use NG-CDF funds to curb road carnage, MPs urged",
+          "description": "Members of Parliament have urged their colleagues to use part of the National Government Constituencies Development Fund (NG-CDF) to support road safety campaigns and help reduce road fatalities, particularly those involving boda boda riders. The MPs said boda boda-related accidents continue to claim the lives of many Kenyans despite various interventions by the government.- Advertisement […]",
+          "url": "https://www.kbc.co.ke/use-ng-cdf-funds-to-curb-road-carnage-mps-urged/",
           "source": {
-            "name": "Vanguard News"
+            "name": "KBC Digital"
           },
-          "publishedAt": "2026-08-11T14:00:10Z",
-          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/04/oyebamiji.png",
+          "publishedAt": "2026-08-11T16:45:58Z",
+          "image": "https://www.kbc.co.ke/wp-content/uploads/2026/08/NTSA-TODAY.jpg",
           "language": "en"
         },
         {
-          "title": "Smartphone Innovation Is Moving Beyond Annual Hardware Upgrades",
-          "description": "Smartphones are evolving into durable, connected personal hubs that manage payments, health, work and smart devices—not simply calls and apps.",
-          "url": "https://tech.yahoo.com/phones/articles/smartphone-innovation-moving-beyond-annual-140000144.html",
+          "title": "Second Video Generation And Multimodal Inputs",
+          "description": "Alibaba has launched the beta version of Wan3.0, a generative AI video model capable of producing 30-second videos from text, images, audio, documents and web content.",
+          "url": "https://pokde.net/system/software/ai/alibaba-unveils-wan3-0-video-generation",
           "source": {
-            "name": "Yahoo Tech"
+            "name": "Pokde.Net"
           },
-          "publishedAt": "2026-08-11T14:00:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/6ef645bf9ee9d7dc7504130b3984e83cfb6794ef976f305e7c2ebb4c5ce453c8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F0373fdef6f23d4c6fb4c933664784124",
+          "publishedAt": "2026-08-11T16:45:38Z",
+          "image": "https://cdn.pokde.net/wp-content/uploads/2026/08/12004417/wan3pbcover.jpg",
           "language": "en"
         },
         {
-          "title": "Behold the majestic mane of the Lion Nebula photo of the day for Aug. 11, 2026",
-          "description": "With a glorious mane of glowing purple gas and dust, the Lion Nebula sparkles in this new image captured by the James Webb Space Telescope.",
-          "url": "https://www.space.com/astronomy/behold-the-majestic-mane-of-the-lion-nebula-space-photo-of-the-day-for-august-11-2026",
+          "title": "Is People-Pleasing Making South Asian Women Sick?",
+          "description": "They’re taught to swallow their feelings and keep the peace. Research is only now revealing the toll this takes on the body.",
+          "url": "https://www.thejuggernaut.com/people-pleasing-south-asian-women-autoimmune-disease",
           "source": {
-            "name": "Space"
+            "name": "thejuggernaut.com"
           },
-          "publishedAt": "2026-08-11T14:00:00Z",
-          "image": "https://cdn.mos.cms.futurecdn.net/anPvF6AghwEjJe6odiJEK5-2000-80.png",
+          "publishedAt": "2026-08-11T16:44:50Z",
+          "image": "https://images.ctfassets.net/ssn6gmzvvg61/eyRGm2uxtrosa80fN9NTV/f8a50c80a0849684152171c8b318809e/great_indian_kitchen_still.jpg",
           "language": "en"
         },
         {
-          "title": "Smartphone Innovation Is Moving Beyond Annual Hardware Upgrades",
-          "description": "Smartphones are evolving into durable, connected personal hubs that manage payments, health, work and smart devices—not simply calls and apps.",
-          "url": "https://www.forbes.com/sites/timbajarin/2026/08/11/smartphone-innovation-is-moving-beyond-annual-hardware-upgrades/",
+          "title": "Inquest into death of young man at Kerry motorsport event opens in Cork",
+          "description": "22-year-old, Eoin McCarthy from Kildee, Dunmanway, Cork died following the incident during the Killarney Forest Rally on February 20th 2022",
+          "url": "https://www.radiokerry.ie/news/inquest-into-death-of-young-man-at-kerry-motorsport-event-opens-in-cork-494555",
           "source": {
-            "name": "Forbes"
+            "name": "Radio Kerry"
           },
-          "publishedAt": "2026-08-11T14:00:00Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a7a0840e0446eeb38047ed7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "publishedAt": "2026-08-11T16:43:15Z",
+          "image": "https://img.resized.co/radiokerry-ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1nLnJhZGlva2VycnkuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcL0VvaW5fTWNDYXJ0aHlfUklQLmllXy5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnJhZGlva2VycnkuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIyNzRmZjZkN2Q0Yzg1NTNkNjQ2YTAzMzI4ZTUyYTg0MTAwMDAzYmFhIn0=/inquest-into-death-of-young-man-at-kerry-motorsport-event-opens-in-cork.jpg",
           "language": "en"
         },
         {
-          "title": "On this day in space! Aug. 11, 1960: 1st object successfully recovered from orbit",
-          "description": "On Aug. 11, 1960, part of the Discoverer 13 satellite became the first human-made object to be recovered from Earth's orbit.",
-          "url": "https://www.space.com/space-exploration/aug-11-1960-1st-object-successfully-recovered-from-orbit",
+          "title": "Atlas Lionesses eye WAFCON final against Cameroon",
+          "description": "Atlas Lionesses eye WAFCON final against Cameroon. National coach Jorge Vilda announced Tuesday in Rabat that the women’s national team, having secured a spot in the upcoming World Cup, is now fully...",
+          "url": "https://en.yabiladi.com/articles/details/200476/atlas-lionesses-wafcon-final-against.html",
           "source": {
-            "name": "Space"
+            "name": "Yabiladi.com"
           },
-          "publishedAt": "2026-08-11T14:00:00Z",
-          "image": "https://cdn.mos.cms.futurecdn.net/z4QwhPSQXDsRMnZzsMQCZD-2000-80.png",
+          "publishedAt": "2026-08-11T16:40:14Z",
+          "image": "https://static.yabiladi.com/files/articles/yabiladi.f047014f15f920edd1e2ed2e2d21cccc20260811174820.webp",
           "language": "en"
         },
         {
-          "title": "387 Tanzanian scholars receive travel documents for China, India universities",
-          "description": "A total of 387 Tanzanian students have received travel documents to enable them to pursue higher education in China and India.",
-          "url": "https://www.thecitizen.co.tz/tanzania/news/national/387-tanzanian-scholars-receive-travel-documents-for-china-india-universities-5554172",
+          "title": "‘Are you a staunch Hindu, do you eat non-veg food?’ Ram Temple CEO candidates asked to fill Google form",
+          "description": "The 18 candidates who were shortlisted from a pool of 5,200 applicants were also asked about their work experience and their families. | India News",
+          "url": "https://www.hindustantimes.com/india-news/ram-temple-mandir-ceo-post-interview-18-candidates-questions-selection-application-101786466080532.html",
           "source": {
-            "name": "thecitizen.co.tz"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-08-11T13:59:54Z",
-          "image": "https://www.thecitizen.co.tz/resource/image/5554176/landscape_ratio3x2/1200/800/a93fd20dba8fcce17c07aa0c9aef07e0/vC/tz-scholars-pic.jpg",
+          "publishedAt": "2026-08-11T16:39:50Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/08/11/1600x900/logo/ram_temple_1786466526584_1786466526688_6191945a-b969-484d-99e3-1964cf9b1f65.jpg",
           "language": "en"
         },
         {
-          "title": "Zambia to benefit from $4.23 million African development bank initiative to mainstream natural capital in development finance",
-          "description": "Zambia is among 13 African countries set to benefit from a $4.23 million African Development Bank initiative aimed at integrating the economic value of",
-          "url": "https://africasustainabilitymatters.com/zambia-to-benefit-from-4-23-million-african-development-bank-initiative-to-mainstream-natural-capital-in-development-finance/",
+          "title": "Mr DIY, Scicom, Handal Energy, Cypark Resources, HE Group, SD Guthrie, Yoong Onn & West River",
+          "description": "Here is a brief recap of some business news and corporate announcements that made the headlines on Tuesday:",
+          "url": "https://theedgemalaysia.com/node/814147",
           "source": {
-            "name": "africasustainabilitymatters.com"
+            "name": "The Edge Malaysia"
           },
-          "publishedAt": "2026-08-11T13:58:59Z",
-          "image": "https://africasustainabilitymatters.com/wp-content/uploads/2026/08/images-57.jpg",
+          "publishedAt": "2026-08-11T16:39:44Z",
+          "image": "https://assets.theedgemarkets.com/CITN_19.jpg",
           "language": "en"
         },
         {
-          "title": "South Africa dump site collapse kills 14 suspected illegal miners",
-          "description": "The authorities are searching for anyone who may still be trapped under the rubble.",
-          "url": "https://www.bbc.com/news/articles/cq6djprvevlo",
+          "title": "The SpaceX Rocket Finally Hit the Moon. Here's What Scientists Saw",
+          "description": "The crash carved a fresh lunar scar and exposed a growing space junk problem.",
+          "url": "https://www.zmescience.com/space/astrophysics-space/the-spacex-rocket-finally-hit-the-moon-heres-what-scientists-saw/",
           "source": {
-            "name": "BBC"
+            "name": "ZME Science"
           },
-          "publishedAt": "2026-08-11T13:57:56Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/67dc/live/f913e760-958b-11f1-870d-5d08c49babb2.jpg",
+          "publishedAt": "2026-08-11T16:38:24Z",
+          "image": "https://cdn.zmescience.com/wp-content/uploads/2026/08/Melies_color_Voyage_dans_la_lune.jpg",
           "language": "en"
         }
       ]
