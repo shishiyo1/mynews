@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-13T15:59:16.535Z",
+  "updatedAt": "2026-08-13T19:03:16.384Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "今年はハイペースで台風が発生 日本の南はモンスーンジャイア 台風17号の進路は?",
+          "description": "今年2026年は、平年に比べハイペースで台風が発生しており、多くの台風が発生している理由のひとつに日本の南に形成されている「モンスーンジャイア」が挙げられます。昨日12日に発生した台風17号は、17日(月)以降の予想の幅が大きいものの、日本の東へ北上してくる見込みで、今後の動向に注意が必要です。",
+          "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/08/13/40134.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-08-13T06:36:00Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/401/40134/main/20260813140723/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "メドレー、上期経常は78％増益で着地、今期配当を18円に修正",
+          "description": "メドレー <4480> [東証Ｐ] が8月13日大引け後(15:30)に決算を発表。26年1...",
+          "url": "https://s.kabutan.jp/news/k202608130117/",
+          "source": {
+            "name": "株探"
+          },
+          "publishedAt": "2026-08-13T06:30:00Z",
+          "image": "https://async.api.kabutan.jp/og_image?stock_code=4480&stock_name=%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC&title=%E4%B8%8A%E6%9C%9F%E7%B5%8C%E5%B8%B8%E3%81%AF78%EF%BC%85%E5%A2%97%E7%9B%8A%E3%81%A7%E7%9D%80%E5%9C%B0%E3%80%81%E4%BB%8A%E6%9C%9F%E9%85%8D%E5%BD%93%E3%82%9218%E5%86%86%E3%81%AB%E4%BF%AE%E6%AD%A3",
+          "language": "ja"
+        },
+        {
+          "title": "米ホワイトハウスのレヴィット報道官、8月末で退任 トランプ氏が発表",
+          "description": "アメリカのドナルド・トランプ大統領は12日、ホワイトハウスのキャロライン・レヴィット報道官（28）が今月末で退任すると発表した。",
+          "url": "https://www.bbc.com/japanese/articles/c23529gr4rvo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-08-13T06:24:15Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/5edf/live/54d0fdd0-9687-11f1-a7ab-8b30adf0800a.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "iLiFE!、織姫コスプレで全員ランウェイ「可愛すぎて幻かと」「ビジュ大優勝」と反響相次ぐ【関コレ2026A/W】",
+          "description": "アイドルグループ・iLiFE!（アイライフ）が13日、京セラドーム大阪で開催のファッションイベント「KANSAI COLLECTION 2026 AUTUMN＆WINTER」に出演した。",
+          "url": "https://mdpr.jp/news/detail/4828617",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-08-13T06:04:53Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/pZNw/wm/pZNwkrfMEqt1LvurERu0i-aLdixxs3eG3D_Ej0W27Dw.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
+        {
+          "title": "トランプ政権の一部閣僚、大統領がひそかに降機後も「おとり」の大統領専用機に残っていた 万一に備えと米報道",
+          "description": "アメリカのドナルド・トランプ大統領が先月トルコからの帰国時、安全上の懸念からひそかに大統領専用機から別の軍用機に乗り換えた際、政権の閣僚2人がそのまま大統領専用機に乗り続けていたと、米CBSニュースが12日に伝えた。トランプ氏に万が一のことがあった場合に備え、後継者を確保するためだったという。",
+          "url": "https://www.bbc.com/japanese/articles/c3r02zx9rzeo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-08-13T05:18:36Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/2655/live/8c685340-96cf-11f1-b2ab-0dd01740f9f6.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「キングダム ハーツ」シリーズがいまなら最大70%OFF！「スクエニ SUMMER SALE Part 4」開催",
+          "description": "株式会社スクウェア・エニックスのプレスリリース（2026年8月13日 14時17分）「キングダム ハーツ」シリーズがいまなら最大70%OFF！「スクエニ SUMMER SALE Part 4」開催",
+          "url": "https://prtimes.jp/main/html/rd/p/000000407.000128734.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-08-13T05:17:08Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/128734/407/128734-407-fa7b76fa33fe2389db3d62e3862b5b5a-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "フジ木村拓也アナ、再婚を報告 お相手は民間企業に勤める会社員",
+          "description": "フジテレビの木村拓也アナウンサー（36）が13日、自身のInstagramを更新。民間企業に勤める会社員と再婚したことを発表した。",
+          "url": "https://mdpr.jp/news/detail/4828533",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-08-13T04:05:50Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/QgDR/wm/QgDRpTD4XH7yVlnt0LbgpT6fypw6fo0ccCMnD6I1QXY.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
         {
           "title": "イギリスとヨーロッパで珍しい日食、スペインなどでは皆既日食",
           "description": "イギリスととヨーロッパで12日、過去30年で最も劇的な日食が観測された。グリーンランド、アイスランド、スペインの一部地域では、完全な暗闇と皆既日食の壮大な光景が見られた。日食は、月が太陽と地球の間を通過し、太陽光の一部または全部をさえぎり、地球に影を落とす現象。",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-08-13T03:05:00Z",
           "image": "https://img.topics.smt.news.goo.ne.jp/picture/nikkansports/m_f-bb-tp2-260813-202608120001902.jpg",
           "language": "ja"
-        },
-        {
-          "title": "ミドル機に水冷は当たり前!? クセ強スマホが集まったMWC上海レポ",
-          "description": "「MWC上海26」で見つけた中国の個性的な最新端末レポートです。nubiaの水冷搭載ミドル機やワールドカップ限定モデルに加え、3回線同時通信＆水冷機構搭載というZTEの変態的ルーターが登場。4年ぶりに復活したLenovoのゲーミングスマホや、vivoの自撮り特化機など、尖った製品を紹介します。",
-          "url": "https://ascii.jp/elem/000/004/426/4426286/?topnew=1",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-08-13T03:00:00Z",
-          "image": "https://ascii.jp/img/2026/08/10/4511747/xl/46f3223968ee4b11.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "メッシが現役続行に迷い…父の死去を受けて「これからどうすればいいのか分からない」",
-          "description": "インテル・マイアミのアルゼンチン代表FWリオネル・メッシが父ホルヘ・メッシさんの死去を受け、現役生活を続けることへの迷いを告白した。スペイン『エル・ムンド』が伝えている。　メッシは7日にアルゼンチン...",
-          "url": "https://web.gekisaka.jp/news/world/detail/?456742-456742-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-08-13T02:55:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/457000/456742/news_456742_1.jpg?time=20260813115726",
-          "language": "ja"
-        },
-        {
-          "title": "【PS Plus】『キングダムカム・デリバランス II』が8月のゲームカタログに追加。『ヘルダイバー2』『ヴァンサバ』『Hell is Us』なども登場",
-          "description": "プレイステーション5（PS5）、プレイステーション4（PS4）向けサブスクリプションサービス“PS Plus”について、2026年8月のゲームカタログ情報が公開。『キングダムカム・デリバランス II』や『Vampire Survivors』などが登場する。",
-          "url": "https://www.famitsu.com/article/202608/84273",
-          "source": {
-            "name": "ファミ通"
-          },
-          "publishedAt": "2026-08-13T02:21:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/84273/thumbnail_yvFt.jpg?x=1280",
-          "language": "ja"
-        },
-        {
-          "title": "「Windows 11」のOEMライセンス料が7～10％値上げ？ PC価格高騰に拍車か",
-          "description": "メーカー向けの「Windows 11」ライセンス料が最大10％上昇していると報じられている。",
-          "url": "https://japan.cnet.com/article/35251530/",
-          "source": {
-            "name": "japan.cnet.com"
-          },
-          "publishedAt": "2026-08-13T02:11:00Z",
-          "image": "https://japan.cnet.com/storage/2026/08/13/d6ed3df3b281afc4e95c6345a63796ba/d68d1900-0bc0-4ce4-bd1c-a30206ea031e_1280x960.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「ニノさんは芸能界のお兄ちゃん」「ぜひ書いてくださいね。太字で」大森元貴＆二宮和也『うたであえたら 2026』取材で仲良しっぷりをアピール",
-          "description": "『NHK夏の音楽祭 うたであえたら 2026』が、8月15日18時05分より、NHK総合およびBSP4Kにてオンエア。このたび8月9日に東京・NHKホールにて番組の公開収録が行われ、収録後に番組の司会を務めたMrs. G […]",
-          "url": "https://www.thefirsttimes.jp/news/0000862781/",
-          "source": {
-            "name": "THE FIRST TIMES"
-          },
-          "publishedAt": "2026-08-13T02:10:16Z",
-          "image": "https://www.thefirsttimes.jp/admin/wp-content/uploads/5026/08/202600813-ci-031000-1200x630.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【『NHK夏の音楽祭 うたであえたら 2026』公開収録レポート】「夏の紅白ですよね？」ミセス大森元貴×北川景子×二宮和也、最強の司会トリオが爆誕",
-          "description": "『NHK夏の音楽祭 うたであえたら 2026』が、8月15日18時05分より、NHK総合およびBSP4Kにてオンエア。放送に先駆け、8月9日に東京・NHKホールにて番組の公開収録が行われた。【注】この記事は8月8日に実施 […]",
-          "url": "https://www.thefirsttimes.jp/report/0000862742/",
-          "source": {
-            "name": "THE FIRST TIMES"
-          },
-          "publishedAt": "2026-08-13T02:03:21Z",
-          "image": "https://www.thefirsttimes.jp/admin/wp-content/uploads/5026/08/20260812-ci-211000-1200x630.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "アップル、「iCloudプライベートリレー」のIPアドレス漏洩問題で提訴される",
-          "description": "アップルの「iCloudプライベートリレー」が説明通りの安全性を提供していなかったことが明らかになり、同社への訴訟が提起された。",
-          "url": "https://japan.cnet.com/article/35251528/",
-          "source": {
-            "name": "CNET Japan"
-          },
-          "publishedAt": "2026-08-13T01:30:00Z",
-          "image": "https://japan.cnet.com/storage/2026/08/13/72df9bb8e940323ad0f46d75a9d0942d/7d5d5d73-029b-4dcd-9b51-93acca1a424b_1280x960.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Seoul’s Incheon overtakes Heathrow as world’s busiest international airport",
-          "description": "Passenger traffic at Seoul's Incheon International Airport reached up to 38.39 million in first half of 2026, as transfer and inbound travel surge. The reordering owes as much to shifting geopolitics as to Incheon's own momentum.",
-          "url": "https://asianews.network/seouls-incheon-overtakes-heathrow-as-worlds-busiest-international-airport/",
+          "title": "New \"My Hero Academia\" Game App \"My Hero Academia UNITED SURVIVAL\" Surpasses 1 Million Downloads Worldwide! Special Login Bonus Announced!",
+          "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+          "url": "https://www.gamespress.com/en-GB/New-My-Hero-Academia-Game-App-My-Hero-Academia-UNITED-SURVIVAL-Surpass",
           "source": {
-            "name": "Asia News Network"
+            "name": "Games Press"
           },
-          "publishedAt": "2026-08-13T03:58:36Z",
-          "image": "https://asianews.network/wp-content/uploads/2026/08/AFP__20180118__WZ83L__v2__MidRes__SkoreaAirportOly2018.jpg",
+          "publishedAt": "2026-08-13T07:03:10Z",
+          "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/08/130608-412be2f4/100_en.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=d98e096b8dccbe26e8ef62f016ed0d1d33e3ee220fdacd772a5dfac2ae24854d",
           "language": "en"
         },
         {
-          "title": "Teen ordered to enter defence in Bandar Utama school murder case",
-          "description": "Shah Alam High Court judge Adlin Abd Majid says the prosecution established a prima facie case against the 15-year-old boy.",
-          "url": "https://www.freemalaysiatoday.com/category/nation/2026/08/13/teen-ordered-to-enter-defence-in-bandar-utama-school-murder-case",
+          "title": "Anthropic In Negotiations To Acquire Israeli Decart AI For $6 Billion",
+          "description": "If completed, the acquisition could give Anthropic access to Decart’s technology and engineering expertise as the company faces rapidly growing demand for Claude",
+          "url": "https://www.i24news.tv/en/news/innov-nation/artc-anthropic-in-negotiations-to-acquire-israeli-decart-ai-for-6-billion-report",
           "source": {
-            "name": "Free Malaysia Today"
+            "name": "i24NEWS"
           },
-          "publishedAt": "2026-08-13T03:57:00Z",
-          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/08/9232ca7d-a48f-445f-b7a0-24f13eb0031e-MAHKAMAH_SHAH_ALAM_FMT_060826-Resize.webp",
+          "publishedAt": "2026-08-13T07:02:22Z",
+          "image": "https://cdn.i24news.tv/uploads/94/1d/9e/4f/41/91/6e/dc/0a/5d/99/6b/aa/b7/42/3a/941d9e4f41916edc0a5d996baab7423a.jpg",
           "language": "en"
         },
         {
-          "title": "Blue Jays pump life into playoff hopes with third straight takedown of Red Sox",
-          "description": "Suddenly, Toronto is hovering on the edge of American League wild-card race with a chance to sweep Boston",
-          "url": "https://www.theglobeandmail.com/sports/baseball/article-blue-jays-mlb-wild-card-red-sox/",
+          "title": "A generation buried before it’s born",
+          "description": "That a learner who should be dreaming of becoming a doctor or an engineer has resigned himself to descending into dangerous pits for a few dollars is a testament to what is wrong in our society.",
+          "url": "https://www.newsday.co.zw/editorials/article/200059250/a-generation-buried-before-its-born",
           "source": {
-            "name": "The Globe and Mail"
+            "name": "NewsDay Zimbabwe"
           },
-          "publishedAt": "2026-08-13T03:56:33Z",
-          "image": "https://www.theglobeandmail.com/resizer/v2/42LAH65KL5DNTDVOATNPX6JM6A.JPG?auth=0f86ad18aae93d593aca925226bfbf0194df1dfd6d1540e97919215f43beb4db&width=1200&height=800&quality=80&smart=true",
+          "publishedAt": "2026-08-13T07:01:25Z",
+          "image": "https://cdn.thestandard.co.zw/images/newsday/uploads/2026/08/jq0JAFTxmLawL1Ko1rY29LdBZfg6Sb0QWEMH171S.png",
           "language": "en"
         },
         {
-          "title": "West Asia war LIVE: Iran says Strait of Hormuz is under its control, report says",
-          "description": "Iran US war live updates: The Hindu's coverage of the West Asia war on August 13, 2026.",
-          "url": "https://www.thehindu.com/news/international/iran-us-war-west-asia-live-updates-donald-trump-august-13-2026/article71339299.ece",
+          "title": "PNP provides support in running after profiteers amid agricultural losses due to habagat",
+          "description": "The Philippine National Police (PNP) will provide assistance in running after those who would engage in overpricing, hoarding, and profiteering from...",
+          "url": "https://mb.com.ph/2026/08/13/pnp-provides-support-in-running-after-profiteers-amid-agricultural-losses-due-to-habagat",
           "source": {
-            "name": "The Hindu"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-08-13T03:56:32Z",
-          "image": "https://th-i.thgim.com/public/incoming/vv60kn/article71340018.ece/alternates/LANDSCAPE_1200/2026-08-13T045642Z_1917073729_RC2YSMASJR9K_RTRMADP_3_IRAN-CRISIS-OIL-COLUMN-RUSSELL.JPG",
+          "publishedAt": "2026-08-13T07:01:20Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/13/123323.webp",
           "language": "en"
         },
         {
-          "title": "Israeli settlers besiege three Palestinian families in West Bank’s Qusra",
-          "description": "Dozens of settlers besiege Palestinian families in Qusra, cutting off water, power and essential supplies.",
-          "url": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank",
+          "title": "Wellington residents protest building ’exceptionally ugly’ cell tower next to historical church",
+          "description": "Residents from a leafy Wellington suburb are protesting the “offensive” erection of an “exceptionally ugly” large cell tower next to a century-old church,...",
+          "url": "https://www.nzherald.co.nz/nz/wellington/wellington-residents-protest-building-exceptionally-ugly-cell-tower-next-to-historical-church/E6CUU5BUXRA3JIJYZGP4QCSWEM/",
           "source": {
-            "name": "aljazeera.com"
+            "name": "nzherald.co.nz"
           },
-          "publishedAt": "2026-08-13T03:56:04Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a7d0c8a6e078-1786580106.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-08-13T07:01:16Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/A22LVG75N5D4VB4Y2AYGY3E4IQ.jpg?auth=44e69403b3b04733ce3f45e7d2ba66a6c86015fcab173baf749e23985be9b647&width=1200&height=675&quality=70&smart=true",
           "language": "en"
         },
         {
-          "title": "Interactive platform maps habitat design effects on astronaut wellbeing",
-          "description": "In extreme environments, habitats are built for survival. Submarines, Antarctic bases, and post disaster dwellings are designed to prioritize health and safety.",
-          "url": "https://www.news-medical.net/news/20260812/Interactive-platform-maps-habitat-design-effects-on-astronaut-wellbeing.aspx",
+          "title": "Parliament Passes Law Curbing States' Power To Levy Tax On Minerals & Recover Past Dues",
+          "description": "The Parliament has passed an amendment curbing the power of State Governments to impose taxes, cess and other levies on mineral rights and mineral-bearing lands, paving the way for a more uniform...",
+          "url": "https://www.livelaw.in/top-stories/parliament-passes-law-curbing-states-power-to-levy-tax-on-minerals-recover-past-dues-545610",
           "source": {
-            "name": "news-medical.net"
+            "name": "Live Law"
           },
-          "publishedAt": "2026-08-13T03:56:00Z",
-          "image": "https://www.news-medical.net/image-handler/picture/2014/7/Anxiety-620x480.jpg",
+          "publishedAt": "2026-08-13T07:01:08Z",
+          "image": "https://www.livelaw.in/h-upload/2026/08/13/693618-mmdr-amendment-bill-2026.jpg",
           "language": "en"
         },
         {
-          "title": "South Africa’s ETA system rejects more than 6,000 fraudulent applications",
-          "description": "South Africa’s Electronic Travel Authorisation aims to speed up legitimate travel while strengthening immigration controls, using facial verification, passport checks and real-time monitoring to detect potential overstayers.",
-          "url": "https://iol.co.za/news/south-africa/2026-08-13-south-africas-eta-system-rejects-more-than-6000-fraudulent-applications/",
+          "title": "Taylor's staffer takes aim at Ten reporter over ICAC question",
+          "description": "The opposition leader and prime minister both had tense press conferences this week.",
+          "url": "https://www.abc.net.au/news/2026-08-13/angus-taylor-staffer-ten-reporter-albanese-tomago/107027202",
           "source": {
-            "name": "IOL"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-08-13T03:55:00Z",
-          "image": "https://iol-prod.appspot.com/image/461d1fa07aaca267c5e68a4f9d9e4608ed1e0b78/1000/jpeg",
+          "publishedAt": "2026-08-13T07:01:03Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/7751dc9ce3687ba636df3f4338e07b42?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Wireshark 4.6.8 patches 28 security bugs, nine in file parsers",
-          "description": "Wireshark 4.6.8 fixes 28 security bugs in the protocol analyzer, and nine of them fire when someone opens a saved capture file.",
-          "url": "https://www.helpnetsecurity.com/2026/08/13/wireshark-4-6-8-patches-security-bugs/",
+          "title": "Ruth Odinga: I never asked Raila for a direct ticket, I won’t now",
+          "description": "Ruth said she was aware that her surname could create assumptions",
+          "url": "https://www.the-star.co.ke/news/2026-08-13-ruth-i-never-asked-raila-for-a-direct-ticket-i-wont-now",
           "source": {
-            "name": "helpnetsecurity.com"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-08-13T03:53:43Z",
-          "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/08/13054401/wireshark-1500.webp",
+          "publishedAt": "2026-08-13T07:01:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/08/dc5b81ed-56f1-41ee-9acb-c3c2955b67a1.webp?1786606680648",
           "language": "en"
         },
         {
-          "title": "BN calls for objective scrutiny of declassified Tabung Haji RCI findings",
-          "description": "PETALING JAYA: The declassification and tabling of the Royal Commission of Inquiry (RCI) report on the management of Lembaga Tabung Haji (TH) has provided a transparent platform for public scrutiny, says Barisan Nasional.",
-          "url": "https://www.thestar.com.my/news/nation/2026/08/13/bn-calls-for-objective-scrutiny-of-declassified-tabung-haji-rci-findings",
+          "title": "Breaking silence as Tanzania expands treatment options for erectile dysfunction",
+          "description": "DAR ES SALAAM: FOR many years, erectile dysfunction has remained a health challenge that many men keep hidden because of embarrassment, stigma and fear of judgment. Some live with the condition for years without seeking medical attention, believing there is no solution. Health experts, how ever, say erectile dysfunction is a medical condition that can …",
+          "url": "https://dailynews.co.tz/breaking-silence-as-tanzania-expands-treatment-options-for-erectile-dysfunction/",
           "source": {
-            "name": "The Star"
+            "name": "dailynews.co.tz"
           },
-          "publishedAt": "2026-08-13T03:52:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/13/4057274.JPG",
+          "publishedAt": "2026-08-13T07:00:30Z",
+          "image": "https://dailynews.co.tz/wp-content/uploads/2026/08/Screenshot-2026-08-13-095811.jpg",
           "language": "en"
         },
         {
-          "title": "Rare August rain, flooding expected in Israel as ‘Super El Niño’ disrupts weather",
-          "description": "A rare summer rain event is expected across parts of Israel this weekend, with heavy rain and possible flooding; The unusual weather may be linked to the 'Super El Niño' phenomenon disrupting weather patterns worldwide",
-          "url": "https://www.ynetnews.com/environment/article/ryarp3q8gl",
+          "title": "Government to start moving ministries, agencies to Nakasongola as Museveni backs capital city relocation”",
+          "description": "State minister for Urban Development Margaret Muhanga told MPs on Wednesday that President Yoweri Museveni already supports the proposal which involves a phased relocation of government Ministries, Departments and Agencies to Nakasongola Read more.",
+          "url": "https://www.pulse.ug/story/government-to-start-moving-ministries-agencies-to-nakasongola-as-museveni-backs-capital-city-relocation-2026081218383876264",
           "source": {
-            "name": "Ynetnews"
+            "name": "Pulse Uganda"
           },
-          "publishedAt": "2026-08-13T03:50:40Z",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/11/Skp4R0DfZg/Skp4R0DfZg_2_0_1279_720_0_large.jpg",
+          "publishedAt": "2026-08-13T07:00:28Z",
+          "image": "https://sportal365images.com/process/smp-images-production/pulse.ug/11112025/4047c81a-3205-4065-a132-887fba3ccae1.jpg?operations=autocrop(1200:630)",
           "language": "en"
         }
       ]
