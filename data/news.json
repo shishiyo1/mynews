@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-13T07:27:55.241Z",
+  "updatedAt": "2026-08-13T10:07:02.675Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "香取慎吾、井ノ原快彦と本格初共演が決定「運命的な出会い」 映画『高校生家族』追加キャスト7人発表【一覧・コメント】",
+          "description": "俳優・歌手の香取慎吾が主演を務める映画『高校生家族』（2027年1月8日公開）の追加キャスト7人が、13日に一挙発表された。\n　同作は「週刊少年ジャンプ」（集英社）で連載された仲間りょう氏の同名",
+          "url": "https://news.yahoo.co.jp/articles/54428363e5b24c268d13840296184c1148247c81",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-12T22:05:59Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000308-oric-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "Microsoft Defenderの新たなゼロデイ 脆弱性「ShieldBreak」、7月に修正されたはずのRoguePlanetを完全にバイパス Nightmare Eclipseの連続開示、通算9件目",
+          "description": "Nightmare Eclipseが公開した、Microsoft Defenderの新たなゼロデイエクスプロイト「ShieldBreak」を解説。7月に修正されたはずのRoguePlanet（CVE-2026-50656）を完全にバイパスする仕組みと、研究者とMicrosoftの対立の背景、情報システム部門が確認すべき対策ポイントをまとめました。",
+          "url": "https://rocket-boys.co.jp/security-measures-lab/defender-zero-day-shieldbreak-bypass/",
+          "source": {
+            "name": "合同会社ロケットボーイズ"
+          },
+          "publishedAt": "2026-08-12T22:00:13Z",
+          "image": "https://rocket-boys.co.jp/wp-content/uploads/2026/08/defender-zero-day-shieldbreak-bypass.png",
+          "language": "ja"
+        },
+        {
+          "title": "「批判は見当違い」「扇動されたマスコミと世論が…」 福岡県議会“カツアゲ”疑惑 渦中のドン・蔵内議長が支援者に送った「説明文」の呆れた中身",
+          "description": "現職の県議が“カツアゲ”されたと告発したことで、全国的な問題となっている福岡県議会の金銭授受問題。渦中の人となった“福岡県議会のドン”こと蔵内勇夫議長（72）は、8月5日、酷暑に被災した熊本県民が",
+          "url": "https://news.yahoo.co.jp/articles/c98c4b7a748c81b6ea909d3363a3dc6a6781b814",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-12T21:09:13Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-01486002-shincho-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "「怖い」阿波おどり開幕も踊り手から不安の声 女性踊り手狙う動画拡散 「芸術」と主張する投稿者も 徳島市",
+          "description": "徳島の夏の夜を彩る一大行事、屋外会場での阿波おどりが12日スタートした。\n「踊る阿呆に見る阿呆」のお囃子とともに踊り手たちが勇壮かつ華麗な舞いを披露する「阿波おどり」。\n15日まで4日間にわたり、",
+          "url": "https://news.yahoo.co.jp/articles/2ac677ed8473e0aa7151f5eae77d821e535c9f36",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-12T21:03:01Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-01193641-fnn-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "CL王者・PSGがドゥエの1G1AでUEFAスーパーカップ連覇！…アストン・ヴィラは17歳マジョが大会最年少ゴールも惜敗（サッカーキング）",
+          "description": "UEFAスーパーカップが12日に行われ、パリ・サンジェルマン（PSG）とアストン・ヴィラが対戦した。\n　2025－26シーズンのチャンピオンズリーグ（CL）王者であるPSGと、ヨーロッパリーグ（",
+          "url": "https://news.yahoo.co.jp/articles/73df65ce6e156b8522e7492d34cc6b1f77455972",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-12T21:01:18Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-02192243-soccerk-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "フジ「波うららかに、めおと日和」続編 主要キャスト１０人続投 山本舞香は出産に伴い辞退…同じ「木１０」枠で１０・１５スタート",
+          "description": "フジテレビは１３日、今秋放送の連続ドラマ「波うららかに、めおと日和」続編に関する続報を発表。女優の和久井映見や生瀬勝久、森カンナ、小関裕太ら主要キャスト１０人の続投が決まった。山本舞香は出産に伴い",
+          "url": "https://news.yahoo.co.jp/articles/790b30e2b4a8f715712e71634920c5c4938480ce",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-12T20:33:21Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-08121258-sph-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "小関裕太、小宮璃央、咲妃みゆ、小川彩ほか主要キャスト10人が続投＆初回放送日は10月15日（木）に決定！『波うららかに、めおと日和』（続編）",
+          "description": "2026年秋の放送が発表されていたドラマ『波うららかに、めおと日和』（続編）の初回放送日時が、10月15日（木）22時に決定。前作に引き続き、「木曜劇場」枠で放送されます。本作は、累計250万部を突破した、西香はちさんによる人気コミックス（講談社『コミックDAYS』連載）を実写化したハートフル・昭和新婚ラブコメ。主人公の江端なつ美（えばた・なつみ／芳根京子）と、帝国海軍に勤める夫の瀧昌（たきまさ／本田響矢）ら新婚夫婦の、歯がゆくも愛らしい“甘酸っぱい日常”を丁寧に描きます。待望の続編では、昭和12年へと舞台を移し、2人のどこまでも初々しく、もどかしい夫婦生活の続きを届けます。このたび、主要キ…",
+          "url": "https://mezamashi.media/articles/-/333890",
+          "source": {
+            "name": "めざましmedia"
+          },
+          "publishedAt": "2026-08-12T20:30:00Z",
+          "image": "https://mezamashi.ismcdn.jp/mwimgs/0/1/1200xm/img_01488d2a620b97398e67a00a49d097d7331413.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "第1子出産の山本舞香「めおと日和」出演辞退へ 芙美子役は新キャストが担当「子どもとの時間を大切にしたいという思いから」【コメント】",
+          "description": "2026年秋の放送が発表されていたフジテレビ系ドラマ「波うららかに、めおと日和」の初回放送日が、10月15日22時に決定。このたび、主要キャスト10人の続投が解禁となり、前作に出演していた山本舞香は出演を辞退することが明らかとなった。",
+          "url": "https://mdpr.jp/drama/detail/4828200",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-08-12T20:30:00Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/txbg/nm/txbgAtG5U7n0pAewAAb91e90Dakh2d9iO87IduLuSxQ.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
         {
           "title": "「どうやって生きていけばいいのか分からない」愛する父を失ったメッシが衝撃の“引退示唆”。悲痛な長文投稿にロナウドもコメント「レオ、気をしっかり持って」（SOCCER DIGEST Web）｜ｄメニューニュース",
           "description": "「どうやって生きていけばいいのか分からない」愛する父を失ったメッシが衝撃の“引退示唆”。悲痛な長文投稿にロナウドもコメント「レオ、気をしっかり持って」（SOCCER DIGEST Web）　アルゼンチン代表のリオネル・メッシが８月12日、自身のSNSを更新。７日に急逝した父ホルヘさんへの思いを長文で綴った。\n「父…",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-08-12T19:06:00Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00195681-sdigestw-000-9-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "阪神・佐藤輝明 田淵幸一に並ぶ虎最速入団6年目150号 球界屈指の骨格筋量とストレッチで描く放物線",
-          "description": "◇セ・リーグ　阪神5─1巨人（2026年8月12日　東京ドーム）\n　阪神・佐藤輝明内野手（27）が、12日の巨人戦（東京ドーム）で2本塁打を放ち、通算150号本塁打を達成した。3回1死で右翼へ2",
-          "url": "https://news.yahoo.co.jp/articles/1a18f21bc26061db1ecb6df9ab6caac2fce9bd7e",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-12T16:15:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000047-spnannex-000-4-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "「Pixel Watch 5」が8月20日に発売へ 前モデルから最大20％の高速化、価格は6万2800円から：Made by Google 2026（1/2 ページ）",
-          "description": "Googleが、Wear OS by Googleを搭載するスマートウォッチの最新モデル「Google Pixel Watch 5」を発表した。進化した最新モデルの特徴と従来モデル「Pixel Watch 4」からの変更点をお届けする。 (1/2)",
-          "url": "https://www.itmedia.co.jp/pcuser/articles/2608/13/news051.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-08-12T15:00:00Z",
-          "image": "https://image.itmedia.co.jp/pcuser/articles/2608/13/cover_news051.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【解説】新たな台風17号が発生 週明けに本州へ近づくおそれ 気象予報士「晴れていても高い波に注意を」",
-          "description": "台風15号が通過した後も、関東では激しい雨が降りました。気象予報士によると、台風の異例のルートによって南から湿った空気が流れ込み続けたことが原因で、今後も局地的な大雨への警戒が必要です。また、新たに発生した台風17号の今後の動きにも注意が求められます。",
-          "url": "https://news.ntv.co.jp/category/weather/64fadf16d56b4047b3f9393b01418d21",
-          "source": {
-            "name": "news.ntv.co.jp"
-          },
-          "publishedAt": "2026-08-12T15:00:00Z",
-          "image": "https://news.ntv.co.jp/gimage/n24/articles/37eec49d555e4ea9b5f65432ee413689/7e93a6b842e9be99c2b74d3ae539ba87bd9f65d7eb0b211c4ac88ba6d2ba256c.jpg?w=1200",
-          "language": "ja"
-        },
-        {
-          "title": "なにわ男子、海外で奇跡の瞬間を激写・OKテイク連発 ソフトバンク新CM出演",
-          "description": "なにわ男子が出演するソフトバンクの新CM「トルコアイス」篇、「陽気なヤツら」篇が、8月13日よりソフトバンク公式YouTubeチャンネルにて公開される。",
-          "url": "https://mdpr.jp/news/detail/4828162",
-          "source": {
-            "name": "mdpr.jp"
-          },
-          "publishedAt": "2026-08-12T15:00:00Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/GFMk/nm/GFMk1xhWdGzsPrE-FHN1hnhQybDjYaTEkcVt_sPxuX8.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "グーグル「Pixel Watch 5」登場 GPS精度2倍で健康管理も強化 62800円から",
-          "description": "Googleは、新型スマートウォッチ「Google Pixel Watch 5」を20日に発売する。価格は41mmが62,800円(Bluetooth)/79,800円(LTE)、45mmが67,800円(Bluetooth)/84,800円(LTE)。バンドのカラーはCanyon(キャニオン)、Fog(フォグ)、Olive(オリーブ)、新しいPyrite(パイライト)の4色を用意する。",
-          "url": "https://www.watch.impress.co.jp/docs/news/2132375.html",
-          "source": {
-            "name": "Impress Watch"
-          },
-          "publishedAt": "2026-08-12T14:05:00Z",
-          "image": "https://www.watch.impress.co.jp/img/ipw/list/2132/375/00.JPG",
-          "language": "ja"
-        },
-        {
-          "title": "Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に",
-          "description": "「画面への没頭」を避け「現実の時間を奪還する」。Googleの開発者が「Google Pixel 11」で念頭に置いた開発思想だ。字面だけだとまるで時代に逆行するかのようにも見えるが、そうではない。",
-          "url": "https://pc.watch.impress.co.jp/docs/news/2132417.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-08-12T14:00:00Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2132/417/01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "グーグル、「Pixel 11 Pro Fold」発表 薄く軽くなって3倍の強度に",
-          "description": "グーグルは、新型Androidスマートフォン「Google Pixel 11 Pro Fold」を発表した。発売日は8月20日。価格は27万9900円～。NTTドコモ、KDDI、ソフトバンク、楽天モバイルからも発売される。",
-          "url": "https://k-tai.watch.impress.co.jp/docs/news/2132124.html",
-          "source": {
-            "name": "ケータイ Watch"
-          },
-          "publishedAt": "2026-08-12T14:00:00Z",
-          "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2132/124/131953.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "より精緻な測位に対応した「Pixel Watch 5」登場 プロセッサ性能も向上して6万2800円から",
-          "description": "Googleのスマートウォッチ「Pixel Watch」が第5世代になる。プロセッサを中心に性能を着実に改善することで、Geminiをより使いやすくしている。",
-          "url": "https://www.itmedia.co.jp/mobile/articles/2608/12/news105.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-08-12T14:00:00Z",
-          "image": "https://image.itmedia.co.jp/mobile/articles/2608/12/cover_news105.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "It looks like Apple’s iPhone 18 really will skip the fall launch this year",
-          "description": "Apple is reportedly planning to stagger the launch of the iPhone 18 series, with the base iPhone 18 now postponed until early 2027.",
-          "url": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed",
+          "title": "Credible missile threat triggers secret switch of Trump’s aircraft",
+          "description": "A potential shoulder-fired missile attack on Air Force One prompted the Secret Service to conceal the US president’s movements.",
+          "url": "https://www.freemalaysiatoday.com/category/highlight/2026/08/13/credible-missile-threat-triggers-secret-switch-of-trump-s-aircraft",
           "source": {
-            "name": "theverge.com"
+            "name": "Free Malaysia Today"
           },
-          "publishedAt": "2026-08-12T19:27:47Z",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01498.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200",
+          "publishedAt": "2026-08-12T22:06:47Z",
+          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/08/a5dfe6d2-6f7f-48c5-8b3e-6932edeb8b32-Air-Force-One-Donald-Trump.jpg",
           "language": "en"
         },
         {
-          "title": "Swift Observatory Boost Mission Regains Attitude Control",
-          "description": "NASA and Katalyst Space report the LINK mission spacecraft has re-established attitude control following a software update.",
-          "url": "https://aviationweek.com/space/space-exploration/swift-observatory-boost-mission-regains-attitude-control",
+          "title": "PSG win back-to-back UEFA Super Cups with victory over Aston Villa",
+          "description": "Kvaratskhelia and Doue earn a win for Paris Saint-Germain as 17-year-old Brian Madjo’s goal is in vain for Aston Villa.",
+          "url": "https://www.aljazeera.com/sports/2026/8/12/psg-win-back-to-back-uefa-super-cups-with-victory-over-aston-villa",
           "source": {
-            "name": "Aviation Week"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-08-12T19:27:28Z",
-          "image": "https://aviationweek.com/sites/default/files/AW_favicon_128x128.png",
+          "publishedAt": "2026-08-12T22:06:46Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-12T202517Z_1329424921_UP1EM8C1KQ4EA_RTRMADP_3_SOCCER-SUPER-PSG-AVL-1786566428.jpg?resize=1920%2C1440",
           "language": "en"
         },
         {
-          "title": "Partial solar eclipse over Prague's famed castle awes locals and tourists",
-          "description": "Hundreds of Czechs and tourists stood in awe as they watched the partial solar eclipse at a park overlooking Prague’s old town.",
-          "url": "https://www.gmanetwork.com/news/scitech/science/998371/partial-solar-eclipse-over-prague-s-famed-castle-awes-locals-and-tourists/story/",
+          "title": "Warriors: Jett Cleary seeks release from contract to return to Panthers",
+          "description": "Warriors halfback Jett Cleary has requested a release from the final year of his contract as he looks to return to the Penrith Panthers to be coached by his...",
+          "url": "https://www.nzherald.co.nz/sport/rugby-league/warriors/warriors-jett-cleary-seeks-release-from-contract-to-return-to-panthers/WMB3G7OLUBGKBJ25XRTIJVB7CM/",
           "source": {
-            "name": "GMA Network"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-08-12T19:27:25Z",
-          "image": "https://images.gmanews.tv/webpics/2026/08/prague_2026_08_13_03_20_08.JPG",
+          "publishedAt": "2026-08-12T22:06:35Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/PKBCPG5E3NFITFG2JM6J4H5HA4.jpg?auth=0c1877faa43fddbdf56f7e147d39fc01666fc7202e86aa1e36dfbddb8ba3b2b9&width=1200&height=675&quality=70&focal=1158%2C272&smart=false",
           "language": "en"
         },
         {
-          "title": "Trump’s justice department arrests expert on far right as part of SPLC crackdown",
-          "description": "Prosecutors charge Heidi Beirich with financial crimes as part of case against the Southern Poverty Law Center",
-          "url": "https://www.theguardian.com/us-news/2026/aug/12/doj-arrests-far-right-expert-splc",
+          "title": "SEC says 5pm now settlement time for equities, commodities under T+1 cycle",
+          "description": "The Securities and Exchange Commission (SEC) has set 5pm on the first business day after a trade as the settlement deadline for equities and commodities transactions under the T+1 cycle. The SEC said the clarification was an update to its previous circulars on the implementation of the T+2 and T+1 settlement cycles.",
+          "url": "https://www.thecable.ng/sec-says-5pm-now-settlement-time-for-equities-commodities-under-t1-cycle/",
           "source": {
-            "name": "theguardian.com"
+            "name": "thecable.ng"
           },
-          "publishedAt": "2026-08-12T19:27:00Z",
-          "image": "https://i.guim.co.uk/img/media/c28e221248ba12d504684adfb85b44fc8867444c/1074_599_6133_4905/master/6133.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=704f392db01acf060ba9590edf322f09",
+          "publishedAt": "2026-08-12T22:06:00Z",
+          "image": "https://www.thecable.ng/wp-content/uploads/2026/07/SEC-Towers-Abuja_TheCable3-2026-07-31-885-scaled.jpg",
           "language": "en"
         },
         {
-          "title": "Students wait for A-level, T-level and BTec grades",
-          "description": "Another record number of students are expected to secure a place at their first choice of university.",
-          "url": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-08-12T19:26:55Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/300c/live/afd0fdf0-9652-11f1-9a70-ddb12b8bcc9e.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Eurovision to bar countries at war from hosting",
-          "description": "No country was singled out, but five countries boycotted this year’s competition over Israel’s participation.",
-          "url": "https://www.scmp.com/news/world/europe/article/3363828/eurovision-bar-countries-war-hosting",
-          "source": {
-            "name": "South China Morning Post"
-          },
-          "publishedAt": "2026-08-12T19:26:42Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/13/ac4e3721-a3df-4b5e-9f47-8b7949e87341_37a11df8.jpg?itok=FmvvpG8X&v=1786562795",
-          "language": "en"
-        },
-        {
-          "title": "Trump sued on First and Fifth Amendment grounds over paid Truth Social access",
-          "description": "President Donald Trump’s expensive subscription for instant access to his Truth Social posts is unconstitutional, according to a federal lawsuit filed Wednesday.",
-          "url": "https://www.cnn.com/2026/08/12/business/truth-social-lawsuit",
+          "title": "Total solar eclipse: path, peak and live updates",
+          "description": "A total solar eclipse is cutting a path across parts of Greenland, Iceland, northern Russia, Spain and Portugal.",
+          "url": "https://edition.cnn.com/2026/08/12/science/live-news/total-solar-eclipse",
           "source": {
             "name": "CNN"
           },
-          "publishedAt": "2026-08-12T19:25:15Z",
-          "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-10t111832z-327337754-rc29tmatwr3b-rtrmadp-3-israel-palestinians-gaza-plan-20260812180537579.JPG?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2026-08-12T22:06:00Z",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-12t105235z-581541369-rc2ywmad18qs-rtrmadp-3-solar-eclipse-spain.JPG?c=16x9&q=w_800,c_fill",
           "language": "en"
         },
         {
-          "title": "6 incredible pictures of the solar eclipse in Cumbria",
-          "description": "People across Cumbria turned their eyes west this evening as a dramatic partial solar eclipse transformed the late-summer sky.",
-          "url": "https://www.thewestmorlandgazette.co.uk/news/26459777.6-incredible-pictures-solar-eclipse-cumbria/",
+          "title": "year friendship into History of Paper",
+          "description": "Alan Cumming and Shirley Henderson's acting relationship goes back a long way, mirroring the show the pair have been reunited on.",
+          "url": "https://www.bbc.com/news/articles/cdrvp5nl636o",
           "source": {
-            "name": "Westmorland Gazette"
+            "name": "BBC"
           },
-          "publishedAt": "2026-08-12T19:24:27Z",
-          "image": "https://www.thewestmorlandgazette.co.uk/resources/images/21309559.jpg?type=og-image",
+          "publishedAt": "2026-08-12T22:05:03Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/53cb/live/4288d0a0-9662-11f1-a654-971f565de941.jpg",
           "language": "en"
         },
         {
-          "title": "Clarkson 'over the hurdle' after cancer diagnosis",
-          "description": "Ex-Top Gear presenter James May has said his former co-host Jeremy Clarkson is \"over the hurdle\" following his cancer diagnosis.",
-          "url": "https://www.rte.ie/entertainment/2026/0812/1587650-may-clarkson-over-the-hurdle-after-cancer-diagnosis/",
+          "title": "Trump's spokesperson Karoline Leavitt to step down",
+          "description": "White House press secretary Karoline Leavitt, who earned a reputation for acidic putdowns of journalists, is to step down, President Donald Trump has announced adding she would remain a senior advisor.",
+          "url": "https://www.rnz.co.nz/news/world/987597/trump-s-spokesperson-karoline-leavitt-to-step-down",
           "source": {
-            "name": "RTE.ie"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-08-12T19:24:02Z",
-          "image": "https://www.rte.ie/images/0024d5e4-1600.jpg",
+          "publishedAt": "2026-08-12T22:04:07Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--wxHN1PD9--/t_tohu-badge-facebook/f_auto/q_auto/4KCO5NZ_AFP__20250131__36WU6RA__v2__HighRes__UsPoliticsBriefingLeavitt_jpg",
           "language": "en"
         },
         {
-          "title": "How to trade gold as the Fed rate hike and inflation odds shifts",
-          "description": "Gold prices have been volatile in 2026, but a recent rally shows renewed investor interest amid tamer inflation data and changing Fed rate expectations.",
-          "url": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
+          "title": "Twitch Confirms Amazon Is Training Its AI Models on Livestreams",
+          "description": "Twitch said Wednesday users can opt out to prevent Amazon from training its AI models on their content.",
+          "url": "https://www.businessinsider.com/twitch-livestreams-amazon-ai-model-training-opt-out-feature-2026-8",
           "source": {
-            "name": "CNBC"
+            "name": "Business Insider"
           },
-          "publishedAt": "2026-08-12T19:22:32Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/107387754-1710442603582-Fort-Knox-Gold-Pour.jpg?v=1786545406&w=1920&h=1080",
+          "publishedAt": "2026-08-12T22:03:50Z",
+          "image": "https://i.insider.com/6a7ce2ffe3df4d0cbe68563d?width=1200&format=jpeg",
+          "language": "en"
+        },
+        {
+          "title": "Prabowo to face nation as scepticism and dissatisfaction grow",
+          "description": "When Prabowo Subianto takes the stage to address the world's fourth-most populous nation this week, outwardly he will look more powerful than ever. The reality is more complicated.",
+          "url": "https://www.thestar.com.my/business/insight/2026/08/13/prabowo-to-face-nation-as-scepticism-and-dissatisfaction-grow",
+          "source": {
+            "name": "The Star"
+          },
+          "publishedAt": "2026-08-12T22:03:28Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/13/4056994.jpeg",
+          "language": "en"
+        },
+        {
+          "title": "LeBron James’ Mercedes-Maybach S 680 in Photos",
+          "description": "A Mercedes-Maybach S 680 designed by LeBron James is headed to auction this year. The sale will benefit the LeBron James Family Foundation.",
+          "url": "https://robbreport.com/motors/cars/gallery/photos-lebron-james-mercedes-maybach-s-680-auction-1238552062/",
+          "source": {
+            "name": "Robb Report"
+          },
+          "publishedAt": "2026-08-12T22:00:31Z",
+          "image": "https://robbreport.com/wp-content/uploads/2026/08/lebron-james-mercedes-maybach-s-680-00.jpg?w=681&h=383&crop=1",
           "language": "en"
         }
       ]
