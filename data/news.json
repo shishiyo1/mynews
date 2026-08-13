@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-13T02:03:07.392Z",
+  "updatedAt": "2026-08-13T04:50:56.942Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "阪神・佐藤輝明 田淵幸一に並ぶ虎最速入団6年目150号 球界屈指の骨格筋量とストレッチで描く放物線",
+          "description": "◇セ・リーグ　阪神5─1巨人（2026年8月12日　東京ドーム）\n　阪神・佐藤輝明内野手（27）が、12日の巨人戦（東京ドーム）で2本塁打を放ち、通算150号本塁打を達成した。3回1死で右翼へ2",
+          "url": "https://news.yahoo.co.jp/articles/1a18f21bc26061db1ecb6df9ab6caac2fce9bd7e",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-12T16:15:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000047-spnannex-000-4-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "「Pixel Watch 5」が8月20日に発売へ 前モデルから最大20％の高速化、価格は6万2800円から：Made by Google 2026（1/2 ページ）",
+          "description": "Googleが、Wear OS by Googleを搭載するスマートウォッチの最新モデル「Google Pixel Watch 5」を発表した。進化した最新モデルの特徴と従来モデル「Pixel Watch 4」からの変更点をお届けする。 (1/2)",
+          "url": "https://www.itmedia.co.jp/pcuser/articles/2608/13/news051.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-08-12T15:00:00Z",
+          "image": "https://image.itmedia.co.jp/pcuser/articles/2608/13/cover_news051.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【解説】新たな台風17号が発生 週明けに本州へ近づくおそれ 気象予報士「晴れていても高い波に注意を」",
+          "description": "台風15号が通過した後も、関東では激しい雨が降りました。気象予報士によると、台風の異例のルートによって南から湿った空気が流れ込み続けたことが原因で、今後も局地的な大雨への警戒が必要です。また、新たに発生した台風17号の今後の動きにも注意が求められます。",
+          "url": "https://news.ntv.co.jp/category/weather/64fadf16d56b4047b3f9393b01418d21",
+          "source": {
+            "name": "news.ntv.co.jp"
+          },
+          "publishedAt": "2026-08-12T15:00:00Z",
+          "image": "https://news.ntv.co.jp/gimage/n24/articles/37eec49d555e4ea9b5f65432ee413689/7e93a6b842e9be99c2b74d3ae539ba87bd9f65d7eb0b211c4ac88ba6d2ba256c.jpg?w=1200",
+          "language": "ja"
+        },
+        {
+          "title": "なにわ男子、海外で奇跡の瞬間を激写・OKテイク連発 ソフトバンク新CM出演",
+          "description": "なにわ男子が出演するソフトバンクの新CM「トルコアイス」篇、「陽気なヤツら」篇が、8月13日よりソフトバンク公式YouTubeチャンネルにて公開される。",
+          "url": "https://mdpr.jp/news/detail/4828162",
+          "source": {
+            "name": "mdpr.jp"
+          },
+          "publishedAt": "2026-08-12T15:00:00Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/GFMk/nm/GFMk1xhWdGzsPrE-FHN1hnhQybDjYaTEkcVt_sPxuX8.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
+        {
+          "title": "グーグル「Pixel Watch 5」登場 GPS精度2倍で健康管理も強化 62800円から",
+          "description": "Googleは、新型スマートウォッチ「Google Pixel Watch 5」を20日に発売する。価格は41mmが62,800円(Bluetooth)/79,800円(LTE)、45mmが67,800円(Bluetooth)/84,800円(LTE)。バンドのカラーはCanyon(キャニオン)、Fog(フォグ)、Olive(オリーブ)、新しいPyrite(パイライト)の4色を用意する。",
+          "url": "https://www.watch.impress.co.jp/docs/news/2132375.html",
+          "source": {
+            "name": "Impress Watch"
+          },
+          "publishedAt": "2026-08-12T14:05:00Z",
+          "image": "https://www.watch.impress.co.jp/img/ipw/list/2132/375/00.JPG",
+          "language": "ja"
+        },
         {
           "title": "Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に",
           "description": "「画面への没頭」を避け「現実の時間を奪還する」。Googleの開発者が「Google Pixel 11」で念頭に置いた開発思想だ。字面だけだとまるで時代に逆行するかのようにも見えるが、そうではない。",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-08-12T14:00:00Z",
           "image": "https://av.watch.impress.co.jp/img/avw/list/2132/354/DSC04879.jpg",
           "language": "ja"
-        },
-        {
-          "title": "空襲で姉犠牲 地元高1がアニメに",
-          "description": "8月15日で終戦から81年となります。今週は戦争の教訓や想いを未来に繋ぐ特集をシリーズで放送しています。",
-          "url": "https://news.yahoo.co.jp/pickup/6591500",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-12T13:23:33Z",
-          "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/12/67666ec80956d0f594a9055bb177cc95a7e257d57cda543487397ad55c4315ac.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "日航機墜落 遺体安置された体育館",
-          "description": "乗客乗員520人が犠牲となった日航機の墜落事故から今月12日で41年です。あの時、何が起きていたのか、当時の遺体安置所で仕事をしていた男性に話を聞くことができました。",
-          "url": "https://news.yahoo.co.jp/pickup/6591497",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-12T13:04:23Z",
-          "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/12/b0fee3dce6fcbdd5c4f21db2a028cc851fa46843ecf30a01ce602a9daa780cb2.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "多くて10万基。地球軌道上の人工衛星の数は制限が必要だ（ギズモード・ジャパン）",
-          "description": "宇宙ビジネスで、かつないほどジャンジャンバリバリ打ち上げられるロケット。地球軌道上を飛ぶ人工衛星の数は増え続けています。地球軌道上の混雑具合は、衝突リスク、宇宙ゴミ、宇宙観測などの視点から、懸念の声",
-          "url": "https://news.yahoo.co.jp/articles/9c2d878dfaabb3e43d0de6b7d4de7c51c13dfe42",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-12T13:00:02Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00000017-giz-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【ＮＹ為替オープニング】米CPIで9月据え置き正当化か、10年債入札に注目｜FX・為替ニュース",
-          "description": "◇重要イベント・ポイント ・米・7月消費者物価コア指数 ・米・7月財政収支 ・石油輸出国機構(OPEC)月報 ・米財務省10年債入札、420億ドル ・トランプ米大統領、ホルムズ海峡は米国が管理している",
-          "url": "https://zai.diamond.jp/articles/-/493828",
-          "source": {
-            "name": "ザイFX！"
-          },
-          "publishedAt": "2026-08-12T12:38:00Z",
-          "image": "https://zai.diamond.jp/mwimgs/9/e/-/img_9e47ac79ce2cf237f05d70fc22e16d45110540.png",
-          "language": "ja"
-        },
-        {
-          "title": "カラフルに彩れる、録り逃し知らずのちいちゃなマイク",
-          "description": "しかも、今までのMic Mini、Mic Mini 2もあわせて使えるんだって！DJIからバッヂサイズのワイヤレスマイク「Mic Mini 2S」、来ましたよ。Miniシリーズの「これで十分じゃん」感がさらに上がったアップデートです。前作の",
-          "url": "https://www.gizmodo.jp/article/dji-mic-mini-2-s/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-08-12T12:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/08/06/2ec59387-1cfa-447c-a54f-32535bfd2a78/original.jpg?w=1200&h=630",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Argentina star Messi not certain to play ‘much longer’ after father’s death",
-          "description": "Former Barcelona and PSG star Lionel Messi, who won the 2022 World Cup, hints at retirement from football.",
-          "url": "https://www.aljazeera.com/sports/2026/8/12/argentina-star-messi-not-certain-to-play-much-longer-after-fathers-death",
+          "title": "Congo ebola outbreak on track to be world's deadliest: WHO",
+          "description": "The ongoing Ebola outbreak in Congo is on track to eclipse the deadliest one in history that killed over 11,000 people out of more than 28,000 cases, the head of the World Health Organization said Wednesday.",
+          "url": "https://www.cp24.com/news/world/2026/08/12/who-says-congos-ebola-outbreak-is-on-track-to-eclipse-the-deadliest-one-in-history/",
           "source": {
-            "name": "Al Jazeera"
+            "name": "CP24"
           },
-          "publishedAt": "2026-08-12T14:02:32Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26201136678330-1786542449.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-08-12T16:50:29Z",
+          "image": "https://www.cp24.com/resizer/v2/A5ZHIJ2FGWNI46V5UKVEMMGLMU.jpg?smart=true&auth=160e004f6720d7b04674b532ea80e126cdf9b9536a73db25c74e0c7670ebcbb1&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "OpenAI Finds a Crack in Anthropic's Business AI Lead",
-          "description": "Although OpenAI trails Anthropic in business adoption, it won a moneymaking battle in July with its most advanced model, GPT-5.6 Sol.",
-          "url": "https://www.businessinsider.com/anthropic-fable-5-openai-gpt-5-6-sol-ramp-2026-8",
+          "title": "Myles Lewis-Skelly: Chelsea and Manchester United interested in Arsenal midfielder",
+          "description": "Myles Lewis-Skelly's long-term future at Arsenal has been debated since he slipped down the pecking order last season - will he stay with the Gunners with interest reportedly shown elsewhere?",
+          "url": "https://www.bbc.com/sport/football/articles/clyxpgjx4mjo",
           "source": {
-            "name": "Business Insider"
+            "name": "BBC"
           },
-          "publishedAt": "2026-08-12T14:01:23Z",
-          "image": "https://i.insider.com/6a7bb1f0e3df4d0cbe684e7e?width=1200&format=jpeg",
+          "publishedAt": "2026-08-12T16:49:46Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/69db/live/dca399f0-9652-11f1-9a70-ddb12b8bcc9e.jpg",
           "language": "en"
         },
         {
-          "title": "Rod Stewart cancels remaining tour dates after undergoing heart surgery",
-          "description": "'I'm deeply disappointed to miss these shows and sorry to let my fans down, but I look forward to getting back on stage,' Rod Stewart wrote.",
-          "url": "https://globalnews.ca/news/12018257/rod-stewart-cancels-remaining-tour-dates-heart-surgery/",
+          "title": "How Alexa for Shopping works, from Doug Herrington's podcast",
+          "description": "Doug Herrington, Amazon's CEO of Worldwide Stores, explains why conversational AI is the next format shift in retail—just as the catalog gave way to the search bar.",
+          "url": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-learn-and-be-curious-podcast",
           "source": {
-            "name": "Global News"
+            "name": "About Amazon"
           },
-          "publishedAt": "2026-08-12T14:01:09Z",
-          "image": "https://globalnews.ca/wp-content/uploads/2026/08/rod-stewart-cancels-tour.jpg?quality=65&strip=all&crop=0px%2C3px%2C1023px%2C541px&resize=720%2C379",
+          "publishedAt": "2026-08-12T16:48:16Z",
+          "image": "https://assets.aboutamazon.com/dims4/default/e1181bb/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F29%2F44%2F733ee267476195346ec769a20779%2Fnewsletter-16-9-mp-2106-1.jpg",
           "language": "en"
         },
         {
-          "title": "Tanzanian youth embrace creative arts to promote tourism, environmental conservation",
-          "description": "ZANZIBAR: PRESIDENT Samia Suluhu Hassan has urged the youth to embrace creative talents to promote the country’s tourist attractions, culture and heritage while creating jobs and income opportunities. The President made the call during a photography auction held in Kizimkazi, Zanzibar, saying creative arts could play a greater role in promoting tourism and environmental conservation. …",
-          "url": "https://dailynews.co.tz/tanzanian-youth-embrace-creative-arts-to-promote-tourism-environmental-conservation/",
+          "title": "Sunway REIT, Malaysia Smelting Corp Bhd, VSTEC, Industronics, Kerjaya Prospek Group, Eita Resources, PTT Synergy and Binasat Communications",
+          "description": "KUALA LUMPUR (Aug 12): Here is a brief recap of some business news and corporate announcements that made the headlines on Wednesday:",
+          "url": "https://theedgemalaysia.com/node/814302",
           "source": {
-            "name": "dailynews.co.tz"
+            "name": "theedgemalaysia.com"
           },
-          "publishedAt": "2026-08-12T14:00:52Z",
-          "image": "https://dailynews.co.tz/wp-content/uploads/2026/08/Rais-wa-Jamhuri-ya-Muungano-wa-Tanzania-Mhe.-Dkt.-Samia-Suluhu-Hassan-akizungumza-kwenye-Maonesh.jpg",
+          "publishedAt": "2026-08-12T16:47:21Z",
+          "image": "https://assets.theedgemarkets.com/CITN_20.jpg",
           "language": "en"
         },
         {
-          "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-          "description": "Google focuses more on AI and curated experiences than spec upgrades in 2026.",
-          "url": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
+          "title": "Colombia earthquake: Baby rescued from rubble",
+          "description": "Video of a remarkable rescue in the Colombia earthquake aftermath shows a tiny infant in a dusty bodysuit being carefully pulled out of wreckage.",
+          "url": "https://www.wlwt.com/article/colombia-earthquake-baby-rescue-video/73412626",
           "source": {
-            "name": "Ars Technica"
+            "name": "WLWT"
           },
-          "publishedAt": "2026-08-12T14:00:51Z",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Google-2026-lineup-1152x648.jpg",
+          "publishedAt": "2026-08-12T16:46:00Z",
+          "image": "https://kubrick.htvapps.com/vidthumb/c3e16b94-6c54-454e-9c6c-07b7055d2734/452813f5-edfa-44b4-bc9d-d79e089f88ba.jpg?crop=1xw%3A1xh%3Bcenter%2Ctop&resize=1200%3A*",
           "language": "en"
         },
         {
-          "title": "Google debuts SL2T, an AI model that's designed to understand sign language",
-          "description": "Google debuts SL2T, an AI model that's designed to understand sign language - SiliconANGLE",
-          "url": "https://siliconangle.com/2026/08/12/google-debuts-sl2t-ai-model-thats-designed-understand-sign-language/",
+          "title": "Today's NYT Strands Hints, Answers and Help for Aug. 12 #892",
+          "description": "Here are hints and the answers for today's NYT Strands puzzle for Aug. 12, 2026.",
+          "url": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-12-892/",
           "source": {
-            "name": "siliconangle.com"
+            "name": "CNET"
           },
-          "publishedAt": "2026-08-12T14:00:50Z",
-          "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-11-09-21-33.png",
+          "publishedAt": "2026-08-12T16:45:00Z",
+          "image": "https://www.cnet.com/wp-content/uploads/sites/2/859c9110-e596-432b-8690-95e6102759c9.jpg",
           "language": "en"
         },
         {
-          "title": "Inside the Revival of Coyote vs. Acme Movie",
-          "description": "The journey of ‘Coyote vs. Acme,’ from being shelved by Warner Bros. to its triumphant revival and upcoming release on August 28.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-features/inside-revival-coyote-vs-acme-movie-1236671186/",
+          "title": "APC Plotting To Lock Down Six Osun LGAs, Prevent Voting, Write Results, Accord Party Alleges",
+          "description": "Speaking during the programme, Salam alleged that the APC had resorted to intimidation because it could not secure victory through the ballot box.",
+          "url": "https://saharareporters.com/2026/08/12/apc-plotting-lock-down-six-osun-lgas-prevent-voting-write-results-accord-party-alleges",
           "source": {
-            "name": "The Hollywood Reporter"
+            "name": "Sahara Reporters"
           },
-          "publishedAt": "2026-08-12T14:00:45Z",
-          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/15FEA-Coyote-David-Greene-Shoot-Splash-2026.jpg?w=1440&h=810&crop=1",
+          "publishedAt": "2026-08-12T16:44:48Z",
+          "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
           "language": "en"
         },
         {
-          "title": "Unexpected findings add new insight on cannabis and heart health",
-          "description": "Habitual cannabis users experienced about 9% fewer premature heartbeats on days they inhaled cannabis compared with days they abstained, a counterintuitive finding that adds to the complex and evolving understanding of how cannabis affects the heart, according to new UC San Francisco-led research.",
-          "url": "https://medicalxpress.com/news/2026-08-unexpected-insight-cannabis-heart-health.html",
+          "title": "U.S. charges 11 for alleged sham marriage scheme to help Chinese nationals gain green cards",
+          "description": "The Justice Department unveiled criminal charges alleging 11 people participated in a scheme that involved more than 1,000 \"sham marriages\" between Chinese nationals and U.S. citizens.",
+          "url": "https://www.cbsnews.com/news/chinese-nationals-charged-alleged-sham-marriage-scheme/",
           "source": {
-            "name": "Medical Xpress"
+            "name": "CBS News"
           },
-          "publishedAt": "2026-08-12T14:00:04Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/hires/2023/cannabis-3.jpg",
+          "publishedAt": "2026-08-12T16:44:00Z",
+          "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/12/3d54c590-7a81-4dcd-a5bd-e7601664868f/thumbnail/1200x630/0887412c2eb2e74063060e4c09ed8d1f/screenshot-2026-08-12-at-12-36-02-pm.png",
           "language": "en"
         },
         {
-          "title": "Google’s Pixel 11 puts Gemini at center of AI phone battle with Apple",
-          "description": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
-          "url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
+          "title": "BTS's \"SWIM\" Ties Record For Their Longest-Charting Song On Billboard Hot 100",
+          "description": "“SWIM” has tied the record for BTS’s longest-charting song on Billboard’s Hot 100! On August 11 local time, Billboard revealed that “SWIM” was now",
+          "url": "https://www.soompi.com/article/1862516wpp/btss-swim-ties-record-for-their-longest-charting-song-on-billboard-hot-100",
           "source": {
-            "name": "CNBC"
+            "name": "Soompi"
           },
-          "publishedAt": "2026-08-12T14:00:01Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108348358-1786543479864-Portfolio_3-3.png?v=1786543494&w=1920&h=1080",
+          "publishedAt": "2026-08-12T16:43:36Z",
+          "image": "https://0.soompi.io/wp-content/uploads/2026/08/12094042/BTS_0bfc89.jpg",
           "language": "en"
         },
         {
-          "title": "Pixel 11 takes on iPhone's Photographic Styles with Camera Looks, including retro film filters",
-          "description": "The Google Pixel 11 series brings retro-inspired, film-style camera filters that you can fully customize to your liking.",
-          "url": "https://www.androidauthority.com/google-pixel-11-camera-looks-filters-3696519/",
+          "title": "Finite element analysis of 3D direct-printed shape memory polymer aligners for stress distribution and initial tooth movement in anterior open bite correction",
+          "description": "Anterior open bite (AOB) correction with clear aligners remains biomechanically unpredictable due to inadequate control of incisor extrusion and a high tendency for uncontrolled lingual tipping. Conventional thermoformed polyethylene terephthalate (PET) aligners exhibit rapid force decay and localised stress concentration, limiting sustained vertical activation and increasing the risk of inefficient movement and periodontal overload. 3D direct-printed shape memory polymer (SMP) aligners provide programmable recovery and sustained force expression, representing a potential biomechanical advancement; however, their extrusion mechanics have not been quantitatively compared under controlled conditions. This study aimed to evaluate and compare initial tooth displacement, stress distribution, and extrusion-to-tipping ratio during maxillary incisor extrusion produced by thermoformed PET aligners with attachments and 3D direct-printed SMP aligners with and without attachments using finite element analysis (FEA). A validated patient-specific finite element model of the maxillary incisors was subjected to a standardised 0.25-mm programmed extrusive activation. Three configurations were analysed: (1) SMP aligner with attachments, (2) SMP aligner without attachments, and (3) PET aligner with attachments. Primary outcomes included von Mises stress within the periodontal ligament (PDL), cervical attachment stress, vertical displacement magnitude, and vertical-to-lingual tipping displacement ratio as a surrogate for moment-to-force control. PET aligners with attachments generated the highest mean PDL stress (3.44 MPa) and cervical attachment stress (5.26 MPa) compared with SMP aligners with attachments (2.43 MPa). Despite greater vertical displacement (0.48 mm), PET aligners demonstrated nearly equivalent lingual tipping (0.49 mm), yielding a vertical-to-tipping ratio ≈ 0.98, indicative of biomechanical inefficiency. The SMP aligners without attachments produced minimal extrusion (0.0031 mm) and the lowest PDL stress (1.36 MPa). In contrast, SMP aligners with attachments achieved controlled extrusion (0.32 mm) with reduced tipping (0.27 mm), resulting in the most favourable vertical control ratio (≈ 1.19) and the lowest cervical stress concentration (1.30 MPa), reflecting more balanced load distribution. In comparison to thermoformed PET aligners, 3D direct-printed SMP aligners with attachments exhibited a favourable biomechanical control of maxillary incisor extrusion under standardised activation. PET aligners with attachments exhibited increased PDL and cervical stress concentrations and uncontrolled tilting, while SMP aligners without attachments were unable to provide effective activation. The results of this investigation should be interpreted in the context of computational assumptions and should be subject to prospective clinical validation, as they assessed initial displacement using FEA.",
+          "url": "https://www.nature.com/articles/s41598-026-65267-0?error=cookies_not_supported&code=2a73a313-b36b-46e3-9a00-9333dd6ae1e5",
           "source": {
-            "name": "Android Authority"
+            "name": "Nature"
           },
-          "publishedAt": "2026-08-12T14:00:00Z",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg",
+          "publishedAt": "2026-08-12T16:43:07Z",
+          "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
           "language": "en"
         }
       ]
