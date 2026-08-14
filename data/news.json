@@ -1,10 +1,21 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-14T02:01:05.237Z",
+  "updatedAt": "2026-08-14T04:47:56.907Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【随時更新】千葉県22市町で「レベル5大雨特別警報」6市に「レベル5土砂災害特別警報」 記録的短時間大雨は25回 各地に「緊急安全確保」 帰宅困難者も 約4万軒停電",
+          "description": "午前1時、千葉県東金市付近で1時間に約100ミリ。（01：17）",
+          "url": "https://news.tv-asahi.co.jp/news_society/articles/900197093.html",
+          "source": {
+            "name": "テレ朝NEWS"
+          },
+          "publishedAt": "2026-08-13T16:20:00Z",
+          "image": "https://news.tv-asahi.co.jp/articles_img/900197093_1200.jpg",
+          "language": "ja"
+        },
         {
           "title": "【一問一答】郡司裕也 今季初コンビ・山崎の勝利を攻守でアシスト「眼福ですね、福也さん」",
           "description": "■パ・リーグ２０回戦　西武２－８日本ハム（８月１３日、エスコンフィールド北海道）　試合詳細はコチラ　日本ハムの郡司裕也捕手（２８）が今季初のスタメンマスクで躍動した。「５番・捕手」で先発出場し、...",
@@ -25,6 +36,17 @@
           },
           "publishedAt": "2026-08-13T12:57:39Z",
           "image": "https://www.nikkansports.com/baseball/news/img/202608130001785-w500_0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【巨人】橋上監督代行「阪神打線と対峙するときの大きなテーマ」西舘勇陽の闘志を評価 岸田行倫の登録抹消にも言及",
+          "description": "巨人は逆転負けで同一カード３連敗を喫し、阪神とのゲーム差は３に広がった。今季の阪神戦は７勝１３敗となり、２年連続で伝統の一戦負け越しが決まった。",
+          "url": "https://hochi.news/articles/20260813-OHT1T51434.html",
+          "source": {
+            "name": "hochi.news"
+          },
+          "publishedAt": "2026-08-13T12:51:00Z",
+          "image": "https://hochi.news/images/2026/08/13/20260813-OHT1I51626-C.jpg",
           "language": "ja"
         },
         {
@@ -92,139 +114,117 @@
           "publishedAt": "2026-08-13T11:46:00Z",
           "image": "https://contents.oricon.co.jp/upimg/news/2474000/2473794/20260609_224403_p_o_26066595.jpg",
           "language": "ja"
-        },
-        {
-          "title": "“3歳児ウエスト”誇るインフルエンサー・ゆりにゃ『関コレ』に、小悪魔スタイルで挑発",
-          "description": "関西のおいしい、楽しい、知りたい…がいっぱい。関西人による、関西が好きな人のための、関西を24時間遊ぶニュースサイトです。",
-          "url": "https://www.lmaga.jp/news/2026/08/1088768/",
-          "source": {
-            "name": "Lmaga.jp"
-          },
-          "publishedAt": "2026-08-13T11:37:28Z",
-          "image": "https://www.lmaga.jp/wp-content/uploads/2026/08/kancole26aw_yurinya4.JPG",
-          "language": "ja"
-        },
-        {
-          "title": "「NHK夏の音楽祭 うたであえたら2026」曲目・曲順一覧 ミセス、M!LK、福山雅治ら34組44曲",
-          "description": "NHKの音楽特番「NHK夏の音楽祭 うたであえたら2026」が8月15日午後6時5分から放送される。出演歌手34組が披露する全44曲の曲目と曲順をまとめた。Mrs. GREEN APPLEは「風と町」「Soranji」、福山雅治は「想望」「邂逅」を披露。M!LKは「好きすぎて滅！」「爆裂愛してる」「アオノオト」の3曲で登場する。",
-          "url": "https://www.fukuishimbun.co.jp/articles/-/2674106",
-          "source": {
-            "name": "福井新聞社"
-          },
-          "publishedAt": "2026-08-13T11:02:00Z",
-          "image": "https://fki.ismcdn.jp/mwimgs/a/d/-/img_ad42a8ef89bf1fbaeae192b3a61f7e41212949.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Finnish study links habitual coffee consumption to healthier body metabolism",
-          "description": "Coffee is one of the world's most widely consumed beverages, and previous research has linked its consumption to a lower risk of conditions such as type 2 diabetes and cardiovascular disease.",
-          "url": "https://www.news-medical.net/news/20260813/Finnish-study-links-habitual-coffee-consumption-to-healthier-body-metabolism.aspx",
+          "title": "Harrogate family win compensation after door shattered in Turkey",
+          "description": "Brothers aged 11 and 16 were inside a steam room when the door exploded, leaving them with cuts.",
+          "url": "https://www.bbc.co.uk/news/articles/c934x01d0y3o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-08-13T16:47:40Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ceb2/live/56110ff0-972c-11f1-bbb3-ebc49f706d46.png",
+          "language": "en"
+        },
+        {
+          "title": "Unbothered Dhruv Vikram hits the beach amid controversy over Anupama Parameswaran saying she faced narcissistic abuse",
+          "description": "Anupama Parameswaran refused to take names and addressed how she suffered in a relationship that lasted for around two years.",
+          "url": "https://www.hindustantimes.com/entertainment/tamil-cinema/dhruv-vikram-hits-the-beach-amid-controversy-over-anupama-parameswaran-saying-she-faced-narcissistic-abuse-101786638816023.html",
+          "source": {
+            "name": "Hindustan Times"
+          },
+          "publishedAt": "2026-08-13T16:46:34Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/08/13/1600x900/logo/Anupama_Parameswaran_Dhruv_Vikram_1786638897414_1786638897676_0b668e54-c216-41a4-b6c1-fcbdef62a348.jpeg",
+          "language": "en"
+        },
+        {
+          "title": "Ontario man wanted for decades arrested in California",
+          "description": "A 64-year-old man, who has been wanted by Hamilton police for 35 years, has recently been arrested by U.S. Immigration and Customs Enforcement (ICE) in California.",
+          "url": "https://www.cp24.com/local/hamilton/2026/08/13/man-wanted-for-35-years-on-sexual-assault-charges-in-canada-arrested-by-ice-in-california/",
+          "source": {
+            "name": "CP24"
+          },
+          "publishedAt": "2026-08-13T16:45:50Z",
+          "image": "https://www.cp24.com/resizer/v2/YIQZE46VMFBFXAOI2CKGSYVFZI.png?smart=true&auth=f1b92de9362ce7a9438075544ba4101507d37ed66fc4cfc235fe352e10d0d79e&width=1200&height=630",
+          "language": "en"
+        },
+        {
+          "title": "New ASTRO guidelines optimize radiation therapy for pancreatic cancer",
+          "description": "An updated clinical guideline from the American Society for Radiation Oncology (ASTRO) provides evidence-based recommendations on the use of radiation therapy to treat adult patients with pancreatic cancer.",
+          "url": "https://www.news-medical.net/news/20260813/New-ASTRO-guidelines-optimize-radiation-therapy-for-pancreatic-cancer.aspx",
           "source": {
             "name": "News-Medical"
           },
-          "publishedAt": "2026-08-13T14:01:00Z",
-          "image": "https://www.news-medical.net/image-handler/picture/2016/3/Coffee_-_AlikeYou_0a52615397d94b71b0bcee5906adb28f-620x480.jpg",
+          "publishedAt": "2026-08-13T16:45:00Z",
+          "image": "https://www.news-medical.net/image-handler/picture/2015/3/Pancreatic_Cancer_89a89cdc7f804d5b8329b646f86bbec6-620x480.jpg",
           "language": "en"
         },
         {
-          "title": "Regal ties its voice AI agents into Five9's contact center platform",
-          "description": "Regal ties its voice AI agents into Five9's contact center platform - SiliconANGLE",
-          "url": "https://siliconangle.com/2026/08/13/regal-ties-voice-ai-agents-five9s-contact-center-platform/",
+          "title": "Hasan Mahmud, Bangladesh beat Australia at their own game in Darwin",
+          "description": "The Bangladeshis arrived seeking Australia’s respect, only to leave the hosts looking ordinary after a remarkable day in Darwin",
+          "url": "https://www.cricbuzz.com/cricket-news/139839/hasan-mahmud-bangladesh-beat-australia-at-their-own-game-in-darwin-cricbuzzcom",
           "source": {
-            "name": "SiliconANGLE"
+            "name": "Cricbuzz"
           },
-          "publishedAt": "2026-08-13T14:00:45Z",
-          "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/regal.png",
+          "publishedAt": "2026-08-13T16:44:53Z",
+          "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1051660/it-was-arguably-the-most-polite-fast-bowler-in-the-world-giving-the-australian-batters-a-rude-awakening.jpg",
           "language": "en"
         },
         {
-          "title": "Databricks wraps $5 billion funding round at $190 billion valuation",
-          "description": "Databricks is benefitting off of the agentic AI wave.",
-          "url": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
+          "title": "Hasan Mahmud, Bangladesh beat Australia at their own game in Darwin",
+          "description": "The Bangladeshis arrived seeking Australia’s respect, only to leave the hosts looking ordinary after a remarkable day in Darwin",
+          "url": "https://www.cricbuzz.com/cricket-news/139839/hasan-mahmud-and-the-day-bangladesh-beat-australia-at-their-own-game",
           "source": {
-            "name": "CNBC"
+            "name": "Cricbuzz"
           },
-          "publishedAt": "2026-08-13T14:00:27Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108322589-1781624647320-gettyimages-2270267833-myv06253_eomhpgld.jpeg?v=1781627035&w=1920&h=1080",
+          "publishedAt": "2026-08-13T16:44:53Z",
+          "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1051660/it-was-arguably-the-most-polite-fast-bowler-in-the-world-giving-the-australian-batters-a-rude-awakening.jpg",
           "language": "en"
         },
         {
-          "title": "L&T, Coal India, 18 others bid for Centre's Rs 7,280-cr rare earth magnet scheme",
-          "description": "The technical bids were opened on Thursday, a day after the August 12 deadline for submission, according to the ministry.",
-          "url": "https://www.moneycontrol.com/news/business/companies/l-t-coal-india-18-others-bid-for-centre-s-rs-7-280-cr-rare-earth-magnet-scheme-14004734.html",
+          "title": "Google should have gone the GTA 6 route with its Pixel 11 show; instead, we got the Trevor Noah cringe fest",
+          "description": "Why did they do a show eight hours AFTER the phones were announced??",
+          "url": "https://www.androidcentral.com/phones/google-pixel/made-by-google-2026-keynote-was-a-cringe-fest",
           "source": {
-            "name": "Moneycontrol.com"
+            "name": "Android Central"
           },
-          "publishedAt": "2026-08-13T14:00:22Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2025/12/20251220094939_446698100.jpg",
+          "publishedAt": "2026-08-13T16:44:32Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/EZP7tPgiqWR9UnobgMvZ8G-2000-80.jpg",
           "language": "en"
         },
         {
-          "title": "Coffee consumption linked to leaner body composition and sex-specific hormone patterns",
-          "description": "Coffee is one of the world's most widely consumed beverages, and previous research has linked its consumption to a lower risk of conditions such as type 2 diabetes and cardiovascular disease. However, the biological mechanisms behind these benefits remain unclear.",
-          "url": "https://medicalxpress.com/news/2026-08-coffee-consumption-linked-leaner-body.html",
+          "title": "Islam Makhachev Reveals Ideal UFC Retirement Plans",
+          "description": "UFC welterweight champion Islam Makhachev revealed his ideal retirement plans for when he finally decides to walk away from MMA.At age 34 and in the prime of his mixed martial arts career, Makhachev is unlikely to retire anytime soon, even if UFC commentator Joe Rogan thinks the end could be coming sooner than some believe.That […] The post Islam Makhachev Reveals Ideal UFC Retirement Plans appeared first on HEAVY.",
+          "url": "https://sports.yahoo.com/articles/islam-makhachev-reveals-ideal-ufc-164300090.html",
           "source": {
-            "name": "Medical Xpress"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-08-13T14:00:01Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/sexy-coffee.jpg",
+          "publishedAt": "2026-08-13T16:43:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/ce4b48f9123b6ae9fc2ef6d4d5dbbe43c9fa0bf59b08a52e30d3c49c03ed2645/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F98d197c332193b960d316f8e05da61d7.jpg",
           "language": "en"
         },
         {
-          "title": "Trek unveils all-new carbon Domane",
-          "description": "Lighter, sleeker, and built for the long way home. Trek's fifth-generation endurance icon strips the road ride back to what matters most.",
-          "url": "https://bikehub.co.za/news/trek-unveils-all-new-carbon-domane/",
+          "title": "PROFILE: Milkah Kimani - The boss, the golfer, the life of the party",
+          "description": "Milkah Kimani's journey began at Cadbury Kenya, where she started out as a junior sales representative. Twenty years later, she has worked across some of Nairobi's leading hotels and risen to one of the most senior sales and marketing positions in the hospitality industry.",
+          "url": "https://citizen.digital/article/profile-milkah-kimani-the-boss-the-golfer-the-life-of-the-party-n388284",
           "source": {
-            "name": "Bike Hub"
+            "name": "citizen.digital"
           },
-          "publishedAt": "2026-08-13T14:00:00Z",
-          "image": "https://wp-media.bikehub.co.za/production/uploads/2026/08/TK26_Domane_Slovenia_DR_NA_11801-1400x934.jpg",
+          "publishedAt": "2026-08-13T16:42:34Z",
+          "image": "https://assets.citizen.digital/172921/conversions/d7a66ad9-ecaa-4d00-8596-18b32073fea5_Milkah-og_image.webp",
           "language": "en"
         },
         {
-          "title": "Galaxy Z Fold 8 iFixit teardown shows major repair flaws",
-          "description": "iFixit gives the Samsung Galaxy Z Fold 8 a low repairability score, citing fragile screens, hinge risks, and hard-to-find parts.",
-          "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-ifixit-teardown-repairability-3698202/",
+          "title": "Zimbabwe's Kariba ferry disaster victims honoured as death toll reaches 44",
+          "description": "Hundreds gathered for a memorial service in northern Zimbabwe on Thursday to honour victims of the Lake Kariba ferry disaster, which killed at least 44 people. Survivors recalled a desperate struggle for life as the vessel capsized in rough waters.",
+          "url": "https://www.africanews.com/2026/08/13/zimbabwes-kariba-ferry-disaster-victims-honoured-as-death-toll-reaches-44/",
           "source": {
-            "name": "Android Authority"
+            "name": "africanews.com"
           },
-          "publishedAt": "2026-08-13T14:00:00Z",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-iFixit-teardown_2.jpg",
-          "language": "en"
-        },
-        {
-          "title": "On this day in space! Aug. 13, 2014: Game-changing WorldView-3 Earth-observing satellite launches to orbit",
-          "description": "On Aug. 13, 2014, DigitalGlobe launched what was then the sharpest-eyed satellite of all time.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-aug-13-2014-game-changing-worldview-3-earth-observing-satellite-launches-to-orbit",
-          "source": {
-            "name": "Space"
-          },
-          "publishedAt": "2026-08-13T14:00:00Z",
-          "image": "https://cdn.mos.cms.futurecdn.net/KZuTR3b2mAgQUcGzmzaSab-2000-80.png",
-          "language": "en"
-        },
-        {
-          "title": "“Back to the roots of endurance riding” - new Trek Domane ditches IsoSpeed and in-frame storage to save 305 grams",
-          "description": "Trek says the updated Domane is just as comfortable as the previous iteration and can fit 40mm tyres",
-          "url": "https://www.bikeradar.com/news/2027-trek-domane",
-          "source": {
-            "name": "BikeRadar"
-          },
-          "publishedAt": "2026-08-13T14:00:00Z",
-          "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/c007155c-cc3f-4e94-8b6b-c160fae1abb2/thumbnails/9403907b-1dc4-4657-8b96-cf5fa9603d53.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&w=1200",
-          "language": "en"
-        },
-        {
-          "title": "Man, 102, dies after alleged assault in south Wales pub",
-          "description": "Phillip Ormerod was taken to hospital after the incident in the Crow’s Nest in Cwmbran and later died of his injuries",
-          "url": "https://www.theguardian.com/uk-news/2026/aug/13/phillip-ormerod-102-dies-alleged-assault-crows-nest-cwmbran-wales",
-          "source": {
-            "name": "The Guardian"
-          },
-          "publishedAt": "2026-08-13T13:59:00Z",
-          "image": "https://i.guim.co.uk/img/media/e94b5ac86ee614185a611e168ae25400eabbcaf6/95_0_1465_1172/master/1465.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=30ef2ac9029db722bd253253935f97ac",
+          "publishedAt": "2026-08-13T16:41:06Z",
+          "image": "https://images.euronews.com/articles/stories/09/87/37/09/1024x538_cmsv2_2dd9533d-ce9e-58a8-8310-1c377f41f2d9-9873709.jpg",
           "language": "en"
         }
       ]
