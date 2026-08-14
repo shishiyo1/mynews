@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-14T10:03:06.595Z",
+  "updatedAt": "2026-08-14T13:07:20.273Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "OpenAI、「Linux」向けに「ChatGPT」デスクトップアプリのプレビュー版を公開",
+          "description": "「ChatGPT Desktop for Linux」のプレビュー版が公開された。「Ubuntu」「Debian」「Fedora」に対応している。",
+          "url": "https://japan.zdnet.com/article/35251553/",
+          "source": {
+            "name": "ZDNET Japan"
+          },
+          "publishedAt": "2026-08-14T00:57:00Z",
+          "image": "https://japan.zdnet.com/storage/2026/08/14/0e8514747260049f34a153585ece61f3/gettyimages-2257858694_l.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ガーミンから“ウォッチじゃない”フィットネストラッカーが誕生！ スリム＆軽量で睡眠中も気にならない“利便性”とは",
+          "description": "多彩なスマートウォッチ製品を展開するガーミン（Garmin）から、初となるバンド型のフィットネストラッカー「CIRQA Smart Band （サーカ スマート バンド）」が8月6日より発売。ディスプレイ非搭載ゆえのスリムなデザインとシンプルな使い勝手がヘルスケアの新しい形を提案します。",
+          "url": "https://vague.style/post/447968",
+          "source": {
+            "name": "VAGUE(ヴァーグ)"
+          },
+          "publishedAt": "2026-08-13T23:10:26Z",
+          "image": "https://vague.style/wp-content/uploads/2027/08/main-14.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Lazarus Group、Windowsゼロデイ脆弱性を悪用し防衛関連企業へサイバー攻撃(CVE-2026-68820)",
+          "description": "Check Point Researchが公表した、北朝鮮Lazarus GroupによるWindowsゼロデイ脆弱性CVE-2026-68820の悪用と、防衛・航空宇宙関連企業を狙ったOperation Dream Jobキャンペーンを解説。偽の求人による誘導手口、新種バックドアTroy・ForestTiger、FudModuleルートキットの新機能、情報システム部門が確認すべき対策ポイントをまとめました。",
+          "url": "https://rocket-boys.co.jp/security-measures-lab/lazarus-defense-zero-day-cve-2026-68820/",
+          "source": {
+            "name": "合同会社ロケットボーイズ"
+          },
+          "publishedAt": "2026-08-13T23:00:20Z",
+          "image": "https://rocket-boys.co.jp/wp-content/uploads/2026/08/lazarus-defense-zero-day-cve-2026-68820.png",
+          "language": "ja"
+        },
+        {
+          "title": "エヌビディアの「5,000億ドルAI金融構想」とは？市場が恐れる「金融混乱の火種」（土信田雅之）",
+          "description": "今週の米国株市場ですが、米半導体企業のエヌビディア（NVDA）が10日（月）に発表した、「5,000億ドル（約80兆円）規模のAI金融構想」が話題になっています。　この構想は、エヌビディアが金融大手6社（アポロ・グローバル・マネジメント…",
+          "url": "https://media.rakuten-sec.net/articles/-/53194",
+          "source": {
+            "name": "トウシル"
+          },
+          "publishedAt": "2026-08-13T23:00:00Z",
+          "image": "https://media.rakuten-sec.net/mwimgs/a/5/-/img_a5819a381fcc9db116defefcb5fa2dd978412.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "トミージョン手術からの復活劇が話題に（Yahoo!ニュース オリジナル THE PAGE）",
+          "description": "下村海翔投手のプロ初勝利について、Yahoo!ニュースのコメント欄で話題になっています。\n下村投手はトミージョン手術からの長いリハビリを経て、阪神タイガースで先発として粘り強い投球を続けてきましたが",
+          "url": "https://news.yahoo.co.jp/articles/376152b782d1285e19da53b20211f7b4b03c81b8",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-13T22:18:22Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000001-wordleafai-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "“シン・清須会議”は最新研究を反映、間もなく「賤ヶ岳の戦い」重要ポイントも登場【豊臣兄弟】",
           "description": "関西のおいしい、楽しい、知りたい…がいっぱい。関西人による、関西が好きな人のための、関西を24時間遊ぶニュースサイトです。",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-08-13T13:35:22Z",
           "image": "https://www.doshinsports.com/files/topics/26255_ext_01_0.jpg?v=1786631207",
           "language": "ja"
-        },
-        {
-          "title": "【阪神】初勝利の下村海翔 ヒーローインタビューで涙 両親観戦に「やばい…心配ばかり…」",
-          "description": "阪神下村海翔投手（24）が5回を2失点で投げきり、待望のプロ初勝利を挙げた。3回に中山に先制2ランを許すも、佐藤輝明内野手（27）の3試合連続アーチで1点差に… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/baseball/news/202608130001785.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-08-13T12:57:39Z",
-          "image": "https://www.nikkansports.com/baseball/news/img/202608130001785-w500_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【巨人】橋上監督代行「阪神打線と対峙するときの大きなテーマ」西舘勇陽の闘志を評価 岸田行倫の登録抹消にも言及",
-          "description": "巨人は逆転負けで同一カード３連敗を喫し、阪神とのゲーム差は３に広がった。今季の阪神戦は７勝１３敗となり、２年連続で伝統の一戦負け越しが決まった。",
-          "url": "https://hochi.news/articles/20260813-OHT1T51434.html",
-          "source": {
-            "name": "hochi.news"
-          },
-          "publishedAt": "2026-08-13T12:51:00Z",
-          "image": "https://hochi.news/images/2026/08/13/20260813-OHT1I51626-C.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【涙の初勝利インタビュー】阪神・下村海翔、ドーム観戦の両親は「ずっと見守ってくれていた」「僕よりも心配していたと思う」締めは「必死に頑張ります」",
-          "description": "（セ・リーグ、巨人2－3阪神、20回戦、阪神13勝7敗、13日、東京D）阪神が同率首位決戦で3連勝。巨人戦勝ち越しを決め、今季最大の2位に3差とした。1点を追う六回1死一塁、前の打席でバントが併殺となった坂本誠志郎捕手（32）が左翼席に運…",
-          "url": "https://www.sanspo.com/article/20260813-KBICMGZH55MARI3L475XPICEOY/?outputType=theme_tigers",
-          "source": {
-            "name": "サンスポ"
-          },
-          "publishedAt": "2026-08-13T12:46:29Z",
-          "image": "https://www.sanspo.com/resizer/v2/3WQ7SWQ45ZIXFEDC4PK2S7YNJI.jpg?auth=918816bee624fb35eb0c36250cb057869d25850b9f4cf6bd1c5ea8511b239c97&quality=50&focal=2774%2C74&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "近未来的、なのにどこか懐かしい。オリエントより1カ月分のカレンダーがひと目でわかる「マルチイヤーカレンダー」登場",
-          "description": "60年代の名品をルーツに、幾たびかの変遷を経て進化してきたオリエントの“万年カレンダー”が、満を持して国内市場に登場。大胆な個性をまとったコンテンポラリーコレクション「マルチイヤーカレンダー」として、2モデル揃って8月より発売されます。",
-          "url": "https://vague.style/post/447980",
-          "source": {
-            "name": "VAGUE(ヴァーグ)"
-          },
-          "publishedAt": "2026-08-13T12:44:11Z",
-          "image": "https://vague.style/wp-content/uploads/2027/08/1-7.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "《そろそろ地上波復帰いいんじゃないの？ランキング》世間が許しつつある「圧倒的」な1位は（週刊女性PRIME）",
-          "description": "スキャンダルやコンプライアンス違反などが発覚し、活動休止に追い込まれる芸能人は少なくない。休止期間中は完全に表に出て来ない人もいれば、テレビには出ないものの別の場所で活躍する人もいる。しかし、ファ",
-          "url": "https://news.yahoo.co.jp/articles/53a7de99c2410e4e8f859dbaf4b43f4b9eda0ace",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-13T12:00:41Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00042902-jprime-000-1-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Fantasy takeaways from 2026-27 NBA regular-season schedule release",
-          "description": "The Spurs have the most rest days, while the Lakers will have to deal with three stretches of five games in seven days.",
-          "url": "https://www.nbcsports.com/fantasy/basketball/news/fantasy-takeaways-from-2026-27-nba-regular-season-schedule-release",
+          "title": "Designer Enzyme Strips Decades of ‘Rust’ From Aging Human Tissue",
+          "description": "Sugar damage in the body was thought to be irreversible. But the enzyme made 75-year-old tissue look chemically like a 30-year-old's.",
+          "url": "https://singularityhub.com/2026/08/13/designer-enzyme-strips-decades-of-rust-from-aging-human-tissue/",
           "source": {
-            "name": "NBC Sports"
+            "name": "singularityhub.com"
           },
-          "publishedAt": "2026-08-13T22:02:50Z",
-          "image": "https://nbcsports.brightspotcdn.com/dims4/default/748e610/2147483647/strip/true/crop/2478x1394+0+112/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F73%2F23%2Fb9488b1e412da5667efd7887f4b0%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D29195350",
+          "publishedAt": "2026-08-14T01:05:26Z",
+          "image": "https://singularityhub.com/uploads/2026/08/old-hands-and-young-hands.jpeg?auto=webp",
           "language": "en"
         },
         {
-          "title": "A refereeing committee: an escalatory step in the Liverpool and Arsenal dispute",
-          "description": "Liverpool and Arsenal are heading to a tribunal after failing to reach an agreement over the value of the compensation due for the young player Vincent Joseph, aged 16.",
-          "url": "https://www.goal.com/en/news/a-refereeing-committee-an-escalatory-step-in-the-liverpool-and-arsenal-dispute/bltdea80a649aa8e075",
+          "title": "Australian Prime Minister Anthony Albanese joked about taking over New Zealand in controversial podcast interview",
+          "description": "Australian Prime Minister Anthony Albanese has said in a podcast interview that the country could unilaterally decide to “take over” New Zealand. In a...",
+          "url": "https://www.nzherald.co.nz/world/australian-prime-minister-anthony-albanese-joked-about-taking-over-new-zealand-in-controversial-podcast-interview/SE6PT36QRZCXJAZSMX4J2FMJ7U/",
           "source": {
-            "name": "Goal.com"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-08-13T22:02:18Z",
-          "image": "https://assets.goal.com/images/v3/imago-sport-1065859918/crop/MM5DEMBUHA5DCMJVGI5G433XMU5DKNRYHIYTQMQ=/imago-image.jpeg",
+          "publishedAt": "2026-08-14T01:04:08Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/R3WCXX2QWVASNPXHOIOLBF5NMM.png?auth=5dec0c750c208d3e95b567b6f9cbaf11d3410da3abe6bc3f73ce3604717c09eb&width=1200&height=675&quality=70&focal=450%2C258&smart=false",
           "language": "en"
         },
         {
-          "title": "How often do eclipses occur?",
-          "description": "Star turn Britain experienced a solar eclipse but not the total eclipse visible in Iceland and Spain. How often do…",
-          "url": "https://www.spectator.com.au/2026/08/how-often-do-eclipses-occur/",
-          "source": {
-            "name": "The Spectator Australia"
-          },
-          "publishedAt": "2026-08-13T22:01:56Z",
-          "image": "https://www.spectator.com.au/wp-content/uploads/2026/08/Barometer_GettyImages_2147609585.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Graham Norton’s Reaction to Travis Kelce & Taylor Swift’s Wedding Is Causing a Stir",
-          "description": "Graham Norton recently shared his reaction to Travis Kelce and Taylor Swift’s wedding. Norton confessed the couple’s wedding was “lovely,” but the renowned talk show host wasn’t afraid to share a char...",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/graham-norton-reaction-travis-kelce-220143554.html",
-          "source": {
-            "name": "Yahoo"
-          },
-          "publishedAt": "2026-08-13T22:01:43Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/1bc9508663a11aaad9f53b7b82d2f86c645ad070fc224985262dd290a0cd7e57/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F86fa2da5eee3bda162f53bb3975e4631.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Scientists Overfed a Tiny Worm… And It Started Growing a Chain of Clones",
-          "description": "Give a tiny flatworm plenty of food, and its solitary body rapidly lengthens as new heads emerge one after another.",
-          "url": "https://www.sciencealert.com/scientists-overfed-a-tiny-worm-and-it-started-growing-a-chain-of-clones",
-          "source": {
-            "name": "ScienceAlert"
-          },
-          "publishedAt": "2026-08-13T22:01:01Z",
-          "image": "https://www.sciencealert.com/images/2026/08/FlatWOrmsPinks.png",
-          "language": "en"
-        },
-        {
-          "title": "Hull FC sign World Cup winner Cherry-Evans for 2027",
-          "description": "Hull FC sign two-time World Cup winning half-back Daly Cherry-Evans from NRL side Sydney Roosters on a one-year deal for the 2027 Super League season.",
-          "url": "https://sports.yahoo.com/articles/hull-fc-sign-world-cup-220021425.html",
-          "source": {
-            "name": "sports.yahoo.com"
-          },
-          "publishedAt": "2026-08-13T22:00:21Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-          "language": "en"
-        },
-        {
-          "title": "US eyes indefinite Iran naval blockade as oil supply shortfall deepens",
-          "description": "Both sides made competing claims that the strait is under their control. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/world/middle-east/us-eyes-indefinite-iran-naval-blockade-as-oil-supply-shortfall-deepens",
+          "title": "New rules for property agents likely to weed out inactive ones",
+          "description": "The changes will kick in from Jan 1, and are part of a review to raise professional standards and improve transparency. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/singapore/housing/new-rules-for-property-agents-likely-to-weed-out-inactive-ones-help-consumers-make-better-decisions",
           "source": {
             "name": "The Straits Times"
           },
-          "publishedAt": "2026-08-13T22:00:18Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/4df27189deb271ba173a0fd45b701bb4875e828bf2e3b67f044c2f147297bac1",
+          "publishedAt": "2026-08-14T01:03:45Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/2d8dc89ff0b5b065979231aa3a3a0a67ab7f02cf2f73c4ada0a73b01b2fe0c4f",
           "language": "en"
         },
         {
-          "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-          "description": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
-          "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo",
+          "title": "Watch Iga Swiatek vs. Elena Rybakina Live: Canadian Open Final Details & Streaming Info",
+          "description": "Iga Swiatek and Elena Rybakina advance to tonight’s hard-court final via twin three-set showdowns.",
+          "url": "https://sports.yahoo.com/articles/watch-iga-swiatek-vs-elena-192900180.html",
           "source": {
-            "name": "BBC"
+            "name": "sports.yahoo.com"
           },
-          "publishedAt": "2026-08-13T22:00:10Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11e4/live/79e44fc0-94a0-11f1-870d-5d08c49babb2.jpg",
+          "publishedAt": "2026-08-14T01:03:38Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/1f112e948bed8dfce93bef05ddef1f1d54cdd59465951bb38e4fe9e8310efd12/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fathlon_sports_articles_610%2Fbc33f89989c728492fa378fe07b22d23.jpg",
           "language": "en"
         },
         {
-          "title": "Flock announces changes amid backlash over its license plate reader network",
-          "description": "A company that operates a vast nationwide network of automated cameras that record the license plate numbers and other characteristics of all passing vehicles every day is making changes to its platform.",
-          "url": "https://apnews.com/article/flock-license-plate-cameras-surveillance-deflock-2a93bc075e2f7ffcca9e04a35d75a3fe",
+          "title": "Pixel 11 Pro XL vs. Galaxy S26 Ultra: How These $1,300 Flagship Phones Stack Up",
+          "description": "Google's new Pixel 11 Pro XL has the same wallet-aching price as Samsung’s Galaxy S26 Ultra, but which one should you buy? I compared the two to find out.",
+          "url": "https://www.cnet.com/tech/mobile/pixel-11-pro-xl-vs-galaxy-s26-ultra-how-these-1300-flagship-phones-stack-up/",
           "source": {
-            "name": "AP News"
+            "name": "cnet.com"
           },
-          "publishedAt": "2026-08-13T22:00:00Z",
-          "image": "https://dims.apnews.com/dims4/default/9229e33/2147483647/strip/true/crop/8443x5626+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2F2a%2F6a38d1cf4e3e6624084930f26002%2F73f224c8d9904d46aa080936e130e12d",
+          "publishedAt": "2026-08-14T01:02:41Z",
+          "image": "https://www.cnet.com/wp-content/uploads/sites/2/Samsung-Galaxy-S26-Ultra-vs.-Google-Pixel-11-Pro-XL.jpg",
           "language": "en"
         },
         {
-          "title": "Botswana, Namibia complete Trans-Kalahari Railway feasibility study",
-          "description": "BOTSWANA and Namibia have completed the feasibility study for the proposed Trans-Kalahari Railway, marking a major step towards...",
-          "url": "https://informante.web.na/?p=399254",
+          "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
+          "description": "The rollout comes as robotaxi fleet sizes become increasingly critical for commercialization.",
+          "url": "https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html",
           "source": {
-            "name": "Informanté"
+            "name": "cnbc.com"
           },
-          "publishedAt": "2026-08-13T21:59:00Z",
-          "image": "https://informante.web.na/wp-content/uploads/2026/08/Trans-Kalahari-Railway-moves-closer-to-construction-Informante-Image-workspace-1024x677.jpg",
+          "publishedAt": "2026-08-14T01:02:00Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108349495-1786662481664-gettyimages-2274169871-AFP_A9WN7K6.jpeg?v=1786662575&w=1920&h=1080",
+          "language": "en"
+        },
+        {
+          "title": "Election 2026: National MP Paul Goldsmith doesn’t shut down suggestion he could run in Chris Penk’s seat",
+          "description": "National’s Paul Goldsmith hasn’t shut down a suggestion he could run in Chris Penk’s electorate of Kaipara ki Mahurangi, a traditionally blue seat. If...",
+          "url": "https://www.nzherald.co.nz/nz/politics/election-2026-national-mp-paul-goldsmith-doesnt-shut-down-suggestion-he-could-run-in-chris-penks-seat/VGNJBNT2PJCCDJHLJMQGFCAHPI/",
+          "source": {
+            "name": "NZ Herald"
+          },
+          "publishedAt": "2026-08-14T01:01:47Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/MUNIU2JOORDUNLWQH57LNY27UU.JPG?auth=625dccde495fadf5ddaf0ef198bef62b4a6657648875db8359d15c5cb501b251&width=1200&height=675&quality=70&focal=1449%2C514&smart=false",
+          "language": "en"
+        },
+        {
+          "title": "GLP-1 Receptor Agonists in Alzheimer’s Disease: Emerging Off-Label Neuroprotective Potential",
+          "description": "GLP-1 receptor agonists show strong preclinical neuroprotective potential in Alzheimer’s disease through effects on insulin signaling, neuroinflammation, amyloid, tau, and brain metabolism.\nHuman evidence remains mixed, with observational studies suggesting lower dementia risk but randomized trials yet to demonstrate a clinically meaningful disease-modifying benefit.",
+          "url": "https://www.news-medical.net/health/GLP-1-receptor-agonists-in-Alzheimere28099s-disease-Emerging-off-label-neuroprotective-potential.aspx",
+          "source": {
+            "name": "News-Medical"
+          },
+          "publishedAt": "2026-08-14T01:00:42Z",
+          "image": "https://www.news-medical.net/images/Article_Images/ImageForArticle_27786_17841656437187500.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Chelsea FC braced for Enzo Fernandez bid as Man City near agreement for £60m transfer",
+          "description": "Al Qadsiah In advanced talks with Man City for deal that may have an impact on Enzo Fernandez",
+          "url": "https://www.standard.co.uk/sport/football/chelsea-fc-transfer-news-enzo-fernandez-man-city-deadline-b1293323.html",
+          "source": {
+            "name": "London Evening Standard"
+          },
+          "publishedAt": "2026-08-14T01:00:11Z",
+          "image": "https://static.standard.co.uk/2026/08/13/16/01KZXAEVEJCJ8C4SCTSTP9XGYJ.jpg?width=1200&auto=webp&quality=75",
+          "language": "en"
+        },
+        {
+          "title": "News: Minister Balaam takes anti",
+          "description": "During his stay in Pakwach, Barugahara is expected to inspect several government projects, engage residents and follow up on allegations of corruption and service delivery failures raised during his visit.",
+          "url": "https://www.newvision.co.ug/category/news/minister-balaam-takes-anti-corruption-crusade-NV_238770_082026",
+          "source": {
+            "name": "NewVision.co.ug"
+          },
+          "publishedAt": "2026-08-14T01:00:05Z",
+          "image": "https://newvision-media.s3.amazonaws.com/cms/1d61457c-4cf9-4e6a-be0a-8fca92ee7261.jpg",
           "language": "en"
         }
       ]
