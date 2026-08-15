@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-15T12:38:06.486Z",
+  "updatedAt": "2026-08-15T15:21:07.474Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【コミケ】ベローチェに早朝から大行列！1時間で270人来店、カレー100食超で前年の2倍…高速提供できる理由【現地取材＆総指揮官インタビュー】",
+          "description": "ニュース｜　世界最大規模の同人誌即売会『コミックマーケット』（コミケ）がきょう15日、東京ビッグサイトで開幕した。会場そばのカフェ・ベローチェ有明店には、コミケ開催時に多くの来場者が訪れ、昨年の夏コミでは通常時の約20倍の売上、約4倍の来客数を1日で記録した。今年は新たに「司令塔」体制を導入。オリコンニュースでは15日、早朝の同店を取材し、多くの客に対応しながら高速提供を実現する仕組みについて、総指揮官・島田佳恵氏に聞いた。　この日は午前7時の開店予定だったが、店頭にできた行列を受けて10分前倒しし、午前6時50分にオープン。約30分後の午前7時20分ごろには155席が満席となった。一方、店外の物販にも列が伸び、7時すぎには150人を超えた。",
+          "url": "https://www.oricon.co.jp/news/2473660/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-08-15T03:05:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2474000/2473660/20260815_100422_p_o_54542840.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "新鮮な『国産生ホルモン』が食べ放題で1500円!? 大阪で見つけた「激安すぎる焼肉店」が冗談抜きに天国だった",
+          "description": "国産ホルモンが、食べ放題で、この激安価格だとぉぉぉ！？　先日、大阪を散策していた時のこと。心の底から叫びたくなるほど衝撃的なお店と遭遇してしまった。 看板の情 …",
+          "url": "https://rocketnews24.com/2026/08/15/2790110/",
+          "source": {
+            "name": "ロケットニュース24"
+          },
+          "publishedAt": "2026-08-15T02:55:55Z",
+          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/39701_0.jpg?w=1200&h=630&crop=1",
+          "language": "ja"
+        },
+        {
+          "title": "光る、震える、水が飛ぶ。令和最新の「水鉄砲」がやたらハイテクで楽しすぎる",
+          "description": "2025年8月13日の記事を編集して再掲載しています。夏が盛り上がること間違いなし。地獄のような熱波が連日襲って来ている日本の夏。こうも暑いと毎日嫌になりますが、その暑い日だからこそ楽しめるのが水遊び。そう、己の闘争心を水撃として撃ち出す「",
+          "url": "https://www.gizmodo.jp/article/watergun-2025-summer-sqz/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-08-15T02:35:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2025/07/29/2025_07_29gunk00.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "ロシア外交「失敗を検証せよ」「欧州と連携を」 識者に聞く展望",
+          "description": "ロシアのプーチン大統領は13日、北方領土を初めて訪問した。日本の対ロシア外交や国際社会に与える影響は大きい。今回の訪問の評価や今後の展望を専門家に聞いた。鶴岡路人・慶大教授「対ロシア外交、失敗の検証を」プーチン氏にとってロシア極東の開発は国家的な課題だ。北方領土訪問には国内の支持を取り付ける目的もあっただろうが、日本へのメッセージでもある。圧力を強めたということだ。高市早苗首相はウクライナ",
+          "url": "https://www.nikkei.com/article/DGXZQOUA1348D0T10C26A8000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-08-15T02:00:00Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3453546014082026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.29&fp-y=0.41&h=630&w=1200&s=29a0cf9ca7408b6d24d472b2c74508b1",
+          "language": "ja"
+        },
+        {
+          "title": "世界の惨禍と終戦の日 歴史顧みぬ愚にあらがう",
+          "description": "大国が世界で惨禍を引き起こす中、終戦の日が巡ってきた。 　「あしに　おなまえかいて、ママ」。東京都の元教師、阪本光子さん（87）は、こんな一節で始まる詩に心を揺さぶられた。パレスチナ系米国人の詩人ゼイナ・アッザームさんの作品である。",
+          "url": "https://mainichi.jp/articles/20260815/ddm/005/070/092000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-08-15T01:53:23Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/08/14/20260814k0000m040415000p/0c10.jpg?1",
+          "language": "ja"
+        },
+        {
+          "title": "村上宗隆が決勝27号ソロ！ 熊本支援を発表 首位攻防タイガース戦で決意の一発",
+          "description": "◇ア・リーグ　ホワイトソックス9―5タイガース（2026年8月14日　デトロイト）\n　ホワイトソックス・村上宗隆内野手（26）が14日（日本時間15日）、敵地でのタイガース戦に「2番・一塁」で先",
+          "url": "https://news.yahoo.co.jp/articles/058e0b2a09210ecc9882d19323a977907220a4f0",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-15T01:21:40Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260815-00000120-spnannex-000-8-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【ドジャース公式全文】山本由伸、平均投球回MLB１位 後半戦10度の逆転負け最多／見どころ",
+          "description": "ドジャース大谷翔平投手（32）が、本拠地でのブルワーズ戦に「1番DH」で出場する。先発は山本由伸投手（27）は今季12勝目をかけてマウンドに上がる。ドジャース… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/baseball/mlb/news/202608150000194.html",
+          "source": {
+            "name": "日刊スポーツ"
+          },
+          "publishedAt": "2026-08-15T01:06:00Z",
+          "image": "https://www.nikkansports.com/baseball/mlb/news/img/202608150000194-w500_0.jpg",
+          "language": "ja"
+        },
         {
           "title": "包囲されたパレスチナ人住宅に支援物資、イスラエル人入植者は再びテント設置 ヨルダン川西岸地区",
           "description": "イスラエル占領下のパレスチナ・ヨルダン川西岸地区の村で、イスラエル人入植者らがパレスチナ人住民の住宅を包囲している問題で、人道支援の活動家らは14日、閉じ込められている住民に物資を届けようと試みた。",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-08-15T00:00:52Z",
           "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_2249.jpg?w=1200&h=630&crop=1",
           "language": "ja"
-        },
-        {
-          "title": "ASCII.jp：20万円で買える640gの超軽量モバイルノートPC「FMV WU5",
-          "description": "富士通クライアントコンピューティングの最軽量モバイルノートPC「FMV WU5-K3」を実機でチェックしました",
-          "url": "https://ascii.jp/elem/000/004/426/4426664/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-08-15T00:00:00Z",
-          "image": "https://ascii.jp/img/2026/08/13/4512571/xl/50df05a1d1508348.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "報酬100倍…「映画ちいかわ」に“闇バイト”の影！？ 元刑事が教える大人も見るべき“意外な理由”",
-          "description": "現在公開中の「映画ちいかわ 人魚の島のひみつ」（以下、「映画ちいかわ」）が大きな話題を集めています。かわいらしいキャラクターたちの冒険を描く一方で、作中には「高額報酬で危険な仕事に誘われる」という",
-          "url": "https://news.yahoo.co.jp/articles/dc1ff55def957dc3debe588245c127232c01e567",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-14T23:15:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260815-00385104-otonans-000-3-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "まだ初代も出てないのに？ 折りたたみ式iPhone「第3世代」までの計画が流出",
-          "description": "まだ初代も出てないのに？ 折りたたみ式iPhone「第3世代」までの計画が流出（GetNavi web）アップルは9月にiPhone発表イベントを開催するとみられ、その場で初の折りたたみ式iPhoneをお披露目する見通しです。しかし、同社…",
-          "url": "https://topics.smt.docomo.ne.jp/article/getnavi/trend/getnavi-https_getnavi.jp_p_1111062?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch2&redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-08-14T23:14:43Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/getnavi/m_getnavi-https_getnavi.jp_p_1111062.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "15日の関東 大雨の峠を越えても土砂災害に注意 お盆明けも厳しい残暑が続く",
-          "description": "関東は大雨の峠を越えましたが、今日15日(土)もにわか雨の所があるでしょう。これまでの大雨で地盤が緩んでいる所があり、土砂災害に注意が必要です。お盆明けは強い日差しが照り付けて、厳しい残暑が続くでしょう。熱中症対策を心がけてください。",
-          "url": "https://tenki.jp/forecaster/a_aoyama/2026/08/15/40165.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-08-14T23:04:02Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/401/40165/main/20260815075451/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "米国株式市場は反落、消費や景気減速懸念が浮上",
-          "description": "「シカゴ日経平均先物（ＣＭＥ）」（14日）。",
-          "url": "https://www.zaikei.co.jp/article/20260815/865902.html",
-          "source": {
-            "name": "財経新聞"
-          },
-          "publishedAt": "2026-08-14T23:03:21Z",
-          "image": "http://www.zaikei.co.jp/images/zaikei_og_image.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "加藤綾菜「月9回だったのが月3回に」猛暑の加藤家で起きた変化と、体調を守る健やかな過ごし方（週刊女性PRIME）",
-          "description": "45歳もの年の差婚で話題となったおふたりも、今年で結婚16年目。今も変わらずラブラブで、加トちゃんへの愛情は増すばかりとか。「私の趣味は加藤茶です」と言い切る綾菜さんに加藤家の日常を届けていただきま",
-          "url": "https://news.yahoo.co.jp/articles/0df5597712ff617aab1c0bf69db46482e578e188",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-14T23:00:34Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260815-00042907-jprime-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "まだ初代も出てないのに？ 折りたたみ式iPhone「第3世代」までの計画が流出",
-          "description": "まだ初代も出てないのに？ 折りたたみ式iPhone「第3世代」までの計画が流出（GetNavi web）アップルは9月にiPhone発表イベントを開催するとみられ、その場で初の折りたたみ式iPhoneをお披露目する見通しです。しかし、同社…",
-          "url": "https://topics.smt.docomo.ne.jp/article/getnavi/trend/getnavi-https_getnavi.jp_p_1111062?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-08-14T23:00:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/getnavi/m_getnavi-https_getnavi.jp_p_1111062.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "'MAFS' star Jessica Castro reacts to ex-husband Ryan de Nino's sudden death",
-          "description": "\"Married at First Sight\" alum Jessica Castro responded to the death of her ex-husband, Ryan de Nino, in an exclusive statement to Page Six on Friday.",
-          "url": "https://pagesix.com/2026/08/14/entertainment/mafs-star-jessica-castro-reacts-to-ex-husband-ryan-de-ninos-sudden-death/",
-          "source": {
-            "name": "Page Six"
-          },
-          "publishedAt": "2026-08-15T00:37:00Z",
-          "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/137455447.jpg?quality=75&strip=all&w=1200",
-          "language": "en"
-        },
-        {
-          "title": "2 die after being trapped in Sampaloc house fire",
-          "description": "A 78-year-old homeowner and her 48-year-old helper died after being trapped inside a burning house along Don Quijote Street in Sampaloc, Manila, early Saturday...",
-          "url": "https://mb.com.ph/2026/08/15/2-die-after-being-trapped-in-sampaloc-house-fire",
-          "source": {
-            "name": "Manila Bulletin"
-          },
-          "publishedAt": "2026-08-15T00:35:49Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/15/123796.webp",
-          "language": "en"
-        },
-        {
-          "title": "Final teams in as Tigers welcome Saints to 'G to open five-game Saturday. LIVE from 12.35pm AEST",
-          "description": "Follow all the action from Saturday's round 23 games",
-          "url": "https://www.afl.com.au/news/1582436/follow-it-live-richmond-v-st-kilda-north-melbourne-v-geelong-brisbane-v-gold-coast-hawthorn-v-collingwood-port-adelaide-v-melbourne-afl-round-23-2026",
-          "source": {
-            "name": "afl.com.au"
-          },
-          "publishedAt": "2026-08-15T00:35:00Z",
-          "image": "https://resources.afl.com.au/photo-resources/2026/08/15/f3678e2a-0dc1-4774-b143-551a6bcca7d6/hUC2aqgD.jpg?width=1200&height=630",
-          "language": "en"
-        },
-        {
-          "title": "OCC approves World Liberty Financial national bank charter for USD1",
-          "description": "World Liberty Financial, the crypto venture tied to Donald Trump's family, received preliminary OCC approval for a national trust bank to manage the USD1 stablecoin.",
-          "url": "https://www.foxbusiness.com/politics/trump-linked-world-liberty-crypto-venture-gets-preliminary-approval-from-currency-comptroller",
-          "source": {
-            "name": "Fox Business"
-          },
-          "publishedAt": "2026-08-15T00:33:00Z",
-          "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/donald-trump-ankara.png?ve=1&tl=1",
-          "language": "en"
-        },
-        {
-          "title": "UN urges support for Afghan women’s aid five years into Taliban rule",
-          "description": "More than half of women’s organisations operating in Afghanistan could cease operations within next year: UN Women.",
-          "url": "https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule",
-          "source": {
-            "name": "Al Jazeera"
-          },
-          "publishedAt": "2026-08-15T00:31:50Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7f9c08405d-1786747912.jpg?resize=1920%2C1440",
-          "language": "en"
-        },
-        {
-          "title": "Two drives, two punts for Tua Tagovailoa in Falcons debut",
-          "description": "Quarterback Tua Tagovailoa made his preseason debut with the Falcons on Friday night against the Broncos.",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/two-drives-two-punts-for-tua-tagovailoa-in-falcons-debut",
-          "source": {
-            "name": "NBC Sports"
-          },
-          "publishedAt": "2026-08-15T00:31:35Z",
-          "image": "https://nbcsports.brightspotcdn.com/dims4/default/05ea05f/2147483647/strip/true/crop/5188x2918+0+270/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbc%2F95%2F62d3367242638d888976221cf53e%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D29585986",
-          "language": "en"
-        },
-        {
-          "title": "Simmons asked for '40-50 balls'. Hasan gave Australia 76",
-          "description": "Bangladesh’s unlikely defiance with bat on Day 2 pushed Australia further away in the contest",
-          "url": "https://www.cricbuzz.com/cricket-news/139849/simmons-asked-for-40-50-balls-hasan-gave-australia-76-cricbuzzcom",
-          "source": {
-            "name": "Cricbuzz"
-          },
-          "publishedAt": "2026-08-15T00:31:28Z",
-          "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1052266/hasan-mahmud-batted-76-balls-for-his-unbeaten-13-in-the-last-session-on-day-2.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Pluto's sky is blue, chunks of its water-ice mountains float like icebergs across glaciers of frozen nitrogen, and its moon is so large that the two worlds orbit a point in empty space between them —",
-          "description": "New Horizons revealed blue atmospheric haze, floating water-ice hills, nitrogen glaciers and Pluto's unusual orbital dance with Charon.",
-          "url": "https://spacedaily.com/t-pluto-blue-sky-floating-water-ice-charon-unfinished-orbit/",
-          "source": {
-            "name": "Space Daily"
-          },
-          "publishedAt": "2026-08-15T00:30:00Z",
-          "image": "https://spacedaily.com/wp-content/uploads/2026/08/nasa-spacedaily-pluto-floating-water-ice-hills-pia20464-1024x614.jpg",
-          "language": "en"
-        },
-        {
-          "title": "New seismic mapping reveals ancient ocean remains and trapped water pockets under the Eastern Indian craton",
-          "description": "Researchers have discovered evidence of water and ancient tectonic debris trapped hundreds of kilometres beneath the Eastern Indian craton, providing the first detailed map of a geological engine that has shaped the region for billions of years. | CSIR-National Geophysical Research Institute,Mantle Transition Zone,Earthquake,seismic waves,Geology,Gondwana",
-          "url": "https://researchmatters.in/news/new-seismic-mapping-reveals-ancient-ocean-remains-and-trapped-water-pockets-under-eastern",
-          "source": {
-            "name": "researchmatters.in"
-          },
-          "publishedAt": "2026-08-15T00:30:00Z",
-          "image": "https://researchmatters.in/sites/researchmatters/files/styles/discover_large_1200/public/seismic%20mapping.jpg.webp?itok=lSYSQ9cc",
-          "language": "en"
-        },
-        {
-          "title": "Disney Cursed Love Romantasy Webcomics to Launch on Webtoon",
-          "description": "\"Disney Cursed Love\" is an all-new romantasy initiative inspired by Disney's \"most iconic love stories.\" The first in the series is \"The Curse of a Forsaken Heart,\" featuring Belle and the Beast, to be available first on Webtoon as a webcomic before expanding into print formats in 2027.",
-          "url": "https://variety.com/2026/digital/news/disney-cursed-love-webtoon-romantasy-webcomics-beauty-and-the-beast-1236834088/",
+          "title": "'Lilo & Stitch 2' Drops First Look of Pink Alien Angel",
+          "description": "Disney teased the first look at the upcoming \"Lilo & Stitch\" live-action sequel with Angel, a pink alien, shown in a new image with light-up antennae.",
+          "url": "https://variety.com/2026/film/news/lilo-and-stitch-2-angel-pink-alien-1236442313/",
           "source": {
             "name": "Variety"
           },
-          "publishedAt": "2026-08-15T00:30:00Z",
-          "image": "https://variety.com/wp-content/uploads/2026/08/Disney-Cursed-Love-Curse-of-a-Forsaken-Heart.png?w=1000&h=563&crop=1",
+          "publishedAt": "2026-08-15T03:21:00Z",
+          "image": "https://variety.com/wp-content/uploads/2026/08/angel.png?crop=0px%2C42px%2C1634px%2C918px&resize=1000%2C563",
+          "language": "en"
+        },
+        {
+          "title": "UAE state oil company says vessel attacked in Hormuz Strait",
+          "description": "ADNOC reports an attack on its vessel in the Strait of Hormuz amid escalating tensions in the region.",
+          "url": "https://www.thehindu.com/news/international/uae-state-oil-company-says-vessel-attacked-in-hormuz-strait/article71348404.ece",
+          "source": {
+            "name": "The Hindu"
+          },
+          "publishedAt": "2026-08-15T03:20:41Z",
+          "image": "https://th-i.thgim.com/public/incoming/38wjgr/article71348406.ece/alternates/LANDSCAPE_1200/2026-08-14T215734Z_918147020_RC2VOHAA62UR_RTRMADP_3_IRAN-CRISIS-EMIRATES-ADNOC.JPG",
+          "language": "en"
+        },
+        {
+          "title": "Fast-track begins for Wellington's second Mt Victoria Tunnel project",
+          "description": "A multibillion-dollar project that would radically change inner-city Wellington has entered the fast-track process - but its fate is still unknown.",
+          "url": "https://www.1news.co.nz/2026/08/15/fast-track-begins-for-wellingtons-second-mt-victoria-tunnel-project/",
+          "source": {
+            "name": "1News"
+          },
+          "publishedAt": "2026-08-15T03:17:20Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/an-artists-visualisation-of-a-second-mt-victoria-tunnel-in-w-2TZAKZMN5FGSXKLMU3SSVF6X4Y.jpg?auth=7b46e648df2e20e8f5f4d725376603da290264a9eb10752dda49bc19191405d2&quality=70&width=600&height=315&focal=389%2C345",
+          "language": "en"
+        },
+        {
+          "title": "US carrier supply issues stem from Iran's missile, drone attacks on Bahrain base",
+          "description": "Concerns regard the ship's crew amid reports that several have attempted to jump off the aircraft carrier, facing deteriorating mental health, as well as hygiene and safety issues.",
+          "url": "https://www.jpost.com/middle-east/article-905571",
+          "source": {
+            "name": "The Jerusalem Post"
+          },
+          "publishedAt": "2026-08-15T03:16:50Z",
+          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733972",
+          "language": "en"
+        },
+        {
+          "title": "Anwar announces repeal of Universities and University Colleges Act, after students push for greater freedom",
+          "description": "AYER KEROH, Aug 15 — Prime Minister Datuk Seri Anwar Ibrahim today announced that the government will repeal the Universities and University Colleges Act 1971 (UUCA), following...",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/15/anwar-announces-repeal-of-universities-and-university-colleges-act-after-students-push-for-greater-freedom/231434",
+          "source": {
+            "name": "Malay Mail"
+          },
+          "publishedAt": "2026-08-15T03:16:47Z",
+          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/15/357181.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Two missing MRSM Alor Gajah students found safe in Kuala Lumpur",
+          "description": "MELAKA: Two 16-year-old Maktab Rendah Sains Mara (MRSM) Alor Gajah students who were reported missing earlier this week have been found safe near Central Market in Kuala Lumpur.",
+          "url": "https://www.thestar.com.my/news/nation/2026/08/15/two-missing-mrsm-alor-gajah-students-found-safe-in-kuala-lumpur",
+          "source": {
+            "name": "The Star"
+          },
+          "publishedAt": "2026-08-15T03:15:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/15/4060726.jpeg",
+          "language": "en"
+        },
+        {
+          "title": "Blue Jays slugger Guerrero Jr. to undergo concussion testing after taking knee to head",
+          "description": "A wild sixth-inning play Friday night gave the Toronto Blue Jays a run but also forced slugger Vladimir Guerrero Jr. to leave the game after taking a knee to the head.",
+          "url": "https://www.tsn.ca/mlb/article/blue-jays-slugger-guerrero-jr-to-undergo-concussion-testing-after-taking-knee-to-head/",
+          "source": {
+            "name": "TSN"
+          },
+          "publishedAt": "2026-08-15T03:14:00Z",
+          "image": "https://www.tsn.ca/resizer/v2/5GBOPWAU2PNLIIAD36MFROPJ7Q.jpg?smart=true&auth=038d95a78a511588c66f955561a7475176f857d8798dcbbd779ba3b6f300bf63&width=1200&height=630",
+          "language": "en"
+        },
+        {
+          "title": "In a first, Vande Mataram rendered during 80th Independence Day celebrations at Red Fort",
+          "description": "Vande Mataram was performed for the first time at the Red Fort during India's 80th Independence Day celebrations.",
+          "url": "https://www.thehindu.com/news/national/in-a-first-vande-mataram-rendered-during-80th-independence-day-celebrations-at-red-fort/article71348393.ece",
+          "source": {
+            "name": "The Hindu"
+          },
+          "publishedAt": "2026-08-15T03:11:01Z",
+          "image": "https://th-i.thgim.com/public/incoming/qxdbz7/article71348394.ece/alternates/LANDSCAPE_1200/PTI08_15_2026_000023B.jpg",
+          "language": "en"
+        },
+        {
+          "title": "'Kingdom Hearts' Series In The Works At Disney+",
+          "description": "Disney+ is developing a series based on the Kingdom Hearts video games. The news broke at the D23 event in Anaheim on Friday night.",
+          "url": "https://deadline.com/2026/08/kingdom-hearts-series-disney-1237041107/",
+          "source": {
+            "name": "Deadline"
+          },
+          "publishedAt": "2026-08-15T03:09:00Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/08/Kingdom-HEarts.jpg?w=1024",
+          "language": "en"
+        },
+        {
+          "title": "Singapore takes trade compliance seriously, will take firm action against businesses that break laws: MTI",
+          "description": "The United States flagged Singapore among more than 40 countries at risk of being used to circumvent tariffs on Chinese goods.",
+          "url": "https://www.channelnewsasia.com/singapore/circumvent-us-tariffs-china-singapore-6320951",
+          "source": {
+            "name": "CNA"
+          },
+          "publishedAt": "2026-08-15T03:08:44Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--gpj2qNpj--/c_crop,h_576,w_1024,x_0,y_22/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/15/us_tariffs_china.jpg?itok=9rS--CGP",
           "language": "en"
         }
       ]
