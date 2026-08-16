@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-16T01:21:11.053Z",
+  "updatedAt": "2026-08-16T03:48:54.114Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "「RTA in Japan Winter 2026」が12月25日から31日まで開催決定！",
+          "description": "『ポケモン赤・緑』の2ソフト同時操作や『ブレワイ』の目隠し攻略など、数々の“スーパープレイ”を生んできたRTAイベント。採用ゲームは10月18日に発表予定",
+          "url": "https://news.denfaminicogamer.jp/news/260815s",
+          "source": {
+            "name": "電ファミニコゲーマー"
+          },
+          "publishedAt": "2026-08-15T14:44:00Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/HPwzq_IXUAATbko.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "中村七之助、第1子女児誕生をラジオで報告 波野家に「70数年ぶり」の女の子",
+          "description": "ニュース｜　歌舞伎俳優の中村七之助（43）が、15日放送のABCラジオ『Sky presents中村七之助のラジのすけ』（後11：00）に出演。第1子が誕生したと報告した。　冒頭で、七之助は「実はですね、私事で大変恐縮なんですけども、皆さまにご報告がございまして。8月11日に私、中村七之助、ついに父親になりました」とコメント。「無事に誕生いたしましてですね。こういう番組をやらせていただいている以上、ご報告をさせていただきたいと思いまして」と呼びかけた。",
+          "url": "https://www.oricon.co.jp/news/2474172/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-08-15T14:14:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2475000/2474172/20260815_230559_p_o_81333408.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "折りたたみ「iPhone Ultra」は日本ではいつ買えるのか？ 発売は米国が最初、中国など主要市場は2〜3か月遅れとの報道【海外ニュース】",
+          "description": "Apple初の折りたたみiPhone「iPhone Ultra」は、まず米国のみで発売され、中国など主要市場は2〜3か月かけて追加される可能性があると報じられました。日本ではいつ買えるのか、Vision Proの前例と生産台数の見通しから整理します。",
+          "url": "https://www.smartwatchlife.jp/78084/",
+          "source": {
+            "name": "Smart Watch Life"
+          },
+          "publishedAt": "2026-08-15T13:46:33Z",
+          "image": "https://www.smartwatchlife.jp/wp-content/themes/smartwatchlife/img/cmn/favicon.ico",
+          "language": "ja"
+        },
         {
           "title": "「ゆず×羽生結弦 “表現”のその先へ」 8月22日午後、NHK総合で 日本を代表する２組の“表現者” 初対談が実現",
           "description": "【番組名】ゆず×羽生結弦 “表現”のその先へ 【放送予定】8月22日(土) 午後3:35～3:59＜総合＞ NHK ONEで同時配信、放送後1週間見逃し配信 【出演】羽生結弦、ゆず ※50音順 【ナレーション】 早見沙織",
@@ -61,6 +94,17 @@
           "language": "ja"
         },
         {
+          "title": "北川景子、夫の“別人設定”にボケ倒し！二宮和也も唸る「OAG」な神対応が話題に（1/2ページ）",
+          "description": "8月15日に放送されたNHK「夏の音楽祭 うたであえたら2026」。二宮和也（43）、Mrs. GREEN APPLEの大森元貴（29）とともに司会を務めた北川景子（39）が、関西出身ならではの抜群のノリの良さと圧倒的な芸達者ぶりを見せつ…",
+          "url": "https://www.zakzak.co.jp/article/20260815-Q36MS6I33NCWDNK2CUPG42GBPM/",
+          "source": {
+            "name": "zakzak.co.jp"
+          },
+          "publishedAt": "2026-08-15T10:12:58Z",
+          "image": "https://www.zakzak.co.jp/resizer/v2/RMJ73UNN3JNE7OB2VDO6VPGZWE.jpg?auth=7fb8085da969a192ac981587003e20e0d603f7113b7080443d313fffa2ec6509&quality=50&smart=true&width=1200&height=675",
+          "language": "ja"
+        },
+        {
           "title": "高市首相「希望持てる日本創る」 全国戦没者追悼式・式辞全文",
           "description": "天皇皇后両陛下のご臨席を仰ぎ、戦没者のご遺族、各界代表のご列席を得て、全国戦没者追悼式を、ここに挙行いたします。 　先の大戦では、約310万人の同胞の命が失われました。",
           "url": "https://mainichi.jp/articles/20260814/k00/00m/040/367000c",
@@ -70,161 +114,117 @@
           "publishedAt": "2026-08-15T10:05:24Z",
           "image": "https://cdn.mainichi.jp/vol1/2026/08/15/20260815k0000m040074000p/0c10.jpg?1",
           "language": "ja"
-        },
-        {
-          "title": "手が使えない人の道具に、AIプログラマーが群がるのってどうなん？",
-          "description": "アメリカのスタートアップ「Augmental」が発表した「MouthPad」。読み方は「マウスパッド」ですが机に敷くほうじゃありません。その名のとおり、口の中の上あご（口蓋）にぴたりと収まる、カスタムメイドのマウスです。舌先で触れてカーソル",
-          "url": "https://www.gizmodo.jp/article/augmental-mouthpad-keyboard-mouse/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-08-15T10:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/07/30/75c3f231-5a9d-4d21-9b2a-861ef67460fe/original.png?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "安田祐香がツアー新記録達成で7打差独走首位！ 凱旋帰国の桑木志帆はギリギリ予選通過【国内女子ツアー】",
-          "description": "JLPGAツアー第23戦「NEC軽井沢72ゴルフトーナメント」（賞金総額1億円、優勝賞金1,800万円）の第2ラウンドが、長野県の軽井沢72ゴルフ 北コース（6590ヤード・パー72）で行われた。初",
-          "url": "https://news.yahoo.co.jp/articles/76c80807a7e71f9eaae102dc820d80c02ad993aa",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-15T08:59:49Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260815-00010004-minnagolf-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "NHK「うたであえたら2026」今夜放送 羽生結弦×ゆず「幾重」、M!LKは高校生100人と共演",
-          "description": "NHKの音楽特番「夏の音楽祭 うたであえたら2026」が、きょう8月15日午後6時5分から放送される。羽生結弦とゆずによる「幾重」のスペシャルコラボや、M!LKと高校ダンス部約100人による「アオノオト」など、放送直前に注目したい見どころをまとめた。このほか、德永英明とAぇ! group佐野晶哉、M!LK吉田仁人のコラボ、懐かしのEテレソングを豪華メンバーが歌う企画、純烈とモナキのテレビ初共演なども繰り広げられる。",
-          "url": "https://www.fukuishimbun.co.jp/articles/-/2675299",
-          "source": {
-            "name": "福井新聞社"
-          },
-          "publishedAt": "2026-08-15T08:30:00Z",
-          "image": "https://fki.ismcdn.jp/mwimgs/5/7/-/img_57b9e7d7441c834748df3b1197ce1d69416278.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "今夜放送“夏の紅白”NHK音楽番組『うたであえたら 2026』出演者＆楽曲＆曲順＆みどころ【一覧】",
-          "description": "今夜放送“夏の紅白”NHK音楽番組『うたであえたら 2026』出演者＆楽曲＆曲順＆みどころ【一覧】（ORICON NEWS）　俳優の二宮和也、北川景子、Mrs. GREEN APPLEの大森元貴が司会を務める、『NHK夏の音楽祭 うたであえたら 2026』（NHK総合、BSP…",
-          "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2474085?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-08-15T08:05:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/oricon/m_oricon-2474085.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Salmonella Diagnostic Testing: Faster Care, New Tracking Hurdles",
-          "description": "Discover how shifts in Salmonella diagnostic testing affect clinical detection and national outbreak tracking. Read more for expert insights.",
-          "url": "https://www.emjreviews.com/microbiology-infectious-diseases/news/salmonella-diagnostic-testing-faster-care-new-tracking-hurdles/",
+          "title": "Dowry celebration turns tragic as eight are killed in night accident",
+          "description": "A matatu that was carrying about 54 passengers reportedly lost control and rolled several times into a ditch while ascending a hilly section.",
+          "url": "https://www.standardmedia.co.ke/eastern/article/2001555413/makueni-accident-brakes-failed-before-car-plunged-into-river",
           "source": {
-            "name": "EMJ"
+            "name": "standardmedia.co.ke"
           },
-          "publishedAt": "2026-08-15T13:20:44Z",
-          "image": "https://www.emjreviews.com/wp-content/uploads/2026/08/AdobeStock_423857912.jpeg",
+          "publishedAt": "2026-08-15T15:48:13Z",
+          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/QZomE8z7JLR1kMLUAfWNFjFVf63fjolMALLee2HD.jpg",
           "language": "en"
         },
         {
-          "title": "Bonnie Tyler's celebration of life attended by fans in Mumbles",
-          "description": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal.",
-          "url": "https://www.bbc.com/news/articles/c9v43zry802o",
+          "title": "Lamborghini Revuelto SV Revealed with 1,050bhp Hybrid V12 Setup; Limited to 1,963 Units",
+          "description": "The Lamborghini Revuelto SV recorded a 1:41.6 lap at Hockenheimring, with its track-focused setup bringing a new rear wing, diffusers and centre-lock wheels.",
+          "url": "https://www.autox.com/news/car-news/lamborghini-revuelto-sv-revealed-with-1050bhp-hybrid-v12-setup-limited-to-1963-units-124349/",
           "source": {
-            "name": "BBC"
+            "name": "autoX"
           },
-          "publishedAt": "2026-08-15T13:20:36Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ebb9/live/0fa8e5c0-98ac-11f1-870d-5d08c49babb2.jpg",
+          "publishedAt": "2026-08-15T15:48:03Z",
+          "image": "https://images.autox.com/uploads/2026/08/Lamborghini-Revuelto-SV-1786808441397.webp",
           "language": "en"
         },
         {
-          "title": "Barcelona coaching staff have high hopes on 18-year-old winger - report",
-          "description": "Jesse Bisiwu first trained with the FC Barcelona first-team setup on August 1 following his €8.5 million move after months of negotiations with Club Brugge. More than two weeks have now passed since...",
-          "url": "https://sports.yahoo.com/articles/barcelona-coaching-staff-high-hopes-132000911.html",
+          "title": "EastEnders hunk quits BBC soap after four years",
+          "description": "EASTENDERS hunk Aaron Thiara has quit the BBC1 soap after four years.\nThe actor, 33, has won over fans with his portrayal of Albert Square...",
+          "url": "https://www.thesun.co.uk/tv/40070497/eastenders-hunk-quits-aaron-thiara-ravi-gulati/",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "The Sun"
           },
-          "publishedAt": "2026-08-15T13:20:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/7a05122bcbf5475306e4f2b4d5fc3d6e6bb9a597f846e5a74686fed8e3c0f789/lightyear_networkapi/resizefill_w900_h563%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarca_universal_articles_732%2F9ce636a68e69c859a816147145da820d.png",
+          "publishedAt": "2026-08-15T15:48:00Z",
+          "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/crop-40065281.jpg?quality=90&strip=all&1786811946&w=1920&h=1080&crop=1",
           "language": "en"
         },
         {
-          "title": "TikTok Shop Helps Sellers Make Millions On Other Platforms Like Amazon",
-          "description": "A TikTok Shop sponsored survey finds it’s the top way consumers discover new products. But then they often buy elsewhere, such as on Amazon, say e-commerce pros.",
-          "url": "https://www.forbes.com/sites/johnschroyer/2026/08/15/small-brands-get-famous-on-tiktok-shop-but-amazon-is-still-king/",
+          "title": "Man, 22, accused of sexually assaulting two young boys is charged again",
+          "description": "A man who is accused of sexually assaulting two boys in Windsor’s west end, was arrested and charged this week, according to authorities.",
+          "url": "https://toronto.citynews.ca/2026/08/15/man-22-accused-of-sexually-assaulting-two-boys-is-charged-again/",
           "source": {
-            "name": "Forbes"
+            "name": "CityNews Toronto"
           },
-          "publishedAt": "2026-08-15T13:19:58Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a7ccb640d2238e727b2dbe6/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "publishedAt": "2026-08-15T15:47:00Z",
+          "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2025/05/07/Windsor-police-scaled.jpg",
           "language": "en"
         },
         {
-          "title": "Liechtenstein changes its rules to allow women to inherit the throne",
-          "description": "Liechtenstein’s royal house says the tiny country’s rules of succession will be changed so that a woman could in the future inherit the principality’s throne.",
-          "url": "https://apnews.com/article/liechtenstein-prince-royal-female-succession-3d890116a71754ee50aa960e94543da6",
+          "title": "Netflix responds to Tyra Banks' lawsuit over 'America's Next Top Model' docuseries",
+          "description": "Netflix is pushing back against Tyra Banks' lawsuit over \"Reality Check: Inside America's Next Top Model,\" saying it stands behind the docuseries.",
+          "url": "https://abcnews.com/GMA/Culture/netflix-responds-tyra-banks-lawsuit-americas-top-model/story?id=135671713",
           "source": {
-            "name": "AP News"
+            "name": "ABC News - Breaking News, Latest News and Videos"
           },
-          "publishedAt": "2026-08-15T13:19:00Z",
-          "image": "https://dims.apnews.com/dims4/default/f42daba/2147483647/strip/true/crop/2398x1598+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc5%2F3d%2F2c9902765a5fa7f13de04675ee31%2F19f1b080febf4e6d882af5a406338f88",
+          "publishedAt": "2026-08-15T15:44:14Z",
+          "image": "https://i.abcnewsfe.com/a/fc3ab7f6-a720-4939-9397-ab627af502d4/tyra-banks-gty-jef-260815_1786802898704_hpMain_16x9.jpg?w=1600",
           "language": "en"
         },
         {
-          "title": "SPR depletion raises questions about integrity of oil caverns",
-          "description": "The rapid drawdown of the U.S. Strategic Petroleum Reserve could damage the caverns that store the oil, experts warn.",
-          "url": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
+          "title": "Funnel cloud seen in Golan after authorities issue thunderstorm warning",
+          "description": "Early flash flood warnings valid for Sunday were issued late Saturday afternoon by the Israel Meteorological Service, affecting the same regions as Saturday's warnings.",
+          "url": "https://www.jpost.com/israel-news/article-905580",
           "source": {
-            "name": "CNBC"
+            "name": "The Jerusalem Post"
           },
-          "publishedAt": "2026-08-15T13:18:46Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108019387-17234886382024-08-12t164547z_1236018828_rc2fe9a5jnbx_rtrmadp_0_usa-oil-spr.jpeg?v=1773269473&w=1920&h=1080",
+          "publishedAt": "2026-08-15T15:43:14Z",
+          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/451617",
           "language": "en"
         },
         {
-          "title": "Multiple shooters at Virginia State University, with 5 people shot",
-          "description": "A shooting involving multiple suspects and multiple people shot at Virginia State University prompted a campus lockdown early Saturday. One person is in critical condition, county police said.",
-          "url": "https://www.cbc.ca/news/world/virginia-state-university-shooting-9.7308557",
+          "title": "Trump's Latin America allies open arms to Israel",
+          "description": "While ongoing military actions in Gaza and settler attacks on Palestinians in the occupied West Bank have largely isolated Israel globally, Latin America's authoritarian right sees an opening for a strategic alliance.",
+          "url": "https://www.dw.com/en/trumps-latin-america-allies-open-arms-to-israel/a-78378930",
           "source": {
-            "name": "CBC"
+            "name": "dw.com"
           },
-          "publishedAt": "2026-08-15T13:18:35Z",
-          "image": "https://i.cbc.ca/ais/733e61bd-da6f-4fd6-9e5a-7d6d01ef145b,1784333033131/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3BResize%3D620",
+          "publishedAt": "2026-08-15T15:42:55Z",
+          "image": "https://static.dw.com/image/76850625_6.jpg",
           "language": "en"
         },
         {
-          "title": "Three people due in court after seizure of scrambler bikes, cash and drugs worth €100k",
-          "description": "Three people are due to appear before Dublin District Court today.",
-          "url": "https://www.thejournal.ie/three-people-court-appearance-drug-seizure-7132170-Aug2026/",
+          "title": "A stunning surprise in Paris: a \"done\" deal collapses at the last moment",
+          "description": "The transfer deal to bring Japanese goalkeeper Zion Suzuki to Paris Saint-Germain has collapsed unexpectedly, after negotiations had reached very advanced stages, in a development that has ended the French club's hopes of signing the Parma goalkeeper during the current transfer window.",
+          "url": "https://www.goal.com/en/news/stunning-surprise-in-paris-a-done-deal-collapses-at-the-last-moment/blta3f2836c5ddd6379",
           "source": {
-            "name": "The Journal"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-08-15T13:17:00Z",
-          "image": "https://img2.thejournal.ie/article/7132170/river/?height=400&version=7132171",
+          "publishedAt": "2026-08-15T15:42:17Z",
+          "image": "https://assets.goal.com/images/v3/imago-sport-1081097692/crop/MM5DKMBQGU5DEOBRGU5G433XMU5DAORSGYYA====/imago-image.jpeg",
           "language": "en"
         },
         {
-          "title": "Adipocyte-derived extracellular vesicles differentially regulate MASLD-associated metabolic responses in hepatocytes depending on glucose conditions",
-          "description": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is one of the most prevalent chronic liver disorders and is closely linked to obesity, insulin resistance, and type 2 diabetes mellitus. Recent studies have reported that extracellular vesicles (EVs) secreted from adipose tissue play a pivotal role in the onset and progression of MASLD. In this study, we aimed to establish an adipocyte-derived EV-based in vitro model to investigate adipose tissue–liver metabolic communication associated with MASLD. EVs were isolated from adipocytes differentiated under normoglycemic and diabetic-like hyperglycemic conditions and subsequently applied to hepatocytes. EVs derived under normoglycemic conditions contained higher levels of adiponectin and were associated with gene expression patterns indicative of reduced lipid accumulation. In contrast, EVs derived under hyperglycemic conditions exhibited higher FABP4 levels and were associated with increased lipid accumulation in hepatocytes. These findings indicate that the metabolic state of adipocytes reshapes the biomolecular composition of EVs, which is associated with differential metabolic responses in hepatocytes. Collectively, our results support the potential utility of adipocyte-derived EVs as an in vitro platform for studying adipose tissue–liver metabolic communication associated with MASLD and highlight the importance of EV-mediated communication between adipose tissue and the liver.",
-          "url": "https://www.nature.com/articles/s41598-026-67281-8?error=cookies_not_supported&code=405e0cca-f932-4471-be4b-e31e228e73f1",
+          "title": "Kareena Kapoor shares son Taimur Ali Khan’s adorable Independence Day artwork",
+          "description": "Kareena Kapoor celebrated India's 80th Independence Day by posting her son Taimur's artwork featuring the Indian flag. | Bollywood",
+          "url": "https://www.hindustantimes.com/entertainment/bollywood/kareena-kapoor-shares-son-taimur-ali-khan-s-adorable-independence-day-artwork-101786808023797.html",
           "source": {
-            "name": "Nature"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-08-15T13:15:46Z",
-          "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+          "publishedAt": "2026-08-15T15:40:19Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/08/15/1600x900/logo/saif_ali_khan_1709348684076_1786808334765_d9b680fb-a471-472b-a025-a2a7d0504aa4.jpeg",
           "language": "en"
         },
         {
-          "title": "Sheltered linkway to connect Tanjong Pagar CC to MRT station",
-          "description": "A new sheltered linkway will connect Tanjong Pagar Community Club to the MRT station, improving accessibility and safety for residents in the CBD area. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/singapore/community/sheltered-linkway-to-connect-tanjong-pagar-cc-to-mrt-station-in-a-few-years-time",
+          "title": "Virginia State University shooting: Police search for ‘multiple suspects’ after five shot at VSU",
+          "description": "The shooting has rocked campus before classes are set to begin on Monday",
+          "url": "https://www.the-independent.com/news/world/americas/crime/virginia-state-university-shooting-vsu-suspects-b3033606.html",
           "source": {
-            "name": "The Straits Times"
+            "name": "The Independent"
           },
-          "publishedAt": "2026-08-15T13:15:00Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/609925f026280275a6676c804e80dab81ed4ee3df9a4d987ae0ae3baa15fc6f6",
+          "publishedAt": "2026-08-15T15:39:00Z",
+          "image": "https://static.the-independent.com/2026/08/15/15/34/AP26227539577003.jpg?trim=0,392,0,0&width=1200&height=800&crop=1200:800",
           "language": "en"
         }
       ]
