@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-16T12:39:49.244Z",
+  "updatedAt": "2026-08-16T15:21:41.464Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "Nothingからクリップ型オープンイヤーイヤホン「CMF Clip Pro」が初登場",
+          "description": "日刊工業新聞の電子版。日刊工業新聞が紙面で提供している、およそ250件の記事を毎日閲覧することができます。機械、技術、情報通信、エネルギー、産業などの専門情報をご提供します。",
+          "url": "https://www.nikkan.co.jp/releases/view/222560",
+          "source": {
+            "name": "nikkan.co.jp"
+          },
+          "publishedAt": "2026-08-16T03:06:24Z",
+          "image": "https://prtimes.jp/img/82566/66/thumb/d82566-66-b4e37e850514916a96d7-0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "M!LK5人が北川景子を囲んで笑顔でピース！DAIGO扮する一之森大湖との顔寄せ集合ショットも「美男美女で眩しい」「すごい組み合わせ」「後輩してるM!LK見れて神すぎた」「景子さん顔ちっちゃ」",
+          "description": "北川景子とDAIGO扮する一之森大湖がそれぞれ自身のXを更新。8月15日に放送されたNHKの音楽特番『NHK夏の音楽祭 うたであえたら 2026』で共演したM!LKとのオフショットを公開した。 ■北川景子がM!LK 5人 […]",
+          "url": "https://www.thefirsttimes.jp/news/0000864556/",
+          "source": {
+            "name": "THE FIRST TIMES"
+          },
+          "publishedAt": "2026-08-16T02:36:42Z",
+          "image": "https://www.thefirsttimes.jp/admin/wp-content/uploads/2026/08/20260816-kmj-112201-1200x630.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "99万9999km走ったランクルを「100万kmの栄誉」付きで買えます",
+          "description": "こんなカンスト、聞いたことない！オーストラリア南東部、人口2,000人ほどの町ニル（ビクトリア州）で、1台のトヨタ・ランドクルーザーが現役を退きました。総走行距離を示すオドメーターの数字は999,999km。100万kmの大台まで、もうあと",
+          "url": "https://www.gizmodo.jp/article/999999_land_cruiser/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-08-16T02:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/08/12/e68d11da-e4d5-4344-8c3c-6bbb9811b045/original.png?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "一蘭でも牛かつでもない「赤坂の古民家カフェ」に外国人観光客が行列を作る納得の理由",
+          "description": "コロナ禍で一時は減少に転じたものの、訪日外国人観光客は高水準で推移している。歴史的な円安はあるにせよ、多くの外国人が日本に興味を持ってくれることは素直に喜ばし …",
+          "url": "https://rocketnews24.com/2026/08/16/2788594/",
+          "source": {
+            "name": "ロケットニュース24"
+          },
+          "publishedAt": "2026-08-16T01:30:36Z",
+          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_2836.jpg?w=1200&h=630&crop=1",
+          "language": "ja"
+        },
+        {
+          "title": "日本、火星の衛星を目指す",
+          "description": "日本の科学者たちは、太陽系や地球上の生命の起源を解明する手がかりとなる可能性のある試料を回収するため、火星の衛星への探査ミッションの準備を進めている。ただし、競合する中国のミッションが、先に帰還する様子だ。今後数ヶ月以内・・・",
+          "url": "https://www.arabnews.jp/article/features/article_184293/",
+          "source": {
+            "name": "arabnews.jp"
+          },
+          "publishedAt": "2026-08-16T01:08:09Z",
+          "image": "https://www.arabnews.jp/wp-content/uploads/2026/08/AFP__20260813__C4KP763__v1__High-658x370.jpg",
+          "language": "ja"
+        },
         {
           "title": "ロシアに連れ去られたウクライナの子ども約2万人 帰還は1割 志葉玲が見た「完全な誘拐」",
           "description": "ロシアに連れ去られたウクライナの子ども約2万人　帰還は1割　志葉玲が見た「完全な誘拐」（AERA DIGITAL）救出されたウクライナの子どもとその親。救出後もトラウマのケアなどの支援が必要だ（ウクライナ子どもの権利ネットワーク提供）…",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-08-15T23:52:00Z",
           "image": "https://www.gdm.or.jp/wp-content/uploads/2026/08/16/CMF_Clip_Pro_002.jpg",
           "language": "ja"
-        },
-        {
-          "title": "佐野日大VS健大高崎のスタメン発表！佐野日大は右腕エース、健大高崎は1年生左腕が先発！ハイレベルな投手戦か【26夏甲子園】｜記事一覧｜高校野球ドットコム",
-          "description": "頑張っている球児を応援する高校野球報道サイト。コラムや試合記事など高校野球情報を公開中。",
-          "url": "https://www.hb-nippon.com/articles/16360",
-          "source": {
-            "name": "hb-nippon.com"
-          },
-          "publishedAt": "2026-08-15T22:51:33Z",
-          "image": "https://cdn.hb-nippon.com/article-img/01M03SKVHGRMJC53JMKSXG3H6B.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "靖国で「公人か私人か」繰り返す報道陣、稲田氏「意味のある質問ではない」神谷氏「不毛」",
-          "description": "「公人か、私人か」─。長年繰り返されてきた問いは81回目の「終戦の日」の15日も、靖国神社（東京・九段北）で飛んだ。政教分離との関係を確認するため、政治家の肩書や玉串料の支出元をただした。だが、現職防衛相が2年ぶりに参拝し、中国や韓国の反…",
-          "url": "https://www.sankei.com/article/20260816-XV75DFZPANEG7BT573DNEECNQU/",
-          "source": {
-            "name": "産経ニュース"
-          },
-          "publishedAt": "2026-08-15T22:30:00Z",
-          "image": "https://www.sankei.com/resizer/v2/2VCQGJ3O7RJKBPFJXOZEN3B6XE.jpg?auth=b02633d57d4d67dfd12b6959f958729311a196dc63709ed5b6f1685106ed418c&quality=50&focal=1899%2C933&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "Microsoftが8月の月例更新を公開 優先すべきは「緊急」ではない：セキュリティニュースアラート",
-          "description": "Microsoftが2026年8月の月例セキュリティ更新プログラムを公開した。今回は、更新プログラムが公開されるより前に悪用が確認された脆弱性が1件含まれる。多数の修正のうち、IT部門が真っ先に手を付けるべきものはどれか。",
-          "url": "https://www.itmedia.co.jp/enterprise/articles/2608/16/news004.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-08-15T22:00:00Z",
-          "image": "https://image.itmedia.co.jp/enterprise/articles/2608/16/cover_news004.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『VIVANT』第14話、場面カット先行公開 野崎を異国の地で待ち受けるものとは",
-          "description": "ニュース｜　俳優・堺雅人が主演を務めるTBS系日曜劇場『VIVANT』（毎週日曜　後9：00）の第14話が、16日に放送される。放送を前に、乃木（堺）らを裏切った野崎（阿部寛）の場面カットが先行公開された。　『VIVANT』は2023年7月期に放送され、モンゴルで約2か月半にわたるロケを実施。総移動距離1000キロに及ぶ大規模撮影と壮大なスケールで注目を集めた。自衛隊の秘密部隊「別班」に所属する乃木が、謎の国際テロ組織「テント」の実態に迫る物語や、随所に張り巡らされた伏線が視聴者を引きつけ、社会現象級のヒットを記録した。",
-          "url": "https://www.oricon.co.jp/news/2474175/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-08-15T21:00:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2475000/2474175/20260816_000937_p_o_57173650.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【速報】松山英樹は3日目「67」で浮上",
-          "description": "◇米国男子プレーオフ第1戦◇フェデックスセントジュード選手権 3日目（15日）◇TPCサウスウィンド（テネシー州）◇7288yd（パー70） 14位から出た松山英樹は5バーディ、2ボギーの「67」でプレーした。通算7アンダー暫定5位でホール",
-          "url": "https://news.golfdigest.co.jp/news/pga/article/194047/1/",
-          "source": {
-            "name": "GDOゴルフニュース"
-          },
-          "publishedAt": "2026-08-15T20:42:00Z",
-          "image": "https://i.gimg.jp/cmsimg/434240.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Parts of Luzon, Visayas will have rains, thunderstorms due to habagat -Pagasa",
-          "description": "The northern and central parts of Luzon and the western section of the Visayas will have cloudy skies with scattered rain showers and thunderstorms, the state weather bureau Pagasa reported early Sunday morning.",
-          "url": "https://www.manilatimes.net/2026/08/16/news/parts-of-luzon-visayas-will-have-rains-thunderstorms-due-to-habagat-pagasa/2406298",
+          "title": "Elderly man shoved onto floor at East Coast coffeeshop after patting child's head",
+          "description": "Family of an elderly man are seeking to identify a man who shoved him to the ground during a confrontation at Roxy Square food court at East Coast on Saturday (Aug 15).Two CCTV footages were posted on Bei-Ing Wanton Noodle's Facebook and Instagram profiles on the same day.They wrote in the first post: \"Today, an incident happened at our coffeeshop...",
+          "url": "https://www.asiaone.com/singapore/elderly-man-shoved-floor-east-coast-coffeeshop-the-bullion-after-patting-childs-head",
           "source": {
-            "name": "The Manila Times"
+            "name": "AsiaOne"
           },
-          "publishedAt": "2026-08-16T00:38:00Z",
-          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/16/1178408.jpg",
+          "publishedAt": "2026-08-16T03:20:20Z",
+          "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Aug2026/260816_Eastcoastcoffeeshopelderlymanshoved.jpg?itok=DAf2MXf0",
           "language": "en"
         },
         {
-          "title": "Premier, PM announce post Bondi Beach terror attack gun buyback scheme",
-          "description": "The premier and prime minister have heralded the move as \"taking guns off the street\" in the wake of the Bondi Beach terror attack last year.",
-          "url": "https://www.abc.net.au/news/2026-08-16/nsw-bondi-gun-buyback-chris-minns-anthony-albanese/107043306",
+          "title": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say",
+          "description": "National Weather Service reports that more than 11in of rain fell over a two-day period in some areas",
+          "url": "https://www.theguardian.com/us-news/2026/aug/15/indiana-flooding-deaths",
+          "source": {
+            "name": "theguardian.com"
+          },
+          "publishedAt": "2026-08-16T03:19:00Z",
+          "image": "https://i.guim.co.uk/img/media/979f6f42c2588f33351ec0a25820ba82e7e515b5/7_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77bd2d730c4c24c46ae8909f4255f898",
+          "language": "en"
+        },
+        {
+          "title": "How brutal honesty in Ballymaloe helped put a therapy trailblazer on the path to profitability",
+          "description": "Power is knowing",
+          "url": "https://thecurrency.news/articles/235626/how-brutal-honesty-in-ballymaloe-helped-put-a-therapy-trailblazer-on-the-path-to-profitability/",
+          "source": {
+            "name": "The Currency"
+          },
+          "publishedAt": "2026-08-16T03:18:37Z",
+          "image": "https://thecurrency.news/wp-content/uploads/2026/08/Ciara-McEnteggart-1-scaled.jpg",
+          "language": "en"
+        },
+        {
+          "title": "AFL Rd 23 live updates: GWS vs West Coast, Western Bulldogs vs Carlton, Essendon vs Sydney",
+          "description": "The top 10 could be decided this afternoon as two key games — featuring GWS and Carlton — shape the wild card places on the ladder. Follow live.",
+          "url": "https://www.abc.net.au/news/2026-08-16/afl-rd-23-live-gws-wce-wb-carl-ess-syd/107037342",
           "source": {
             "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-08-16T00:37:18Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/cbc1e42defe69a06ed220d35cf23eb8c?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-08-16T03:17:03Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/0e256560e7dc850a4562316eea962a8e?impolicy=wcms_watermark_news&cropH=1497&cropW=2662&xPos=0&yPos=118&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Large blaze at Botany Town Centre in Auckland under control",
-          "description": "A large fire at a cinema in east Auckland has been brought under control, with firefighters now concentrating on hotspots.",
-          "url": "https://www.rnz.co.nz/news/regions/1010486/large-blaze-at-botany-town-centre-in-auckland-under-control",
+          "title": "Fiction in translation: How trauma interrupts the flow of a life, to devastating effect",
+          "description": "Sara Baume reviews novels by Marie Darrieussecq; Joanna Elmy; Clyo Mendoza; Ana Paula Maia; and Ibtisam Azem",
+          "url": "https://www.irishtimes.com/culture/books/review/2026/08/16/fiction-in-translation-how-trauma-interrupts-the-flow-of-a-life-to-devastating-effect/",
           "source": {
-            "name": "RNZ"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-08-16T00:34:43Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--dGczmVHV--/t_tohu-badge-facebook/f_auto/q_auto/4JJT4P0_3_png",
+          "publishedAt": "2026-08-16T03:16:12Z",
+          "image": "https://www.irishtimes.com/resizer/v2/WEAWGVL4DFA2ZEH5KITY4ZYNQ4.jpg?smart=true&auth=d5f2c2e5b52a8358da4f27b151abecc6afbeb93f28d9047f95d198b3078e33bb&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "NYT Strands hints, answers for August 15, 2026",
-          "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
-          "url": "https://mashable.com/entertainment/strands-nyt-hint-august-15-2026",
+          "title": "KAIST Unveils Noise-Tuning Semiconductor Neuron",
+          "description": "In electronic devices, irregular fluctuations in signals are generally referred to as \"noise.\" Because noise interferes with accurate information",
+          "url": "https://www.miragenews.com/kaist-unveils-noise-tuning-semiconductor-neuron-1727781/",
           "source": {
-            "name": "Mashable"
+            "name": "Mirage News"
           },
-          "publishedAt": "2026-08-16T00:34:22Z",
-          "image": "https://helios-i.mashable.com/imagery/articles/02KUjlAnMWXpId4bi2OGU4m/hero-image.fill.size_1200x675.v1786695212.jpg",
+          "publishedAt": "2026-08-16T03:16:00Z",
+          "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1574170608990-8b45e8d75449%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1351%26amp%3Bq%3D80",
           "language": "en"
         },
         {
-          "title": "Iran President Pezeshkian greets PM Modi on Independence Day, calls historic ties with India ‘valuable asset’",
-          "description": "India News: NEW DELHI: Iranian President Masoud Pezeshkian on Saturday extended greetings to India on its 80th Independence Day, highlighting the countries' deep .",
-          "url": "https://timesofindia.indiatimes.com/india/iran-president-pezeshkian-greets-pm-modi-on-independence-day-calls-historic-ties-with-india-valuable-asset/articleshow/133268622.cms",
+          "title": "Powerball winner after $1 billion jackpot? Results for Aug. 15, 2026",
+          "description": "There was a Powerball jackpot winner in the $1 billion drawing for Wednesday, Aug. 12, 2026. A ticket from Cape Coral, Florida, also scored $1 million.",
+          "url": "https://www.tcpalm.com/story/news/2026/08/15/powerball-winner-numbers-results-saturday-august-florida/91307975007/",
           "source": {
-            "name": "The Times of India"
+            "name": "Treasure Coast News"
           },
-          "publishedAt": "2026-08-16T00:33:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-133268629,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-08-16T03:15:00Z",
+          "image": "https://www.tcpalm.com/gcdn/authoring/authoring-images/2026/08/13/PBRE/91287617007-img-7773.jpeg?crop=4032,2268,x0,y156&width=3200&height=1800&format=pjpg&auto=webp",
           "language": "en"
         },
         {
-          "title": "Afghan Allies Still Waiting for the Safety Germany Promised",
-          "description": "After the Taliban retook power on August 15, 2021, Berlin promised to bring Afghan staff to Germany.",
-          "url": "https://en.tempo.co/read/2117597/afghan-allies-still-waiting-for-the-safety-germany-promised",
+          "title": "Thousands await aid after deadly Indonesian quake in Flores that killed 48",
+          "description": "Flores was struck by a 7.7-magnitude earthquake in 1992 that triggered a tsunami and killed about 2,500. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/asia/se-asia/thousands-await-aid-after-deadly-indonesian-quake",
           "source": {
-            "name": "Tempo.co English"
+            "name": "The Straits Times"
           },
-          "publishedAt": "2026-08-16T00:26:33Z",
-          "image": "https://statik.tempo.co/data/2025/07/06/id_1410953/1410953_720.jpg",
+          "publishedAt": "2026-08-16T03:15:00Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/2f37e752b1189d6c0a4ff71619f63b5e7736cb7642bf4e60db8e2853a7d8fb26",
           "language": "en"
         },
         {
-          "title": "One sentence that made Maguire snap after 34 point loss",
-          "description": "Broncos have only won one game in 12 weeks.",
-          "url": "https://www.zerotackle.com/one-sentence-that-made-maguire-snap-after-34-point-loss-237035/",
+          "title": "LIVE! Watch UFC 330 Post-Fight Presser | Islam Vs. Garry",
+          "description": "With the action officially in the books from UFC 330 last night (Sat., Aug. 15, 2026) LIVE on Paramount+ from inside Xfinity Mobile Arena in Philadelphia, Penn., fight fans can check out the post-fight presser for all the best reaction and official bonus winners. On a night that featured a main event showcase between UFC […]",
+          "url": "https://sports.yahoo.com/articles/live-watch-ufc-330-post-030500932.html",
           "source": {
-            "name": "Zero Tackle"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-08-16T00:26:17Z",
-          "image": "https://www.zerotackle.com/wp-content/uploads/2025/05/GettyImages-2203326140-scaled.jpg",
+          "publishedAt": "2026-08-16T03:13:53Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/15a85f534dcd6f21378e88be858a0beb091738f2db11c931803c3382400bf8b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F5fd6d07dbf018433d1acbad91379acd3.jpg",
           "language": "en"
         },
         {
-          "title": "Walker’s Roosters asking price named after phone calls over bombshell Cleary rumour — Whispers",
-          "description": "Walker’s Roosters asking price named after calls over shock Cleary rumour: Whispers",
-          "url": "https://www.foxsports.com.au/nrl/nrl-premiership/nrl-2026-clint-gutherson-moses-suli-kyle-flanagan-lhykan-kingtogia-on-the-chopping-block-dragons-will-they-be-released-transfer-whispers-news/news-story/cf1fafce220ec1190f1830f2b5e7de06",
+          "title": "Racing Louisville FC wins third straight",
+          "description": "Four wins in last six matches",
+          "url": "https://www.wlky.com/article/racing-louisville-fc-wins-third-straight/73444197",
           "source": {
-            "name": "Fox Sports"
+            "name": "WLKY"
           },
-          "publishedAt": "2026-08-16T00:22:50Z",
-          "image": "https://content.api.news/v3/images/bin/c41a94a2e6725c1b52133261ff6f4fdb",
-          "language": "en"
-        },
-        {
-          "title": "Racing Louisville vs Boston Legacy FC: Where to watch, TV channel, live stream & kick-off time",
-          "description": "Find out where to watch Racing Louisville vs Boston Legacy FC live, including TV channel, live stream options, kick-off time, team news, and form guide for this NWSL fixture.",
-          "url": "https://www.goal.com/en-us/news/watch-racing-louisville-v-boston-legacy-fc-live-stream-online-tv-channel/blt3b6a669da0f838fd",
-          "source": {
-            "name": "Goal.com"
-          },
-          "publishedAt": "2026-08-16T00:22:30Z",
-          "image": "https://assets.goal.com/images/v3/ZOWJ5Jz7pArsTn541vh53_DESKTOP/image.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Travis Kelce Shows Off Wedding Ring at Chiefs Preseason Debut",
-          "description": "Travis Kelce arrived at his first Kansas City Chiefs preseason game since his wedding to Taylor Swift, sporting his gold wedding band on his ring finger on Aug. 15.",
-          "url": "https://www.eonline.com/news/1435078/travis-kelce-wears-taylor-swift-wedding-band-at-chiefs-preseason-game",
-          "source": {
-            "name": "E! News"
-          },
-          "publishedAt": "2026-08-16T00:20:00Z",
-          "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260815/32122c83-de72-42d6-8019-680d735da87e_1786839263.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+          "publishedAt": "2026-08-16T03:13:00Z",
+          "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/racing-louisville-fc-1594219074.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
           "language": "en"
         }
       ]
