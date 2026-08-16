@@ -1,10 +1,54 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-16T15:21:41.464Z",
+  "updatedAt": "2026-08-16T18:29:23.176Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "バスケットボール 八村塁は外れる コンディション調整のため ＳｏｆｔＢａｎｋＣｕｐ２０２６ロスター発表",
+          "description": "日本バスケットボール協会は１６日、男子代表が韓国と対戦する「ＳｏｆｔＢａｎｋ　Ｃｕｐ　２０２６」（有明アリーナ）のロスター１２人を発表した。前日に２２得点と大活躍した八村塁（２８）＝クリッパーズ＝",
+          "url": "https://news.yahoo.co.jp/articles/59a607e5f6351a5b7e51ce11a45102dbae77b1c5",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-16T06:13:52Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260816-00000080-dal-000-5-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "『スキップとローファー』2期は2027年4月から放送開始。ティザーPV公開、みつみ役：黒沢ともよ、志摩くん役：江越彬紀からコメント到着",
+          "description": "テレビアニメ『スキップとローファー 2nd season』2027年4月より放送決定。あわせてティザーPVが公開。",
+          "url": "https://www.famitsu.com/article/202608/84557",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-08-16T06:00:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/84557/thumbnail_rTev.jpg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "「車・地下・帰宅困難者」千葉豪雨で露呈した都市型水害“3つの課題”",
+          "description": "お盆休みの千葉を襲った記録的豪雨から2日。今も各地に爪痕が残っています。なぜここまで被害が広がったのか、専門家と現地を歩き、“都市型水害”の課題を探りました。（8月15日OA「サタデーステーション」）",
+          "url": "https://news.tv-asahi.co.jp/news_society/articles/900197227.html",
+          "source": {
+            "name": "テレ朝NEWS"
+          },
+          "publishedAt": "2026-08-16T05:13:19Z",
+          "image": "https://news.tv-asahi.co.jp/articles_img/900197227_1200.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "19日まで晴れても急な雨に注意 20日以降は広く雨が降ることも 2週間天気",
+          "description": "明日17日から19日(水)は、関東から九州は、晴れ間が出ることもありますが、山沿いや内陸部を中心に急な雨となる所があるでしょう。20日(木)以降は、日本付近を次々と前線や気圧の谷が通過する見込みです。広く雨が降ったり、雨脚が強まることもあるでしょう。この先も厳しい残暑が続くため、引き続き熱中症に注意が必要です。",
+          "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/08/16/40175.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-08-16T04:06:28Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/401/40175/main/20260816124650/large.jpg",
+          "language": "ja"
+        },
         {
           "title": "Nothingからクリップ型オープンイヤーイヤホン「CMF Clip Pro」が初登場",
           "description": "日刊工業新聞の電子版。日刊工業新聞が紙面で提供している、およそ250件の記事を毎日閲覧することができます。機械、技術、情報通信、エネルギー、産業などの専門情報をご提供します。",
@@ -70,161 +114,117 @@
           "publishedAt": "2026-08-16T00:30:00Z",
           "image": "https://img.topics.smt.news.goo.ne.jp/picture/dot/m_dot-289859.jpg",
           "language": "ja"
-        },
-        {
-          "title": "ロシアに連れ去られたウクライナの子ども約2万人 帰還は1割 志葉玲が見た「完全な誘拐」",
-          "description": "ロシアに連れ去られたウクライナの子ども約2万人　帰還は1割　志葉玲が見た「完全な誘拐」（AERA DIGITAL）救出されたウクライナの子どもとその親。救出後もトラウマのケアなどの支援が必要だ（ウクライナ子どもの権利ネットワーク提供）…",
-          "url": "https://topics.smt.docomo.ne.jp/article/dot/nation/dot-289859?redirect=1",
-          "source": {
-            "name": "topics.smt.docomo.ne.jp"
-          },
-          "publishedAt": "2026-08-16T00:30:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/dot/m_dot-289859.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「仮面ライダーマイス」新キャスト発表 戌のヴァンケンに岩永丞威、未のムトンに「キングオージャー」長谷川かすみ決定",
-          "description": "令和仮面ライダーシリーズ第8作「仮面ライダーマイス」（9月6日午前9時スタート・テレビ朝日系）に登場する、新たな仮面ライダーを演じるキャストが発表された。",
-          "url": "https://www.cinematoday.jp/news/N0156353",
-          "source": {
-            "name": "シネマトゥデイ"
-          },
-          "publishedAt": "2026-08-16T00:30:00Z",
-          "image": "https://img.cinematoday.jp/a/XE8q3BSuuW2E/_size_r1200x630/_v_1786781342/main.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『名探偵プリキュア！』キュアアルカナ・シャドウの新たな姿が解禁。黒基調から白基調へフォームチェンジし、変身前のペンダントにも変化。キュアアンサーら4人の新フォームも公開",
-          "description": "『名探偵プリキュア！』にて、“キュアアルカナ・シャドウ”の新たな姿“キュアアルカナ”が本日2026年8月16日に解禁。これまでの黒を基調としたデザインから白を基調としたデザインへ大きくフォームチェンジし、変身前の姿である森亜るるかのペンダントにも変化が加えられている。",
-          "url": "https://www.famitsu.com/article/202608/84460",
-          "source": {
-            "name": "famitsu.com"
-          },
-          "publishedAt": "2026-08-16T00:00:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/84460/thumbnail_OzeA.jpg?x=1280",
-          "language": "ja"
-        },
-        {
-          "title": "耳を塞がず、ダイヤルで操作。Nothing初のクリップ型イヤホン「CMF Clip Pro」",
-          "description": "NothingのCMFブランドから、初のクリップ型オープンイヤーイヤホン「CMF Clip Pro」が登場。10.8mmドライバーやLDAC、3点式クリップ、スマートダイヤル搭載ケースを採用し、税込12,800円で発売。",
-          "url": "https://www.gdm.or.jp/pressrelease/2026/0816/648305",
-          "source": {
-            "name": "gdm.or.jp"
-          },
-          "publishedAt": "2026-08-15T23:52:00Z",
-          "image": "https://www.gdm.or.jp/wp-content/uploads/2026/08/16/CMF_Clip_Pro_002.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Elderly man shoved onto floor at East Coast coffeeshop after patting child's head",
-          "description": "Family of an elderly man are seeking to identify a man who shoved him to the ground during a confrontation at Roxy Square food court at East Coast on Saturday (Aug 15).Two CCTV footages were posted on Bei-Ing Wanton Noodle's Facebook and Instagram profiles on the same day.They wrote in the first post: \"Today, an incident happened at our coffeeshop...",
-          "url": "https://www.asiaone.com/singapore/elderly-man-shoved-floor-east-coast-coffeeshop-the-bullion-after-patting-childs-head",
+          "title": "Two Israeli Universities Made The List Of The World's Top 100 Universities Worldwide",
+          "description": "The prestigious Shanghai ranking, which ranks about 2,500 universities worldwide, placed the Weizmann Institute and the Hebrew University on the list of the world's top one hundred universities",
+          "url": "https://www.i24news.tv/en/news/israel/society/artc-two-israeli-universities-made-the-list-of-the-world-s-top-100-universities-worldwide",
           "source": {
-            "name": "AsiaOne"
+            "name": "i24NEWS"
           },
-          "publishedAt": "2026-08-16T03:20:20Z",
-          "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Aug2026/260816_Eastcoastcoffeeshopelderlymanshoved.jpg?itok=DAf2MXf0",
+          "publishedAt": "2026-08-16T06:29:00Z",
+          "image": "https://cdn.i24news.tv/upload/image/5abbd9d416cc761fce63d8d272e06bb55a1a6e41.jpg",
           "language": "en"
         },
         {
-          "title": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say",
-          "description": "National Weather Service reports that more than 11in of rain fell over a two-day period in some areas",
-          "url": "https://www.theguardian.com/us-news/2026/aug/15/indiana-flooding-deaths",
+          "title": "Roads barricaded in Homa Bay ahead of Linda Mwananchi rally",
+          "description": "Large stones were placed across sections of roads overnight, preventing vehicles from accessing the town",
+          "url": "https://www.the-star.co.ke/news/2026-08-16-homa-bay-roads-barricaded-ahead-of-sifuna-rally",
           "source": {
-            "name": "theguardian.com"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-08-16T03:19:00Z",
-          "image": "https://i.guim.co.uk/img/media/979f6f42c2588f33351ec0a25820ba82e7e515b5/7_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77bd2d730c4c24c46ae8909f4255f898",
+          "publishedAt": "2026-08-16T06:28:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/08/3aa2f93b-7ee7-48b9-8d05-83cc1aa1ac4f.webp?1786864882710",
           "language": "en"
         },
         {
-          "title": "How brutal honesty in Ballymaloe helped put a therapy trailblazer on the path to profitability",
-          "description": "Power is knowing",
-          "url": "https://thecurrency.news/articles/235626/how-brutal-honesty-in-ballymaloe-helped-put-a-therapy-trailblazer-on-the-path-to-profitability/",
+          "title": "Finding of missing Yahalomi pair spurs Kasau parents to demand additional action",
+          "description": "Haymanot's family is demanding that the same capabilities and resources used in the search for Mali and Liel also be employed in the investigation into her disappearance.",
+          "url": "https://www.jpost.com/israel-news/crime-in-israel/article-905618",
           "source": {
-            "name": "The Currency"
+            "name": "The Jerusalem Post"
           },
-          "publishedAt": "2026-08-16T03:18:37Z",
-          "image": "https://thecurrency.news/wp-content/uploads/2026/08/Ciara-McEnteggart-1-scaled.jpg",
+          "publishedAt": "2026-08-16T06:27:53Z",
+          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/734032",
           "language": "en"
         },
         {
-          "title": "AFL Rd 23 live updates: GWS vs West Coast, Western Bulldogs vs Carlton, Essendon vs Sydney",
-          "description": "The top 10 could be decided this afternoon as two key games — featuring GWS and Carlton — shape the wild card places on the ladder. Follow live.",
-          "url": "https://www.abc.net.au/news/2026-08-16/afl-rd-23-live-gws-wce-wb-carl-ess-syd/107037342",
+          "title": "Harwich fire LIVE: Smoke billows over Essex town as people urged 'keep doors shut'",
+          "description": "The blaze erupted overnight, with firefighters being called shortly after 3.30am.",
+          "url": "https://www.express.co.uk/news/uk/2239537/harwich-fire-live-essex-warehouse",
           "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+            "name": "Daily Express"
           },
-          "publishedAt": "2026-08-16T03:17:03Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/0e256560e7dc850a4562316eea962a8e?impolicy=wcms_watermark_news&cropH=1497&cropW=2662&xPos=0&yPos=118&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-08-16T06:27:00Z",
+          "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/7096060.jpg",
           "language": "en"
         },
         {
-          "title": "Fiction in translation: How trauma interrupts the flow of a life, to devastating effect",
-          "description": "Sara Baume reviews novels by Marie Darrieussecq; Joanna Elmy; Clyo Mendoza; Ana Paula Maia; and Ibtisam Azem",
-          "url": "https://www.irishtimes.com/culture/books/review/2026/08/16/fiction-in-translation-how-trauma-interrupts-the-flow-of-a-life-to-devastating-effect/",
-          "source": {
-            "name": "The Irish Times"
-          },
-          "publishedAt": "2026-08-16T03:16:12Z",
-          "image": "https://www.irishtimes.com/resizer/v2/WEAWGVL4DFA2ZEH5KITY4ZYNQ4.jpg?smart=true&auth=d5f2c2e5b52a8358da4f27b151abecc6afbeb93f28d9047f95d198b3078e33bb&width=1200&height=630",
-          "language": "en"
-        },
-        {
-          "title": "KAIST Unveils Noise-Tuning Semiconductor Neuron",
-          "description": "In electronic devices, irregular fluctuations in signals are generally referred to as \"noise.\" Because noise interferes with accurate information",
-          "url": "https://www.miragenews.com/kaist-unveils-noise-tuning-semiconductor-neuron-1727781/",
-          "source": {
-            "name": "Mirage News"
-          },
-          "publishedAt": "2026-08-16T03:16:00Z",
-          "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1574170608990-8b45e8d75449%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1351%26amp%3Bq%3D80",
-          "language": "en"
-        },
-        {
-          "title": "Powerball winner after $1 billion jackpot? Results for Aug. 15, 2026",
-          "description": "There was a Powerball jackpot winner in the $1 billion drawing for Wednesday, Aug. 12, 2026. A ticket from Cape Coral, Florida, also scored $1 million.",
-          "url": "https://www.tcpalm.com/story/news/2026/08/15/powerball-winner-numbers-results-saturday-august-florida/91307975007/",
-          "source": {
-            "name": "Treasure Coast News"
-          },
-          "publishedAt": "2026-08-16T03:15:00Z",
-          "image": "https://www.tcpalm.com/gcdn/authoring/authoring-images/2026/08/13/PBRE/91287617007-img-7773.jpeg?crop=4032,2268,x0,y156&width=3200&height=1800&format=pjpg&auto=webp",
-          "language": "en"
-        },
-        {
-          "title": "Thousands await aid after deadly Indonesian quake in Flores that killed 48",
-          "description": "Flores was struck by a 7.7-magnitude earthquake in 1992 that triggered a tsunami and killed about 2,500. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/asia/se-asia/thousands-await-aid-after-deadly-indonesian-quake",
-          "source": {
-            "name": "The Straits Times"
-          },
-          "publishedAt": "2026-08-16T03:15:00Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/2f37e752b1189d6c0a4ff71619f63b5e7736cb7642bf4e60db8e2853a7d8fb26",
-          "language": "en"
-        },
-        {
-          "title": "LIVE! Watch UFC 330 Post-Fight Presser | Islam Vs. Garry",
-          "description": "With the action officially in the books from UFC 330 last night (Sat., Aug. 15, 2026) LIVE on Paramount+ from inside Xfinity Mobile Arena in Philadelphia, Penn., fight fans can check out the post-fight presser for all the best reaction and official bonus winners. On a night that featured a main event showcase between UFC […]",
-          "url": "https://sports.yahoo.com/articles/live-watch-ufc-330-post-030500932.html",
+          "title": "🗞️ Today’s back pages: €70m for Rodri, boos for Enzo",
+          "description": "On a perfect Saturday for Spanish athletics and rhythmic gymnastics, the front pages of the sports newspapers are still focused on the transfer market.Ferran Torres is now a PSG player for five years ...",
+          "url": "https://sports.yahoo.com/articles/today-back-pages-70m-rodri-062400637.html",
           "source": {
             "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-08-16T03:13:53Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/15a85f534dcd6f21378e88be858a0beb091738f2db11c931803c3382400bf8b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F5fd6d07dbf018433d1acbad91379acd3.jpg",
+          "publishedAt": "2026-08-16T06:24:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/3c8366a4a8612408561c5e27754c6744252b97783ff85945f3e00edcb7a1d44e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F474952201e03c9a755f5b13d3083c092.jpg",
           "language": "en"
         },
         {
-          "title": "Racing Louisville FC wins third straight",
-          "description": "Four wins in last six matches",
-          "url": "https://www.wlky.com/article/racing-louisville-fc-wins-third-straight/73444197",
+          "title": "KPA Tightens Security at Port of Mombasa Amid Rising Global Threats",
+          "description": "More than 40 security officers have undergone fresh training and practical drills as Kenya strengthens safeguards at one of East Africa’s busiest gateways for international trade.",
+          "url": "https://www.kenyans.co.ke/news/126220-kpa-tightens-security-port-mombasa-amid-rising-global-threats",
           "source": {
-            "name": "WLKY"
+            "name": "Kenyans.co.ke"
           },
-          "publishedAt": "2026-08-16T03:13:00Z",
-          "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/racing-louisville-fc-1594219074.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+          "publishedAt": "2026-08-16T06:22:47Z",
+          "image": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/oil%20mombasa%20port.jpg.webp?itok=EvlpFkkz",
+          "language": "en"
+        },
+        {
+          "title": "Lord of the Rings star Sir Ian McKellen surprises Christchurch diners",
+          "description": "The Lord of the Rings star Sir Ian McKellen made a surprise appearance at a Christchurch restaurant after his flight was cancelled. McKellen, who played...",
+          "url": "https://www.nzherald.co.nz/nz/christchurch/lord-of-the-rings-star-sir-ian-mckellen-surprises-christchurch-diners/KQ6KUCKOUVGG7GNCOWO3CWA7NI/",
+          "source": {
+            "name": "NZ Herald"
+          },
+          "publishedAt": "2026-08-16T06:21:20Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/YVM5BJB5QJH2RKLEQ3YTLWGH3M.jpg?auth=90b773122d68cc2dcde84755b220aeff5c44058ba45f68f1b23764a740d5fef3&width=1200&height=675&quality=70&smart=true",
+          "language": "en"
+        },
+        {
+          "title": "Students detained ahead of Amit Shah's Alwar visit as they planned protest to demand his resignation over CJP crackdown",
+          "description": "Detentions in BJP-ruled Rajasthan's Alwar come against backdrop of a wider pattern of detentions ahead of Amit Shah's public engagements in recent weeks | India News",
+          "url": "https://www.hindustantimes.com/india-news/students-detained-ahead-of-amit-shahs-alwar-visit-as-they-planned-protest-to-demand-his-resignation-over-cjp-crackdown-101786860442060.html",
+          "source": {
+            "name": "Hindustan Times"
+          },
+          "publishedAt": "2026-08-16T06:21:11Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/08/16/1600x900/logo/PTI08-03-2026-000147B-0_1786861156860_1786861193424_88e6c1ac-a935-4b0c-8031-7912478c520a.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Air India Express passenger's gun goes off at Varanasi airport, two injured",
+          "description": "The passenger, a resident of Azamgarh, was scheduled to travel to Mumbai on Air India's IX-1810 flight when the gun went off during screening. | India News",
+          "url": "https://www.hindustantimes.com/india-news/air-india-passengers-gun-goes-off-at-varanasi-airport-woman-and-child-shot-101786861071040.html",
+          "source": {
+            "name": "Hindustan Times"
+          },
+          "publishedAt": "2026-08-16T06:20:21Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/08/16/1600x900/AIR-INDIA-EXPRESS-OUTLOOK--0_1775538372015_1775538407543_1786862416730_eb020e6b-2aac-442c-9f42-b4db834d7638.JPG",
+          "language": "en"
+        },
+        {
+          "title": "material, structure, and scent converge in so koizumi’s south korean exhibition",
+          "description": "so koizumi design presents his first solo exhibition in south korea in collaboration with seoul-based scent brand pointtwofive·second.",
+          "url": "https://www.designboom.com/art/material-structure-scent-so-koizumi-south-korean-solo-exhibition/",
+          "source": {
+            "name": "Designboom"
+          },
+          "publishedAt": "2026-08-16T06:20:17Z",
+          "image": "https://www.designboom.com/twitterimages/dbsub/451357/2026-08-12/so-koizumis-first-solo-exhibition-in-south-korea-1-6a7c330c12556.jpg",
           "language": "en"
         }
       ]
