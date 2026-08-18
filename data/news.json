@@ -1,10 +1,21 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-18T03:45:05.396Z",
+  "updatedAt": "2026-08-18T06:43:08.498Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "モスクワ近郊に“最大規模”攻撃 進化するウクライナの“ドローン技術”",
+          "description": "ウクライナが、ロシアのモスクワ近郊にドローンで今年“最大規模”とされる攻撃を行いました。標的は物流センターなどにも及んでいます。その背景には、進化するドローン技術がありました。",
+          "url": "https://news.yahoo.co.jp/articles/cbde467bd3d56a02de6f009bdc72cdaac0b2d0e6",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-17T16:15:36Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260818-90197326-ann-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "『The Sinking City 2』レビュー。クトゥルフ神話の世界観による漆黒のサバイバルホラー体験！ 人智を超えた宇宙的恐怖が這い寄る",
           "description": "サバイバルホラー『The Sinking City 2』を紹介。底なし沼に沈み込んでいくような宇宙的恐怖が襲う！",
@@ -103,128 +114,117 @@
           "publishedAt": "2026-08-17T11:26:00Z",
           "image": "https://contents.oricon.co.jp/upimg/news/2475000/2474216/20260817_182142_o_38148681.jpg",
           "language": "ja"
-        },
-        {
-          "title": "「GTO」視聴率3％台で気になる反町隆史の今後…“丸くなった鬼塚”にファン落胆もイケオジ人気は健在！（日刊ゲンダイDIGITAL）｜ｄメニューニュース",
-          "description": "「GTO」視聴率3％台で気になる反町隆史の今後…“丸くなった鬼塚”にファン落胆もイケオジ人気は健在！（日刊ゲンダイDIGITAL）《弱々しい鬼塚なんて見たくない》なんて声もある、反町隆史（52＝写真）主演の「GTO」（関西テレビ・フジテレビ系=月曜夜10時）…",
-          "url": "https://topics.smt.docomo.ne.jp/article/nikkangendai/entertainment/nikkangendai-1240422?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-08-17T11:00:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/nikkangendai/m_nikkangendai-1240422.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Ex-Liverpool player shares why Manchester United will not win the Premier League title under Carrick",
-          "description": "Former Liverpool star Jamie Carragher claims Manchester United will not win the Premier League title because Michael Carrick lacks ‘stardust’. Carrick was initially appointed as interim manager i...",
-          "url": "https://sports.yahoo.com/articles/ex-liverpool-player-shares-why-154500465.html",
+          "title": "Eli Lilly and J&J bounce on new data, as software gives up gains",
+          "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+          "url": "https://www.cnbc.com/2026/08/17/eli-lilly-and-jj-bounce-on-new-data-as-software-gives-up-gains.html",
           "source": {
-            "name": "sports.yahoo.com"
+            "name": "CNBC"
           },
-          "publishedAt": "2026-08-17T15:45:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/f0258d31367b72f3da41eb23ebadc412aa2c52b90a61c7418990f96c8264c6c2/lightyear_networkapi/resizefill_w760_h507%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_today_articles_719%2F1ca37a082e9b39940227970731ef3309.jpg",
+          "publishedAt": "2026-08-17T18:42:54Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108230176-1764603822722-108230176-17637559702025-11-21t201158z_1546648356_rc261iafo6zz_rtrmadp_0_lilly-stocks.jpg?v=1779898152&w=1920&h=1080",
           "language": "en"
         },
         {
-          "title": "UNISOC Modem Flaw Enables Remote Code Execution via Video Calls",
-          "description": "UNISOC modem flaw enabled kernel-level code execution through video calls",
-          "url": "https://www.infosecurity-magazine.com/news/unisoc-modem-flaw-rce-calls/",
+          "title": "Scientists Melted Diamond at Temperatures Hotter Than the Sun. It Behaved Very Strangely",
+          "description": "Under crushing pressure, diamond stays diamond until it suddenly becomes a metallic carbon liquid.",
+          "url": "https://www.zmescience.com/science/news-science/melting-diamond-experiment/",
           "source": {
-            "name": "Infosecurity Magazine"
+            "name": "ZME Science"
           },
-          "publishedAt": "2026-08-17T15:45:00Z",
-          "image": "https://assets.infosecurity-magazine.com/webpage/og/4178c84d-9e43-429e-b50e-7d0b4ea1a0fd.jpg",
+          "publishedAt": "2026-08-17T18:42:32Z",
+          "image": "https://cdn.zmescience.com/wp-content/uploads/2026/08/diamond-melting.jpg",
           "language": "en"
         },
         {
-          "title": "Critically endangered bee rediscovered in Offaly after 26 years",
-          "description": "The critically endangered Silver-sided Nomad bee was seen in Co Offaly.",
-          "url": "https://www.thejournal.ie/critically-endangered-bee-rediscovered-in-offaly-after-26-years-7133414-Aug2026/",
+          "title": "Reddit begins testing a new audio and video experience, similar to popular TikTok videos",
+          "description": "Reddit is beginning to test video and audio versions of popular posts, allowing users to watch or listen to Reddit stories instead of just reading them.",
+          "url": "https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/",
+          "source": {
+            "name": "TechCrunch"
+          },
+          "publishedAt": "2026-08-17T18:42:30Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1048288996.jpg?resize=1200,675",
+          "language": "en"
+        },
+        {
+          "title": "After Kushner-Hamas meeting, Palestinian Authority officials accuse US of sidelining Abbas",
+          "description": "Several officials were left perplexed following the meeting, with them expressing concern over the US's treatment of Hamas and its approach to the Palestinian issue.",
+          "url": "https://www.jpost.com/middle-east/article-905785",
+          "source": {
+            "name": "The Jerusalem Post"
+          },
+          "publishedAt": "2026-08-17T18:41:06Z",
+          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731908",
+          "language": "en"
+        },
+        {
+          "title": "Indian-origin grandmother with Green Card detained by ICE after living in the US for 30 years. Her daughter is an immigration attorney",
+          "description": "US News: Venkata Vasamsetty, who has lived in the US for 30 years and is a Green Card holder, has been detained by ICE in a bizarre case of immigration while h.",
+          "url": "https://timesofindia.indiatimes.com/world/us/indian-origin-grandmother-with-green-card-detained-by-ice-after-living-in-the-us-for-30-years-her-daughter-is-an-immigration-attorney/articleshow/133305137.cms",
+          "source": {
+            "name": "The Times of India"
+          },
+          "publishedAt": "2026-08-17T18:41:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-133305252,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "language": "en"
+        },
+        {
+          "title": "More Starlink satellites and two big launches for China",
+          "description": "Here’s what’s launching 8/17-8/23: SpaceX plows ahead with three Starlink launches; China opens and closes the week with a reusable booster test flight and a robotic moonshot.",
+          "url": "https://www.astronomy.com/whats-launching-this-week/more-starlink-satellites-and-two-big-launches-for-china/",
+          "source": {
+            "name": "Astronomy Magazine"
+          },
+          "publishedAt": "2026-08-17T18:40:36Z",
+          "image": "https://www.astronomy.com/wp-content/uploads/2026/08/52776431125_1cada68733_k.jpg?resize=1200,630",
+          "language": "en"
+        },
+        {
+          "title": "Nyoro: Kenya can use oil, minerals to tackle Sh13tr debt",
+          "description": "Nyoro singled out Turkana’s oil reserves and mineral deposits in Kwale as key resources",
+          "url": "https://www.the-star.co.ke/news/2026-08-17-nyoro-kenya-can-use-oil-minerals-to-pay-debts",
+          "source": {
+            "name": "the-star.co.ke"
+          },
+          "publishedAt": "2026-08-17T18:40:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/08/c48e7c01-5406-4a34-8bda-7ce1c150988e.webp?1786992813759",
+          "language": "en"
+        },
+        {
+          "title": "Pauline Hanson changes position to back WA in GST carve",
+          "description": "Three years after calling out WA's \"huge benefit\" from the GST carve-up, the One Nation leader shifts her position.",
+          "url": "https://www.abc.net.au/news/2026-08-18/pauline-hanson-changes-position-on-wa-and-gst/107047490",
+          "source": {
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+          },
+          "publishedAt": "2026-08-17T18:39:56Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/7cef0d6b2f9c4f8703590283014c7ee0?impolicy=wcms_watermark_news&cropH=1998&cropW=3551&xPos=178&yPos=191&width=862&height=485&imformat=generic",
+          "language": "en"
+        },
+        {
+          "title": "Trump threatens to bomb Oman if it gets in way of Iran deal",
+          "description": "“If Oman gets in the way, we’ll bomb the shit out of them,” Trump told a Fox News journalist.",
+          "url": "https://www.thejournal.ie/trump-bomb-threat-oman-7133733-Aug2026/",
           "source": {
             "name": "The Journal"
           },
-          "publishedAt": "2026-08-17T15:44:00Z",
-          "image": "https://img2.thejournal.ie/article/7133414/river/?height=400&version=7133498",
+          "publishedAt": "2026-08-17T18:35:00Z",
+          "image": "https://img2.thejournal.ie/article/7133733/river/?height=400&version=7133748",
           "language": "en"
         },
         {
-          "title": "Palestinians celebrate Jerusalem Festival return after Gaza war hiatus",
-          "description": "Hundreds of Palestinians have returned to the Jerusalem Festival as the cultural celebration resumed after a three-year hiatus shaped by Israel's...",
-          "url": "https://www.dailysabah.com/world/mid-east/palestinians-celebrate-jerusalem-festival-return-after-gaza-war-hiatus",
+          "title": "Dave Rennie issues Cam Roigard update as All Blacks boss opens up on Rassie Erasmus snub",
+          "description": "All Blacks coach Dave Rennie reveals the extent of Cam Roigard's injury as he prepares to name his team for Rugby's Greatest Rivalry opener.",
+          "url": "https://www.planetrugby.com/news/dave-rennie-issues-cam-roigard-update-as-all-blacks-boss-opens-up-on-rassie-erasmus-snub",
           "source": {
-            "name": "Daily Sabah"
+            "name": "Planet Rugby"
           },
-          "publishedAt": "2026-08-17T15:43:00Z",
-          "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/08/17/thumbs/1200x675/456269.jpg",
-          "language": "en"
-        },
-        {
-          "title": "From Manchester to Westminster: What are Andy Burnham’s plans for infrastructure?",
-          "description": "While his headline policies have focused on putting money back into people’s pockets, they also reveal something more significant about Burnham’s attempt",
-          "url": "https://www.newcivilengineer.com/ice/lighthouse-from-manchester-to-westminster-what-are-andy-burnhams-plans-for-infrastructure-17-08-2026/",
-          "source": {
-            "name": "New Civil Engineer"
-          },
-          "publishedAt": "2026-08-17T15:42:45Z",
-          "image": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/07/Andy-Burnham--560x315.jpg",
-          "language": "en"
-        },
-        {
-          "title": "EXTRA: Ekiti monarch requests for chair used by Oyebanji at thanksgiving service",
-          "description": "The Babamuboni Memorial Anglican Church in Iyin-Ekiti has rejected the request of Adeniyi Adeola Ajakaiye, Oluyin of Iyin-Ekiti, demanding that the chair used by Biodun Oyebanji, governor of Ekiti, in the church be transferred to the palace.",
-          "url": "https://www.thecable.ng/extra-ekiti-monarch-requests-for-chair-used-by-oyebanji-at-thanksgiving-service/",
-          "source": {
-            "name": "TheCable"
-          },
-          "publishedAt": "2026-08-17T15:42:00Z",
-          "image": "https://www.thecable.ng/wp-content/uploads/2026/08/FB_IMG_1786980533877-2026-08-17-640.jpg",
-          "language": "en"
-        },
-        {
-          "title": "20 Most Underrated Actors Working Today",
-          "description": "The most underrated actors working in movies and TV currently, from Mission: Impossible's Shea Whigham to Mike Flanagan favourite Kate Siegel...",
-          "url": "https://whatculture.com/film/most-underrated-modern-actors-doug-jones-shea-whigham",
-          "source": {
-            "name": "WhatCulture.com"
-          },
-          "publishedAt": "2026-08-17T15:41:55Z",
-          "image": "https://d2thvodm3xyo6j.cloudfront.net/media/2026/08/fade84b9f07d421bba51816873df8eed-600x338.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Bruno Fernandes transfer news: Manchester United captain not for sale at any price despite Galatasaray interest",
-          "description": "Bruno Fernandes broke the Premier League record for most assists in a single season last season; Reports have claimed Turkish side Galatasaray are ready to bid for the 31-year-old, who has entered the final year of his contract",
-          "url": "https://www.skysports.com/football/news/11095/13574095/bruno-fernandes-transfer-news-manchester-united-captain-not-for-sale-at-any-price-despite-galatasaray-interest",
-          "source": {
-            "name": "Sky Sports"
-          },
-          "publishedAt": "2026-08-17T15:41:21Z",
-          "image": "https://e0.365dm.com/26/05/1600x900/skysports-bruno-fernandes-manchester-united_7257272.jpg?20260524172043",
-          "language": "en"
-        },
-        {
-          "title": "In pics: Gold medallists Kate O'Connor and Ellen Walshe arrive home",
-          "description": "The pair arrived back in Dublin earlier today.",
-          "url": "https://www.thejournal.ie/kate-oconnor-ellen-walshe-2-7133580-Aug2026/",
-          "source": {
-            "name": "The Journal"
-          },
-          "publishedAt": "2026-08-17T15:41:00Z",
-          "image": "https://img2.thejournal.ie/article/7133580/river/?height=400&version=7133547",
-          "language": "en"
-        },
-        {
-          "title": "China’s economy showing signs that slowdown may be extending",
-          "description": "Industrial output and retail sales slump in July after one of the country’s weakest quarterly growth rates ever",
-          "url": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
-          "source": {
-            "name": "The Guardian"
-          },
-          "publishedAt": "2026-08-17T15:41:00Z",
-          "image": "https://i.guim.co.uk/img/media/990f70c7faa98b9a8da40ae06ea211f6b29a631d/1113_0_5439_4352/master/5439.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=191b3ca1fb9ed6f031d5a2a67ca848e9",
+          "publishedAt": "2026-08-17T18:34:25Z",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/08/17172451/efrdsa.jpg",
           "language": "en"
         }
       ]
