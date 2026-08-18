@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-18T18:38:50.290Z",
+  "updatedAt": "2026-08-18T21:24:48.217Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【↓】日経平均 大引け｜ 6日ぶり急反落、半導体関連株に利益確定売り (8月18日)",
+          "description": "前日の米国市場では、ＮＹダウは前週末比２７２ドル安と続落した。中東情勢の不透明感から原油や金利の上昇が嫌気された。　東京市場では、半導体関連株などを中心に利益確定売り圧力が顕在化し、日経平均株価は６日ぶりに大幅反落となった・・・。",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202608181077",
+          "source": {
+            "name": "株探"
+          },
+          "publishedAt": "2026-08-18T09:10:14Z",
+          "image": "https://async.api.kabutan.jp/og_image?title=%E3%80%90%E2%86%93%E3%80%91%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%20%E5%A4%A7%E5%BC%95%E3%81%91%EF%BD%9C%206%E6%97%A5%E3%81%B6%E3%82%8A%E6%80%A5%E5%8F%8D%E8%90%BD%E3%80%81%E5%8D%8A%E5%B0%8E%E4%BD%93%E9%96%A2%E9%80%A3%E6%A0%AA%E3%81%AB%E5%88%A9%E7%9B%8A%E7%A2%BA%E5%AE%9A%E5%A3%B2%E3%82%8A%20%288%E6%9C%8818%E6%97%A5%29",
+          "language": "ja"
+        },
+        {
+          "title": "花巻東監督、横浜は「社会人と戦っているみたい」 夏の甲子園",
+          "description": "全国高校野球選手権大会は第13日の18日、阪神甲子園球場で準々決勝があり、花巻東（岩手)は横浜（神奈川）に0―6で敗れ、13年ぶりの準決勝進出はならなかった。 　試合後の花巻東・佐々木洋監督の主なコメントは以下の通り。",
+          "url": "https://mainichi.jp/articles/20260818/k00/00m/050/222000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-08-18T09:08:52Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/08/18/20260818k0000m050234000p/0c10.jpg?1",
+          "language": "ja"
+        },
+        {
+          "title": "クトゥルフ系サバイバルホラー『The Sinking City 2』配信開始！1920年代の水没都市で異形の神に立ち向かい愛する人を救え",
+          "description": "洪水が迫る街を舞台に恋人の魂と肉体を取り戻せ！",
+          "url": "https://www.gamespark.jp/article/2026/08/18/170861.html",
+          "source": {
+            "name": "gamespark.jp"
+          },
+          "publishedAt": "2026-08-18T09:07:33Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1176437.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "EBiDAN初のミリオン「Yes! 東京」、『EBiDAN THE LIVE』映像公開 超特急・タカシ「皆さまの計り知れない愛と絆があってこその結果」【コメント全文】",
+          "description": "ニュース｜　スターダストプロモーション所属俳優・タレントによる男性アーティスト集団・EBiDAN（恵比寿学園男子部）の15周年記念シングル「Yes! 東京」が、オリコン週間シングルランキングにて初登場1位、初週売上が今年度最高の105.3万枚を記録した。EBiDANとしての初のミリオンセラーを記念し、8月13日から16日まで東京・国立代々木競技場 第一体育館にて開催された『EBiDAN THE LIVE 2026 15th Anniversary』での「Yes! 東京」のライブ映像が公開された。　「Yes! 東京」は、これまで音楽番組での披露は数多くされていたが、ライブとしては待望の初披露。EBiDANの9グループによる圧巻のライブパフォーマンスとなる。",
+          "url": "https://www.oricon.co.jp/news/2474642/full/",
+          "source": {
+            "name": "oricon.co.jp"
+          },
+          "publishedAt": "2026-08-18T09:00:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2475000/2474642/20260816_135809_p_o_79715043.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ACLEリーグステージの組み合わせが決定！…Jリーグからは鹿島、柏、京都、神戸、G大阪が参戦",
+          "description": "アジアサッカー連盟（AFC）は18日、2026－27シーズンのAFCチャンピオンズリーグエリート（ACLE）の組み合わせ抽選会を実施した。 　アジア最強クラブ···",
+          "url": "https://www.soccer-king.jp/news/japan/acl/20260818/2194142.html",
+          "source": {
+            "name": "サッカーキング"
+          },
+          "publishedAt": "2026-08-18T08:51:15Z",
+          "image": "https://www.soccer-king.jp/wp-content/uploads/2026/08/260818_ACLE.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ロシア、イギリスに警告 ウクライナへのドローン供給で「テロ攻撃の共犯」",
+          "description": "ロシアは17日、イギリスを、「ウクライナ危機のエスカレーションを意図的に選択した」と非難した。イギリスで製造されたドローンがロシアに対する攻撃で使われたのが明らかになったのを受けたもの。",
+          "url": "https://www.bbc.com/japanese/articles/cm2g7x98v2ko",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-08-18T07:07:42Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
+          "language": "ja"
+        },
         {
           "title": "塩野義製薬、定年を実質廃止 65歳以降も無期限で更新",
           "description": "塩野義製薬は65歳以上も正社員として雇用する制度を導入する。2027年度に定年を65歳に延長した上で、成果に応じて毎年更新する。実質的に定年を廃止することで、優秀な人材の確保につなげる。日本企業ではYKKグループが定年制を廃止している。上場企業では契約社員として65歳以上も働ける制度を設けている企業があるが、正社員として雇用を続ける制度は珍しい。毎年の人事面談を経て更新塩野義本体の国内社員",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-08-18T05:27:27Z",
           "image": "https://wp.i-voce.jp/wp-content/uploads/2026/08/Bazaart_A1EBEB64-1CB2-4073-A6F9-A0AE8AAD1693-1200x630.jpeg",
           "language": "ja"
-        },
-        {
-          "title": "天下に点火！ 光を掴んだ瞬間の5人のコメントを全文掲載。KEY TO LIT、CDデビュー決定会見レポート",
-          "description": "先月彼らが初表紙を飾ったananは品切れ続出！その勢いで発売日当日に緊急の重版が決まるなど、改めてその人気を証明した5人組アイドルグループ・KEY TO LIT （キテレツ）が、今冬ユニバーサルミュージックより遂にCDデビュー決定！ 8月1…",
-          "url": "https://ananweb.jp/categories/entertainment/106534",
-          "source": {
-            "name": "ananweb.jp"
-          },
-          "publishedAt": "2026-08-18T04:00:54Z",
-          "image": "https://api.ananweb.jp/wp-content/uploads/2026/08/746a45bf854b02e3be67ec4e15c5949d.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "グーグル「Android 17」最新ベータ、のぞき見を防ぐアプリロック機能を追加",
-          "description": "グーグルは先週公開した「Android 17 QPR2 Beta 3」で、アプリロック機能を追加した。",
-          "url": "https://japan.cnet.com/article/35251638/",
-          "source": {
-            "name": "CNET Japan"
-          },
-          "publishedAt": "2026-08-18T03:15:00Z",
-          "image": "https://japan.cnet.com/storage/2026/08/18/c12647bf79d85808fb158fa7bb11bf24/Android-17-icon_1280x960.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "14万円のARグラス「ROG XREAL R1」を試す 最大240Hz表示の滑らかな大画面は魅力だが、8万円台のベース機とどちらを買うべきか：武者良太の我武者羅ガジェット道（1/4 ページ）",
-          "description": "ASUSとXREALのゲーミングARグラス「ROG XREAL R1」を徹底検証。240Hzの滑らかな大画面表示や専用ドックの利便性は大きな魅力ですが、約14万円の価値はあるのでしょうか。8万円台のベース機と比較しつつ解説します。 (1/4)",
-          "url": "https://www.itmedia.co.jp/pcuser/articles/2608/18/news070.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-08-18T03:00:00Z",
-          "image": "https://image.itmedia.co.jp/pcuser/articles/2608/18/cover_news070.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "トランプ氏、オマーンに脅し イランとの協議を「邪魔するなら爆撃」",
-          "description": "アメリカのトランプ大統領は17日、ホルムズ海峡をめぐる米政権とイランとの協議をオマーンが「邪魔する」なら、オマーンを爆撃すると脅した。米FOXニュースが報じた。オマーンはアメリカの同盟国。",
-          "url": "https://www.bbc.com/japanese/articles/cn0njgdlnk9o",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-08-18T02:42:41Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/0845/live/0d9a0730-9a52-11f1-aed2-8d6da8d75094.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "無慈悲ソウルライク『Mortal Shell 2』、さっそく「Steam同接約2万人」の大盛況。“スタミナ撤廃”で隙あらば猛攻、進化を遂げた高難易度アクション",
-          "description": "PlaystackはCold Symmetryが手がける『Mortal Shell II』を8月20日に発売予定だ。先行アクセスによって発売を前に、多くの人がプレイしているようだ。",
-          "url": "https://automaton-media.com/articles/newsjp/20260818-460604/",
-          "source": {
-            "name": "AUTOMATON"
-          },
-          "publishedAt": "2026-08-18T02:31:02Z",
-          "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260818-460604-header.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "省スペースでも映画館のような没入感を実現 4K超短焦点プロジェクター「AWOL Aetherion」シリーズの日本初クラウドファンディング、8月18日（火）スタート",
-          "description": "Elevation Technology Partners LLC.のプレスリリース（2026年8月18日 11時00分）省スペースでも映画館のような没入感を実現　4K超短焦点プロジェクター「AWOL Aetherion」シリーズの日本初クラウドファンディング、8月18日（火）スタート",
-          "url": "https://prtimes.jp/main/html/rd/p/000000024.000168708.html",
-          "source": {
-            "name": "prtimes.jp"
-          },
-          "publishedAt": "2026-08-18T02:00:02Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/168708/24/168708-24-cd012326c9d7961058d3a068da07f6a9-1600x900.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "UNDP and Republic of Korea Launch REVIVE II to Support Sudan’s Recovery from Crisis",
-          "description": "The United Nations Development Programme (UNDP) and the Government of the Republic of Korea have launched the Sudan component of Relief, Employment and Vital Infrastructure for the Vulnerable in Emergencies (REVIVE) Phase II, a 12-month early recovery initiative designed to help conflict-affected communities restore essential services, rebuild livelihoods and strengthen local recovery capacities. The programme",
-          "url": "https://news.fundsforngos.org/2026/08/18/undp-and-republic-of-korea-launch-revive-ii-to-support-sudans-recovery-from-crisis/",
+          "title": "PSX plunges over 2,500 points as regional uncertainty, oil prices rattle investors",
+          "description": "Market reverses early gains as fading peace hopes, rising oil prices unsettle investors",
+          "url": "https://tribune.com.pk/story/2624555/psx-tumbles-1806-points-amid-geopolitical-tensions",
           "source": {
-            "name": "fundsforNGOs News"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-08-18T06:37:49Z",
-          "image": "https://news.fundsforngos.org/wp-content/uploads/2024/10/cropped-icon-32x32.png",
+          "publishedAt": "2026-08-18T09:24:39Z",
+          "image": "https://i.tribune.com.pk/media/images/image-101740345119-0/image-101740345119-0-640x480.webp",
           "language": "en"
         },
         {
-          "title": "Government seeks to slash poultry feed costs in Sh3.5 trillion plan",
-          "description": "The government has unveiled an ambitious Sh3.5 trillion (about $1.3 billion) strategy to overhaul the poultry sector, targeting a reduction in feed costs.",
-          "url": "https://www.thecitizen.co.tz/tanzania/news/national/government-seeks-to-slash-poultry-feed-costs-in-sh3-5-trillion-plan-5561812",
+          "title": "MOFFA to prosecute persons who mishandle corpses",
+          "description": "The Mortuaries and Funeral Facilities Agency (MOFFA) says it is working to strengthen existing laws to ensure that persons who mishandle or abuse corpses are",
+          "url": "https://www.adomonline.com/moffa-to-prosecute-persons-who-mishandle-corpses/",
           "source": {
-            "name": "thecitizen.co.tz"
+            "name": "Adomonline.com"
           },
-          "publishedAt": "2026-08-18T06:36:16Z",
-          "image": "https://www.thecitizen.co.tz/resource/image/5561816/landscape_ratio3x2/1200/800/b0fa079574115eedeccaf721652b143f/qQ/poultry-pic.jpg",
+          "publishedAt": "2026-08-18T09:24:20Z",
+          "image": "https://www.adomonline.com/wp-content/uploads/2019/04/Corpse.jpg",
           "language": "en"
         },
         {
-          "title": "Transport Ministry greenlights RM60m bridge, giving Komuter passengers direct access to RTS station",
-          "description": "JOHOR BAHRU, Aug 18 — The government will build a bridge between the Bukit Chagar RTS Link Station and KTMB Komuter service to strengthen public transport integration and...",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/18/transport-ministry-greenlights-rm60m-bridge-giving-komuter-passengers-direct-access-to-rts-station/231780",
-          "source": {
-            "name": "malaymail.com"
-          },
-          "publishedAt": "2026-08-18T06:36:16Z",
-          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/18/357641.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Deploy new approach to flood management - UG Pro VC",
-          "description": "The Pro-Vice-Chancellor of the University of Ghana, Professor Samuel Nii Ardey Codjoe, has called for a well-integrated risk management approach to address Ghana's perennial flooding problem",
-          "url": "https://www.graphic.com.gh/news/general-news/ghana-news-deploy-new-approach-to-flood-management-ug-pro-vc.html",
-          "source": {
-            "name": "Graphic Online"
-          },
-          "publishedAt": "2026-08-18T06:36:14Z",
-          "image": "https://www.graphic.com.gh/images/2026/Aug/18/IMG_4985.jpeg",
-          "language": "en"
-        },
-        {
-          "title": "‘Complainant C’ returns for cross-examination as former 2GB broadcaster’s alleged indecent assault, sexual touching trial continues",
-          "description": "Text messages between ‘C’ and the then radio host have been aired in court as Jones’ barrister cross-examines the complainant.",
-          "url": "https://www.smh.com.au/national/nsw/alan-jones-trial-live-updates-complainant-c-returns-for-further-cross-examination-as-alleged-indecent-assault-sexual-touching-trial-continues-20260818-p60p7y.html",
-          "source": {
-            "name": "SMH.com.au"
-          },
-          "publishedAt": "2026-08-18T06:35:13Z",
-          "image": "https://static.ffx.io/images/$zoom_0.4483%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/71dafdb842fe955826562fdbb5a5bf1c96ceef50",
-          "language": "en"
-        },
-        {
-          "title": "School absences due to illness at highest level in three years",
-          "description": "Official data shows the past couple of weeks have been the worst in three years for school absences due to illness and medical reasons.",
-          "url": "https://www.rnz.co.nz/news/health/1052406/school-absences-due-to-illness-at-highest-level-in-three-years",
-          "source": {
-            "name": "RNZ"
-          },
-          "publishedAt": "2026-08-18T06:34:53Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--ANhy9T60--/t_tohu-badge-facebook/f_auto/q_auto/4NGCNA5_copyright_image_186234",
-          "language": "en"
-        },
-        {
-          "title": "UK pay growth slows as Iran war prompts cost of living squeeze",
-          "description": "Unemployment rate remained at 4.9% in the three months to end of June, ONS figures show",
-          "url": "https://www.theguardian.com/business/2026/aug/18/uk-pay-growth-ons-iran-war-cost-of-living-unemployment-rate",
-          "source": {
-            "name": "The Guardian"
-          },
-          "publishedAt": "2026-08-18T06:34:00Z",
-          "image": "https://i.guim.co.uk/img/media/e8b1cb9443719877deb9097070c24d021f9b6819/967_0_6142_4912/master/6142.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c536c839368aa67fb240f79f4c1bdb33",
-          "language": "en"
-        },
-        {
-          "title": "One in three Aus boys believe gender equality has 'gone too far'",
-          "description": "Young people, including girls, were significantly more likely than older generations to hold hostile attitudes to women, according to the study.",
-          "url": "https://www.1news.co.nz/2026/08/18/one-in-three-aus-boys-believe-gender-equality-has-gone-too-far/",
-          "source": {
-            "name": "1News"
-          },
-          "publishedAt": "2026-08-18T06:33:57Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/close-up-of-a-line-of-high-school-students-using-mobile-phon-6U4MMMUXBZFKLKVXESMHN6MU7A.jpg?auth=3d00dfda00f2fb27ed86867554bbb39c4c6c71fa0ea04c160dd31b013cef3811&quality=70&width=600&height=315&focal=338%2C267",
-          "language": "en"
-        },
-        {
-          "title": "Cincinnati Open: Serena and Venus Williams beaten on doubles return",
-          "description": "Serena and Venus Williams lose a thriller at the Cincinnati Open in their first doubles match together for four years.",
-          "url": "https://www.bbc.com/sport/tennis/articles/c4g6m08nnn8o",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-08-18T06:33:17Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/be38/live/b932e360-9ac9-11f1-a74b-2f66a3b83590.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Manchester United issue hands-off warning over Bruno Fernandes as Galatasaray and Italian giants circle",
-          "description": "Manchester United will reject all offers for Bruno Fernandes as Galatasaray and Juventus weigh up bids for the Portuguese midfielder.",
-          "url": "https://www.goal.com/en-ug/lists/manchester-united-bruno-fernandes-galatasaray-italian/blt7e54d824e26d9d29",
+          "title": "Fiery draw in the AFC Champions League Two: Al-Taawoun of Saudi Arabia face Al-Rayyan and Al-Faisaly",
+          "description": "The group-stage draw for the 2025 AFC Champions League 2, which was held on Tuesday morning in the Malaysian capital Kuala Lumpur, produced all-Arab clashes, placing Saudi Arabia's Al-Taawoun in Group 3 alongside Qatar's Al-Rayyan, Jordan's Al-Faisaly and Oman's Al-Nahda.",
+          "url": "https://www.goal.com/en-in/news/fiery-draw-in-afc-champions-league-2-saudi-arabia-s-al-taawoun-face-al-rayyan-and-al-faisaly/bltbfafdfb19d019ca5",
           "source": {
             "name": "Goal.com"
           },
-          "publishedAt": "2026-08-18T06:33:06Z",
-          "image": "https://assets.goal.com/images/v3/blt31917797eee324a9/GettyImages-2277984161.jpg",
+          "publishedAt": "2026-08-18T09:23:39Z",
+          "image": "https://assets.goal.com/images/v3/getty-2133949184/crop/MM5DIOBZHA5DENZVGU5G433XMU5DENJVHIYA====/GettyImages-2133949184.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Laura Cardoso, legend of Brazilian soap operas, dies aged 98",
+          "description": "Her death was confirmed by relatives via the actress's official Instagram. On TV she shone in telenovelas including \"Chocolate com Pimenta\", \"Caminho das Índias\" and \"Gabriela\".View on euronews",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/laura-cardoso-legend-brazilian-soap-092328519.html",
+          "source": {
+            "name": "Yahoo"
+          },
+          "publishedAt": "2026-08-18T09:23:28Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/80a6ce79b794d021ef87b53338988975a6d6fb24e1228ef903d92c7f4e49564b/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Ff38f6e9a732c19a8525100b657d48fa6.jpg",
+          "language": "en"
+        },
+        {
+          "title": "VIKAND clinical data reinforces Gard findings on highest",
+          "description": "Cardiovascular disease may account for a relatively small proportion of onboard medical consultations, but serious cases can have a disproportionate clinical and operational impact, according to VIKAND, whose commercial shipping data reinforces findings from the recently published",
+          "url": "https://www.shipmanagementinternational.com/news/ek2ym4kdatehn6j-rymr5-ra77l-pfczw-k4ry3-98k7t-pm4a8-ywlnh-yta9y",
+          "source": {
+            "name": "shipmanagementinternational.com"
+          },
+          "publishedAt": "2026-08-18T09:22:44Z",
+          "image": "http://static1.squarespace.com/static/677d25916da11d07add7c910/677e42da317bf233c28d75a0/6a842464d93e370bde9999ac/1787046194243/VIKAND.jpg?format=1500w",
+          "language": "en"
+        },
+        {
+          "title": "Apple Accidentally Confirms Camera-Equipped AirPods Are Coming",
+          "description": "A video found in the latest macOS 26.7 reveals how Visual Intelligence features would work with Apple's camera-equipped AirPods.",
+          "url": "https://www.pcmag.com/news/apple-accidentally-confirms-camera-equipped-airpods-are-coming",
+          "source": {
+            "name": "PCMag"
+          },
+          "publishedAt": "2026-08-18T09:22:18Z",
+          "image": "https://i.pcmag.com/imagery/articles/01BmUo0riSQaWYWxOkNKZPk-1.fit_lim.size_1200x630.v1787037687.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Cabinet rescinds contested internship policy as Parliament pushes for pay hike",
+          "description": "All interns in the current cohort will receive Shs1,268,929 per month subject to tax, leaving them with a net pay of approximately Shs1 million",
+          "url": "https://www.monitor.co.ug/uganda/news/national/cabinet-rescinds-contested-internship-policy-as-parliament-pushes-for-pay-hike-5561906",
+          "source": {
+            "name": "Daily Monitor"
+          },
+          "publishedAt": "2026-08-18T09:21:56Z",
+          "image": "https://www.monitor.co.ug/resource/blob/5561908/5ab547050e9dc98ad013b6b2b30fc4ea/latest07pix-data.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
+          "description": "Supreme Court grants jailed ex-PM Imran Khan transfer to hospital for a month after concerns raised over blood pressure.",
+          "url": "https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle",
+          "source": {
+            "name": "Al Jazeera"
+          },
+          "publishedAt": "2026-08-18T09:20:35Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a8415427ebe-1787041090.jpg?resize=1920%2C1440",
+          "language": "en"
+        },
+        {
+          "title": "From homes to public transport, schools and hotels: The bedbug menace",
+          "description": "Bedbug infestations are causing growing concern across Kenya, with incidents reported on public transport, in homes, schools, offices and hotels, exposing gaps in hygiene and pest-control measures.",
+          "url": "https://www.standardmedia.co.ke/coast/article/2001555598/from-homes-to-public-transport-schools-and-hotels-the-bedbug-menace",
+          "source": {
+            "name": "standardmedia.co.ke"
+          },
+          "publishedAt": "2026-08-18T09:20:27Z",
+          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/zz8klOp2ysRsOx72KEYVYvGx6tkKo2vmK3MWhckR.jpg",
+          "language": "en"
+        },
+        {
+          "title": "CCTV off, phone wiped clean: Police probe if Bengaluru child was killed for witnessing dad's murder",
+          "description": "BENGALURU: The double murder case in Chikkabanavara has taken a shocking turn, with police arresting 26-year-old Harini, who allegedly killed her husb.",
+          "url": "https://timesofindia.indiatimes.com/city/bengaluru/cctv-off-phone-wiped-clean-police-probe-if-bengaluru-child-was-killed-for-witnessing-dads-murder/articleshow/133317346.cms",
+          "source": {
+            "name": "The Times of India"
+          },
+          "publishedAt": "2026-08-18T09:19:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-133317365,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         }
       ]
