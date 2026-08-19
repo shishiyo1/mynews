@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-19T09:34:44.023Z",
+  "updatedAt": "2026-08-19T12:48:16.933Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "トランプ米政権、国際刑事裁判所の幹部を制裁対象に 赤根所長も",
+          "description": "ルビオ米国務長官は18日、国際刑事裁判所（ICC）の赤根智子所長ら幹部を制裁対象にすると発表した。トランプ政権はこれまでも、120カ国以上の加盟国によって戦争犯罪の捜査権限を与えられているICCを「解体」しようと、ICC判事や主任検察官を含む同裁判所の幹部を次々と制裁対象にしてきた。",
+          "url": "https://www.bbc.com/japanese/articles/cn9nrlwv4yno",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-08-19T00:25:43Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/cd44/live/c84cee60-9b2b-11f1-9a2c-6d6ac3827d20.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "米メディア「イラン戦争で行き詰まるトランプ大統領、同盟国に腹いせ…韓国が犠牲に」（中央日報日本語版）",
+          "description": "米アクシオスは18日（現地時間）、トランプ米大統領が韓国がイラン戦争に参加していないことを理由に韓米合同軍事演習の縮小など安全保障を脅かす措置を取っていることについて「長期化するイラン戦争から抜け出",
+          "url": "https://news.yahoo.co.jp/articles/ff3d556f8410c23ff3e8d554c5e640dd89b1664f",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-19T00:08:32Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260819-00000022-cnippou-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "（朝）米国市場は3指数揃って下落 中東情勢の先行き不透明感が続き、売りが続く展開",
+          "description": "【米国株式市場】ニューヨーク市場NYダウ：　53,343.40　▼116.38　（8/18）NASDAQ：　26,289.71　▼355.20　（8/18）1.概況米国市場は主要3指数揃って3日続落となりました。米国とイランとの協議が行われていないことが明らかとなり、中東情勢の先行き不透明感が続いて...",
+          "url": "https://media.monex.co.jp/articles/-/29976",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-08-18T23:13:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "トゥルーダイヤモンド振動板の“衝撃的サウンド”、final超弩級ヘッドフォン「DX10000 CL」を聴く",
+          "description": "finalは、日本のイヤフォン・ヘッドフォンメーカーの中でも独自の存在感を放つブランドだ。会社規模に対して大きな研究開発部門を有し、独自の技術から数々のユニークな製品を生み出してきた。今回レビューする「DX10000 CL」は、そうしたfinalらしい独自のオーラを強く放つ、新フラッグシップとなる密閉型ヘッドフォンである。価格は1,180,000円。2026年秋頃の発売を予定している。",
+          "url": "https://av.watch.impress.co.jp/docs/review/review/2132289.html",
+          "source": {
+            "name": "AV Watch"
+          },
+          "publishedAt": "2026-08-18T23:00:00Z",
+          "image": "https://av.watch.impress.co.jp/img/avw/list/2132/289/3.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "バルセロナがW杯MVPロドリ獲得を正式発表!! 移籍金141億円、30年までの4年契約に",
+          "description": "バルセロナがマンチェスター・シティのスペイン代表MFロドリの獲得を正式発表した。契約は30年6月までの4年契約となる　1996年6月22日生まれの30歳は、アトレティコ・マドリーやビジャレアルの下部組織で育ち、...",
+          "url": "https://web.gekisaka.jp/news/world/detail/?457058-457058-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-08-18T22:21:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/458000/457058/news_457058_1.jpg?time=20260819072150",
+          "language": "ja"
+        },
+        {
+          "title": "バルセロナがロドリ加入を正式発表！ W杯MVPがラ・リーガ帰還…移籍金は最大140億円か",
+          "description": "バルセロナは18日、マンチェスター・シティからスペイン代表MFロドリが完全移籍加入することを発表した。 　契約期間は2030年6月30日までの4年間。移籍市場···",
+          "url": "https://www.soccer-king.jp/news/world/eng/20260819/2193993.html",
+          "source": {
+            "name": "soccer-king.jp"
+          },
+          "publishedAt": "2026-08-18T21:39:30Z",
+          "image": "https://www.soccer-king.jp/wp-content/uploads/2026/08/GettyImages-2291030855.jpg",
+          "language": "ja"
+        },
         {
           "title": "《何のために議員になった？》福岡県議会「議長辞職案」まさかの採決中止…“身内議員”の緊急動議に「県民の裁きを受けろ」と炎上（週刊女性PRIME）",
           "description": "金銭授受疑惑など一連の問題を受けて、吉松源昭県議が蔵内勇夫議長の議長職に対する「辞職勧告決議案」を福岡県議会に提出した。辞職勧告決議案は8月17日の臨時会にて採決される予定だったが、土壇場で採決が",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-08-18T21:00:00Z",
           "image": "https://contents.oricon.co.jp/upimg/news/2475000/2474546/20260818_210540_o_65726233.jpg",
           "language": "ja"
-        },
-        {
-          "title": "「OPS1.263」という異常値 “鬼相性”のクアーズで大谷翔平に上昇気配 2被弾の菅野は「最後まで有効な手立てを見いだせなかった」",
-          "description": "ドジャースが大量点を上げ連敗を止めた。現地時間8月17日に行われた敵地でのロッキーズ戦に11-5のスコアで大勝。計14安打を記録し、カード初戦を制した。\n　\n　ドジャース打線は試合序盤からロッキー",
-          "url": "https://news.yahoo.co.jp/articles/635baf2f455bfd3472e92a6f1b154e672c2ebacc",
-          "source": {
-            "name": "news.yahoo.co.jp"
-          },
-          "publishedAt": "2026-08-18T20:40:10Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260819-00010001-cocokara-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "石原さとみ、怪盗役で連ドラ主演！「アンナチュラル」脚本・野木亜紀子と8年ぶりタッグ｜シネマトゥデイ",
-          "description": "フジテレビ10月期ドラマ（毎週水曜・22時～22時54分）で、石原さとみ主演の「ポリティカルパン」を放送されることが明らかになった。",
-          "url": "https://www.cinematoday.jp/news/N0156396",
-          "source": {
-            "name": "シネマトゥデイ"
-          },
-          "publishedAt": "2026-08-18T20:00:00Z",
-          "image": "https://img.cinematoday.jp/a/_SJKqyYIwZVt/_size_r1200x630/_v_1787054616/main.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "外国人採用急停止「よくやった」の声も 高市印「厳格化」の行方",
-          "description": "「SSW　FOOD　SERVICE　WORKERS　WANTED！（特定技能外食人材募集！）」 　「特定技能（外食）急募！転職希望者歓迎」 　SNS上の外国人労働者向けの求人広告には最近、こんな文言が並ぶ。「東京新橋」「名古屋」「大阪」――。立地の良さや、住宅の提供、キャリアアップのサポートなど手",
-          "url": "https://mainichi.jp/articles/20260817/k00/00m/040/075000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-08-18T20:00:00Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/08/17/20260817k0000m040076000p/0c10.jpg?1",
-          "language": "ja"
-        },
-        {
-          "title": "小惑星が地球に衝突して死ぬ確率 vs 交通事故などで死ぬ確率、意外な結果に",
-          "description": "2025年8月14日の記事を編集して再掲載しています。どっちで死ぬのがマシなんだろう？交通事故、一酸化炭素中毒、落雷など、さまざまな事故で死亡する可能性と小惑星が地球に衝突して死亡する可能性について、その確率を計算した新たな研究が発表されま",
-          "url": "https://www.gizmodo.jp/article/very-important-study-calculates-your-chance-of-being-killed-by-an-asteroid-vs-several-other-scary-things-hac/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-08-18T15:00:00Z",
-          "image": "https://media.loom-app.com/gizmodo/dist/images/2025/08/08/apophis-illustration-in-space.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "AWOL Visionの床置き超短焦点プロジェクター「Aetherion Max」と「Aetherion Pro」のクラウドファンディングが本日スタート。4K大画面を手に入れる、これは格好のチャンスだ！",
-          "description": "AWOL Vision（エーウォル ビジョン）では、本日（8月18日）から応援購入サービスのMakuakeで、Aetherion（イーサリオン）シリーズの床置き超短焦点プロジェクターの先行予約販売を開始した。ラインナップは「Aetherion Max」と「Aetherion Pro」の2モデル。\n左が弟モデルの「Aetherion Pro」、右が上位モデルの「Aetherion Max」\nAWOL Visionは2020年にアメリカで誕生した。“Bring Wonder Home.” というコンセプトを掲げ、RGBレーザープロジェクターを中心とする映像機器の開発・製造を手掛けている。超短焦点タイプの「Aetherion」（イーサリオン）と、通常の投写型モデル「Valerion」（ヴァレリオン）のというふたつのブランドを展開しており、StereoSound ONLINEでも、以前Val...",
-          "url": "https://online.stereosound.co.jp/_ct/17859070",
-          "source": {
-            "name": "stereosound online"
-          },
-          "publishedAt": "2026-08-18T13:32:21Z",
-          "image": "https://d1uzk9o9cg136f.cloudfront.net/f/16783364/rc/2026/08/18/6a393f80cb69faf5fba478669b8b659dc2de2141_xlarge.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "健大高崎監督、決勝点の代走は「大会前に靱帯を…」 夏の甲子園",
-          "description": "全国高校野球選手権大会は第13日の18日、阪神甲子園球場で準々決勝があり、健大高崎（群馬）が有明（熊本）に延長十回タイブレークの末に1―0でサヨナラ勝ちし、6回目の出場で初めて準決勝に進んだ。選抜大会は2024年に制したが、全国選手権は14年の8強がこれまでの最高だった。",
-          "url": "https://mainichi.jp/articles/20260818/k00/00m/050/351000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-08-18T12:50:29Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/08/18/20260818mpj00m050124000p/0c10.jpg?1",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Syria opens Assad-era nuclear programme to UN probe",
-          "description": "UN watchdog reports that it found large amounts of material at undisclosed sites in Syria.",
-          "url": "https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe",
-          "source": {
-            "name": "Al Jazeera"
-          },
-          "publishedAt": "2026-08-18T21:33:17Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a84c724d696-1787086628.jpg?resize=1920%2C1440",
-          "language": "en"
-        },
-        {
-          "title": "Prince Albert police confirm missing teenager found deceased",
-          "description": "The Prince Albert Police Service has now officially confirmed the person found deceased last week on the city'...",
-          "url": "https://panow.com/2026/08/18/prince-albert-police-confirm-missing-teenager-found-deceased/",
-          "source": {
-            "name": "paNOW"
-          },
-          "publishedAt": "2026-08-18T21:33:08Z",
-          "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/1479/files/2026/08/a9f98086-39f8-47ed-afe9-b8329af17e66.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Dad charged in alleged Penn State cocaine ring is managing attorney in Pittsburgh",
-          "description": "Paul Robinson, the father charged in the alleged cocaine trafficking ring at Penn State, is a managing attorney at a law firm in Pittsburgh.",
-          "url": "https://www.cbsnews.com/pittsburgh/news/penn-state-drug-fraternity-paul-robinson/",
-          "source": {
-            "name": "CBS News"
-          },
-          "publishedAt": "2026-08-18T21:33:00Z",
-          "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/18/2064511a-eec7-4285-8ddc-f5d35106fcfd/thumbnail/1200x630/25194502bdbf45ca38cf19d8555a1a6c/kdka-paul-robinson.png",
-          "language": "en"
-        },
-        {
-          "title": "Peta releases Hayden Panettiere dolphin campaign filmed weeks before death",
-          "description": "The one-minute video was released by People for the Ethical Treatment of Animals on Tuesday.",
-          "url": "https://www.breakingnews.ie/world/peta-releases-hayden-panettiere-dolphin-campaign-filmed-weeks-before-death-1941494.html",
-          "source": {
-            "name": "BreakingNews.ie"
-          },
-          "publishedAt": "2026-08-18T21:31:49Z",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDhcXFwvMTgyMjMxMTZcXFwvMi4xOTc0NTE0NC0yLmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiYTJhOWE4YmVlMDdiNzIwMzc5ZGZiYWQ2NTc2NTdlMGM0MGQ1ZDgxMSJ9/peta-releases-hayden-panettiere-dolphin-campaign-filmed-weeks-before-death.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Hayden Panettiere mother: Lesley Vogel breaks silence, slams daughter’s boyfriend Brian Hickerson",
-          "description": "Hayden Panettiere’s estranged mother, Lesley Vogel, has spoken publicly for the first time since the star’s death this week, aged 36, paying tribute to her daughter while slamming her on-again, off-again partner, Brian Hickerson.",
-          "url": "https://www.nine.com.au/entertainment/celebrity/hayden-panettiere-mother-lesley-vogel-breaks-silence-slams-brian-hickerson-20260819-p60pj8.html",
-          "source": {
-            "name": "Nine.com.au"
-          },
-          "publishedAt": "2026-08-18T21:31:14Z",
-          "image": "https://static.ffx.io/images/$zoom_0.5744%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_62%2C$y_125/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/01536ded72b9a8e9074c73de16d922f68e4f48da5083c339f9d2ac9cae9871b6",
-          "language": "en"
-        },
-        {
-          "title": "OpenAI pauses some AI training after autonomous cyberattack",
-          "description": "The move aimed to ensure the technology's safety, the company said.",
-          "url": "https://abcnews.com/Business/openai-pauses-ai-training-after-autonomous-cyberattack/story?id=135751448",
-          "source": {
-            "name": "ABC News - Breaking News, Latest News and Videos"
-          },
-          "publishedAt": "2026-08-18T21:31:13Z",
-          "image": "https://i.abcnewsfe.com/a/11dd20c4-b446-447b-b5e9-6c85b47982b2/openai-1-rt-er-260727_1785164788786_hpMain_16x9.jpg?w=1600",
-          "language": "en"
-        },
-        {
-          "title": "'Everyone in for Christmas'",
-          "description": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
-          "url": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno",
+          "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+          "description": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
+          "url": "https://www.bbc.com/news/articles/c62vy3wl31lo",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-08-18T21:31:11Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/70bd/live/9fb7ae20-9b50-11f1-83d8-cfa02e83b41a.jpg",
+          "publishedAt": "2026-08-19T00:48:16Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/894e/live/a5cacf90-9b5a-11f1-93f8-bdd21a7c3268.jpg",
           "language": "en"
         },
         {
-          "title": "Burnham launches ‘national drive’ to get rough sleepers off streets by Christmas",
-          "description": "Prime minister urges local leaders to act as homelessness campaigners welcome move but say more needs to be done",
-          "url": "https://www.theguardian.com/society/2026/aug/18/burnham-national-drive-rough-sleepers-christmas",
+          "title": "Tupac Shakur trial: lawyers share full account of killing as witnesses still refuse to testify",
+          "description": "Murder trial of Duane ‘Keffe D’ Davis, 63, former South Side Compton Crips gang leader, opens in Las Vegas",
+          "url": "https://www.theguardian.com/music/2026/aug/18/tupac-shakur-trial-day-one",
           "source": {
             "name": "The Guardian"
           },
-          "publishedAt": "2026-08-18T21:30:00Z",
-          "image": "https://i.guim.co.uk/img/media/d888efd72e09e940b6f42910402b901e7730cf18/692_0_6355_5084/master/6355.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63f31ddad37d763f3fab26632885bc35",
+          "publishedAt": "2026-08-19T00:48:00Z",
+          "image": "https://i.guim.co.uk/img/media/8c5756cccca137662899c01ad740634873fd2e84/47_0_1665_1332/master/1665.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7655b768088e788f543e4af7b488771f",
           "language": "en"
         },
         {
-          "title": "Meet Bataspis crux, Jawless Fish that Cruised Devonian Seas with Batwing Head",
-          "description": "Paleontologists in China have identified a new species of armored, jawless fish from rocks around 419 million years old whose skull was shaped like the wing of a bat and whose unusual head made it an efficient glider through Devonian seas.",
-          "url": "https://www.sci.news/paleontology/bataspis-crux-15002.html",
+          "title": "Sophie Adenot Makes History as First French Woman to Spacewalk",
+          "description": "French astronaut Sophie Adenot has made history as the first French woman to conduct a spacewalk outside the International Space Station (ISS).",
+          "url": "https://www.tvcnews.tv/sophie-adenot-makes-history-as-first-french-woman-to-spacewalk/",
           "source": {
-            "name": "Sci.News"
+            "name": "TVC News"
           },
-          "publishedAt": "2026-08-18T21:28:44Z",
-          "image": "https://cdn.sci.news/images/2026/08/image_15002f-Bataspis-crux.jpg",
+          "publishedAt": "2026-08-19T00:47:00Z",
+          "image": "https://tvcnews.tv/wp-content/uploads/2026/08/Sophie-Adenot.jpg",
           "language": "en"
         },
         {
-          "title": "Three members of same family die after getting into difficulty in water in Shoreham",
-          "description": "Sussex Police say a man, a woman and a teenage girl died after being pulled from the water, with a girl also taken to hospital in a critical condition.",
-          "url": "https://www.bbc.com/news/live/cqp9el2ml339t",
+          "title": "Syed Saddiq, Bella Astillah to wed on Oct 10 in all-white ceremony at Menara Merdeka Maybank (VIDEO)",
+          "description": "KUALA LUMPUR, Aug 19 — Muar MP Syed Saddiq Syed Abdul Rahman and his fiancée, singer-actress Bella Astillah, have reportedly announced that they will marry on October 10 at...",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/syed-saddiq-bella-astillah-to-wed-on-oct-10-in-all-white-ceremony-at-menara-merdeka-maybank-video/231836",
           "source": {
-            "name": "BBC"
+            "name": "Malay Mail"
           },
-          "publishedAt": "2026-08-18T21:27:47Z",
-          "image": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
+          "publishedAt": "2026-08-19T00:46:56Z",
+          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/19/357711.jpg",
+          "language": "en"
+        },
+        {
+          "title": "European giants announce transfer of Mamelodi Sundowns winger - 'He likes to attack space with and without the ball'",
+          "description": "After returning from the World Cup with Bafana Bafana, the 22-year-old made it clear he saw his future away from Chloorkop. After several failed bids from various clubs around Europe, FC Copenhagen finally reached The Brazilians evaluation of the player and a deal was done.",
+          "url": "https://www.goal.com/en-za/news/european-giants-announce-transfer-of-mamelodi-sundowns-winger-he-likes-to-attack-space-with-and-without-the-ball/blt7e8c6fee7f569bbf",
+          "source": {
+            "name": "Goal.com"
+          },
+          "publishedAt": "2026-08-19T00:45:40Z",
+          "image": "https://assets.goal.com/images/v3/blt7fda3c2ca0154a43/maseko%20copenhagen%2016.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Kim Kardashian and Lewis Hamilton share most intimate look at their relationship yet",
+          "description": "Kim Kardashian appears to be going strong with her new beau Lewis Hamilton as the pair embark on another family holiday. First linked earlier this year, Kardashian and Hamilton haven’t been shy about sharing their worldwide escapades on social media. But this latest update might be our most intimate look behind the curtain yet.",
+          "url": "https://www.nine.com.au/entertainment/celebrity/kim-kardashian-and-lewis-hamilton-share-most-intimate-look-at-their-relationship-yet-20260819-p60plc.html",
+          "source": {
+            "name": "Nine.com.au"
+          },
+          "publishedAt": "2026-08-19T00:45:14Z",
+          "image": "https://static.ffx.io/images/$zoom_0.834%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_214%2C$y_191/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/743c369ae91c4f9dfeb1305b7865b780de88c5cb2adaaea579d52768f595d375",
+          "language": "en"
+        },
+        {
+          "title": "After 40 years leading iconic Aussie restaurants, Neil Perry isn't slowing down",
+          "description": "Acclaimed Australian chef and restaurateur Neil Perry is cooking mud crab on the banks of the Mossman River, hand-picked by Indigenous fishermen who head into the waters at Cooya Beach in tropical far north Queensland …",
+          "url": "https://www.realcommercial.com.au/news/after-40-years-leading-iconic-aussie-restaurants-neil-perry-isnt-slowing-down",
+          "source": {
+            "name": "realcommercial.com.au"
+          },
+          "publishedAt": "2026-08-19T00:44:49Z",
+          "image": "https://www.realcommercial.com.au/news/wp-content/uploads/2026/08/NeilPerry1-768x512.jpeg",
+          "language": "en"
+        },
+        {
+          "title": "‘Was ashamed of periods’: Anupama Parameswaran no longer wants kids after ex-boyfriend made her feel ashamed",
+          "description": "Actor Anupama Parameswaran spoke about her ex-boyfriend and the ‘narcissistic abuse’ she faced in two years of their relationship.",
+          "url": "https://www.hindustantimes.com/entertainment/tamil-cinema/anupama-parameswaran-no-longer-wants-11-kids-after-ex-boyfriend-made-her-feel-ashamed-of-periods-and-being-a-woman-101787052704101.html",
+          "source": {
+            "name": "Hindustan Times"
+          },
+          "publishedAt": "2026-08-19T00:38:29Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/08/18/1600x900/logo/Anupama_Parameswaran_2_1787053183875_1787053203155_0d1aa6fe-41e2-47f9-b1e5-fc7e5f0ecb6c.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Sydney Swans stand down five players for rest of AFL season after alleged incident",
+          "description": "AFL team the Sydney Swans have stood down five players for the remainder of the season after reports of an alleged incident in Melbourne. Players Riley Bice,...",
+          "url": "https://www.nzherald.co.nz/sport/sydney-swans-stand-down-five-players-for-rest-of-afl-season-after-alleged-incident/T4TS2D47TJFGXH5KTFMPR6BGDU/",
+          "source": {
+            "name": "NZ Herald"
+          },
+          "publishedAt": "2026-08-19T00:37:34Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/A6OXG4BU45DPXORCJ26M5CROPU.jpg?auth=08d7f751528f65916daa79812b0ee43c8d2f9b98eec017b4b20832706b27d210&width=1200&height=675&quality=70&focal=562%2C210&smart=false",
+          "language": "en"
+        },
+        {
+          "title": "David Krumholtz Says He's Retiring from Acting in Shock Social Post",
+          "description": "Veteran actor David Krumholtz seems ready to throw in the towel on his Hollywood career after amassing more than 140 credits across his career.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/david-krumholtz-retiring-acting-threads-post-hollywood-over-1236676672/",
+          "source": {
+            "name": "The Hollywood Reporter"
+          },
+          "publishedAt": "2026-08-19T00:36:45Z",
+          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2237942286.jpg?crop=0px%2C171px%2C5000px%2C2798px&resize=1440%2C810",
           "language": "en"
         }
       ]
