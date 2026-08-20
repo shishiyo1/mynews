@@ -1,6 +1,6 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-20T01:16:51.425Z",
+  "updatedAt": "2026-08-20T03:47:04.560Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
@@ -25,6 +25,17 @@
           },
           "publishedAt": "2026-08-19T12:30:00Z",
           "image": "https://media.loom-app.com/loom/2026/08/19/6fc4b641-056e-47b5-b4d6-623b1edd7dc6/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "四千頭身・後藤拓実＆石橋遼大「僕らも驚いている状況」 都築拓紀が書類送検で謹慎処分",
+          "description": "ニュース｜　お笑いトリオ・四千頭身の後藤拓実（29）と石橋遼大（29）が、19日放送のFM FUJIのラジオ番組『四千ミルク』（毎週水曜　後9：00）に生出演。メンバーの都築拓紀（29）が、スカートの上から女性の下半身を触ったとして、東京都迷惑防止条例違反などの疑いで書類送検されたことについて言及。「僕らも驚いている状況」と明かした。　書類送検の報道後、初の放送となった。石橋が「まずは相方、都築に関しましてお騒がせしておりまして申し訳ございません」と謝罪。当面の間、2人で活動するとし「これからも応援していただければ幸いでございます。この度はお騒がせしてしまい申し訳ありませんでした」と伝え、後藤も「申し訳ございませんでした」と謝った。",
+          "url": "https://www.oricon.co.jp/news/2474966/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-08-19T12:17:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2475000/2474966/20260819_192033_p_o_28691988.jpg",
           "language": "ja"
         },
         {
@@ -103,128 +114,117 @@
           "publishedAt": "2026-08-19T09:00:01Z",
           "image": "https://prcdn.freetls.fastly.net/release_image/30865/1598/30865-1598-3c41633d8eeccf81c3b71fb4f9dbbb60-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
           "language": "ja"
-        },
-        {
-          "title": "略称は「ゴリラ」 中道の元議員ら16人が政治団体「護憲リベラル共生」を結成 「力強く地に足つけ平和守る」 政党化は「状況を見ながら」",
-          "description": "2月の衆議院総選挙に中道改革連合から出馬して落選した元衆院議員らが19日、国会内で政治団体「護憲リベラル共生」の結成を発表した。略称は、護憲の「ゴ」と、リベラルの「リ」「ラ」を取った「ゴリラ」で、「力強く地に足をつけて平和を守る、という意思を込めている」という。 中道所属の川内博史氏が代表に、中道を離党した阿部知子氏が共同代表に、平岡秀夫氏が幹事長に就任した。3氏はいずれも元衆院議員で、先の衆院選で落選した。「設立宣言」で阿部氏は、世界が「第2次世界大戦後最大の恐怖と欠乏の危機に瀕している」と…",
-          "url": "https://www.fnn.jp/articles/-/1097211",
-          "source": {
-            "name": "FNNプライムオンライン"
-          },
-          "publishedAt": "2026-08-19T09:00:00Z",
-          "image": "https://fnn.ismcdn.jp/mwimgs/2/c/600/img_2c791b2c8d03b12b2d92222ef74ff78a270909.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "PSX sinks 1,109 points as oil, Hormuz risks hit sentiment",
-          "description": "KSE-100 comes under late-session selling pressure as fuel price concerns grow with government’s refinery talks",
-          "url": "https://tribune.com.pk/story/2624770/psx-sinks-1109-points-as-oil-hormuz-risks-hit-sentiment",
+          "title": "Report: Tyler Biadasz out indefinitely with ACL damage, more injuries to left knee",
+          "description": "There is more information on Chargers center Tyler Biadasz, who suffered a knee injury during Tuesday’s joint practice with the 49ers.",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-tyler-biadasz-out-indefinitely-with-acl-damage-more-injuries-to-left-knee",
+          "source": {
+            "name": "NBC Sports"
+          },
+          "publishedAt": "2026-08-19T15:46:09Z",
+          "image": "https://nbcsports.brightspotcdn.com/dims4/default/74311f8/2147483647/strip/true/crop/7088x3987+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff5%2F6c%2F5e42d26d43e8b57df5ad451b1b09%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D29254852",
+          "language": "en"
+        },
+        {
+          "title": "Indian scientists develop 'smart' cancer drug that targets tumour cells while sparing healthy cells",
+          "description": "Scientists in India have developed a new “smart” cancer drug designed to activate primarily inside cancer cells, potentially offering a more targeted alternative to conventional chemotherapy that can also damage healthy cells. The drug, named RK-251, has been developed through collaborative research led by Dr. Asis Bala of the Institute of Advanced Study in Science […]",
+          "url": "https://ddindia.co.in/2026/08/indian-scientists-develop-smart-cancer-drug-that-targets-tumour-cells-while-sparing-healthy-cells/",
+          "source": {
+            "name": "DD India"
+          },
+          "publishedAt": "2026-08-19T15:45:28Z",
+          "image": "https://ddindia.co.in/wp-content/uploads/2026/08/smart-cancer-drug.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Lab-grown human brain cells ‘recorded passage of time’",
+          "description": "PARIS - Peppercorn-sized clumps of human brain cells grown in a laboratory for a record seven years aged similarly to those inside our heads, suggesting they “recorded the passage of time”, scientists said on Wednesday.",
+          "url": "https://www.bangkokpost.com/world/3304509/labgrown-human-brain-cells-recorded-passage-of-time",
+          "source": {
+            "name": "Bangkok Post"
+          },
+          "publishedAt": "2026-08-19T15:45:00Z",
+          "image": "https://static.bangkokpost.com/media/content/20260819/c1_6194844_700.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Sammy Gyamfi says GoldBod raised over US$450m without Bank of Ghana funding",
+          "description": "GoldBod says it has raised more than US$450 million from commercial banks and gold offtakers since March 2026 to finance gold purchases without Bank of Ghana funding.",
+          "url": "https://www.graphic.com.gh/news/general-news/goldbod-raises-more-than-us-450-million-from-banks-and-offtakers-since-march.html",
+          "source": {
+            "name": "Graphic Online"
+          },
+          "publishedAt": "2026-08-19T15:43:16Z",
+          "image": "https://www.graphic.com.gh/images/gyamfi25.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Graiguenamanagh Set for 22nd Year of Town of Books Festival",
+          "description": "The festival is taking place from Saturday 22 August until Monday 24 August",
+          "url": "https://www.carlow-nationalist.ie/whatson/graiguenamanagh-set-for-22nd-year-of-town-of-books-festival_arid-108821.html",
+          "source": {
+            "name": "carlow-nationalist.ie"
+          },
+          "publishedAt": "2026-08-19T15:43:00Z",
+          "image": "https://www.carlow-nationalist.ie/cms_media/module_img/7729/3864982_1_articledetail_Town_of_Books_2026_A2_corri_sign.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Sadia Imam recalls navigating a male-dominated industry early in her career",
+          "description": "Actor says she kept strict boundaries with colleagues after feeling some male co-stars took advantage of her innocence",
+          "url": "https://tribune.com.pk/story/2624741/sadia-imam-recalls-navigating-a-male-dominated-industry-early-in-her-career",
           "source": {
             "name": "The Express Tribune"
           },
-          "publishedAt": "2026-08-19T13:16:25Z",
-          "image": "https://i.tribune.com.pk/media/images/psx-21746053192-0/psx-21746053192-0-640x480.webp",
+          "publishedAt": "2026-08-19T15:42:55Z",
+          "image": "https://i.tribune.com.pk/media/images/sadia-imam1787136368-0/sadia-imam1787136368-0-640x480.webp",
           "language": "en"
         },
         {
-          "title": "HK actor Nick Cheung and Taiwanese star Ethan Juan spotted filming intense scene at KL Railway Station for new movie",
-          "description": "Cheung was seen wearing a white suit covered in blood stains during the shoot.",
-          "url": "https://www.thestar.com.my/lifestyle/entertainment/2026/08/19/hk-actor-nick-cheung-and-taiwanese-star-ethan-juan-spotted-filming-intense-scene-at-kl-railway-station-for-new-movie",
+          "title": "Human organoids that mimic brain development grown for years in lab",
+          "description": "Models of how the brain changes over time could help researchers to understand how diseases affect the organ later in life.",
+          "url": "https://www.nature.com/articles/d41586-026-02585-3?error=cookies_not_supported&code=c307ea08-5093-4f4a-8f6d-4478dbb6960c",
           "source": {
-            "name": "The Star"
+            "name": "Nature"
           },
-          "publishedAt": "2026-08-19T13:15:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/19/4067416.jpg",
+          "publishedAt": "2026-08-19T15:41:27Z",
+          "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02585-3/d41586-026-02585-3_53134000.jpg",
           "language": "en"
         },
         {
-          "title": "Death notice for second teenager killed in M9 crash posted to RIP.ie",
-          "description": "The parents of Alex McCarthy were said to be ‘heartbroken’ by his death",
-          "url": "https://www.irishtimes.com/ireland/2026/08/19/death-notice-for-second-teenager-killed-in-m9-crash-posted-to-ripie/",
+          "title": "Baseline clinical features outperform structural MRI in predicting rapid cognitive and motor decline in Parkinson’s disease",
+          "description": "Cognitive and motor impairments are common in Parkinson’s disease (PD), but rapid decline trajectories remain difficult to predict at the individual level. Identifying reliable early-stage prognostic markers could define disease-modification windows and improve trial enrichment. Classification models were developed to predict rapid decline, defined as a decrease of ≥5 points on the Montreal Cognitive Assessment (MoCA) and an increase of ≥10 points on the MDS-UPDRS3 from baseline to any timepoint 3–5 years post-baseline. Models were trained using longitudinal MRI-derived regional atrophy rates and baseline clinical features. Model performance was evaluated using AUROC and complementary classification metrics; calibration, performance ceilings, and clinical utility were further assessed using calibration curves and decision curve analysis (DCA). Feature analysis was performed to identify clinically informative predictors. Structural MRI (e.g., annualized atrophy rate) demonstrated limited prognostic utility for individual-level prediction; this remained true with finer-grained atlases. In contrast, baseline clinical features yielded substantially stronger discrimination for both outcomes. Notably, cognitive prediction remained robust after removal of baseline MoCA, whereas motor prediction was strongly dependent on baseline UPDRS3. External validation preserved high NPVs (cognitive: 0.908 [0.872–0.940]; motor: 0.863 [0.818–0.901]). Incorporating first-year trajectory slopes improved AUROC by approximately 5%, supporting a single follow-up visit as a practical refinement timepoint. Performance gains rapidly plateaued after inclusion of a small number of high-value features, indicating an early performance ceiling. Decision curve analysis suggested potential net benefit across selected threshold probabilities, but prospective evaluation in broader and more heterogeneous populations is required before clinical implementation.",
+          "url": "https://www.nature.com/articles/s41531-026-01530-5?error=cookies_not_supported&code=4e2c05ea-352b-49a9-8017-79b38e239968",
           "source": {
-            "name": "The Irish Times"
+            "name": "Nature"
           },
-          "publishedAt": "2026-08-19T13:14:07Z",
-          "image": "https://www.irishtimes.com/resizer/v2/MABNAPJJWVCRPP634IG7EYKYNM.jpg?smart=true&auth=a77893a2f51e813d5028db65285420e305343d896a3de88bd6960e7304c2c386&width=1200&height=630",
+          "publishedAt": "2026-08-19T15:41:26Z",
+          "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
           "language": "en"
         },
         {
-          "title": "Govt Addresses \"Postponing\" School Reopening for 3rd Term",
-          "description": "State Department for Basic Education confirms Term 3 will open on August 24, 2026, urging public to ignore false claims circulating on social media.",
-          "url": "https://www.tuko.co.ke/education/636835-govt-addresses-postponing-school-reopening-3rd-term-by-1-week/",
+          "title": "10 countries with the largest Ghanaian diaspora populations",
+          "description": "Discover the top 10 countries hosting the largest Ghanaian diaspora populations, led by the US, Nigeria, and the UK, based on UN migration data. Read more.",
+          "url": "https://www.pulse.com.gh/story/10-countries-largest-ghanaian-diaspora-populations-2026081915363221439",
           "source": {
-            "name": "Tuko News"
+            "name": "Pulse Ghana"
           },
-          "publishedAt": "2026-08-19T13:12:51Z",
-          "image": "https://cdn.tuko.co.ke/images/1200x675/ef4ec60934803d2a.jpeg?v=1",
+          "publishedAt": "2026-08-19T15:41:11Z",
+          "image": "https://sportal365images.com/process/smp-images-production/pulse.com.gh/19082026/95b6e751-f289-4822-bf72-ca223d71fb86.jpg?operations=crop(0:193:1278:912),autocrop(1200:630)",
           "language": "en"
         },
         {
-          "title": "Kenya Power introduces performance contracts for 6,000 workers: What this means for employees",
-          "description": "Kenya Power unveils performance management contracts for 6,000 union employees, revolutionising accountability and service delivery after two decades of talks.",
-          "url": "https://www.tuko.co.ke/business-economy/economy/636836-kenya-power-introduces-performance-contracts-6000-workers-what-means-employees/",
+          "title": "Kennedy Center tells court it won't try to restore Trump's name to the building before Sept. 8",
+          "description": "In a status report filed late Tuesday, opponents of the move said members of the Kennedy Center's Trump-aligned board “seem intent” on defying an earlier court order requiring the president's name to be removed from the building.",
+          "url": "https://www.pbs.org/newshour/politics/kennedy-center-tells-court-it-wont-try-to-restore-trumps-name-to-the-building-before-sept-8",
           "source": {
-            "name": "Tuko News"
+            "name": "PBS"
           },
-          "publishedAt": "2026-08-19T13:12:10Z",
-          "image": "https://cdn.tuko.co.ke/images/1200x675/d196f447b870f205.jpeg?v=1",
-          "language": "en"
-        },
-        {
-          "title": "Blindfolded speed dating coming to Cork city",
-          "description": "In case you've ever wondered what Netflix's 'Love is Blind' is like",
-          "url": "https://www.corkbeo.ie/news/local-news/blindfolded-speed-dating-coming-cork-34483805",
-          "source": {
-            "name": "Cork Beo"
-          },
-          "publishedAt": "2026-08-19T13:11:11Z",
-          "image": "https://i2-prod.corkbeo.ie/article34484074.ece/ALTERNATES/s1200d/0_GettyImages-123466936.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Court Rejects Satyendar Jain's Plea Challenging Arrest, Sends Him To Judicial Custody In Delhi Jal Board Corruption Case",
-          "description": "A Delhi Court on Wednesday remanded Aam Aadmi Party leader Satyendar Jain to judicial custody in the corruption case related to the alleged irregularities in the Delhi Jal Board.Special PC judge Dig...",
-          "url": "https://www.livelaw.in/news-updates/satyendar-jain-arrest-legal-delhi-jal-board-corruption-judicial-custody-546519",
-          "source": {
-            "name": "Live Law"
-          },
-          "publishedAt": "2026-08-19T13:10:59Z",
-          "image": "https://www.livelaw.in/h-upload/2022/06/18/422438-satyender-jain.jpeg",
-          "language": "en"
-        },
-        {
-          "title": "Indonesia's Arash Buana joins Centimillimental on dreamy collab",
-          "description": "Japanese singer-songwriter Centimillimental has joined forces with Indonesian singer-songwriter Arash Buana for 'madoromi', an intimate ballad born...",
-          "url": "https://www.bandwagon.asia/articles/indonesia-s-arash-buana-joins-centimillimental-on-dreamy-collab-madoromi-watch",
-          "source": {
-            "name": "bandwagon.asia"
-          },
-          "publishedAt": "2026-08-19T13:10:00Z",
-          "image": "https://cdn.filestackcontent.com/crop=d:%5B0%2C154%2C2000%2C1000%5D/resize=w:1920/pjpg=q:90/compress/qSAmgGLXTYibzMAiQWzr",
-          "language": "en"
-        },
-        {
-          "title": "Delhi court sends AAP's Satyendar Jain to judicial custody, refuses to declare his arrest illegal",
-          "description": "Jain was arrested on August 18 by Delhi's Anti-Corruption Branch.",
-          "url": "https://www.barandbench.com/news/delhi-court-sends-aaps-satyendar-jain-to-judicial-custody-refuses-to-declare-his-arrest-illegal",
-          "source": {
-            "name": "Bar and Bench"
-          },
-          "publishedAt": "2026-08-19T13:09:45Z",
-          "image": "https://cf-images.assettype.com/barandbench%2F2022-05%2F16c5e6ff-0cf0-4681-936b-a84194a07453%2F05.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-          "language": "en"
-        },
-        {
-          "title": "'I will join Congress only if...': Ex-BJP leader Shehzad Poonawalla sets condition for opposition",
-          "description": "He said political parties do not pay their spokespersons and claimed that discussions around his resignation or moving into the private sector had been underway since 2024.",
-          "url": "https://www.moneycontrol.com/news/india/i-will-join-congress-only-if-ex-bjp-leader-shehzad-poonawalla-sets-condition-for-opposition-14010561.html",
-          "source": {
-            "name": "Moneycontrol.com"
-          },
-          "publishedAt": "2026-08-19T13:09:02Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2023/06/Shehzad-Poonawalla-ANI.png",
+          "publishedAt": "2026-08-19T15:40:04Z",
+          "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-13T190234Z_1741553113_RC2VXMAD4F32_RTRMADP_3_USA-TRUMP-KENNEDY-CENTER-1024x616.jpg",
           "language": "en"
         }
       ]
