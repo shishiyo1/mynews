@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-20T09:35:05.316Z",
+  "updatedAt": "2026-08-20T12:51:05.757Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "iPhone 18 Pro用ケースがApple発表前に店頭に並ぶ、互換性への疑問は残る",
+          "description": "アップルが未発表のiPhone 18 Proに対応するとされるケースが、米国のベストバイ店頭に早くも登場している。OtterBoxのパッケージには「iPhone 17…",
+          "url": "https://finance.biggo.jp/news/17286ad0-f1d9-41bb-9be7-cacd6dd7bd59",
+          "source": {
+            "name": "BigGo ファイナンス"
+          },
+          "publishedAt": "2026-08-20T00:26:00Z",
+          "image": "https://img.biggo.com/NeckWy62UacG1Jb4ijdZFzCu82990_DpRrihkVe0H4o/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzE3Mjg2YWQwLWYxZDktNDFiYi05YmU3LWNhY2Q2ZGQ3YmQ1OV8xNzg3MTg1ODAzX2RlZmF1bHQuanBn.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "今年のiPhoneはチップが本命かも。A20 Proは性能18％、効率30％向上の噂",
+          "description": "いいじゃんいいじゃん、良い進化じゃん！来月にも発表かな？ と予想されている次期iPhone、iPhone 18 Proや初の折り畳み、iPhone Ultra。どんなiPhoneになるの？ ってのはこちらのページで噂をまとめていますが、さら",
+          "url": "https://www.gizmodo.jp/article/rumor-about-apple-a20-pro-chip-performance/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-08-20T00:15:00Z",
+          "image": "https://media.loom-app.com/loom/2026/08/19/272d588b-346c-4e29-8841-b43418777756/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "【ABCマート限定】その一歩を、もっと自由に。 ランニング×タウンユースの機能性とデザイン性を両立した「NIKE WINFLO 12」から限定カラーが登場",
+          "description": "株式会社エービーシー・マートのプレスリリース（2026年8月20日 09時00分）【ABCマート限定】その一歩を、もっと自由に。　ランニング×タウンユースの機能性とデザイン性を両立した「NIKE WINFLO 12」から限定カラーが登場",
+          "url": "https://prtimes.jp/main/html/rd/p/000000909.000074055.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-08-20T00:00:02Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/74055/909/74055-909-79314bbfc780fba9852360eb7e700221-960x400.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "朝ドラ「風、薫る」多江（生田絵梨花）が直美（上坂樹里）らに思わぬ報告をする 第105回あらすじ",
+          "description": "見上愛と上坂樹里がダブル主演を務める連続テレビ小説「風、薫る」（NHK総合・月～土、午前8時～ほか）は、21日に第21週「定めと選択」第105回が放送。戦争の影が忍び寄る中で看護を続ける直美（上坂",
+          "url": "https://news.yahoo.co.jp/articles/9b27c594efdaa8b872d29a80f08bf6e650465ab4",
+          "source": {
+            "name": "news.yahoo.co.jp"
+          },
+          "publishedAt": "2026-08-19T23:26:49Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260820-00000004-flix-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "２０日の東京株式市場見通し＝反発後はもみ合いか 速報",
+          "description": "予想レンジ：６万５５００円－６万６２００円（１９日終値６万５３２６円４２銭）　２０日の東京株式は、反発後はもみ合いか。米株高を受けて買い先行が見込まれる。きのう１９日に大幅続落した反動もあり買い戻す・・・",
+          "url": "https://kabushiki.jp/news/764995",
+          "source": {
+            "name": "kabushiki.jp"
+          },
+          "publishedAt": "2026-08-19T22:47:00Z",
+          "image": "https://kabushiki.jp/ogp.png",
+          "language": "ja"
+        },
+        {
+          "title": "米長期債利回り急低下、財務省が買い入れオペ倍増 9月9日から",
+          "description": "米財務省は１９日、期間が長めの名目利付債を対象とした流動性支援の買い入れオペの規模を、１回当たり２０億ドルから少なくとも４０億ドルに倍増すると発表した。これを受け、３０年債利回りは１９年ぶりの高水準付近から急低下した。世界の投資家を不安にさせていた数週間にわたる利回り上昇に​少なくとも一時的に歯止めがかかった格好。",
+          "url": "https://jp.reuters.com/economy/54EMVKSYZFNGPGTNT6A6ONGG7E-2026-08-19/",
+          "source": {
+            "name": "ロイター"
+          },
+          "publishedAt": "2026-08-19T22:00:13Z",
+          "image": "https://www.reuters.com/resizer/v2/GHCVEMBBDRKNLGTSCDC6PGWZ6U.jpg?auth=2db257fe4c7521564a11263369dedd02a3a22406bb1b5ae29232026a0aac590c&height=1005&width=1920&quality=80&smart=true",
+          "language": "ja"
+        },
         {
           "title": "後続車を踏切内にとどまらせ…殺人未遂か、JAF職員の男逮捕 容疑者の母親取材に応じる「あおり運転され車から出たって言ってた」",
           "description": "埼玉県さいたま市の踏切内に後続の車をとどまらせて、運転していた男性を殺害しようとしたとして52歳の男が逮捕されました。捜査関係者によりますと、男は車のロードサービスなどを行うJAFの職員だということです。",
@@ -28,6 +94,17 @@
           "language": "ja"
         },
         {
+          "title": "【コメ】“仮渡し金”4割減に「あまりにも安すぎる」 生産者から“廃業”危惧する声も「経営成り立たなくなる」新潟",
+          "description": "新潟県弥彦村で8月19日、県内の農家などが集まり会議が開かれました。仮渡し金の大幅減額に農家からは「あまりにも安すぎる」との声が聞かれました。農家の思いを取材しました。",
+          "url": "https://news.yahoo.co.jp/articles/9928c74772878782e45127b30857b76e335075e9",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-19T20:15:01Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260820-90032127-nsttv-000-1-thumb.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
           "title": "トランプ氏、北朝鮮「核爆弾を57発保有」 金正恩氏と年内会談に意欲",
           "description": "【ワシントン=甲原潤之介】トランプ米大統領は19日、北朝鮮が「57発の非常に強力な核爆弾を持っている」と発言した。そのうえで米朝首脳会談の年内開催に意欲を示した。北朝鮮はこれまで核保有国だと認めるよう要求してきた。核保有を認め、会談の実現につなげる思惑が透ける。「イランには核持たせない」強調ホワイトハウスで記者団の取材に答えた。北朝鮮の金正恩（キム・ジョンウン）総書記と年内に会談するつもりか",
           "url": "https://www.nikkei.com/article/DGXZQOGN19BDH0Z10C26A8000000/",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-08-19T20:10:44Z",
           "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3477735019082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.69&fp-y=0.44&h=630&w=1200&s=9933f29254571e9c8ed4c749ad12c6f7",
           "language": "ja"
-        },
-        {
-          "title": "上白石萌音、5年ぶりにTBS系火ドラ主演 『いろはの恋は時代（とき）をかける』で一人二役に挑む 共演にSnow Man・向井康二【コメント全文】",
-          "description": "俳優・上白石萌音が、10月スタートのTBS系火曜ドラマ『いろはの恋は時代（とき）をかける』（毎週火曜　後10：00）の主演を務めることが、20日に発表された。約5年ぶりに同局火曜ドラマで主演を務め",
-          "url": "https://news.yahoo.co.jp/articles/1d469ae3b564adcd2085efc0ff53e3cb2af28588",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-19T20:09:33Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260820-00000337-oric-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "上白石萌音、約5年ぶりTBS火曜ドラマ主演で一人二役に Snow Man 向井康二が初の教師役",
-          "description": "上白石萌音が主演を務め、Snow Manの向井康二が共演する連続ドラマ『いろはの恋は時代をかける』が、10月期のTBS火曜ドラマ枠で放送されることが決定した。　本作は、令和の小学校教師の身体に江戸娘の魂がタイムスリップしたことから始まる、300年の時を超えたロマンティックコメディ。　『オー！マ…",
-          "url": "https://realsound.jp/movie/2026/08/post-2496486.html",
-          "source": {
-            "name": "Real Sound｜リアルサウンド"
-          },
-          "publishedAt": "2026-08-19T20:00:28Z",
-          "image": "https://realsound.jp/wp-content/uploads/2026/08/20260819-iroha-01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "上白石萌音がTBS火曜ドラマで一人二役 Snow Man・向井康二と初共演のロマコメ10月期放送",
-          "description": "TBS10月期の火曜ドラマ枠（毎週火曜よる10時～）で、上白石萌音主演、Snow Man の向井康二共演による「いろはの恋は時代（とき）をかける」が放送されることが明らかになった。",
-          "url": "https://www.cinematoday.jp/news/N0156409",
-          "source": {
-            "name": "シネマトゥデイ"
-          },
-          "publishedAt": "2026-08-19T20:00:00Z",
-          "image": "https://img.cinematoday.jp/a/J8VWJG_-D6Qr/_size_r1200x630/_v_1787135532/main.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「コール オブ デューティ モダン・ウォーフェア4」ベータ版、長年の再起動問題とランチャー不満の解消を目指す",
-          "description": "アクティビジョンは「コール オブ デューティ モダン・ウォーフェア4」のベータ版で、長年プレイヤーから不満が寄せられてきた強制的なゲーム再起動と統合ランチ…",
-          "url": "https://finance.biggo.jp/news/ba6474d3-9e86-4f85-b8e6-a3016ff83f37",
-          "source": {
-            "name": "BigGo ファイナンス"
-          },
-          "publishedAt": "2026-08-19T19:02:00Z",
-          "image": "https://finance.biggo.jp/favicon.ico",
-          "language": "ja"
-        },
-        {
-          "title": "Pixel Watch 5はバッテリが2日以上も持つ！速度20%アップ、GPS精度は倍に",
-          "description": "Google製スマートウォッチの最新モデル「Pixel Watch 5」が、8月20日に発売された。同じGoogleの「Pixel」シリーズのスマホユーザーだけでなく、Androidスマホユーザーの多くが高い関心を持つPixel Watchだが、Pixel Watch 5ではどのような点が変わったのか、気になる人も多いことだろう。",
-          "url": "https://pc.watch.impress.co.jp/docs/column/hothot/2134040.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-08-19T16:00:00Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2134/040/P1572038.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ゾーンの脆い均衡がついに崩れる。『S.T.A.L.K.E.R. 2: Cost of Hope』先行プレイレポ―デューティとフリーダム、抗争の果ての決断",
-          "description": "板挟みと選択こそ『S.T.A.L.K.E.R. 2』の醍醐味",
-          "url": "https://www.gamespark.jp/article/2026/08/19/170927.html",
-          "source": {
-            "name": "Game*Spark"
-          },
-          "publishedAt": "2026-08-19T13:00:03Z",
-          "image": "https://www.gamespark.jp/imgs/ogp_f/1173861.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "iPhone 18 Proシリーズの「可変絞り式カメラ」、Maxだけになるかも…",
-          "description": "まーたサイズでカメラが変わる…のか？今秋登場が期待されているiPhone 18 Proシリーズ、すでにいろいろな方向からその仕様についての噂が聞こえていますが（噂まとめはこちらをどうぞ）、カメラに関する噂で新説登場。以前、iPhone 18",
-          "url": "https://www.gizmodo.jp/article/iphone-18-pro-camera-upgrade-only-max/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-08-19T12:30:00Z",
-          "image": "https://media.loom-app.com/loom/2026/08/19/6fc4b641-056e-47b5-b4d6-623b1edd7dc6/original.jpg?w=1200&h=630",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Azzi Fudd Undergoes Surgery, Latest News on Wings Star's Injury Status Amid Knee Issue",
-          "description": "The Dallas Wings announced Wednesday that rookie guard Azzi Fudd will have season-ending surgery on her right knee.",
-          "url": "https://bleacherreport.com/articles/25475535-azzi-fudd-undergoes-surgery-latest-news-wings-stars-injury-status-amid-knee-issue",
+          "title": "World Badminton Championship: Satwik",
+          "description": "Follow Bhaskar English for World Badminton Championship 2026 latest updates on Indian shuttlers. PV Sindhu will be in action today in the women’s singles at the World Badminton Championship. She will face China’s Wang Zhi Yi in the Round of 16.",
+          "url": "https://www.bhaskarenglish.in/sports/news/world-badminton-championship-satwik-chirag-sindhu-pre-quarterfinals-138779287.html",
           "source": {
-            "name": "Bleacher Report"
+            "name": "Bhaskar English"
           },
-          "publishedAt": "2026-08-19T21:33:45Z",
-          "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-08/2288971750_large_cropped.jpg?w=1119&h=630",
+          "publishedAt": "2026-08-20T00:49:22Z",
+          "image": "https://images.bhaskarassets.com/thumb/730x0/web2images/1884/2026/08/20/dbgifmagic-1_1787186703.gif",
           "language": "en"
         },
         {
-          "title": "Sandra Bullock Opens Up About ALS Death of Partner Bryan Randall",
-          "description": "Sandra Bullock made rare remarks about the ALS death of her partner Bryan Randall during an appearance on the \"Smartless\" podcast.",
-          "url": "https://variety.com/2026/film/health/sandra-bullock-als-death-partner-bryan-randall-1236838639/",
+          "title": "Ex-CIA informant faces deportation after providing information on al-Qaeda",
+          "description": "Blerim Skoro has maintained that US authorities promised him safety in return for his information, though he was deported upon his release in 2007 despite being married to an American.",
+          "url": "https://www.jpost.com/international/article-906052",
           "source": {
-            "name": "Variety"
+            "name": "The Jerusalem Post"
           },
-          "publishedAt": "2026-08-19T21:33:00Z",
-          "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-968036162.jpg?w=1000&h=563&crop=1",
+          "publishedAt": "2026-08-20T00:49:04Z",
+          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/700236",
           "language": "en"
         },
         {
-          "title": "'$10b US facility not a loan'",
-          "description": "'$10b US facility not a loan'",
-          "url": "https://tribune.com.pk/story/2624819/10b-us-facility-not-a-loan",
+          "title": "Manav Suthar scripts history, equals 93-year-old record after stunning Sri Lanka Test show",
+          "description": "Cricket News: Manav Suthar scripted a remarkable piece of Indian Test history on Wednesday (August 19), becoming the first spinner and only the second Indian cricke.",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/manav-suthar-scripts-history-equals-93-year-old-record-after-stunning-sri-lanka-test-show/articleshow/133361364.cms",
           "source": {
-            "name": "The Express Tribune"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-08-19T21:32:11Z",
-          "image": "https://i.tribune.com.pk/media/images/pakistan-usa-flags1787174627-0/pakistan-usa-flags1787174627-0-640x480.webp",
+          "publishedAt": "2026-08-20T00:47:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-133361373,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "KU holds seminar on ‘The Gulf Crisis, Makkah Declaration and Beyond’",
-          "description": "KARACHI  -  Department of International Relations of the University of Karachi organized a seminar titled “The Gulf Crisis, Makkah Declaration and",
-          "url": "https://www.nation.com.pk/20-Aug-2026/ku-holds-seminar-gulf-crisis-makkah-declaration-beyond",
+          "title": "We Think We Found ‘Human Printer’ Natalie Harp’s Printer Setup. It’s Bulky",
+          "description": "A fairly bulky printer, and a totally unnecessary backup battery. Why?",
+          "url": "https://gizmodo.com/we-think-we-found-human-printer-natalie-harps-printer-setup-its-bulky-2000800705",
           "source": {
-            "name": "nation.com.pk"
+            "name": "Gizmodo"
           },
-          "publishedAt": "2026-08-19T21:32:00Z",
-          "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+          "publishedAt": "2026-08-20T00:45:25Z",
+          "image": "https://gizmodo.com/app/uploads/2026/08/natalie-harp-printing-1-1200x675.jpg",
           "language": "en"
         },
         {
-          "title": "Penny Wong condemns ‘insulting’ decision to clear IDF over Gaza strikes that killed Australian aid worker Zomi Frankcom",
-          "description": "Foreign minister says Australia is ‘outraged’ after Israeli government decided not to pursue criminal proceedings over 2024 triple drone strike on humanitarian convoy",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/20/australia-idf-reaction-gaza-strike-zomi-frankcom-penny-wong-statement-ntwnfb",
+          "title": "Oil Rises To Three Week High As UAE Halts All Economic Ties With Iran",
+          "description": "Also, more ships are transiting the Hormuz than the Islamic republic cares to admit.",
+          "url": "https://shipandbunker.com/news/world/239168-oil-rises-to-three-week-high-as-uae-halts-all-economic-ties-with-iran",
           "source": {
-            "name": "The Guardian"
+            "name": "Ship & Bunker"
           },
-          "publishedAt": "2026-08-19T21:31:00Z",
-          "image": "https://i.guim.co.uk/img/media/fbf424c515f9b213f9cd8f694dcab6846293659a/100_78_2598_2078/master/2598.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6043eb30488ee6c7025ed90b89267d5d",
+          "publishedAt": "2026-08-20T00:44:16Z",
+          "image": "https://shipandbunker.cdn.speedyrails.net/a/img/_mt_d6afe34881134d19842789dd7a5fe7d4.jpg",
           "language": "en"
         },
         {
-          "title": "Joao Pedro takes Chelsea No.9 shirt from Liam Delap as multiple squad changes are confirmed",
-          "description": "Chelsea have confirmed their squad numbers for the 2026/27 season, with Joao Pedro taking the No.9 shirt from Liam Delap. Discover the latest updates on Wesley Fofana and Morgan Rogers.",
-          "url": "https://www.goal.com/en-gh/lists/joao-pedro-takes-chelsea-no-9-shirt-from-liam-delap-as-multiple-squad-changes-are-confirmed/bltda6e8ea9dbce220e",
-          "source": {
-            "name": "Goal.com"
-          },
-          "publishedAt": "2026-08-19T21:29:31Z",
-          "image": "https://assets.goal.com/images/v3/blt6aada2996b3d6970/crop/MM5DGMZQGY5DCOBWGA5G433XMU5DAORRHEYQ====/GettyImages-2274509629.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Ollie Robinson branded 'exceptional' as he and Josh Tongue cut match ball in two after taking five-fers vs Pakistan",
-          "description": "Ollie Robinson and Josh Tongue asked the Headingley grounds staff to cut the match ball in two, after both players took five-fers on opening day of Englands first Test vs Pakistan; watch day two live on Sky Sports Cricket from 10.15am on Thursday",
-          "url": "https://www.skysports.com/cricket/news/12123/13574855/ollie-robinson-branded-exceptional-as-he-and-josh-tongue-cut-match-ball-in-two-after-taking-five-fers-vs-pakistan",
+          "title": "Celtic 3-0 LASK: Camilo Duran nets stunning double as Hoops edge towards Champions League return",
+          "description": "Report as Celtic beat LASK 3-0 in the first leg of their Champions League play-off; Benjamin Nygren opened the scoring and Camilo Duran netted a double; the visitors had two goals disallowed; the sides meet again on Tuesday",
+          "url": "https://www.skysports.com/football/news/11787/13574093/celtic-3-0-lask-camilo-duran-nets-stunning-double-as-hoops-edge-towards-champions-league-return",
           "source": {
             "name": "Sky Sports"
           },
-          "publishedAt": "2026-08-19T21:29:17Z",
-          "image": "https://e0.365dm.com/26/08/1600x900/skysports-ollie-robinson_7326053.jpg?20260819215630",
+          "publishedAt": "2026-08-20T00:41:55Z",
+          "image": "https://e0.365dm.com/26/08/1600x900/skysports-camilo-duran-lask_7326051.jpg?20260819213501",
           "language": "en"
         },
         {
-          "title": "Harry, Meghan and children to move back to UK",
-          "description": "The prince is expected to move to a home outside London with his wife and their two children, Archie and Lilibet, as soon as next month.",
-          "url": "https://www.smh.com.au/world/europe/harry-and-meghan-to-move-back-to-uk-20260820-p60px6.html",
+          "title": "PAGASA sees brief break from 'habagat' rains; another monsoon surge possible next week",
+          "description": "A respite from rains brought by the southwest monsoon or “habagat” is expected as Tropical Depression Neneng weakens, but the break may be short-lived as...",
+          "url": "https://mb.com.ph/2026/08/20/pagasa-sees-brief-break-from-habagat-rains-another-monsoon-surge-possible-next-week",
           "source": {
-            "name": "SMH.com.au"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-08-19T21:29:16Z",
-          "image": "https://static.ffx.io/images/$zoom_0.4979%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_179%2C$y_24/t_crop_custom/q_86%2Cf_auto/3a8284a8f84d0e94e582c699180f0835a1e347b5",
+          "publishedAt": "2026-08-20T00:41:24Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/20/125053.webp",
           "language": "en"
         },
         {
-          "title": "Joao Pedro takes Chelsea No.9 shirt from Liam Delap as multiple squad changes are confirmed",
-          "description": "Chelsea have confirmed their squad numbers for the 2026/27 season, with Joao Pedro taking the No.9 shirt from Liam Delap. Discover the latest updates on Wesley Fofana and Morgan Rogers.",
-          "url": "https://www.goal.com/en-in/lists/joao-pedro-takes-chelsea-no-9-shirt-from-liam-delap-as-multiple-squad-changes-are-confirmed/bltda6e8ea9dbce220e",
+          "title": "Inauguration Ceremony Held for Japanese Team for Asian Games",
+          "description": "Tokyo, Aug. 20 (Jiji Press)--An inauguration ceremony for the Japanese team for the upcoming Asian Games was h…",
+          "url": "https://www.nippon.com/en/news/yjj2026081900876/",
           "source": {
-            "name": "Goal.com"
+            "name": "nippon.com"
           },
-          "publishedAt": "2026-08-19T21:28:56Z",
-          "image": "https://assets.goal.com/images/v3/blt6aada2996b3d6970/crop/MM5DGMZQGY5DCOBWGA5G433XMU5DAORRHEYQ====/GettyImages-2274509629.jpg",
+          "publishedAt": "2026-08-20T00:40:52Z",
+          "image": "https://www.nippon.com/en/ncommon/contents/news/3059855/3059855.jpg",
           "language": "en"
         },
         {
-          "title": "Digital Integrative Medicine Program Improves Overall Survival in Patients Undergoing Systemic Cancer Treatment",
-          "description": "Guest Editor’s Note: Cancer and its treatments often contribute to troubling symptoms, including fatigue, which has been correlated with poor treatment-related outcomes, including overall survival, in...",
-          "url": "https://ascopost.com/news/august-2026/digital-integrative-medicine-program-improves-overall-survival-in-patients-undergoing-systemic-cancer-treatment/",
+          "title": "Researchers reveal deeper workings of brain’s information hub",
+          "description": "The brain has a remarkably flexible system for handling uncertainty and changing situations. Researchers found that the frontoparietal cortex constantly shifts how it communicates with other brain regions depending on what information is needed to make a decision. Rather than simply becoming more active when things get difficult, this network appears to reorganize itself in real time.",
+          "url": "http://www.sciencedaily.com/releases/2026/08/260819041224.htm",
           "source": {
-            "name": "The ASCO Post"
+            "name": "Science Daily"
           },
-          "publishedAt": "2026-08-19T21:28:28Z",
-          "image": "https://ascopost.com/media/14027294/bryl_karolina.jpg",
+          "publishedAt": "2026-08-20T00:40:11Z",
+          "image": "https://www.sciencedaily.com/images/1920/digital-brain-connections-signal-map.webp",
+          "language": "en"
+        },
+        {
+          "title": "Bladder Infection After Brain Injury Worsens Cognitive Problems",
+          "description": "A urinary tract infection that follows a moderate brain injury can worsen cognitive problems caused by the injury, new research in mice shows.",
+          "url": "https://www.newswise.com/articles/bladder-infection-after-brain-injury-worsens-cognitive-problems",
+          "source": {
+            "name": "Newswise"
+          },
+          "publishedAt": "2026-08-20T00:40:00Z",
+          "image": "https://www.newswise.com/assets/new/img/logo-banner.jpg",
           "language": "en"
         }
       ]
