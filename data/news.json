@@ -1,10 +1,21 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-20T03:47:04.560Z",
+  "updatedAt": "2026-08-20T06:47:05.182Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "Pixel Watch 5はバッテリが2日以上も持つ！速度20%アップ、GPS精度は倍に",
+          "description": "Google製スマートウォッチの最新モデル「Pixel Watch 5」が、8月20日に発売された。同じGoogleの「Pixel」シリーズのスマホユーザーだけでなく、Androidスマホユーザーの多くが高い関心を持つPixel Watchだが、Pixel Watch 5ではどのような点が変わったのか、気になる人も多いことだろう。",
+          "url": "https://pc.watch.impress.co.jp/docs/column/hothot/2134040.html",
+          "source": {
+            "name": "PC Watch"
+          },
+          "publishedAt": "2026-08-19T16:00:00Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2134/040/P1572038.jpg",
+          "language": "ja"
+        },
         {
           "title": "ゾーンの脆い均衡がついに崩れる。『S.T.A.L.K.E.R. 2: Cost of Hope』先行プレイレポ―デューティとフリーダム、抗争の果ての決断",
           "description": "板挟みと選択こそ『S.T.A.L.K.E.R. 2』の醍醐味",
@@ -103,128 +114,117 @@
           "publishedAt": "2026-08-19T09:17:07Z",
           "image": "https://async.api.kabutan.jp/og_image?title=%E3%80%90%E2%86%93%E3%80%91%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%20%E5%A4%A7%E5%BC%95%E3%81%91%EF%BD%9C%20%E7%B6%9A%E6%80%A5%E8%90%BD%E3%80%81AI%E3%83%BB%E5%8D%8A%E5%B0%8E%E4%BD%93%E9%96%A2%E9%80%A3%E4%B8%AD%E5%BF%83%E3%81%AB%E5%A3%B2%E3%82%8A%E5%84%AA%E5%8B%A2%20%288%E6%9C%8819%E6%97%A5%29",
           "language": "ja"
-        },
-        {
-          "title": "にじさんじから「にじたうん 7ちょうめ」グッズが登場！2026年8月20日(木)18時から販売開始！",
-          "description": "ANYCOLOR株式会社のプレスリリース（2026年8月19日 18時00分）にじさんじから「にじたうん 7ちょうめ」グッズが登場！2026年8月20日(木)18時から販売開始！",
-          "url": "https://prtimes.jp/main/html/rd/p/000001598.000030865.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-08-19T09:00:01Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/30865/1598/30865-1598-3c41633d8eeccf81c3b71fb4f9dbbb60-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Report: Tyler Biadasz out indefinitely with ACL damage, more injuries to left knee",
-          "description": "There is more information on Chargers center Tyler Biadasz, who suffered a knee injury during Tuesday’s joint practice with the 49ers.",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-tyler-biadasz-out-indefinitely-with-acl-damage-more-injuries-to-left-knee",
+          "title": "Researchers say OpenAI revoked their access to limited cyber program",
+          "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+          "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
           "source": {
-            "name": "NBC Sports"
+            "name": "TechCrunch"
           },
-          "publishedAt": "2026-08-19T15:46:09Z",
-          "image": "https://nbcsports.brightspotcdn.com/dims4/default/74311f8/2147483647/strip/true/crop/7088x3987+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff5%2F6c%2F5e42d26d43e8b57df5ad451b1b09%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D29254852",
+          "publishedAt": "2026-08-19T18:46:14Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
           "language": "en"
         },
         {
-          "title": "Indian scientists develop 'smart' cancer drug that targets tumour cells while sparing healthy cells",
-          "description": "Scientists in India have developed a new “smart” cancer drug designed to activate primarily inside cancer cells, potentially offering a more targeted alternative to conventional chemotherapy that can also damage healthy cells. The drug, named RK-251, has been developed through collaborative research led by Dr. Asis Bala of the Institute of Advanced Study in Science […]",
-          "url": "https://ddindia.co.in/2026/08/indian-scientists-develop-smart-cancer-drug-that-targets-tumour-cells-while-sparing-healthy-cells/",
+          "title": "Zambian opposition leader to challenge election result in ⁠court",
+          "description": "Opposition leader claims ‘serious irregularities’ in the vote that handed President Hakainde Hichilema a second term.",
+          "url": "https://www.aljazeera.com/news/2026/8/19/zambian-opposition-leader-to-challenge-election-result-in-%E2%81%A0court",
           "source": {
-            "name": "DD India"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-08-19T15:45:28Z",
-          "image": "https://ddindia.co.in/wp-content/uploads/2026/08/smart-cancer-drug.jpg",
+          "publishedAt": "2026-08-19T18:45:54Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a811edbdc0e-1786846939.jpg?resize=1920%2C1440",
           "language": "en"
         },
         {
-          "title": "Lab-grown human brain cells ‘recorded passage of time’",
-          "description": "PARIS - Peppercorn-sized clumps of human brain cells grown in a laboratory for a record seven years aged similarly to those inside our heads, suggesting they “recorded the passage of time”, scientists said on Wednesday.",
-          "url": "https://www.bangkokpost.com/world/3304509/labgrown-human-brain-cells-recorded-passage-of-time",
+          "title": "Israel opens criminal probes over killings of 6-year-old Palestinian girl Hind Rajab, Gaza rescue workers",
+          "description": "On Wednesday, Israel's military said it will open internal investigations over its troops' killings in Gaza of Palestinian girl Hind Rajab in January 2024 and 15 emergency and aid workers in March 2025. Rights groups cautioned that such probes rarely lead to convictions.",
+          "url": "https://www.cbc.ca/news/world/israel-criminal-probe-palestinian-girl-killed-hind-rajab-9.7312142",
           "source": {
-            "name": "Bangkok Post"
+            "name": "CBC"
           },
-          "publishedAt": "2026-08-19T15:45:00Z",
-          "image": "https://static.bangkokpost.com/media/content/20260819/c1_6194844_700.jpg",
+          "publishedAt": "2026-08-19T18:43:54Z",
+          "image": "https://i.cbc.ca/ais/ab156d73-fa61-4584-b263-d410ebe6781d,1787141721137/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C299%2C5792%2C3258%29%3BResize%3D620",
           "language": "en"
         },
         {
-          "title": "Sammy Gyamfi says GoldBod raised over US$450m without Bank of Ghana funding",
-          "description": "GoldBod says it has raised more than US$450 million from commercial banks and gold offtakers since March 2026 to finance gold purchases without Bank of Ghana funding.",
-          "url": "https://www.graphic.com.gh/news/general-news/goldbod-raises-more-than-us-450-million-from-banks-and-offtakers-since-march.html",
+          "title": "US long-term borrowing costs ease after government steps in",
+          "description": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
+          "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo",
           "source": {
-            "name": "Graphic Online"
+            "name": "BBC"
           },
-          "publishedAt": "2026-08-19T15:43:16Z",
-          "image": "https://www.graphic.com.gh/images/gyamfi25.jpg",
+          "publishedAt": "2026-08-19T18:42:06Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c600/live/6b7a29d0-9bff-11f1-aed2-8d6da8d75094.jpg",
           "language": "en"
         },
         {
-          "title": "Graiguenamanagh Set for 22nd Year of Town of Books Festival",
-          "description": "The festival is taking place from Saturday 22 August until Monday 24 August",
-          "url": "https://www.carlow-nationalist.ie/whatson/graiguenamanagh-set-for-22nd-year-of-town-of-books-festival_arid-108821.html",
+          "title": "Light-driven proteins in artificial membranes-a new method for biohybrid systems",
+          "description": "Light-driven membrane proteins are key components in biohybrid systems because they can convert light energy into ion gradients, enabling energy conversion or sensory applications. While their integration into natural lipid membranes is well studied, embedding them in artificial polymer membranes has proven challenging.",
+          "url": "https://phys.org/news/2026-08-driven-proteins-artificial-membranes-method.html",
           "source": {
-            "name": "carlow-nationalist.ie"
+            "name": "Phys.org"
           },
-          "publishedAt": "2026-08-19T15:43:00Z",
-          "image": "https://www.carlow-nationalist.ie/cms_media/module_img/7729/3864982_1_articledetail_Town_of_Books_2026_A2_corri_sign.jpg",
+          "publishedAt": "2026-08-19T18:40:04Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/light-driven-proteins.jpg",
           "language": "en"
         },
         {
-          "title": "Sadia Imam recalls navigating a male-dominated industry early in her career",
-          "description": "Actor says she kept strict boundaries with colleagues after feeling some male co-stars took advantage of her innocence",
-          "url": "https://tribune.com.pk/story/2624741/sadia-imam-recalls-navigating-a-male-dominated-industry-early-in-her-career",
+          "title": "NASA, Katalyst call off SWIFT rescue mission over issues with rescue craft in space",
+          "description": "WASHINGTON, Aug ⁠19 (Reuters) - A mission ⁠to rescue NASA's aging ‌SWIFT observatory in space was canceled on Wednesday after ​the spacecraft that ⁠had been ⁠deployed to raise the telescope's ⁠orbit ‌suffered irredeemable technical issues ⁠in orbit, the rescue craft's ​owner ‌Katalyst Space said.",
+          "url": "https://www.thestar.com.my/news/world/2026/08/20/nasa-katalyst-call-off-swift-rescue-mission-over-issues-with-rescue-craft-in-space",
           "source": {
-            "name": "The Express Tribune"
+            "name": "The Star"
           },
-          "publishedAt": "2026-08-19T15:42:55Z",
-          "image": "https://i.tribune.com.pk/media/images/sadia-imam1787136368-0/sadia-imam1787136368-0-640x480.webp",
+          "publishedAt": "2026-08-19T18:40:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/20/4068496.jpg",
           "language": "en"
         },
         {
-          "title": "Human organoids that mimic brain development grown for years in lab",
-          "description": "Models of how the brain changes over time could help researchers to understand how diseases affect the organ later in life.",
-          "url": "https://www.nature.com/articles/d41586-026-02585-3?error=cookies_not_supported&code=c307ea08-5093-4f4a-8f6d-4478dbb6960c",
+          "title": "‘Nothing Will Save You From Kuje Prison’: Gololo Accuses Wike Of Selling Abuja Green Areas, Blocking Waterways",
+          "description": "Gololo also accused Wike of allocating, selling portions of the capital's green spaces, and targeting houses belonging to political opponents and perceived enemies for demolition.",
+          "url": "https://saharareporters.com/2026/08/19/nothing-will-save-you-kuje-prison-gololo-accuses-wike-selling-abuja-green-areas-blocking",
           "source": {
-            "name": "Nature"
+            "name": "Sahara Reporters"
           },
-          "publishedAt": "2026-08-19T15:41:27Z",
-          "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02585-3/d41586-026-02585-3_53134000.jpg",
+          "publishedAt": "2026-08-19T18:39:07Z",
+          "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
           "language": "en"
         },
         {
-          "title": "Baseline clinical features outperform structural MRI in predicting rapid cognitive and motor decline in Parkinson’s disease",
-          "description": "Cognitive and motor impairments are common in Parkinson’s disease (PD), but rapid decline trajectories remain difficult to predict at the individual level. Identifying reliable early-stage prognostic markers could define disease-modification windows and improve trial enrichment. Classification models were developed to predict rapid decline, defined as a decrease of ≥5 points on the Montreal Cognitive Assessment (MoCA) and an increase of ≥10 points on the MDS-UPDRS3 from baseline to any timepoint 3–5 years post-baseline. Models were trained using longitudinal MRI-derived regional atrophy rates and baseline clinical features. Model performance was evaluated using AUROC and complementary classification metrics; calibration, performance ceilings, and clinical utility were further assessed using calibration curves and decision curve analysis (DCA). Feature analysis was performed to identify clinically informative predictors. Structural MRI (e.g., annualized atrophy rate) demonstrated limited prognostic utility for individual-level prediction; this remained true with finer-grained atlases. In contrast, baseline clinical features yielded substantially stronger discrimination for both outcomes. Notably, cognitive prediction remained robust after removal of baseline MoCA, whereas motor prediction was strongly dependent on baseline UPDRS3. External validation preserved high NPVs (cognitive: 0.908 [0.872–0.940]; motor: 0.863 [0.818–0.901]). Incorporating first-year trajectory slopes improved AUROC by approximately 5%, supporting a single follow-up visit as a practical refinement timepoint. Performance gains rapidly plateaued after inclusion of a small number of high-value features, indicating an early performance ceiling. Decision curve analysis suggested potential net benefit across selected threshold probabilities, but prospective evaluation in broader and more heterogeneous populations is required before clinical implementation.",
-          "url": "https://www.nature.com/articles/s41531-026-01530-5?error=cookies_not_supported&code=4e2c05ea-352b-49a9-8017-79b38e239968",
+          "title": "Burna Boy, Tems Nominated for 2026 MTV VMAs",
+          "description": "Nigerian music stars Burna Boy and Tems earn nominations at the 2026 MTV Video Music Awards. Burna Boy for \"Dai Dai\" and Tems for \"Raindance.\"",
+          "url": "https://punchng.com/full-list-burna-boy-tems-make-2026-mtv-vma-nominees-list/",
           "source": {
-            "name": "Nature"
+            "name": "Punch Newspapers"
           },
-          "publishedAt": "2026-08-19T15:41:26Z",
-          "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+          "publishedAt": "2026-08-19T18:38:28Z",
+          "image": "https://punchng.com/wp-content/uploads/2026/08/Burna-Boy-Tems_1787164566.webp",
           "language": "en"
         },
         {
-          "title": "10 countries with the largest Ghanaian diaspora populations",
-          "description": "Discover the top 10 countries hosting the largest Ghanaian diaspora populations, led by the US, Nigeria, and the UK, based on UN migration data. Read more.",
-          "url": "https://www.pulse.com.gh/story/10-countries-largest-ghanaian-diaspora-populations-2026081915363221439",
+          "title": "Finland to Produce Ukrainian Airlogix Designed Drones to Boost European Military Production",
+          "description": "Ukrainian developer Airlogix and Finnish firm Innokas signed a letter of intent to produce Ukrainian-designed drones in Finland for defense forces.",
+          "url": "https://united24media.com/defense-tech/finland-to-produce-ukrainian-airlogix-designed-drones-to-boost-european-military-production-21845",
           "source": {
-            "name": "Pulse Ghana"
+            "name": "UNITED24 Media"
           },
-          "publishedAt": "2026-08-19T15:41:11Z",
-          "image": "https://sportal365images.com/process/smp-images-production/pulse.com.gh/19082026/95b6e751-f289-4822-bf72-ca223d71fb86.jpg?operations=crop(0:193:1278:912),autocrop(1200:630)",
+          "publishedAt": "2026-08-19T18:37:46Z",
+          "image": "https://storage.united24media.com/og/2/27/f8a90c599e9361306c89b70ffd694272.jpg",
           "language": "en"
         },
         {
-          "title": "Kennedy Center tells court it won't try to restore Trump's name to the building before Sept. 8",
-          "description": "In a status report filed late Tuesday, opponents of the move said members of the Kennedy Center's Trump-aligned board “seem intent” on defying an earlier court order requiring the president's name to be removed from the building.",
-          "url": "https://www.pbs.org/newshour/politics/kennedy-center-tells-court-it-wont-try-to-restore-trumps-name-to-the-building-before-sept-8",
+          "title": "Robinson, Tongue five-fors hand England opening-day honours",
+          "description": "Pakistan were bowled out for only 171 after being sent in to bat on an overcast day",
+          "url": "https://www.cricbuzz.com/cricket-news/139902/robinson-tongue-five-fors-hand-england-opening-day-honours",
           "source": {
-            "name": "PBS"
+            "name": "Cricbuzz"
           },
-          "publishedAt": "2026-08-19T15:40:04Z",
-          "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-13T190234Z_1741553113_RC2VXMAD4F32_RTRMADP_3_USA-TRUMP-KENNEDY-CENTER-1024x616.jpg",
+          "publishedAt": "2026-08-19T18:37:45Z",
+          "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1056564/both-atkinson-and-tongue-picked-five-fors.jpg",
           "language": "en"
         }
       ]
