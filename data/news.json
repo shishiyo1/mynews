@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-21T15:33:51.313Z",
+  "updatedAt": "2026-08-21T18:37:05.408Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "21日は中国・九州で38℃超 明日22日は九州で40℃に迫る こまめな水分補給を",
+          "description": "今日21日も西日本を中心に猛烈な暑さとなり、体温を超える暑さとなった所がありました。明日22日は福岡県の朝倉で最高気温39℃の予想で、酷暑日一歩手前の危険な暑さとなりそうです。来週前半にかけて九州では39℃の予想が続き、熱中症に厳重に警戒が必要です。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/08/21/40242.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-08-21T05:33:59Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/402/40242/main/20260821140253/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "列車見張り員が進入可能の合図を運転士に送る 「中継員」と連携取れず 東武事故",
+          "description": "20日、栃木県の東武鉄道・新鹿沼駅で「特急スペーシアX」に作業員4人がはねられ死亡しました。運転士は作業員の退避が完了したという合図を確認したと証言しています。■事故当時、線路の除草作業を…近くに住",
+          "url": "https://news.tv-asahi.co.jp/news_society/articles/000527764.html",
+          "source": {
+            "name": "テレ朝NEWS"
+          },
+          "publishedAt": "2026-08-21T05:29:15Z",
+          "image": "https://news.tv-asahi.co.jp/articles_img/000527764_1200.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "英ケンブリッジ大教授の盗用疑惑を告発した学者、ベルギーの大学で停職に",
+          "description": "論文盗用疑惑の渦中にいた英ケンブリッジ大学元教授のジェイソン・アーデイ氏（41）が遺体で発見されたことをめぐり、同氏を告発し、批判を繰り返していた学者が、所属するベルギーの大学で停職となった。",
+          "url": "https://www.bbc.com/japanese/articles/c1k1948nkrko",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-08-21T04:27:38Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/e43d/live/079df5f0-9d16-11f1-aed2-8d6da8d75094.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【本人直撃】話題の“年収5000万円婚活”、背景には幼少期の実体験 “個人事業主”としての活動も告白",
+          "description": "【モデルプレス＝2026/08/21】18日に放送されたTBS系「マツコの知らない世界」（毎週火曜ごご8時55分）に登場したインフルエンサー・綾瀬りえが注目を集めている。特に反響を呼んだのは、「相手",
+          "url": "https://news.yahoo.co.jp/articles/dbe227b5822390117b3fd28cad1cc48383d80fb7",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-21T04:26:07Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260821-04832432-mdpr-000-7-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "後場の日経平均は140円安でスタート、アシックスやIHIなどが下落／後場の寄り付き概況(フィスコ)",
+          "description": "後場の日経平均は前日比140.88円安の66075.91円と、前引け（66008.45円）から下げ幅を縮小してスタート。ランチタイム中の日経225先物は65920円-66040円のレンジでもみ合い。ドル・円は1ドル＝159.00-10円と午前9時頃か...",
+          "url": "https://finance.yahoo.co.jp/news/detail/44425bc0c70ed707dae84f59df14a74763a1a307",
+          "source": {
+            "name": "Yahoo!ファイナンス"
+          },
+          "publishedAt": "2026-08-21T03:52:00Z",
+          "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+          "language": "ja"
+        },
+        {
+          "title": "日経平均は反落、ファーストリテが1銘柄で約243円分押し下げ(フィスコ)",
+          "description": "21日前引け時点の日経平均構成銘柄の騰落数は、値上がり103銘柄、値下がり119銘柄、変わらず3銘柄となった。\n日経平均は反落。208.34円安の66008.45円（出来高概算9億9539万株）で前場の取引を終えている。\n前日20日の米国株式市場は大...",
+          "url": "https://finance.yahoo.co.jp/news/detail/3b37d1394f3abf9a9119dd3e156f4df00e5ed145",
+          "source": {
+            "name": "Yahoo!ファイナンス"
+          },
+          "publishedAt": "2026-08-21T03:34:00Z",
+          "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+          "language": "ja"
+        },
         {
           "title": "台風18号 26日ごろ沖縄に接近のおそれ 東海から九州は28日ごろまで猛暑が続く",
           "description": "この先22日(土)から9月3日(木)も、全国的に厳しい残暑が続き、東海から九州では猛暑日(最高気温35℃以上)の所が多いでしょう。熱中症対策を万全にしてお過ごしください。台風18号は、このあと発達しながら北西に進み、26日(水)ごろに沖縄本島地方や奄美地方に近づく見込みです。沖縄では荒れた天気になるおそれがあり、最新の台風情報に注意が必要です。",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-08-21T03:05:21Z",
           "image": "https://news.tv-asahi.co.jp/articles_img/000527763_1200.jpg",
           "language": "ja"
-        },
-        {
-          "title": "Aぇ！group小島健、\"自分を開放した瞬間\"は「ソファで裸で3時間寝落ち」",
-          "description": "発表会に出席したAぇ！groupの小島健【写真：ENCOUNT編集部】 「おすすめには、愛がある。展 -THE TAG MARKET-」メディア向け発表会　Aぇ！groupの小島健が21日、都内で行われた「おすすめには、愛がある。展 -THE TAG MARKET",
-          "url": "https://encount.press/archives/1051948/",
-          "source": {
-            "name": "ENCOUNT"
-          },
-          "publishedAt": "2026-08-21T02:33:38Z",
-          "image": "https://encount.press/wp-content/uploads/2026/08/21112327/6b149e127205ed62471e7193c6e7299c.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "〈赤根所長から、今回の制裁措置に対するコメント発表〉米トランプ政権から制裁措置を受けた、国際刑事裁判所（ICC）赤根智子所長の著書『戦争犯罪と闘う 国際刑事裁判所は屈しない』の緊急大重版が決定",
-          "description": "株式会社文藝春秋のプレスリリース（2026年8月21日 11時30分）〈赤根所長から、今回の制裁措置に対するコメント発表〉米トランプ政権から制裁措置を受けた、国際刑事裁判所（ICC）赤根智子所長の著書『戦争犯罪と闘う　国際刑事裁判所は屈しない』の緊急大重版が決定",
-          "url": "https://prtimes.jp/main/html/rd/p/000001085.000043732.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-08-21T02:30:24Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/43732/1085/43732-1085-18bae39be5db62c24bb1a66e4887855f-860x663.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "2026年産米価格急落の家計への影響を考える（Yahoo!ニュース オリジナル THE PAGE）",
-          "description": "2026年産米の価格急落について、Yahoo!ニュースのコメント欄で話題になっています。\n新潟コシヒカリの概算金が前年比38％減となり、農家の経営が危機的状況にある一方で、米価下落が家計にとってどの",
-          "url": "https://news.yahoo.co.jp/articles/1221553bef03721f7cf3b9a49bc729dbc67944fe",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-21T02:21:52Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260821-00000014-wordleafai-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "次期iPhone 18 Proの噂まとめ―12GB RAM、可変絞りカメラ、折りたたみ「iPhone Ultra」の観測も",
-          "description": "iPhone 18 Proでは12GBメモリや可変絞りカメラの採用が噂される一方、価格上昇や供給制約も予測されている。",
-          "url": "https://www.zaikei.co.jp/article/20260821/866823.html",
-          "source": {
-            "name": "財経新聞"
-          },
-          "publishedAt": "2026-08-21T01:37:13Z",
-          "image": "http://www.zaikei.co.jp/files/general/20260821103713YiX0big.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「買えないんでしょ」チケット即完！大阪『フェルメール展』、追加抽選＆リセール…今後のチャンスは？",
-          "description": "関西のおいしい、楽しい、知りたい…がいっぱい。関西人による、関西が好きな人のための、関西を24時間遊ぶニュースサイトです。",
-          "url": "https://www.lmaga.jp/news/2026/08/1091186/",
-          "source": {
-            "name": "Lmaga.jp"
-          },
-          "publishedAt": "2026-08-21T01:28:57Z",
-          "image": "https://www.lmaga.jp/wp-content/uploads/2026/08/vermeer2026_0820_1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "JAXAが火星衛星探査機「MMX」を搭載する「H3」ロケット10号機の打ち上げ予定日を発表",
-          "description": "JAXAは火星衛星探査計画「MMX」の探査機を搭載するH3ロケット10号機を2026年10月20日に打ち上げます。世界初となるフォボスからのサンプルリターンに挑むMMX探査の目的や探査機の構成、国際協力、2031年の地球帰還までの計画をわかりやすく紹介します",
-          "url": "https://sorae.info/space/20260821-mmx.html",
-          "source": {
-            "name": "sorae 宇宙へのポータルサイト"
-          },
-          "publishedAt": "2026-08-21T01:13:42Z",
-          "image": "https://sorae.info/wp-content/uploads/2026/08/mmx-jaxa-2026-08-21-1.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Malaysian motorcyclist lane-splits between lorries on Tuas Viaduct, crashes after one changes lanes",
-          "description": "A 27-year-old man was taken to hospital on Wednesday (Aug 19) following an accident with a lorry along Tuas Viaduct towards Pioneer Road. Dashcam footage of the accident shared with SG Road Vigilante and posted on its Facebook shows a Malaysia-registered motorcycle approaching two lorries along the two-lane carriageway.The motorcyclist is next seen attempting to lane-split between the two lorries.At...",
-          "url": "https://www.asiaone.com/singapore/tuas-viaduct-malaysia-motorcycle-lane-splitting-accident",
+          "title": "Tanzania targets expanded investment, trade with Malaysia",
+          "description": "DODOMA: VICE-PRESIDENT Dr Emmanuel Nchimbi, has stressed the need to deepen strategic cooperation between Tanzania and Malaysia, with a focus on expanding investment and economic opportunities. He made the remarks in Dodoma yesterday during talks with Tanzania’s High Commissioner to Malaysia, Major General Mbaraka Mkeremy, noting that Malaysia’s strong economy presents significant prospects for enhanced …",
+          "url": "https://dailynews.co.tz/tanzania-targets-expanded-investment-trade-with-malaysia/",
           "source": {
-            "name": "AsiaOne"
+            "name": "dailynews.co.tz"
           },
-          "publishedAt": "2026-08-21T03:33:26Z",
-          "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Aug2026/Malaysia%20motorcycle%20Tuas%20Viaduct%20lane-splitting%20accident.png?itok=EqmumbEG",
+          "publishedAt": "2026-08-21T06:37:02Z",
+          "image": "https://dailynews.co.tz/wp-content/uploads/2026/08/Tanzanias-Vice-President-Meets-Designate-Ambassador-to-MalaysiaDodoma-20-August-2026-—-The-Vic.jpg",
           "language": "en"
         },
         {
-          "title": "Huge questions loom over Prince Harry's shock return to UK",
-          "description": "Dozens of questions swirled Thursday as Prince Harry prepares to move back to the UK with his wife and children, six years after his departure sparked a bitter rift with the royal family.",
-          "url": "https://citizen.digital/article/huge-questions-loom-over-prince-harrys-shock-return-to-uk-n388691",
+          "title": "Prosecutors to retry Yung Filly on 3 rape charges in Australia",
+          "description": "British social media celebrity and rapper Yung Filly will be retried on three charges that allege he raped a fan in Australia following a music performance two years ago",
+          "url": "https://abcnews.com/Entertainment/wireStory/prosecutors-retry-yung-filly-3-rape-charges-australia-135829339",
           "source": {
-            "name": "Citizen Digital"
+            "name": "ABC News - Breaking News, Latest News and Videos"
           },
-          "publishedAt": "2026-08-21T03:27:00Z",
-          "image": "https://assets.citizen.digital/151076/conversions/harry-og_image.webp",
+          "publishedAt": "2026-08-21T06:36:31Z",
+          "image": "https://i.abcnewsfe.com/a/f3f25885-5dab-4523-9d4d-300da4e83d06/wirestory_337bedcd361e66a95a5fc8164b6d7211_16x9.jpg?w=1600",
           "language": "en"
         },
         {
-          "title": "Tata Motors Passenger Vehicles to hike car, SUV prices by up to Rs 25,000 from September 1",
-          "description": "The price hike will cover both internal combustion engine (ICE) and electric vehicles (EVs), with the increase varying across models and variants.",
-          "url": "https://www.moneycontrol.com/automobile/tata-motors-passenger-vehicles-to-hike-car-suv-prices-by-up-to-rs-25-000-from-september-1-article-14012046.html",
+          "title": "20 fishermen arrested for illegal vessel use in Quezon waters",
+          "description": "POLILLO, Quezon — Twenty fishermen were arrested at dawn Thursday, Aug. 20,  after authorities intercepted them using illegal “taksay” fishing vessels...",
+          "url": "https://mb.com.ph/2026/08/21/20-fishermen-arrested-for-illegal-vessel-use-in-quezon-waters",
           "source": {
-            "name": "Moneycontrol.com"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-08-21T03:26:29Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2023/12/tata-motors.jpg",
+          "publishedAt": "2026-08-21T06:36:13Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/21/125444.webp",
           "language": "en"
         },
         {
-          "title": "Month High; Asian Currencies Stage Broad Rally — BigGo Finance",
-          "description": "The U.S. Treasury Department unexpectedly expanded its long-dated bond buyback program, triggering a sharp drop in Treasury yields and pushing the US…",
-          "url": "https://finance.biggo.com/news/a75afde8-3d0a-48fc-9148-c4e638d4c73f",
+          "title": "Villagers clash with CJP’s school inspection team in Rajasthan; Dipke slams police as 'mute spectator’",
+          "description": "Villagers in Rajasthan push back against CJP activists during a school inspection, raising concerns over education conditions.",
+          "url": "https://www.thehindu.com/news/national/rajasthan/villagers-clash-with-cjps-school-inspection-team-in-rajasthan/article71372421.ece",
           "source": {
-            "name": "finance.biggo.com"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-08-21T03:25:00Z",
-          "image": "https://img.biggo.com/KouHZzTJzoOZlRYyXKyrseOSr9KwFqLUJ1y1qURXbac/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4L2E3NWFmZGU4LTNkMGEtNDhmYy05MTQ4LWM0ZTYzOGQ0YzczZl8xNzg3MjgyOTg4X2RlZmF1bHQuanBn.jpg",
+          "publishedAt": "2026-08-21T06:36:08Z",
+          "image": "https://th-i.thgim.com/public/incoming/mdsnus/article71372453.ece/alternates/LANDSCAPE_1200/PTI08_21_2026_000023B.jpg",
           "language": "en"
         },
         {
-          "title": "Dengue cases surge in Malaysia’s Klang Valley, says health ministry",
-          "description": "KUALA LUMPUR, Aug 21 (Reuters) - Dengue fever cases have surged in the Malaysian capital Kuala Lumpur and the surrounding Klang Valley area, the country's health ministry said on Friday, ​warning of a high risk of transmission as cases ‌of the mosquito...",
-          "url": "https://kfgo.com/2026/08/20/dengue-cases-surge-in-malaysias-klang-valley-says-health-ministry/",
+          "title": "Bitcoin Breaches $75,000 For The First Time Since May Amid Crypto Surge",
+          "description": "The crypto surge comes after President Trump called for the passage of the long-stalled CLARITY Act and the Treasury intervened in the bond market—boosting appetite for risky bets.",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/08/21/bitcoin-tops-75000-for-the-first-time-since-may-as-crypto-surge-continues/",
           "source": {
-            "name": "The Mighty 790 KFGO"
+            "name": "Forbes"
           },
-          "publishedAt": "2026-08-21T03:24:51Z",
-          "image": "https://media-cdn.socastsrm.com/uploads/station/2105/fbShare.png?r=57822",
+          "publishedAt": "2026-08-21T06:35:47Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a87f16134b677b4c5d4e4d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
           "language": "en"
         },
         {
-          "title": "Shweta Tiwari questions Raj Thackeray after online abuse from alleged Marathi users, says, \"I grew up believing that Marathi culture respected women...\"",
-          "description": "Shweta Tiwari condemned online abuse from some Marathi social media users, questioned Raj Thackeray about supporters' behaviour, and revealed disturbing comments targeting her children, Palak Tiwari and Reyansh as well.",
-          "url": "https://www.moneycontrol.com/entertainment/shweta-tiwari-questions-raj-thackeray-after-online-abuse-from-alleged-marathi-users-says-i-grew-up-believing-that-marathi-culture-respected-women-article-14012013.html",
+          "title": "Jambojet to Resume Nairobi–Entebbe Flights After Six",
+          "description": "KAMPALA — Regional low-cost carrier Jambojet will resume flights between Nairobi and Entebbe on October 1, 2026, ending a six-year absence from the Ugandan market. The airline said the daily service is aimed at strengthening connectivity between Uganda and Kenya while supporting business travel, tourism and cross-border trade. Related Stories Museveni Presides Over Retirement of […]",
+          "url": "https://softpower.ug/jambojet-to-resume-nairobi-entebbe-flights-after-six-year-hiatus/",
           "source": {
-            "name": "Moneycontrol.com"
+            "name": "SoftPower News"
           },
-          "publishedAt": "2026-08-21T03:22:38Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260821032132_kikkkk.jpg",
+          "publishedAt": "2026-08-21T06:35:32Z",
+          "image": "https://softpower.ug/wp-content/uploads/2026/08/jambo-1.jpg",
           "language": "en"
         },
         {
-          "title": "Dengue cases surge in Malaysia’s Klang Valley, says health ministry",
-          "description": "KUALA LUMPUR, Aug 21 (Reuters) - Dengue fever cases have surged in the Malaysian capital Kuala Lumpur and the surrounding Klang Valley area, the country's health ministry said on Friday, ​warning of a high risk of transmission as cases ‌of the mosquito...",
-          "url": "https://wtvbam.com/2026/08/20/dengue-cases-surge-in-malaysias-klang-valley-says-health-ministry/",
+          "title": "Cincinnati Open: Elena Rybakina retires with ankle injury in quarter-final against Iga Swiatek",
+          "description": "Elena Rybakina's latest bid to replace Aryna Sabalenka as world number one comes to an abrupt end as she retires injured against Iga Swiatek in Cincinnati.",
+          "url": "https://www.bbc.com/sport/tennis/articles/c4gvn87djxgo",
           "source": {
-            "name": "WTVB"
+            "name": "BBC"
           },
-          "publishedAt": "2026-08-21T03:22:23Z",
-          "image": "https://media-cdn.socastsrm.com/uploads/station/2158/fbShare.png?r=58842",
+          "publishedAt": "2026-08-21T06:34:47Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/79a0/live/a3b412e0-9d2e-11f1-ba3e-c323fd3033f4.jpg",
           "language": "en"
         },
         {
-          "title": "Asian markets extend rally as traders assess US Treasuries pledge",
-          "description": "HONG KONG: Asian stocks edged higher on Friday (Aug 21) as investors assessed the US Treasury's move to push down long-term bond yields, while analysts warned that alone would not be enough to keep borrowing costs from spiking.Treasury Secretary Scott Bessent's pledge that he had more tools to provide support",
-          "url": "https://www.channelnewsasia.com/business/asian-markets-extend-rally-traders-assess-us-treasuries-pledge-6332391",
+          "title": "Tour operators renew opposition to Mt Kilimanjaro cable car plans",
+          "description": "Tourism operators have renewed their opposition to plans to introduce a cable car on Mount Kilimanjaro, warning that the project could affect jobs, government revenue and the mountain’s...",
+          "url": "https://www.thecitizen.co.tz/tanzania/business/tour-operators-renew-opposition-to-mt-kilimanjaro-cable-car-plans-5565634",
           "source": {
-            "name": "CNA"
+            "name": "thecitizen.co.tz"
           },
-          "publishedAt": "2026-08-21T03:22:00Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--PS4pcGcf--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-21T012255Z_1_LYNXMPEM7K025_RTROPTP_3_JAPAN-COMPANY-JPX.JPG?itok=eqyKCPW5",
+          "publishedAt": "2026-08-21T06:34:08Z",
+          "image": "https://www.thecitizen.co.tz/resource/image/5565638/landscape_ratio3x2/1200/800/458b17efd08b82efcde93d62303e8fde/uO/mt-kilimanjaro-pic.jpg",
           "language": "en"
         },
         {
-          "title": "Global access to food crops is affected by transport costs and economic inequality",
-          "description": "Producing enough food is only one part of ensuring global food security. A new study shows that transport networks and economic inequality are important factors in determining global food accessibility. A research team led by the University of Oulu, together with researchers from Aalto University and Pellervo Economic Research (PTT), Finland, developed a new spatial accessibility framework to examine how effectively global transport systems connect food supply with demand under different economic and disruption scenarios.",
-          "url": "https://phys.org/news/2026-08-global-access-food-crops-affected.html",
+          "title": "UK reports unexpected deficit of £1.8bn as John Healey prepares for first budget",
+          "description": "July data shows total public debt was £2.98tn, or 94% of GDP – up £96bn on a year earlier",
+          "url": "https://www.theguardian.com/politics/2026/aug/21/uk-unexpected-deficit-john-healey-prepares-for-first-budget",
           "source": {
-            "name": "Phys.org"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-08-21T03:20:02Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/global-access-to-food.jpg",
+          "publishedAt": "2026-08-21T06:34:00Z",
+          "image": "https://i.guim.co.uk/img/media/eadf84d9e5d01ff500009590ac604fb156ba5f07/566_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b5c64ce791d4db1d90477cc6f699f92",
           "language": "en"
         },
         {
-          "title": "Philippine school finds gun in student’s bag after teacher’s surprise check in class",
-          "description": "CEBU CITY, Philippines: A.357-calibre revolver was recovered from the school bag of a 14-year-old student during a surprise inspection in a school in Pinamungajan, Cebu on Thursday (Aug 20).",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/21/philippine-school-finds-gun-in-students-bag-after-teachers-surprise-check-in-class",
+          "title": "HAKA: How Tony Brown changed the Boks mindset towards All Blacks challenge",
+          "description": "Former All Black Tony Brown’s influence on the Springbok camp has led to the change of attitude towards the Haka from the Springbok management, and the reason why Rassie Erasmus wants the crowds to keep quiet and take it all in.",
+          "url": "https://supersport.com/rugby/news/bd56f99d-eb24-4bbd-8413-bd0fdf95eed2/haka-how-tony-brown-changed-the-boks-mindset-towards-all-blacks-challenge",
           "source": {
-            "name": "The Star"
+            "name": "supersport.com"
           },
-          "publishedAt": "2026-08-21T03:20:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4070751.png",
+          "publishedAt": "2026-08-21T06:33:48Z",
+          "image": "https://images.supersport.com/media/houdl1ih/haka.jpg",
           "language": "en"
         }
       ]
