@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-21T09:36:53.198Z",
+  "updatedAt": "2026-08-21T12:49:10.034Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【F1】湊谷圭祐HRCチーフエンジニアが感じたトップドライバーの共通点 「アロンソはとにかく頭がいい」",
+          "description": "ホンダ・レーシング（HRC）チーフエンジニア湊谷圭祐インタビュー＠後編with白幡勝広（元ウイリアムズ・メカニック）◆「湊谷圭祐×白幡勝広」前編＞＞2026年版パワーユニットで苦労している点は？　超複雑なF1の2026年型パワーユニット…",
+          "url": "https://sportiva.shueisha.co.jp/clm/motorsports/motorsports/2026/08/21/f1hrc/",
+          "source": {
+            "name": "webスポルティーバ"
+          },
+          "publishedAt": "2026-08-21T00:40:00Z",
+          "image": "https://sportiva.shueisha.co.jp/clm/motorsports/motorsports/2026/images/FernandoAlonso260822.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "フェルメール展、特設ショップを撮り下ろしで紹介。ミッフィーコラボは会場のみ、フリーレンは全種類オンラインあり",
+          "description": "大阪中之島美術館は、8月21日〜9月27日に「フェルメール《真珠の耳飾りの少女》展 17世紀オランダ絵画の名品、奇跡の再来日」を開催する。開幕前日に行なわれた記者説明会・内覧会では、展示室に加えて特設ショップが公開された。",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2134398.html",
+          "source": {
+            "name": "トラベル Watch"
+          },
+          "publishedAt": "2026-08-21T00:30:00Z",
+          "image": "https://travel.watch.impress.co.jp/img/trw/list/2134/398/01.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "iOS 27の共有アルバムが待望のフル解像度化！ただし見逃せない落とし穴も",
+          "description": "✅この記事では、iOS 27で変わる共有アルバムについて、誰のiCloudストレージを使うのか、既存アルバムはどうなるのか、30日だけ使える無料の共有方法まで整理します。 要点まとめ：高画質になる代わりに、容量はオーナー持ち みんなで追加しても、減るのは作った人の容量 既存アルバムはそのまま。高画質にしたい時だけアップグレード 旅行や運動会なら、30日だけの共有がちょうどいい Apple公式はまだ従来仕様。正式版で見る場所は3つ 海外の反応：高画質歓迎と、容量の数え方への疑問 ひとこと：共有の幹事が、容量の幹事にもなる まとめ：残す共有と、集める共有を分ける どうも、となりです。 家族旅行の写…",
+          "url": "https://www.apple-hacks.com/entry/ios27-shared-albums-icloud-storage",
+          "source": {
+            "name": "apple-hacks.com"
+          },
+          "publishedAt": "2026-08-20T23:27:50Z",
+          "image": "https://cdn.image.st-hatena.com/image/scale/d8ef19b0f11d7997973cd146e34382c745c42bb7/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnumberhunter%2F20260821%2F20260821074933.webp",
+          "language": "ja"
+        },
+        {
+          "title": "アニメ「サイバーパンク: エッジランナーズ2」10月20日よりNetflixで配信決定！生々しくハードに復讐と贖罪をめぐる物語描く―ティーザー予告編第3弾公開",
+          "description": "復讐と贖罪をめぐる生々しい物語が展開。",
+          "url": "https://www.gamespark.jp/article/2026/08/21/171015.html",
+          "source": {
+            "name": "Game*Spark"
+          },
+          "publishedAt": "2026-08-20T23:27:14Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1178332.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "２１日の東京株式市場見通し＝弱含みの展開か 速報",
+          "description": "予想レンジ：６万５２００円－６万６０００円（２０日終値６万６２１６円７９銭）　２１日の東京株式は反落後、弱含みの展開か。現地２０日の米国市場で、ＮＹダウやナスダック総合指数が下げたことを受け、売り優・・・",
+          "url": "https://kabushiki.jp/news/765128",
+          "source": {
+            "name": "kabushiki.jp"
+          },
+          "publishedAt": "2026-08-20T23:13:00Z",
+          "image": "https://kabushiki.jp/ogp.png",
+          "language": "ja"
+        },
+        {
+          "title": "「どれほど重大な分岐点なのか…」レーシングブルズでF1緊急復帰の角田裕毅に、現地メディアの見解は!?「可能性を高める上で好都合」（THE DIGEST）",
+          "description": "約1か月間のサマーブレイクを終えて迎える今週末のF1。第12戦オランダGPを前に、レッドブルはアイザック・ハジャーの手首負傷により、代役としてレーシングブルズのリアム・ローソンを起用すると発表した",
+          "url": "https://news.yahoo.co.jp/articles/8916699818641b5bda722a383ef9d0595b59dbb2",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-20T23:04:13Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260821-00010008-thedigest-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "今一番ホットなハリウッドスター 『ラスト・サバイバー』主演の“エロルディ”って何者？",
+          "description": "今ハリウッドで一番ホットなオーストラリア人俳優、ジェイコブ・エロルディを知っているだろうか？　現在29歳の彼は、端正な顔立ちに超高身長の完璧すぎるビジュアル、アカデミー賞ノミネートの確かな演技力、そして数々の名監督を虜にするカリスマ性の三つを兼ね備えた次世代スターの筆頭。",
+          "url": "https://www.cinematoday.jp/page/A0009817",
+          "source": {
+            "name": "シネマトゥデイ"
+          },
+          "publishedAt": "2026-08-20T22:22:00Z",
+          "image": "https://img.cinematoday.jp/a/K00oL8l53iyD/_size_r1200x630/_v_1787212523/main.jpg",
+          "language": "ja"
+        },
         {
           "title": "「なんでセクシー要素ぶち込んでくるかなぁ」「下着と思う人が居るんですね」人気女性YouTuber 洗車時の“際どい”服装に賛否",
           "description": "高級車を複数台所有する“車系YouTuber”が、8月18日までに自身のYouTubeチャンネルを更新。まもなく納車されるという超高級車にまつわるリアルな金銭事情を明かしたのだが、ネットでは別のこと",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-08-20T21:00:35Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260821-00043141-jprime-000-1-view.png?fmt=jpeg&q=85&exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "広瀬アリス主演で「ぼくの地球を守って」初の実写ドラマ化！2027年Prime Video配信 監督は三木孝浩",
-          "description": "俳優の広瀬アリスが、日渡早紀によるSF少女漫画の金字塔を初めて実写ドラマ化する、Prime Original ドラマ「ぼくの地球を守って」で主演を務めることが決定した。",
-          "url": "https://www.cinematoday.jp/news/N0156434",
-          "source": {
-            "name": "シネマトゥデイ"
-          },
-          "publishedAt": "2026-08-20T21:00:00Z",
-          "image": "https://img.cinematoday.jp/a/gFZFamy_KMWZ/_size_r1200x630/_v_1787225813/main.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「ぼくの地球を守って」Prime Videoで実写ドラマ化。主演は広瀬アリス",
-          "description": "Prime Videoは、日渡早紀氏による漫画「ぼくの地球を守って」を原作としたPrime Originalドラマ「ぼくの地球を守って」を、2027年秋に240以上の国や地域で世界独占配信する。物語の鍵を握る前世の人物・木蓮役は広瀬アリス。監督は三木孝浩。",
-          "url": "https://av.watch.impress.co.jp/docs/news/2134330.html",
-          "source": {
-            "name": "AV Watch"
-          },
-          "publishedAt": "2026-08-20T21:00:00Z",
-          "image": "https://av.watch.impress.co.jp/img/avw/list/2134/330/logo.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "シントトロイデンvsオモニア 試合記録",
-          "description": "【ELプレーオフ第1戦】(Daio Wasabi Stayen Stadium)シントトロイデン 1-0(前半0-0)オモニア<得点者>[シ]谷口彰悟(90分+4)<警告>[シ]ロベルトヤン・バンウェセマール(49分)[オ]ジャン=ケヴィン デュヴェルヌ(51分)、エヴァンドロ(85...",
-          "url": "https://web.gekisaka.jp/news/uel/detail/?457181-457181-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-08-20T19:58:01Z",
-          "image": "https://f.image.geki.jp/data/image/dummy_300.gif",
-          "language": "ja"
-        },
-        {
-          "title": "吉田尚記アナ 四千頭身・都築の番組中止で白羽の矢「昨日の夜に決まりました」",
-          "description": "フリーアナウンサーの吉田尚記が２０日、ラジオ大阪「Ｖ―ＳＴＡＴＩＯＮ吉田尚記のＥｐｉｃＬａｔｅ...",
-          "url": "https://www.tokyo-sports.co.jp/articles/-/400226",
-          "source": {
-            "name": "東スポWEB"
-          },
-          "publishedAt": "2026-08-20T15:23:00Z",
-          "image": "https://tokyo-sports.ismcdn.jp/mwimgs/3/9/1200w/img_3977637386cac5864dba1ff0dbf4942c126890.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "乃木坂46・増田三莉音が活動再開 神宮野球場4days初日にサプライズ登場",
-          "description": "ニュース｜　アイドルグループ・乃木坂46の6期生メンバーの増田三莉音（16）が20日、「乃木坂46 真夏の全国ツアー2026」最終公演となる明治神宮野球場4daysの初日公演に登場。体調不良から復帰を果たした。　「乃木坂46 真夏の全国ツアー2026」は、6月から8月にかけてグループ史上最大規模となる全国8都市18公演を駆け巡り、ファイナルとなる東京公演は明治神宮野球場にて20日から23日の計4日間にわたり実施される乃木坂46恒例の全国ツアー。7月22日にリリースされた42ndシングル「是非に及ばず」のセンターを務めた一ノ瀬美空がツアーの座長を務め、明治神宮野球場でのワンマンライブは11度目となる。",
-          "url": "https://www.oricon.co.jp/news/2475205/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-08-20T14:42:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2476000/2475205/20260820_234207_p_o_83641435.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "フロムのSwitch 2新作『The Duskbloods』宮崎英高氏インタビュー(後編)「変なゲームだと思います。そこも含めて楽しんでもらえたら」",
-          "description": "フロム・ソフトウェアのNintendo Switch 2新作『The Duskbloods』(ダスクブラッド)について、フロム・ソフトウェアの代表取締役社長であり本作のディレクターを務める宮崎英高氏にお話をうかがいました。",
-          "url": "https://www.techno-edge.net/article/2026/08/20/5409.html",
-          "source": {
-            "name": "テクノエッジ TechnoEdge"
-          },
-          "publishedAt": "2026-08-20T14:00:07Z",
-          "image": "https://www.techno-edge.net/imgs/ogp_f/33695.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Switch2「ダスクブラッド」宮崎英高氏インタビュー！ フロム最新作は「直接殴り合う以外でも勝てるゲームにしたい」",
-          "description": "いよいよ明日からネットワークテストが始まるNintendo Switch 2専用アクション「The Duskbloods（ダスクブラッド）」。フロム・ソフトウェアの新作というだけでなく、「DARK SOULS」シリーズや「Bloodborne」、「ELDEN RING」なども手掛けてきた同社代表取締役の宮崎英高氏がディレクターを務めることでも注目を集めている。",
-          "url": "https://game.watch.impress.co.jp/docs/interview/2133935.html",
-          "source": {
-            "name": "GAME Watch"
-          },
-          "publishedAt": "2026-08-20T14:00:00Z",
-          "image": "https://game.watch.impress.co.jp/img/gmw/list/2133/935/0.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Streaming Ratings July 20-26, 2026",
-          "description": "The movie 'Masters of the Universe' hit the top of the streaming ratings in its first week on Prime Video.",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-july-20-26-2026-1236678107/",
-          "source": {
-            "name": "The Hollywood Reporter"
-          },
-          "publishedAt": "2026-08-20T21:35:53Z",
-          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/MOTU_2026_UT_250331_KEYGIL_12674_R4_COMP_rgb-H-2026.jpg?w=1296&h=730&crop=1",
-          "language": "en"
-        },
-        {
-          "title": "Live: Bitcoin surges on US policy signals, market down on plan to 'collapse' Iran's economy",
-          "description": "The US is urging allies to join it in a bid to \"collapse\" Iran's economy to end the Middle East conflict. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
-          "url": "https://www.abc.net.au/news/2026-08-21/asx-markets-business-live-news-august-21-2026/107061908",
-          "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
-          },
-          "publishedAt": "2026-08-20T21:32:54Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_watermark_news&cropH=530&cropW=942&xPos=0&yPos=14&width=862&height=485&imformat=generic",
-          "language": "en"
-        },
-        {
-          "title": "Israel clears itself in killing of Canadian during airstrikes on World Central Kitchen convoy",
-          "description": "Israel has concluded its military did not commit a criminal act when it killed a Canadian and six other aid workers in Gaza two years ago.",
-          "url": "https://www.cbc.ca/news/politics/israeli-airstrike-quebec-aid-worker-gaza-investigation-9.7314335",
+          "title": "Former Alexander First Nation chief sexually harassed employee over 9-year period: human rights tribunal",
+          "description": "The Canadian Human Rights Tribunal has found a former Alexander First Nation chief sexually harassed an employee over a nine-year period.",
+          "url": "https://www.cbc.ca/news/canada/edmonton/former-first-nation-chief-harassment-tribunal-9.7314859",
           "source": {
             "name": "CBC"
           },
-          "publishedAt": "2026-08-20T21:31:23Z",
-          "image": "https://i.cbc.ca/ais/1.7179695,1713565540000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6000%2C3375%29%3BResize%3D620",
+          "publishedAt": "2026-08-21T00:48:00Z",
+          "image": "https://i.cbc.ca/ais/b7931484-25da-4ce8-af99-c29d3bf2319c,1787272553664/full/max/0/default.jpg?im=Crop%2Crect%3D%282344%2C863%2C655%2C368%29%3BResize%3D620",
           "language": "en"
         },
         {
-          "title": "8/20/2026: Climate change will likely make boreal forests more deciduous, less evergreen",
-          "description": "Climate change will likely make boreal forests more deciduous, less evergreen As climate change brings more fires, storms and other disturbances to boreal…",
-          "url": "https://news.agu.org/8-20-2026-climate-change-will-likely-make-boreal-forests-more-deciduous-less-evergreen/",
+          "title": "Aisha Wahab wins California special election to succeed former Rep. Eric Swalwell",
+          "description": "California state Sen. Aisha Wahab has secured victory in a special election to serve the rest of former Rep. Eric Swalwell’s House term, which ends in January.",
+          "url": "https://apnews.com/article/aisha-wahab-eric-swalwell-election-melissa-hernandez-17e1183d99f385000ea95e73d7670de6",
           "source": {
-            "name": "AGU Newsroom"
+            "name": "AP News"
           },
-          "publishedAt": "2026-08-20T21:31:19Z",
-          "image": "https://news.agu.org/files/2026/08/Nowitna_Refuge_fall_foliage_51124019897-scaled.jpg",
+          "publishedAt": "2026-08-21T00:48:00Z",
+          "image": "https://dims.apnews.com/dims4/default/ed469f2/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1f%2Fbb%2Fcf30c159d6196ea1183ceab83736%2F020802a34f79421e924cf0ded6d5a490",
           "language": "en"
         },
         {
-          "title": "Amazon Leaks Jason Statham's 'Mutiny' Movie On Prime; Buyers Fume",
-          "description": "Amazon is in choppy waters after accidentally leaking Jason Statham's action movie Mutiny on Prime Video days before the movie hits theaters.",
-          "url": "https://deadline.com/2026/08/amazon-leaks-jason-statham-movie-mutiny-1237046734/",
+          "title": "Show Ya Sef: How BBNaija kept viewers hooked for 11 seasons",
+          "description": "If there is one thing Big Brother Naija has mastered over the years, it is the element of surprise. Just when housemates think they have figured out how",
+          "url": "https://thenationonlineng.net/show-ya-sef-how-bbnaija-kept-viewers-hooked-for-11-seasons/",
           "source": {
-            "name": "Deadline"
+            "name": "The Nation Newspaper"
           },
-          "publishedAt": "2026-08-20T21:30:00Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/08/Mutiny.webp?w=1000",
+          "publishedAt": "2026-08-21T00:44:39Z",
+          "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/08/21011602/•22-housemates-of-the-Big-Brother-Naija-Show-Ya-Sef-edition.jpg",
           "language": "en"
         },
         {
-          "title": "Learn more about the NC Coalition for Global Education",
-          "description": "Learn how the NC Coalition for Global Education is uniting partners to enhance global education opportunities in North Carolina.",
-          "url": "https://www.ednc.org/learn-more-about-the-nc-coalition-for-global-education/",
+          "title": "Shaira Diaz addresses weight gain, clarifies she is not yet pregnant: 'Stop body shaming'",
+          "description": "Shaira Diaz has opened up about her weight gain and struggles with polycystic ovary syndrome (PCOS)—now called polyendocrine metabolic ovarian syndrome (PMOS)—while also clarifying that she is not yet pregnant.",
+          "url": "https://www.gmanetwork.com/news/showbiz/chikaminute/999329/shaira-diaz-addresses-weight-gain-clarifies-she-is-not-yet-pregnant-stop-body-shaming/story/",
           "source": {
-            "name": "EdNC"
+            "name": "GMA Network"
           },
-          "publishedAt": "2026-08-20T21:30:00Z",
-          "image": "https://www.ednc.org/wp-content/uploads/2026/08/image-TLz1XfC-1024x526.png",
+          "publishedAt": "2026-08-21T00:44:08Z",
+          "image": "https://images.gmanews.tv/webpics/2026/08/shaira_diaz-2_2026_08_21_08_37_49.jpg",
           "language": "en"
         },
         {
-          "title": "DOLE: Workers may refuse unsafe work, pushes more responsive wage policies",
-          "description": "MANILA, Philippines — Workers may refuse to report for or continue working when weather disturbances and similar events pose an imminent danger to their safety and health, the Department of Labor and Employment (DOLE) said Thursday.",
-          "url": "https://www.manilatimes.net/2026/08/21/news/dole-workers-may-refuse-unsafe-work-pushes-more-responsive-wage-policies/2409682",
+          "title": "US warns allies and China to join economic war on Iran",
+          "description": "The US warns allies and China to join its unprecedented economic campaign to isolate Iran and collapse its regime amid ongoing conflict and sanctions. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/world/middle-east/us-treasury-secretary-bessent-to-hold-press-conference-on-iran-on-monday",
           "source": {
-            "name": "The Manila Times"
+            "name": "The Straits Times"
           },
-          "publishedAt": "2026-08-20T21:26:00Z",
-          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/21/1185105.jpg",
+          "publishedAt": "2026-08-21T00:43:44Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/250f31bdaa24cd7cf13c877b95a1a9f42ebfc573656a353320aac8e9dd0157d4",
           "language": "en"
         },
         {
-          "title": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
-          "description": "Former leader was escorted from Adiala jail to Shifa International Hospital, following court order, local media reports.",
-          "url": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital",
+          "title": "Malaysia, Pakistan agree to set up joint working group on security cooperation",
+          "description": "KUALA LUMPUR: Malaysia and Pakistan have agreed in principle to establish a working group between their respective ministries to strengthen cooperation in security and law enforcement.",
+          "url": "https://www.thestar.com.my/news/nation/2026/08/21/malaysia-pakistan-agree-to-set-up-joint-working-group-on-security-cooperation",
           "source": {
-            "name": "Al Jazeera"
+            "name": "The Star"
           },
-          "publishedAt": "2026-08-20T21:21:31Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a87676218f1-1787258722.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-08-21T00:43:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4070644.jpg",
           "language": "en"
         },
         {
-          "title": "2027 NFL Draft preseason positional rankings: Quarterbacks",
-          "description": "Arch Manning and Dante Moore are at the top of the class, but which other prospects could emerge this season?",
-          "url": "https://www.nytimes.com/athletic/7521282/2026/08/20/nfl-draft-2027-preseason-quarterback-rankings/",
+          "title": "Kangana Ranaut reacts to Sharmila Tagore's comment on 'Vande Mantaram': 'Shocked to see as an artist her views are so limiting, come out of Hindu Muslim mindset'",
+          "description": "The debate over ‘Vande Mataram’ has resurfaced amid discussions about its place as India’s National Song and the difference between it and the Nationa.",
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-reacts-to-sharmila-tagores-comment-on-vande-mantaram-shocked-to-see-as-an-artist-her-views-are-so-limiting-please-come-out-of-hindu-muslim-mindset/articleshow/133390361.cms",
           "source": {
-            "name": "The New York Times"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-08-20T21:20:25Z",
-          "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/19122135/GettyImages-2272510883-1-scaled.jpg?width=1200&height=630&fit=cover",
+          "publishedAt": "2026-08-21T00:42:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-133390397,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "New computational tool finds hidden asthma genes missed by traditional methods",
-          "description": "The new approach, backed by experimental evidence from an interdisciplinary team at UChicago, identified central disease-driving genes, most not previously linked to asthma.",
-          "url": "https://www.eurekalert.org/news-releases/1140906",
+          "title": "AK Media Concepts unveils new drama series The Family Man",
+          "description": "AK Media Concepts Ltd is set to unveil its latest family drama series entitled The Family Man. The Family Man is a compelling production exploring love,",
+          "url": "https://thenationonlineng.net/ak-media-concepts-unveils-new-drama-series-the-family-man/",
           "source": {
-            "name": "EurekAlert!"
+            "name": "The Nation Newspaper"
           },
-          "publishedAt": "2026-08-20T21:16:44Z",
-          "image": "https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png",
+          "publishedAt": "2026-08-21T00:41:39Z",
+          "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/08/21010923/AK-Media-Concepts-Ltd.jpeg",
+          "language": "en"
+        },
+        {
+          "title": "Punchline Amund takes Punchline Live to London",
+          "description": "By Toyosi Falade Fast-rising Nigerian rapper cum singer Amund Mayowa Ibidapo aka Punchline Amund, is set to thrill fans in London on September 6 at The",
+          "url": "https://thenationonlineng.net/punchline-amund-takes-punchline-live-to-london/",
+          "source": {
+            "name": "The Nation Newspaper"
+          },
+          "publishedAt": "2026-08-21T00:40:26Z",
+          "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/08/21011806/•-Punchline-Amund.jpg",
+          "language": "en"
+        },
+        {
+          "title": "\"I know my limit” The dangerous myth behind drink",
+          "description": "DAR ES SALAAM: “I KNOW my limit”- It is one of the common reasons alcoholic beverages consumers give themselves when deciding to drive after drinking. The statement results into perceived confidence for consumers and what happens thereafter may, at times, cause life-long regrets. Other reasons that consumers give themselves is that they “do not feel …",
+          "url": "https://dailynews.co.tz/i-know-my-limit-the-dangerous-myth-behind-drink-driving/",
+          "source": {
+            "name": "dailynews.co.tz"
+          },
+          "publishedAt": "2026-08-21T00:40:22Z",
+          "image": "https://dailynews.co.tz/wp-content/uploads/2026/08/IMG-20260821-WA0000.jpg",
           "language": "en"
         }
       ]
