@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-22T01:15:42.706Z",
+  "updatedAt": "2026-08-22T03:41:53.196Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "『マスコレ2』版『メタルギア ソリッド4』では新セリフも？ハード固有演出に変更との報告",
+          "description": "『コレクションVol.1』でもあったこだわりの演出―Steam Deck対応のアイコンも？",
+          "url": "https://www.gamespark.jp/article/2026/08/22/171070.html",
+          "source": {
+            "name": "Game*Spark"
+          },
+          "publishedAt": "2026-08-21T15:30:04Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1178867.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【西武】中村剛也「ぼちぼち長いことやってますんで」23年連続本塁打を劇的代打満弾で飾る",
+          "description": "西武中村剛也内野手（43）が2－2の延長11回2死満塁に代打で登場。左越えへ、今季1号となる勝ち越し＆決勝の満塁本塁打を放った。これで23年連続本塁打となった… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/baseball/news/202608210001941.html",
+          "source": {
+            "name": "日刊スポーツ"
+          },
+          "publishedAt": "2026-08-21T14:48:00Z",
+          "image": "https://www.nikkansports.com/baseball/news/img/202608210001941-w500_0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『Tシャツが乾くまで』安定と安心の境界線 他人だから見えた“充”松山ケンイチの真実",
+          "description": "「悪いことはしてないけど、樹生に瀬尾さんのことは話しにくい。私と瀬尾さんの関係を理解してもらえる自信がない」　金曜ドラマ『Tシャツが乾くまで』（TBS系）第7話。ついに毎月第3金曜日に充とあずさがなぜ会っていたのか、その真相が語られた。けれど、明かされたのは単純な不倫関係ではなかった。だからこそ、…(1/2)",
+          "url": "https://realsound.jp/movie/2026/08/post-2498952.html",
+          "source": {
+            "name": "Real Sound｜リアルサウンド"
+          },
+          "publishedAt": "2026-08-21T14:10:10Z",
+          "image": "https://realsound.jp/wp-content/uploads/2026/08/20260821-tshirtsricap-14.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『となりのトトロ』冒頭シーンの小ネタにファン驚き オート三輪とすれ違うバスに「実在する」文字",
+          "description": "ニュース｜■物語の舞台は昭和20年代後半～30年代初めごろ　映画『となりのトトロ』が、本日21日に日本テレビ系「金曜ロードショー」で放送された。金曜ロードショーの公式Xでは、名場面カットが公開され、冒頭のオート三輪とすれ違うバスのシーンを紹介した。",
+          "url": "https://www.oricon.co.jp/news/2475464/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-08-21T13:52:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2476000/2475464/20260821_224336_p_o_18814928.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『Tシャツが乾くまで』ラストに新事実 充の発言は“嘘”だった「悲しい」「樹生にとって残酷な…」",
+          "description": "ニュース｜　俳優の蒼井優が主演を務める、TBS系金曜ドラマ『Tシャツが乾くまで』（毎週金曜　後10：00）の第7話が、21日に放送された。以下、ネタバレを含みます。　同作は、『silent』などで知られる生方美久が脚本を手がける完全オリジナル作品。とある事故に巻き込まれた2組の夫婦を軸に、“喪失”と“再生”、そして“愛”と“秘密”を描く。演出は映画『花束みたいな恋をした』などで知られる土井裕泰が担当する。",
+          "url": "https://www.oricon.co.jp/news/2475091/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-08-21T13:51:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2476000/2475091/20260820_123638_p_o_62348113.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「1000円超えのクオリティ」 セブンの“689円冷凍マルゲリータ”が好評 「ほとんどお店の味」「冷凍庫の常備品になりました」の声",
+          "description": "セブン-イレブンで買える「セブンプレミアム ゴールド 金のマルゲリータ」が、本格的な味わいを手軽に楽しめる冷凍ピザとして注目を集めています。忙しい日や、家で少し贅沢な食事を楽しみたいときにぴったりな一品です。　本記事では、そんな「セブンプレミアム ゴールド 金のマルゲリータ」について紹介します。…",
+          "url": "https://nlab.itmedia.co.jp/research/articles/3984462/",
+          "source": {
+            "name": "ねとらぼ"
+          },
+          "publishedAt": "2026-08-21T13:20:00Z",
+          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/06/1780639449_pixta_136697728_M-1.jpg",
+          "language": "ja"
+        },
         {
           "title": "一時逆転許すも柏、瀬川連発弾&弓場J1初ゴールで開幕3連勝!! 主力多数欠く長崎は2連敗",
           "description": "[8.21 J1第3節 柏 4-2 長崎 三協F柏]　J1リーグは21日、第3節を行い、柏レイソルがV・ファーレン長崎を4-2で破った。一方的に攻め込んだ前半から一転、後半にまさかの逆転を許したが、MF小泉佳穂とFW瀬川祐輔...",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-08-21T11:34:00Z",
           "image": "https://cdn-image.as-web.jp/2026/08/21195438/XPB_1430131_HiRes.jpg",
           "language": "ja"
-        },
-        {
-          "title": "【富士山6合目に7歳置き去り】疲れてぐずる子供に…父親「8時間ぐらいここにいろ」 山小屋スタッフが“保護” 警察が父親呼び戻し厳しく注意",
-          "description": "富士山の6合目に、7歳の男の子が父親に置き去りにされました。男の子はその後、警察に保護されましたが、父親は8合目まで登山を続けていたということです。",
-          "url": "https://news.ntv.co.jp/category/society/762c181624f64b0f94f227ae671d9428",
-          "source": {
-            "name": "日テレNEWS NNN"
-          },
-          "publishedAt": "2026-08-21T11:05:01Z",
-          "image": "https://news.ntv.co.jp/gimage/n24/articles/1d2cffe7df044eff996cbb0185d05a03/61227cfffc61353e9953561b2609e2e35477f6e0801cacb6a6f4778e2f607669.jpg?w=1200",
-          "language": "ja"
-        },
-        {
-          "title": "【“朝ドラ”「風、薫る」第21週】りん（見上愛）が手放した恋 シマケン（佐野晶哉）の旅立ち、忍び寄る戦争",
-          "description": "連続テレビ小説「風、薫る」（毎週月～土曜午前8時、NHK総合ほか）第21週「定めと選択」では、りん（見上愛）とシマケン（佐野晶哉）の関係が大きな転機を迎えた。ようやく互いの気持ちを認め合った二人。…",
-          "url": "https://dot.asahi.com/articles/-/290627?page=1",
-          "source": {
-            "name": "AERA DIGITAL"
-          },
-          "publishedAt": "2026-08-21T11:00:00Z",
-          "image": "https://aeradot.ismcdn.jp/mwimgs/c/1/1200xm/img_c1bc0c475207a4a5964f4093ab2072d21651221.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "アップル初の“可変絞りカメラ”、iPhone 18 Pro Maxのみ？",
-          "description": "アップルが来月発売するとうわさの「iPhone 18 Pro Max」には、iPhone史上初となる可変絞りカメラが搭載されるが、この機能は小型モデルのiPhone 18 Proには搭載されず、Pro Max限定になるという。",
-          "url": "https://ascii.jp/elem/000/004/428/4428427/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-08-21T11:00:00Z",
-          "image": "https://ascii.jp/img/2026/08/21/4515369/xl/a02cc9715dd1bd00.png?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "iPhone 18 Pro、ケース買い替え不要かも iPhone 17 Pro用をそのまま使える可能性",
-          "description": "アップルが来月発売するとうわさのiPhone 18 Proは、現行モデルのiPhone 17 Pro用ケースがそのまま使える可能性がある。",
-          "url": "https://ascii.jp/elem/000/004/428/4428425/?topnew=2",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-08-21T11:00:00Z",
-          "image": "https://ascii.jp/img/2026/08/21/4515367/xl/dcade2219cc79ab0.png?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "台風19号発生へ…気象庁の予想進路、米軍・ヨーロッパの見方 日本への影響は",
-          "description": "気象庁の2026年8月21日午後6時の実況によると、トンキン湾にある熱帯低気圧が24時間以内に台風に発達する見込み。発生すれば台風19号になる。予想進路や日本への影響について気象庁や米軍合同台風警報センター(JTWC）、ヨーロッパ中期予報センターの見方をまとめた。",
-          "url": "https://www.fukuishimbun.co.jp/articles/-/2679889",
-          "source": {
-            "name": "福井新聞社"
-          },
-          "publishedAt": "2026-08-21T09:32:00Z",
-          "image": "https://fki.ismcdn.jp/mwimgs/9/c/-/img_9ce5d742f2816d1e8a33f5ef230fb33a305269.png",
-          "language": "ja"
-        },
-        {
-          "title": "今後ダブル台風発生へ 台風18号は24日以降に沖縄直撃へ 警報級大雨や暴風の恐れ",
-          "description": "台風18号は今後、非常に強い勢力に発達し、23日(日)は小笠原近海へ進み、24日(月)以降は沖縄を直撃する予想です。警報級の大雨や暴風、大しけとなるおそれがあります。台風の接近前に備えを進めておいてください。大陸付近、トンキン湾では今後24時間以内に台風が発生する予想ですが、日本への影響はない見込みです。",
-          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/08/21/40243.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-08-21T09:10:02Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/402/40243/main/20260821173410/large.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Tupac Shakur murder suspect recounts moments before 1996 shooting in audio played to jury",
-          "description": "Jurors heard Duane \"Keffe D\" Davis tell detectives his nephew Orlando \"Baby Lane\" Anderson fired the shots that killed Tupac Shakur.",
-          "url": "https://www.cbsnews.com/news/tupac-shakur-murder-suspect-recounts-shooting-audio-court/",
+          "title": "Prince Harry, celebrities ordered to pay $18m – but final court bill could be higher",
+          "description": "The court ruling exposes Harry and others, including rock star Elton John and model Elizabeth Hurley, to even greater costs after a judge dismissed their long-running claim against the Daily Mail’s publisher.",
+          "url": "https://www.smh.com.au/world/europe/prince-harry-celebrities-ordered-to-pay-18m-but-final-court-bill-could-be-higher-20260822-p60qjf.html",
           "source": {
-            "name": "CBS News"
+            "name": "SMH.com.au"
           },
-          "publishedAt": "2026-08-21T13:14:50Z",
-          "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/18/8e5b79b0-370c-41fc-81fc-43919863cf44/thumbnail/1200x630g2/52c68070da78396cea69b2804a0dc084/2026-08-17t195315z-101283317-rc2i0na1yl4j-rtrmadp-3-people-tupac-murder-court.jpg",
+          "publishedAt": "2026-08-21T15:41:44Z",
+          "image": "https://static.ffx.io/images/$zoom_0.3504301786896095%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_34/t_crop_custom/q_86%2Cf_auto/492167b3f54601e784ab88d90e42b104529ab3d6",
           "language": "en"
         },
         {
-          "title": "Dolphins cement top four spot with win over Parramatta Eels, score, highlights",
-          "description": "Dolphins’ big top-four boost... and the potential free agent they can’t afford to lose",
-          "url": "https://www.foxsports.com.au/nrl/nrl-premiership/live-nrl-dolphins-chase-top-four-spot-in-battle-of-the-halfbacks-against-eels/news-story/bb1b59233c9641711830ed40d14fefcf",
+          "title": "What the Education Minister Says About Schools in Forest Fire Areas",
+          "description": "As of Friday, August 21, 2026, haze from forest fires still blanketed several areas in South Kalimantan.",
+          "url": "https://en.tempo.co/read/2118047/what-the-education-minister-says-about-schools-in-forest-fire-areas",
           "source": {
-            "name": "Fox Sports"
+            "name": "Tempo.co English"
           },
-          "publishedAt": "2026-08-21T13:14:33Z",
-          "image": "https://content.api.news/v3/images/bin/25544fabc6c7bc34100ff1415c1d4bd6",
+          "publishedAt": "2026-08-21T15:41:26Z",
+          "image": "https://statik.tempo.co/data/2026/07/31/id_1484791/1484791_720.jpg",
           "language": "en"
         },
         {
-          "title": "Prince Harry, Elton John and other celebrities hit with initial $13 million bill after losing case against UK tabloid",
-          "description": "Prince Harry and six other high-profile figures will have to make an initial payment of £9.5 million ($13 million) toward the legal costs of a British tabloid publisher after losing a high-stakes case against them last month, a UK High Court judge ruled Friday.",
-          "url": "https://www.cnn.com/2026/08/21/media/prince-harry-elton-john-case-daily-mail-publisher-intl",
+          "title": "Adeleke Won't Join APC, Will Work With FG",
+          "description": "Osun State Governor Ademola Adeleke's spokesman dismisses APC defection rumours, stating Adeleke will work with the Federal Government for progress.",
+          "url": "https://punchng.com/adeleke-wont-join-apc-will-work-with-fg-campaign-spokesman/",
           "source": {
-            "name": "CNN"
+            "name": "Punch Newspapers"
           },
-          "publishedAt": "2026-08-21T13:13:54Z",
-          "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285112851-20260821130250075.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2026-08-21T15:41:11Z",
+          "image": "https://cdn.punchng.com/wp-content/uploads/2025/05/29152629/n.jpeg",
           "language": "en"
         },
         {
-          "title": "Scatec ASA (STECF) Q2 2026 Earnings Call Transcript",
-          "description": "Scatec ASA (STECF) Q2 2026 Earnings Call August 21, 2026 3:00 AM EDTCompany ParticipantsTerje Pilskog - Chief Executive OfficerHans Jakob Hegge - Chief...",
-          "url": "https://seekingalpha.com/article/4939053-scatec-asa-stecf-q2-2026-earnings-call-transcript",
+          "title": "Arsenal reveal Ezri Konsa shirt number after £55m transfer announced",
+          "description": "England defender arrives at the Emirates Stadium from Aston Villa on a four-year contract",
+          "url": "https://www.standard.co.uk/sport/football/konsa-arsenal-fc-shirt-number-transfer-b1294249.html",
           "source": {
-            "name": "Seeking Alpha"
+            "name": "London Evening Standard"
           },
-          "publishedAt": "2026-08-21T13:11:52Z",
-          "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "publishedAt": "2026-08-21T15:41:02Z",
+          "image": "https://static.standard.co.uk/2026/08/21/16/2291426421..?width=1200&auto=webp&quality=75",
           "language": "en"
         },
         {
-          "title": "Andoni Iraola confirms Liverpool vice-captain decision and why Alisson may be overlooked",
-          "description": "Andoni Iraola has confirmed his decision for Liverpool’s vice-captaincy while explaining why Alisson could be overlooked for the role during games in the new season",
-          "url": "https://www.liverpool.com/liverpool-fc-news/features/liverpool-vice-captain-alisson-szoboszlai-34497480",
+          "title": "PSX rebounds as KSE-100 gains 575 points on value buying",
+          "description": "Market activity remains relatively subdued, with traded volume reaching 677m shares",
+          "url": "https://tribune.com.pk/story/2625123/psx-rebounds-as-kse-100-gains-575-points-on-value-buying",
           "source": {
-            "name": "Liverpool.com"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-08-21T13:11:14Z",
-          "image": "https://i2-prod.liverpool.com/article34469063.ece/ALTERNATES/s1200d/0_GettyImages-2290753407.jpg",
+          "publishedAt": "2026-08-21T15:40:51Z",
+          "image": "https://i.tribune.com.pk/media/images/psx1782808720-0/psx1782808720-0-640x480.webp",
           "language": "en"
         },
         {
-          "title": "Connectivity issues force FromSoftware to close The Duskbloods network test early",
-          "description": "FromSoftware has issued a statement regarding connectivity problems with The Duskbloods network test, closing the first day of testing over three hours early.",
-          "url": "https://www.eurogamer.net/the-duskbloods-network-test-connection-problems-fromsoftware",
+          "title": "Request for Applications: Chevening Scholarship (Angola)",
+          "description": "Deadline: 06-Oct-2026 The Chevening Scholarship for Angola provides outstanding Angolan citizens with the opportunity to pursue a fully funded, one-year taught master's degree at an eligible UK university. The programme supports future leaders with tuition, living costs, travel, visa expenses, and other allowances while developing the skills, networks, and experience needed to contribute to positive",
+          "url": "https://www2.fundsforngos.org/leadership/request-for-applications-chevening-scholarship-angola/",
           "source": {
-            "name": "Eurogamer"
+            "name": "fundsforNGOs"
           },
-          "publishedAt": "2026-08-21T13:10:52Z",
-          "image": "https://assetsio.gnwcdn.com/The-Duskbloods-%E2%80%93-Nintendo-Direct-_-Nintendo-Switch-2-1-58-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "publishedAt": "2026-08-21T15:40:12Z",
+          "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
           "language": "en"
         },
         {
-          "title": "Tyson Fury says Anthony Joshua fight could be off",
-          "description": "Tyson Fury has claimed his highly anticipated fight against Anthony Joshua may no longer happen, blaming fresh financial demands",
-          "url": "https://www.vanguardngr.com/2026/08/tyson-fury-says-anthony-joshua-fight-could-be-off/",
+          "title": "Looking For A Place To Happen: N.S. venues host anniversary screening of Tragically Hip’s last concert",
+          "description": "On Saturday, venues across the country will be re-airing the CBC broadcast, The Tragically Hip: A National Celebration, which features the last performance in their hometown of Kingston, Ont., on Aug. 20, 2016.",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-venues-tragically-hip-final-concert-broadcast-9.7312883",
           "source": {
-            "name": "Vanguard News"
+            "name": "CBC"
           },
-          "publishedAt": "2026-08-21T13:10:36Z",
-          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/Anthony-Joshua-vs-Tyson-Fury.jpg",
+          "publishedAt": "2026-08-21T15:40:01Z",
+          "image": "https://i.cbc.ca/ais/1.3731118,1471889233000/full/max/0/default.jpg?im=Crop%2Crect%3D%2858%2C12%2C495%2C278%29%3BResize%3D620",
           "language": "en"
         },
         {
-          "title": "Prince Harry and six others ordered to pay initial £9.5m to Daily Mail publisher",
-          "description": "The seven claimants, who include Sir Elton John and Liz Hurley, could potentially have to pay up to £25m more.",
-          "url": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-08-21T13:10:01Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b9d1/live/0b65a550-9d63-11f1-a291-b542ee92de7c.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Newcastle vs Liverpool Premier League preview: Team news, tactics, transfers before Matchday 1",
-          "description": "Comprehensive match preview of Newcastle vs Liverpool as the 2026-27 Premier League season gets underway. We talk tactics, team news, transfers and more.",
-          "url": "https://www.goal.com/en/news/newcastle-united-liverpool-premier-league-preview/blt8a1b76d6d787990e",
+          "title": "Julian Alvarez is open to massive Arsenal transfer despite lingering doubts over Atletico Madrid exit",
+          "description": "Julian Alvarez is open to a massive summer transfer to Arsenal despite lingering doubts. Atletico Madrid demand a huge fee as the Gunners push to secure the marquee signing before the deadline passes.",
+          "url": "https://www.goal.com/en-ke/lists/julian-alvarez-open-massive-arsenal-transfer-despite-lingering-doubts-over-atletico-madrid-exit/blt44e9d9c4410004b0",
           "source": {
             "name": "Goal.com"
           },
-          "publishedAt": "2026-08-21T13:07:59Z",
-          "image": "https://assets.goal.com/images/v3/owjbxqwe2fPoGjUZ32Lu6_DESKTOP/image.jpg",
+          "publishedAt": "2026-08-21T15:38:13Z",
+          "image": "https://assets.goal.com/images/v3/getty-2265113673/crop/MM5DIMBQGA5DEMRVGA5G433XMU5DCMZUHI2TQ===/GettyImages-2265113673.jpg",
           "language": "en"
         },
         {
-          "title": "Could magnesium become the new lithium for electric vehicles?",
-          "description": "While magnesium is cheaper, more abundant and potentially safer than lithium, significant practical considerations remain before magnesium batteries can become more common in electric vehicles.",
-          "url": "https://www.euronews.com/next/2026/08/21/could-magnesium-become-the-new-lithium-for-electric-vehicles",
+          "title": "Julian Alvarez is open to massive Arsenal transfer despite lingering doubts over Atletico Madrid exit",
+          "description": "Julian Alvarez is open to a massive summer transfer to Arsenal despite lingering doubts. Atletico Madrid demand a huge fee as the Gunners push to secure the marquee signing before the deadline passes.",
+          "url": "https://www.goal.com/en-om/lists/julian-alvarez-open-massive-arsenal-transfer-despite-lingering-doubts-over-atletico-madrid-exit/blt44e9d9c4410004b0",
           "source": {
-            "name": "Euronews"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-08-21T13:07:31Z",
-          "image": "https://images.euronews.com/articles/stories/09/88/32/55/1200x675_cmsv2_7b4ed9c8-3e15-5b04-8c59-de24ec15c450-9883255.jpg",
+          "publishedAt": "2026-08-21T15:38:08Z",
+          "image": "https://assets.goal.com/images/v3/getty-2265113673/crop/MM5DIMBQGA5DEMRVGA5G433XMU5DCMZUHI2TQ===/GettyImages-2265113673.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Scientists Chart Hair Follicle Formation in Spacetime",
+          "description": "In a new research report, scientists at Johns Hopkins Medicine say they have developed a technology that allows them to capture a 3D molecular",
+          "url": "https://www.miragenews.com/scientists-chart-hair-follicle-formation-in-1731345/",
+          "source": {
+            "name": "Mirage News"
+          },
+          "publishedAt": "2026-08-21T15:38:00Z",
+          "image": "https://www.hopkinsmedicine.org/-/media/news/images/alex-folicle-teaser.jpg",
           "language": "en"
         }
       ]
