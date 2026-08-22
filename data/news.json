@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-22T18:31:21.672Z",
+  "updatedAt": "2026-08-22T21:22:14.144Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "乃木坂46、ライブ会場周辺で落雷を確認「ご入場を一時的に制限」発表 18時→18時30分、開演時間を変更",
+          "description": "ニュース｜　アイドルグループ・乃木坂46が22日、公式サイトを更新。きょう予定の公演「真夏の全国ツアー2026」について、会場周辺で落雷が確認されたことを受け「ご入場を一時的に制限しております」と伝えた。会場は明治神宮野球場。また、続く発表で、18時からの公演開始時間を「18時30分」に変更すると伝えた。　発表で「ただいま、会場周辺において落雷が確認されたため、安全を考慮し、ご入場を一時的に制限しております」と説明。「すでに会場付近までお越しのお客様につきましては、順次ご入場いただいておりますので、係員の案内に従ってご入場いただき、屋根のあるコンコース内へお進みください」と呼びかけた。",
+          "url": "https://www.oricon.co.jp/news/2475524/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-08-22T08:18:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2476000/2475524/20260821_162101_p_o_12589859.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "最新情報ーCAT Ladies 2026ー明日へひとこと",
+          "description": "一般社団法人日本女子プロゴルフ協会(JLPGA)の公式サイトです。",
+          "url": "https://www.lpga.or.jp/news/info/83212",
+          "source": {
+            "name": "日本女子プロゴルフ協会"
+          },
+          "publishedAt": "2026-08-22T07:48:58Z",
+          "image": "https://cdn.lpga.or.jp/lpga/cms/2026/08/22/xl/19f527e747104e5cda1ae2349b4b5f46cb10ddc6.jpg?1787392049",
+          "language": "ja"
+        },
+        {
+          "title": "「トリプル台風」発生中 沖縄は雨風が強まり荒天 九州～関東は危険な暑さ 酷暑日も",
+          "description": "台風18号に加えて、22日(土)は台風19号と台風20号が発生しました。今年は台風の発生数が多く、平成以降では2番目タイの多さとなっています。台風19号は日本への直接的な影響はありませんが、台風20号の影響で沖縄の先島諸島では大雨となっています。台風18号は26日(水)頃に沖縄本島地方に最接近し、沖縄では大荒れの天気となるおそれがあります。また、台風の間接的な影響で太平洋高気圧が強まり、九州から関東を中心に危険な暑さとなりそうです。",
+          "url": "https://tenki.jp/forecaster/t_yoshida/2026/08/22/40250.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-08-22T07:12:57Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/402/40250/main/20260822161003/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "手首怪我のアイザック・ハジャー、F1欠場の裏にMotoGP王者マルク・マルケスのアドバイスあり（motorsport.com 日本版）",
+          "description": "レッドブルのアイザック・ハジャーは、夏休み明け最初のレースとなるF1オランダGPを、手首の怪我によって欠場することになった。欠場の判断にあたっては、チームだけでなく、MotoGP王者のマルク・マル",
+          "url": "https://news.yahoo.co.jp/articles/5a5c309029ff44c1d0a6d5f44f15ab61c810a732",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-22T07:01:59Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260822-00000012-msportcom-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "来週の相場で注目すべき3つのポイント：米エヌビディア決算、ジャクソンホール会議、外国為替平衡操作の実施状況",
+          "description": "■株式相場見通し\n予想レンジ：上限68500円－下限64500円\n今週末の米国株式市場は下落。",
+          "url": "https://www.zaikei.co.jp/article/20260822/866986.html",
+          "source": {
+            "name": "財経新聞"
+          },
+          "publishedAt": "2026-08-22T06:47:00Z",
+          "image": "http://www.zaikei.co.jp/images/zaikei_og_image.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "“採決中止”の動議を出した県議は議長の元秘書 批判殺到し自身のHPを一時停止 「議長本人から動議提出の指示を受けた事実はない」 【福岡発】",
+          "description": "問題山積の福岡県議会。議長に対する議長職の辞職勧告決議案に対して緊急動議を提案したのは、かつて議長の秘書を務めた県議だった。",
+          "url": "https://news.yahoo.co.jp/articles/097473be4914bf1fa1bdbb3a5bfcdb9ca5576c3f",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-22T06:32:21Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260822-01199370-fnnprimev-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "智弁和歌山・中谷監督「相手ベンチずっと見て…」 夏の甲子園",
           "description": "全国高校野球選手権大会は22日、阪神甲子園球場で決勝があり、智弁和歌山が健大高崎（群馬）に4―3で逆転勝ちし、5年ぶり4度目の優勝を決めた。 　試合後の智弁和歌山・中谷仁監督の主な談話は以下の通り。",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-08-22T04:35:00Z",
           "image": "https://contents.oricon.co.jp/upimg/news/2476000/2475368/20250917_112045_p_o_51897574.jpg",
           "language": "ja"
-        },
-        {
-          "title": "舞台衣装のチャームやアースラの扇子も！舞浜アンフィシアター／劇団四季 ディズニーミュージカル『リトルマーメイド』公演グッズ",
-          "description": "2026年8月26日開幕の劇団四季 ディズニーミュージカル『リトルマーメイド』舞浜アンフィシアター公演グッズを紹介。アリエルのTシャツやゴブラン織りバッグ、舞台衣装のブラインドチャーム、アースラの扇子まで価格と写真つきでまとめました。",
-          "url": "https://dtimes.jp/post-1336738/",
-          "source": {
-            "name": "Dtimes"
-          },
-          "publishedAt": "2026-08-22T03:23:45Z",
-          "image": "https://dtimes.jp/wp-content/uploads/2026/08/集合_a_3x2-20260822-493d3a-scaled.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ロシアがショッピングセンターに「ダブルタップ攻撃」 16人殺害とウクライナ当局",
-          "description": "ウクライナ中部クリヴィー・リフで21日、市内最大のショッピングセンターがロシア軍のドローンによる二重攻撃を受けた。地元当局によると、少なくとも16人が殺害され、子ども23人を含む130人が負傷したほか、がれきの下に閉じ込められている人も複数いる。最初の攻撃の後、救助隊の到着後に再び攻撃して被害を拡大しようとする、いわゆる「ダブルタップ攻撃」だったという。",
-          "url": "https://www.bbc.com/japanese/articles/c2lq58knejjo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-08-22T02:59:05Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
-          "language": "ja"
-        },
-        {
-          "title": "『Tシャツが乾くまで』次週予告にネットざわつく",
-          "description": "ニュース｜　俳優の蒼井優が主演を務めるTBS系金曜ドラマ『Tシャツが乾くまで』（毎週金曜　後10：00）の第7話が21日に放送された。充（松山ケンイチ）とあずさ（夏帆）の関係をめぐる“第3金曜日の真実”が明らかになる一方、次回予告では「喫茶店に招かれた－4名の容疑者たち－」という衝撃的な展開が示された。　同作は、『silent』などで知られる生方美久が脚本を手がける完全オリジナル作品。とある事故に巻き込まれた2組の夫婦を軸に、“喪失”と“再生”、“愛”と“秘密”を描いている。第7話では、約1年間の失踪を経て自宅に戻った充が、妻の咲子に自身の生い立ちや失踪癖について語った。幼い頃から親の愛情を受けずに育った充は、コインランドリーで偶然出会ったあずさと、好きだけれど時々離れたいという価値観を共有。身の上話や失踪癖まで打ち明ける関係になっていた。",
-          "url": "https://www.oricon.co.jp/news/2475473/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-08-22T02:20:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2476000/2475473/20260820_123609_p_o_32201724.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【iPhone 18の噂＆予想まとめ】この秋はiPhone 18 Proが登場!? 色はどうなる？ 7万円値上げかも？",
-          "description": "今年も発表が期待される新iPhone。今回は折りたたみiPhoneが登場説も。そこで、ネット上のウワサだけでなく、編集部のアップル好きが理詰め＋妄想で考えた予想を含めて、iPhone 18の情報をまとめて紹介します。",
-          "url": "https://ascii.jp/elem/000/004/428/4428612/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-08-22T02:00:00Z",
-          "image": "https://ascii.jp/img/2026/08/22/4515810/xl/26625f9e15896013.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "Master Spear」を刷新！新型PCケースは独自仕様で用途に応じたBTOカスタマイズも自由度が高い (1/4)",
-          "description": "サイコムのゲーミングPC「G-Master Spear 2 Z890i」をレビュー。オリジナル仕様の新型PCケースやカスタマイズの幅広さをご紹介！",
-          "url": "https://ascii.jp/elem/000/004/425/4425202/?focus=2",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-08-22T02:00:00Z",
-          "image": "https://ascii.jp/img/2026/08/05/4509758/xl/82d45da730406291.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "【iPhone 18の噂＆予想まとめ】この秋はiPhone 18 Proが登場!? 色はどうなる？ 7万円値上げかも？",
-          "description": "今年も発表が期待される新iPhone。今回は折りたたみiPhoneが登場説も。そこで、ネット上のウワサだけでなく、編集部のアップル好きが理詰め＋妄想で考えた予想を含めて、iPhone 18の情報をまとめて紹介します。",
-          "url": "https://ascii.jp/elem/000/004/428/4428612/?focus=1",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-08-22T02:00:00Z",
-          "image": "https://ascii.jp/img/2026/08/22/4515810/xl/26625f9e15896013.jpg?20200122",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Chinese Hacker Uses DeepSeek AI to Automate Vulnerability Exploitation",
-          "description": "A Chinese-speaking threat actor has been observed using DeepSeek AI as an autonomous offensive operator to identify exposed infrastructure, research vulnerabilities, acquire public proof-of-concept exploits, and launch attacks with minimal human intervention.",
-          "url": "https://cyberpress.org/chinese-hacker-uses-deepseek-ai/",
+          "title": "Bad weather affects 7.4 million -NDRRMC",
+          "description": "Around 7.4 million Filipinos, or 2.1 million families, have been affected by torrential rains brought by bad weather over the past couple of weeks, the National Disaster Risk Reduction and Management…",
+          "url": "https://tribune.net.ph/2026/08/22/bad-weather-affects-74-million-ndrrmc",
           "source": {
-            "name": "cyberpress.org"
+            "name": "Daily Tribune"
           },
-          "publishedAt": "2026-08-22T06:31:16Z",
-          "image": "https://cyberpress.org/wp-content/uploads/2026/08/chinese-hacker-uses-deepseek-ai-to-automate-vulnerability-exploitation1-6a89407fe16f0.webp",
+          "publishedAt": "2026-08-22T09:21:10Z",
+          "image": "https://images.assettype.com/tribune/2026-08-22/ugrmjugs/76311207714722159016011367401133350148840644n.jpg?w=1200&auto=format",
           "language": "en"
         },
         {
-          "title": "iQOO is allegedly working on a small and powerful tablet",
-          "description": "It would compete with the RedMagic Astra 2, and would be the smallest iQOO tablet to date. According to a new rumor from Digital Chat Station on Weibo,...",
-          "url": "https://www.gsmarena.com/iqoo_is_allegedly_working_on_a_small_and_powerful_tablet-news-74291.php",
-          "source": {
-            "name": "GSMArena.com"
-          },
-          "publishedAt": "2026-08-22T06:31:02Z",
-          "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iqoo-small-tablet-rumor/-952x498w6/gsmarena_000.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Meghan Markle cryptically breaks her silence after UK return with Prince Harry confirmed",
-          "description": "Prince Harry and Meghan Markle are preparing for their big move back to the UK later this month as non-working royals, 6 years after Megxit and moving to the US",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/meghan-markle-cryptically-breaks-her-063000091.html",
-          "source": {
-            "name": "Yahoo"
-          },
-          "publishedAt": "2026-08-22T06:30:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/2f3ba321b923c6c625d5ea768a788df77d782bb19e572a8a80135af079ff6050/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fce47a3bd53cf1389332dbab8539d2a64.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Man awarded Sh505,500 for injuries in van crash",
-          "description": "Oigara says he suffered head injuries at the hands of Bateleur Eagles Safaris",
-          "url": "https://www.the-star.co.ke/news/2026-08-22-man-awarded-sh505500-for-injuries-in-van-crash",
+          "title": "Kalonzo mourns former High Court judge Mutava Mbalu",
+          "description": "Wiper leader sends condolences to Kibwezi East MP Jessica Mbalu, her children and the wider family",
+          "url": "https://www.the-star.co.ke/news/2026-08-22-kalonzo-mourns-ex-high-court-judge-mutava-mbalu",
           "source": {
             "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-08-22T06:30:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/08/8751c2cd-a02b-46fa-a9cd-8729bda6b4da.webp?1787382620773",
+          "publishedAt": "2026-08-22T09:21:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/08/8fb31e9b-e15c-4b68-8d3c-831baf15855e.webp?1787392007807",
           "language": "en"
         },
         {
-          "title": "Scientist Solves Hard Problems Building Quantum Particle Detectors",
-          "description": "John Lajoie is a builder — not of buildings or everyday machines, but of detectors with a special purpose. A physicist at the Department of Energy’s (DOE’s) Oak Ridge National Laboratory (ORNL), Lajoie has shaped his career around finding hard-to-solve problems and coming up with new ways to tackle them.",
-          "url": "https://www.azoquantum.com/News.aspx?newsID=11234",
+          "title": "Next week's partial lunar eclipse caps off a busy month of celestial splendor",
+          "description": "While this won't be a total lunar eclipse, a significant portion of the moon will be covered.",
+          "url": "https://abcnews.com/US/weeks-partial-lunar-eclipse-caps-off-busy-month/story?id=135801338",
           "source": {
-            "name": "AZoQuantum"
+            "name": "ABC News - Breaking News, Latest News and Videos"
           },
-          "publishedAt": "2026-08-22T06:30:00Z",
-          "image": "https://www.azoquantum.com/images/news/ThumbForNews_11234_17873802520905836.jpg",
+          "publishedAt": "2026-08-22T09:20:53Z",
+          "image": "https://i.abcnewsfe.com/a/c52053ae-7deb-4ae7-a83f-6bc9ebca7619/lunar-eclipse-1-gty-jef-260820_1787230585395_hpMain_16x9.jpg?w=1600",
           "language": "en"
         },
         {
-          "title": "South East farmers urged to vaccinate animals against bluetongue",
-          "description": "There have now been 517 cases of bluetongue in the UK, according to government figures.",
-          "url": "https://www.bbc.co.uk/news/articles/ckg3m6v0xmzo",
+          "title": "Iran says new US sanctions violate sovereignty of other states",
+          "description": "Foreign Ministry spokesman Esmaeil Baghaei slams Trump’s latest threat as a return to ‘full-scale classic colonialism’.",
+          "url": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states",
           "source": {
-            "name": "BBC"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-08-22T06:29:23Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1046/live/48c08be0-8cba-11f1-b49b-bb9fc846a015.png",
+          "publishedAt": "2026-08-22T09:19:11Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a89588c8227-1787385996.jpg?resize=1920%2C1440",
           "language": "en"
         },
         {
-          "title": "Zee Entertainment promoter allotted convertible warrants",
-          "description": "Each warrant can later be converted into one equity share of Rs 1 face value, at Rs 126 per share.",
-          "url": "https://www.moneycontrol.com/news/business/markets/zee-entertainment-promoter-allotted-convertible-warrants-14012806.html",
-          "source": {
-            "name": "Moneycontrol.com"
-          },
-          "publishedAt": "2026-08-22T06:28:22Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2024/02/Zee-1.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Arsenal 3-0 Coventry: Kai Havertz, Bukayo Saka and Martin Odegaard fire Gunners to dominant Premier League win on opening night",
-          "description": "Report and free match highlights as Arsenal begin their title defence in style with a commanding victory over Championship winners and newly-promoted Coventry; Kai Havertz, Bukayo Saka and Martin Odegaard were on target at the Emirates Stadium in a dominant performance",
-          "url": "https://www.skysports.com/football/news/11661/13565522/arsenal-3-0-coventry-kai-havertz-bukayo-saka-and-martin-odegaard-fire-gunners-to-dominant-premier-league-win-on-opening-night",
-          "source": {
-            "name": "Sky Sports"
-          },
-          "publishedAt": "2026-08-22T06:26:18Z",
-          "image": "https://e0.365dm.com/26/08/1600x900/skysports-bukayo-saka-martin-odegaard_7327700.jpg?20260821210850",
-          "language": "en"
-        },
-        {
-          "title": "Live NRL: Warriors v Rabbitohs at Accor Stadium",
-          "description": "The Warriors meet a resurgent Rabbitohs side, having regained their big guns at the perfect time.",
-          "url": "https://www.rnz.co.nz/news/sport/1080262/live-nrl-warriors-v-rabbitohs-at-accor-stadium",
-          "source": {
-            "name": "RNZ"
-          },
-          "publishedAt": "2026-08-22T06:25:34Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--GgbcUibo--/t_tohu-badge-facebook/f_auto/q_auto/4JJOU37_SOUTHS_VS_WARRIORS_BLOG_GFX_png",
-          "language": "en"
-        },
-        {
-          "title": "Car destroyed in fire after crash near Mid Valley",
-          "description": "KUALA LUMPUR: A car was destroyed after catching fire following a road accident near Mid Valley on Saturday (Aug 22).",
-          "url": "https://www.thestar.com.my/news/nation/2026/08/22/car-destroyed-in-fire-after-crash-near-mid-valley",
+          "title": "JDT’s world record reign highlights reliance on imported talent",
+          "description": "PETALING JAYA: Johor Darul Ta'zim's Charity Shield triumph on Friday helped them set a new world record but also highlighted the club's growing reliance on mixed heritage and naturalised talent.",
+          "url": "https://www.thestar.com.my/sport/football/2026/08/22/jdts-world-record-reign-highlights-reliance-on-imported-talent",
           "source": {
             "name": "The Star"
           },
-          "publishedAt": "2026-08-22T06:24:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/22/4072670.jpg",
+          "publishedAt": "2026-08-22T09:18:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/22/4072840.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Rajesh Kumar was in Rs 2 cr debt after quitting acting upon Sadhguru’s advice: ‘Not failure’",
+          "description": "Rajesh Kumar quit acting and started farming after he was inspired by Sadhguru. The decision left him in debt of Rs 2 crore but he doesn't term it as a 'failure' now.",
+          "url": "https://indianexpress.com/article/entertainment/bollywood/rajesh-kumar-rs-2-cr-debt-quitting-acting-farming-sadhguru-advice-not-failure-10844709/",
+          "source": {
+            "name": "The Indian Express"
+          },
+          "publishedAt": "2026-08-22T09:15:57Z",
+          "image": "https://images.indianexpress.com/2026/08/Rajesh-Kumar-2.jpg",
+          "language": "en"
+        },
+        {
+          "title": "F1 LIVE: Follow for the Dutch Grand Prix sprint race!",
+          "description": "The final Dutch Grand Prix continues with Saturday's sprint race at Zandvoort, with Max Verstappen looking to fight his way forward on home soil. Stay with GPblog for all the latest updates, action and reaction as it happens.",
+          "url": "https://sports.yahoo.com/articles/f1-live-dutch-grand-prix-091500693.html",
+          "source": {
+            "name": "Yahoo Sports"
+          },
+          "publishedAt": "2026-08-22T09:15:00Z",
+          "image": "https://s.yimg.com/cv/apiv2/default/icons/favicon_y24_48x48.svg",
+          "language": "en"
+        },
+        {
+          "title": "Man Utd predicted XI vs Hull City: Sesko’s absence sparks dilemma, £83m midfield unleashed",
+          "description": "Manchester United will start their Premier League campaign with an away fixture against the newly promoted Hull City.The league contest will take place at the MKM Stadium. It kicks off on Saturday at ...",
+          "url": "https://sports.yahoo.com/articles/man-utd-predicted-xi-vs-091500811.html",
+          "source": {
+            "name": "Yahoo Sports"
+          },
+          "publishedAt": "2026-08-22T09:15:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/f9953bfc78e80006a739bc6200041c6a0c6eb74aa58d5e4eb086105aa79cc930/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstretty_news_articles_240%2F19aba98adebde1f8d6cf46f8482288b0.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Clare Records Most Deaths In Three Month Period In Four Years Between January and April",
+          "description": "Clare Records Most Deaths In Three Month Period In Four Years Between January and April - Featured % Clare FM",
+          "url": "https://www.clare.fm/featured/clare-records-most-deaths-in-three-month-period-in-four-years-between-january-and-april/",
+          "source": {
+            "name": "Clare FM"
+          },
+          "publishedAt": "2026-08-22T09:14:10Z",
+          "image": "https://www.clare.fm/wp-content/uploads/GP-Doctor-1.jpg",
+          "language": "en"
+        },
+        {
+          "title": "New Mental Health Protocols",
+          "description": "Discover how updated mental health screening protocols improve cancer survivorship care and reduce clinical distress. Read more.",
+          "url": "https://www.emjreviews.com/oncology/news/optimizing-cancer-survivorship-care-through-routine-mental-screening/",
+          "source": {
+            "name": "EMJ"
+          },
+          "publishedAt": "2026-08-22T09:13:48Z",
+          "image": "https://www.emjreviews.com/wp-content/uploads/2026/08/AdobeStock_272047316.jpeg",
           "language": "en"
         }
       ]
