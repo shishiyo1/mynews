@@ -1,10 +1,54 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-22T09:27:08.619Z",
+  "updatedAt": "2026-08-22T12:39:43.852Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "シャオミ、スマホ・タブレット11機種を最大2万円値上げ 9月から順次実施",
+          "description": "シャオミ・ジャパンは8月21日、日本で販売するスマートフォンとタブレット計11モデルの市場想定価格を9月1日から順次引き上げると発表した。理由はメモリー価格…",
+          "url": "https://finance.biggo.jp/news/22758bc3-f0c2-452d-b5e3-07eca403abae",
+          "source": {
+            "name": "BigGo ファイナンス"
+          },
+          "publishedAt": "2026-08-21T23:35:00Z",
+          "image": "https://img.biggo.com/cu9JCPdBQRcFJe4J4vAPEG6MWFIeuBniUoA3DTCje1Y/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzIyNzU4YmMzLWYwYzItNDUyZC1iNWUzLTA3ZWNhNDAzYWJhZV8xNzg3MzU1NjAxX2RlZmF1bHQuanBn.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "サンリオ仕様ヘッドセットが止まらん。ぐうかわ。今度は「ポムポムプリン」",
+          "description": "ヘッドセットがこんなにも愛おしいなんて。ゲーミングヘッドセットのRazer、サンリオ人気投票ナンバー２の「シナモロール」コラボで愛らしさの方向性を極めたと思っていましたが、まだまだ奥は深かったようで。またしても「こいぬの耳」がついた超キュー",
+          "url": "https://www.gizmodo.jp/article/razer-is-back-with-another-insufferably-cute-gaming-headset/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-08-21T23:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/08/18/127030aa-c779-4882-8dbb-61010ae60bff/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "Xiaomi、スマホやタブレット11モデルを値上げ",
+          "description": "Xiaomi Japanは8月21日、日本で販売中のスマートフォンとタブレット計11モデルの市場想定価格を引き上げると、公式Xで発表した。上げ幅は最大2万円。新価格は9月1日午前0時から、モデルごとに順次切り替わる。",
+          "url": "https://japan.cnet.com/article/35251822/",
+          "source": {
+            "name": "CNET Japan"
+          },
+          "publishedAt": "2026-08-21T22:26:00Z",
+          "image": "https://japan.cnet.com/storage/2026/08/22/9975607ffff848b0369573d33ba405dc/011.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "大阪だけで開催の『フェルメール展』、14年ぶり来日“オランダの至宝”の魅力とは？子連れにうれしい展示も",
+          "description": "関西のおいしい、楽しい、知りたい…がいっぱい。関西人による、関西が好きな人のための、関西を24時間遊ぶニュースサイトです。",
+          "url": "https://www.lmaga.jp/news/2026/08/1090963/",
+          "source": {
+            "name": "Lmaga.jp"
+          },
+          "publishedAt": "2026-08-21T21:51:55Z",
+          "image": "https://www.lmaga.jp/wp-content/uploads/2026/08/vermeer2026_0820_2.jpg",
+          "language": "ja"
+        },
         {
           "title": "王者アーセナル、昇格組コヴェントリーを完封の白星発進！ 得点のハヴァーツ、サカほか新加入ツォリスも躍動",
           "description": "プレミアリーグ開幕戦、王者アーセナルは昨季チャンピオンシップを制覇して昇格したコヴェントリーをホームに迎えた。\n新加入のコンサが15番をつけ、お披露目となったのちキックオフ。ファーストシュートは新",
@@ -70,161 +114,117 @@
           "publishedAt": "2026-08-21T15:30:04Z",
           "image": "https://www.gamespark.jp/imgs/ogp_f/1178867.jpg",
           "language": "ja"
-        },
-        {
-          "title": "【西武】中村剛也「ぼちぼち長いことやってますんで」23年連続本塁打を劇的代打満弾で飾る",
-          "description": "西武中村剛也内野手（43）が2－2の延長11回2死満塁に代打で登場。左越えへ、今季1号となる勝ち越し＆決勝の満塁本塁打を放った。これで23年連続本塁打となった… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/baseball/news/202608210001941.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-08-21T14:48:00Z",
-          "image": "https://www.nikkansports.com/baseball/news/img/202608210001941-w500_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『Tシャツが乾くまで』安定と安心の境界線 他人だから見えた“充”松山ケンイチの真実",
-          "description": "「悪いことはしてないけど、樹生に瀬尾さんのことは話しにくい。私と瀬尾さんの関係を理解してもらえる自信がない」　金曜ドラマ『Tシャツが乾くまで』（TBS系）第7話。ついに毎月第3金曜日に充とあずさがなぜ会っていたのか、その真相が語られた。けれど、明かされたのは単純な不倫関係ではなかった。だからこそ、…(1/2)",
-          "url": "https://realsound.jp/movie/2026/08/post-2498952.html",
-          "source": {
-            "name": "Real Sound｜リアルサウンド"
-          },
-          "publishedAt": "2026-08-21T14:10:10Z",
-          "image": "https://realsound.jp/wp-content/uploads/2026/08/20260821-tshirtsricap-14.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『となりのトトロ』冒頭シーンの小ネタにファン驚き オート三輪とすれ違うバスに「実在する」文字",
-          "description": "ニュース｜■物語の舞台は昭和20年代後半～30年代初めごろ　映画『となりのトトロ』が、本日21日に日本テレビ系「金曜ロードショー」で放送された。金曜ロードショーの公式Xでは、名場面カットが公開され、冒頭のオート三輪とすれ違うバスのシーンを紹介した。",
-          "url": "https://www.oricon.co.jp/news/2475464/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-08-21T13:52:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2476000/2475464/20260821_224336_p_o_18814928.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『Tシャツが乾くまで』ラストに新事実 充の発言は“嘘”だった「悲しい」「樹生にとって残酷な…」",
-          "description": "ニュース｜　俳優の蒼井優が主演を務める、TBS系金曜ドラマ『Tシャツが乾くまで』（毎週金曜　後10：00）の第7話が、21日に放送された。以下、ネタバレを含みます。　同作は、『silent』などで知られる生方美久が脚本を手がける完全オリジナル作品。とある事故に巻き込まれた2組の夫婦を軸に、“喪失”と“再生”、そして“愛”と“秘密”を描く。演出は映画『花束みたいな恋をした』などで知られる土井裕泰が担当する。",
-          "url": "https://www.oricon.co.jp/news/2475091/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-08-21T13:51:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2476000/2475091/20260820_123638_p_o_62348113.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Arsenal rout Coventry 3-0 to begin Premier League title defence in style",
-          "description": "Kai Havertz struck early, Bukayo Saka doubled the lead, before Martin Odegaard netted after the break.",
-          "url": "https://www.aljazeera.com/sports/2026/8/21/arsenal-rout-coventry-3-0-to-begin-premier-league-title-defence-in-style",
+          "title": "Nyajena succession row deepens as rival clan members fight over chieftainship",
+          "description": "A SUCCESSION fight within the Nyajena royal family has spilled into the High Court, with relatives Isaac Jerera and Haruzivishe Jerera challenging the appointment of Last Dzivakwe as substantive Chief Nyajena. The Jereras say Dzivakwe’s appointment breached the clan’s customary succession process and could cause conflict and division within the community, while Dzivakwe insists he […]",
+          "url": "https://www.newzimbabwe.com/nyajena-succession-row-deepens-as-rival-clan-members-fight-over-chieftainship/",
+          "source": {
+            "name": "NewZimbabwe.com"
+          },
+          "publishedAt": "2026-08-22T00:38:08Z",
+          "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2025/09/15180117/chief-badge.png",
+          "language": "en"
+        },
+        {
+          "title": "Guyana’s Rodrigues Birkett leads informal poll in race to be next UN leader",
+          "description": "Guyanese diplomat emerges narrowly ahead as the council works towards consensus before Guterres departs.",
+          "url": "https://www.aljazeera.com/news/2026/8/22/guyanas-rodrigues-birkett-leads-informal-poll-in-race-to-be-next-un-leader",
           "source": {
             "name": "Al Jazeera"
           },
-          "publishedAt": "2026-08-21T21:25:23Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a88a6ec-1787340524_1d8f15-1787346769.jpg?resize=1200%2C630&quality=80",
+          "publishedAt": "2026-08-22T00:36:54Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a88d01a31-1787351066.jpg?resize=1920%2C1440",
           "language": "en"
         },
         {
-          "title": "Girl, 6, dies after Shoreham sea tragedy which killed Palestinian family",
-          "description": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex.",
-          "url": "https://www.bbc.com/news/articles/c629y0kx8gyo",
+          "title": "Fords dominate as Payne claims opening Ipswich pole",
+          "description": "Matt Payne took pole position for the opening race of the Century Batteries Ipswich Super440, leading a Ford-dominated top 10. - Speedcafe.com",
+          "url": "https://speedcafe.com/supercars-news-2026-ipswich-super440-qualifying-race-1-results-report-matt-payne-pole-position/",
           "source": {
-            "name": "BBC"
+            "name": "Speedcafe.com"
           },
-          "publishedAt": "2026-08-21T21:24:13Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8911/live/1fc38590-9da8-11f1-95ab-d3b679e2384a.jpg",
+          "publishedAt": "2026-08-22T00:36:30Z",
+          "image": "https://speedcafe.com/wp-content/uploads/2026/08/Supercars-QueenslandRaceway-Friday-088-copy.jpg",
           "language": "en"
         },
         {
-          "title": "Zach Hickerson describes Hayden Panettiere's final moments before her death",
-          "description": "Hayden Panettiere's boyfriend Brian Hickerson's brother reveals what he says happened inside the Airbnb where the \"Heroes\" star was found unresponsive.",
-          "url": "https://www.foxnews.com/entertainment/hayden-panettiere-boyfriends-brother-reveals-what-happened-inside-airbnb-before-actress-death",
+          "title": "US, Canada fail to reach trade pact to avert new tariffs",
+          "description": "The United States and Canada have failed to reach a trade deal, and the US said it would impose 50% tariffs on some imports from Canada, an escalation of tensions between the two long-time allies.",
+          "url": "https://www.rte.ie/news/2026/0822/1588822-canada-us-trade-deal/",
           "source": {
-            "name": "Fox News"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-08-21T21:23:37Z",
-          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/hayden-panettiere-critics-choice-awards-fox-news_.jpg",
+          "publishedAt": "2026-08-22T00:35:50Z",
+          "image": "https://www.rte.ie/images/0024e1a7-1600.jpg",
           "language": "en"
         },
         {
-          "title": "Swedish police say 1 dead, 2 injured after school sword attack",
-          "description": "An 18-year-old with a sword attacked a school Friday in central Sweden, killing one person and seriously injuring at least two others.",
-          "url": "https://www.cbsnews.com/news/sweden-school-sword-attack-fagersta/",
+          "title": "Christchurch city councillor calls for bed register to crack down on unapproved Airbnbs",
+          "description": "A Christchurch city councillor is calling for a bed register to crack down on units being used for short-stay accommodation without permission.",
+          "url": "https://www.rnz.co.nz/news/business/1080086/christchurch-city-councillor-calls-for-bed-register-to-crack-down-on-unapproved-airbnbs",
           "source": {
-            "name": "CBS News"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-08-21T21:22:00Z",
-          "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/21/45de954d-7914-477a-8659-156a9300b901/thumbnail/1200x630/ef3217250f4316ff058000fb6b598cca/ap26233567284010.jpg",
+          "publishedAt": "2026-08-22T00:33:26Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--Ar8yGVLb--/t_tohu-badge-facebook/f_auto/q_auto/4MJBLBO_image_crop_113636",
           "language": "en"
         },
         {
-          "title": "Amy Hunt pipped into second by Kayla White on return from European gold rush",
-          "description": "Britain’s Amy Hunt had to be happy with second behind the American Kayla White in the 200m at the at the Lausanne Diamond League on Friday",
-          "url": "https://www.theguardian.com/sport/2026/aug/21/amy-hunt-pipped-into-second-by-kayla-white-on-return-from-european-gold-rush",
+          "title": "Chinese investor Li Song wins key court battle against Italian businessman Marconati",
+          "description": "A long-running corporate dispute between Chinese investor Li Song and Italian businessman Francesco Marconati has taken another turn after the High Court struck out the latter’s opposition to her application challenging her removal as a director of two companies, leaving the case unopposed. The two businesspeople, who were both based in Zimbabwe, are not new […]",
+          "url": "https://www.newzimbabwe.com/chinese-investor-li-song-wins-key-court-battle-against-italian-businessman-marconati/",
           "source": {
-            "name": "The Guardian"
+            "name": "NewZimbabwe.com"
           },
-          "publishedAt": "2026-08-21T21:20:00Z",
-          "image": "https://i.guim.co.uk/img/media/20a89db896e3d47fdad097953ecd6b12489d7d8b/506_123_3975_3180/master/3975.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06649d18b7a482a7a7ad04ea02bf140f",
+          "publishedAt": "2026-08-22T00:31:31Z",
+          "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2025/10/07061214/high-court.jpg",
           "language": "en"
         },
         {
-          "title": "Inaugural Africa Business Investment Summit Convenes 27-28 August in Washington DC",
-          "description": "Africa's business leaders will convene in Washington D.C., for the inaugural Africa Business Investment Summit (ABIS) 2026, taking place at MGM National Harbor 27–28 August 2026 as the centerpiece of Millennium Excellence Awards America.",
-          "url": "https://allafrica.com/stories/202608210689.html",
+          "title": "Biggest El Nino in ‘over a century’ to dial up global heat, India braces for double crop hit",
+          "description": "A record-strength El Niño could intensify global warming and disrupt weather patterns, with India facing additional pressure on the monsoon and farm output | World News",
+          "url": "https://www.hindustantimes.com/world-news/biggest-el-nino-in-over-a-century-to-dial-up-global-heat-india-braces-for-double-crop-hit-101787355622389.html",
           "source": {
-            "name": "allAfrica.com"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-08-21T21:19:03Z",
-          "image": "https://cdn.allafrica.com/download/pic/main/main/csiid/00690210:4332d0b4b619153653212cd8fc5d7d7b:arc614x376:w1200.jpg",
+          "publishedAt": "2026-08-22T00:29:11Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/08/21/1600x900/logo/HONDURAS-WEATHER-DROUGHT-3_1787356775936_1787356791299_b237bb3b-de44-487c-b1fb-472a8e04ce35.jpg",
           "language": "en"
         },
         {
-          "title": "Trump threatens $5bn lawsuit over liberal National Guard policy report",
-          "description": "A report released by thinktank Cap argues the deployment of the National Guard failed to have a measurable impact on crime, despite costing billions",
-          "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-lawsuit-threat-national-guard-deployment-report",
+          "title": "Rollers Bakery, made famous by golfer Ryan Fox, reports attempted break-in",
+          "description": "Kiwi golfer Ryan Fox's favourite bakery is cleaning up after an apparent break-in attempt.",
+          "url": "https://www.rnz.co.nz/news/crime-and-justice/1080071/rollers-bakery-made-famous-by-golfer-ryan-fox-reports-attempted-break-in",
           "source": {
-            "name": "The Guardian"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-08-21T21:17:00Z",
-          "image": "https://i.guim.co.uk/img/media/875f2650f8fa3ca837d49fa8c4de8f1745fd7d97/0_0_5324_4260/master/5324.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a3062250added778166260fb200e5c17",
+          "publishedAt": "2026-08-22T00:27:01Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--vzDYpA4G--/t_tohu-badge-facebook/f_auto/q_auto/4JJHXKP_rollers_break_in_jpg",
           "language": "en"
         },
         {
-          "title": "Wigan beat Wakefield to go top of Super League",
-          "description": "Jai Field scores a length-of-the-field try to help send Wigan Warriors top of the Super League table with a hard-fought win against Wakefield Trinity.",
-          "url": "https://sports.yahoo.com/articles/wigan-beat-wakefield-top-super-205723193.html",
+          "title": "Iowa HHS adds to list of potential measles exposure locations",
+          "description": "Visitors to a southern Iowa Pizza Ranch may have been exposed to Measles earlier this month.",
+          "url": "https://www.kcci.com/article/measles-in-iowa-exposure-locations-pizza-ranch-ottumwa/73499244",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "KCCI"
           },
-          "publishedAt": "2026-08-21T21:16:37Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/a857aef777ce8d6681938c5a082c4659759dbdc2712e6912b9ec42a1b9240dbc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F02345435a8c95e1b344d85aa900628c0.jpg",
+          "publishedAt": "2026-08-22T00:27:00Z",
+          "image": "https://kubrick.htvapps.com/vidthumb/4977886b-52f1-4175-bb21-8419244b5aa4/c646b92c-aac8-4dff-a67c-7c86064a8097.jpg?crop=1xw%3A1.0xh%3Bcenter%2Ctop&resize=1200%3A*",
           "language": "en"
         },
         {
-          "title": "Arsenal 3-0 Coventry Stats: Defending Champions Cruise to Victory on Opening Night",
-          "description": "It was a routine win for the Premier League champions on the first night of the 2026-27 campaign. Re-live it with our Arsenal vs Coventry stats page.",
-          "url": "https://theanalyst.com/articles/arsenal-vs-coventry-stats-premier-league-08-2026",
+          "title": "Noriega glad Army got 'monkey off their back'",
+          "description": "Walt Nor­ie­ga, coach of two-time T&T Pre­mier Foot­ball League (TTPFL) cham­pi­ons De­fence Force, said he was glad to see his team get the \"mon­key off their back\" fol­low­ing their come-from-be­hind 2-1 win over Suri­name cham­pi­ons SV Bro­ki in Group A of the 2026 Con­ca­caf Caribbean Cup at Hase­ly Craw­ford Sta­di­um, Mu­cu­rapo, Port-of-Spain on Thurs­day night (Au­gust 20).",
+          "url": "https://www.guardian.co.tt/sports/noriega-glad-army-got-monkey-off-their-back-6.2.2650765.45d4d77e51",
           "source": {
-            "name": "Opta Analyst"
+            "name": "Trinidad Guardian"
           },
-          "publishedAt": "2026-08-21T21:16:33Z",
-          "image": "https://theanalyst.com/wp-content/uploads/2026/08/kai-havertz-v-coventry-celebration.png",
-          "language": "en"
-        },
-        {
-          "title": "Arsenal rout Coventry to open Premier League season in style",
-          "description": "Mikel Arteta's side brushed aside promoted Coventry 3-0 in emphatic fashion, underlining their determination to retain the title.",
-          "url": "https://www.freemalaysiatoday.com/category/highlight/2026/08/22/arsenal-rout-coventry-to-open-premier-league-season-in-style",
-          "source": {
-            "name": "Free Malaysia Today"
-          },
-          "publishedAt": "2026-08-21T21:14:00Z",
-          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/08/dcbc877a-b7dc-439d-b8f7-9f562e542dec-14231209.webp",
+          "publishedAt": "2026-08-22T00:25:04Z",
+          "image": "https://www.guardian.co.tt/neo/1/icon32x32.png",
           "language": "en"
         }
       ]
