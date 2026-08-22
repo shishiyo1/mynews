@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-22T15:21:20.493Z",
+  "updatedAt": "2026-08-22T18:31:21.672Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "智弁和歌山・中谷監督「相手ベンチずっと見て…」 夏の甲子園",
+          "description": "全国高校野球選手権大会は22日、阪神甲子園球場で決勝があり、智弁和歌山が健大高崎（群馬）に4―3で逆転勝ちし、5年ぶり4度目の優勝を決めた。 　試合後の智弁和歌山・中谷仁監督の主な談話は以下の通り。",
+          "url": "https://mainichi.jp/articles/20260822/k00/00m/050/075000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-08-22T06:28:32Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/08/22/20260822mpj00m050004000p/0c10.jpg?1",
+          "language": "ja"
+        },
+        {
+          "title": "カナダは米関税に「同額」で対抗とカーニー首相、貿易交渉が決裂",
+          "description": "アメリカは22日午前0時、カナダの広範な商品に対する新たな関税措置を発効した。両国は貿易をめぐる交渉を続けていたが、土壇場で決裂した。カナダのマーク・カーニー首相は、21日夜の期限直前に交渉の中断を発表。アメリカ製品に対して「同額」の報復関税を課すと述べた。",
+          "url": "https://www.bbc.com/japanese/articles/c2el88gxkxxo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-08-22T06:13:48Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "橋本氏「みんなで担う党に」玉木氏「政権準備の3年に」国民民主代表選〝総総分離〟で火花",
+          "description": "国民民主党の玉木雄一郎代表の任期満了に伴う代表選が22日、告示された。玉木氏と当選2回の橋本幹彦衆院議員による一騎打ちで、9月6日の臨時党大会で新代表を選出する。投票は同3日に締め切られる。代表選では、党員・サポーター4万5155人、地方…",
+          "url": "https://www.sankei.com/article/20260822-QKNARXS7ZRGNNOPUTH2QQSZP2M/",
+          "source": {
+            "name": "産経ニュース"
+          },
+          "publishedAt": "2026-08-22T04:40:55Z",
+          "image": "https://www.sankei.com/resizer/v2/44XGUXNO6VAB3MFROGXRA5UVUM.jpg?auth=22c050be06cd436e0235bfd9279d50638733c7327ca4fb89fc394e10a088b7b9&quality=50&focal=2818%2C2135&width=1200&height=675",
+          "language": "ja"
+        },
+        {
+          "title": "庄司智春、自宅に“巨大”トレーニングマシンを設置「置く事を許してくれたミキティ、子ども達ありがとう！」 SNS驚き「えっ？これが自宅に???」「すごい!!」「これは羨ましい」",
+          "description": "ニュース｜　お笑いコンビ・品川庄司の庄司智春（50）が20日、自身のインスタグラムを更新。「遂に！買っちゃいました！」と自宅に新たに設置したトレーニングマシンを公開した。　「めちゃくちゃ嬉しい！」と、大きなトレーニングマシンに腰掛け、ガッツポーズをする自身の写真をアップ。「最近はジム行ってもめちゃくちゃ混んでて 残念な気持ちで帰る事も増えたから 家にこれがあればいつでもトレーニングが充実する！」とうれしさいっぱいに報告した。",
+          "url": "https://www.oricon.co.jp/news/2475368/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-08-22T04:35:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2476000/2475368/20250917_112045_p_o_51897574.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "舞台衣装のチャームやアースラの扇子も！舞浜アンフィシアター／劇団四季 ディズニーミュージカル『リトルマーメイド』公演グッズ",
+          "description": "2026年8月26日開幕の劇団四季 ディズニーミュージカル『リトルマーメイド』舞浜アンフィシアター公演グッズを紹介。アリエルのTシャツやゴブラン織りバッグ、舞台衣装のブラインドチャーム、アースラの扇子まで価格と写真つきでまとめました。",
+          "url": "https://dtimes.jp/post-1336738/",
+          "source": {
+            "name": "Dtimes"
+          },
+          "publishedAt": "2026-08-22T03:23:45Z",
+          "image": "https://dtimes.jp/wp-content/uploads/2026/08/集合_a_3x2-20260822-493d3a-scaled.jpg",
+          "language": "ja"
+        },
         {
           "title": "ロシアがショッピングセンターに「ダブルタップ攻撃」 16人殺害とウクライナ当局",
           "description": "ウクライナ中部クリヴィー・リフで21日、市内最大のショッピングセンターがロシア軍のドローンによる二重攻撃を受けた。地元当局によると、少なくとも16人が殺害され、子ども23人を含む130人が負傷したほか、がれきの下に閉じ込められている人も複数いる。最初の攻撃の後、救助隊の到着後に再び攻撃して被害を拡大しようとする、いわゆる「ダブルタップ攻撃」だったという。",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-08-22T02:00:00Z",
           "image": "https://ascii.jp/img/2026/08/22/4515810/xl/26625f9e15896013.jpg?20200122",
           "language": "ja"
-        },
-        {
-          "title": "全て最安値を更新！『バニーガーデン2』や『へべれけ ばにーがーでん』、『LoveR Kiss EM』など、美少女との交流をお得価格で楽しもう【eショップのお薦めセール】",
-          "description": "全て最安値を更新！『バニーガーデン2』や『へべれけ ばにーがーでん』、『LoveR Kiss EM』など、美少女との交流をお得価格で楽しもう【eショップのお薦めセール】（インサイド）「ニンテンドーeショップ」では、ゲームのダウンロード版を販売しているほか、取り扱いタイトルの一部を割引価格で提供するセール…",
-          "url": "https://topics.smt.docomo.ne.jp/article/insidegames/trend/insidegames-186594?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-08-22T01:45:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/insidegames/m_insidegames-186594.png",
-          "language": "ja"
-        },
-        {
-          "title": "ビットコイン7.9万ドル突破、イラン制裁観測で逃避買い オプション市場は9万ドルを意識｜仮想NISHI",
-          "description": "仮想通貨ビットコインは8月22日も続騰し、一時7万9,000ドルを突破した。円建てでも過去24時間で約100万円幅の上昇となっており、8万ドルの大台を目前に控える展開となっている。",
-          "url": "https://coinpost.jp/?p=732566",
-          "source": {
-            "name": "CoinPost"
-          },
-          "publishedAt": "2026-08-22T01:35:13Z",
-          "image": "https://coinpost.jp/wp-content/uploads/2024/12/IMG_0555.png",
-          "language": "ja"
-        },
-        {
-          "title": "アップル、AI戦略転換でSiri・Vision Pro部門の200人超を削減",
-          "description": "アップルはSiriおよびVision Pro部門で200人超の人員削減を実施し、削減数は両部門でほぼ均等に分かれる。Vision Proのゲームチームはほぼ解体され、没入型動画…",
-          "url": "https://finance.biggo.jp/news/26cb0059-7400-4441-b89b-1b30977e268b",
-          "source": {
-            "name": "BigGo ファイナンス"
-          },
-          "publishedAt": "2026-08-22T01:35:00Z",
-          "image": "https://img.biggo.com/KMYBOHGo3FpNezNrbIGuHdsuOxXawNDBCzSiMYAG4uk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzI2Y2IwMDU5LTc0MDAtNDQ0MS1iODliLTFiMzA5NzdlMjY4Yl8xNzg3MzYyNjc1X2RlZmF1bHQuanBn.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "新型スマートウォッチ「Pixel Watch 5」何ができる？ 「41mm」「45mm」どちらを選ぶべきか？",
-          "description": "グーグルは8月20日、スマートウォッチ「Pixel Watch 5」を発売した。従来通り、41mmモデルと45mmモデルの2サイズが用意されているPixel Watch 5。どちらのサイズを選ぶべきだろうか？",
-          "url": "https://japan.cnet.com/article/35251655/",
-          "source": {
-            "name": "CNET Japan"
-          },
-          "publishedAt": "2026-08-22T01:35:00Z",
-          "image": "https://japan.cnet.com/storage/2026/08/20/e0efd65e713ab44084deb21d02d63e1f/pixw_000.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「3万5000円支払った」突如中止の花火大会…チケット購入者に募る不信感「返金と謝罪を求める」幻と消えた夏の思い出「心にぽっかり穴」 琵琶湖三市同時花火大会",
-          "description": "琵琶湖で22日に開催予定だった花火大会が突如中止された問題。\nチケットを購入した人たちは不信感を募らせたままです。\n■「琵琶湖三市同時花火大会」急遽中止も返金連絡なし\n滋賀県の長浜・彦根・高島",
-          "url": "https://news.yahoo.co.jp/articles/6b4ffcbe40b6e7cf884c4a4dbf64333e4b7a32ce",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-22T01:00:34Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260822-22888032-mbsnews-000-2-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Ukraine war briefing: Zelenskyy vows response to Russia’s deadly shopping centre attack",
-          "description": "Ukrainian president calls strikes on home town Kryvyi Rih an ‘absolute Russian atrocity’ and says world must ‘not remain silent’. What we know on day 1,641",
-          "url": "https://www.theguardian.com/world/2026/aug/22/ukraine-war-briefing-zelenskyy-vows-response-to-russias-deadly-shopping-centre-attack",
+          "title": "Chinese Hacker Uses DeepSeek AI to Automate Vulnerability Exploitation",
+          "description": "A Chinese-speaking threat actor has been observed using DeepSeek AI as an autonomous offensive operator to identify exposed infrastructure, research vulnerabilities, acquire public proof-of-concept exploits, and launch attacks with minimal human intervention.",
+          "url": "https://cyberpress.org/chinese-hacker-uses-deepseek-ai/",
           "source": {
-            "name": "The Guardian"
+            "name": "cyberpress.org"
           },
-          "publishedAt": "2026-08-22T03:20:00Z",
-          "image": "https://i.guim.co.uk/img/media/b6d6cb49af17646a83f3a51ed2ee73cd48cd31a7/48_0_1065_852/master/1065.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c61de1deca185a368c751adca4f625b",
+          "publishedAt": "2026-08-22T06:31:16Z",
+          "image": "https://cyberpress.org/wp-content/uploads/2026/08/chinese-hacker-uses-deepseek-ai-to-automate-vulnerability-exploitation1-6a89407fe16f0.webp",
           "language": "en"
         },
         {
-          "title": "FASHION PULIS: Blooming love",
-          "description": "“Give them a chance” is the battle cry for relationships that are just beginning to bloom. Whenever fans see celebrities hanging around each other often,...",
-          "url": "https://mb.com.ph/2026/08/22/fashion-pulis-blooming-love",
+          "title": "iQOO is allegedly working on a small and powerful tablet",
+          "description": "It would compete with the RedMagic Astra 2, and would be the smallest iQOO tablet to date. According to a new rumor from Digital Chat Station on Weibo,...",
+          "url": "https://www.gsmarena.com/iqoo_is_allegedly_working_on_a_small_and_powerful_tablet-news-74291.php",
           "source": {
-            "name": "Manila Bulletin"
+            "name": "GSMArena.com"
           },
-          "publishedAt": "2026-08-22T03:19:52Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/22/125545.webp",
+          "publishedAt": "2026-08-22T06:31:02Z",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iqoo-small-tablet-rumor/-952x498w6/gsmarena_000.jpg",
           "language": "en"
         },
         {
-          "title": "U.S. Envoy Barrack Says Israeli Strike in Syria Could Have Led to War With Turkey - Israel Security",
-          "description": "Live updates | U.S. envoy Barrack says Israeli strike in Syria could have led to war with Turkey . Israel offers condolences to slain Gaza aid workers' families after saying it won't open probe into killing. Previous updates",
-          "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-22/ty-article-live/u-s-envoy-barrack-israeli-strike-in-syria-could-have-led-to-war-with-turkey/000001a0-2762-d129-a3ba-676ae4a50000",
+          "title": "Meghan Markle cryptically breaks her silence after UK return with Prince Harry confirmed",
+          "description": "Prince Harry and Meghan Markle are preparing for their big move back to the UK later this month as non-working royals, 6 years after Megxit and moving to the US",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/meghan-markle-cryptically-breaks-her-063000091.html",
           "source": {
-            "name": "Haaretz"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-08-22T03:17:00Z",
-          "image": "https://img.haarets.co.il/bs/000001a0-2762-d129-a3ba-676ae4a50000/90/a0/0309578e4ec9ac722fb4783a3011/final-desktop.png?precrop=1000,581,x0,y0&width=1200&height=630&cmsprod",
+          "publishedAt": "2026-08-22T06:30:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/2f3ba321b923c6c625d5ea768a788df77d782bb19e572a8a80135af079ff6050/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fce47a3bd53cf1389332dbab8539d2a64.jpg",
           "language": "en"
         },
         {
-          "title": "Mundi Mundi offers music fans complimentary day amid improved weather",
-          "description": "After record rains drenched Broken Hill ahead of the Mundi Mundi music festival and ticketholders were turned away, organisers take advantage of welcome sunshine to open the gates for a complimentary day.",
-          "url": "https://www.abc.net.au/news/2026-08-22/mundi-mundi-presses-on-as-sun-shines-on-final-day/107066902",
+          "title": "Man awarded Sh505,500 for injuries in van crash",
+          "description": "Oigara says he suffered head injuries at the hands of Bateleur Eagles Safaris",
+          "url": "https://www.the-star.co.ke/news/2026-08-22-man-awarded-sh505500-for-injuries-in-van-crash",
           "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-08-22T03:16:45Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/ee5e43849803a7a3582efa8b24f73466?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-08-22T06:30:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/08/8751c2cd-a02b-46fa-a9cd-8729bda6b4da.webp?1787382620773",
           "language": "en"
         },
         {
-          "title": "Heart-in-mouth descent of treacherous Anglesey cliff leaves people 'unable to look'",
-          "description": "A video posted online raised safety fears and left viewers holding their breath. But some say the incident near the South Stack lighthouse looked 'worse than it was'",
-          "url": "https://www.dailypost.co.uk/whats-on/whats-on-news/heart-mouth-descent-treacherous-anglesey-34486320",
+          "title": "Scientist Solves Hard Problems Building Quantum Particle Detectors",
+          "description": "John Lajoie is a builder — not of buildings or everyday machines, but of detectors with a special purpose. A physicist at the Department of Energy’s (DOE’s) Oak Ridge National Laboratory (ORNL), Lajoie has shaped his career around finding hard-to-solve problems and coming up with new ways to tackle them.",
+          "url": "https://www.azoquantum.com/News.aspx?newsID=11234",
           "source": {
-            "name": "North Wales Live"
+            "name": "AZoQuantum"
           },
-          "publishedAt": "2026-08-22T03:15:00Z",
-          "image": "https://i2-prod.dailypost.co.uk/article34486401.ece/ALTERNATES/s1200d/0_AFRDPW180826SouthStack_02.jpg",
+          "publishedAt": "2026-08-22T06:30:00Z",
+          "image": "https://www.azoquantum.com/images/news/ThumbForNews_11234_17873802520905836.jpg",
           "language": "en"
         },
         {
-          "title": "Pre-peak discount issue that affected 210,000 journeys a day on Aug 20 and 21 fixed: SimplyGo",
-          "description": "The discount was not activated for SimplyGo EZ-Link and bank card transactions on both days because of a configuration error, the company said.",
-          "url": "https://www.channelnewsasia.com/singapore/simplygo-fixed-pre-peak-discount-issue-6334516",
+          "title": "South East farmers urged to vaccinate animals against bluetongue",
+          "description": "There have now been 517 cases of bluetongue in the UK, according to government figures.",
+          "url": "https://www.bbc.co.uk/news/articles/ckg3m6v0xmzo",
           "source": {
-            "name": "CNA"
+            "name": "BBC"
           },
-          "publishedAt": "2026-08-22T03:13:41Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--hq5ppmAd--/c_crop,h_843,w_1500,x_0,y_31/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2024/01/22/20240112_nlx_simplygo-3.jpg?itok=ZILVGIXK",
+          "publishedAt": "2026-08-22T06:29:23Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1046/live/48c08be0-8cba-11f1-b49b-bb9fc846a015.png",
           "language": "en"
         },
         {
-          "title": "Twist in Lucknow double-murder suicide: Wife’s Rs 1.5 crore alimony demand emerges as likely motive for killings",
-          "description": "LUCKNOW: A Rs 1.5 crore financial settlement sought by Divya Mishra in her divorce could have been a likely motive behind her murder by her banker hus.",
-          "url": "https://timesofindia.indiatimes.com/city/lucknow/twist-in-lucknow-double-murder-suicide-wifes-rs-1-5-crore-alimony-demand-emerges-as-likely-motive-for-killings/articleshow/133416431.cms",
+          "title": "Zee Entertainment promoter allotted convertible warrants",
+          "description": "Each warrant can later be converted into one equity share of Rs 1 face value, at Rs 126 per share.",
+          "url": "https://www.moneycontrol.com/news/business/markets/zee-entertainment-promoter-allotted-convertible-warrants-14012806.html",
           "source": {
-            "name": "The Times of India"
+            "name": "Moneycontrol.com"
           },
-          "publishedAt": "2026-08-22T03:13:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-133416482,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-08-22T06:28:22Z",
+          "image": "https://images.moneycontrol.com/static-mcnews/2024/02/Zee-1.jpg",
           "language": "en"
         },
         {
-          "title": "Fury Calls Joshua Coward, Doubts Super",
-          "description": "Tyson Fury calls Anthony Joshua a coward, casting fresh doubt on their super-fight. Learn why the Fury Joshua fight is now uncertain.",
-          "url": "https://punchng.com/fury-calls-joshua-coward-casts-doubts-on-super-fight/",
+          "title": "Arsenal 3-0 Coventry: Kai Havertz, Bukayo Saka and Martin Odegaard fire Gunners to dominant Premier League win on opening night",
+          "description": "Report and free match highlights as Arsenal begin their title defence in style with a commanding victory over Championship winners and newly-promoted Coventry; Kai Havertz, Bukayo Saka and Martin Odegaard were on target at the Emirates Stadium in a dominant performance",
+          "url": "https://www.skysports.com/football/news/11661/13565522/arsenal-3-0-coventry-kai-havertz-bukayo-saka-and-martin-odegaard-fire-gunners-to-dominant-premier-league-win-on-opening-night",
           "source": {
-            "name": "Punch Newspapers"
+            "name": "Sky Sports"
           },
-          "publishedAt": "2026-08-22T03:12:00Z",
-          "image": "https://cdn.punchng.com/wp-content/uploads/2026/08/21235235/Joshua-and-Fury_1787352755-1200x630.webp",
+          "publishedAt": "2026-08-22T06:26:18Z",
+          "image": "https://e0.365dm.com/26/08/1600x900/skysports-bukayo-saka-martin-odegaard_7327700.jpg?20260821210850",
           "language": "en"
         },
         {
-          "title": "CM Punk Retains WWE Title Over Kevin Owens After Sami Zayn Interferes On SmackDown",
-          "description": "CM Punk retained the WWE Championship over Kevin Owens with an assist from Sami Zayn during \"WWE SmackDown.",
-          "url": "https://www.wrestlinginc.com/2242055/wwe-smackdown-cm-punk-retains-title-kevin-owens-sami-zayn-interferes/",
+          "title": "Live NRL: Warriors v Rabbitohs at Accor Stadium",
+          "description": "The Warriors meet a resurgent Rabbitohs side, having regained their big guns at the perfect time.",
+          "url": "https://www.rnz.co.nz/news/sport/1080262/live-nrl-warriors-v-rabbitohs-at-accor-stadium",
           "source": {
-            "name": "Wrestling Inc."
+            "name": "RNZ"
           },
-          "publishedAt": "2026-08-22T03:10:00Z",
-          "image": "https://www.wrestlinginc.com/img/gallery/cm-punk-retains-wwe-title-over-kevin-owens-after-sami-zayn-interferes-on-smackdown/l-intro-1787364478.jpg",
+          "publishedAt": "2026-08-22T06:25:34Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--GgbcUibo--/t_tohu-badge-facebook/f_auto/q_auto/4JJOU37_SOUTHS_VS_WARRIORS_BLOG_GFX_png",
           "language": "en"
         },
         {
-          "title": "Edward Bluemel as Agatha Christie's Hercule Poirot in BBC, BritBox Pic",
-          "description": "The BBC and BritBox released a first-look image of Edward Bluemel as Agatha Christie detective Hercule Poirot in upcoming series 'Hercule.'",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/bbc-britxbox-hercule-poirot-show-edward-bluemel-first-look-1236678348/",
+          "title": "Car destroyed in fire after crash near Mid Valley",
+          "description": "KUALA LUMPUR: A car was destroyed after catching fire following a road accident near Mid Valley on Saturday (Aug 22).",
+          "url": "https://www.thestar.com.my/news/nation/2026/08/22/car-destroyed-in-fire-after-crash-near-mid-valley",
           "source": {
-            "name": "The Hollywood Reporter"
+            "name": "The Star"
           },
-          "publishedAt": "2026-08-22T03:09:18Z",
-          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Hercule-Mammoth-Screen-H-2026.jpg?w=1440&h=810&crop=1",
+          "publishedAt": "2026-08-22T06:24:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/22/4072670.jpg",
           "language": "en"
         }
       ]
