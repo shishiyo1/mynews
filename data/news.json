@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-23T21:22:08.130Z",
+  "updatedAt": "2026-08-24T01:20:19.226Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "ハッブルの100倍の視野で宇宙を捉える…NASA、30日にローマン宇宙望遠鏡を打ち上げ",
+          "description": "NASAは今月30日、フロリダ州ケネディ宇宙センターから次世代宇宙望遠鏡「ナンシー・グレース・ローマン宇宙望遠鏡」を打ち上げる。SpaceXのロケットに搭載され、…",
+          "url": "https://finance.biggo.jp/news/7678d47b-c875-4e1c-a2ae-fba1d166c240",
+          "source": {
+            "name": "BigGo ファイナンス"
+          },
+          "publishedAt": "2026-08-23T13:10:24Z",
+          "image": "https://img.biggo.com/lQLs7mZl3fSyWHH1-d2OBXfYujii8b6aNVthF59LFVo/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4Lzc2NzhkNDdiLWM4NzUtNGUxYy1hMmFlLWZiYTFkMTY2YzI0MF8xNzg3NDkwNTE3X2RlZmF1bHQud2VicA.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「普通のデニムには戻れません」 ユニクロの“EZYバレルジーンズ”が大好評！ 「見た目はデニム、履き心地はスウェット」「色違いで2本購入」",
+          "description": "ユニクロの「EZYバレルジーンズ」は、本格的なデニムのような見た目と、スウェットのようなはき心地を両立した男女兼用ジーンズです。ドレープ感のある生地を使い、立体的なバレルシルエットに仕上げているのが特徴。ウエストはドローコード入りのゴム仕様で、ゆったりとはける1本です。　本記事では「EZYバレルジーンズ」を…",
+          "url": "https://nlab.itmedia.co.jp/research/articles/3985092/",
+          "source": {
+            "name": "ねとらぼ"
+          },
+          "publishedAt": "2026-08-23T13:10:00Z",
+          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/05/1748497315_ae893cf31188d906210e595c4055854f.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "高市内閣支持率56％で先月からほぼ横ばい 政権発足以降で最低【NNN・読売新聞 世論調査】",
+          "description": "NNNと読売新聞が行った世論調査で、高市内閣の支持率は先月の調査からほぼ横ばいの56％でした。去年10月の政権発足以降、最低ですが、下げ止まった形です。",
+          "url": "https://news.ntv.co.jp/category/politics/bb7ae282fe64471782c482a2989eda43",
+          "source": {
+            "name": "日テレNEWS NNN"
+          },
+          "publishedAt": "2026-08-23T13:00:00Z",
+          "image": "https://news.ntv.co.jp/gimage/n24/articles/fd83c4ccddca4808a17b23127c8683d7/b7c68776240fe27a0620dc9fa115e9ae0b4e119f448d0649571201cf19e5715e.jpg?w=1200",
+          "language": "ja"
+        },
+        {
+          "title": "鈴木彩艶はプレミア開幕節でベンチスタート…アストン・ビラは三笘欠場のブライトンと対戦",
+          "description": "プレミアリーグは23日に第1節のブライトン対アストン・ビラを開催する。日本時間午後10時のキックオフを前に先発メンバーが発表され、ブライトンのMF三笘薫はメンバー外でアストン・ビラのGK鈴木彩艶は控えとな...",
+          "url": "https://web.gekisaka.jp/news/world/detail/?457403-457403-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-08-23T12:36:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/458000/457403/news_457403_1.jpg?time=20260823213626",
+          "language": "ja"
+        },
+        {
+          "title": "バレー女子日本代表、韓国にストレート勝利で準々決勝進出！第1セットから30点越えの接戦制し開幕2連勝【アジア選手権】（TBS NEWS DIG Powered by JNN）",
+          "description": "■バレーボール アジア選手権2026 女子 予選ラウンド　日本ー韓国（日本時間23日、中国・天津）\nアジアNo.1を決める「アジア選手権2026」。同大会で優勝すればロサンゼルス五輪出場権を獲得で",
+          "url": "https://news.yahoo.co.jp/articles/d0df51e8176e48e2f98b43852cca810f9fe16011",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-23T12:09:43Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260823-00010018-jnn-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【台風情報】“台風のたまご”熱帯低気圧が台風に発達か 台風18号・台風19号・台風20号が発生中 進路予想と影響は 台風18号は26日午後3時には強い勢力で沖縄本島近海に達する予報",
+          "description": "気象庁によりますと、23日午後6時現在、「熱帯低気圧 d」がフィリピンの東にあって、1時間におよそ10キロの速さで北東へ向かっています。中心気圧は1000ヘクトパスカル、中心付近の最大風速は15メートル、最大瞬間風速は23メートルとなっています。24日午前6時までには、フィリピンの東に達し、台風に発達する予報となっています。台風18号・台風19号・台風20号が発生中です。非常に強い台風18号(ソウデル)は23日午後6時現在、小笠原近海にあって、1時間におよそ30キロの速さで西北西へ進んでいます…",
+          "url": "https://www.fnn.jp/articles/-/1099888",
+          "source": {
+            "name": "FNNプライムオンライン"
+          },
+          "publishedAt": "2026-08-23T11:29:00Z",
+          "image": "https://fnn.ismcdn.jp/mwimgs/6/6/600/img_669c028d0b39e68d58769a7620369b47339314.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "［テキスト速報・聖籠町長選挙2026］９票差の決着！開票日の３陣営の様子をリアルタイムで速報中！",
+          "description": "聖籠町では、西脇道夫町長が健康面の不安を理由に３選出馬しないことを表明しました。任期満了に伴い、新人３氏による選挙戦が行われ、きょう２３日に投開票されます。立候補したのは届け出順に、いずれも無所属新人で前町議、青木順氏（４５）、田中...",
+          "url": "https://www.niigata-nippo.co.jp/articles/-/892504",
+          "source": {
+            "name": "新潟日報"
+          },
+          "publishedAt": "2026-08-23T10:50:00Z",
+          "image": "https://niigata-nippo.ismcdn.jp/mwimgs/f/c/1200m/img_fc16f8a8fbc62fb31c9ecb0ad3994173111337.jpg?rd=202608131644",
+          "language": "ja"
+        },
+        {
+          "title": "映画『ワンピース フィルム ゴッドバレー』2027年夏に公開決定。2029年には『FILM BAAD』が公開【ワンピースデイ26】",
+          "description": "『ONE PIECE』（ワンピース）の日を祝う毎年恒例の超大型イベント“ONE PIECE DAY”にて、最新映画2作が発表された。",
+          "url": "https://www.famitsu.com/article/202608/85242",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-08-23T09:45:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/85242/thumbnail_nmXE.jpg?x=1280",
+          "language": "ja"
+        },
         {
           "title": "「VIVANT」野崎は本当に裏切ったのか 阿部寛が言及「考察が合っているとは限らない」",
           "description": "日曜劇場「VIVANT」第2シーズン（TBS系・毎週日曜よる9時～）で野崎守を演じている阿部寛が23日、国立代々木競技場第一体育館で行われた1日限りの特別イベント「日曜劇場『VIVANT』PREMIUM SUMMER PARTY」に出席。",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-08-23T08:50:00Z",
           "image": "https://www.autocar.jp/wp-content/uploads/2026/08/ALFA-ROMEO-SPIDER-2006_260818_7.jpg",
           "language": "ja"
-        },
-        {
-          "title": "【阪神】大けがから再起を目指す石井大智 ２軍戦で離脱後初めてベンチ入り",
-          "description": "左アキレス腱（けん）の断裂から再起を目指す阪神石井大智投手（29）が2軍戦にベンチ入りした。今年2月の春季キャンプで負傷した。今季中の復帰が危ぶまれる重傷だっ… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/baseball/news/202608230000830.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-08-23T07:08:00Z",
-          "image": "https://www.nikkansports.com/baseball/news/img/202608230000830-w500_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "明日24日以降も近畿では残暑厳しい 26日(水)は40℃に迫る暑さの所も",
-          "description": "今日23日、滋賀県大津市では気温が39.2℃まで上がり、統計開始以来1位の記録を更新しました。近畿地方では、明日24日からの一週間も厳しい残暑の日が多く、40℃に迫る暑さになる所もある見込みです。引き続き、熱中症の対策を万全になさってください。",
-          "url": "https://tenki.jp/forecaster/kimura/2026/08/23/40265.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-08-23T06:43:51Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/402/40265/main/20260823144646/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「ケモノ系ゲーム対象のSteamイベント開催中」2026年8月16日～8月22日の秘宝はこれだ！【週刊トレハン】",
-          "description": "まだ見つかっていない、コアでマニアックな気になるゲーム・エンタメ情報を一挙にご紹介する「週刊トレジャーハント」の2026年8月16日～8月22日分です。",
-          "url": "https://www.gamespark.jp/article/2026/08/23/171116.html",
-          "source": {
-            "name": "Game*Spark"
-          },
-          "publishedAt": "2026-08-23T06:00:03Z",
-          "image": "https://www.gamespark.jp/imgs/ogp_f/1179301.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "台風18号 25日～27日頃に沖縄接近 電柱が倒壊するような猛烈な風や高波に警戒",
-          "description": "台風20号に伴う発達した雨雲は先島諸島の西へ抜けつつありますが、あまり間を空けずに、次は台風18号が沖縄を直撃する見込みです。台風18号は25日(火)から27日(木)頃、沖縄に接近し、一部の電柱が倒壊するような猛烈な風が吹くおそれがあります。暴風に厳重に警戒するとともに、うねりを伴った高波や高潮、大雨にも注意・警戒が必要です。",
-          "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/08/23/40264.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-08-23T05:50:10Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/402/40264/main/20260823132859/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "アクションアドベンチャー【新作ゲーム】2026年後半の注目作10選",
-          "description": "超大作や人気シリーズが集まるアクションアドベンチャーゲームから、2026年下半期以降に発売される注目作をご紹介。オープンワールドや高難易度アクションなど攻略しがいのある期待作が勢揃い。各ゲームの関連作や類似作も合わせて掲載。",
-          "url": "https://keepgamingon.com/new-actionadv/",
-          "source": {
-            "name": "Keep Gaming On"
-          },
-          "publishedAt": "2026-08-23T04:20:23Z",
-          "image": "https://keepgamingon.com/wp-content/uploads/2026/08/2026H2ActionADV.webp",
-          "language": "ja"
-        },
-        {
-          "title": "愛犬と「買う・食べる・遊ぶ」秋の3連休！ABCテレビ「ABCペットパーク for Dog」にマルシェ＆キッチンカーも登場",
-          "description": "株式会社antiqua2026年10月10日～12日、WHATAWONで開催。ペットグッズやハンドメイド、フードなど、愛犬との1日をもっと楽しくするコンテンツが集結予定",
-          "url": "https://www.ehime-np.co.jp/article/prtimes101983",
-          "source": {
-            "name": "愛媛新聞"
-          },
-          "publishedAt": "2026-08-23T04:07:30Z",
-          "image": "https://www.ehime-np.co.jp/media/images/news/20260823/imgf786a8a71a486aae.png",
-          "language": "ja"
-        },
-        {
-          "title": "明日24日以降も関東～九州を中心に厳しい暑さ 9月初めは全国的に曇りや雨の日多い",
-          "description": "30日(日)にかけての期間は、北海道から北陸で雨の降る日が多く、日本海側を中心に大雨となるおそれがあります。南西諸島は、26日(水)を中心に台風18号の影響を受ける見込みです。9月初めは全国的に曇りや雨の日が多いでしょう。向こう2週間は厳しい暑さが続く所が多い見込みで、明日24日から27日(木)は特に気温が高く、屋外での活動や運動をする際は熱中症に厳重に警戒してください。",
-          "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/08/23/40262.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-08-23T03:13:33Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/402/40262/main/20260823115237/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "マクラーレンのランド・ノリスがポールポジションを獲得!レーシングブルズの角田裕毅はQ2進出【F1第12戦オランダグランプリ予選】（FNNプライムオンライン（フジテレビ系））",
-          "description": "F1™︎サマーブレイク明けの一戦がオランダでスタートした。\n第12戦オランダグランプリの開幕直前、「角田裕毅がレーシングブルズから参戦」という日本のファンにとって嬉しいニュースが飛び込んだ。\n地",
-          "url": "https://news.yahoo.co.jp/articles/21b664a8476b9cbcad1baba32f5e6230bebcec94",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-23T03:10:30Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260823-01199678-fnn-000-2-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "'Not even looking!' - Peter Schmeichel rips into Man Utd trio after embarrassing opening day defeat to Hull City",
-          "description": "Peter Schmeichel has slammed Luke Shaw, Ayden Heaven, and Patrick Dorgu after Manchester United lost 2-0 to Hull City in the Premier League.",
-          "url": "https://www.goal.com/en-sa/lists/peter-schmeichel-man-utd-defeat-hull-city-premier-league-opening/blt06b79f61a16191a3",
+          "title": "Kigoma’s Immigration Office enhances measures to curb illegal immigration",
+          "description": "KIGOMA: THE Special Zone Immigration Office in Kigoma region has embarked on an exercise to curb illegal immigration by providing  education to owners of hotels, bars and guesthouses on immigration laws. The exercise was led by senior Immigration Department officials in the zone, with Kigoma Regional Immigration Officer SACI Dismas Mlula urging owners of the …",
+          "url": "https://dailynews.co.tz/kigomas-immigration-office-enhances-measures-to-curb-illegal-immigration/",
+          "source": {
+            "name": "dailynews.co.tz"
+          },
+          "publishedAt": "2026-08-23T13:20:07Z",
+          "image": "https://dailynews.co.tz/wp-content/uploads/2026/08/🇹🇿-UhamiajiUpdates-WAMILIKI-WA-HOTELI-BAA-NA-NYUMBA-ZA-KULALA-WAGENI-MKOANI-KIGOMA-WAPATIW.webp",
+          "language": "en"
+        },
+        {
+          "title": "Dr. Dre Says Musicians Afraid of AI 'Have Trouble Creating'",
+          "description": "Dr. Dre sees AI as another tool in the music-tech toolbox and said the only people who see AI as a threat are those 'who have trouble creating.'",
+          "url": "https://variety.com/2026/music/news/dr-dre-ai-music-threat-those-who-have-trouble-creating-1236840975/",
+          "source": {
+            "name": "Variety"
+          },
+          "publishedAt": "2026-08-23T13:20:00Z",
+          "image": "https://variety.com/wp-content/uploads/2026/08/Dr-Dre.jpg?w=1000&h=563&crop=1",
+          "language": "en"
+        },
+        {
+          "title": "Ramaphosa says ANC has done well in transforming lives of black South Africans",
+          "description": "He hailed the ANC for the gains it has made in delivering basic services since the advent of democracy.",
+          "url": "https://www.ewn.co.za/2026/08/23/ramaphosa-says-anc-has-done-well-in-transforming-lives-of-black-south-africans",
+          "source": {
+            "name": "EWN"
+          },
+          "publishedAt": "2026-08-23T13:19:40Z",
+          "image": "https://media-cache.primedia-service.com/media/pocptzhr/cyril-ramaphosa-anc-manifesto.jpg?width=1200&height=630",
+          "language": "en"
+        },
+        {
+          "title": "NDR 2026: Singapore studying feasibility of undersea tunnels to connect Tekong to mainland",
+          "description": "Sentosa and neighbouring Pulau Brani are also set for major transformations, with plans for new attractions and enhanced connectivity between the two islands and the mainland.",
+          "url": "https://www.channelnewsasia.com/singapore/national-day-rally-2026-undersea-tunnel-tekong-sentosa-brani-6335841",
+          "source": {
+            "name": "CNA"
+          },
+          "publishedAt": "2026-08-23T13:19:31Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--EHND54gP--/c_crop,h_1125,w_2000,x_0,y_31/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/23/recruits_heading_to_pulau_tekong_photo_facebook_basic_military_training_centre.jpg?itok=pURTruc0",
+          "language": "en"
+        },
+        {
+          "title": "Negotiations advance: Arsenal set price for Martinelli's move to Al-Hilal",
+          "description": "Saudi club Al-Hilal are seeking to sign Brazilian Gabriel Martinelli, the Arsenal winger, during the current summer transfer window.",
+          "url": "https://www.goal.com/en/news/negotiations-advance-arsenal-set-martinelli-s-transfer-price-to-al-hilal/bltc8b4cfd08f1da9a9",
           "source": {
             "name": "Goal.com"
           },
-          "publishedAt": "2026-08-23T09:21:38Z",
-          "image": "https://assets.goal.com/images/v3/getty-2291560980/crop/MM5DINJTHE5DENJVGM5G433XMU5DAORSGM3A====/GettyImages-2291560980.jpg",
+          "publishedAt": "2026-08-23T13:19:25Z",
+          "image": "https://assets.goal.com/images/v3/getty-2290282029/crop/MM5DINRVGM5DENRRG45G433XMU5DAORRGAZQ====/GettyImages-2290282029.jpg",
           "language": "en"
         },
         {
-          "title": "Kane revels in Bayern's Supercup success against Dortmund",
-          "description": "Bayern Munich won the Franz Beckenbauer Supercup against Borussia Dortmund, and Harry Kane enjoyed lifting the trophy at Signal Iduna Park.",
-          "url": "https://www.beinsports.com/en-us/soccer/super-cup/articles/kane-revels-in-bayerns-supercup-success-against-dortmund-2026-08-23",
+          "title": "The explosion of ticks and Alpha-gal syndrome",
+          "description": "This year, ER visits for tick bites have increased dramatically, corresponding with a new threat: a rise in Alpha-gal syndrome (AGS), where one bite from a lone star tick can make you violently allergic to red meat. How can you best avoid tick bites?",
+          "url": "https://www.cbsnews.com/news/the-explosion-of-ticks-and-alpha-gal-syndrome/",
           "source": {
-            "name": "beIN SPORTS"
+            "name": "CBS News"
           },
-          "publishedAt": "2026-08-23T09:19:11Z",
-          "image": "https://prod-media.beinsports.com/image/1787479202334_e88613aa-cb11-4e2d-b27a-eed1b794aa61.1080.jpg",
+          "publishedAt": "2026-08-23T13:16:56Z",
+          "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/22/73032481-eb52-48a7-9552-e2239f40ec3a/thumbnail/1200x630/fa782297a8bb0c3f637e3d2e048b65ba/lone-star-tick-getty-2279885741-1280.jpg",
           "language": "en"
         },
         {
-          "title": "Miss Universe defends Fatima Bosch amid Nawat Itsaragrisil row",
-          "description": "The organization stands by its reigning queen.",
-          "url": "https://www.philstar.com/lifestyle/fashion-and-beauty/2026/08/23/2551250/miss-universe-defends-fatima-bosch-amid-nawat-itsaragrisil-row",
+          "title": "LIVE: Reaction as Norris wins at Zandvoort after Mercedes team orders; Verstappen crashes",
+          "description": "Follow all the live action from the 2026 F1 Dutch Grand Prix at Zandvoort.",
+          "url": "https://racingnews365.com/live-2026-f1-dutch-grand-prix-zandvoort",
           "source": {
-            "name": "Philstar.com"
+            "name": "racingnews365.com"
           },
-          "publishedAt": "2026-08-23T09:17:00Z",
-          "image": "https://media.philstar.com/photos/2026/08/23/mixcollage-23-aug-2026-05-05-pm-81_2026-08-23_17-06-40.jpg",
+          "publishedAt": "2026-08-23T13:16:00Z",
+          "image": "https://cdn.racingnews365.com/2026/race-zandvoort.jpg?v=1787471631&width=1200&height=630&quality=75&crop=1920%2C1008%2C0%2C36",
           "language": "en"
         },
         {
-          "title": "Resist Foreign Scrutiny Over Tinubu Drug Allegations, Burata",
-          "description": "Lt. Gen. Tukur Buratai (retd.) urges Nigerians to resist foreign interference regarding 33-year-old drug allegations against President Bola Tinubu, citing",
-          "url": "https://punchng.com/resist-foreign-scrutiny-over-33-year-old-allegations-against-tinubu-buratai-tells-nigerians/",
+          "title": "VO₂ Max: The Health Number You May Soon Know as Well as Your Cholesterol",
+          "description": "We know our cholesterol. We know our blood pressure. Increasingly, there is another number worth knowing, and unlike your age, it is one you may be able to meaningfully change.…",
+          "url": "https://readelysian.com/vo%E2%82%82-max-the-health-number-you-may-soon-know-as-well-as-your-cholesterol/",
           "source": {
-            "name": "Punch Newspapers"
+            "name": "ELYSIAN Magazine"
           },
-          "publishedAt": "2026-08-23T09:16:15Z",
-          "image": "https://cdn.punchng.com/wp-content/uploads/2026/08/23100201/Tukur-Buratai_1787475721-1200x630.webp",
+          "publishedAt": "2026-08-23T13:15:44Z",
+          "image": "https://readelysian.com/wp-content/uploads/2026/08/V02-Max.jpg",
           "language": "en"
         },
         {
-          "title": "Boxing: Teofimo Lopez beats Rolando Romero to claim WBA welterweight title",
-          "description": "American Teofimo Lopez beats Rolando Romero in Las Vegas to claim the WBA welterweight title then seemingly snubs number one challenger Jack Catterall.",
-          "url": "https://www.bbc.com/sport/boxing/articles/c87n7rd30vro",
+          "title": "Ayyoub Bouaddi transfer: Manchester City reach agreement with Lille to sign 18-year-old Morocco midfielder",
+          "description": "Manchester Citys deal to sign Ayyoub Bouaddi is worth £86m; Man City are paying a fixed fee of £81.3m plus £4.3m in add-ons; City are working to rebuild their midfield after the departures of Rodri, Bernardo Silva and Tijjani Reijnders",
+          "url": "https://www.skysports.com/football/news/11095/13576242/ayyoub-bouaddi-transfer-manchester-city-reach-agreement-with-lille-to-sign-18-year-old-morocco-midfielder",
           "source": {
-            "name": "BBC"
+            "name": "Sky Sports"
           },
-          "publishedAt": "2026-08-23T09:14:37Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8e9c/live/c7dd59a0-9ece-11f1-8957-ef757d61d645.jpg",
+          "publishedAt": "2026-08-23T13:15:40Z",
+          "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-ayyoub-bouaddi_7318919.jpg?20260811132349",
           "language": "en"
         },
         {
-          "title": "First AFL and AFLW matches for club following sexual assault allegations",
-          "description": "Embattled and under-strength Sydney beaten North Melbourne by 53 points in the Swans’ first game since the sexual assault allegations that rocked the AFL club. It was a dramatic day at the Sydney Cricket Ground.",
-          "url": "https://www.theage.com.au/sport/afl/sydney-swans-live-updates-women-s-and-men-s-teams-play-first-matches-following-week-of-scandal-20260823-p60qnz.html",
+          "title": "Love Island's Megan Forte Clarke sends defiant message to 'cheating' ex Conor in new holiday pics",
+          "description": "LOVE Island's Megan Forte Clarke has sent a clear message in wake of her split from co-star Conor Philips, after rumours he cheated during their...",
+          "url": "https://www.thesun.ie/tv/17502790/megan-clarke-sends-message-cheating-ex-conor/",
           "source": {
-            "name": "The Age"
+            "name": "The Irish Sun"
           },
-          "publishedAt": "2026-08-23T09:13:33Z",
-          "image": "https://static.ffx.io/images/$zoom_0.6944%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_0/t_crop_custom/q_86%2Cf_auto/dc17eb20460ad4c974cac2f9e699ac6a8568c2ab8d384786cfad7cc190db07cf",
-          "language": "en"
-        },
-        {
-          "title": "Free health camp screens more than 9,500 people in Dar es Salaam",
-          "description": "The camp was held as part of commemorations marking the martyrdom of the grandson of Prophet Muhammad, Imam Hussein, at Karbala in present-day Iraq more than 1,400 years ago.",
-          "url": "https://www.thecitizen.co.tz/tanzania/news/national/free-health-camp-screens-more-than-9-500-people-in-dar-es-salaam-5567984",
-          "source": {
-            "name": "thecitizen.co.tz"
-          },
-          "publishedAt": "2026-08-23T09:12:54Z",
-          "image": "https://www.thecitizen.co.tz/resource/image/5567986/landscape_ratio3x2/1200/800/523c0d35ae4674c8d9d980875ab3e05/Ab/health-pic.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
-          "description": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases",
-          "url": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
-          "source": {
-            "name": "The Guardian"
-          },
-          "publishedAt": "2026-08-23T09:09:00Z",
-          "image": "https://i.guim.co.uk/img/media/677e2019dcd9c7efa20b39c0eef036ad95af750b/376_0_3743_2994/master/3743.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d63d6c51d00914f4310acd48f96e02d7",
-          "language": "en"
-        },
-        {
-          "title": "Danielle Lloyd rushes son Ronnie, 8, to hospital and opens up on 'heavy night'",
-          "description": "DANIELLE Lloyd has opened up to fans after her son Ronnie was unexpectedly rushed to hospital.\nThe model, 42, revealed the news on social media...",
-          "url": "https://www.thesun.co.uk/tvandshowbiz/40143634/danielle-lloyd-rushes-son-ronnie-to-hospital/",
-          "source": {
-            "name": "The Sun"
-          },
-          "publishedAt": "2026-08-23T09:08:00Z",
-          "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/newspress-collage-pvdvvv8v0-1787475942062.jpg?quality=90&strip=all&1787479319&w=1920&h=1080&crop=1",
-          "language": "en"
-        },
-        {
-          "title": "Gold jumps as Treasury buybacks revive debasement concerns",
-          "description": "Bullion’s rally of around 14% so far in August could be tempered by the rebound in energy prices Read more at The Business Times.",
-          "url": "https://www.businesstimes.com.sg/companies-markets/gold-jumps-treasury-buybacks-revive-debasement-concerns",
-          "source": {
-            "name": "The Business Times"
-          },
-          "publishedAt": "2026-08-23T09:07:00Z",
-          "image": "https://cassette.sphdigital.com.sg/image/businesstimes/da978f90a4ce1a19734cc6b9bb3e42f19dc05fb05338fd8186469127a4495c79?w=1920&f=webp",
+          "publishedAt": "2026-08-23T13:15:15Z",
+          "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/08/megan-forte-clarke-conor-phillips-1014439976.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
           "language": "en"
         }
       ]
