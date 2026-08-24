@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-24T01:20:19.226Z",
+  "updatedAt": "2026-08-24T03:54:39.123Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "いま欲しいのは調光できるサングラス。どれにする？",
+          "description": "2026年3月15日の記事を編集して再掲載しています。日差しの厳しい夏、活躍するアイテムと言えばサングラスでしょう。紫外線を感じる季節には欲しくなるものです。そんなサングラスのスタンダードになりつつある調光タイプ。どれでも同じかと思うなかれ",
+          "url": "https://www.gizmodo.jp/article/photochromic_lenses_sunglasses/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-08-23T14:00:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/13/_37A9788(1).jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "北海道で震度4の地震 津波の心配なし",
+          "description": "23日午後10時45分頃、浦河沖を震源とするマグニチュード6.0の地震が発生し、北海道で最大震度4を観測しました。この地震による津波の心配はありません。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/08/23/40268.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-08-23T13:52:26Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/402/40268/main/20260823235116/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【翔太トーク】阪神・森下「後ろにとんでもない人がいるんで」佐藤輝明とのキング争い「勝つ気でいます」",
+          "description": "（セ・リーグ、DeNA3－5阪神、18回戦、阪神10勝8敗、23日、横浜）阪神が接戦を制して、デーゲームで敗れた2位巨人と3.5ゲーム差差とした。同点に追いつかれた直後の九回2死二、三塁、森下翔太外野手（26）が決勝の右前2点打を放った。…",
+          "url": "https://www.sanspo.com/article/20260823-ERBUVXQ3DZNQJIVCGONYYX6LJQ/?outputType=theme_tigers",
+          "source": {
+            "name": "サンスポ"
+          },
+          "publishedAt": "2026-08-23T13:20:53Z",
+          "image": "https://www.sanspo.com/resizer/v2/6DYIIWPE4BMVDKD4T5BMAV3OXQ.jpg?auth=8f9a83175d5deab3ed9264a7a066acc148dfb9c629d7e03c49f301ed5c72b593&quality=50&focal=1052%2C1064&width=1200&height=675",
+          "language": "ja"
+        },
         {
           "title": "ハッブルの100倍の視野で宇宙を捉える…NASA、30日にローマン宇宙望遠鏡を打ち上げ",
           "description": "NASAは今月30日、フロリダ州ケネディ宇宙センターから次世代宇宙望遠鏡「ナンシー・グレース・ローマン宇宙望遠鏡」を打ち上げる。SpaceXのロケットに搭載され、…",
@@ -81,150 +114,117 @@
           "publishedAt": "2026-08-23T10:50:00Z",
           "image": "https://niigata-nippo.ismcdn.jp/mwimgs/f/c/1200m/img_fc16f8a8fbc62fb31c9ecb0ad3994173111337.jpg?rd=202608131644",
           "language": "ja"
-        },
-        {
-          "title": "映画『ワンピース フィルム ゴッドバレー』2027年夏に公開決定。2029年には『FILM BAAD』が公開【ワンピースデイ26】",
-          "description": "『ONE PIECE』（ワンピース）の日を祝う毎年恒例の超大型イベント“ONE PIECE DAY”にて、最新映画2作が発表された。",
-          "url": "https://www.famitsu.com/article/202608/85242",
-          "source": {
-            "name": "ファミ通"
-          },
-          "publishedAt": "2026-08-23T09:45:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/85242/thumbnail_nmXE.jpg?x=1280",
-          "language": "ja"
-        },
-        {
-          "title": "「VIVANT」野崎は本当に裏切ったのか 阿部寛が言及「考察が合っているとは限らない」",
-          "description": "日曜劇場「VIVANT」第2シーズン（TBS系・毎週日曜よる9時～）で野崎守を演じている阿部寛が23日、国立代々木競技場第一体育館で行われた1日限りの特別イベント「日曜劇場『VIVANT』PREMIUM SUMMER PARTY」に出席。",
-          "url": "https://www.cinematoday.jp/news/N0156475",
-          "source": {
-            "name": "シネマトゥデイ"
-          },
-          "publishedAt": "2026-08-23T09:13:43Z",
-          "image": "https://img.cinematoday.jp/a/XRysw5hjAVq9/_size_r1200x630/_v_1787476423/main.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ピニンファリーナも関与したひときわ華やかな風貌 お値打ちオープンカー12選（5） アルファ・ロメオ・スパイダー 回せば素性の良い2.2",
-          "description": "外界に響く排気音と心地良い風に包まれながらのオープンドライブは、比類ない喜びがあります。6000ポンド（約129万円）で常用に耐える、お手頃＆魅力的なオープンカー12台をUK編集部が選出しました。",
-          "url": "https://www.autocar.jp/post/1266726",
-          "source": {
-            "name": "AUTOCAR JAPAN"
-          },
-          "publishedAt": "2026-08-23T08:50:00Z",
-          "image": "https://www.autocar.jp/wp-content/uploads/2026/08/ALFA-ROMEO-SPIDER-2006_260818_7.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Kigoma’s Immigration Office enhances measures to curb illegal immigration",
-          "description": "KIGOMA: THE Special Zone Immigration Office in Kigoma region has embarked on an exercise to curb illegal immigration by providing  education to owners of hotels, bars and guesthouses on immigration laws. The exercise was led by senior Immigration Department officials in the zone, with Kigoma Regional Immigration Officer SACI Dismas Mlula urging owners of the …",
-          "url": "https://dailynews.co.tz/kigomas-immigration-office-enhances-measures-to-curb-illegal-immigration/",
+          "title": "Thousands struggling without power in Gary, Indiana 12 days after severe storms",
+          "description": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
+          "url": "https://www.bbc.com/news/articles/clyly8vdpdwo",
           "source": {
-            "name": "dailynews.co.tz"
+            "name": "BBC"
           },
-          "publishedAt": "2026-08-23T13:20:07Z",
-          "image": "https://dailynews.co.tz/wp-content/uploads/2026/08/🇹🇿-UhamiajiUpdates-WAMILIKI-WA-HOTELI-BAA-NA-NYUMBA-ZA-KULALA-WAGENI-MKOANI-KIGOMA-WAPATIW.webp",
+          "publishedAt": "2026-08-23T15:54:32Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/665b/live/c2e43a70-9f16-11f1-a291-b542ee92de7c.jpg",
           "language": "en"
         },
         {
-          "title": "Dr. Dre Says Musicians Afraid of AI 'Have Trouble Creating'",
-          "description": "Dr. Dre sees AI as another tool in the music-tech toolbox and said the only people who see AI as a threat are those 'who have trouble creating.'",
-          "url": "https://variety.com/2026/music/news/dr-dre-ai-music-threat-those-who-have-trouble-creating-1236840975/",
+          "title": "UK power plant forced offline after Iran-backed cyberattack",
+          "description": "LONDON: A power plant in the UK was forced offline after it was targeted by Iran-linked hackers. It is thought to be the first such incident of a cyberattack by Tehran successfully shutting down a British facility of this nature, and marks an escalation after London gave the US permission to use UK regional military facilities in its war with Iran. The attack, reportedly last",
+          "url": "https://www.arabnews.com/node/2655620",
           "source": {
-            "name": "Variety"
+            "name": "Arab News"
           },
-          "publishedAt": "2026-08-23T13:20:00Z",
-          "image": "https://variety.com/wp-content/uploads/2026/08/Dr-Dre.jpg?w=1000&h=563&crop=1",
+          "publishedAt": "2026-08-23T15:54:08Z",
+          "image": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/08/23/4743675-528517198.jpg?itok=_DibT70k",
           "language": "en"
         },
         {
-          "title": "Ramaphosa says ANC has done well in transforming lives of black South Africans",
-          "description": "He hailed the ANC for the gains it has made in delivering basic services since the advent of democracy.",
-          "url": "https://www.ewn.co.za/2026/08/23/ramaphosa-says-anc-has-done-well-in-transforming-lives-of-black-south-africans",
+          "title": "Kevin Keegan: Newcastle and Liverpool pay tribute to legendary player and manager",
+          "description": "Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season.",
+          "url": "https://www.bbc.com/sport/football/articles/ckgdgplejxzo",
           "source": {
-            "name": "EWN"
+            "name": "BBC"
           },
-          "publishedAt": "2026-08-23T13:19:40Z",
-          "image": "https://media-cache.primedia-service.com/media/pocptzhr/cyril-ramaphosa-anc-manifesto.jpg?width=1200&height=630",
+          "publishedAt": "2026-08-23T15:53:38Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e60f/live/862c0570-9f09-11f1-8ab2-7700e58d1417.jpg",
           "language": "en"
         },
         {
-          "title": "NDR 2026: Singapore studying feasibility of undersea tunnels to connect Tekong to mainland",
-          "description": "Sentosa and neighbouring Pulau Brani are also set for major transformations, with plans for new attractions and enhanced connectivity between the two islands and the mainland.",
-          "url": "https://www.channelnewsasia.com/singapore/national-day-rally-2026-undersea-tunnel-tekong-sentosa-brani-6335841",
+          "title": "Kevin Keegan: Newcastle and Liverpool pay tribute to legendary player and manager",
+          "description": "Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-08-23T15:53:38Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e60f/live/862c0570-9f09-11f1-8ab2-7700e58d1417.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Hayden Panettiere’s mom slams Gayle King after host criticized her response to daughter’s death",
+          "description": "Panettiere was estranged from her mother, who managed her career as a child actor, at the time of her death",
+          "url": "https://www.the-independent.com/arts-entertainment/tv/news/hayden-panettiere-death-mom-gayle-king-b3037788.html",
+          "source": {
+            "name": "The Independent"
+          },
+          "publishedAt": "2026-08-23T15:53:00Z",
+          "image": "https://static.the-independent.com/2026/08/23/15/14/Hayden-Panettiere-with-her-mom-Lesley-Vogel-and-Gayle-King.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+          "language": "en"
+        },
+        {
+          "title": "Tractor damages graves, scatters bones at Jewish cemetery in Poland",
+          "description": "Work commissioned by Krakow’s Jewish community to repair a collapsed wall at the Brzesko cemetery was carried out without religious supervision, damaging graves and dozens of headstones",
+          "url": "https://www.ynetnews.com/jewish-world/article/skgwkf00dfe",
+          "source": {
+            "name": "Ynetnews"
+          },
+          "publishedAt": "2026-08-23T15:52:18Z",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/B1rk0700DMl/B1rk0700DMl_0_152_1280_721_0_large.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Healy finishes ninth in 1,500m Diamond League race",
+          "description": "Ireland's Sarah Healy finished ninth in the 1,500 metres event at the Silesa Diamond League meeting in Chorzów, Poland.",
+          "url": "https://www.rte.ie/sport/athletics/2026/0823/1588925-healy-finishes-ninth-in-1-500m-diamond-league-race/",
+          "source": {
+            "name": "RTE.ie"
+          },
+          "publishedAt": "2026-08-23T15:52:16Z",
+          "image": "https://www.rte.ie/images/0024e2ad-1600.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Chantez shines to hold off Soul Love in Ballyogan Stakes",
+          "description": "Karl Burke’s filly was in search of back-to-back Naas victories.",
+          "url": "https://www.northwaleschronicle.co.uk/sport/national/26488332.chantez-shines-hold-off-soul-love-ballyogan-stakes/",
+          "source": {
+            "name": "North Wales Chronicle"
+          },
+          "publishedAt": "2026-08-23T15:52:15Z",
+          "image": "https://www.northwaleschronicle.co.uk/resources/images/21360145.jpg?type=og-image",
+          "language": "en"
+        },
+        {
+          "title": "NDR 2026: November BTO demand could rise with higher income ceiling; but resale market impact limited, say analysts",
+          "description": "Two projects at Bedok and another at Toa Payoh are likely to be more popular in the November BTO exercise, say one analyst.",
+          "url": "https://www.channelnewsasia.com/singapore/income-ceiling-raised-bto-exercise-demand-hdb-ec-ndr-2026-6336231",
           "source": {
             "name": "CNA"
           },
-          "publishedAt": "2026-08-23T13:19:31Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--EHND54gP--/c_crop,h_1125,w_2000,x_0,y_31/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/23/recruits_heading_to_pulau_tekong_photo_facebook_basic_military_training_centre.jpg?itok=pURTruc0",
+          "publishedAt": "2026-08-23T15:51:00Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--6R40HbIy--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/25/housing_flats_bto_hdb07.jpg?itok=41YQkzyp",
           "language": "en"
         },
         {
-          "title": "Negotiations advance: Arsenal set price for Martinelli's move to Al-Hilal",
-          "description": "Saudi club Al-Hilal are seeking to sign Brazilian Gabriel Martinelli, the Arsenal winger, during the current summer transfer window.",
-          "url": "https://www.goal.com/en/news/negotiations-advance-arsenal-set-martinelli-s-transfer-price-to-al-hilal/bltc8b4cfd08f1da9a9",
+          "title": "Lando Norris denies Antonelli in F1 Dutch GP after Verstappen crashes out of home race",
+          "description": "Kimi Antonelli finished second and George Russell third in the final race at the Zandvoort circuit which was restarted after the Dutch driver hit the wall on the opening lap",
+          "url": "https://www.theguardian.com/sport/2026/aug/23/lando-norris-kimi-antonelli-george-russell-max-verstappen-crash-f1-dutch-grand-prix",
           "source": {
-            "name": "Goal.com"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-08-23T13:19:25Z",
-          "image": "https://assets.goal.com/images/v3/getty-2290282029/crop/MM5DINRVGM5DENRRG45G433XMU5DAORRGAZQ====/GettyImages-2290282029.jpg",
-          "language": "en"
-        },
-        {
-          "title": "The explosion of ticks and Alpha-gal syndrome",
-          "description": "This year, ER visits for tick bites have increased dramatically, corresponding with a new threat: a rise in Alpha-gal syndrome (AGS), where one bite from a lone star tick can make you violently allergic to red meat. How can you best avoid tick bites?",
-          "url": "https://www.cbsnews.com/news/the-explosion-of-ticks-and-alpha-gal-syndrome/",
-          "source": {
-            "name": "CBS News"
-          },
-          "publishedAt": "2026-08-23T13:16:56Z",
-          "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/22/73032481-eb52-48a7-9552-e2239f40ec3a/thumbnail/1200x630/fa782297a8bb0c3f637e3d2e048b65ba/lone-star-tick-getty-2279885741-1280.jpg",
-          "language": "en"
-        },
-        {
-          "title": "LIVE: Reaction as Norris wins at Zandvoort after Mercedes team orders; Verstappen crashes",
-          "description": "Follow all the live action from the 2026 F1 Dutch Grand Prix at Zandvoort.",
-          "url": "https://racingnews365.com/live-2026-f1-dutch-grand-prix-zandvoort",
-          "source": {
-            "name": "racingnews365.com"
-          },
-          "publishedAt": "2026-08-23T13:16:00Z",
-          "image": "https://cdn.racingnews365.com/2026/race-zandvoort.jpg?v=1787471631&width=1200&height=630&quality=75&crop=1920%2C1008%2C0%2C36",
-          "language": "en"
-        },
-        {
-          "title": "VO₂ Max: The Health Number You May Soon Know as Well as Your Cholesterol",
-          "description": "We know our cholesterol. We know our blood pressure. Increasingly, there is another number worth knowing, and unlike your age, it is one you may be able to meaningfully change.…",
-          "url": "https://readelysian.com/vo%E2%82%82-max-the-health-number-you-may-soon-know-as-well-as-your-cholesterol/",
-          "source": {
-            "name": "ELYSIAN Magazine"
-          },
-          "publishedAt": "2026-08-23T13:15:44Z",
-          "image": "https://readelysian.com/wp-content/uploads/2026/08/V02-Max.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Ayyoub Bouaddi transfer: Manchester City reach agreement with Lille to sign 18-year-old Morocco midfielder",
-          "description": "Manchester Citys deal to sign Ayyoub Bouaddi is worth £86m; Man City are paying a fixed fee of £81.3m plus £4.3m in add-ons; City are working to rebuild their midfield after the departures of Rodri, Bernardo Silva and Tijjani Reijnders",
-          "url": "https://www.skysports.com/football/news/11095/13576242/ayyoub-bouaddi-transfer-manchester-city-reach-agreement-with-lille-to-sign-18-year-old-morocco-midfielder",
-          "source": {
-            "name": "Sky Sports"
-          },
-          "publishedAt": "2026-08-23T13:15:40Z",
-          "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-ayyoub-bouaddi_7318919.jpg?20260811132349",
-          "language": "en"
-        },
-        {
-          "title": "Love Island's Megan Forte Clarke sends defiant message to 'cheating' ex Conor in new holiday pics",
-          "description": "LOVE Island's Megan Forte Clarke has sent a clear message in wake of her split from co-star Conor Philips, after rumours he cheated during their...",
-          "url": "https://www.thesun.ie/tv/17502790/megan-clarke-sends-message-cheating-ex-conor/",
-          "source": {
-            "name": "The Irish Sun"
-          },
-          "publishedAt": "2026-08-23T13:15:15Z",
-          "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/08/megan-forte-clarke-conor-phillips-1014439976.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+          "publishedAt": "2026-08-23T15:50:00Z",
+          "image": "https://i.guim.co.uk/img/media/d0cb964d3c00a1ae8e57812417d7a7f689b78bf8/25_309_3755_3005/master/3755.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5eee73e6502c41e9afff4327abfee442",
           "language": "en"
         }
       ]
