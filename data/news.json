@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-24T06:59:31.367Z",
+  "updatedAt": "2026-08-24T09:48:58.037Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "「上手すぎる」「スピード半端ない」昨年日本代表入りの23歳FWがフランス１部デビュー！堂々のパフォーマンスに賛辞相次ぐ「ガチで活躍できる」（SOCCER DIGEST Web）",
+          "description": "現地８月23日に開催されたリーグ・アンの第１節で、瀬古歩夢、中村草太、水多海斗が所属するル・アーブルが、南野拓実が離脱中の強豪モナコとホームで対戦。０－１で敗れた。\n　瀬古がCBでフル出場したな",
+          "url": "https://news.yahoo.co.jp/articles/8f2cefe2089dcd3ff688904acf941dbb99c53ebd",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-23T21:48:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260824-00196193-sdigestw-000-7-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "「親友」だったロボット、その死が突きつけるもの",
+          "description": "神経発達障害のある子どもの遊び友だちとして売られるAIロボット「モキシー」は、アイコンタクトや会話の練習を助け、支援ツールとして期待を集めてきた。だが2024年、開発企業が事業を終了し、ロボットは動作を停止した。愛されるよう設計された機械が消えるとき、脆弱な子どもたちに何が残るのか。",
+          "url": "https://www.technologyreview.jp/s/387905/what-happens-when-a-kids-robot-best-friend-dies/",
+          "source": {
+            "name": "MITテクノロジーレビュー"
+          },
+          "publishedAt": "2026-08-23T21:46:48Z",
+          "image": "https://www.technologyreview.jp/wp-content/uploads/sites/2/2026/08/gettyimages-1289357458-top-1278x787.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "大谷翔平、無安打も第１打席で11球粘って四球→二盗成功→先制生還 ドジャース６連勝／詳細",
+          "description": "ドジャース大谷翔平投手は「1番DH」で先発出場。3打数無安打1四球だった。1回の第1打席で11球粘って四球で出塁。すかさず二盗を決めるとその後先制のホームを踏… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/baseball/mlb/news/202608240000065.html",
+          "source": {
+            "name": "日刊スポーツ"
+          },
+          "publishedAt": "2026-08-23T21:14:00Z",
+          "image": "https://www.nikkansports.com/baseball/mlb/news/img/202608240000065-w500_0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "あ、これゲームをやめられないやつだ 240Hz対応ARグラス「ROG XREAL R1」",
+          "description": "ARグラス最大の魅力は携帯性。視聴距離によって画面サイズは変わるので、「100型超え」などのセールス文句はちょっと大げさだとは思うが、ノートPCやデスクトップPCのモニターと同程度の距離で見ると仮定すれば、30型前後の大画面でゲームを楽しんだり、作業を行なったりできる(もちろん製品によって異なる)。",
+          "url": "https://pc.watch.impress.co.jp/docs/column/gamingdevice/2134391.html",
+          "source": {
+            "name": "PC Watch"
+          },
+          "publishedAt": "2026-08-23T21:12:00Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2134/391/07.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "夏ドラマ「総コケ」 50代「内田有紀」の美貌でも「GTO」の復活でも救えない「フジテレビ」の苦境",
+          "description": "お台場から断末魔の叫びが聞こえてくる――。各局の編成・制作でフジテレビの惨状が囁かれているのだ。中居正広問題から1年半、6月に行われたフジ・メディア・ホールディングスの株主総会では業績の向上が発表",
+          "url": "https://news.yahoo.co.jp/articles/3b1602404b00baad9c1d2d4573bab97b8d5586f4",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-23T21:10:21Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260824-01489509-shincho-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "今日24日は猛暑日続出で残暑厳しい 熊本は38℃ 豪雨被災の千葉は34℃",
+          "description": "今日24日(月)も全国的に厳しい残暑が続きます。最高気温は、地震の被災地・熊本で38℃、豪雨災害に見舞われた千葉でも34℃まで上がる予想です。熱中症警戒アラートは31都府県に発表されています。夏の疲れが出やすい時期でもあり、被災地をはじめ、屋外で活動する際は万全の熱中症対策が必要です。",
+          "url": "https://tenki.jp/forecaster/s_ono/2026/08/24/40271.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-08-23T20:40:41Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/402/40271/main/20260824052303/large.jpg",
+          "language": "ja"
+        },
         {
           "title": "【F1オランダGP｜決勝結果】ホンダ新PUでアロンソ9位入賞 角田裕毅は入賞まであと一歩、地元フェルスタッペンはクラッシュ",
           "description": "8月23日(日)、2026年F1第12戦オランダGP（ザントフォールト）の3日目、決勝レース(72周)が開催された。\n■アストンマーティン・ホンダ\nホンダのパワーユニットを搭載するアストンマーティ",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-08-23T13:20:53Z",
           "image": "https://www.sanspo.com/resizer/v2/6DYIIWPE4BMVDKD4T5BMAV3OXQ.jpg?auth=8f9a83175d5deab3ed9264a7a066acc148dfb9c629d7e03c49f301ed5c72b593&quality=50&focal=1052%2C1064&width=1200&height=675",
           "language": "ja"
-        },
-        {
-          "title": "ハッブルの100倍の視野で宇宙を捉える…NASA、30日にローマン宇宙望遠鏡を打ち上げ",
-          "description": "NASAは今月30日、フロリダ州ケネディ宇宙センターから次世代宇宙望遠鏡「ナンシー・グレース・ローマン宇宙望遠鏡」を打ち上げる。SpaceXのロケットに搭載され、…",
-          "url": "https://finance.biggo.jp/news/7678d47b-c875-4e1c-a2ae-fba1d166c240",
-          "source": {
-            "name": "BigGo ファイナンス"
-          },
-          "publishedAt": "2026-08-23T13:10:24Z",
-          "image": "https://img.biggo.com/lQLs7mZl3fSyWHH1-d2OBXfYujii8b6aNVthF59LFVo/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4Lzc2NzhkNDdiLWM4NzUtNGUxYy1hMmFlLWZiYTFkMTY2YzI0MF8xNzg3NDkwNTE3X2RlZmF1bHQud2VicA.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「普通のデニムには戻れません」 ユニクロの“EZYバレルジーンズ”が大好評！ 「見た目はデニム、履き心地はスウェット」「色違いで2本購入」",
-          "description": "ユニクロの「EZYバレルジーンズ」は、本格的なデニムのような見た目と、スウェットのようなはき心地を両立した男女兼用ジーンズです。ドレープ感のある生地を使い、立体的なバレルシルエットに仕上げているのが特徴。ウエストはドローコード入りのゴム仕様で、ゆったりとはける1本です。　本記事では「EZYバレルジーンズ」を…",
-          "url": "https://nlab.itmedia.co.jp/research/articles/3985092/",
-          "source": {
-            "name": "ねとらぼ"
-          },
-          "publishedAt": "2026-08-23T13:10:00Z",
-          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/05/1748497315_ae893cf31188d906210e595c4055854f.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "高市内閣支持率56％で先月からほぼ横ばい 政権発足以降で最低【NNN・読売新聞 世論調査】",
-          "description": "NNNと読売新聞が行った世論調査で、高市内閣の支持率は先月の調査からほぼ横ばいの56％でした。去年10月の政権発足以降、最低ですが、下げ止まった形です。",
-          "url": "https://news.ntv.co.jp/category/politics/bb7ae282fe64471782c482a2989eda43",
-          "source": {
-            "name": "日テレNEWS NNN"
-          },
-          "publishedAt": "2026-08-23T13:00:00Z",
-          "image": "https://news.ntv.co.jp/gimage/n24/articles/fd83c4ccddca4808a17b23127c8683d7/b7c68776240fe27a0620dc9fa115e9ae0b4e119f448d0649571201cf19e5715e.jpg?w=1200",
-          "language": "ja"
-        },
-        {
-          "title": "鈴木彩艶はプレミア開幕節でベンチスタート…アストン・ビラは三笘欠場のブライトンと対戦",
-          "description": "プレミアリーグは23日に第1節のブライトン対アストン・ビラを開催する。日本時間午後10時のキックオフを前に先発メンバーが発表され、ブライトンのMF三笘薫はメンバー外でアストン・ビラのGK鈴木彩艶は控えとな...",
-          "url": "https://web.gekisaka.jp/news/world/detail/?457403-457403-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-08-23T12:36:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/458000/457403/news_457403_1.jpg?time=20260823213626",
-          "language": "ja"
-        },
-        {
-          "title": "バレー女子日本代表、韓国にストレート勝利で準々決勝進出！第1セットから30点越えの接戦制し開幕2連勝【アジア選手権】（TBS NEWS DIG Powered by JNN）",
-          "description": "■バレーボール アジア選手権2026 女子 予選ラウンド　日本ー韓国（日本時間23日、中国・天津）\nアジアNo.1を決める「アジア選手権2026」。同大会で優勝すればロサンゼルス五輪出場権を獲得で",
-          "url": "https://news.yahoo.co.jp/articles/d0df51e8176e48e2f98b43852cca810f9fe16011",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-23T12:09:43Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260823-00010018-jnn-000-3-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【台風情報】“台風のたまご”熱帯低気圧が台風に発達か 台風18号・台風19号・台風20号が発生中 進路予想と影響は 台風18号は26日午後3時には強い勢力で沖縄本島近海に達する予報",
-          "description": "気象庁によりますと、23日午後6時現在、「熱帯低気圧 d」がフィリピンの東にあって、1時間におよそ10キロの速さで北東へ向かっています。中心気圧は1000ヘクトパスカル、中心付近の最大風速は15メートル、最大瞬間風速は23メートルとなっています。24日午前6時までには、フィリピンの東に達し、台風に発達する予報となっています。台風18号・台風19号・台風20号が発生中です。非常に強い台風18号(ソウデル)は23日午後6時現在、小笠原近海にあって、1時間におよそ30キロの速さで西北西へ進んでいます…",
-          "url": "https://www.fnn.jp/articles/-/1099888",
-          "source": {
-            "name": "FNNプライムオンライン"
-          },
-          "publishedAt": "2026-08-23T11:29:00Z",
-          "image": "https://fnn.ismcdn.jp/mwimgs/6/6/600/img_669c028d0b39e68d58769a7620369b47339314.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Wordle today: The answer and hints for August 23, 2026",
-          "description": "Here's the answer for \"Wordle\" #1891 on August 23 as well as a few hints, tips, and clues to help you solve it yourself.",
-          "url": "https://mashable.com/entertainment/wordle-today-answer-august-23-2026",
+          "title": "'Donna Reed Show' Star, Elvis Co-Star Was 82",
+          "description": "Shelley Fabares, the actress known for her roles in 'The Donna Reed Show' and several Elvis Presley movies, has died. She was 82.",
+          "url": "https://deadline.com/2026/08/shelley-fabares-dead-1237048354/",
           "source": {
-            "name": "Mashable"
+            "name": "Deadline"
           },
-          "publishedAt": "2026-08-23T18:58:15Z",
-          "image": "https://helios-i.mashable.com/imagery/articles/03yiaBTAOEMRiqwNhLcjMzP/hero-image.fill.size_1200x675.v1787323172.jpg",
+          "publishedAt": "2026-08-23T21:47:00Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-141687996.jpg?w=1024",
           "language": "en"
         },
         {
-          "title": "Humana-Paredes, Wilkerson lose bid for third Montreal beach volleyball title in semis",
-          "description": "MONTREAL — There will not be a third straight title for Canada's Melissa Humana-Paredes and Brandie Wilkerson at the Montreal stop of the Elite16 beach volleyball circuit. The Toronto pair fell 2-1 to Brazilian duo Thamela Coradello and Victoria Lopes ...",
-          "url": "https://everythinggp.com/2026/08/23/humana-paredes-wilkerson-lose-bid-for-third-montreal-beach-volleyball-title-in-semis/",
-          "source": {
-            "name": "EverythingGP"
-          },
-          "publishedAt": "2026-08-23T18:58:05Z",
-          "image": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F6e15c28d-8594-4319-a043-fd58bbbac815%2Fd2378a3282e483ce440a4a2e889ab4655bd32a15057fc985c5832a521ca79d0e.jpg",
-          "language": "en"
-        },
-        {
-          "title": "‘We can’t run our businesses’: Canadian companies react to U.S. tariffs",
-          "description": "Canadian businesses are bracing for higher costs and uncertainty as new tariffs take effect following the collapse of Canada-U.S. trade talks.",
-          "url": "https://globalnews.ca/news/12031964/canadian-companies-us-tariffs-reaction/",
-          "source": {
-            "name": "Global News"
-          },
-          "publishedAt": "2026-08-23T18:57:53Z",
-          "image": "https://globalnews.ca/wp-content/uploads/2026/03/Trump-tariffs-investigation.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-          "language": "en"
-        },
-        {
-          "title": "Lewis Hamilton: Ferrari driver makes comparison to Mercedes' Dutch GP strategy call after radio frustrations",
-          "description": "It is difficult when you are looking ahead and you see the two Mercedes drivers, they get the call and its done, and they execute straight away; Hamilton expressed frustration over Ferrari team radio after being caught behind team-mate Charles Leclerc when lapping quickly on fresh tyres",
-          "url": "https://www.skysports.com/f1/news/12433/13576207/lewis-hamilton-ferrari-driver-makes-comparison-to-mercedes-dutch-gp-strategy-call-after-radio-frustrations",
-          "source": {
-            "name": "Sky Sports"
-          },
-          "publishedAt": "2026-08-23T18:57:45Z",
-          "image": "https://e0.365dm.com/26/08/1600x900/skysports-lewis-hamilton-ferrari_7329514.jpg?20260823193219",
-          "language": "en"
-        },
-        {
-          "title": "New manager, same old Liverpool: Florian Wirtz and Alexander Isak's dreadful displays in lucky draw at Newcastle suggest Andoni Iraola might have even more problems than Arne Slot!",
-          "description": "Florian Wirtz and Alexander Isak once again flattered to deceive as Liverpool nicked a 2-2 draw away to Newcastle in their Premier League opener on Sunday",
-          "url": "https://www.goal.com/en-ke/originals/new-manager-same-old-liverpool-florian-wirtz-alexander-isak-dreadful-displays-draw-newcastle-andoni-iraola-problems/bltf5110383c7c5821d",
+          "title": "Hamza joins and a surprise omission: Flick announces Barcelona squad for Elche clash",
+          "description": "Hansi Flick, the Barcelona manager, has announced his squad for Sunday's match against Elche in the second round of the Spanish league.",
+          "url": "https://www.goal.com/en/news/hamza-s-inclusion-and-a-surprise-exclusion-flick-announces-barcelona-squad-for-elche-clash/bltba87f38a4d1f0ec8",
           "source": {
             "name": "Goal.com"
           },
-          "publishedAt": "2026-08-23T18:56:31Z",
-          "image": "https://assets.goal.com/images/v3/blte7b9717c89ad02f9/GOAL%20-%20Multiple%20Images%20-%203%20Stacked%20-%20Facebook.jpg",
+          "publishedAt": "2026-08-23T21:46:55Z",
+          "image": "https://assets.goal.com/images/v3/getty-2291172192/crop/MM5DKMRSG45DEOJUGA5G433XMU5DAORVGU======/GettyImages-2291172192.jpg",
           "language": "en"
         },
         {
-          "title": "‘Twin’ nurses help Barrie twin girls in lengthy rehab",
-          "description": "A pair of Barrie twin girls have had to spend most of their life in hospital, but a pair of nurses have helped make their most recent weeks feel a bit like summer camp.",
-          "url": "https://www.cp24.com/news/canada/2026/08/23/twin-nurses-help-barrie-twin-girls-in-lengthy-rehab/",
+          "title": "Treasury Secretary to announce Iran sanctions",
+          "description": "Bessent told CNBC that the sanctions will be the \"toughest\" in history.",
+          "url": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
           "source": {
-            "name": "CP24"
+            "name": "CNBC"
           },
-          "publishedAt": "2026-08-23T18:56:18Z",
-          "image": "https://www.cp24.com/resizer/v2/GPYOVWT5AJDPHCQTDCH24A5YTQ.png?smart=true&auth=9ed42bfdc06852f5b6b295b5ccaecd13f8fd96f4aba5b77d5d9a2f41e3ec11c8&width=1200&height=630",
+          "publishedAt": "2026-08-23T21:45:27Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108352211-17872404112026-08-20t153741z_1726519747_rc2f2nag98je_rtrmadp_0_usa-trump.jpeg?v=1787240447&w=1920&h=1080",
           "language": "en"
         },
         {
-          "title": "'Exceptional' summer heatwaves in Europe hurting economies",
-          "description": "Experts say Europe's heatwaves this summer have been \"exceptional\", causing riverbeds across the continent to dry up. Now the flow-on effects are being felt economically.",
-          "url": "https://www.abc.net.au/news/2026-08-24/summer-heatwaves-in-europe-hurting-economy/107054578",
+          "title": "Fast-moving wildfire in Reno, Nevada, forces tens of thousands to evacuate homes",
+          "description": "Human-caused Hawk fire covers more than 13,000 acres as blaze approaches University of Nevada campus in Reno",
+          "url": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
           "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-08-23T18:54:12Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/8359995e177f1c36b90356e68071dd53?impolicy=wcms_watermark_news&cropH=1588&cropW=2823&xPos=237&yPos=552&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-08-23T21:45:00Z",
+          "image": "https://i.guim.co.uk/img/media/429c6b5d7c9a1ba8ff7eb1b0d7341abc10efe17c/509_0_2514_2012/master/2514.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=41f190a1f62684a65d2fa95de77e0afe",
           "language": "en"
         },
         {
-          "title": "ESET Threat Report: Kenyan Organizations are Being Attacked by the Basics",
-          "description": "By The COASt Reporter Email, thecoastnewspaper@gmail.com The H1 2026 Threat Report’s global findings with artificial...",
-          "url": "https://www.thecoast.co.ke/2026/08/23/eset-threat-report-kenyan-organizations-are-being-attacked-by-the-basics/49/51/business-news/thecoast/18068/18/",
+          "title": "Prisons Service to establish five industries to empower inmates",
+          "description": "Eric Appah Marfo   Accra, Aug. 23, GNA – The Ghana Prisons Service (GPS) is planning to establish five prison-based industries to equip inmates with marketable skills and support their reintegration.  …",
+          "url": "https://gna.org.gh/2026/08/prisons-service-to-establish-five-industries-to-empower-inmates/",
           "source": {
-            "name": "The Coast Media Group"
+            "name": "Ghana News Agency"
           },
-          "publishedAt": "2026-08-23T18:53:54Z",
-          "image": "https://www.thecoast.co.ke/wp-content/uploads/2021/09/cropped-edited_logo-32x32.png",
+          "publishedAt": "2026-08-23T21:44:26Z",
+          "image": "https://gna.org.gh/web/wp-content/uploads/2026/08/Economics-Prison-Industries-1.jpg",
           "language": "en"
         },
         {
-          "title": "Albanese to settle AI data centre energy rules, overriding defiant Queensland",
-          "description": "Queensland's rejection of rules tying data centre construction to new renewables projects means the federal government will be forced to legislate to override the state.",
-          "url": "https://www.abc.net.au/news/2026-08-24/ai-data-centre-energy-rules-override-qld/107068536",
+          "title": "Why livestock monitoring is moving beyond \"finding cattle\" to managing performance",
+          "description": "For many producers, the first generation of livestock monitoring technology solved a simple but important problem: knowing where cattle were without having to physically locate them. Today, the conversation has shifted...Read More",
+          "url": "https://www.beefcentral.com/sponsored/why-livestock-monitoring-is-moving-beyond-finding-cattle-to-managing-performance/",
           "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+            "name": "Beef Central"
           },
-          "publishedAt": "2026-08-23T18:53:00Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/e437a705e1f148f3c50a4e48d0dd0008?impolicy=wcms_watermark_news&cropH=4841&cropW=8606&xPos=1&yPos=0&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-08-23T21:44:18Z",
+          "image": "https://www.beefcentral.com/wp-content/uploads/2026/08/Ceres-Tag-DSC01138-scaled.jpg",
           "language": "en"
         },
         {
-          "title": "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”",
-          "description": "As creative industries remain divided on AI, Dr. Dre is full steam ahead on implementing the technology in his own work. The 8x Grammy winner recently admitted to using artificial intelligence in his ...",
-          "url": "https://uk.news.yahoo.com/dr-dre-admits-uses-ai-185220967.html",
+          "title": "Joburg residents step up where City fails",
+          "description": "When suburbs are forced to build ‘shadow municipalities’ to sustain security, water and power service delivery, City leadership has failed – The Gathering: Cities Edition probes whether metros can be saved.",
+          "url": "https://www.dailymaverick.co.za/article/2026-08-23-when-it-must-be-sunday-becomes-a-punchline-the-joke-is-on-city-leadership/",
           "source": {
-            "name": "Yahoo News UK"
+            "name": "Daily Maverick"
           },
-          "publishedAt": "2026-08-23T18:52:20Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/434aee056cab0628f00019602ab2b3fc50b9dcd1bc8031675eb73aa8fb3fc153/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Fdb8a37e34caaaa7e3618a050f6e5e7ea.jpg",
+          "publishedAt": "2026-08-23T21:42:03Z",
+          "image": "https://cdn.dailymaverick.co.za/i/hB3N6PehvJyVXVS_IQAy6Ah3ZdQ=/800x0/smart/filters:strip_exif()/file/attachments/2995/2026-07-29_11-24-22_730492.jpeg",
+          "language": "en"
+        },
+        {
+          "title": "Shelley Fabares, 'Johnny Angel' singer and actor in ‘The Donna Reed Show’ and ‘Coach,’ dies at 82",
+          "description": "Shelley Fabares, an actor who was a fixture on television for decades from her days as a young teenager on “The Donna Reed Show,” has died.",
+          "url": "https://toronto.citynews.ca/2026/08/23/shelley-fabares-johnny-angel-singer-and-actor-in-the-donna-reed-show-and-coach-dies-at-82/",
+          "source": {
+            "name": "CityNews Toronto"
+          },
+          "publishedAt": "2026-08-23T21:40:00Z",
+          "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/08/0350f7bb0e188b55c1edfdb01ee595be439da0f85d0fd1594a460cf8fae62cb8.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Star of 'Coach' and 'The Donna Reed Show' Was 82",
+          "description": "Shelley Fabares, the star of 'The Donna Reed Show' and 'Coach,' died on Saturday in Los Angeles. She was 82.",
+          "url": "https://variety.com/2026/tv/news/shelley-fabares-dead-coach-the-donna-reed-show-1236841162/",
+          "source": {
+            "name": "Variety"
+          },
+          "publishedAt": "2026-08-23T21:40:00Z",
+          "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-81727855.jpg?crop=0px%2C3px%2C3000px%2C1687px&resize=1000%2C563",
+          "language": "en"
+        },
+        {
+          "title": "Kanye West concert delivers jaw-dropping $11M boost to Kazakhstan",
+          "description": "For Kazakhstan, Kanye West's concert in mid-August was more than a music event.Instead, it became a major tourism and economic win for the Central Asian country and reportedly brought in $11...",
+          "url": "https://www.thenews.com.pk/latest/1413363-kanye-west-concert-delivers-jaw-dropping-11m-boost-to-kazakhstan",
+          "source": {
+            "name": "The News International"
+          },
+          "publishedAt": "2026-08-23T21:37:00Z",
+          "image": "https://www.thenews.com.pk/assets/uploads/2026-08-24/1413363_023747_updates.jpg",
           "language": "en"
         }
       ]
