@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-24T15:39:29.924Z",
+  "updatedAt": "2026-08-24T18:40:30.403Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【分析】ロシアを襲い続ける「暗黒の8月」、プーチン氏がひた隠す今夏の危機とは",
+          "description": "ここ数十年の間、「暗黒の8月」または「8月の呪い」という言葉が、ロシアにおいてはある種のジャーナリズム用語として定着した。これは夏の終わりの数週間にかけて、同国で大きな危機が起こりがちな状況を表す言い回しだ。",
+          "url": "https://www.cnn.co.jp/world/35251858.html",
+          "source": {
+            "name": "CNN.co.jp"
+          },
+          "publishedAt": "2026-08-24T05:59:00Z",
+          "image": "https://www.cnn.co.jp/storage/2026/08/24/0e4ce39ea013c25efc8a67d1e8c13090/gettyimages-2289709412.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【分析】ロシアを襲い続ける「暗黒の8月」、プーチン氏がひた隠す今夏の危機とは（CNN.co.jp）",
+          "description": "（CNN）　ここ数十年の間、「暗黒の8月」または「8月の呪い」という言葉が、ロシアにおいてはある種のジャーナリズム用語として定着した。これは夏の終わりの数週間にかけて、同国で大きな危機が起こりがちな",
+          "url": "https://news.yahoo.co.jp/articles/75813b2947b63a6acfc0908400b852b536e7fb11",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-24T05:59:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260824-35251858-cnn-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "映画『ちいかわ』応援上映の開催が決定、そのほかお見送り上映や4DXも",
+          "description": "4DX上映や、お見送り上映も告知。興行収入100億を突破した本作の波はまだまだ続く",
+          "url": "https://news.denfaminicogamer.jp/news/2608242c",
+          "source": {
+            "name": "電ファミニコゲーマー"
+          },
+          "publishedAt": "2026-08-24T05:53:00Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/HQdmDwObsAAePAj.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『VIVANT』別班幹部が判明 “大物俳優”の姿に注目集まる",
+          "description": "ニュース｜　俳優・堺雅人が主演を務めるTBS系日曜劇場『VIVANT』（毎週日曜　後9：00）の第15話が23日に放送された。別班情報をめぐる緊迫した展開の中、別班の司令官・櫻井（キムラ緑子）とともに9人の幹部が登場。その1人を俳優・声優として活躍する金田明夫が演じていることが明らかになった。　同作は、自衛隊直轄の非公認組織「別班」に所属する乃木憂助（堺）が、世界を舞台に任務を遂行する完全オリジナルドラマ。第2シーズンでは、前作のラストから直結する物語が展開されている。",
+          "url": "https://www.oricon.co.jp/news/2475743/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-08-24T05:20:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2476000/2475743/20260823_214143_p_o_16844361.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「Pixel Watch 5」の特徴をチェック！4G通信やおサイフケータイ対応のスマートウォッチ",
+          "description": "Googleが「Pixel Watch 5」を日本で発売！おサイフケータイと4G通信に対応したスマートウォッチで、GeminiやGoogle Homeとの連携が強化されています。",
+          "url": "https://garumax.com/pixel-watch-5-announcement",
+          "source": {
+            "name": "ガルマックス"
+          },
+          "publishedAt": "2026-08-24T05:10:40Z",
+          "image": "https://garumax.com/wp-content/uploads/2026/08/garumax-Google-Pixel-Watch-5-10.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "映画『ちいかわ』興行収入110億円到達 4DX・ペンライト演出付応援上映等の開催決定",
+          "description": "『映画ちいかわ　人魚の島のひみつ』が、公開から31日（8月23日まで）で興行収入110億円、観客動員数766万人を突破した。",
+          "url": "https://www.cinematoday.jp/news/N0156487",
+          "source": {
+            "name": "シネマトゥデイ"
+          },
+          "publishedAt": "2026-08-24T05:00:00Z",
+          "image": "https://img.cinematoday.jp/a/VlpcFCGVHsGt/_size_r1200x630/_v_1787547017/main.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ワンピース「悪魔の実」がナイキ エア マックス プラスに コレクション発売",
+          "description": "「ナイキ（NIKE）」が、「ワンピース（ONE PIECE）」とのフットウェア＆アパレルコレクションを発表した。9月25日に、SNKRSなどで一部アイテムを発売する。発売に先立ち、ナイキ公式サイトでは事前抽選への登録を8月26日23時59分まで受け付けており、当選者は9月4日から6日まで原宿で開催するポップアップストア「Dr. B’s RESEARCH...",
+          "url": "https://www.fashionsnap.com/article/2026-08-24/nike-onepiece/",
+          "source": {
+            "name": "fashionsnap.com"
+          },
+          "publishedAt": "2026-08-24T04:38:14Z",
+          "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/08/1b32b0f1-69af-4e0b-84c6-9a3994795df9.jpg",
+          "language": "ja"
+        },
         {
           "title": "次期モデルのケースに「iPhone 17 Pro・iPhone 18 Pro対応」って書いてた…形変わらず？",
           "description": "発表されるであろう時期が近づいてきたiPhone 18シリーズ。今年に入ってApple製品は値上げされており、新製品となるiPhone 18シリーズも去年までの想定よりちょい上の価格になりそうです。が、もし節約できるところがあるとしたら…ケ",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-08-24T02:30:52Z",
           "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_6265.jpg?crop=0px%2C35px%2C1500px%2C788px&resize=1200%2C630",
           "language": "ja"
-        },
-        {
-          "title": "スズキから新型軽EV「e SKY」が2026年秋に登場！ プロトタイプをいち早く試乗してきた",
-          "description": "日本人の移動を津々浦々まで支える軽自動車づくりにかけて、長きにわたる歴史とともに積み上げてきた技術やノウハウを持つスズキ。そんなスズキがつくる軽EV第1弾、「e SKY」のプロトタイプに試乗する機会を得た。",
-          "url": "https://car.watch.impress.co.jp/docs/news/impression/2134742.html",
-          "source": {
-            "name": "Car Watch"
-          },
-          "publishedAt": "2026-08-24T02:03:00Z",
-          "image": "https://car.watch.impress.co.jp/img/car/list/2134/742/001.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "《妻はひきこもり状態に》カツアゲ疑惑の“福岡県議会のドン” 1000平米超え豪邸で騒動後に起きていた“異変”と近所の悪評「一度も会ったことがない」",
-          "description": "“日本でいちばん悪い男”が世間をにぎわせ続けている。「福岡県議会のドン」とも呼ばれる、同議会の議長・蔵内勇夫県議（72）だ。かねてから報じられてきた“カツアゲ疑惑”の一連の追及について、7月23日記",
-          "url": "https://news.yahoo.co.jp/articles/fb294c15a4b7def3a4e3fc0dbaefee84b4b20a62",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-24T02:00:46Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260824-00000012-jisin-000-5-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "ゲーム機高くなりすぎ問題。子どものおこづかいでは買えない状況に業界は？（ギズモード・ジャパン）",
-          "description": "ゲーム機はもう、子どもたちにとって高嶺の花。\n主要ゲーム機の価格が軒並み高騰しています。9月1日以降はNintendo Switch2が海外市場で50ドルの値上げを実施するなど、任天堂やソニー、マ",
-          "url": "https://news.yahoo.co.jp/articles/6b3e92c25e3e9f42f58ef5df53cc8c6abe22e6dd",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-24T02:00:01Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260824-00000006-giz-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "バーナム英首相が初外訪でキーウ到着、ウクライナ支持を再確認へ 欧州委は追加支援を発表",
-          "description": "イギリスのアンディ・バーナム首相は、首相就任後初の外国訪問として、24日にウクライナを訪れた。列車で首都キーウに到着したバーナム首相を、ウクライナのアンドリー・シビハ外相が出迎えた。バーナム氏はウクライナへの支援を改めて表明する予定。欧州委員会も同日、同国への支援拡大を発表した。ウクライナのウォロディミル・ゼレンスキー大統領は同国の独立記念日を祝い、「ウクライナは紛れもなく平和を望んでいる、しかしただあっさり降伏するつもりなどない」と強調した。",
-          "url": "https://www.bbc.com/japanese/articles/czrjrrzk7x3o",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-08-24T01:49:40Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/b7da/live/b6e24c60-9f9a-11f1-a83c-33ebef033ca4.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Mrs. GREEN APPLE、6作目オリジナルフルアルバム全16曲の楽曲タイトル＆曲順発表 書き下ろし新曲も収録",
-          "description": "3人組バンド・Mrs. GREEN APPLE（ミセスグリーンアップル）が、9月30日にリリースするオリジナルフルアルバム（タイトル未発表）に収録される全16曲の楽曲タイトルと曲順を発表した。",
-          "url": "https://mdpr.jp/music/detail/4833833",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-08-24T01:35:46Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/nVBF/nm/nVBFpBmcVURw7RJn7bTd_0zCG3ev6b8xkFv7zGrP1HY.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "樋口久子、岡本綾子、福嶋晃子に続く“4日間完全V” 山下美夢有が刻んだ日本勢米ツアー70勝目",
-          "description": "◇米国女子◇CPKC女子オープン 最終日（23日）◇ロイヤルメイフェアGC（カナダ）◇6452yd（パー70） 単独首位スタートの山下美夢有が逃げ切りでツアー通算4勝目を飾った。初日に米ツアー自己ベスト「62」で飛び出し、2日目からも「64",
-          "url": "https://news.golfdigest.co.jp/news/lpga/article/194378/1/",
-          "source": {
-            "name": "GDOゴルフニュース"
-          },
-          "publishedAt": "2026-08-24T01:32:37Z",
-          "image": "https://i.gimg.jp/cmsimg/435376.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "NASA「ローマン宇宙望遠鏡」打ち上げ準備の最終段階へ 早ければ8月30日にも打ち上げ",
-          "description": "NASAの次世代宇宙望遠鏡「ナンシー・グレース・ローマン」の飛行準備審査が完了しました。早ければ日本時間2026年8月30日にファルコンヘビーで打ち上げられます。ダークエネルギーやダークマター、太陽系外惑星の観測に挑む望遠鏡の特徴と準備状況を詳しく紹介します",
-          "url": "https://sorae.info/space/20260824-roman-space-telescope.html",
-          "source": {
-            "name": "sorae 宇宙へのポータルサイト"
-          },
-          "publishedAt": "2026-08-24T01:00:11Z",
-          "image": "https://sorae.info/wp-content/uploads/2026/08/nancy-grace-roman-space-telescope-nasa-2026-08-24-1.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Barcelona kicks off La Liga title defense with Elche rout",
-          "description": "FC Barcelona kicked off its La Liga title defense with a convincing 5-0 win away to Elche on Sunday.",
-          "url": "http://www.china.org.cn/2026-08/24/content_118661104.shtml",
+          "title": "Woman dead after car hits restaurant at Westfield Knox shopping centre in Melbourne's east",
+          "description": "The woman was sitting outside the restaurant when the car hit the building during the lunchtime rush at Westfield Knox.",
+          "url": "https://www.abc.net.au/news/2026-08-24/woman-dead-after-car-hits-cafe-at-westfield-knox-in-melbourne/107071942",
           "source": {
-            "name": "China.org.cn"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-08-24T03:38:03Z",
-          "image": "https://images.china.cn/images1/ch/2022ChinaIdex/img/shareF2023.png",
+          "publishedAt": "2026-08-24T06:40:20Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/96658b778aea26eecc26e743e045956e?impolicy=wcms_watermark_news&cropH=2812&cropW=4999&xPos=0&yPos=0&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Nurses say North Shore ED 'feral', patients left in soiled beds",
-          "description": "Patients are waiting in soiled beds at North Shore Hospital's emergency department and nurses say conditions are so bad it feels feral.",
-          "url": "https://www.1news.co.nz/2026/08/24/nightmare-patients-left-waiting-in-soiled-beds-at-north-shore-ed/",
+          "title": "Raphinha, Fermin react after Elche 0-5 Barcelona: ‘Whatever the manager asks of us, we will do’",
+          "description": "Barcelona’s search for a new No. 9 has been one of the talking points surrounding the club this summer. But on their first night back in La Liga, two players offered a timely reminder that Hansi Fl...",
+          "url": "https://sports.yahoo.com/articles/raphinha-fermin-react-elche-0-064000712.html",
           "source": {
-            "name": "1News"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-08-24T03:35:03Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/one-hundred-and-twenty-nurses-have-written-to-health-nz-chie-STRT7IBFHVEQNJRUMQHUVUJBXI.jpg?auth=cf8a413d7aa2d7609f0e4d84b97d817924c82878c9b659f59e85ce40ee0c0276&quality=70&width=600&height=315&focal=1740%2C662",
+          "publishedAt": "2026-08-24T06:40:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/98dc1b7c11b3667f4f322e716b58b1eb25f40382619fd7d2f420b803b7dac5a6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarca_universal_articles_732%2Faecd54d4ede7e9cb98bad9df59cb07c4.jpg",
           "language": "en"
         },
         {
-          "title": "AGYW project boosts voluntary HIV testing among young women",
-          "description": "More adolescent girls and young women are voluntarily seeking HIV testing and related health services following intensified peer education and...",
-          "url": "https://www.businessghana.com/site/news/general/354606/AGYW-project-boosts-voluntary-HIV-testing-among-young-women",
+          "title": "Michael Carrick Slams ‘Ridiculous’ Claim After Manchester United Lost to Hull City",
+          "description": "Manchester United fell to a surprising 2-0 defeat against Hull City, sparking a heated exchange between manager Michael Carrick and a reporter over player commitment",
+          "url": "https://www.tuko.co.ke/sports/football/637301-michael-carrick-slams-ridiculous-claim-manchester-united-lost-hull-city/",
           "source": {
-            "name": "BusinessGhana"
+            "name": "Tuko News"
           },
-          "publishedAt": "2026-08-24T03:34:50Z",
-          "image": "https://www.businessghana.com/site/img/../../cms/img/news/2026-08-21-1219330.jpg",
+          "publishedAt": "2026-08-24T06:39:56Z",
+          "image": "https://cdn.tuko.co.ke/images/1200x675/07a5bbaa1d6d8a90.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "Raiders RB Ashton Jeanty diagnosed with sprained ankle",
-          "description": "Raiders running back Ashton Jeanty needed help off the practice field on Sunday after injuring his right leg.",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-rb-ashton-jeanty-diagnosed-with-sprained-ankle",
+          "title": "Wanderers pull away at the top",
+          "description": "FNB Wanderers pulled further away at the top of the Namibia Rugby Premier League log while only two of the scheduled four matches over the weekend […]",
+          "url": "https://www.namibian.com.na/wanderers-pull-away-at-the-top/",
           "source": {
-            "name": "NBC Sports"
+            "name": "The Namibian -"
           },
-          "publishedAt": "2026-08-24T03:34:43Z",
-          "image": "https://nbcsports.brightspotcdn.com/dims4/default/95fe547/2147483647/strip/true/crop/6000x3375+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa9%2F06%2F9a4fa3bb42ecbf3db667a647cfc9%2F2291444213.jpg",
+          "publishedAt": "2026-08-24T06:39:43Z",
+          "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/08/Andre-vd-Berg-1-1024x699.jpg",
           "language": "en"
         },
         {
-          "title": "Auckland speed hump modified after complaints, vehicle damage claims",
-          "description": "A resident group is fuming over wasted tax and ratepayer money to modify a new flat-topped speed hump as part of a million dollar project five years ago.",
-          "url": "https://www.1news.co.nz/2026/08/24/auckland-speed-hump-modified-after-complaints-vehicle-damage-claims/",
+          "title": "Business Development Grants for Young People and Their Businesses (UK)",
+          "description": "Deadline: 31-Dec-2026 The Young Entrepreneur Growth Grant provides up to £2,000 to young business owners aged 18–30 living in Tyne & Wear or Northumberland. The grant supports UK-registered businesses that have traded for less than two and a half years and generate more than £500 per month, with funding available for equipment, materials, stock, prototypes,",
+          "url": "https://www2.fundsforngos.org/individuals/business-development-grants-for-young-people-and-their-businesses-uk/",
           "source": {
-            "name": "1News"
+            "name": "fundsforNGOs"
           },
-          "publishedAt": "2026-08-24T03:34:35Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/work-is-under-way-to-fix-the-raised-speed-table-at-the-glen-XWVHYFKWKZFGFDGJGGIXZK4HCE.jpg?auth=0ed08e607b5b3bc2644f4d4bed9b24c005a0cbe9df87954ef015a282f3db2ddc&quality=70&width=600&height=315&focal=2713%2C2276",
+          "publishedAt": "2026-08-24T06:39:34Z",
+          "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
           "language": "en"
         },
         {
-          "title": "Butters informs Port Adelaide of free agency call",
-          "description": "Zak Butters has told Port Adelaide of his plans for next season",
-          "url": "https://www.afl.com.au/news/1594878/zak-butters-informs-port-adelaide-of-free-agency-call-as-victorian-clubs-circle",
+          "title": "PA police detain IDF reservist in Area C, seize his weapon",
+          "description": "Binyamin Council outraged after Palestinian Authority officers allegedly operate where they are prohibited, stop an Israeli reservist and take his military-issued weapon.",
+          "url": "https://www.israelnationalnews.com/news/432146",
           "source": {
-            "name": "afl.com.au"
+            "name": "Israel National News"
           },
-          "publishedAt": "2026-08-24T03:34:00Z",
-          "image": "https://resources.afl.com.au/photo-resources/2026/06/12/d629b18f-8daa-4b1b-853f-560a27ce2bc4/Butters.jpg?width=1200&height=630",
+          "publishedAt": "2026-08-24T06:39:00Z",
+          "image": "https://2.a7.org/files/pictures/000/1155554.jpg",
           "language": "en"
         },
         {
-          "title": "Queenstown mayor says National's bed tax U-turn 'policy made in panic'",
-          "description": "John Glover says National has abandoned a chance to make international visitors contribute, while Auckland Mayor Wayne Brown says the move undermines a Govt deal.",
-          "url": "https://www.1news.co.nz/2026/08/24/queenstown-mayor-says-nationals-bed-tax-u-turn-policy-made-in-panic/",
+          "title": "Nigerian actor Ogogo go make final journey home today",
+          "description": "According to Jide Kosoko, dem go bury Ogogo for im hometown of Ilaro, Ogun State, southwest Nigeria.",
+          "url": "https://www.bbc.com/pidgin/articles/c5yl3pn7e95o",
           "source": {
-            "name": "1News"
+            "name": "BBC"
           },
-          "publishedAt": "2026-08-24T03:33:21Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/auckland-airport-international-arrivals-6IRZ5VM2YJARXMR7ERY4CNKT3A.jpg?auth=5c70ef7035fadd6bc3ddd75ab6e68179482d86cbb8c4d2860b30e707d7d7507a&quality=70&width=600&height=315&focal=580%2C381",
+          "publishedAt": "2026-08-24T06:38:29Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_pidgin/bda2/live/cec0d740-9f84-11f1-aed2-8d6da8d75094.jpg",
           "language": "en"
         },
         {
-          "title": "Which foods have become less affordable for New Zealanders?",
-          "description": "Some essential food items have increased in price twice as fast as wages have risen over the past 10 years.",
-          "url": "https://www.1news.co.nz/2026/08/24/which-foods-have-become-less-affordable-for-new-zealanders/",
+          "title": "How Chromosomes Find Their Partners",
+          "description": "For a long time, so-called satellite DNA was considered largely worthless. Now, ETH researchers have shown in fruit flies that these repetitive",
+          "url": "https://www.miragenews.com/how-chromosomes-find-their-partners-1731998/",
           "source": {
-            "name": "1News"
+            "name": "Mirage News"
           },
-          "publishedAt": "2026-08-24T03:33:14Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/protein-foods-PA22AUBPC5C4TE5SS5HE2FG2TI.jpg?auth=0cd562e52c97f9c0fac57c81389eb00254e8f9364b5db1770486ed1749cb44fa&quality=70&width=600&height=315&focal=1001%2C618",
+          "publishedAt": "2026-08-24T06:38:00Z",
+          "image": "https://ethz.ch/en/news-and-events/eth-news/news/2026/08/how-chromosomes-find-their-partners/_jcr_content/articleLeadImage/image.imageformat.carousel.1607690802.jpg",
           "language": "en"
         },
         {
-          "title": "Smart Wins Ookla Best Mobile Video Experience in the PH for 2nd Year",
-          "description": "Smart Communications wins Ookla Best Mobile Video Experience in the Philippines for the 2nd straight year with a 72.82 Video Score in 1H 2026.",
-          "url": "https://jamonline.ph/tech-news/smart-wins-best-mobile-video-experience-in-the-philippines-for-2nd-straight-year-ookla-1h-2026-report/",
+          "title": "EFCSN Emergency Response Support Grants for Fact",
+          "description": "Deadline: 31-Dec-2026 The EFCSN Emergency Response Support Grants provide funding to fact-checking organisations in the European Union and DEP-associated countries to respond to disinformation during crises. The programme supports emergency fact-checking, investigative reporting, technology upgrades, crisis communication, organisational security, and long-term preparedness, with grants of up to €15,000 per project. EFCSN Emergency Response Support Grants",
+          "url": "https://www2.fundsforngos.org/accounts-and-finance/efcsn-emergency-response-support-grants-for-fact-checkers/",
           "source": {
-            "name": "jamonline.ph"
+            "name": "fundsforNGOs"
           },
-          "publishedAt": "2026-08-24T03:31:53Z",
-          "image": "https://jamonline.ph/wp-content/uploads/2026/08/smart_5g_ookla_1.jpg",
+          "publishedAt": "2026-08-24T06:37:44Z",
+          "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
           "language": "en"
         },
         {
-          "title": "Clashes break out after eggs hurled at Ganesh idol procession in Maharashtra; police deployed",
-          "description": "The incident occurred during the arrival procession of the Ganesh idol. | India News",
-          "url": "https://www.hindustantimes.com/india-news/clash-during-ganesh-idol-procession-heavy-police-deployment-in-maharashtra-mumbai-mazgaon-ganpati-video-101787541417756.html",
+          "title": "Do you know Nintendo? Compete in an official trivia night this week in Sandton",
+          "description": "Prizes are up for grabs on top of R100 vouchers for spends of R500 or more.",
+          "url": "https://htxt.co.za/2026/08/do-you-know-nintendo-compete-in-an-official-trivia-night-this-week-in-sandton/",
           "source": {
-            "name": "Hindustan Times"
+            "name": "htxt.co.za"
           },
-          "publishedAt": "2026-08-24T03:31:22Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/08/24/1600x900/logo/c_1787541991522_1787541992115_b367f739-4fa6-4aba-81e8-7d8c4f844b3d.gif",
+          "publishedAt": "2026-08-24T06:37:26Z",
+          "image": "https://htxt.co.za/wp-content/uploads/2026/08/Nintendo-Trivia-Night-Sandton-Header-2.jpg",
           "language": "en"
         }
       ]
