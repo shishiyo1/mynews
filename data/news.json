@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-24T12:51:33.918Z",
+  "updatedAt": "2026-08-24T15:39:29.924Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "ロシア、年内に30万人動員の可能性 ゼレンスキー氏が警告",
-          "description": "ウクライナのゼレンスキー大統領は23日、ロシアが年内に新たに30万人を動員する可能性が高いと警告した。ウクライナ東部地域の掌握を完遂させる狙い。",
-          "url": "https://www.cnn.co.jp/world/35251847.html",
-          "source": {
-            "name": "CNN.co.jp"
-          },
-          "publishedAt": "2026-08-24T00:42:00Z",
-          "image": "https://www.cnn.co.jp/storage/2026/08/24/eba28c10ce0f2b264bb34a50964ecd13/2026-06-22t105228z-1465814115-rc2xylatek76-rtrmadp-3-ww2-anniversary-russia-putin.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "アストンマーティン・ホンダ、フェルナンド・アロンソの巧みなドライブで9位入賞「課題はあるけど、また一歩前進できた」",
-          "description": "F1オランダGPの決勝で9位入賞を果たしたフェルナンド・アロンソは、まだ課題はあるものの、前進することができたと一定の満足感を語った。",
-          "url": "https://jp.motorsport.com/f1/news/f1-2026-rd12-netherland-race-alonso-point-comments/10848735/",
-          "source": {
-            "name": "motorsport.com 日本版｜モータースポーツ情報サイト"
-          },
-          "publishedAt": "2026-08-23T23:30:58Z",
-          "image": "https://cdn-7.motorsport.com/images/amp/YXyKR376/s6/fernando-alonso-aston-martin-r.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【風、薫る】小川直美役・上坂樹里さんが語る“吾郎の魅力”「誰よりもピュア。スタッフのなかでも一番人気」",
-          "description": "連続テレビ小説「風、薫る」で、上坂樹里さんが演じる小川（大家）直美が小川吾郎（甲斐翔真さん）と結婚し、幸せな家庭生活が描かれています。料理上手で明るく優しい吾郎に朝ドラファンも心を掴まれていますが、スタッフのなかでも人気",
-          "url": "https://artexhibition.jp/topics/news/20260819-AEJ2972210/",
-          "source": {
-            "name": "美術展ナビ"
-          },
-          "publishedAt": "2026-08-23T23:15:00Z",
-          "image": "https://artexhibition.jp/wp-content/uploads/2026/08/d11de81562069d0a7da0d546af4c114c.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "生成AIと一緒に音楽プレーヤー「DAL Player」を鍛え直す。24bitの壁とGitHub初公開まで",
-          "description": "先月の連載で、ChatGPTとOpenAIのコード生成AI「Codex」を使い、わずか30分でASIO対応の音楽プレーヤー「DAL Player」を作った話を紹介した。C#/.NET 10/WPF/NAudioという構成で、Ver0.1で最小限の再生機能を実装し、Ver0.2でASIO Control Panelボタンを追加。ただし異なるサンプリングレートのWAVへ切り替えるとアプリがクラッシュするバグが見つかり、これを次回の課題として持ち越していた。",
-          "url": "https://av.watch.impress.co.jp/docs/series/dal/2134839.html",
-          "source": {
-            "name": "AV Watch"
-          },
-          "publishedAt": "2026-08-23T23:00:00Z",
-          "image": "https://av.watch.impress.co.jp/img/avw/list/2134/839/000.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "iPhone 12をお下がりで受け継いで6年弱。買い替え予定はありません",
-          "description": "問題なく使えているからなぁ。巷では2026年9月にも「iPhone 18」シリーズが出るのでは？ とウワサが浮上していますよね。このタイミングで買い替えするか迷っている人もおられることでしょう。でも、最近のiPhoneは丈夫ですし、値上げも",
-          "url": "https://www.gizmodo.jp/article/iphone12-6years-review/",
+          "title": "次期モデルのケースに「iPhone 17 Pro・iPhone 18 Pro対応」って書いてた…形変わらず？",
+          "description": "発表されるであろう時期が近づいてきたiPhone 18シリーズ。今年に入ってApple製品は値上げされており、新製品となるiPhone 18シリーズも去年までの想定よりちょい上の価格になりそうです。が、もし節約できるところがあるとしたら…ケ",
+          "url": "https://www.gizmodo.jp/article/cases-for-the-iphone-18-pro-might-be-compatible-with-the-iphone-17-pro/",
           "source": {
             "name": "Gizmodo"
           },
-          "publishedAt": "2026-08-23T23:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/08/18/505ad65a-059a-4b4e-8a9e-83823a31133a/original.jpg?w=1200&h=630",
+          "publishedAt": "2026-08-24T03:30:00Z",
+          "image": "https://media.loom-app.com/loom/2026/08/23/c820c2c9-13e6-491a-abe7-08e05de97347/original.jpg?w=1200&h=630",
           "language": "ja"
         },
         {
-          "title": "【KEY TO LIT】「３年以内にドーム公演」サプライズデビュー発表から６日、今最も注目されている５人組。おめでとうムード満載の公開囲み取材も全力レポ！",
-          "description": "８月17日、増上寺にて開催されたファンクラブ限定イベントで、今冬CDデビューすることがサプライズ発表された彼ら。（くわしくはこちら）５都市21公演、約23万8,000人を動員するツアー「KEY TO LIT Arena",
-          "url": "https://www.vivi.tv/post489496/",
+          "title": "『Ｄ×２ 真・女神転生リベレーション』『ペルソナ５: The Phantom X』を手掛ける株式会社セガ 岩嵜友樹氏が横浜デジタルアーツ専門学校で特別講義を実施",
+          "description": "学校法人岩崎学園のプレスリリース（2026年8月24日 12時00分）『Ｄ×２ 真・女神転生リベレーション』『ペルソナ５: The Phantom X』を手掛ける株式会社セガ 岩嵜友樹氏が横浜デジタルアーツ専門学校で特別講義を実施",
+          "url": "https://prtimes.jp/main/html/rd/p/000000085.000044572.html",
           "source": {
-            "name": "vivi.tv"
+            "name": "PR TIMES"
           },
-          "publishedAt": "2026-08-23T22:59:39Z",
-          "image": "https://www.vivi.tv/wp-content/uploads/2026/08/24010835/phonto-11.jpg",
+          "publishedAt": "2026-08-24T03:00:01Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/44572/85/44572-85-f3bd108ca0d72045d970b2bd5f1cba99-1999x1125.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
           "language": "ja"
         },
         {
-          "title": "角田裕毅、急遽F1オランダGP参戦も入賞にあと一歩届かぬ11位「もちろん入賞できた方が良かったが……自分の力は証明できたと思う」",
-          "description": "F1オランダGPの決勝で角田裕毅（レーシングブルズ）は11位。惜しくも入賞には届かなかったが、いきなり乗ってもポイント争いができるだけの力を示せたと語った。",
-          "url": "https://jp.motorsport.com/f1/news/f1-2026-rd12-netherland-race-tsunoda-comments/10848706/",
+          "title": "アパホテルで人生初の「ビジホ飲み」をしたら自宅より圧倒的に快適だった",
+          "description": "先日、生まれて初めてアパホテルに泊まった。大浴場で汗を流したら、翌朝の仕事に備えて早めに就寝。それがビジネスホテルでの一般的な過ごし方だろう。 しかしだ。せっ …",
+          "url": "https://rocketnews24.com/2026/08/24/2790587/",
           "source": {
-            "name": "motorsport.com 日本版｜モータースポーツ情報サイト"
+            "name": "ロケットニュース24"
           },
-          "publishedAt": "2026-08-23T22:16:50Z",
-          "image": "https://cdn-5.motorsport.com/images/amp/2QedzqP2/s6/yuki-tsunoda-racing-bulls.jpg",
+          "publishedAt": "2026-08-24T02:30:52Z",
+          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_6265.jpg?crop=0px%2C35px%2C1500px%2C788px&resize=1200%2C630",
           "language": "ja"
         },
         {
-          "title": "猛暑と天気急変に注意 近畿～北海道は午後は激しい雨や雷雨 今日24日(月)の天気",
-          "description": "今日24日(月)は、沖縄から関東はおおむね晴れますが、大気の状態が不安定で、午後は所々で雷雨や激しい雨となるでしょう。東北や北海道も雨や雷雨で、激しく降る所もある見込みです。全国的に暑く、九州では酷暑日に迫る所もありそうです。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/08/24/40269.html",
+          "title": "スズキから新型軽EV「e SKY」が2026年秋に登場！ プロトタイプをいち早く試乗してきた",
+          "description": "日本人の移動を津々浦々まで支える軽自動車づくりにかけて、長きにわたる歴史とともに積み上げてきた技術やノウハウを持つスズキ。そんなスズキがつくる軽EV第1弾、「e SKY」のプロトタイプに試乗する機会を得た。",
+          "url": "https://car.watch.impress.co.jp/docs/news/impression/2134742.html",
           "source": {
-            "name": "tenki.jp"
+            "name": "Car Watch"
           },
-          "publishedAt": "2026-08-23T22:07:15Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/402/40269/main/20260824065551/large.jpg",
+          "publishedAt": "2026-08-24T02:03:00Z",
+          "image": "https://car.watch.impress.co.jp/img/car/list/2134/742/001.jpg",
           "language": "ja"
         },
         {
-          "title": "台風18号…気象庁の予想進路、米軍・ヨーロッパの見方 25日にも沖縄に接近おそれ",
-          "description": "台風18号（ソウデル）は2026年8月24日午前9時現在、日本の南を1時間に35キロの速さで西北西に進んでいる。予想進路や日本への影響について気象庁や米軍合同台風警報センター(JTWC）、ヨーロッパ中期予報センターの見方をまとめた。台風18号は非常に強い勢力に発達。今後、25日から27日にかけ強い勢力で南大東島、沖縄本島や先島諸島に接近する恐れがある。今後の最新情報に注意が必要だ。",
-          "url": "https://www.fukuishimbun.co.jp/articles/-/2681370",
+          "title": "《妻はひきこもり状態に》カツアゲ疑惑の“福岡県議会のドン” 1000平米超え豪邸で騒動後に起きていた“異変”と近所の悪評「一度も会ったことがない」",
+          "description": "“日本でいちばん悪い男”が世間をにぎわせ続けている。「福岡県議会のドン」とも呼ばれる、同議会の議長・蔵内勇夫県議（72）だ。かねてから報じられてきた“カツアゲ疑惑”の一連の追及について、7月23日記",
+          "url": "https://news.yahoo.co.jp/articles/fb294c15a4b7def3a4e3fc0dbaefee84b4b20a62",
           "source": {
-            "name": "福井新聞社"
+            "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-08-23T21:58:00Z",
-          "image": "https://fki.ismcdn.jp/mwimgs/5/a/-/img_5ae05087b9e9d539dd73817ed1cd591c216728.jpg",
+          "publishedAt": "2026-08-24T02:00:46Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260824-00000012-jisin-000-5-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "人類はなぜ宇宙を目指すのか？ 揺らぐ宇宙飛行士の役割",
-          "description": "2026年4月、アルテミスIIの宇宙飛行士4人が月を周回し、人類が地球から最も遠くまで到達した記録を塗り替えた。米中は月の南極に基地を競い、民間企業は宇宙観光へ乗り出す。だが、最も本質的な問いは残ったままだ。危険で費用もかさみ、ロボットで足りるかもしれないのに、人はなぜ宇宙へ行くのか？",
-          "url": "https://www.technologyreview.jp/s/387997/the-role-of-the-astronaut-is-in-flux/",
+          "title": "ゲーム機高くなりすぎ問題。子どものおこづかいでは買えない状況に業界は？（ギズモード・ジャパン）",
+          "description": "ゲーム機はもう、子どもたちにとって高嶺の花。\n主要ゲーム機の価格が軒並み高騰しています。9月1日以降はNintendo Switch2が海外市場で50ドルの値上げを実施するなど、任天堂やソニー、マ",
+          "url": "https://news.yahoo.co.jp/articles/6b3e92c25e3e9f42f58ef5df53cc8c6abe22e6dd",
           "source": {
-            "name": "MITテクノロジーレビュー"
+            "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-08-23T21:57:33Z",
-          "image": "https://www.technologyreview.jp/wp-content/uploads/sites/2/2026/08/art002e009287large-1400x787.jpg",
+          "publishedAt": "2026-08-24T02:00:01Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260824-00000006-giz-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "バーナム英首相が初外訪でキーウ到着、ウクライナ支持を再確認へ 欧州委は追加支援を発表",
+          "description": "イギリスのアンディ・バーナム首相は、首相就任後初の外国訪問として、24日にウクライナを訪れた。列車で首都キーウに到着したバーナム首相を、ウクライナのアンドリー・シビハ外相が出迎えた。バーナム氏はウクライナへの支援を改めて表明する予定。欧州委員会も同日、同国への支援拡大を発表した。ウクライナのウォロディミル・ゼレンスキー大統領は同国の独立記念日を祝い、「ウクライナは紛れもなく平和を望んでいる、しかしただあっさり降伏するつもりなどない」と強調した。",
+          "url": "https://www.bbc.com/japanese/articles/czrjrrzk7x3o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-08-24T01:49:40Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/b7da/live/b6e24c60-9f9a-11f1-a83c-33ebef033ca4.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Mrs. GREEN APPLE、6作目オリジナルフルアルバム全16曲の楽曲タイトル＆曲順発表 書き下ろし新曲も収録",
+          "description": "3人組バンド・Mrs. GREEN APPLE（ミセスグリーンアップル）が、9月30日にリリースするオリジナルフルアルバム（タイトル未発表）に収録される全16曲の楽曲タイトルと曲順を発表した。",
+          "url": "https://mdpr.jp/music/detail/4833833",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-08-24T01:35:46Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/nVBF/nm/nVBFpBmcVURw7RJn7bTd_0zCG3ev6b8xkFv7zGrP1HY.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
+        {
+          "title": "樋口久子、岡本綾子、福嶋晃子に続く“4日間完全V” 山下美夢有が刻んだ日本勢米ツアー70勝目",
+          "description": "◇米国女子◇CPKC女子オープン 最終日（23日）◇ロイヤルメイフェアGC（カナダ）◇6452yd（パー70） 単独首位スタートの山下美夢有が逃げ切りでツアー通算4勝目を飾った。初日に米ツアー自己ベスト「62」で飛び出し、2日目からも「64",
+          "url": "https://news.golfdigest.co.jp/news/lpga/article/194378/1/",
+          "source": {
+            "name": "GDOゴルフニュース"
+          },
+          "publishedAt": "2026-08-24T01:32:37Z",
+          "image": "https://i.gimg.jp/cmsimg/435376.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "NASA「ローマン宇宙望遠鏡」打ち上げ準備の最終段階へ 早ければ8月30日にも打ち上げ",
+          "description": "NASAの次世代宇宙望遠鏡「ナンシー・グレース・ローマン」の飛行準備審査が完了しました。早ければ日本時間2026年8月30日にファルコンヘビーで打ち上げられます。ダークエネルギーやダークマター、太陽系外惑星の観測に挑む望遠鏡の特徴と準備状況を詳しく紹介します",
+          "url": "https://sorae.info/space/20260824-roman-space-telescope.html",
+          "source": {
+            "name": "sorae 宇宙へのポータルサイト"
+          },
+          "publishedAt": "2026-08-24T01:00:11Z",
+          "image": "https://sorae.info/wp-content/uploads/2026/08/nancy-grace-roman-space-telescope-nasa-2026-08-24-1.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Atiku, Obi Finalise Campaign Council Moves",
-          "description": "As 2027 elections approach, Atiku Abubakar and Peter Obi are making final moves to constitute their presidential campaign councils. Get the latest updates",
-          "url": "https://punchng.com/2027-atiku-obi-make-final-moves-on-campaign-councils/",
+          "title": "Barcelona kicks off La Liga title defense with Elche rout",
+          "description": "FC Barcelona kicked off its La Liga title defense with a convincing 5-0 win away to Elche on Sunday.",
+          "url": "http://www.china.org.cn/2026-08/24/content_118661104.shtml",
           "source": {
-            "name": "Punch Newspapers"
+            "name": "China.org.cn"
           },
-          "publishedAt": "2026-08-24T00:51:14Z",
-          "image": "https://cdn.punchng.com/wp-content/uploads/2025/11/25004030/Atiku-Abubakar-Peter-Obi.jpg",
+          "publishedAt": "2026-08-24T03:38:03Z",
+          "image": "https://images.china.cn/images1/ch/2022ChinaIdex/img/shareF2023.png",
           "language": "en"
         },
         {
-          "title": "Girl, 8, dies after suspected brain-eating amoeba infection from lake swim",
-          "description": "An 8-year-old Louisiana girl died after health officials believe she contracted Naegleria fowleri, a brain-eating amoeba, while swimming in Lake Claiborne.",
-          "url": "https://www.foxnews.com/health/louisiana-girl-8-dies-after-contracting-suspected-brain-eating-amoeba-linked-lake-swim",
+          "title": "Nurses say North Shore ED 'feral', patients left in soiled beds",
+          "description": "Patients are waiting in soiled beds at North Shore Hospital's emergency department and nurses say conditions are so bad it feels feral.",
+          "url": "https://www.1news.co.nz/2026/08/24/nightmare-patients-left-waiting-in-soiled-beds-at-north-shore-ed/",
           "source": {
-            "name": "Fox News"
+            "name": "1News"
           },
-          "publishedAt": "2026-08-24T00:50:29Z",
-          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/lillian-smart-death-la.jpg",
+          "publishedAt": "2026-08-24T03:35:03Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/one-hundred-and-twenty-nurses-have-written-to-health-nz-chie-STRT7IBFHVEQNJRUMQHUVUJBXI.jpg?auth=cf8a413d7aa2d7609f0e4d84b97d817924c82878c9b659f59e85ce40ee0c0276&quality=70&width=600&height=315&focal=1740%2C662",
           "language": "en"
         },
         {
-          "title": "Crystal Palace transfer news: Eagles prepare audacious £50m bid to lure Jarrod Bowen back to Premier League - Paper Talk",
-          "description": "Latest transfer news and headlines as Al Hilal work on double Premier League raid for Arsenals Gabriel Martinelli & Aston Villas Ollie Watkins; Man Utd target Alejandro Balde left out of Barcelona squad for their LaLiga opener; Couhaib Driouech set to leave PSV after failed Rangers move",
-          "url": "https://www.skysports.com/football/transfer-paper-talk/12709/13576453/crystal-palace-transfer-news-eagles-prepare-audacious-lb50m-bid-to-lure-jarrod-bowen-back-to-premier-league-paper-talk",
+          "title": "AGYW project boosts voluntary HIV testing among young women",
+          "description": "More adolescent girls and young women are voluntarily seeking HIV testing and related health services following intensified peer education and...",
+          "url": "https://www.businessghana.com/site/news/general/354606/AGYW-project-boosts-voluntary-HIV-testing-among-young-women",
           "source": {
-            "name": "Sky Sports"
+            "name": "BusinessGhana"
           },
-          "publishedAt": "2026-08-24T00:49:41Z",
-          "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
+          "publishedAt": "2026-08-24T03:34:50Z",
+          "image": "https://www.businessghana.com/site/img/../../cms/img/news/2026-08-21-1219330.jpg",
           "language": "en"
         },
         {
-          "title": "‘Entering endgame’: US treasury secretary Bessent announces 'economic D-Day' for Iran",
-          "description": "In a post on X, Bessent said the US was entering the “endgame” of its campaign against Iran.  | World News",
-          "url": "https://www.hindustantimes.com/world-news/entering-endgame-us-treasury-secy-bessent-announces-economic-d-day-against-iran-101787532027745.html",
+          "title": "Raiders RB Ashton Jeanty diagnosed with sprained ankle",
+          "description": "Raiders running back Ashton Jeanty needed help off the practice field on Sunday after injuring his right leg.",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-rb-ashton-jeanty-diagnosed-with-sprained-ankle",
+          "source": {
+            "name": "NBC Sports"
+          },
+          "publishedAt": "2026-08-24T03:34:43Z",
+          "image": "https://nbcsports.brightspotcdn.com/dims4/default/95fe547/2147483647/strip/true/crop/6000x3375+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa9%2F06%2F9a4fa3bb42ecbf3db667a647cfc9%2F2291444213.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Auckland speed hump modified after complaints, vehicle damage claims",
+          "description": "A resident group is fuming over wasted tax and ratepayer money to modify a new flat-topped speed hump as part of a million dollar project five years ago.",
+          "url": "https://www.1news.co.nz/2026/08/24/auckland-speed-hump-modified-after-complaints-vehicle-damage-claims/",
+          "source": {
+            "name": "1News"
+          },
+          "publishedAt": "2026-08-24T03:34:35Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/work-is-under-way-to-fix-the-raised-speed-table-at-the-glen-XWVHYFKWKZFGFDGJGGIXZK4HCE.jpg?auth=0ed08e607b5b3bc2644f4d4bed9b24c005a0cbe9df87954ef015a282f3db2ddc&quality=70&width=600&height=315&focal=2713%2C2276",
+          "language": "en"
+        },
+        {
+          "title": "Butters informs Port Adelaide of free agency call",
+          "description": "Zak Butters has told Port Adelaide of his plans for next season",
+          "url": "https://www.afl.com.au/news/1594878/zak-butters-informs-port-adelaide-of-free-agency-call-as-victorian-clubs-circle",
+          "source": {
+            "name": "afl.com.au"
+          },
+          "publishedAt": "2026-08-24T03:34:00Z",
+          "image": "https://resources.afl.com.au/photo-resources/2026/06/12/d629b18f-8daa-4b1b-853f-560a27ce2bc4/Butters.jpg?width=1200&height=630",
+          "language": "en"
+        },
+        {
+          "title": "Queenstown mayor says National's bed tax U-turn 'policy made in panic'",
+          "description": "John Glover says National has abandoned a chance to make international visitors contribute, while Auckland Mayor Wayne Brown says the move undermines a Govt deal.",
+          "url": "https://www.1news.co.nz/2026/08/24/queenstown-mayor-says-nationals-bed-tax-u-turn-policy-made-in-panic/",
+          "source": {
+            "name": "1News"
+          },
+          "publishedAt": "2026-08-24T03:33:21Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/auckland-airport-international-arrivals-6IRZ5VM2YJARXMR7ERY4CNKT3A.jpg?auth=5c70ef7035fadd6bc3ddd75ab6e68179482d86cbb8c4d2860b30e707d7d7507a&quality=70&width=600&height=315&focal=580%2C381",
+          "language": "en"
+        },
+        {
+          "title": "Which foods have become less affordable for New Zealanders?",
+          "description": "Some essential food items have increased in price twice as fast as wages have risen over the past 10 years.",
+          "url": "https://www.1news.co.nz/2026/08/24/which-foods-have-become-less-affordable-for-new-zealanders/",
+          "source": {
+            "name": "1News"
+          },
+          "publishedAt": "2026-08-24T03:33:14Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/protein-foods-PA22AUBPC5C4TE5SS5HE2FG2TI.jpg?auth=0cd562e52c97f9c0fac57c81389eb00254e8f9364b5db1770486ed1749cb44fa&quality=70&width=600&height=315&focal=1001%2C618",
+          "language": "en"
+        },
+        {
+          "title": "Smart Wins Ookla Best Mobile Video Experience in the PH for 2nd Year",
+          "description": "Smart Communications wins Ookla Best Mobile Video Experience in the Philippines for the 2nd straight year with a 72.82 Video Score in 1H 2026.",
+          "url": "https://jamonline.ph/tech-news/smart-wins-best-mobile-video-experience-in-the-philippines-for-2nd-straight-year-ookla-1h-2026-report/",
+          "source": {
+            "name": "jamonline.ph"
+          },
+          "publishedAt": "2026-08-24T03:31:53Z",
+          "image": "https://jamonline.ph/wp-content/uploads/2026/08/smart_5g_ookla_1.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Clashes break out after eggs hurled at Ganesh idol procession in Maharashtra; police deployed",
+          "description": "The incident occurred during the arrival procession of the Ganesh idol. | India News",
+          "url": "https://www.hindustantimes.com/india-news/clash-during-ganesh-idol-procession-heavy-police-deployment-in-maharashtra-mumbai-mazgaon-ganpati-video-101787541417756.html",
           "source": {
             "name": "Hindustan Times"
           },
-          "publishedAt": "2026-08-24T00:46:36Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/08/24/1600x900/logo/BESSENT-ECNY-2_1782882156552_1782882165493_2a18dd71-ff9b-4a82-876b-57b8f394ef16_1787532174249_4c177c61-f9c5-420e-b2e6-ca679691f090.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Kim Soo Hyun Returns to TV, Performs 'Dreaming' on Indonesian Private Station",
-          "description": "Kim Soo Hyun returned to Indonesian television, performing 'Dreaming' and recommending Korean dishes during a guest appearance on a private TV station",
-          "url": "https://en.tempo.co/read/2118181/kim-soo-hyun-returns-to-tv-performs-dreaming-on-indonesian-private-station",
-          "source": {
-            "name": "Tempo.co English"
-          },
-          "publishedAt": "2026-08-24T00:46:21Z",
-          "image": "https://statik.tempo.co/data/2025/03/14/id_1384700/1384700_720.jpg",
-          "language": "en"
-        },
-        {
-          "title": "SBS WorldWatch linear channel to close",
-          "description": "International news bulletins at SBS WorldWatch will be made available at SBS on Demand, when channel closes after 4 years.",
-          "url": "https://tvtonight.com.au/2026/08/sbs-worldwatch-linear-channel-to-close.html",
-          "source": {
-            "name": "TV Tonight | Australia's Leading TV Blog"
-          },
-          "publishedAt": "2026-08-24T00:45:41Z",
-          "image": "https://i0.wp.com/tvtonight.com.au/wp-content/uploads/Screenshot-2024-10-25-at-12-1.jpg?fit=1040%2C600&ssl=1",
-          "language": "en"
-        },
-        {
-          "title": "Indonesian police arrest 72 people suspected of starting forest fires",
-          "description": "Indonesian authorities have arrested 72 people suspected of starting forest and peatland fires",
-          "url": "https://abcnews.com/International/wireStory/indonesian-police-arrest-72-people-suspected-starting-forest-135880285",
-          "source": {
-            "name": "ABC News - Breaking News, Latest News and Videos"
-          },
-          "publishedAt": "2026-08-24T00:45:09Z",
-          "image": "https://i.abcnewsfe.com/a/caa4e4ad-be12-4ed0-8a55-7590710ea284/ASIA-WEATHER-INDONESIA-WILDFIRE_1786980897723_hpEmbed_sl_16x9t.jpg?w=1600",
-          "language": "en"
-        },
-        {
-          "title": "Typhoon Saudel to enter PAR Monday, enhance ‘habagat’",
-          "description": "Typhoon Saudel is forecast to enter the northeastern boundary of PAR on Monday and will enhance the southwest monsoon or “habagat.”",
-          "url": "https://cebudailynews.inquirer.net/760197/typhoon-saudel-to-enter-par-monday-enhance-habagat",
-          "source": {
-            "name": "Cebu Daily News"
-          },
-          "publishedAt": "2026-08-24T00:45:00Z",
-          "image": "https://cebudailynews.inquirer.net/files/2026/08/typhoon-saudel-monday-1024x642.png",
-          "language": "en"
-        },
-        {
-          "title": "Day' as Iran threatens to halt all oil exports",
-          "description": "CAIRO/WASHINGTON (Aug 24): The US. threatened Iran with what it called \"the greatest financial offensive ever marshalled\" as it prepared to roll out economic sanctions on Monday that target Iran's trade partners.",
-          "url": "https://theedgemalaysia.com/node/815539",
-          "source": {
-            "name": "The Edge Malaysia"
-          },
-          "publishedAt": "2026-08-24T00:44:33Z",
-          "image": "https://assets.theedgemarkets.com/Ships_and_tankers_in_the_Strait_of_Hormuz_off_the_coast_of_Musandam,_Oman,_April_18,_2026_Stringer.Reuters-APP_2.jpg",
-          "language": "en"
-        },
-        {
-          "title": "PM Modi says India can ‘very quickly’ make its place in global space sector: ‘We must create an aura that…’",
-          "description": "PM Modi urged private space firms to build an ecosystem that attracts global talent and investment, as India targets a larger share in the space economy | India News",
-          "url": "https://www.hindustantimes.com/india-news/pm-modi-says-india-can-very-quickly-make-its-place-in-global-space-sector-we-must-create-an-aura-that-101787528407473.html",
-          "source": {
-            "name": "Hindustan Times"
-          },
-          "publishedAt": "2026-08-24T00:42:57Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/08/23/1600x900/logo/modi_1787529180893_1787529197685_f21b027f-24c4-4d6a-a033-5798ff47d2fd.webp",
+          "publishedAt": "2026-08-24T03:31:22Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/08/24/1600x900/logo/c_1787541991522_1787541992115_b367f739-4fa6-4aba-81e8-7d8c4f844b3d.gif",
           "language": "en"
         }
       ]
