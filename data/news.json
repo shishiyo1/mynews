@@ -1,10 +1,32 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-26T03:53:43.978Z",
+  "updatedAt": "2026-08-26T06:50:55.281Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "次世代M6チップ搭載の「Mac mini」。AI性能は最大4倍アップ",
+          "description": "Appleは、プロセッサにM6またはM5 Proを搭載する新型「Mac mini」を9月22日に発売する。すでに予約受付を開始しており、価格は14万9,800円から。",
+          "url": "https://pc.watch.impress.co.jp/docs/news/2135556.html",
+          "source": {
+            "name": "PC Watch"
+          },
+          "publishedAt": "2026-08-25T17:42:49Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2135/556/01.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "海図なき世界 二つの戦争 秩序再建へ中堅国連携を",
+          "description": "大国が安易に始めた戦いの出口が見えず、世界に混乱を広げている。暴走に歯止めをかけなければならない。 　2022年に軍事侵攻を開始したロシアは、ウクライナ領の2割を占拠した。だが人工知能（AI）を取り入れたドローン（無人機）による反撃に手を焼く。両国の死傷者が推計200万人に上っても、和平協議は進ま",
+          "url": "https://mainichi.jp/articles/20260826/ddm/005/070/081000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-08-25T17:01:19Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/08/26/20260826ddm005070090000p/0c10.jpg?2",
+          "language": "ja"
+        },
         {
           "title": "新型「Mac mini」登場 M6チップに刷新、1万5000円アップの14万9800円から 上位はM5 Proに",
           "description": "米Appleが、新型「Mac mini」を発表した。標準モデルには同社初の2nmチップ「M6」、上位モデルには「M5 Pro」を搭載する。価格は14万9800円からで、同じメモリ16GB／ストレージ256GB構成の現行機（13万4800円）から上がった。9月22日発売。",
@@ -92,139 +114,117 @@
           "publishedAt": "2026-08-25T14:46:35Z",
           "image": "http://www.zaikei.co.jp/files/general/20260825234635P6j0big.jpg",
           "language": "ja"
-        },
-        {
-          "title": "【市場反応】米8月消費者信頼感指数/米7月新築住宅販売件数/米8月リッチモンド連銀製造業指数は予想下回る、ドル底堅い｜FX・為替ニュース",
-          "description": "[欧米市場の為替相場動向] コンファレンスボードが発表した米8月消費者信頼感指数は89.4と、7月90.2から低下し、1月来で最低となった。同時刻に発表された米7月新築住宅販売件数は前月比―10.5％の",
-          "url": "https://zai.diamond.jp/articles/-/494522",
-          "source": {
-            "name": "ザイFX！"
-          },
-          "publishedAt": "2026-08-25T14:45:00Z",
-          "image": "https://zai.diamond.jp/mwimgs/9/e/-/img_9e47ac79ce2cf237f05d70fc22e16d45110540.png",
-          "language": "ja"
-        },
-        {
-          "title": "Appleが「Mac mini」「Mac Studio」の新モデルを発表 新チップも選択可能で14万9800円から",
-          "description": "Appleは8月25日（米国太平洋夏時間）、新型「Mac mini」「Mac Studio」を発表した。日本では8月25日から予約を受け付け、9月22日に発売する（Mac Studioの512GB",
-          "url": "https://news.yahoo.co.jp/articles/e57b23b0880f3327d5d326a18d022b014c71fb7e",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-25T13:15:11Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260825-00000061-zdn_pc-000-2-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "'Shut up, be intelligent' - 'Idiot' Julian Alvarez slammed over Atletico Madrid transfer saga as Arsenal eye £50m move",
-          "description": "Julian Alvarez faces criticism from Christophe Dugarry over his Atletico Madrid exit links as Arsenal consider a move for the Argentine forward.",
-          "url": "https://www.goal.com/en-ke/lists/-shut-up-intelligent-idiot-julian-alvarez-atletico-madrid-transfer-saga-arsenal-/blt1366ab1c2e8a51b3",
+          "title": "Trump's proposal to rename Lake Ontario to 'Lake America' sparks backlash",
+          "description": "President Donald Trump is floating the idea of renaming Lake Ontario to become “Lake America” as his trade war with Canada intensifies.",
+          "url": "https://apnews.com/article/trump-renaming-lake-ontario-65bbd47925365ffd5d9522cf4b2e4bc8",
           "source": {
-            "name": "Goal.com"
+            "name": "AP News"
           },
-          "publishedAt": "2026-08-25T15:53:34Z",
-          "image": "https://assets.goal.com/images/v3/getty-2291693545/crop/MM5DCNBUGA5DQMJQHJXG653FHI3DUOJQ/GettyImages-2291693545.jpg",
+          "publishedAt": "2026-08-25T18:50:00Z",
+          "image": "https://dims.apnews.com/dims4/default/d7fb04d/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2F42%2Ff28a57972937691badd5a0c18df7%2F1563ff1622e94a1f8bba565980666126",
           "language": "en"
         },
         {
-          "title": "Family of sisters injured in M9 crash thank public for support as fundraiser nears €800k",
-          "description": "A statement on the GoFundMe page said the “kindness and generosity” shown to their family has been “truly overwhelming”.",
-          "url": "https://www.thejournal.ie/m9-crash-sisters-fundraiser-7141603-Aug2026/",
+          "title": "Music legend Dolly Parton dies at 80",
+          "description": "The country music icon whose soaring vibrato vocals, poignant songwriting and sparkling costumes defined her rise from a log cabin in the Tennessee mountains to the height of stardom and acclaim.",
+          "url": "https://www.1news.co.nz/2026/08/26/music-legend-dolly-parton-dies-at-80/",
           "source": {
-            "name": "The Journal"
+            "name": "1News"
           },
-          "publishedAt": "2026-08-25T15:53:00Z",
-          "image": "https://img2.thejournal.ie/article/7141603/river/?height=400&version=7141666",
+          "publishedAt": "2026-08-25T18:47:24Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/dolly-parton-V4FNM6UUDJCJFDGVJICTNCR7QM.jpg?auth=93085fbd388450e6a30b96dba3edec37d274d67f00abb8bf08c2677a4e43ebdc&quality=70&width=600&height=315&focal=1441%2C667",
           "language": "en"
         },
         {
-          "title": "Oil Prices Fall as Iran Negotiation Hopes Return",
-          "description": "U.S. sanctions pressure on Iran intensifies, but Pakistani mediation hopes push Brent back to $89.",
-          "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Fall-as-Iran-Negotiation-Hopes-Return.html",
+          "title": "After Tanzania Vice President Nchimbi's resignation, what happens next?",
+          "description": "The appointment must be made as soon as possible and, in any case, within 14 days of the Vice-President leaving office.",
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/after-tanzania-vice-president-nchimbi-s-resignation-what-happens-next--5570898",
           "source": {
-            "name": "Crude Oil Prices Today | OilPrice.com"
+            "name": "The EastAfrican"
           },
-          "publishedAt": "2026-08-25T15:53:00Z",
-          "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-25_ohl6tdyib2.jpg",
+          "publishedAt": "2026-08-25T18:47:20Z",
+          "image": "https://www.theeastafrican.co.ke/resource/image/5570936/landscape_ratio3x2/1200/800/7f765190d1842c87ab62b9c0baa28953/HT/samia-n-nchimbi.jpg",
           "language": "en"
         },
         {
-          "title": "U-23 AFCONQ: Nigeria draw Mauritania or DR Congo in second round",
-          "description": "Nigeria will take on either Mauritania or the Democratic Republic of Congo in the second round of the qualifiers for the 2027 Africa U-23 Cup of Nations.",
-          "url": "https://dailypost.ng/2026/08/25/u-23-afconq-nigeria-draw-mauritania-or-dr-congo-in-second-round/",
+          "title": "Security Agencies Seize 500 Bags Of Charcoal, Distribute To Gulu Residents",
+          "description": "Security agencies in Gulu intercepted a truck carrying 500 bags of charcoal along the Kora Abiri-Layibi route and distributed the confiscated consignment to local residents. The operation was conducted in collaboration with the Regional Police Commander for Aswa West, SSP Fred Ahimbisibwe. Following the seizure, the 4 Infantry Division Commander, Maj Gen Wilberforce Sserunkuma, ordered…",
+          "url": "https://www.updf.go.ug/environmental-conservation/security-agencies-seize-500-bags-of-charcoal-distribute-to-gulu-residents/",
           "source": {
-            "name": "Daily Post Nigeria"
+            "name": "UPDF"
           },
-          "publishedAt": "2026-08-25T15:52:36Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2026/08/U-23-AFCON.jpg",
+          "publishedAt": "2026-08-25T18:47:04Z",
+          "image": "https://www.updf.go.ug/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-5.30.42-PM.jpeg",
           "language": "en"
         },
         {
-          "title": "Canada announces $20bn retaliatory tariffs as US trade war escalates",
-          "description": "Hundreds of US goods will face increased levies after September 8th",
-          "url": "https://www.irishtimes.com/business/2026/08/25/canada-announces-20bn-retaliatory-tariffs-as-us-trade-war-escalates/",
+          "title": "United Airlines Plans Five New European Routes in 2027 on A321XLR Fleet",
+          "description": "United Airlines Holdings plans to launch five new European destinations in 2027 using Airbus A321XLR aircraft, with Luxembourg, Ibiza, and Toulouse…",
+          "url": "https://finance.biggo.com/news/8a474170-2ccc-47a2-ba9b-305b5ee2ef3f",
           "source": {
-            "name": "The Irish Times"
+            "name": "finance.biggo.com"
           },
-          "publishedAt": "2026-08-25T15:51:56Z",
-          "image": "https://www.irishtimes.com/resizer/v2/TRKYGU5O5OJ4OYIEXGCXBXWSB4.jpg?smart=true&auth=0b02ad42adf0ddf2c3f221645fa12c7b9e2ca0b85d6640bb2f4958a9aafcfd30&width=1200&height=630",
+          "publishedAt": "2026-08-25T18:46:00Z",
+          "image": "https://img.biggo.com/ZUSlhoYRahh4IcKEtVFID237X7oMvNvNB2gj23J8vhc/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzhhNDc0MTcwLTJjY2MtNDdhMi1iYTliLTMwNWI1ZWUyZWYzZl8xNzg3Njg4MDY3X2RlZmF1bHQuanBn.jpg",
           "language": "en"
         },
         {
-          "title": "'Shut up, be intelligent' - 'Idiot' Julian Alvarez slammed over Atletico Madrid transfer saga as Arsenal eye £50m move",
-          "description": "Julian Alvarez faces criticism from Christophe Dugarry over his Atletico Madrid exit links as Arsenal consider a move for the Argentine forward.",
-          "url": "https://www.goal.com/en-ug/lists/-shut-up-intelligent-idiot-julian-alvarez-atletico-madrid-transfer-saga-arsenal-/blt1366ab1c2e8a51b3",
+          "title": "Latvia Imposes Sweeping New Import Restrictions on Russia and Belarus",
+          "description": "Latvia will ban imports of industrial and consumer goods from Russia and Belarus starting September 1, including direct and third-country shipments.",
+          "url": "https://united24media.com/world/latvia-imposes-sweeping-new-import-restrictions-on-russia-and-belarus-21956",
           "source": {
-            "name": "Goal.com"
+            "name": "UNITED24 Media"
           },
-          "publishedAt": "2026-08-25T15:50:33Z",
-          "image": "https://assets.goal.com/images/v3/getty-2291693545/crop/MM5DCNBUGA5DQMJQHJXG653FHI3DUOJQ/GettyImages-2291693545.jpg",
+          "publishedAt": "2026-08-25T18:45:26Z",
+          "image": "https://storage.united24media.com/og/8/c5/ce2789ecf585671ca0caf46be20fac58.jpg",
           "language": "en"
         },
         {
-          "title": "Madeleine McCann suspect Christian Brueckner to face retrial over rape in 'game changer' for missing toddler case",
-          "description": "OFFICIALS are set to send Christian Brueckner back to court over rape claims and reignite the Madeleine McCann case against him.\nGermany’s top...",
-          "url": "https://www.thesun.ie/news/17514563/madeleine-mccann-christian-brueckner-retrial-rape/",
+          "title": "No request yet for CJP's India Gate protest on Sept 5, will push for venue change: Police",
+          "description": "The CJP announced a peaceful protest march from India Gate to the Delhi police headquarters, alleging that the Centre failed to honour its commitments. | Latest News Delhi",
+          "url": "https://www.hindustantimes.com/cities/delhi-news/cjp-protest-india-gate-september-5-neet-protest-delhi-latest-news-police-101787683525387.html",
           "source": {
-            "name": "The Irish Sun"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-08-25T15:50:27Z",
-          "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/08/newspress-collage-ctx2rmc3k-1787665428092.jpg?quality=90&strip=all&1787676503&w=1920&h=1080&crop=1",
+          "publishedAt": "2026-08-25T18:45:24Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/08/26/1600x900/logo/india_gate_1787709862564_1787709862758_ef0a696b-fc3c-4a12-86ee-efbd06a9996c.jpg",
           "language": "en"
         },
         {
-          "title": "Man killed after car runs him over during Shah Alam brawl",
-          "description": "SHAH ALAM: A man was killed after a car ran him over during a fight in Taman Alam Megah here on Sunday (Aug 23).",
-          "url": "https://www.thestar.com.my/news/nation/2026/08/25/man-killed-after-car-runs-him-over-during-shah-alam-brawl",
+          "title": "Toulouse fire: 'Several explosions' heard as smoke fills the air in major French city",
+          "description": "The fire prompted the closure of a busy road.",
+          "url": "https://www.express.co.uk/news/world/2242449/toulouse-fire-airport-explosions",
           "source": {
-            "name": "The Star"
+            "name": "Daily Express"
           },
-          "publishedAt": "2026-08-25T15:50:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/25/4077840.jpeg",
+          "publishedAt": "2026-08-25T18:45:00Z",
+          "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/7111145.jpg",
           "language": "en"
         },
         {
-          "title": "Asus launches ROG Gladius IV Ace, ROG Spatha X 65K gaming mice with upgraded sensors, polling rate, and weight reduction",
-          "description": "Asus has upgraded two of its gaming mice with new sensors, 8K polling, and adjustable weight. The ROG Gladius IV Ace is now significantly lighter, while the ROG Spatha X 65K gets the upgraded ROG Push-Fit Switch Socket III modularity.",
-          "url": "https://www.notebookcheck.net/Asus-launches-ROG-Gladius-IV-Ace-ROG-Spatha-X-65K-gaming-mice-with-upgraded-sensors-polling-rate-and-weight-reduction.1378347.0.html",
+          "title": "How much interest can a high-yield savings account earn over the next year?",
+          "description": "The interest earnings tied to a high-yield savings account remain substantial. Here's what savers should know now.",
+          "url": "https://www.cbsnews.com/news/how-much-interest-can-high-yield-savings-account-earn-2026-2027/",
           "source": {
-            "name": "Notebookcheck"
+            "name": "CBS News"
           },
-          "publishedAt": "2026-08-25T15:50:00Z",
-          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/rog-spatha-gladius-launch.jpg",
+          "publishedAt": "2026-08-25T18:44:13Z",
+          "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/25/38cb7beb-8a05-4b8c-ae25-bb099c99e5c0/thumbnail/1200x630/ba2638f8021e32529a3afdd46ead2828/gettyimages-2275736444.jpg",
           "language": "en"
         },
         {
-          "title": "Meghan Markle Breaks Her Silence Post-UK Move News",
-          "description": "She shared a chicken joke to her Instagram stories.",
-          "url": "https://www.townandcountrymag.com/society/tradition/a73522073/meghan-markle-breaks-chicken-instagram-post-uk-move-news/",
+          "title": "What happens to Lindsay Clancy after verdict in murder trial? Legal experts explain potential outcomes.",
+          "description": "Lindsay Clancy has pleaded not guilty to three counts of first-degree murder in the January 2023 strangulation deaths of her children.",
+          "url": "https://www.cbsnews.com/news/lindsay-clancy-murder-trial-verdict-outcomes/",
           "source": {
-            "name": "Town & Country Magazine"
+            "name": "CBS News"
           },
-          "publishedAt": "2026-08-25T15:50:00Z",
-          "image": "https://hips.hearstapps.com/hmg-prod/images/bf059c22-5de7-463e-a58e-7397fc9580e7.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*",
+          "publishedAt": "2026-08-25T18:43:00Z",
+          "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/25/06c268d4-8d06-4516-9eb9-5660559e12e4/thumbnail/1200x630/0d956c20e6a254f5069e24ae23a6cfb6/gettyimages-2287617193.jpg",
           "language": "en"
         }
       ]
