@@ -1,10 +1,109 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-26T01:20:56.861Z",
+  "updatedAt": "2026-08-26T03:53:43.978Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "新型「Mac mini」登場 M6チップに刷新、1万5000円アップの14万9800円から 上位はM5 Proに",
+          "description": "米Appleが、新型「Mac mini」を発表した。標準モデルには同社初の2nmチップ「M6」、上位モデルには「M5 Pro」を搭載する。価格は14万9800円からで、同じメモリ16GB／ストレージ256GB構成の現行機（13万4800円）から上がった。9月22日発売。",
+          "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000777/",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-08-25T15:34:16Z",
+          "image": "https://www.itmedia.co.jp/news/article/ogp/2608/26/2000000777/10003751/2048",
+          "language": "ja"
+        },
+        {
+          "title": "サイコム、RTX 50シリーズ搭載BTO購入で『CONTROL Resonant』特典配布キャンペーン開始",
+          "description": "サイコムがGeForce RTX 50シリーズ搭載BTOパソコン購入者向けに、『CONTROL Resonant』のゲームコードがもらえるキャンペーンを開始。対象GPUや実施期間、引換期限、おすすめ構成例などの詳細を紹介します。",
+          "url": "https://ascii.jp/elem/000/004/429/4429223/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-08-25T15:30:00Z",
+          "image": "https://ascii.jp/img/2026/08/25/4517043/xl/e98608bd685d9b26.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "パソコンメーカーのサイコム、『CONTROL Resonant』クーポンプレゼントキャンペーンを開始",
+          "description": "ZDNET Japanは、CIOの課題を解決するオンラインメディアです。CIOや企業の情報システム部門に向けて、ITを活用した課題解決や価値創造のヒントを提供します。",
+          "url": "https://japan.zdnet.com/release/31201170/",
+          "source": {
+            "name": "ZDNET Japan"
+          },
+          "publishedAt": "2026-08-25T15:30:00Z",
+          "image": "https://japan.zdnet.com/media/z/2023/zd_ogp.png",
+          "language": "ja"
+        },
+        {
+          "title": "ASUSがROG20周年のポータブルゲーム機「ROG XBOX Ally X20」を発表＝ディスプレーが大型化しARグラスとのセットも登場",
+          "description": "ASUSはゲーミングブランドであるRepublic of Gamers（ROG）の新型ポータブルゲーム機「ROG XBOX Ally X20」を発表し予約受付を開始しました",
+          "url": "https://ascii.jp/elem/000/004/429/4429334/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-08-25T15:02:00Z",
+          "image": "https://ascii.jp/img/2026/08/25/4517225/xl/cfa757a293644303.png?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "ASUSがROG20周年のポータブルゲーム機「ROG XBOX Ally X20」を発表＝ディスプレーが大型化しARグラスとのセットも登場",
+          "description": "ASUSはゲーミングブランドであるRepublic of Gamers（ROG）の新型ポータブルゲーム機「ROG XBOX Ally X20」を発表し予約受付を開始しました",
+          "url": "https://ascii.jp/elem/000/004/429/4429334/?focus=1",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-08-25T15:02:00Z",
+          "image": "https://ascii.jp/img/2026/08/25/4517225/xl/cfa757a293644303.png?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "Mac StuioもM5 Max／M5 Ultra搭載でリニューアル 256GBメモリ＋16GB SSDで325万円！ 512GBメモリも10月に復活",
+          "description": "M6搭載Mac miniとともに、Mac StudioもM5 Max／M5 Ultraを搭載してリニューアル。その性能も、ついでに価格も異次元と言っていいレベル。M5 Ultra搭載モデルは標準で94万9800円。512GBメモリオプションも10月に復活する。",
+          "url": "https://ascii.jp/elem/000/004/429/4429336/?focus=1",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-08-25T14:50:00Z",
+          "image": "https://ascii.jp/img/2026/08/25/4517244/xl/4e1a72d55b7f48de.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "Mac StuioもM5 Max／M5 Ultra搭載でリニューアル 256GBメモリ＋16GB SSDで325万円！ 512GBメモリも10月に復活",
+          "description": "M6搭載Mac miniとともに、Mac StudioもM5 Max／M5 Ultraを搭載してリニューアル。その性能も、ついでに価格も異次元と言っていいレベル。M5 Ultra搭載モデルは標準で94万9800円。512GBメモリオプションも10月に復活する。",
+          "url": "https://ascii.jp/elem/000/004/429/4429336/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-08-25T14:50:00Z",
+          "image": "https://ascii.jp/img/2026/08/25/4517244/xl/4e1a72d55b7f48de.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "Amazon、米国でEchoやKindleを最大60％値上げ―メモリ高騰が低価格戦略を圧迫",
+          "description": "Amazonが米国でEchoやKindleなどを最大60％値上げし、メモリ高騰が低価格戦略を圧迫している。",
+          "url": "https://www.zaikei.co.jp/article/20260825/867293.html",
+          "source": {
+            "name": "財経新聞"
+          },
+          "publishedAt": "2026-08-25T14:46:35Z",
+          "image": "http://www.zaikei.co.jp/files/general/20260825234635P6j0big.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【市場反応】米8月消費者信頼感指数/米7月新築住宅販売件数/米8月リッチモンド連銀製造業指数は予想下回る、ドル底堅い｜FX・為替ニュース",
+          "description": "[欧米市場の為替相場動向] コンファレンスボードが発表した米8月消費者信頼感指数は89.4と、7月90.2から低下し、1月来で最低となった。同時刻に発表された米7月新築住宅販売件数は前月比―10.5％の",
+          "url": "https://zai.diamond.jp/articles/-/494522",
+          "source": {
+            "name": "ザイFX！"
+          },
+          "publishedAt": "2026-08-25T14:45:00Z",
+          "image": "https://zai.diamond.jp/mwimgs/9/e/-/img_9e47ac79ce2cf237f05d70fc22e16d45110540.png",
+          "language": "ja"
+        },
         {
           "title": "Appleが「Mac mini」「Mac Studio」の新モデルを発表 新チップも選択可能で14万9800円から",
           "description": "Appleは8月25日（米国太平洋夏時間）、新型「Mac mini」「Mac Studio」を発表した。日本では8月25日から予約を受け付け、9月22日に発売する（Mac Studioの512GB",
@@ -15,216 +114,117 @@
           "publishedAt": "2026-08-25T13:15:11Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260825-00000061-zdn_pc-000-2-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "ROG設立20周年、黒×ゴールドの限定携帯ゲーミングPC「ROG XBOX Ally X20」",
-          "description": "ASUS JAPANは、ROG設立20周年記念の携帯ゲーミングPC「ROG XBOX Ally X20」シリーズを発表。Ryzen AI Z2 Extremeと7.4型有機ELを搭載し、ARグラスなどを同梱するBundleも展開する。",
-          "url": "https://www.gdm.or.jp/pressrelease/2026/0825/649531",
-          "source": {
-            "name": "エルミタージュ秋葉原"
-          },
-          "publishedAt": "2026-08-25T13:11:00Z",
-          "image": "https://www.gdm.or.jp/wp-content/uploads/2026/08/25/ROG_XBOX_Ally_X20_002.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【バレー】女子日本、ロス五輪切符まであと３勝！ 初先発いきなり１６得点の秋本美空、最後はズバリとスパイク ベトナムに３－０ ３戦連続ストレート勝ちし全体２位以上で決勝Ｔ確定…優勝でロス五輪",
-          "description": "◆バレーボール女子　▽アジア選手権　１次リーグＣ組最終戦　日本３（２５ー２３、２５ー１７、２５ー２１）０ベトナム（２５日、中国・天津）\n　バレーボール女子の２０２８年ロサンゼルス五輪予選を兼ねたア",
-          "url": "https://news.yahoo.co.jp/articles/186b98ae3ba4926a99021ab9374fd3be46791ad2",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-25T12:58:48Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260825-08251296-sph-000-5-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "ASUS Republic of Gamers、「Gamescom 2026」にて、競技シーンやプロゲーマーに向けた最新ゲーミングデバイスのラインナップを発表",
-          "description": "ASUS JAPAN株式会社のプレスリリース（2026年8月25日 21時38分）ASUS Republic of Gamers、「Gamescom 2026」にて、競技シーンやプロゲーマーに向けた最新ゲーミングデバイスのラインナップを発表",
-          "url": "https://prtimes.jp/main/html/rd/p/000001765.000017808.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-08-25T12:38:55Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/17808/1765/17808-1765-41606630b90447eebca19200ac2c0aeb-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "ASUS JAPAN、ROGブランド設立20周年記念モデル「ROG XBOX Ally X20」シリーズの日本取り扱いを発表",
-          "description": "ASUS JAPAN株式会社のプレスリリース（2026年8月25日 21時30分）ASUS JAPAN、ROGブランド設立20周年記念モデル「ROG XBOX Ally X20」シリーズの日本取り扱いを発表",
-          "url": "https://prtimes.jp/main/html/rd/p/000001768.000017808.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-08-25T12:30:01Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/17808/1768/17808-1768-48ee8d3876f8fe3b56eeaa13acf2b628-1800x1012.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "【試合結果速報】バレー女子日本代表、秋本美空の躍動でベトナムに3",
-          "description": "バレーボール・アジア選手権女子1次リーグ（25日、日本―ベトナム、中国・天津）世界ランキング6位の日本は、同32位のベトナムと対戦する。日本は1次リーグで香港、韓国に連勝し、すでに準々決勝を決めている。日本時間午後7時30分開始予定の試合…",
-          "url": "https://www.sanspo.com/article/20260825-SE5QHF2F5NF65JLBSGOAU3YAEM/",
-          "source": {
-            "name": "サンスポ"
-          },
-          "publishedAt": "2026-08-25T12:15:25Z",
-          "image": "https://www.sanspo.com/resizer/v2/5IVNK6CITJBS5MYZO3RANW6YT4.jpg?auth=6343eefa5f325dd74ad439a36597c2551f4bfea511077dc1713db8be5b40fbfc&quality=50&focal=474%2C58&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "バレー女子日本代表、全体2位以上での決勝T進出決定！ベトナムにストレート勝ちで開幕3連勝 初スタメン秋本美空が最多16得点【アジア選手権】",
-          "description": "■バレーボール アジア選手権2026 女子 予選ラウンド　日本 3ー0 ベトナム（日本時間25日、中国・天津）\n優勝チームには28年ロサンゼルス五輪の出場権が与えられる、アジアNo.1決定戦の「ア",
-          "url": "https://news.yahoo.co.jp/articles/47beecbd1fd6ce456247e1f9cb3133c2a61d204d",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-25T11:55:04Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260825-00010010-jnn-000-4-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "ASCII.jp：LDPlayerにAIライブ壁紙機能を追加！自分だけのゲーム環境を楽しむ！",
-          "description": "LDPlayerにAIライブ壁紙機能を追加！自分だけのゲーム環境を楽しむ！",
-          "url": "https://ascii.jp/elem/000/004/429/4429327/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-08-25T11:47:48Z",
-          "image": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "【バレー】秋本美空を先発に大抜擢 テレビ中継解説に母・大友愛さん 女子日本、ベトナム戦のスタメン発表 ８強確定、３戦全勝で１次Ｌ首位突破へ…２８年ロス五輪予選・アジア選手権",
-          "description": "◆バレーボール女子　▽アジア選手権　１次リーグＣ組最終戦　日本ーベトナム（２５日、中国・天津）\n　バレーボール女子の２０２８年ロサンゼルス五輪予選を兼ねたアジア選手権は２５日、１次リーグ（Ｌ）最終",
-          "url": "https://news.yahoo.co.jp/articles/fc462c5727146edfb484f4074a2ff9e374edc032",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-25T10:26:51Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260825-08251221-sph-000-9-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "「止まれ」の声届かず…伝統の灯籠押し合いで18歳高校生死亡 事故後も約1分続行か 問われる祭りの安全管理",
-          "description": "新潟県阿賀野市で8月24日、伝統の祭り「水原まつり」の最中に、参加者が担いでいた灯籠と柱の間に挟まれ、病院に搬送されるも死亡が確認された。亡くなったのは18歳の男子高校生だった。地元の夏に欠かせない",
-          "url": "https://news.yahoo.co.jp/articles/b5308f0aa10402d3e227cb4916de30fd5beecba4",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-25T10:25:31Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260825-01201176-fnn-000-2-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "SCO at 25: What to Expect from the Bishkek Summit",
-          "description": "Leaders of the Shanghai Cooperation Organization (SCO) are set to gather in Bishkek, Kyrgyzstan, from August 31 to September 1, for a summit",
-          "url": "https://thediplomaticinsight.com/sco-at-25-what-to-expect-from-the-bishkek-summit/",
+          "title": "'Shut up, be intelligent' - 'Idiot' Julian Alvarez slammed over Atletico Madrid transfer saga as Arsenal eye £50m move",
+          "description": "Julian Alvarez faces criticism from Christophe Dugarry over his Atletico Madrid exit links as Arsenal consider a move for the Argentine forward.",
+          "url": "https://www.goal.com/en-ke/lists/-shut-up-intelligent-idiot-julian-alvarez-atletico-madrid-transfer-saga-arsenal-/blt1366ab1c2e8a51b3",
           "source": {
-            "name": "The Diplomatic Insight"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-08-25T13:20:51Z",
-          "image": "https://thediplomaticinsight.com/wp-content/uploads/sco-leaders.webp",
+          "publishedAt": "2026-08-25T15:53:34Z",
+          "image": "https://assets.goal.com/images/v3/getty-2291693545/crop/MM5DCNBUGA5DQMJQHJXG653FHI3DUOJQ/GettyImages-2291693545.jpg",
           "language": "en"
         },
         {
-          "title": "Ashley Cole: Former defender leaves role as England Under-21s coach after five years",
-          "description": "Ashley Cole leaves his role as England Under-21 coach after five years in the position.",
-          "url": "https://www.bbc.com/sport/football/articles/c4gkekgvz7go",
+          "title": "Family of sisters injured in M9 crash thank public for support as fundraiser nears €800k",
+          "description": "A statement on the GoFundMe page said the “kindness and generosity” shown to their family has been “truly overwhelming”.",
+          "url": "https://www.thejournal.ie/m9-crash-sisters-fundraiser-7141603-Aug2026/",
           "source": {
-            "name": "BBC"
+            "name": "The Journal"
           },
-          "publishedAt": "2026-08-25T13:20:47Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9ede/live/ff43b2b0-a084-11f1-bfeb-dfb02ea642ef.jpg",
+          "publishedAt": "2026-08-25T15:53:00Z",
+          "image": "https://img2.thejournal.ie/article/7141603/river/?height=400&version=7141666",
           "language": "en"
         },
         {
-          "title": "'Now boarding' … 240,000 miles from Earth, at the moon's first airport",
-          "description": "The moon's getting its first airport, and it's about to get busy. Within the next two decades, NASA's planned Gateway—humanity's first lunar spaceport—may become a bustling hub for Orion crew capsules, lunar landers, cargo vehicles and astronauts traveling between Earth, the moon and, eventually, destinations in the deep unknown.",
-          "url": "https://phys.org/news/2026-08-boarding-miles-earth-moon-airport.html",
+          "title": "Oil Prices Fall as Iran Negotiation Hopes Return",
+          "description": "U.S. sanctions pressure on Iran intensifies, but Pakistani mediation hopes push Brent back to $89.",
+          "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Fall-as-Iran-Negotiation-Hopes-Return.html",
           "source": {
-            "name": "Phys.org"
+            "name": "Crude Oil Prices Today | OilPrice.com"
           },
-          "publishedAt": "2026-08-25T13:20:28Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/2026/now-boarding--240000-m.jpg",
+          "publishedAt": "2026-08-25T15:53:00Z",
+          "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-25_ohl6tdyib2.jpg",
           "language": "en"
         },
         {
-          "title": "High folic acid in pregnancy linked to early bleeding risk",
-          "description": "Women taking high-dose folic acid supplements during early pregnancy may face an increased risk of vaginal bleeding, according to new research from Flinders University and collaborating institutions that raises important questions about supplementation levels in countries with mandatory folic acid food fortification.",
-          "url": "https://medicalxpress.com/news/2026-08-high-folic-acid-pregnancy-linked.html",
+          "title": "U-23 AFCONQ: Nigeria draw Mauritania or DR Congo in second round",
+          "description": "Nigeria will take on either Mauritania or the Democratic Republic of Congo in the second round of the qualifiers for the 2027 Africa U-23 Cup of Nations.",
+          "url": "https://dailypost.ng/2026/08/25/u-23-afconq-nigeria-draw-mauritania-or-dr-congo-in-second-round/",
           "source": {
-            "name": "Medical Xpress"
+            "name": "Daily Post Nigeria"
           },
-          "publishedAt": "2026-08-25T13:20:05Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/pregnant-woman-taking.jpg",
+          "publishedAt": "2026-08-25T15:52:36Z",
+          "image": "https://dailypost.ng/wp-content/uploads/2026/08/U-23-AFCON.jpg",
           "language": "en"
         },
         {
-          "title": "Apple Mac mini launches with M6, M5 Pro chips",
-          "description": "Apple has announced new Mac mini models with M6 and M5 Pro chips, promising faster AI performance, with pre-orders open now and shipping from 22 September",
-          "url": "https://t2online.in/tech/tech-news/apple-mac-mini-launches-with-m6--m5-pro-chips/2007528",
+          "title": "Canada announces $20bn retaliatory tariffs as US trade war escalates",
+          "description": "Hundreds of US goods will face increased levies after September 8th",
+          "url": "https://www.irishtimes.com/business/2026/08/25/canada-announces-20bn-retaliatory-tariffs-as-us-trade-war-escalates/",
           "source": {
-            "name": "t2ONLINE"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-08-25T13:20:00Z",
-          "image": "https://images.t2online.in/cdn-cgi/image/width=1200,fit=pad,gravity=auto,quality=50,format=auto/https://apis.t2online.in/getImageStream/8843/1787664061550.jpg",
+          "publishedAt": "2026-08-25T15:51:56Z",
+          "image": "https://www.irishtimes.com/resizer/v2/TRKYGU5O5OJ4OYIEXGCXBXWSB4.jpg?smart=true&auth=0b02ad42adf0ddf2c3f221645fa12c7b9e2ca0b85d6640bb2f4958a9aafcfd30&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Joe Root: Furious England captain 'hacked off' after Brydon Carse incident overshadows Pakistan victory",
-          "description": "Joe Root hacked off by stupid mistakes as off-field controversy involving Brydon Carse overshadows his successful return as Test captain; watch the second England vs Pakistan Test live on Sky Sports from Thursday",
-          "url": "https://www.skysports.com/cricket/news/12123/13576951/joe-root-furious-england-captain-hacked-off-after-brydon-carse-incident-overshadows-pakistan-victory",
+          "title": "'Shut up, be intelligent' - 'Idiot' Julian Alvarez slammed over Atletico Madrid transfer saga as Arsenal eye £50m move",
+          "description": "Julian Alvarez faces criticism from Christophe Dugarry over his Atletico Madrid exit links as Arsenal consider a move for the Argentine forward.",
+          "url": "https://www.goal.com/en-ug/lists/-shut-up-intelligent-idiot-julian-alvarez-atletico-madrid-transfer-saga-arsenal-/blt1366ab1c2e8a51b3",
           "source": {
-            "name": "Sky Sports"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-08-25T13:17:22Z",
-          "image": "https://e0.365dm.com/26/08/1600x900/skysports-joe-root_7325715.jpg?20260819144112",
+          "publishedAt": "2026-08-25T15:50:33Z",
+          "image": "https://assets.goal.com/images/v3/getty-2291693545/crop/MM5DCNBUGA5DQMJQHJXG653FHI3DUOJQ/GettyImages-2291693545.jpg",
           "language": "en"
         },
         {
-          "title": "India, China look to advance border delimitation in Beijing talks",
-          "description": "Ajit Doval highlights Modi and Xi's commitment to improving India-China relations during talks in Beijing, emphasizing peace and cooperation.",
-          "url": "https://www.thehindu.com/news/national/modi-xi-have-given-clear-and-positive-direction-to-relations-says-nsa-ajit-doval-in-beijing/article71389034.ece",
+          "title": "Madeleine McCann suspect Christian Brueckner to face retrial over rape in 'game changer' for missing toddler case",
+          "description": "OFFICIALS are set to send Christian Brueckner back to court over rape claims and reignite the Madeleine McCann case against him.\nGermany’s top...",
+          "url": "https://www.thesun.ie/news/17514563/madeleine-mccann-christian-brueckner-retrial-rape/",
           "source": {
-            "name": "The Hindu"
+            "name": "The Irish Sun"
           },
-          "publishedAt": "2026-08-25T13:16:54Z",
-          "image": "https://th-i.thgim.com/public/incoming/a5xye1/article71389042.ece/alternates/LANDSCAPE_1200/image1.jpeg",
+          "publishedAt": "2026-08-25T15:50:27Z",
+          "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/08/newspress-collage-ctx2rmc3k-1787665428092.jpg?quality=90&strip=all&1787676503&w=1920&h=1080&crop=1",
           "language": "en"
         },
         {
-          "title": "Two killed, refinery on fire in Russia’s Krasnodar after drone attack",
-          "description": "Ukraine hits Moscow’s Afipsky oil refinery and Russian-controlled Zaporizhzhia nuclear power plant",
-          "url": "https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack",
+          "title": "Man killed after car runs him over during Shah Alam brawl",
+          "description": "SHAH ALAM: A man was killed after a car ran him over during a fight in Taman Alam Megah here on Sunday (Aug 23).",
+          "url": "https://www.thestar.com.my/news/nation/2026/08/25/man-killed-after-car-runs-him-over-during-shah-alam-brawl",
           "source": {
-            "name": "Al Jazeera"
+            "name": "The Star"
           },
-          "publishedAt": "2026-08-25T13:15:05Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-09T082846Z_660942604_RC26WLAKM19S_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-PUTIN-1783598211.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-08-25T15:50:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/25/4077840.jpeg",
           "language": "en"
         },
         {
-          "title": "Nupur Sanon defends sister Kriti Sanon's Raksha Bandhan ad, lashes out at trolls: ‘If I don’t have problem why do you?'",
-          "description": "Kriti Sanon broke her silence on the widespread criticism of her latest Raksha Bandhan advertisement. Now, her sister, Nupur Sanon, has backed her. | Bollywood",
-          "url": "https://www.hindustantimes.com/entertainment/bollywood/nupur-sanon-defends-sister-kriti-sanon-raksha-bandhan-ad-lashes-out-at-trolls-if-i-don-t-have-a-problem-why-do-you-101787662949323.html",
+          "title": "Asus launches ROG Gladius IV Ace, ROG Spatha X 65K gaming mice with upgraded sensors, polling rate, and weight reduction",
+          "description": "Asus has upgraded two of its gaming mice with new sensors, 8K polling, and adjustable weight. The ROG Gladius IV Ace is now significantly lighter, while the ROG Spatha X 65K gets the upgraded ROG Push-Fit Switch Socket III modularity.",
+          "url": "https://www.notebookcheck.net/Asus-launches-ROG-Gladius-IV-Ace-ROG-Spatha-X-65K-gaming-mice-with-upgraded-sensors-polling-rate-and-weight-reduction.1378347.0.html",
           "source": {
-            "name": "Hindustan Times"
+            "name": "Notebookcheck"
           },
-          "publishedAt": "2026-08-25T13:14:55Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/08/25/1600x900/logo/Nupur_1769082953847_1769082963924_1787663090812_0afff86c-52ba-4cc3-a176-525c4e007ed7.jpg",
+          "publishedAt": "2026-08-25T15:50:00Z",
+          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/rog-spatha-gladius-launch.jpg",
           "language": "en"
         },
         {
-          "title": "Carlos Baleba Completes Manchester United Move",
-          "description": "Carlos Baleba has successfully completed his medical ahead of his move to Manchester United, with the midfielder also putting pen to paper on a five-year contract.",
-          "url": "https://en.africatopsports.com/carlos-baleba-completes-manchester-united-move/",
+          "title": "Meghan Markle Breaks Her Silence Post-UK Move News",
+          "description": "She shared a chicken joke to her Instagram stories.",
+          "url": "https://www.townandcountrymag.com/society/tradition/a73522073/meghan-markle-breaks-chicken-instagram-post-uk-move-news/",
           "source": {
-            "name": "Africa Top Sports"
+            "name": "Town & Country Magazine"
           },
-          "publishedAt": "2026-08-25T13:14:21Z",
-          "image": "https://en.africatopsports.com/wp-content/uploads/2026/08/HQelmd3b0AAv_Dv.jpg",
+          "publishedAt": "2026-08-25T15:50:00Z",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/bf059c22-5de7-463e-a58e-7397fc9580e7.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*",
           "language": "en"
         }
       ]
