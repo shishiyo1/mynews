@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-26T19:48:33.306Z",
+  "updatedAt": "2026-08-27T00:30:22.222Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "今年は京都産業大がジャイキリ!4年生FW妹尾の2発でJ1水戸を撃破",
+          "description": "[8.26 天皇杯2回戦 水戸0-2京産大 Ksスタ]　今年も大学生によるジャイアントキリングだ!天皇杯の2回戦で、J1の水戸ホーリーホックと対戦した京都産業大が2-0で勝利し、3回戦に勝ち上がった。　昨年も東洋大が史上初...",
+          "url": "https://web.gekisaka.jp/news/emperorscup/detail/?457576-457576-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-08-26T11:54:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/458000/457576/news_457576_1.jpg?time=20260826205441",
+          "language": "ja"
+        },
+        {
+          "title": "【バレー男子日本代表】髙橋藍「対策されてからが本当の勝負」――ブラジル戦で見えた手応えとアジア選手権への決意（バレーボールマガジン）",
+          "description": "8月25日に有明アリーナで行われたバレーボール男子日本代表とブラジル代表による親善試合（結果：1-3で日本が敗戦）。ネーションズリーグ（VNL）を終えて一区切りがついた後であり、翌月のアジア選手権や",
+          "url": "https://news.yahoo.co.jp/articles/bf741f1e13d20b349888734d853516a5550582a3",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-26T10:58:42Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260826-00010000-vbm-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "米カントリー歌手ドリー・パートンさん死去、トランプ氏は7日間の半旗掲揚を発表",
+          "description": "「ジョリーン」や「オールウェイズ・ラブ・ユー」などの代表曲で知られるアメリカのカントリー歌手ドリー・パートンさんが、25日に死去した。80歳だった。パートンさんの家族が発表した。70年にわたるキャリアの中で、パートンさんはグラミー賞を10回受賞。全世界で販売されたレコードは1億枚を超え、作った楽曲は3000曲を超えた。トランプ米大統領は、パートンさんの追悼のため、「アメリカ全土の国旗を、8月25日夕から1週間、半旗にする」と表明した。",
+          "url": "https://www.bbc.com/japanese/articles/cvgyxq710evo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-08-26T10:53:55Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/2dc1/live/49a1a7c0-a12c-11f1-a291-b542ee92de7c.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『ロックマン コンプリートパック』がSteamで69%オフの4136円。『ドラゴンズドグマ』『鬼武者』シリーズなどもお得なカプコンのセールが開催",
+          "description": "カプコンのダウンロード版ソフトが最大88％割引となる“CAPCOM END OF SUMMER SALE”が2026年8月26日に開催された。",
+          "url": "https://www.famitsu.com/article/202608/85675",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-08-26T10:38:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/85675/thumbnail_BgrN.jpg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "お笑いコンビ・かけおち、解散を発表 青木マッチョ「相方である赤木細マッチョは9月末で芸人を辞めてしまいます」",
+          "description": "ニュース｜　お笑いコンビ・かけおちの青木マッチョが26日、自身のXを更新。30日をもってコンビを解散することを発表した。　青木は自身のXで「2026年8月30日をもちまして、自分が属するコンビ「かけおち」が解散することになりました」と報告。「相方である赤木細マッチョは9月末で芸人を辞めてしまいます」と伝えた。",
+          "url": "https://www.oricon.co.jp/news/2476326/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-08-26T09:06:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2477000/2476326/20260504_001326_p_o_35254840.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "1人ビアガーデンは地獄なのか？ 歌舞伎町でやってみたら天国だった / 正確には「天空」",
+          "description": "1人ラーメン、1人焼肉、1人カラオケ……と “おひとりさま” が市民権を得ていく中でも「さすがにそれは」と思われがちなものがある。たとえば、1人BBQや1人ビアガーデンはそ …",
+          "url": "https://rocketnews24.com/2026/08/26/2793579/",
+          "source": {
+            "name": "ロケットニュース24"
+          },
+          "publishedAt": "2026-08-26T09:00:45Z",
+          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/a_IMG_7893_noEXIF.jpg?w=1200&h=630&crop=1",
+          "language": "ja"
+        },
+        {
+          "title": "18代表が1番ショートでスタメン出場【26年・都市対抗】｜記事一覧｜高校野球ドットコム",
+          "description": "頑張っている球児を応援する高校野球報道サイト。コラムや試合記事など高校野球情報を公開中。",
+          "url": "https://www.hb-nippon.com/articles/16669",
+          "source": {
+            "name": "高校野球ドットコム"
+          },
+          "publishedAt": "2026-08-26T08:44:54Z",
+          "image": "https://cdn.hb-nippon.com/article-img/01K9H070H7M3M389Q26Q4JN0G3.jpg",
+          "language": "ja"
+        },
         {
           "title": "（まとめ）日経平均は405円高の66,262円で続伸、明日はエヌビディア決算に注目",
           "description": "東京市場まとめ1.概況日経平均は251円安の65,604円と下落して取引を開始しました。前日の米国市場では、NYダウが3日続伸し、ナスダック総合株価指数や主要な半導体銘柄で構成されるフィラデルフィア半導体株指数（SOX）も上昇しました。一方、日本市場では、米エヌビデ....",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-08-26T06:41:14Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260826-00871726-number-000-2-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "Snow Manが“純白タキシード”で華やかに並ぶ！きっちりヘア×キリッとした表情の圧巻ビジュアルに「なにこのカッコイイ集団」「金髪オールバックのラウール爆イケ」「事務所の伝統を感じて最高」",
-          "description": "Snow Manの新曲「show time…」のMVが、8月26日21時に公開される。同曲は、10月7日発売の6thアルバム『AMENITY』に収録される楽曲。これに先立ち、公式SNSではMVのサムネイルやティザー映像が […]",
-          "url": "https://www.thefirsttimes.jp/news/0000871106/",
-          "source": {
-            "name": "THE FIRST TIMES"
-          },
-          "publishedAt": "2026-08-26T06:32:57Z",
-          "image": "https://www.thefirsttimes.jp/admin/wp-content/uploads/2026/08/20260826-kmj-152201-1200x630.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "M5搭載MacBook Airがセールで4万1000円引き！ 持ち運びに最適な13インチ＆1TBモデル",
-          "description": "Amazon.co.jpで「MacBook Air M5」がタイムセールを実施中。超高性能M5チップと、最大18時間フル稼働できる内蔵バッテリーを搭載。13インチで極薄と持ち運びやすいサイズ感が好評です。",
-          "url": "https://ascii.jp/elem/000/004/429/4429523/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-08-26T06:00:00Z",
-          "image": "https://ascii.jp/img/2026/08/26/4517591/xl/b32f95d85a6fc295.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "AirPods 5が来月登場？ シンプルなAirPods派には、こっちが本命かも",
-          "description": "シンプルなAirPods派には、むしろこっちが本命かも。カメラを搭載したAirPodsが注目を集めていますが、それより先に普通のAirPodsがリリースされるかもしれません。Bloombergのマーク・ガーマン記者によると、現在AirPod",
-          "url": "https://www.gizmodo.jp/article/new-plain-old-airpods-5-without-cameras-could-arrive-next-month-jpn/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-08-26T05:45:00Z",
-          "image": "https://media.loom-app.com/loom/2026/08/26/41d8a245-0391-4856-b8d5-c3bee627c2ed/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "夏休み終盤のお天気どうなる 秋雨前線が「雨雲製造ライン」となり日本海側を中心に大雨のおそれ",
-          "description": "夏休みも残りわずかとなりました。最後のお出かけを計画している方も多いかもしれませんが、この先は天気の急変に注意が必要です。あすにかけて秋雨前線が本州付近まで南下する予想で、全国的に雨の降りやすい天気となりそうです。気象庁コンピューターの予想によると、27日夜から28日朝にかけて各地で雨が強まりそうです。特に北陸では活発な雨雲が帯状にかかり続ける予想となっています。短時間で雨量が増えるおそれがあるため、河川の増水や氾濫、道路の冠水などに注意が必要です。今回の大雨の材料となるのは、太平洋から流れ込…",
-          "url": "https://www.fnn.jp/articles/-/1101507",
-          "source": {
-            "name": "FNNプライムオンライン"
-          },
-          "publishedAt": "2026-08-26T03:31:00Z",
-          "image": "https://fnn.ismcdn.jp/mwimgs/6/8/600/img_6874d982e093f6206c5f83b8578747da44820.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "中国、アメリカの対イラン制裁は「違法」 貿易相手国に「対象拡大」で反発",
-          "description": "アメリカが、イランとその貿易相手国に対する新たな経済制裁を発表したことを受け、貿易相手国の中国は25日、自国の利益を守ると表明した。",
-          "url": "https://www.bbc.com/japanese/articles/cx2zkqzdj4do",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-08-26T03:23:55Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/5055/live/9e4f3280-a0f8-11f1-a291-b542ee92de7c.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "大谷翔平、９回に激走三塁打も１点差惜敗 東地区首位ブレーブスとPS前哨戦は接戦及ばず／詳細",
-          "description": "ドジャース大谷翔平投手は「1番DH」で先発出場。ブレーブス右腕ブライス・エルダー。ドジャース先発はタイラー・グラスノー。腰痛で5月から負傷者リスト入りし、メジ… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/baseball/mlb/news/202608230000453.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-08-26T03:17:00Z",
-          "image": "https://www.nikkansports.com/baseball/mlb/news/img/202608230000453-w500_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ディースリー・パブリッシャーが「TGS2026」に出展！最新作「地球防衛軍6.2 INVADERS FROM ANOTHER WORLD」など3タイトルを試遊可能",
-          "description": "ディースリー・パブリッシャーは、2026年9月17日(木)～21日(月・祝)に幕張メッセで開催される「東京ゲームショウ2026(TGS2026)」に出展すると発表しました。最新作「地球防衛軍6.2 INVADERS FROM ANOTHER WORLD」をはじめとした「地球防衛軍」シリーズ3タイトルを試遊できます。…",
-          "url": "https://saiganak.com/ja/event/tgs2026-d3p-booth-announcement/",
-          "source": {
-            "name": "Saiga NAK"
-          },
-          "publishedAt": "2026-08-26T02:56:10Z",
-          "image": "https://i0.wp.com/uploads.saigacdn.com/2026/08/tgs2026-d3p-booth-announcement-00.jpg?resize=1200,630",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Blu Girls out to end Asiad medal drought",
-          "description": "The Philippine Blu Girls aim to end a string of near-misses as they chase a historic medal finish at next month’s Asian Games in Japan.The Filipina softbelles...",
-          "url": "https://mb.com.ph/2026/08/26/blu-girls-out-to-end-asiad-medal-drought",
+          "title": "Disney+ Greenlights 'Mad Love' Series From Playwright Kate Cortesi",
+          "description": "A new romantic comedy-drama created and written by acclaimed playwright Kate Cortesi is coming to Disney+.",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/disney-wedding-planner-kate-cortesi-mad-love-show-series-1236681762/",
           "source": {
-            "name": "Manila Bulletin"
+            "name": "The Hollywood Reporter"
           },
-          "publishedAt": "2026-08-26T07:48:14Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/26/126534.webp",
+          "publishedAt": "2026-08-26T12:30:23Z",
+          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-26T143744.660.jpg?w=1440&h=810&crop=1",
           "language": "en"
         },
         {
-          "title": "Dubai Airports made no layoffs during regional conflict, says CEO",
-          "description": "Paul Griffiths sees passenger traffic reaching 70 million range in 2026 and 100 million next year, slower growth due to the regional conflict.",
-          "url": "https://www.khaleejtimes.com/uae/dubai-airports-no-layoffs-regional-conflict-ceo-paul-griffiths-iran-us-israel-war",
+          "title": "Is Jakarta Safe? Capital Braces for Aug. 27 Protest One Year After Deadly Unrest",
+          "description": "Jakarta is bracing for a major Aug. 27 rally, with thousands of police deployed amid fears of a repeat of last year’s deadly unrest.",
+          "url": "https://jakartaglobe.id/news/is-jakarta-safe-capital-braces-for-aug-27-protest-one-year-after-deadly-unrest",
           "source": {
-            "name": "Khaleej Times"
+            "name": "Jakarta Globe"
           },
-          "publishedAt": "2026-08-26T07:47:56Z",
-          "image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-07-28/30ltxq7s/Screenshot-2026-07-28-at-11.01.27-AM.png?width=1200&height=630&q=60&format=auto&ogImage=true&mode=crop&rect=0,0,657,438",
+          "publishedAt": "2026-08-26T12:30:00Z",
+          "image": "https://img2.beritasatu.com/cache/jakartaglobe/960x620-w/2026/08/1787027883-3520x1980.webp",
           "language": "en"
         },
         {
-          "title": "Quantum Computers Could Give Scientists a New Way to Explore The Hidden Behavior of Matter",
-          "description": "Researchers developed a generalized quantum computational spectroscopy method that uses quantum computers to study complex systems.",
-          "url": "https://thequantuminsider.com/2026/08/26/quantum-computers-could-give-scientists-a-new-way-to-explore-the-hidden-behavior-of-matter/",
+          "title": "'I told him to drive slowly, but he kept...': A woman booked a bike ride to work and woke up with 9 broken ribs, no spleen, and a company that never called back",
+          "description": "June 17 started like any other workday. Sani Krishna had to reach her office by 10 AM. She booked a bike taxi on Rapido, a platform she trusted, one t.",
+          "url": "https://timesofindia.indiatimes.com/life-style/people/i-told-him-to-drive-slowly-but-he-kept-a-woman-booked-a-bike-ride-to-work-and-woke-up-with-9-broken-ribs-no-spleen-and-a-company-that-never-called-back/articleshow/133540670.cms",
           "source": {
-            "name": "The Quantum Insider"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-08-26T07:46:24Z",
-          "image": "https://thequantuminsider.com/wp-content/uploads/2026/08/t-da_md1qmc.jpg",
+          "publishedAt": "2026-08-26T12:30:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-133540690,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "as South African Airways continues fight for stuck US$50 million",
-          "description": "SOUTH Africa’s Department of International Relations was expected to face Parliament on Tuesday to explain its efforts in recovering over US$50 million (R1 billion) from Zimbabwe that is owed to state airline South African Airways (SAA). Zimbabwe’s liquidity crunch has resulted in it failing to settle about US$59 million in SAA ticket sales for its […]",
-          "url": "https://www.newzimbabwe.com/zimbabwe-suggests-paying-us1-million-every-three-months-as-south-african-airways-continues-fight-for-stuck-us50-million/",
+          "title": "Kenyan Bank With Lowest Lending Rates to Shut Down Its Mombasa Branch",
+          "description": "Citibank Kenya will close its Mombasa branch on November 30, 2026, consolidating operations to enhance digital banking services in the Kenyan market.",
+          "url": "https://www.tuko.co.ke/business-economy/economy/637624-kenyan-bank-lowest-lending-rates-shut-mombasa-branch/",
           "source": {
-            "name": "NewZimbabwe.com"
+            "name": "Tuko News"
           },
-          "publishedAt": "2026-08-26T07:45:56Z",
-          "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2018/06/12055629/South-African-Airways.jpg",
+          "publishedAt": "2026-08-26T12:29:25Z",
+          "image": "https://cdn.tuko.co.ke/images/1200x675/73cee512c1e4a47f.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "India rejects ‘politically motivated, malicious references' in UN panel's rights report",
-          "description": "Ministry of External Affairs, in a statement, said India had participated in the review in a “spirit of constructive engagement”. | India News",
-          "url": "https://www.hindustantimes.com/india-news/india-rejects-politically-motivated-malicious-references-in-un-racial-discrimination-uncerd-report-101787730195758.html",
+          "title": "Rockstar issues statement on GTA 6 gameplay leaks, calling them \"heartbreaking\" and warning they may include some spoilers",
+          "description": "In a rare move, GTA 6 developer Rockstar Games has issued a public statement on the recent gameplay leaks.",
+          "url": "https://www.eurogamer.net/gta-6-leaks-rockstar-statement-spoilers",
           "source": {
-            "name": "Hindustan Times"
+            "name": "Eurogamer.net"
           },
-          "publishedAt": "2026-08-26T07:45:46Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/08/26/1600x900/mea_1787731055756_1787731055984_a17baad3-fa3a-43e0-94b6-91062d67c784.jpg",
+          "publishedAt": "2026-08-26T12:29:00Z",
+          "image": "https://assetsio.gnwcdn.com/gta-6-vintage-pack-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
           "language": "en"
         },
         {
-          "title": "Ahead of National Day celebrations, Malaysia to step up haze mitigation measures with Indonesia",
-          "description": "Sixteen areas in Malaysia had unhealthy air quality as at 9am on Wednesday (Aug 26). The country celebrates its 69th National Day on Aug 31.",
-          "url": "https://www.channelnewsasia.com/asia/malaysia-haze-indonesia-prevention-measures-national-day-6341626",
+          "title": "Chow says Trump should 'take a page from Dolly Parton'",
+          "description": "Trump's renaming threat came just days after the U.S. imposed new tariffs on Canadian steel, aluminum, autos, and agricultural products.",
+          "url": "https://toronto.citynews.ca/2026/08/26/olivia-chow-us-tv-cbs-cnn-donald-trump-lake-ontario-tariffs/",
           "source": {
-            "name": "CNA"
+            "name": "CityNews Toronto"
           },
-          "publishedAt": "2026-08-26T07:44:36Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--D3_1vKX9--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/26/14238009.jpg?itok=_l1jovXc",
+          "publishedAt": "2026-08-26T12:29:00Z",
+          "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/08/26/oliviachow-cbs.jpg",
           "language": "en"
         },
         {
-          "title": "Taxi owners face Shs6m bill to fix DMC vehicles",
-          "description": "The mechanics say the cost depends on the extent of damage and the number of mechanical and body components requiring repair or replacement",
-          "url": "https://www.monitor.co.ug/uganda/news/national/taxi-owners-face-shs6m-bill-to-fix-dmc-vehicles-5571334",
+          "title": "Measles case reported in Buffalo Township, Butler County",
+          "description": "Officials said Butler County has confirmed its first case of measles.",
+          "url": "https://www.wtae.com/article/butler-county-confirms-first-case-measles-outbreak/73525337",
           "source": {
-            "name": "Daily Monitor"
+            "name": "WTAE"
           },
-          "publishedAt": "2026-08-26T07:43:08Z",
-          "image": "https://www.monitor.co.ug/resource/image/5571338/landscape_ratio3x2/1200/800/34410778303ae09f276d7abc147666d4/tm/home04pix.jpg",
+          "publishedAt": "2026-08-26T12:28:00Z",
+          "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/measles-680012e22f1d3.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
           "language": "en"
         },
         {
-          "title": "Sterling charged with dangerous driving after crash",
-          "description": "Raheem Sterling will appear in court next month to face charges of dangerous driving after crashing his car into motorway barriers in May.",
-          "url": "https://www.bbc.com/sport/football/articles/c23xkk1vkkpo",
+          "title": "51% of Console Gamers Prefer Physical Games, New Study Finds",
+          "description": "The gaming industry is quickly moving toward all-digital distribution, but most prefer to buy games the old-fashioned way, on a disc or cartridge.",
+          "url": "https://www.cbr.com/51-of-console-gamers-prefer-physical-games-new-study-finds/",
           "source": {
-            "name": "BBC"
+            "name": "Comic Book Resources"
           },
-          "publishedAt": "2026-08-26T07:42:51Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/225a/live/77b8e540-a0ca-11f1-ad58-4d48ded76db6.jpg",
+          "publishedAt": "2026-08-26T12:26:09Z",
+          "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/08/playstation-5-pro.jpeg?w=1600&h=900&fit=crop",
           "language": "en"
         },
         {
-          "title": "Former coach admits conspiring to falsify finswimming results for SEA Games selection",
-          "description": "The falsified documents led to six additional athletes being selected to represent Singapore in finswimming at the 2023 SEA Games.",
-          "url": "https://www.channelnewsasia.com/singapore/finswimming-coach-conspire-false-results-athletes-sea-games-6341966",
+          "title": "Sports coach loses RM55,000 after chasing RM400,000 in commissions",
+          "description": "JOHOR BARU: A 28-year-old sports coach's bid to earn some extra income turned into a nightmare after she was duped into \"investing\" RM55,000 in a job scam, even borrowing money from loan sharks (ah long) to raise the funds.",
+          "url": "https://www.thestar.com.my/news/nation/2026/08/26/sports-coach-loses-rm55000-after-chasing-rm400000-in-commissions",
           "source": {
-            "name": "CNA"
+            "name": "The Star"
           },
-          "publishedAt": "2026-08-26T07:42:00Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--v9rD9gp5--/c_crop,h_900,w_1600,x_0,y_79/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/03/12/1000183000.jpg?itok=uRpyuzRl",
+          "publishedAt": "2026-08-26T12:26:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/26/4079440.jpg",
           "language": "en"
         },
         {
-          "title": "Trump admin pauses immigrant visa interviews for public charge training",
-          "description": "The State Department paused all visa interviews at U.S. embassies and consulates worldwide while consular officers complete public charge rule training.",
-          "url": "https://www.foxnews.com/politics/trump-immigrant-visa-interview-pause",
+          "title": "Powder Man Alleged Visa Fraud: What Kailani Kpa Said Before Court Appearance Trends Online",
+          "description": "Ghanaian fan Kailani Kpa, known as Powder Man, addressed visa fraud allegations on social media, appears in court, granted bail as he shifts blame to agents.",
+          "url": "https://yen.com.gh/entertainment/celebrities/310678-what-powder-man-kailani-kpa-alleged-visa-fraud-court-appearance-trends-online/",
           "source": {
-            "name": "Fox News"
+            "name": "Yen News"
           },
-          "publishedAt": "2026-08-26T07:41:57Z",
-          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/rubio-trump-state-department.png",
+          "publishedAt": "2026-08-26T12:25:59Z",
+          "image": "https://cdn.yen.com.gh/images/1200x675/855d4256398b7009.jpeg?v=1",
           "language": "en"
         }
       ]
