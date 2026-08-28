@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-27T13:52:31.916Z",
+  "updatedAt": "2026-08-28T00:16:26.120Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "『Control Resonant』無料入手のチャンス！ ASUS・ROG「GeForce RTX 50」購入キャンペーン",
-          "description": "ASUS・ROGのGeForce RTX 50シリーズ対象製品を購入すると、『Control Resonant』通常版がもらえるキャンペーンを実施中。対象製品や応募方法、9月29日までの応募期限を紹介します。",
-          "url": "https://ascii.jp/elem/000/004/429/4429739/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-08-27T01:30:00Z",
-          "image": "https://ascii.jp/img/2026/08/27/4518174/xl/da9e147cfbbee219.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "ドックみたいなCore Ultra 7 256VミニPCが約4万6千円オフ",
-          "description": "Amazonにおいて、GMKtecのミニPC「NucBox K13」が直近価格から4万6,400円引きで、9万5,599円にて購入可能となっている。",
-          "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2135978.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-08-27T01:04:39Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2135/978/01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "中国の要塞都市が『進撃の巨人』のウォール・マリアすぎた / 山西省大同市「大同古城」",
-          "description": "夏草や兵どもが夢の跡──。史跡というのは良いものだ。時代の変遷、悠久の時。川の流れのようにゆっくりと壮大な時間の流れに客観的に触れることができる。人間関係の悩み …",
-          "url": "https://rocketnews24.com/2026/08/27/2794822/",
-          "source": {
-            "name": "ロケットニュース24"
-          },
-          "publishedAt": "2026-08-27T01:00:37Z",
-          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/daido16.jpg?crop=0px%2C137px%2C1300px%2C683px&resize=1200%2C630",
-          "language": "ja"
-        },
-        {
-          "title": "（朝）米国市場は3指数揃って下落 米PCE上昇を背景にインフレ懸念から売り優勢の展開",
-          "description": "【米国株式市場】ニューヨーク市場NYダウ：　53,463.88　▼113.52　（8/26）NASDAQ：　26,130.20　▼21.10　（8/26）1.概況米国市場は主要3指数揃って下落しました。個人消費支出（PCE）が発表され、概ね市場予想通りではあったものの、高い値となり力強いインフレが示....",
-          "url": "https://media.monex.co.jp/articles/-/30025",
-          "source": {
-            "name": "マネクリ"
-          },
-          "publishedAt": "2026-08-26T23:24:00Z",
-          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ソニー「Xperia 10 VIII」のスピーカー音質が別格に。Xperia 5シリーズを思わせる立体感",
-          "description": "インプレスが発行するデジタル総合ニュースサービス 「Impress Watchシリーズ」の会員限定サービス「Watch+(ウォッチプラス)」の記事です。記事の全文は、こちらから登録してご覧ください。",
-          "url": "https://av.watch.impress.co.jp/docs/topic/watchplus/2133917.html",
-          "source": {
-            "name": "AV Watch"
-          },
-          "publishedAt": "2026-08-26T23:00:00Z",
-          "image": "https://av.watch.impress.co.jp/img/avw/list/2133/917/_DSC3842.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "大谷翔平「１番DH」でブレーブス戦 ６試合ぶり31号出るか 佐々木朗希先発／速報中",
-          "description": "ドジャース大谷翔平投手は「1番DH」で先発出場。6試合ぶりとなる31号は出るか。佐々木朗希投手が6勝目を目指し先発。ドジャース大谷翔平　2026年全ホームラン… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/baseball/mlb/news/202608270000020.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-08-26T22:50:00Z",
-          "image": "https://www.nikkansports.com/baseball/mlb/news/img/202608270000020-w500_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "《相模原・17歳少年殺害》「地元の“バイクチーム”を抜けたばかりだった」黒い車に煽られ、複数人にリンチ…被害者の親友が証言「刹那は“コルク狩り”に遭ったのかも」（NEWSポストセブン）",
-          "description": "8月22日2時半ごろ、防犯カメラが相模原市の閑静な一帯を走る1台のオートバイとそれに続く黒の乗用車を捉えた。両者の距離は今にもぶつかりそうなほど近く、明らかな\"煽り運転\"だ。",
-          "url": "https://news.yahoo.co.jp/articles/c902a0caa55951061b33d1796666d2e427c4f81d",
+          "title": "バレー女子日本代表が準決勝進出！台湾にストレート勝利 五輪切符まであと2勝 次戦は決勝懸けタイと激突【アジア選手権】",
+          "description": "■バレーボール アジア選手権2026 女子 準々決勝　日本ー台湾（日本時間27日、中国・天津）\n優勝チームには28年ロサンゼルス五輪の出場権が与えられる、アジアNo.1決定戦の「アジア選手権202",
+          "url": "https://news.yahoo.co.jp/articles/afa8a91403137f1e9514226daeeb45df3f6a1b67",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-08-26T22:16:56Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260827-00000003-pseven-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-08-27T11:48:53Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260827-00010010-jnn-000-5-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "３党合流「政権受け皿にならず」 国民民主巻き込む再編選択肢―輿石元参院副議長に聞く",
-          "description": "旧民主党政権で幹事長を務めた輿石東元参院副議長がインタビューに応じ、中道改革連合、立憲民主党、公明党の３党合流について「国民に期待されるだろうか。政権交代の受け皿にはならないだろう」と述べ、枠組みを再考すべきだとの考えを示した。国民民主党を巻き込んだ野党再編の選択肢にも言及した。",
-          "url": "https://www.jiji.com/jc/article?k=2026082600651&g=pol",
+          "title": "【更新中】ネパール大洪水 行方不明の日本人5人「夫婦と子ども3人の家族」か 入国直後に運転手と合流も…運転手と共に消息不明 ＜死亡165人 外国人466人含む800人以上が行方不明＞情報まとめ",
+          "description": "ネパールとチベット自治区の国境付近で土石流や洪水が発生しました。ネパール中部のラスワ郡では大規模な洪水が起きました。また、日本人5人と連絡が取れていないということです。情報をまとめています。",
+          "url": "https://news.tv-asahi.co.jp/news_international/articles/900198025.html",
           "source": {
-            "name": "時事ドットコム"
+            "name": "テレ朝NEWS"
           },
-          "publishedAt": "2026-08-26T22:10:00Z",
-          "image": "https://www.jiji.com/news2/kiji_photos/202608/20260826at37S_ogp.jpg",
+          "publishedAt": "2026-08-27T11:00:00Z",
+          "image": "https://news.tv-asahi.co.jp/articles_img/900198025_1200.jpg",
           "language": "ja"
         },
         {
-          "title": "高市首相は減税をしている場合ではない…トランプのイラン戦争が招く｢米国債売り→ドル危機｣の最悪シナリオ（プレジデントオンライン）",
-          "description": "■米国は引くに引けない状況に陥った\n　米財務省が8月24日、対イラン制裁を強化した。詳細はさておき、そのエッセンスは、いわゆる二次制裁のスキームをフル活用して、イランを追い詰めようというものである",
-          "url": "https://news.yahoo.co.jp/articles/96a65fe95e5a067e60413217689cede42ba7a108",
+          "title": "AIが相手になりまっせ。「おひとりさま囲碁」も遊べるデジタルゲームボード",
+          "description": "TOKYOおもちゃショー2026で「AIボードゲーム」という聞き慣れない看板に釣られて足を止めました。MAXEVIS（マゼビス）の「AI GO」。AI「ボードゲーム」というよりは、個人的にはAI「ゲームボード」かなと。囲碁、リバーシ、落ち物",
+          "url": "https://www.gizmodo.jp/article/maxevis-ai-go-board-game/",
           "source": {
-            "name": "Yahoo!ニュース"
+            "name": "Gizmodo"
           },
-          "publishedAt": "2026-08-26T21:15:40Z",
-          "image": "https://s.yimg.jp/images/news-web/versions/20260827-4d294db/all/images/ogp_default.png",
+          "publishedAt": "2026-08-27T10:25:00Z",
+          "image": "https://media.loom-app.com/loom/2026/08/27/df8bd6ae-6dca-4de8-82b7-30a944b0597e/original.jpg?w=1200&h=630",
           "language": "ja"
         },
         {
-          "title": "PGAツアー2027年日程正式発表！ ハワイ開幕廃止や伝統大会の消滅など激変の全貌【米男子ゴルフ】",
-          "description": "PGAツアーは、2027年シーズンのレギュラーシーズンおよびプレーオフ（全36試合）のスケジュールを正式に発表した。 2028年から本格導入される「2シリーズ制（チャンピオンシップシリーズとチャレン",
-          "url": "https://news.yahoo.co.jp/articles/74011c40d21701842149a3341a43731b308c48e0",
+          "title": "高市首相が「マイナスとも…」 沖縄知事選、総力戦の自民に懸念",
+          "description": "全国の米軍専用施設面積の7割が集中する沖縄県で27日、知事選が告示された。 　自民党は12年ぶりとなる県政奪還に向けて党幹部が告示前から沖縄入りするなど総力戦の様相だ。告示直前には党本部が主導して元衆院議員の下地幹郎氏と政策協定を結び、下地氏は立候補を取りやめた。",
+          "url": "https://mainichi.jp/articles/20260827/k00/00m/010/283000c",
           "source": {
-            "name": "Yahoo!ニュース"
+            "name": "毎日新聞"
           },
-          "publishedAt": "2026-08-26T20:08:41Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260827-00010000-minnagolf-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-08-27T10:07:25Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/08/27/20260827k0000m010268000p/0c10.jpg?1",
+          "language": "ja"
+        },
+        {
+          "title": "最新情報ーニトリレディスゴルフトーナメントー明日へひとこと ｜JLPGA｜日本女子プロゴルフ協会",
+          "description": "一般社団法人日本女子プロゴルフ協会(JLPGA)の公式サイトです。",
+          "url": "https://www.lpga.or.jp/news/info/83285",
+          "source": {
+            "name": "日本女子プロゴルフ協会"
+          },
+          "publishedAt": "2026-08-27T09:58:48Z",
+          "image": "https://cdn.lpga.or.jp/lpga/cms/2026/08/27/xl/d6dbb582d30a2a4c526d333fec0709d3a935e0d7.jpg?1787828088",
+          "language": "ja"
+        },
+        {
+          "title": "元TBSアナ山本里菜：宮古島で初めての水着姿を披露 メイクのポイントや愛用コスメ、私物の紹介も 初のフォトブックが発売へ 先行カット公開",
+          "description": "元TBSアナウンサーで現在はフリーアナウンサーの山本里菜さんが、初のフォトブック「山本里菜1stフォトブック（仮）」（講談社）を10月28日に発売することになり、8月27日、先行カットが公開された。…",
+          "url": "https://mainichikirei.jp/article/20260826dog00m100012000a.html",
+          "source": {
+            "name": "毎日キレイ"
+          },
+          "publishedAt": "2026-08-27T09:00:00Z",
+          "image": "https://storage.mainichikirei.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/08/26/20260826dog00m100012000a/001.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【速報中】28日未明から再び“警報級”の恐れ…石川・富山で一時「レベル5大雨特別警報」「緊急安全確保」 半日で300mm超える史上1位の大雨 数カ月分の雨が一気に…",
+          "description": "気象庁は27日午前6時20分、石川県と富山県に「レベル5大雨特別警報」を発表しました。午後4時すぎに「レベル3大雨警報」に切り替えられましたが、あす28日にかけて再び警報級の大雨になる恐れがあります",
+          "url": "https://news.tv-asahi.co.jp/news_society/articles/900198026.html",
+          "source": {
+            "name": "テレ朝NEWS"
+          },
+          "publishedAt": "2026-08-27T08:45:00Z",
+          "image": "https://news.tv-asahi.co.jp/articles_img/900198026_1200.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "スイッチ2版『エルデンリング』は30fps前後でおおむね安定動作―PS5版との比較映像、動画主は携帯モードを推奨",
+          "description": "植生や一部エフェクトに違いがあるものの、全体として大きな差は感じられないクオリティに。",
+          "url": "https://www.gamespark.jp/article/2026/08/27/171371.html",
+          "source": {
+            "name": "Game*Spark"
+          },
+          "publishedAt": "2026-08-27T08:00:03Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1181988.png",
+          "language": "ja"
+        },
+        {
+          "title": "台風22号（アータウ）発生…気象庁の予想進路、米軍・ヨーロッパの見方 今月9つ目、日本への影響は",
+          "description": "気象庁の2026年8月27日午後3時の実況によると、ウェーク島近海にある熱帯低気圧が台風22号（アータウ）に変わった。予想進路や日本への影響について気象庁や米軍合同台風警報センター(JTWC）、ヨーロッパ中期予報センターの見方をまとめた。今月すでに8つの台風が発生しており、22号は9つ目の台風となる。",
+          "url": "https://www.fukuishimbun.co.jp/articles/-/2683936",
+          "source": {
+            "name": "福井新聞社"
+          },
+          "publishedAt": "2026-08-27T07:51:00Z",
+          "image": "https://fki.ismcdn.jp/mwimgs/c/0/-/img_c00ca0b099f58af10443989b0c914dc9217740.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "iPhone 18 Pro発表日確定、「初の折りたたみスマホや新CEO登壇」に注目",
+          "description": "アップルは、iPhone 18 Pro、iPhone 18 Pro Max、そして同社初の折りたたみスマートフォン（名称はまだわからない）の発売日へと続く道のりで、最初の公式な一歩を踏み出した。ここでは注目すべき節目を挙げていく。招待状が発...",
+          "url": "https://forbesjapan.com/articles/detail/103679",
+          "source": {
+            "name": "Forbes JAPAN"
+          },
+          "publishedAt": "2026-08-27T07:30:00Z",
+          "image": "https://images.forbesjapan.com/media/article/103679/images/main_image_187c320a67e11f4ed33d1b9ce26c0398d6b19f08.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "San Juan downs Batangas for North solo second",
-          "description": "The San Juan Knights regained traction with a 78-71 victory over the Batangas City Tanduay Athletics.",
-          "url": "https://www.philstar.com/sports/2026/08/27/2552173/san-juan-downs-batangas-north-solo-second",
+          "title": "Kremlin denies reports CIA director warned Russia about attacking NATO countries",
+          "description": "The Kremlin on Thursday dismissed U.S. media reports that Russia could attack a NATO member state and that the purpose of CIA Director John Ratcliffe's visit to Moscow this week had been to warn Moscow against such a move.",
+          "url": "https://www.cbc.ca/news/world/us-russia-cia-nato-9.7322340",
           "source": {
-            "name": "Philstar.com"
+            "name": "CBC"
           },
-          "publishedAt": "2026-08-27T01:51:00Z",
-          "image": "https://media.philstar.com/photos/2026/08/27/reyland-torres-mpbl_2026-08-27_09-51-32.jpg",
+          "publishedAt": "2026-08-27T12:15:27Z",
+          "image": "https://i.cbc.ca/ais/1c6c2766-a11a-4862-b0ae-61ce5d7e6c74,1787829961437/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C183%2C3510%2C1974%29%3BResize%3D620",
           "language": "en"
         },
         {
-          "title": "TDP Leaders Clash at Actress’s Birthday Party in Vizag; One Stabbed",
-          "description": "The birthday celebration of Jabardasth fame actress was held at a resort in Visakhapatnam",
-          "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/tdp-leaders-clash-at-actresss-birthday-party-in-vizag-one-stabbed-1982627",
+          "title": "Gulf, India, and China keep Kenya's avocado campaign afloat",
+          "description": "Kenya's avocado export campaign remains active, with demand mainly coming from Gulf countries, India, and China. At the same time, troublesome logistics still cut exporters off from the…",
+          "url": "https://www.freshplaza.com/north-america/article/9867209/gulf-india-and-china-keep-kenya-s-avocado-campaign-afloat/",
           "source": {
-            "name": "Deccan Chronicle"
+            "name": "FreshPlaza"
           },
-          "publishedAt": "2026-08-27T01:50:56Z",
-          "image": "https://www.deccanchronicle.com/h-upload/2026/07/20/2067031-500x3002025078-2015757-500x3001981222-1944299-crime.jpg",
+          "publishedAt": "2026-08-27T12:15:19Z",
+          "image": "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2025/10/31/1000010656.jpg?preset=OgImage",
           "language": "en"
         },
         {
-          "title": "Roger Goodell: We want the Pro Bowl to be an honor without an exhibition game",
-          "description": "The NFL has had more than 100 Pro Bowlers in recent years because of players who were either too injured or disinterested in participating.",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-we-want-the-pro-bowl-to-be-an-honor-without-an-exhibition-game",
+          "title": "Global air cargo demand rises 8.5% in June",
+          "description": "Global air cargo demand, measured in cargo tonne-kilometres, increased by 8.5% year-on-year in June 2026, according to IATA. International demand rose by 9.6%. IATA attributed the development…",
+          "url": "https://www.freshplaza.com/north-america/article/9867042/global-air-cargo-demand-rises-8-5-in-june/",
           "source": {
-            "name": "NBC Sports"
+            "name": "FreshPlaza"
           },
-          "publishedAt": "2026-08-27T01:50:50Z",
-          "image": "https://nbcsports.brightspotcdn.com/dims4/default/6ab03f8/2147483647/strip/true/crop/8192x4608+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa0%2Feb%2Fc30e79d84e778c0e2cf2c7e3c552%2F1462225415.jpg",
+          "publishedAt": "2026-08-27T12:15:19Z",
+          "image": "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2026/08/27/02711-12.jpg?preset=OgImage",
           "language": "en"
         },
         {
-          "title": "When Aruna Irani spoke about not having kids with Kuku Kohli: 'Didn't have the courage like Neena Gupta, I didn't want my kid to go through that pain, I was married to a married man'",
-          "description": "Filmmaker Kuku Kohli passed away on Tuesday. He was married to Aruna Irani for 36 years but the actress chose to not have children with him as he was .",
-          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-aruna-irani-spoke-about-not-having-kids-with-kuku-kohli-didnt-have-the-courage-like-neena-gupta-i-didnt-want-my-kid-to-go-through-that-pain-i-was-married-to-a-married-man/articleshow/133553835.cms",
+          "title": "Ndodana Tshuma back in Johannesburg court as extradition request takes centre stage",
+          "description": "eNCA Ndodana Mkhanyisi Tshuma, accused of the murder of his wife and their two daughters, is back at the Johannesburg Magistrate’s Court. The British citizen of Zimbabwean heritage who is wanted in the UK is facing three counts of murder. The bodies of his wife, Zandile and their two daughters, Natalie and Nala, were found […]",
+          "url": "https://www.newzimbabwe.com/ndodana-tshuma-back-in-johannesburg-court-as-extradition-request-takes-centre-stage/",
           "source": {
-            "name": "The Times of India"
+            "name": "NewZimbabwe.com"
           },
-          "publishedAt": "2026-08-27T01:50:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-133553933,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-08-27T12:14:21Z",
+          "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2026/07/13132401/tshuma.webp",
           "language": "en"
         },
         {
-          "title": "Kinley Rasmus' Box Score Stats, Highlights for Southeast vs. Great Lakes in LLWS Elimination Bracket",
-          "description": "Kinley Rasmus is one of the breakout stars of the summer, but her 2026 Little League World Series came to an end Wednesday.",
-          "url": "https://bleacherreport.com/articles/25490323-kinley-rasmus-box-score-stats-highlights-southeast-vs-great-lakes-llws-elimination-bracket",
-          "source": {
-            "name": "Bleacher Report"
-          },
-          "publishedAt": "2026-08-27T01:49:55Z",
-          "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-08/2291237459_0_large_cropped.jpg?w=1120&h=630",
-          "language": "en"
-        },
-        {
-          "title": "LibreOffice 26.8's release fixes your word spacing, brings in a new Notebookbar UI, and still contains zero AI",
-          "description": "Sometimes, less is more.",
-          "url": "https://www.xda-developers.com/libreoffice-268s-release-fixes-your-word-spacing-brings-in-a-new-ui-and-still-contains-zero-ai/",
-          "source": {
-            "name": "XDA"
-          },
-          "publishedAt": "2026-08-27T01:48:00Z",
-          "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/libreoffice-26-8-featured.jpg?w=1600&h=900&fit=crop",
-          "language": "en"
-        },
-        {
-          "title": "China industrial profits growth cools to slowest in seven months",
-          "description": "China's industrial profits growth in July slowed to its weakest pace this year, as soft demand and a broader slowdown in the economy weighed on manufacturers.",
-          "url": "https://www.cnbc.com/2026/08/27/china-industrial-profits-july-factory-production-.html",
-          "source": {
-            "name": "CNBC"
-          },
-          "publishedAt": "2026-08-27T01:47:00Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108068638-1732674034622-gettyimages-1410251074-vcg111392637842.jpeg?v=1732674134&w=1920&h=1080",
-          "language": "en"
-        },
-        {
-          "title": "Golden State Warriors, Stephen Curry contract extension negotiations",
-          "description": "The Golden State Warriors want Stephen Curry to retire in the Bay Area. They can make that happen this weekend.",
-          "url": "https://www.usatoday.com/story/sports/nba/warriors/2026/08/26/golden-state-warriors-stephen-curry-contract-extension-negotiations/91483980007/",
-          "source": {
-            "name": "USA Today"
-          },
-          "publishedAt": "2026-08-27T01:45:00Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/12/USAT/91270476007-getty-images-2203344424.jpg?crop=4315,2427,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-          "language": "en"
-        },
-        {
-          "title": "Silver Ferns shooters Grace Nweke and Amelia Walmsley confirm new Super Netball homes",
-          "description": "Silver Ferns shooters Grace Nweke and Amelia Walmsley have found new homes in Australia’s Super Netball. Nweke has signed a three-year deal with the new...",
-          "url": "https://www.nzherald.co.nz/sport/netball/silver-ferns/silver-ferns-shooters-grace-nweke-and-amelia-walmsley-confirm-new-super-netball-homes/6KDLYEH5BFCIRBXBXHZ3VPWRRM/",
-          "source": {
-            "name": "NZ Herald"
-          },
-          "publishedAt": "2026-08-27T01:43:57Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/2PBE6SGOUJFETHYF4TZVVKCKXE.jpg?auth=09d9a2af95700dae25d09b7a8442989f0cdfa513cf11eaf8209e8dd024d509ea&width=1200&height=675&quality=70&focal=1395%2C472&smart=false",
-          "language": "en"
-        },
-        {
-          "title": "Australia’s refugee intake to be slashed as Labor works to reduce migration amid One Nation pressure",
-          "description": "Quota to fall by a third to Coalition-era levels in move that the Greens say makes Australia ‘meaner and weaker’",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/27/australia-refugees-slashed-labor-migration-pressure-one-nation",
+          "title": "Near total lunar eclipse will be seen from North and South America Thursday night",
+          "description": "Earth’s shadow will appear to be a reddish ‘blood moon’ due to the way sunlight is scattered by the atmosphere",
+          "url": "https://www.theguardian.com/science/2026/aug/27/lunar-eclipse-north-south-america",
           "source": {
             "name": "The Guardian"
           },
-          "publishedAt": "2026-08-27T01:38:00Z",
-          "image": "https://i.guim.co.uk/img/media/8b3ba39f2825fb8d9ee714062325601626cb1cad/1201_0_3399_2720/master/3399.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=17f684774556bb83d278a0efee1b0865",
+          "publishedAt": "2026-08-27T12:14:00Z",
+          "image": "https://i.guim.co.uk/img/media/db707aa5218ff69df77081a1e336a158df9680e7/280_0_3488_2792/master/3488.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06d2b7754fdfcc0064988befed48ddd9",
+          "language": "en"
+        },
+        {
+          "title": "Gold prices today, Thursday, August 27, 2026: Prices pull back after PCE report, ahead of Warsh speech",
+          "description": "Gold December futures opened at $4,650 per troy ounce on Thursday, August 27, 2026, down just 0.1% compared to Wednesday's closing price. The price of gold moved back up this morning, trading at $4,648.90 as of 7:59 a.m. ET.",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-27-2026-prices-pull-back-after-pce-report-ahead-of-warsh-speech-121341759.html",
+          "source": {
+            "name": "Yahoo Finance"
+          },
+          "publishedAt": "2026-08-27T12:13:41Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/4fd82b30434a934e3d85065632c2281f1ffbf45ecd077168c2e16927ab6e0557/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fthursday.png",
+          "language": "en"
+        },
+        {
+          "title": "Jack Crowley ruled out until new year in huge blow for Munster outhalf",
+          "description": "Twenty-six-year-old ruled out with lower limb vascular injury",
+          "url": "https://www.irishtimes.com/sport/rugby/2026/08/27/jack-crowley-ruled-out-until-the-new-year-in-huge-blow-to-munster-and-ireland-outhalf/",
+          "source": {
+            "name": "The Irish Times"
+          },
+          "publishedAt": "2026-08-27T12:12:55Z",
+          "image": "https://www.irishtimes.com/resizer/v2/VAKJV3NAA26PLA3KLCKPAMGPWY.jpg?smart=true&auth=07041e752a73856263c44d9f0504f7022a008db246c9ddd209539ce388441931&width=1200&height=630",
+          "language": "en"
+        },
+        {
+          "title": "Traces of ancestors found in DNA",
+          "description": "Scientists uncovered DNA from two mysterious human ancestors hidden in modern genomes, revealing new clues about our evolutionary past.",
+          "url": "https://www.cp24.com/news/world/2026/08/27/researchers-identify-traces-of-two-ghost-ancestors-in-modern-human-dna/",
+          "source": {
+            "name": "CP24"
+          },
+          "publishedAt": "2026-08-27T12:11:03Z",
+          "image": "https://www.cp24.com/resizer/v2/JZQDRVKANNAT5O62G45WGZUDGM.JPG?smart=true&auth=2e243560e3a848b98c08a6b7cd4d9a91a9f8c850327ca0b7ca07132e4dd85243&width=1200&height=630",
+          "language": "en"
+        },
+        {
+          "title": "Satellite images show destruction from Nepal-Tibet floods",
+          "description": "A glacier collapse high in the Himalayas on Wednesday triggered catastrophic flooding along the Nepal-Tibet border.",
+          "url": "https://www.aljazeera.com/news/2026/8/27/satellite-images-show-destruction-from-nepal-tibet-floods",
+          "source": {
+            "name": "Al Jazeera"
+          },
+          "publishedAt": "2026-08-27T12:09:21Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/INTERACTIVE-Nepal-floods-satellite-1787827054.png?resize=1500%2C1080&quality=80",
+          "language": "en"
+        },
+        {
+          "title": "Death toll rises to 353, with more than 1,300 missing in Nepal, Tibet after catastrophic floods",
+          "description": "Rescue teams searched on Thursday for hundreds of missing people along the Nepal-Tibet border after a catastrophic and deadly torrent of floods and mud swept through several communities a day earlier following a glacier collapse.",
+          "url": "https://www.cbc.ca/news/world/nepal-tibet-flood-missing-killed-9.7322278",
+          "source": {
+            "name": "CBC"
+          },
+          "publishedAt": "2026-08-27T12:08:50Z",
+          "image": "https://i.cbc.ca/ais/281ea3aa-e89b-4e15-9e18-ccbefcef3313,1787825218604/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C112%2C2726%2C1533%29%3BResize%3D620",
           "language": "en"
         }
       ]
