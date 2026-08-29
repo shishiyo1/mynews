@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-29T14:11:47.870Z",
+  "updatedAt": "2026-08-29T18:12:25.737Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "デビュー19年、時代を超える高い人気で独自路線を快走 三菱自動車 デリカＤ：５ ＣＡＲストーリー",
+          "description": "ミニバンといえばアルファードともいえる人気ぶりだが独自路線でシェアを伸ばすのが三菱のデリカD：5だ。現行の5代目は2007年のデビューから19年となるも、好調な販売が続く。フルモデルチェンジも噂されるが今年1月にはさらなるマイナーチェンジ…",
+          "url": "https://www.sankei.com/article/20260829-34Z6LN5M3RLDVNYQLR4MWYGMZQ/",
+          "source": {
+            "name": "産経ニュース"
+          },
+          "publishedAt": "2026-08-29T05:00:00Z",
+          "image": "https://www.sankei.com/resizer/v2/26CWJFOICRNBZK5Z57EWU6P7FE.jpg?auth=a9a4f2836a1dc6e3aacc678597a1a1f535c4fd6e0143990e924dcbd4879f8bbd&quality=50&smart=true&width=1200&height=675",
+          "language": "ja"
+        },
+        {
+          "title": "フロムの不親切とのギャップに「笑ってしまった」――任天堂のエルデンリング解説動画",
+          "description": "【GAME】「褪せ人ってなんですか……？」 任天堂の公式アカウントが投稿した『ELDEN RING（エルデンリング）』の紹介動画に、あるユーザーがそんな感想を漏らしていました。…",
+          "url": "https://hashout.jp/game/9428/",
+          "source": {
+            "name": "shiritomo"
+          },
+          "publishedAt": "2026-08-29T04:06:56Z",
+          "image": "https://hashout.jp/wp-content/uploads/2026/08/2092919928244371618-img-1200x675.png",
+          "language": "ja"
+        },
+        {
+          "title": "《ビッグダディが結婚54日で8度目のスピード離婚》名古屋在住の妻と初対面が“離婚協議”の修羅場に…「俺の嫁になってくれたんですから感謝してます」8月16日に離婚届受理（NEWSポストセブン）｜ｄメニューニュース",
+          "description": "《ビッグダディが結婚54日で8度目のスピード離婚》名古屋在住の妻と初対面が“離婚協議”の修羅場に…「俺の嫁になってくれたんですから感謝してます」8月16日に離婚届受理（NEWSポストセブン）「まさか俺の嫁になってくれるっていう人がいるなんて、本当にほっとしました。夏休みにはこっちに子どもを連れて、遊びに来ると…",
+          "url": "https://topics.smt.docomo.ne.jp/article/postseven/entertainment/postseven-2125018?redirect=1",
+          "source": {
+            "name": "ｄメニューニュース"
+          },
+          "publishedAt": "2026-08-29T02:13:00Z",
+          "image": "https://img.topics.smt.news.goo.ne.jp/picture/postseven/m_postseven-2125018.jpg",
+          "language": "ja"
+        },
         {
           "title": "アップル発表会は日本時間9月10日開催。「iPhone 18」と折りたたみ版の価格に注目",
           "description": "9月10日のアップル発表会で「iPhone 18」がついに登場か。注目の折りたたみ版は価格30万円超えも現実的という見方が出ています。",
@@ -72,159 +105,126 @@
           "language": "ja"
         },
         {
-          "title": "【高校野球】メジャー注目の怪物、巨人ドラ１の弟... 来年のドラフト戦線はもう始まっている！ この夏発掘した２年生の逸材たち",
-          "description": "地方大会で見つけた「来年の主役候補」逸材探索の旅（前編）\n「この夏も　２年をおもに　見てました」　詠み人知らず\n　それが、私の「夏」である。そうなったのは、もう20年以上も前のことで、私のなかで",
-          "url": "https://news.yahoo.co.jp/articles/299623290b209aba3412d16171271167ee4cdbf6",
+          "title": "NY金先物は急落、ウォーシュFRB議長のタカ派発言で9月利上げ観測が急浮上｜FX・為替ニュース",
+          "description": "COMEX金9月限終値：4,506.41 ↓157.59 8月28日のNY金先物9月限は急落。ニューヨーク商品取引所（COMEX）の金先物9月限は、前営業日比－157.59ドル（－3.38％）の4,5",
+          "url": "https://zai.diamond.jp/articles/-/494761",
           "source": {
-            "name": "Yahoo!ニュース"
+            "name": "ザイFX！"
           },
-          "publishedAt": "2026-08-28T22:23:46Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260829-01120580-sportiva-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "台風23号…気象庁の予想進路、米軍・ヨーロッパの見方 8月29日午前6時の現在地",
-          "description": "台風23号（バンラン）は2026年8月29日午前6時現在、ウェーク島近海を1時間に25キロの速さで北東に進んでいる。予想進路や日本への影響について気象庁や米軍合同台風警報センター(JTWC）、ヨーロッパ中期予報センターの見方をまとめた。　台風は今月10個目で、台風22号に似た経路を進むとみられる。",
-          "url": "https://www.fukuishimbun.co.jp/articles/-/2684860",
-          "source": {
-            "name": "福井新聞社"
-          },
-          "publishedAt": "2026-08-28T22:12:00Z",
-          "image": "https://fki.ismcdn.jp/mwimgs/6/4/-/img_64d77452ac81b35e4fdbc5712ce0813b271281.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『GTA6』の公式プレイ動画がYouTubeだけで再生回数「900万回」を突破、公開からわずか1日",
-          "description": "「11月が待ちきれない」「この時代に生まれてきて良かった」と絶賛の声相次ぐ。登場人物の挙動や戦闘システム、多彩なアクティビティなど多数の要素に世界中のファンが熱狂",
-          "url": "https://news.denfaminicogamer.jp/news/260829c",
-          "source": {
-            "name": "電ファミニコゲーマー"
-          },
-          "publishedAt": "2026-08-28T21:49:00Z",
-          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/ULTIMATE_EDITION_SARAS_SALON_01.0gn7dwlvcgz17.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「Bリーグの選手ではなかなかできない」ヘッドコーチも脱帽…バスケW杯最終予選で八村塁が大活躍 現地取材記者の印象に残った「意外なシーン」は？",
-          "description": "日本時間8月28日、バスケ日本代表はカタールW杯出場をかけた2次予選の初戦で、サウジアラビアとのアウェーゲームを戦った。八村塁と河村勇輝という2人のNBA組が参加した注目の一戦。サウジアラビアのジ",
-          "url": "https://news.yahoo.co.jp/articles/f617c68e0640d250e9353621d9fef40371ca6fa0",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-28T21:46:15Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260829-00871761-number-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-08-28T22:42:00Z",
+          "image": "https://zai.diamond.jp/mwimgs/9/e/-/img_9e47ac79ce2cf237f05d70fc22e16d45110540.png",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Barry Soper on surviving a heart attack and raising toddlers in his 70s",
-          "description": "Like many parents, Barry Soper’s favourite part of the day comes around 8pm, when his two little treasures – the children he never imagined he’d be raising...",
-          "url": "https://www.nzherald.co.nz/lifestyle/barry-soper-on-surviving-a-heart-attack-and-raising-toddlers-in-his-70s/2ONN6XQ5AFBM7IROY3NWBRBGLY/",
+          "title": "How Devon and Cornwall became bluetongue virus hotspot",
+          "description": "A potentially deadly virus in livestock survived colder months before spreading, scientists believe.",
+          "url": "https://www.bbc.co.uk/news/articles/cqjk0l2ww7qo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-08-29T06:12:21Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a500/live/e4455030-a2c9-11f1-941c-8741c1a72471.jpg",
+          "language": "en"
+        },
+        {
+          "title": "How Devon and Cornwall became bluetongue virus hotspot",
+          "description": "A potentially deadly virus in livestock survived colder months before spreading, scientists believe.",
+          "url": "https://www.bbc.com/news/articles/cqjk0l2ww7qo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-08-29T06:12:21Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a500/live/e4455030-a2c9-11f1-941c-8741c1a72471.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Hamilton shoplifter says she can ‘go where I want’ after being caught by police",
+          "description": "After being caught stealing from Kmart, a recidivist shoplifter told police she could go where she wanted. “I’m not trespassed; I was born here. I’m Tainui....",
+          "url": "https://www.nzherald.co.nz/nz/hamilton-shoplifter-says-she-can-go-where-i-want-after-being-caught-by-police/NYX64VZX3JF5JO654G33T5ZIXA/",
           "source": {
             "name": "NZ Herald"
           },
-          "publishedAt": "2026-08-29T02:10:54Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/URS5EYXERBF5DOHODZASNT7FDM.jpg?auth=5f7954022e68835b073ac5666c057a115b9fc4e6940b885656135424a980c168&width=1200&height=675&quality=70&focal=1345%2C1191&smart=false",
+          "publishedAt": "2026-08-29T06:11:15Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/CLIOJQZCEZCDHI6W2MRFTA2L5Q.jpg?auth=e44ad7d0842fde5af7b30475dd3d0cfb7df4f75b33f723a754f35003ef31d65b&width=1200&height=675&quality=70&focal=977%2C710&smart=false",
           "language": "en"
         },
         {
-          "title": "Apple TV hikes prices on streaming, Apple One bundle services",
-          "description": "Apple TV's streaming price increased from $12.99 to $14.99 per month. The Apple One subscription also went up as part of the latest hike.",
-          "url": "https://www.foxbusiness.com/technology/apple-implements-price-hikes-tv-streaming-service-one-subscription-bundle",
+          "title": "This Is Ghana Exhibition opens today as local businesses take centre stage",
+          "description": "The biggest trade fair dedicated to showcasing indigenous Ghanaian products, the This Is Ghana Exhibition, opens today, Saturday, August 29, bringing together",
+          "url": "https://www.citinewsroom.com/2026/08/this-is-ghana-exhibition-opens-today-as-local-businesses-take-centre-stage/",
           "source": {
-            "name": "Fox Business"
+            "name": "CitiNewsroom.com"
           },
-          "publishedAt": "2026-08-29T02:09:00Z",
-          "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/cast-of-ted-lasso.jpg?ve=1&tl=1",
+          "publishedAt": "2026-08-29T06:10:28Z",
+          "image": "https://www.citinewsroom.com/wp-content/uploads/2026/08/This-is-Ghana-2026.jpeg",
           "language": "en"
         },
         {
-          "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
-          "description": "President Trump says his administration has entered a sweeping agreement with Venezuela that could give the U.S. access to vast amounts of the South American country's untapped oil reserves, at cost.",
-          "url": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
+          "title": "Ghana’s democratic gains must not be taken for granted - Prof. Opoku-Agyemang",
+          "description": "Vice President Professor Jane Naana Opoku-Agyemang has cautioned Ghanaians against taking the country’s democratic gains for granted, despite more than three",
+          "url": "https://www.citinewsroom.com/2026/08/ghanas-democratic-gains-must-not-be-taken-for-granted-prof-opoku-agyemang/",
           "source": {
-            "name": "NPR"
+            "name": "CitiNewsroom.com"
           },
-          "publishedAt": "2026-08-29T02:07:55Z",
-          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4854x2730+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd4%2F0a%2F08856ec44cb6b0439cd340b4ea99%2Fap26240757900206.jpg",
+          "publishedAt": "2026-08-29T06:10:28Z",
+          "image": "https://www.citinewsroom.com/wp-content/uploads/2026/08/JANE.png",
           "language": "en"
         },
         {
-          "title": "Singapore to sell luxury homes seized in record laundering case",
-          "description": "Consulting firm Deloitte has reportedly approached multiple property brokers about plans to sell more than 200 seized properties.",
-          "url": "https://www.freemalaysiatoday.com/category/business/2026/08/29/singapore-to-sell-luxury-homes-seized-in-record-laundering-case",
+          "title": "Nepal-Tibet floods: Over 630 bodies recovered, number of missing soars to nearly 3,000",
+          "description": "The Red Cross said as many as 93,000 people may have been affected, with the death toll expected to rise. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/asia/nepal-tibet-floods-over-630-bodies-recovered-number-of-missing-soars-to-nearly-3000",
           "source": {
-            "name": "Free Malaysia Today"
+            "name": "The Straits Times"
           },
-          "publishedAt": "2026-08-29T02:03:18Z",
-          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/08/e8d72acb-0a2e-4efc-8a39-3e709c772dd6-EPA-Images---Orchard-Road---Singapore---29082026.webp",
+          "publishedAt": "2026-08-29T06:10:00Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/1f7a1cd5353c1681c4fb98ef3cbee070aa1aaaa8c318525f0e1e0d6b0229959e",
           "language": "en"
         },
         {
-          "title": "Erling Haaland maintains perfect scoring record against Crystal Palace as new-look striker fires Manchester City ahead",
-          "description": "Erling Haaland scored for Manchester City against Crystal Palace to maintain his perfect record of scoring in every game against the Eagles.",
-          "url": "https://www.goal.com/en-gh/lists/erling-haaland-perfect-scoring-record-against-crystal-palace-new-look-striker-manchester-city-/blt8ec8dad01adf73ec",
+          "title": "IRGC accuses US of lying about Hormuz strait status",
+          "description": "Iran's Revolutionary Guard rejects US claims that Hormuz is open, accusing Washington of market manipulation while maintaining the strategic waterway remains closed to uncoordinated traffic.",
+          "url": "https://en.yenisafak.com/world/irgc-accuses-us-of-lying-about-hormuz-strait-status-3722500",
           "source": {
-            "name": "Goal.com"
+            "name": "Yeni Safak English"
           },
-          "publishedAt": "2026-08-29T02:03:09Z",
-          "image": "https://assets.goal.com/images/v3/getty-2291897258/crop/MM5DGOJTGY5DEMRRGQ5G433XMU5DKMR2GYZQ====/GettyImages-2291897258.jpg",
+          "publishedAt": "2026-08-29T06:07:14Z",
+          "image": "https://img.piri.net/piri/upload/3/2026/8/29/fa24781e-irans-irgc-says-us-hormuz-claims-are-lies-to-manipulate-oil-prices.webp",
           "language": "en"
         },
         {
-          "title": "Egypt archaeologists uncover three ancient tombs from different eras",
-          "description": "Notably, the Sheikh Soby site is home to a Late Period cemetery containing the tombs of Bahariya Oasis rulers and priests from that period, including the Temple of El-Bawiti.",
-          "url": "https://www.jpost.com/archaeology/article-906905",
+          "title": "Singapore inaugural Paralympic Day promotes inclusion and courage",
+          "description": "Prime Minister Lawrence Wong calls for a better, more inclusive Singapore at the inaugural Paralympic Day, celebrating para-athletes and promoting greater participation in sport. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/sport/lets-build-a-better-more-inclusive-singapore-says-pm-wong-at-inaugural-paralympic-day",
           "source": {
-            "name": "The Jerusalem Post"
+            "name": "The Straits Times"
           },
-          "publishedAt": "2026-08-29T02:01:37Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/735593",
+          "publishedAt": "2026-08-29T06:07:00Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a3f1898405a8857c9238ac516d72692c7310cce0f043d0fc7a4dc862a2270df1",
           "language": "en"
         },
         {
-          "title": "Bournemouth vs Everton: Where to watch, TV channel, live stream & kick-off time",
-          "description": "Where to watch Bournemouth vs Everton in the Premier League. Full details on TV channel, live stream options, kick-off time, team news, and head-to-head record.",
-          "url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-afc-bournemouth-v-everton/bltad6f1e84a15561d0",
+          "title": "PCG: Bodies of 2 Aeta kids from sunken boat recovered off Mapanuepe Lake in Zambales",
+          "description": "Two children who went missing after a boat capsized off Mapanuepe Lake in San Marcelino, Zambales while carrying members of the Aeta Indigenous Peoples (IP)...",
+          "url": "https://mb.com.ph/2026/08/29/pcg-bodies-of-2-aeta-kids-from-sunken-boat-recovered-off-mapanuepe-lake-in-zambales",
           "source": {
-            "name": "Goal.com"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-08-29T02:01:18Z",
-          "image": "https://assets.goal.com/images/v3/c1f2VNiNlhuXMgxz3BJ6f_DESKTOP/image.jpg",
+          "publishedAt": "2026-08-29T06:06:19Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/29/127408.webp",
           "language": "en"
         },
         {
-          "title": "Why this little-known meteor shower is one to watch this week",
-          "description": "The Aurigids may not be famous, but they carry clues from a comet's 2,000-year journey through space.",
-          "url": "https://www.sbs.com.au/news/article/aurigid-meteor-shower-everything-you-need-to-know/p0xu8sm3e",
+          "title": "3D-printed MRI coils for pediatric imaging",
+          "description": "Researchers at the University of Southern California (USC) have developed custom, 3D-printed MRI sensors that take minutes to make at a fraction of the cost and give doctors clearer views of small organs in infants and children.",
+          "url": "https://healthcare-in-europe.com/en/news/3d-printed-mri-coils-pediatric-imaging.html",
           "source": {
-            "name": "SBS"
+            "name": "healthcare-in-europe.com"
           },
-          "publishedAt": "2026-08-29T02:01:06Z",
-          "image": "https://assets.sbs.com.au/dims4/default/01aaac3/2147483647/strip/true/crop/6666x3750+0+192/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fb7%2F4b%2F7006f9c84d40bbab63d361e713c7%2Fgettyimages-1482229552.jpg",
-          "language": "en"
-        },
-        {
-          "title": "WakaStudio Celebrates the Launch of RunOut - Hothead Paws in Thailand with Grand Opening Event",
-          "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-          "url": "https://www.gamespress.com/WakaStudio-Celebrates-the-Southeast-Asia-Launch-of-RunOut---Hothead-Pa",
-          "source": {
-            "name": "Games Press"
-          },
-          "publishedAt": "2026-08-29T02:00:41Z",
-          "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/08/281333-607e0ce8/RunOut_Grand_Opening_Banner_Eng.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=7a059323924cb1d583a783304471c19064a900095ea7beaa14eb08c952c35d01",
-          "language": "en"
-        },
-        {
-          "title": "WakaStudio Celebrates the Launch of RunOut - Hothead Paws in Thailand with Grand Opening Event",
-          "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-          "url": "https://www.gamespress.com/ru/WakaStudio-Celebrates-the-Southeast-Asia-Launch-of-RunOut---Hothead-Pa",
-          "source": {
-            "name": "Games Press"
-          },
-          "publishedAt": "2026-08-29T02:00:41Z",
-          "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/08/281333-607e0ce8/RunOut_Grand_Opening_Banner_Eng.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=7a059323924cb1d583a783304471c19064a900095ea7beaa14eb08c952c35d01",
+          "publishedAt": "2026-08-29T06:02:24Z",
+          "image": "https://healthcare-in-europe.com/media/story/32548/rect-01-mri-coil-3dprinting.jpg",
           "language": "en"
         }
       ]
