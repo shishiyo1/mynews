@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-29T23:00:52.955Z",
+  "updatedAt": "2026-08-30T04:08:50.831Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "守田英正と坂元達裕がプレミアリーグデビュー!! ハルはコベントリーとの昇格組対決を制して開幕2連勝",
+          "description": "[8.29 プレミアリーグ第2節 コベントリー 0-1 ハル]\n　プレミアリーグは29日に第2節を開催した。コベントリー対ハル・シティはハルが1-0で勝利し、開幕2連勝を達成。ハルのMF守田英正は",
+          "url": "https://news.yahoo.co.jp/articles/671587025b2b5e75a50a52c21abf3cae693f470b",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-29T15:59:56Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260830-45975131-gekisaka-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "守田英正と坂元達裕がプレミアリーグデビュー!! ハルはコベントリーとの昇格組対決を制して開幕2連勝",
+          "description": "[8.29 プレミアリーグ第2節 コベントリー 0-1 ハル]　プレミアリーグは29日に第2節を開催した。コベントリー対ハル・シティはハルが1-0で勝利し、開幕2連勝を達成。ハルのMF守田英正は先発出場し、コベントリーの...",
+          "url": "https://web.gekisaka.jp/news/world/detail/?457808-457808-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-08-29T15:55:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/458000/457808/news_457808_1.jpg?time=20260830005921",
+          "language": "ja"
+        },
+        {
+          "title": "【速報】関東・東北で地震 Ｍ４．８ 東京、神奈川、埼玉、千葉、茨城などで揺れ 最大震度４ 震源は千葉県東方沖 地震が及んだ地域人口１６１１万人",
+          "description": "３０日午前０時１７分ごろ、千葉県東方沖を震源とする地震があった。最大震度４、地震の規模を示すマグニチュード（Ｍ）は４．８と推定される。震源の深さは約３０キロ。銚子市、旭市、香取市で震度３を観測した。",
+          "url": "https://www.chibanippo.co.jp/articles/1659920",
+          "source": {
+            "name": "千葉日報オンライン"
+          },
+          "publishedAt": "2026-08-29T15:24:01Z",
+          "image": "https://www.chibanippo.co.jp/sites/default/files/image/202608/zisin_map20260830002055.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "リヴァプールが2試合連続引き分けスタート…イサク＆ムニョス弾もドロー決着、N・フォレストと勝ち点分け合う（サッカーキング）",
+          "description": "プレミアリーグ第2節が29日に行われ、リヴァプールとノッティンガム・フォレストが対戦した。\n　ともに新監督を迎えた両チーム。開幕節のリヴァプールは敵地でニューカッスルと対戦すると、試合終了間際の",
+          "url": "https://news.yahoo.co.jp/articles/b074b02adf897f95d5f6c5c046faedbf52d071a4",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-08-29T13:29:53Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260829-02198256-soccerk-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "鹿島が開幕全勝キープ! 2発のレオ・セアラは4試合連続弾で今季6点目、東京Vは待望復帰の森田が負傷交代",
+          "description": "[8.29 J1第4節 東京V 0-2 鹿島 味スタ]　J1リーグは29日に第4節を行った。東京ヴェルディと鹿島アントラーズの対戦は、鹿島が2-0で開幕4連勝をキープ。FWレオ・セアラが2ゴールを決め、開幕4試合連続得点で今季6点目ま...",
+          "url": "https://web.gekisaka.jp/news/jleague/detail/?457788-457788-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-08-29T11:59:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/458000/457788/news_457788_1.jpg?time=20260829211330",
+          "language": "ja"
+        },
+        {
+          "title": "iPhone 18 Pro、容量据え置きでも、価格はきっと上がります",
+          "description": "iPhone18Proの値段について。価格の高騰に備えよ！",
+          "url": "https://www.lifehacker.jp/article/2608-the-iphone-18-pro-may-see-a-price-increase-while-storage-capacity-remains-the-same/",
+          "source": {
+            "name": "ライフハッカー"
+          },
+          "publishedAt": "2026-08-29T11:30:00Z",
+          "image": "https://media.loom-app.com/loom/2026/08/12/e2fbb1cd-fc69-4324-80f6-e87b504c59fe/original.jpg?w=1200&h=630&f=jpg",
+          "language": "ja"
+        },
+        {
+          "title": "坂井市春江で12時間降水量が122.5ミリ、8月の観測史上最大 福井市は46ミリ 福井県内各地の雨量一覧、8月29日午後10時半現在",
+          "description": "福井県の嶺北地方では8月29日午後8時20分現在、レベル4土砂災害警報やレベル3大雨警報が発表されている市町がある。気象庁によると坂井市春江では午後10時10分までの12時間降水量が122ミリとなり、8月の観測史上最大を更新した。福井市では46ミリを観測している。県内各地の12時間降水量をまとめた。",
+          "url": "https://www.fukuishimbun.co.jp/articles/-/2686175",
+          "source": {
+            "name": "福井新聞社"
+          },
+          "publishedAt": "2026-08-29T11:25:00Z",
+          "image": "https://fki.ismcdn.jp/mwimgs/e/8/-/img_e805c2c353705d2760baf1fc0799d4bb999456.jpg",
+          "language": "ja"
+        },
         {
           "title": "【U18】高校日本代表が大学日本代表に完敗 横浜・織田翔希、156キロも２回６失点／詳細",
           "description": "第14回BFAU18アジア野球選手権（9月7日開幕、台湾）に出場する高校日本代表が大学日本代表と壮行試合。1－7で敗れた。先発の最速157キロ右腕・横浜（神奈… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-08-29T09:15:03Z",
           "image": "https://www.gamespark.jp/imgs/ogp_f/1183028.png",
           "language": "ja"
-        },
-        {
-          "title": "新曲「Lovey-Dovey」リリース記念！OWVがリアルタイムで登場するリスニングパーティーをAWAラウンジで開催",
-          "description": "AWA株式会社のプレスリリース（2026年8月29日 18時00分）新曲「Lovey-Dovey」リリース記念！OWVがリアルタイムで登場するリスニングパーティーをAWAラウンジで開催",
-          "url": "https://prtimes.jp/main/html/rd/p/000003641.000022425.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-08-29T09:00:02Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/22425/3641/22425-3641-7eaaaf956aaa9f3b4cb986d4d52056df-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "18代表vs大学日本代表のスタメン！横浜の157キロ右腕はどんな投球を見せるのか？【侍ジャパン】｜記事一覧｜高校野球ドットコム",
-          "description": "頑張っている球児を応援する高校野球報道サイト。コラムや試合記事など高校野球情報を公開中。",
-          "url": "https://www.hb-nippon.com/articles/16746",
-          "source": {
-            "name": "高校野球ドットコム"
-          },
-          "publishedAt": "2026-08-29T08:52:32Z",
-          "image": "https://cdn.hb-nippon.com/article-img/01M16TWR63WG56D095Y3X1J0ED.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【バレー】日本女子、今大会初セット先取される タイと対戦 アジア選手権準決勝／ライブ速報中",
-          "description": "世界ランキング6位の日本が、同17位で前回王者のタイと決勝進出を懸けて対戦する。日本は1次リーグの香港、韓国、ベトナム戦に続き、準々決勝でも台湾に3－0で勝利… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/sports/news/202608270001872.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-08-29T08:45:00Z",
-          "image": "https://www.nikkansports.com/sports/news/img/202608270001872-w500_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「24時間テレビ」見どころ・注目企画まとめ SixTONES6人の企画、星野真里マラソン、北川景子ドラマも",
-          "description": "日本テレビ系「24時間テレビ49」が8月29日午後6時30分から30日にかけて放送される。今年はSixTONESがチャリティーパートナーを務め、メンバー6人がそれぞれ企画に登場するほか、星野真里のチャリティーマラソンや北川景子主演のスペシャルドラマなどが予定されている。どんな企画が放送されるのか。2日間のタイムテーブルから、SixTONESの出演企画を中心に注目の内容をまとめた。",
-          "url": "https://www.fukuishimbun.co.jp/articles/-/2685598",
-          "source": {
-            "name": "福井新聞社"
-          },
-          "publishedAt": "2026-08-29T08:00:00Z",
-          "image": "https://fki.ismcdn.jp/mwimgs/2/a/-/img_2a4d63332d21c597cb0e242bcd47bc1c210086.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "首相、物価高対策前のめり ガソリン補助を突如発表・Xで長文投稿",
-          "description": "高市早苗首相が物価高対策への前のめり姿勢を強めている。X（旧ツイッター）で政策効果を繰り返し長文で訴え、ガソリン価格を抑える補助の延長も打ち出した。与党内に慎重論が根強いなか、首相判断による政策遂行はリスクもつきまとう。「物価高対策をないがしろにして自らの政治的信念の実現を優先しているように見えるとのご意見があるようですが、それは私の認識とは異なる」――。首相は14日、Xで5回にわたり、ガソリ",
-          "url": "https://www.nikkei.com/article/DGXZQOUA2711M0X20C26A8000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-08-29T07:58:58Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3514723027082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.45&fp-y=0.39&h=630&w=1200&s=41fbac3fc62040e5263de4523cb6e25a",
-          "language": "ja"
-        },
-        {
-          "title": "明日30日(日) 東日本中心にすっきりしない天気 北陸は引き続き大雨に注意や警戒",
-          "description": "明日30日(日)にかけて、大気の状態が非常に不安定になるでしょう。東北日本海側や北陸、近畿や山陰などで、局地的に激しい雨が降るおそれがあります。記録的な大雨となった石川県や富山県では、引き続き、土砂災害、低い土地の浸水や河川の増水に注意・警戒してください。晴れる地域も、午後は急な強い雨や落雷、突風に注意が必要です。",
-          "url": "https://tenki.jp/forecaster/y_tabata/2026/08/29/40362.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-08-29T07:47:27Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/403/40362/main/20260829161910/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『GTA6』長編映像は「既にこの世代で唯一無二の技術的偉業」―海外技術系メディアは「60fpsを目標にしていたら実現できたか分からない」と分析",
-          "description": "30fps動作であるとRockstar GamesのRob Nelson氏が認めたとの報道もされていました。",
-          "url": "https://www.gamespark.jp/article/2026/08/29/171480.html",
-          "source": {
-            "name": "Game*Spark"
-          },
-          "publishedAt": "2026-08-29T07:45:03Z",
-          "image": "https://www.gamespark.jp/imgs/ogp_f/1182956.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Man Utd's Ian Maatsen Stance Revealed As Left-Back Search Continues",
-          "description": "Manchester United have enquired about Aston Villa left-back Ian Maatsen, as they continue to search for a new left-back before the end of the summer transfer window.",
-          "url": "https://sports.yahoo.com/articles/man-utds-ian-maatsen-stance-110039804.html",
+          "title": "LIVE UPDATES: Habagat rains affect parts of PH on Sunday, Aug. 30, 2026",
+          "description": "Parts of Luzon are expected to continue experiencing heavy rains due to the Southwest Monsoon (Habagat) on Sunday August 30, 2026. Here are the latest news and updates.",
+          "url": "https://www.gmanetwork.com/news/weather/content/1000377/live-updates-habagat-rains-affect-parts-of-ph-on-sunday-aug-30-2026/story/",
+          "source": {
+            "name": "GMA Network"
+          },
+          "publishedAt": "2026-08-29T16:07:50Z",
+          "image": "https://images.gmanews.tv/webpics/2026/08/stodomingoflood_2026_08_29_14_40_16_2026_08_30_00_06_27.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Identifying High-Risk Silent Atherosclerosis: ESC 2026",
+          "description": "Silent atherosclerosis was common across adulthood, according to findings presented at ESC Congress 2026. Read more.",
+          "url": "https://www.emjreviews.com/cardiology/news/imaging-reveals-widespread-silent-atherosclerosis-burden-esc-2026/",
+          "source": {
+            "name": "EMJ"
+          },
+          "publishedAt": "2026-08-29T16:07:48Z",
+          "image": "https://www.emjreviews.com/wp-content/uploads/2026/08/ESC-Cardio-5pm.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Russian-American heads Trump's planned Caucasus trade route",
+          "description": "A Russian-born businessman heads the investment fund financing the so-called \"Trump Route,\" a planned corridor through Armenia linking Azerbaijan with Nakhchivan. Who is Konstantin Sokolov, and what role does he play?",
+          "url": "https://www.dw.com/en/russian-american-heads-trumps-planned-caucasus-trade-route/a-78547064",
+          "source": {
+            "name": "DW.com"
+          },
+          "publishedAt": "2026-08-29T16:07:07Z",
+          "image": "https://static.dw.com/image/78550729_6.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Lubao flooding exposes urgent need for better flood control",
+          "description": "A two-storey house being swallowed by a raging river should never be dismissed as just another dramatic video content.But that was precisely what happened in...",
+          "url": "https://mb.com.ph/2026/08/30/lubao-flooding-exposes-urgent-need-for-better-flood-control",
+          "source": {
+            "name": "Manila Bulletin"
+          },
+          "publishedAt": "2026-08-29T16:06:15Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/29/127544.webp",
+          "language": "en"
+        },
+        {
+          "title": "Hull continue dream Premier League return with Coventry win",
+          "description": "Hull City continued their remarkable start to life in the Premier League with a dramatic 1-0 victory over newly promoted Coventry City.The Tigers arrived in the West Midlands having already stunned M...",
+          "url": "https://sports.yahoo.com/articles/coventry-city-x-hull-city-160500121.html",
           "source": {
             "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-08-29T11:00:39Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/d71f891c537ef36adcf3d825315a28426f3a269d272dea25ede28d7f39864e73/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Froundtable_sports_manchester_united_928%2F80aa9fcfed46a2fca91200901238f987.jpg",
+          "publishedAt": "2026-08-29T16:05:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/7dc9ae57da3d39b18cf347828643f17bad7ae766b7b4e9b8dc123494707d2382/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fplaymakerstats_articles_264%2Fb64601a04f6adc9f28b9821a969e4a1c.jpg",
           "language": "en"
         },
         {
-          "title": "Replace Static Charts With Data-Linked Diagrams In Visio 2024 for Just $40",
-          "description": "Microsoft Visio turns business processes, IT networks, organizational structures, and floor plans into professional diagrams. And right now, a lifetime license is a massive 92% off!",
-          "url": "https://www.pcmag.com/deals/replace-static-charts-with-data-linked-diagrams-in-visio-2024-for-just",
+          "title": "Sarah Ferguson expected back in the UK shortly, source tells BBC",
+          "description": "The former Duchess of York is renting a six-bed house in the Home Counties, reports say.",
+          "url": "https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo",
           "source": {
-            "name": "PCMag"
+            "name": "BBC"
           },
-          "publishedAt": "2026-08-29T11:00:18Z",
-          "image": "https://i.pcmag.com/imagery/articles/030du07ChRlzrwalHqGM2hb-1.fit_lim.size_1200x630.v1787770062.png",
+          "publishedAt": "2026-08-29T16:04:46Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8f3/live/83ec8940-a389-11f1-9e7c-cb942f2e97d9.jpg",
           "language": "en"
         },
         {
-          "title": "EAC countries recorded higher inflation rates in J",
-          "description": "Uganda, Kenya, Tanzania and Rwanda recorded higher inflation rates of 4.0%, 6.5%, 4.2% and 13.8% from 3.7%, 6.4%, 4% and 12.7% respectively in the previous month",
-          "url": "https://www.newvision.co.ug/category/business/eac-countries-recorded-higher-inflation-rates-NV_239710_082026",
+          "title": "Sooke man reaches 100 Mt. Quimper summits by 65",
+          "description": "Jon Erzinger celebrated his 65th birthday with his 100th climb up Mt. Quimper",
+          "url": "https://comoxvalleyrecord.com/2026/08/29/sooke-man-reaches-100-mt-quimper-summits-by-65/",
           "source": {
-            "name": "NewVision.co.ug"
+            "name": "Comox Valley Record"
           },
-          "publishedAt": "2026-08-29T11:00:05Z",
-          "image": "https://newvision-media.s3.amazonaws.com/cms/2fe22f0d-5100-4e61-a0e4-17f489277f4f.jpg",
+          "publishedAt": "2026-08-29T16:04:04Z",
+          "image": "https://comoxvalleyrecord.com/wp-content/uploads/sites/13/2026/08/260825-SNM-HundredHike-2.jpg?w=1024",
           "language": "en"
         },
         {
-          "title": "Could Meta’s settlement change how teens use Instagram? : NPR",
-          "description": "Researchers and advocates are applauding the changes that Meta agreed to make for minors on Instagram and Facebook. Cutting kids off at night and during the school day are two big changes.",
-          "url": "https://www.npr.org/2026/08/29/nx-s1-5947960/instagram-meta-social-media-teens",
+          "title": "Gordon Brown says a united Ireland is ‘inevitable’ in the future",
+          "description": "The former UK prime minister said it would be a ‘long process’ and have to be based on mutual agreement.",
+          "url": "https://www.breakingnews.ie/ireland/gordon-brown-says-a-united-ireland-is-inevitable-in-the-future-1945874.html",
           "source": {
-            "name": "NPR"
+            "name": "BreakingNews.ie"
           },
-          "publishedAt": "2026-08-29T11:00:00Z",
-          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6683x3759+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2F1f%2Fa0b489b9412c90609f919c7d91c2%2Fgettyimages-2168586508.jpg",
+          "publishedAt": "2026-08-29T16:03:09Z",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDhcXFwvMjkxNzAxNTlcXFwvMi44MjMwNzYzNS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImEyMzYxM2VhN2ZmMzk4YThkNTk5NmE2ZjA0ZmViZjA5NjgyZGVlZDMifQ==/gordon-brown-says-a-united-ireland-is-inevitable-in-the-future.jpg",
           "language": "en"
         },
         {
-          "title": "'Complete!' - Enzo Maresca hails Rayan Cherki masterclass as Man City crush Crystal Palace at Selhurst Park",
-          "description": "Rayan Cherki scored twice and Erling Haaland grabbed a brace as Enzo Maresca's Manchester City secured a dominant 4-1 Premier League win over Crystal Palace.",
-          "url": "https://www.goal.com/en-ug/lists/man-city-rayan-cherki-enzo-maresca-crystal-palace/blt2d09f7a4cf477d99",
+          "title": "Zamboanga City intensifies campaign against dengue",
+          "description": "ZAMBOANGA CITY — The city government intensifies its war against dengue, more than three weeks after a dengue outbreak was declared in the city on Aug. 4.",
+          "url": "https://www.manilatimes.net/2026/08/30/regions/zamboanga-city-intensifies-campaign-against-dengue/2414520",
           "source": {
-            "name": "Goal.com"
+            "name": "The Manila Times"
           },
-          "publishedAt": "2026-08-29T10:59:10Z",
-          "image": "https://assets.goal.com/images/v3/getty-2292489742/crop/MM5DGOJUHA5DEMRSGE5G433XMU5DAORSGA3A====/GettyImages-2292489742.jpg",
+          "publishedAt": "2026-08-29T16:02:58Z",
+          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/29/1194984.jpg",
           "language": "en"
         },
         {
-          "title": "'Complete!' - Enzo Maresca hails Rayan Cherki masterclass as Man City crush Crystal Palace at Selhurst Park",
-          "description": "Rayan Cherki scored twice and Erling Haaland grabbed a brace as Enzo Maresca's Manchester City secured a dominant 4-1 Premier League win over Crystal Palace.",
-          "url": "https://www.goal.com/en-ke/lists/man-city-rayan-cherki-enzo-maresca-crystal-palace/blt2d09f7a4cf477d99",
+          "title": "Telangana SIR: Voters must be informed hearing date 2 days ahead",
+          "description": "Telangana CEO on, August 29 said that BLOs must remind the electors about the hearing date, time and place at least two days in advance.",
+          "url": "https://www.siasat.com/telangana-sir-voters-must-be-informed-hearing-date-2-days-ahead-3532978/",
           "source": {
-            "name": "Goal.com"
+            "name": "The Siasat Daily"
           },
-          "publishedAt": "2026-08-29T10:58:54Z",
-          "image": "https://assets.goal.com/images/v3/getty-2292489742/crop/MM5DGOJUHA5DEMRSGE5G433XMU5DAORSGA3A====/GettyImages-2292489742.jpg",
-          "language": "en"
-        },
-        {
-          "title": "'Complete!' - Enzo Maresca hails Rayan Cherki masterclass as Man City crush Crystal Palace at Selhurst Park",
-          "description": "Rayan Cherki scored twice and Erling Haaland grabbed a brace as Enzo Maresca's Manchester City secured a dominant 4-1 Premier League win over Crystal Palace.",
-          "url": "https://www.goal.com/en-gh/lists/man-city-rayan-cherki-enzo-maresca-crystal-palace/blt2d09f7a4cf477d99",
-          "source": {
-            "name": "Goal.com"
-          },
-          "publishedAt": "2026-08-29T10:56:52Z",
-          "image": "https://assets.goal.com/images/v3/getty-2292489742/crop/MM5DGOJUHA5DEMRSGE5G433XMU5DAORSGA3A====/GettyImages-2292489742.jpg",
-          "language": "en"
-        },
-        {
-          "title": "'Complete!' - Enzo Maresca hails Rayan Cherki masterclass as Man City crush Crystal Palace at Selhurst Park",
-          "description": "Rayan Cherki scored twice and Erling Haaland grabbed a brace as Enzo Maresca's Manchester City secured a dominant 4-1 Premier League win over Crystal Palace.",
-          "url": "https://www.goal.com/en/lists/man-city-rayan-cherki-enzo-maresca-crystal-palace/blt2d09f7a4cf477d99",
-          "source": {
-            "name": "Goal.com"
-          },
-          "publishedAt": "2026-08-29T10:56:52Z",
-          "image": "https://assets.goal.com/images/v3/getty-2292489742/crop/MM5DGOJUHA5DEMRSGE5G433XMU5DAORSGA3A====/GettyImages-2292489742.jpg",
-          "language": "en"
-        },
-        {
-          "title": "New research could improve how brain cancer and tumours are treated",
-          "description": "Australian researchers are challenging decades-old assumptions about brain cancer treatment in a bid to make radiation therapy more effective against tumors, while reducing damage to healthy tissue.",
-          "url": "https://www.news-medical.net/news/20260829/New-research-could-improve-how-brain-cancer-and-tumours-are-treated.aspx",
-          "source": {
-            "name": "News-Medical"
-          },
-          "publishedAt": "2026-08-29T10:56:00Z",
-          "image": "https://www.news-medical.net/images/news/ImageForNews_845835_17880008255738542.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Keychron G3, G4, G5 review: clean and consistent performance from lightweight gaming mice",
-          "description": "Three new lightweight mice aimed at gamers but also offering plenty in day-to-day owrk environment",
-          "url": "https://www.irishmirror.ie/lifestyle/technology/keychron-g3-g4-g5-review-37606368",
-          "source": {
-            "name": "Irish Mirror"
-          },
-          "publishedAt": "2026-08-29T10:55:39Z",
-          "image": "https://i2-prod.irishmirror.ie/article37606411.ece/ALTERNATES/s1200d/0_G5Main-Product-Image-1.jpg",
+          "publishedAt": "2026-08-29T16:02:11Z",
+          "image": "https://cdn.siasat.com/wp-content/uploads/2026/08/CEO-1.jpg",
           "language": "en"
         }
       ]
