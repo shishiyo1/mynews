@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-08-30T11:26:12.506Z",
+  "updatedAt": "2026-08-30T16:12:52.509Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【大雨】福井県内で通行止めの高速道路や国道一覧 北陸道や中部縦貫道、国道8号も 8月30日午前11時現在",
+          "description": "大雨の影響で、福井県内では8月30日午前11時現在、北陸自動車道や中部縦貫自動車道、国道8号など高速道路・国道の一部区間で通行止めが発生している。【最終更新】8月30日 午後0時6分北陸道は金津IC―福井IC間、中部縦貫道は福井北IC―九頭竜IC間の上下線が通行止め。一般国道でも道路冠水などにより、国道8号、157号、158号、364号、416号、417号、476号の一部区間で通行できない状態となっている。坂井市の空港通りも一部区間で通行止めになっている。",
+          "url": "https://www.fukuishimbun.co.jp/articles/-/2686429",
+          "source": {
+            "name": "福井新聞社"
+          },
+          "publishedAt": "2026-08-30T02:13:00Z",
+          "image": "https://fki.ismcdn.jp/mwimgs/d/8/-/img_d8a59b6740da603aaac7f8c724488b57282878.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【全文】西武一筋25年・栗山巧「安打数のカウントは絶対進める」引退試合前にファン630人同席で会見",
+          "description": "西武ライオンズ一筋25年、今季限りで現役引退を昨年末に表明し、30日の引退試合に臨む栗山巧が都内で引退記者会見を行った…",
+          "url": "https://sports.yahoo.co.jp/column/detail/2026083000001-spnavi",
+          "source": {
+            "name": "スポーツナビ"
+          },
+          "publishedAt": "2026-08-30T02:10:00Z",
+          "image": "https://sports-pctr.c.yimg.jp/dk/iwiz-sports/text/images/2026/0830/2026083000001-spnavi_1788056056_view.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "Noctuaファン山盛りの9800X3D＆RTX 5070 Ti搭載静音ゲーミングPCを検証、Forza Horizon 6の最高画質でも30dB台で快適プレイ",
+          "description": "パソコンショップSEVENの静音ゲーミングPC「ZEFT R65YC」をベンチマーク！",
+          "url": "https://ascii.jp/elem/000/004/426/4426692/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-08-30T02:00:00Z",
+          "image": "https://ascii.jp/img/2026/08/28/4519060/xl/8bc13bc02ecd8f4b.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "Noctuaファン山盛りの9800X3D＆RTX 5070 Ti搭載静音ゲーミングPCを検証、Forza Horizon 6の最高画質でも30dB台で快適プレイ",
+          "description": "パソコンショップSEVENの静音ゲーミングPC「ZEFT R65YC」をベンチマーク！",
+          "url": "https://ascii.jp/elem/000/004/426/4426692/?focus=1",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-08-30T02:00:00Z",
+          "image": "https://ascii.jp/img/2026/08/28/4519060/xl/8bc13bc02ecd8f4b.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "ホームボタンは絶滅危惧種。それでもiPhone SE 2を手放せない、ガラケー世代の話",
+          "description": "さよならなんて言えないよ。そろそろ発表されると話題のiPhone 18。毎年のように新機種に乗り換える人がいる一方、同じ機種を使い続ける人もいます。そう、筆者は明らかに「機種変しない派」。愛用しているのは、2020年発売のiPhone SE",
+          "url": "https://www.gizmodo.jp/article/6years-with-iphonese2/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-08-30T02:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/08/26/08b33f3e-6519-4f69-bbf4-4878983c856a/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "折りたたみスマホ大戦、Samsung Electronicsは「完成度」で先行、Googleは「コスパ」で追撃",
+          "description": "Appleが今秋初の折りたたみiPhoneを発表するとの見通しが出る中、すでに市場を先行する韓国のSamsung…",
+          "url": "https://finance.biggo.jp/news/50c23fba-1eb1-4f5f-8ec0-af8f572d8277",
+          "source": {
+            "name": "BigGo ファイナンス"
+          },
+          "publishedAt": "2026-08-30T01:35:00Z",
+          "image": "https://img.biggo.com/kganGewn2Ezs227qOViKKK88D5JS4Rxn5H2aAts5-Ws/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzUwYzIzZmJhLTFlYjEtNGY1Zi04ZWMwLWFmOGY1NzJkODI3N18xNzg4MDU0MDUyX2RlZmF1bHQud2VicA.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "iPhone参入前夜、PixelとGalaxyから見えた「次世代フォルダブルスマホ」の条件",
+          "description": "アップルが毎年秋に開催する新製品発表会で、初めてのフォルダブルスタイルのiPhoneを発表するのではないかと、様々な予想が飛び交っている。実現すれば、これまで一部の先進的なユーザーに限られていたフォルダブルスマートフォンがより広く注目を集め...",
+          "url": "https://forbesjapan.com/articles/detail/103748",
+          "source": {
+            "name": "Forbes JAPAN"
+          },
+          "publishedAt": "2026-08-30T00:30:00Z",
+          "image": "https://images.forbesjapan.com/media/article/103748/images/main_image_f161722ef6df783ef279b79ddfc14332d1d9af43.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『24時間テレビ』つんく♂、“伝説”の祝辞に反響「号泣しながらドラマを見ました」「めちゃくちゃ衝撃だった」",
+          "description": "動画ニュース｜　日本テレビ系『24時間テレビ49』で29日夜、音楽プロデューサー・つんく♂と家族を描いたスペシャルドラマ『幸せはある』が放送された。声を失ったつんく♂（高橋光臣）を、妻・加奈子さん（北川景子）が献身的に支え、ラストには「近畿大学」入学式での“伝説”の祝辞が再現された。　ロックバンド・シャ乱Qのボーカル、モーニング娘。らのプロデューサーとして音楽の最前線を走っていたつんく♂が、喉頭がんの治療のため声帯を摘出し、声を失ったことを初めて公表したのは、2015年4月、母校・近畿大学の入学式だった。",
+          "url": "https://www.oricon.co.jp/news/2477096/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-08-30T00:02:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2478000/2477096/20260829_220343_p_o_70374861.jpg",
+          "language": "ja"
+        },
         {
           "title": "『24時間テレビ』2日目タイムテーブル SixTONES登場「ボーダーレスLIVE」は午後7時台【タイムスケジュール掲載】",
           "description": "ニュース｜　日本テレビ系『24時間テレビ49』が、29日午後6時30分から放送中。ここでは、2日目となる30日のタイムテーブルを紹介する。　1978年から続く同番組の今年のテーマは「わたしの家族の話～あなたは誰を想う？～」。総合司会は、内村光良、羽鳥慎一、水卜麻美（日本テレビアナウンサー）、チャリティーパートナーはSixTONES、山崎育三郎、芳根京子、チャリティーランナーは星野真里、スペシャルサポーターは北川景子、スペシャルサポーター（チャリTシャツ）はちゃんみなが務める。",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-08-29T22:08:35Z",
           "image": "https://www.appbank.net/wp-content/uploads/2026/08/20260828_2864290_aggelos_2_03-c962ee63db-443ac2d0298099bb.webp",
           "language": "ja"
-        },
-        {
-          "title": "ワイヤレス全盛の今あえて「有線」！ 耳を塞がないType-Cイヤホンが「LAMA Store」に登場",
-          "description": "Ｌ＆Ｌライブリーライフ株式会社は8月29日、Type-C接続に対応したオープンイヤー型の有線イヤホンを発表しました。同社が展開する「LAMA Store」で取り扱われています。 ワイヤレスイヤホンが広く普及する一方、「充電するのが面倒」「B",
-          "url": "https://www.appbank.net/2026/08/29/goods-books/3090845.php",
-          "source": {
-            "name": "AppBank"
-          },
-          "publishedAt": "2026-08-29T22:06:11Z",
-          "image": "https://www.appbank.net/wp-content/uploads/2026/08/20260829_150002_314_01.webp",
-          "language": "ja"
-        },
-        {
-          "title": "大曲の花火「近年まれにみるいいコンディション」 河川敷１０万人、一流の技を堪能",
-          "description": "２９日に大仙市で開かれた第９８回全国花火競技大会「大曲の花火」では、全国から集まった花火師たちが技術と表現を競った。今月初めの大雨被害などで会場の状態が心配されたが、当日は穏やかな天候に恵まれ良好な…",
-          "url": "https://www.sakigake.jp/news/article/20260829AK0028/",
-          "source": {
-            "name": "秋田魁新報電子版"
-          },
-          "publishedAt": "2026-08-29T21:50:00Z",
-          "image": "https://www.sakigake.jp/images/news-entry/AK20260829G00009_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "炭素シートが「魔法の角度」で性質ガラリ 注目集めるモアレの物理学",
-          "description": "液晶画面をスマートフォンで撮影したときに波のような模様が見えることがある。「モアレ（干渉じま）」という現象だ。そのミクロ版が、物理学の研究分野として注目されている。見えてきたのは、素材の性質を「角度…",
-          "url": "https://www.asahi.com/articles/ASV8P7FN1V8PUTFL016M.html",
-          "source": {
-            "name": "朝日新聞"
-          },
-          "publishedAt": "2026-08-29T21:00:00Z",
-          "image": "https://imgopt.asahi.com/ogp/AS20260822000744_comm.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【速報】福井県に「レベル5大雨特別警報」を発表 命を守る行動を",
-          "description": "30日4時30分、福井県の福井市、大野市、勝山市に「レベル5大雨特別警報」が発表されました。大雨により何らかの災害がすでに発生している可能性が高くなっています。ただちに命を守る最善の行動をとってください。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/08/30/40369.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-08-29T19:40:40Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/403/40369/main/20260830044003/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "自転車レーン足りない日本 東京はパリの1割、「青切符」で危険露呈",
-          "description": "【この記事でわかること】・自転車レーンにはどんな種類がある？・「専用帯」が道路の0.1%しかないワケ・海外が日本に比べ整備が進む理由",
-          "url": "https://www.nikkei.com/article/DGXZQOUB167AG0W6A610C2000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-08-29T17:00:00Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3522641029082026000000-1.png?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=8f40672cdcf13d9e590e063ccbc34e85",
-          "language": "ja"
-        },
-        {
-          "title": "藤川阪神マジック点灯 裏方への配慮も欠かさぬマネジメントが強さの秘密 硬軟織り交ぜた強い組織づくり",
-          "description": "◇セ・リーグ　阪神4─1巨人（2026年8月29日　甲子園）\n　球団初のセ・リーグ連覇へ、初めてマジックが点灯した。しかし、藤川監督が厳格な姿勢を崩すことはない。\n　「何もおごることなく、あご",
-          "url": "https://news.yahoo.co.jp/articles/35fa7f3e866ea88d5a7a820afd6560471f704b3b",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-29T16:15:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260830-00000039-spnannex-000-3-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "守田英正と坂元達裕がプレミアリーグデビュー!! ハルはコベントリーとの昇格組対決を制して開幕2連勝",
-          "description": "[8.29 プレミアリーグ第2節 コベントリー 0-1 ハル]\n　プレミアリーグは29日に第2節を開催した。コベントリー対ハル・シティはハルが1-0で勝利し、開幕2連勝を達成。ハルのMF守田英正は",
-          "url": "https://news.yahoo.co.jp/articles/671587025b2b5e75a50a52c21abf3cae693f470b",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-08-29T15:59:56Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260830-45975131-gekisaka-000-3-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "守田英正と坂元達裕がプレミアリーグデビュー!! ハルはコベントリーとの昇格組対決を制して開幕2連勝",
-          "description": "[8.29 プレミアリーグ第2節 コベントリー 0-1 ハル]　プレミアリーグは29日に第2節を開催した。コベントリー対ハル・シティはハルが1-0で勝利し、開幕2連勝を達成。ハルのMF守田英正は先発出場し、コベントリーの...",
-          "url": "https://web.gekisaka.jp/news/world/detail/?457808-457808-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-08-29T15:55:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/458000/457808/news_457808_1.jpg?time=20260830005921",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe?",
-          "description": "A day after announcing the case, North Carolina hasn't said where a critically ill teen may have encountered a rare amoeba. WRAL examines the unanswered questions and what can actually be done to reduce the risk.",
-          "url": "https://www.wral.com/news/local/north-carolina-teen-has-rare-brain-infection-where-did-exposure-happen-is-the-water-still-being-used-august-2026/",
+          "title": "Jets Only Just Clear Cape Town Stadium In Viral Flyover",
+          "description": "Flight tracking analysis revealed razor-thin margins between jet altitude readings and the stadium rooftop.",
+          "url": "https://simpleflying.com/airlink-e-jets-cape-town-stadium-flyover/",
           "source": {
-            "name": "WRAL"
+            "name": "Simple Flying"
           },
-          "publishedAt": "2026-08-29T23:25:54Z",
-          "image": "https://assets.wral.com/088c75c4-d2b5-41a2-885b-fe69d45a9a2a?w=1200&h=630&height=630",
+          "publishedAt": "2026-08-30T04:12:37Z",
+          "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/2-airlink-embraer-jets-flying-in-formation.jpg?w=1600&h=900&fit=crop",
           "language": "en"
         },
         {
-          "title": "Hundreds of talented teen singers join voices at The Big Sing choral festival",
-          "description": "Choirs from 24 secondary schools lifted hearts at a sold-out gala in Christchurch last night.",
-          "url": "https://www.rnz.co.nz/life/music/highlights-from-the-big-sing-choral-competition",
+          "title": "Princess Hours actor Lee Yong-joo dies aged 44",
+          "description": "Actor Lee Yong-joo has died at the age 44.South Korean media reported on Saturday (Aug 29) that his death was announced through social media by a friend.They wrote: \"Even as I write this, I still cannot believe it. Actor Lee Yong-joo, who brought laughter to many as the clumsy yet lovable new recruit Lee Yong-joo in Blue Tower (2013), passed...",
+          "url": "https://www.asiaone.com/entertainment/princess-hours-actor-lee-yong-joo-dies",
           "source": {
-            "name": "RNZ"
+            "name": "AsiaOne"
           },
-          "publishedAt": "2026-08-29T23:23:01Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--F0ghpVoi--/t_tohu-badge-facebook/f_auto/q_auto/4JJ38A7_Screenshot_2026_08_30_112424_png",
+          "publishedAt": "2026-08-30T04:12:36Z",
+          "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Aug2026/260830_Leeyongjoodies.jpg?itok=IkCmELPu",
           "language": "en"
         },
         {
-          "title": "Tom Cruise announces Days of Thunder sequel to release in 2028, co-starring Anne Hathaway",
-          "description": "The sequel to the popular NASCAR film is officially coming to theaters in June of 2028",
-          "url": "https://www.motorsport.com/nascar-cup/news/tom-cruise-announces-days-of-thunder-2-to-release-in-2028-co-starring-anne-hathaway/10850553/",
-          "source": {
-            "name": "Motorsport.com"
-          },
-          "publishedAt": "2026-08-29T23:22:31Z",
-          "image": "https://cdn-8.motorsport.com/images/amp/0Zq8qxV6/s6/tom-cruise.jpg",
-          "language": "en"
-        },
-        {
-          "title": "CMAT at Electric Picnic: Dunboyne Diana’s Dolly Parton tribute kicks off dazzling homecoming set",
-          "description": "This is the ‘most important gig I have ever played at, because it’s magical to know my home understands me the best’, the singer tells the crowd",
-          "url": "https://www.irishtimes.com/culture/music/review/2026/08/30/cmat-at-electric-picnic-dunboyne-dianas-dolly-parton-tribute-kicks-off-dazzling-homecoming-set/",
-          "source": {
-            "name": "The Irish Times"
-          },
-          "publishedAt": "2026-08-29T23:21:38Z",
-          "image": "https://www.irishtimes.com/resizer/v2/GIDCEXXUUFGTZEHUIYJHRGSPCI.JPG?smart=true&auth=a73c955616348fdd007a32fb3588d2ebeae75fbc74f3c04004eb4c526d3dc310&width=1200&height=630",
-          "language": "en"
-        },
-        {
-          "title": "Chong Wei denies claims that Wooi Yik was unfairly excluded from Asiad squad",
-          "description": "PETALING JAYA: Badminton Association of Malaysia (BAM) performance committee chairman Datuk Seri Lee Chong Wei is disappointed by accusations that he had abused his position to leave Soh Wooi Yik out of the Aichi-Nagoya Asian Games squad.",
-          "url": "https://www.thestar.com.my/sport/badminton/2026/08/30/chong-wei-denies-claims-that-wooi-yik-was-unfairly-excluded-from-asiad-squad",
-          "source": {
-            "name": "The Star"
-          },
-          "publishedAt": "2026-08-29T23:21:26Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/08/30/4084541.jpg",
-          "language": "en"
-        },
-        {
-          "title": "CBC revises 9/11 policy after backlash over avoiding 'terrorist attacks' label",
-          "description": "As previously reported by The Jerusalem Post on Thursday, the CBC circulated a memo last week to reporters and editors instructing them not to refer to the attacks as “terrorist attacks.”",
-          "url": "https://www.jpost.com/diaspora/antisemitism/article-906971",
+          "title": "One killed, six injured in pile-up car accident on Highway 2 near Atlit",
+          "description": "Among the injured are a 60-year-old man in serious condition with a head injury and 5 additional injured people in minor condition.",
+          "url": "https://www.jpost.com/israel-news/article-906979",
           "source": {
             "name": "The Jerusalem Post"
           },
-          "publishedAt": "2026-08-29T23:18:30Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/735473",
+          "publishedAt": "2026-08-30T04:11:24Z",
+          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/735703",
           "language": "en"
         },
         {
-          "title": "How Hong Kong Gen Z talent agency WPM aims to change city’s ‘stubborn’ creative mindset",
-          "description": "The founders of Wasted Potentials Management talk about growing their youth-driven talent agency and give one surprising piece of advice.",
-          "url": "https://www.scmp.com/lifestyle/article/3365333/how-hong-kong-gen-z-talent-agency-wpm-aims-change-citys-stubborn-creative-mindset",
+          "title": "Kai's knowledge, instincts 'like a point guard'",
+          "description": "Gilas Pilipinas head coach Tim Cone has nothing but praises for Kai Sotto in his first game back since fully recovering from an anterior cruciate ligament (ACL)...",
+          "url": "https://mb.com.ph/2026/08/30/kais-knowledge-instincts-like-a-point-guard",
           "source": {
-            "name": "South China Morning Post"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-08-29T23:15:06Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/26/f9e9c62d-c91e-458b-9c90-42f4ae557805_c813cd22.jpg?itok=BEQxBPxI&v=1787738706",
+          "publishedAt": "2026-08-30T04:11:07Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/30/127638.webp",
           "language": "en"
         },
         {
-          "title": "GTA 6 release date delay ruled out by Rockstar dev after polished Netflix trailer",
-          "description": "Suffering multiple disappointments, skeptical gamers still fear another GTA 6 delay. Even so, in a new interview, the Rockstar North lead developer committed to a November release date. The extended Netflix trailer erased some doubts raised by a leaked Lucia prologue.",
-          "url": "https://www.notebookcheck.net/GTA-6-release-date-delay-ruled-out-by-Rockstar-dev-after-polished-Netflix-trailer.1382741.0.html",
+          "title": "Rangers XI vs Aberdeen - Predicted lineup and team news",
+          "description": "Rangers will seek their first Scottish Premiership win of the new season when they travel to face Aberdeen on Sunday in the Matchday 3 fixture.The Ibrox club have had a rocky start under Derek McInnes...",
+          "url": "https://ca.sports.yahoo.com/news/rangers-xi-vs-aberdeen-predicted-041000850.html",
           "source": {
-            "name": "Notebookcheck"
+            "name": "Yahoo Sports Canada"
           },
-          "publishedAt": "2026-08-29T23:12:00Z",
-          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GTA6ViceCityShipping.jpg",
+          "publishedAt": "2026-08-30T04:10:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/4d14c6cb0c58972e7d33831f337e28bfd08e929db766da4856f1f1304eded492/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_football_faithful_articles_458%2F6775ac1ed90c0b043d0765ea0fc56166.jpg",
           "language": "en"
         },
         {
-          "title": "US sanctions choke Iran’s economy, but regime change remains a challenge",
-          "description": "Tel Aviv University researcher Prof. Uzi Rabi said US pressure is weakening Iran’s economy but warned that sanctions do not guarantee the regime’s downfall.",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-906970",
+          "title": "Sunderland vs Fulham - Predicted lineup and team news",
+          "description": "Sunderland host Fulham at the Stadium of Light on Sunday for their first home match of the Premier League season, a match on matchday 2.The Black Cats want to recover after a rough start to their new ...",
+          "url": "https://sports.yahoo.com/articles/sunderland-vs-fulham-predicted-lineup-041000430.html",
           "source": {
-            "name": "The Jerusalem Post"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-08-29T23:09:39Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730331",
+          "publishedAt": "2026-08-30T04:10:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/bb838fe1fdf26a9008b6f13c12dbd1258e10be123b60e7b05f45e21e90afca2d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_football_faithful_articles_458%2F4e95ee5c4b738a565da675b9ea556646.jpg",
           "language": "en"
         },
         {
-          "title": "Kelley Wolf Apologizes to Ex Scott Wolf After Experiencing ‘Drug-Induced Mania with Psychosis’: ‘I Owe You My Life’",
-          "description": "“Causing you pain and being the reason you suffered will haunt me for the rest of my life ... I am sorry,” Kelley said while addressing Scott and their three kids",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/kelley-wolf-apologizes-ex-scott-230924982.html?guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vXy9Eb3RzU3BsYXNoVWkvZGF0YS9iYXRjaGV4ZWN1dGU&guce_referrer_sig=AQAAAGWKWiEChPyZmGg_PCN8UmuBKde4B-9t4kr3FNxMTgK6w3s-shhnl2cEOpnJLye1uGfz536qnf7EOoYVR3vPBkdixsJnJWsfKbJ4HKu2SYdeeuFcRBJsXfb89jsIezS1LVivy5m_xMveAVCZfPM-MstheVfHMTcJqcH8dOX7y9f5&_guc_consent_skip=1788075429",
+          "title": "Family of Australian Cara Severino who survived Nepalese floods rejoices",
+          "description": "There are 41 Australians still missing following devastating floods along the Nepal-China border.",
+          "url": "https://www.smh.com.au/national/miraculous-gift-family-of-australian-who-survived-nepalese-floods-rejoices-20260830-p60ssa.html",
           "source": {
-            "name": "Yahoo"
+            "name": "SMH.com.au"
           },
-          "publishedAt": "2026-08-29T23:09:24Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/2abea3f5beb79d2fdec1a57fc3d42dd1b06500d5e3c5223335aed08238ca0095/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc0dd612abcd7407876a5585190bc661b.jpg",
+          "publishedAt": "2026-08-30T04:09:37Z",
+          "image": "https://static.ffx.io/images/$zoom_1.3789%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/18553f7fde96b7e318bb75f27b724dd2545ade09e814d6e2844ad4f641aa806a",
+          "language": "en"
+        },
+        {
+          "title": "What we know about US President Donald Trump's Venezuela oil deal",
+          "description": "The \"historic\" agreement is set to last for 25 years and will see Venezuela increase its output to 1.5 million barrels a day, but many important details remain unclear.",
+          "url": "https://www.abc.net.au/news/2026-08-30/us-president-donald-trump-venezuela-oil-deal-delcy-rodriguez/107094966",
+          "source": {
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+          },
+          "publishedAt": "2026-08-30T04:08:03Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/9c271e54df55c3665227bb3791536d72?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+          "language": "en"
+        },
+        {
+          "title": "Christchurch landlord ordered to pay $5700 to workmate after renting out his garage",
+          "description": "A man who admitted he knew his garage could not legally be used as a home nevertheless rented it to a workmate who was desperate for somewhere to live. Regie...",
+          "url": "https://www.nzherald.co.nz/nz/christchurch-landlord-ordered-to-pay-5700-to-workmate-after-renting-out-his-garage/M4PCU6ITCBEVNKWMIKHOFUZPDM/",
+          "source": {
+            "name": "NZ Herald"
+          },
+          "publishedAt": "2026-08-30T04:06:05Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/O4FDZMVMVVHYZMSX7APDNRCU3M.jpg?auth=a8550d8d6077658ed1fbcb51ccf416422886c7197a1d543f273b7c21c0547e9f&width=1200&height=675&quality=70&smart=true",
+          "language": "en"
+        },
+        {
+          "title": "‘Aise bhi log hote hain life mein’: Suryakumar reveals Sanju Samson’s incredible response after being dropped",
+          "description": "Cricket News: Suryakumar Yadav has opened up on one of the most difficult decisions he made during India’s title-winning 2026 T20 World Cup campaign, revealing how .",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/aise-bhi-log-hote-hain-life-mein-suryakumar-reveals-sanju-samsons-incredible-response-after-being-dropped/articleshow/133622838.cms",
+          "source": {
+            "name": "The Times of India"
+          },
+          "publishedAt": "2026-08-30T04:06:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-133622882,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         }
       ]
