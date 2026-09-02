@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-09-02T10:48:49.725Z",
+  "updatedAt": "2026-09-02T16:07:12.742Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "２日の東京株式市場見通し＝軟調な値動きが続きそう 速報",
-          "description": "予想レンジ：６万４５００円－６万５３００円（１日終値６万６２１５円３４銭）　２日の東京株式は、軟調な値動きが続きそう。地政学リスクの高まりとインフレ懸念を背景に、ＡＩ（人工知能）や半導体株を中心に売・・・",
-          "url": "https://kabushiki.jp/news/766294",
+          "title": "米アップル、地図でオンタリオ湖の表記を「アメリカ湖」に変更",
+          "description": "米アップルは1日、同社の地図サービス「アップルマップ」でカナダとアメリカの間にあるオンタリオ湖の名称を「アメリカ湖」と表示し始めた。トランプ米大統領は8月末、カナダとの間で貿易摩擦が続くなか、オンタリオ湖の名称を「アメリカ湖」に変更するよう指示する大統領令に署名している。",
+          "url": "https://www.bbc.com/japanese/articles/c3wj1x1l3eeo",
           "source": {
-            "name": "kabushiki.jp"
+            "name": "BBC"
           },
-          "publishedAt": "2026-09-01T22:47:00Z",
-          "image": "https://kabushiki.jp/ogp.png",
+          "publishedAt": "2026-09-02T03:39:18Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/0e1d/live/af1fe3d0-a660-11f1-9e66-d528091f3354.jpg",
           "language": "ja"
         },
         {
-          "title": "「日ハム」のヤフコメタイムライン",
-          "description": "Yahoo!ニュースのみんなのコメントがタイムラインで確認できます。「日ハム」のニュースに関連する多様な意見や考え、感想が集まる場所です。",
-          "url": "https://news.yahoo.co.jp/comment-timeline?p=%E6%97%A5%E3%83%8F%E3%83%A0&article_id=d32fb0126b953eff4557ba4cc5e98c2c24102715",
+          "title": "パペットスンスン初の常設店舗「PUPPET SUNSUN STORE」東京・渋谷、大阪・梅田に11月オープン！",
+          "description": "株式会社チョコレイトのプレスリリース（2026年9月2日 12時15分）パペットスンスン初の常設店舗「PUPPET SUNSUN STORE」東京・渋谷、大阪・梅田に11月オープン！",
+          "url": "https://prtimes.jp/main/html/rd/p/000000572.000024007.html",
+          "source": {
+            "name": "prtimes.jp"
+          },
+          "publishedAt": "2026-09-02T03:15:18Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/24007/572/24007-572-f48d97b8339ba60ab813974ff1f9d964-3840x2160.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "グーグル、Android最新アップデートを公開 乗り物酔い軽減など5つの新機能",
+          "description": "グーグルは「Android」向け最新アップデートの提供を開始した。AI機能を前面に押し出すのではなく、実用的な改善に重点を置いた内容だ。",
+          "url": "https://japan.cnet.com/article/35252176/",
+          "source": {
+            "name": "CNET Japan"
+          },
+          "publishedAt": "2026-09-02T03:05:00Z",
+          "image": "https://japan.cnet.com/storage/2026/09/02/6a9a7d4430d96f3f6e4be88947601fc1/Motion-Assist-promo-image_1280x960.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "アイオーデータが「TGS2026」に出展！ゲーミングモニター「GigaCrysta S」など3シリーズの最新モデルや注目商品を展示",
+          "description": "アイオーデータは、2026年9月17日(木)～21日(月・祝)に幕張メッセで開催される「東京ゲームショウ2026」に出展すると発表しました。 最新モデルのゲーミングモニターの展示やステージイベントなどが開催されます。…",
+          "url": "https://saiganak.com/ja/event/tgs2026-iodata-booth-announcement/",
+          "source": {
+            "name": "Saiga NAK"
+          },
+          "publishedAt": "2026-09-02T03:01:13Z",
+          "image": "https://i0.wp.com/uploads.saigacdn.com/2026/09/tgs2026-iodata-booth-announcement-00.jpg?resize=1200,630",
+          "language": "ja"
+        },
+        {
+          "title": "バレットグループ、「東京ゲームショウ2026」に2年連続出展―広告・人材の両面からゲーム企業の事業展開を支援―",
+          "description": "バレットグループ株式会社のプレスリリース（2026年9月2日 12時00分）バレットグループ、「東京ゲームショウ2026」に2年連続出展―広告・人材の両面からゲーム企業の事業展開を支援―",
+          "url": "https://prtimes.jp/main/html/rd/p/000000104.000051781.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-09-02T03:00:02Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/51781/104/51781-104-2458669a7df2ab38fb8237ef89d03929-3000x1688.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "【情報まとめ】青森県で線状降水帯発生…青森、秋田県内に一時レベル4の危険警報も 冠水多数…被害の様子は",
+          "description": "■弘前市　10：16に避難指示解除■つがる市　13：18に避難指示解除",
+          "url": "https://news.tv-asahi.co.jp/news_society/articles/900198597.html",
+          "source": {
+            "name": "テレ朝NEWS"
+          },
+          "publishedAt": "2026-09-02T02:44:22Z",
+          "image": "https://news.tv-asahi.co.jp/articles_img/900198597_1200.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "アニメ監督・柳瀬雄之さん死去 59歳 心筋梗塞 「北斗の拳」「聖闘士星矢」など人気作作画・演出",
+          "description": "アニメーション監督の柳瀬雄之（やなせ・ゆうじ）さんが、8月22日に死去したことがわかった。監督を務めたTVアニメ「最強出涸らし皇子の暗躍帝位争い」や「世界最強の後衛～迷宮国の新人探索者～」製作委員",
+          "url": "https://news.yahoo.co.jp/articles/7857f6b23f3df1b54341c6f9813f6b549185f778",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-09-01T22:41:50Z",
-          "image": "https://s.yimg.jp/images/news-web/versions/20260901-1e4c3a6/all/images/ogp_comment_timeline.jpg",
+          "publishedAt": "2026-09-02T02:41:21Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260902-00000136-spnannex-000-22-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "『VIVANT』登場の人気芸人（36）の役に「兄弟」がいる？ 演出担当の発言に視聴者「忘れてた」「堺雅人と同じか」「チンギス？」",
-          "description": "TBS系日曜劇場『VIVANT』第2シーズン16話では、公安の「野崎守（演：阿部寛）」の過去が描かれ、登場した傭兵のひとりを、芸人のしんやさん（36歳）が演じていることが話題になりました。また、放",
-          "url": "https://news.yahoo.co.jp/articles/d10c51e0cdc0f52ea362dfc29e493e9a3bdf8899",
+          "title": "9月前半は台風や前線で大雨の恐れ 9月中旬も蒸し暑さ続く 2週間天気予報",
+          "description": "この先9月3日(木)〜9月15日(火)は、前線や低気圧の影響で全国的に曇りや雨の日が多くなるでしょう。特に3日(木)〜9日(水)は大雨の恐れもあります。10日(木)以降も雲が広がりやすく雨の残る所が多い一方、西日本〜東日本では平年並みかやや高めの気温で蒸し暑い日が続く見込みです。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/09/02/40411.html",
           "source": {
-            "name": "Yahoo!ニュース"
+            "name": "tenki.jp"
           },
-          "publishedAt": "2026-09-01T22:25:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260902-00373582-magmix-000-6-view.jpg?exp=10800",
+          "publishedAt": "2026-09-02T02:37:04Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/404/40411/main/20260902112834/large.jpg",
           "language": "ja"
         },
         {
-          "title": "アップルケアでも救えない？ 折りたたみiPhone「18万円修理」の見通し",
-          "description": "アップルケアでも救えない？ 折りたたみiPhone「18万円修理」の見通し（GetNavi web）アップルがまもなく開催するイベント「おはよう世界。」でベールを脱ぐと期待されているのが、待望の「折りたたみiPhone」です。…",
-          "url": "https://topics.smt.docomo.ne.jp/article/getnavi/trend/getnavi-https_getnavi.jp_p_1112888?redirect=1",
+          "title": "日本の長期金利3%「米国市場に大きく影響」 米財務次官インタビュー",
+          "description": "【アッシュビル（米南部ノースカロライナ州）=河浪武史】米財務省で国際政策を担当するエリン・ブラウン財務次官は1日、日本経済新聞の単独インタビューで3%台に達した日本の長期金利について「米国市場にも大きな影響がある」と警戒感をにじませた。日米財務相会談で「財政健全化の重要性を確認した」とも明らかにした。「日米両国が財政政策を率直に議論」片山さつき財務相とベッセント米財務長官は8月31日、20カ",
+          "url": "https://www.nikkei.com/article/DGXZQOGN020DK0S6A900C2000000/",
           "source": {
-            "name": "ｄメニューニュース"
+            "name": "日本経済新聞"
           },
-          "publishedAt": "2026-09-01T22:00:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/getnavi/m_getnavi-https_getnavi.jp_p_1112888.jpg",
+          "publishedAt": "2026-09-02T02:30:00Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3537735002092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.52&fp-y=0.22&h=630&w=1200&s=faee0c544fce82c1121fc72f4dc2931a",
           "language": "ja"
         },
         {
-          "title": "一ノ瀬ワタル×広瀬すず、Netflixシリーズ『フジヤマBOY』出演決定 トップアイドルとひきこもりの“無謀な恋”描く【コメント全文】",
-          "description": "俳優・一ノ瀬ワタルと広瀬すずが、2027年1月より世界独占配信される日本テレビ制作のNetflixシリーズ『フジヤマBOY』に出演することが決定した。フリーター・角幡貫太（一ノ瀬）とトップアイドル",
-          "url": "https://news.yahoo.co.jp/articles/fe776da61ed94eda93a341378db85a2dc6b5a13c",
+          "title": "GIGABYTE、AORUS INFINITYと没入感あふれるゲーミング体験で、Gamescom 2026でゲーマーを魅了したポイントを特集",
+          "description": "台北、2026年9月2日 /PRNewswire/ -- 世界をリードするコンピュータブランドであるGIGABYTEは、「AORUS INFINITY」ショーケースでのゲーマーとの活発な交流をもって、Gamescom 2026を締めくくりました。同ショーケースでは、フラッグシップ級のゲーミングハードウェア、インテリジェントテクノロジー、そして独創的なPCデザインが、実機体験を通じて一体となりました。",
+          "url": "https://www.shimotsuke.co.jp/articles/-/1414355",
           "source": {
-            "name": "news.yahoo.co.jp"
+            "name": "下野新聞社"
           },
-          "publishedAt": "2026-09-01T22:00:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260902-00000337-oric-000-3-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "WEST.藤井流星&小瀧望ツートップ脱退の理由はやはり重岡大毅の結婚発表が関係か？ グループ崩壊の背景",
-          "description": "WEST.藤井流星&小瀧望ツートップ脱退の理由はやはり重岡大毅の結婚発表が関係か？ グループ崩壊の背景（日刊ゲンダイDIGITAL）　WEST.の藤井流星（33）と小瀧望（30）がグループを脱退することを発表したのは先月（8月）30日のこと。あまりに急な発表で、脱…",
-          "url": "https://topics.smt.docomo.ne.jp/article/nikkangendai/entertainment/nikkangendai-1244435?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-09-01T21:55:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/nikkangendai/m_nikkangendai-1244435.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ヤクルト石川雅規投手、引退へ 現役最年長、１８８勝",
-          "description": "プロ野球ヤクルトに２５年間在籍し、通算１８８勝を挙げた石川雅規投手（４６）＝秋田市出身＝が、現役引退の意向を固めたことが２日、関係者への取材で分かった。球界最年長で通算５５１試合に登板。昨年はプロ野…",
-          "url": "https://www.sakigake.jp/news/article/20260902AK0001/",
-          "source": {
-            "name": "sakigake.jp"
-          },
-          "publishedAt": "2026-09-01T21:29:00Z",
-          "image": "https://www.sakigake.jp/images/news-entry/20260902ak0001_01_l.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "中国メディアが報じないネパール土石流の衝撃映像 死者・不明者5000人も当局が情報統制か 発生から1週間",
-          "description": "8月26日にネパールで発生した土石流が中国の国境検問所の建物に押し寄せ、駐車場のバスやトラックが濁流にのみ込まれる映像は、ネットなどを通じてまたたく間に世界に拡散された。\n◆情報統制で消される動画",
-          "url": "https://news.yahoo.co.jp/articles/cd149be45f21cb874d3ae9644a581053d598f0d8",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-09-01T21:02:55Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260902-01205623-fnn-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "中国メディアが報じないネパール土石流の衝撃映像 死者・不明者5000人も当局が情報統制か 発生から1週間",
-          "description": "8月26日にネパールで発生した土石流が中国の国境検問所の建物に押し寄せ、駐車場のバスやトラックが濁流にのみ込まれる映像は、ネットなどを通じてまたたく間に世界に拡散された。その衝撃的な映像は、中国のネットにもアップされた。しかし、中国国内に住む私たちは、数分後にはその映像を見ることができなくなっていた。中国では発生から1週間たった今も、SNS上では建物や橋を破壊する土石流発生当時の中国側、そしてネパール側の映像は原則見ることができない。当局が情報統制を行っているとみられる。検閲や情報統制を行うの…",
-          "url": "https://www.fnn.jp/articles/-/1105623",
-          "source": {
-            "name": "FNNプライムオンライン"
-          },
-          "publishedAt": "2026-09-01T21:00:00Z",
-          "image": "https://fnn.ismcdn.jp/mwimgs/c/5/600/img_c54be3eefcc43763dbb86939ae98b223448996.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Ｓｎｏｗ Ｍａｎ・阿部亮平「飛行機の数だけ青春がある」３年連続３度目の「鳥人間コンテスト」ゲスト出演「夢に魅せられたら人は真っすぐになる」Ｚ世代の１０学年下・ラウールの行動力にも刺激",
-          "description": "読売テレビ制作・日本テレビ系の夏の名物特番「鳥人間コンテスト２０２６」が２日午後７時から３時間ＳＰで放送される。「Ｓｎｏｗ　Ｍａｎ」の阿部亮平（３２）は、３年連続３度目のハーバースタジオゲスト。滋賀",
-          "url": "https://hochi.news/articles/20260901-OHT1T51135.html",
-          "source": {
-            "name": "スポーツ報知"
-          },
-          "publishedAt": "2026-09-01T21:00:00Z",
-          "image": "https://hochi.news/images/2026/09/01/20260901-OHT1I51482-C.jpg",
+          "publishedAt": "2026-09-02T02:29:00Z",
+          "image": "https://soon.ismcdn.jp/mwimgs/5/c/1200wm/img_5c5753081155f03716cf9c8c0b384dc6204230.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Refineries to ink plant upgrade deals in 45 days",
-          "description": "Refineries to ink plant upgrade deals in 45 days",
-          "url": "https://tribune.com.pk/story/2626982/refineries-to-ink-plant-upgrade-deals-in-45-days",
+          "title": "Danny Buckley: ‘Her last words to me were a plea to please get help for my ADHD’",
+          "description": "ADHD Now is Ireland’s largest private ADHD assessment and treatment provider",
+          "url": "https://www.irishtimes.com/business/2026/09/02/danny-buckley-her-last-words-to-me-were-a-plea-to-please-get-help-for-my-adhd/",
           "source": {
-            "name": "The Express Tribune"
+            "name": "irishtimes.com"
           },
-          "publishedAt": "2026-09-01T22:48:07Z",
-          "image": "https://i.tribune.com.pk/media/images/481797-refineryPHOTO_1735799875/481797-refineryPHOTO_1735799875-640x480.webp",
+          "publishedAt": "2026-09-02T04:07:03Z",
+          "image": "https://www.irishtimes.com/resizer/v2/KCLUHQMKBRAY5A5VBTIRUTFI4U.jpg?smart=true&auth=a063e96f8d8d33ec60fc78daa657400295e8e2502476862e6a4a7147d66f595d&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Tom Cruise Backs David Ellison's 30 Films Per Year Promise",
-          "description": "Tom Cruise backs David Ellison's 30 films per year promise and talks Days of Thunder sequel in new interview.",
-          "url": "https://www.hollywoodreporter.com/business/business-news/tom-cruise-backs-paramount-30-movies-per-year-promise-1236687399/",
+          "title": "Scientists make potential breakthrough in search for dark matter",
+          "description": "Researchers in South Dakota observed hints of it during a deep-underground experiment but stopped short of saying they finally detected this elusive cosmic component.",
+          "url": "https://www.japantimes.co.jp/news/2026/09/02/world/scientists-breakthrough-search-dark-matter/",
           "source": {
-            "name": "The Hollywood Reporter"
+            "name": "The Japan Times"
           },
-          "publishedAt": "2026-09-01T22:45:56Z",
-          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/days-of-thunder.jpg?w=650&h=367&crop=1",
+          "publishedAt": "2026-09-02T04:07:00Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/02/560762.JPG?v=3.1",
           "language": "en"
         },
         {
-          "title": "Tom Cruise Blesses Paramount’s Deal to Buy Warner Bros., in the Name of Movie “Abundance”",
-          "description": "The actor was interviewed Tuesday on Pat McAfee’s show to talk about his 'Days of Thunder' sequel.",
-          "url": "https://ca.news.yahoo.com/tom-cruise-blesses-paramount-deal-224541945.html",
+          "title": "War has shifted how power works in Iran",
+          "description": "It is important to realise that Iran is making existential decisions about the survival strategy of the Islamic Republic itself",
+          "url": "https://www.juancole.com/2026/09/shifted-power-works.html",
           "source": {
-            "name": "Yahoo News Canada"
+            "name": "Informed Comment"
           },
-          "publishedAt": "2026-09-01T22:45:41Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/30340881d7b1b968363bc846ce61bfe6a8517a0fc52cf6a0d28f0afc45840570/lightyear_networkapi/resizefill_w650_h367%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2Fe3db0b6afa7397702fdbda5cae685952.jpg",
+          "publishedAt": "2026-09-02T04:06:52Z",
+          "image": "https://media.juancole.com/images/2026/09/mohsen-khorrampour-kbZ6PxpSbgE-unsplash.jpg",
           "language": "en"
         },
         {
-          "title": "KAIST Unveils Micro-LED Mask for Enhanced Skin Rejuvenation",
-          "description": "Home beauty devices that let users care for their skin conveniently at home have grown popular recently, but conventional LED masks are limited not",
-          "url": "https://www.miragenews.com/kaist-unveils-micro-led-mask-for-enhanced-skin-1736967/",
+          "title": "Jensen Alfaro Gochingco and Nikki Marie Bugarin Sagmit fulfill their dream wedding in Taal",
+          "description": "On Aug. 8, 2026, eight years after their civil wedding in Australia, Jensen Alfaro Gochingco and Nikki Marie Bugarin Sagmit returned to the altar in the...",
+          "url": "https://mb.com.ph/2026/09/02/jensen-alfaro-gochingco-and-nikki-marie-bugarin-sagmit-fulfill-their-dream-wedding-in-taal",
           "source": {
-            "name": "Mirage News"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-09-01T22:44:00Z",
-          "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1484069560501-87d72b0c3669%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
+          "publishedAt": "2026-09-02T04:06:45Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/09/02/128249.webp",
           "language": "en"
         },
         {
-          "title": "Move for Lamine Camara COLLAPSES as Monaco branded 'unprofessional' after late twist",
-          "description": "Chelsea's deadline day move to sign Monaco midfielder Lamine Camara has dramatically collapsed, leaving Xabi Alonso without a direct replacement for Enzo Fernandez.",
-          "url": "https://www.teamtalk.com/chelsea/chelsea-move-for-lamine-camara-collapses-as-monaco-branded-unprofessional-after-late-twist",
+          "title": "Accountant claims trial to helping firm underpay RM2.5mil in taxes",
+          "description": "Chew Ai Keow is accused of assisting Penshrimp Fishery Sdn Bhd in checking and approving sales ledgers that did not include a RM10.67 million transaction.",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/09/02/accountant-claims-trial-to-helping-firm-underpay-rm2-5mil-in-taxes",
           "source": {
-            "name": "TEAMtalk"
+            "name": "Free Malaysia Today"
           },
-          "publishedAt": "2026-09-01T22:43:49Z",
-          "image": "https://images.teamtalk.com/content/uploads/2026/09/01180604/Chelsea-boss-Xabi-Alonso-and-Lamine-Camara-1.jpg",
+          "publishedAt": "2026-09-02T04:04:00Z",
+          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/12/d8af0563-lhdn-bernama-resize-151225-1.webp",
           "language": "en"
         },
         {
-          "title": "2 rap murders were long unsolved. Tupac case closed but not Biggie Smalls'",
-          "description": "A jury found a onetime Compton gang leader guilty in the slaying of Tupac Shakur. The killing of Biggie Smalls, a.k.a. the Notorious B.I.G., remains unsolved.",
-          "url": "https://www.latimes.com/california/story/2026-09-01/two-unsolved-rap-murders-haunted-police-for-decades-why-shakur-case-closed-but-not-biggie-smalls",
+          "title": "The Venice Film Festival opens with a Rupert Murdoch film, George Clooney and plenty of geopolitics",
+          "description": "George Clooney and Danny Boyle are helping kick off the Venice Film Festival in style Wednesday on the Lido. Clooney, a festival mainstay, is receiving a lifetime achievement award, while Boyle is pr...",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/venice-film-festival-opens-rupert-040452420.html",
           "source": {
-            "name": "Los Angeles Times"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-09-01T22:43:28Z",
-          "image": "https://ca-times.brightspotcdn.com/dims4/default/ef1e5d4/2147483647/strip/true/crop/2000x1050+0+75/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F08%2F73%2Fef0a76844190853edb2cc5fd66c0%2Ftupac-shakur-christioper-wallace-diptych.jpg",
+          "publishedAt": "2026-09-02T04:04:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/2da0d88f8c6552e7c79dc5fd388a136b88295251093ced2c5403c1022072c6eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb14a451ee3bfd2ea974bf0fe08b7adb2.jpg",
           "language": "en"
         },
         {
-          "title": "Canada, U.S. remain close on military front despite rising political tensions, top soldier says",
-          "description": "Military leadership was friendly at Indo-Pacific conference in Victoria, B.C., this week co-hosted by U.S. and Canada",
-          "url": "https://www.theglobeandmail.com/business/economy/article-canada-us-remain-close-military-rising-political-tensions-top-soldier/",
+          "title": "Amid 'very long meetings' and running chess world, has Viswanathan Anand lost 'hunger' to win? | Exclusive",
+          "description": "Chess News: NEW DELHI: The English vocabulary sometimes feels the loss for words while describing what Viswanathan Anand is to India and its chess legacy. There i.",
+          "url": "https://timesofindia.indiatimes.com/sports/chess/amid-very-long-meetings-and-running-chess-world-has-viswanathan-anand-lost-hunger-to-win-exclusive/articleshow/133696926.cms",
           "source": {
-            "name": "The Globe and Mail"
+            "name": "timesofindia.indiatimes.com"
           },
-          "publishedAt": "2026-09-01T22:42:57Z",
-          "image": "https://www.theglobeandmail.com/resizer/v2/YQMXKRVJ5JHU3JTJPKQ7JDVYEM.JPG?auth=ae61aa530b6cc429e41a9e601daf26d0b9a6a02f2820b84ebcfe6722952ba191&width=1200&height=800&quality=80&smart=true",
+          "publishedAt": "2026-09-02T04:04:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-133697264,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Methanex to indefinitely idle NZ plant in 2027, Genesis Energy secures 11.4PJ of gas through to 2029",
-          "description": "Methanol producer and major gas user Methanex says it will sell its New Zealand gas entitlements and “indefinitely idle” its plant in Taranaki after 40 years...",
-          "url": "https://www.nzherald.co.nz/business/companies/energy/methanex-to-indefinitely-idle-nz-plant-in-2027-genesis-energy-secures-114-pj-of-gas-through-to-2029/IZT5WSAVPJDIZD5CY4TGMI66KE/",
+          "title": "Common alleles associated with connectivity within and across the brain’s main functional networks",
+          "description": "Previous GWAS of brain’s connectivity have been challenged by the difficulty of best representing the complexity of this phenotype. Here we report the results from a multivariate GWAS approach that allows for a better representation of this complexity, while boosting statistical power. This strategy notably increases the detection of significant signals to 114 independent SNPs, pointing at 315 candidate genes. Our results show a large overlap of the genetic makeup associated with functional connectivity across brain networks but also identify network specific signals, suggesting a potential genetic stratification between cognitive and sensory-motor networks. We also identify a large genetic overlap between functional connectivity and risk for neuropsychiatric disorders, suggesting that regions of the genome important for neuronal communication are enriched for neuropsychiatric risk SNPs. The work presented here expands our understanding of the common allele architecture of brain connectivity, as well as provides novel targets to functional genomics research. This study identified 114 independent SNPs (315 candidate genes) associated with brain’s functional connectivity, showing a large genetic commonality affecting connectivity across different brain networks and with several neuropsychiatric conditions.",
+          "url": "https://www.nature.com/articles/s41467-026-77476-2?error=cookies_not_supported&code=1bd50171-ef04-4308-bed2-b2012ce45ae8",
           "source": {
-            "name": "NZ Herald"
+            "name": "Nature"
           },
-          "publishedAt": "2026-09-01T22:42:35Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/H7M33DEMKZUD3CRHSKOQIU55CQ.jpg?auth=44801e4d1ffb6ec395b96433da62e83f689f44bf958cce5b87ddcdc2e1da935b&width=1200&height=675&quality=70&smart=true",
+          "publishedAt": "2026-09-02T04:03:04Z",
+          "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
           "language": "en"
         },
         {
-          "title": "Bird flu detected at Dolphin Point",
-          "description": "A second case of bird flu has been detected in the Shoalhaven with Council advised that the H5 bird flu...",
-          "url": "https://www.2st.com.au/local-news/locals/image-booderee-national-park/",
+          "title": "Tunisia’s civil society faces growing pressure as crackdown widens",
+          "description": "Arrests, prosecutions and suspensions are putting growing pressure on Tunisia’s civil society, Human Rights Watch says.",
+          "url": "https://www.aljazeera.com/news/2026/9/2/tunisias-civil-society-faces-growing-pressure-as-crackdown-widens",
           "source": {
-            "name": "2ST"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-09-01T22:42:17Z",
-          "image": "https://www.2st.com.au/wp-content/uploads/sites/8/2026/09/Crested-Terns-credit-Booderee-National-Park.jpg",
+          "publishedAt": "2026-09-02T04:02:32Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a958dc596954-1788186053.jpg?resize=1920%2C1440",
           "language": "en"
         },
         {
-          "title": "Heat on senior staff as councillors pick apart landslide failures",
-          "description": "Tauranga councillors pressed staff on what was known before the tragedy, why monitoring stopped and why warnings never reached the council table.",
-          "url": "https://www.1news.co.nz/2026/09/02/heat-on-senior-staff-as-councillors-pick-apart-landslide-failures/",
+          "title": "Live updates on Houston rain and flooding",
+          "description": "Track Tropical Storm Edouard's path, rainfall forecasts and flood risk across Houston and Southeast Texas as the storm approaches.",
+          "url": "https://www.houstonchronicle.com/news/houston-weather/article/tropical-storm-edouard-live-updates-22411404.php",
           "source": {
-            "name": "1News"
+            "name": "Houston Chronicle"
           },
-          "publishedAt": "2026-09-01T22:41:28Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/chief-executive-marty-grenfell-said-the-mauao-landslide-exte-V3CVXWETVVCHXBCFJBYREIAW5Q.png?auth=3a4ef95d7eaaec5d87766ef4e5370eb863a7549cbdac8dc8b0005759c84efaca&quality=70&width=600&height=315&focal=277%2C251",
+          "publishedAt": "2026-09-02T04:02:25Z",
+          "image": "https://s.hdnux.com/photos/01/67/16/75/31256411/3/rawImage.jpg",
           "language": "en"
         }
       ]
