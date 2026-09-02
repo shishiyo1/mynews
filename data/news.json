@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-09-02T16:07:12.742Z",
+  "updatedAt": "2026-09-02T20:38:32.363Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "米アップル、地図でオンタリオ湖の表記を「アメリカ湖」に変更",
-          "description": "米アップルは1日、同社の地図サービス「アップルマップ」でカナダとアメリカの間にあるオンタリオ湖の名称を「アメリカ湖」と表示し始めた。トランプ米大統領は8月末、カナダとの間で貿易摩擦が続くなか、オンタリオ湖の名称を「アメリカ湖」に変更するよう指示する大統領令に署名している。",
-          "url": "https://www.bbc.com/japanese/articles/c3wj1x1l3eeo",
+          "title": "移民が大規模流入のスペイン飛び地セウタ、性的暴行が「ほぼ毎日」発生 検察当局",
+          "description": "アフリカ北端のスペイン飛び地領土セウタで、7月末に数万人の移民が流入してからの約1カ月間で、計23件の性的暴行事件が記録されている。うち9件の被害者は子どもとなっている。スペインの検察当局が明らかにした。",
+          "url": "https://www.bbc.com/japanese/articles/cvgy5vqyg8zo",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-09-02T03:39:18Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/0e1d/live/af1fe3d0-a660-11f1-9e66-d528091f3354.jpg",
+          "publishedAt": "2026-09-02T08:29:18Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/e187/live/283b8970-a5ff-11f1-83fc-0df57e6b3866.jpg",
           "language": "ja"
         },
         {
-          "title": "パペットスンスン初の常設店舗「PUPPET SUNSUN STORE」東京・渋谷、大阪・梅田に11月オープン！",
-          "description": "株式会社チョコレイトのプレスリリース（2026年9月2日 12時15分）パペットスンスン初の常設店舗「PUPPET SUNSUN STORE」東京・渋谷、大阪・梅田に11月オープン！",
-          "url": "https://prtimes.jp/main/html/rd/p/000000572.000024007.html",
-          "source": {
-            "name": "prtimes.jp"
-          },
-          "publishedAt": "2026-09-02T03:15:18Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/24007/572/24007-572-f48d97b8339ba60ab813974ff1f9d964-3840x2160.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "グーグル、Android最新アップデートを公開 乗り物酔い軽減など5つの新機能",
-          "description": "グーグルは「Android」向け最新アップデートの提供を開始した。AI機能を前面に押し出すのではなく、実用的な改善に重点を置いた内容だ。",
-          "url": "https://japan.cnet.com/article/35252176/",
-          "source": {
-            "name": "CNET Japan"
-          },
-          "publishedAt": "2026-09-02T03:05:00Z",
-          "image": "https://japan.cnet.com/storage/2026/09/02/6a9a7d4430d96f3f6e4be88947601fc1/Motion-Assist-promo-image_1280x960.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "アイオーデータが「TGS2026」に出展！ゲーミングモニター「GigaCrysta S」など3シリーズの最新モデルや注目商品を展示",
-          "description": "アイオーデータは、2026年9月17日(木)～21日(月・祝)に幕張メッセで開催される「東京ゲームショウ2026」に出展すると発表しました。 最新モデルのゲーミングモニターの展示やステージイベントなどが開催されます。…",
-          "url": "https://saiganak.com/ja/event/tgs2026-iodata-booth-announcement/",
-          "source": {
-            "name": "Saiga NAK"
-          },
-          "publishedAt": "2026-09-02T03:01:13Z",
-          "image": "https://i0.wp.com/uploads.saigacdn.com/2026/09/tgs2026-iodata-booth-announcement-00.jpg?resize=1200,630",
-          "language": "ja"
-        },
-        {
-          "title": "バレットグループ、「東京ゲームショウ2026」に2年連続出展―広告・人材の両面からゲーム企業の事業展開を支援―",
-          "description": "バレットグループ株式会社のプレスリリース（2026年9月2日 12時00分）バレットグループ、「東京ゲームショウ2026」に2年連続出展―広告・人材の両面からゲーム企業の事業展開を支援―",
-          "url": "https://prtimes.jp/main/html/rd/p/000000104.000051781.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-09-02T03:00:02Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/51781/104/51781-104-2458669a7df2ab38fb8237ef89d03929-3000x1688.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "【情報まとめ】青森県で線状降水帯発生…青森、秋田県内に一時レベル4の危険警報も 冠水多数…被害の様子は",
-          "description": "■弘前市　10：16に避難指示解除■つがる市　13：18に避難指示解除",
-          "url": "https://news.tv-asahi.co.jp/news_society/articles/900198597.html",
-          "source": {
-            "name": "テレ朝NEWS"
-          },
-          "publishedAt": "2026-09-02T02:44:22Z",
-          "image": "https://news.tv-asahi.co.jp/articles_img/900198597_1200.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "アニメ監督・柳瀬雄之さん死去 59歳 心筋梗塞 「北斗の拳」「聖闘士星矢」など人気作作画・演出",
-          "description": "アニメーション監督の柳瀬雄之（やなせ・ゆうじ）さんが、8月22日に死去したことがわかった。監督を務めたTVアニメ「最強出涸らし皇子の暗躍帝位争い」や「世界最強の後衛～迷宮国の新人探索者～」製作委員",
-          "url": "https://news.yahoo.co.jp/articles/7857f6b23f3df1b54341c6f9813f6b549185f778",
+          "title": "移民が大規模流入のスペイン飛び地セウタ、性的暴行が「ほぼ毎日」発生 検察当局",
+          "description": "アフリカ北端のスペイン飛び地領土セウタで、7月末に数万人の移民が流入してからの約1カ月間で、計23件の性的暴行事件が記録されている。うち9件の被害者は子どもとなっている。スペインの検察当局が明らかに",
+          "url": "https://news.yahoo.co.jp/articles/6dc20efe5896d3df494dcdc7b4d65c90a0227002",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-09-02T02:41:21Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260902-00000136-spnannex-000-22-view.jpg?exp=10800",
+          "publishedAt": "2026-09-02T08:28:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260902-16945226-bbc-000-1-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "9月前半は台風や前線で大雨の恐れ 9月中旬も蒸し暑さ続く 2週間天気予報",
-          "description": "この先9月3日(木)〜9月15日(火)は、前線や低気圧の影響で全国的に曇りや雨の日が多くなるでしょう。特に3日(木)〜9日(水)は大雨の恐れもあります。10日(木)以降も雲が広がりやすく雨の残る所が多い一方、西日本〜東日本では平年並みかやや高めの気温で蒸し暑い日が続く見込みです。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/09/02/40411.html",
+          "title": "【「俺たちの箱根駅伝」インタビューVol.2】奥智哉、小林虎之介とクランクイン前から関係性構築 ドラマでは描かれない背景も意識",
+          "description": "10月10日に放送開始する日本テレビ系連続ドラマ「俺たちの箱根駅伝」（毎週土曜よる9時～）のキャストにモデルプレスがインタビュー。連載第2回は青葉隼斗の良き相談相手でチームメートからの信頼も厚い明誠学院大学3年生の陸上競技部マネージャー・矢野計図役の奥智哉（おく・ともや／22）。",
+          "url": "https://mdpr.jp/interview/detail/4835632",
           "source": {
-            "name": "tenki.jp"
+            "name": "モデルプレス"
           },
-          "publishedAt": "2026-09-02T02:37:04Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/404/40411/main/20260902112834/large.jpg",
+          "publishedAt": "2026-09-02T08:00:00Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/VZ6X/wm/VZ6XvbVxho7jPbXsTzL-_Yv14KUoQLO_Wbd_bT-kGXw.jpg?width=700&disable=upscale&auto=webp&quality=80",
           "language": "ja"
         },
         {
-          "title": "日本の長期金利3%「米国市場に大きく影響」 米財務次官インタビュー",
-          "description": "【アッシュビル（米南部ノースカロライナ州）=河浪武史】米財務省で国際政策を担当するエリン・ブラウン財務次官は1日、日本経済新聞の単独インタビューで3%台に達した日本の長期金利について「米国市場にも大きな影響がある」と警戒感をにじませた。日米財務相会談で「財政健全化の重要性を確認した」とも明らかにした。「日米両国が財政政策を率直に議論」片山さつき財務相とベッセント米財務長官は8月31日、20カ",
-          "url": "https://www.nikkei.com/article/DGXZQOGN020DK0S6A900C2000000/",
+          "title": "映画『ユニコーンを轢いた』アリ・アスター製作総指揮、恐怖の“神獣”サバイバルスリラー",
+          "description": "映画『ユニコーンを轢いた』が、2027年1月8日(金)より全国公開される。製作総指揮はアリ・アスター。主演はポール・ラッドとジェナ・オルテガ。映画『ユニコーンを轢いた』は、“ユニコーンを轢いた”という...",
+          "url": "https://www.fashion-press.net/news/150573",
           "source": {
-            "name": "日本経済新聞"
+            "name": "ファッションプレス"
           },
-          "publishedAt": "2026-09-02T02:30:00Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3537735002092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.52&fp-y=0.22&h=630&w=1200&s=faee0c544fce82c1121fc72f4dc2931a",
+          "publishedAt": "2026-09-02T08:00:00Z",
+          "image": "https://www.fashion-press.net/img/news/150573/top.jpg?1788237636",
           "language": "ja"
         },
         {
-          "title": "GIGABYTE、AORUS INFINITYと没入感あふれるゲーミング体験で、Gamescom 2026でゲーマーを魅了したポイントを特集",
-          "description": "台北、2026年9月2日 /PRNewswire/ -- 世界をリードするコンピュータブランドであるGIGABYTEは、「AORUS INFINITY」ショーケースでのゲーマーとの活発な交流をもって、Gamescom 2026を締めくくりました。同ショーケースでは、フラッグシップ級のゲーミングハードウェア、インテリジェントテクノロジー、そして独創的なPCデザインが、実機体験を通じて一体となりました。",
-          "url": "https://www.shimotsuke.co.jp/articles/-/1414355",
+          "title": "【「俺たちの箱根駅伝」インタビューVol.3】庄司浩平、ストイックな池田匡志から刺激「もっと頑張らなければ」“バケモノ級”トレーニング内容明かす",
+          "description": "10月10日に放送開始する日本テレビ系連続ドラマ「俺たちの箱根駅伝」（毎週土曜よる9時～）のキャストにモデルプレスがインタビュー。連載第3回は正義感が強くストイックな武蔵野農業大学2年生の陸上競技選手・猪又丈役の庄司浩平（しょうじ・こうへい／26）。",
+          "url": "https://mdpr.jp/interview/detail/4835731",
           "source": {
-            "name": "下野新聞社"
+            "name": "mdpr.jp"
           },
-          "publishedAt": "2026-09-02T02:29:00Z",
-          "image": "https://soon.ismcdn.jp/mwimgs/5/c/1200wm/img_5c5753081155f03716cf9c8c0b384dc6204230.jpg",
+          "publishedAt": "2026-09-02T08:00:00Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/dM63/wm/dM63z-bllUdrB_Nj0r17D4fOrkQMIdw8hn3GrmfWoXU.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
+        {
+          "title": "アップル「iPhone 18 Pro」、シルバーを廃止しブラック復活か",
+          "description": "アップルの「iPhone 18 Pro」と「iPhone 18 Pro Max」は、米国時間9月9日のイベントで発表される見通しだ。両機種のカラー展開は3色になりそうだと、新たなうわさが伝えている。",
+          "url": "https://japan.cnet.com/article/35252197/",
+          "source": {
+            "name": "CNET Japan"
+          },
+          "publishedAt": "2026-09-02T07:45:00Z",
+          "image": "https://japan.cnet.com/storage/2026/09/02/0df5f421d146323755241813cf38c06b/image-4_0e68fa_1280x960.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【F1】元ホンダ・浅木泰昭が語る改良型PUの問題点「なぜ急にドライバビリティが悪化したのか」アロンソ９位のオランダGP",
+          "description": "【連載】元ホンダ・浅木泰昭「F1解説・アサキの視点」第16回（前編）　後半戦のスタートとなる第12戦オランダGPのザントフォールト・サーキットに、ホンダが大幅にアップデートしたパワーユニット（PU）を持ち込んだ。日本のファンの期待は大きか…",
+          "url": "https://sportiva.shueisha.co.jp/clm/motorsports/motorsports/2026/09/02/f1pugp/",
+          "source": {
+            "name": "webスポルティーバ"
+          },
+          "publishedAt": "2026-09-02T07:30:00Z",
+          "image": "https://sportiva.shueisha.co.jp/clm/motorsports/motorsports/2026/images/AsakiYasuaki260904.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "（まとめ）日経平均は1,889円安の64,325円で大幅続落 中東情勢や金利高からリスクオフに",
+          "description": "東京市場まとめ1.概況日経平均は1,019円安の65,195円と大きく下げて取引を開始しました。米国によるイラン空爆や米長期金利の上昇から、前日の米国市場では売りが優勢となり、日本市場もリスクオフ姿勢が鮮明となりました。前場は後半に下げ渋ったものの、1,742円安の64...",
+          "url": "https://media.monex.co.jp/articles/-/30071",
+          "source": {
+            "name": "マネクリ"
+          },
+          "publishedAt": "2026-09-02T07:26:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "新型パジェロ本日初披露、10月29日正式発表、12月17日発売!! 今年度内グローバルで1万台生産＆販売と超強気!!!!",
+          "description": "2026年9月2日、三菱自動車は都内で新型パジェロの世界披露会を実施した。会見後に記者宛てのレクが行なわれ、新型パジェロの販売（生産）計画やスケジュールが明かされた。発表会には国内外のメディア800名以上が集まって新型パジェロの世界初披露…",
+          "url": "https://bestcarweb.jp/newcar/1622821",
+          "source": {
+            "name": "bestcarweb.jp"
+          },
+          "publishedAt": "2026-09-02T07:02:59Z",
+          "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/09/02155202/PXL_20260902_051045779.jpg?v=1788331950",
+          "language": "ja"
+        },
+        {
+          "title": "風間俊介＆山下智久、学生時代のお互いの失敗談暴露「ギプスをブンブン振り回しながら」【日テレDRAMA SHOWCASE】",
+          "description": "10月4日スタートの日曜ドラマ「ハイド＆シーク」（毎週日曜よる10時30分）に出演する風間俊介と、10月10日スタートの土曜ドラマ「俺たちの箱根駅伝」（毎週土曜よる9時）に出演する山下智久が9月2日、都内で行われた「日テレ10月期ドラマ合同制作発表会見」に出席。お互いの学生時代の失敗談について明かした。",
+          "url": "https://mdpr.jp/drama/detail/4838344",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-09-02T07:00:00Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/00rS/wm/00rSc0Vh8MxxSPBqywqtHdf__yLf1stvKldWTs_T64g.jpg?width=700&disable=upscale&auto=webp&quality=80",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Danny Buckley: ‘Her last words to me were a plea to please get help for my ADHD’",
-          "description": "ADHD Now is Ireland’s largest private ADHD assessment and treatment provider",
-          "url": "https://www.irishtimes.com/business/2026/09/02/danny-buckley-her-last-words-to-me-were-a-plea-to-please-get-help-for-my-adhd/",
+          "title": "Govt probes PDM, cattle restocking programs in Teso, Lango",
+          "description": "The exercise will cover Kapelebyong, Kalaki, Bukedea and Soroti City in Teso, as well as Apac, Otuke, Dokolo and Lira districts in Lango",
+          "url": "https://www.monitor.co.ug/uganda/news/national/govt-probes-pdm-cattle-restocking-programs-in-teso-lango-5580650",
           "source": {
-            "name": "irishtimes.com"
+            "name": "Daily Monitor"
           },
-          "publishedAt": "2026-09-02T04:07:03Z",
-          "image": "https://www.irishtimes.com/resizer/v2/KCLUHQMKBRAY5A5VBTIRUTFI4U.jpg?smart=true&auth=a063e96f8d8d33ec60fc78daa657400295e8e2502476862e6a4a7147d66f595d&width=1200&height=630",
+          "publishedAt": "2026-09-02T08:36:13Z",
+          "image": "https://www.monitor.co.ug/resource/image/5580662/landscape_ratio3x2/1200/800/159a842a38da8ff04bb6b8095607d7f5/DE/latest09pix.png",
           "language": "en"
         },
         {
-          "title": "Scientists make potential breakthrough in search for dark matter",
-          "description": "Researchers in South Dakota observed hints of it during a deep-underground experiment but stopped short of saying they finally detected this elusive cosmic component.",
-          "url": "https://www.japantimes.co.jp/news/2026/09/02/world/scientists-breakthrough-search-dark-matter/",
+          "title": "End-to-end deep learning methods for genetic risk prediction of schizophrenia",
+          "description": "Schizophrenia is a highly heritable psychiatric disorder with a complex genetic basis. While recent GWAS and whole exome sequencing studies have identified numerous risk loci, existing clinical prediction models rely primarily on linear assumptions, limiting their ability to capture complex, nonlinear genetic effects such as epistasis. In this study, we apply end-to-end genome interpretation neural network models to predict schizophrenia risk using whole exome sequencing data in a cohort of 6,135 cases and 6,245 controls. We show that nonlinear neural networks significantly outperform conventional additive models when sufficient sample size is available. These findings support the fact that high-order genetic interactions between alleles and variants should be considered by clinical and quantitative genetics models. To investigate the decision process our models follow, we integrate explainable AI techniques and biological priors into our models, using them to identify predictive genes and pathways. Our approach recovers both known schizophrenia risk genes and recommends BASP1 as a potential understudied schizophrenia gene involved in neuronal development. Existing prediction models for schizophrenia often fail to capture nonlinear genetic effects, like epistasis. Here, the authors show that explainable neural networks improve genetic prediction of schizophrenia by capturing genetic interactions.",
+          "url": "https://www.nature.com/articles/s41467-026-76663-5?error=cookies_not_supported&code=7e4af708-42dc-42b0-a41d-90600772596e",
           "source": {
-            "name": "The Japan Times"
+            "name": "nature.com"
           },
-          "publishedAt": "2026-09-02T04:07:00Z",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/02/560762.JPG?v=3.1",
-          "language": "en"
-        },
-        {
-          "title": "War has shifted how power works in Iran",
-          "description": "It is important to realise that Iran is making existential decisions about the survival strategy of the Islamic Republic itself",
-          "url": "https://www.juancole.com/2026/09/shifted-power-works.html",
-          "source": {
-            "name": "Informed Comment"
-          },
-          "publishedAt": "2026-09-02T04:06:52Z",
-          "image": "https://media.juancole.com/images/2026/09/mohsen-khorrampour-kbZ6PxpSbgE-unsplash.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Jensen Alfaro Gochingco and Nikki Marie Bugarin Sagmit fulfill their dream wedding in Taal",
-          "description": "On Aug. 8, 2026, eight years after their civil wedding in Australia, Jensen Alfaro Gochingco and Nikki Marie Bugarin Sagmit returned to the altar in the...",
-          "url": "https://mb.com.ph/2026/09/02/jensen-alfaro-gochingco-and-nikki-marie-bugarin-sagmit-fulfill-their-dream-wedding-in-taal",
-          "source": {
-            "name": "Manila Bulletin"
-          },
-          "publishedAt": "2026-09-02T04:06:45Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/09/02/128249.webp",
-          "language": "en"
-        },
-        {
-          "title": "Accountant claims trial to helping firm underpay RM2.5mil in taxes",
-          "description": "Chew Ai Keow is accused of assisting Penshrimp Fishery Sdn Bhd in checking and approving sales ledgers that did not include a RM10.67 million transaction.",
-          "url": "https://www.freemalaysiatoday.com/category/nation/2026/09/02/accountant-claims-trial-to-helping-firm-underpay-rm2-5mil-in-taxes",
-          "source": {
-            "name": "Free Malaysia Today"
-          },
-          "publishedAt": "2026-09-02T04:04:00Z",
-          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/12/d8af0563-lhdn-bernama-resize-151225-1.webp",
-          "language": "en"
-        },
-        {
-          "title": "The Venice Film Festival opens with a Rupert Murdoch film, George Clooney and plenty of geopolitics",
-          "description": "George Clooney and Danny Boyle are helping kick off the Venice Film Festival in style Wednesday on the Lido. Clooney, a festival mainstay, is receiving a lifetime achievement award, while Boyle is pr...",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/venice-film-festival-opens-rupert-040452420.html",
-          "source": {
-            "name": "Yahoo"
-          },
-          "publishedAt": "2026-09-02T04:04:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/2da0d88f8c6552e7c79dc5fd388a136b88295251093ced2c5403c1022072c6eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb14a451ee3bfd2ea974bf0fe08b7adb2.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Amid 'very long meetings' and running chess world, has Viswanathan Anand lost 'hunger' to win? | Exclusive",
-          "description": "Chess News: NEW DELHI: The English vocabulary sometimes feels the loss for words while describing what Viswanathan Anand is to India and its chess legacy. There i.",
-          "url": "https://timesofindia.indiatimes.com/sports/chess/amid-very-long-meetings-and-running-chess-world-has-viswanathan-anand-lost-hunger-to-win-exclusive/articleshow/133696926.cms",
-          "source": {
-            "name": "timesofindia.indiatimes.com"
-          },
-          "publishedAt": "2026-09-02T04:04:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-133697264,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Common alleles associated with connectivity within and across the brain’s main functional networks",
-          "description": "Previous GWAS of brain’s connectivity have been challenged by the difficulty of best representing the complexity of this phenotype. Here we report the results from a multivariate GWAS approach that allows for a better representation of this complexity, while boosting statistical power. This strategy notably increases the detection of significant signals to 114 independent SNPs, pointing at 315 candidate genes. Our results show a large overlap of the genetic makeup associated with functional connectivity across brain networks but also identify network specific signals, suggesting a potential genetic stratification between cognitive and sensory-motor networks. We also identify a large genetic overlap between functional connectivity and risk for neuropsychiatric disorders, suggesting that regions of the genome important for neuronal communication are enriched for neuropsychiatric risk SNPs. The work presented here expands our understanding of the common allele architecture of brain connectivity, as well as provides novel targets to functional genomics research. This study identified 114 independent SNPs (315 candidate genes) associated with brain’s functional connectivity, showing a large genetic commonality affecting connectivity across different brain networks and with several neuropsychiatric conditions.",
-          "url": "https://www.nature.com/articles/s41467-026-77476-2?error=cookies_not_supported&code=1bd50171-ef04-4308-bed2-b2012ce45ae8",
-          "source": {
-            "name": "Nature"
-          },
-          "publishedAt": "2026-09-02T04:03:04Z",
+          "publishedAt": "2026-09-02T08:35:41Z",
           "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
           "language": "en"
         },
         {
-          "title": "Tunisia’s civil society faces growing pressure as crackdown widens",
-          "description": "Arrests, prosecutions and suspensions are putting growing pressure on Tunisia’s civil society, Human Rights Watch says.",
-          "url": "https://www.aljazeera.com/news/2026/9/2/tunisias-civil-society-faces-growing-pressure-as-crackdown-widens",
+          "title": "American national, Filipina wife shot dead in Negros Oriental home",
+          "description": "BACOLOD CITY - Barely two months after a 73-year-old American marine biologist was killed in his home in Sibulan, Negros Oriental, another fatal shooting...",
+          "url": "https://mb.com.ph/2026/09/02/american-national-filipina-wife-shot-dead-in-negros-oriental-home",
           "source": {
-            "name": "Al Jazeera"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-09-02T04:02:32Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a958dc596954-1788186053.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-09-02T08:35:40Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/09/02/128394.webp",
           "language": "en"
         },
         {
-          "title": "Live updates on Houston rain and flooding",
-          "description": "Track Tropical Storm Edouard's path, rainfall forecasts and flood risk across Houston and Southeast Texas as the storm approaches.",
-          "url": "https://www.houstonchronicle.com/news/houston-weather/article/tropical-storm-edouard-live-updates-22411404.php",
+          "title": "Intel shuts down Israel AI lab",
+          "description": "The US chip giant is closing down its agentic and inference optimization research laboratories in Israel.",
+          "url": "https://en.globes.co.il/en/article-intel-shuts-down-israel-ai-lab-1001554162",
           "source": {
-            "name": "Houston Chronicle"
+            "name": "גלובס"
           },
-          "publishedAt": "2026-09-02T04:02:25Z",
-          "image": "https://s.hdnux.com/photos/01/67/16/75/31256411/3/rawImage.jpg",
+          "publishedAt": "2026-09-02T08:35:00Z",
+          "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1777205138/direct/%D7%9C%D7%99%D7%A4-%D7%91%D7%95-%D7%98%D7%90%D7%9F-%D7%A8%D7%95%D7%99%D7%98%D7%A8%D7%A1_wv1n2r.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Museveni Receives Credentials from Five New Ambassadors",
+          "description": "ENTEBBE, Uganda — President Yoweri Kaguta Museveni has received Letters of Credence from five newly appointed ambassadors representing the United Arab Emirates, China, the Netherlands, Sweden and Germany. The envoys presented their credentials to the President at State House Entebbe, formally marking the beginning of their diplomatic assignments in Uganda. Related Stories Starlink Goes Live […]",
+          "url": "https://softpower.ug/museveni-receives-credentials-from-five-new-ambassadors/",
+          "source": {
+            "name": "SoftPower News"
+          },
+          "publishedAt": "2026-09-02T08:34:43Z",
+          "image": "https://softpower.ug/wp-content/uploads/2026/09/sweden2.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Fewer destinations for Latvia's airBaltic next summer season",
+          "description": "Latvia’s national airline, “airBaltic”, will offer 55 direct routes from Rīga throughout the 2027 summer season, which is fewer than during this year’s summer season, according to calculations by...",
+          "url": "https://eng.lsm.lv/article/economy/transport/02.09.2026-fewer-destinations-for-latvias-airbaltic-next-summer-season.a661377/",
+          "source": {
+            "name": "LSM"
+          },
+          "publishedAt": "2026-09-02T08:34:16Z",
+          "image": "https://static.lsm.lv/media/2026/07/large/4/tt0f.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Latvian Saeima elections 2026: How the election works",
+          "description": "October 3rd is another election day in Latvia. The country's democratic system is every bit as rigorous and complex as those in other countries, with polling stations opening both at ho...",
+          "url": "https://eng.lsm.lv/article/politics/election/03.09.2026-latvian-saeima-elections-2026-how-the-election-works.a658525/",
+          "source": {
+            "name": "LSM"
+          },
+          "publishedAt": "2026-09-02T08:34:16Z",
+          "image": "https://static.lsm.lv/media/2026/06/large/1/tk7u.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Vogue Williams welcomes baby boy with Spencer Matthews",
+          "description": "Vogue Williams and Spencer Matthews have announced the birth of their fourth child.",
+          "url": "https://www.rte.ie/entertainment/2026/0902/1590050-vogue-williams-welcomes-baby-boy-with-spencer-matthews/",
+          "source": {
+            "name": "RTE.ie"
+          },
+          "publishedAt": "2026-09-02T08:34:10Z",
+          "image": "https://www.rte.ie/images/0024f0d5-1600.jpg",
+          "language": "en"
+        },
+        {
+          "title": "First major bank raises home loan interest rates after OCR hike",
+          "description": "The Reserve Bank lifted the OCR by 25 basis points to 2.75% this afternoon, its second consecutive increase after raising it to 2.50% in July.",
+          "url": "https://www.1news.co.nz/2026/09/02/first-major-bank-raises-home-loan-interest-rates-after-ocr-hike/",
+          "source": {
+            "name": "1News"
+          },
+          "publishedAt": "2026-09-02T08:33:25Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/generics-for-home-loan-and-interest-rates-5A527MXIFFBSDHHLRNU3H5AHAE.png?auth=82c002566fc1bfcd3e27dc9a61473ab0b872be8a6b7c9572cfb73584339e673f&quality=70&width=600&height=315&focal=820%2C523",
+          "language": "en"
+        },
+        {
+          "title": "Ed Markey wins: Key takeaways from Massachusetts primary election results",
+          "description": "Markey secures the Democratic nomination as Massachusetts voters back several of the state’s long-serving lawmakers.",
+          "url": "https://www.aljazeera.com/news/2026/9/2/ed-markey-wins-key-takeaways-from-massachusetts-primary-election-results",
+          "source": {
+            "name": "Al Jazeera"
+          },
+          "publishedAt": "2026-09-02T08:33:18Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a97c7d32b20b-1788331987.jpg?resize=1920%2C1440",
           "language": "en"
         }
       ]
