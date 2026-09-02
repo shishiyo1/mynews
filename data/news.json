@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-09-01T23:04:41.964Z",
+  "updatedAt": "2026-09-02T03:21:36.986Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "SonosのオーディオOS進化「Sonos 27」発表。好みのAIを使ってSonosを操作可能に",
+          "description": "米Sonosは、同社のオーディオ・オペレーティングシステムの最新バージョン「Sonos 27」を発表。エージェントを通じたAIコントロール、家の中でサウンドをシームレスにつなぐ新たな方法、アプリでのより直感的な操作などを可能にしている。また、Sonos 27に対応する2つの新製品として、サウンドバー「Sonos Beam Ultra」とヘッドフォン「Sonos Ace Ultra」も今後登場する。",
+          "url": "https://av.watch.impress.co.jp/docs/news/2137394.html",
+          "source": {
+            "name": "AV Watch"
+          },
+          "publishedAt": "2026-09-01T14:40:00Z",
+          "image": "https://av.watch.impress.co.jp/img/avw/list/2137/394/s1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【市場反応】米・8月ISM製造業景況指数/7月JOLT求人件数は予想下回る、ドル買い後退｜FX・為替ニュース",
+          "description": "[欧米市場の為替相場動向] 米8月ISM製造業景況指数は54.6と、7月55.6から予想以上に低下した。ただ、8カ月連続で50を上回り成長拡大圏を維持した。支払い価格が7月71.1から低下予想に反し、同",
+          "url": "https://zai.diamond.jp/articles/-/494891",
+          "source": {
+            "name": "ザイFX！"
+          },
+          "publishedAt": "2026-09-01T14:35:00Z",
+          "image": "https://zai.diamond.jp/mwimgs/9/e/-/img_9e47ac79ce2cf237f05d70fc22e16d45110540.png",
+          "language": "ja"
+        },
+        {
+          "title": "このピンで、マスクがマイクになる。騒音の中で声だけ拾う、村田製作所の技術",
+          "description": "2025年10月20日の記事を編集して再掲載しています。ネクタイピンかと思ったわ。CEATEC 2025の村田製作所ブースで、おもしろいものを見つけました。マスクに取り付けるピンマイク「mask voice clip」です。これ、「CEAT",
+          "url": "https://www.gizmodo.jp/article/murata_mask-voice-clip_ceatec-fot/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-09-01T14:00:00Z",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2025/10/20/251015_002_DSC_0253.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "【台風情報】ダブル台風の進路予想は 台風18号は南シナ海を東北東へ 台風24号は日本の南でほとんど停滞、2日午後9時には、南大東島の南南東約190キロに達する予報",
+          "description": "気象庁によりますと、台風18号(ソウデル)は1日午後9時現在、南シナ海にあって、1時間におよそ25キロの速さで東北東へ進んでいます。中心気圧は994ヘクトパスカル、最大風速は18メートル、最大瞬間風速は25メートルとなっています。5日午後9時には、南シナ海で熱帯低気圧に変わる予報となっています。台風24号(クロヴァン)は1日午後9時現在、日本の南にあって、ほとんど停滞しています。中心気圧は996ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルとなっています。2日午後…",
+          "url": "https://www.fnn.jp/articles/-/1105943",
+          "source": {
+            "name": "FNNプライムオンライン"
+          },
+          "publishedAt": "2026-09-01T13:29:00Z",
+          "image": "https://fnn.ismcdn.jp/mwimgs/0/7/600/img_07137a738ce921a36d1c9adf8cb39c9683410.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "栗原陵矢の「好きに書いてください」に本多コーチが苦言…「人として」諭した真意",
+          "description": "福岡ソフトバンクホークス栗原陵矢内野手が１日の日本ハム戦で痛恨の失策。「好きに書いてもらっていいです」と漏らした対応へ、本多雄一内野守備走塁兼作戦コーチがあえて呈した苦言とは。中心選手に求める姿勢と裏側を詳報。",
+          "url": "https://taka.full-count.jp/2026/09/01/post1319309/",
+          "source": {
+            "name": "鷹フル"
+          },
+          "publishedAt": "2026-09-01T12:19:02Z",
+          "image": "https://taka.full-count.jp/wp-content/uploads/2026/09/01210652/20260901-560x373.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "傑作アクションRPGを携帯モードで！ Switch 2版「エルデンリング」が19％オフセール",
+          "description": "Amazon.co.jpにて、フロムソフトウェアのNintendo Switch 2向けソフト「ELDEN RING Tarnished Edition」がセール中。通常より1600円ほどお得に購入できます。",
+          "url": "https://ascii.jp/elem/000/004/431/4431327/?rss",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-09-01T12:00:00Z",
+          "image": "https://ascii.jp/img/2026/09/01/4520339/xl/297d1acb8afe758f.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "傑作アクションRPGを携帯モードで！ Switch 2版「エルデンリング」が19％オフセール",
+          "description": "Amazon.co.jpにて、フロムソフトウェアのNintendo Switch 2向けソフト「ELDEN RING Tarnished Edition」がセール中。通常より1600円ほどお得に購入できます。",
+          "url": "https://ascii.jp/elem/000/004/431/4431327/?focus=3",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-09-01T12:00:00Z",
+          "image": "https://ascii.jp/img/2026/09/01/4520339/xl/297d1acb8afe758f.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "星野真里『24時間テレビ』マラソンに “車移動” 疑惑勃発も「走行距離」めぐる勘違い指摘する声…2002年から繰り返される “ワープ説”",
+          "description": "今年も8月29～30日に『24時間テレビ49 ―愛は地球を救う―』（日本テレビ系）が放送され、さまざまな反響が寄せられている。毎年恒例のチャリティーマラソンは女優・星野真里が務めたが、SNS上では",
+          "url": "https://news.yahoo.co.jp/articles/b7f3ed672a0544f9f625f7b7aec04b4aa439746e",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-09-01T11:20:15Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260901-00000063-flash-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "トッテナムDF高井幸大、シントトロイデンへの期限付き移籍が決定!!「自分のプレースタイルにも合っている」",
           "description": "トッテナムは1日、DF高井幸大(21)がベルギーのシントトロイデンに期限付き移籍で加入することが決まった。契約期間は今季までとなっている。　高井は昨年夏、育成組織時代から所属していた川崎フロンターレから...",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-09-01T09:49:56Z",
           "image": "https://news.tv-asahi.co.jp/articles_img/000530288_1200.jpg",
           "language": "ja"
-        },
-        {
-          "title": "イラン、長期戦にらみ中国・ロシアに接近 米国の経済制裁強化に対抗",
-          "description": "【ドバイ=浜岳彦、モスクワ=小川知世】イランのペゼシュキアン大統領は1日、キルギスの首都ビシケクで開かれた上海協力機構（SCO）首脳会議に出席した。米国は経済制裁を強化し軍事衝突は長期化する。SCOを主導する中国やロシアに接近して対抗する。ペゼシュキアン氏は同日、軍事衝突について「米国はSCOの加盟国であるイランを攻撃した」と強調した。金融や貿易、エネルギーの安全保障で加盟国の連携を強めるべき",
-          "url": "https://www.nikkei.com/article/DGXZQOGR319IW0R30C26A8000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-09-01T09:49:34Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3534092001092026000000-2.jpg?auto=compress&bg=FFFF&fill=blur&fit=fill&fm=jpg&h=630&upscale=false&w=1200&s=52cc772e90614b55602ac7256ae79114",
-          "language": "ja"
-        },
-        {
-          "title": "＜インタビュー＞King & Prince、変わらない\"グループの芯\"と広げていく表現の幅――1st EP『So Honey EP』ができるまで",
-          "description": "米国で最も権威のある音楽チャート・Billboard（ビルボード）の日本公式サイト。洋楽チャート、邦楽チャート、音楽ニュース、プレゼント情報などを提供。",
-          "url": "https://www.billboard-japan.com/special/detail/5425",
-          "source": {
-            "name": "Billboard JAPAN"
-          },
-          "publishedAt": "2026-09-01T09:21:24Z",
-          "image": "https://www.billboard-japan.com/scale/special/00000005/5425/x200_image.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "日曜劇場「VIVANT」第16話 リュウミンシュエンは野崎を裏切っていない。その理由を説明します。#堺雅人 #阿部寛 #二階堂ふみ #二宮和也 #松坂桃李 #6969b",
-          "description": "『VIVANT』では、「死んだ」という言葉ほど信用できないものはないのかもしれない。\n \nリュウミンシュエン。\n \n第1シーズンで野崎(阿部寛)が「乃木に似ている」と語っていた男を演じていたのは、まさかの堺雅人さんだった。\n \n乃木憂助、F、そしてリュウミンシュエン。\n \n「乃木に似ている」という何気ない一言が3年の時を越え、まさか“同じ顔”という形で回収される。\n \nそして驚くのは、同じ堺雅人さんが演じているにもかかわらず、そこに何の違和感もないことだ。\n \n乃木でもない。Fでもな",
-          "url": "https://www.gentosha.jp/article/29596/",
-          "source": {
-            "name": "幻冬舎plus"
-          },
-          "publishedAt": "2026-09-01T09:00:00Z",
-          "image": "https://img.gentosha.jp/_p_uploads_/article/1788233837_rectangle_icon.png?p=ogp",
-          "language": "ja"
-        },
-        {
-          "title": "同床異夢の対米対抗 中ロ主導の上海機構、世界GDPの2割強に",
-          "description": "【北京=田島如生、モスクワ=小川知世】中国とロシアが主導する新興国の協力枠組み、上海協力機構（SCO）の首脳会議が1日閉幕した。テロ対策が主な議題だった2001年の設立から25年がたち、有力新興国を集めて米国への対抗軸を演出する場へと様変わりした。加盟国の対米姿勢にはズレがあり、足並みはそろっていない。ロシアのプーチン大統領は1日、SCOが設立を目指す開発銀行を巡り「経済を武器として使う国々か",
-          "url": "https://www.nikkei.com/article/DGXZQOGM315ZB0R30C26A8000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-09-01T08:30:00Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3530873001092026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.62&fp-y=0.15&h=630&w=1200&s=56d8618a9e6bbffd79de1c96f0e96c3c",
-          "language": "ja"
-        },
-        {
-          "title": "3党合流破談も〝小川構文〟炸裂 「新たな形態」巡り記者泣かせ…分裂？「解釈はお任せ」",
-          "description": "中道改革連合の小川淳也代表は8月31日、立憲民主、公明両党との3党合流協議が破談に終わった党首会談後、国会内で記者団の取材に応じた。同氏を巡っては、言葉は明瞭ながら結論がつかみにくい言い回しが「小川構文」と指摘されている。この日は合流協議…",
-          "url": "https://www.sankei.com/article/20260901-FA2WYSH2ABFB7FYK5C7SJDBK5I/",
-          "source": {
-            "name": "産経ニュース"
-          },
-          "publishedAt": "2026-09-01T08:23:51Z",
-          "image": "https://www.sankei.com/resizer/v2/II7VBKTONFKL5FCUCNSAH2RQEY.jpg?auth=bef32a238e3f86be9515e861ed266668bc2d3ebc050ee0124ebe0e4d516dfaed&quality=50&focal=818%2C869&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "三山凌輝 今度は未払いトラブルが発覚！「事務所の従業員への報酬、ミュージックビデオの制作費が…」",
-          "description": "「文春報道後、問い合わせも増え、スタッフは業務過多で体調を崩す人も……」\n　こう嘆息するのは、俳優・三山凌輝（27）の事務所関係者である。\n◆ ◆ ◆",
-          "url": "https://news.yahoo.co.jp/articles/dbd90c9ef815657d5a1f239500feefc974c46ad5",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-09-01T08:12:16Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260901-00091626-bunshun-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "（まとめ）長期金利が3％をつける中で日経平均は小幅安の96円安の66,215円 一方TOPIXは9連騰",
-          "description": "東京市場まとめ1.概況日経平均は426円安の65,885円と続落して取引を開始しました。前日の米国市場では、原油高や金利上昇が重荷となり、主要3指数が揃って下落しました。米株安を受けて、序盤は下落して始まった日経平均は、徐々に持ち直し中ごろには上昇に転じました。...",
-          "url": "https://media.monex.co.jp/articles/-/30062",
-          "source": {
-            "name": "media.monex.co.jp"
-          },
-          "publishedAt": "2026-09-01T07:18:00Z",
-          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "健康志向に応えるか？ Apple Watch 12は心拍数の常時モニタリング機能を搭載するかも",
-          "description": "新機能というより、今までなかったのが少し意外？Appleが、Apple Watch Series 12で心拍数を常時モニタリングする機能をテストしていると、Bloombergが報じています。実現すれば、Apple WatchはGarminや",
-          "url": "https://www.gizmodo.jp/article/apple-watch-series-12_heart-rate-monitoring-function/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-09-01T07:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/09/01/97d0b84d-c05a-4262-ba14-315f16cc708d/original.jpg?w=1200&h=630",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Imran Khan, wife Bushra Bibi get slight relief as Pak HC bars solitary confinement",
-          "description": "Pakistan News: A Pakistan high court on Tuesday directed authorities at Rawalpindi Jail to ensure that former prime minister Imran Khan and his wife Bushra Bibi are .",
-          "url": "https://timesofindia.indiatimes.com/world/pakistan/imran-khan-wife-bushra-bibi-get-slight-relief-as-pak-hc-bars-solitary-confinement/articleshow/133678886.cms",
+          "title": "Deadlock: Lindsay Clancy jury continue deliberations after failure to reach unanimous decision",
+          "description": "Lindsay Clancy (36) is on trial for the murder of her three children in the basement of her Massachusetts family home in January 2023.",
+          "url": "https://www.thejournal.ie/lindsay-clancy-trial-verdict-jury-7148969-Sep2026/",
           "source": {
-            "name": "The Times of India"
+            "name": "thejournal.ie"
           },
-          "publishedAt": "2026-09-01T11:04:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-133679173,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-09-01T15:21:00Z",
+          "image": "https://img2.thejournal.ie/article/7148969/river/?height=400&version=7149026",
           "language": "en"
         },
         {
-          "title": "TikToker with 14 million followers details addiction, 'rock bottom'",
-          "description": "Chris Olsen, a 28-year-old social media influencer with more than 14 million TikTok followers, is ready for his close-up.",
-          "url": "https://www.usatoday.com/story/entertainment/books/2026/09/01/chris-olsen-memoir-interview/91549089007/",
+          "title": "Marmite lures discovery from lake depths",
+          "description": "Dr. Roe Stuart didn't find a taniwha in the unexplored depths of New Zealand's lakes—but they may have found a new species of fish.",
+          "url": "https://phys.org/news/2026-09-marmite-lures-discovery-lake-depths.html",
           "source": {
-            "name": "USA Today"
+            "name": "Phys.org"
           },
-          "publishedAt": "2026-09-01T11:03:00Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/31/USAT/91551225007-chris-olsen-author-photo-pc-max-montgomery-4.jpg?crop=4379,2463,x0,y657&width=3200&height=1800&format=pjpg&auto=webp",
+          "publishedAt": "2026-09-01T15:20:11Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/2026/marmite-lures-discover.jpg",
           "language": "en"
         },
         {
-          "title": "OPPO 9.9 Sale Offers Deals of Up to PHP 10,000 Off and More",
-          "description": "The OPPO 9.9 Sale might be the right time for you to upgrade, with discounts of up to PHP 10,000, exclusive gifts with purchase, and more limited-time offers.",
-          "url": "https://www.gadgetpilipinas.net/2026/09/oppo-9-9-sale-2026/",
+          "title": "Hull City looking to tie up several more deadline day deals after signing striker",
+          "description": "Hull City have completed the signing of German striker Ilyas Ansah from Bundesliga side Union Berlin for around £21m.The 21-year-old has signed a five-year contract with the Tigers until the summer o...",
+          "url": "https://sports.yahoo.com/articles/hull-city-looking-tie-several-152000046.html",
           "source": {
-            "name": "Gadget Pilipinas"
+            "name": "sports.yahoo.com"
           },
-          "publishedAt": "2026-09-01T11:02:45Z",
-          "image": "https://cdn.gadgetpilipinas.net/wp-content/uploads/2026/09/OPPO-9.9-Sale-2026-1.jpg",
+          "publishedAt": "2026-09-01T15:20:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/445bb62d462ab4ec50d17414236a455be6c112c348f4b37c84604e18d97f5de0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhayters_tv_491%2Fc035c85685b91ed73e2fd4ad148b8f26.jpg",
           "language": "en"
         },
         {
-          "title": "Mosimane unveiled as new Bafana Bafana coach",
-          "description": "Pitso Mosimane has returned to the helm of Bafana Bafana as their new coach, taking over from the Belgian Hugo Broos ahead of the start of the 2027 Africa Cup of Nations qualifiers that get under way this month.",
-          "url": "https://supersport.com/football/news/9dc148d3-6d8c-4e29-84c6-bb53bc1eab46/mosimane-unveiled-as-new-bafana-bafana-coach",
+          "title": "Atwoli scores major court victory as judge throws out petition challenging his sixth term as COTU boss",
+          "description": "Labour court rules petitioners lacked an employment or labour relationship with COTU-K and had no standing to challenge Atwoli’s re-election.",
+          "url": "https://eastleighvoice.co.ke/news/395947/atwoli-scores-major-court-victory-as-judge-throws-out-petition-challenging-his-sixth-term-as-cotu-boss",
           "source": {
-            "name": "supersport.com"
+            "name": "The Eastleigh Voice"
           },
-          "publishedAt": "2026-09-01T11:02:42Z",
-          "image": "https://images.supersport.com/media/qnyh43wr/pitso-mosimane-back-260901b-1920.jpg",
+          "publishedAt": "2026-09-01T15:19:17Z",
+          "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/09/eastleighvoice-co-ke-2026-september-01-180412.webp",
           "language": "en"
         },
         {
-          "title": "September offers prime planet views for local stargazers",
-          "description": "September is shaping up to be a strong month for local planet watchers, with several planets visible in Saskatchewan’s morning and evening sky. Abigail Sadowski, resident astronomer at Kalium Observatory, said Mars, Jupiter, Venus, Mercury, Saturn and Neptune will all be visible at different times throughout the month. Morning planets Mars will be visible throughout September for those willing to stay up late and get up early. “It rises at around 1:30 in the morning and remains visible until sunrise,” Sadowski said, adding that viewers should look toward the east. Jupiter will also be visible in the early morning. At the beginning of September, it rises around 4 a.m. in the northeast. As the month progresses, Jupiter will rise earlier, with the planet expected to be visible from around 3 a.m. until sunrise by the end of September. googletag.cmd.push(function() { if($(document).width()<900) { s = googletag.defineSlot('/50748803/dmj-all-bigbox', [300, 250], 'div-gpt-1648064270259-bbm1'); s.setConfig({targeting: {URL: [window.location.pathname]}}) s.setConfig({targeting: {position: [1648064270259]}}) s.setConfig({targeting: {story_id: 'september-offers-prime-planet-views-for-local-stargazers'}}) s.addService(googletag.pubads()); googletag.pubads().refresh([s], {changeCorrelator: false}); } }); Related Stories: Deep space mission to study how the human body handles life beyond Earth Saskatchewan skies offer a view of the Milky Way’s centre in August Mercury, Venus and Saturn among planets visible in August skies Near-total lunar eclipse to be visible from Saskatchewan in August ▶️ Stream this news story: 800 CHAB, Country 100, Mix 103 Venus, Mercury and Saturn For those who would rather watch the sky in the evening, Venus will be visible shortly after sunset throughout September. googletag.cmd.push(function() { if($(document).width()<900) { s = googletag.defineSlot('/50748803/dmj-all-bigbox', [300, 250], 'div-gpt-1648064270259-bbm2'); s.setConfig({targeting: {URL: [window.location.pathname]}}) s.setConfig({targeting: {position: [1648064270259]}}) s.setConfig({targeting: {story_id: 'september-offers-prime-planet-views-for-local-stargazers'}}) s.addService(googletag.pubads()); googletag.pubads().refresh([s], {changeCorrelator: false}); } }); Sadowski said viewers should look toward the western horizon for the exceptionally bright planet. Mercury will also make an appearance in the evening sky, although it will be quite low in the west after sunset. A clear, unobstructed view of the horizon will give viewers the best chance of spotting it. Sadowski also cautioned viewers to be careful when looking in the direction of the sun. The major highlight of the month, however, is Saturn. “It’s the best month for Saturn,” Sadowski said. Saturn rises at around 9:30 p.m. early in September, and by the end of the month it will rise shortly after sunset. That will make the planet visible for essentially the entire night, giving telescope owners an excellent opportunity to see Saturn and its rings. googletag.cmd.push(function() { if($(document).width()<900) { s = googletag.defineSlot('/50748803/dmj-all-bigbox', [300, 250], 'div-gpt-1648064270259-bbm3'); s.setConfig({targeting: {URL: [window.location.pathname]}}) s.setConfig({targeting: {position: [1648064270259]}}) s.setConfig({targeting: {story_id: 'september-offers-prime-planet-views-for-local-stargazers'}}) s.addService(googletag.pubads()); googletag.pubads().refresh([s], {changeCorrelator: false}); } }); Saturn nearing opposition Saturn’s strong position in September is connected to its upcoming opposition on Oct. 4. Sadowski explained that opposition occurs when Earth passes between the sun and an outer planet. Around opposition, the planet is opposite the sun in the sky, meaning it rises around sunset and remains visible throughout the night. “It is also when the planet will be at its closest, biggest and brightest for the year,” Sadowski said. Neptune will also reach opposition during September, on Sept. 26.",
-          "url": "https://www.discovermoosejaw.com/articles/september-offers-prime-planet-views-for-local-stargazers",
+          "title": "Stock Market Today: Nasdaq, Dow Fall As Crude Prices Rise; Taser Maker Gets Zapped (Live Coverage)",
+          "description": "Stock Market Today: The Dow Jones index falls Tuesday as oil prices pop. Nvidia and Micron retreat as Duolingo gets a huge price target hike.",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-micron-stock/",
           "source": {
-            "name": "DiscoverMooseJaw"
+            "name": "Investor's Business Daily"
           },
-          "publishedAt": "2026-09-01T11:02:42Z",
-          "image": "https://dht7q8fif4gks.cloudfront.net/2026-07/moon_0_0.jpg",
+          "publishedAt": "2026-09-01T15:19:00Z",
+          "image": "https://www.investors.com/wp-content/uploads/2023/01/Stock-AXON-chesttaser2-01-company.jpg",
           "language": "en"
         },
         {
-          "title": "Iran is again talking peace after Trump's warning of retaliation, consequences",
-          "description": "President Donald Trump, the U.S. and Iran are again talking peace over war after the latest weekend's strikes brought a return to hostilities and rising oil prices. Iran's president is meeting with China, Russia and India on Tuesday, while there is talk Iran is trying to run out the clock on the midterms, if not the Trump administration.",
-          "url": "https://www.foxnews.com/live-news/us-iran-war-news-trump-leader-latest-today-september-1",
+          "title": "Legal aid row pushing District Courts towards ‘Covid era backlogs’, solicitors warn",
+          "description": "Minister for Justice urged to resolve dispute as withdrawal of services by criminal defence solicitors puts strain on system",
+          "url": "https://www.irishtimes.com/crime-law/courts/2026/09/01/huge-drop-in-legal-aid-certificates-underlines-impact-of-solicitors-withdrawal-of-services/",
           "source": {
-            "name": "Fox News"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-09-01T11:02:33Z",
-          "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/012f80813f3e23bd5757453d33382195.jpg",
+          "publishedAt": "2026-09-01T15:17:47Z",
+          "image": "https://www.irishtimes.com/resizer/v2/UTJWK7I2FVE5DARHAUPQ3J7ZJQ.JPG?smart=true&auth=ecb2c0cbf5d7b24c15979770425ddf97669cca5953a644664ed4b80415804ef3&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "A massive plume deep beneath Africa is pulling the continent apart",
-          "description": "A vast plume rising from deep inside Earth may be responsible for mysterious movements along the East African Rift. The discovery reveals how forces deep in the mantle are working alongside shallower geological forces as the continent slowly pulls apart.",
-          "url": "http://www.sciencedaily.com/releases/2026/08/260831015210.htm",
+          "title": "Raygun Will Change Everything You Thought About Paris 2024",
+          "description": "Untold: Raygun will change your perspective on Rachael Gunn, who represented Australia in breakdancing during the Olympics 2024 Paris Summer Games.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/untold-raygun-rachael-gunn-redemption-story-netflix-1236683262/",
           "source": {
-            "name": "Science Daily"
+            "name": "The Hollywood Reporter"
           },
-          "publishedAt": "2026-09-01T11:02:15Z",
-          "image": "https://www.sciencedaily.com/images/1920/earth-splitting-apart-continental-rift.webp",
+          "publishedAt": "2026-09-01T15:16:08Z",
+          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2166052398-H-2026.jpg?w=1296&h=730&crop=1",
           "language": "en"
         },
         {
-          "title": "American missing in wake of Nepal floods contacted, Nepali officials tell CBS News",
-          "description": "Nepali officials tell CBS News they have contacted a U.S. national among the more than 4,000 people still missing in the wake of the deadly flash floods.",
-          "url": "https://www.cbsnews.com/news/nepal-flood-missing-american-contacted-nepali-officials-tell-cbs-news/",
+          "title": "Transfer deadline day live updates: Latest on Folarin Balogun's proposed move to Everton",
+          "description": "The summer transfer window closes today for most of Europe's major leagues",
+          "url": "https://www.cbssports.com/soccer/news/transfer-deadline-day-live-updates-manchester-city-enzo-fernandez-everton-folarin-balogun/live/",
           "source": {
-            "name": "CBS News"
+            "name": "cbssports.com"
           },
-          "publishedAt": "2026-09-01T11:02:00Z",
-          "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/01/7b6d37ef-9cb2-40ce-bc0d-5e55a2853b61/thumbnail/1200x630/2c4fb3f63dd3ac2ea2441ab18ec51e3e/nepal-floods-2292444789.jpg",
+          "publishedAt": "2026-09-01T15:15:00Z",
+          "image": "https://sportshub.cbsistatic.com/i/r/2026/09/01/641f0c18-a5a3-46a6-9590-e7903748941b/thumbnail/1200x675/2993f7ea09c53647bd3f7b54dd3eb7ba/balogun.jpg",
           "language": "en"
         },
         {
-          "title": "South Africa proposes provisional AD duties of up to 28.11 percent on Chinese color-coated steel",
-          "description": "The International Trade Administration Commission of South Africa (ITAC) has made a preliminary affirmative determination in its antidumping ...",
-          "url": "https://www.steelorbis.com/steel-news/latest-news/south-africa-proposes-provisional-ad-duties-of-up-to-2811-percent-on-chinese-color-coated-steel-1474354.htm",
+          "title": "Lindsay Clancy jurors are deadlocked, judge sends them back for more deliberations",
+          "description": "The jury in Lindsay Clancy’s murder trial told the judge Tuesday morning that it was unable to come to a unanimous decision at the start of a fourth day of deliberations.",
+          "url": "https://www.nbcnews.com/news/us-news/jury-lindsay-clancy-trial-deadlocked-judge-sends-back-deliberation-rcna595511",
           "source": {
-            "name": "Steel Orbis"
+            "name": "NBC News"
           },
-          "publishedAt": "2026-09-01T11:01:54Z",
-          "image": "https://tr.steelorbis.com/so/img/cmn/logo-steelorbis-og.png",
+          "publishedAt": "2026-09-01T15:14:54Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260901-lindsay-clancy-mn-0955-13ef3d.jpg",
           "language": "en"
         },
         {
-          "title": "Gabriel Jesus agrees to sudden contract change as Arsenal and Barcelona deal nears",
-          "description": "Arsenal have come to an agreement with Barcelona for Gabriel Jesus to complete a move on transfer deadline day and a late change has been made to his contract",
-          "url": "https://www.football.london/arsenal-fc/transfer-news/arsenal-transfer-news-gabriel-jesus-34549538",
+          "title": "Distributed cortical learning through LEC-mediated γ-synchrony",
+          "description": "Despite the well-established theoretical and experimental foundations of dopamine-driven reinforcement learning, how the reward prediction error (RPE) teaching signal modifies specific cortical memory networks remains unclear. Neural oscillations are crucial for the temporal binding of activities across distributed cell ensembles. Here, we identify that mouse lateral entorhinal cortex layer 5 (LEC5) mediated intercortical γ-synchrony is a neural correlate of the RPE signal derived from dopamine neurons in the ventral tegmental area (VTADA). The VTADA-LEC5 circuit-based intercortical γ-synchrony facilitates both learning and memory retention, and at the single-cell level, entrains the activity of cortical latent Engrams. Human brain recordings also validate a role of γ-synchrony in the processing of prediction errors. These findings indicate that LEC5-mediated intercortical γ-synchrony functions as a reinforcement learning signal that facilitates the establishment of cortical memory networks. How cortical networks are modulated by learning remains a fundamental question. Here, the authors show that LEC5-mediated (lateral entorhinal cortex layer 5-mediated) intercortical γ-synchrony acts as a reinforcement learning signal that facilitates the formation of cortical memory networks.",
+          "url": "https://www.nature.com/articles/s41467-026-77266-w?error=cookies_not_supported&code=783609c4-60f6-4b31-abb9-03eabd856277",
           "source": {
-            "name": "Football London"
+            "name": "Nature"
           },
-          "publishedAt": "2026-09-01T11:01:27Z",
-          "image": "https://i2-prod.football.london/article34549079.ece/ALTERNATES/s1200d/1_GettyImages-2292945036jp.jpg",
+          "publishedAt": "2026-09-01T15:14:04Z",
+          "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
           "language": "en"
         }
       ]
