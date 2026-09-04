@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-09-03T23:00:49.652Z",
+  "updatedAt": "2026-09-04T03:21:21.860Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "ARグラス「RayNeo GT Max」／AIグラス「RayNeo iO」レビュー",
+          "description": "RayNeoは、ARグラス「RayNeo GT」シリーズおよびAIグラス「RayNeo iO」を9月4日16時より販売する。価格は「RayNeo GT」シリーズが52,980円〜、「RayNeo iO」が89,000円。",
+          "url": "https://game.watch.impress.co.jp/docs/review/rev1/2137932.html",
+          "source": {
+            "name": "GAME Watch"
+          },
+          "publishedAt": "2026-09-03T15:00:00Z",
+          "image": "https://game.watch.impress.co.jp/img/gmw/list/2137/932/1.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "【市場反応】米ISM非製造業景況指数は予想上回る、仕入れ価格上昇も雇用が冴えず、ドル売りは継続｜FX・為替ニュース",
+          "description": "[欧米市場の為替相場動向] 米供給管理協会（ISM）が発表した8月ISM非製造業景況指数は55.4と、予想外に7月54.1から上昇し2月来で最高となった。仕入れ価格項目が上昇した一方、雇用項目が予想外に",
+          "url": "https://zai.diamond.jp/articles/-/495067",
+          "source": {
+            "name": "ザイFX！"
+          },
+          "publishedAt": "2026-09-03T14:33:00Z",
+          "image": "https://zai.diamond.jp/mwimgs/9/e/-/img_9e47ac79ce2cf237f05d70fc22e16d45110540.png",
+          "language": "ja"
+        },
+        {
+          "title": "『FF7 リベレーション』発売日が2027年4月8日に決定！ 10分にわたるプレイ映像でシドたちの戦闘やクエスト・探索の新要素も公開【State of Play】",
+          "description": "『ファイナルファンタジーVII リベレーション』の発売日が2027年4月8日に決定。10分におよぶプレイ映像でシドやヴィンセント、ウェアなどの新要素の詳細が公開。3部作をコンプリートした“トリロジーパック”も販売される。",
+          "url": "https://www.famitsu.com/article/202609/86568",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-09-03T14:10:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/86568/thumbnail_iSNy.jpg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "『グランツーリスモ7』スペック4アップデートが10月と12月に配信。日本のSUGOサーキット、合計12台のクルマなどが登場【State of Play】",
+          "description": "『グランツーリスモ7』のスペックIVアップデートの詳細が“State of Play（ステートオブプレイ）／State of Play 日本”にて解禁。2026年10月、12月と2回に分けて配信する。追加予定の合計12車種も先行公開。",
+          "url": "https://www.famitsu.com/article/202609/86607",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-09-03T13:54:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/86607/thumbnail_YZPs.jpg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "SixTONES松村北斗、今田美桜の配慮に感激「優しいんですよ本当に」意外な裏話で笑い誘う【白鳥とコウモリ】",
+          "description": "SixTONESの松村北斗が3日、都内で行われた映画『白鳥とコウモリ』公開前夜祭舞台挨拶に、共演の今田美桜、柄本佑、吉田羊、メガホンをとった岸善幸監督とともに登壇した。今田に優しさを感じたエピソードを明かした。",
+          "url": "https://mdpr.jp/cinema/detail/4839097",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-09-03T12:52:32Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/snGo/wm/snGoJkeEKXMb1mdB25RFKgoAi7cJ8vThiy7vuoIRydE.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
         {
           "title": "九州で記録的大雨か 宮崎は72時間1000ミリのおそれ 週明けは東日本・東北も",
           "description": "秋雨前線に台風24号からの暖かく湿った空気が流れ込み、西日本の太平洋側では4日(金)から6日(日)にかけて大雨となるおそれがあります。特に宮崎県周辺では、6日(日)までの72時間雨量が多い所で100",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-09-03T09:54:00Z",
           "image": "https://img.kai-you.net/storage/2026/09/71c1f7d3-062a-4fea-84e8-775883a4543c/jpg/komeo.jpg",
           "language": "ja"
-        },
-        {
-          "title": "なぜいま「パジェロ復活」なのか？ 三菱が突き進む「ブランド価値再構築」でライバル中国勢に勝つ道筋",
-          "description": "2026年9月2日、三菱自動車が新型パジェロをワールドプレミアした。1982年に初代が登場し、国内にクロカン4WDブームを巻き起こし、そうしてブームが去ったのち、日本向けの生産が2019年に終わり、輸出向けも2021年で幕を閉じた三菱の大…",
-          "url": "https://bestcarweb.jp/newcar/1624251",
-          "source": {
-            "name": "bestcarweb.jp"
-          },
-          "publishedAt": "2026-09-03T09:52:28Z",
-          "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/09/03183651/FRX_4904.jpg?v=1788428212",
-          "language": "ja"
-        },
-        {
-          "title": "W杯後 日本代表26人中9人が“新天地”へ プレミアに鈴木彩艶、冨安健洋、前田大然 上田綺世オランダ→フランス 中村敬斗はリヨンに電撃移籍",
-          "description": "FIFAワールドカップ2026を戦ったサッカー日本代表。今夏では、選出された26人のメンバーのうち9人が新たなチームでプレーすることになりました。\n今回、新天地への移籍が実現したのは、GKで鈴木彩",
-          "url": "https://news.yahoo.co.jp/articles/5467aa01cdf42658ae1a68fbe34ecc2ab14d6601",
-          "source": {
-            "name": "news.yahoo.co.jp"
-          },
-          "publishedAt": "2026-09-03T09:46:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260903-01567599-nnn-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "いくこう「日本組だけの公式練習、なんか変だね」 木下杯",
-          "description": "フィギュアスケートのチャレンジャー・シリーズ（CS）木下グループ杯の公式練習が3日、会場の田中貴金属アイスアリーナ（東京辰巳アイスアリーナ）であり、アイスダンスの「いくこう」こと櫛田育良選手（木下アカデミー）、島田高志郎選手（木下グループ）組が調整した。",
-          "url": "https://mainichi.jp/articles/20260903/k00/00m/050/255000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-09-03T09:41:47Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/09/03/20260903k0000m050266000p/0c10.jpg?1",
-          "language": "ja"
-        },
-        {
-          "title": "【台風24号】近畿地方で雨が強まる、大阪や奈良に大雨警報 7日にかけ長雨恐れ、土砂災害警戒を",
-          "description": "大阪管区気象台は３日夕、大雨と落雷、突風に関する気象情報を発表し、近畿地方は７日頃にかけて長期間の大雨が続く可能性があるとして、土砂災害へ…",
-          "url": "https://www.kyoto-np.co.jp/articles/-/1784168",
-          "source": {
-            "name": "京都新聞デジタル"
-          },
-          "publishedAt": "2026-09-03T09:21:00Z",
-          "image": "https://kyoto-np.ismcdn.jp/mwimgs/f/7/1200wm/img_f789624dab61c5b45300cdeeea966a551089966.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『薬屋のひとりごと』実写ドラマ化に猫猫役の芦田愛菜さんは「大好きなキャラクターを演じられるのはこの上ない幸せ」――豪華俳優陣も登壇した「Prime Video Presents 東京」をレポート！",
-          "description": "『薬屋のひとりごと』の実写ドラマ化や『日本三國』のアニメ続編も発表！日本オリジナル作品への投資額を2倍にすることも発表された「Prime Video Presents 東京」をレポート！",
-          "url": "https://hobby.dengeki.com/event/3147590/",
-          "source": {
-            "name": "電撃ホビーウェブ"
-          },
-          "publishedAt": "2026-09-03T08:15:39Z",
-          "image": "https://hobby.dengeki.com/ss/hobby/2026/09/samu_dO1W3CFcyqvTjEiDuMmSRvtyR0Ct7urh_3g2Q3p_GtkQlAlZ9USroL0TVN_AU-V9m.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "At Mbarara University, the university quiz fever",
-          "description": "“If I hadn’t been exposed through that quiz, answering those sports questions, trust me, I wouldn’t have been re-elected for the second time as chairperson of the students’ Sports and Games Union,” says medicine student Stewart Agaba.",
-          "url": "https://www.newvision.co.ug/category/education/at-mbarara-university-the-university-quiz-fev-NV_240032_092026",
+          "title": "AI framework predicts ambulance speeds through city traffic",
+          "description": "A new AI framework can predict how fast an ambulance will move through city traffic, giving fire departments a way to test emergency response strategies in a virtual environment before making changes on real streets.",
+          "url": "https://techxplore.com/news/2026-09-ai-framework-ambulance-city-traffic.html",
           "source": {
-            "name": "NewVision.co.ug"
+            "name": "Tech Xplore"
           },
-          "publishedAt": "2026-09-03T11:00:05Z",
-          "image": "https://newvision-media.s3.amazonaws.com/cms/3dcc6d53-d61b-499a-94d5-256049568e5d.jpg",
+          "publishedAt": "2026-09-03T15:20:01Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/ambulance.jpg",
           "language": "en"
         },
         {
-          "title": "Tesla teases 'no steering wheel, no pedals' ahead of Cybercab update",
-          "description": "Tesla first unveiled the Cybercab almost two years ago, and fans of the company have been waiting to hear more.",
-          "url": "https://www.cnbc.com/2026/09/03/tesla-teases-no-steering-wheel-no-pedals-ahead-of-cybercab-update.html",
+          "title": "Plans resubmitted for major Donegal Town bar expansion",
+          "description": "A planning application has been resubmitted for a major expansion of McCafferty’s Bar in Donegal Town.The proposed development will see the merger of two adjoin...",
+          "url": "https://www.donegaldaily.com/lead-stories/plans-resubmitted-for-major-donegal-town-bar-expansion-648142",
           "source": {
-            "name": "CNBC"
+            "name": "Donegal Daily"
           },
-          "publishedAt": "2026-09-03T11:00:02Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108217500-17615992202025-10-27t210414z_749579595_rc2gkhaoovvj_rtrmadp_0_tesla-usa.jpeg?v=1761599290&w=1920&h=1080",
+          "publishedAt": "2026-09-03T15:20:00Z",
+          "image": "https://img.resized.co/donegaldaily/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAyNlxcXC8wOVxcXC9hNjVob0NSSS1tY2NhZmZlcnR5cy1iYXItZG9uZWdhbC10b3duLXBsYW5zLTItMTAyNHg1NzYucG5nXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAyNlxcXC8wM1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiODM5NmQwYTY1NDM4NWY3OWY3YjYwYTE5OWE3NjFiYTEyODUzNzY5YiJ9/plans-resubmitted-for-major-donegal-town-bar-expansion.png",
           "language": "en"
         },
         {
-          "title": "Ottawa giving combined $11.6M to 8 Saskatoon companies for tariff relief",
-          "description": "Ottawa has announced $11.6 million for 10 projects at eight Saskatoon companies, money the federal government says will help soften the blow from U.S. tariffs.",
-          "url": "https://www.cbc.ca/news/canada/saskatchewan/tariff-relief-saskatoon-companies-9.7330265",
+          "title": "Schools to close early for A66 crash funeral",
+          "description": "The funeral of one of five young men killed in the crash with a police car is due to take place.",
+          "url": "https://www.bbc.com/news/articles/c2kwv0dypnwo",
           "source": {
-            "name": "CBC"
+            "name": "bbc.com"
           },
-          "publishedAt": "2026-09-03T11:00:00Z",
-          "image": "https://i.cbc.ca/ais/9f1e84c2-4eaa-479e-a54a-d56ca89e79e6,1788389072149/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3BResize%3D620",
+          "publishedAt": "2026-09-03T15:19:28Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2410/live/0cbb6520-a786-11f1-b2d5-535b3b3d379f.jpg",
           "language": "en"
         },
         {
-          "title": "Free access to National Parks near Johannesburg",
-          "description": "It's National Parks Week once again and participating national parks near Johannesburg are offering free entrance for South Africans to explore these facilities this Tourism Month.",
-          "url": "https://www.timeout.com/johannesburg/news/national-parks-week-090326",
+          "title": "CJ's tour of parastatals: It’s shocking, unprecedented",
+          "description": "Former Information Minister and Member of Parliament for Ofoase-Ayirebi, Kojo Oppong Nkrumah, has described the Chief Justice’s tour of state-owned enterprises and agencies as “shocking and unprecedented.”",
+          "url": "https://ghanaiantimes.com.gh/cjs-tour-of-parastatals-its-shocking-unprecedented-kojo-oppong-nkrumah/",
           "source": {
-            "name": "Time Out Worldwide"
+            "name": "Ghanaian Times"
           },
-          "publishedAt": "2026-09-03T11:00:00Z",
-          "image": "https://media.timeout.com/images/106443333/image.jpg",
+          "publishedAt": "2026-09-03T15:18:32Z",
+          "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-13.42.29.jpeg",
           "language": "en"
         },
         {
-          "title": "Random Hollywood Actor Tim Curry And The Mystery Of The Game Boy He Was \"Furious\" To Lose",
-          "description": "The actor was \"never without his Game Boy\" - The last few weeks have seen the passing of many famous celebrities, including, notably, the legendary actor, vo...",
-          "url": "https://www.timeextension.com/news/2026/09/random-hollywood-actor-tim-curry-and-the-mystery-of-the-game-boy-he-was-furious-to-lose",
+          "title": "NBA waiting for Raptors, Clippers to submit Leonard trade for approval",
+          "description": "The NBA is still waiting for the Toronto Raptors and Los Angeles Clippers to submit the Kawhi Leonard trade for approval.",
+          "url": "https://www.tsn.ca/nba/article/nba-waiting-for-raptors-clippers-to-submit-leonard-trade-for-approval/",
           "source": {
-            "name": "Time Extension"
+            "name": "TSN"
           },
-          "publishedAt": "2026-09-03T11:00:00Z",
-          "image": "https://images.timeextension.com/3c5c91d66ebfe/large.jpg",
+          "publishedAt": "2026-09-03T15:16:19Z",
+          "image": "https://www.tsn.ca/resizer/v2/T3FGNYEGE5CRVKEDOWC6FI3NCQ.jpg?smart=true&auth=43254ed8f6b9cee30d6dc91f226efd241696d616b8c2d8763fc8566b34ebf18e&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Sim Hui Ting to be appointed Commissioner of Charities",
-          "description": "She succeeds Desmond Chin, who will relinquish his public service appointments in April 2027. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/singapore/sim-hui-ting-to-be-appointed-as-commissioner-of-charities-from-april-2027",
+          "title": "Confirmed: No Generative AI in Warhammer 40,000: Space Marine 3",
+          "description": "The Emperor is watching.",
+          "url": "https://za.ign.com/rideshare-stimulator/240476/confirmed-no-generative-ai-in-warhammer-40000-space-marine-3",
           "source": {
-            "name": "The Straits Times"
+            "name": "IGN Africa"
           },
-          "publishedAt": "2026-09-03T11:00:00Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/cfabe3b9975e444bc1ac35268ed0ed7b091928599a5b88ade202e70b58c7b53d",
+          "publishedAt": "2026-09-03T15:14:54Z",
+          "image": "https://sm.ign.com/t/ign_za/news/c/confirmed-/confirmed-no-generative-ai-in-warhammer-40000-space-marine-3_2329.1200.png",
           "language": "en"
         },
         {
-          "title": "380 000 Namibians rely on Govt grants to survive",
-          "description": "%%title%% %%sep%% %%primary_category%% %%sep%% %%sitename%% %%sep%% For nearly 380 000 Namibians, a government grant is not simply an additional source of income, but the money they rely on to get through the month.",
-          "url": "https://www.namibian.com.na/380-000-namibians-rely-on-govt-grants-to-survive/",
+          "title": "Travel Promoters expands portfolio into Botswana and Mozambique with Kaelo Destinations",
+          "description": "Sussex based Travel Promoters, one of the UK’s leading luxury representation companies specialising in Africa and the Indian Ocean, is delighted to share its appointment by Kaelo Destinations from 1 September 2026,",
+          "url": "https://atta.travel/resource/travel-promoters-expands-portfolio-into-botswana-and-mozambique-with--kaelo-destinations.html",
           "source": {
-            "name": "The Namibian -"
+            "name": "Atta Travel."
           },
-          "publishedAt": "2026-09-03T11:00:00Z",
-          "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/09/lkjhgf.jpg",
+          "publishedAt": "2026-09-03T15:14:09Z",
+          "image": "https://atta.travel/static/f425ffcb-494e-4af6-8f6186be8164e8a5/opengraphimage_83f4e8796336604b59d7216d0ecd81a5_4a7c7e45a350/TravelPromoters.png",
           "language": "en"
         },
         {
-          "title": "An epic train chase is turning 100 — and Buster Keaton fans are celebrating",
-          "description": "100 years ago, silent film star Buster Keaton filmed The General in Cottage Grove, Ore. Fans are gathering there to celebrate the making of an epic early film.",
-          "url": "https://www.npr.org/2026/09/03/nx-s1-5921324/the-general-buster-keaton-anniversary",
+          "title": "Free Play Days: Try These Xbox Games For Free (September 3-6)",
+          "description": "Presenting September's first batch of weekend freebies! - Well, waddaya know? Thursday. Yep, it's the first one of September, which means your next batch of ...",
+          "url": "https://www.purexbox.com/news/2026/09/free-play-days-try-these-xbox-games-for-free-september-3-6",
           "source": {
-            "name": "NPR"
+            "name": "Pure Xbox"
           },
-          "publishedAt": "2026-09-03T11:00:00Z",
-          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x2530+0+346/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2Fc1%2F5c65b5e245978b75506309f6d21e%2F2026-08-29-busterkeatonfestival-krossow-7915.jpg",
+          "publishedAt": "2026-09-03T15:14:00Z",
+          "image": "https://images.purexbox.com/086d23a6689aa/large.jpg",
           "language": "en"
         },
         {
-          "title": "Kenya's President William Ruto orders crackdown on foreigners operating small businesses",
-          "description": "It comes amid concerns over the growing number of traders from neighbouring countries.",
-          "url": "https://www.bbc.com/news/articles/c9861x5pzgxo",
+          "title": "Barcelona already working on renewing three teenage breakout stars - report",
+          "description": "FC Barcelona closed the summer transfer window on Tuesday with several new signings while also bidding goodbye to a number of players from the senior team as well as the youth setup. With the window now closed, sporting director Deco now has a clear picture of the club’s Financial Fair Play situation. Now, the sporting […]",
+          "url": "https://barcauniversal.com/barcelona-already-working-on-renewing-three-teenage-breakout-stars-report/",
           "source": {
-            "name": "BBC"
+            "name": "Barca Universal"
           },
-          "publishedAt": "2026-09-03T10:59:14Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/481a/live/7365e240-a782-11f1-a291-b542ee92de7c.png",
+          "publishedAt": "2026-09-03T15:13:20Z",
+          "image": "https://barcauniversal.com/wp-content/uploads/2026/09/elche-cf-v-fc-barcelona-laliga-ea-sports-2026-27-3-1000x600.jpg",
           "language": "en"
         },
         {
-          "title": "Gauteng records dramatic decline in new foot-and-mouth disease outbreaks",
-          "description": "Gauteng's agriculture department has reported that the province recorded a 96.34% decline in new Foot-and-Mouth Disease (FMD) outbreaks.",
-          "url": "https://www.jacarandafm.com/news/news/gauteng-records-decline-in-foot-mouth-disease-outbreak/",
+          "title": "Time for PAS to lead with its own PM candidate, says youth leader",
+          "description": "PAS Youth delegate from Kedah, Ilyas Ahmad, says the Islamic party is deserving of a leading role in the federal government due to its clean record.",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/09/03/time-for-pas-to-lead-with-its-own-pm-candidate-says-youth-leader",
           "source": {
-            "name": "Jacaranda FM"
+            "name": "Free Malaysia Today"
           },
-          "publishedAt": "2026-09-03T10:58:00Z",
-          "image": "https://turntable.kagiso.io/images/Cattle.width-800_1.width-400.jpg",
+          "publishedAt": "2026-09-03T15:13:00Z",
+          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2024/05/12ef3e19-02-perdana-putra-putrajaya-070524.webp",
           "language": "en"
         }
       ]
