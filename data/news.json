@@ -1,10 +1,109 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-09-05T14:44:34.960Z",
+  "updatedAt": "2026-09-05T17:11:22.266Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "アルゼンチン大統領、フォークランド諸島の領有権を改めて主張 石油会社への制裁ちらつかせる",
+          "description": "アルゼンチンのミレイ大統領は3日、南大西洋にあるフォークランド諸島の周辺で石油採掘を行う企業に経済制裁を課すと警告した。領有権を争っているイギリスとの間で緊張が高まっている。",
+          "url": "https://www.bbc.com/japanese/articles/c0465vwnnwzo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-09-05T04:51:42Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/1fc3/live/83b274c0-a8df-11f1-a291-b542ee92de7c.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "iPhone18 Pro発表まで5日〜可変絞りや本体カラーの最新予想",
+          "description": "Appleは日本時間2026年9月10日午前2時から、新製品発表イベント「おはよう世界。」を開催します。イベントまで残り5日となった時点での、iPhone18 Proシリーズに関する最新予想をBloombergのマーク・ガーマン記者が伝えています。",
+          "url": "https://iphone-mania.jp/iphone18-605290/",
+          "source": {
+            "name": "iPhone Mania"
+          },
+          "publishedAt": "2026-09-05T04:45:04Z",
+          "image": "https://iphone-mania.jp/wp-content/uploads/2026/09/05/iPhone18-Pro-AH-0905.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "エヌビディアCEOの純資産が約31.2兆円に迫る──Hugging Face買収発表で株価上昇",
+          "description": "エヌビディアを創業し、CEOを務めるジェンスン・フアンの推定純資産が、米国時間9月4日に2000億ドル（約31兆2000億円）へ迫った。エヌビディアが9月3日、AIモデル共有サイトのHugging Faceを買収すると発表した翌日にあたり、...",
+          "url": "https://forbesjapan.com/articles/detail/104144",
+          "source": {
+            "name": "Forbes JAPAN"
+          },
+          "publishedAt": "2026-09-05T03:33:00Z",
+          "image": "https://images.forbesjapan.com/media/article/104144/images/main_image_8476b85dd880fc9fe306ce35c3b601c148b1127c.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "小島監督の隣に写るのは、映画「バックルームズ」手掛けたケイン・パーソンズ監督！初来日の舞台あいさつで対面し、影響を受けたゲーム作品など語る【となりのヒデオ】",
+          "description": "来日舞台あいさつに小島監督が登壇！",
+          "url": "https://www.gamespark.jp/article/2026/09/05/171803.html",
+          "source": {
+            "name": "Game*Spark"
+          },
+          "publishedAt": "2026-09-05T03:30:03Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1186444.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "関東～九州で8日にかけて大雨による道路への影響リスク拡大 冠水した道路は避けて",
+          "description": "台風24号や熱帯低気圧の暖かく湿った空気の影響で秋雨前線の活動が活発になっています。この秋雨前線が8日(火)頃にかけてゆっくり北上するでしょう。大雨エリアが本州にも拡大する見込みです。高速道路は通行止めや速度規制など、影響が出ることが考えられます。九州南部では7日(月)頃にかけて、東海や関東甲信は6日(日)から、東北南部の太平洋側では7日(月)から道路への影響リスクが大きくなるでしょう。",
+          "url": "https://tenki.jp/forecaster/t_yoshida/2026/09/05/40466.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-09-05T03:29:54Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/404/40466/ogp/20260905121822/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『こち亀』10年ぶり新作アニメ、2027年放送 両津勘吉役・落合福嗣ら派出所キャスト4人発表、PV公開",
+          "description": "人気漫画『こちら葛飾区亀有公園前派出所』の新アニメプロジェクト『新こちら葛飾区亀有公園前派出所』が、2027年にフジテレビにて放送されることが発表された。本格的な新作アニメの制作は16年以来10年",
+          "url": "https://news.yahoo.co.jp/articles/a151be91218fb6fa119b1dbbe28627a52af0193a",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-09-05T03:15:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260905-00000386-oric-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "新アニメ『こち亀』新たな声優が発表。両さん（落合福嗣）、中川圭一（蒼井翔太）、秋本麗子（M・A・O）、大原部長（坂本頼光）。2027年にフジテレビで放送",
+          "description": "新アニメ『新こちら葛飾区亀有公園前派出所』の派出所メンバーの新たな声優陣が発表。2027年にフジテレビで放送予定。",
+          "url": "https://www.famitsu.com/article/202609/86782",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-09-05T03:15:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/86782/thumbnail_JKag.jpg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "「一人暮らし、これひとつで問題ありません」無印良品の1090円“丼にも皿にもなる白い器” 「ラーメンもカレーも」「食器がすっきり」",
+          "description": "無印良品の「白磁多用鉢」は、うっすらと青みがかった白磁の表情が特徴の、日常の食卓に取り入れやすい器です。約直径20×高さ6.5センチメートルの鉢で、品質の高い天草陶石を砕いて練り上げた土を使用。装飾を抑えたシンプルな白磁の器を探している人におすすめのアイテムです。　本記事では「白磁多用鉢」を紹介していきます…",
+          "url": "https://nlab.itmedia.co.jp/research/articles/3998233/",
+          "source": {
+            "name": "ねとらぼ"
+          },
+          "publishedAt": "2026-09-05T03:10:00Z",
+          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/10/1760406801_20a20efa3ee605bf8f0a03494b332a5d.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【ド変態スマホ】正方形ボディ×物理キーボード!? 異端児IKKO「MindOne Pro」のギミックが面白すぎる",
+          "description": "IKKOの「MindOne Pro」は、約4型の正方形ディスプレーと回転式カメラを備えた異色の小型スマホです。専用ボタンでAndroidとAI OSを切り替え可能で、AI機能は対象国で無料通信できる「NovaLink」に対応。別売のキーボードケースを使えば長文入力もこなせる、遊び心満載の端末です。",
+          "url": "https://ascii.jp/elem/000/004/431/4431805/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-09-05T03:00:00Z",
+          "image": "https://ascii.jp/img/2026/09/02/4520987/xl/1393e02dc1c65ce2.jpg?20200122",
+          "language": "ja"
+        },
         {
           "title": "大谷翔平 欠場長期化の可能性も…ロバーツ監督「あの状態の彼を出場させることが良いとは思わない」",
           "description": "＜2026年9月4日（日本時間5日）ロサンゼルス・ドジャース 対 セントルイス・カージナルス＞\nドジャースのデーブ・ロバーツ監督が4日（日本時間5日）、カージナルス戦前に取材に応じ、2試合連続でス",
@@ -15,216 +114,117 @@
           "publishedAt": "2026-09-05T02:44:30Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260905-00010003-tvtokyos-000-2-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "イラン戦争 米政権から矮小化発言",
-          "description": "（ブルームバーグ）： トランプ米大統領はイランでの戦争を「取るに足らないことだ」と述べた。6カ月以上続いている紛争を巡り、トランプ政権からはその規模を軽視する発言が相次いでいる。",
-          "url": "https://news.yahoo.co.jp/pickup/6594272",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-09-05T02:42:50Z",
-          "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/5/bf09db23cdf660d7bd04dc26f41012c8d6793d2433424c6f5bfd44b0f110552a.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "iPhone 18 Proの画面、より見やすく、省エネへ？",
-          "description": "2026年5月10日の記事を編集して再掲載しています。画面も良い進化が来そうな予感。今秋に登場（予定）のiPhone 18 Proと18 Pro Max。どんな進化が、未来がやってくるのか？ 今からさまざまな噂が飛び交っていますが、画面の仕",
-          "url": "https://www.gizmodo.jp/article/iphone-18-pro-ltpo-plus-display-upgrade-ggl/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-09-05T02:35:00Z",
-          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/05/07/20260507gak00.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "「金儲け感」の声も…桐山照史のドッグカフェで6万円シャンパン提供、藤井＆小瀧の脱退発表直後の誕生日祝いで波紋（ピンズバNEWS）",
-          "description": "7人組男性アイドルグループ・WEST.から、藤井流星（33）と小瀧望（30）が脱退することが8月30日に発表された。突然の発表にファンの間に大きな動揺が走る中で、他のメンバーの活動にも再注目が集ま",
-          "url": "https://news.yahoo.co.jp/articles/2e32c15137dfdaa8f7d5cb0af66b29e227cc3a06",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-09-05T02:00:37Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260905-00017711-pinzuba-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "中国AI、低料金競争止まらず 智譜はDeepSeekの7割安モデル",
-          "description": "【広州=藤野逸郎】中国の人工知能（AI）企業が格安料金のAIモデルを投入している。米国AIに比べもともと安かったがさらに安い。高いシェアを握ってきた中国AI新興、DeepSeek（ディープシーク）が8月中旬に大幅値上げした間隙を突く狙いだ。8月20日、無名の格安AIモデル「Ox-Alpha」が突如登場した。様々なモデルを使い分けて使える米オープンルーターのサービスで、同モデルを使ったトークン数",
-          "url": "https://www.nikkei.com/article/DGXZQOGM038X50T00C26A9000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-09-05T02:00:00Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3553561004092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=7543263e65114e9a6fedc966c5510bc4",
-          "language": "ja"
-        },
-        {
-          "title": "「ばあちゃん、ありがとう！」資産1億2,000万円の85歳・認知症祖母から“計6回の結婚祝い600万円”を戸惑いながら受け取った孫の末路…税務調査で突きつけられた〈絶望のペナルティ〉【税理士が解説】",
-          "description": "認知症の祖母から結婚祝いを6回受け取り600万円になった事例を紹介。祖母の他界後に税務調査が入り贈与税68万円の申告漏れが発覚したとのこと。2024年改正で生前贈与の相続加算期間が3年から7年に延長され注意が必要だ",
-          "url": "https://news.livedoor.com/article/detail/32248081/",
-          "source": {
-            "name": "ライブドアニュース"
-          },
-          "publishedAt": "2026-09-05T01:45:00Z",
-          "image": "https://image.news.livedoor.com/newsimage/stf/3/0/30a8c_1719_a5792cc9_3c349b30.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "国連総会、アフリカの実際の面積を反映した世界地図への置き換えを決議",
-          "description": "国連総会は4日、従来の世界地図を、アフリカ大陸の大きさをより正確に反映したものに置き換える決議案を採択した。西アフリカのトーゴが提出し、アフリカ連合（AU）加盟国が支持した決議案は、フランスやイギリス、日本を含む164カ国の賛成を得て可決された。反対票を投じたのはアメリカのみで、棄権は6カ国だった。",
-          "url": "https://www.bbc.com/japanese/articles/cvgy7g9wlw8o",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-09-05T01:36:23Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/1f88/live/bff197b0-a874-11f1-b109-879e35c24276.png",
-          "language": "ja"
-        },
-        {
-          "title": "「あ、今なった」19歳で2つ、32歳で3つめの難病を発症…酒井若菜（45）を襲った“全身が動かない恐怖”と、周囲の「嘘つき」という勘違い（文春オンライン）｜ｄメニューニュース",
-          "description": "「あ、今なった」19歳で2つ、32歳で3つめの難病を発症…酒井若菜（45）を襲った“全身が動かない恐怖”と、周囲の「嘘つき」という勘違い（文春オンライン）〈 「グラビアは芸能界のヒエラルキー的に低いところだった」大きい胸がコンプレックスだった酒井若菜（45）が泣きながら続けた3…",
-          "url": "https://topics.smt.docomo.ne.jp/article/bunshun/entertainment/bunshun-91481?redirect=1",
-          "source": {
-            "name": "topics.smt.docomo.ne.jp"
-          },
-          "publishedAt": "2026-09-05T01:00:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/bunshun/m_bunshun-91481.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "米雇用統計で金利上昇も崩れぬリスク資産－投資家の売り広がらず(Bloomberg)",
-          "description": "（ブルームバーグ）： 世界的な債券売りが進んでいるが、ウォール街を揺るがすほどの打撃にはなっていない。資金調達コストの見...",
-          "url": "https://finance.yahoo.co.jp/news/detail/43e747f288d4dd53d8999f10e532d418837125c1",
-          "source": {
-            "name": "Yahoo!ファイナンス"
-          },
-          "publishedAt": "2026-09-05T00:04:00Z",
-          "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
-          "language": "ja"
-        },
-        {
-          "title": "平手友梨奈「一定期間の療養と安静が必要」喉の不調のため 10月のフェス出演キャンセル「しっかりと治療に専念」",
-          "description": "ニュース｜　歌手で俳優の平手友梨奈（25）が喉の不調のため「一定期間の療養と安静が必要」との診断を受けたとして、10月4日に韓国・仁川で行われる日韓フェス「XMF 2026 (Xnterstellar Music Festival 2026)」の出演をキャンセルすると所属事務所が4日発表した。当面は治療に専念する。　事務所の公式サイトでは「平手友梨奈【XMF 2026 (Xnterstellar Music Festival 2026)、出演キャンセルのお知らせ】」と題したページを掲載。「先日より喉に不調を感じており、医師による診察を重ねたところ、一定期間の療養と安静が必要であるとの見解を受け、10月4日（日）に出演を予定しておりました『XMF 2026 （Xnterstellar Music Festival 2026）』につきまして、本人・スタッフで協議を重ねましたが、万全のパフォーマンスをお届けすることが困難であると判断し、苦渋の決断ではございますが、出演をキャンセルさせていただく運びとなりました」と伝えた。",
-          "url": "https://www.oricon.co.jp/news/2478506/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-09-04T23:48:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2479000/2478506/20260226_193941_p_o_12544979.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Beloved father Ryan Riethmuller second Gungahlin crash death",
-          "description": "Ryan Riethmuller, 39, died from injuries after a Gungahlin Drive crash. His family and club share how loved he was and his impact on those around him.",
-          "url": "https://www.canberratimes.com.au/story/9344300/beloved-father-ryan-riethmuller-second-gungahlin-crash-death/",
+          "title": "Atletico Madrid XI vs Athletic Club - Predicted lineup and team news",
+          "description": "Atlético Madrid head to San Mamés to face Athletic Club in their fourth La Liga fixture of the season, with both sides meeting on Saturday evening.Atlético arrive in strong shape, holding third pla...",
+          "url": "https://sports.yahoo.com/articles/atletico-madrid-xi-vs-athletic-051000153.html",
           "source": {
-            "name": "The Canberra Times"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-09-05T02:41:54Z",
-          "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/247426882/fb9e5c90-6de1-43d0-a91f-ea0f424b7ce4.jpeg/r178_38_1822_901_w1200_h630_fmax.jpg",
+          "publishedAt": "2026-09-05T05:10:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/7d1100e337939a8bfc00a3c5426859cf75922af02b848a48fe32bcc7e8d68760/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_football_faithful_articles_458%2Fd771d477134d16aa36d916f582aad968.jpg",
           "language": "en"
         },
         {
-          "title": "Blaze at café next to NZ's oldest building ‘suspicious’",
-          "description": "Blaze at café next to NZ's oldest building ‘suspicious’",
-          "url": "https://www.odt.co.nz/news/national/blaze-at-cafe-next-to-nzs-oldest-building-suspicious-iqktfp32",
+          "title": "Mbappe misses last-gasp penalty as Parrott hands Real Madrid first loss of season",
+          "description": "Dogged defending from Real Betis was rewarded when Troy Parrott pounced to score a late winner in a 1-0 LaLiga victory over Real Madrid, extending Los Verdiblancos’ unbeaten home H2H record to five games (W2, D3).",
+          "url": "https://www.flashscore.com/news/soccer-laliga-real-betis-real-madrid-report-september-4th-2026/rRAuRHBU/",
           "source": {
-            "name": "ODT"
+            "name": "Flashscore.com"
           },
-          "publishedAt": "2026-09-05T02:41:27Z",
-          "image": "https://images.odt.co.nz/view/acePublic/alias/contentid/1tkyguizrartrlyny1z/0/stonetoeree-jpg.jpeg?f=3%3A2",
+          "publishedAt": "2026-09-05T05:08:53Z",
+          "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/292611e6-f235-46b0-8d92-fc18c975aa7e.jpeg",
           "language": "en"
         },
         {
-          "title": "New Bluey coin will hit you for six",
-          "description": "The new $1 coin will also celebrate one of Australia’s favourite pastimes.",
-          "url": "https://au.news.yahoo.com/bluey-coin-hit-six-024101010.html",
+          "title": "India's longevity boom must stop treating women as an afterthought",
+          "description": "This article is authored by Adil Khan, founder and CEO, Tulu Health.",
+          "url": "https://www.hindustantimes.com/ht-insight/public-health/indias-longevity-boom-must-stop-treating-women-as-an-afterthought-101788584226273.html",
           "source": {
-            "name": "au.news.yahoo.com"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-09-05T02:41:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/f3b978394f16e3aec1a485614e75224b9c293fbbc0873352a2e3047ee1104da3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnca_newswire_424%2F7adbf5533637b0b03437fa7268da2f1d.jpg",
+          "publishedAt": "2026-09-05T05:08:13Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/09/05/1600x900/logo/heart_attack_1757387010573_1757387010704_1788584869316_42bde338-3685-48bf-8f2e-12ae60928981_401eccdd-bd8c-4d29-8cdd-a1389a803b3c_86ca4904-c4a2-4cbf-92c4-7161ce444e80.jpg",
           "language": "en"
         },
         {
-          "title": "Germany's alliance against the far right",
-          "description": "Trade unions, churches and human rights activists are worried about the rise of the far-right AfD. How can civil society protect people who are threatened by far-right extremism?",
-          "url": "https://www.dw.com/en/germanys-alliance-against-the-far-right/a-79009105",
+          "title": "Unmissable JDM all-stars | Six of the Best",
+          "description": "Plenty of great cars have come from Japan over the years - the very best are kept for the domestic market...",
+          "url": "https://www.pistonheads.com/news/ph-six-of-the-best/unmissable-jdm-all-stars--six-of-the-best/51644",
           "source": {
-            "name": "dw.com"
+            "name": "PistonHeads"
           },
-          "publishedAt": "2026-09-05T02:40:17Z",
-          "image": "https://static.dw.com/image/73961486_6.jpg",
+          "publishedAt": "2026-09-05T05:06:54Z",
+          "image": "https://images.pistonheads.com/nimg/51644/evo.jpg",
           "language": "en"
         },
         {
-          "title": "DPWH moves to update flood management master plans nationwide",
-          "description": "MANILA, Philippines — The Department of Public Works and Highways (DPWH) is moving to update flood management master plans across the country as part of efforts to strengthen long-term flood resilience.",
-          "url": "https://www.manilatimes.net/2026/09/05/news/dpwh-moves-to-update-flood-management-master-plans-nationwide/2419100",
+          "title": "First time at 'relentless' level for rugby club",
+          "description": "The team will be playing at its highest level in the club's history",
+          "url": "https://www.bbc.com/news/articles/c2l8jgxpjddo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
           "source": {
-            "name": "The Manila Times"
+            "name": "BBC"
           },
-          "publishedAt": "2026-09-05T02:40:00Z",
-          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/05/1204127.jpg",
+          "publishedAt": "2026-09-05T05:06:09Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fad7/live/252fa7e0-a792-11f1-b64a-71b1e45ff5c7.jpg",
           "language": "en"
         },
         {
-          "title": "Mistrial declared in Lindsay Clancy child killings case as jury deadlocks",
-          "description": "Prosecutors must now decide whether to put Clancy on trial again, drop the charges or try to negotiate a plea deal.",
-          "url": "https://www.1news.co.nz/2026/09/05/mistrial-declared-in-lindsay-clancy-child-killings-case-as-jury-deadlocks/",
+          "title": "Alternative sites for LIMA proposed amid regional competition, says Khaled",
+          "description": "The defence minister says Malaysia must always make improvements, including in terms of venue size and exhibition facilities.",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/09/05/alternative-sites-for-lima-proposed-amid-regional-competition-says-khaled",
           "source": {
-            "name": "1News"
+            "name": "Free Malaysia Today"
           },
-          "publishedAt": "2026-09-05T02:37:51Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/defendant-lindsay-clancy-watches-jurors-enter-the-courtroom-PKBW7YPUDFHJDAISBBAKC5OWHY.jpg?auth=86a6ba0fa94860f45b1b80697a8e4b0227d00851aa9eb3e6e987653275c74723&quality=70&width=600&height=315&focal=1500%2C919",
+          "publishedAt": "2026-09-05T05:06:00Z",
+          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/06/84fab8e4-khaled-nordin-bernama-140626-1.webp",
           "language": "en"
         },
         {
-          "title": "36th African Street Festival brings culture, music and community together in Jackson",
-          "description": "The 36th annual African Street Festival brought culture, music and community together in Jackson.",
-          "url": "https://www.wbbjtv.com/2026/09/05/36th-african-street-festival-brings-culture-music-community-together-jackson/",
+          "title": "Flames seen, loud bangs heard as Qantas jet leaves Queenstown",
+          "description": "Shocked witnesses have described flames shooting from the engine of a Qantas jet flying out of Queenstown this afternoon. Loud bangs could also be heard as...",
+          "url": "https://www.nzherald.co.nz/nz/flames-seen-loud-bangs-heard-as-qantas-jet-leaves-queenstown/SFNPX4AH4ZC3RPOPMAX3K2RCZM/",
           "source": {
-            "name": "wbbjtv.com"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-09-05T02:36:00Z",
-          "image": "https://gray-wbbj-prod.gtv-cdn.com/resizer/v2/3VBTUSOVIZDCHJZCEVWZXO56ZE.png?auth=19a673ac14c377e23af5d4d9f4a42cee8d9948928c2b2c0a7b4d311db3546387&width=1200&height=600&smart=true",
+          "publishedAt": "2026-09-05T05:05:19Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/D45APJRI7VCCBL5MDMQFCH5MQE.jpg?auth=40a0119e91f8e34baea79050ebf0e6fd294df9a7ce21a2fc27b0ccc316959443&width=1200&height=675&quality=70&focal=1063%2C591&smart=false",
           "language": "en"
         },
         {
-          "title": "Serena and Venus Williams lose in a match tiebreaker in their return to the US Open",
-          "description": "Serena and Venus Williams are out of the US Open women’s doubles after losing in a match tiebreaker.",
-          "url": "https://www.cnn.com/2026/09/04/sport/serena-venus-williams-doubles-us-open",
+          "title": "Man United squad’s reaction to INEOS failing to sign a left-back has now emerged",
+          "description": "6 Almost every Manchester United fan felt the team needed another left-back this summer.They believed INEOS would go all guns blazing on deadline day to sort the issue out, but instead, the co-owners ...",
+          "url": "https://sports.yahoo.com/articles/man-united-squad-reaction-ineos-050500507.html",
           "source": {
-            "name": "cnn.com"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-09-05T02:35:00Z",
-          "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2293039540.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2026-09-05T05:05:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/10edcddd7f9b23e5ecde89a5654a0e2c5196d215f9ee2df288ed7d7c8ef0c6c3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_peoples_person_articles_356%2F0b25fe460a1ff59ea0f71d78cd66fcbf.jpg",
           "language": "en"
         },
         {
-          "title": "GB CM orders review of mountaineering laws, SOPs",
-          "description": "GILGIT   -  Chief Minister Gilgit-Baltistan Amjad Hussain has taken serious notice of multiple incidents during the ongoing mountaineering season,",
-          "url": "https://www.nation.com.pk/05-Sep-2026/gb-cm-orders-review-mountaineering-laws-sops",
+          "title": "3 Chinese nationals convicted of selling P3.5-M shabu",
+          "description": "TANAUAN CITY, Batangas - Three Chinese nationals have been found guilty of violating Section 5, Article II of Republic Act No. 9165, or the Comprehensive...",
+          "url": "https://mb.com.ph/2026/09/05/3-chinese-nationals-convicted-of-selling-p35-m-shabu",
           "source": {
-            "name": "nation.com.pk"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-09-05T02:34:00Z",
-          "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+          "publishedAt": "2026-09-05T05:03:45Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/09/05/129161.webp",
           "language": "en"
         },
         {
-          "title": "Star formation across the cosmos has fallen by roughly 59 per cent in 4.5 billion years, yet its reservoir of neutral atomic hydrogen declined by only about 11 to 26 per cent—a mismatch that rules out",
-          "description": "FAST and DESI data show that the universe retained most of its neutral atomic hydrogen while its star-formation rate fell by more than half, shifting attention to gas phase conversion and regulation.",
-          "url": "https://spacedaily.com/t-cosmic-star-formation-atomic-hydrogen-mismatch/",
+          "title": "A ‘gentle giant’: Man who died in Galway homeless hostel leaves will of almost €1.3m",
+          "description": "Victor Spaggiari, a well-known local personality, died in city’s Fairgreen Hostel in 2024",
+          "url": "https://www.irishtimes.com/ireland/social-affairs/2026/09/05/a-gentle-giant-man-who-died-in-galway-homeless-hostel-leaves-will-of-almost-13m/",
           "source": {
-            "name": "Space Daily"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-09-05T02:30:00Z",
-          "image": "https://spacedaily.com/wp-content/uploads/2026/09/cosmic-star-formation-atomic-hydrogen-pexels-32961169.jpg",
+          "publishedAt": "2026-09-05T05:03:09Z",
+          "image": "https://www.irishtimes.com/resizer/v2/S5HBOCYNABD6HH6IKLQG3MB6GY.jpeg?smart=true&auth=ec7ee3a54fded4cf779e26225acc82f4538421a9196cd7841686e46c41bd2b44&width=1200&height=630",
           "language": "en"
         }
       ]
