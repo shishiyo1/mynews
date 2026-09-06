@@ -1,10 +1,109 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-09-06T20:05:48.238Z",
+  "updatedAt": "2026-09-06T22:44:27.439Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "来週のAppleイベントで、楽しみにしておかない方がいいプロダクト3つ（ギズモード・ジャパン）",
+          "description": "先日、ティム・クック氏の後任としてApple CEOに着任したジョン・ターナス氏。さっそく従業員に向けて「来週には大きな発表があり､驚異的なものになるでしょう」とメッセージを残しています。\nそう！",
+          "url": "https://news.yahoo.co.jp/articles/e7cc5fc67834a299c42792b4b57844b112ef9d3a",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-09-06T10:00:02Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260906-00000002-giz-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "作業通話アプリ「hoot（ふーと）」ブラウザ版を正式リリース",
+          "description": "RoyalCourseのプレスリリース（2026年9月6日 19時00分）作業通話アプリ「hoot（ふーと）」ブラウザ版を正式リリース",
+          "url": "https://prtimes.jp/main/html/rd/p/000000004.000175297.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-09-06T10:00:01Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/175297/4/175297-4-84bcc88dbaee1fa73be7f15825fefbe2-3603x1893.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "【速報中】バレーボール男子アジア選手権2026 最新情報",
+          "description": "バレーボール男子のアジア選手権が9月4～13日、北九州市で開催中。12カ国・地域が参加し、優勝したチームは2028年ロサンゼルス・オリンピックの出場権を獲得します。大会中の日本代表ライバルチームの試合結果や選手のコメント、試合の見どころなどの情報をこちらのページで更新していきます。【写真特集はこち",
+          "url": "https://mainichi.jp/articles/20260906/hrc/00m/050/001000d",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-09-06T09:55:52Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/09/06/20260906k0000m050213000p/0c10.jpg?1",
+          "language": "ja"
+        },
+        {
+          "title": "最新情報ーゴルフ５レディスプロゴルフトーナメントー次戦へひとこと ｜JLPGA｜日本女子プロゴルフ協会",
+          "description": "一般社団法人日本女子プロゴルフ協会(JLPGA)の公式サイトです。",
+          "url": "https://www.lpga.or.jp/news/info/83459",
+          "source": {
+            "name": "日本女子プロゴルフ協会"
+          },
+          "publishedAt": "2026-09-06T09:20:05Z",
+          "image": "https://cdn.lpga.or.jp/lpga/cms/2026/09/06/xl/1a59028e3da7f2d2dbfce42d64f309f72d88e00c.jpg?1788706003",
+          "language": "ja"
+        },
+        {
+          "title": "最新情報ーゴルフ５レディスプロゴルフトーナメントー次戦へひとこと",
+          "description": "ゴルフ５レディスプロゴルフトーナメント　ゴルフ5カントリーみずなみコース (岐阜県)　最終日木戸 愛（2位：-15）「プ…",
+          "url": "https://sports.yahoo.co.jp/official/detail/2026090600012-spnaviow",
+          "source": {
+            "name": "スポーツナビ"
+          },
+          "publishedAt": "2026-09-06T09:15:00Z",
+          "image": "https://sports-pctr.c.yimg.jp/dk/iwiz-sports/text/images/2026/0906/2026090600012-spnaviow_1788679645_view.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "リュウグウの砂から濃厚な塩水の痕跡、窒素化合物が集まる環境を確認",
+          "description": "リュウグウの塩結晶周辺に窒素化合物が集まり、母天体の濃い塩水が生命材料につながる反応場だった可能性が示された。",
+          "url": "https://www.zaikei.co.jp/article/20260906/868812.html",
+          "source": {
+            "name": "財経新聞"
+          },
+          "publishedAt": "2026-09-06T09:05:41Z",
+          "image": "http://www.zaikei.co.jp/files/general/20260906180538hiH0big.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "来週のAppleイベントで、楽しみにしておかない方がいいプロダクト3つ",
+          "description": "先日、ティム・クック氏の後任としてApple CEOに着任したジョン・ターナス氏。さっそく従業員に向けて「来週には大きな発表があり､驚異的なものになるでしょう」とメッセージを残しています。そう！ 来週の新製品発表イベントでは、満を持した折り",
+          "url": "https://www.gizmodo.jp/article/apple-products-rumored-not-to-be-released-this-time/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-09-06T09:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/09/04/10211bb5-ff6e-46a4-91d4-d3abd32e2efd/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "明日7日にかけて東海・関東・東北では線状降水帯が発生し災害級の大雨のおそれ(気象予報士 牧 良幸 2026年09月06日)",
+          "description": "今夜から明日7日にかけては、東海・関東・東北では線状降水帯が発生し、災害が発生するほどの大雨になる所もあるでしょう。土砂災害や低い土地の浸水、河川の増水・氾濫に厳重に警戒してください。夜の暗い時間に入るため、これからの避難が難しい方は、建物の中でも出来るだけ高い所で休むなどしてください。",
+          "url": "https://tenki.jp/forecaster/y_maki/2026/09/06/40492.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-09-06T08:52:49Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/404/40492/main/20260906172343/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "星空や景色に情報を重ねて表示！ ユニステラがAR搭載スマート双眼鏡「ENVISION」の国内予約を開始",
+          "description": "フランスのUNISTELLAR（ユニステラ）が、星空や景色に天体・地形情報を重ねて表示するAR搭載スマート双眼鏡「ENVISION」の国内予約を開始。ニコンと開発した10倍光学系や赤色OLED、NASAのDARTミッションに貢献した市民天文学活動も紹介します",
+          "url": "https://sorae.info/news/20260906-unistellar-envision.html",
+          "source": {
+            "name": "sorae 宇宙へのポータルサイト"
+          },
+          "publishedAt": "2026-09-06T08:29:16Z",
+          "image": "https://sorae.info/wp-content/uploads/2026/09/20260906-unistellar-envision-th.jpg",
+          "language": "ja"
+        },
         {
           "title": "円相場「155円攻防」か “介入”よりも“日銀利上げ” 2日間で5円の急上昇 アメリカは雇用統計で利上げ観測再燃",
           "description": "4日のニューヨーク外国為替市場で円相場は3日ぶりに反落し、前日に比べ40銭ほど円安・ドル高の1ドル=156円20銭近辺で取引を終えた。この日発表されたアメリカの8月雇用統計が、労働市場の底堅さを示唆",
@@ -15,216 +114,117 @@
           "publishedAt": "2026-09-06T08:00:40Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260906-01208894-fnn-000-1-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "映画「踊る」完成イベ 雨で中止",
-          "description": "俳優の織田裕二が主演する映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』（9月18日公開）の完成報告イベントが、雨天のため中止となることが発表された。",
-          "url": "https://news.yahoo.co.jp/pickup/6594426",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-09-06T06:58:13Z",
-          "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/6/472c98d1436a9fe9556fd2c2280d780a44794a0285d2216ceb0dc5b6750a6feb.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "サンド富澤たけし、脳梗塞で療養中の伊達みきお「病室での一枚」を公開「ね？あんま変わってないでしょ？」",
-          "description": "ニュース｜　お笑いコンビ・サンドウィッチマンの富澤たけし（52）が6日までに、自身のブログを更新。脳梗塞と診断され、当面の間休養することを発表している相方・伊達みきお（52）の誕生日を祝福し、近影を公開した。　富澤は「今日は相方の52歳の誕生日。おめでとう！」と9月5日に誕生日を迎えた伊達を祝福しつつ「まさか闘病しながら誕生日を迎えるとは思ってなかったでしょうねぇ。世の52歳がどのぐらい働いてどのぐらい休んでるかわかりませんが、相方はオーバーヒートしてしまったのでしょう。沢山の励ましのコメントもありがとうございます！」とつづった。",
-          "url": "https://www.oricon.co.jp/news/2478630/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-09-06T06:57:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2479000/2478630/20260829_103224_p_o_57315615.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "最大風速66mの強力なハリケーン「ローウェル」、接近に備えハワイ州に非常事態宣言",
-          "description": "ハワイ州に非常事態宣言が発令されている。強力なハリケーン「ローウェル」が7日、同州西部の島々に接近する見通しだ。エルニーニョ現象によって太平洋のハリケーンシーズンが活発化する中、ハワイ州はここ3週間で三つ目の嵐に脅かされている。",
-          "url": "https://www.cnn.co.jp/usa/35252332.html",
-          "source": {
-            "name": "CNN.co.jp"
-          },
-          "publishedAt": "2026-09-06T06:53:00Z",
-          "image": "https://www.cnn.co.jp/storage/2026/09/06/55724a3598280c4270b5ff9d66c595e4/20260903-lowell.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "松坂桃李「VIVANT」視聴者側の会話再現「やっぱり野崎は裏切ってないんだよ」「絶対にギャラ3倍だよね？」",
-          "description": "俳優の松坂桃李が6日、都内で開催された「黒霧島」新TVCM・期間限定体験イベント発表会に出席。現在放送中のTBS系日曜劇場「VIVANT」（毎週日曜よる9時～）の視聴を呼びかけた。",
-          "url": "https://mdpr.jp/news/detail/4840301",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-09-06T05:06:47Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/Pnda/wm/PndahDlXaX9TWqedEPTbvhpDTp8BRE2bu-2N-yykJAs.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "なぜ古米より新米が安い? コメ価格”異変”で「損切り」も ”じゃぶじゃぶ”政策から一転・・「備蓄米」買い戻し コメ農政に”翻弄”される現場【サンデーモーニング】",
-          "description": "「令和のコメ騒動」といわれたコメの高騰を受けて、小泉前農水大臣のときに放出された備蓄米。これをまた政府が買い戻すこととなりました。コメの価格が下がりつつある中、どんな狙いがあるのでしょうか。\n■コ",
-          "url": "https://news.yahoo.co.jp/articles/5a5ec2ee0a500d15c13bf80ddd44548bd5a336fe",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-09-06T04:36:17Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260906-22924068-jnn-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "MAZZEL、写真集ロケ地・タイでのハプニングとは「大量に届いてしまって」【1st photobook with ZEAL】",
-          "description": "8人組ダンス＆ボーカルグループ・MAZZEL（マーゼル）が9月6日、都内で行われた「MAZZEL 1st photobook with ZEAL」発売記念トークショー囲み取材に出席。メンバーのSEITO（セイト）が撮影先で起こったハプニングを明かした。",
-          "url": "https://mdpr.jp/news/detail/4840211",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-09-06T03:50:49Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/KR0u/wm/KR0um0pJkF_WVUq71hwJFcFbWRii-KhnUn7YCWw9_og.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "wakatte.TV炎上が突きつけたもの: 入試多様化、少子化、地元志向でますます狭まる偏差値の射程",
-          "description": "「wakatte.tv」が8月28日に公開した福島大学の動画が炎上した。福島大学は学長名で声明を出している。松本洋平文科相は9月4日の閣議後記者会見で、学生や教職員の尊厳を傷つけるような言動はあっては",
-          "url": "https://news.yahoo.co.jp/expert/articles/bc786d3bdc3e1f9a7bffb56ca002f0d37af3a96b",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-09-06T02:19:04Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ryosukenishida/02709989/title-1788660661343.jpeg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "なぜ永露ではなく河東？「私のせいなんですが…」ティリ監督が語った“セッター交代”の意外な理由…いきなり高橋藍に大胆トス「自信になりました」（Number Web）",
-          "description": "日本代表で初の公式戦。テレビカメラや記者がズラリと並んで待ち構えるミックスゾーンを通るのはまだ慣れない様子で、代表デビューを飾ったばかりの28歳のセッター・河東(かわひがし)祐大は、少し緊張した面",
-          "url": "https://news.yahoo.co.jp/articles/4fe7d8c415a9e338e38d6321bda0926bea93934b",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-09-06T02:05:27Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260906-00871854-number-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "AIエージェントはなぜ普及しない？：2026年8月に最も読まれた10本のストーリー",
-          "description": "2026年8月に「WIRED.jp」で公開した記事のなかから、最も読まれた10本を紹介する。",
-          "url": "https://wired.jp/article/10-most-read-stories-august-2026/",
-          "source": {
-            "name": "WIRED.jp"
-          },
-          "publishedAt": "2026-09-06T02:00:00Z",
-          "image": "https://media.wired.jp/photos/6a9be40ce34d4dc6fec24048/16:9/w_1280,c_limit/10MOSTREADSTORIES260905.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Unidentified person burns beyond recognition in accident at Okakarara",
-          "description": "%%title%% %%sep%% %%primary_category%% %%sep%% %%sitename%% %%sep%% An unidentified person was burnt beyond recognition when the pick-up he was driving crashed into a tree and burst into flames in the Okakarara area on Saturday morning.",
-          "url": "https://www.namibian.com.na/unidentified-person-burns-beyond-recognition-in-accident-at-okakarara/",
+          "title": "Sokoto Govt Urged To Sustain Primary Healthcare Reforms",
+          "description": "The Sokoto State Government has been urged to sustain and expand its reforms aimed at strengthening primary healthcare and improving access to essential",
+          "url": "https://leadership.ng/sokoto-govt-urged-to-sustain-primary-healthcare-reforms/",
           "source": {
-            "name": "The Namibian -"
+            "name": "LEADERSHIP Newspapers"
           },
-          "publishedAt": "2026-09-06T08:05:32Z",
-          "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/08/crime-police-logo-1024x677-1-768x508-1.jpg",
+          "publishedAt": "2026-09-06T10:44:15Z",
+          "image": "https://leadership.ng/wp-content/uploads/2024/11/Ahmad-Aliyu-governor-of-Sokoto.jpg",
           "language": "en"
         },
         {
-          "title": "Beppe Bergomi thinks Juventus has to go all the way in the Europa League",
-          "description": "Juventus are one of the Serie A clubs representing Italy in European football this season as they compete in the Europa League after failing to finish in the top four last term. The Bianconeri will be...",
-          "url": "https://sports.yahoo.com/articles/beppe-bergomi-thinks-juventus-way-080500201.html",
+          "title": "Premier League live updates: Man United face Everton",
+          "description": "We have more matches across Europe this Sunday as we start things off in the Premier League with Everton taking on Manchester United.",
+          "url": "https://www.espn.com/soccer/story/_/id/49817781/premier-league-live-updates-everton-take-manchester-united-chelsea-arsenal-barcelona-valencia-juventus-milan",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "ESPN"
           },
-          "publishedAt": "2026-09-06T08:05:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/bdf02a57d424299eb4fb8881f74a1a886f30a595e9c8ad52ff47cd5b9d70d42c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjuvefc_articles_711%2F5d2e789db5864d863f6bf9445151bea2.jpg",
+          "publishedAt": "2026-09-06T10:43:00Z",
+          "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0906%2Fr1712238_1296x729_16%2D9.jpg",
           "language": "en"
         },
         {
-          "title": "Six curry puffs, a S$450 flight from China? Viral Singapore errand sparks Meituan denial",
-          "description": "SINGAPORE, Sept 6 — Chinese food delivery giant Meituan has denied offering cross-border delivery services after a viral video showed a man in its signature yellow uniform...",
-          "url": "https://www.malaymail.com/news/singapore/2026/09/06/meituan-denies-cross-border-delivery-after-viral-rider-claims-s450-flight-to-singapore-for-s1350-curry-puffs/234170",
+          "title": "Mirzapur The Movie box office collection day 3 (updated live): Gangster saga is an unstoppable force, crosses ₹75 crore",
+          "description": "Mirzapur The Movie box office collection day 3: The gangster saga is just shy of the ₹100 crore mark after its opening weekend. | Bollywood",
+          "url": "https://www.hindustantimes.com/entertainment/bollywood/mirzapur-the-movie-box-office-collection-day-3-pankaj-tripathi-ali-fazal-divyenndu-film-mints-90-crore-beats-alpha-101788690628075.html",
           "source": {
-            "name": "Malay Mail"
+            "name": "Hindustan Times"
           },
-          "publishedAt": "2026-09-06T08:04:36Z",
-          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/09/06/360993.jpg",
+          "publishedAt": "2026-09-06T10:41:37Z",
+          "image": "https://www.hindustantimes.com/ht-img/img/2026/09/06/1600x900/logo/Ali_Fazal_Mirzapur_1788690835164_e253ddb8-76e7-4ae4-a3e6-2b98cd63e15e_1788690835319_e60ef382-8e59-430e-a272-f76db8e00838_ab23a7d5-6092-4ccd-8c62-423f3f8c2459_972f931c-60ae-49a9-b6c6-354008c47149.webp",
           "language": "en"
         },
         {
-          "title": "Qatar Airways Privilege Deals: Save 25% off Business and Economy awards for Sep/Oct 2026",
-          "description": "Save 25% off selected awards — including Singapore to most destinations in the Qatar Airways network in Economy — booked by 14 September and travelled by 31 October 2026.",
-          "url": "https://milelion.com/2026/09/06/qatar-airways-privilege-deals-save-25-off-business-and-economy-awards-for-sep-oct-2026/",
+          "title": "US delegation arrives in Kyiv as ceasefire in Russia",
+          "description": "Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy have agreed to pause strikes on each other's capitals while the talks take place.",
+          "url": "https://www.abc.net.au/news/2026-09-06/russia-ukraine-peace-talks-begin-in-kyiv/107121898",
           "source": {
-            "name": "The MileLion"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-09-06T08:04:01Z",
-          "image": "https://milelion.com/wp-content/uploads/2026/05/qatar-a350-1.jpg",
+          "publishedAt": "2026-09-06T10:40:38Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/f29c5a6d155f16250dfcc0ce01bfa7bf?impolicy=wcms_watermark_news&cropH=2627&cropW=4671&xPos=0&yPos=0&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Nepal flood survivor’s family relieved at dramatic rescue after 10 days trapped",
-          "description": "HONG KONG — After days of waiting anxiously, Lu Haitao’s family could finally breathe a sigh of relief when the Chinese man was rescued from a tunnel in Nepal where devastating floods killed more than 1,300 people.",
-          "url": "https://www.nbcnews.com/world/asia/nepal-flood-survivors-family-relieved-dramatic-rescue-10-days-trapped-rcna596323",
+          "title": "Bishop Margaret Wanjiru declares Nairobi governor bid",
+          "description": "Wanjiru will contest the seat on the Kenya Moja Movement (K1) party ticket.",
+          "url": "https://www.the-star.co.ke/news/2026-09-06-bishop-wanjiru-declares-nairobi-governor-bid",
           "source": {
-            "name": "NBC News"
+            "name": "the-star.co.ke"
           },
-          "publishedAt": "2026-09-06T08:02:47Z",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260905-nepal-nd-ca12bf.jpg",
+          "publishedAt": "2026-09-06T10:40:32Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/09/4be19d84-4b5b-4f52-ac58-1d0ea7d2341a.webp?1788702287959",
           "language": "en"
         },
         {
-          "title": "Ujasusi Intelligence Bulletin: Intelligence & Security",
-          "description": "Intelligence and security developments from Africa and worldwide, covering espionage, intelligence agencies, geopolitics and emerging security threats.",
-          "url": "https://www.ujasusi.com/p/ujasusi-intelligence-bulletin-27-august-5-september-2026",
+          "title": "Off Points for 2026/27 Admissions for All Colleges",
+          "description": "KNUST has published the 2026/27 cut-off aggregates for all colleges, covering programmes from Agriculture, sparking public inquiries on entry requirements.",
+          "url": "https://yen.com.gh/education/311403-knust-releases-cut-points-202627-admissions-colleges/",
           "source": {
-            "name": "Ujasusi"
+            "name": "Yen News"
           },
-          "publishedAt": "2026-09-06T08:02:02Z",
-          "image": "https://substackcdn.com/image/fetch/$s_!0XwL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe33038c4-b783-4675-b646-acaf498f68e9_2880x1472.jpeg",
+          "publishedAt": "2026-09-06T10:39:21Z",
+          "image": "https://cdn.yen.com.gh/images/1200x675/3o3bpd5mnc38v8e12.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "NRL news 2026: Penrith Panthers win minor premiership, finals week one schedule confirmed",
-          "description": "Penrith Panthers have officially claimed the minor premiership with a clinical win over the Wests Tigers, setting up a blockbuster qualifying final showdown with the Sydney Roosters.",
-          "url": "https://www.nine.com.au/sport/nrl/news-finals-series-week-one-penrith-panthers-minor-premiership-schedule-20260906-p60uvt.html",
+          "title": "IMPUNITY! Kamuli Municipality NRM Boss Erick Mugabi’s Bodyguards Accused of Beating, Shooting Young Man Dead Over Seat Dispute at Guest House",
+          "description": "KAMULI — A simple seat dispute has turned into a chilling murder, after a young...",
+          "url": "https://redpepper.co.ug/impunity-kamuli-municipality-nrm-boss-erick-mugabis-bodyguards-accused-of-beating-shooting-young-man-dead-over-seat-dispute-at-guest-house/151030/",
           "source": {
-            "name": "Nine.com.au"
+            "name": "redpepper.co.ug"
           },
-          "publishedAt": "2026-09-06T08:01:59Z",
-          "image": "https://static.ffx.io/images/$zoom_0.2813%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_64%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/62f293ad393dfd54f2bf3fae2eb9b99e66294ba8",
+          "publishedAt": "2026-09-06T10:38:17Z",
+          "image": "https://redpepper.co.ug/wp-content/uploads/2026/09/images-5.jpg",
           "language": "en"
         },
         {
-          "title": "May el-Toukhy on Venice Competition Film 'Woman Unknown'",
-          "description": "The director of Venice Film Festival competition feature 'Woman Unknown,' Danish filmmaker May el-Toukhy, on the origin story of a bold, sharp movie.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-features/may-el-toukhy-woman-unknown-venice-film-festival-mathilde-1236683019/",
+          "title": "Pakistan, 7 other Muslim nations condemn Israeli ministers' statements regarding Palestinians' mass removal from Gaza",
+          "description": "“Such inflammatory statements and proposals flagrantly violate principles of international law, including international humanitarian law,\" joint statement says.",
+          "url": "https://www.dawn.com/news/2027907/pakistan-7-other-muslim-nations-condemn-israeli-ministers-statements-regarding-palestinians-mass-removal-from-gaza",
           "source": {
-            "name": "The Hollywood Reporter"
+            "name": "Dawn"
           },
-          "publishedAt": "2026-09-06T08:01:39Z",
-          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-27T170154.518.jpg?w=1440&h=810&crop=1",
+          "publishedAt": "2026-09-06T10:35:25Z",
+          "image": "https://i.dawn.com/large/2026/09/061534515c63ec7.webp",
           "language": "en"
         },
         {
-          "title": "Israel thwarted multiple terror threats against Jews, Israelis in past year",
-          "description": "“There are many people who wake up in the morning and their entire mission is to promote attacks against Israelis and Jews around the world,” the official said.",
-          "url": "https://www.jpost.com/israel-news/article-907677",
+          "title": "OPPO K14 Lite Specs Leak: Is It Just the OPPO A6c Repackaged?",
+          "description": "The OPPO K14 Lite surfaced on Google Play Console with the same device code as the A6c. Here's what we know, what it means, and why OPPO keeps doing this.",
+          "url": "https://memeburn.com/oppo-k14-lite-specs-a6c-rebranded/",
           "source": {
-            "name": "The Jerusalem Post"
+            "name": "Memeburn"
           },
-          "publishedAt": "2026-09-06T08:01:13Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/721535",
+          "publishedAt": "2026-09-06T10:34:41Z",
+          "image": "https://memeburn.com/wp-content/uploads/2026/09/OPPO-K14-Lite-Just-Appeared-Online-—-And-It-Looks-Suspiciously-Like-the-OPPO-A6c.jpg",
           "language": "en"
         },
         {
-          "title": "Wim Wenders on Peter Zumthor Documentary 'From Inside Out': Venice",
-          "description": "Wim Wenders discusses his 3D documentary 'From Inside Out' on star architect Peter Zumthor, which world premieres at the 2026 Venice Film Festival.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/wim-wenders-peter-zumthor-documentary-from-inside-out-venice-1236686539/",
+          "title": "Nvidia's $279 Billion Bet Changes Everything",
+          "description": "Nvidia revenue hit $96.2B as AI demand stays strong; supply limits FY2028 growth. Click for more on NVDA stock.",
+          "url": "https://seekingalpha.com/article/4943399-nvidias-279-billion-bet-changes-everything",
           "source": {
-            "name": "The Hollywood Reporter"
+            "name": "Seeking Alpha"
           },
-          "publishedAt": "2026-09-06T08:00:39Z",
-          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/FROM-INSIDE-OUT-THE-ARCHITECTURE-OF-PETER-ZUMTHOR-Official-still.jpg?w=1440&h=810&crop=1",
+          "publishedAt": "2026-09-06T10:34:22Z",
+          "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2279998571/image_2279998571.jpg?io=getty-c-w1536",
           "language": "en"
         }
       ]
