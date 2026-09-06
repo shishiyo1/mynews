@@ -1,10 +1,54 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-09-06T03:23:46.330Z",
+  "updatedAt": "2026-09-06T10:26:28.660Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "出版業の倒産急増、利益も悪化傾向 ～ 存続に向けた書店との直取引、目指す姿と課題 ～",
+          "description": "電子書籍が普及するなか、紙の書籍を主体に手掛ける老舗出版社を中心に、「出版業」の倒産（負債1,000万円以上）が急増している。\n2026年1-7月の「出版業」の倒産は21件（前年同期比90.9％増）で、2019年同期の21件以来7年ぶりに20件を超えた。",
+          "url": "https://www.tsr-net.co.jp/data/detail/1203205_1527.html",
+          "source": {
+            "name": "東京商工リサーチ"
+          },
+          "publishedAt": "2026-09-05T22:01:47Z",
+          "image": "https://www.tsr-net.co.jp/data/detail/__icsFiles/afieldfile/2026/09/04/0906_syuppann0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "明日7日にかけて関東は災害級の大雨の恐れ 1日あまりで平年1か月分の雨が降る予想",
+          "description": "関東では明日7日にかけて、大雨になるでしょう。平年の9月1か月分の雨が降る所もある見込みで、土砂災害や低い土地の浸水、河川の増水・氾濫に厳重に警戒が必要です。また、伊豆諸島では6日昼前から7日明け方",
+          "url": "https://news.yahoo.co.jp/articles/d90ade54ed83cf221fc1bf53c557f560f126ab61",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-09-05T21:30:02Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260906-00036287-tenki-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【DLファイナル】女子やり投・北口榛花は2位 男子3000m障害・三浦龍司は8位 男子200mベドナレクら今季世界最高続出",
+          "description": "■陸上・ダイヤモンドリーグ ファイナル（日本時間5〜6日、ベルギー・ブリュッセル）\n陸上世界最高峰シリーズのダイヤモンドリーグ（DL）の成績上位者のみが出場できるDLファイナル。日本からは男子11",
+          "url": "https://news.yahoo.co.jp/articles/5c69285111a77e65dab505c6e9eb032d564b9898",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-09-05T20:42:23Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260906-22923843-jnn-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "織田裕二、映画『室井慎次』の登場は志願だった 背景に“和久さん”との別れ「本当の死を一回経験しちゃってるから」",
+          "description": "「ずっと青島と室井さんって、二輪みたいに縦軸を担ってたわけで」――5日にフジテレビ系で放送された映画『踊る大捜査線 THE MOVIE3 ヤツらを解放せよ!』の本編後、新作映画『踊る大捜査線 N.E.W.』に出演する織田裕二、趣里、白洲迅の3人によるトークが展開され、織田が柳葉敏郎演じる室井慎次への思いを語った。",
+          "url": "https://news.mynavi.jp/article/20260906-4922347/",
+          "source": {
+            "name": "news.mynavi.jp"
+          },
+          "publishedAt": "2026-09-05T15:53:09Z",
+          "image": "https://news.mynavi.jp/article/20260906-4922347/ogp_images/ogp.jpg",
+          "language": "ja"
+        },
         {
           "title": "動画目的で買ったiPhone 17 Pro Max。半年使ってみてどう？",
           "description": "2026年4月9日の記事を編集して再掲載しています。2025年9月に発売された、iPhone 17 Pro Max。カルチャー大好きなギズモード編集部員・吉岡は、発売して間もなく、それまで使っていたiPhoen 16から買い替えました。実は",
@@ -70,161 +114,117 @@
           "publishedAt": "2026-09-05T11:30:00Z",
           "image": "https://contents.oricon.co.jp/upimg/news/2479000/2478378/20260904_165514_p_o_43325163.jpg",
           "language": "ja"
-        },
-        {
-          "title": "アップル、有機EL版MacBook ProにM5 Ultra搭載？ノート型Mac初の最上位チップか",
-          "description": "アップルが開発中とうわさされる有機ELディスプレー搭載の新型MacBook Proには、M5シリーズの上位チップ「M5 Ultra」が搭載される可能性があるという。",
-          "url": "https://ascii.jp/elem/000/004/432/4432420/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-09-05T11:00:00Z",
-          "image": "https://ascii.jp/img/2026/09/04/4521718/xl/648fa0ca38e4a40f.png?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "アップル、有機EL版MacBook ProにM5 Ultra搭載？ノート型Mac初の最上位チップか",
-          "description": "アップルが開発中とうわさされる有機ELディスプレー搭載の新型MacBook Proには、M5シリーズの上位チップ「M5 Ultra」が搭載される可能性があるという。",
-          "url": "https://ascii.jp/elem/000/004/432/4432420/?focus=2",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-09-05T11:00:00Z",
-          "image": "https://ascii.jp/img/2026/09/04/4521718/xl/648fa0ca38e4a40f.png?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "くら寿司、「ちいかわ」コラボ中止 従業員による不正行為判明で（1/2 ページ）",
-          "description": "くら寿司が、開催中の「ちいかわ」コラボキャンペーンについて中止する。同コラボを巡っては、配布開始前にもかかわらずコラボグッズがフリマアプリに出品されていることなどがSNS上で問題視されていた。同社が調査を進めた結果、従業員による不正行為が判明したとしいう。（1/2 ページ）",
-          "url": "https://www.itmedia.co.jp/news/article/2609/05/2000001201/",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-09-05T10:22:20Z",
-          "image": "https://www.itmedia.co.jp/news/article/ogp/2609/05/2000001201/10005348/2048",
-          "language": "ja"
-        },
-        {
-          "title": "蒼井優「Tシャツが乾くまで」“演じるのが一番難しかったであろう”登場人物明かす「意外」「最終回がさらに楽しみになった」と反響",
-          "description": "女優の蒼井優が9月5日、TBS系「王様のブランチ」（毎週土曜あさ9時30分〜）にVTR出演。自身が主演を務める同局系7月期金曜ドラマ「Tシャツが乾くまで」（毎週金曜よる10時～）について言及した。",
-          "url": "https://mdpr.jp/drama/detail/4840007",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-09-05T10:11:53Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/6QKM/wm/6QKMVREVdfZYIJjOnbR5dYzm0_Tqw-aBOlTSn-B90dE.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Iran’s economy may fuel popular uprising within nine months, expert says",
-          "description": "Former NSC chief Jacob Nagel said six to nine months of economic pressure could push Iranians back into the streets, while warning Tehran still has the ability to retaliate.",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-907634",
+          "title": "Prince William to represent King Charles at funeral of Norway’s King Harald V",
+          "description": "Duty falls by precedent to William to attend service of late monarch, alongside Princess Royal, who is godmother to new king Haakon VIII",
+          "url": "https://www.theguardian.com/uk-news/2026/sep/05/prince-william-to-represent-king-charles-at-funeral-of-norways-king-harald-v",
           "source": {
-            "name": "The Jerusalem Post"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-09-05T15:22:20Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/736541",
+          "publishedAt": "2026-09-05T22:25:00Z",
+          "image": "https://i.guim.co.uk/img/media/f3fc29bf4bcce23b9f6ac7324dd4a9458d6a2459/777_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11a728c41d54633fd7ec546ef97994f3",
           "language": "en"
         },
         {
-          "title": "UDS Vice-Chancellor pledges transparent governance, infrastructure development",
-          "description": "By Solomon Gumah  Tamale, Sept 05, GNA – Professor Mohammed Muniru Iddrisu, the new Vice-Chancellor for the University for Development Studies (UDS) has pledged to pursue transparent governance,…",
-          "url": "https://gna.org.gh/2026/09/uds-vice-chancellor-pledges-transparent-governance-infrastructure-development/",
-          "source": {
-            "name": "Ghana News Agency"
-          },
-          "publishedAt": "2026-09-05T15:21:23Z",
-          "image": "https://gna.org.gh/web/wp-content/uploads/2026/09/Education-UDS-Investiture-3-.jpg",
-          "language": "en"
-        },
-        {
-          "title": "One Girl Plus takes girls’ life-skills learning into digital space",
-          "description": "The platform builds on a programme that has reached more than 10,000 girls aged 10 to 25 over the past four years, helping them develop self-awareness, confidence and goal-setting skills through...",
-          "url": "https://www.thecitizen.co.tz/tanzania/news/national/one-girl-plus-takes-girls-life-skills-learning-into-digital-space-5584932",
-          "source": {
-            "name": "thecitizen.co.tz"
-          },
-          "publishedAt": "2026-09-05T15:19:13Z",
-          "image": "https://www.thecitizen.co.tz/resource/image/5584934/landscape_ratio3x2/1200/800/f8c2683d7c319dc8f5337bf7de603ee6/sd/girl-pic.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Congress replaces Bhupesh Baghel with Sachin Pilot as Punjab general secretary",
-          "description": "India News: NEW DELHI: The Congress on Saturday appointed Sachin Pilot as the party’s general secretary in-charge of Punjab, replacing Bhupesh Baghel, news agency.",
-          "url": "https://timesofindia.indiatimes.com/india/congress-replaces-bhupesh-baghel-with-sachin-pilot-as-punjab-general-secretary/articleshow/133806065.cms",
-          "source": {
-            "name": "The Times of India"
-          },
-          "publishedAt": "2026-09-05T15:19:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-133806497,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Frimpong and Darkey reach boys' doubles final in Accra",
-          "description": "Jeff Frimpong and Denzel Darkey will face top seeds Yarden Shalom Hamliel and Shivtej Shirfule in the boys' doubles final at J30 Accra.",
-          "url": "https://ua.news/en/sport/frimpong-i-darki-zigraiut-u-finali-iunatskogo-parnogo-turniru-v-akkri",
-          "source": {
-            "name": "UA.NEWS"
-          },
-          "publishedAt": "2026-09-05T15:18:33Z",
-          "image": "https://cdn-cabinet.ua.news/uploads/images/frimpong_darkey_j30_accra_boys_doubles_f_1788621300861.webp",
-          "language": "en"
-        },
-        {
-          "title": "Singapore air quality improves to moderate level",
-          "description": "Air quality in Singapore improved to moderate levels after PSI readings in three regions earlier reached the unhealthy range.",
-          "url": "https://ua.news/en/world/u-singapuri-iakist-povitria-polipshilasia-do-pomirnogo-rivnia",
-          "source": {
-            "name": "UA.NEWS"
-          },
-          "publishedAt": "2026-09-05T15:18:32Z",
-          "image": "https://cdn-cabinet.ua.news/uploads/images/singapore_air_quality_improves_to_modera_1788620181562.webp",
-          "language": "en"
-        },
-        {
-          "title": "F1 Italian GP: Gasly takes stunning maiden pole for Alpine",
-          "description": "Alpine's Pierre Gasly shocks the frontrunners to take his first-ever Formula 1 pole position at the Italian Grand Prix",
-          "url": "https://www.autosport.com/f1/news/f1-italian-gp-qualifying-report/10852579/",
-          "source": {
-            "name": "Autosport"
-          },
-          "publishedAt": "2026-09-05T15:18:24Z",
-          "image": "https://cdn-9.motorsport.com/images/amp/YvKBPbG6/s6/pierre-gasly-alpine-3.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Microsoft’s recent decisions paint a clear picture - Xbox Cloud Gaming is no longer the future the company once promised",
-          "description": "Xbox's cloud gaming hourly limit rates have been met with derision in the fanbase, and have highlighted gaps between other services.",
-          "url": "https://www.windowscentral.com/gaming/xbox/microsoft-clearly-doesnt-see-much-of-a-future-for-xbox-cloud-gaming",
-          "source": {
-            "name": "Windows Central"
-          },
-          "publishedAt": "2026-09-05T15:17:59Z",
-          "image": "https://cdn.mos.cms.futurecdn.net/QJCXX7S5PMbWfcRT4KsSa9-2466-80.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Kent beat Pears to boost promotion hopes",
-          "description": "Kent move clear of their closest rivals in the County Championship Division Two promotion race, with an 84-run win over Worcestershire.",
-          "url": "https://sports.yahoo.com/articles/kent-beat-pears-boost-promotion-151750424.html",
-          "source": {
-            "name": "Yahoo Sports"
-          },
-          "publishedAt": "2026-09-05T15:17:50Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-          "language": "en"
-        },
-        {
-          "title": "Neoadjuvant PD1 plus CTLA-4 immune checkpoint blockade in surgically resectable recurrent glioblastoma: a randomized surgical window-of-opportunity trial",
-          "description": "We conducted a randomized surgical window-of-opportunity trial (NCT04606316) in recurrent, resectable glioblastoma. Between 2021 and 2024, 71 patients were screened, and 63 were randomized (intention-to-treat [ITT] population), and 58 received study treatment. Patients received pre-surgical immune checkpoint blockade (ICB) with dual anti-PD1 nivolumab + anti-CTLA4 ipilimumab (Arm 1), nivolumab alone (Arm 2), or placebo (Arm 3). Following surgery, Arms 1 and 3 received dual ICB, while Arm 2 continued nivolumab until progression or unacceptable toxicity. The primary endpoint, tumor-infiltrating lymphocyte (TIL) density, was met for Arm 1, as neoadjuvant dual ICB significantly increased TIL density compared with untreated control (Arm 3). As a secondary endpoint, median overall survival in the ITT population was 402 days (95% CI, 265–571) among patients who received dual ICB (Arms 1 and 3) and 273 days (95% CI, 166–506) for those assigned to nivolumab alone (Arm 2). No unanticipated toxicities were observed. Exploratory analyses showed that dual ICB elicited robust intratumoral and systemic immune activation, including increased interferon-related gene expression in blood. Higher TIL density and early systemic interferon-signature induction were associated with improved survival, whereas tumor mutational burden was not. Our results demonstrate pharmacodynamic activity of dual ICB in glioblastoma, with survival outcomes comparing favorably to similar studies. Here the authors report clinical and immunological outcomes of a randomized surgical window-of-opportunity trial designed to test whether dual immune checkpoint blockade targeting PD-1 and CTLA-4 could overcome the adaptive immune resistance previously reported with single-agent anti-PD-1 therapy in patients with surgically resectable recurrent glioblastoma.",
-          "url": "https://www.nature.com/articles/s41467-026-77433-z?error=cookies_not_supported&code=ae9a0a06-b45e-4ea9-bd80-d4c3bc6fe680",
+          "title": "CSA-Net: a cost-sensitive adaptive hybrid framework for imbalanced financial distress prediction",
+          "description": "Financial distress prediction is a severely imbalanced tabular-learning problem in which distressed firms are rare and false-negative errors can carry disproportionate economic consequences. We propose CSA-Net, a cost-sensitive adaptive hybrid framework that treats LightGBM as a strong tabular prior and learns a lightweight neural residual whose sample-specific amplitude limits unnecessary deviation from the tree predictor. An error-aware objective places additional weight on distressed observations that the prior scores poorly. Eleven statistical, ensemble, deep-tabular, and neural models were evaluated across five Polish bankruptcy horizons and an independent Taiwanese benchmark using five-fold outer evaluation, three-fold inner model selection, matched 12-candidate tuning budgets, fold-local preprocessing, and corrected paired inference. AUC-PR was prespecified as the primary endpoint. CSA-Net ranked first by mean AUC-PR in five of six settings. Relative to standalone LightGBM, corrected differences were significant at four of five Polish horizons, while the Taiwanese difference was positive but not statistically significant; the remaining Polish horizon was effectively tied. Ablation showed that generic residual stacking contributed little, whereas adaptive and cost-sensitive correction accounted for most of the incremental gain. Reliability analyses further showed competitive calibration, behaviorally validated post-hoc attributions, dataset-dependent robustness, and moderate computational overhead. These findings support targeted neural augmentation of strong tabular boosting rather than universal model superiority.",
+          "url": "https://www.nature.com/articles/s41598-026-68005-8?error=cookies_not_supported&code=21fb6be5-5270-4e9a-b851-8c237511a7a0",
           "source": {
             "name": "Nature"
           },
-          "publishedAt": "2026-09-05T15:17:39Z",
+          "publishedAt": "2026-09-05T22:24:32Z",
           "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+          "language": "en"
+        },
+        {
+          "title": "Numerical study of the nonlinear interaction and energy capture of an OWSC under multi-frequency focused freak waves using Riemann-SPH",
+          "description": "To address the survivability and energy capture efficiency of Oscillating Wave Surge Converters (OWSCs) under extreme sea states, this study develops a high-fidelity numerical model coupling Riemann-based Weakly Compressible Smoothed Particle Hydrodynamics (Riemann-based WCSPH) with multi-body dynamics. This model is employed to systematically investigate the nonlinear interaction mechanisms between multi-frequency focused freak waves and an OWSC. The numerical simulations reproduce the target multi-frequency focused waves based on the linear theoretical spectrum, with the simulated crest agreeing with the first-order target within 0.09%. However, due to the inherent limitations of the first-order wave generation boundary, the model underpredicts the extreme nonlinear crest amplification observed in the physical Baldock experiments, though it satisfactorily captures the overall phase synchronization and wave packet envelope. The results reveal that under freak wave impacts, the dynamic response of the OWSC exhibits a prominent “velocity-dominated” characteristic: while the pitch angle response shows displacement saturation, the instantaneous angular velocity surges by 71% compared to regular wave conditions, subjecting the mechanical system to substantial instantaneous power flow shocks. Furthermore, the back-regulation mechanism of Power Take-Off (PTO) damping on the flow field is uncovered. It is found that high damping induces a significant “fluid blockage effect,” converting the flap’s wave-induced dynamic loading into an elevated quasi-static pressure buildup that deteriorates the structural loading environment. Parametric analysis indicates that the capture width ratio follows a unimodal trend with the damping coefficient. An approximate optimal damping coefficient ($$C_{pto} \\approx 60~\\mathrm {N \\cdot m \\cdot s/rad}$$) is identified at which the capture width ratio is maximized, representing a favorable impedance-matching point between the hydrodynamics and the mechanical system; however, this damping level also corresponds to a substantially amplified peak structural load relative to the lightly-damped baseline, so that the identified condition reflects a trade-off between energy capture and structural loading rather than a simultaneous optimum for both.",
+          "url": "https://www.nature.com/articles/s41598-026-69055-8?error=cookies_not_supported&code=7e7a545e-e691-40a3-a61d-9b5c83c8fc8b",
+          "source": {
+            "name": "Nature"
+          },
+          "publishedAt": "2026-09-05T22:24:32Z",
+          "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+          "language": "en"
+        },
+        {
+          "title": "Charge-trapping-associated threshold-voltage shift during electrical aging in OLEDs with electron-transport layers having a giant surface potential",
+          "description": "Organic light-emitting diodes (OLEDs) employing electron-transport layers (ETLs) with substantial spontaneous orientation polarization (SOP) can exhibit a giant surface potential (GSP), which produces polarization-induced interfacial charge (IC) and influences charge injection. In this study, we investigate the threshold-voltage (Vth) increase in aged OLEDs employing an 1,3-bis[2-(4-tert-butylphenyl)-1,3,4-oxadiazo-5-yl]benzene (OXD-7) ETL with a GSP. Electrical aging was accompanied by an increase in Vth delayed hole injection, and a decrease in the estimated polarization-induced interfacial charge obtained from capacitance–voltage (C–V) measurements. To examine the role of localized charge trapping, a hole-trap device was fabricated by introducing TAPC into a 5-nm-thick region of the OXD-7 ETL adjacent to the emitting layer. The hole-trap device reproduced electrical characteristics similar to those observed in the aged devices, including delayed hole injection and increased Vth. C–V and displacement-current measurements, together with bias-dependent photoluminescence analysis, support an association between localized charge trapping and an apparent weakening of the polarization-related electrostatic contribution to hole injection. These findings suggest a degradation pathway that is particularly relevant to OLEDs employing ETLs with a GSP and highlight the importance of controlling localized charge trapping in such layers to maintain stable charge-injection characteristics during operation.",
+          "url": "https://www.nature.com/articles/s41598-026-69050-z?error=cookies_not_supported&code=2f0b6d2d-e26c-4cda-a312-5bb85eced49b",
+          "source": {
+            "name": "Nature"
+          },
+          "publishedAt": "2026-09-05T22:24:32Z",
+          "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+          "language": "en"
+        },
+        {
+          "title": "Thousands of jobs to be cut at Jaguar Land Rover after slump in profits",
+          "description": "As many as 4,000 positions could go over two years after cyber-attack and US tariffs take toll",
+          "url": "https://www.theguardian.com/business/2026/sep/05/thousands-jaguar-land-rover-offered-redundancies-after-falling-profits",
+          "source": {
+            "name": "The Guardian"
+          },
+          "publishedAt": "2026-09-05T22:24:00Z",
+          "image": "https://i.guim.co.uk/img/media/e7acd7e382931839dc35851f0c893ae165ef6568/0_0_4821_3856/master/4821.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d1f8cad5603b1bb8cbb6b15b1212fec",
+          "language": "en"
+        },
+        {
+          "title": "Some joints may be primed for rheumatoid arthritis before birth",
+          "description": "Scientists have found evidence that vulnerability to rheumatoid arthritis may begin before birth. Finger joints commonly affected by the disease develop with different tissue structures and larger populations of specialized fibroblasts than joints that are usually spared. Those cells also respond differently to inflammation, suggesting that the architecture of each joint may help determine where arthritis eventually takes hold.",
+          "url": "http://www.sciencedaily.com/releases/2026/09/260901070538.htm",
+          "source": {
+            "name": "Science Daily"
+          },
+          "publishedAt": "2026-09-05T22:21:59Z",
+          "image": "https://www.sciencedaily.com/images/1920/x-ray-hands-finger-joints.webp",
+          "language": "en"
+        },
+        {
+          "title": "UFC Paris Bonuses Revealed Following French Card",
+          "description": "UFC Paris took place on Saturday, September 5, at Accor Arena in Paris, France, featuring 14 fights. Here are the bonus winners.",
+          "url": "https://heavy.com/sports/ufc/ufc-paris-bonuses-revealed-french-card/",
+          "source": {
+            "name": "heavy.com"
+          },
+          "publishedAt": "2026-09-05T22:21:31Z",
+          "image": "https://heavy.com/wp-content/uploads/2026/09/GettyImages-2293238447-e1788646885104.jpg?quality=65&strip=all",
+          "language": "en"
+        },
+        {
+          "title": "Athletics Canada says mountaineer goes missing attempting Matterhorn record",
+          "description": "Canadian mountain runner Kalie McCrystal has gone missing while preparing for a record attempt on the Matterhorn along the Switzerland-Italy border.",
+          "url": "https://globalnews.ca/news/12049212/canada-missing-mountaineer/",
+          "source": {
+            "name": "globalnews.ca"
+          },
+          "publishedAt": "2026-09-05T22:20:19Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/09/5f6171b554b9e49d949d25748571dd3d2b97803039f76fffacad6c991b0b42e8.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+          "language": "en"
+        },
+        {
+          "title": "Katie Taylor dominates Flora Pili in emotional farewell fight",
+          "description": "Katie Taylor caps off historic career with championship performance",
+          "url": "https://sports.yahoo.com/articles/katie-taylor-dominates-flora-pili-221725024.html",
+          "source": {
+            "name": "Yahoo Sports"
+          },
+          "publishedAt": "2026-09-05T22:17:25Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/dddb56aa34776bd2faf1c0f33eff403702619fd56f4f21c2199fefe01cf88930/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Ff3e787bd9cfa9dfc57e8e1797f5c4f9c.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Pierre Gasly gets first pole position in Formula 1 after Monaco controversy",
+          "description": "Pierre Gasly bested George Russell at the F1 Italian Grand Prix for his first pole position. The French driver also got his first win at Monza in 2020.",
+          "url": "https://sports.yahoo.com/articles/pierre-gasly-gets-first-pole-221549960.html",
+          "source": {
+            "name": "sports.yahoo.com"
+          },
+          "publishedAt": "2026-09-05T22:15:49Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/f3fdbb2681e007a82710cdb710bb9ea73612848b3d6234700c5cc73d371fb332/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F68e880483a1aba20d83faa045b4e30d4.jpg",
           "language": "en"
         }
       ]
