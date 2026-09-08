@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-09-08T03:29:19.981Z",
+  "updatedAt": "2026-09-08T10:46:16.479Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "大谷翔平「1番DH」5戦ぶりスタメン復帰 ロバーツ監督発表「彼は喜んでいた」 いきなり難敵 敵軍先発は15勝＆サイ・ヤング賞候補の23歳右腕 代役1番好調のエドマンは3番【ラインアップ】",
+          "description": "「ドジャース―レッズ」（7日、ロサンゼルス）\n　ドジャースのデーブ・ロバーツ監督が試合前の会見で大谷翔平投手が「1番・指名打者」で出場すると発表。同投手は左膝や右上腕二頭筋などの故障のため、前日",
+          "url": "https://news.yahoo.co.jp/articles/e816a384cf9072d8dff7addc4aeb3e810f26db2b",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-09-07T22:05:01Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260908-00010000-dal-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "次期iPhone 18登場を機に、アップルのスマートフォン戦略は「大転換」する",
+          "description": "アップルは、2026年9月10日に開催するイベント「Surprise and Shine（おはよう世界。）」で3つの新しいiPhoneを発表する見通しだ。メーカーを問わず、新たなスマートフォンの発表は市場全体に変化をもたらすものだ。10日の...",
+          "url": "https://forbesjapan.com/articles/detail/104260",
+          "source": {
+            "name": "Forbes JAPAN"
+          },
+          "publishedAt": "2026-09-07T22:00:00Z",
+          "image": "https://images.forbesjapan.com/media/article/104260/images/main_image_f5385b10ca976d346167473101d8aa2e7204988f.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "大坂なおみ、世界2位ルバキナにストレート負けで8強逃す。ショットの精彩欠いて主導権を握れず[全米オープン]【テニス】（Tennis Classic）",
+          "description": "「全米オープン」（アメリカ・ニューヨーク）女子シングルス4回戦が現地9月7日に行われ、第13シードの大坂なおみ（フリー／世界ランク13位）は、第2シードのエレナ・ルバキナ（カザフスタン／同2位）に1",
+          "url": "https://news.yahoo.co.jp/articles/7ab9962cfd66894ad606a71d673d5a285edb04c2",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-09-07T21:26:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260908-00007677-tennisc-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【女子バスケＷ杯】日本、スペインに完敗も薄氷のグループ３位通過…次戦は47年ぶりベスト８懸けハンガリーと激突＜DUNKSHOOT＞（THE DIGEST）",
+          "description": "現地時間９月７日、『FIBA女子バスケットボールワールドカップ2026』の第３戦が行なわれ、日本代表（FIBAランキング10位）はスペイン（同６位）と対戦。59－79で敗れてグループリーグ１勝２敗",
+          "url": "https://news.yahoo.co.jp/articles/89f3f406ef5b859d3bc359cf6373938120a74c54",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-09-07T21:20:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260908-00119792-thedigest-000-3-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "Aぇ! group佐野晶哉×山時聡真、W主演決定 芸人を夢見る少年＆吃音を抱える少年の青春を描くハートフルコメディ【もうええわ】",
+          "description": "フジテレビでは、「フジテレビヤングシナリオ大賞」第37回大賞受賞作「もうええわ」（13時30分～）がドラマ化。佐野晶哉（Aぇ！ group）と山時聡真のW主演で、10月3日より関東ローカルで放送される。",
+          "url": "https://mdpr.jp/drama/detail/4840834",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-09-07T20:00:00Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/qdE1/nm/qdE1oJtfyO-nDunoDgwCayBHSwg-0SJ2ELpQ-JvqJp4.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
+        {
+          "title": "改造者がNvidia DLSS 5ニューラルレンダリングを第2GPUにオフロード、最大127%のFPS回復を実現",
+          "description": "ReShadeアドオン「MGPU Bridge」が、NvidiaのDLSS 5ニューラルレンダリングを第2のGPUで実行できるようにし、対応ゲームでフレームレートを回復、場合によっては…",
+          "url": "https://finance.biggo.jp/news/c9462875-f8c3-424b-a94d-e584f1897eaf",
+          "source": {
+            "name": "BigGo ファイナンス"
+          },
+          "publishedAt": "2026-09-07T18:19:00Z",
+          "image": "https://img.biggo.com/c_z3h89nRUoZ2kpFWGIYQN1ozYZqxG3MyHZvZsRI514/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5L2M5NDYyODc1LWY4YzMtNDI0Yi1hOTRkLWU1ODRmMTg5N2VhZl8xNzg4ODA4MjMxX2RlZmF1bHQuanBn.jpg",
+          "language": "ja"
+        },
         {
           "title": "激レアさんか？ 折りたたみiPhoneの生産数、1日わずか数百台…らしいぞ",
           "description": "怖い。本当に怖い。日本時間9月10日午前2時に開催されるAppleのイベント。いよいよ噂の折りたたみiPhone（仮称：iPhone Ultra）が登場ですか！ と期待が集まっていますが、ちょっとした暗雲、ゴロゴロ…。Nikkei Asia",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-09-07T12:05:26Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260907-22927566-tuy-000-6-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "岐阜の人気ケーキ店で5人死傷 放火か 同級生の集まりに謎の人物",
-          "description": "岐阜県のケーキ店で放火とみられる火災が発生し、3人が死亡しました。外で見つかり、その後、死亡した男性は会合に招かれていなかったといいますが、当時、店内で何があったのでしょうか。■同級生の集まりに謎の",
-          "url": "https://news.tv-asahi.co.jp/news_society/articles/000531650.html",
-          "source": {
-            "name": "テレ朝NEWS"
-          },
-          "publishedAt": "2026-09-07T10:36:53Z",
-          "image": "https://news.tv-asahi.co.jp/articles_img/000531650_1200.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "折りたたみiPhoneは30万～40万円超に？ ダミー画像から見えたスペックと品薄の懸念（1/2 ページ）",
-          "description": "Appleが初の折りたたみiPhoneを発表するとうわさされており、ダミーモデルやケースの画像が出回っている。開くと7.8型で4：3の画面になり書類閲覧に向く一方で、動画視聴には上下に帯が出る仕様とされる。メモリ価格の高騰もあり、30万から40万円台という高額化が予想される。 (1/2)",
-          "url": "https://www.itmedia.co.jp/mobile/articles/2609/07/news091.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-09-07T10:33:00Z",
-          "image": "https://image.itmedia.co.jp/mobile/articles/2609/07/cover_news091.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【バレー男子】オーストラリアが2連勝で日本を上回りA組首位に浮上 C組ではタイが格上相手に連勝〈アジア選手権〉",
-          "description": "【バレー男子】オーストラリアが2連勝で日本を上回りA組首位に浮上　C組ではタイが格上相手に連勝〈アジア選手権〉（日テレNEWS NNN）◇バレーボール男子 2026男子アジア選手権大会（4日〜13日、福岡）ロサンゼルスオリンピックの出場権を争うバレー男子のアジア選手…",
-          "url": "https://topics.smt.docomo.ne.jp/article/ntv_news24/sports/ntv_news24-2026090708155852?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-09-07T10:32:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/ntv_news24/m_ntv_news24-2026090708155852.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "タグ・ホイヤー、スポーツクロノグラフの本格的な復活を告げる「タグ・ホイヤー カレラ クロノグラフ スポーツ」を発表",
-          "description": "マドリードのサーキットでシグナルが消灯し、レーススタートが迫る時、モーターレーシングの精神によって形作られた新たなクロノグラフが、今この瞬間のために極限のエンジニアリングをまとい姿を現します。",
-          "url": "https://www.rbbtoday.com/release/prtimes2-today/20260907/1352240.html",
-          "source": {
-            "name": "RBB TODAY"
-          },
-          "publishedAt": "2026-09-07T09:46:06Z",
-          "image": "https://www.rbbtoday.com/release/imgs/list/7994000.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "タグ・ホイヤー、スポーツクロノグラフの本格的な復活を告げる「タグ・ホイヤー カレラ クロノグラフ スポーツ」を発表",
-          "description": "［LVMHウォッチ・ジュエリー ジャパン株式会社 タグ・ホイヤー］マドリードのサーキットでシグナルが消灯し、レーススタートが迫る時、モーターレーシングの精神によって形作られた新たなクロノグラフが、今この瞬間のために極限のエンジニアリングをまとい姿を現します。スペイン、マドリード - 2026年9月7日：フォーミュラ１ (Formula 1(R)) がマドリードに到着し、この首都の街並みがモータースポーツ史の新章に向けて準備を進める中、スイスの高級時計ブランド、タグ・ホイヤーは、重要なタグ・ホイヤ…",
-          "url": "https://www.jiji.com/jc/article?k=000000516.000002796&g=prt",
-          "source": {
-            "name": "時事ドットコム"
-          },
-          "publishedAt": "2026-09-07T09:46:00Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/2796/516/2796-516-a6e69a07afde860025e6b67fe759b65e-2160x2700.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "タグ・ホイヤー、スポーツクロノグラフの本格的な復活を告げる「タグ・ホイヤー カレラ クロノグラフ スポーツ」を発表",
-          "description": "『タグ・ホイヤー、スポーツクロノグラフの本格的な復活を告げる「タグ・ホイヤー カレラ クロノグラフ スポーツ」を発表』の記事ページです。",
-          "url": "https://www.iza.ne.jp/pressrelease/prtimes/Y5OYP3SA3BMOZD7PYL2T2K2KT4/",
-          "source": {
-            "name": "イザ！"
-          },
-          "publishedAt": "2026-09-07T09:28:08Z",
-          "image": "https://www.iza.ne.jp/common/images/ogp_default_iza.png",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Turkish specialists conduct a medical camp at BMH hospital in Dodoma.",
-          "description": "ANKARA: THE Embassy of Tanzania in Ankara, Türkiye, has successfully coordinated a visit by specialist doctors from Türkiye’s Can Veren Eller organisation, in collaboration with the Turkish Cooperation and Coordination Agency (TİKA), to conduct a medical camp at Benjamin Mkapa Hospital (BMH) in Dodoma. The medical camp began on August 30, 2026, and is ongoing. …",
-          "url": "https://dailynews.co.tz/turkish-specialists-conduct-a-medical-camp-at-bmh-hospital-in-dodoma/",
+          "title": "Lines stuns Zhao in English Open first round",
+          "description": "Oliver Lines seals a shock 4-2 win over world number one Zhao Xintong in the first round of the English Open.",
+          "url": "https://sports.yahoo.com/articles/lines-stuns-zhao-english-open-224525093.html",
           "source": {
-            "name": "dailynews.co.tz"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-09-07T15:28:48Z",
-          "image": "https://dailynews.co.tz/wp-content/uploads/2026/09/▪️Tanzania-na-Uturuki-zafanikisha-Kambi-ya-Matibabu-Hospitali-ya-Benjamin-Mkapa.Ubalozi-wa-Tanz.jpg",
+          "publishedAt": "2026-09-07T22:45:25Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/a0bd145687be1f2b0c1091a2a961cf5a8bb2fc2b3bf05401962a9cef4d8032f7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd33a2fbf034e60f5f8ef0a9663909d27.jpg",
           "language": "en"
         },
         {
-          "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-          "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
-          "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo",
+          "title": "A New Elizabeth Holmes Documentary From Nathan Fielder And Lance Oppenheim Is Coming From A24",
+          "description": "'You Can See Everything' was filmed in 2023 before Elizabeth Holmes reported to prison to serve an 11-year sentence for defrauding Theranos investors.",
+          "url": "https://www.engadget.com/2252334/new-elizabeth-holmes-documentary-nathan-fielder-and-lance-oppenheim-coming-from-a24/",
           "source": {
-            "name": "BBC"
+            "name": "Engadget"
           },
-          "publishedAt": "2026-09-07T15:27:50Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg",
+          "publishedAt": "2026-09-07T22:45:02Z",
+          "image": "https://www.engadget.com/img/gallery/a-new-elizabeth-holmes-documentary-by-nathan-fielder-and-lance-oppenheim-is-coming-from-a24/l-intro-1788820819.jpg",
           "language": "en"
         },
         {
-          "title": "What We Can Expect From Apple's Sept. 9 Event: Foldable iPhone, iPhone 18 Pro, and More",
-          "description": "Apple's Sept. 9 event unveils a foldable iPhone at $2,300+, iPhone 18 Pro upgrades, and new CEO John Ternus's first keynote.",
-          "url": "https://www.gadgetreview.com/what-we-can-expect-from-apples-sept-9-event-foldable-iphone-iphone-18-pro-and-more",
+          "title": "‘Don’t utter a word’ - Barcelona warn Hansi Flick against Jose Mourinho amid fears of fresh controversy",
+          "description": "Barcelona have reportedly warned Hansi Flick to stay away from any discussions involving Jose Mourinho as the German coach prepares for another season on the touchline. The advice was given to Flick during the summer after Mourinho’s return to Real Madrid’s technical staff was confirmed.",
+          "url": "https://sports.yahoo.com/articles/don-t-utter-word-barcelona-224454146.html",
           "source": {
-            "name": "Gadget Review"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-09-07T15:27:47Z",
-          "image": "https://www.gadgetreview.com/wp-content/uploads/Adam-Ray-on-Sept-9-Apple-Event.jpg",
+          "publishedAt": "2026-09-07T22:44:54Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/827d51f3297b4546283981d5581a7bda8c040ff330570dadf2beed744520df77/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2F6f66f63b6cd75ef68c7a2e8c9a08e618.jpg",
           "language": "en"
         },
         {
-          "title": "Xiaomi Announces Foldable iPhone Rival",
-          "description": "Xiaomi today officially announced the 18 Fold, its first wide-format foldable, at a product event in China, two days before Apple is expected to unveil its own first foldable iPhone. The Xiaomi 18 Fold uses a similar wide-folding design to the Samsung Z Fold8 and Apple's upcoming foldable iPhone. It features a 5.38-inch outer display and a 7.58-inch inner display, both with 120Hz LTPO technology and 4000 nits of peak brightness.",
-          "url": "https://www.macrumors.com/2026/09/07/xiaomi-announces-foldable-iphone-rival/",
+          "title": "'Serious' overnight incident in Rotorua",
+          "description": "Emergency services were called to a property in Glenholme around 10.30pm.",
+          "url": "https://www.1news.co.nz/2026/09/08/serious-overnight-incident-in-rotorua/",
           "source": {
-            "name": "macrumors.com"
+            "name": "1News"
           },
-          "publishedAt": "2026-09-07T15:26:11Z",
-          "image": "https://images.macrumors.com/t/b-gfTbl9Bv1kCJ5KDy74uAUbUFk=/1600x/article-new/2026/09/Xiaomi-18-Fold-image.jpeg",
+          "publishedAt": "2026-09-07T22:40:06Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/police-car-6LCIXXSFJJCFHLDVGL6KJULU3A.jpg?auth=38c3e050c7d48e64a5176865d8a71bf828eff2a67845b12f0eebd2238586e095&quality=70&width=600&height=315&focal=2140%2C292",
           "language": "en"
         },
         {
-          "title": "Iyabo Ojo, Funke Akindele Celebrate Eniola Badmus as She Marks Her Birthday",
-          "description": "Nollywood actress Eniola Badmus celebrated her birthday, sharing a heartfelt message of gratitude and resilience, with love from friends Funke Akindele and Iyabo Ojo",
-          "url": "https://www.legit.ng/entertainment/celebrities/1729459-iyabo-ojo-funke-akindele-celebrate-eniola-badmus-marks-birthday/",
+          "title": "Travel and tour agent remanded over GH¢107,000 recruitment scam",
+          "description": "A travel and tour agent has been remanded into lawful custody for allegedly collecting GH¢107,000 from a civil servant and his relatives under the pretext of securing them recruitment into Ghana’s security services.",
+          "url": "https://www.ghanabusinessnews.com/2026/09/07/travel-and-tour-agent-remanded-over-gh%C2%A2107000-recruitment-scam/",
           "source": {
-            "name": "Legit News"
+            "name": "Ghana Business News"
           },
-          "publishedAt": "2026-09-07T15:25:17Z",
-          "image": "https://cdn.legit.ng/images/1200x675/ee9b332aa7ad68d8.jpeg?v=1",
+          "publishedAt": "2026-09-07T22:39:27Z",
+          "image": "https://www.ghanabusinessnews.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-10-at-1.36.13-PM.png",
           "language": "en"
         },
         {
-          "title": "PTI chairman Gohar warns against dividing provinces without broad public consensus",
-          "description": "Urges political forces to avoid taking decisions on the creation of new provinces in haste",
-          "url": "https://tribune.com.pk/story/2627969/ptis-barrister-gohar-warns-against-dividing-provinces-without-broad-public-consensus",
+          "title": "102-year-old mall retailer quietly closes 25 stores",
+          "description": "The mall staple already closed hundreds of stores, but its turnaround strategy signals a surprising twist.",
+          "url": "https://www.thestreet.com/retail/102-year-old-mall-retailer-journeys-parent-company-quietly-closes-25-stores",
           "source": {
-            "name": "The Express Tribune"
+            "name": "thestreet.com"
           },
-          "publishedAt": "2026-09-07T15:22:44Z",
-          "image": "https://i.tribune.com.pk/media/images/gohr1751995863-0/gohr1751995863-0-640x480.webp",
+          "publishedAt": "2026-09-07T22:37:00Z",
+          "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTY5MTQ0/busy-scene-with-shoppers-on-escalators-inside-the-bullring-shopping-mall-in-birmingham-west-midlands-uk.jpg?profile=share16-9",
           "language": "en"
         },
         {
-          "title": "King Charles clarifies status of Prince Harry and his wife, Meghan, after their return to the UK",
-          "description": "A letter released Monday confirms that Prince Harry and his wife, Meghan, are no longer working members of the royal family and will not use royal titles.",
-          "url": "https://www.seattletimes.com/nation-world/king-charles-clarifies-status-of-prince-harry-and-his-wife-meghan-after-their-return-to-the-uk/",
+          "title": "Autoimmune Diseases Share Genetic Patterns",
+          "description": "Different autoimmune diseases often share genetic risk factors, but not through a single common genetic vulnerability. In a new study published in The Journal of Clinical Investigation, researchers from Karolinska Institutet and collaborating institutions show that autoimmune diseases instead form genetic clusters that largely reflect the tissues or organs they affect.",
+          "url": "https://www.newswise.com/articles/autoimmune-diseases-share-genetic-patterns",
           "source": {
-            "name": "seattletimes.com"
+            "name": "newswise.com"
           },
-          "publishedAt": "2026-09-07T15:21:56Z",
-          "image": "https://images.seattletimes.com/wp-content/uploads/2026/08/08262026_Harry_and_Meghan_TZR_tzr_053314.jpg?d=1200x630",
+          "publishedAt": "2026-09-07T22:30:00Z",
+          "image": "https://www.newswise.com/assets/new/img/Newswise-Logo.png",
           "language": "en"
         },
         {
-          "title": "How losing the 'guardian of the genome' can damage DNA and drive cancer",
-          "description": "A new study finds that when p53, one of the most important cancer-protecting genes, stops working, cells produce too much RNA and consume excessive amounts of the building blocks needed to copy their DNA. This shortage disrupts DNA replication, leading to DNA damage, chromosomal instability and major genetic changes that can promote cancer development.",
-          "url": "https://medicalxpress.com/news/2026-09-guardian-genome-dna-cancer.html",
+          "title": "McGuinness to stay in Donegal hot seat for 2027",
+          "description": "Jim McGuinness will remain in the Donegal hot seat for 2027 after being reappointed as manager of the county's senior footballers on Monday night.",
+          "url": "https://www.rte.ie/sport/football/2026/0907/1590675-mcguinness-to-stay-in-donegal-hot-seat-for-2027/",
           "source": {
-            "name": "Medical Xpress"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-09-07T15:20:01Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/2026/how-losing-the-guardia.jpg",
+          "publishedAt": "2026-09-07T22:29:43Z",
+          "image": "https://www.rte.ie/images/0023d5ab-1600.jpg",
           "language": "en"
         },
         {
-          "title": "2 Miami runways still closed after deadly Amazon cargo jet accident",
-          "description": "Miami International Airport is operating under limited conditions on Monday as the cleanup and investigation of an Amazon Air accident continues.",
-          "url": "https://www.freightwaves.com/news/2-miami-runways-still-closed-after-deadly-amazon-cargo-jet-accident",
+          "title": "Chris Hipkins 'certainly not happy' with Labour poll shocker",
+          "description": "Breakfast's Tova O'Brien quizzed the Labour leader about the poll result and when more policy was coming.",
+          "url": "https://www.1news.co.nz/2026/09/08/chris-hipkins-certainly-not-happy-with-labour-poll-shocker/",
           "source": {
-            "name": "FreightWaves"
+            "name": "1News"
           },
-          "publishedAt": "2026-09-07T15:19:51Z",
-          "image": "https://www.freightwaves.com/wp-content/uploads/2026/09/07/Amazon-Air-South-America_1.jpg",
+          "publishedAt": "2026-09-07T22:29:29Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/chris-hipkins-defends-his-leadership-after-labour-takes-hit-FJP5HAM7MJBNTE5YWYYHDQQJEE.png?auth=36cd229479162b787a5fc2de1eb1656af6391bbc0542c09051585b0257a267a6&quality=70&width=600&height=315&focal=0%2C0",
           "language": "en"
         },
         {
-          "title": "Tour operator Paddywagon fined over rogue service to Cliffs of Moher",
-          "description": "Solicitor for National Transport Authority sought maximum fine as coach operator admits repeat offence",
-          "url": "https://www.irishtimes.com/business/2026/09/07/tour-operator-paddywagon-fined-over-rogue-service-to-cliffs-of-moher/",
+          "title": "World's largest gun could launch satellites into space",
+          "description": "Longshot Space is developing a massive gun designed to launch satellites into space without using traditional rockets.",
+          "url": "https://mashable.com/science/longshot-space-largest-gun-shoot-satellites",
           "source": {
-            "name": "The Irish Times"
+            "name": "Mashable"
           },
-          "publishedAt": "2026-09-07T15:19:37Z",
-          "image": "https://www.irishtimes.com/resizer/v2/2GEP7FCN25FGTIJ6REQTJEDYR4.jpg?smart=true&auth=9feff0553eee4f4d20ffdd7f5f8216456081235167941fda4f5aa4184033ea6f&width=1200&height=630",
+          "publishedAt": "2026-09-07T22:23:16Z",
+          "image": "https://helios-i.mashable.com/imagery/videos/06LTin59H1a4Rcb7zV9oCMm/hero-image.fill.size_1200x675.v1788819606.jpg",
           "language": "en"
         }
       ]
