@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-09-09T03:33:39.260Z",
+  "updatedAt": "2026-09-09T10:53:26.235Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "【更新中】愛知県、岐阜県で大雨 庄内川にレベル５氾濫特別警報 最新情報",
-          "description": "【更新中】愛知県、岐阜県で大雨　名古屋市内の庄内川に氾濫特別警報　最新情報 　愛知県西部と岐阜県美濃地方で8日午後、線状降水帯が発生し、猛烈な雨が降った。名古屋市内などを流れる庄内川流域には氾濫特別警報が出されており、被害の拡大が懸念される。最新情報をお伝えします。",
-          "url": "https://mainichi.jp/articles/20260908/hrc/00m/040/001000d",
+          "title": "９日の東京株式市場見通し＝軟調な値動きが続きそう 速報",
+          "description": "予想レンジ：６万４８００円－６万５６００円（８日終値６万５２６９円３３銭）　９日の東京株式は、軟調な値動きが続きそうだ。中東情勢の不透明感から原油先物価格が上昇しており、物価高の加速を視野に弱含みの・・・",
+          "url": "https://kabushiki.jp/news/767044",
           "source": {
-            "name": "mainichi.jp"
+            "name": "kabushiki.jp"
           },
-          "publishedAt": "2026-09-08T14:07:14Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/09/08/20260908k0000m040217000p/0c10.jpg?1",
+          "publishedAt": "2026-09-08T22:47:00Z",
+          "image": "https://kabushiki.jp/ogp.png",
           "language": "ja"
         },
         {
-          "title": "0.0』新キャスト一挙発表「久しぶりの対面でした」｜シネマトゥデイ",
-          "description": "俳優の長澤まさみが、映画『ゴジラ-0.0』（ゴジラマイナスゼロ）に出演していることが8日に発表された。",
-          "url": "https://www.cinematoday.jp/news/N0156795",
+          "title": "アップル新製品発表会、折りたたみ式ｉＰｈｏｎｅと新Ｓｉｒｉに注目",
+          "description": "米アップルは９日、新たな最高経営責任者（ＣＥＯ）にジョン・ターナス氏が就任した中で、新製品発表会を行う。市場では、画期的なハードウエアと、人工知能（ＡＩ）競争で他社に対抗できる刷新版の音声アシスタント「Ｓｉｒｉ（シリ）」の登場が期待されている。",
+          "url": "https://jp.reuters.com/economy/FU4ED3PFNVODRI2JXXUC6GD4XQ-2026-09-08/",
           "source": {
-            "name": "シネマトゥデイ"
+            "name": "Reuters"
           },
-          "publishedAt": "2026-09-08T14:00:00Z",
-          "image": "https://img.cinematoday.jp/a/lV9RLy2LE8eg/_size_r1200x630/_v_1788864410/main.jpg",
+          "publishedAt": "2026-09-08T22:41:38Z",
+          "image": "https://www.reuters.com/resizer/v2/XMKUNKVNXJMTPIFCRQVJMFPUUI.jpg?auth=021355ed52b0017418abf56fdeeb77774947154f81f9f82cde618c71b555c008&height=1005&width=1920&quality=80&smart=true",
           "language": "ja"
         },
         {
-          "title": "“折りたたみiPhone”だけじゃない もうすぐ開催のAppleイベントで登場する新製品のうわさを総まとめ（1/3 ページ）",
-          "description": "9月10日午前2時開催のAppleスペシャルイベント直前予想！ 初の折りたたみモデル「iPhone Ultra」や可変絞り採用の「iPhone 18 Pro」、新型Apple Watchなどのうわさを一挙整理します。 (1/3)",
-          "url": "https://www.itmedia.co.jp/mobile/articles/2609/08/news086.html",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-09-08T13:00:00Z",
-          "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/cover_news086.png",
-          "language": "ja"
-        },
-        {
-          "title": "周東佑京の先制2ランにあった舞台裏…小久保監督「本当は送るつもりだった」",
-          "description": "福岡ソフトバンクホークスは8日の日本ハム戦に大勝。初回に周東佑京選手が放った先制2ランの裏には小久保裕紀監督の直感があった。「本当は送るつもりだった」と明かす指揮官が下した決断の真相とは。",
-          "url": "https://taka.full-count.jp/2026/09/08/post1319689/",
-          "source": {
-            "name": "鷹フル"
-          },
-          "publishedAt": "2026-09-08T12:42:52Z",
-          "image": "https://taka.full-count.jp/wp-content/uploads/2026/09/08202554/20260908_kokubo_kri-560x373.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【巨人】橋上監督代行「ミスが絡まなくても、失点するのは痛い」被弾は「仕方ない」首位阪神と３差に拡大…一問一答",
-          "description": "巨人は今季１３度目の完封負けで連勝は３でストップ。首位・阪神とのゲーム差は３に広がった。",
-          "url": "https://hochi.news/articles/20260908-OHT1T51383.html",
-          "source": {
-            "name": "スポーツ報知"
-          },
-          "publishedAt": "2026-09-08T12:20:00Z",
-          "image": "https://hochi.news/images/2026/09/08/20260908-OHT1I51618-C.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "〈1年半で7人中4人が既婚者〉『WEST.』脱退は突発的か、藤井流星と小瀧望が絶望したメンバーの“優先順位”（週刊女性PRIME）",
-          "description": "《ファンの皆さんに何を届けていきたいのかを考えに考えて、グループを離れる決断をしました》\n　8月30日、アイドルグループWEST.の藤井流星と小瀧望がグループから脱退することが発表された。藤井はフ",
-          "url": "https://news.yahoo.co.jp/articles/a2c4a194cc3fe3e7292fe8425d4f7fe7583cd0c4",
+          "title": "ガダルカナル・タカの妻、橋本志穂がグレート義太夫さん追悼「とっても優しい方でした」（スポニチアネックス）",
+          "description": "お笑いタレント、ガダルカナル・タカ（69）の妻でタレントの橋本志穂（58）が9日、自身のインスタグラムを更新。7日に死去したタレントのグレート義太夫（ぎだゆう、本名鈴木正之＝すずき まさゆき）さん",
+          "url": "https://news.yahoo.co.jp/articles/7c0ff7fe1f0d7599f4e04374113d450b52ed8266",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-09-08T12:00:36Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260908-00043421-jprime-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-09-08T22:35:51Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260909-00000108-spnannex-000-6-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "iPhone 17 Pro Max1年レビュー。4つの進化で、普段使いがもっと快適に",
-          "description": "iPhone 17 Pro Maxを1年間使って分かったリアルなレビュー。長持ちバッテリーや4つの進化が普段使いをどう変えるのか、メリット・デメリットを徹底解説。",
-          "url": "https://www.gizmodo.jp/article/2609-iphone-17-pro-max-1-year-review/",
+          "title": "そういうことか！ ＶＩＶＡＮＴ １人忘れてる…野崎の背後にいる本当の協力者 早々にシャキ城特定を発言してた 電光掲示板は野崎の自作自演でも…裏に最後のピースがいる",
+          "description": "堺雅人主演のＴＢＳドラマ「ＶＩＶＡＮＴ」第１７話（第２シーズン・第７話）が６日に放送された。　中国裏組織シンシーに潜入捜査がバレた公安刑事野崎守（阿部寛）が、電光掲示板に「Ｓｈａｋｉ　Ｃａｓｔｌｅ」と表示させて別班員が拘束されている場所を野...",
+          "url": "https://www.daily.co.jp/gossip/2026/09/09/0020798724.shtml",
+          "source": {
+            "name": "デイリースポーツ"
+          },
+          "publishedAt": "2026-09-08T22:30:00Z",
+          "image": "https://i.daily.jp/gossip/2026/09/09/Images/f_20798733.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "フーシ派がサウジ攻撃、米はイランへの攻撃再開 中東戦争拡大",
+          "description": "イエメンの親イラン武装組織フーシは８日、米国の同盟国サウジアラビアの南部４都市を攻撃した。７３人が負傷し、石油関連施設で火災が発生した。​開戦から半年に及ぶ中東紛争が拡大した形だ。",
+          "url": "https://jp.reuters.com/world/MIWL4SBLQRLVJKDFLCWXOM4SJI-2026-09-08/",
+          "source": {
+            "name": "Reuters"
+          },
+          "publishedAt": "2026-09-08T22:29:43Z",
+          "image": "https://www.reuters.com/resizer/v2/AEBGPWGAHRPIDEEAN27FPSIYLQ.jpg?auth=6b509b0ba9aeb865d9347370560d4ea9d676cd5d04147492a2db0d6d103e26fb&height=1005&width=1920&quality=80&smart=true",
+          "language": "ja"
+        },
+        {
+          "title": "アントネッリの”モンツァの奇跡”、前日から予見していたメルセデスのウルフ代表「今後彼が200勝しても、今回は特別な1勝になるはずだ」（motorsport.com 日本版）",
+          "description": "F1イタリアGPでは、19番グリッドからスタートしたアンドレア・キミ・アントネッリ（メルセデス）が優勝した。本来ならばありえないような大逆転劇。しかしメルセデスのトト・ウルフ代表は、土曜日の時点か",
+          "url": "https://news.yahoo.co.jp/articles/cdad425c920fad9eac2095154d11272c140f41ca",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-09-08T22:17:22Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260909-00000001-msportcom-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "メタ、AIエージェント「Muse」原則無料で提供 買い物やメール代行",
+          "description": "【シリコンバレー=山田遼太郎】米メタは8日、個人向けの人工知能（AI）エージェントの新サービス「Muse（ミューズ）」の提供を始めると発表した。AIが利用者の代わりにネット上で商品購入や飲食店予約などの作業を自動で完了できる。8日に米国で提供を始めた。日本を含む各国に順次拡大する。基本料金は無料とし、ミューズの専用アプリや対話アプリ「ワッツアップ」を通じて使う。メタの運営する「インスタグラム",
+          "url": "https://www.nikkei.com/article/DGXZQOGN0901N0Z00C26A9000000/",
+          "source": {
+            "name": "日本経済新聞"
+          },
+          "publishedAt": "2026-09-08T22:15:40Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3570456009092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=1d93c3740fc5d793362a8dda0728341a",
+          "language": "ja"
+        },
+        {
+          "title": "「iPhone 17 Pro」をケースなしで1年使ってみた--今ではこんな外観に",
+          "description": "糸くずだらけのポケットからバックパック、車のカップホルダーまで、1年にわたって使った「iPhone 17 Pro」のアルミニウムユニボディがどうなったのか、本記事で紹介する。",
+          "url": "https://japan.zdnet.com/article/35252256/",
+          "source": {
+            "name": "japan.zdnet.com"
+          },
+          "publishedAt": "2026-09-08T22:00:00Z",
+          "image": "https://japan.zdnet.com/storage/2026/09/03/8702a23cb94f42ea28571987ba2f4923/large-DSC00391-1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ゲームボーイ風Mac Studio／mini用ドック。画面がついてポートも大増量",
+          "description": "Mac StudioやMac miniの拡張性を高め、レトロなゲーム機風デザインでサブ画面としても使えるWokyisドッキングステーションをご紹介します。",
+          "url": "https://www.gizmodo.jp/article/2609-wokyis-mac-docking-station/",
           "source": {
             "name": "Gizmodo"
           },
-          "publishedAt": "2026-09-08T12:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/09/05/1b39557b-8735-4a4f-8ddb-1473b5758e08/original.jpg?w=1200&h=630",
+          "publishedAt": "2026-09-08T22:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/09/07/34529888-e649-4edd-976e-44806729ba39/original.jpg?w=1200&h=630",
           "language": "ja"
         },
         {
-          "title": "【速報】バレー男子日本代表 オーストラリア下し3連勝 A組首位で準々決勝進出 ロサンゼルス五輪へ前進【アジア選手権】",
-          "description": "優勝すればロサンゼルス五輪出場が決まるバレーボールアジア選手権。福岡・北九州市立総合体育館で行われた予選3戦目。開幕2連勝で迎えた日本は8日、同じく2連勝のオーストラリアと対戦。セットカウント3対0のストレートで開幕3連勝を飾り、A組首位で決勝トーナメント進出を決めた。注目のスタメンはセッター深津英臣、対角にオポジット西田有志、アウトサイドヒッター石川祐希、髙橋藍、ミドルブロッカー小野寺太志、エバデダン ラリー、リベロには山本智大が入った。第1セットは、いぶし銀セッター深津英臣が正確なトスでオ…",
-          "url": "https://www.fnn.jp/articles/-/1110568",
-          "source": {
-            "name": "FNNプライムオンライン"
-          },
-          "publishedAt": "2026-09-08T11:56:00Z",
-          "image": "https://fnn.ismcdn.jp/mwimgs/f/e/600/img_fe5d2606eca36663998887ee39e42c58593735.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "2026年9月8日のウクライナ迎撃戦闘は合計175撃墜、弾道ミサイルは大半を撃墜できず2発撃墜のみ（JSF）",
-          "description": "2026年9月8日のウクライナに対するロシア軍の長距離ドローン・ミサイル攻撃は合計175撃墜（ドローン142機＋ミサイル33発）でした。なお8月11日以降にウクライナ空軍司令部の毎朝の集計報告からミ",
-          "url": "https://news.yahoo.co.jp/expert/articles/885f97325b4cf7cfae8b6d86e72662b92c98c59b",
-          "source": {
-            "name": "news.yahoo.co.jp"
-          },
-          "publishedAt": "2026-09-08T11:47:35Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/obiekt/02712287/title-1788857728233.jpeg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【線状降水帯】予測 30分ごと雨シミュレーション「関東250ミリ東海200ミリ近畿200ミリ」近畿地方にも「線状降水帯」予測 気象庁午後8時37分発表",
-          "description": "■【線状降水帯】予測　関東甲信、東海、近畿、四国地方\n線状降水帯が発生して、大雨災害発生の危険度が急激に高まる可能性のある地域と期間は、以下のとおりです。\n「大阪府・兵庫県・和歌山県」午後8時3",
-          "url": "https://news.yahoo.co.jp/articles/256f3d3a4855ef85213f9bac3505421332f6c86b",
+          "title": "元法相の陣内孝雄さん死去",
+          "description": "小渕恵三内閣で法相を務めた元自民党参院議員の陣内孝雄（じんのうち・たかお）さんが8日午前、東京都の病院で死去した。93歳。佐賀県神埼市出身。自宅は東京都。葬儀・告別式は14日午前10時から東京都品川",
+          "url": "https://news.yahoo.co.jp/pickup/6594695",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-09-08T11:18:19Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260908-22930562-mbcnewsv-000-5-view.jpg?exp=10800",
+          "publishedAt": "2026-09-08T21:22:42Z",
+          "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/9/debf0b73d591b23e5e329fb40b2f961fcc00a6a238cd7aa7b4d333faca925c78.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Otile and Gaita take early lead at MTN Pro Tee",
-          "description": "Entebbe, Uganda | PHILLIP CORRY | Ronald Otile is clearly getting to grips with his Mizuno clubs.  He sunk 5 birdies on holes 5, 12, 13, 15 and 18 with a bogey on 14 to take the joint lead with Rodel Gaita, on 4-under par 67 at the end of Day 1 of the …",
-          "url": "https://www.independent.co.ug/otile-and-gaita-take-early-lead-at-mtn-pro-tee/",
+          "title": "Will 'Jimmy Kimmel Live' end in 2027? ABC responds",
+          "description": "ABC issued a swift response to a report that \"Jimmy Kimmel Live!\" will end after 24 years on the air, calling the claim \"speculative.\"",
+          "url": "https://www.usatoday.com/story/entertainment/tv/2026/09/08/jimmy-kimmel-live-ending-2027/91666177007/",
           "source": {
-            "name": "independent.co.ug"
+            "name": "USA Today"
           },
-          "publishedAt": "2026-09-08T15:33:35Z",
-          "image": "https://www.independent.co.ug/wp-content/uploads/2026/09/Otile-golf.jpg",
+          "publishedAt": "2026-09-08T22:51:00Z",
+          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/04/USAT/91613858007-182488-0583.jpg?crop=1974,1109,x0,y48&width=1974&height=1109&format=pjpg&auto=webp",
           "language": "en"
         },
         {
-          "title": "Meet the deal makers behind Dangote Refinery’s historic IPO",
-          "description": "As the Dangote Petroleum Refinery prepares for its historic IPO targeting a massive $1.6 billion (N2.152 trillion) raise by offering 4.1...",
-          "url": "https://businessday.ng/markets/article/meet-the-deal-makers-behind-dangote-refinerys-historic-ipo/",
+          "title": "Julián Álvarez Will Face Liverpool: Atlético Madrid Makes Decision for the UEFA Champions League",
+          "description": "Julián Álvarez was included in Atlético Madrid’s squad to face Liverpool at Anfield in the UEFA Champions League opener.",
+          "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/juli%C3%A1n-%C3%A1lvarez-will-face-liverpool-atl%C3%A9tico-madrid-makes-decision-for-the-uefa-champions-league-2026-09-08",
           "source": {
-            "name": "Business News Nigeria"
+            "name": "beIN SPORTS"
           },
-          "publishedAt": "2026-09-08T15:32:59Z",
-          "image": "https://cdn.businessday.ng/wp-content/uploads/2025/03/Here-are-4-African-countries-buying-petrol-from-Dangote-refinery.jpg",
+          "publishedAt": "2026-09-08T22:48:31Z",
+          "image": "https://prod-media.beinsports.com/image/1788907621755_2399cc3f-6f9c-4a18-8896-430243033aeb.1080.JPG",
           "language": "en"
         },
         {
-          "title": "The Legend of Zelda: Ocarina of Time Remake launches in November",
-          "description": "Nintendo held its Zelda Direct today, giving us a fresh look at the Ocarina of Time remake. The new trailer shows off the classic adventure in a completely updated art style and confirms a 5th November release date for Switch 2 consoles.",
-          "url": "https://www.kitguru.net/gaming/matthew-wilson/the-legend-of-zelda-ocarina-of-time-remake-launches-in-november/",
+          "title": "UK repeats demands for child safety features that Apple made",
+          "description": "Apple's child safety toolset is already robust and expanding with iOS 27, but the UK government isn't happy and continues to threaten legislation.",
+          "url": "https://appleinsider.com/articles/26/09/08/uk-repeats-demands-for-child-safety-features-that-apple-already-made",
           "source": {
-            "name": "KitGuru"
+            "name": "AppleInsider"
           },
-          "publishedAt": "2026-09-08T15:32:36Z",
-          "image": "https://www.kitguru.net/wp-content/uploads/2026/06/Ocarina-of-time-zelda-switch-2-732x330.png",
+          "publishedAt": "2026-09-08T22:47:00Z",
+          "image": "https://media.appleinsider.com/gallery/68881-145112-IMG_5015-xl.jpg",
           "language": "en"
         },
         {
-          "title": "Raphinha, CR7... Ballon d'Or snubs raise eyebrows; see reactions",
-          "description": "The list of Ballon d'Or finalists was officially announced this Tuesday (8).The most anticipated players, of course, made it into the list of 30 names.But some major absences were also noticed and spa...",
-          "url": "https://sports.yahoo.com/articles/raphinha-cr7-omissions-ballon-dor-153200135.html",
+          "title": "Microsoft posts nearly 1,000 bugs for Patch Tuesday as CISA warns two being exploited",
+          "description": "The new record total for Patch Tuesday is 973 vulnerabilities.",
+          "url": "https://therecord.media/microsoft-patch-tuesday-september-2026",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "The Record from Recorded Future News"
           },
-          "publishedAt": "2026-09-08T15:32:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/aa0bd5ca383bee9a3d55217c8c7dd1c8fe6889ce0be9dfefe0627bcdd1b973e1/lightyear_networkapi/resizefill_w1024_h683%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F17b9f407434964b4bacf0c888e83548d.jpg",
+          "publishedAt": "2026-09-08T22:44:06Z",
+          "image": "https://cms.therecord.media/uploads/microsoft_sign_pexels_altabena_efbc5ae4db.jpg",
           "language": "en"
         },
         {
-          "title": "The shingles vaccine may have an unexpected benefit for your heart",
-          "description": "Most people get the shingles vaccine for one very good reason: They don’t want shingles. But new research suggests the newer shingles vaccine may come with an unexpected bonus—better cardiovascular health. The finding doesn’t prove that the vaccine prevents heart disease. But it adds to growing evidence that vaccination against shingles may have benefits beyond preventing a notoriously painful rash. Researchers found a 9% difference in cardiovascular burden A study published in Nature Medicine e",
-          "url": "https://health.yahoo.com/conditions/respiratory/articles/shingles-vaccine-may-unexpected-benefit-153109585.html",
+          "title": "Superette owner on the brink of bankruptcy after nine months of Napier roadworks",
+          "description": "A Marewa business owner says nine months of roadworks have left him on the brink of bankruptcy. Hetal Shastri has owned the League Park Superette on Taradale...",
+          "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/superette-owner-on-the-brink-of-bankruptcy-after-nine-months-of-napier-roadworks/SLEELWUVK5EC3IOMZURAU6T3CU/",
           "source": {
-            "name": "Yahoo Health"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-09-08T15:31:09Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/44be9eaf68faf741f6da1f85c2b57a11e3c11207ace2ab48b90ea8564340ec69/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffodmap_everyday_588%2Fbc0ab16ddff754a99e77925eedcc7159.jpg",
+          "publishedAt": "2026-09-08T22:42:20Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/6KC7OPKXYRBNBE5ZOPKKG3EX74.jpg?auth=459769b377fef5fcc283836146ad389fddde6bceeb8b51c3f6013a81b8b39631&width=1200&height=675&quality=70&focal=1113%2C412&smart=false",
           "language": "en"
         },
         {
-          "title": "Best Sony headphone deal: Take 46% off the Sony WH-CH720N headphones",
-          "description": "The Sony WH-CH720N headphones are on sale at Amazon for $97, down from the list price of $179.99. That's a 46% discount.",
-          "url": "https://mashable.com/tech/sept-8-sony-ch720-deal",
+          "title": "Helicobacter Pylori Tied to 20% of Global Bowel Cancer",
+          "description": "Exposure to the stomach microbe Helicobacter pylori may be associated with more than 1 in 5 cases of bowel cancer worldwide, suggests an exploratory",
+          "url": "https://www.miragenews.com/helicobacter-pylori-tied-to-20-of-global-bowel-1740749/",
           "source": {
-            "name": "mashable.com"
+            "name": "Mirage News"
           },
-          "publishedAt": "2026-09-08T15:30:57Z",
-          "image": "https://helios-i.mashable.com/imagery/articles/00Lo5s4Sh2Nue1MZ1TeiN5r/hero-image.fill.size_1200x675.v1788876852.jpg",
+          "publishedAt": "2026-09-08T22:42:00Z",
+          "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1581595220921-eec2071e5159%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
           "language": "en"
         },
         {
-          "title": "Ballon d’Or: Lautaro Martinez only Serie A player nominated, no Dimarco",
-          "description": "Inter captain Lautaro Martinez is the only Serie A player up for the Ballon d’Or in 2026, as Federico Dimarco doesn’t get in despite being named best in the league last season.This is the 70th edi...",
-          "url": "https://sports.yahoo.com/articles/ballon-d-lautaro-martinez-only-153000960.html",
+          "title": "Harry and Meghan 'surprised' by King's letter about them",
+          "description": "The letter made it clear that the couple would remain non-working members of the royal family, even though they had returned to the United Kingdom.",
+          "url": "https://www.1news.co.nz/2026/09/09/harry-and-meghan-surprised-by-kings-letter-about-them/",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "1News"
           },
-          "publishedAt": "2026-09-08T15:30:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/80144573565bac1e95d42c937b38ba9bd599e3af7ab6e30e20c58af8cbf976f6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_italia_articles_132%2Ff341fc0af1f9707e0072e9ee6f666065.jpg",
+          "publishedAt": "2026-09-08T22:41:10Z",
+          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/britains-king-charles-iii-from-bottom-left-camilla-the-queen-FDYJC76P4NHGRBPAYYGZQAACOA.jpg?auth=68473cc689ce5b2c861d753169c639631a8a9df653dc9f4c4dea208f23c51267&quality=70&width=600&height=315&focal=1518%2C990",
           "language": "en"
         },
         {
-          "title": "Investors pay a premium to switch Sh11bn into new bond",
-          "description": "The 2013 bond, which is to mature in February 2028, carries an annual interest rate of 11.25 percent, while the 10-year bond pays interest at 12.28 percent and matures in November 2029.",
-          "url": "https://www.businessdailyafrica.com/bd/markets/capital-markets/investors-pay-a-premium-to-switch-sh11bn-into-new-bond-5588350",
+          "title": "Calgary city council votes to raise confidential document breach to province",
+          "description": "The ball is in the provincial government's court about what steps are needed after a Calgary city councillor acknowledged releasing confidential budget documents last week.",
+          "url": "https://www.cbc.ca/news/canada/calgary/council-special-meeting-breach-9.7336301",
           "source": {
-            "name": "businessdailyafrica.com"
+            "name": "CBC"
           },
-          "publishedAt": "2026-09-08T15:30:00Z",
-          "image": "https://www.businessdailyafrica.com/resource/image/5456878/landscape_ratio3x2/1200/800/a35d94e36c34ed50eed30e368f753348/fD/cbk.jpg",
+          "publishedAt": "2026-09-08T22:40:44Z",
+          "image": "https://i.cbc.ca/ais/d95cc603-dc45-48ea-a831-33edcf41e788,1788905209316/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
           "language": "en"
         },
         {
-          "title": "McAleese steps down from integration role",
-          "description": "Dr Mary McAleese has stepped down as chairperson of the Integration Committee overseeing the amalgamation of the GAA, LGFA and Camogie Association.",
-          "url": "https://www.rte.ie/sport/football/2026/0908/1590769-mcaleese-steps-down-from-integration-role/",
+          "title": "Did wildfires help spark the invention of pottery?",
+          "description": "A new study suggests that a period of intense fires and landscape upheaval in the ancient southern Levant may have helped create the conditions that led Neolithic communities to discover how fire could transform clay.",
+          "url": "https://phys.org/news/2026-09-wildfires-pottery.html",
           "source": {
-            "name": "RTE.ie"
+            "name": "Phys.org"
           },
-          "publishedAt": "2026-09-08T15:29:52Z",
-          "image": "https://www.rte.ie/images/002312d6-1600.jpg",
+          "publishedAt": "2026-09-08T22:40:01Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/did-wildfires-help-spa.jpg",
           "language": "en"
         },
         {
-          "title": "Over 600 flights cancelled as London's Heathrow, Manchester among UK airports hit by technical issue",
-          "description": "There appeared to be no reported impact on incoming flights. The cause of the technical issue was not immediately known. | World News",
-          "url": "https://www.hindustantimes.com/world-news/uk-airports-heathrow-air-traffic-control-issue-hit-london-stansted-gatwick-manchester-nats-flight-delays-news-101788880819156.html",
+          "title": "Bullion cools ahead of US CPI, PPI data",
+          "description": "Bullion cools ahead of US CPI, PPI data",
+          "url": "https://tribune.com.pk/story/2628199/bullion-cools-ahead-of-us-cpi-ppi-data",
           "source": {
-            "name": "Hindustan Times"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-09-08T15:28:52Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/09/08/1600x900/logo/HEATHROW-OUTLOOK--0_1788881275822_44bc3f9a-566f-42a8-9823-d4104202112c_1788881343467_3d3ae3c8-ca02-4e14-94f4-baa72ebd6aa3_fa592ad2-e2ba-4f68-bfcf-5e3844c04ef2_a389ab25-30a5-4049-a877-bcb6e6bec1d8.JPG",
+          "publishedAt": "2026-09-08T22:37:39Z",
+          "image": "https://i.tribune.com.pk/media/images/191784663823-7/191784663823-7-640x480.webp",
           "language": "en"
         }
       ]
