@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-09-10T03:31:04.966Z",
+  "updatedAt": "2026-09-10T10:49:40.379Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "「ハマス襲撃“事前警告”受けた」地元紙が報道 ネタニヤフ氏は否定も総選挙劣勢か",
-          "description": "来月末、総選挙が行われるイスラエル。ネタニヤフ首相に逆風が吹いているようです。地元紙は、ネタニヤフ首相が2023年のハマスの襲撃を、10日前にUAEから警告されていたと報じました。",
-          "url": "https://news.yahoo.co.jp/articles/229f8915abf253be265cb4468ca5dd349fe2e80c",
+          "title": "１０日の東京株式市場見通し＝弱い動きが続きそう 速報",
+          "description": "予想レンジ：６万３９００円－６万４５００円（９日終値６万５１４２円７８銭）　１０日の東京株式は、弱い動きが続きそうだ。現地９日の米国市場では、金利上昇が嫌気され幅広い銘柄が軟調に推移した。東京市場で・・・",
+          "url": "https://kabushiki.jp/news/767190",
+          "source": {
+            "name": "kabushiki.jp"
+          },
+          "publishedAt": "2026-09-09T22:47:00Z",
+          "image": "https://kabushiki.jp/ogp.png",
+          "language": "ja"
+        },
+        {
+          "title": "アップル、既存モデルも値上げ--「iPhone 17」は14万2800円 → 15万9800円に",
+          "description": "Appleの国内オンラインストアで、既存のiPhoneの販売価格が引き上げられた。9月10日時点で、「iPhone 17」は15万9800円から、「iPhone 17e」は12万4800円からとなっている。",
+          "url": "https://japan.cnet.com/article/35252455/",
+          "source": {
+            "name": "CNET Japan"
+          },
+          "publishedAt": "2026-09-09T22:32:00Z",
+          "image": "https://japan.cnet.com/storage/2026/09/10/bfce948e08b7b801255f06a97de85950/02.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "森香澄が映画初主演、流されるままに生きてきた30歳を熱演＜てんてん ずっと独身でいるつもり？＞",
+          "description": "元テレビ東京アナウンサーでタレントの森香澄が映画初主演を務める「てんてん　ずっと独身でいるつもり？」が10月23日(金)よりPrime Videoで独占配信されることが発表され、若葉竜也と香椎由宇の",
+          "url": "https://news.yahoo.co.jp/articles/37e106b91a914335c8a9fbba231956b6dfc54db7",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-09-09T14:57:15Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260909-90199301-ann-000-2-view.jpg?exp=10800",
+          "publishedAt": "2026-09-09T22:00:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260910-01439482-the_tv-000-1-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "２０２６／２７Ｊリーグ ヤマザキビスケット ルヴァンカップ1stラウンド2回戦 キックオフ時刻およびスタジアムのお知らせ",
-          "description": "本日行われた２０２６／２７Ｊリーグ ヤマザキビスケット ルヴァンカップ1stラウンド1回戦（9月9日（水）開催",
-          "url": "https://www.mito-hollyhock.net/news/p=54452/",
+          "title": "「iPhone 18」シリーズ徹底比較 「17」シリーズとの違いをチェック",
+          "description": "米Appleが「iPhone 18 Pro」「iPhone 18 Pro Max」を発表した。6.3インチのProと6.9インチのPro Maxの2機種で、今年はいわゆる“無印”モデルの発表がない異例のラインアップとなった。予約注文は9月12日午後9時から、発売は9月18日。従来モデルの「iPhone 17 Pro」「iPhone 17 Pro Max」と比べながら、新機能や注目ポイントを紹介する。",
+          "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001341/",
           "source": {
-            "name": "水戸ホーリーホック公式サイト"
+            "name": "itmedia.co.jp"
           },
-          "publishedAt": "2026-09-09T14:47:01Z",
-          "image": "https://www.mito-hollyhock.net/wp-content/uploads/2026/06/logo_2627_1.jpg",
+          "publishedAt": "2026-09-09T21:23:21Z",
+          "image": "https://www.itmedia.co.jp/news/article/ogp/2609/10/2000001341/10005910/2048",
           "language": "ja"
         },
         {
-          "title": "ルヴァン杯2回戦の組み合わせが決定! 下剋上を果たした福島は水戸、松本は新潟と対決",
-          "description": "ルヴァンカップ1stラウンド1回戦の残り7試合が9日に各地で行われた。　とうほう・みんなのスタジアムでは福島ユナイテッドFC(J3)がベガルタ仙台(J2)に4-3で勝利。ベンチ入りした59歳FW三浦知良に出番はなかった...",
-          "url": "https://web.gekisaka.jp/news/jleaguecup/detail/?458570-458570-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-09-09T14:13:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/459000/458570/news_458570_1.jpg?time=20260909232406",
-          "language": "ja"
-        },
-        {
-          "title": "スイッチ2版『モンハンワイルズ』12月4日発売！これまでのアップデートを全て収録、大型DLC「アセンダンス」にも対応 【Nintendo Direct 2026.9.9】",
-          "description": "カプコンは、9月9日に配信された「NintendoDirect2026.9.9」にて、ニンテンドースイッチ2版『モンスターハンターワイルズ』の発売日を2026年12月4日に決定しました。◆これまでのア...",
-          "url": "https://www.excite.co.jp/news/article/Inside_187498/",
-          "source": {
-            "name": "Excite エキサイト"
-          },
-          "publishedAt": "2026-09-09T14:12:00Z",
-          "image": "https://s.eximg.jp/exnews/logo/noimg_1200x630_trend-topic.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【バレーボール男子アジア選手権】「流れを変える」役割を果たした大塚達宣--途中出場で呼び込んだチームの勝機とストレート勝利（バレーボールマガジン）",
-          "description": "9月8日、北九州市立総合体育館で行われたバレーボール男子アジア選手権。オーストラリアとの一戦に臨んだ日本代表は、見事ストレート勝利を収め、決勝トーナメント進出を決めた。\nこの試合で大きな光を放った",
-          "url": "https://news.yahoo.co.jp/articles/df1621ed122eccc46fbe96d0dac61f7e40e10e58",
+          "title": "“閉山日”前日の富士山で混乱 大雨で車両通行止めの道を「さらに3時間歩いた」下山客も 遭難事故相次ぎ「これ以上死者出したくない」",
+          "description": "富士山へと続く道路で、土砂崩れが発生した。地元自治体が登山を中止するよう呼びかけるなど、10日の閉山日を前に、現地では混乱が広がっている。\n◆公式Xで登山中止呼びかけ\n9日朝、富士山の御殿場口5",
+          "url": "https://news.yahoo.co.jp/articles/2901d98d4bef9036b7d13eb880dff91905fce45a",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-09-09T13:42:18Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260909-00010002-vbm-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-09-09T21:00:42Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260910-01211368-fnn-000-2-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "折りたたみiPhone、「iPhone Duo」。10月発売で約36万円から？",
-          "description": "予想ですよ、予想。あくまでも予想なのですが、Bloombergのマーク・ガーマン記者が、今夜発表されるであろう折りたたみiPhoneの最新予想をXにポストしています。ガーマン氏の予想をまとめると…・名前：iPhone Duo・価格：2,00",
-          "url": "https://www.gizmodo.jp/article/iphone-duo/",
+          "title": "世界中に響き渡るドイツ地方選での極右AfDの勝利、ロシアとトランプ政権は喝采――ギデオン・ラックマン(1/3)",
+          "description": "ドイツの地方選挙が全世界で注目されることはめったにない。　だが、6日の東部ザクセン・アンハルト州議会選挙で見られた極右政党「ドイツのための選択肢（AfD）」への支持急増は本当に世界(1/3)",
+          "url": "https://jbpress.ismedia.jp/articles/-/96927",
           "source": {
-            "name": "gizmodo.jp"
+            "name": "JBpress"
           },
-          "publishedAt": "2026-09-09T13:30:00Z",
-          "image": "https://media.loom-app.com/loom/2026/09/09/b7a6fa8c-3c9e-4c5c-a7e0-b5479702bf6e/original.jpg?w=1200&h=630",
+          "publishedAt": "2026-09-09T21:00:00Z",
+          "image": "https://jbpress.ismcdn.jp/mwimgs/a/f/1200mw/img_af8bef78ea7e438597a106b4cd9a545f516983.jpg",
           "language": "ja"
         },
         {
-          "title": "櫻坂46の2代目キャプテン・松田里奈、年内で卒業「しっかり8年やってきたなと思えます！」",
-          "description": "ニュース｜　アイドルグループ・櫻坂46の2代目キャプテン・松田里奈（26）が、年内をもってグループを卒業することが9日、グループの公式サイトで発表された。　サイトでは「松田里奈ですが、先ほど本人のブログにて発表させていただいた通り、年内の活動をもって櫻坂46から卒業することになりました。具体的な卒業時期等に関しましては、決まり次第ご報告させていただきます。今後とも、松田里奈、櫻坂46の応援のほど宜しくお願い致します」と伝えられた。その上で「年内の活動をもってグループからの卒業を発表した松田里奈ですが、「6th YEAR ANNIVERSARY LIVE」の2日目、11月15日(日)にて、「松田里奈 卒業セレモニー」を実施することが決定いたしました」とした。",
-          "url": "https://www.oricon.co.jp/news/2479436/full/",
+          "title": "「Apple Watch Series 12」発表。セラミックケースモデルをラインナップに追加",
+          "description": "Appleは、「Apple Watch Series 12」を発表した。本日より予約注文を開始し、9月18日（金）に発売する。ケースサイズは42mmと46mmで、GPSモデルとGPS＋Cellularモデルを展開。ケース素材にはアルミニウム、チタニウムに加え、新たにセラミックを追加する。",
+          "url": "https://www.phileweb.com/sp/news/mobile_pc/202609/10/3779.html",
           "source": {
-            "name": "オリコンニュース"
+            "name": "PHILE WEB"
           },
-          "publishedAt": "2026-09-09T13:24:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2480000/2479436/20260909_222354_p_o_19304803.jpg",
+          "publishedAt": "2026-09-09T20:54:03Z",
+          "image": "https://www.phileweb.com/news/ogp/mobile_pc/37/c0bec5e203f4f885a2a65e6e34b9eded.jpg",
           "language": "ja"
         },
         {
-          "title": "「好きすぎて2着買った」 無印良品のセール中“パジャマ”が大好評 「ぐっすり眠れました」「肌触りがとてもよく即決」「シルクのように美しい」",
-          "description": "無印良品のセール中“パジャマ”が、快適な着心地でシルクのように美しく、寝心地も良いと高評価を集めています。　本記事では、そんな「婦人　なめらかサテン　長袖パジャマ」を紹介します。画像：無印良品「婦人　なめらかサテン　長袖パジャマ」とは？　無印良品の「婦人　なめらかサテン　…",
-          "url": "https://nlab.itmedia.co.jp/research/articles/4009042/",
+          "title": "吉田仁人が連ドラ初主演！ ヒロインを一途に愛する青年役に「溺愛 ～ 実は、最強ヒーロー ～」",
+          "description": "吉田仁人（M!LK）が主演を務める新金曜ドラマ「溺愛　～ 実は、最強ヒーロー ～」（金曜午後11：00ほか）が、TOKYO MXほかで10月30日に放送スタート。吉田をはじめ、原作の作画を担当する一城れもん氏、シナリオを担当する海咲ねむる氏からコメントが到着した。 　本作は、シリーズ累計3400万 […]",
+          "url": "https://www.tvguide.or.jp/news/news-5274566/",
           "source": {
-            "name": "ねとらぼ"
+            "name": "TVガイドWeb"
           },
-          "publishedAt": "2026-09-09T13:12:55Z",
-          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/08/1755065869_a1262dcd9063a789c9eaf73288699406.jpg",
+          "publishedAt": "2026-09-09T20:00:00Z",
+          "image": "https://www.tvguide.or.jp/wp/wp-content/uploads/2026/09/news_260910_07_01.jpg",
           "language": "ja"
         },
         {
-          "title": "米国ラスカー賞、日本から4人ダブル受賞 睡眠研究の柳沢正史さんら",
-          "description": "米国で最も権威がある医学賞「ラスカー賞」で、今年の基礎医学部門に筑波大教授の柳沢正史さん（66）、臨床医学部門に中外製薬の服部有宏（くにひろ）さん（66）、井川智之さん（49）、北沢剛久さん（57）…",
-          "url": "https://www.asahi.com/articles/ASV982RN9V98UHBI005M.html",
+          "title": "新iPhone発表で「iPhone 17／17e／Air」など旧モデルを値上げ 17は15万9800円スタートに",
+          "description": "Appleの新モデル発表に伴い、継続販売される旧iPhoneの価格改定が行われた。iPhone 16やiPhone 17など全4モデルが一斉に1万円以上値上げされた。最も値上げ幅が大きいiPhone Airの1TBは4万7000円増となり、最安モデルはiPhone 17eの12万4800円となった。",
+          "url": "https://www.itmedia.co.jp/mobile/articles/2609/10/news064.html",
           "source": {
-            "name": "朝日新聞"
+            "name": "ITmedia"
           },
-          "publishedAt": "2026-09-09T13:06:44Z",
-          "image": "https://imgopt.asahi.com/ogp/AS20260909001873_comm.jpg",
+          "publishedAt": "2026-09-09T19:42:00Z",
+          "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/cover_news064.jpg",
           "language": "ja"
         },
         {
-          "title": "関東で2日連続の局地的大雨 八王子では道路冠水 善福寺川など一時レベル4「氾濫危険警報」 再び“警報級大雨”か",
-          "description": "9日午後、関東各地でも激しい雨が降り始めました。都内では9日夜遅くにかけて1時間に40mmの激しい雨が降る恐れがあり、都市型水害の危険性が高まっています。関東地方は引き続き大気の状態が不安定で、9日午後、各地で局地的な大雨となりました。午後3時過ぎの茨城・土浦駅前。つい5分ほど前に雨が降り始めたにもかかわらず、すでに路面がぬれていて、多くの車両が水しぶきを上げて走行していました。雨はすぐに弱まりましたが、午後3時半過ぎ、また強く降り始めました。また、群馬・前橋市でも午後3時過ぎ、突然、強い雨が…",
-          "url": "https://www.fnn.jp/articles/-/1111285",
+          "title": "真相・ニュースの現場から：ラグジュアリースイート？国税当局が目を付けた聖地・高野山の今",
+          "description": "7月上旬、30代の女性がX（ツイッター）でつぶやいた投稿が話題になった。 　「お寺って、営利追求するものなんだっけ？」 　女性が取り上げたのは、標高800メートルの山上に広がる平地に117の寺院が建ち並ぶ、仏教の一大聖地・高野山（和歌山県高野町）。",
+          "url": "https://mainichi.jp/articles/20260909/k00/00m/040/173000c",
           "source": {
-            "name": "FNNプライムオンライン"
+            "name": "毎日新聞"
           },
-          "publishedAt": "2026-09-09T12:05:00Z",
-          "image": "https://fnn.ismcdn.jp/mwimgs/d/d/600/img_dd1193f2f1f2ef3e666706ef8521b1e2478515.jpg",
+          "publishedAt": "2026-09-09T19:31:00Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/09/09/20260909k0000m040282000p/0c10.jpg?1",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Indonesia’s wildfire emissions surge to world’s highest, data shows",
-          "description": "The country is battling what authorities say is its most intense wildfire season in 11 years.",
-          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366962/indonesias-wildfire-emissions-surge-worlds-highest-data-shows",
+          "title": "Chelsea produce stunning blitz to beat Leeds in cup",
+          "description": "Chelsea scored four times in 12 second-half minutes as Leeds suffered a Carabao Cup collapse to lose 6-3 in the third round at Stamford Bridge.",
+          "url": "https://www.rte.ie/sport/soccer/2026/0909/1590982-chelsea-produce-stunning-blitz-to-beat-leeds-in-cup/",
           "source": {
-            "name": "South China Morning Post"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-09-09T15:30:06Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/09/8671dddc-de04-4f1d-9f69-7acc920803fe_5b3cd9e8.jpg?itok=-medARP7&v=1788965998",
+          "publishedAt": "2026-09-09T22:49:24Z",
+          "image": "https://www.rte.ie/images/0024fb31-1600.jpg",
           "language": "en"
         },
         {
-          "title": "Iran attacks US forces in Jordan as Strait of Hormuz tensions escalate",
-          "description": "Iran targeted US forces in Jordan and ships in the Strait of Hormuz as Secretary of State Marco Rubio warned Tehran would lose oil tankers for trying to attack US warships.",
-          "url": "https://www.foxnews.com/live-news/iran-war-strikes-strait-of-hormuz-09-09-26",
+          "title": "'It's so demeaning and degrading for the girl'",
+          "description": "'It's so demeaning and degrading for the girl'",
+          "url": "https://tribune.com.pk/story/2628430/its-so-demeaning-and-degrading-for-the-girl",
           "source": {
-            "name": "Fox News"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-09-09T15:29:49Z",
-          "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/7aa8da7a7a47a434912fa33b1a74f347.jpg",
+          "publishedAt": "2026-09-09T22:47:55Z",
+          "image": "https://i.tribune.com.pk/media/images/sania-saeed1788994018-0/sania-saeed1788994018-0-640x480.webp",
           "language": "en"
         },
         {
-          "title": "Billionaire Ties: Davido reveals untold history with Africa’s richest man, Dangote",
-          "description": "Nigerian afrobeats star, David Adeleke, popularly known as Davido, has opened up on his family's ties with billionaire businessman..",
-          "url": "https://pmnewsnigeria.com/2026/09/09/billionaire-ties-davido-reveals-untold-history-with-africas-richest-man-dangote/",
+          "title": "Australian Defence Force Shows How Non",
+          "description": "Learn how non-citizens can join the Australian Defence Force (ADF), from residency rules and citizenship waivers to Overseas Lateral Entry for foreign veterans.",
+          "url": "https://yen.com.gh/world/311632-australian-defence-force-shows-how-citizens-join-military-ranks/",
           "source": {
-            "name": "PM News Nigeria"
+            "name": "Yen News"
           },
-          "publishedAt": "2026-09-09T15:29:11Z",
-          "image": "https://cdn.pmnewsnigeria.com/wp-content/uploads/2021/08/pmnewslogo-75x50.gif",
+          "publishedAt": "2026-09-09T22:44:36Z",
+          "image": "https://cdn.yen.com.gh/images/1200x675/3d76f173ad515674.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "Trump asks Supreme Court to use revised voter verification database",
-          "description": "Advocacy groups that sued to block the revised SAVE system said the new approach has resulted ⁠in people wrongfully being kicked off voter rolls.",
-          "url": "https://www.usatoday.com/story/news/politics/2026/09/09/trump-asks-supreme-court-to-use-voter-verification-database/91674221007/",
+          "title": "Hurricane Lowell leaves trail of destruction across Kauai",
+          "description": "Many residents of Kauai are without power and face extensive destruction after Hurricane Lowell lashed the island with rain, flooding and strong winds.",
+          "url": "https://www.yahoo.com/news/weather-news/articles/hurricane-lowell-leaves-trail-destruction-224307401.html",
           "source": {
-            "name": "USA Today"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-09-09T15:28:00Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/09/USAT/91674559007-20260828-t-153153-z-1093562656-rc-2-r-7-nau-65-vf-rtrmadp-3-usaelectionmarch.JPG?crop=5499,3093,x0,y287&width=3200&height=1800&format=pjpg&auto=webp",
+          "publishedAt": "2026-09-09T22:43:07Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/44a2d6149b76318d3d00ac089bb4cd0253db891b89c08373ca3171565f4db665/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbc_news_122%2Fcb6dedbf6f65dfc251a3e34df61353fd.jpg",
           "language": "en"
         },
         {
-          "title": "B.C. teacher banned for life over sex with former student",
-          "description": "Theodore Donald Ewald agreed to the ban in a consent resolution agreement with the B.C. Commissioner for Teacher Regulation.",
-          "url": "https://vancouversun.com/news/bc-teacher-lifetime-ban-sex-with-former-student",
+          "title": "Hurricane Lowell leaves trail of destruction across Kauai",
+          "description": "Many residents of Kauai are without power and face extensive destruction after Hurricane Lowell lashed the island with rain, flooding and strong winds.",
+          "url": "https://www.nbcnews.com/weather/hurricanes/hurricane-lowell-flooding-destruction-hawaii-kauai-rcna596804",
           "source": {
-            "name": "Vancouver Sun"
+            "name": "NBC News"
           },
-          "publishedAt": "2026-09-09T15:27:10Z",
-          "image": "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2026/09/GettyImages-2192608634.jpg",
+          "publishedAt": "2026-09-09T22:43:07Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260909-hawaii-hurricane-lowell-vl-431p-a7d9bd.jpg",
           "language": "en"
         },
         {
-          "title": "John Malkovich cancels Israel trip over fabricated solidarity quote",
-          "description": "The Wild Horse Nine actor had been due to appear on stage in The Music Critic in Tel Aviv – but pulled out over PR firm’s ‘unacceptable and untenable’ attribution of statement",
-          "url": "https://www.theguardian.com/film/2026/sep/09/john-malkovich-cancels-israel-trip-over-fabricated-solidarity-quote",
+          "title": "Average KiwiSaver balance cracks $40k",
+          "description": "New Zealanders' average KiwiSaver balance has ticked over $40,000 for the first time, but there are still more than a million members not contributing to the scheme at all.",
+          "url": "https://www.rnz.co.nz/news/personal-finance/1320600/average-kiwisaver-balance-cracks-40k",
           "source": {
-            "name": "The Guardian"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-09-09T15:26:00Z",
-          "image": "https://i.guim.co.uk/img/media/0184002764d0a71a861badf631cfa1930aeac460/172_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e8241697b7237458a557e02ec967f343",
+          "publishedAt": "2026-09-09T22:42:38Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--1pbtSiXS--/t_tohu-badge-facebook/f_auto/q_auto/4JJP35C_Untitled_Artwork_176_jpg",
           "language": "en"
         },
         {
-          "title": "DNA-editing ‘pencils’ probe early human development",
-          "description": "A genome-rewriting approach known as adenine base editing offers a precise way to investigate gene function in early human embryos.",
-          "url": "https://www.nature.com/articles/d41586-026-02840-7?error=cookies_not_supported&code=18f32f49-975e-4855-a82c-a1007c0a62ed",
+          "title": "Noah Kahan scores a new seasonal hit in the UK with End of August",
+          "description": "The song could join the ranks of recurring annual chart hits that regularly resurface at specific times of the year",
+          "url": "https://tribune.com.pk/story/2628388/noah-kahan-scores-a-new-seasonal-hit-in-the-uk-with-end-of-august",
           "source": {
-            "name": "nature.com"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-09-09T15:25:44Z",
-          "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02840-7/d41586-026-02840-7_53689722.jpg",
+          "publishedAt": "2026-09-09T22:42:27Z",
+          "image": "https://i.tribune.com.pk/media/images/kkkk-2026-07-19t174051-8701784464935-0/kkkk-2026-07-19t174051-8701784464935-0-640x480.webp",
           "language": "en"
         },
         {
-          "title": "‘Superdark’ protein looks like a G-protein-coupled receptor - but shows unconventional behaviour",
-          "description": "Mining millions of AI-predicted structures reveals an evolutionarily conserved protein that resembles a receptor family member but functions differently.",
-          "url": "https://www.nature.com/articles/d41586-026-02472-x?error=cookies_not_supported&code=605b8b4c-59dd-428d-8701-ca7f1cce7f87",
+          "title": "Nqakula paid cash as she's 'not an EFT person’",
+          "description": "Before falling ill in court, former defence minister Nosiviwe Mapisa-Nqakula testified she struggled with EFTs and relied on cash to pay workers during the R1.8-million renovations at her Joburg home. Her legal team says her doctor will advise whether she is fit to return to court.",
+          "url": "https://www.dailymaverick.co.za/article/2026-09-10-why-mapisa-nqakula-paid-cash-to-renovation-workers-im-not-an-eft-person/",
           "source": {
-            "name": "nature.com"
+            "name": "Daily Maverick"
           },
-          "publishedAt": "2026-09-09T15:25:43Z",
-          "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02472-x/d41586-026-02472-x_53689948.jpg",
+          "publishedAt": "2026-09-09T22:41:25Z",
+          "image": "https://cdn.dailymaverick.co.za/i/miZyAToV_z5Gp7g9W3dcCXaNcDA=/800x0/smart/filters:strip_exif()/file/attachments/orphans/Nonku-MapisaNqakulacopy_549328.jpg",
           "language": "en"
         },
         {
-          "title": "AI could kill all humans in next decade, warn experts: but how seriously should we take them?",
-          "description": "Alarming warnings from industry insiders increase pressure for curbs on artificial superintelligence",
-          "url": "https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians",
+          "title": "Canada-Europe partnership forming, EU envoy says",
+          "description": "The European Union’s ambassador to Canada says the bloc is crafting a new partnership with Ottawa unlike anything that currently exists.",
+          "url": "https://www.bnnbloomberg.ca/business/politics/2026/09/09/eu-envoy-says-a-unique-new-partnership-with-canada-forming-ahead-of-carney-speech/",
           "source": {
-            "name": "The Guardian"
+            "name": "BNN Bloomberg"
           },
-          "publishedAt": "2026-09-09T15:25:00Z",
-          "image": "https://i.guim.co.uk/img/media/0e97a66ff2c2cfb9e057c48c443c5c93190ee9e8/0_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64b7ebdd811e9032f4c64b996b2005f7",
+          "publishedAt": "2026-09-09T22:41:24Z",
+          "image": "https://www.bnnbloomberg.ca/resizer/v2/2KOB6ZHEJ3RTGTGBPQJIOBVRNI.jpg?smart=true&auth=691e122fe99a39c8d69dcd1a3fab390c858df599347e2a604a2180b48120a9ef&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "New FBI cyber strategy seeks faster action against hackers, larger industry role",
-          "description": "The bureau wants more frequent disruption operations and quicker warnings to victims as the Justice Department works through rules for expanded private ...",
-          "url": "https://www.nextgov.com/cybersecurity/2026/09/new-fbi-cyber-strategy-seeks-faster-action-against-hackers-larger-industry-role/415869/",
+          "title": "Broadcom Forecasts $230 Billion in AI Semiconductor Revenue in 2028. The Stock Could Reach $900 Per Share as a Result.",
+          "description": "The custom chip designer could be one of the best buys in the market at today's prices.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-forecasts-230-billion-ai-224100954.html",
           "source": {
-            "name": "Nextgov/FCW"
+            "name": "Yahoo Finance"
           },
-          "publishedAt": "2026-09-09T15:25:00Z",
-          "image": "https://cdn.nextgov.com/media/img/cd/2026/09/09/GettyImages_2288940584/open-graph.jpg",
+          "publishedAt": "2026-09-09T22:41:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/cf536fdd18938f5272abfe6432b90765f9bd9b899beeb1a26129a109a273fcf4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fd3ab92619df3ebda9ca33a1f5e0ea0e4.jpg",
           "language": "en"
         }
       ]
