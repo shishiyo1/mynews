@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-09-14T23:42:12.832Z",
+  "updatedAt": "2026-09-15T03:49:46.467Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "オアシス、2027年に行うツアーの詳細を発表",
+          "description": "オアシスは2027年に行うツアーの詳細を発表している。\n...",
+          "url": "https://nme-jp.com/news/172382/",
+          "source": {
+            "name": "NME Japan"
+          },
+          "publishedAt": "2026-09-14T15:25:42Z",
+          "image": "https://nme-jp.com/nmesite/wp-content/uploads/2026/09/oasis_live_27_credit-Joshua-Halling-2055-v1f1-1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【巨人】痛恨連敗で首位奪還逃す...延長12回マルティネスが自身の適時失策で力尽く 直前ダルベック走塁死で無得点 大城10号2ラン＆増田陸5号空砲",
+          "description": "■プロ野球　DeNA 4×ー3 巨人　延長12回　（14日　横浜スタジアム）\n巨人は接戦を落とし、痛恨の連敗で9月初のカード負け越し。0.5ゲーム差で追う首位・阪神が中日に0－6で敗れていたが、8",
+          "url": "https://news.yahoo.co.jp/articles/eb75b86e8d750aa1d802391054f97bdb497c4011",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-09-14T13:44:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-00010014-jnn-000-4-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "中村ゆりさん、直腸がんのため死去 44歳 所属事務所が発表 腸閉塞…今年8月に「余命わずかと告知」",
+          "description": "俳優の中村ゆりさんが9月1日、直腸がんのため死去した。44歳だった。所属事務所が14日に発表した。\n　所属事務所の公式サイトで「中村ゆりが直腸がんのため永眠いたしました。生前のご厚誼に感謝いたし",
+          "url": "https://news.yahoo.co.jp/articles/fbd58f11efd52e60681749b28b9d643f581c9bd1",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-09-14T12:16:24Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-00000499-oric-000-4-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "女優・中村ゆりさんが死去 ４４歳 直腸がん 所属事務所が発表【全文あり】",
+          "description": "女優の中村ゆり（なかむら・ゆり）さんが死去したことを１４日、所属事務所が発表した。４４歳だった。\n　中村さんは、７月１３日に腸閉塞（へいそく）にかかったことを発表。来年１月スタートのＮＨＫドラマ",
+          "url": "https://news.yahoo.co.jp/articles/82edee20caf2e6a00b85c498cd97a4961d2b6dbd",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-09-14T12:00:41Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-09141270-sph-000-5-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "“10年に1度レベル”平年に比べ「かなり気温が高くなる」可能性 関東甲信、東海、近畿、北海道太平洋側、東北、北陸、中国、四国、九州北部・南部で20日頃から 気象庁が「高温に関する早期天候情報」発表",
+          "description": "気象庁は9月14日、「高温に関する早期天候情報」を発表しました。北海道太平洋側、東北、関東甲信、北陸、東海、近畿、中国、四国、九州北部・南部で、20日頃から平年に比べ「気温がかなり高くなる」可能性があるとしています。1週間以内に高温が予測される場合には「高温に関する気象情報」を、翌日または当日に熱中症の危険性が極めて高い気象状況になることが予測される場合には「熱中症警戒アラート」を発表するということです。また農作物の管理等に注意するよう呼びかけています。■北海道太平洋側北海道太平洋側　9月20…",
+          "url": "https://www.fnn.jp/articles/-/1114244",
+          "source": {
+            "name": "FNNプライムオンライン"
+          },
+          "publishedAt": "2026-09-14T12:00:00Z",
+          "image": "https://fnn.ismcdn.jp/mwimgs/8/5/600/img_857aca70b4bc17c2fb63cbae145f249c58910.jpg",
+          "language": "ja"
+        },
         {
           "title": "【中日】「天才バッターやん!!」 “投手マラー”の衝撃バックスクリーン弾に騒然 「甲子園の一番深いところでめっちゃワロタ」",
           "description": "中日ドラゴンズのマラー投手が甲子園球場で再びホームランを放ち、ファンを沸かせた。4か月ぶりとなる衝撃の一撃に、「天才バッターやん！！」「ほんまに本職ピッチャーの方？」など、驚きの声が相次いでいる。",
@@ -39,6 +94,17 @@
           "language": "ja"
         },
         {
+          "title": "「倉木華さんが逝去されたとの報せを受けました」所属プロダクションが公表…「非常に重く受け止め」今後に言及【全文】",
+          "description": "ニュース｜　「ティーパワーズ」は14日、公式サイトを更新し、「倉木華さんが逝去されたとの報せを受けました」と公表した。倉木華さんはセクシー女優として活動していた。　同社は「倉木華さんに関するご報告」として「倉木華さんが逝去されたとの報せを受けました。あまりにも突然の訃報に、弊社一同、大きな悲しみとショックを受けております。ご家族、ご親族の皆様に、心よりお悔やみ申し上げます。また、これまで倉木さんを応援してくださったファンの皆様、お仕事を通じて関わってくださった関係者の皆様に、心より御礼申し上げます」とつづった。",
+          "url": "https://www.oricon.co.jp/news/2480319/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-09-14T09:46:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2481000/2480319/20260914_183404_o_80825892.jpg",
+          "language": "ja"
+        },
+        {
           "title": "鈴木英之氏【日経平均一時6万3000円割れ、秋の反発相場は到来するか】 ＜相場観特集＞",
           "description": "―日米金利上昇など警戒要因、中間決算を機に潮流変化も―　１４日の日経平均株価は続落し、一時８月上旬以来となる６万３０００円台を割り込んだ。原油価格や長期金利の上昇が警戒されるほか、今週の日米中央銀行による金融政策決定会合を前に積極的な売買を手控える動きも出ている・・・。",
           "url": "https://kabutan.jp/news/marketnews/?b=n202609140997",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-09-14T09:30:00Z",
           "image": "https://async.api.kabutan.jp/og_image?title=%E9%88%B4%E6%9C%A8%E8%8B%B1%E4%B9%8B%E6%B0%8F%E3%80%90%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E4%B8%80%E6%99%826%E4%B8%873000%E5%86%86%E5%89%B2%E3%82%8C%E3%80%81%E7%A7%8B%E3%81%AE%E5%8F%8D%E7%99%BA%E7%9B%B8%E5%A0%B4%E3%81%AF%E5%88%B0%E6%9D%A5%E3%81%99%E3%82%8B%E3%81%8B%E3%80%91%20%EF%BC%9C%E7%9B%B8%E5%A0%B4%E8%A6%B3%E7%89%B9%E9%9B%86%EF%BC%9E",
           "language": "ja"
-        },
-        {
-          "title": "ソニー、PS5周辺機器セール。Amazonで純正ヘッドセットが最大29% OFF",
-          "description": "ソニー・インタラクティブエンタテインメント(SIE)は、9月17日からの「東京ゲームショウ2026」開催を記念し、PlayStation 5の周辺機器をセール価格で販売する「東京ゲームショウ2026開催記念セール」を、9月14日から開催している。対象製品はPlayStation VR2やPULSE Elite ワイヤレスヘッドセットなど。",
-          "url": "https://av.watch.impress.co.jp/docs/news/2140759.html",
-          "source": {
-            "name": "AV Watch"
-          },
-          "publishedAt": "2026-09-14T09:30:00Z",
-          "image": "https://av.watch.impress.co.jp/img/avw/list/2140/759/6871c06e980311c5b979abb0ad44fbd5d6428a89.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "26歳のとき、夫婦揃って収入ゼロに。しかし6年後、現在の姿に「素晴らしい再起ですね！！」「2人は本物だ！！」「素敵なご夫婦」（ほ・とせなNEWS）｜ｄメニューニュース",
-          "description": "26歳のとき、夫婦揃って収入ゼロに。しかし6年後、現在の姿に「素晴らしい再起ですね！！」「2人は本物だ！！」「素敵なご夫婦」（ほ・とせなNEWS）働き続けることが難しくなったとき、一度立ち止まる決断には大きな不安が伴います。\n投稿者さん（＠coeur_kagoshima）が、夫婦で…",
-          "url": "https://topics.smt.docomo.ne.jp/article/hotosena/nation/hotosena-15534342?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-09-14T09:10:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/hotosena/m_hotosena-15534342.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【TGS2026情報】次世代ゲーミングハードが日本初公開--4K True Tandem有機ELやWiFi 8ルーターを展示",
-          "description": "ASUS ROGがTGS2026にて次世代ゲーミング製品を日本初公開。4K True Tandem有機ELモニターやWiFi 8対応ルーター、鬼武者コラボGPUなど最新機材が多数展示される。",
-          "url": "https://esports-world.jp/news/65632",
-          "source": {
-            "name": "esports-world.jp"
-          },
-          "publishedAt": "2026-09-14T09:03:57Z",
-          "image": "https://esports-world.jp/images/upload/2026/09/a70f0415ba01628d143c1c63e7988f99.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "明日の株式相場に向けて＝フーシ派急進撃が揺さぶる年末高シナリオ",
-          "description": "１４日の東京株式市場で日経平均株価は５１８円安と続落。下げ幅は一時１２００円を超えた。終値は７月３０日以来、およそ１カ月半ぶりの低水準。米アンソロピックのダリオ・アモデイ最高経営責任者（ＣＥＯ）がＡＩの開発競争を減速させるべきだと主張。米オープンＡＩのサム・アルトマンＣＥＯとテスラ＜ＴＳＬＡ＞のイーロン・マスクＣＥＯがこれに同調したほか・・・。",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202609140927",
-          "source": {
-            "name": "株探"
-          },
-          "publishedAt": "2026-09-14T08:30:00Z",
-          "image": "https://async.api.kabutan.jp/og_image?title=%E6%98%8E%E6%97%A5%E3%81%AE%E6%A0%AA%E5%BC%8F%E7%9B%B8%E5%A0%B4%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6%EF%BC%9D%E3%83%95%E3%83%BC%E3%82%B7%E6%B4%BE%E6%80%A5%E9%80%B2%E6%92%83%E3%81%8C%E6%8F%BA%E3%81%95%E3%81%B6%E3%82%8B%E5%B9%B4%E6%9C%AB%E9%AB%98%E3%82%B7%E3%83%8A%E3%83%AA%E3%82%AA",
-          "language": "ja"
-        },
-        {
-          "title": "【男子バレー】髙橋藍、アジア選手権で必然のMVPも、ロス五輪に向けては「まだまだ足りない」",
-          "description": "９月13日、バレーボール男子・アジア選手権はフィナーレのセレモニー真っ只中だった。　優勝が決まったあとの表彰台で、髙橋藍（25歳）はカメラに向かって笑顔でピースサインを作っていた。決勝でイランをセットカウント３－０（25－21、26－2…",
-          "url": "https://sportiva.shueisha.co.jp/clm/otherballgame/volleyball/2026/09/14/mvp/",
-          "source": {
-            "name": "webスポルティーバ"
-          },
-          "publishedAt": "2026-09-14T07:45:48Z",
-          "image": "https://sportiva.shueisha.co.jp/clm/otherballgame/volleyball/2026/images/takahashiran20260914plus.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "CORSAIR・Elgato・Fanatecが「TGS2026」に合同出展！ゲーミング・配信・シムレーシング環境を体験",
-          "description": "CORSAIR、Elgato、Fanatecは、2026年9月17日(木)から21日(月・祝)まで開催される「東京ゲームショウ2026」に合同出展！ゲーミング、配信、シムレーシングの各環境を実際に見て、触れて、操作できます。…",
-          "url": "https://saiganak.com/ja/event/tgs2026-corsair-elgato-fanatec-booth-announcement/",
-          "source": {
-            "name": "Saiga NAK"
-          },
-          "publishedAt": "2026-09-14T07:10:16Z",
-          "image": "https://i0.wp.com/uploads.saigacdn.com/2026/09/tgs2026-corsair-elgato-fanatec-booth-announcement-00.jpg?resize=1200,630",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Amy Hunt and other sportswomen condemn Sydney Sweeney advert: 'This is what women in sport look like'",
-          "description": "After finishing fourth in the 200m final at the inaugural World Athletics Ultimate Championship in Budapest, Amy Hunt took aim at Sydney Sweeneys new advert for an American betting company; This is what women in sport look like, Hunt declared",
-          "url": "https://www.skysports.com/more-sports/athletics/news/29175/13585800/amy-hunt-and-other-sportswomen-condemn-sydney-sweeney-advert-this-is-what-women-in-sport-look-like",
+          "title": "Jordan Astronomical Society documents rare daytime occultation of Venus",
+          "description": "Amman, Sept. 14 (Petra) – The Jordan Astronomical Society (JAS) documented a rare lunar occultation of Venus on...",
+          "url": "https://www.fananews.com/language/en/jordan-astronomical-society-documents-rare-daytime-occultation-of-venus/",
           "source": {
-            "name": "Sky Sports"
+            "name": "Fana News -"
           },
-          "publishedAt": "2026-09-14T11:40:47Z",
-          "image": "https://e0.365dm.com/26/09/1600x900/skysports-amy-hunt-ultimate-championship_7351371.jpg?20260914122938",
+          "publishedAt": "2026-09-14T15:48:06Z",
+          "image": "https://www.fananews.com/wp-content/uploads/2026/09/8955f1e8-0e74-4e46-8438-27427ba51f67-1.jpg",
           "language": "en"
         },
         {
-          "title": "Hayden Panettiere died ‘after taking pill laced with fentanyl’",
-          "description": "Actress Hayden Panettiere died aged just 36 after taking a pill that was allegedly laced with fentanyl.",
-          "url": "https://www.lbc.co.uk/article/hayden-panettiere-died-after-taking-pill-laced-with-fentanyl-5HjdhN6_2/",
-          "source": {
-            "name": "lbc.co.uk"
-          },
-          "publishedAt": "2026-09-14T11:40:01Z",
-          "image": "https://images.globalplayer.com/images/841783?crop=16_9&width=1200&signature=m54wfMuqR5IChFeXN60NyQIWKVE=",
-          "language": "en"
-        },
-        {
-          "title": "Swinney aiming for independence referendum by 2031",
-          "description": "The FM has signed an agreement with other nationalist leaders predicting \"Westminster's time is coming to an end\".",
-          "url": "https://www.bbc.co.uk/news/articles/cn5dlq35v2xo",
+          "title": "Nigerians buying into Africa’s biggest share sale",
+          "description": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
+          "url": "https://www.bbc.com/news/articles/cxly50gzldz9o",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-09-14T11:39:47Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/acb4/live/c763c490-b02c-11f1-bc1f-3f186ca4140c.jpg",
+          "publishedAt": "2026-09-14T15:47:35Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/79a0/live/61038fb0-b058-11f1-9902-771b6dd8af6a.jpg",
           "language": "en"
         },
         {
-          "title": "Honor MagicOS 11 will introduce new Power Saving feature",
-          "description": "MagicOS 11 is in the making and will debut tomorrow at Honor developer conference, and ahead of its launch, a special Power Saving feature co",
-          "url": "https://www.huaweicentral.com/honor-magicos-11-will-introduce-new-power-saving-feature/",
+          "title": "Macklemore dropped from Ed Sheeran's US tour after backlash over pro-Palestine chant",
+          "description": "There are 10 dates left across the US on Sheeran’s tour, and Macklemore was listed as a ‘special guest’ for eight of them.",
+          "url": "https://www.thejournal.ie/macklemore-dropped-ed-sheeran-tour-7162615-Sep2026/",
           "source": {
-            "name": "Huawei Central"
+            "name": "The Journal"
           },
-          "publishedAt": "2026-09-14T11:39:30Z",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Honor-MagicOS.jpg",
+          "publishedAt": "2026-09-14T15:46:00Z",
+          "image": "https://img2.thejournal.ie/article/7162615/river/?height=400&version=7162622",
           "language": "en"
         },
         {
-          "title": "Drenching rains bring flash flooding across coastal Connecticut, New York and New Jersey",
-          "description": "WESTPORT, Conn. — Flash flooding from heavy rains prompted road closures, water rescues and commuter rail problems across the tristate area Sunday.",
-          "url": "https://www.nbcnews.com/news/us-news/drenching-rains-bring-flash-flooding-coastal-connecticut-new-york-new-rcna597650",
+          "title": "Trump says he will consider releasing more 9/11 records after families’ request",
+          "description": "Families have asked Trump to declassify records that could shed light on Saudi Arabia’s alleged role in the 2001 attacks",
+          "url": "https://www.theguardian.com/us-news/2026/sep/14/trump-911-saudi-arabia-records",
           "source": {
-            "name": "NBC News"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-09-14T11:39:30Z",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260914-connecticut-rain-flooding-mb-1234-9c4bfa.jpg",
+          "publishedAt": "2026-09-14T15:45:00Z",
+          "image": "https://i.guim.co.uk/img/media/fc319ffa9fe7b106e4e0279116e6998ff42ab761/116_0_2218_1774/master/2218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d82930501f5e1d6b71cfc6ad0cd49ea8",
           "language": "en"
         },
         {
-          "title": "Shot down in Iran, hunted for 50 hours: New details emerge on US rescue op for Air Force officers Alpha, Bravo",
-          "description": "US News: NEW DELHI: A newly declassified video has revealed details of a high-risk US military operation to rescue an Air Force officer who spent nearly 50 hou.",
-          "url": "https://timesofindia.indiatimes.com/world/us/shot-down-in-iran-hunted-for-50-hours-new-details-emerge-on-us-rescue-op-for-air-force-officers-alpha-bravo/articleshow/134239725.cms",
+          "title": "Physicist proves famous ‘Star Trek’ combat strategy works",
+          "description": "The ‘Picard Maneuver’ is technically more ingenious than the show depicted it.",
+          "url": "https://www.yahoo.com/news/science/articles/physicist-proves-famous-star-trek-154305643.html",
           "source": {
-            "name": "timesofindia.indiatimes.com"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-09-14T11:39:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-134239910,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-09-14T15:43:05Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/dbe1b628d343cadd20b5df39015981114911249a25f960b5a249a86584abe094/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_science_109%2F30fa3cb6161a9035968736f4b06af531.png",
           "language": "en"
         },
         {
-          "title": "UFC Heavyweight Champion Tom Aspinall announces he is vacating title: 'I'm absolutely gutted'",
-          "description": "Tom Aspinall, the reigning UFC heavyweight champion, announced early Monday that he would be vacating his title as he continues to deal with eye issues stemming from a double eye poke suffered at the hands of Ciryl Gane last October.",
-          "url": "https://sports.yahoo.com/mma/breaking-news/article/ufc-heavyweight-champion-tom-aspinall-announces-he-is-vacating-title-im-absolutely-gutted-113838014.html",
+          "title": "Pared down and powerful: Celine Dion embraces her comeback style in Paris",
+          "description": "Audience at residency’s opening night had high expectations for her vocal delivery and fashion choices",
+          "url": "https://www.theglobeandmail.com/life/style/fashion-and-beauty/article-celine-dion-comeback-style-paris/",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "The Globe and Mail"
           },
-          "publishedAt": "2026-09-14T11:38:38Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/5e28b5479198f3d8f924d3108bdbdb28323bdc600dada6647b6a6deeca6e4102/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2Fad698940-b1e4-11f0-bb75-512b95b892a3",
+          "publishedAt": "2026-09-14T15:41:38Z",
+          "image": "https://www.theglobeandmail.com/resizer/v2/MRYNBWJT7VG2RIFV6UZXOWBWAU.jpg?auth=66a6d11121dc02a59f5f2f9f3d83d55a8dca751feb6f3e896fdb187ae5ff090e&width=1200&height=800&quality=80&smart=true",
           "language": "en"
         },
         {
-          "title": "“MBABANE’S FUTURE MUST BREATHE THROUGH ARTS AND CULTURE’’",
-          "description": "BY NELIWE NGUBANE MBABANE— A city is built with roads, buildings and infrastructure, but its identity is built through the people, stories and creativity that give those structures a soul. For Mbabane Municipal Council Chief Executive Officer Gciniwe Fakudze, the city’s development must therefore go beyond bricks and concrete. Speaking at the official opening of",
-          "url": "https://eswatinipositivenews.online/mbabanes-future-must-breathe-through-arts-and-culture-mbabane-municipal-ceo/",
+          "title": "Botswana Advances Land Process for Proposed Zotus City Special Economic Zone",
+          "description": "Botswana has begun land assessment and valuation work for the proposed 4,000-hectare Zotus City development in Ghanzi District.\nThe exercise is",
+          "url": "https://www.ecofinagency.com/news-agriculture/1409-58876-botswana-advances-land-process-for-proposed-zotus-city-special-economic-zone",
           "source": {
-            "name": "Eswatini Positive News"
+            "name": "Ecofin Agency"
           },
-          "publishedAt": "2026-09-14T11:38:31Z",
-          "image": "https://eswatinipositivenews.online/wp-content/uploads/2026/09/gci.jpg",
+          "publishedAt": "2026-09-14T15:41:01Z",
+          "image": "https://www.ecofinagency.com/media/k2/items/cache/4166052fe856106cd502b2fdc473b6e4_S.jpg",
           "language": "en"
         },
         {
-          "title": "Is this Tom Rodriguez's baby mama?",
-          "description": "Since revealing in November 2024 that he had become a father to a baby boy named Korben, Tom Rodriguez has kept his family life private.\nOn social media, Tom has only shared glimpses of his son and current partner, including family photos where they are seen from behind.\nOn Sunday (September 13), a photo studio thanked Tom for continuing to choose them to capture his family's milestones. The post featured Tom alongside a woman, both dressed in black and white.\nThe identity of the woman was not mentioned, raising the question: Is she Tom's baby mama?\nView this post",
-          "url": "https://www.gmanetwork.com/entertainment/photos/is-this-tom-rodriguezs-baby-mama/27969/",
+          "title": "Arsenal demand meeting with Pro Ref over penalty decision at Sunderland",
+          "description": "Arsenal are seeking an explanation from Pro Ref over the penalty awarded to Sunderland that Mikel Arteta described as ‘unacceptable at this level’",
+          "url": "https://www.theguardian.com/football/2026/sep/14/arsenal-pro-ref-sunderland-penalty-meeting-explanation",
           "source": {
-            "name": "GMA Network"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-09-14T11:38:00Z",
-          "image": "https://aphrodite.gmanetwork.com/entertainment/gallery/1200_675_20_14-09-2026-1937_-20260914193758.jpg",
+          "publishedAt": "2026-09-14T15:41:00Z",
+          "image": "https://i.guim.co.uk/img/media/c914acc6ce107ceb23451a3b96fae8a6a29afec9/788_214_2448_1958/master/2448.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b4488e82a96af9f682721680266aaf7",
           "language": "en"
         },
         {
-          "title": "Jaguar Gives Kenyans Glimpse of His Lavish Nairobi Mansion",
-          "description": "Jaguar’s Nairobi mansion got a rare public reveal as Cassypool and Kadusko visit, offering a glimpse of the former MP’s lavish home and family life inside.",
-          "url": "https://www.tuko.co.ke/entertainment/celebrities/639700-jaguar-kenyans-glimpse-lavish-nairobi-mansion/",
+          "title": "Good news for Canadiens' Martin St. Louis, but bad news regarding Kaiden Guhle",
+          "description": "Head coach is under contract through 2029-30, while defenceman is expected to miss start of season after surgery.",
+          "url": "https://montrealgazette.com/sports/hockey/montreal-canadiens/montreal-canadiens-extend-head-coach-martin-st-louis/",
           "source": {
-            "name": "Tuko News"
+            "name": "Montreal Gazette"
           },
-          "publishedAt": "2026-09-14T11:37:40Z",
-          "image": "https://cdn.tuko.co.ke/images/1200x675/0782fa937046396f.jpeg?v=1",
+          "publishedAt": "2026-09-14T15:40:39Z",
+          "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/09/0915-spt-st-louis.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Cork council calls on Govt to release Bessborough records",
+          "description": "Cork City Council has unanimously passed a motion calling on the Government to release burial records from the Bessborough Mother and Baby institution, held within the archive of the Commission of Investigation into Mother and Baby Homes.",
+          "url": "https://www.rte.ie/news/ireland/2026/0914/1591518-bessborough-cork-council/",
+          "source": {
+            "name": "RTE.ie"
+          },
+          "publishedAt": "2026-09-14T15:40:26Z",
+          "image": "https://www.rte.ie/images/0025027b-1600.jpg",
           "language": "en"
         }
       ]
