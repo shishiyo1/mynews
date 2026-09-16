@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-09-16T20:58:29.549Z",
+  "updatedAt": "2026-09-16T23:36:39.711Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【試合結果速報】バレー女子日本代表、48年ぶりのアジア大会Vへ初戦快勝 ネパールに3",
+          "description": "アジア大会・バレーボール女子予選ラウンド第1戦（16日、日本―ネパール、愛知・小牧）日本は大会初戦で、ネパールと対戦。セットカウント3-0で勝った。 日本は8月、優勝すれば2028年ロサンゼルス五輪出場権を獲得できるアジア選手権に挑んだが…",
+          "url": "https://www.sanspo.com/article/20260916-7JIRH2Z2IRFUHH7KTIGTBUFDEQ/",
+          "source": {
+            "name": "サンスポ"
+          },
+          "publishedAt": "2026-09-16T10:14:12Z",
+          "image": "https://www.sanspo.com/resizer/v2/AGG27G4FBRJTPGMAUCXDKSCHTU.jpg?auth=b5147fbc948de24521c6a18709b21d06352cd4be724cec795a1690b6f54c80ec&quality=50&focal=2175%2C155&width=1200&height=675",
+          "language": "ja"
+        },
+        {
+          "title": "フジテレビ、『踊る大捜査線』連続ドラマを5夜連続放送 新作映画の公開受け【放送スケジュール一覧】",
+          "description": "ニュース｜　織田裕二の主演映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』（9月18日公開）の公開を記念し、フジテレビでは、連続ドラマ『踊る大捜査線』全11話を5夜連続放送することが決定した。　1997年1月期の連続ドラマとして放送された『踊る大捜査線』は、脱サラをして湾岸署刑事課に配属された異色の刑事、主人公・青島俊作（織田裕二）が、刑事の理想と現実とのギャップに困惑しつつも、正しいことをするために、真摯（しんし）に事件に向かっていく青島と仲間たちの物語を、時に熱く、時にユーモアを交えながら描く。",
+          "url": "https://www.oricon.co.jp/news/2480835/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-09-16T10:00:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2481000/2480835/20260916_173421_p_o_86605570.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』公開記念！連続ドラマ『踊る大捜査線』5夜連続放送決定",
+          "description": "9月21日（月）より、『踊る大捜査線』が、5夜連続で放送されます。新作映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』の公開を記念して、連続ドラマ『踊る大捜査線』全11話をフジテレビで5夜連続放送することが決定。1997年1月期の連続ドラマとして放送された『踊る大捜査線』は、脱サラをして湾岸署刑事課に配属された異色の刑事、主人公・青島俊作（織田裕二）が、刑事の理想と現実とのギャップに困惑しつつも、正しいことをするために、真摯（しんし）に事件に向かっていく、青島と仲間たちの物語を、ときに熱く、ときにユーモアを交えながら描いています。所轄の刑事・青島と本庁のキャリア組・室井慎次（柳…",
+          "url": "https://mezamashi.media/articles/-/347689",
+          "source": {
+            "name": "mezamashi.media"
+          },
+          "publishedAt": "2026-09-16T10:00:00Z",
+          "image": "https://mezamashi.ismcdn.jp/mwimgs/3/3/1200xm/img_33f39c1c41dd7e08431a9e675f8403b0522256.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "英歌手シーランさんのツアーからアーティストが相次ぎ離脱、パレスチナ連帯示したラッパーが降板させられ",
+          "description": "英歌手エド・シーランさんのアメリカでのコンサートツアーから、サポートアクト（前座）として出演していたアーティスト全員が離脱した。同ツアーをめぐっては、サポートアクトの一人だった米ラッパーのマックルモアさんが、ステージ上で親パレスチナ的な発言をしたとして途中で降板させられ、議論を呼んでいた。",
+          "url": "https://www.bbc.com/japanese/articles/cq23xre5g5ygo",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-09-16T09:30:23Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/16f8/live/3cfae5c0-b128-11f1-b1d1-571ed4d7ff2c.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "神奈川の百貨店「さいか屋」が上場廃止発表（共同通信）",
+          "description": "神奈川県で百貨店を運営する「さいか屋」（川崎市）は16日、2027年3月1日に東京証券取引所スタンダード市場から上場廃止となると発表した。",
+          "url": "https://news.yahoo.co.jp/articles/7ba57db526512d272f4aaf7a109a1a61a42927b0",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-09-16T09:18:47Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "バレー女子日本代表vsネパールは地上波TBS中継なし！どこで見られる？｜アジア大会2026",
           "description": "アジア大会2026の女子バレーボール競技・予選ラウンド初戦、日本代表対ネパール代表はどこで見られる？地上波TBS以外のテレビ放送・ネット配信局を紹介。",
@@ -28,6 +83,17 @@
           "language": "ja"
         },
         {
+          "title": "ドル円は155円まで円安も…警戒しておきたい「隠れた円高材料」",
+          "description": "ドル円は、ベッセント財務長官発言（※1）の裏付けを思わせるような2日の日本銀行の高田創審議委員の予想以上のタカ派発言（※2）によって、あっさり155円を割れ、8日には152円台後半まで円高の動きとなりました。（※1）「過度な円安対処のた…",
+          "url": "https://media.rakuten-sec.net/articles/-/53514",
+          "source": {
+            "name": "トウシル"
+          },
+          "publishedAt": "2026-09-16T08:00:00Z",
+          "image": "https://media.rakuten-sec.net/mwimgs/e/8/-/img_e880024ba53f136922560138b1a548ef419506.jpg",
+          "language": "ja"
+        },
+        {
           "title": "Google Chromeにアップデート 深刻度”重大”含む42件の脆弱性を修正",
           "description": "グーグルは9月15日、デスクトップおよびAndroid版「Google Chrome」のアップデートを公開。深刻度「重大」を含む42件の脆弱性に対処した。",
           "url": "https://news.yahoo.co.jp/articles/b7e8d23a585dedbdbd2260c501dbc71775d76ef7",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-09-16T07:30:00Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260916-01440877-mvwalk-000-1-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "メルカリ株が大幅安、1カ月で3割下落 最新ポケカ出品禁止を嫌気、転売・不正利用の批判も相次ぐ",
-          "description": "16日の下落の主な材料は、前日に発表したポケカの出品規制とみられる。9月に入ってからは、転売や不正利用をめぐるSNSでの批判に加え、証券会社が投資判断を引き下げたことも響き、下落が続いている。",
-          "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001550/",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-09-16T07:23:53Z",
-          "image": "https://www.itmedia.co.jp/news/article/ogp/2609/16/2000001550/10006728/2048",
-          "language": "ja"
-        },
-        {
-          "title": "（まとめ）日経平均は438円高の63,923円で4営業日ぶりに反発 明日はFOMC結果公表",
-          "description": "東京市場まとめ1.概況日経平均は188円高の63,672円と反発して、取引を開始しました。もっとも、寄り付き後は売りが優勢となり、前場は方向感の定まらない展開となりました。10時55分には63,209円まで下げ、本日の安値を更新しました。前引けは88円安の63,396円となりま....",
-          "url": "https://media.monex.co.jp/articles/-/30164",
-          "source": {
-            "name": "マネクリ"
-          },
-          "publishedAt": "2026-09-16T07:20:00Z",
-          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "いよいよ開催の東京ゲームショウ2026。マウスコンピューターの出展記念モデルは、RTX 5070 Ti搭載ですんごい良コスパですよ！：マウスコンピューター G-Tune : Garage 大阪店",
-          "description": "店長の尼田龍さんがオススメするのは、ゲーミングパソコン「G TUNE FZ-A7G7T」です。マウスコンピューターの東京ゲームショウ2026出展を記念した特別モデルになります。",
-          "url": "https://ascii.jp/elem/000/004/434/4434592/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-09-16T07:00:00Z",
-          "image": "https://ascii.jp/img/2026/09/14/4525304/xl/1029cdf01e33b08a.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【吉高由里子】「次の『大人エレベーター』のゲストは誰?」 “マル秘ゲスト” 問い詰められ 妻夫木聡 “本気で動揺” 「こわいなぁ」",
-          "description": "俳優の妻夫木聡さんと吉高由里子さんが9月16日、『サッポロ生ビール黒ラベル 新CM 発表会』に登壇しました。\n来年、黒ラベルのブランド誕生50周年を迎えるにあたり、妻夫木さん出演の「大人エレベータ",
-          "url": "https://news.yahoo.co.jp/articles/d34e86337c39ebc94b988f0d04d8a011eebad49f",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-09-16T06:23:13Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260916-22949171-jnn-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【生存確認】iPhone行列界の重鎮ビッグウェーブさん、ソフトバンク表参道前にすでに並んでいた！",
-          "description": "つい先日までアツいアツいと言っていたのに、9月に入って以降雨の日が続き、急に気温も下がっている。秋らしいのは良いんだけど、こう一気に肌寒くなると、出かける気も …",
-          "url": "https://rocketnews24.com/2026/09/16/2802759/",
-          "source": {
-            "name": "ロケットニュース24"
-          },
-          "publishedAt": "2026-09-16T06:00:57Z",
-          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/butch202600.jpg?w=1200&h=630&crop=1",
-          "language": "ja"
-        },
-        {
-          "title": "「Google Chrome 153」にセキュリティ更新、『致命的』な3件を含む42件の脆弱性を修正",
-          "description": "米Googleは9月15日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にはv153.0.8010.47/.48、Linux環境にはv153.0.8010.47が展開されている。",
-          "url": "https://forest.watch.impress.co.jp/docs/news/2141309.html",
-          "source": {
-            "name": "窓の杜"
-          },
-          "publishedAt": "2026-09-16T05:45:00Z",
-          "image": "https://forest.watch.impress.co.jp/img/wf/list/2141/309/google_chrome.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "How To Watch AC Milan vs Benfica (Europa League): Team News, Lineups & TV/Streaming",
-          "description": "AC Milan host Benfica in their Europa League opener at San Siro. Team news, injury updates, confirmed lineups, how to watch on TV/streaming.",
-          "url": "https://heavy.com/sports/soccer/ac-milan-benfica-europa-league-team-news-lineups-tv-streaming/",
+          "title": "F1 2027 calendar announced with Bahrain to host season-opener and increase in Sprint weekends in 24-race schedule",
+          "description": "Bahrain to host 2027 Formula 1 season-opener as Portugal and Turkey return to the schedule from next year, plus an increase in Sprint weekends; watch every session of the Azerbaijan Grand Prix from September 24-26 with a Saturday race, live on Sky Sports F1",
+          "url": "https://www.skysports.com/f1/news/12433/13588439/f1-2027-calendar-announced-with-bahrain-to-host-season-opener-and-increase-in-sprint-weekends-in-24-race-schedule",
           "source": {
-            "name": "heavy.com"
+            "name": "skysports.com"
           },
-          "publishedAt": "2026-09-16T08:58:28Z",
-          "image": "https://heavy.com/wp-content/uploads/2026/09/GettyImages-2294398277-e1789548980802.jpg?quality=65&strip=all&w=1200",
+          "publishedAt": "2026-09-16T11:35:36Z",
+          "image": "https://e0.365dm.com/26/09/1600x900/skysports-spanish-gp-madring_7350223.jpg?20260916065506",
           "language": "en"
         },
         {
-          "title": "10-year Treasury yield above 5% as investors await Fed decision",
-          "description": "The Federal Reserve is widely expected to hike interest rates on Wednesday.",
-          "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
+          "title": "The Traitors pair say having a game plan 'doesn't work'",
+          "description": "The Traitors Ireland contestants Janet Takuz and DJ O'Sullivan have told The Oliver Callan Show on RTÉ Radio 1 that going in with a game plan for the series \"doesn't work\".",
+          "url": "https://www.rte.ie/entertainment/2026/0916/1591757-the-traitors-pair-say-having-a-game-plan-doesnt-work/",
           "source": {
-            "name": "CNBC"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-09-16T08:58:16Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363128-17894885332026-09-15t160320z_883427878_rc2pjnai9xue_rtrmadp_0_usa-stocks.jpeg?v=1789488721&w=1920&h=1080",
+          "publishedAt": "2026-09-16T11:35:32Z",
+          "image": "https://www.rte.ie/images/002504ee-1600.jpg",
           "language": "en"
         },
         {
-          "title": "New MyKad gets transparent window, dual-interface chip",
-          "description": "JPN says the new MyKad is made from high-durability polycarbonate engineered to resist bending, snapping or cracking over extended daily use.",
-          "url": "https://www.freemalaysiatoday.com/category/nation/2026/09/16/new-mykad-gets-transparent-window-dual-interface-chip",
+          "title": "Duchess Sophie is a colour-block vision in the zestiest dress we've seen a royal wear",
+          "description": "Duchess Sophie of Edinburgh looked beautiful during her five-day tour of Zambia, wearing a lime green dress with a purple waist belt.",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/duchess-sophie-colour-block-vision-113529116.html",
           "source": {
-            "name": "Free Malaysia Today"
+            "name": "yahoo.com"
           },
-          "publishedAt": "2026-09-16T08:57:00Z",
-          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/09/84214982-578d-45dd-9da6-35700f788040-MyKad-Generasi-Baharu-JPN-pic-16926.jpg",
+          "publishedAt": "2026-09-16T11:35:29Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/c6891d94a590bc7737853d62c80090f163dbe4a947d8448b88b9ea97af936b23/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fae5e08523ae3755b1817c53da869c96e.jpg",
           "language": "en"
         },
         {
-          "title": "Lucknow horror: Woman hit by car, dragged on bonnet after dispute near Janeshwar Mishra Park",
-          "description": "LUCKNOW: A woman was allegedly hit by a car and carried on its bonnet for some distance following a dispute near Janeshwar Mishra Park. A video of the.",
-          "url": "https://timesofindia.indiatimes.com/city/lucknow/lucknow-horror-woman-hit-by-car-dragged-on-bonnet-after-dispute-near-janeshwar-mishra-park/articleshow/134283150.cms",
+          "title": "16 years’ jail and caning for ex-PE teacher who sexually exploited student in hotels, school",
+          "description": "When the girl, then 14, voiced doubts about their age gap, he assured her that age was not an issue. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/singapore/courts-crime/16-years-jail-and-caning-for-ex-pe-teacher-who-sexually-exploited-student-in-hotels-school",
           "source": {
-            "name": "The Times of India"
+            "name": "The Straits Times"
           },
-          "publishedAt": "2026-09-16T08:57:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-134283150,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-09-16T11:35:00Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/730dbe6e0a0ebb9b4b6b0676b681655321c54d9bb5ab77cbad77a323bddcc401",
           "language": "en"
         },
         {
-          "title": "Russian Soldier Tries Playing Statue to Fool Ukrainian FPV Drone-It Doesn’t Work",
-          "description": "See the moment a Russian soldier's attempt to evade a Ukrainian FPV drone by freezing fails. This incident underscores the evolving nature of drone warfare.",
-          "url": "https://united24media.com/war-in-ukraine/russian-soldier-tries-playing-statue-to-fool-ukrainian-fpv-drone-it-doesnt-work-22591",
+          "title": "Arsenal’s Max Dowman breaks another record amid Arteta praise",
+          "description": "Max Dowman broke another record by scoring a brace for Arsenal against Ipswich Town on Tuesday night, and he impressed Gunners boss Mikel Arteta.Photo by Justin Setterfield/Getty ImagesBy scoring two ...",
+          "url": "https://sports.yahoo.com/articles/arsenal-max-dowman-breaks-another-113500684.html",
           "source": {
-            "name": "UNITED24 Media"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-09-16T08:56:26Z",
-          "image": "https://storage.united24media.com/og/7/08/649ca21048d63cbceb032a2f1f991087.webp",
+          "publishedAt": "2026-09-16T11:35:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/395d4eb640f4fd34c670e28007e360ae9b2e28a480cb2ccdfd6834469230e340/lightyear_networkapi/resizefill_w1000_h677%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaily_cannon_articles_231%2F75dd2dd548dfe1eed75a2e5dde42be60.jpg",
           "language": "en"
         },
         {
-          "title": "Supreme Court Orders Status Quo On Sridevi's Chennai Property, Issues Notice To Boney Kapoor, Janhvi & Kushi On Rival Claim",
-          "description": "The Supreme Court today (September 16) issued notice on a plea to revive a suit raising a claim over late actor Sridevi's property near East Coast Road in Chennai.The petitioners, MC Sivakami & MC...",
-          "url": "https://www.livelaw.in/top-stories/supreme-court-orders-status-quo-on-sridevis-chennai-property-issues-notice-to-boney-kapoor-janhvi-kushi-on-rival-claim-550277",
+          "title": "Andoni Iraola sends clear transfer window message as Liverpool beat Spurs",
+          "description": "Andoni Iraola Sends Clear Liverpool Transfer Message as January Plans Put on HoldAndoni Iraola has made Liverpool’s immediate priority perfectly clear. Forget transfer chatter, forget the noise arou...",
+          "url": "https://sports.yahoo.com/articles/andoni-iraola-sends-clear-transfer-113500317.html",
           "source": {
-            "name": "Live Law"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-09-16T08:56:05Z",
-          "image": "https://www.livelaw.in/h-upload/2026/09/16/700401-boney-kapoor-janhvi-and-kushi-kapoor.jpg",
+          "publishedAt": "2026-09-16T11:35:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/10547b87e06e72658f32673e5af0393e9e7c49e827282296c5d6d24aa6b2b217/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_index_166%2F635cbdc4ad6e87009b12d0044021611e.jpg",
           "language": "en"
         },
         {
-          "title": "Mamelodi Sundowns striker Brayan Leon lauds coach Miguel Cardoso ahead of Al Ahli showdown in FIFA Intercontinental Cup – ‘He knows the African game like the back of his hand’",
-          "description": "The Brazilians forward has offered a glowing endorsement of his boss, as the South African giants prepare for their massive FIFA Intercontinental Cup fixture against Al-Malaki. The 25-year-old credited the Portuguese tactician’s deep understanding of the continental landscape for the club's recent silverware success.",
-          "url": "https://www.goal.com/en-za/lists/mamelodi-sundowns-striker-brayan-leon-lauds-coach-miguel-cardoso-ahead-of-al-ahli-showdown-in-fifa-intercontinental-cup-he-knows-the-african-game-like-the-back-of-his-hand/blt9251833dbcf6adfb",
+          "title": "Africans becoming open to military rule as demands for democracy weaken: Report",
+          "description": "The report also found that fewer than half of Africans considered their country a democracy (47%) and said they were satisfied with how democracy works in their country (38%).",
+          "url": "https://gazettengr.com/africans-becoming-open-to-military-rule-as-demands-for-democracy-weaken-report/",
           "source": {
-            "name": "Goal.com"
+            "name": "gazettengr.com"
           },
-          "publishedAt": "2026-09-16T08:54:15Z",
-          "image": "https://assets.goal.com/images/v3/blta93bc90a5b0888f9/Brayan%20Leon,%20Mamelodi%20Sundowns.jpg",
+          "publishedAt": "2026-09-16T11:33:47Z",
+          "image": "https://gazettengr.com/wp-content/uploads/fbhf.png",
           "language": "en"
         },
         {
-          "title": "MV June Aster death toll rises to 77 after crew dies in Culion hospital",
-          "description": "The death toll from the fire aboard the passenger vessel MV June Aster in Coron, Palawan, has risen to 77 after a male crew member who was among those rescued f",
-          "url": "https://www.abs-cbn.com/news/regions/2026/9/16/mv-june-aster-death-toll-rises-to-77-after-crew-dies-in-culion-hospital-0856",
+          "title": "Tanzania cautions mining licence owners against leaving their sites undeveloped",
+          "description": "MWANZA: THE Tanzanian government has cautioned owners of mining licences against leaving their areas undeveloped, saying licences that are not being used in accordance with regulations will be revoked and reallocated to miners ready to undertake mining activities. Deputy Minister for Minerals Dr Steven Kiruswa issued the warning on September 15, 2026, in Mwanza while …",
+          "url": "https://dailynews.co.tz/tanzania-cautions-mining-licence-owners-against-leaving-their-sites-undeveloped/",
           "source": {
-            "name": "ABS-CBN"
+            "name": "dailynews.co.tz"
           },
-          "publishedAt": "2026-09-16T08:54:14Z",
-          "image": "https://od2-image-api.abs-cbn.com/prod/20260916010952/767cde86ee3ee85d6f73a2cdc776b278e443e88d877edecb0fc7d13b242f3af6.jpg?w=1200&h=800",
+          "publishedAt": "2026-09-16T11:33:14Z",
+          "image": "https://dailynews.co.tz/wp-content/uploads/2026/09/DKT.-KIRUSWA-ATATUA-MGOGORO-WA-WACHIMBAJI-WADOGO-MWANZAUkosefu-wa-mawasiliano-chanzo-cha-mgogor.webp",
           "language": "en"
         },
         {
-          "title": "Centenary Bank Reaffirms Commitment to Road Safety and Emergency Health Care at 2026 Kaliisoliiso Dinner",
-          "description": "Kampala, 16th September, 2026: Centenary Bank, Uganda’s leading microfinance commercial bank, has reaffirmed its commitment to supporting initiatives that improve the health, road safety and overall well-being of the communities it serves. The annual Kaliisoliiso dinner held at Hotel Africana and organized by CBS FM, brought together partners and stakeholders to raise support for road …",
-          "url": "https://chimpreports.com/centenary-bank-reaffirms-commitment-to-road-safety-and-emergency-health-care-at-2026-kaliisoliiso-dinner/",
+          "title": "Indonesia’s wildfires may last until early November, says minister",
+          "description": "JAKARTA: Indonesia's wildfires could last until early November, with the rainy season expected to arrive late, Forestry Minister Raja Juli Antoni told local media on Wednesday (Sept 16), as he urged people to stop using fire to clear land during an extended drought.",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/16/indonesias-wildfires-may-last-until-early-november-says-minister",
           "source": {
-            "name": "ChimpReports"
+            "name": "thestar.com.my"
           },
-          "publishedAt": "2026-09-16T08:53:28Z",
-          "image": "https://cdn-network.chimpreports.com/wp-content/uploads/2026/09/Centenary-Bank-staff-at-the-2026-Kaliisoliiso-Dinner-1204x803.jpg",
+          "publishedAt": "2026-09-16T11:33:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/09/16/4113798.jpg",
           "language": "en"
         },
         {
-          "title": "Pistachios: changing demand to impact prices",
-          "description": "TEHRAN. Iran’s war-driven dent in exports will provide a silver lining for the tight global supply situation for pistachios in 2026/2027. Anticipation is that price gaps will narrow with a changing demand situation.",
-          "url": "https://www.mundus-agri.eu/news/pistachios-changing-demand-impact-prices.n38004.html",
+          "title": "AMD will have its own DLSS 5",
+          "description": "Kepler_L2 says AMD will have its own next-gen Neural Lighting technology similar to DLSS 5. His proposed engine-data implementation is an opinion, not a confirmed AMD design.",
+          "url": "https://videocardz.com/newz/amd-will-have-its-own-dlss-5-like-neural-lighting-on-next-gen-gpus-leaker-claims",
           "source": {
-            "name": "Mundus Agri"
+            "name": "VideoCardz.com"
           },
-          "publishedAt": "2026-09-16T08:52:30Z",
-          "image": "https://www.mundus-agri.eu/images/news/cache/36164_square_medium.jpg",
+          "publishedAt": "2026-09-16T11:32:50Z",
+          "image": "https://cdn.videocardz.com/1/2026/09/RADEON-RX-9070-HERO6.webp",
           "language": "en"
         }
       ]
