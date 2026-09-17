@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-09-17T16:26:22.230Z",
+  "updatedAt": "2026-09-17T21:01:45.378Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "東京ゲームショウのバンナム物販がアラフォー＆アラフィフたちの物欲にぶっ刺さる #TGS2026",
-          "description": "「うわっ、塊魂じゃん」って、声が出ました。東京ゲームショウ2026に来ています。ホール11の物販コーナーを歩いていたら、見覚えのあるキャラクターがずらり。バンダイナムコエンターテインメントのグッズ売り場「TGS2026アソビストア出張所」で",
-          "url": "https://www.gizmodo.jp/article/bandainamco-tgs2026-merch-ace-combat-tales/",
+          "title": "マウスコンピューターが新製品をお披露目、『G TUNE』『NEXTGEAR』でゲーミングPCの「うるさい・熱い」に新提案",
+          "description": "日本最大級のゲームの祭典『東京ゲームショウ2026（TGS 2026）』が、千葉・幕張メッセでいよいよ幕を開けた。ビジネスデイ初日となる17日、マウスコンピューターは「【新製品発表】パートナー共創セッション」と題したステージを開催し、同社…",
+          "url": "https://www.sankei.com/article/20260917-FKJCMCKPFRJZ3DLLJZQ2TSYQGI/?outputType=theme_oriconnews",
           "source": {
-            "name": "Gizmodo"
+            "name": "産経ニュース"
           },
-          "publishedAt": "2026-09-17T04:15:00Z",
-          "image": "https://media.loom-app.com/loom/2026/09/17/e4f1e698-666a-4bc9-b6be-50757ce9e926/original.jpg?w=1200&h=630",
+          "publishedAt": "2026-09-17T08:01:09Z",
+          "image": "https://www.sankei.com/resizer/v2/PKV7AGKQXBKQTDULQ5GC635L74.jpg?auth=9a8d1d28b32574b18f7ba83429fe903edff4845322271e156b1c54fdad1391b4&quality=50&smart=true&width=1200&height=675",
           "language": "ja"
         },
         {
-          "title": "日本代表、W杯後初のメンバー発表！ 松木玖生や谷村海那、中野就斗、齋藤俊輔が初招集",
-          "description": "日本サッカー協会（JFA）は17日、キリンチャレンジカップ2026とキリンカップサッカー2026に臨む日本代表メンバーを発表した。 　FIFAワールドカップ2···",
-          "url": "https://www.soccer-king.jp/news/japan/national/20260917/2205893.html",
+          "title": "ROG設立20周年記念モデル「ROG XBOX Ally X20」の予約受付開始！10月16日発売、価格は258,800円",
+          "description": "ASUS JAPANはROG設立20周年記念モデル「ROG XBOX Ally X20」と「ROG XBOX Ally X20 Bundle」の予約受付を開始！2026年10月16日(金)発売で、価格は258,800円(税込)からです。…",
+          "url": "https://saiganak.com/ja/product/rog-xbox-ally-x20-pre-order-start/",
           "source": {
-            "name": "サッカーキング"
+            "name": "Saiga NAK"
           },
-          "publishedAt": "2026-09-17T04:09:26Z",
-          "image": "https://www.soccer-king.jp/wp-content/uploads/2026/09/20260917-japan-member.jpg",
+          "publishedAt": "2026-09-17T07:56:30Z",
+          "image": "https://i0.wp.com/uploads.saigacdn.com/2026/09/rog-xbox-ally-x20-pre-order-start-00.jpg?resize=1200,630",
           "language": "ja"
         },
         {
-          "title": "iPhone Duoが折りたたみスマホを再定義 手のひらで感じた、妥協のない「魔法」",
-          "description": "ついに登場したアップル初の折りたたみスマートフォン「iPhone Duo」。発表会で実際に製品を手に取ることができたジャーナリストによるレポートをお届け。",
-          "url": "https://www.fashionsnap.com/article/iphone-duo-impression/",
-          "source": {
-            "name": "fashionsnap.com"
-          },
-          "publishedAt": "2026-09-17T04:00:35Z",
-          "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/09/73ed2b44-c3c0-4d39-b843-1361aa8a45b3.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "日経平均は４３円高と続伸、半導体株失速もプライム市場の８割上昇＝１７日前場(ウエルスアドバイザー)",
-          "description": "１７日前場の日経平均株価は、前日比４３円８７銭高の６万３９６６円８７銭、ＴＯＰＩＸ（東証株価指数）も同２９．３４ポイン...",
-          "url": "https://finance.yahoo.co.jp/news/detail/4c2e17e148f82d1e6ba4bc25117c55697a997535",
-          "source": {
-            "name": "Yahoo!ファイナンス"
-          },
-          "publishedAt": "2026-09-17T03:06:57Z",
-          "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
-          "language": "ja"
-        },
-        {
-          "title": "アップル、「Siri AI」ベータ版を提供開始──1日の利用上限と有料プラン導入へ",
-          "description": "アップルは新しいSiri「Siri AI」の英語版ベータ提供を始めた。Siri AIなど、サーバサイドモデルに依存する一部のApple Intelligence機能では、1日に使える回数が制限される。無料で使える回数を超えて利用するには、将...",
-          "url": "https://forbesjapan.com/articles/detail/104859",
-          "source": {
-            "name": "Forbes JAPAN"
-          },
-          "publishedAt": "2026-09-17T03:03:00Z",
-          "image": "https://images.forbesjapan.com/media/article/104859/images/main_image_e5c4fa2752d442b507b42377af21bec8a46fb954.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "キムタクやサンド伊達も大絶賛！「ポパイ」の『おにぎり弁当』はなぜ愛されるのか、その理由を探ってみた",
-          "description": "木村拓哉さんや大泉洋さん、サンドウィッチマンの伊達さんなど、名だたる芸能人が愛してやまないロケ弁がある。 それが、「ポパイ」というお店の『おにぎり弁当』だ。 …",
-          "url": "https://rocketnews24.com/2026/09/17/2799438/",
-          "source": {
-            "name": "ロケットニュース24"
-          },
-          "publishedAt": "2026-09-17T02:30:45Z",
-          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/p2.jpg?w=1200&h=630&crop=1",
-          "language": "ja"
-        },
-        {
-          "title": "ネパール・中国国境の壊滅的な洪水、原因は 科学者チームが分析結果を報告",
-          "description": "（CNN）　ネパールと中国の国境地帯で8月に発生した壊滅的な洪水は複雑な要因が連鎖的に重なり合った結果であり、その多くは人為的な気候変動によって悪化したという。各国の専門家20人以上による新たな科学",
-          "url": "https://news.yahoo.co.jp/articles/62ebf0ce58fc9f1ca400e8a62092edec4ddd6507",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-09-17T02:25:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-35252708-cnn-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【訃報】渡辺孝一衆院議員が死去 自民党・比例代表北海道ブロック 元総務副大臣 自宅で転倒し入院 脳挫傷のため",
-          "description": "北海道選出の国会議員、自民党の渡辺孝一衆議院議員が、9月17日の朝に亡くなったことが関係者への取材で分かりました。68歳でした。\n衆議院議員、5期目の渡辺さんは、2月の衆院選で北海道10区から立候",
-          "url": "https://news.yahoo.co.jp/articles/78983a679f7f3575964bc6a56b088cf2a1f509ce",
+          "title": "サンマルクHDがつるとんたん買収",
+          "description": "京都市に本社を置くサンマルクホールディングスは、外食チェーン「つるとんたん」を128億円で買収すると発表しました。",
+          "url": "https://news.yahoo.co.jp/pickup/6595599",
           "source": {
             "name": "news.yahoo.co.jp"
           },
-          "publishedAt": "2026-09-17T02:19:12Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-22951107-hbcv-000-12-view.jpg?exp=10800",
+          "publishedAt": "2026-09-17T07:53:26Z",
+          "image": "https://s.yimg.jp/images/news-web/versions/20260917-6db457b/all/images/ogp_default.png",
           "language": "ja"
         },
         {
-          "title": "高橋藍の闘志、西田有志が体現した“プラス1m”…男子バレーなぜ強い？「“ちりつも”です」ティリ監督が“タレント軍団”に徹底した5つの約束事（Number Web）",
-          "description": "「あーっ！　今の行けたー！」\n　西田有志がコートに突っ伏して悔しがる。\n　ブロックに当たってコート後方に弾き出されたボールに猛ダッシュして飛びつき、手には触れたが、惜しくもつながらなかった。",
-          "url": "https://news.yahoo.co.jp/articles/e8f22496fdf250c0db4c23662e0f8ddd11f68deb",
+          "title": "（まとめ）日経平均は213円高の64,136円で続伸 日銀金融政策決定会合を控え様子見の展開",
+          "description": "東京市場まとめ1.概況日経平均は720円高の64,643円で続伸して取引を開始しました。ただ、寄付き後には上昇幅を縮小する展開が続き、前引けは43円高の63,966円となりました。後場に入り、一旦は上昇幅を拡大するも徐々に売りに押され下落に転じた後、15時00分には98円安....",
+          "url": "https://media.monex.co.jp/articles/-/30175",
           "source": {
-            "name": "Yahoo!ニュース"
+            "name": "マネクリ"
           },
-          "publishedAt": "2026-09-17T02:05:31Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00871964-number-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-09-17T07:44:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
           "language": "ja"
         },
         {
-          "title": "餃子の王将『秋ラーメン』はきのこが主役…ではなくスープがウマい！ リニューアルした「生姜餃子」も一緒に食べてみた",
-          "description": "今年は暑さが早めに引いて、ここ数年で最も過ごしやすかったのではないだろうか？　季節は秋。やや雨が多い気はするものの「いつ夏が終わるんだよ……」と絶望していた昨年 …",
-          "url": "https://rocketnews24.com/2026/09/17/2802710/",
+          "title": "9月19日(土)、20日(日)開催「LOVE ENG!NE」イベント、東京スカイツリータウン® ソラマチひろば会場限定抽選会実施のお知らせ",
+          "description": "2014年11月結成。スターダストプロモーションに所属する佐野勇斗、塩﨑太智、曽野舜太、山中柔太朗、吉田仁人からなる業界大注目の５人組ボーカルダンスユニット。",
+          "url": "https://sd-milk.com/contents/1111102",
+          "source": {
+            "name": "M!LKオフィシャルサイト"
+          },
+          "publishedAt": "2026-09-17T07:34:49Z",
+          "image": "https://sd-milk.com/s3/skiyaki/uploads/ckeditor/pictures/877296/content_POP_M_LK_clearpouch_A_0000_C_sample_0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【ハガレン】『FF』ドット絵の匠・渋谷員子氏が手掛けた、『鋼の錬金術師』エド、アルたちのグッズがTGS2026で先行販売。Tシャツ、アクスタ、刺繍パーカーなど【TGS2026】",
+          "description": "『鋼の錬金術師』×渋谷員子氏による“Dot Art”グッズがTGS2026で先行販売開始。エド、アルたちを描いたアクスタ、クリアファイル、Tシャツ、刺繍パーカーなどの実物を紹介。",
+          "url": "https://www.famitsu.com/article/202609/88335",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-09-17T06:47:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/88335/thumbnail_LBcm.jpeg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "ノーベル平和賞のモハンマディさん、イランの刑務所での虐待詳述 「戻っても同じ選択する」",
+          "description": "イランの首都テヘランにある悪名高いエビン刑務所に収監されている間、ノーベル平和賞受賞者のナルゲス・モハンマディさんは、友人や他の受刑者の助けを借りて、執筆した文章の断片をひそかに持ち出していた。 - (1/2)",
+          "url": "https://www.cnn.co.jp/world/35252724.html",
+          "source": {
+            "name": "CNN.co.jp"
+          },
+          "publishedAt": "2026-09-17T06:06:33Z",
+          "image": "https://www.cnn.co.jp/storage/2026/09/17/07cccda21c80d931f9beeca2352ea4b0/narges-mohammadi-still-02__1200_.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "令和のおよげたいやきくん…!? 阿佐ヶ谷にオープンした “次世代たい焼き店” が波に乗りすぎていた",
+          "description": "日本の伝統的な和菓子「たい焼き」。それを令和流にアップデートすると……？ 2026年9月10日、東京・阿佐ヶ谷にオープンしたのは「TOKYO TAIYAKI MANIA Asagaya Lab」。 …",
+          "url": "https://rocketnews24.com/2026/09/17/2802830/",
           "source": {
             "name": "ロケットニュース24"
           },
-          "publishedAt": "2026-09-17T02:00:28Z",
-          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/aki04.jpeg?w=1200&h=630&crop=1",
+          "publishedAt": "2026-09-17T06:00:29Z",
+          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/top2.jpg?w=1200&h=630&crop=1",
+          "language": "ja"
+        },
+        {
+          "title": "携帯ゲーミングPC、ついに25万円超え ASUS「ROG XBOX Ally X20」登場",
+          "description": "ASUS JAPANは9月17日、ポータブルゲーミングPC「ROG XBOX Ally X20」の国内予約を開始した。10月16日発売で、価格は25万8800円。",
+          "url": "https://ascii.jp/elem/000/004/435/4435795/?topnew=1",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-09-17T05:35:00Z",
+          "image": "https://ascii.jp/img/2026/09/17/4527109/xl/7e1437a7323536f7.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "Google Pixelスマートフォンがゼロクリック攻撃の標的に（CVE-2026-58704）",
+          "description": "Google Pixelスマートフォンがゼロクリック攻撃の標的に（CVE-2026-58704）｜認証不要のRCE脆弱性により、20万超のWordPressサイトが乗っ取りリスクにさらされる恐れ（CVE-2026-78159、CVE-2026-78006）",
+          "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/47781/",
+          "source": {
+            "name": "株式会社マキナレコード"
+          },
+          "publishedAt": "2026-09-17T05:23:23Z",
+          "image": "https://codebook.machinarecord.com/wp-content/uploads/2026/09/iximus-smartphone-5601536_1280.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Solar hybrid case: Court of Appeal allows stay on Rosmah's bid to adduce new evidence",
-          "description": "PUTRAJAYA: The Court of Appeal has allowed the prosecution's application to stay the execution of a court order that allowed Datin Seri Rosmah Mansor to adduce new evidence in her appeal involving the solar hybrid project in Sarawak.",
-          "url": "https://www.thestar.com.my/news/nation/2026/09/17/solar-hybrid-case-court-of-appeal-allows-stay-on-rosmah039s-bid-to-adduce-new-evidence",
+          "title": "Hansi Flick's goal machine! Barcelona shatter scoring records in 7-2 rout as Raphinha equals Lionel Messi milestones in historic start to the season",
+          "description": "Hansi Flick's Barcelona have set a new club record of seven consecutive opening wins, scoring 33 goals as Raphinha equals Lionel Messi's historic scoring milestones.",
+          "url": "https://www.goal.com/en/lists/hansi-flick-barcelona-records-racing-santander-7-2-raphinha-lionel-messi/blt6f998864da81e0bd",
           "source": {
-            "name": "The Star"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-09-17T04:26:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/09/17/4114731.jfif",
+          "publishedAt": "2026-09-17T09:01:10Z",
+          "image": "https://assets.goal.com/images/v3/getty-2295064945/crop/MM5DEMBUHA5DCMJVGI5G433XMU5DKMBTHI3TE===/GettyImages-2295064945.jpg",
           "language": "en"
         },
         {
-          "title": "‘We respect India’s military capabilities’: Pakistan says it won’t enter an arms race",
-          "description": "Lt Gen Ahmed Sharif Chaudhry said Islamabad’s focus remained defensive as India expanded long-range air defence, missile testing and domestic production.",
-          "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/india/pakistan-says-it-respects-india-s-military-capabilities-but-is-not-in-an-arms-race-14031753.html",
+          "title": "King Charles Makes Rare Statement Over Bombshell Diana Memoir",
+          "description": "King Charles has been dragged into a \"war of words\" with Charles Spencer, the younger brother of the late Princess Diana, over a claim in his book.",
+          "url": "https://www.hollywoodreporter.com/news/general-news/king-charles-statement-earl-spencer-diana-memoir-book-royal-1236704403/",
           "source": {
-            "name": "Moneycontrol.com"
+            "name": "The Hollywood Reporter"
           },
-          "publishedAt": "2026-09-17T04:26:00Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2019/01/RTS2BQEH.jpg",
+          "publishedAt": "2026-09-17T09:01:06Z",
+          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/FotoJet-2026-09-17T095429.129.jpg?w=1440&h=810&crop=1",
           "language": "en"
         },
         {
-          "title": "IEC final lists expose fierce metro battles ahead of local elections",
-          "description": "Major parties face internal rifts as candidate lists reveal absences, disputes and surprise inclusions",
-          "url": "https://www.businessday.co.za/politics/elections-2026/2026-09-17-iec-final-lists-expose-fierce-metro-battles-ahead-of-local-elections/",
+          "title": "Apple iPhone Duo price in Korea sparks backlash against Samsung Galaxy Z Fold8",
+          "description": "Apple’s first foldable iPhone Duo starts at 3.29 million won in Korea, fueling comparisons with Samsung’s cheaper Galaxy Z Fold8 ahead of its Oct. 23 launch.",
+          "url": "https://www.koreajoongangdaily.com/business/awe-then-shock-apples-new-foldable-iphone-wows-korea-but-huge-price-gap-with-samsung-also-turns-headsnbsp/12879794",
           "source": {
-            "name": "Business Day"
+            "name": "Korea JoongAng Daily"
           },
-          "publishedAt": "2026-09-17T04:25:15Z",
-          "image": "https://www.businessday.co.za/resizer/v2/5AZGPTSM2RCDPCHOUFMBO52DK4.jpeg?smart=true&auth=ba9d4c10e6117668b853fee45d54b3fd43f744ab69b2afece76b51e6c6ff9717&width=1200&height=630",
+          "publishedAt": "2026-09-17T09:01:01Z",
+          "image": "https://image.koreajoongangdaily.com/12880102.jpg?imageId=12880102&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
           "language": "en"
         },
         {
-          "title": "Appeals court stays recording of additional evidence in Rosmah case",
-          "description": "High Court had fixed today to record additional evidence from a witness in Rosmah Mansor’s appeal against her corruption conviction over a RM1.25 billion solar hybrid project.",
-          "url": "https://www.freemalaysiatoday.com/category/nation/2026/09/17/appeals-court-stays-recording-of-additional-evidence-in-rosmah-case",
+          "title": "Supreme Court blocks USPS ballot mail rule ahead of 2026 midterms",
+          "description": "The Supreme Court denied the Trump administration's bid to lift an injunction blocking the USPS ballot-mail rule, effectively sidelining it for the 2026 midterms.",
+          "url": "https://www.foxnews.com/politics/kavanaugh-throws-trump-lifeline-mail-ballot-rules-despite-supreme-court-loss-midterms",
           "source": {
-            "name": "Free Malaysia Today"
+            "name": "foxnews.com"
           },
-          "publishedAt": "2026-09-17T04:25:00Z",
-          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/07/f70db117-rosmah-mansor-bernama-080725.webp",
+          "publishedAt": "2026-09-17T09:00:53Z",
+          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/justice-kavanaugh.png",
           "language": "en"
         },
         {
-          "title": "David Beckham makes Ballon d'Or case for Lionel Messi after Campeones Cup triumph",
-          "description": "By Justin RudermanAlthough Wednesday night's 2026 Michelob ULTRA Campeones Cup victory over Cruz Azul is not technically part of Lionel Messi's Ballon d'Or campaign, Inter Miami CF owner David Beckham...",
-          "url": "https://sports.yahoo.com/articles/david-beckham-makes-ballon-dor-042400176.html",
+          "title": "An easier way to switch to the new Galaxy Z Fold8",
+          "description": "Samsung’s updated Smart Switch lets eligible iPhone users move more data to the Galaxy Z8 series, including passwords, passkeys, call history and eSIM information.",
+          "url": "https://iol.co.za/news/partnered/2026-09-17-an-easier-way-to-switch-to-the-new-galaxy-z-fold8/",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "IOL"
           },
-          "publishedAt": "2026-09-17T04:24:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/409c0edd5089a51aad88b73afe51113277bbedf9ee083044ab6c512606ee175c/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmajor_league_soccer_188%2Fbeff95a0b75f2ef57cce3322bd678622.png",
+          "publishedAt": "2026-09-17T09:00:36Z",
+          "image": "https://iol-prod.appspot.com/image/a3681ac1d62b02f06fd3879a632d92b998829a79/1000/jpeg",
           "language": "en"
         },
         {
-          "title": "Colorado mother, daughter homeless following eviction from low-income housing after both became students",
-          "description": "A mother and daughter in Douglas County say their efforts to gain an education led to them being evicted.",
-          "url": "https://www.cbsnews.com/colorado/news/mother-daughter-eviction-low-income-housing-students-colorado-housing/",
+          "title": "Conservatives urge Andy Burnham to rule out tax rises at Budget",
+          "description": "Shadow chancellor Andrew Griffith says UK taxes are forcing young people to \"seek their fortune\" elsewhere.",
+          "url": "https://www.bbc.co.uk/news/articles/cw7v4je1mnveo",
           "source": {
-            "name": "CBS News"
+            "name": "BBC"
           },
-          "publishedAt": "2026-09-17T04:22:49Z",
-          "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/17/2bb32467-df67-47eb-87a6-95e0d49cdc0f/thumbnail/1200x630/5d99d454a07600e6a17d6e520db29d0a/mother-daughter.jpg",
+          "publishedAt": "2026-09-17T09:00:18Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/feac/live/6d3064e0-b272-11f1-b67f-2b40fa83cfed.png",
           "language": "en"
         },
         {
-          "title": "Women with hyperemesis gravidarum report major gaps in care",
-          "description": "Medical assistance can help women suffering from severe nausea and vomiting during pregnancy, but insufficient recognition of Hyperemesis gravidarum (HG) means that many are not getting the help they need to overcome this severe and debilitating form of morning sickness.",
-          "url": "https://www.news-medical.net/news/20260917/Women-with-hyperemesis-gravidarum-report-major-gaps-in-care.aspx",
+          "title": "Anti-seizure drug fights aggressive childhood brain tumors, study shows",
+          "description": "An existing anti-seizure drug slows the growth of a devastating group of childhood cancers, new Stanford Medicine-led research has shown. The tumors, called diffuse midline gliomas, strike the brain and spinal cord. They affect 300 to 400 U.S. children per year and have a five-year survival rate of about 1%.",
+          "url": "https://medicalxpress.com/news/2026-09-anti-seizure-drug-aggressive-childhood.html",
           "source": {
-            "name": "News-Medical"
+            "name": "Medical Xpress"
           },
-          "publishedAt": "2026-09-17T04:22:00Z",
-          "image": "https://www.news-medical.net/image-handler/picture/2014/6/Pregnancy-620x480.jpg",
+          "publishedAt": "2026-09-17T09:00:03Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/hires/2024/drug-1.jpg",
           "language": "en"
         },
         {
-          "title": "Jude Bellingham’s Real Madrid resurgence and new role under Jose Mourinho",
-          "description": "The 23-year-old Englishman was under fire at the Bernabeu last season, but performances under Jose Mourinho have been strong",
-          "url": "https://www.nytimes.com/athletic/7600381/2026/09/17/real-madrid-jude-bellingham-jose-mourinho-atletico/",
+          "title": "China's AI models make only 10% of U.S. leaders' revenue: Rhodium",
+          "description": "Rhodium Group's latest analysis of Chinese and U.S. AI companies also found that low revenue did not necessarily correspond with lower valuation.",
+          "url": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
           "source": {
-            "name": "The New York Times"
+            "name": "CNBC"
           },
-          "publishedAt": "2026-09-17T04:20:00Z",
-          "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/16110322/GettyImages-2294929303-scaled.jpg?width=1200&height=630&fit=crop",
+          "publishedAt": "2026-09-17T09:00:01Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108095040-1738260179980-gettyimages-2196090843-19DeepSeekLogoIllustration2025.jpeg?v=1771584808&w=1920&h=1080",
           "language": "en"
         },
         {
-          "title": "US interest rates raised for first time in three years",
-          "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-          "url": "https://www.the-star.co.ke/news/world/2026-09-17-us-interest-rates-raised-for-first-time-in-three-years",
+          "title": "iPhone 18 Pro battery numbers are both good and bad news for Samsung",
+          "description": "Apple didn't reveal the iPhone 18 Pro and Pro Max's battery capacity or charging cycles, but a regulatory listing reveals all.",
+          "url": "https://www.androidauthority.com/iphone-18-pro-battery-capacity-charging-cycles-3712280/",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "Android Authority"
           },
-          "publishedAt": "2026-09-17T04:19:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/05/4b8afe41-8e3a-4eea-9968-084635e0651a.jpg?1789621136877",
+          "publishedAt": "2026-09-17T09:00:00Z",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro_2-scaled.jpg",
           "language": "en"
         },
         {
-          "title": "Ebola response making progress in Congo, but outbreak 'far from over,' WHO says",
-          "description": "Congo had reported more than 7,000 confirmed Ebola cases as of September 11.",
-          "url": "https://nation.africa/kenya/news/africa/ebola-response-making-progress-in-congo-but-outbreak-far-from-over-who-says-5597992",
+          "title": "Key transcripts that led to Project South probe will remain under publication ban, Ontario Superior Court rules",
+          "description": "Transcripts contain comments that would ‘deeply offend’ the public and sway potential jurors, Justice Laura Bird says",
+          "url": "https://www.theglobeandmail.com/canada/article-project-south-probe-transcripts-publication-ban/",
           "source": {
-            "name": "Daily Nation"
+            "name": "The Globe and Mail"
           },
-          "publishedAt": "2026-09-17T04:18:38Z",
-          "image": "https://nation.africa/resource/image/5466670/landscape_ratio3x2/1200/800/3190a37ee14210a34539e666988040e7/GY/ebola-2.jpg",
+          "publishedAt": "2026-09-17T09:00:00Z",
+          "image": "https://www.theglobeandmail.com/resizer/v2/CLFCTIEJTZC5ZAL55REC7FRLDI.JPG?auth=30f4cf4fb3046cd47ff34bbb73a325ce0d3e56ea67fe42a78abcc5df3fbedd0e&width=1200&height=800&quality=80&smart=true",
           "language": "en"
         }
       ]
