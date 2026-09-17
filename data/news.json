@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-09-16T23:36:39.711Z",
+  "updatedAt": "2026-09-17T03:51:48.030Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "【試合結果速報】バレー女子日本代表、48年ぶりのアジア大会Vへ初戦快勝 ネパールに3",
-          "description": "アジア大会・バレーボール女子予選ラウンド第1戦（16日、日本―ネパール、愛知・小牧）日本は大会初戦で、ネパールと対戦。セットカウント3-0で勝った。 日本は8月、優勝すれば2028年ロサンゼルス五輪出場権を獲得できるアジア選手権に挑んだが…",
-          "url": "https://www.sanspo.com/article/20260916-7JIRH2Z2IRFUHH7KTIGTBUFDEQ/",
+          "title": "茨城県、栃木県、群馬県などで震度3の地震 津波の心配なし",
+          "description": "17日午前0時7分頃、茨城県南部を震源とするマグニチュード4.8の地震が発生し、茨城県、栃木県、群馬県、埼玉県、千葉県、神奈川県で最大震度3を観測しました。この地震による津波の心配はありません。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/09/17/40631.html",
           "source": {
-            "name": "サンスポ"
+            "name": "tenki.jp"
           },
-          "publishedAt": "2026-09-16T10:14:12Z",
-          "image": "https://www.sanspo.com/resizer/v2/AGG27G4FBRJTPGMAUCXDKSCHTU.jpg?auth=b5147fbc948de24521c6a18709b21d06352cd4be724cec795a1690b6f54c80ec&quality=50&focal=2175%2C155&width=1200&height=675",
+          "publishedAt": "2026-09-16T15:16:38Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/406/40631/main/20260917001845/large.jpg",
           "language": "ja"
         },
         {
-          "title": "フジテレビ、『踊る大捜査線』連続ドラマを5夜連続放送 新作映画の公開受け【放送スケジュール一覧】",
-          "description": "ニュース｜　織田裕二の主演映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』（9月18日公開）の公開を記念し、フジテレビでは、連続ドラマ『踊る大捜査線』全11話を5夜連続放送することが決定した。　1997年1月期の連続ドラマとして放送された『踊る大捜査線』は、脱サラをして湾岸署刑事課に配属された異色の刑事、主人公・青島俊作（織田裕二）が、刑事の理想と現実とのギャップに困惑しつつも、正しいことをするために、真摯（しんし）に事件に向かっていく青島と仲間たちの物語を、時に熱く、時にユーモアを交えながら描く。",
-          "url": "https://www.oricon.co.jp/news/2480835/full/",
+          "title": "アップルが新AIでアプリ不要の購買体験 アマゾン、ウォルマートが急対応",
+          "description": "米Appleが「iOS 27」で投入した新機能「Siri AI」が、生活者の購買体験を劇的に変えるインパクトを秘めているとして、米小売り大手がアプリ改修に動き出している。スマートフォンアプリが主役を張る時代は終わりを告げ、AIの手足として裏側で下支えする脇役へ——。いったい、何が起ころうとしているのか。",
+          "url": "https://xtrend.nikkei.com/atcl/contents/18/00109/00232/?i_cid=nbpnxr_sector_top_all_retail_01",
+          "source": {
+            "name": "日経クロストレンド"
+          },
+          "publishedAt": "2026-09-16T15:00:00Z",
+          "image": "https://xtrend.nikkei.com/atcl/contents/18/00109/00232/nxr_m.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「iPhone Duo」は割高か？ 精密ヒンジから為替まで、36万円超えの理由を読み解く",
+          "description": "アップルが、初のフォルダブルスマホ「iPhone Duo」を発表しました。例年とは異なり発売は10月23日と、まだ少し時間がありますが、その間にアプリの対応なども進んでいくものとみられます。開くと横長ディスプレイになるほか、iPadでおなじみのApple Pencilに対応する予定もあるなど、意欲的に新機能を取り込んでいます。",
+          "url": "https://k-tai.watch.impress.co.jp/docs/column/value/2141446.html",
+          "source": {
+            "name": "ケータイ Watch"
+          },
+          "publishedAt": "2026-09-16T15:00:00Z",
+          "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/446/1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "アジア制覇へ再始動、神戸がACLE初戦敵地で白星発進!!“不可解イエロー”にも負けずGK権田が好守連発",
+          "description": "[9.16 ACLE第1節 ポートFC1-2神戸 タマサート]　AFCチャンピオンズリーグエリート(ACLE)のリーグステージ第1節で、ヴィッセル神戸は敵地でポートFC(タイ)を2-1で下した。第2節は10月14日に行われ、ホームで全北現代(...",
+          "url": "https://web.gekisaka.jp/news/acl/detail/?458987-458987-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-09-16T14:12:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/459000/458987/news_458987_1.jpg?time=20260916231457",
+          "language": "ja"
+        },
+        {
+          "title": "神戸がACLE白星発進！ 大迫勇也のお膳立てから武藤嘉紀が決勝弾…敵地でポートFC撃破",
+          "description": "AFCチャンピオンズリーグエリート（ACLE）リーグステージ第1節が16日に行われ、ポートFC（タイ）とヴィッセル神戸（日本）が対戦した。\n　新たに就任したミヒャエル・スキッベ監督のもとで明治安",
+          "url": "https://news.yahoo.co.jp/articles/b1565f9a8cb3ca2188091ea3a4dd78e67b319040",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-09-16T14:11:36Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260916-02205745-soccerk-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【ＮＹ為替オープニング】FOMCハト派利上げ観測、消費が好調で利上げ後押し｜FX・為替ニュース",
+          "description": "◇重要イベント・ポイント ・NY原油先物は反落、103.97ドル ・米・8月小売売上高：前月比＋1.2％（予想：前月比＋0.8％、7月：－0.5％←－0.6％） ・米・8月輸入物価指数：前月比＋0.7",
+          "url": "https://zai.diamond.jp/articles/-/495740",
+          "source": {
+            "name": "ザイFX！"
+          },
+          "publishedAt": "2026-09-16T14:04:00Z",
+          "image": "https://zai.diamond.jp/mwimgs/b/f/-/img_bf1f42cff9f982fffd8e69c03f88b178172901.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "小久保監督が断罪したミス「この期に及んでありえない」決勝打の栗原を称賛",
+          "description": "福岡ソフトバンクホークスがオリックス戦に勝利し、優勝マジックはついに「2」に！延長10回に決勝打を放った栗原陵矢内野手を称賛する一方、小久保裕紀監督が「ありえない」と断罪したサインミスの裏側を詳報。",
+          "url": "https://taka.full-count.jp/2026/09/16/post1320047/",
+          "source": {
+            "name": "鷹フル"
+          },
+          "publishedAt": "2026-09-16T13:45:06Z",
+          "image": "https://taka.full-count.jp/wp-content/uploads/2026/09/16221451/20260916_kokubo_kri-1-560x373.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【速報】台風25号「ドゥージェン」発生 シルバーウィークに日本へ影響のおそれ",
+          "description": "今日16日(水)21時、マリアナ諸島で台風25号「ドゥージェン」が発生しました。台風は今後、発達しながら北よりに進み、シルバーウィークには日本の南へ進む予想です。小笠原諸島では大しけや大荒れとなるおそれがあり、その後は本州付近にも影響する可能性があります。 まだ進路予想には幅があるため、今後の台風情報に注意してください。",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/09/16/40604.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-09-16T13:36:32Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/406/40604/main/20260916221614/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "U-21日本代表がアジア大会白星スタート! 石井久継が大会ファーストゴール、停滞続くも終盤に永野修都が追加点",
+          "description": "[9.16 アジア大会GL第1節 日本 2-0 香港 豊田ス]　U-21日本代表は16日、アジア競技大会のグループリーグ初戦で香港と対戦し、2-0で勝利した。前半39分にMF石井久継が大会ファーストゴール。後半44分には右CKか...",
+          "url": "https://web.gekisaka.jp/news/japan/detail/?458980-458980-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-09-16T12:22:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/459000/458980/news_458980_1.jpg?time=20260916212225",
+          "language": "ja"
+        },
+        {
+          "title": "中村ゆりさん、MVに出演…コブクロが追悼「作品の世界を深く表現していただいた」 動画に追悼の声集まる「心よりご冥福をお祈りします」",
+          "description": "ニュース｜　音楽デュオ・コブクロ（黒田俊介、小渕健太郎）が16日、公式サイトを更新し、1日に直腸がんのため44歳で亡くなった中村ゆりさんを追悼した。　コブクロは「中村ゆりさんの訃報に接し心よりお悔やみ申し上げます」と偲び、「2018年にコブクロ『風をみつめて』のミュージックビデオにご出演いただき作品の世界を深く表現していただきました」と故人の功績をたたえた。",
+          "url": "https://www.oricon.co.jp/news/2480888/full/",
           "source": {
             "name": "オリコンニュース"
           },
-          "publishedAt": "2026-09-16T10:00:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2481000/2480835/20260916_173421_p_o_86605570.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』公開記念！連続ドラマ『踊る大捜査線』5夜連続放送決定",
-          "description": "9月21日（月）より、『踊る大捜査線』が、5夜連続で放送されます。新作映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』の公開を記念して、連続ドラマ『踊る大捜査線』全11話をフジテレビで5夜連続放送することが決定。1997年1月期の連続ドラマとして放送された『踊る大捜査線』は、脱サラをして湾岸署刑事課に配属された異色の刑事、主人公・青島俊作（織田裕二）が、刑事の理想と現実とのギャップに困惑しつつも、正しいことをするために、真摯（しんし）に事件に向かっていく、青島と仲間たちの物語を、ときに熱く、ときにユーモアを交えながら描いています。所轄の刑事・青島と本庁のキャリア組・室井慎次（柳…",
-          "url": "https://mezamashi.media/articles/-/347689",
-          "source": {
-            "name": "mezamashi.media"
-          },
-          "publishedAt": "2026-09-16T10:00:00Z",
-          "image": "https://mezamashi.ismcdn.jp/mwimgs/3/3/1200xm/img_33f39c1c41dd7e08431a9e675f8403b0522256.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "英歌手シーランさんのツアーからアーティストが相次ぎ離脱、パレスチナ連帯示したラッパーが降板させられ",
-          "description": "英歌手エド・シーランさんのアメリカでのコンサートツアーから、サポートアクト（前座）として出演していたアーティスト全員が離脱した。同ツアーをめぐっては、サポートアクトの一人だった米ラッパーのマックルモアさんが、ステージ上で親パレスチナ的な発言をしたとして途中で降板させられ、議論を呼んでいた。",
-          "url": "https://www.bbc.com/japanese/articles/cq23xre5g5ygo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-09-16T09:30:23Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/16f8/live/3cfae5c0-b128-11f1-b1d1-571ed4d7ff2c.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "神奈川の百貨店「さいか屋」が上場廃止発表（共同通信）",
-          "description": "神奈川県で百貨店を運営する「さいか屋」（川崎市）は16日、2027年3月1日に東京証券取引所スタンダード市場から上場廃止となると発表した。",
-          "url": "https://news.yahoo.co.jp/articles/7ba57db526512d272f4aaf7a109a1a61a42927b0",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-09-16T09:18:47Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "バレー女子日本代表vsネパールは地上波TBS中継なし！どこで見られる？｜アジア大会2026",
-          "description": "アジア大会2026の女子バレーボール競技・予選ラウンド初戦、日本代表対ネパール代表はどこで見られる？地上波TBS以外のテレビ放送・ネット配信局を紹介。",
-          "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/where-to-watch-women-volleyball-japan-nepal-match-asian-games-2026/blt262fece8c31cfcad",
-          "source": {
-            "name": "Goal.com"
-          },
-          "publishedAt": "2026-09-16T08:58:01Z",
-          "image": "https://assets.goal.com/images/v3/bltaf04609e8cf0d366/volleyball%20japan%20womens%20national%20team.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "圧巻投球14勝目の山本由伸、MLB歴代トップの記録樹立！「メジャーに来てから、ひたすら“押し込む”ことしかしていない」米メディア驚愕（THE DIGEST）",
-          "description": "現地９月15日、ロサンゼルス・ドジャースの山本由伸が敵地でのシンシナティ・レッズ戦に先発。７回91球、被安打１、７奪三振、２四球、無失点でメジャー自己最多を更新する14勝目を挙げた。\n　まさに圧",
-          "url": "https://news.yahoo.co.jp/articles/7bc7fba8e300744f33503664e4143eb102c7e985",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-09-16T08:38:45Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260916-00120186-thedigest-000-4-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "ドル円は155円まで円安も…警戒しておきたい「隠れた円高材料」",
-          "description": "ドル円は、ベッセント財務長官発言（※1）の裏付けを思わせるような2日の日本銀行の高田創審議委員の予想以上のタカ派発言（※2）によって、あっさり155円を割れ、8日には152円台後半まで円高の動きとなりました。（※1）「過度な円安対処のた…",
-          "url": "https://media.rakuten-sec.net/articles/-/53514",
-          "source": {
-            "name": "トウシル"
-          },
-          "publishedAt": "2026-09-16T08:00:00Z",
-          "image": "https://media.rakuten-sec.net/mwimgs/e/8/-/img_e880024ba53f136922560138b1a548ef419506.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Google Chromeにアップデート 深刻度”重大”含む42件の脆弱性を修正",
-          "description": "グーグルは9月15日、デスクトップおよびAndroid版「Google Chrome」のアップデートを公開。深刻度「重大」を含む42件の脆弱性に対処した。",
-          "url": "https://news.yahoo.co.jp/articles/b7e8d23a585dedbdbd2260c501dbc71775d76ef7",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-09-16T08:00:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260916-00000019-ascii-000-1-view.png?fmt=jpeg&q=85&exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "1位は『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』！今週公開作品のMOVIE WALKER会員“みたい映画”ランキングを発表！",
-          "description": "今週末の公開作品で、映画ファンから熱い視線が向けられているのはどんな映画？2026年9月18日(金)～9月20日(日)に公開される新作から、MOVIE WALKER会員の「みたい」数(みたい映画とし",
-          "url": "https://news.yahoo.co.jp/articles/931bfc32037c9c4f249d6c5f80a55eb7b853fc0d",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-09-16T07:30:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260916-01440877-mvwalk-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-09-16T12:21:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2481000/2480888/20260916_133710_p_o_89105053.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "F1 2027 calendar announced with Bahrain to host season-opener and increase in Sprint weekends in 24-race schedule",
-          "description": "Bahrain to host 2027 Formula 1 season-opener as Portugal and Turkey return to the schedule from next year, plus an increase in Sprint weekends; watch every session of the Azerbaijan Grand Prix from September 24-26 with a Saturday race, live on Sky Sports F1",
-          "url": "https://www.skysports.com/f1/news/12433/13588439/f1-2027-calendar-announced-with-bahrain-to-host-season-opener-and-increase-in-sprint-weekends-in-24-race-schedule",
+          "title": "Reimagining research papers as interactive and reliable AI agents",
+          "description": "Here we introduce Paper2Agent, an automated framework that converts research papers into artificial intelligence (AI) agents. Paper2Agent transforms research output from passive artefacts into active systems that accelerate use and discovery. Conventional research papers require readers to understand and adapt the paper’s code, data and methods to their work, creating barriers to dissemination and reuse. Paper2Agent addresses this challenge by converting a paper into an AI agent that functions as a virtual corresponding author, exposing its manuscript, supplementary materials, datasets, code and workflows as active, agent-native knowledge rather than static text. It analyses the paper and codebase using multiple agents to construct a model context protocol (MCP) server, then generates and runs tests to refine and increase robustness of the MCP. These paper MCPs can be connected to a chat agent (such as Claude Code) to carry out complex scientific queries through natural language while invoking tools and workflows from the paper. We demonstrate Paper2Agent’s effectiveness through case studies. Paper2Agent created an agent that leveraged AlphaGenome1 to interpret genomic variants and agents based on Scanpy2 and TISSUE (transcript imputation with spatial single-cell uncertainty estimation)3 to conduct single-cell and spatial transcriptomics analyses. We validate that these agents reproduce the results of the original papers and carry out novel user queries. Paper2Agent created multiple agents that collaborate to prioritize a causal gene for psoriasis. By turning static papers into interactive AI agents, Paper2Agent introduces a paradigm for knowledge dissemination and a collaborative ecosystem of AI co-scientists. Paper2Agent converts research papers into interactive artificial intelligence agents by turning manuscripts, code and data into model context protocol-based tool-invoking systems that reproduce original results, answer new scientific queries and collaborate to generate novel insights.",
+          "url": "https://www.nature.com/articles/s41586-026-11044-y?error=cookies_not_supported&code=4029cd52-1714-407f-89e5-dccdf667c5c6",
           "source": {
-            "name": "skysports.com"
+            "name": "Nature"
           },
-          "publishedAt": "2026-09-16T11:35:36Z",
-          "image": "https://e0.365dm.com/26/09/1600x900/skysports-spanish-gp-madring_7350223.jpg?20260916065506",
+          "publishedAt": "2026-09-16T15:51:35Z",
+          "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11044-y/MediaObjects/41586_2026_11044_Fig1_HTML.png",
           "language": "en"
         },
         {
-          "title": "The Traitors pair say having a game plan 'doesn't work'",
-          "description": "The Traitors Ireland contestants Janet Takuz and DJ O'Sullivan have told The Oliver Callan Show on RTÉ Radio 1 that going in with a game plan for the series \"doesn't work\".",
-          "url": "https://www.rte.ie/entertainment/2026/0916/1591757-the-traitors-pair-say-having-a-game-plan-doesnt-work/",
+          "title": "Report reinforces Auburn's healthy roster spending for 2026",
+          "description": "Shortly after Golesh was hired, Auburn247 reported that the program intended to use an aggressive NIL approach to push the 'salary cap.'",
+          "url": "https://247sports.com/college/auburn/article/auburn-tigers-football-2026-roster-cost-spending-the-athletic-290017524/",
           "source": {
-            "name": "RTE.ie"
+            "name": "247sports.com"
           },
-          "publishedAt": "2026-09-16T11:35:32Z",
-          "image": "https://www.rte.ie/images/002504ee-1600.jpg",
+          "publishedAt": "2026-09-16T15:51:20Z",
+          "image": "https://s3media.247sports.com/Uploads/Assets/292/387/14387292.JPG?width=1200&height=628&crop=1.91:1&fit=cover",
           "language": "en"
         },
         {
-          "title": "Duchess Sophie is a colour-block vision in the zestiest dress we've seen a royal wear",
-          "description": "Duchess Sophie of Edinburgh looked beautiful during her five-day tour of Zambia, wearing a lime green dress with a purple waist belt.",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/duchess-sophie-colour-block-vision-113529116.html",
+          "title": "Call for papers: Promises and challenges in the development of PROTACs for chromatin modifiers",
+          "description": "Epigenomics is pleased to invite you to submit your work to an Article Collection on the “Promises and challenges in the development of PROTACs for chromatin modifiers\".",
+          "url": "https://www.oncology-central.com/call-for-papers-promises-and-challenges-in-the-development-of-protacs-for-chromatin-modifiers/",
           "source": {
-            "name": "yahoo.com"
+            "name": "Oncology Central"
           },
-          "publishedAt": "2026-09-16T11:35:29Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/c6891d94a590bc7737853d62c80090f163dbe4a947d8448b88b9ea97af936b23/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fae5e08523ae3755b1817c53da869c96e.jpg",
+          "publishedAt": "2026-09-16T15:49:51Z",
+          "image": "https://www.oncology-central.com/wp-content/uploads/2026/09/Feature-image-option-3-19.png",
           "language": "en"
         },
         {
-          "title": "16 years’ jail and caning for ex-PE teacher who sexually exploited student in hotels, school",
-          "description": "When the girl, then 14, voiced doubts about their age gap, he assured her that age was not an issue. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/singapore/courts-crime/16-years-jail-and-caning-for-ex-pe-teacher-who-sexually-exploited-student-in-hotels-school",
+          "title": "Kirk family puts UVU on notice they intend to sue",
+          "description": "A notice of claim filed by the family of Charlie Kirk against UVU contends he was essentially placed in a 'fishbowl' when he was assassinated on campus in 2025.",
+          "url": "https://www.ksl.com/article/51624717/kirk-family-puts-uvu-on-notice-they-intend-to-sue",
           "source": {
-            "name": "The Straits Times"
+            "name": "KSL News"
           },
-          "publishedAt": "2026-09-16T11:35:00Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/730dbe6e0a0ebb9b4b6b0676b681655321c54d9bb5ab77cbad77a323bddcc401",
+          "publishedAt": "2026-09-16T15:49:39Z",
+          "image": "https://img.ksl.com/slc/3109/310957/31095764.jpeg?filter=kslv2/responsive_story_lg",
           "language": "en"
         },
         {
-          "title": "Arsenal’s Max Dowman breaks another record amid Arteta praise",
-          "description": "Max Dowman broke another record by scoring a brace for Arsenal against Ipswich Town on Tuesday night, and he impressed Gunners boss Mikel Arteta.Photo by Justin Setterfield/Getty ImagesBy scoring two ...",
-          "url": "https://sports.yahoo.com/articles/arsenal-max-dowman-breaks-another-113500684.html",
+          "title": "A yet-to-be-published book about Princess Diana was stolen in the Netherlands",
+          "description": "Four copies of Earl Spencer’s unpublished book about his sister, Princess Diana, were stolen in the Netherlands. The book in question is the Dutch edition of “Swan Song: Diana, My Sister,” which is scheduled for worldwide release on Tuesday.",
+          "url": "https://ua.news/en/world/u-niderlandakh-vikrali-shche-ne-vidanu-knigu-pro-printsesu-dianu",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "UA.NEWS"
           },
-          "publishedAt": "2026-09-16T11:35:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/395d4eb640f4fd34c670e28007e360ae9b2e28a480cb2ccdfd6834469230e340/lightyear_networkapi/resizefill_w1000_h677%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaily_cannon_articles_231%2F75dd2dd548dfe1eed75a2e5dde42be60.jpg",
+          "publishedAt": "2026-09-16T15:49:01Z",
+          "image": "https://cdn-cabinet.ua.news/uploads/images/25/photo_2026_09_16_18_39_17.webp",
           "language": "en"
         },
         {
-          "title": "Andoni Iraola sends clear transfer window message as Liverpool beat Spurs",
-          "description": "Andoni Iraola Sends Clear Liverpool Transfer Message as January Plans Put on HoldAndoni Iraola has made Liverpool’s immediate priority perfectly clear. Forget transfer chatter, forget the noise arou...",
-          "url": "https://sports.yahoo.com/articles/andoni-iraola-sends-clear-transfer-113500317.html",
+          "title": "Pakistan asks to move hockey tournament from India",
+          "description": "Pakistan's hockey federation asked for the 2026 Asian Champions Trophy to be moved from India or for Pakistan's matches to be held at a neutral venue.",
+          "url": "https://ua.news/en/sport/pakistan-prosit-perenesti-turnir-z-khokeiu-na-travi-z-indiyi-abo-matchi-na-neitralne-pole",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "UA.NEWS"
           },
-          "publishedAt": "2026-09-16T11:35:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/10547b87e06e72658f32673e5af0393e9e7c49e827282296c5d6d24aa6b2b217/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_index_166%2F635cbdc4ad6e87009b12d0044021611e.jpg",
+          "publishedAt": "2026-09-16T15:48:55Z",
+          "image": "https://cdn-cabinet.ua.news/uploads/images/pakystan_prosyt_perenesty_hokeinyi_turni_1789573240875.webp",
           "language": "en"
         },
         {
-          "title": "Africans becoming open to military rule as demands for democracy weaken: Report",
-          "description": "The report also found that fewer than half of Africans considered their country a democracy (47%) and said they were satisfied with how democracy works in their country (38%).",
-          "url": "https://gazettengr.com/africans-becoming-open-to-military-rule-as-demands-for-democracy-weaken-report/",
+          "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
+          "description": "The owner of the acclaimed establishment avoids jail but is made to pay 15 million won (£8,144; $10,965).",
+          "url": "https://ca.news.yahoo.com/michelin-starred-seoul-restaurant-fined-154854556.html",
           "source": {
-            "name": "gazettengr.com"
+            "name": "Yahoo News Canada"
           },
-          "publishedAt": "2026-09-16T11:33:47Z",
-          "image": "https://gazettengr.com/wp-content/uploads/fbhf.png",
+          "publishedAt": "2026-09-16T15:48:54Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/9b0861c4a6ff3e5729bd331bbdd8be0bbf0710355dce9596935dd5392faf6364/lightyear_networkapi/resizefill_w517_h291%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff07703f20ae39963efd4d88109b5a8f3.png",
           "language": "en"
         },
         {
-          "title": "Tanzania cautions mining licence owners against leaving their sites undeveloped",
-          "description": "MWANZA: THE Tanzanian government has cautioned owners of mining licences against leaving their areas undeveloped, saying licences that are not being used in accordance with regulations will be revoked and reallocated to miners ready to undertake mining activities. Deputy Minister for Minerals Dr Steven Kiruswa issued the warning on September 15, 2026, in Mwanza while …",
-          "url": "https://dailynews.co.tz/tanzania-cautions-mining-licence-owners-against-leaving-their-sites-undeveloped/",
+          "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
+          "description": "The owner of the acclaimed establishment avoids jail but is made to pay 15 million won (£8,144; $10,965).",
+          "url": "https://www.bbc.com/news/articles/c639m42y43v4o",
           "source": {
-            "name": "dailynews.co.tz"
+            "name": "BBC"
           },
-          "publishedAt": "2026-09-16T11:33:14Z",
-          "image": "https://dailynews.co.tz/wp-content/uploads/2026/09/DKT.-KIRUSWA-ATATUA-MGOGORO-WA-WACHIMBAJI-WADOGO-MWANZAUkosefu-wa-mawasiliano-chanzo-cha-mgogor.webp",
+          "publishedAt": "2026-09-16T15:48:50Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0da9/live/3fc77b90-b1de-11f1-ac01-a9af2f94b2cc.png",
           "language": "en"
         },
         {
-          "title": "Indonesia’s wildfires may last until early November, says minister",
-          "description": "JAKARTA: Indonesia's wildfires could last until early November, with the rainy season expected to arrive late, Forestry Minister Raja Juli Antoni told local media on Wednesday (Sept 16), as he urged people to stop using fire to clear land during an extended drought.",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/16/indonesias-wildfires-may-last-until-early-november-says-minister",
+          "title": "NMDPRA targets $10bn gas investments through de-risking",
+          "description": "By Obas Esiedesa, Bangkok The Nigerian Midstream and Downstream Petroleum Regulatory Authority, NMDPRA, is targeting up to $10 billion in gas investments through its Midstream and Downstream Gas Infrastructure Fund, MDGIF, which has deployed about $300 million to de-risk projects and attract private capital. The Chief Executive of NMDPRA, Mallam Rabiu Abdullahi Umar, disclosed this […]",
+          "url": "https://www.vanguardngr.com/2026/09/nmdpra-targets-10bn-gas-investments-through-de-risking/",
           "source": {
-            "name": "thestar.com.my"
+            "name": "Vanguard News"
           },
-          "publishedAt": "2026-09-16T11:33:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/09/16/4113798.jpg",
+          "publishedAt": "2026-09-16T15:48:07Z",
+          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2022/01/NMDPRA.jpg",
           "language": "en"
         },
         {
-          "title": "AMD will have its own DLSS 5",
-          "description": "Kepler_L2 says AMD will have its own next-gen Neural Lighting technology similar to DLSS 5. His proposed engine-data implementation is an opinion, not a confirmed AMD design.",
-          "url": "https://videocardz.com/newz/amd-will-have-its-own-dlss-5-like-neural-lighting-on-next-gen-gpus-leaker-claims",
+          "title": "Global conservation body to map cheetah landscape as Kuno project turns 4",
+          "description": "Global Tiger Forum to map cheetah landscape beyond Kuno as Project Cheetah turns 4, starting with socio-economic study then ecological survey for expansion.",
+          "url": "https://timesofindia.indiatimes.com/city/bhopal/global-conservation-body-to-map-cheetah-landscape-as-kuno-project-turns-4/articleshow/134291711.cms",
           "source": {
-            "name": "VideoCardz.com"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-09-16T11:32:50Z",
-          "image": "https://cdn.videocardz.com/1/2026/09/RADEON-RX-9070-HERO6.webp",
+          "publishedAt": "2026-09-16T15:47:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-134291697,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         }
       ]
