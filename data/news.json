@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-09-17T03:51:48.030Z",
+  "updatedAt": "2026-09-17T11:09:29.667Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "茨城県、栃木県、群馬県などで震度3の地震 津波の心配なし",
-          "description": "17日午前0時7分頃、茨城県南部を震源とするマグニチュード4.8の地震が発生し、茨城県、栃木県、群馬県、埼玉県、千葉県、神奈川県で最大震度3を観測しました。この地震による津波の心配はありません。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/09/17/40631.html",
+          "title": "（朝）米国市場は3指数揃って下落 FOMCでは利上げが決定されタカ派の姿勢が示されたことで株式の割高感から売り優勢の展開",
+          "description": "【米国株式市場】ニューヨーク市場NYダウ：　51,461.90　▼631.21　（9/16）NASDAQ：　25,978.43　▼3.15　（9/16）1.概況米国市場は主要3指数揃って下落しました。FOMCでは市場の予想通り約3年ぶりの0.25ポイントの利上げとなりました。また、会見ではタカ派寄りの姿勢...",
+          "url": "https://media.monex.co.jp/articles/-/30167",
           "source": {
-            "name": "tenki.jp"
+            "name": "マネクリ"
           },
-          "publishedAt": "2026-09-16T15:16:38Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/406/40631/main/20260917001845/large.jpg",
+          "publishedAt": "2026-09-16T23:03:00Z",
+          "image": "https://media.monex.co.jp/mwimgs/4/2/-/img_421e317c2e9930629bafdeb4e1831d73273467.jpg",
           "language": "ja"
         },
         {
-          "title": "アップルが新AIでアプリ不要の購買体験 アマゾン、ウォルマートが急対応",
-          "description": "米Appleが「iOS 27」で投入した新機能「Siri AI」が、生活者の購買体験を劇的に変えるインパクトを秘めているとして、米小売り大手がアプリ改修に動き出している。スマートフォンアプリが主役を張る時代は終わりを告げ、AIの手足として裏側で下支えする脇役へ——。いったい、何が起ころうとしているのか。",
-          "url": "https://xtrend.nikkei.com/atcl/contents/18/00109/00232/?i_cid=nbpnxr_sector_top_all_retail_01",
+          "title": "Ｍ１ドジャース地区５連覇へ先制も逆転許す スネル１回で緊急降板 大谷翔平はIL／速報中",
+          "description": "マジック1のドジャースが地区5連覇を目指しレッズ戦。勝てばV決定、敗れても2位パドレスが負けると優勝が決まる。大谷翔平投手はIL入りしている。先発はスネル。1… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/baseball/mlb/news/202609170000051.html",
           "source": {
-            "name": "日経クロストレンド"
+            "name": "日刊スポーツ"
           },
-          "publishedAt": "2026-09-16T15:00:00Z",
-          "image": "https://xtrend.nikkei.com/atcl/contents/18/00109/00232/nxr_m.jpg",
+          "publishedAt": "2026-09-16T22:58:00Z",
+          "image": "https://www.nikkansports.com/baseball/mlb/news/img/202609170000051-w500_0.jpg",
           "language": "ja"
         },
         {
-          "title": "「iPhone Duo」は割高か？ 精密ヒンジから為替まで、36万円超えの理由を読み解く",
-          "description": "アップルが、初のフォルダブルスマホ「iPhone Duo」を発表しました。例年とは異なり発売は10月23日と、まだ少し時間がありますが、その間にアプリの対応なども進んでいくものとみられます。開くと横長ディスプレイになるほか、iPadでおなじみのApple Pencilに対応する予定もあるなど、意欲的に新機能を取り込んでいます。",
-          "url": "https://k-tai.watch.impress.co.jp/docs/column/value/2141446.html",
+          "title": "米ＦＯＭＣ、利上げを決定：識者はこうみる",
+          "description": "米連邦準備理事会（ＦＲＢ）は１５─１６日に開いた連邦公開市場委員会（ＦＯＭＣ）でフェデラルファンド（ＦＦ）金利誘導目標を０．２５％ポイント引き上げ、３．７５─４．００％とすると決定した。決定は全会一致。ＦＲＢは今後数カ月で追加利上げを実施する可能性を示唆した。",
+          "url": "https://www.reuters.com/jp/economy/EDBXBAERRBPQ5BRLN4UZ5YVQU4-2026-09-16/",
           "source": {
-            "name": "ケータイ Watch"
+            "name": "Reuters"
           },
-          "publishedAt": "2026-09-16T15:00:00Z",
-          "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/446/1.jpg",
+          "publishedAt": "2026-09-16T22:39:20Z",
+          "image": "https://www.reuters.com/resizer/v2/ACEAAWIT7NO6LJI2Y7YAILHH7E.jpg?auth=1ae798b113503465551bd43bf64f44a268d2a0f971198299220390d013e2604b&height=1005&width=1920&quality=80&smart=true",
           "language": "ja"
         },
         {
-          "title": "アジア制覇へ再始動、神戸がACLE初戦敵地で白星発進!!“不可解イエロー”にも負けずGK権田が好守連発",
-          "description": "[9.16 ACLE第1節 ポートFC1-2神戸 タマサート]　AFCチャンピオンズリーグエリート(ACLE)のリーグステージ第1節で、ヴィッセル神戸は敵地でポートFC(タイ)を2-1で下した。第2節は10月14日に行われ、ホームで全北現代(...",
-          "url": "https://web.gekisaka.jp/news/acl/detail/?458987-458987-fl",
-          "source": {
-            "name": "gekisaka.jp"
-          },
-          "publishedAt": "2026-09-16T14:12:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/459000/458987/news_458987_1.jpg?time=20260916231457",
-          "language": "ja"
-        },
-        {
-          "title": "神戸がACLE白星発進！ 大迫勇也のお膳立てから武藤嘉紀が決勝弾…敵地でポートFC撃破",
-          "description": "AFCチャンピオンズリーグエリート（ACLE）リーグステージ第1節が16日に行われ、ポートFC（タイ）とヴィッセル神戸（日本）が対戦した。\n　新たに就任したミヒャエル・スキッベ監督のもとで明治安",
-          "url": "https://news.yahoo.co.jp/articles/b1565f9a8cb3ca2188091ea3a4dd78e67b319040",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-09-16T14:11:36Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260916-02205745-soccerk-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【ＮＹ為替オープニング】FOMCハト派利上げ観測、消費が好調で利上げ後押し｜FX・為替ニュース",
-          "description": "◇重要イベント・ポイント ・NY原油先物は反落、103.97ドル ・米・8月小売売上高：前月比＋1.2％（予想：前月比＋0.8％、7月：－0.5％←－0.6％） ・米・8月輸入物価指数：前月比＋0.7",
-          "url": "https://zai.diamond.jp/articles/-/495740",
+          "title": "米9月FOMCは予想外のタカ派利上げ、ドル大幅続伸｜FX・為替ニュース",
+          "description": "米連邦公開市場委員会(FOMC)は会合で政策金利(フェデラルファンドFF金利の誘導目標)を市場の予想通り0.25％引き上げ、3.75％-4.00％に決定した。2023年以降3年ぶりの利上げとなる。声明で",
+          "url": "https://zai.diamond.jp/articles/-/495779",
           "source": {
             "name": "ザイFX！"
           },
-          "publishedAt": "2026-09-16T14:04:00Z",
-          "image": "https://zai.diamond.jp/mwimgs/b/f/-/img_bf1f42cff9f982fffd8e69c03f88b178172901.jpg",
+          "publishedAt": "2026-09-16T21:54:00Z",
+          "image": "https://zai.diamond.jp/mwimgs/9/e/-/img_9e47ac79ce2cf237f05d70fc22e16d45110540.png",
           "language": "ja"
         },
         {
-          "title": "小久保監督が断罪したミス「この期に及んでありえない」決勝打の栗原を称賛",
-          "description": "福岡ソフトバンクホークスがオリックス戦に勝利し、優勝マジックはついに「2」に！延長10回に決勝打を放った栗原陵矢内野手を称賛する一方、小久保裕紀監督が「ありえない」と断罪したサインミスの裏側を詳報。",
-          "url": "https://taka.full-count.jp/2026/09/16/post1320047/",
+          "title": "台風25号…気象庁の予想進路、米軍・ヨーロッパの見方 シルバーウィーク中に関東接近恐れ",
+          "description": "台風25号は2026年9月17日午前6時現在、マリアナ諸島を1時間に25キロの速さで北に進んでいる。まだ予想には幅があるが、シルバーウィーク中に関東に接近するおそれがある。　予想進路や日本への影響について気象庁や米軍合同台風警報センター(JTWC）、ヨーロッパ中期予報センターの見方をまとめた。",
+          "url": "https://www.fukuishimbun.co.jp/articles/-/2700459",
           "source": {
-            "name": "鷹フル"
+            "name": "fukuishimbun.co.jp"
           },
-          "publishedAt": "2026-09-16T13:45:06Z",
-          "image": "https://taka.full-count.jp/wp-content/uploads/2026/09/16221451/20260916_kokubo_kri-1-560x373.jpg",
+          "publishedAt": "2026-09-16T21:49:00Z",
+          "image": "https://fki.ismcdn.jp/mwimgs/3/7/-/img_37d343e91f7125f6263cf1bef6520f43238512.jpg",
           "language": "ja"
         },
         {
-          "title": "【速報】台風25号「ドゥージェン」発生 シルバーウィークに日本へ影響のおそれ",
-          "description": "今日16日(水)21時、マリアナ諸島で台風25号「ドゥージェン」が発生しました。台風は今後、発達しながら北よりに進み、シルバーウィークには日本の南へ進む予想です。小笠原諸島では大しけや大荒れとなるおそれがあり、その後は本州付近にも影響する可能性があります。 まだ進路予想には幅があるため、今後の台風情報に注意してください。",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/09/16/40604.html",
+          "title": "急なカクつきとは無縁！配信修行僧も一目置くゲーミングノート ～レノボ「Lenovo Legion 5a Gen 11」レビュー",
+          "description": "「ゲーミングPCにとって大事なのは性能」。これは事実だが、大事なのは性能だけではないと筆者は考える。より大事なのは「ゲームプレイ時の体験の質」だ。",
+          "url": "https://pc.watch.impress.co.jp/docs/topic/special/2138634.html",
           "source": {
-            "name": "tenki.jp"
+            "name": "PC Watch"
           },
-          "publishedAt": "2026-09-16T13:36:32Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/406/40604/main/20260916221614/large.jpg",
+          "publishedAt": "2026-09-16T21:15:00Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2138/634/01.jpg",
           "language": "ja"
         },
         {
-          "title": "U-21日本代表がアジア大会白星スタート! 石井久継が大会ファーストゴール、停滞続くも終盤に永野修都が追加点",
-          "description": "[9.16 アジア大会GL第1節 日本 2-0 香港 豊田ス]　U-21日本代表は16日、アジア競技大会のグループリーグ初戦で香港と対戦し、2-0で勝利した。前半39分にMF石井久継が大会ファーストゴール。後半44分には右CKか...",
-          "url": "https://web.gekisaka.jp/news/japan/detail/?458980-458980-fl",
+          "title": "大谷翔平「二刀流批判」の真意は何だった？ “球界のご意見番”が生前に明かしていた本音「どうしてもその道を行くんなら…」《追悼・張本勲さん》",
+          "description": "日本プロ野球史上初の3000安打を達成し、首位打者に7度も輝いた張本勲さんが亡くなった。引退後は、情報番組での歯に衣着せぬ物言いでお茶の間を沸かせた名評論家でもあった。そんな張本さんが“稀代のスー",
+          "url": "https://news.yahoo.co.jp/articles/ae7d90f1bbc320946f985290544ed857bc7f929e",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-09-16T21:04:28Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00871967-number-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "トランプとMBSを脅かす中東紛争拡大、冬に向かう時にサウジからの石油供給が減る恐れ――ギデオン・ラックマン(1/3)",
+          "description": "ここ数カ月というもの、イランと米国の紛争は戦争と平和の間で揺れ動いてきた。外交による解決策を模索する取り組みが、時折発生する戦闘で中断された。　だが、過去1週間は中東湾岸での戦闘が(1/3)",
+          "url": "https://jbpress.ismedia.jp/articles/-/97057",
+          "source": {
+            "name": "JBpress"
+          },
+          "publishedAt": "2026-09-16T21:00:00Z",
+          "image": "https://jbpress.ismcdn.jp/mwimgs/9/e/1200mw/img_9e53c365d208a37944fddd397d42c87c679199.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "アストン・ビラがコベントリーを破ってカラバオ杯3回戦突破!坂元vs鈴木彩艶の日本人対決も実現!!",
+          "description": "[9.16 カラバオ杯3回戦 コベントリー 1-3 アストン・ビラ]　カラバオ杯は16日、3回戦を各地で行い、MF坂元達裕所属のコベントリーとGK鈴木彩艶所属のアストン・ビラの対戦は1-3でアストン・ビラが勝利し、4回戦進...",
+          "url": "https://web.gekisaka.jp/news/world/detail/?458995-458995-fl",
           "source": {
             "name": "gekisaka.jp"
           },
-          "publishedAt": "2026-09-16T12:22:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/459000/458980/news_458980_1.jpg?time=20260916212225",
+          "publishedAt": "2026-09-16T20:55:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/459000/458995/news_458995_1.jpg?time=20260917090723",
           "language": "ja"
         },
         {
-          "title": "中村ゆりさん、MVに出演…コブクロが追悼「作品の世界を深く表現していただいた」 動画に追悼の声集まる「心よりご冥福をお祈りします」",
-          "description": "ニュース｜　音楽デュオ・コブクロ（黒田俊介、小渕健太郎）が16日、公式サイトを更新し、1日に直腸がんのため44歳で亡くなった中村ゆりさんを追悼した。　コブクロは「中村ゆりさんの訃報に接し心よりお悔やみ申し上げます」と偲び、「2018年にコブクロ『風をみつめて』のミュージックビデオにご出演いただき作品の世界を深く表現していただきました」と故人の功績をたたえた。",
-          "url": "https://www.oricon.co.jp/news/2480888/full/",
+          "title": "中村敬斗がEL初出場で初ゴール!! 後半の劣勢耐えたリヨンがアンデルレヒトを破って白星発進",
+          "description": "[9.16 ELリーグフェーズ第1節 アンデルレヒト 1-2 リヨン]　リヨン(フランス)は16日、UEFAヨーロッパリーグ(EL)リーグフェーズ第1節のアンデルレヒト(ベルギー)戦を敵地で行い、2-1の白星発進を飾った。FW中村敬...",
+          "url": "https://web.gekisaka.jp/news/uel/detail/?458993-458993-fl",
           "source": {
-            "name": "オリコンニュース"
+            "name": "gekisaka.jp"
           },
-          "publishedAt": "2026-09-16T12:21:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2481000/2480888/20260916_133710_p_o_89105053.jpg",
+          "publishedAt": "2026-09-16T20:51:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/459000/458993/news_458993_1.jpg?time=20260917055157",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Reimagining research papers as interactive and reliable AI agents",
-          "description": "Here we introduce Paper2Agent, an automated framework that converts research papers into artificial intelligence (AI) agents. Paper2Agent transforms research output from passive artefacts into active systems that accelerate use and discovery. Conventional research papers require readers to understand and adapt the paper’s code, data and methods to their work, creating barriers to dissemination and reuse. Paper2Agent addresses this challenge by converting a paper into an AI agent that functions as a virtual corresponding author, exposing its manuscript, supplementary materials, datasets, code and workflows as active, agent-native knowledge rather than static text. It analyses the paper and codebase using multiple agents to construct a model context protocol (MCP) server, then generates and runs tests to refine and increase robustness of the MCP. These paper MCPs can be connected to a chat agent (such as Claude Code) to carry out complex scientific queries through natural language while invoking tools and workflows from the paper. We demonstrate Paper2Agent’s effectiveness through case studies. Paper2Agent created an agent that leveraged AlphaGenome1 to interpret genomic variants and agents based on Scanpy2 and TISSUE (transcript imputation with spatial single-cell uncertainty estimation)3 to conduct single-cell and spatial transcriptomics analyses. We validate that these agents reproduce the results of the original papers and carry out novel user queries. Paper2Agent created multiple agents that collaborate to prioritize a causal gene for psoriasis. By turning static papers into interactive AI agents, Paper2Agent introduces a paradigm for knowledge dissemination and a collaborative ecosystem of AI co-scientists. Paper2Agent converts research papers into interactive artificial intelligence agents by turning manuscripts, code and data into model context protocol-based tool-invoking systems that reproduce original results, answer new scientific queries and collaborate to generate novel insights.",
-          "url": "https://www.nature.com/articles/s41586-026-11044-y?error=cookies_not_supported&code=4029cd52-1714-407f-89e5-dccdf667c5c6",
-          "source": {
-            "name": "Nature"
-          },
-          "publishedAt": "2026-09-16T15:51:35Z",
-          "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11044-y/MediaObjects/41586_2026_11044_Fig1_HTML.png",
-          "language": "en"
-        },
-        {
-          "title": "Report reinforces Auburn's healthy roster spending for 2026",
-          "description": "Shortly after Golesh was hired, Auburn247 reported that the program intended to use an aggressive NIL approach to push the 'salary cap.'",
-          "url": "https://247sports.com/college/auburn/article/auburn-tigers-football-2026-roster-cost-spending-the-athletic-290017524/",
-          "source": {
-            "name": "247sports.com"
-          },
-          "publishedAt": "2026-09-16T15:51:20Z",
-          "image": "https://s3media.247sports.com/Uploads/Assets/292/387/14387292.JPG?width=1200&height=628&crop=1.91:1&fit=cover",
-          "language": "en"
-        },
-        {
-          "title": "Call for papers: Promises and challenges in the development of PROTACs for chromatin modifiers",
-          "description": "Epigenomics is pleased to invite you to submit your work to an Article Collection on the “Promises and challenges in the development of PROTACs for chromatin modifiers\".",
-          "url": "https://www.oncology-central.com/call-for-papers-promises-and-challenges-in-the-development-of-protacs-for-chromatin-modifiers/",
-          "source": {
-            "name": "Oncology Central"
-          },
-          "publishedAt": "2026-09-16T15:49:51Z",
-          "image": "https://www.oncology-central.com/wp-content/uploads/2026/09/Feature-image-option-3-19.png",
-          "language": "en"
-        },
-        {
-          "title": "Kirk family puts UVU on notice they intend to sue",
-          "description": "A notice of claim filed by the family of Charlie Kirk against UVU contends he was essentially placed in a 'fishbowl' when he was assassinated on campus in 2025.",
-          "url": "https://www.ksl.com/article/51624717/kirk-family-puts-uvu-on-notice-they-intend-to-sue",
-          "source": {
-            "name": "KSL News"
-          },
-          "publishedAt": "2026-09-16T15:49:39Z",
-          "image": "https://img.ksl.com/slc/3109/310957/31095764.jpeg?filter=kslv2/responsive_story_lg",
-          "language": "en"
-        },
-        {
-          "title": "A yet-to-be-published book about Princess Diana was stolen in the Netherlands",
-          "description": "Four copies of Earl Spencer’s unpublished book about his sister, Princess Diana, were stolen in the Netherlands. The book in question is the Dutch edition of “Swan Song: Diana, My Sister,” which is scheduled for worldwide release on Tuesday.",
-          "url": "https://ua.news/en/world/u-niderlandakh-vikrali-shche-ne-vidanu-knigu-pro-printsesu-dianu",
-          "source": {
-            "name": "UA.NEWS"
-          },
-          "publishedAt": "2026-09-16T15:49:01Z",
-          "image": "https://cdn-cabinet.ua.news/uploads/images/25/photo_2026_09_16_18_39_17.webp",
-          "language": "en"
-        },
-        {
-          "title": "Pakistan asks to move hockey tournament from India",
-          "description": "Pakistan's hockey federation asked for the 2026 Asian Champions Trophy to be moved from India or for Pakistan's matches to be held at a neutral venue.",
-          "url": "https://ua.news/en/sport/pakistan-prosit-perenesti-turnir-z-khokeiu-na-travi-z-indiyi-abo-matchi-na-neitralne-pole",
-          "source": {
-            "name": "UA.NEWS"
-          },
-          "publishedAt": "2026-09-16T15:48:55Z",
-          "image": "https://cdn-cabinet.ua.news/uploads/images/pakystan_prosyt_perenesty_hokeinyi_turni_1789573240875.webp",
-          "language": "en"
-        },
-        {
-          "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
-          "description": "The owner of the acclaimed establishment avoids jail but is made to pay 15 million won (£8,144; $10,965).",
-          "url": "https://ca.news.yahoo.com/michelin-starred-seoul-restaurant-fined-154854556.html",
-          "source": {
-            "name": "Yahoo News Canada"
-          },
-          "publishedAt": "2026-09-16T15:48:54Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/9b0861c4a6ff3e5729bd331bbdd8be0bbf0710355dce9596935dd5392faf6364/lightyear_networkapi/resizefill_w517_h291%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff07703f20ae39963efd4d88109b5a8f3.png",
-          "language": "en"
-        },
-        {
-          "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
-          "description": "The owner of the acclaimed establishment avoids jail but is made to pay 15 million won (£8,144; $10,965).",
-          "url": "https://www.bbc.com/news/articles/c639m42y43v4o",
+          "title": "Chelsea: Clearlake Capital acquires full control as Todd Boehly, Mark Walter and Hansjorg Wyss sell stakes",
+          "description": "Clearlake Capital acquires full control of Chelsea as chairman Todd Boehly, director Mark Walter and Hansjorg Wyss sell their stakes in the club.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvrl6egl1254o",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-09-16T15:48:50Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0da9/live/3fc77b90-b1de-11f1-ac01-a9af2f94b2cc.png",
+          "publishedAt": "2026-09-16T23:07:26Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9719/live/c0654da0-b223-11f1-a9d3-d1d2b06c2bad.jpg",
           "language": "en"
         },
         {
-          "title": "NMDPRA targets $10bn gas investments through de-risking",
-          "description": "By Obas Esiedesa, Bangkok The Nigerian Midstream and Downstream Petroleum Regulatory Authority, NMDPRA, is targeting up to $10 billion in gas investments through its Midstream and Downstream Gas Infrastructure Fund, MDGIF, which has deployed about $300 million to de-risk projects and attract private capital. The Chief Executive of NMDPRA, Mallam Rabiu Abdullahi Umar, disclosed this […]",
-          "url": "https://www.vanguardngr.com/2026/09/nmdpra-targets-10bn-gas-investments-through-de-risking/",
+          "title": "Man Utd 2-3 Brighton: Michael Carrick's Old Trafford tenure is only heading in one direction as Red Devils face familiar story",
+          "description": "Man Utd crashed out of the Carabao Cup, surrendering a two-goal lead against Brighton to lose 3-2 at Old Trafford; it is the first time in 145 attempts where United have held a two-goal lead at Old Trafford and lost, ramping up the pressure on head coach Michael Carrick",
+          "url": "https://www.skysports.com/football/news/11667/13588791/man-utd-2-3-brighton-michael-carricks-old-trafford-tenure-is-only-heading-in-one-direction-as-red-devils-face-familiar-story",
           "source": {
-            "name": "Vanguard News"
+            "name": "Sky Sports"
           },
-          "publishedAt": "2026-09-16T15:48:07Z",
-          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2022/01/NMDPRA.jpg",
+          "publishedAt": "2026-09-16T23:07:12Z",
+          "image": "https://e0.365dm.com/26/09/1600x900/skysports-michael-carrick-man-utd_7354061.jpg?20260916221141",
           "language": "en"
         },
         {
-          "title": "Global conservation body to map cheetah landscape as Kuno project turns 4",
-          "description": "Global Tiger Forum to map cheetah landscape beyond Kuno as Project Cheetah turns 4, starting with socio-economic study then ecological survey for expansion.",
-          "url": "https://timesofindia.indiatimes.com/city/bhopal/global-conservation-body-to-map-cheetah-landscape-as-kuno-project-turns-4/articleshow/134291711.cms",
+          "title": "Calvin Harris and Kings of Leon to headline Electric Avenue",
+          "description": "A rush followed Thursday’s announcement crashed the Electric Avenue website. “Traffic has been insane,” Mitchell told Morning Report.",
+          "url": "https://www.rnz.co.nz/life/music/calvin-harris-and-kings-of-leon-to-headline-electric-avenue",
           "source": {
-            "name": "The Times of India"
+            "name": "rnz.co.nz"
           },
-          "publishedAt": "2026-09-16T15:47:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-134291697,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-09-16T23:06:37Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--Xw_iHGI5--/t_tohu-badge-facebook/f_auto/q_auto/4JSJFXR_RNZ_5531_jpg",
+          "language": "en"
+        },
+        {
+          "title": "Harris likely to bow to pressure to tackle unpopular investment tax in upcoming budget",
+          "description": "Deemed disposal is widely viewed as a deterrent to investment by Irish savers.",
+          "url": "https://www.thejournal.ie/deemed-disposal-tax-ireland-7157045-Sep2026/",
+          "source": {
+            "name": "The Journal"
+          },
+          "publishedAt": "2026-09-16T23:06:00Z",
+          "image": "https://img2.thejournal.ie/article/7157045/river/?height=400&version=7163191",
+          "language": "en"
+        },
+        {
+          "title": "NZ’s economy grew 0.2% in the June quarter",
+          "description": "Construction helped New Zealand’s economy grow 0.2% in the June quarter as the country's real purchasing power falls",
+          "url": "https://www.interest.co.nz/economy/140268/construction-helped-new-zealand%E2%80%99s-economy-grow-02-june-quarter-countrys-real",
+          "source": {
+            "name": "interest.co.nz"
+          },
+          "publishedAt": "2026-09-16T23:06:00Z",
+          "image": "https://www.interest.co.nz/sites/default/files/2026-09/GDP%20June.jpg",
+          "language": "en"
+        },
+        {
+          "title": "High Court orders fresh damages assessment for woman hit by Mutare council truck",
+          "description": "The High Court has ordered a fresh assessment of damages for a woman who was knocked down by a municipal truck in Mutare, ruling that a magistrate wrongly rejected her claims for transport, maid, food and medication expenses simply because she had no receipts. Masiiwa Senga, 45, was struck by an Eicher Pro 5025T heavy […]",
+          "url": "https://www.newzimbabwe.com/high-court-orders-fresh-damages-assessment-for-woman-hit-by-mutare-council-truck/",
+          "source": {
+            "name": "NewZimbabwe.com"
+          },
+          "publishedAt": "2026-09-16T23:05:35Z",
+          "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2020/10/25173023/City-of-Mutare-logo-1-e1603647066271.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Robert Kraft Responds to Macklemore Invite to Match $1 Million Donation",
+          "description": "Hours after Macklemore challenged Robert Kraft “to match” his $1 million donation, Kraft responded.",
+          "url": "https://www.rollingstone.com/music/music-news/robert-kraft-responds-macklemore-1-million-donation-match-1235628081/",
+          "source": {
+            "name": "Rolling Stone"
+          },
+          "publishedAt": "2026-09-16T23:05:00Z",
+          "image": "https://www.rollingstone.com/wp-content/uploads/2026/09/macklemore-kraft-donation.jpg?w=1600&h=900&crop=1",
+          "language": "en"
+        },
+        {
+          "title": "What comes next for banks in a post-CLARITY Congress",
+          "description": "The failure of a highly anticipated crypto market structure bill Tuesday likely has doomed the effort to pass the bill in this Congress. The next version of the bill could be a double-edged sword for banks.",
+          "url": "https://www.americanbanker.com/news/what-comes-next-for-banks-in-a-post-clarity-congress",
+          "source": {
+            "name": "American Banker"
+          },
+          "publishedAt": "2026-09-16T23:05:00Z",
+          "image": "https://arizent.brightspotcdn.com/dims4/default/5b77529/2147483647/strip/true/crop/4000x2100+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F67%2F97%2Fa7a492cc4e688be4fcc295bb8206%2F467660551.jpg",
+          "language": "en"
+        },
+        {
+          "title": "US lawmakers pass bill giving Trump more power to sanction Russia and its enablers",
+          "description": "Act divides Democrats and Republicans, with some saying it gives president power that could be turned against US allies",
+          "url": "https://www.theguardian.com/us-news/2026/sep/16/us-lawmakers-pass-bill-giving-trump-more-power-to-sanction-russia-and-its-enablers",
+          "source": {
+            "name": "The Guardian"
+          },
+          "publishedAt": "2026-09-16T23:04:00Z",
+          "image": "https://i.guim.co.uk/img/media/c4dd7f2b486025d0f5616e41dd37e0ed755d7b36/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=acf4968a770db756af9b8122c036ea0b",
+          "language": "en"
+        },
+        {
+          "title": "Malaysia’s OPR stays at 2.75pc: What does it mean for your loans, savings and spendings",
+          "description": "KUALA LUMPUR, Sept 17 — Bank Negara Malaysia (BNM) has kept its Overnight Policy Rate (OPR) at 2.75 per cent, maintaining the rate for a seventh consecutive meeting.At 2.75 per...",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/17/malaysias-opr-stays-at-275pc-what-does-it-mean-for-your-loans-savings-and-spendings/235175",
+          "source": {
+            "name": "Malay Mail"
+          },
+          "publishedAt": "2026-09-16T23:03:06Z",
+          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/09/16/362850.jpg",
           "language": "en"
         }
       ]
