@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-09-19T20:10:09.335Z",
+  "updatedAt": "2026-09-19T22:42:35.293Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "「習近平が倒れた」という噂の正体 BRICS首脳会議で",
-          "description": "9月12日、BRICS首脳会議に参加していた習近平国家主席が脳卒中を起こして今は北京で昏迷状態にあるという「噂」が世界を駆け巡り、日本でもそれに飛びついている一部のメディアがある。9月24日には訪米",
-          "url": "https://news.yahoo.co.jp/expert/articles/24dcf715adfccfe19716818983a434c4daed88ae",
+          "title": "ゲーム開発に「ローカルLLM」を取り込む必然性とは？ メインメモリーの96GBをVRAM化するAI特化「DAIV」が示すPCの変革【TGS2026特集】",
+          "description": "ゲーム開発現場でどこまでローカルLLMや生成AIの実運用が可能なのか。新清士氏が実際に開発で活用している知見を披露。ローカルLLM運用の実践的意義と、そこから見えてきたPCハードウェアのパラダイムシフトについてレポートする。",
+          "url": "https://ascii.jp/elem/000/004/436/4436507/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-09-19T10:30:00Z",
+          "image": "https://ascii.jp/img/2026/09/19/4528297/xl/6ab98f5a8dc3c430.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "2億画素のカメラがまさかの3つ搭載？「Oppo Find X10」シリーズは、中国向けに9月22日発表",
+          "description": "Oppoの新型スマホ「Find X10」シリーズが9月22日に中国で発表決定。2億画素カメラを3基搭載した世界初モデルのスペックや発表製品を詳しく解説します。",
+          "url": "https://www.gizmodo.jp/article/oppo-find-x10-series-september-22-launch/",
+          "source": {
+            "name": "gizmodo.jp"
+          },
+          "publishedAt": "2026-09-19T10:30:00Z",
+          "image": "https://media.loom-app.com/loom/2026/09/16/4cb80774-0a12-4d7f-ba14-304f89bb8be4/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "グリーン上の「スパイク跡」不運も笑顔で受容！ 神谷そらが後半猛チャージで単独首位キープ、大会連覇へ王手【国内女子ツアー】",
+          "description": "曇り空の下、気温27.3℃というコンディションで行われた「住友生命Vitalityレディス 東海クラシック」第2ラウンド。ディフェンディングチャンピオンの神谷そらが「70」でスコアをまとめ、通算8アンダーで単独首位の座を力強くキープした。スコアカードの上では安定しているように見えるが、この日のラウンドは決して順風満帆ではなかった。前半は3番（パー5）、さらに15ヤード距離が伸びた6番（パー3）でボギーが先行する、もどかしく苦しい立ち上がりだったのだ。",
+          "url": "https://www.golfdigest-minna.jp/_ct/17865569",
+          "source": {
+            "name": "golfdigest-minna.jp"
+          },
+          "publishedAt": "2026-09-19T10:11:45Z",
+          "image": "https://d1uzk9o9cg136f.cloudfront.net/f/16782728/rc/2026/09/19/d196ce251840586d03dfa0fbb34f5e93fdf153da_xlarge.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "福岡vs広島は荒れ模様…福岡に前半だけで2人の退場者、両チームで一発レッド可能性のVARチェックも発生",
+          "description": "[9.19 J1第8節 福岡 - 広島 ベススタ]　J1第8節のアビスパ福岡対サンフレッチェ広島で、前半だけで福岡に2人の退場者が発生した。　まずは前半22分、福岡の主将DF上島拓巳が中盤でMF松本泰志にスライディングタッ...",
+          "url": "https://web.gekisaka.jp/news/jleague/detail/?459141-459141-fl",
+          "source": {
+            "name": "gekisaka.jp"
+          },
+          "publishedAt": "2026-09-19T10:10:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/460000/459141/news_459141_1.jpg?time=20260919191055",
+          "language": "ja"
+        },
+        {
+          "title": "【あすの天気】東海から東北は各地で雨 太平洋側では激しく降る所も",
+          "description": "大型の台風25号は今後、関東にかなり接近し、大雨や暴風のおそれがあります。",
+          "url": "https://news.ntv.co.jp/category/weather/091e8203111844d7aadc4798ed858056",
+          "source": {
+            "name": "news.ntv.co.jp"
+          },
+          "publishedAt": "2026-09-19T10:09:00Z",
+          "image": "https://news.ntv.co.jp/gimage/n24/articles/215de0200c554c2da53a6f6c8551c0dd/9ab67f3b-4f2f-4978-8453-e0499a512c60.jpg?w=1200",
+          "language": "ja"
+        },
+        {
+          "title": "コメ価格が急落 生産者に危機感",
+          "description": "コメの店頭平均価格が、2年ぶりに5キロ3000円を下回った。　肉や卵、野菜などの価格が高水準で推移する中、食卓を支える主食のコメの値下がりは家計にとっては朗報だ。半面、急激な下落に対し、生産者は危機",
+          "url": "https://news.yahoo.co.jp/pickup/6595828",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-09-19T08:09:49Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/endohomare/02723303/title-1789805333673.jpeg?exp=10800",
+          "publishedAt": "2026-09-19T09:33:45Z",
+          "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/19/a9e70f3377693270ba7c69e2904705ae4eeecf6bcdbdb0733373b2c192f71218.jpg",
           "language": "ja"
         },
         {
-          "title": "iPhone 18 Proを最高速で充電できる（きっと）最安・最小の選択肢",
-          "description": "iPhone 18 Proの高速充電に必要な条件を満たす、最安・最小クラスのUGREEN製65W充電器をご紹介。ケーブル付きでAmazonで買えるおすすめの選択肢です。",
-          "url": "https://www.gizmodo.jp/article/2609-iphone-18-pro-fast-charger-ugreen/",
+          "title": "ROG、最新ゲーミング製品4種の国内発売時期を発表 ゲーミングコントローラー『ROG Raikiri II Pro PC』は10月下旬より",
+          "description": "ASUS JAPANは、ゲーミングブランド「ROG」より最新ゲーミング製品4種の国内発売時期を発表。PC向けコントローラー『ROG Raikiri II Pro PC』を10月下旬、4K OLEDモニター2種を2026年10月中旬、Mini PC『ROG NUC 16』を2026年11月に順次発売する…",
+          "url": "https://realsound.jp/tech/2026/09/post-2530304.html",
           "source": {
-            "name": "Gizmodo"
+            "name": "realsound.jp"
           },
-          "publishedAt": "2026-09-19T08:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/09/17/8477c2ce-fe10-4683-8ac9-d0243d2b0f13/original.jpg?w=1200&h=630",
+          "publishedAt": "2026-09-19T09:17:55Z",
+          "image": "https://realsound.jp/wp-content/uploads/2026/09/20260919-rog1-99.jpg",
           "language": "ja"
         },
         {
-          "title": "令和の世に“新作”と共によみがえった「NEOGEO AES+」の実機に触れる ASICを再設計して高い互換性を実現：東京ゲームショウ2026（1/3 ページ）",
-          "description": "2026年4月に突然発表された「NEOGEO AES+」。エミュレーションによって楽しむ従来のレトロゲーム機とはことなり、過去のゲーム機そのものを再現することに主眼を置いていることが特徴だ。東京ゲームショウ2026では、その実機に触れることができる。 (1/3)",
-          "url": "https://www.itmedia.co.jp/pcuser/articles/2609/19/news023.html",
+          "title": "【台風25号】千葉県は20日未明から激しい雨、21日接近恐れ シルバーウィーク中の天気は",
+          "description": "大型の台風25号の影響で、千葉県では9月20日未明から21日にかけて雷を伴った激しい雨や非常に激しい雨の降る所がある。20日夜遅くからは土砂災害に厳重な警戒が必要となり、21日は台風が県内に接近するおそれがある。21日は大雨に加えて風も急激に強まり、北東部や夷隅・安房の海上では猛烈な風が吹く見込み。シルバーウィーク中では、20日から21日にかけて台風の影響が色濃くなりそうだ。",
+          "url": "https://www.fukuishimbun.co.jp/articles/-/2702791",
           "source": {
-            "name": "ITmedia"
+            "name": "福井新聞社"
           },
-          "publishedAt": "2026-09-19T07:00:00Z",
-          "image": "https://image.itmedia.co.jp/pcuser/articles/2609/19/cover_news023.jpg",
+          "publishedAt": "2026-09-19T09:07:00Z",
+          "image": "https://fki.ismcdn.jp/mwimgs/8/3/-/img_839d12e042738a521ceaa96deddcf227246874.jpg",
           "language": "ja"
         },
         {
-          "title": "銃や剣を手にしたイラン国民、抵抗の意思示す「命ささげる覚悟」（ＡＦＰ＝時事）",
-          "description": "【AFP＝時事】米国およびイスラエルとの開戦から半年以上が経過する中、イランの首都テヘランで18日、パレードが行われ、剣を手に持った男性たちや自動小銃「カラシニコフ」で武装したベール姿の女性たちが「",
-          "url": "https://news.yahoo.co.jp/articles/ed44c855eb04572ad53ac85eeeefe740d80e0086",
+          "title": "【巨人】橋上監督代行「まずはやっぱり田中投手」「一番の勝因」田中将大を絶賛 今季最多１４得点で打のベテランも称賛…一問一答",
+          "description": "巨人は今季最多１４得点で２連勝を飾った。",
+          "url": "https://hochi.news/articles/20260919-OHT1T51270.html",
           "source": {
-            "name": "Yahoo!ニュース"
+            "name": "スポーツ報知"
           },
-          "publishedAt": "2026-09-19T06:58:37Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00000018-jij_afp-000-3-view.jpg?exp=10800",
+          "publishedAt": "2026-09-19T08:57:00Z",
+          "image": "https://hochi.news/images/2026/09/19/20260919-OHT1I51398-C.jpg",
           "language": "ja"
         },
         {
-          "title": "稲垣来泉：「GTO」出演で話題の15歳 TGCに初登場 ミニボトムコーデでランウエーに",
-          "description": "反町隆史さん主演の連続ドラマ「GTO」（カンテレ・フジテレビ系、月曜午後10時）に出演する15歳の俳優・稲垣来泉さんが9月19日、横浜アリーナ（横浜市港北区）で開催中のファッションイベント「第43回…",
-          "url": "https://mainichikirei.jp/article/20260919dog00m100003000a.html",
+          "title": "シルバーウィーク 関東など太平洋側は22日まで曇りや雨 西日本ほどお出かけ日和",
+          "description": "明日20日は北海道から近畿の太平洋側で雨が降りやすい一方、中国、四国、九州、沖縄は晴れ間が出てお出かけ日和となる所が多いでしょう。台風25号などの影響で、22日(火・国民の休日)にかけて同じような傾向が続きますが、23日(水・秋分の日)は、関東や東海でも雨が落ち着いて、お出かけを楽しめる所がありそうです。",
+          "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/09/19/40668.html",
           "source": {
-            "name": "毎日キレイ"
+            "name": "tenki.jp"
           },
-          "publishedAt": "2026-09-19T06:34:00Z",
-          "image": "https://storage.mainichikirei.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/09/19/20260919dog00m100003000a/001.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "最大720Hz対応OLEDモニターも ROGが競技向け「Ace Collection」4製品を国内展開",
-          "description": "ASUS JAPANは、ROGの競技シーン向け新シリーズ「ROG Ace Collection」の国内展開を発表。最大720Hz対応の24.5インチOLEDゲーミングモニター3機種と、56g軽量ゲーミングマウス『ROG Gladius IV Ace』の計4製品を投入する。",
-          "url": "https://realsound.jp/tech/2026/09/post-2528376.html",
-          "source": {
-            "name": "リアルサウンド"
-          },
-          "publishedAt": "2026-09-19T06:32:38Z",
-          "image": "https://realsound.jp/wp-content/uploads/2026/09/20260918-rogace-99.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "timelesz 猪俣周杜容疑者、20代女性への傷害容疑で逮捕報道…「一般人なんて入れるべきじゃなかった」メンバー選出への懸念が現実化の皮肉",
-          "description": "9月19日、STARTO ENTERTAINMENT所属の8人組アイドルグループ「timelesz」のメンバーが逮捕されたことがわかった。結成からわずか1年半で起きた醜聞に、SNSでは衝撃が走って",
-          "url": "https://news.yahoo.co.jp/articles/ef4e752e08d4a55271b55a6b9ce0e7ec001632dc",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-09-19T06:30:27Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00000033-flash-000-7-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "HKC、KOORUI・ANTGAMERとともにTGS2026に出展モニターの実機体験と参加型イベントを開催",
-          "description": "『HKC、KOORUI・ANTGAMERとともにTGS2026に出展モニターの実機体験と参加型イベントを開催』の記事ページです。",
-          "url": "https://www.sankei.com/pressrelease/prtimes/IQ7GUT4ZYJISZH7XJBSOV76BEY/",
-          "source": {
-            "name": "産経ニュース"
-          },
-          "publishedAt": "2026-09-19T03:29:24Z",
-          "image": "https://www.sankei.com/resizer/v2/https%3A%2F%2Fdpgdieoe6npux.cloudfront.net%2Fprtimes%2FOG4D6VRSSNPHNKR5KH4EPYDR2E?auth=7e8051faae6c6009d96efc0a5459e8159ed787bf52b72363eddfc34da6ba8f66&quality=50&smart=true&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "HKC、KOORUI・ANTGAMERとともにTGS2026に出展モニターの実機体験と参加型イベントを開催",
-          "description": "HKC JAPAN株式会社のプレスリリース（2026年9月19日 12時29分）HKC、KOORUI・ANTGAMERとともにTGS2026に出展モニターの実機体験と参加型イベントを開催",
-          "url": "https://prtimes.jp/main/html/rd/p/000000037.000152145.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-09-19T03:29:24Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/152145/37/152145-37-1610ad262ef5de4a9d200d306dabe3cc-2048x1365.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "一転コメ余りで「新米より古米が高い」異常事態！ 裏で蠢く農水省“59万トン隔離”と利権のカラクリ",
-          "description": "’26年産の新米がスーパーの店頭に並び始めた。\n農協がコメを集荷する際に農家に前払いする「概算金」が、’26年産米は全国各地で前年より2〜4割低く設定されているという。概算金の下落により、コメ売り",
-          "url": "https://news.yahoo.co.jp/articles/c1793744bb182fdd97325e861cc673f643a0f970",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-09-19T02:00:43Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00000004-friday-000-4-view.jpg?exp=10800",
+          "publishedAt": "2026-09-19T08:46:20Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/406/40668/main/20260919172907/large.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Indonesian President Prabowo accepts Malaysia’s offer to help fight Kalimantan forest fires",
-          "description": "Prabowo noted that Indonesia had also received assistance from Japan, calling the fires a life-threatening problem. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/asia/se-asia/indonesian-president-prabowo-accepts-malaysias-offer-to-help-fight-kalimantan-forest-fires",
+          "title": "70-year-old loggerhead Turtle rescued after swimming in circles off Florida Keys: What left her disoriented?",
+          "description": "A 70- to 80-year-old loggerhead turtle named Timmy was rescued after swimming in circles off Florida. Despite appearing healthy, the cause of her disorientation remained unclear.",
+          "url": "https://www.moneycontrol.com/science/70-year-old-loggerhead-turtle-rescued-after-swimming-in-circles-off-florida-keys-what-left-her-disoriented-article-14033501.html",
           "source": {
-            "name": "The Straits Times"
+            "name": "Moneycontrol.com"
           },
-          "publishedAt": "2026-09-19T08:10:00Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/9701d6d88b208b62d67d9437680bb5d8f9e8b734b0e5eb6de7a432dbb6605db1",
+          "publishedAt": "2026-09-19T10:39:02Z",
+          "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260919103655_turtle.png",
           "language": "en"
         },
         {
-          "title": "Vietnam grants citizenship to Nigerian and British nationals who adopt Vietnamese names as country welcomes foreign talent",
-          "description": "Vietnam has granted citizenship to Nigerian and British nationals who have built their careers in the Southeast Asian country, with both men adopting new Vietnamese names as part of their naturalisation. | Business Insider Africa",
-          "url": "https://africa.businessinsider.com/local/lifestyle/vietnam-grants-citizenship-to-nigerian-and-british-nationals-who-adopt-vietnamese/7nzgxtf",
+          "title": "Hits and misses from this year's festival",
+          "description": "The 51st Toronto International Film Festival arrived with tensions flaring between Canada and the United States, concerns about artificial intelligence in filmmaking and a massive evolution in how the arts organization courts industry members.",
+          "url": "https://www.cp24.com/local/toronto/2026/09/19/hits-and-misses-from-this-years-tiff-as-the-festival-draws-to-a-close/",
           "source": {
-            "name": "Business Insider Africa"
+            "name": "CP24"
           },
-          "publishedAt": "2026-09-19T08:09:20Z",
-          "image": "https://ocdn.eu/pulscms-transforms/1/q48ktkpTURBXy8yYjc3MDhkZGE4MTQxZjJiMWIxMzRlYjA5YjQ0MjQ1My5qcGeSlQMADc0CgM0BaJMFzQSwzQJ2",
+          "publishedAt": "2026-09-19T10:38:36Z",
+          "image": "https://www.cp24.com/resizer/v2/BUFTQQ4EWZNY5CUZSHFIIPSCCU.jpg?smart=true&auth=ca69508197e878804159657ecd5e69da743a5262948f4056a33682d5bc15cda4&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Turkey probes alleged Israeli-led $3 billion fraud network",
-          "description": "Turkish prosecutors say a global investment fraud network operating from Turkey was allegedly managed by Israeli citizens and targeted victims worldwide.",
-          "url": "https://www.jpost.com/international/article-909103",
+          "title": "Singapore Airlines wins the world's Best Airline award for 2026; its sixth overall title in total",
+          "description": "Singapore Airlines (SIA) has been named the World's Best Airline at the 2026 Skytrax World Airline Awards, clinching the title for the sixth time.",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/19/singapore-airlines-wins-the-world039s-best-airline-award-for-2026-its-sixth-overall-title-in-total",
           "source": {
-            "name": "The Jerusalem Post"
+            "name": "The Star"
           },
-          "publishedAt": "2026-09-19T08:09:06Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/425105",
+          "publishedAt": "2026-09-19T10:37:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/09/19/4119131.jpg",
           "language": "en"
         },
         {
-          "title": "Keely Hodgkinson felt ‘little nervous’ when wearing speedsuit during Athlos event",
-          "description": "The 24-year-old competed wearing sunglasses and a black, Catwoman-style hooded kit complete with long sleeves, a backless panel, and a ponytail slot",
-          "url": "https://www.independent.co.uk/sport/general/athletics/keely-hodgkinson-nike-speedsuit-athlos-b3052823.html",
+          "title": "Video: Kithure Kindiki's Traditional Hat Falls Off During Installation as Mt Kenya Spokesperson",
+          "description": "Kithure Kindiki is installed as Mt Kenya spokesperson before 50,000 elders, but a falling hat highlights his clash with Rigathi Gachagua's influence and rivalry.",
+          "url": "https://www.tuko.co.ke/politics/640337-video-kithure-kindikis-traditional-hat-falls-installation-mt-kenya-spokesperson/",
           "source": {
-            "name": "The Independent"
+            "name": "Tuko News"
           },
-          "publishedAt": "2026-09-19T08:09:00Z",
-          "image": "https://static.independent.co.uk/2026/09/19/09/01M2V39FHPQKHWF3GAK7CFA548.jpg?trim=18,0,18,0&width=1200&height=800&crop=1200:800",
+          "publishedAt": "2026-09-19T10:33:35Z",
+          "image": "https://cdn.tuko.co.ke/images/1200x675/cf9ebb8cb5178717.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "Nishat Group’s NexGen Auto introduces",
-          "description": "The launch marks a step in NexGen Auto’s strategy to bring globally relevant new-energy vehicles and tech to Pakistan",
-          "url": "https://tribune.com.pk/story/2630027/nishat-groups-nexgen-auto-introduces-icaur-v27-reev-in-pakistan-priced-at-pkr-12499000",
+          "title": "Dalal Street Week Ahead: Can Nifty defend the 23,000 support zone?",
+          "description": "Nifty enters the week in a corrective, range-bound setup, with 23,000–23,100 emerging as crucial support and 23,500 as the first resistance. Weak momentum indicators and subdued volatility suggest cautious trading. A sustained move above 23,500 could support a rebound, while a break below 23,000 may deepen the correction.",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-can-nifty-defend-the-23000-support-zone/articleshow/134351910.cms?from=mdr",
           "source": {
-            "name": "The Express Tribune"
+            "name": "The Economic Times"
           },
-          "publishedAt": "2026-09-19T08:07:31Z",
-          "image": "https://i.tribune.com.pk/media/images/img-35501789724240-1/img-35501789724240-1-640x480.webp",
+          "publishedAt": "2026-09-19T10:33:18Z",
+          "image": "https://img.etimg.com/thumb/msid-134352410,width-1200,height-630,imgsize-2467157,overlay-etmarkets/articleshow.jpg",
           "language": "en"
         },
         {
-          "title": "Cop killers killed in the Eastern Cape",
-          "description": "Three alleged cop killers have been killed and two others arrested in the Eastern Cape.",
-          "url": "https://www.enca.com/news-top-stories/cop-killers-killed-eastern-cape",
+          "title": "Meet two women on 2027 presidential ballot",
+          "description": "Meet Ada Okwori and Esther Nkem Okereke, the only two women among 18 presidential candidates cleared by INEC to contest the 2027 election in Nigeria.",
+          "url": "https://punchng.com/meet-two-women-on-2027-presidential-ballot-challenging-tinubu-atiku-obi/",
           "source": {
-            "name": "eNCA"
+            "name": "Punch Newspapers"
           },
-          "publishedAt": "2026-09-19T08:06:04Z",
-          "image": "https://www.enca.com/sites/default/files/styles/large/public/2026-05/GettyImages-1141031915_0.jpg.webp?itok=o1gp1iUP",
+          "publishedAt": "2026-09-19T10:32:43Z",
+          "image": "https://cdn.punchng.com/wp-content/uploads/2026/09/19112708/collage-maker-2_1789813628.webp",
           "language": "en"
         },
         {
-          "title": "Another Delhi-NCR shocker: Speeding car hits multiple people in Greater Noida, driver arrested",
-          "description": "NOIDA: A speeding car allegedly hit four people in Greater Noida's Knowledge Park area before the driver fled the scene, police said on Saturday.A vid.",
-          "url": "https://timesofindia.indiatimes.com/city/noida/another-delhi-ncr-shocker-speeding-car-hits-multiple-people-in-greater-noida-driver-held/articleshow/134348750.cms",
+          "title": "Warren Buffett found the most boring way to bet on AI",
+          "description": "Warren Buffett became the world’s most famous investor by betting on the boring stuff.",
+          "url": "https://www.cnn.com/2026/09/19/investing/warren-buffett-berkshire-ai-energy",
+          "source": {
+            "name": "CNN"
+          },
+          "publishedAt": "2026-09-19T10:30:30Z",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1140985419.jpg?c=16x9&q=w_800,c_fill",
+          "language": "en"
+        },
+        {
+          "title": "Tired of Cluttered Productivity Apps? This One’s Just a Text Document",
+          "description": "The totally free macOS app Tasks.txt makes up for missing features with sheer elegance.",
+          "url": "https://www.wired.com/story/productivity-app-tasks-txt-is-just-a-text-document/",
+          "source": {
+            "name": "WIRED"
+          },
+          "publishedAt": "2026-09-19T10:30:00Z",
+          "image": "https://media.wired.com/photos/6aacfa7099aa97f60264424c/191:100/w_1280,c_limit/091826-Productivity%20Doc.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Public Health Officers’ Strike Leaves Kenya Vulnerable to El Niño Disease Outbreaks",
+          "description": "Kenya’s public health officers have entered the 49th day of a nationwide strike as the country prepares for El Niño rains, raising concerns about weakened disease prevention and outbreak response. The officers are responsible for preventing and containing outbreaks of cholera, dysentery, malaria, and severe diarrhoeal diseases. Their duties include rapid response, contact tracing, risk",
+          "url": "https://vellum.co.ke/public-health-officers-strike-leaves-kenya-vulnerable-to-el-nino-disease-outbreaks/",
+          "source": {
+            "name": "Vellum Kenya"
+          },
+          "publishedAt": "2026-09-19T10:30:00Z",
+          "image": "https://vellum.co.ke/wp-content/uploads/2021/12/cropped-logo.png",
+          "language": "en"
+        },
+        {
+          "title": "Russia should respond to US sanctions with 'military deterrence': Dmitry Medvedev",
+          "description": "Rest of World News: Russia should respond to new US sanctions with “military deterrence”, former president Dmitry Medvedev said on Saturday, without elaborating on what m.",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/russia-should-respond-to-us-sanctions-with-military-deterrence-dmitry-medvedev/articleshow/134352135.cms",
           "source": {
             "name": "The Times of India"
           },
-          "publishedAt": "2026-09-19T08:05:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-134348750,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Moribund Government Refineries Resuscitation To Help Address Rising Cost Of Petroleum Products",
-          "description": "The rising cost of refined petroleum products can be minimized by bringing back to production, moribund public refineries, says energy expert and lecturer at",
-          "url": "https://leadership.ng/moribund-government-refineries-resuscitation-to-help-address-rising-cost-of-petroleum-products/",
-          "source": {
-            "name": "LEADERSHIP Newspapers"
-          },
-          "publishedAt": "2026-09-19T08:04:37Z",
-          "image": "https://leadership.ng/wp-content/uploads/2026/09/Arda_Sponsor_Logos_Diamond_NNPC_Update.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Mikee Quintos enjoys a fun-filled island escape in Siquijor and Siargao",
-          "description": "Kapuso star Mikee Quintos traded the magical world of Encantadia for a real-life island escape as she explored the beautiful destinations of Siquijor and Siargao with her friends. Sporting her short pixie cut and red hair, Mikee looked every bit the free-spirited traveler as she spent time at the beach, went island hopping, and took in the breathtaking scenery with her favorite people.\nMikee also took her adventure beneath the waves as she went freediving, giving off magical mermaid vibes while exploring the clear waters surrounding the islands. From swimming in Siquijor to discovering the tropical beauty of Siargao, the singer-actress",
-          "url": "https://www.gmanetwork.com/entertainment/photos/mikee-quintos-enjoys-a-fun-filled-island-escape-in-siquijor-and-siargao/28007/",
-          "source": {
-            "name": "GMA Network"
-          },
-          "publishedAt": "2026-09-19T08:04:13Z",
-          "image": "https://aphrodite.gmanetwork.com/entertainment/gallery/1200_675_00_MainImageB_19-09-2026-1604_-20260919160411.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Chelsea miss Joao Pedro... and can't stop conceding goals",
-          "description": "Chelsea's problem was defending, but with Joao Pedro ruled out through injury, scoring goals has also become an issue.",
-          "url": "https://sports.yahoo.com/articles/chelsea-miss-joao-pedro-cant-223930432.html",
-          "source": {
-            "name": "Yahoo Sports"
-          },
-          "publishedAt": "2026-09-19T08:04:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/4bac38fd1f0f9732b800bc5c6c91e99b58d43e75ca595ef31a010045af07a22f/lightyear_networkapi/resizefill_w768_h432%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fcc1fb1d62475e7eb91d9e6aa90a14cc3.jpg",
+          "publishedAt": "2026-09-19T10:28:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-134352177,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         }
       ]
