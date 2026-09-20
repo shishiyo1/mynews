@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-09-20T20:27:03.726Z",
+  "updatedAt": "2026-09-20T23:02:38.881Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "薄くて軽いがコスパはイマイチ…？ 2026年版「LG gram 16」レビュー",
+          "description": "16インチの大画面ノートPCなのに、重量はわずか1.2kg。LGの薄型軽量ノートPC「gram」シリーズらしい強みをさらに突き詰めたのが、2026年モデルの「LG gram Pro 16」です。今回米GIZMODO編集部がレビューしたのは、",
+          "url": "https://www.gizmodo.jp/article/lg-gram-pro-16-inch-2026-review-an-expensive-disappointment/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-09-20T11:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/09/14/5c517b69-18a2-4434-be9d-211059ddf164/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "RTX5060Ti搭載ゲーミングPCが21万円台で買える！ “超ド級ゲームの祭典熱狂セール”がFRONTIER公式ECサイトで開催",
+          "description": "RTX5060Ti搭載ゲーミングPCが21万円で買える。フロンティアにて“超ド級ゲームの祭典熱狂セール”が開催中。期間は2026年9月25日15時まで。",
+          "url": "https://www.famitsu.com/article/202609/88550",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-09-20T09:30:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/88550/thumbnail_LjbD.jpg?x=1280",
+          "language": "ja"
+        },
+        {
+          "title": "今年一番危険な台風 強さのピーク時に最接近 長時間の大雨・暴風に警戒",
+          "description": "台風25号は今年一番危険な台風になりそうです。今回は雨風ともに災害級になる恐れがあります。気象予報士・久能木さんの解説です。（Q.今回の一番危険なポイントはどこになってくるんでしょうか）　まず大型と",
+          "url": "https://news.tv-asahi.co.jp/news_society/articles/000534744.html",
+          "source": {
+            "name": "テレ朝NEWS"
+          },
+          "publishedAt": "2026-09-20T09:28:02Z",
+          "image": "https://news.tv-asahi.co.jp/articles_img/000534744_1200.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【台風情報】東京は21日昼過ぎから大雨警戒 外環・東名など通行止めの可能性、影響いつまで",
+          "description": "大型で強い台風25号は9月21日昼前から夜遅くにかけて関東甲信地方にかなり接近する見込みだ。東京地方では20日夜から雨が強まり、21日昼過ぎから夜遅くにかけて土砂災害に厳重な警戒が必要となる。21日は大雨に加えて夜にかけて風も強まり、東京外環道や中央道、東京湾アクアラインなど東京から各地へつながる高速道路で通行止めとなる可能性もある。雨の影響は21日夜遅くまで続き、強風などは22日はじめにかけても注意が必要となる見通しだ。",
+          "url": "https://www.fukuishimbun.co.jp/articles/-/2703346",
+          "source": {
+            "name": "福井新聞社"
+          },
+          "publishedAt": "2026-09-20T09:06:00Z",
+          "image": "https://fki.ismcdn.jp/mwimgs/1/b/-/img_1b2720cbd3b8e3fa164e6d4d8b4d1b35208979.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【台風情報】大型で強い台風25号の進路予想 関東甲信には21日昼前から夜遅くにかけ接近か 24時間予想降水量は関東・東海300ミリ、東北200ミリ（21日午後6時まで 多い所で） 河川の氾濫や暴風に厳重警戒｜FNNプライムオンライン",
+          "description": "気象庁は東日本太平洋側では22日にかけて、東北地方では21日から22日にかけて、土砂災害、低い土地の浸水、河川の増水や氾濫に厳重に警戒するよう呼びかけています。また、落雷、竜巻などの激しい突風に注意してください。伊豆諸島では21日は、うねりを伴う高波に厳重に警戒してください。東日本太平洋側では22日にかけて、うねりを伴う高波に警戒してください。東日本太平洋側では21日は、暴風に厳重に警戒してください。伊豆諸島と東海地方では、今後線状降水帯が発生して大雨災害発生の危険度が急激に高まる可能性がある…",
+          "url": "https://www.fnn.jp/articles/-/1118089",
+          "source": {
+            "name": "FNNプライムオンライン"
+          },
+          "publishedAt": "2026-09-20T08:30:00Z",
+          "image": "https://fnn.ismcdn.jp/mwimgs/b/4/600/img_b437098e1f789fd3806475b4645a86d0222408.jpg",
+          "language": "ja"
+        },
         {
           "title": "アイオーデータのゲーミングモニター「GigaCrysta」は“スペック表ではわからない”気遣い満載。画面酔いも低減してくれるし、設定の専門用語も教えてくれる",
           "description": "「日本メーカーのGigaCrysta」という点を強調しており、まさに日本メーカーらしい細かい気配りを感じることができた。",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-09-20T06:00:00Z",
           "image": "https://ascii.jp/img/2026/09/20/4528400/xl/fa013ce3852d2539.png?20200122",
           "language": "ja"
-        },
-        {
-          "title": "沖縄知事選で大敗の玉城氏、2期8年の失政 さらば「オール沖縄」県政 日曜に書く 論説委員・川瀬弘至",
-          "description": "「人柄は良いのだけれど…」\n産経新聞那覇支局長だった頃（令和2～5年）、しばしば耳にした玉城デニー沖縄県知事への評価だ。\n確かに「人柄」は良かった。記者会見で批判的な質問を投げかけても、丁寧に答えてくれた（少なくとも言葉遣いは）。",
-          "url": "https://www.sankei.com/article/20260920-H4PEZBUAPJODVCTWOSDY3X6YMQ/",
-          "source": {
-            "name": "産経ニュース"
-          },
-          "publishedAt": "2026-09-20T06:00:00Z",
-          "image": "https://www.sankei.com/resizer/v2/JUYOYR37JFMMBMEINTSLEJTCUU.jpg?auth=e83aa8149ef912a9b14935a5c29dbe43a0deab0577fc53a8aa579b6359804052&quality=50&smart=true&width=1200&height=675",
-          "language": "ja"
-        },
-        {
-          "title": "台風２５号の影響により関東地方・東北地方では大雨の予報が出ております高速道路は２０日以降、広範囲で通行止めとなる可能性があります！～車での外出をお控えください！～（９月２０日 １４時３０分発表）",
-          "description": "NEXCO東日本からご利用に関する重要なお知らせです。「台風２５号の影響により関東地方・東北地方では大雨の予報が出ております高速道路は２０日以降、広範囲で通行止めとなる可能性があります！～車での外出をお控えください！～（９月２０日　１４時３０分発表）」。【NEXCO東日本オフィシャルサイト】NEXCO東日本（東日本高速道路株式会社）は関東以北、長野、新潟から北海道までの高速道路を管理しています。",
-          "url": "https://www.e-nexco.co.jp/news/important_info/2026/0920/rpa_00016639.html",
-          "source": {
-            "name": "NEXCO 東日本"
-          },
-          "publishedAt": "2026-09-20T05:55:17Z",
-          "image": "https://www.e-nexco.co.jp/images/common/og_image.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "1998年版『GTO』出演の希良梨、近影＆活動再開を発表 ステージ3のがん、病名・闘病を明かし「共存しながら、生きていく道を」",
-          "description": "ニュース｜　1998年放送のドラマ『GTO』などに出演した俳優の希良梨（45）が20日、自身のインスタグラムを更新し、活動再開すると明らかにした。　希良梨は近影とともに「骨盤リンパ節癌ステージ3ではありますが、完治いたしましたことを、こちらでご報告させていただきます。前回の診察、検査でも再発転移は見られませんでした」と説明。",
-          "url": "https://www.oricon.co.jp/news/2481732/full/",
-          "source": {
-            "name": "oricon.co.jp"
-          },
-          "publishedAt": "2026-09-20T05:44:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2482000/2481732/20150918_150646_p_o_7798.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "マウスコンピューターブースで大盛り上がり！ 「僕、人生変わりました」PCを使い倒すたこまる×社築×マフィア梶田のぶっちゃけトーク",
-          "description": "東京ゲームショウのマウスコンピューターブースで「【PCを語る！】たこまる×社築×マフィア梶田のぶっちゃけトーク」と題したステージが開催。3人によるPCのPCに関する失敗談やあるある話で大いに盛り上がった。",
-          "url": "https://ascii.jp/elem/000/004/436/4436511/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-09-20T05:00:00Z",
-          "image": "https://ascii.jp/img/2026/09/19/4528348/xl/e7a80505a5ef932e.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "トランプ大統領、「人工知能の名称変更」を提案──3案から支持者に投票求める",
-          "description": "ドナルド・トランプ大統領は、「人工知能（Artificial Intelligence）」という呼び名を変えようとしている。AI業界の規制を巡る議論が激しさを増し、AIが社会に及ぼす影響について、期待より懸念を抱く人が多いとする世論調査も出...",
-          "url": "https://forbesjapan.com/articles/detail/105108",
-          "source": {
-            "name": "Forbes JAPAN"
-          },
-          "publishedAt": "2026-09-20T04:00:00Z",
-          "image": "https://images.forbesjapan.com/media/article/105108/images/main_image_1fd757ba83e887c0d352f7ea8f7bc6b54ea7b89a.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Leaky air traffic control tower at Dumfries museum to be repaired",
-          "description": "Visitor safety and displays are being put at risk by water getting into the Dumfries Aviation Museum.",
-          "url": "https://www.bbc.co.uk/news/articles/c3grvz7xgnxzo",
+          "title": "Scientists Unleash Franken-Mice With Brains That Are Nearly Half Human",
+          "description": "Scientists grew mice with part of their brain missing and filled the gap with human neurons, resulting in brains that were nearly half human.",
+          "url": "https://futurism.com/health-medicine/scientists-unleash-franken-mice-with-brains-part-human",
           "source": {
-            "name": "BBC"
+            "name": "futurism.com"
           },
-          "publishedAt": "2026-09-20T08:27:01Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f5b/live/d8312ca0-b346-11f1-91a3-393282eb9f17.jpg",
+          "publishedAt": "2026-09-20T11:02:00Z",
+          "image": "https://futurism.com/wp-content/uploads/2026/09/scientists-unleash-franken-mice-with-brains-that-are-part-human.jpg?quality=85&w=1200",
           "language": "en"
         },
         {
-          "title": "control bushfire burns in Victoria's Central Gippsland",
-          "description": "Residents of Golden Beach, Paradise Beach, Seacombe and Dutson Downs are being advised to \"monitor conditions\" as an out-of-control bushfire burns in the area.",
-          "url": "https://www.abc.net.au/news/2026-09-20/bushfire-seacombe-central-gippsland-victoria/107174124",
+          "title": "China’s stranglehold on rare earths must be ended, says hopeful supplier to EU",
+          "description": "Rafael Moreno, whose company has opened demo plant in Brazil, says market is ‘nervous’ as Trump-Xi summit looms",
+          "url": "https://www.theguardian.com/environment/2026/sep/20/china-stranglehold-rare-earths-hopeful-supplier-eu-viridis",
           "source": {
-            "name": "abc.net.au"
+            "name": "theguardian.com"
           },
-          "publishedAt": "2026-09-20T08:25:25Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/4d520a1e9f450383e2ce8658ce0066d9?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=192&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-09-20T11:01:00Z",
+          "image": "https://i.guim.co.uk/img/media/c12b92282e3d33a73c300fc65c7842f74ff58cd8/134_0_1000_800/master/1000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0c9b43d37f8a09c08b794b12ff139bb",
           "language": "en"
         },
         {
-          "title": "Lille predicted XI v OGC Nice: Ayase Ueda to start in place of Olivier Giroud",
-          "description": "Lille OSC are close to full strength as they head down to the South of France to face OGC Nice on Sunday afternoon. Tanguy Nianzou, who continues to grapple with fitness issues, and Hamza Igamane, who...",
-          "url": "https://sports.yahoo.com/articles/lille-predicted-xi-v-ogc-082500572.html",
+          "title": "Ebbw Vale beat Wizards in perfect start to SRC",
+          "description": "Ebbw Vale, Newport and Cardiff extend winning starts to the 2026-27 Super Rygbi Cymru campaign.",
+          "url": "https://ca.sports.yahoo.com/news/ebbw-vale-beat-wizards-perfect-110047683.html",
           "source": {
             "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-09-20T08:25:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/4d9dcbb1e8ed56e43652f1137a6cbe7096bd5b553531b93ede73b9e567ef84d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fget_french_football_news_702%2F8530d4d8fc8f4f70068361d257a45229.jpg",
+          "publishedAt": "2026-09-20T11:00:47Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/a7cc1aaebc41401b793e0509cc9476590fc1dc53bbd47c8814a037d8c4efd11d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fcf60219f7a4bd7827e31fe8926cfaf6a.jpg",
           "language": "en"
         },
         {
-          "title": "'For me this is the hardest thing' - Hansi Flick opens up on Barcelona's surprise struggle despite maintaining perfect La Liga start in Sevilla comeback",
-          "description": "Hansi Flick reflected on Barcelona's squad depth management and goalkeeper decision following their 3-1 La Liga comeback win against Sevilla.",
-          "url": "https://www.goal.com/en-gh/lists/hansi-flick-barcelona-sevilla-wojciech-szczesny-dominik-livakovic/blt2ba72e79261cbe93",
+          "title": "Bayelsa APC Chairman, Ogoriba, denounces ‘Rainbow Coalition’",
+          "description": "ads…Says party has structures to deliver Tinubu in 2027 Chairman of the All Progressives Congress (APC) in Bayelsa State, Warman",
+          "url": "https://businessday.ng/life/article/bayelsa-apc-chairman-ogoriba-denounces-rainbow-coalition/",
           "source": {
-            "name": "Goal.com"
+            "name": "Business News Nigeria"
           },
-          "publishedAt": "2026-09-20T08:23:31Z",
-          "image": "https://assets.goal.com/images/v3/getty-2296109569/crop/MM5DGOJRHE5DEMRQGQ5G433XMU5DAORQ/GettyImages-2296109569.jpg",
+          "publishedAt": "2026-09-20T11:00:30Z",
+          "image": "https://cdn.businessday.ng/wp-content/uploads/2026/09/Warman-Weri-Ogoriba.jpg",
           "language": "en"
         },
         {
-          "title": "Liverpool city centre stabbing live as three men taken to hospital",
-          "description": "Officers have cordoned off Tithebarn Street and Tempest Hey, with several police cars around the cordon",
-          "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/liverpool-city-centre-police-live-34643992",
+          "title": "Confirmed Starting XI",
+          "description": "Leeds United hosts Crystal Palace in the Premier League. Get lineups, team news and injury updates for both sides at Elland Road.",
+          "url": "https://heavy.com/sports/soccer/premier-league/leeds-united-crystal-palace-lineup-today-team-news-confirmed-starting-xi/",
           "source": {
-            "name": "Liverpool Echo"
+            "name": "heavy.com"
           },
-          "publishedAt": "2026-09-20T08:23:22Z",
-          "image": "https://i2-prod.liverpoolecho.co.uk/article34643994.ece/ALTERNATES/s1200d/0_WhatsApp-Image-2026-09-20-at-090627jpeg.jpg",
+          "publishedAt": "2026-09-20T11:00:20Z",
+          "image": "https://heavy.com/wp-content/uploads/2026/09/GettyImages-2295316132.jpg?quality=65&strip=all&w=1200",
           "language": "en"
         },
         {
-          "title": "The cost of missing polio vaccination: A father’s regret, a family’s loss",
-          "description": "Fakhar-e-Alam PESHAWAR, Sept 20 (APP)::As the sun dips behind the Koh-e-Sufaid mountains of Khyber, 70-year-old Jamsheed Ali wheels his son to the edge of a",
-          "url": "https://www.app.com.pk/foreign-correspondent/the-cost-of-missing-polio-vaccination-a-fathers-regret-a-familys-loss/",
+          "title": "Michigan town's residents claim foreign-born influx upended neighborhood",
+          "description": "Warren, Michigan, residents say Muslim immigrants and a nearby Islamic center have created dangerous traffic and parking chaos, claiming police and Mayor Lori Stone refuse to help.",
+          "url": "https://www.foxnews.com/politics/working-class-americans-say-town-next-dearborn-theyve-had-enough",
           "source": {
-            "name": "| Associated Press Of Pakistan"
+            "name": "Fox News"
           },
-          "publishedAt": "2026-09-20T08:22:36Z",
-          "image": "https://www.app.com.pk/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-20-at-12.45.52-PM.jpeg",
+          "publishedAt": "2026-09-20T11:00:06Z",
+          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/justin-tye-mosque.jpg",
           "language": "en"
         },
         {
-          "title": "'For me this is the hardest thing' - Hansi Flick opens up on Barcelona's surprise struggle despite maintaining perfect La Liga start in Sevilla comeback",
-          "description": "Hansi Flick reflected on Barcelona's squad depth management and goalkeeper decision following their 3-1 La Liga comeback win against Sevilla.",
-          "url": "https://www.goal.com/en-ug/lists/hansi-flick-barcelona-sevilla-wojciech-szczesny-dominik-livakovic/blt2ba72e79261cbe93",
+          "title": "Busoga development plan in the works after Museveni di",
+          "description": "Nabbanja said President Museveni had given her three weeks to have the plan developed.",
+          "url": "https://www.newvision.co.ug/category/news/busoga-development-plan-in-the-works-after-mu-NV_240970_092026",
           "source": {
-            "name": "Goal.com"
+            "name": "NewVision.co.ug"
           },
-          "publishedAt": "2026-09-20T08:21:25Z",
-          "image": "https://assets.goal.com/images/v3/getty-2296109569/crop/MM5DGOJRHE5DEMRQGQ5G433XMU5DAORQ/GettyImages-2296109569.jpg",
+          "publishedAt": "2026-09-20T11:00:05Z",
+          "image": "https://newvision-media.s3.amazonaws.com/cms/4bf704cb-6a99-4b8a-840b-8137b82bbf6d.jpg",
           "language": "en"
         },
         {
-          "title": "Botswana fails to protect research elephants from trophy hunters",
-          "description": "The killings of two satellite-collared elephant bulls raise a much larger question than whether their collars were somehow overlooked: what is the point of declaring research animals protected if the state institutions responsible for wildlife cannot prevent hunters from killing them?",
-          "url": "https://www.dailymaverick.co.za/article/2026-09-20-a-collar-was-not-enough-botswanas-failure-to-protect-its-research-elephants-from-trophy-hunters/?dm_source=blocks-category&dm_medium=card-link&dm_campaign=inform&dm_position=1",
+          "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI debate",
+          "description": "Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI.",
+          "url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
           "source": {
-            "name": "Daily Maverick"
+            "name": "CNBC"
           },
-          "publishedAt": "2026-09-20T08:18:45Z",
-          "image": "https://cdn.dailymaverick.co.za/i/ZUD9DP_OAl2X8MP74MTvKJ2F3i0=/800x0/smart/filters:strip_exif()/file/attachments/orphans/Oped-Cruise-Botswana-elephants1_539918.jpg",
+          "publishedAt": "2026-09-20T11:00:01Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
           "language": "en"
         },
         {
-          "title": "‘Penalty every day of the week’: Huge drama as THREE calls seal NRL finals boilover",
-          "description": "‘Penalty every day of the week’: Huge drama as THREE calls seal NRL finals boilover",
-          "url": "https://www.foxsports.com.au/nrl/nrl-premiership/nrl-2026-live-updates-new-zealand-warriors-vs-newcastle-knights-score-team-news-preliminary-final-fixtures-dates/news-story/b75b3fb75e7251904d7f43c2e19ec637",
+          "title": "Air Max TL 2.5 'CDG Black': Prices, History and Where to Buy",
+          "description": "The Comme des Garçons Homme Plus Air Max TL 2.5 ‘Black’ retailed at $290 in 2024 and now asks far more than its white twin. Here is where to buy.",
+          "url": "https://shopping.yahoo.com/style/shoes/articles/air-max-tl-2-5-110000892.html",
           "source": {
-            "name": "foxsports.com.au"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-09-20T08:18:43Z",
-          "image": "https://content.api.news/v3/images/bin/56114d43a7b634aa94719b93065815fc",
+          "publishedAt": "2026-09-20T11:00:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/873fdc26b891fbcb3af0a4cb690a66a8091aec750726e85dd3ef6ea93df71ed9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2F85ef40e0880af24694a43cad40a51a02.png",
           "language": "en"
         },
         {
-          "title": "Factory tragedy as machine operator killed by flying metal in Nairobi",
-          "description": "Joseph Mutiso was accidentally struck by a sharp metal plate while operating a wood-cutting machine at a factory along Old Mombasa Road.",
-          "url": "https://www.the-star.co.ke/news/2026-09-20-factory-tragedy-as-machine-operator-is-killed-by-metal",
+          "title": "‘A joke’ - Sevilla boss baffled by Raphinha Ballon d’Or snub after Barcelona star bags hat-trick",
+          "description": "The Brazilian stole the show again at the Ramon Sanchez-Pizjuan.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133020/evilla-boss-baffled-raphinha-ballon-dor-snub",
           "source": {
-            "name": "the-star.co.ke"
+            "name": "barcablaugranes.com"
           },
-          "publishedAt": "2026-09-20T08:17:02Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/09/c96c8aea-86ec-42bc-83ea-7e7b711e8c30.webp?1789894581610",
+          "publishedAt": "2026-09-20T11:00:00Z",
+          "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/09/gettyimages-2295541515.jpg?quality=90&strip=all&crop=0%2C10.723811899896%2C100%2C78.552376200208&w=1200",
           "language": "en"
         }
       ]
