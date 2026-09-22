@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-09-22T16:27:43.553Z",
+  "updatedAt": "2026-09-22T20:58:27.440Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "Pixel 11 Pro XLの原神、描画設定の変更でカクつき軽減：実測が示すANGLE移行の課題",
-          "description": "Pixel 11 Pro XLの原神で、ANGLEからNativeへの切り替えによりカクつきが減ったとの実測が出た。公式実装資料から仕組みを読み解き、改善の限界と9月更新の対象機種、設定の戻し方を確かめる。",
-          "url": "https://xenospectrum.com/pixel11-genshin-angle-stutter-native/",
+          "title": "NASAのローマン宇宙望遠鏡が初の星明かりを捉える 主力カメラの試験画像を公開",
+          "description": "NASAのローマン宇宙望遠鏡が主力カメラで初の星明かりを捉え、2027年初めの科学画像公開に向けた調整を進めている。",
+          "url": "https://www.zaikei.co.jp/article/20260922/870857.html",
           "source": {
-            "name": "XenoSpectrum"
+            "name": "財経新聞"
           },
-          "publishedAt": "2026-09-22T02:55:00Z",
-          "image": "https://media.xenospectrum.com/large_pixel_11_genshin_angle_gaming_a786212ea6.webp",
+          "publishedAt": "2026-09-22T08:15:29Z",
+          "image": "https://www.zaikei.co.jp/files/general/20260922171529KHO0big.png",
           "language": "ja"
         },
         {
-          "title": "約20万円でも、VRで遊びたい人には刺さる。「Steam Frame」を使ってわかったこと",
-          "description": "ゲーム特化型VRヘッドセット「Steam Frame」のレビュー。圧倒的な軽さと快適な装着感、最高のPC VRストリーミング体験の魅力を徹底解説します。",
-          "url": "https://www.gizmodo.jp/article/2609-steam-frame-review/",
+          "title": "この低音むっちゃ面白い！ 耳をふさがないのに極太ベースが響く、英国・個性派イヤホンの音に夢中になった！",
+          "description": "珍しいイントラコンカ型でさらに珍しい重低音。「着け心地の良さ」と「圧倒的な低音」、この両立は永遠の課題だと諦めかけていた私に、まさに「救世主」とも呼べる存在が現れた。",
+          "url": "https://ascii.jp/elem/000/004/436/4436597/",
           "source": {
-            "name": "Gizmodo"
+            "name": "ASCII.jp"
           },
-          "publishedAt": "2026-09-22T02:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/09/17/cbdd6417-0761-4644-8943-34c00886c6e3/original.jpg?w=1200&h=630",
+          "publishedAt": "2026-09-22T08:00:00Z",
+          "image": "https://ascii.jp/img/2026/09/22/4528685/xl/df6eaa5c87ac9725.jpg?20200122",
           "language": "ja"
         },
         {
-          "title": "OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言 「RSIはまだ起きていない」",
-          "description": "た。各国のAI安全性研究所の連携などを提案し、制御不能な自律的進化を防ぐ枠組みを求める。アルトマンCEOは国連安保理の公開会合でも発言する予定だ。",
-          "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001670/",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-09-22T01:51:09Z",
-          "image": "https://www.itmedia.co.jp/news/article/ogp/2609/22/2000001670/10007199/2048",
-          "language": "ja"
-        },
-        {
-          "title": "とろサーモン久保田、“芸能界が終わる地獄絵図”を6660万円で販売「ぜひマスコミの方に買っていただきたい」",
-          "description": "ニュース｜　お笑いコンビ・とろサーモンの久保田かずのぶこと久保田和靖が22日、東京・西武渋谷店で30日まで開催される個展『なぐりがき～猫狂』囲み取材に登壇した。同じくアート芸人でもあるくっきー！、しずちゃんも応援にかけつけた。　2022年に開催した初の個展『なぐりがき』は、1円から100万円まで全57作品が完売。4年ぶりとなる今回の個展では「猫狂」をテーマに猫好きである久保田が描いた原画作品を展示、販売する。　画家としては「相方がお芝居をやり始めたときに絵を描くのがルーティン。今回も1ヶ月くらいお芝居をしていて、漫才できなかったときになぐり描いてる。関西で中丸くんとやってる番組では、ダウンタウンさんの絵とかもあるんですけど売っていいかとか許可取り中です」と報告。　久保田の作品についてくっきー！は「僕にはないタッチなので、すごいなと思います」と感心。しずちゃんも「4年前も見せていただいたんですけど、より精度があがってポップ感がある。私はこんなのできへん」とその完成度に驚く。久保田は「批判的になるのも失礼ですが、一般の方から高額な投げ銭をしてもらっている人間よりかは、キャンバスに絵の具で才能を落としたので…」と毒を吐いて笑いを誘った。",
-          "url": "https://www.oricon.co.jp/news/2481891/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-09-22T01:05:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2482000/2481891/20260922_094906_p_o_82184934.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "iPhone Duoが、Androidの折りたたみスマホより優れている6つのポイント",
-          "description": "これまでの折りたたみスマホは、ハードウェアかソフトウェアのどちらかで1つ（あるいは2つ、3つ）の妥協を強いられる、いわば発展途上の製品だと感じていたのです。\nしかしiPhone Duoの登場で、よ",
-          "url": "https://news.yahoo.co.jp/articles/bd77597fb3ee52f2230c502d8b099087250661d1",
+          "title": "自転車にはねられ女性死亡 男逮捕",
+          "description": "兵庫県明石市で今月20日、83歳の女性が自転車にはねられ死亡したひき逃げ事件で警察はきのう＝21日、51歳の男を逮捕しました。",
+          "url": "https://news.yahoo.co.jp/pickup/6596152",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-09-22T00:01:01Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00000001-biz_lifeh-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-09-22T07:41:45Z",
+          "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/22/7203042a6e198025ea955237f72b452f797441d96cfed89550557a27a2952c3c.jpg",
           "language": "ja"
         },
         {
-          "title": "iPhone Duoが、Androidの折りたたみスマホより優れている6つのポイント",
-          "description": "iPhone DuoがAndroidの折りたたみスマホより優れている6つのポイントを徹底解説。シームレスな操作性や圧倒的な完成度の秘密をご紹介します。",
-          "url": "https://www.lifehacker.jp/article/2609six-ways-the-iphone-duo-edges-out-android-foldables/",
+          "title": "“NEOGEO AES+”で最新のNEOGEOを試遊。HDMI端子に対応し、過去のNEOGEOとの互換性もアリ。『サムスピ零SP』の修正も予定。開発陣の解説をお届け【TGS2026】",
+          "description": "PLAION REPLAIより2027年9月16日発売予定の“NEOGEO AES+”。開発陣の解説を交えて、本作の魅力をご紹介！",
+          "url": "https://www.famitsu.com/article/202609/88812",
           "source": {
-            "name": "lifehacker.jp"
+            "name": "famitsu.com"
           },
-          "publishedAt": "2026-09-22T00:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/09/21/48e7e5c9-80dc-403e-a945-58745d6dfdf5/original.png?w=1200&h=630&f=jpg",
+          "publishedAt": "2026-09-22T07:00:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/88812/thumbnail_TFEj.png?x=1280",
           "language": "ja"
         },
         {
-          "title": "timelesz、猪俣周杜容疑者の逮捕を受け個人ブログで謝罪 菊池風磨「胸が痛み、言葉が詰まります」",
-          "description": "ニュース｜　8人組グループ・timeleszが21日深夜、メンバーの猪俣周杜容疑者（25）が傷害の疑いで逮捕されたことを受け、有料会員向けブログを残る7人で一斉に更新。ファンや関係者に謝罪した。　菊池風磨は、まだ捜査の結果が出ていないことから「我々は待つことしかできません」としつつも「如何なる捜査の結果だとしましても、メンバーが逮捕される事態に陥ってしまった事、胸が痛み、言葉が詰まります。非常に残念で不甲斐なく、慙愧（ざんき）に堪えません」と心境を吐露。",
-          "url": "https://www.oricon.co.jp/news/2481886/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-09-21T23:56:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2482000/2481886/20260919_145346_o_64037696.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "朝ドラ「風、薫る」ツヤ（東野絢香）、セツ（村上穂乃佳）らと運命の試験に挑む 第128回あらすじ",
-          "description": "見上愛と上坂樹里がダブル主演を務める連続テレビ小説「風、薫る」（NHK総合・月～土、午前8時～ほか）は、23日に最終週（第26週）「道標」第128回が放送。",
-          "url": "https://www.cinematoday.jp/news/N0156960",
-          "source": {
-            "name": "シネマトゥデイ"
-          },
-          "publishedAt": "2026-09-21T23:15:00Z",
-          "image": "https://img.cinematoday.jp/a/FQzlqfsp7WFp/_size_r1200x630/_v_1789635521/main.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "グーグル、新カテゴリーノートPC「Googlebook」発売 899ドルから",
-          "description": "Googleは21日(米国時間)、新しいノートPCプラットフォーム「Googlebook」を米国で販売開始した。Acer、ASUS、Dell、HP、Lenovoらから対応機種が発売され、価格は899ドルから。",
-          "url": "https://www.watch.impress.co.jp/docs/news/2142583.html",
-          "source": {
-            "name": "Impress Watch"
-          },
-          "publishedAt": "2026-09-21T23:00:00Z",
-          "image": "https://www.watch.impress.co.jp/img/ipw/list/2142/583/g07.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "アングル：「チャイナプラスワン」に逆流の兆し、中国回帰を選ぶメーカーの事情",
-          "description": "米国の高関税を回避するため、生産や調達を中国国外に移し始めてから１年。一部の企業は、中国の製造業のエコシステムを他国で再現するのは容易ではないことを痛感し、生産を中国へ戻し始めている。",
-          "url": "https://www.reuters.com/jp/markets/japan/ALS2X4L6EFJYVOXR4YAPKSYDAY-2026-09-21/",
+          "title": "習氏、トランプ氏に台湾武器売却停止要請へ 見返りにイラン圧力の用意",
+          "description": "中国の習近平国家主席は今週のワシントン訪問でトランプ米大統領に対し、１９８２年の米中共同声明に基づいて台湾へ​の武器売却を停止するよう迫る見通しだと、複数の関係筋が明らか‌にした。習氏は、２４日の首脳会談の翌日に予定する 米国立公文書館訪問の際に要請を行う可能性がある。見返りとして、イランに圧力をかけることに協力する用意があるという。",
+          "url": "https://www.reuters.com/jp/world/taiwan/IRSVZUNFCRPRVNCU3DYIO4MONY-2026-09-22/",
           "source": {
             "name": "Reuters"
           },
-          "publishedAt": "2026-09-21T22:54:05Z",
-          "image": "https://www.reuters.com/resizer/v2/L4Q3ULTGMVL5DHT47N6XGCPVOA.jpg?auth=e1b7e3d53fa071a07992d2da462e63545a74304c772225dd13db1d39d7e229f0&height=1005&width=1920&quality=80&smart=true",
+          "publishedAt": "2026-09-22T06:58:00Z",
+          "image": "https://www.reuters.com/resizer/v2/S226S35WRVM3FA7VXSWUYDGMBU.jpg?auth=b9c194e2c67d971b2221c5fc6c7e9454c3ee1de5be799e10612c264c5909bcd6&height=1005&width=1920&quality=80&smart=true",
+          "language": "ja"
+        },
+        {
+          "title": "timelesz・猪俣周杜容疑者逮捕で “CM削除” ドミノ…セクゾから「10年来の関係」AOKIもポスター撤去、広報が明かした対応は",
+          "description": "9月19日、8人組アイドルグループ「timelesz」の猪俣周杜（しゅうと）容疑者が、傷害容疑で逮捕され、グループが出演していたCMに影響を及ぼしている。この騒動によって、Sexy Zone時代か",
+          "url": "https://news.yahoo.co.jp/articles/fedecdac1cc2e3fe5bd17947101057113f7af3ce",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-09-22T05:55:24Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00000022-flash-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "「天然じゃない」timelesz猪俣周杜 傷害逮捕の1年前に指摘されていた“裏の顔”…グループは「3年以内にリーダー決めないと終わる」と“予言”も",
+          "description": "9月19日に傷害容疑で逮捕された8人組アイドルグループ「timelesz」の猪俣周杜容疑者（25）。所属事務所のSTARTO ENTERTAINMENTは同日に猪俣容疑者の謹慎と活動休止を発表したが",
+          "url": "https://news.yahoo.co.jp/articles/b794d72cafd456470ea294953456ac7b5bc65efb",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-09-22T05:20:34Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00000021-jisin-000-8-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "CNNなど3社がトランプ政権を提訴、主要メディアは代表取材を中止",
+          "description": "米CNN、MS NOW、ポリティコの報道3社は21日、ホワイトハウスでの取材を禁止されたことを受け、トランプ政権を提訴すると表明した。この発表の後、アメリカの主要テレビ局各社は、大統領関連の行事を主要報道機関が代表取材するいわゆる「プール」取材を取りやめた。大統領はこの日、国連総会に出席するため、米首都ワシントンからニューヨークへ向かった。",
+          "url": "https://www.bbc.com/japanese/articles/cm62ex2gvkd1o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-09-22T05:00:42Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/5aa1/live/5ce86ed0-b60e-11f1-a054-8fb9a369004b.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "皇后さま、バッグや靴までロイヤルブルー 天皇陛下のネクタイとの“おそろいコーデ”【23万いいね】",
+          "description": "天皇皇后両陛下は9月19日～20日、「第20回アジア競技大会（2026/愛知・名古屋）」および地方事情視察のため、愛知県を訪問。宮内庁のInstagramでは両陛下による“リンクコーデ”などが公開され、関連投稿には総数で42万件以上の“いいね”が寄せられています。画像出典：宮内庁 Instagram…",
+          "url": "https://nlab.itmedia.co.jp/cont/articles/4025163/",
+          "source": {
+            "name": "ねとらぼ"
+          },
+          "publishedAt": "2026-09-22T05:00:00Z",
+          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/12/1764593406_kunaicho_jp.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【日本ハム】中島卓也「18年間ありがとうございました」「将来的には指導者に」通路に花束並ぶ",
+          "description": "今季限りでの現役引退を発表している日本ハム中島卓也内野手（35）が、試合前にエスコンフィールドで会見に臨んだ。背番号9のユニホームを着て登場。まずは「今シーズ… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/baseball/news/202609220000291.html",
+          "source": {
+            "name": "日刊スポーツ"
+          },
+          "publishedAt": "2026-09-22T04:44:19Z",
+          "image": "https://www.nikkansports.com/baseball/news/img/202609220000291-w500_0.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Tollyjoy says decision to close after 55 years not driven by financial considerations",
-          "description": "The Singapore baby-care brand said Tollyjoy products are no longer being sold in Singapore, although some remain available in Malaysia.",
-          "url": "https://www.channelnewsasia.com/singapore/tollyjoy-baby-brand-closure-not-driven-financial-considerations-6401211",
+          "title": "Full List: UK Names 31 Countries Whose Citizens Qualify For Frontier Worker Permit",
+          "description": "The UK has listed 31 European countries whose citizens may qualify for a Frontier Worker permit, with no application fee or immigration health surcharge required.",
+          "url": "https://yen.com.gh/people/312330-full-list-uk-names-31-countries-citizens-qualify-frontier-worker-permit/",
           "source": {
-            "name": "CNA"
+            "name": "Yen News"
           },
-          "publishedAt": "2026-09-22T04:27:41Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--PyLC3VDY--/c_crop,h_404,w_720,x_0,y_368/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/22/tollyjoy_pic.jpg?itok=P7U0ASso",
+          "publishedAt": "2026-09-22T08:57:47Z",
+          "image": "https://cdn.yen.com.gh/images/1200x675/e4eca9268e8634b7.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "A day after royal revocation, still 'business as usual' for N Sembilan MB and exco, aide says",
-          "description": "They are carrying out scheduled duties, still have access to offices, adds MB's press sec.",
-          "url": "https://www.malaysiakini.com/news/885502-a-day-after-royal-revocation-still-business-as-usual-for-n-sembilan-mb-and-exco-aide-says",
+          "title": "‘Deadly hazards’: Behind Sudan gold mine collapse, a wartime desperation",
+          "description": "Nearly 100 people have died in recent days in the scramble for gold, whose value has grown in a shattered economy.",
+          "url": "https://www.aljazeera.com/news/2026/9/22/deadly-hazards-behind-sudan-gold-mine-collapse-a-wartime-desperation",
           "source": {
-            "name": "Malaysiakini"
+            "name": "Al Jazeera"
           },
-          "publishedAt": "2026-09-22T04:27:00Z",
-          "image": "https://s.malaysiakini.com/i/sdCfZwc0xD7BNGiCDHTP82Rcvk8=/1200x0/filters:strip_exif()/file/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2026/08/81975cab9814f7e08f94d544b03c5af3.jpg",
+          "publishedAt": "2026-09-22T08:57:25Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26144602350693-1790064631.jpg?resize=1920%2C1440",
           "language": "en"
         },
         {
-          "title": "ISRO-ESA broaden co-operation agreement to include human and robotic exploration",
-          "description": "ISRO Chairperson Dr V. Narayanan met ESA Director General Josef Aschbacher on the sidelines of the International Space Summit, which was held on September 9-10 in Paris, to sign the documents.",
-          "url": "https://www.thehindu.com/sci-tech/isro-esa-broaden-co-operation-agreement-to-include-human-and-robotic-exploration/article71492220.ece",
+          "title": "Leading Chinese stainless mills cut FeCr bids for October",
+          "description": "Major Chinese stainless steel mills have lowered their procuremen...",
+          "url": "https://www.mysteel.net/analysis/5142164-leading-chinese-stainless-mills-cut-fecr-bids-for-october",
           "source": {
-            "name": "thehindu.com"
+            "name": "Mysteel"
           },
-          "publishedAt": "2026-09-22T04:26:12Z",
-          "image": "https://th-i.thgim.com/public/incoming/a58wh0/article71494167.ece/alternates/LANDSCAPE_1200/PTI12_05_2024_000168B.jpg",
+          "publishedAt": "2026-09-22T08:57:01Z",
+          "image": "https://cs.mysteelcdn.com/web/pc/english-station-static/img/og-image.9aff406.png",
           "language": "en"
         },
         {
-          "title": "Earl Spencer doubles down on claim King 'hissed' five words after Diana's death",
-          "description": "Earl Spencer claims the King 'hisses' insensitive words to him after Diana's death as he accuses Charles of 'gaslighting' him",
-          "url": "https://www.express.co.uk/news/royal/2250559/earl-spencer-now-claims-king",
+          "title": "Botswana repatriates abandoned infant from Russia",
+          "description": "A Botswana infant who was abandoned at a hospital in Moscow shortly after birth has been safely repatriated following a joint effort involving local authorities and Russian counterparts.",
+          "url": "https://www.mmegi.bw/news/botswana-repatriates-abandoned-infant-from-russia/news",
           "source": {
-            "name": "Daily Express"
+            "name": "Mmegi Online"
           },
-          "publishedAt": "2026-09-22T04:26:00Z",
-          "image": "https://cdn.images.express.co.uk/img/dynamic/106/1200x630/7152895.jpg",
+          "publishedAt": "2026-09-22T08:56:00Z",
+          "image": "https://www.mmegi.bw/mmegi/uploads/images/2026/09/22/180669.jpg",
           "language": "en"
         },
         {
-          "title": "Impact of Climate Change on Indian Children: Health, Education, and Safety Challenges",
-          "description": "Explore how climate change affects children's health, education, and safety in India, highlighting urgent needs for comprehensive climate action.",
-          "url": "https://news.fundsforngos.org/2026/09/22/climate-change-impact-indian-children/",
+          "title": "Police warn motorists as cyclist, pedestrian accidents rise",
+          "description": "Police have called on motorists to exercise greater caution around pedestrians, cyclists and other road users as accidents involving vulnerable road users are on the rise.",
+          "url": "https://www.mmegi.bw/news/police-warn-motorists-as-cyclist-pedestrian-accidents-rise/news",
           "source": {
-            "name": "fundsforNGOs News"
+            "name": "Mmegi Online"
           },
-          "publishedAt": "2026-09-22T04:24:35Z",
-          "image": "https://news.fundsforngos.org/wp-content/uploads/2024/10/cropped-icon-32x32.png",
+          "publishedAt": "2026-09-22T08:55:59Z",
+          "image": "https://www.mmegi.bw/mmegi/uploads/images/2026/09/22/180667.jpg",
           "language": "en"
         },
         {
-          "title": "Hardship: NLC backs workers’ demand for N500 petrol price, N500,000 minimum wage",
-          "description": "The Nigeria Labour Congress, NLC, and civil servants, under the Joint National Public Service Negotiating Council, JNPSNC, Trade Union Side, yesterday demanded a new minimum wage of N500,000",
-          "url": "https://www.vanguardngr.com/2026/09/hardship-nlc-backs-workers-demand-for-n500-petrol-price-n500000-minimum-wage/",
+          "title": "Prince Harry’s Title Threat From William Has One Constitutional Catch - Expert",
+          "description": "A royal expert predicts what Prince William will do when he eventually becomes king. An expert has claimed that the Prince of Wales will make tough decisions about working royal family members, includ...",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/prince-harry-title-threat-william-085527944.html",
           "source": {
-            "name": "Vanguard News"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-09-22T04:24:03Z",
-          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/02/nlc.webp",
+          "publishedAt": "2026-09-22T08:55:27Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/f65c83694d996707e9db7dd5053c1b4968f2717931f3d3931e0a97d3b9b236d9/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fb0e261dce285a54b7f23ad8c9b327608.jpg",
           "language": "en"
         },
         {
-          "title": "India vs. Sri Lanka live win probability, score, chances of victory for Asian Games women's cricket final 2026",
-          "description": "India vs Sri Lanka Asian Games 2026 women's cricket final live score: Check real-time win probability, toss winner, playing XIs, and gold medal match updates.",
-          "url": "https://sports.yahoo.com/articles/india-vs-sri-lanka-live-042418418.html",
+          "title": "Hepatic inflow modulation with a portocaval shunt stabilizes hepatic hemodynamics and enhances liver regeneration after extended hepatectomy in a porcine model",
+          "description": "Posthepatectomy liver failure due to small-for-size and flow (SFSF) syndrome is linked to high morbidity and mortality, with hepatic inflow modulation potentially promoting liver regeneration and mitigating SFSF-induced damage. This study evaluated the effect of hepatic inflow modulation using a portocaval shunt (PCS) following extended hepatectomy in a porcine model. Sixteen female landrace pigs were assigned to two groups: a control group undergoing left extended hepatectomy and a PCS group undergoing the same procedure with PCS. Hepatic artery flow (HAF), portal vein flow (PVF), and portal vein pressure (PVP) were measured pre- and post-surgery and on postoperative day (POD) 7. Liver volume was assessed via contrast-enhanced computed tomography before surgery and euthanasia. On POD 7, relative HAF was significantly higher, and relative PVF significantly lower in the PCS group. PVP was higher in the control group post-resection but normalized by POD 7. The final remnant liver volume was approximately 20% larger in the PCS group (791.9 vs. 659.5 mL; p = 0.002). By reducing PVF while preserving HAF, PCS stabilized hepatic hemodynamics and was associated with enhanced liver hypertrophy and regeneration, likely reflecting reduced parenchymal injury and improved hepatocyte oxygenation. These findings support PCS as a promising strategy to stabilize hepatic hemodynamics and enhance liver regeneration after extended hepatectomy.",
+          "url": "https://www.nature.com/articles/s41598-026-67802-5?error=cookies_not_supported&code=14e8633a-5bb7-4d3f-988d-dbc8f874e5f4",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "Nature"
           },
-          "publishedAt": "2026-09-22T04:24:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/0b20f4f2e07bdbb92278816b217dbb68b97b85985dc46b71d1b65d40d2bda56c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F84c136d3d82927dd7085c08be7d0d9aa",
+          "publishedAt": "2026-09-22T08:54:56Z",
+          "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
           "language": "en"
         },
         {
-          "title": "Minor girl gang-raped at Astha Kunj Park near Kalkaji Mandir in Delhi by men posing as policemen; friend assaulted",
-          "description": "A 17-year-old girl was allegedly gang-raped at Delhi’s Astha Kunj Park by three men posing as policemen. One accused was later injured in a police encounter",
-          "url": "https://www.thehindu.com/news/cities/Delhi/minor-girl-gang-raped-at-astha-kunj-park-near-kalkaji-mandir-by-men-posing-as-policemen-friend-assaulted/article71494085.ece",
+          "title": "ins to sell costly, unverified AI subscriptions",
+          "description": "Researchers found over 100 fake AI subscription sites charging up to $2,000 a year, using a $249 toolkit and a genuine Google sign-in screen.",
+          "url": "https://www.helpnetsecurity.com/2026/09/22/fake-ai-subscription-sites-google-sign-in/",
           "source": {
-            "name": "The Hindu"
+            "name": "Help Net Security"
           },
-          "publishedAt": "2026-09-22T04:23:41Z",
-          "image": "https://th-i.thgim.com/public/incoming/5cb8oc/article71494153.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-22%20at%2009.43.20.jpeg",
+          "publishedAt": "2026-09-22T08:54:30Z",
+          "image": "https://img.helpnetsecurity.com/wp-content/uploads/2023/09/08154901/fake_website.jpg",
           "language": "en"
         },
         {
-          "title": "The 'merchants of chaos' have left Donald Trump in a bind with Saudi Arabia",
-          "description": "A group of rebels once known as Iran's \"merchants of chaos\" have moved on strategic islands in the Red Sea and are now putting one of the richest and most powerful nations in the Middle East in a tricky spot.",
-          "url": "https://www.abc.net.au/news/2026-09-22/yemen-houthis-leave-trump-in-a-bind/107177808",
+          "title": "U.S. says Russia lost control of diesel oil",
+          "description": "U.S. President Donald Trump said Russia has “lost control” of its diesel oil industry due to the Ukraine war, as he presses Kyiv to agree to an energy truce.",
+          "url": "https://www.cnbc.com/2026/09/22/trump-zelenskyy-ukraine-russia-putin-diesel-oil.html",
           "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+            "name": "CNBC"
           },
-          "publishedAt": "2026-09-22T04:23:41Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/4f69bd19c94c54be190d014eb295d124?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=628&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-09-22T08:54:03Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108203169-1758709230959-gettyimages-2236549906-AA_24092025_2437584.jpeg?v=1758709289&w=1920&h=1080",
           "language": "en"
         },
         {
-          "title": "Worsening El Nino threatens Asia with drought, potentially raising food prices globally",
-          "description": "BANTEN, Indonesia (AP) — All signs are pointing toward a record-breaking El Nino this year, which experts say may cause severe drought in Asia and other...",
-          "url": "https://mb.com.ph/2026/09/22/worsening-el-nino-threatens-asia-with-drought-potentially-raising-food-prices-globally",
+          "title": "Novo CEO signals M&A opportunities to strengthen drug pipeline",
+          "description": "Novo CEO Mike Doustdar told CNBC that it is considering M&A opportunities as it faces growing competition in the weight-loss market.",
+          "url": "https://www.cnbc.com/2026/09/22/novo-nordisk-ceo-interview-weight-loss-drugs-strategy.html",
           "source": {
-            "name": "mb.com.ph"
+            "name": "CNBC"
           },
-          "publishedAt": "2026-09-22T04:22:56Z",
-          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/09/22/133261.webp",
+          "publishedAt": "2026-09-22T08:53:29Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108264668-1770841844066-gettyimages-2260574499-DOUSTDAR_INTERVIEW.jpeg?v=1770841930&w=1920&h=1080",
           "language": "en"
         }
       ]
