@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-09-22T11:06:48.159Z",
+  "updatedAt": "2026-09-22T16:27:43.553Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "Pixel 11 Pro XLの原神、描画設定の変更でカクつき軽減：実測が示すANGLE移行の課題",
+          "description": "Pixel 11 Pro XLの原神で、ANGLEからNativeへの切り替えによりカクつきが減ったとの実測が出た。公式実装資料から仕組みを読み解き、改善の限界と9月更新の対象機種、設定の戻し方を確かめる。",
+          "url": "https://xenospectrum.com/pixel11-genshin-angle-stutter-native/",
+          "source": {
+            "name": "XenoSpectrum"
+          },
+          "publishedAt": "2026-09-22T02:55:00Z",
+          "image": "https://media.xenospectrum.com/large_pixel_11_genshin_angle_gaming_a786212ea6.webp",
+          "language": "ja"
+        },
+        {
+          "title": "約20万円でも、VRで遊びたい人には刺さる。「Steam Frame」を使ってわかったこと",
+          "description": "ゲーム特化型VRヘッドセット「Steam Frame」のレビュー。圧倒的な軽さと快適な装着感、最高のPC VRストリーミング体験の魅力を徹底解説します。",
+          "url": "https://www.gizmodo.jp/article/2609-steam-frame-review/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-09-22T02:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/09/17/cbdd6417-0761-4644-8943-34c00886c6e3/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言 「RSIはまだ起きていない」",
+          "description": "た。各国のAI安全性研究所の連携などを提案し、制御不能な自律的進化を防ぐ枠組みを求める。アルトマンCEOは国連安保理の公開会合でも発言する予定だ。",
+          "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001670/",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-09-22T01:51:09Z",
+          "image": "https://www.itmedia.co.jp/news/article/ogp/2609/22/2000001670/10007199/2048",
+          "language": "ja"
+        },
+        {
+          "title": "とろサーモン久保田、“芸能界が終わる地獄絵図”を6660万円で販売「ぜひマスコミの方に買っていただきたい」",
+          "description": "ニュース｜　お笑いコンビ・とろサーモンの久保田かずのぶこと久保田和靖が22日、東京・西武渋谷店で30日まで開催される個展『なぐりがき～猫狂』囲み取材に登壇した。同じくアート芸人でもあるくっきー！、しずちゃんも応援にかけつけた。　2022年に開催した初の個展『なぐりがき』は、1円から100万円まで全57作品が完売。4年ぶりとなる今回の個展では「猫狂」をテーマに猫好きである久保田が描いた原画作品を展示、販売する。　画家としては「相方がお芝居をやり始めたときに絵を描くのがルーティン。今回も1ヶ月くらいお芝居をしていて、漫才できなかったときになぐり描いてる。関西で中丸くんとやってる番組では、ダウンタウンさんの絵とかもあるんですけど売っていいかとか許可取り中です」と報告。　久保田の作品についてくっきー！は「僕にはないタッチなので、すごいなと思います」と感心。しずちゃんも「4年前も見せていただいたんですけど、より精度があがってポップ感がある。私はこんなのできへん」とその完成度に驚く。久保田は「批判的になるのも失礼ですが、一般の方から高額な投げ銭をしてもらっている人間よりかは、キャンバスに絵の具で才能を落としたので…」と毒を吐いて笑いを誘った。",
+          "url": "https://www.oricon.co.jp/news/2481891/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-09-22T01:05:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2482000/2481891/20260922_094906_p_o_82184934.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "iPhone Duoが、Androidの折りたたみスマホより優れている6つのポイント",
+          "description": "これまでの折りたたみスマホは、ハードウェアかソフトウェアのどちらかで1つ（あるいは2つ、3つ）の妥協を強いられる、いわば発展途上の製品だと感じていたのです。\nしかしiPhone Duoの登場で、よ",
+          "url": "https://news.yahoo.co.jp/articles/bd77597fb3ee52f2230c502d8b099087250661d1",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-09-22T00:01:01Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00000001-biz_lifeh-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "iPhone Duoが、Androidの折りたたみスマホより優れている6つのポイント",
+          "description": "iPhone DuoがAndroidの折りたたみスマホより優れている6つのポイントを徹底解説。シームレスな操作性や圧倒的な完成度の秘密をご紹介します。",
+          "url": "https://www.lifehacker.jp/article/2609six-ways-the-iphone-duo-edges-out-android-foldables/",
+          "source": {
+            "name": "lifehacker.jp"
+          },
+          "publishedAt": "2026-09-22T00:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/09/21/48e7e5c9-80dc-403e-a945-58745d6dfdf5/original.png?w=1200&h=630&f=jpg",
+          "language": "ja"
+        },
+        {
+          "title": "timelesz、猪俣周杜容疑者の逮捕を受け個人ブログで謝罪 菊池風磨「胸が痛み、言葉が詰まります」",
+          "description": "ニュース｜　8人組グループ・timeleszが21日深夜、メンバーの猪俣周杜容疑者（25）が傷害の疑いで逮捕されたことを受け、有料会員向けブログを残る7人で一斉に更新。ファンや関係者に謝罪した。　菊池風磨は、まだ捜査の結果が出ていないことから「我々は待つことしかできません」としつつも「如何なる捜査の結果だとしましても、メンバーが逮捕される事態に陥ってしまった事、胸が痛み、言葉が詰まります。非常に残念で不甲斐なく、慙愧（ざんき）に堪えません」と心境を吐露。",
+          "url": "https://www.oricon.co.jp/news/2481886/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-09-21T23:56:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2482000/2481886/20260919_145346_o_64037696.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "朝ドラ「風、薫る」ツヤ（東野絢香）、セツ（村上穂乃佳）らと運命の試験に挑む 第128回あらすじ",
+          "description": "見上愛と上坂樹里がダブル主演を務める連続テレビ小説「風、薫る」（NHK総合・月～土、午前8時～ほか）は、23日に最終週（第26週）「道標」第128回が放送。",
+          "url": "https://www.cinematoday.jp/news/N0156960",
+          "source": {
+            "name": "シネマトゥデイ"
+          },
+          "publishedAt": "2026-09-21T23:15:00Z",
+          "image": "https://img.cinematoday.jp/a/FQzlqfsp7WFp/_size_r1200x630/_v_1789635521/main.jpg",
+          "language": "ja"
+        },
         {
           "title": "グーグル、新カテゴリーノートPC「Googlebook」発売 899ドルから",
           "description": "Googleは21日(米国時間)、新しいノートPCプラットフォーム「Googlebook」を米国で販売開始した。Acer、ASUS、Dell、HP、Lenovoらから対応機種が発売され、価格は899ドルから。",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-09-21T22:54:05Z",
           "image": "https://www.reuters.com/resizer/v2/L4Q3ULTGMVL5DHT47N6XGCPVOA.jpg?auth=e1b7e3d53fa071a07992d2da462e63545a74304c772225dd13db1d39d7e229f0&height=1005&width=1920&quality=80&smart=true",
           "language": "ja"
-        },
-        {
-          "title": "Scene が形状・課題・背景まで比較できる「3D CADモデル比較」機能をリリース。見落としや反映漏れによる手戻りを防止",
-          "description": "Scene 株式会社のプレスリリース（2026年9月22日 07時40分）Scene が形状・課題・背景まで比較できる「3D CADモデル比較」機能をリリース。見落としや反映漏れによる手戻りを防止",
-          "url": "https://prtimes.jp/main/html/rd/p/000000041.000054982.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-09-21T22:40:01Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/54982/41/54982-41-10158b5f42eaf33235936e19103448af-1920x1200.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "Google、「Googlebook」の予約受付開始 899ドル（約14万円）から",
-          "description": "Googleは5月に発表した新型ノートPC「Googlebook」の予約受付を開始した。899ドル（約14万円）からで日本は発売地域外。Androidを基盤にデスクトップ機能を組み合わせ、AIやスマホ連携を強化したフラグシップ機と位置付ける。自社製はなくAcerやASUSなど5社から展開し、最長10年のOSアップデートを提供する。",
-          "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001667/",
-          "source": {
-            "name": "ITmedia"
-          },
-          "publishedAt": "2026-09-21T22:30:05Z",
-          "image": "https://www.itmedia.co.jp/news/article/ogp/2609/22/2000001667/10007189/2048",
-          "language": "ja"
-        },
-        {
-          "title": "マドリード・ダービーで熱くなったベリンガム 言ってはいけないFワードを発していた可能性が",
-          "description": "レアル・マドリードのMFジュード・ベリンガムが、アトレティコ・マドリードとのマドリード・ダービーで怒りをあらわにした。試合中にはジュリアーノ・シメオネとの口論に発展し、試合終了後には主審のオルティス",
-          "url": "https://news.yahoo.co.jp/articles/2e050eb853d973ba765d49a4abf40b64b0567ccf",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-09-21T22:02:14Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00010000-theworldw-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "「iOS 27」のクールなAI機能を試したい？--利用制限に備えよう",
-          "description": "「iOS 27」の魅力的なAI機能を試したくてうずうずしているだろうか。だが、Appleは新しいAI機能を使うユーザーに対し、使用制限に直面する可能性があると通知している。",
-          "url": "https://japan.zdnet.com/article/35252686/",
-          "source": {
-            "name": "ZDNET Japan"
-          },
-          "publishedAt": "2026-09-21T22:00:00Z",
-          "image": "https://japan.zdnet.com/storage/2026/09/16/80a863ab75d720e863a5716a89a8e254/large-figure-top-how-i-use-siri-mode-in-the-ios-27-camera-app-to-ask-questions-about-anything-i-see_06c81e.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【速報】約12時間、何にもつかまらず琵琶湖を漂流…46歳男性がライフジャケットだけで湖岸に流れ着く 「昼に転覆した1人です、10分前に流れ着きました」と自ら通報 救助に向かった48歳男性は行方不明",
-          "description": "■ライフジャケットで約12時間ほど漂流し生還　\n滋賀県の琵琶湖できのう＝21日、水上バイクから転落し行方不明になっていた46歳の男性が、およそ12時間後に滋賀県守山市の湖岸に流れ着き、救助されました。\n一方、この男性を救助しようと水上バイクで向かった48歳の男性は、現在も行方が分かっていません。\n■水上バイクから3人が転落…約3時間後に24歳・27歳の男性2人は救助\nきのう午前11時半ごろ大津市の琵琶湖で、水上バイクに乗っていた男性3人が戻ってこないと、警察に通報がありました。\n午後1時半ごろ、3人が乗っていた水上バイクが漂流しているのが見つかり、その後、午後4時40分ごろ大阪市の24歳と27歳の会社員男性が救助されました。2人は低体温症の疑いで病院に搬送されましたが、意識はあるということです。\n■「10分前に流れ着きました」湖上を12時間ほど漂流した46歳男性が自ら110番通報\n残る京都市伏見区の46歳の会社員の男性は、転落から約12時間後のきのう深夜・午後11時半ごろ、滋賀県守山市今浜町付近に流れ着きました。\n男性は通報するため、明かりがついていたフットサル施設まで歩き、そこで「昼に転覆した1人です。10分前に流れ着きました、外傷はないです」と警察に通報したということです。\n男性はライフジャケットを着用していて、漂流中は何にもつかまらず、およそ12時間、湖上を流されていたということです。\n男性は「自力で泳いだというより、流されたままだった」と話しているということで、警察は「だから体力を温存できたのではないか」としています。男性は低体温症の疑いがありますが意識はあり、会話もできるということです。\n■「オレが探しに行く！」周囲が止めるなか救助へ…48歳の男性が行方不明に　水上バイクだけ漂流\nこの46歳の男性を救助しようと、捜しに向かったのが3人の知人である48歳の男性でした。\n男性は「オレが探しに行く」と、周囲が止めるなか午後5時ごろ水上バイクで救助に向かったということです。\n男性はライフジャケットを着用していましたが、その後、行方が分からなくなり、きのう＝21日午後6時15分ごろ、JR志賀駅から東におよそ2.5キロの琵琶湖上で、乗っていたとみられる水上バイクだけが見つかりました。\n警察などは、きょう＝22日午前6時ごろから、船やヘリ、高機能ゴムボートなどを投入して、この48歳男性を捜索する予定です。\n警察は、当初水上バイクに乗っていた3人の関係や、誰が操縦していたのかなど、事故の詳しい状況を調べています。",
-          "url": "https://www.ktv.jp/news/articles/?id=29773",
-          "source": {
-            "name": "ktv.jp"
-          },
-          "publishedAt": "2026-09-21T21:37:00Z",
-          "image": "https://www.ktv.jp/news/data/images/29773_01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【やじうまミニレビュー】口数とケーブル長を選べる無印良品「ジョイントタップ」、組み合わせ方を解説",
-          "description": "無印良品が販売している「ジョイントタップ」は、口数やケーブル長など、モジュールを自由に組み合わせて使える電源タップだ。さまざまなニーズに対応できることから、多くのファンを持ち、評価も高い。",
-          "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2142575.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-09-21T21:22:00Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2142/575/01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ＮＹ市場サマリー（21日）＝ナスダック史上最高値、10年債利回り低下 ドル上昇",
-          "description": "＜為替＞　米連邦準備理事会（ＦＲＢ）による追加利上げの可能性が意識される中、ドルが円やユーロなどの主要通貨に対して上昇した。前週１８日に日銀が「レートチェック」を実施したと報じられたことを受け、日本が連休に入り市場流動性が低下する中、政府・日銀による円買い・ドル売り介入に対する警戒が高まっている。\n終盤の取引で円は対ドルで０．３８％安の１５７．４８円。\n日銀は１８日まで開いた金融政策決定会合で、政策金利である無担保コールレート翌日物の誘導目標を１．０％程度から１．２５％程度に引き上げると決​定。利上げは６月以来３カ月ぶりで、政策金利は１９９５年４月以来約３１年ぶりの高水準となった。日銀の利上げには浅田統一郎委員と佐藤綾野委員が反対し、決定は７対２。利上げ決定後、円は急落したが、その後、日本経済新‌聞が日本当局による「レートチェック」が実施されたと報じたことを受け、小幅ながら持ち直した。レートチェックは為替介入の準備段階とされ、介入警戒感が高まった。\n今月は日銀のほか、米連邦準備理事会（ＦＲＢ）と欧州中央銀行（ＥＣＢ）も利上げを決定。ＦＲＢとＥＣＢは、中東で約７カ月続く戦争が一因となっているインフレを抑制するために一段の利上げが必要になる可能性があると示唆している。\nＣＭＥフェドウオッチによると、ＦＲＢが１０月２７─２８日の次回ＦＯＭＣで少なくとも０．２５％ポイントの利上げを決定する確率は５５．４％。１週間前は４３．５％だった。\nこの日はセントルイス地区連銀のムサレム総裁がＦＲＢはインフレ抑制に向け追加利上げを実施しな​くてはならない可能性が高いと述べたほか、 シカゴ地区連銀のグールズビー総裁もインフレ率が目標に向けて低下しなければ利上げが必要になるとの見方を示した。\n終盤の取引で主要６通貨に対するドル指数は０．１３％高の１００．４０。\nユーロ／ドルは０．１４％安​の１．１４６７ドル。ドイツ北東部メクレンブルク・フォアポンメルン州で２０日実施された州議会選挙で、反移民などを掲げる極右政党「ドイツのための選択肢（ＡｆＤ）」が第１党になり、メルツ首相⁠率いる保守陣営が戦後最悪の地方選敗北を喫したことがユーロ相場の重しになった。\n英ポンド／ドル は０．１８％安の１．３３６９ドル。",
-          "url": "https://www.reuters.com/jp/opinion/RGAOJKE6NJMDFIZNG5ICPNQMOY-2026-09-21/",
-          "source": {
-            "name": "Reuters"
-          },
-          "publishedAt": "2026-09-21T21:16:18Z",
-          "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-          "language": "ja"
-        },
-        {
-          "title": "新型「Mac mini」「Mac Studio」徹底レビュー！ ローカルAIはついに“実用域”へ エージェントAIに事務仕事を任せて分かった驚異の進化：本田雅一のクロスオーバーデジタル（1/4 ページ）",
-          "description": "ついに新型の「Mac mini」「Mac Studio」が発売される。久しぶりの新モデルは、特にローカルAIという観点でかなり強力になっている。発売前に先行して試してみた率直な感想をまとめたい。 (1/4)",
-          "url": "https://www.itmedia.co.jp/pcuser/articles/2609/22/news024.html",
-          "source": {
-            "name": "itmedia.co.jp"
-          },
-          "publishedAt": "2026-09-21T21:00:00Z",
-          "image": "https://image.itmedia.co.jp/pcuser/articles/2609/22/cover_news024.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "How Cheaper Home Batteries is influencing Australia's energy system",
-          "description": "The Energy Magazine Podcast welcomes Bluecurrent interim chief executive officer Richard Fink for its latest instalment.",
-          "url": "https://www.energymagazine.com.au/how-cheaper-home-batteries-is-already-influencing-australias-energy-system/",
+          "title": "Tollyjoy says decision to close after 55 years not driven by financial considerations",
+          "description": "The Singapore baby-care brand said Tollyjoy products are no longer being sold in Singapore, although some remain available in Malaysia.",
+          "url": "https://www.channelnewsasia.com/singapore/tollyjoy-baby-brand-closure-not-driven-financial-considerations-6401211",
           "source": {
-            "name": "Energy Magazine"
+            "name": "CNA"
           },
-          "publishedAt": "2026-09-21T23:06:31Z",
-          "image": "https://www.energymagazine.com.au/wp-content/uploads/2026/09/ENGY-Mag-Podcast-episode-2-e1790031347222.png",
+          "publishedAt": "2026-09-22T04:27:41Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--PyLC3VDY--/c_crop,h_404,w_720,x_0,y_368/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/22/tollyjoy_pic.jpg?itok=P7U0ASso",
           "language": "en"
         },
         {
-          "title": "Salt Aerosol May Counter Increased Cough Sensitivity from Dry Air",
-          "description": "Exposure to very dry air collapses airway mucus, but an inhaled magnesium mist could help protect the respiratory tract.",
-          "url": "https://respiratory-therapy.com/disorders-diseases/critical-care/acute-disorders/salt-aerosol-cough-sensitivity-dry-weather/",
+          "title": "A day after royal revocation, still 'business as usual' for N Sembilan MB and exco, aide says",
+          "description": "They are carrying out scheduled duties, still have access to offices, adds MB's press sec.",
+          "url": "https://www.malaysiakini.com/news/885502-a-day-after-royal-revocation-still-business-as-usual-for-n-sembilan-mb-and-exco-aide-says",
           "source": {
-            "name": "respiratory-therapy.com"
+            "name": "Malaysiakini"
           },
-          "publishedAt": "2026-09-21T23:06:18Z",
-          "image": "https://respiratory-therapy.com/wp-content/uploads/2019/04/aerosol-nebulizer-1506.jpg",
+          "publishedAt": "2026-09-22T04:27:00Z",
+          "image": "https://s.malaysiakini.com/i/sdCfZwc0xD7BNGiCDHTP82Rcvk8=/1200x0/filters:strip_exif()/file/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2026/08/81975cab9814f7e08f94d544b03c5af3.jpg",
           "language": "en"
         },
         {
-          "title": "Heartbreaking farewell to Netanel Shukrun: ‘Dad, thank you for giving me my life’",
-          "description": "Netanel Shukrun, murdered hours before Yom Kippur, was laid to rest as hundreds mourned; His 16-year-old son, whom he saved in the attack, eulogized him: 'Thank you for giving me my life'; His wife: 'Thank you for your bravery'",
-          "url": "https://www.ynetnews.com/article/sjilqvy5mx",
+          "title": "ISRO-ESA broaden co-operation agreement to include human and robotic exploration",
+          "description": "ISRO Chairperson Dr V. Narayanan met ESA Director General Josef Aschbacher on the sidelines of the International Space Summit, which was held on September 9-10 in Paris, to sign the documents.",
+          "url": "https://www.thehindu.com/sci-tech/isro-esa-broaden-co-operation-agreement-to-include-human-and-robotic-exploration/article71492220.ece",
           "source": {
-            "name": "Ynetnews"
+            "name": "thehindu.com"
           },
-          "publishedAt": "2026-09-21T23:05:09Z",
-          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/22/rk2y0fJ9Ml/rk2y0fJ9Ml_2_0_1279_720_0_large.jpg",
+          "publishedAt": "2026-09-22T04:26:12Z",
+          "image": "https://th-i.thgim.com/public/incoming/a58wh0/article71494167.ece/alternates/LANDSCAPE_1200/PTI12_05_2024_000168B.jpg",
           "language": "en"
         },
         {
-          "title": "British migrants take top spot in new citizen numbers",
-          "description": "British migrants have taken the top spot in new citizen numbers for the first time in five years.",
-          "url": "https://www.rnz.co.nz/news/community/1516471/british-migrants-take-top-spot-in-new-citizen-numbers",
+          "title": "Earl Spencer doubles down on claim King 'hissed' five words after Diana's death",
+          "description": "Earl Spencer claims the King 'hisses' insensitive words to him after Diana's death as he accuses Charles of 'gaslighting' him",
+          "url": "https://www.express.co.uk/news/royal/2250559/earl-spencer-now-claims-king",
           "source": {
-            "name": "RNZ"
+            "name": "Daily Express"
           },
-          "publishedAt": "2026-09-21T23:03:56Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--dhbtervg--/t_tohu-badge-facebook/f_auto/q_auto/4KONW15_immigration05_jpg",
+          "publishedAt": "2026-09-22T04:26:00Z",
+          "image": "https://cdn.images.express.co.uk/img/dynamic/106/1200x630/7152895.jpg",
           "language": "en"
         },
         {
-          "title": "Customer aggression survey: Nine out of 10 frontline shop workers have faced abuse",
-          "description": "Nine in 10 customer-facing staff across New Zealand say they have faced aggression at work in the past year, including being threatened with weapons and...",
-          "url": "https://www.nzherald.co.nz/nz/customer-aggression-survey-nine-out-of-10-frontline-shop-workers-have-faced-abuse/ZTJRE7OPJ5DVZGYS57NUWIOYDQ/",
+          "title": "Impact of Climate Change on Indian Children: Health, Education, and Safety Challenges",
+          "description": "Explore how climate change affects children's health, education, and safety in India, highlighting urgent needs for comprehensive climate action.",
+          "url": "https://news.fundsforngos.org/2026/09/22/climate-change-impact-indian-children/",
           "source": {
-            "name": "NZ Herald"
+            "name": "fundsforNGOs News"
           },
-          "publishedAt": "2026-09-21T23:03:05Z",
-          "image": "https://www.nzherald.co.nz/resizer/v2/XGLW2VZP7NBAVB2M4AITYA7L2E.jpg?auth=336ba243fc15edb1ef8a6941260e9fc9abd9424dd2d1265406e64b3283494ac1&width=1200&height=675&quality=70&focal=3006%2C1298&smart=false",
+          "publishedAt": "2026-09-22T04:24:35Z",
+          "image": "https://news.fundsforngos.org/wp-content/uploads/2024/10/cropped-icon-32x32.png",
           "language": "en"
         },
         {
-          "title": "Young people’s Pip claims for ADHD and autism ‘rising fastest in affluent areas’",
-          "description": "Experts say trend across England probably reflects swifter access to diagnoses as wealthier families go private",
-          "url": "https://www.theguardian.com/society/2026/sep/22/england-affluent-areas-young-people-adhd-autism-pip-claims",
+          "title": "Hardship: NLC backs workers’ demand for N500 petrol price, N500,000 minimum wage",
+          "description": "The Nigeria Labour Congress, NLC, and civil servants, under the Joint National Public Service Negotiating Council, JNPSNC, Trade Union Side, yesterday demanded a new minimum wage of N500,000",
+          "url": "https://www.vanguardngr.com/2026/09/hardship-nlc-backs-workers-demand-for-n500-petrol-price-n500000-minimum-wage/",
           "source": {
-            "name": "theguardian.com"
+            "name": "Vanguard News"
           },
-          "publishedAt": "2026-09-21T23:02:00Z",
-          "image": "https://i.guim.co.uk/img/media/6c7796db29848443195be6b429eb1ed4d6b778e9/604_0_6042_4836/master/6042.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8df254fdbc7cef5504825fb269d90f64",
+          "publishedAt": "2026-09-22T04:24:03Z",
+          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/02/nlc.webp",
           "language": "en"
         },
         {
-          "title": "Gov't Revokes Permits of Five Companies over Kalimantan Forest Fires",
-          "description": "The government revoked 5 forestry permits covering 92,464 hectares after fires were recorded within company concessions across Kalimantan.",
-          "url": "https://jakartaglobe.id/news/govt-revokes-permits-of-five-companies-over-kalimantan-forest-fires",
+          "title": "India vs. Sri Lanka live win probability, score, chances of victory for Asian Games women's cricket final 2026",
+          "description": "India vs Sri Lanka Asian Games 2026 women's cricket final live score: Check real-time win probability, toss winner, playing XIs, and gold medal match updates.",
+          "url": "https://sports.yahoo.com/articles/india-vs-sri-lanka-live-042418418.html",
           "source": {
-            "name": "Jakarta Globe"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-09-21T23:02:00Z",
-          "image": "https://img2.beritasatu.com/cache/jakartaglobe/960x620-w/2025/05/1746944604-4938x3292.webp",
+          "publishedAt": "2026-09-22T04:24:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/0b20f4f2e07bdbb92278816b217dbb68b97b85985dc46b71d1b65d40d2bda56c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F84c136d3d82927dd7085c08be7d0d9aa",
           "language": "en"
         },
         {
-          "title": "Martha’s rule to be expanded to every A&E in England",
-          "description": "System gives patients, loved ones and health workers the right to ask for a second opinion on care",
-          "url": "https://www.aol.co.uk/articles/martha-rule-expanded-every-e-230128000.html",
+          "title": "Minor girl gang-raped at Astha Kunj Park near Kalkaji Mandir in Delhi by men posing as policemen; friend assaulted",
+          "description": "A 17-year-old girl was allegedly gang-raped at Delhi’s Astha Kunj Park by three men posing as policemen. One accused was later injured in a police encounter",
+          "url": "https://www.thehindu.com/news/cities/Delhi/minor-girl-gang-raped-at-astha-kunj-park-near-kalkaji-mandir-by-men-posing-as-policemen-friend-assaulted/article71494085.ece",
           "source": {
-            "name": "AOL.co.uk"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-09-21T23:01:28Z",
-          "image": "https://hermes.media.static.aol.com/media/2026/09/21/2f39277b-d126-39b5-845e-c73c4d1dba03/a9bf1498-53e5-4d7b-af4e-0e458529904a.jpg",
+          "publishedAt": "2026-09-22T04:23:41Z",
+          "image": "https://th-i.thgim.com/public/incoming/5cb8oc/article71494153.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-22%20at%2009.43.20.jpeg",
           "language": "en"
         },
         {
-          "title": "Meet the pensioners spending the kids' inheritance",
-          "description": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
-          "url": "https://www.bbc.com/news/articles/cje8y3w2zdpo",
+          "title": "The 'merchants of chaos' have left Donald Trump in a bind with Saudi Arabia",
+          "description": "A group of rebels once known as Iran's \"merchants of chaos\" have moved on strategic islands in the Red Sea and are now putting one of the richest and most powerful nations in the Middle East in a tricky spot.",
+          "url": "https://www.abc.net.au/news/2026-09-22/yemen-houthis-leave-trump-in-a-bind/107177808",
           "source": {
-            "name": "BBC"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-09-21T23:01:26Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9cdb/live/ffc48210-ac22-11f1-9bd9-7b7da208bd5c.jpg",
+          "publishedAt": "2026-09-22T04:23:41Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/4f69bd19c94c54be190d014eb295d124?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=628&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Man 'screamed in agony' as brick smashed through windscreen on Great Howard Street",
-          "description": "Gary Hesmondhalgh was driving his stepdaughter to a K-Pop dance competition in Liverpool when a brick was launched at their van",
-          "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/man-screamed-agony-brick-smashed-34651779",
+          "title": "Worsening El Nino threatens Asia with drought, potentially raising food prices globally",
+          "description": "BANTEN, Indonesia (AP) — All signs are pointing toward a record-breaking El Nino this year, which experts say may cause severe drought in Asia and other...",
+          "url": "https://mb.com.ph/2026/09/22/worsening-el-nino-threatens-asia-with-drought-potentially-raising-food-prices-globally",
           "source": {
-            "name": "Liverpool Echo"
+            "name": "mb.com.ph"
           },
-          "publishedAt": "2026-09-21T23:01:00Z",
-          "image": "https://i2-prod.liverpoolecho.co.uk/article34651968.ece/ALTERNATES/s1200d/0_Van-2.jpg",
+          "publishedAt": "2026-09-22T04:22:56Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/09/22/133261.webp",
           "language": "en"
         }
       ]
