@@ -1,10 +1,109 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-10-07T00:24:09.423Z",
+  "updatedAt": "2026-10-07T09:56:19.409Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "新クイズ番組「THE FLOOR」出場者32名揃う、とろサーモン久保田やラランド・ニシダ",
+          "description": "10月21日（水）放送のクイズ番組「THE FLOOR」（日本テレビ系）のレギュラー初回に大久保佳代子、とろサーモン久保田、ラランド・ニシダ、ヒコロヒーが出演することがわかった。【画像】「THE F",
+          "url": "https://news.yahoo.co.jp/articles/3269fabb2b80e8cb0bea8ae070cc419215f7d71e",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-10-06T21:22:31Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261007-00000014-natalieo-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "台風27号が北上 東北太平洋側と関東は引き続き高波に警戒 28号・29号は西進中",
+          "description": "今日7日午前3時現在、日本周辺には3つの台風があります。台風27号は日本の東を北上中です。この影響で太平洋沿岸は波が高く、関東は昼前まで、東北太平洋側は夕方まで大しけの状態が続くでしょう。台風28号と29号は西よりに進んでいます。",
+          "url": "https://tenki.jp/forecaster/yosh_ika/2026/10/07/40879.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-10-06T21:16:59Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/408/40879/main/20261007061540/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "米国株式市場＝Ｓ＆Ｐ５００とナスダックが最高値更新、原油価格の安定で",
+          "description": "米国株式市場は続伸。幅広い銘柄が買われ、Ｓ＆Ｐ総合５００種とナスダック総合が最高値を更新して引けた。原油価格​が落ち着き、米国債利回りも低下したことで、ここ数週間に投資家‌を悩ませてきた懸念が和らぎ、市場の関心は間近に迫った第３・四半期決算発表シーズンに向かった。",
+          "url": "https://www.reuters.com/jp/markets/japan/GZANHCFZMJM43FHHYB6XUEOEJU-2026-10-06/",
+          "source": {
+            "name": "Reuters"
+          },
+          "publishedAt": "2026-10-06T20:15:45Z",
+          "image": "https://www.reuters.com/resizer/v2/7EX2CWGTLNK73PJHV3GYK3BDBA.jpg?auth=ffaf1fd34ee27ab79d0cd5fdae8a5328f289e7ecf7c1bcd6b066c3d5e6dfb373&height=1005&width=1920&quality=80&smart=true",
+          "language": "ja"
+        },
+        {
+          "title": "昭和天皇の「言い訳」に反論 ひるまずいさめた初代宮内庁長官",
+          "description": "第二次世界大戦では、日本人だけで300万人以上が亡くなった。命をとりとめた国民にも広く被害が及んだ。「戦後81年」の今も苦しんでいる人がいる。 　破滅的な戦争を始め、敗戦が確実になってからも続けたのはなぜか。国家元首であった昭和天皇の責任を問う声は、敗戦後から今日に至るまで根強い。",
+          "url": "https://mainichi.jp/articles/20261003/k00/00m/200/177000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-10-06T20:00:00Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/10/03/20261003k0000m200178000p/0c10.jpg?1",
+          "language": "ja"
+        },
+        {
+          "title": "米Ｒ＆Ｂ界のレジェンド歌手、フレディ・ジャクソンさん死去 ７０歳 代表曲「Rock Me Tonight」「You Are My Lady」などで８０年代を席巻",
+          "description": "米Ｒ＆Ｂ界のレジェンド歌手、フレディ・ジャクソンさんが５日（日本時間６日）になくなったことが７日、ジャクソンさん家族によって公表された。７０歳だった。死因は明らかにしていない。【写真】2022年、ブ",
+          "url": "https://news.yahoo.co.jp/articles/63e37dfcb40bac0c9024359ccd94b58a25e8666e",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-10-06T19:55:43Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261007-10071004-sph-000-4-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "大谷翔平、打順降格「5番DH」 大幅打線組み換え 難敵左腕セールに対し6年ぶり5番 1番ベッツ 2番フリーマン 3番テオ 山本由伸が先発 地区S第3戦【両チームのラインナップ】",
+          "description": "「ナ・リーグ地区シリーズ、ブレーブス―ドジャース」（6日、アトランタ） ドジャースが第3戦のラインナップを発表。2試合連続で2番だった大谷翔平選手は「5番・指名打者」で出場する。ブレーブスの先発はエ",
+          "url": "https://news.yahoo.co.jp/articles/0865c9912001060de161af478ad3b5d88e9b2495",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-10-06T18:46:18Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261007-00010000-dal-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "最大約8,800円値下げ！ゲーミングキーボード「INZONE KBD-H75」、マウス「INZONE Mouse-A」、ソニーストア タイムセールを10月20日(火)まで開催。",
+          "description": "ソニーのゲーミングギア「INZONE」について、ソニーストアで期間限定のタイムセールを開催。 今回は、ゲーミン",
+          "url": "https://kunkoku.jp/inzonesale202610-3.html",
+          "source": {
+            "name": "ソニーが基本的に好き。"
+          },
+          "publishedAt": "2026-10-06T15:29:10Z",
+          "image": "https://kunkoku.jp/wp-content/uploads/2026/10/261007a07.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "市民生活への継続的攻撃「広範囲の攻撃を認める」民間を標的にする“新ドクトリン”（テレビ朝日系（ANN））",
+          "description": "ウクライナのゼレンスキー大統領によりますと、トウモロコシを積んだトルコの商船だったといいます。火災によって2人が死亡した船は、ロシアのドローン2機の攻撃を受けたとのことです。【画像】市民生活への継続",
+          "url": "https://news.yahoo.co.jp/articles/e4d50a055c4fb10518c60d1e0f8de20e459bcce3",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-10-06T14:48:16Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-90201298-ann-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "『CoD: MW4』朝鮮半島モチーフの戦場“ハジン”、プレイヤーの拠点となる前哨基地など、脱出シューター系モード“DMZ”の詳細が公開",
+          "description": "2026年10月23日に発売の『Call of Duty: Modern Warfare 4』、DMZモードに関する情報を紹介するトレーラーが公開。朝鮮半島をモチーフにした戦場“ハジン”の詳細情報や、出撃のたびに進化するプレイヤーの拠点“前哨基地（FOB）”が紹介されている。",
+          "url": "https://www.famitsu.com/article/202610/90188",
+          "source": {
+            "name": "ファミ通"
+          },
+          "publishedAt": "2026-10-06T12:50:00Z",
+          "image": "https://cimg.kgl-systems.io/camion/files/90188/thumbnail_Ewnk.jpeg?x=1280",
+          "language": "ja"
+        },
         {
           "title": "どんぐり不足「秋グマ」に注意 関東で「不作」、世界遺産「荒船風穴」でも目撃 豊作でも「なかなか冬眠しない」",
           "description": "9月26日に北海道・興部町で撮影された映像には、暗がりの中、目を光らす巨大なクマの姿が映っています。そのすぐ後ろには子グマの姿もあります。カメラに向かって突如、近づいてきたのです。おなかをすかせてい",
@@ -15,216 +114,117 @@
           "publishedAt": "2026-10-06T11:52:20Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-01227965-fnn-000-1-thumb.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "＜日本開催PGAツアー＞松山は2つ後輩「今は僕が憧れています」藤本佳則が7年ぶりにPGAツアー挑戦",
-          "description": "＜日本開催PGAツアー＞松山は2つ後輩「今は僕が憧れています」藤本佳則が7年ぶりにPGAツアー挑戦",
-          "url": "https://sports.yahoo.co.jp/official/detail/2026100600008-spnaviow",
-          "source": {
-            "name": "スポーツナビ"
-          },
-          "publishedAt": "2026-10-06T11:40:00Z",
-          "image": "https://sports-pctr.c.yimg.jp/dk/iwiz-sports/text/images/2026/1006/2026100600008-spnaviow_1791286549_view.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "太陽の磁場が奇妙な振る舞い、原因は「中年の危機」か 地球や生命探査への影響は？",
-          "description": "2007年、米ワシントン大学の天文学者のエリカ・ベーム・ビテンセ氏（故人）は、恒星の自転の周期と磁場活動の周期の関係を調べ直した。すると、恒星は2つの明確な系列に分かれていた。若い恒星は高速で自転し",
-          "url": "https://news.yahoo.co.jp/articles/8f709bb1e4bed593c2f09c4fefe37bdd7b697cd0?page=2",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-10-06T11:18:09Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-00010000-nknatiogeo-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "猪俣周杜クビでtimeleszが緊急会見のウラ側 芸能プロ関係者が「用意周到」と唸ったワケ",
-          "description": "（2ページ目）オーディション番組「タイプロ」から選ばれ、timeleszに加入した猪俣周杜が傷害事件で逮捕され、残されたグループのメンバーが謝罪会見を行ったが……",
-          "url": "https://friday.kodansha.co.jp/article/482258?page=2",
-          "source": {
-            "name": "講談社「おもしろくて"
-          },
-          "publishedAt": "2026-10-06T11:00:58Z",
-          "image": "https://res.cloudinary.com/fridaydigital/image/private/t_og_image_faces/wpmedia/2026/10/453b94436c0142715f9ac2993ab52bc0-1.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "イ・ジュンギさん、坂口健太郎さんと初共演・火9ドラマ『kiDnap GAME』への意気込み。「作品を徹底的に分析した」",
-          "description": "本日、10月6日火曜夜9時にスタートする、坂口健太郎さん主演の海外共同制作ドラマ『kiDnap GAME』。イ・ジュンギさんはソウルの優秀な外科医、ハン・キジュを演じます。今回は、ご自身が演じる役柄",
-          "url": "https://news.yahoo.co.jp/articles/8404b73705512b9ec358fb4cdc9e7c19c17a3981",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-10-06T11:00:38Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-00038554-esse-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "「さもし過ぎ」簗和生農相 会見前の“カンペ修正”疑惑にも批判続出…続投指示の高市首相にも「感覚が狂っている」と厳しい声",
-          "description": "10月5日、簗和生農林水産大臣（47）が、自身の選挙区での「予算カット」発言を撤回し、謝罪した。【写真あり】“カンペ”に目を落とす簗大臣「週刊文春」ならびに「週刊新潮」によると、簗氏は今年5月に栃木",
-          "url": "https://news.yahoo.co.jp/articles/7b7177179b6250decacf1fa1b27e25221a35a83a",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-10-06T10:45:05Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-00000052-jisin-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "大坂なおみは4回戦で8つのマッチポイントを凌ぐもムチョバに惜敗 [チャイナ・オープン／テニス]",
-          "description": "WTAツアー公式戦「チャイナ・オープン」（WTA1000／中国・北京／9月30日～10月11日／賞金総額941万5725ドル／ハードコート）の女子シングルス4回戦で、第12シードの大坂なおみ（フリー",
-          "url": "https://news.yahoo.co.jp/articles/d0fdc253acf3c45a8657b23471063c186874b64e",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-10-06T10:30:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-00035645-tennismagv-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "こめお「78人食中毒事件」後に相次ぐBD仲間の“炎上発言”本人謝罪の裏で削除させた“にやけ顔”写真が波紋（SmartFLASH）",
-          "description": "8月22日と23日の「麻布十番納涼祭り」で食中毒事件を起こし、謝罪した「Breaking Down」（以下、BD）元出場選手で料理人のこめお。BDの仲間とこめおの、騒動をネタにするようなやりとりが物",
-          "url": "https://news.yahoo.co.jp/articles/9d6dc97e52e51ac8112bd9dfa715976ab63c4c3b",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-10-06T10:10:43Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-00000048-flash-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "AI企業に書籍販売か 日販に質問状",
-          "description": "人工知能（AI）開発を手がける米アンソロピックに取次大手の日本出版販売（日販）が書籍を大量に販売していた可能性があるとして、出版社でつくる「日本書籍出版協会（書協）」が、日販グループホールディングス",
-          "url": "https://news.yahoo.co.jp/pickup/6597777",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-10-06T09:54:10Z",
-          "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/6/f0dbf1bd6b9bb15c0715ff458302eb9ce5c0ab78d7e30322f384b558801bab67.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "LEGOグループとサンリオが複数年のパートナーシップ締結を発表 ハローキティが初のレゴブロック化",
-          "description": "レゴグループとサンリオが、複数年にわたるパートナーシップを締結した。両社は2027年以降、ハローキティをはじめとするサンリオのキャラクターとその世界観をレゴブロックで再現した「レゴ サンリオ」製品を",
-          "url": "https://news.yahoo.co.jp/articles/fd12aa359ad763ebbf2f5b049d9a23192ee054c5",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-10-06T09:40:03Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-00096762-kaiyou-000-1-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Bukit Aman confirms Malaysian among 13 detained over 521kg drug seizure in Laos",
-          "description": "KUALA LUMPUR: A Malaysian is among 13 individuals detained by Laotian authorities following the discovery of 521kg of crystal methamphetamine aboard a private jet in the country last week.",
-          "url": "https://www.thestar.com.my/news/nation/2026/10/06/bukit-aman-confirms-malaysian-among-13-detained-over-521kg-drug-seizure-in-laos",
+          "title": "Why thousands are taking to the street over school funding and classroom conditions",
+          "description": "The fury in France reached a new peak when at least 250,000 people joined rallies that have confronted police and spread flames on the streets.",
+          "url": "https://www.smh.com.au/world/europe/flames-tear-gas-and-stun-grenades-how-a-stoush-over-classrooms-and-toilets-exploded-into-violent-mass-protests-20261007-p613d7.html",
           "source": {
-            "name": "The Star"
+            "name": "SMH.com.au"
           },
-          "publishedAt": "2026-10-06T12:24:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/10/06/4148572.jpg",
+          "publishedAt": "2026-10-06T21:56:17Z",
+          "image": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/56a3d4c54fd77cf1b48756b58a4c1e5ef4436a87",
           "language": "en"
         },
         {
-          "title": "British national arrested in connection with RAF Fairford incident",
-          "description": "It is the seventh arrest in connection to the incident near RAF Fairford last month.",
-          "url": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo",
+          "title": "Why thousands are taking to the street over school funding and classroom conditions",
+          "description": "The fury in France reached a new peak when at least 250,000 people joined rallies that have confronted police and spread flames on the streets.",
+          "url": "https://www.theage.com.au/world/europe/flames-tear-gas-and-stun-grenades-how-a-stoush-over-classrooms-and-toilets-exploded-into-violent-mass-protests-20261007-p613d7.html",
           "source": {
-            "name": "BBC"
+            "name": "The Age"
           },
-          "publishedAt": "2026-10-06T12:23:23Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b53/live/fc7bdb70-bf15-11f1-9947-0584c244b963.jpg",
+          "publishedAt": "2026-10-06T21:56:17Z",
+          "image": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/56a3d4c54fd77cf1b48756b58a4c1e5ef4436a87",
           "language": "en"
         },
         {
-          "title": "Kwale County acquires new equipment to boost road infrastructure",
-          "description": "Kwale County has acquired new road equipment to fast-track infrastructure development and rehabilitation across the county. Governor Fatuma Achani and her deputy, Chirema Kombo, officially launched two new shovels at the County Headquarters, which are expected to boost the county’s existing fleet and facilitate the grading and rehabilitation of roads that have become impassable.- Advertisement - […]",
-          "url": "https://www.kbc.co.ke/kwale-county-acquires-new-equipment-to-boost-road-infrastructure/",
+          "title": "Barkov out 6-8 weeks for Panthers with lower-body injury",
+          "description": "Captain injured in second game after missing all of last season, won't need surgery",
+          "url": "https://www.nhl.com/news/aleksander-barkov-injury-status-update-october-6-2026",
           "source": {
-            "name": "KBC Digital"
+            "name": "NHL.com"
           },
-          "publishedAt": "2026-10-06T12:23:08Z",
-          "image": "https://www.kbc.co.ke/wp-content/uploads/2026/10/achani-2.jpg",
+          "publishedAt": "2026-10-06T21:56:15Z",
+          "image": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/v1791312328/prd/jbyjk0lfmc2qmixhkl8i.jpg",
           "language": "en"
         },
         {
-          "title": "EB Games to Open Official Nintendo Store-Within-a-Store Experience in Toronto",
-          "description": "A 1,500-square-foot Nintendo space will open inside EB Games at 267 Yonge Street, across from the Toronto Eaton Centre, on October 17th.",
-          "url": "https://www.iphoneincanada.ca/2026/10/06/eb-games-nintendo-store-toronto/",
+          "title": "DOE: El Niño may raise power demand, electricity prices",
+          "description": "Energy Secretary Sharon Garin said electricity prices could rise, citing the relationship between supply and demand in the Wholesale Electricity Spot Market.",
+          "url": "https://www.abs-cbn.com/news/business/2026/10/6/doe-el-ni-o-may-raise-power-demand-electricity-prices-1754",
           "source": {
-            "name": "iPhone in Canada"
+            "name": "ABS-CBN"
           },
-          "publishedAt": "2026-10-06T12:23:03Z",
-          "image": "https://cdn.iphoneincanada.ca/wp-content/uploads/2025/06/Nintendo-Switch-2-Unboxing-1.jpg",
+          "publishedAt": "2026-10-06T21:55:49Z",
+          "image": "https://od2-image-api.abs-cbn.com/prod/20261006101052/10677f9f26e72599b9fa9740e6b920c98f71325e9f5378e07c9f1eedde5ffdae.jpg?w=1200&h=800",
           "language": "en"
         },
         {
-          "title": "Singapore minister signals new laws to ensure deterrent sentences for all scam mules",
-          "description": "SINGAPORE: New laws will be introduced soon to ensure deterrent sentences for those who facilitate scams regardless of age, following a recent High Court ruling that gave young scam mules probation and community sentences.",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/singapore-minister-signals-new-laws-to-ensure-deterrent-sentences-for-all-scam-mules",
+          "title": "NZ Cricket breaks silence on Deloitte report and why Australian Big Bash League offer wasn’t pursued",
+          "description": "New Zealand Cricket has broken its silence on why it picked a franchise Twenty20 competition over Australia’s Big Bash League. In March, after an extensive...",
+          "url": "https://www.nzherald.co.nz/sport/cricket/nz-cricket-breaks-silence-on-deloitte-report-and-why-australian-big-bash-league-offer-wasnt-pursued/Z7SYVE4QLBFPZAPRT3GXGKEE4A/",
           "source": {
-            "name": "The Star"
+            "name": "NZ Herald"
           },
-          "publishedAt": "2026-10-06T12:23:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/10/06/4148519.jpg",
+          "publishedAt": "2026-10-06T21:55:02Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/7MZE5KHTNRBEFJCHLH6CRVWPNM.jpg?auth=7c12d766b2819a026f17e51db4c37fcdddbbb05e944d5501525d9f06343f9593&width=1200&height=675&quality=70&focal=1029%2C533&smart=false",
           "language": "en"
         },
         {
-          "title": "Francis Halzen wins Nobel physics prize for Antarctic 'ghost particle' hunt",
-          "description": "The Belgian-American Francis Halzen won the 2026 Nobel Prize in Physics for his work creating an Antarctic observatory of ice to detect high-energy neutrinos, elusive subatomic particles that can ​reveal otherwise inaccessible information about the cosmos.",
-          "url": "https://www.reuters.com/science/francis-halzen-wins-2026-nobel-prize-physics-2026-10-06/",
+          "title": "Industry warns Australia cannot meet 1.2 million housing target without urgent apprentice boost",
+          "description": "Australian tradies have copped another blow and it appears the country will suffer as it aims to build 1.2 million homes by 2029.",
+          "url": "https://www.realestate.com.au/news/industry-warns-australia-cannot-meet-12-million-housing-target-without-urgent-apprentice-boost/",
           "source": {
-            "name": "Reuters"
+            "name": "Real Estate"
           },
-          "publishedAt": "2026-10-06T12:22:31Z",
-          "image": "https://www.reuters.com/resizer/v2/XEK5OYNOWFN25NUZAJBGOHUS5U.jpg?auth=0ec8ad773cd323feacb8d28e7e6a1a03f0d96f3f7966554c828a9e50ab67c1a4&height=1005&width=1920&quality=80&smart=true",
+          "publishedAt": "2026-10-06T21:54:19Z",
+          "image": "https://www.realestate.com.au/news-image/w_1024,h_769/v1791325069/news-lifestyle-content-assets/wp-content/production/capi_1b0229b4368d0e15bf520fcadf74ca69_74b6da38749bab47c1185b7824e6f427.jpg",
           "language": "en"
         },
         {
-          "title": "Collaborate to combat cyber threats to financial ecosystem - Director-General urges operators",
-          "description": "The Director-General of the Cyber Security Authority (CSA), Divine Selase Agbeti, has called for closer collaboration among financial institutions, fintech companies, telecommunications operators and law enforcement agencies to combat growing cyber threats to Ghana’s digital finance ecosystem",
-          "url": "https://www.graphic.com.gh/news/general-news/ghana-news-collaborate-to-combat-cyber-threats-to-financial-ecosystem-director-general-urges-operators.html",
+          "title": "Facing stonewalling from Russia, Trump admin struggles to plan for potential plague fallout",
+          "description": "The Trump administration is struggling to get clear answers about the death of a Russian laboratory worker at an institute dedicated to studying the plague, amid days of stonewalling from Russian officials about the mysterious circumstances surrounding the episode.",
+          "url": "https://www.cnn.com/2026/10/06/politics/russia-plague-death-trump",
           "source": {
-            "name": "Graphic Online"
+            "name": "CNN"
           },
-          "publishedAt": "2026-10-06T12:22:30Z",
-          "image": "https://www.graphic.com.gh/images/2026/Oct/06/Agbeti.jpg",
+          "publishedAt": "2026-10-06T21:53:16Z",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2298267737.jpg?c=16x9&q=w_800,c_fill",
           "language": "en"
         },
         {
-          "title": "Nafisa Mahama, Ibrahim Mahama's Daughter, Makes Appearance at Dzata Cement's 5th Anniversary Launch",
-          "description": "Ibrahim Mahama's daughter, Nafisa Mahama, has turned heads at the 5th anniversary launch and durbar of Dzata Cement, and fans are reacting to her look online.",
-          "url": "https://yen.com.gh/entertainment/celebrities/313287-nafisa-mahama-ibrahim-mahamas-daughter-appearance-dzata-cements-5th-anniversary-launch/",
+          "title": "Trump announces submarine shipyard plan in Sparrows Point",
+          "description": "President Donald Trump announces a project that's expected to support 14,000 jobs and become Maryland's largest job creator in over a decade.",
+          "url": "https://www.wbaltv.com/article/sparrows-point-submarine-shipyard-plan-president-trump/74038195",
           "source": {
-            "name": "Yen.com.gh"
+            "name": "WBAL-TV"
           },
-          "publishedAt": "2026-10-06T12:22:06Z",
-          "image": "https://cdn.yen.com.gh/images/1200x675/ce844f74d6f4c56d.jpeg?v=1",
+          "publishedAt": "2026-10-06T21:53:09Z",
+          "image": "https://kubrick.htvapps.com/htv-prod/images/f9cd517b-8ded-49ab-8534-1a92ff106db0.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
           "language": "en"
         },
         {
-          "title": "Here's who is getting $90 Medicare checks and why",
-          "description": "Some seniors are getting $90 checks from the Trump administration. Here's who's eligible.",
-          "url": "https://www.usatoday.com/story/news/politics/2026/10/06/why-90-checks-medicare-trump/92115398007/",
+          "title": "Eva Marie Saint: the Hitchcock Blonde who outgrew the persona",
+          "description": "Her glacial poise in North By Northwest made her a cinematic icon, but films including On the Waterfront and Loving revealed great subtlety alongside the glamour",
+          "url": "https://www.theguardian.com/film/2026/oct/07/eva-marie-saint-death-hitchcock-blonde-north-by-northwest",
           "source": {
-            "name": "USA Today"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-10-06T12:22:00Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/06/USAT/92115996007-getty-images-1047505000.jpg?crop=2160,1216,x0,y85&width=2160&height=1216&format=pjpg&auto=webp",
+          "publishedAt": "2026-10-06T21:52:00Z",
+          "image": "https://i.guim.co.uk/img/media/06af424d29f80a3ca435cedb1121f7fc60a10a7d/35_821_2973_2376/master/2973.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5787556b24a64db88b63b6fe2e63a4d1",
           "language": "en"
         },
         {
-          "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-          "description": "The reports of OpenAI agents harming 3rd party sites keep coming.",
-          "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+          "title": "Barcelona continues to ignore him: Paris Saint-Germain sends a special message to Messi on the night of farewell",
+          "description": "Paris Saint-Germain sent a message to their former player, Lionel Messi, ahead of the kick-off of his final match in an Argentina shirt.",
+          "url": "https://www.goal.com/en/news/barcelona-continues-to-ignore-him-psg-sends-a-special-message-to-messi-on-his-farewell-night/bltf10c0b934019195c",
           "source": {
-            "name": "Ars Technica"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-10-06T12:21:53Z",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg",
+          "publishedAt": "2026-10-06T21:50:57Z",
+          "image": "https://assets.goal.com/images/v3/getty-2298211072/crop/MM5DGNRYGA5DEMBXGA5G433XMU5DCMRWHI2TK===/GettyImages-2298211072.jpg",
           "language": "en"
         }
       ]
