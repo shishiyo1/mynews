@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-10-18T03:28:01.418Z",
+  "updatedAt": "2026-10-18T10:32:03.947Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "『VIVANT』出演俳優、昨年11月に死去 登場シーンが話題 ネットに悲しみ広がる",
+          "description": "ニュース｜　俳優の堺雅人が主演を務めるTBS系日曜劇場『VIVANT』（毎週日曜　後9：00）の第20話が11日に放送され、昨年11月に41歳で亡くなった俳優の望月祐治さんが出演していたことが話題となっている。放送を受け、視聴者からは悲しみの声が寄せられ、共演俳優もSNSで故人を追悼した。　第20話では、乃木憂助（堺）の指揮のもと、ノコル（二宮和也）率いるテントや、テントが関わる民間軍事会社「Y2K」、テントのモニターである新庄浩太郎（竜星涼）、チョッキー（オーム・タナパック）らが、黒須駿（松坂桃李）をはじめとする別班員5人の救出作戦を展開。乃木軍団はシャキ城への上陸に成功し、別班メンバーとの再会を果たした。その過程で、救出チームと城を警備するシンシー側の兵士との間で激しい銃撃戦が繰り広げられ、兵士の1人として望月さんが登場した。",
+          "url": "https://www.oricon.co.jp/news/2487018/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-10-17T22:20:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2488000/2487018/20261013_112644_o_58081896.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【阪神】佐藤輝明のポスティング移籍容認を検討 終戦で本格的な話し合いへ 三冠王の夢後押しも",
+          "description": "阪神が、メジャー挑戦の意向を持つ佐藤輝明内野手（27）のポスティングシステムを利用した米移籍容認を検討していることが17日、分かった。今季の佐藤はバース以来球… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/baseball/news/202610170002123.html",
+          "source": {
+            "name": "日刊スポーツ"
+          },
+          "publishedAt": "2026-10-17T20:00:00Z",
+          "image": "https://www.nikkansports.com/baseball/news/img/202610170002123-w500_0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "SUPER EIGHT丸山隆平、ブロードウェイミュージカル「ヘドウィグ」で5年ぶり再主演 渡米し“生みの親”ジョン・キャメロン・ミッチェルと初対面も",
+          "description": "ジョン・キャメロン・ミッチェルが作・演出を手掛け、SUPER EIGHTの丸山隆平が主演を務めるブロードウェイミュージカル『ヘドウィグ・アンド・アングリーインチ』が、2027年に上演することが決定。ジョンと丸山がタッグを組むのは、2022年の日本公演以来、5年ぶりとなる。",
+          "url": "https://mdpr.jp/news/detail/4860613",
+          "source": {
+            "name": "モデルプレス"
+          },
+          "publishedAt": "2026-10-17T19:00:00Z",
+          "image": "https://img-mdpr.freetls.fastly.net/article/vFs0/nm/vFs0a1xzd2b3EWo3JJLJRvpiQ8j44FGFb-945jw4nts.jpg?width=700&disable=upscale&auto=webp&quality=80",
+          "language": "ja"
+        },
+        {
+          "title": "鈴木彩艶が初のプレミアリーグ完封勝利! スーパーセーブで危機救う! アストン・ビラは今季2勝目",
+          "description": "[10.17 プレミアリーグ第7節 ニューカッスル 0-1 アストン・ビラ]　プレミアリーグは17日に各地で第7節を行った。GK鈴木彩艶が所属するアストン・ビラは敵地でニューカッスルと対戦し、1-0で勝利。鈴木はフル...",
+          "url": "https://web.gekisaka.jp/news/world/detail/?461269-461269-fl",
+          "source": {
+            "name": "ゲキサカ"
+          },
+          "publishedAt": "2026-10-17T18:23:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/462000/461269/news_461269_1.jpg?time=20261018033333",
+          "language": "ja"
+        },
+        {
+          "title": "前田大然が敵地で首位相手にプレミア初ゴールも…マンチェスター・Cがフォーデン弾とハーランド2発で開幕7連勝",
+          "description": "[10.17 プレミアリーグ第7節 マンチェスター・C 3-2 イプスウィッチ]　マンチェスター・シティは17日、プレミアリーグ第7節でイプスウィッチを3-2で破って開幕7連勝を果たした。イプスウィッチのFW前田大然は右シ...",
+          "url": "https://web.gekisaka.jp/news/world/detail/?461262-461262-fl",
+          "source": {
+            "name": "ゲキサカ"
+          },
+          "publishedAt": "2026-10-17T16:02:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/462000/461262/news_461262_1.jpg?time=20261018010527",
+          "language": "ja"
+        },
         {
           "title": "RTX 5080搭載ゲーミングPCが9万円オフ！ パソコンショップSEVEN、10月18日限定セール",
           "description": "パソコンショップSEVENを運営するセブンアールジャパンが、10月18日限定で最新のゲーミングPCやデスクトップPCを最大9万円オフで販売する24時間限定セールを実施する。",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-10-17T13:00:00Z",
           "image": "https://fnn.ismcdn.jp/mwimgs/1/c/600/img_1c6ebc7753275c22075cf3fc9b75303563339.jpg",
           "language": "ja"
-        },
-        {
-          "title": "【キングオブコント】１９年目・ジェラードンが１９代王者、歓喜の涙「トリオでもコンビでも面白いということを見せられた」３４４５組の頂点！（スポーツ報知）",
-          "description": "コント日本一決定戦「キングオブコント２０２６」の決勝が１７日、東京・赤坂のＴＢＳで行われ、３４４５組がエントリーした中、０８年結成の「ジェラードン」が第１９代王者に輝いた。１３４２点（６７１点、６７",
-          "url": "https://news.yahoo.co.jp/articles/17fb69b65179f810d2a5de3ead25392bff1d8e8f",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-10-17T12:49:48Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-10171344-sph-000-11-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "空を飛ぶテスラの新型ロードスター。ライトや空力パーツをボディに溶け込ませたミニマルなエクステリアにも注目",
-          "description": "テスラが新型ロードスターを米国で発表した。スペースXのコンポーネントを取り入れ、1人乗りの「Rocket」は空を飛ぶこともできるという話題のモデルだ。ボディ色やガラスには航空宇宙分野の要素を盛り込み、デザインにも見どころが多い。",
-          "url": "https://motor-fan.jp/article/1654092/",
-          "source": {
-            "name": "Motor Fan"
-          },
-          "publishedAt": "2026-10-17T12:49:25Z",
-          "image": "https://motor-fan.jp/wp-content/uploads/2026/10/TESLA_ROADSTER_3.jpg?v=1792219812",
-          "language": "ja"
-        },
-        {
-          "title": "【キングオブコント】ジェラードンが19代目王者 3445組の頂点に 1本目と2本目が同じ最高点で勝ち切る",
-          "description": "ニュース｜　コント日本一を決めるTBS系『求人ボックス presentsキングオブコント2026』が、17日に放送（後6：00）。ジェラードンが優勝し、賞金1000万円を獲得、3445組の頂点に立ち、19代目キングに輝いた。優勝が決まった瞬間、アタック西本は感動のあまり涙をぬぐい、かみちぃは「トリオでもコンビでも、面白いんだぞっていうところを見せられて、よかったです！」と声を弾ませた。　ジェラードンはNSC東京12期の同期であるアタック西本、かみちぃ、海野裕二で2008年に結成。25年2月に体調不良のため海野の脱退を発表し、2人体制となった。『キングオブコント』はトリオ時代の2021年にファイナリストとなった。",
-          "url": "https://www.oricon.co.jp/news/2487114/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-10-17T12:49:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2488000/2487114/20261017_201648_p_o_22170741.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "＜国内男子ゴルフ＞「今平さんと良いマッチレースができれば」細野勇策が挑む45年ぶりの大会レフティＶ",
-          "description": "＜国内男子ゴルフ＞「今平さんと良いマッチレースができれば」細野勇策が挑む45年ぶりの大会レフティＶ",
-          "url": "https://sports.yahoo.co.jp/official/detail/2026101700006-spnaviow",
-          "source": {
-            "name": "スポーツナビ"
-          },
-          "publishedAt": "2026-10-17T09:08:00Z",
-          "image": "https://sports-pctr.c.yimg.jp/dk/iwiz-sports/text/images/2026/1017/2026101700006-spnaviow_1792227170_view.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "【交通規制情報】第38回「なにわ淀川花火大会2026」きょう＝17日開催 午後7時から花火打ち上げ 周辺では午後11時ごろまで交通規制も 混雑に注意",
-          "description": "ことしも大阪の夏の風物詩「なにわ淀川花火大会」が大阪市淀川区で、きょう（=10月17日）午後7時から開催されます。【LIVE】「なにわ淀川花火大会」を橋本和花子アナ×田中友梨奈アナがフィナーレまで生",
-          "url": "https://news.yahoo.co.jp/articles/7fba5a5a183778b01204576efa1f6dede7adfecd",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-10-17T08:57:01Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-90030358-kantelev-000-1-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Red Arrows 1-0 Kaizer Chiefs: 'Sell the status and rent Naturena to serious teams; Please leave the coaching staff there; Amakhosi are in this situation because of Junior Motaung'",
-          "description": "The Soweto giants made the trip to Zambia for the first leg of the CAF Confederation Cup second preliminary round, but returned home with a narrow defeat despite deploying a notably defence-heavy line up. Fernando Da Cruz’s tactical approach failed to deliver the desired result, leaving Amakhosi with work to do as they look to turn the tie around in the second leg on home soil.",
-          "url": "https://www.goal.com/en-za/lists/red-arrows-1-0-kaizer-chiefs-sell-the-status-and-rent-naturena-to-serious-teams-please-leave-the-coaching-staff-there-amakhosi-are-in-this-situation-because-of-junior-motaung/blte970a6a1500f2334",
-          "source": {
-            "name": "Goal.com"
-          },
-          "publishedAt": "2026-10-17T15:27:26Z",
-          "image": "https://assets.goal.com/images/v3/blt844c7a3c0b3f0ba6/Sibongiseni%20Mthethwa,%20Kaizer%20Chiefs.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Arndale Centre stabbing LIVE as armed police descend and boy, 14, seriously injured",
-          "description": "Several police cars and an ambulance have been seen in the area",
-          "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/manchester-arndale-centre-live-armed-34779924",
-          "source": {
-            "name": "Manchester Evening News"
-          },
-          "publishedAt": "2026-10-17T15:27:23Z",
-          "image": "https://i2-prod.manchestereveningnews.co.uk/article34779925.ece/ALTERNATES/s1200d/0_IMG-20261017-WA0056.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Journalist Files Police Complaint Against Rahul Gandhi In 'Pushing' Case",
-          "description": "Richa Parashar had said the incident occurred during a protest on the Supreme Court premises.",
-          "url": "https://www.ndtv.com/india-news/richa-parashar-supreme-court-protest-sir-journalist-files-police-complaint-against-rahul-gandhi-in-pushing-case-12200021",
-          "source": {
-            "name": "NDTV"
-          },
-          "publishedAt": "2026-10-17T15:26:18Z",
-          "image": "https://c.ndtvimg.com/2026-10/qsja65ac_1_625x300_17_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-          "language": "en"
-        },
-        {
-          "title": "Buildings torched as cost of living protests spread across France",
-          "description": "Police attempt to regain control with tear gas and baton charges as almost 300 arrested on Saturday",
-          "url": "https://www.irishtimes.com/world/europe/2026/10/17/buildings-torched-as-cost-of-living-protests-spread-across-france/",
-          "source": {
-            "name": "The Irish Times"
-          },
-          "publishedAt": "2026-10-17T15:26:08Z",
-          "image": "https://www.irishtimes.com/resizer/v2/WCEZGA5N3BKJQIMJ44334SFX4E.jpg?smart=true&auth=677e76c73cdb46fe3eaf56376b5ec2621b1f55895266ba4c43a1cd0774306479&width=1200&height=630",
-          "language": "en"
-        },
-        {
-          "title": "Video: Iranian Fishermen Race To Grab iPhones, Perfume From Sunken Cargo Ship",
-          "description": "Footage from the area showed boats moving through partially submerged containers as men tried to pull boxes out of the water. In one video, a small boat could be seen struggling to tow an entire shipping container.",
-          "url": "https://www.ndtv.com/world-news/video-iranian-fishermen-race-to-grab-iphones-perfume-from-sunken-cargo-ship-12200017",
-          "source": {
-            "name": "NDTV"
-          },
-          "publishedAt": "2026-10-17T15:25:14Z",
-          "image": "https://c.ndtvimg.com/2026-10/j7i4f9b8_iran-boats_625x300_17_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-          "language": "en"
-        },
-        {
-          "title": "College football Week 7: Live updates, schedule, scores, rankings",
-          "description": "Follow along here for live updates, highlights, scores and more from a loaded Week 7 slate of college football that features six top-25 showdowns.",
-          "url": "https://www.ncaa.com/live-updates/football/fbs/college-football-week-7-live-updates-schedule-scores-rankings",
-          "source": {
-            "name": "NCAA.com"
-          },
-          "publishedAt": "2026-10-17T15:25:13Z",
-          "image": "https://www.ncaa.com/sites/default/files/public/images/2026-10/Jeremiah-Smith-OSU.jpeg",
-          "language": "en"
-        },
-        {
-          "title": "Florida fisher dragged into water and killed by 12ft alligator",
-          "description": "Steve Hamilton was fishing in Winter Garden when he was attacked by gator, which was later killed",
-          "url": "https://www.theguardian.com/us-news/2026/oct/17/alligator-attack-florida-fisher-killed",
+          "title": "Daniel Dubois delivers devastating second-round stoppage of Fabio Wardley to retain WBO title",
+          "description": "Daniel Dubois overwhelmed Fabio Wardley in the second round of their WBO world title fight as he continued his quest to become the most authoritative heavyweight fighter on the planet",
+          "url": "https://www.theguardian.com/sport/2026/oct/17/daniel-dubois-devastating-second-round-stoppage-of-fabio-wardley-retain-wbo-title-boxing",
           "source": {
             "name": "The Guardian"
           },
-          "publishedAt": "2026-10-17T15:25:00Z",
-          "image": "https://i.guim.co.uk/img/media/3ef942dc588dbd5ebfddcd5ae43b4a6ae8884e8d/487_0_3748_3000/master/3748.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=82e66d080c2f764d6ae17e05557f1c71",
+          "publishedAt": "2026-10-17T22:32:00Z",
+          "image": "https://i.guim.co.uk/img/media/27adb2c7be78b4a3ce84e18d91869e0cb40fa617/454_0_3659_2928/master/3659.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6009edecc5f2894d2ebd094a48958abb",
           "language": "en"
         },
         {
-          "title": "71-year-old man dies after alligator attack while fishing in Florida, police say",
-          "description": "A 71-year-old man died after an alligator attacked him while he was fishing, authorities said on Friday.",
-          "url": "https://www.nbcnews.com/news/us-news/man-dies-alligator-attack-florida-rcna604017",
+          "title": "Oregon school shooting victims include 5-year-old whose family is ‘broken and lost’",
+          "description": "The victims killed in a special needs classroom at an Oregon elementary school Thursday included a 5-year-old boy whose family said they are “broken and lost” after the shooting and a young teacher working her “dream job.”",
+          "url": "https://www.nbcnews.com/news/us-news/oregon-school-shooting-victims-include-5-year-old-rhoam-summer-whose-f-rcna603946",
           "source": {
             "name": "NBC News"
           },
-          "publishedAt": "2026-10-17T15:24:41Z",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261017-winter-garden-fla-ch-1051-971b54.jpg",
+          "publishedAt": "2026-10-17T22:31:00Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261016-bend-shooting-sjr-1523-b20c97.jpg",
           "language": "en"
         },
         {
-          "title": "Premier League Match Centre issue double Liverpool statement after VAR chaos and red card",
-          "description": "There was chaos at Brentford vs Liverpool with a penalty overturned and a red card issued in the first half.",
-          "url": "https://www.aol.co.uk/articles/premier-league-match-centre-issue-151000000.html",
+          "title": "Earth's oldest evidence of life is written in stone - but it's at risk of disappearing",
+          "description": "MELBOURNE, Oct 17: Today, our planet is teeming with life, but it has not always looked the same. Long before forests reached skyward, animals walked on land, and the rise and fall of dinosaurs, our planet was shaped by a...",
+          "url": "https://www.dailyexcelsior.com/earths-oldest-evidence-of-life-is-written-in-stone-but-its-at-risk-of-disappearing/",
           "source": {
-            "name": "AOL.com"
+            "name": "Daily Excelsior"
           },
-          "publishedAt": "2026-10-17T15:24:27Z",
-          "image": "https://hermes.media.transform.aol.com/ff47a6b91567f071c61174a2e37bd2ac6514e86a/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/17/ea6450ce-6b96-3117-bcda-44d65cbad724/dab21d9d-ceb2-4403-85a3-a39da116da94.jpg",
+          "publishedAt": "2026-10-17T22:30:53Z",
+          "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTc0ODIzZmYwLWNhN2EtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
           "language": "en"
         },
         {
-          "title": "Tesla Flying Car's 4 Thrusters Meet Aerospace's Bar [2026]",
-          "description": "Tesla's flying Roadster used 4 thrusters on Oct 15, 2026. Here's how that hardware stacks up against Apollo, Shuttle and Dragon RCS redundancy.",
-          "url": "https://tech-insider.org/tesla-flying-car-thrusters-aerospace-redundancy-2026/",
+          "title": "Man City 3-2 Ipswich: Erling Haaland's incredible scoring run continues as Enzo Maresca's side continue to weather storm",
+          "description": "Report and free match highlights as Man City stayed perfect in the Premier League by earning their seventh win; Erling Haaland scored twice and was denied his hat-trick by VAR; Ipswich were valiant in defeat, battling until the end and giving City a fright late on",
+          "url": "https://www.skysports.com/football/news/13598864/man-city-3-2-ipswich-erling-haalands-incredible-scoring-run-continues-as-enzo-marescas-side-continue-to-weather-storm",
           "source": {
-            "name": "https://tech-insider.org/"
+            "name": "Sky Sports"
           },
-          "publishedAt": "2026-10-17T15:24:23Z",
-          "image": "https://tech-insider.org/wp-content/uploads/2026/10/tesla-flying-car-thrusters-aerospace-redundancy-2026-gen.webp",
+          "publishedAt": "2026-10-17T22:30:24Z",
+          "image": "https://e0.365dm.com/26/10/1600x900/skysports-erling-haaland-premier-league_7379099.jpg?20261017163959",
+          "language": "en"
+        },
+        {
+          "title": "Dubois destroys Wardley to retain WBO heavyweight crown",
+          "description": "Daniel Dubois scored a crushing second-round knockout victory over fellow Briton Fabio Wardley to retain his World Boxing Organization heavyweight crown on Saturday.",
+          "url": "https://www.france24.com/en/live-news/20261017-dubois-destroys-wardley-to-retain-wbo-heavyweight-crown",
+          "source": {
+            "name": "France 24"
+          },
+          "publishedAt": "2026-10-17T22:27:00Z",
+          "image": "https://s.france24.com/media/display/eb2d286e-ca79-11f1-901f-638c1c1f5fd6/w:1280/p:16x9/cd7593153f86b7995a52fc2d06156c93b76817c6.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Coach Kristian Woolf praises Tongan defence after Rugby League World Cup win over England",
+          "description": "Tonga coach Kristian Woolf says his team's depth and quality mean the Mate Ma'a can go on with it after their big win over England at the Rugby League World Cup.",
+          "url": "https://www.abc.net.au/news/2026-10-18/tonga-getting-better-and-better-after-england-world-cup-win/107280336",
+          "source": {
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+          },
+          "publishedAt": "2026-10-17T22:25:41Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/b9452a32fb4fa4cc549ddcbdef288a32?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=82&width=862&height=485&imformat=generic",
+          "language": "en"
+        },
+        {
+          "title": "15-year-old Charged After Woman Attacked, Choked on MUN Campus",
+          "description": "The RNC has arrested a 15-year-old in connection with the assault of a woman at Memorial University on Friday....",
+          "url": "https://vocm.com/2026/10/17/teen-charged-after-woman-attacked-choked-on-mun-campus/",
+          "source": {
+            "name": "VOCM"
+          },
+          "publishedAt": "2026-10-17T22:22:00Z",
+          "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/handcuffs-1.png",
+          "language": "en"
+        },
+        {
+          "title": "Gabby Williams lifts Valkyries past Dream in defensive slugfest to open WNBA finals",
+          "description": "Gabby Williams scored 26 points, including four crucial late free throws, as Golden State edged Atlanta 68-64 in a bruising WNBA finals opener",
+          "url": "https://www.theguardian.com/sport/2026/oct/17/gabby-williams-golden-state-valkyries-atlanta-dream-wnba-finals-game-one",
+          "source": {
+            "name": "The Guardian"
+          },
+          "publishedAt": "2026-10-17T22:17:00Z",
+          "image": "https://i.guim.co.uk/img/media/c2f7d57619354defb0d83ae60239151fe9142a57/506_0_5036_4031/master/5036.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e2af53676257f4e664b7fe3d76012a3d",
+          "language": "en"
+        },
+        {
+          "title": "Looting, blazes and clashes in France amid nationwide protests",
+          "description": "The widespread unrest follows weeks of student protests and deepens political uncertainty as the country readies for elections in six months.",
+          "url": "https://www.freemalaysiatoday.com/category/highlight/2026/10/18/looting-blazes-and-clashes-in-france-amid-nationwide-protests",
+          "source": {
+            "name": "Free Malaysia Today"
+          },
+          "publishedAt": "2026-10-17T22:16:21Z",
+          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/10/2be68e36-329c-4369-af63-507f318fb072-EPA-Images---France---Protest---Unrest---Blaze---18102026.webp",
+          "language": "en"
+        },
+        {
+          "title": "France protests turn violent: Fires, looting and 1,200 arrests; Macron vows action",
+          "description": "French President Emmanuel Macron has vowed strict action against those involved in arson, looting and attacks on public buildings after violent clashes",
+          "url": "https://timesofindia.indiatimes.com/world/europe/france-protests-turn-violent-fires-looting-and-1200-arrests-macron-vows-action/articleshow/135020350.cms",
+          "source": {
+            "name": "The Times of India"
+          },
+          "publishedAt": "2026-10-17T22:16:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-135021220,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         }
       ]
