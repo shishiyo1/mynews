@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-10-18T20:13:27.379Z",
+  "updatedAt": "2026-10-18T22:49:50.585Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【台風情報】非常に強い台風30号の進路予想 22日午後3時には「非常に強い」勢力で沖縄の南に達する見込み 中心気圧950 hPa、最大瞬間風速70m",
+          "description": "気象庁によりますと、非常に強い台風30号は18日午後6時現在、マリアナ諸島にあって、1時間におよそ20キロの速さで西へ進んでいます。中心気圧は950hPa、中心付近の最大風速は50m/s、最大瞬間風速は70m/sとなっています。19日午後6時には、非常に強い勢力で、フィリピンの東に達する見込みで、中心気圧は960hPa、中心付近の最大風速は45m/s、最大瞬間風速65 m/sの予想です。22日午後3時には、非常に強い勢力を保ったまま、沖縄の南に達する見通しで、中心気圧は950hPa、中心付近の…",
+          "url": "https://www.fnn.jp/articles/-/1135140",
+          "source": {
+            "name": "FNNプライムオンライン"
+          },
+          "publishedAt": "2026-10-18T10:36:00Z",
+          "image": "https://fnn.ismcdn.jp/mwimgs/a/1/600/img_a12ec8c83a31a3a52b7135530a5393dc186178.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "渋谷・文化村通りでファッションショー 仲里依紗さん登場、書道・ダンスも",
+          "description": "渋谷・文化村通りで10月18日、ファッションイベント「渋谷ファッションウィーク2026秋」のメインイベントとなる路上ファッションショー「SHIBUYA RUNWAY」が開催された。タレントでファッシ",
+          "url": "https://news.yahoo.co.jp/articles/b9cdadfc830c5219ab52d170f5c07df6569d6d1f",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-10-18T10:17:18Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261018-00000009-minkei-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "セイコー／TMI製メカクォーツ搭載の5万円台も【国産ブランド】コスパ最強クロノグラフ｜性別の垣根を超える腕時計 No.073",
+          "description": "国産マイクロブランドの狙い目クロノグラフをピックアップ。各モデルのブランド概要と合わせて紹介。",
+          "url": "https://www.powerwatch.jp/2026/10/18/unisex-73/",
+          "source": {
+            "name": "Watch LIFE NEWS"
+          },
+          "publishedAt": "2026-10-18T09:10:50Z",
+          "image": "https://www.powerwatch.jp/wp496/wp-content/uploads/2026/10/unisex_TOP-1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "iOS 27にしてからiPhoneの充電がもたない…。原因は「あの設定」だった",
+          "description": "iPhoneをiOS 27にアップデートした人のなかには、もうSiri AIやAppleのAIによる写真編集機能のいくつかを試してみた人もいるのではないでしょうか。その一方で、別のことに気づいた人も",
+          "url": "https://news.yahoo.co.jp/articles/65017872f8a1e7f5718d0c7db54f032000f49a26",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-10-18T09:01:01Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261018-00000005-biz_lifeh-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "iOS 27にしてからiPhoneの充電がもたない…。原因は「あの設定」だった",
+          "description": "iOS 27にアップデートしたiPhoneのバッテリー問題の原因と、接続アシストを無効にして駆動時間を改善する具体的な設定変更の方法を解説します。",
+          "url": "https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/",
+          "source": {
+            "name": "ライフハッカー"
+          },
+          "publishedAt": "2026-10-18T09:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/10/16/7726ea54-2f45-4616-97f8-3514d6ad4d53/original.jpg?w=1200&h=630&f=jpg",
+          "language": "ja"
+        },
+        {
+          "title": "19日と20日は北海道から九州で雨や雷雨 落雷・突風・急な激しい雨に注意",
+          "description": "19日(月)は、低気圧が日本海からオホーツク海へ進み、低気圧からのびる前線が南下して、20日(火)にかけて東日本から西日本付近に停滞する見込みです。東日本から西日本では大気の状態が非常に不安定となるでしょう。北海道から九州にかけて雨や雷雨で、特に北陸から九州では落雷や突風、急な激しい雨に注意が必要です。",
+          "url": "https://tenki.jp/forecaster/t_yoshida/2026/10/18/41005.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-10-18T08:54:39Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/41/410/41005/ogp/20261018175006/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "町田が盤石の3発完勝！ 広島＆FC東京と同勝ち点の2位",
+          "description": "2026/27明治安田J1リーグ第10節が18日に行われ、FC町田ゼルビアとアビスパ福岡が対戦した。【ゴール動画】町田vs福岡 連勝をうかがうチーム同士の一戦は、22分に町田が先制する。テテ・イェン",
+          "url": "https://news.yahoo.co.jp/articles/ef101209a234cec6839cc4a1c08f8058bc606cf4",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-10-18T08:54:38Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261018-02217962-soccerk-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "【秋華賞】（京都）圧倒的人気のモンローウォークがゴール前の接戦を制しデビュー５連勝｜競馬実況web｜競馬｜ラジオNIKKEI",
           "description": "【秋華賞】（京都）圧倒的人気のモンローウォークがゴール前の接戦を制しデビュー５連勝｜ラジオNIKKEI：競馬番組",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-10-18T07:50:05Z",
           "image": "https://img-mdpr.freetls.fastly.net/article/SwWR/wm/SwWRdGp5MHI3koKAkvQYZ99PSREADVIVNUe51xJyRf8.jpg?width=700&disable=upscale&auto=webp&quality=80",
           "language": "ja"
-        },
-        {
-          "title": "【台風情報】非常に強い台風30号の進路予想 22日午後3時には「非常に強い」勢力のまま沖縄の南へ達する見込み 中心気圧935hPa、最大瞬間風速70m",
-          "description": "気象庁によりますと、非常に強い台風30号は18日午後3時現在、マリアナ諸島にあって、1時間におよそ20キロの速さで西へ進んでいます。中心気圧は945hPa、中心付近の最大風速は50m/s、最大瞬間風速70m/sとなっています。台風30号は19日午後3時には、非常に強い勢力のまま、フィリピンの東へ達する見込みで、中心気圧は960hPa、中心付近の最大風速は45m/s、最大瞬間風速は65m/sの予想です。22日午後3時には、非常に強い勢力を保ったまま、沖縄の南へ達する見通しで、この頃は中心気圧93…",
-          "url": "https://www.fnn.jp/articles/-/1134978",
-          "source": {
-            "name": "FNNプライムオンライン"
-          },
-          "publishedAt": "2026-10-18T07:12:00Z",
-          "image": "https://fnn.ismcdn.jp/mwimgs/f/0/600/img_f0832742083f28bc3df0f8836aa77312190275.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Apple Watchの「Siri AI」を使ってみた。できること、まだできないこと",
-          "description": "Apple Watch版「Siri AI」を実機で徹底レビュー！タイマーや睡眠データ計測の利便性から、パーソナル検索の精度、応答遅延やアプリ落ちは本当かまで検証。iPhone版との違いやwatchOS 27でのリアルな使い心地と課題を詳しく解説します。",
-          "url": "https://www.lifehacker.jp/article/2610-i-tried-siri-ai-on-the-apple-watch-and-im-frustrated/",
-          "source": {
-            "name": "ライフハッカー"
-          },
-          "publishedAt": "2026-10-18T07:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/10/16/2bd7fe17-34f5-431f-9a94-b6e60bf97773/original.jpg?w=1200&h=630&f=jpg",
-          "language": "ja"
-        },
-        {
-          "title": "19日からたびたび雨 21日～22日は北海道で暴風の恐れ 台風30号は沖縄の南へ",
-          "description": "17日(土)と18日(日)は広く秋晴れとなりましたが、19日(月)以降は前線の影響で、雨の降る日が増えるでしょう。21日(水)から22日(木)は北海道では暴風が吹く恐れもあります。また、非常に強い台風30号の影響で、沖縄や奄美では21日(水)頃から大しけとなる恐れがあります。",
-          "url": "https://tenki.jp/forecaster/t_yoshida/2026/10/18/41004.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-10-18T06:52:47Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/41/410/41004/main/20261018152033/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【分析】大統領報道官が5日間で解任、トランプ氏と政権にとってひどく恥ずべき事態である理由（CNN.co.jp）",
-          "description": "（CNN） ケイティ・ザカリア氏は16日、ホワイトハウス報道官としての職位を守るためメディア出演を重ねていた。その中でFOXニュースの番組司会者は、弁護士だと再三主張していたにもかかわらず司法試験に",
-          "url": "https://news.yahoo.co.jp/articles/de45efe793599b5c0e4c5eb3cca28b3a2cea363e",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-10-18T06:49:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261018-35253679-cnn-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "【公開中！】2026年度(令和8年度)宅建試験の解答速報を公開開始しました。",
-          "description": "株式会社ユーキャンのプレスリリース（2026年10月18日 15時25分）【公開中！】2026年度(令和8年度)宅建試験の解答速報を公開開始しました。",
-          "url": "https://prtimes.jp/main/html/rd/p/000001521.000007628.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-10-18T06:25:27Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/7628/1521/7628-1521-04f08c51c63096a693ca4a12d17f1d8d-650x340.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "仲里依紗、妹・れいなとレカペで共演 渋谷に登場 来場者一斉にスマホ向ける",
-          "description": "動画ニュース｜　俳優の仲里依紗（37）が18日、東京・渋谷の文化村通りで行われた『渋谷ファッションウィーク2026秋』に登場。妹でモデルの仲れいな（28）と渋谷の中心地に敷かれたレッドカーペットで共演し、来場者は一斉にスマートフォンのカメラを向けていた。　里依紗は、自身のプロデュースブランド「RE.」の演出の中で、れいなとともに姿を見せた。渋谷の風景が描かれたTシャツなど、ピンクと黄色を基調とした衣装で、車道上に敷かれたレッドカーペットを歩いた。渋谷の中心地に現れた2人に、来場者や通行人からは歓声が上がり、スマートフォンのカメラを向けて仲姉妹の姿を収めていた。",
-          "url": "https://www.oricon.co.jp/news/2487159/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-10-18T06:07:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2488000/2487159/20261018_145209_p_o_24779815.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "イエメン「フーシ派」がサウジの国際空港を攻撃 中東の”ハブ空港”標的で緊迫 石油価格高騰に拍車か…トランプ氏「フーシ派」攻撃も?【サンデーモーニング】",
-          "description": "日本からの直行便も就航する予定の中東で最大規模のハブ空港が攻撃され、多数の死傷者がでました。これを受けトランプ大統領が新たな攻撃を検討している相手とは…【写真で見る】フーシ派“ハブ空港”を攻撃の様子",
-          "url": "https://news.yahoo.co.jp/articles/72d7b0e2616ff815139dd953738a9144ab5a7880",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-10-18T05:09:15Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261018-23020128-jnn-000-2-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "West Dublin residents appeal for final vote against controversial land rezoning",
-          "description": "Councillors previously rejected changing the zoning of sites at St Edmundsbury, Finnstown Castle and Coldcut Road",
-          "url": "https://www.irishtimes.com/ireland/2026/10/18/west-dublin-residents-appeal-for-final-vote-against-controversial-land-rezoning/",
+          "title": "Dejan Kulusevski to finally return to Spurs matchday squad after more than 500 days",
+          "description": "Bottom-of-the-table Spurs will be missing seven players for the clash with Coventry",
+          "url": "https://www.independent.co.uk/sport/football/news/dejan-kulusevski-injury-spurs-coventry-b3068739.html",
+          "source": {
+            "name": "The Independent"
+          },
+          "publishedAt": "2026-10-18T10:49:00Z",
+          "image": "https://static.independent.co.uk/2026/09/04/10/2277996774..?trim=0,65,0,65&width=1200&height=800&crop=1200:800",
+          "language": "en"
+        },
+        {
+          "title": "Explainer: Four Ways Ebola Virus Spreads and How to Prevent It",
+          "description": "Kenya’s Ebola cases now stand at seven, including the deceased first case, as the Ministry of Health urges vigilance.",
+          "url": "https://www.dawan.africa/news/explainer-four-ways-ebola-virus-spreads-and-how-to-prevent-it",
+          "source": {
+            "name": "Dawan Africa"
+          },
+          "publishedAt": "2026-10-18T10:46:52Z",
+          "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgYRPFyhG7VcfSm73TO6Fe1xDi204K8vtNakpl",
+          "language": "en"
+        },
+        {
+          "title": "Multiple deaths reported after ‘serious incident’ at Canada military base",
+          "description": "Prime minister Mark Carney says ‘major fire’ occurred at one of the country’s busiest army posts",
+          "url": "https://www.irishtimes.com/world/2026/10/18/multiple-deaths-reported-after-incident-at-canada-military-base/",
           "source": {
             "name": "The Irish Times"
           },
-          "publishedAt": "2026-10-18T08:12:31Z",
-          "image": "https://www.irishtimes.com/resizer/v2/PZ6T2K53ENFYDDLMYSFAQXTP74.jpg?smart=true&auth=dc942a8fe10e72430ba0a8eeaddab44ef4cbbdb582b8761faa517016a6e880fd&width=1200&height=630",
+          "publishedAt": "2026-10-18T10:45:09Z",
+          "image": "https://www.irishtimes.com/resizer/v2/3LT3EHBJIAJIZU5TN4GQAYMYRU.jpg?smart=true&auth=60a99e755403826e3c0e6e9f0df060066fe85696f7a7e8c320829c7fc67aeb9f&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Japan to launch world-first mission to collect samples from Martian moon",
-          "description": "Japanese space agency leading five-year mission to Phobos, one of ‘most important unclimbed mountains in the solar system’",
-          "url": "https://www.theguardian.com/science/2026/oct/18/japan-mission-mars-moon-phobos-samples",
+          "title": "Kurdish opposition group attacked in Iraq amid increased Iran tensions",
+          "description": "Many Kurdish Iranian opposition groups are concerned that Iran will now escalate attacks in the wake of the US leaving Iraq on September 30.",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-912042",
           "source": {
-            "name": "The Guardian"
+            "name": "The Jerusalem Post"
           },
-          "publishedAt": "2026-10-18T08:12:00Z",
-          "image": "https://i.guim.co.uk/img/media/240753a4b6511a8a20ded060ec9fcddea78639c0/0_114_1280_1024/master/1280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ae1bcb23a7d7024be3d68bfad351606",
+          "publishedAt": "2026-10-18T10:43:02Z",
+          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742441",
           "language": "en"
         },
         {
-          "title": "JD Vance clarifies his ‘foreign indentured servants’ remark on H-1B workers: 'I love my Indian in-laws’",
-          "description": "His wife, Usha Vance, is the daughter of Indian immigrants.",
-          "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/india/i-love-my-indian-in-laws-jd-vance-defends-foreign-indentured-servants-remark-on-h-1b-workers-14054737.html",
+          "title": "WASTE WAR! Homeklin Loses Court Bid Against KCCA in Round One",
+          "description": "Homeklin Uganda Limited has suffered a legal setback in its battle with Kampala Capital City Authority (KCCA) over waste collection and transportation in Kampala after the High Court dismissed its application for an interim injunction against the city authority.",
+          "url": "https://redpepper.co.ug/waste-war-homeklin-loses-court-bid-against-kcca-in-round-one/152004/",
           "source": {
-            "name": "Moneycontrol.com"
+            "name": "Red Pepper"
           },
-          "publishedAt": "2026-10-18T08:11:16Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260619072321_vance-us-vp.jpg",
+          "publishedAt": "2026-10-18T10:42:33Z",
+          "image": "https://redpepper.co.ug/wp-content/uploads/2026/10/20261017_203242.jpg",
           "language": "en"
         },
         {
-          "title": "French movement defies police brutality with biggest demonstrations yet",
-          "description": "Mass demonstrations in France show that the movement is escalating despite police violence, reports Shabbir Lakha from the protest in Paris\nThe French revolt led by students is escalating.",
-          "url": "https://www.counterfire.org/article/french-movement-defies-police-brutality-with-biggest-demonstrations-yet/",
+          "title": "35 YEARS OF CARING! Stanbic Gives Obongi 20 Beds, 30 Mattresses, Patient Monitors, 200 Mama Kits Worth Shs40m",
+          "description": "Obongi Health Centre IV, which handles nearly 1,400 deliveries annually despite significant staffing and resource constraints, has received maternal health equipment and supplies boost worth Shs40 million from Stanbic Bank Uganda.",
+          "url": "https://redpepper.co.ug/35-years-of-caring-stanbic-gives-obongi-20-beds-30-mattresses-patient-monitors-200-mama-kits-worth-shs40m/152008/",
           "source": {
-            "name": "Counterfire"
+            "name": "Red Pepper"
           },
-          "publishedAt": "2026-10-18T08:10:09Z",
-          "image": "https://uploads.counterfire.org/uploads/2026/10/paris8-Ig.jpg",
+          "publishedAt": "2026-10-18T10:42:33Z",
+          "image": "https://redpepper.co.ug/wp-content/uploads/2026/10/DSC_7423.jpg",
           "language": "en"
         },
         {
-          "title": "It's official, Liverpool pulled off incredible bargain",
-          "description": "Liverpool have pulled off an incredible bargain that nobody noticed. Richard Hughes is unlikely to look back on his time at Anfield with much credit. His recruitment strategy has left Liverpool with a...",
-          "url": "https://sports.yahoo.com/articles/official-liverpool-pulled-off-incredible-081000980.html",
+          "title": "Singer Yusuf Islam visits grieving Dr Mahathir, offers prayers for late Tun Dr Hasmah",
+          "description": "KUALA LUMPUR, Oct 18 — British singer songwriter Yusuf Islam, better known as Cat Stevens, paid a visit to former prime minister Tun Dr Mahathir Mohamad today, following the...",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/18/singer-yusuf-islam-visits-grieving-dr-mahathir-offers-prayers-for-late-tun-dr-hasmah/239633",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "Malay Mail"
           },
-          "publishedAt": "2026-10-18T08:10:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/60a52f0d3e165fe518e09ec55c516cd363e597345529235c38a0e040d583062d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_watch_articles_625%2F3c2ec198bfdd848d2641f25463b1879f.jpg",
+          "publishedAt": "2026-10-18T10:41:52Z",
+          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/18/369117.jpg",
           "language": "en"
         },
         {
-          "title": "'Darling, let's go to France': Trump takes swipe as protests take over the country",
-          "description": "Donald Trump has taken a swipe at France over its history of revolutions, joking that Americans receiving his proposed $5,000 payment could head to the",
-          "url": "https://timesofindia.indiatimes.com/world/us/darling-lets-go-to-france-trump-takes-swipe-as-protests-take-over-the-country/articleshow/135025820.cms",
+          "title": "Nelson on Jailer 2 box office: 'Thalaivar magic hits different'",
+          "description": "Here is what Nelson said on Saturday about the box office performance of his film Jailer 2, starring Rajinikanth:",
+          "url": "https://www.cinemaexpress.com/tamil/news/2026/Oct/18/nelson-on-jailer-2-box-office-thalaivar-magic-hits-different",
           "source": {
-            "name": "The Times of India"
+            "name": "Cinema Express"
           },
-          "publishedAt": "2026-10-18T08:10:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-135025954,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-10-18T10:41:39Z",
+          "image": "https://cf-images.assettype.com/cinemaexpress%2F2026-10-18%2F7c6pjbhj%2FSaveClip.App852431065183425649822609748749487700017947730n.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
           "language": "en"
         },
         {
-          "title": "Deaths confirmed after 'serious incident' causes fire at Canadian military base",
-          "description": "People have been killed and injured in a serious incident that resulted in a fire at Canadian Forces Base Wainwright, according to the defence minister.",
-          "url": "https://www.abc.net.au/news/2026-10-18/deaths-confirmed-after-fire-at-canada-military-base/107280694",
+          "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
+          "description": "U.S. consumers are uneasy about the increasingly high-tech ways that restaurant chains and major retailers are setting prices",
+          "url": "https://abcnews.com/Technology/wireStory/consumer-apprehension-grows-us-retailers-adopt-ai-assisted-137357982",
           "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+            "name": "ABC News - Breaking News, Latest News and Videos"
           },
-          "publishedAt": "2026-10-18T08:07:16Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/689ba0e5901c9cb4eae87c4b9f37551f?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-10-18T10:41:38Z",
+          "image": "https://i.abcnewsfe.com/a/9480af80-b549-4254-9adb-bf087dfb77e5/wirestory_64c446cd117d3be664de4ab570fb9857_16x9.jpg?w=1600",
           "language": "en"
         },
         {
-          "title": "'Not food poisoning; it is murder': Twist in Noida family deaths as dispute over property emerges",
-          "description": "NOIDA: A property dispute within the family has emerged as a key allegation in the deaths of a couple and their three minor children, who were found dead",
-          "url": "https://timesofindia.indiatimes.com/city/noida/not-food-poisoning-it-is-murder-twist-in-noida-family-deaths-as-dispute-over-property-emerges/articleshow/135025787.cms",
+          "title": "Investigation after man dies following assault in Dublin",
+          "description": "Gardaí have launched an investigation after a man died following an assault in Dublin 7 in the early hours of the morning.",
+          "url": "https://www.rte.ie/news/2026/1018/1595844-blackhorse-ave-dublin/",
           "source": {
-            "name": "The Times of India"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-10-18T08:07:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-135025851,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-          "language": "en"
-        },
-        {
-          "title": "10-pill warning for people taking ramipril, amlodipine, furosemide or ibuprofen",
-          "description": "A thousand people a day are ending up in hospital",
-          "url": "https://www.mirror.co.uk/news/health/10-pill-warning-people-taking-37784032",
-          "source": {
-            "name": "The Mirror"
-          },
-          "publishedAt": "2026-10-18T08:07:00Z",
-          "image": "https://i2-prod.mirror.co.uk/article37784038.ece/ALTERNATES/s1200d/1_GettyImages-2255595163-1.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Why metal detecting is booming in the age of social media and AI",
-          "description": "Metal detecting enthusiasts say the hobby helps them escape the digital world and slow down.",
-          "url": "https://www.bbc.com/news/articles/cmlyl0jp206ro",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-10-18T08:06:04Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e9db/live/36c04ac0-c8ba-11f1-a64c-550be9e3c66b.png",
+          "publishedAt": "2026-10-18T10:41:37Z",
+          "image": "https://www.rte.ie/images/0025310a-1600.jpg",
           "language": "en"
         }
       ]
