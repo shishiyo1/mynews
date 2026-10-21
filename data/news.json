@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-10-21T11:19:51.989Z",
+  "updatedAt": "2026-10-21T16:45:42.324Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "カードゲーム「これから私たちは、」でこれから何するか決めてみた",
-          "description": "友人と過ごす時間がマンネリ化して、ついダラダラと時間だけが過ぎてしまう。集まったはいいけれど、何をするか決められない。 だったら、「これから何をするか」をカー …",
-          "url": "https://rocketnews24.com/2026/10/21/2810267/",
+          "title": "【台風最新情報】大型で猛烈な台風30号（チャンパー） 今後の予想進路・シミュレーション 沖縄の南に進み、26日の予報円は朝鮮半島〜種子島・屋久島",
+          "description": "気象庁は2026年10月21日09時45分、台風第30号(チャンパー)について発表した。大型で猛烈な台風が、フィリピンの東の海上にある。週末には進路を北寄りに変え、東シナ海を北上しそうだ。26日(月)の予報円は大きく、朝鮮半島から種子島・屋久島まで入っている。今後の情報に注意したい。台風は大型で、強さは猛烈な勢力である。中心位置は北緯18.1度、東経130.2度で、西北西へ時速25kmで進んでいる。中心気圧は900hPa、中心付近の最大風速は60m/s、最大瞬間風速は85m/sである。25m/…",
+          "url": "https://www.fnn.jp/articles/-/1136863",
           "source": {
-            "name": "ロケットニュース24"
+            "name": "FNNプライムオンライン"
           },
-          "publishedAt": "2026-10-20T23:00:35Z",
-          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-3-1.jpeg?w=1200&h=630&crop=1",
+          "publishedAt": "2026-10-21T03:32:00Z",
+          "image": "https://fnn.ismcdn.jp/mwimgs/9/5/600/img_9543432729c469870d7fe88e83ec885850579.jpg",
           "language": "ja"
         },
         {
-          "title": "「仕事ができない人はクビになる」米国企業でかけられた衝撃の一言(ダイヤモンド・オンライン)",
-          "description": "2025年のnote創作大賞で「“仕事のできるエンジニアしかいらない”という怖い世界」が入選した、シアトルの巨大IT企業に勤める福原たまねぎ氏。11月18日に発売予定の新刊『その仕事、スケールするの？』から、米国企業でかけられた衝撃の一言を紹介します。...",
-          "url": "https://finance.yahoo.co.jp/news/detail/c51ad0ef4021ca906b8170abb8a3bf015211ce28",
+          "title": "魔法を、解け。科学×魔法のローグライクRPG『サイマジック』10月23日(金)よりG123で世界同時サービス開始決定！",
+          "description": "ＣＴＷ株式会社のプレスリリース（2026年10月21日 12時30分）魔法を、解け。科学×魔法のローグライクRPG『サイマジック』10月23日(金)よりG123で世界同時サービス開始決定！",
+          "url": "https://prtimes.jp/main/html/rd/p/000001666.000036635.html",
           "source": {
-            "name": "Yahoo!ファイナンス"
+            "name": "PR TIMES"
           },
-          "publishedAt": "2026-10-20T22:00:34Z",
-          "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+          "publishedAt": "2026-10-21T03:30:02Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/36635/1666/36635-1666-4a898189a36735eb73aa6f854052c3ed-1200x746.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
           "language": "ja"
         },
         {
-          "title": "「WordCraft」レビュー--無料で使えるオープンソースの「MS Word」クローン",
-          "description": "「Microsoft Word」をリバースエンジニアリングして開発されたオープンソースのワープロソフト「WordCraft」をレビュー。米ZDNET記者が、プロのライターの視点から、その魅力と気になった点を解説する。",
-          "url": "https://japan.zdnet.com/article/35253759/",
+          "title": "ゼレンスキー氏、アメリカの情報提供は「機能している」 トランプ氏の特使と会談後",
+          "description": "ウクライナのゼレンスキー大統領は20日、アメリカのトランプ大統領の特使、ウィトコフ氏と会談した。ゼレンスキー氏は終了後、ロシアのミサイル攻撃に関するアメリカの情報提供について「今は機能している」と述べた。",
+          "url": "https://www.bbc.com/japanese/articles/ck78p4053y8lo",
           "source": {
-            "name": "ZDNET Japan"
+            "name": "BBC"
           },
-          "publishedAt": "2026-10-20T22:00:00Z",
-          "image": "https://japan.zdnet.com/storage/2026/10/20/fe07edac52490dd8244b5549a5f72e49/large-weordcrafthero.jpg",
+          "publishedAt": "2026-10-21T03:03:37Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/c49a/live/3ca9cb60-ccba-11f1-9a39-31b474234113.jpg",
           "language": "ja"
         },
         {
-          "title": "強盗FPSの元祖『PAYDAY: The Heist』が発売15周年を記念したアップデートを実施！",
-          "description": "Starbreeze Entertainmentは強盗FPSの元祖として知られる『PAYDAY: The Heist』のPC版が10月20日に発売15周年を迎えたことを記念し、小規模なアップデートを",
-          "url": "https://news.yahoo.co.jp/articles/50addec91d54dc9a12f84fb9523f3761642ca974",
+          "title": "任天堂、「パッケージ版の販売は廃止しない」と明言。ただしSwitch 2に限る？",
+          "description": "任天堂がSwitch 2でのパッケージ版ソフト販売継続を明言しました。デジタル派だけでなく物理メディア派のユーザーも安心してゲームを楽しめる方針が示されています。",
+          "url": "https://www.gizmodo.jp/article/nintendo-switch-2-physical-games/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-10-21T03:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/10/20/bdf5794b-9546-4241-a0a7-f5a0e57bb6e7/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "「凄絶DV」で離婚協議中の“歌舞伎界のサラブレッド”が 26歳知人女性への傷害容疑で逮捕されていた 本人は取材に「許されるならば死んでお詫びしたい」",
+          "description": "名門「成駒屋」の次代を担うと期待されていた“歌舞伎界のサラブレッド”こと中村児太郎（32）の凄絶DVを、週刊新潮が報じたのは昨年6月のこと。この報道で表舞台から姿を消していた児太郎だったが、再び女性",
+          "url": "https://news.yahoo.co.jp/articles/0d847319a086a97dbbca5d3dce246b2475a49816",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-10-20T21:58:55Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000005-gamespav-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-10-21T02:40:23Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00010000-shincho-000-7-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "永作博美がセクハラ議員に怒り爆発、パチンコ店で出馬宣言する『あきらめません！』予告解禁（Bezzy）",
-          "description": "1月22日(金)に公開される永作博美主演の映画『あきらめません！』の予告映像とメインビジュアルが解禁された。【動画】怒りまくる永作博美に西野七瀬、佐津川愛美が勇気づけられていく『あきらめません！』予",
-          "url": "https://news.yahoo.co.jp/articles/ab272523a8aeedab4569aed4e0e26338596dbfef",
+          "title": "多っっっ！ 来年のサムスンは折りたたみスマホを6モデル準備中!?",
+          "description": "サムスンが来年リリースを噂される6モデルの折りたたみスマホについて解説。新登場のGalaxy Z SlideやProモデルを含むラインナップの最新リーク情報を紹介します。",
+          "url": "https://www.gizmodo.jp/article/2610-samsung-foldable-phones-six-models/",
           "source": {
-            "name": "Yahoo!ニュース"
+            "name": "Gizmodo"
           },
-          "publishedAt": "2026-10-20T21:11:42Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00010001-bezzy-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-10-21T02:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/10/20/15dd03f0-f5cc-41fd-ba0b-18bae245e839/original.jpg?w=1200&h=630",
           "language": "ja"
         },
         {
-          "title": "米国防長官 ネタニヤフ首相と会談",
-          "description": "[エルサレム／ワシントン　２０日　ロイター] - ヘグセス米国防長官が１９日にイスラエルを電撃訪問し、ネタニヤフ首相とイラン情勢について協議した。イスラエル首相報道官‌が２０日、ロイターに対し明らかに",
-          "url": "https://news.yahoo.co.jp/pickup/6599496",
+          "title": "地球の制約を脱ぎ捨て、世界が交差する未知の生態系へ。株式会社V、plantica公式ワールド「Cosmic Wonderland」を制作。『未知の惑星の植物園』を2026年10月23日(金)公開",
+          "description": "株式会社Vのプレスリリース（2026年10月21日 10時00分）地球の制約を脱ぎ捨て、世界が交差する未知の生態系へ。株式会社V、plantica公式ワールド「Cosmic Wonderland」を制作。『未知の惑星の植物園』を2026年10月23日(金)公開",
+          "url": "https://prtimes.jp/main/html/rd/p/000000200.000049339.html",
           "source": {
-            "name": "Yahoo!ニュース"
+            "name": "PR TIMES"
           },
-          "publishedAt": "2026-10-20T21:00:46Z",
-          "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/20/41cb4ff9c3c2bf80689e82aa41e49307cbb72cdea9b9be273073c35e909ecc9e.jpg",
+          "publishedAt": "2026-10-21T01:00:02Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/49339/200/49339-200-98bc9aef67d9e3c2583e4559153dad68-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
           "language": "ja"
         },
         {
-          "title": "【箱根駅伝】関東学生連合チーム個人枠を発表！慶應大の成沢翔英ら6人選出 明治学院大の髙橋歩夢は2年連続 チーム枠10校は12月10日発表",
-          "description": "関東学生陸上競技連盟は10月20日、来年1月の第103回箱根駅伝の関東学生連合チームとして出場する選手の一部を発表しました。今回発表されたのは、個人枠として選出された予選会総合21位以下の所属選手の",
-          "url": "https://news.yahoo.co.jp/articles/29ef0886e08c20ab4e1b51b0fab15d995aea3f79",
+          "title": "外交官らが抗議の退席、それでも演説 ネタニヤフ氏を突き動かすもの [イスラエル・パレスチナ問題][米・イスラエルのイラン攻撃 イラン情勢]：朝日新聞",
+          "description": "「14年前、私はこの壇上でレッドライン（譲れない一線）を引いた。イランに核爆弾を開発させないと誓った。それをまさに我々は実行した」　9月24日、ニューヨークで開かれた国連総会の一般討論演説の冒頭。イ…",
+          "url": "https://www.asahi.com/articles/ASVBL6FJQVBLUHBI02FM.html",
           "source": {
-            "name": "Yahoo!ニュース"
+            "name": "朝日新聞"
           },
-          "publishedAt": "2026-10-20T21:00:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-05211988-nnn-000-2-view.jpg?exp=10800",
+          "publishedAt": "2026-10-21T01:00:00Z",
+          "image": "https://imgopt.asahi.com/ogp/AS20261019000434_comm.jpg",
           "language": "ja"
         },
         {
-          "title": "21日は大阪や名古屋・東京などで30℃以上 最も遅い真夏日か 夜は一転ヒンヤリ",
-          "description": "今日21日は暖かい南よりの風で気温が上がるでしょう。最高気温は名古屋で32℃、大阪や東京都心は30℃の予想で、もし30℃以上になると統計開始以来、最も遅い真夏日になりそうです。ただ、次第に寒気が流れ込むため、夜は朝よりもヒンヤリする所が多いでしょう。服装でうまく調節してください。",
-          "url": "https://tenki.jp/forecaster/a_aoyama/2026/10/21/41027.html",
+          "title": "【ドラフト2026】オリックス、ロッテ、楽天はピッチャーの指名が中心？ 高木豊が考える層の薄さをカバーできそうな選手たち",
+          "description": "高木豊のドラフト予想　パ・リーグ後編（前編：パ・リーグ上位３球団の補強ポイント　日本ハムは菰田陽生で「二刀流の二枚看板」が実現するか＞＞）　高木豊氏に聞く2026年ドラフト会議の展望。パ・リーグ後編では、オリックス、ロッテ、楽天が指名す…",
+          "url": "https://sportiva.shueisha.co.jp/clm/baseball/npb/2026/10/21/_2026/",
           "source": {
-            "name": "tenki.jp"
+            "name": "webスポルティーバ"
           },
-          "publishedAt": "2026-10-20T20:45:38Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/41/410/41027/main/20261021050724/large.jpg",
+          "publishedAt": "2026-10-21T00:45:00Z",
+          "image": "https://sportiva.shueisha.co.jp/clm/baseball/npb/2026/images/takagi04.jpg",
           "language": "ja"
         },
         {
-          "title": "【ドラフト占う 投手編】横浜・織田翔希の強行指名はあるのか？ 大学ナンバー１右腕青学大・鈴木泰は競合必至、大分商・平田は１６０キロ期待",
-          "description": "プロ野球ドラフト会議 ｓｕｐｐｏｒｔｅｄ ｂｙ リポビタンＤ」が２２日午後４時５０分から、東京・港区のグランドプリンスホテル新高輪・国際館パミールで行われる。スポーツ報知は毎年恒例の「ドラフト番付」",
-          "url": "https://news.yahoo.co.jp/articles/e9d859dd67bb939198fff617e208488fb812d571",
+          "title": "『パルワールド』謎の新アプデ「Side by Side」発表、今年冬配信へ。ゾーイ・アウリ・サヤが意味深に並ぶ",
+          "description": "ポケットペアは10月20日、『Palworld / パルワールド』向けの新アップデート「パルワールド：Side by Side」を2026年冬に配信すると発表した。",
+          "url": "https://automaton-media.com/articles/newsjp/20261021-474572/",
           "source": {
-            "name": "Yahoo!ニュース"
+            "name": "AUTOMATON"
           },
-          "publishedAt": "2026-10-20T20:03:04Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-10201295-sph-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "米NY原油一時110ドル台、5カ月ぶり高値 ホルムズ海峡での攻撃警戒",
-          "description": "【ヒューストン=赤木俊介】米原油指標のWTI（ウエスト・テキサス・インターミディエート）期近11月物は20日、前日終値比で一時6.6%高の1バレル110.48ドルを付けた。4月30日以来、およそ5カ月ぶりの高値となった。中東でエネルギー輸送の要衝・ホルムズ海峡を通過する船舶や、湾岸諸国の施設を狙った攻撃が続いているという報道を受け、警戒感が広がった。上昇は一服し、20日終値は101.79ドルと",
-          "url": "https://www.nikkei.com/article/DGXZQOGN20BIE0Q6A021C2000000/",
-          "source": {
-            "name": "日本経済新聞"
-          },
-          "publishedAt": "2026-10-20T19:27:55Z",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3756448020102026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=109336994e5c7f4dc42b9b9a6c18ad37",
+          "publishedAt": "2026-10-20T23:52:25Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261021-474572-header.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Odds of fifth interest rate hike this year likely to shorten as RBA deputy warns inflation outlook ‘worsening’",
-          "description": "Andrew Hauser says central bank faces ‘hard choices’ as it looks to balance risks of entrenched inflation with desire to protect labour market",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening",
+          "title": "Kim Kardashian Turns 46: The Fitness Routine She Has Followed Over The Years",
+          "description": "Kim Kardashian prioritises weight training and structured workouts focusing on strength and longevity over appearance.",
+          "url": "https://www.ndtv.com/health/kim-kardashian-turns-46-the-fitness-routine-she-has-followed-over-the-years-12213412",
           "source": {
-            "name": "The Guardian"
+            "name": "NDTV"
           },
-          "publishedAt": "2026-10-20T23:19:09Z",
-          "image": "https://i.guim.co.uk/img/media/3a1be6464f56d2fbb1e61805a0d2c582b5739cc9/327_0_5348_4281/master/5348.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c957e39b28a4a69b106fe121ca7b4c0e",
+          "publishedAt": "2026-10-21T04:45:27Z",
+          "image": "https://c.ndtvimg.com/2023-06/77lup0cg_kim-kardashian-bloomberg_625x300_07_June_23.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
           "language": "en"
         },
         {
-          "title": "Bummer! Dricus du Plessis’ coach torpedoes potential UFC Light Heavyweight Grand Prix",
-          "description": "205 pounds? Not yet. It has been three months since former Ultimate Fighting Championship (UFC) Middleweight champion Dricus du Plessis dominated former Welterweight kingpin Kamaru Usman in the UFC Oklahoma City main event. Since then, “DDP” has remained relatively quiet about his next move. Du Plessis called for another title shot following his latest victory, […]",
-          "url": "https://sports.yahoo.com/articles/bummer-dricus-du-plessis-torpedoes-231840244.html",
+          "title": "Huge tunnel proposed to tackle sewage blighting Lake Windermere",
+          "description": "The plan would eliminate sewage spills into Windermere, blamed for turning the water green.",
+          "url": "https://www.bbc.co.uk/news/articles/cr5yn4pky527o",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "BBC"
           },
-          "publishedAt": "2026-10-20T23:18:40Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/4364a7072c08ecc19cd8016d8abc9bd5a6a4353e72e1b2537cfa1358eb6a9068/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F4418c7643a38203b0b50742172a539a1.jpg",
+          "publishedAt": "2026-10-21T04:44:56Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/66fa/live/87e7d560-cc9f-11f1-bc2e-018d645d8d21.jpg",
           "language": "en"
         },
         {
-          "title": "Nigeria records first Ebola case as outbreak spreads across Africa",
-          "description": "Nigeria has confirmed its first Ebola case in Africa's latest outbreak, while Kenya reported its ninth infection, raising fears of further spread across the continent. Africa CDC chief Jean Kaseya warned…",
-          "url": "https://www.france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa",
+          "title": "Nigeria • Thomson Broadcast awaits Abuja's green light for €400m project",
+          "description": "The French company, which specialises in radio and television broadcasting infrastructure, hopes to secure final approval from the Nigerian government. It is counting on a visit by the French",
+          "url": "https://www.africaintelligence.com/west-africa/2026/10/21/thomson-broadcast-awaits-abuja-s-green-light-for-e400m-project,110904715-art",
           "source": {
-            "name": "France 24"
+            "name": "Africa Intelligence"
           },
-          "publishedAt": "2026-10-20T23:18:00Z",
-          "image": "https://s.france24.com/media/display/db9f009a-cccf-11f1-8fb9-638c1c1f5fd6/w:1280/p:16x9/AP26293670227514.jpg",
+          "publishedAt": "2026-10-21T04:43:59Z",
+          "image": "https://www.africaintelligence.com/utils/imagesocial/Linkedin?rnd=950414&web=1&text=Mmp0SHN2cFJkL3JwZ0RVdGVVNnloZz090",
           "language": "en"
         },
         {
-          "title": "Scientists Use Ancient Rains to Map the Possible Origin Life on Mars",
-          "description": "Billions of years ago, rain may have helped shape where the chemistry of life could begin on Mars. A new study maps how formaldehyde, an important prebiotic molecule, may have reached the surface. This map could help guide future missions searching for signs of past life on Mars.",
-          "url": "https://www.universetoday.com/articles/scientists-use-ancient-rains-to-map-the-possible-origin-life-on-mars",
+          "title": "Instant Reaction: Canucks’ penalty kill perfect in 6",
+          "description": "Welcome back to Instant Reaction, the series here at CanucksArmy where we give you our instant reaction to tonight’s Vancouver Canucks game and ask our readers to do the same in the comments section below!   Lineup DeBrusk – EP40 – Karlsson Cotter – Chytil – Boeser Öhgren – O’Connor – Lekkerimäki Bains – Sasson – Gallagher EP25 –…",
+          "url": "https://canucksarmy.com/news/instant-reaction-vancouver-canucks-penalty-kill-perfect-6-3-loss-carolina-hurricanes",
           "source": {
-            "name": "Universe Today"
+            "name": "Canucks Army"
           },
-          "publishedAt": "2026-10-20T23:16:00Z",
-          "image": "https://www.universetoday.com/article_images/mars_landscape_dry_wet_0_20261020_231419.jpg",
+          "publishedAt": "2026-10-21T04:43:35Z",
+          "image": "https://canucksarmy.com/_next/image?url=https://publish.canucksarmy.com/wp-content/uploads/sites/3/2026/10/2026-10-21T040837Z_4671084_MT1USATODAY30141778_RTRMADP_3_NHL-CAROLINA-HURRICANES-AT-VANCOUVER-CANUCKS-scaled.jpg&w=1200&q=75",
           "language": "en"
         },
         {
-          "title": "Proof of Purchase Isn’t Proof of Protection: Indonesia’s 200-Device Mining Case",
-          "description": "An Indonesian mining operation has deployed approximately 200 connected worker-monitoring devices, and the technology provider says the first commercial phase has been settled. That establishes something many industrial technology startups struggle to achieve: a paying enterprise customer. Yet one important question remains unanswered. Has the system actually made workers safer? The experience, shared exclusively with",
-          "url": "https://koreatechdesk.com/indonesia-mining-safety-iot-deployment-vitalwatch-360",
+          "title": "TWICE's Ji-hyo leaves JYP, establishes new agency 'EMITHAUS'… \"Not a parting from the team\" [Official]",
+          "description": "Ji-hyo of the group TWICE announced her new leap forward by establishing the newly founded agency 'EMITHAUS'.Ji-hyo revealed a handwritten letter through her social networking service (SNS) account at noon on the 21st.",
+          "url": "https://www.starnewskorea.com/en/music/2026/10/21/2026102113360473893",
           "source": {
-            "name": "KoreaTechDesk"
+            "name": "스타뉴스"
           },
-          "publishedAt": "2026-10-20T23:15:01Z",
-          "image": "https://koreatechdesk.com/wp-content/uploads/2026/10/indonesia-mining-safety-iot-deployment-vitalwatch-360-COVER.jpg",
+          "publishedAt": "2026-10-21T04:42:58Z",
+          "image": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=800,fit=cover,q=high,sharpen=2/21/2026/10/2026102113360473893_1.jpg",
           "language": "en"
         },
         {
-          "title": "‘I forgot to pay’: Victoria’s premier Ben Carroll drives off without paying for petrol, sparking police inquiries",
-          "description": "After being contacted by officers, politician says, he has paid bill and is ‘grateful for the team at the servo for their understanding’",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/21/i-forgot-to-pay-victorian-premier-ben-carroll-drove-off-with-paying-for-petrol-sparking-police-inquiries-ntwnfb",
+          "title": "Brief MRT delay during morning rush triggers long queues at Lakeside station",
+          "description": "Commuters encountered long queues and crowding at Lakeside MRT station on Wednesday morning (Oct 21) amid a reported train delay between Buona Vista and Outram Park stations.A Reddit post shared on Wednesday showed a queue of commuters waiting to enter Lakeside MRT station, with the poster wondering what conditions were like inside the station and at other stations along the...",
+          "url": "https://www.asiaone.com/singapore/mrt-delay-morning-rush-long-queues-lakeside-mrt-station",
           "source": {
-            "name": "The Guardian"
+            "name": "AsiaOne.com"
           },
-          "publishedAt": "2026-10-20T23:15:00Z",
-          "image": "https://i.guim.co.uk/img/media/09a021d8811536219f139650a7e8c4b5def5d02f/2993_409_3898_3118/master/3898.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ecfddbfea70ad5fcd026c9de23a754f9",
+          "publishedAt": "2026-10-21T04:42:00Z",
+          "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Oct2026/Redditmrtminordelay_211026.jpg?itok=vno1IFIS",
           "language": "en"
         },
         {
-          "title": "Lawsuit challenging Trump's tariffs against Canada filed in U.S. Court of International Trade",
-          "description": "A lawsuit challenging U.S. President Donald Trump's tariffs targeting Canada has been filed in the United States Court of International Trade.",
-          "url": "https://www.cbc.ca/news/world/trump-tariffs-lawsuit-9.7388900",
+          "title": "Tamil Nadu rains LIVE: CM Vijay to chair meeting on Northeast monsoon preparedness",
+          "description": "Tamil Nadu, Andhra rains LIVE: Follow The Hindu's latest updates as a fresh system over the Bay of Bengal triggers heavy rainfall over several regions in South India.",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rains-live-updates-chennai-school-holiday-october-21-2026/article71606190.ece",
           "source": {
-            "name": "CBC"
+            "name": "The Hindu"
           },
-          "publishedAt": "2026-10-20T23:14:13Z",
-          "image": "https://i.cbc.ca/ais/11bd9eaf-798e-452b-b81a-bd5193584d36,1792538014461/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3BResize%3D620",
+          "publishedAt": "2026-10-21T04:40:11Z",
+          "image": "https://th-i.thgim.com/public/incoming/1jt3kr/article71606241.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-21%20at%208.26.37%20AM.jpeg",
           "language": "en"
         },
         {
-          "title": "‘Some schoolgirls position themselves to sexually exploit teachers for their money’ - Teacher alleges",
-          "description": "A teacher at Ekumpoano Catholic Basic School, Stephen Desu, has raised concerns about alleged transactional sexual relationships between teachers and female",
-          "url": "https://www.adomonline.com/some-schoolgirls-position-themselves-to-sexually-exploit-teachers-for-their-money-teacher-alleges/",
+          "title": "Tan Sri accused of taking RM5.5mil, S$1.5mil to settle probe",
+          "description": "Tan Kean Soon is accused of cheating a businessman by claiming he could use the money to help resolve the freezing of the latter’s bank accounts and police probes.",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/21/tan-sri-accused-of-taking-rm5-5mil-s-1-5mil-to-settle-probe",
           "source": {
-            "name": "Adomonline.com"
+            "name": "Free Malaysia Today"
           },
-          "publishedAt": "2026-10-20T23:12:13Z",
-          "image": "https://www.adomonline.com/wp-content/uploads/2026/10/tee-e1792553584388-684x424-1.png",
+          "publishedAt": "2026-10-21T04:38:04Z",
+          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/01/af99b948-kompleks-mahkamah-kuala-lumpur-fmt-resize-280126-1.webp",
           "language": "en"
         },
         {
-          "title": "hedley studios shrinks the porsche 550 spyder into a handcrafted electric two-seater",
-          "description": "limited to 250 examples, the miniature racer revives a 1950s motorsport icon with vintage curves and a 50 mph top speed.",
-          "url": "https://www.designboom.com/technology/hedley-studios-shrinks-porsche-550-j-spyder-electric-car/",
+          "title": "Mining giant fires top executive after sexual harassment probe",
+          "description": "The Andrew Forrest-backed miner has sacked a manager at the centre of a months-long sexual harassment and bullying investigation.",
+          "url": "https://www.smh.com.au/business/companies/mining-giant-fires-top-executive-after-sexual-harassment-probe-20261021-p617in.html",
           "source": {
-            "name": "Designboom"
+            "name": "SMH.com.au"
           },
-          "publishedAt": "2026-10-20T23:11:26Z",
-          "image": "https://www.designboom.com/twitterimages/uploads/2026/10/porsche-550-spyder-j-hedley-studios-mini-electric-car-designboom-FB.jpg",
+          "publishedAt": "2026-10-21T04:37:58Z",
+          "image": "https://static.ffx.io/images/$zoom_0.3779443254817987%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_93/t_crop_custom/q_86%2Cf_auto/99aa5e9e26e716e141462b20bf7ef60c13882450",
           "language": "en"
         },
         {
-          "title": "Mystery skeleton found in Roman sarcophagus at Westminster Abbey may finally have an identity",
-          "description": "The identity of a mysterious skeleton found in a Roman sarcophagus in the grounds of Westminster Abbey more than 150 years ago appears closer to being solved.",
-          "url": "https://phys.org/news/2026-10-mystery-skeleton-roman-sarcophagus-westminster.html",
+          "title": "Elon Musk backs SpaceX-Tesla merger as rocket firm turns profit",
+          "description": "Elon Musk has signalled his support for a potential merger between SpaceX and Tesla, as SpaceX reported a sharp rise in revenue and its first quarterly profit since going public.",
+          "url": "https://www.euronews.com/2026/10/21/elon-musk-backs-spacex-tesla-merger-as-rocket-firm-turns-profit",
           "source": {
-            "name": "Phys.org"
+            "name": "Euronews.com"
           },
-          "publishedAt": "2026-10-20T23:10:01Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/mystery-skeleton-found.jpg",
+          "publishedAt": "2026-10-21T04:37:11Z",
+          "image": "https://images.euronews.com/articles/stories/09/96/08/83/1200x675_cmsv2_9d405aa4-0177-5d78-b75c-9c309accb05e-9960883.jpg",
           "language": "en"
         }
       ]
