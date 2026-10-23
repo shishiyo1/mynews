@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-10-23T16:37:14.705Z",
+  "updatedAt": "2026-10-23T21:05:35.076Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "2026年11月30日 月と火星、木星が接近",
+          "description": "2026年11月30日の深夜から12月1日の明け方、月と火星、木星が接近する。",
+          "url": "https://www.astroarts.co.jp/article/hl/a/14273_ph261130",
+          "source": {
+            "name": "アストロアーツ"
+          },
+          "publishedAt": "2026-10-23T08:48:45Z",
+          "image": "https://www.astroarts.co.jp/article/assets/2026/10/56552_key_visual.png",
+          "language": "ja"
+        },
+        {
+          "title": "『AVA RE:BIRTH』、10月28日に正式サービス開始決定！クラン戦やトーナメント、コスト制など、冬のアップデート計画も公開",
+          "description": "株式会社G・O・Pのプレスリリース（2026年10月23日 17時43分）『AVA RE:BIRTH』、10月28日に正式サービス開始決定！クラン戦やトーナメント、コスト制など、冬のアップデート計画も公開",
+          "url": "https://prtimes.jp/main/html/rd/p/000000215.000155525.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-10-23T08:43:00Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/155525/215/155525-215-890e1883e6b9f489cf343a4b6f1f5df9-1020x560.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "東京アプリが見やすく使いやすく！利用者視点で東京アプリをリニューアル",
+          "description": "このたび、都民の皆様に、東京アプリを見やすく使いやすくご利用いただけるようリニューアルを実施します。ぜひ新しい東京アプリをご利用ください。\nまた、障害や認知症等を抱えご自身でのスマートフォン操作が困難な方を対象に、「東京アプリ生活応援事業」の代理申請を開始し、より多くの方にご利用いただける環境を整備します。",
+          "url": "https://www.metro.tokyo.lg.jp/information/press/2026/10/2026102312",
+          "source": {
+            "name": "都庁総合ホームページ"
+          },
+          "publishedAt": "2026-10-23T08:01:08Z",
+          "image": "https://www.metro.tokyo.lg.jp/documents/45925314/273639662/20261023_16_02.png/24c67f56-d69c-443b-6ce1-9e64e66a6dfb?version=1.0&t=1792727079018&imagePreview=1",
+          "language": "ja"
+        },
+        {
+          "title": "アップルは大型のiPhone Duoも検討しているらしい",
+          "description": "iPhone Duo 2はそうなるの？まだ全然具体性もない未来の可能性。という前提の元お伝えしますが、iPhone Duo、もうちょっと画面大きくてもいいかも？ な話も出ているようです。Bloombergのマーク・ガーマン記者は、10月22",
+          "url": "https://www.gizmodo.jp/article/2610-apple-considering-larger-iphone-duo/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-10-23T08:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/10/23/61b2f6cd-0157-49e4-a64b-7d58c5cd96e6/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "東京アプリが見やすく使いやすく！～利用者視点で東京アプリをリニューアル～",
+          "description": "東京都のプレスリリース（2026年10月23日 15時53分）東京アプリが見やすく使いやすく！～利用者視点で東京アプリをリニューアル～",
+          "url": "https://prtimes.jp/main/html/rd/p/000007039.000052467.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-10-23T06:53:50Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/52467/7039/52467-7039-084e9623b8d0b706d85aa16b182e0a7a-153x152.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "推しをぎゅぎゅっとディスプレイ！ 新感覚カプセルトイ型「コレクションポット」が11月新発売",
+          "description": "株式会社ハックキダルト必見！お気に入りのチャーム＆推し活グッズが飾れるディスプレイ2種が新登場",
+          "url": "https://www.ehime-np.co.jp/article/prtimes109443",
+          "source": {
+            "name": "愛媛新聞"
+          },
+          "publishedAt": "2026-10-23T06:08:45Z",
+          "image": "https://www.ehime-np.co.jp/media/images/news/20261023/img2dd6adaf97080b43.jpeg",
+          "language": "ja"
+        },
+        {
+          "title": "「Sensei」「Rival」が交換式バッテリー＋超広帯域ワイヤレス技術搭載で帰ってきた！ SteelSeries新作ゲーミングマウス発表会",
+          "description": "SteelSeriesは10月22日、東京・上野の「esports style UENO」で、ワイヤレスゲーミングマウス「Sensei Pro」「Rival Pro」のメディア発表会を開催した。9月末に海外で発表されていた製品で、今回あらためて国内向けに詳細が説明された形だ。参考価格は全モデル各33,310円。予約受付は同日から始まっている。ブラックは11月20日、ホワイトは12月中旬以降の発売予定となっている。",
+          "url": "https://game.watch.impress.co.jp/docs/kikaku/2150720.html",
+          "source": {
+            "name": "GAME Watch"
+          },
+          "publishedAt": "2026-10-23T05:47:19Z",
+          "image": "https://game.watch.impress.co.jp/img/gmw/list/2150/720/0.jpg",
+          "language": "ja"
+        },
         {
           "title": "【ドラフト会議セ・リーグBクラス採点】広島はゾンビ騒動の余波残るドラフトに…投打のバランス取れた中日は高評価、ヤクルトの指名には“テーマ”が見えた｜記事一覧｜高校野球ドットコム",
           "description": "頑張っている球児を応援する高校野球報道サイト。コラムや試合記事など高校野球情報を公開中。",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-10-23T03:08:10Z",
           "image": "https://img-mdpr.freetls.fastly.net/article/Qbae/nm/Qbaew9gdClOLwpi42oB165m_SDJwAU-m-ck46UUR47k.jpg?width=700&disable=upscale&auto=webp&quality=80",
           "language": "ja"
-        },
-        {
-          "title": "「ゲームボーイ Nintendo Classics」に「モグラ～ニャ」「ピンボール 66匹のワニ大行進」「ファンタズム」が追加！",
-          "description": "任天堂は「ゲームボーイ Nintendo Classics」に3タイトルを2026年10月27日(火)から追加すると発表！「モグラ～ニャ」「ピンボール 66匹のワニ大行進」「ファンタズム」が登場します。Nintendo Switch Onlineの加入者は、追加料金なしでプレイ可能です。…",
-          "url": "https://saiganak.com/ja/news/gameboy-nintendo-classics-3-titles-added-oct2026/",
-          "source": {
-            "name": "Saiga NAK"
-          },
-          "publishedAt": "2026-10-23T03:02:35Z",
-          "image": "https://i0.wp.com/uploads.saigacdn.com/2026/10/gameboy-nintendo-classics-3-titles-added-oct2026-00.jpg?resize=1200,630",
-          "language": "ja"
-        },
-        {
-          "title": "「幻の巨大魚釣りに現地へ」報道も…モンゴル大規模火災、出火元はKDDI子会社幹部らの車か トップ謝罪も副首相「おわびだけでは済まされない」",
-          "description": "希少な野生動物が生息するモンゴル東部の自然保護区で10月、東京都の2倍を超える面積が消失する大規模な火災が発生した。出火の原因になったとされているのは、日本の大手通信企業KDDIの子会社で、モンゴルで通信事業を展開する「モビコム」の幹部らを乗せた車だ。日系企業のトップがモンゴル国民に向けて謝罪する事態となった今回の火災。現地で一体、何が起きていたのか。モンゴルで発生した大規模火災。辺り一面焼け野原となり、自然豊かだった地域は見渡す限り黒く染まった。影響は国境付近にまで及んだ。山の向こうに黒煙が…",
-          "url": "https://www.fnn.jp/articles/-/1138320",
-          "source": {
-            "name": "FNNプライムオンライン"
-          },
-          "publishedAt": "2026-10-23T03:00:00Z",
-          "image": "https://fnn.ismcdn.jp/mwimgs/5/e/600/img_5ef1cd4d8716f58b72146d2f13a31ec1395254.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Duoだけじゃない。iPhone Air 2はどう変わる？ 噂まとめ（10/22更新）",
-          "description": "その独特なコンセプトから、一時期は「もう後継機は出ないのでは？」と怪しまれていた、iPhone Air。しかしさまざまな噂が告げています。後継機として、iPhone Air 2が登場することを。初代iPhone Airは薄さにフルコミットし",
-          "url": "https://www.gizmodo.jp/article/iphone-air-2-rumors/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-10-23T03:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/10/22/8a5edf16-98ef-40de-b084-92b91e2528e8/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "【ドラフト会議パ・リーグBクラス採点】大学生NO.1捕手の交渉権を引き当てた楽天が最高評価！ロッテの巧みな戦略、オリックスの即戦力投手指名にも納得｜記事一覧｜高校野球ドットコム",
-          "description": "頑張っている球児を応援する高校野球報道サイト。コラムや試合記事など高校野球情報を公開中。",
-          "url": "https://www.hb-nippon.com/articles/18586",
-          "source": {
-            "name": "高校野球ドットコム"
-          },
-          "publishedAt": "2026-10-23T02:57:05Z",
-          "image": "https://cdn.hb-nippon.com/article-img/YYP65WuynyMXByslbmvu0Cr3LjdjZMDQl4TUBxR2.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【インタビュー】宮本茂氏の文化勲章受章が決定。マリオ誕生秘話から生成AI、ゲームの未来まで50年の軌跡をたどる",
-          "description": "任天堂の代表取締役フェロー、宮本茂氏による文化勲章受章に伴う記者会見が、10月22日に京都の任天堂本社で行われた。",
-          "url": "https://game.watch.impress.co.jp/docs/interview/2150508.html",
-          "source": {
-            "name": "GAME Watch"
-          },
-          "publishedAt": "2026-10-23T02:30:00Z",
-          "image": "https://game.watch.impress.co.jp/img/gmw/list/2150/508/01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Snow Man阿部亮平、『星の王子さま』を温かな声で朗読 心に残った一節も紹介",
-          "description": "ニュース｜　9人組グループ・Snow Manの阿部亮平（32）が23日、東京・銀座 蔦屋書店 GINZA ATRIUMで行われたベルルッティ エキシビション「レゾナンス―ベルルッティと『星の王子さま』の対話」プレスセッションに登壇。『星の王子さま』の一節を朗読した。　一足早く会場を見学した阿部は、「本当にかわいらしい空間ですよね。『星の王子さま』の世界をちょっとのぞいてみたような気持ちにもなれる」とにっこり。「ベルルッティの歴史を少したどれるようなところもありまして、まさに小説、文学と、職人技との“レゾナンス”なんです」と、展示の印象を語った。",
-          "url": "https://www.oricon.co.jp/news/2488267/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-10-23T02:04:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2489000/2488267/20261023_105158_p_o_30495039.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "アニメ『終末のワルキューレIII』オンラインくじ第2弾〈Side神〉が「くじクリフ」より発売開始！：時事ドットコム",
-          "description": "［株式会社サトクリフ］「くつろぎTime」がテーマのハデス、ベルゼブブ、アポロンの新規描き下ろしイラストを使用したグッズ39種類が登場！株式会社サトクリフ（本社：東京都千代田区、代表取締役社長：加藤 勝）は、運営するオンラインくじサービス「くじクリフ」より、アニメ『終末のワルキューレIII』オンラインくじ第2弾〈Side神〉を2026年10月23日(金)10:00より販売いたします。今回のテーマは「くつろぎTime」！そのほか、「オンラインくじ〈Side人類〉」「オンラインサイトオリジナルグッズ…",
-          "url": "https://www.jiji.com/jc/article?k=000000161.000121219&g=prt",
-          "source": {
-            "name": "時事ドットコム"
-          },
-          "publishedAt": "2026-10-23T01:46:00Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/121219/161/121219-161-e8547602685bd3a22892b29e5aa57618-3126x2084.png?width=536&quality=85%2C75&format=jpeg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Swiggy shares crash nearly 15% post-Q2 earnings; what spooked investors",
-          "description": "The sharp sell-off reflects investor concerns over softer-than-expected performance in its key food delivery and quick-commerce businesses, alongside intensifying competition.",
-          "url": "https://upstox.com/news/market-news/stocks/swiggy-shares-crash-13-post-q2-earnings-what-spooked-investors/article-202277/",
+          "title": "Storm Boelo: Severe weather warning issued for Donegal tomorrow",
+          "description": "Met Éireann has issued a Status Orange weather warning for Donegal tomorrow.It said Storm Boelo will see gale force westerly winds with severe gusts hitting Don...",
+          "url": "https://www.donegaldaily.com/lead-stories/storm-boelo-severe-weather-warning-issued-for-donegal-tomorrow-655382",
           "source": {
-            "name": "Upstox"
+            "name": "Donegal Daily"
           },
-          "publishedAt": "2026-10-23T04:36:37Z",
-          "image": "https://assets.upstox.com/content/assets/images/news/swiggy-shares-oct-23-2026.webp",
+          "publishedAt": "2026-10-23T09:05:00Z",
+          "image": "https://i.resized.co/donegaldaily/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAyM1xcXC8wMVxcXC9PcmFuZ2Utd2FybmluZy5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvc3RvcmFnZS5kb25lZ2FsZGFpbHkuY29tXFxcL3Byb2RcXFwvdXBsb2Fkc1xcXC8yMDI2XFxcLzAzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIwNTljZGFlNzhmOGM3OWM3M2IwMTM2NzYzMjM3ZTcyN2U1YzRlMTg4In0=/storm-boelo-severe-weather-warning-issued-for-donegal-tomorrow.jpg",
           "language": "en"
         },
         {
-          "title": "Opposition wants PM to initiate dialogue",
-          "description": "Opposition wants PM to initiate dialogue",
-          "url": "https://tribune.com.pk/story/2636424/opposition-wants-pm-to-initiate-dialogue",
+          "title": "The feature film by Kairišs and Avots \"Ulya\" will be shown at international film festivals",
+          "description": "At the Rome Film Festival, the film will be presented this week by Kairišs and Avots, and after its premiere in Rome, \"Ulya\" will be released in theaters across Italy. In turn, in November, the film will open two European film festivals - the Nordic",
+          "url": "https://news.inbox.eu/150wnsi-the-feature-film-by-kairiss-and-avots-ulya-will-be-shown-at-international-film-festivals?language=en",
           "source": {
-            "name": "The Express Tribune"
+            "name": "Inbox.eu"
           },
-          "publishedAt": "2026-10-23T04:33:23Z",
-          "image": "https://i.tribune.com.pk/media/images/whatsapp-image-2026-01-16-at-12-09-38-am1768504447-0/whatsapp-image-2026-01-16-at-12-09-38-am1768504447-0-640x480.webp",
+          "publishedAt": "2026-10-23T09:04:33Z",
+          "image": "https://news.inbox.eu/w/img/47/cf/47cf0ac85cf6b5110d.webp",
           "language": "en"
         },
         {
-          "title": "Climate authority not functional yet",
-          "description": "Climate authority not functional yet",
-          "url": "https://tribune.com.pk/story/2636408/climate-authority-not-functional-yet",
+          "title": "Christy Moore announces Vicar Street show with Beoga",
+          "description": "Christy Moore has announced a special concert with Irish folk group Beoga at Dublin's Vicar Street in a show of solidarity with the band.",
+          "url": "https://www.rte.ie/entertainment/2026/1023/1596569-christy-moore-announces-vicar-street-show-with-beoga/",
           "source": {
-            "name": "The Express Tribune"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-10-23T04:33:04Z",
-          "image": "https://i.tribune.com.pk/media/images/climate-change-minister1792711715-0/climate-change-minister1792711715-0-640x480.webp",
+          "publishedAt": "2026-10-23T09:03:52Z",
+          "image": "https://www.rte.ie/images/0022be57-1600.jpg",
           "language": "en"
         },
         {
-          "title": "Udta Teer review: Dhurandhar meets comedy of errors in Ayushmann's spy caper",
-          "description": "Udta Teer movie review: Udta Teer is a spy comedy that cleverly blends humour with a tale of mistaken identity and patriotism, featuring Ayushmann Khurrana and Sara Ali Khan. The film’s light-hearted approach to espionage, coupled with sharp writing and a strong supporting cast, makes it an entertaining watch.",
-          "url": "https://www.indiatoday.in/movies/reviews/story/udta-teer-review-ayushmann-khurrana-sara-ali-khan-spy-comedy-3023186-2026-10-23",
+          "title": "Unlocking the secrets of the ‘Dragon Man’ skull - and what it reveals about human evolution",
+          "description": "Most of what we knew about early modern humans has been turned upside down in the past two decades – and many more questions remain.",
+          "url": "https://theconversation.com/unlocking-the-secrets-of-the-dragon-man-skull-and-what-it-reveals-about-human-evolution-291321",
           "source": {
-            "name": "India Today"
+            "name": "The Conversation"
           },
-          "publishedAt": "2026-10-23T04:31:39Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/udta-teer-235327572-16x9_0.jpg?VersionId=J0mISL4Fos.0WZaIosXsiYFxv52HdeKA",
+          "publishedAt": "2026-10-23T09:03:28Z",
+          "image": "https://images.theconversation.com/files/761221/original/file-20260921-60-pr752s.jpg?ixlib=rb-4.1.1&rect=0%2C561%2C6720%2C3360&q=45&auto=format&w=1356&h=668&fit=crop",
           "language": "en"
         },
         {
-          "title": "Canva Craft brings AI images into editable design",
-          "description": "Canva Craft generates AI images with planned layouts and editable design workflows. Here's what marketing teams can use now.",
-          "url": "https://www.contentgrip.com/canva-craft-image-model/",
+          "title": "Malta Publishes Amount Foreign Residents Will Begin Paying as Tax From January 2027",
+          "description": "Malta has published a new tax framework, raising the minimum annual tax for foreign residents to €35,000 while retaining a 15% flat rate on remitted overseas income.",
+          "url": "https://yen.com.gh/people/314347-malta-publishes-amount-foreign-residents-paying-tax-january-2027/",
           "source": {
-            "name": "ContentGrip"
+            "name": "Yen News"
           },
-          "publishedAt": "2026-10-23T04:31:20Z",
-          "image": "https://contentgrip-media.b-cdn.net/featured/Canva-Craft-brings-AI-images-into-editable-design.webp",
+          "publishedAt": "2026-10-23T09:02:44Z",
+          "image": "https://cdn.yen.com.gh/images/1200x675/fb0a0212f075dd9c.jpeg?v=1",
           "language": "en"
         },
         {
-          "title": "A decade later, threat of Kidapawan unrest looms again as El Niño ravages farms",
-          "description": "The Department of Agriculture estimates damage in the sector hitting P20 billion, affecting millions of farmers and fisherfolk",
-          "url": "https://www.rappler.com/philippines/threat-kidapawan-unrest-looms-el-nino-ravages-farms/",
+          "title": "U.S. oil holds above $100, Brent at five-month high",
+          "description": "U.S. President Donald Trump accused Iran on Thursday of trying to manipulate the oil market.",
+          "url": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
           "source": {
-            "name": "Rappler"
+            "name": "CNBC"
           },
-          "publishedAt": "2026-10-23T04:30:27Z",
-          "image": "https://www.rappler.com/tachyon/2024/06/Image.jpeg",
+          "publishedAt": "2026-10-23T09:02:44Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108438225-17925170852026-10-20t163544z_1490129806_rc2p1oalm2ym_rtrmadp_0_syria-saudi-aramco.jpeg?v=1792517248&w=1920&h=1080",
           "language": "en"
         },
         {
-          "title": "Jailer 2 worldwide box office collection: Rajinikanth-starrer mints ₹600 crore; is 2nd highest-grossing Tamil film ever, beating Leo, Jailer, Coolie",
-          "description": "Rajinikanth's Jailer 2 is now the second-biggest Tamil hit of all time, having earned over ₹600 crore worldwide.",
-          "url": "https://www.hindustantimes.com/entertainment/tamil-cinema/jailer-2-worldwide-box-office-collection-day-5-rajinikanth-nelson-dilipkumar-film-2nd-highest-grossing-tamil-film-beats-leo-jailer-coolie-101792728172350.html",
+          "title": "Birdwatching rewires the brain and slows cognitive decline",
+          "description": "Birdwatching can help slow brain ageing and is increasingly being used as therapy for dementia patients.",
+          "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
           "source": {
-            "name": "Hindustan Times"
+            "name": "BBC"
           },
-          "publishedAt": "2026-10-23T04:30:04Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/10/23/1600x900/logo/Jailer_box_office_1792728508018_OOWY_1792728508150_hIES_325d3b41-9b82-4dad-9eb1-14b22ef3c4c5_F8k7.jpeg",
+          "publishedAt": "2026-10-23T09:01:42Z",
+          "image": "https://ychef.files.bbci.co.uk/624x351/p0pj6qr2.jpg",
           "language": "en"
         },
         {
-          "title": "Beoga on quitting Ed Sheeran’s tour: ‘You have to hold your friends accountable’",
-          "description": "The Irish trad band say the star should have cancelled tour dates rather than allow Macklemore to be dropped from the bill over his support for Palestine",
-          "url": "https://www.irishtimes.com/culture/music/2026/10/23/irish-trad-group-beoga-on-quitting-ed-sheerans-tour-you-have-to-hold-your-friends-accountable/",
+          "title": "Brighton will enter Premier League title race if they beat Liverpool and Man City, says Paul Merson",
+          "description": "Merson says Fabian Hurzelers Seagulls will one million per cent be in the title race if they win their next two Premier League games; watch Liverpool vs Brighton live on Sky Sports Premier League on Sunday; kick-off 2pm",
+          "url": "https://www.skysports.com/football/news/13602288/brighton-will-be-in-premier-league-title-race-if-they-beat-liverpool-and-man-city-says-paul-merson",
           "source": {
-            "name": "The Irish Times"
+            "name": "Sky Sports"
           },
-          "publishedAt": "2026-10-23T04:30:00Z",
-          "image": "https://www.irishtimes.com/resizer/v2/6VRA4FUB4BHA5DVUTHWTSX5TBA.jpg?smart=true&auth=464a3bddfdda7046d9241d13ce66a34815edc74904f8057a985e4037be8235d6&width=1200&height=630",
+          "publishedAt": "2026-10-23T09:01:30Z",
+          "image": "https://e0.365dm.com/26/10/1600x900/skysports-fabian-hurzeler-brighton_7383760.jpg?20261022145359",
           "language": "en"
         },
         {
-          "title": "IDF launches manhunt after shooting attack near Judea Junction, several wounded",
-          "description": "IDF soldiers are on their way to the scene, and have launched a manhunt for the terrorist. The military also said that they had established roadblocks in the area.",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-912642",
+          "title": "Marvel's only TV show in development gets first story details, and fans think they tease an X-Men link",
+          "description": "The first Zodiac story details have arrived",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/marvels-only-tv-show-development-090056627.html",
           "source": {
-            "name": "The Jerusalem Post"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-10-23T04:29:39Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743262",
+          "publishedAt": "2026-10-23T09:00:56Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/c57bd490f5bd305664e2f33cbb5990755a2ca819186fa5d4634fe7fff534869f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftotal_film_411%2F5f97d819d956fe7eecec4e716701e2e6.jpg",
           "language": "en"
         },
         {
-          "title": "Condon confessed to shooting and asked friend to help clean 'mess', trial hears",
-          "description": "Former Sydney police officer Beau Lamarre-Condon told a friend he had shot two people, and asked for help cleaning up his \"mess\", a jury has heard.",
-          "url": "https://www.abc.net.au/news/2026-10-23/beau-lamarre-condon-trial-ex-cop-joked-about-shooting/107299482",
+          "title": "'Avatar: Seven Havens' pays tribute to 'The Last Airbender's cabbage merchant, with a twist",
+          "description": "\"Avatar: Seven Havens\" riffs on \"The Last Airbender\"s cabbage merchant running gag in its eighth episode.",
+          "url": "https://mashable.com/entertainment/avatar-seven-havens-cabbage-merchant-tribute",
           "source": {
-            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
+            "name": "Mashable"
           },
-          "publishedAt": "2026-10-23T04:29:14Z",
-          "image": "https://live-production.wcms.abc-cdn.net.au/250d943da6e4d384fe73ea7d7a17257a?impolicy=wcms_watermark_news&cropH=859&cropW=1527&xPos=393&yPos=0&width=862&height=485&imformat=generic",
+          "publishedAt": "2026-10-23T09:00:53Z",
+          "image": "https://helios-i.mashable.com/imagery/articles/02t5KdmnUqn9az3U52K8rIv/hero-image.fill.size_1200x675.v1792702057.jpg",
           "language": "en"
         }
       ]
