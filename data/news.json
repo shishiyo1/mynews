@@ -1,10 +1,43 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-10-24T22:56:33.567Z",
+  "updatedAt": "2026-10-25T03:36:55.038Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "「もっと早く買えばよかった」 ワークマンの“防水防寒コート”が好評 「0度でも着込まず問題なし」「ポケットたくさんでカバンいらず」「雪山でも寒さを感じなかった」",
+          "description": "ワークマンの「イナレムプレミアム防水防寒コート」は、厳しい寒さに備えられる、防水性と防寒性を兼ね備えたアウターです。耐水圧2万ミリメートル、透湿度4万グラム／平方メートル・24時間の防水透湿性能に加え、発熱わた、グラフェンわた、ダウンを融合した中わたを採用。冬に備えてアウターの購入を考えている人におすすめの1着です…",
+          "url": "https://nlab.itmedia.co.jp/research/articles/4068718/",
+          "source": {
+            "name": "ねとらぼ"
+          },
+          "publishedAt": "2026-10-24T14:52:46Z",
+          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/04/1745309662_20fe66df6f83cf2808240069d486781b.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "鈴木彩艶がマンチェスター・C相手にビッグセーブ連発!! プレミア全勝中だった首位撃破に貢献",
+          "description": "[10.24 プレミアリーグ第8節 アストン・ビラ 2-1 マンチェスター・C]　アストン・ビラは24日、プレミアリーグ第8節で開幕7連勝中のマンチェスター・C]と対戦し、2-1の勝利を収めた。GK鈴木彩艶はFWアーリング・ハ...",
+          "url": "https://web.gekisaka.jp/news/world/detail/?461731-461731-fl",
+          "source": {
+            "name": "ゲキサカ"
+          },
+          "publishedAt": "2026-10-24T13:22:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/462000/461731/news_461731_1.jpg?time=20261024222520",
+          "language": "ja"
+        },
+        {
+          "title": "「悪夢の終わりの始まりに」デーブ・スペクターさんが語る米中間選挙 [アメリカ中間選挙]：朝日新聞",
+          "description": "「アメリカの分断の歴史を変える、最後のチャンスかもしれない」。11月3日に迫る中間選挙について、放送プロデューサーでアメリカ国籍を持つデーブ・スペクターさんはそう指摘します。トランプ政権、物価高、深…",
+          "url": "https://www.asahi.com/articles/ASVBN31X3VBNUQIP027M.html",
+          "source": {
+            "name": "朝日新聞"
+          },
+          "publishedAt": "2026-10-24T11:43:31Z",
+          "image": "https://imgopt.asahi.com/ogp/AS20261020002947_comm.jpg",
+          "language": "ja"
+        },
         {
           "title": "【台風情報】ダブル台風の進路予想 台風30号は26日(月)に西日本に接近する見込み 前線が活発化 西日本や東日本では26日(月)が雨のピーク",
           "description": "日本周辺には台風30号(チャンパー)と台風31号(インファ)が発生中で、「ダブル台風」となっています。気象庁によりますと、大型の台風30号は24日午後6時現在、東シナ海にあって、1時間におよそ30キロの速さで北へ進んでいます。中心気圧は985hPa、中心付近の最大風速は30m/s、最大瞬間風速は40m/sとなっています。27日午後3時には、日本の東で温帯低気圧に変わる予想です。気象庁によりますと、台風31号は24日午後6時現在、マーシャル諸島にあって、ゆっくり西へ進んでいます。中心気圧は100…",
@@ -81,150 +114,117 @@
           "publishedAt": "2026-10-24T09:00:00Z",
           "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/Sub2_BioHazard.jpg",
           "language": "ja"
-        },
-        {
-          "title": "来週の株式相場に向けて＝ＡＩ株急落に歯止めはかかるか、米ビッグテック決算など注目",
-          "description": "２３日の日経平均株価は前日比２１４円安の６万２６９３円と続落した。前日の米国でナスダック指数が下落し、フィラデルフィア半導体株指数（ＳＯＸ）が６．７％安と急落したことを受け、この日の日経平均株価は朝方、一時１４００円あまり値を下げ６万１４００円台まで下落・・・。",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202610231082",
-          "source": {
-            "name": "株探"
-          },
-          "publishedAt": "2026-10-24T08:30:06Z",
-          "image": "https://async.api.kabutan.jp/og_image?title=%E6%9D%A5%E9%80%B1%E3%81%AE%E6%A0%AA%E5%BC%8F%E7%9B%B8%E5%A0%B4%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6%EF%BC%9D%EF%BC%A1%EF%BC%A9%E6%A0%AA%E6%80%A5%E8%90%BD%E3%81%AB%E6%AD%AF%E6%AD%A2%E3%82%81%E3%81%AF%E3%81%8B%E3%81%8B%E3%82%8B%E3%81%8B%E3%80%81%E7%B1%B3%E3%83%93%E3%83%83%E3%82%B0%E3%83%86%E3%83%83%E3%82%AF%E6%B1%BA%E7%AE%97%E3%81%AA%E3%81%A9%E6%B3%A8%E7%9B%AE",
-          "language": "ja"
-        },
-        {
-          "title": "松井秀喜監督の誕生に巨人大物OBが「全然ダメ」と喝を入れる理由 人を育てられないジャイアンツは変われるのか 「このままでは松井も利用されることになる」と警鐘",
-          "description": "10月23日、巨人は来季の新監督に松井秀喜氏（52）が就任することを発表。都内で会見を行なった松井氏は「新たな黄金時代をスタートしたい」といった思いを口にした。巨人が最後のカードを切ってきたことを、",
-          "url": "https://news.yahoo.co.jp/articles/430809fcadb0fdd5523351317a0215dd38062eba",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-10-24T08:15:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-00000009-pseven-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "日本シリーズ2026 今日の始球式は誰？",
-          "description": "プロ野球日本シリーズ2026、横浜DeNAベイスターズvs福岡ソフトバンクホークスで始球式を務めるのは誰？今日の試合の担当者を紹介。",
-          "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/who-match-ceremony-todays-npb-japan-series-2026/bltb686bf10fac88cda",
-          "source": {
-            "name": "Goal.com"
-          },
-          "publishedAt": "2026-10-24T08:10:06Z",
-          "image": "https://assets.goal.com/images/v3/bltb8ee5a7dfc335218/baseball--Yokohama-Stadium.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Jose Mourinho hits back at 'unfair' comparisons between Real Madrid and Barcelona ahead of El Clasico",
-          "description": "Real Madrid boss Jose Mourinho discusses the gap to Hansi Flick's Barcelona and the threat of Lamine Yamal ahead of Sunday's Clasico at Camp Nou.",
-          "url": "https://www.goal.com/en-sg/news/jose-mourinho-real-madrid-barcelona-el-clasico/blt57956c1a116438c6",
-          "source": {
-            "name": "Goal.com"
-          },
-          "publishedAt": "2026-10-24T10:56:26Z",
-          "image": "https://assets.goal.com/images/v3/getty-2300220912/crop/MM5DGMZRGI5DCOBWGM5G433XMU5DAORYGE======/GettyImages-2300220912.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Jamia Millia Islamia moves classes online, cites ‘safety of students' amid ongoing protests",
-          "description": "Students of Delhi's Jamia Millia Islamia began the protest demanding restoration of students' union on October 12.   | India News",
-          "url": "https://www.hindustantimes.com/india-news/jamia-millia-islamia-delhi-moves-classes-online-amid-row-over-slogans-raised-at-protest-101792832434116.html",
-          "source": {
-            "name": "Hindustan Times"
-          },
-          "publishedAt": "2026-10-24T10:56:26Z",
-          "image": "https://www.hindustantimes.com/ht-img/img/2026/10/24/1600x900/PTI10-22-2026-000262A-0_1792832538312_vaAq_1792832553173_UZmm_e7823d70-2558-4c95-81c2-97a185dabdb3_Fka9.jpg",
-          "language": "en"
-        },
-        {
-          "title": "New British number one Boulter loses Japan semi-final",
-          "description": "New British number one Katie Boulter loses 6-1 6-4 to Czech doubles specialist Katerina Siniakova in the Japan Open semi-finals.",
-          "url": "https://sports.yahoo.com/articles/british-number-one-boulter-loses-105502932.html",
+          "title": "Joao Pedro out of Chelsea team to face Tottenham in London derby",
+          "description": "Chelsea are without their top goalscorer for the clash with Spurs",
+          "url": "https://sports.yahoo.com/articles/joao-pedro-chelsea-team-face-152648630.html",
           "source": {
             "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-10-24T10:55:02Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/d0b9a13cf2cbed7a1e3ef3a52212087e1373f3d481ec304825589831a454e476/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1cb3fc6a3f4c9d08739b33b623c6416e.jpg",
+          "publishedAt": "2026-10-24T15:35:03Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/9e0a4440dcf5b2fda701a33f30f678b1452931b497d307bceaf71d5966da94df/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2F631b83b189f29301e5434c2784da7169.jpg",
           "language": "en"
         },
         {
-          "title": "Neha Bora refuses to sign peace bond, questions curbs on dissent",
-          "description": "Neha Bora refuses to sign a peace bond, arguing peaceful dissent is a democratic right and questioning government curbs on protest.",
-          "url": "https://www.thehindu.com/news/national/neha-bora-refuses-to-sign-peace-bond-questions-curbs-on-dissent/article71619599.ece",
+          "title": "On this day in space! Oct. 24, 1946: V-2 rocket takes 1st photos of Earth from space",
+          "description": "On October 24, 1946, a V-2 rocket captured the first-ever photo of Earth from space. Here's why it mattered.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-24-2026",
           "source": {
-            "name": "The Hindu"
+            "name": "Space"
           },
-          "publishedAt": "2026-10-24T10:54:13Z",
-          "image": "https://th-i.thgim.com/public/incoming/hx86yp/article71619600.ece/alternates/LANDSCAPE_1200/NEHA%20BORA%20AISA%20PC%20DELHI%2038.JPG",
+          "publishedAt": "2026-10-24T15:33:08Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/gyqZmq6G2J32EA2wYwRMi5-2048-80.jpg",
           "language": "en"
         },
         {
-          "title": "Black Caps fall short again in second T20 match against India",
-          "description": "India's middle-order batter Tilak Varma hammered a half-century off 25 balls as India chased down a target of 181 with a ball to spare, taking a 2-0 lead in the five-match Twenty20 series with New Zealand on Saturday.",
-          "url": "https://www.rnz.co.nz/news/sport/2128988/black-caps-fall-short-again-in-second-t20-match-against-india",
+          "title": "Skeem Saam and House of Zwide writer passes away!",
+          "description": "Sibusisiwe Gugu Manqele, a SAFTA-winning actress, screenwriter, and advocate for South African storytelling, has died at 35 after a cardiac illness. Known for her work on major television productions,",
+          "url": "https://www.snl24.com/news/skeem-saam-and-house-of-zwide-writer-passes-away-20261024/",
           "source": {
-            "name": "RNZ"
+            "name": "Daily Sun"
           },
-          "publishedAt": "2026-10-24T10:53:11Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--nKec-CWM--/t_tohu-badge-facebook/f_auto/q_auto/4JG8HZO_AFP__20261024__D4AH3J4__v1__HighRes__CricketNzlInd_jpg",
+          "publishedAt": "2026-10-24T15:32:34Z",
+          "image": "https://media24-dailysun-prod.web.arc-cdn.net/resizer/v2/EW75VI77RRC5JBJPLMGXYQ2INU.jpg?smart=true&auth=bf6a56069cd9de01567f8310ce1596e303265c496e4a22c7c8adb952e672afc1&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "Doctors flag malaria, dengue risk amid construction activity",
-          "description": "Doctors have raised concerns over malaria and dengue cases in Mumbai, with a significant share of hospital beds occupied by patients suffering from the…",
-          "url": "https://newsband.in/article_detail/doctors-flag-malaria-dengue-risk-amid-construction-activity",
+          "title": "Destiny's Child Reunites at Jay-Z's Los Angeles Concert to Cheer On Rapper",
+          "description": "Destiny's Child rejoined forces in the crowd attending Jay-Z's Los Angeles show ... and we don't think you're ready for this reunion!",
+          "url": "https://www.tmz.com/2026/10/24/destinys-child-rihanna-attend-jay-z-show-blue-performs/",
           "source": {
-            "name": "Newsband"
+            "name": "TMZ"
           },
-          "publishedAt": "2026-10-24T10:52:17Z",
-          "image": "https://newsband.in/uploads/blog_main_img/1a2728989224f4953bde6662931f9c65_1.jpg",
+          "publishedAt": "2026-10-24T15:31:48Z",
+          "image": "https://imagez.tmz.com/image/84/16by9/2026/10/24/846c20f01948435fab9918f13c0e7d07_xl.jpg",
           "language": "en"
         },
         {
-          "title": "APC accuses Atiku, ADC of plot to discredit Tinubu’s Kaduna campaign flag-off",
-          "description": "The APC alleged that Atiku and the ADC deployed fake documents, doctored images and deepfake videos to create a negative impression of President Bola Tinubu’s campaign flag-off in Kaduna.",
-          "url": "https://www.premiumtimesng.com/news/top-news/919825-apc-accuses-atiku-adc-of-plot-to-discredit-tinubus-kaduna-campaign-flag-off.html",
+          "title": "Mid Island Mycological Symbionts host upcoming fall fungi events",
+          "description": "AI identification and medicinal uses highlight autumn series",
+          "url": "https://comoxvalleyrecord.com/2026/10/24/mid-island-mycological-symbionts-host-upcoming-fall-fungi-events/",
           "source": {
-            "name": "Premium Times Nigeria"
+            "name": "Comox Valley Record"
           },
-          "publishedAt": "2026-10-24T10:51:59Z",
-          "image": "https://media.premiumtimesng.com/wp-content/files/2025/11/Atiku-and-Tinubu.webp",
+          "publishedAt": "2026-10-24T15:31:38Z",
+          "image": "https://comoxvalleyrecord.com/wp-content/uploads/sites/13/2026/10/johnstonmush.jpg?w=1024",
           "language": "en"
         },
         {
-          "title": "Hope, despair live side by side for railway squatters",
-          "description": "One of the first families to settle in the area, Ms Nakanjako and her family initially lived in fear. Not over eviction, but the corpses that would be found in proximity to their home",
-          "url": "https://www.monitor.co.ug/uganda/news/national/hope-despair-live-side-by-side-for-railway-squatters-5643992",
+          "title": "Oppo Find X10 and X10 Pro Max go global, OLED MacBook coming on Oct 28",
+          "description": "The iQOO Neo12 will launch on October 28. Apple will launch its first touchscreen OLED MacBook on October 28. The company sent out the official invite with...",
+          "url": "https://www.gsmarena.com/oppo_find_x10_and_x10_pro_max_go_global_oled_macbook_coming_on_oct_28-news-75191.php",
           "source": {
-            "name": "Daily Monitor"
+            "name": "GSMArena.com"
           },
-          "publishedAt": "2026-10-24T10:51:15Z",
-          "image": "https://www.monitor.co.ug/resource/blob/5644000/4a688e73f245f57d121da6aeedca983a/home06pix-data.jpg",
+          "publishedAt": "2026-10-24T15:31:02Z",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/10/week-44-in-review/-952x498w6/gsmarena_000.jpg",
           "language": "en"
         },
         {
-          "title": "Canadian women's rugby team scores 2nd straight win over powerhouse England",
-          "description": "One loss isn’t a losing streak, but dropping two in a row is cause for concern. That’s exactly where the England Red Roses find themselves following Friday’s 31-22 setback in Ottawa, falling to Canada for a second time in the Rugby Rematch Tour of the WXV Global Series.",
-          "url": "https://www.cbc.ca/sports/rugby/canada-womens-rugby-england-ottawa-recap-9.7394296",
+          "title": "One key midterms race in all 50 states and why they matter",
+          "description": "These are the midterm races to watch in each state, from Alabama to Wyoming.",
+          "url": "https://www.usatoday.com/story/news/politics/2026/10/24/key-midterm-elections-by-state-voter-guide-2026/92284737007/",
           "source": {
-            "name": "CBC"
+            "name": "USA Today"
           },
-          "publishedAt": "2026-10-24T10:50:51Z",
-          "image": "https://i.cbc.ca/ais/ebbed414-3145-42cc-88b7-65dd1e1a573e,1792815404341/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C82%2C3758%2C2113%29%3BResize%3D620",
+          "publishedAt": "2026-10-24T15:31:00Z",
+          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/22/USAT/92386632007-election-guide.jpg?crop=3555,1999,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
           "language": "en"
         },
         {
-          "title": "WHO Launches First Ebola Vaccine Trial in Congo’s Bunia",
-          "description": "WHO chief Tedros announced the first clinical trial of an Ebola vaccine in the DR Congo, where over 9,700 cases and 4,600 deaths make this the worst outbreak.",
-          "url": "https://www.kurdistan24.net/en/story/948194/who-launches-first-ebola-vaccine-trial-in-congos-bunia",
+          "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+          "description": "Volodymyr Zelenskyy offers thanks to US allies for restoring system key to air defence and ‘frontline logistics’",
+          "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
           "source": {
-            "name": "Kurdistan24"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-10-24T10:49:30Z",
-          "image": "https://d2wqffb2bc8st5.cloudfront.net/images/1792839248_kurdistan24.jpg",
+          "publishedAt": "2026-10-24T15:31:00Z",
+          "image": "https://i.guim.co.uk/img/media/0d51da8a70a218cd186de054b9f5706103605242/86_0_3672_2937/master/3672.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b3d9bf54e925277c3258b3b456f388fc",
+          "language": "en"
+        },
+        {
+          "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+          "description": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
+          "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+          "source": {
+            "name": "TechCrunch"
+          },
+          "publishedAt": "2026-10-24T15:30:00Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/php-web-bug-padlock-2300746159.jpg?resize=1200,800",
+          "language": "en"
+        },
+        {
+          "title": "College football schedule 2026: What to watch in Week 8, TV channels, streaming",
+          "description": "Will we see even more college football craziness in Week 8's best games?",
+          "url": "https://www.cbssports.com/college-football/news/college-football-schedule-2026-what-to-watch-week-8-tv-channels-streaming-saturday-kickoff-times/",
+          "source": {
+            "name": "CBS Sports"
+          },
+          "publishedAt": "2026-10-24T15:30:00Z",
+          "image": "https://sportshub.cbsistatic.com/i/r/2026/10/22/6b4be8d4-212e-4d4b-a1ea-7e3577f881e9/thumbnail/1200x675/7a31b3933dec5a77c91b0313a14e9972/gettyimages-2243956066-2.jpg",
           "language": "en"
         }
       ]
