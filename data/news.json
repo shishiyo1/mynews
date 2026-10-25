@@ -1,10 +1,54 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-10-25T20:29:12.970Z",
+  "updatedAt": "2026-10-25T23:02:24.998Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "［テキスト速報・新潟市長選挙2026］現職の中原八一氏が3選を確実に 最新情報を随時更新",
+          "description": "現職新人３氏が争う新潟市長選は２５日に開票が行われます。ともに無所属新人で会社経営の早武淳氏（６０）と前新潟市議の青木学氏（６０）、３選を目指す無所属現職の中原八一氏（６７）が立候補しました。このページでは、各陣営の様子や開票作業な...",
+          "url": "https://www.niigata-nippo.co.jp/articles/-/929974",
+          "source": {
+            "name": "新潟日報"
+          },
+          "publishedAt": "2026-10-25T10:30:00Z",
+          "image": "https://niigata-nippo.ismcdn.jp/mwimgs/8/b/1200m/img_8b7d67c08d9b4de405dec8d423f0adbb108371.jpg?rd=202610211257",
+          "language": "ja"
+        },
+        {
+          "title": "関東甲信では「警報級の大雨」の可能性 前線の活動が活発 関東地方南部80ミリ、甲信70ミリ、伊豆諸島200ミリ（26日午後6時までに予想される24時間降水量 多い所で）",
+          "description": "気象庁は関東甲信地方では、26日昼前から27日にかけて土砂災害に、25日夜のはじめ頃にかけてと26日昼過ぎから27日にかけて低い土地の浸水、河川の増水に注意・警戒するよう呼びかけています。■気象概況気象庁によりますと、前線が東シナ海から本州付近を通って日本の東にのびており、台風30号や太平洋高気圧の周辺を北上する暖かく湿った空気が流れ込む影響で、前線の活動は活発となっています。前線は25日夜にかけて伊豆諸島付近まで南下し、その後、27日午前中にかけて、停滞するでしょう。また、26日夜までには伊…",
+          "url": "https://www.fnn.jp/articles/-/1139582",
+          "source": {
+            "name": "FNNプライムオンライン"
+          },
+          "publishedAt": "2026-10-25T09:36:00Z",
+          "image": "https://fnn.ismcdn.jp/mwimgs/c/6/600/img_c638efa0ec9d71b7515e6c41bb74e599269592.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "『VIVANT』で「日本語の看板」映り込む“雑演出”にツッコミ殺到…ド派手ジェット機チャーターでは〈制作費1億円投入か〉（週刊女性PRIME）",
+          "description": "10月18日に放送された日曜劇場『VIVANT』（TBS系）第21話の視聴率が世帯平均16.8％（関東地区）をマーク。前回の前回15.4％から1.4％アップし、第2シーズン計11回で3番目の高さを記",
+          "url": "https://news.yahoo.co.jp/articles/07c98e3a0ecc6041ee56a6082f504c4e1435df5e",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-10-25T09:00:39Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261025-00044218-jprime-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "36万円と折りたたみスマホ、どっち選ぶ？ Duoる前に読むべき3つの話",
+          "description": "36万円の折りたたみスマホiPhone Duoのスペックや実機レビュー、折り目の耐久性を解説。購入前に知りたい3つのポイントを分かりやすくまとめました。",
+          "url": "https://www.gizmodo.jp/article/2610-iphone-duo-review-price-durability/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-10-25T09:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/10/23/066f1653-eb52-4567-b959-bc14fe34e700/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
         {
           "title": "鈴木えみ、昨年末に離婚していた「長年積み重なったものによる決断でした」2013年に一般男性と結婚【全文】",
           "description": "モデルの鈴木えみ（41）が10月25日、自身のInstagramストーリーズを更新。離婚していたことを公表した。",
@@ -70,161 +114,117 @@
           "publishedAt": "2026-10-25T05:25:01Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261025-90030670-nbstv-000-1-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "【台風情報】台風30号（チャンパー）の進路予想と影響 前線や台風30号から変わる温帯低気圧などの影響で25～27日は神奈川県や千葉県は大雨のおそれ 土砂災害や低い場所への浸水、道路の冠水などに注意",
-          "description": "気象庁によりますと、台風30号(チャンパー)は25日正午現在、東シナ海にあって、1時間におよそ20キロの速さで北東へ進んでいます。中心気圧は996hPa、最大風速は20m/s、最大瞬間風速は30m/sとなっています。26日正午には、枕崎市の西北西約70kmで温帯低気圧に変わる予想です。25～27日は神奈川県や千葉県は大雨のおそれ日本気象協会によりますと、前線や台風30号から変わる低気圧などの影響もあって、25日(日)の昼頃から27日(火)の昼頃にかけて神奈川県や千葉県を中心に激しい雨が降って、…",
-          "url": "https://www.fnn.jp/articles/-/1139448",
-          "source": {
-            "name": "FNNプライムオンライン"
-          },
-          "publishedAt": "2026-10-25T05:24:00Z",
-          "image": "https://fnn.ismcdn.jp/mwimgs/e/a/600/img_ea0e01d9a41443bcb8b1301a051a4186111784.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "巨人は7選手に通告…27歳内野手が戦力外、22年ドラ1スラッガー6名が自由契約へ｜記事一覧｜高校野球ドットコム",
-          "description": "頑張っている球児を応援する高校野球報道サイト。コラムや試合記事など高校野球情報を公開中。",
-          "url": "https://www.hb-nippon.com/articles/18637",
-          "source": {
-            "name": "高校野球ドットコム"
-          },
-          "publishedAt": "2026-10-25T05:07:12Z",
-          "image": "https://cdn.hb-nippon.com/article-img/FRCJehpf707klp406vZ4Cc9sP4nM01lhj78oobAT.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "MS、Windows11 26H2のロールアウトを拡大",
-          "description": "Microsoftは、Windows11 26H2のロールアウトを拡大したことを発表しました。 Windows11 26H2は、日本時間で2026年9月30日にリリースされた最新バージョンのWind...",
-          "url": "https://www.nichepcgamer.com/archives/post-133400.html",
-          "source": {
-            "name": "ニッチなPCゲーマーの環境構築Z"
-          },
-          "publishedAt": "2026-10-25T05:01:11Z",
-          "image": "https://www.nichepcgamer.com/wp-content/uploads/2026/08/windows11-26h2-b.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "副業・フリーランス同士でゆるくつながる「副業・フリーランスの会」を10月31日(土)に参謀BAR浜松町で開催",
-          "description": "株式会社 経営参謀のプレスリリース（2026年10月25日 14時00分）副業・フリーランス同士でゆるくつながる「副業・フリーランスの会」を10月31日(土)に参謀BAR浜松町で開催",
-          "url": "https://prtimes.jp/main/html/rd/p/000000216.000016218.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-10-25T05:00:41Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/16218/216/16218-216-8951d00047d4aee85473345d9d5fe9f4-1200x628.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "'Pinoy Big Brother Collab 3.0': Meet the Kapuso housemates",
-          "description": "'Pinoy Big Brother Collab 3.0,' the third collaboration edition of the long-running reality show, kicked off on Saturday, introducing a new batch of housemates",
-          "url": "https://www.abs-cbn.com/entertainment/showbiz/movies-series/2026/10/25/pinoy-big-brother-collab-3-0-meet-the-kapuso-housemates-1602",
+          "title": "DK Shivakumar's Warning To Bengaluru IT Firms After 'No Jobs For Kannada Speakers' Video Goes Viral",
+          "description": "Karnataka Chief Minister DK Shivakumar said in a post on X, \"If it is found that any private institution has deliberately sidelined Kannadigas, the government will take appropriate action.\"",
+          "url": "https://www.ndtv.com/india-news/dk-shivakumars-warning-to-bengaluru-it-firms-after-no-jobs-for-kannada-speakers-video-goes-viral-12233367",
           "source": {
-            "name": "ABS-CBN"
+            "name": "NDTV"
           },
-          "publishedAt": "2026-10-25T08:29:04Z",
-          "image": "https://od2-image-api.abs-cbn.com/prod/2026102508100/1b8142c1e7d01b1e8458586aef469b05c5dc8bf90515e991ec603ae21c42bd19.png?w=1200&h=800",
+          "publishedAt": "2026-10-25T11:01:06Z",
+          "image": "https://c.ndtvimg.com/2026-06/mjhp11so_dk-shivakumar_625x300_30_June_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
           "language": "en"
         },
         {
-          "title": "Palo Alto Confirms PHP RCE Vulnerabilities Impact PAN-OS and Multiple Network Products",
-          "description": "Palo Alto Networks has confirmed that two critical PHP remote code execution vulnerabilities affect PAN-OS and previously impacted two cloud services.",
-          "url": "https://cybersecuritynews.com/palo-alto-confirms-php-rce-vulnerabilities/",
+          "title": "Trump administration has pushed off 13% of Americans enrolled in food stamps",
+          "description": "Stakeholders concerned more people at risk of food insecurity after One Big Beautiful Act took effect",
+          "url": "https://www.theguardian.com/us-news/2026/oct/25/trump-food-stamp-cuts",
           "source": {
-            "name": "CyberSecurityNews"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-10-25T08:28:41Z",
-          "image": "http://cybersecuritynews.com/wp-content/uploads/2026/10/Palo-Alto-Confirms-PHP-RCE-Vulnerabilities.webp",
+          "publishedAt": "2026-10-25T11:01:00Z",
+          "image": "https://i.guim.co.uk/img/media/bbe436fb2fa0e6dfadfbda9fd4ef7fd3c835a354/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d924e20ed358296e743cb01d72c79878",
           "language": "en"
         },
         {
-          "title": "Keralam man killed after Mercedes driven by judge's 17-year-old son hits scooter",
-          "description": "The car was found to be registered under the judicial officer's name. Citing preliminary findings, the police said that the accused teen was not drunk at the time of the incident.",
-          "url": "https://www.indiatoday.in/cities/kochi/story/kochi-mercedes-driven-by-judge-minor-son-crashes-into-scooter-man-dead-keralam-car-crash-3024598-2026-10-25",
+          "title": "Doubling stem cell chromosomes produces heart cells with stronger, faster contractions",
+          "description": "The Regenerative Medicine Project at our institute is advancing therapeutic strategies for various diseases by introducing a range of modifications to human induced pluripotent stem (iPS) cells.",
+          "url": "https://medicalxpress.com/news/2026-10-stem-cell-chromosomes-heart-cells.html",
           "source": {
-            "name": "India Today"
+            "name": "Medical Xpress"
           },
-          "publishedAt": "2026-10-25T08:26:11Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/kochi-car-crash-252908490-16x9_0.jpg?VersionId=rEbAoV5G9AQTA5bjnLvDbExL0EFP7SA8",
+          "publishedAt": "2026-10-25T11:00:03Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/recapitulation-of-tetr.jpg",
           "language": "en"
         },
         {
-          "title": "Cuba faces 20-hour power cuts as US blockade costs N$134bn",
-          "description": "Cuban households are enduring power cuts lasting more than 20 hours as the country blames the United States’ economic blockade for worsening its energy crisis. Havana […]",
-          "url": "https://www.namibian.com.na/cuba-faces-20-hour-power-cuts-as-us-blockade-costs-n134bn/",
+          "title": "Mind your own business, MCA tells DAP over BN seat spat",
+          "description": "MCA duo say DAP has its own problems to worry about, amid the party's opposition towards a PH pact with former component Bersatu.",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/25/mind-your-own-business-mca-tells-dap-over-bn-seat-spat",
           "source": {
-            "name": "The Namibian -"
+            "name": "Free Malaysia Today"
           },
-          "publishedAt": "2026-10-25T08:24:26Z",
-          "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-25-at-10.12.35-AM1.jpeg",
+          "publishedAt": "2026-10-25T11:00:00Z",
+          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/08/7e800363-7503-41de-ba0a-cb5a8aa8bb91-Chong-Sin-Woon-Mike-Chong-tile-130826.jpg",
           "language": "en"
         },
         {
-          "title": "Six helicopters battle Southland fire threatening two comms towers",
-          "description": "Fire crews are battling challenging conditions on Mount Hamilton near Te Anau, with winds forecast to gust up to 120km/h in exposed areas tomorrow.",
-          "url": "https://www.1news.co.nz/2026/10/25/six-helicopters-battle-southland-fire-threatening-two-comms-towers/",
+          "title": "There’s disappointment and hope among Albertans who supported the idea of independence",
+          "description": "Now that the results of the referendum have come in, with three-quarters of Albertans voting to stay in Canada, we reached out to some residents who supported the other side to see how they feel and what they think happens next.",
+          "url": "https://www.cbc.ca/news/canada/calgary/reaction-alberta-referendum-separatism-9.7392004",
           "source": {
-            "name": "1News"
+            "name": "CBC"
           },
-          "publishedAt": "2026-10-25T08:23:08Z",
-          "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/fire-crews-are-battling-challenging-conditions-on-mount-hami-4ES3IG3NARG6HKMJSNS6VBIFIQ.png?auth=b34f7555974e02594e872b6691eee039793a135e1f2c8e66cd14cd4360738f12&quality=70&width=600&height=315&focal=1060%2C515",
+          "publishedAt": "2026-10-25T11:00:00Z",
+          "image": "https://i.cbc.ca/ais/debe7e7c-30dc-4c4c-82d7-29c7e7394b1a,1792776602790/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2000%2C1125%29%3BResize%3D620",
           "language": "en"
         },
         {
-          "title": "Has Liverpool vs Brighton been postponed? Official statement issued after events cancelled",
-          "description": "MetOffice have issued a yellow weather warning, which is in place across Merseyside until 11pm on Sunday",
-          "url": "https://sports.yahoo.com/articles/liverpool-vs-brighton-postponed-storm-082253491.html",
-          "source": {
-            "name": "Yahoo Sports"
-          },
-          "publishedAt": "2026-10-25T08:22:53Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/890dcc8d28ecb123ffbf719f5f430deb75cc101dbb51c316983857eec6bd340d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fevening_standard_239%2F1396b51a06697925b950b836fa888416.jpg",
-          "language": "en"
-        },
-        {
-          "title": "India opt to bat in second ODI; Vaishnavi replaces rested Gaud",
-          "description": "Zimbabwe captain Josephine Nkomo returned to the XI after missing the first ODI",
-          "url": "https://www.cricinfo.com/story/ind-vs-zim-2nd-odi-india-opt-to-bat-in-second-odi-vaishnavi-replaces-rested-gaud-1559916",
-          "source": {
-            "name": "Cricinfo"
-          },
-          "publishedAt": "2026-10-25T08:21:51Z",
-          "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/412200/412203.6.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Two German nationals arrested for photographing Damon Prison",
-          "description": "An examination of the suspects' cellphones revealed photographs of security facilities and security-related activities, raising further suspicions about why they were at the location.",
-          "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912757",
-          "source": {
-            "name": "The Jerusalem Post"
-          },
-          "publishedAt": "2026-10-25T08:19:09Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743437",
-          "language": "en"
-        },
-        {
-          "title": "Rare Lunar Meteorites Could Fill Gaps In Moon’s Evolution",
-          "description": "Almost all meteorites come from asteroids, not the Moon or Mars. But after decades of analysis of the Apollo samples, researchers still rely on lunar meteorites to better understand our anomalously large Moon.",
-          "url": "https://www.universetoday.com/articles/rare-lunar-meteorites-could-fill-gaps-in-moons-evolution",
-          "source": {
-            "name": "Universe Today"
-          },
-          "publishedAt": "2026-10-25T08:18:00Z",
-          "image": "https://www.universetoday.com/article_images/AntaracticMeteorites_20261025_080708.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Psychology says people who crave childhood comfort foods may be seeking more than familiar flavours; here's how food memories, emotions and early experiences shape what we eat today",
-          "description": "Everyone goes through hard times.",
-          "url": "https://timesofindia.indiatimes.com/life-style/food-news/unlocking-the-psychology-behind-childhood-comfort-foods-exploring-how-food-memories-and-emotions-shape-our-eating-habits-today/articleshow/135182666.cms",
+          "title": "Hyderabad techie found dead after threatening to take her life during video call to boyfriend",
+          "description": "HYDERABAD: A software professional died by suicide at her residence in Madhapur in the early hours of Sunday.",
+          "url": "https://timesofindia.indiatimes.com/city/hyderabad/29-year-old-hyderabad-techie-found-dead-by-hanging-in-madhapur-apartment/articleshow/135186453.cms",
           "source": {
             "name": "The Times of India"
           },
-          "publishedAt": "2026-10-25T08:17:00Z",
-          "image": "https://static.toiimg.com/thumb/msid-135182760,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "publishedAt": "2026-10-25T11:00:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-135189587,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "language": "en"
+        },
+        {
+          "title": "‘Nuclear threat will overshadow all’: Netanyahu’s Iran warning ahead of polls",
+          "description": "Israeli Prime Minister Benjamin Netanyahu has shared a warning by author Yuval Blumberg that Israel must use the remaining two years of US President",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/nuclear-threat-will-overshadow-all-netanyahus-iran-warning-ahead-of-polls/articleshow/135189218.cms",
+          "source": {
+            "name": "The Times of India"
+          },
+          "publishedAt": "2026-10-25T11:00:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-135189270,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "language": "en"
+        },
+        {
+          "title": "The MacBook Pro Max Just Dropped to Its Lowest Price Ever",
+          "description": "Apple will reportedly launch an innovative new MacBook next week, which means existing options have their largest discount yet.",
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+          "source": {
+            "name": "WIRED"
+          },
+          "publishedAt": "2026-10-25T11:00:00Z",
+          "image": "https://media.wired.com/photos/6adbb2adc29fe197e2045863/191:100/w_1280,c_limit/MacBook%20Pro%20Prices%20Drop%20to%20All-Time%20Low%20deals%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+          "language": "en"
+        },
+        {
+          "title": "IndiGo, Air India Group To Shift Flights To Navi Mumbai Airport",
+          "description": "Air India Express plans to begin four daily domestic flights from NMIA in December 2026, followed by the phased transition of its West Asia operations from January 2027.",
+          "url": "https://www.ndtv.com/india-news/indigo-air-india-group-to-shift-flights-to-navi-mumbai-airport-12233359",
+          "source": {
+            "name": "NDTV"
+          },
+          "publishedAt": "2026-10-25T10:59:41Z",
+          "image": "https://c.ndtvimg.com/2025-10/i8sbd2f8_nmial_625x300_06_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+          "language": "en"
+        },
+        {
+          "title": "Jokic approaches 200 triple-doubles and lashes out at his fans: \"They are no longer welcome\"",
+          "description": "Jamal Murray (42 points) and the center (35+15+10) lead the Nuggets' overtime win, after they trailed by as many as 23 amid boos from their own crowd",
+          "url": "https://www.marca.com/en/basketball/nba/2026/10/25/jokic-approaches-200-triple-doubles-and-lashes-out-at-his-fans-they-are-no-longer-welcome.html",
+          "source": {
+            "name": "MARCA"
+          },
+          "publishedAt": "2026-10-25T10:59:32Z",
+          "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/06/28/6a406f64d1b45.png",
           "language": "en"
         }
       ]
