@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-10-25T03:36:55.038Z",
+  "updatedAt": "2026-10-25T10:54:12.428Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "【台風30号影響】神奈川県はきょう夕方から激しい雨 26日は県内全域で警報級大雨のおそれ",
+          "description": "神奈川県東部では10月25日夕方から夜のはじめ頃にかけて、雷を伴った激しい雨の降る所がある見込みだ。26日昼過ぎからは西部を含む県内全域で再び雨が強まり、27日はじめにかけて大雨への注意・警戒が必要となる。早期注意情報では、25日午後から東部で警報級の大雨となる可能性が「中」。26日昼過ぎ以降は東部、西部とも大雨や土砂災害が警報級となる可能性が示されている。いつ雨が強まり、どの程度の降水量が予想されているのか、横浜地方気象台の最新情報をまとめた。",
+          "url": "https://www.fukuishimbun.co.jp/articles/-/2730723",
+          "source": {
+            "name": "福井新聞社"
+          },
+          "publishedAt": "2026-10-24T22:29:00Z",
+          "image": "https://fki.ismcdn.jp/mwimgs/b/1/-/img_b1775f9143edaab6c1192cd7da7fac74529936.png",
+          "language": "ja"
+        },
+        {
+          "title": "「選択肢が増えていいね」「グローバルモデルどんどん展開してほしい」「車検があるのか」など反響 海外市場のカワサキ「KLX300」シリーズ国内導入予定",
+          "description": "カワサキは海外市場で発表されたデュアルパーパスモデル「KLX300」と「KLX300 DF」、およびスーパーモトモデル「KLX300SM」の計3モデルを、2027年秋頃の国内導入に向けて準備を進めていることを発表し、SNS上では反響が見られます。",
+          "url": "https://bike-news.jp/post/481497",
+          "source": {
+            "name": "バイクのニュース"
+          },
+          "publishedAt": "2026-10-24T22:25:00Z",
+          "image": "https://bike-news.jp/wp-content/uploads/2027/10/20261023_klx3_01-1000x667.jpg?v=1792737535",
+          "language": "ja"
+        },
+        {
+          "title": "【台風30号影響】大阪府は25日昼前から激しい雨 26日は夜まで警報級大雨おそれ、予想雨量は",
+          "description": "大阪府では10月25日昼前から夕方にかけて、局地的に雷を伴った激しい雨が降る見込みだ。26日も昼前から夜のはじめ頃にかけて再び雨が強まり、雨雲が予想以上に発達したり停滞したりした場合は、警報級の大雨となる可能性がある。低い土地の浸水や河川の増水には、25日昼前から夕方と、26日昼前から夜のはじめ頃にかけて十分な注意が必要となる。いつ雨が強まり、どの程度の雨量が予想されているのか、大阪管区気象台の最新情報をまとめた。",
+          "url": "https://www.fukuishimbun.co.jp/articles/-/2730719",
+          "source": {
+            "name": "福井新聞社"
+          },
+          "publishedAt": "2026-10-24T22:02:00Z",
+          "image": "https://fki.ismcdn.jp/mwimgs/f/1/-/img_f18171a58524203e72137e99c2b64a84168153.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "火曜日までは西～東日本で大雨の恐れ 水曜日からは北海道で雪 寒暖差の大きい一週間",
+          "description": "明後日27日(火)までは、西日本や東日本で警報級の大雨になる所もあるでしょう。28日(水)には強い寒気が流れ込み、北海道では平野部でも雪が降る所がありそうです。今週は気温の変化が大きい一週間になるため体調管理にご注意ください。",
+          "url": "https://tenki.jp/forecaster/y_maki/2026/10/25/41081.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-10-24T21:50:07Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/41/410/41081/main/20261025041234/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "阪神 坪井智哉氏＆的場寛一氏に打撃コーチ入閣要請 打撃部門３人退団で白羽、坪井氏受諾なら２４年ぶり虎復帰 投手コーチには福原忍氏",
+          "description": "阪神が元阪神で前ヤクルト１軍打撃コーチの坪井智哉氏（５２）と元阪神ドラフト１位の的場寛一氏（４９）に打撃コーチ就任を要請していることが２４日、分かった。今季終了後に３人の打撃コーチが退団し、後任候補",
+          "url": "https://news.yahoo.co.jp/articles/d9e062db7564887d40e0c4197a2a5bd4b19ffa1e",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-10-24T20:04:09Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261025-00000019-dal-000-11-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【F1アメリカGP｜FP3】ハミルトンが予選前に最速、フェラーリ好調！フェルスタッペン2番手、アストン・ホンダは下位（TopNews）",
+          "description": "10月24日(土)、2026年F1第18戦アメリカGP（サーキット・オブ・ジ・アメリカズ）の2日目、フリー走行3が開催された。●【F1ライブ結果速報】F1アメリカGPも全セッションライブでお届け1番",
+          "url": "https://news.yahoo.co.jp/articles/9e7d7b53792465a7a024797752929ad7d31405e7",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-10-24T18:49:42Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261025-00000001-fliv-000-4-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "「もっと早く買えばよかった」 ワークマンの“防水防寒コート”が好評 「0度でも着込まず問題なし」「ポケットたくさんでカバンいらず」「雪山でも寒さを感じなかった」",
           "description": "ワークマンの「イナレムプレミアム防水防寒コート」は、厳しい寒さに備えられる、防水性と防寒性を兼ね備えたアウターです。耐水圧2万ミリメートル、透湿度4万グラム／平方メートル・24時間の防水透湿性能に加え、発熱わた、グラフェンわた、ダウンを融合した中わたを採用。冬に備えてアウターの購入を考えている人におすすめの1着です…",
@@ -28,6 +94,17 @@
           "language": "ja"
         },
         {
+          "title": "2026年のノーベル物理学賞は宇宙分野 主役の「IceCube」とはなにか",
+          "description": "2026年10月6日、スウェーデン王立科学アカデミーは、「IceCubeニュートリノ観測所への決定的な貢献、および天体起源の高エネルギーニュートリノの発見」を理由とし、2026年のノーベル物理学賞をフランシス・ルイ・ハルツェン氏に授与することを決定しました。宇宙分野での受賞は2020年以来6年ぶりのことです。",
+          "url": "https://sorae.info/astronomy/20261024-nobel-prize-in-physics-2026.html",
+          "source": {
+            "name": "sorae 宇宙へのポータルサイト"
+          },
+          "publishedAt": "2026-10-24T12:18:45Z",
+          "image": "https://sorae.info/wp-content/uploads/2026/10/Nobel_Prize_Physics_2026-0.jpg",
+          "language": "ja"
+        },
+        {
           "title": "「悪夢の終わりの始まりに」デーブ・スペクターさんが語る米中間選挙 [アメリカ中間選挙]：朝日新聞",
           "description": "「アメリカの分断の歴史を変える、最後のチャンスかもしれない」。11月3日に迫る中間選挙について、放送プロデューサーでアメリカ国籍を持つデーブ・スペクターさんはそう指摘します。トランプ政権、物価高、深…",
           "url": "https://www.asahi.com/articles/ASVBN31X3VBNUQIP027M.html",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-10-24T11:43:31Z",
           "image": "https://imgopt.asahi.com/ogp/AS20261020002947_comm.jpg",
           "language": "ja"
-        },
-        {
-          "title": "【台風情報】ダブル台風の進路予想 台風30号は26日(月)に西日本に接近する見込み 前線が活発化 西日本や東日本では26日(月)が雨のピーク",
-          "description": "日本周辺には台風30号(チャンパー)と台風31号(インファ)が発生中で、「ダブル台風」となっています。気象庁によりますと、大型の台風30号は24日午後6時現在、東シナ海にあって、1時間におよそ30キロの速さで北へ進んでいます。中心気圧は985hPa、中心付近の最大風速は30m/s、最大瞬間風速は40m/sとなっています。27日午後3時には、日本の東で温帯低気圧に変わる予想です。気象庁によりますと、台風31号は24日午後6時現在、マーシャル諸島にあって、ゆっくり西へ進んでいます。中心気圧は100…",
-          "url": "https://www.fnn.jp/articles/-/1139276",
-          "source": {
-            "name": "FNNプライムオンライン"
-          },
-          "publishedAt": "2026-10-24T10:35:00Z",
-          "image": "https://fnn.ismcdn.jp/mwimgs/b/3/600/img_b3f85d0ec19dd09f18554ac7ddecdd7d275476.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "セキュリティー強化急げ、「ICチップ本人確認」で急浮上する銘柄群 ＜株探トップ特集＞",
-          "description": "―金融庁が金融機関などへ導入前倒しを要請、来春から義務化正式スタートへ―　企業を狙った不正アクセスに収束の気配はなお見えない。ここ最近にわかに急増した印象があるが、その理由を巡っては高度化するＡＩによるものという解説がなされ、攻撃主体は中国など海外系のハッカー集団ともみられているが、その全容は不明だ・・・。",
-          "url": "https://kabutan.jp/news/marketnews/?b=n202610240189",
-          "source": {
-            "name": "株探"
-          },
-          "publishedAt": "2026-10-24T10:30:00Z",
-          "image": "https://async.api.kabutan.jp/og_image?title=%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC%E5%BC%B7%E5%8C%96%E6%80%A5%E3%81%92%E3%80%81%E3%80%8CIC%E3%83%81%E3%83%83%E3%83%97%E6%9C%AC%E4%BA%BA%E7%A2%BA%E8%AA%8D%E3%80%8D%E3%81%A7%E6%80%A5%E6%B5%AE%E4%B8%8A%E3%81%99%E3%82%8B%E9%8A%98%E6%9F%84%E7%BE%A4%20%EF%BC%9C%E6%A0%AA%E6%8E%A2%E3%83%88%E3%83%83%E3%83%97%E7%89%B9%E9%9B%86%EF%BC%9E",
-          "language": "ja"
-        },
-        {
-          "title": "「歌声美しすぎる」全身純白！ TBS地上波中継で流れた61歳大物アーティストの国歌独唱に喝采続出「泣いたわ」「聴き惚れてしまった...」",
-          "description": "「歌声美しすぎる」全身純白！ TBS地上波中継で流れた61歳大物アーティストの国歌独唱に喝采続出「泣いたわ」「聴き惚れてしまった...」（THE DIGEST）　プロ野球の「SMBC日本シリーズ2026」は10月24日、横浜DeNAベイスターズvs福岡ソフトバンクホークスの第１戦が横浜スタジアムで…",
-          "url": "https://topics.smt.docomo.ne.jp/article/thedigestweb/sports/thedigestweb-121924?redirect=1",
-          "source": {
-            "name": "ｄメニューニュース"
-          },
-          "publishedAt": "2026-10-24T10:20:00Z",
-          "image": "https://img.topics.smt.news.goo.ne.jp/picture/thedigestweb/m_thedigestweb-121924.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "テレビ朝日ドラマ『はだかんぼうたち』初共演のTravis Japan松田元太、Hey! Say! JUMP髙木雄也が赤裸々告白「この年になって、女性を…」",
-          "description": "テレビ朝日系ドラマ『はだかんぼうたち』で初共演している、Travis Japan・松田元太とHey! Say! JUMP・髙木雄也。加藤ローサをめぐる“三角関係”を描いた作品だが、普段は多くの女性を虜にしているアイドルの彼らだが、今作では役作りにあたって「女性」を勉強しているようでーー。",
-          "url": "https://www.jprime.jp/articles/-/44183?display=b",
-          "source": {
-            "name": "週刊女性PRIME"
-          },
-          "publishedAt": "2026-10-24T10:00:00Z",
-          "image": "https://jprime.ismcdn.jp/mwimgs/0/9/-/img_09bbed5975af1112bd7a4c7ace9f8c0d280414.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「全部で5色購入」「柔らかく着心地が良いです」 ワークマンの“980円トレーナー”が高評価 「乾くとシワもなく楽」「動きやすい」",
-          "description": "機能性ウェアで人気を集めるメーカー「ワークマン」では、少し肌寒い日に役立つ便利なトップスも充実しています。「レディースメンモリークルーネック」は、お手頃価格で高機能な長袖クルーネックトップスです。ここでは、その「レディースメンモリークルーネック」を詳しく紹介します！画像：ワークマン「レディ…",
-          "url": "https://nlab.itmedia.co.jp/research/articles/4067972/",
-          "source": {
-            "name": "ねとらぼ"
-          },
-          "publishedAt": "2026-10-24T09:40:00Z",
-          "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/10/1792732989_fd0b65f87b0449e9df7d08b4f373b101.jpeg",
-          "language": "ja"
-        },
-        {
-          "title": "ウーマン村本大輔、肋骨にヒビ・ロサンゼルスで交通事故 脚の怪我の写真公開「人生で初めてこれ死ぬかもと思いました」",
-          "description": "お笑いコンビ・ウーマンラッシュアワーの村本大輔が10月23日、自身のInstagramを更新。ロサンゼルスで事故に遭ったことを報告した。",
-          "url": "https://mdpr.jp/news/detail/4864958",
-          "source": {
-            "name": "モデルプレス"
-          },
-          "publishedAt": "2026-10-24T09:28:13Z",
-          "image": "https://img-mdpr.freetls.fastly.net/article/wTyi/wm/wTyigPcN2Rcj-RFKwdPKf5zA3o-kik1DcM-RIjvOK-k.jpg?width=700&disable=upscale&auto=webp&quality=80",
-          "language": "ja"
-        },
-        {
-          "title": "映画『バイオハザード』主人公・ブライアンの口の悪さが炸裂する本編映像が公開",
-          "description": "「ウソだろ」「詰んだ」「グロい」など訳はさまざまで、今回は電気柵を前に判断を誤ったブライアンから「クソ電流」が飛び出す。全国の劇場で上映中",
-          "url": "https://news.denfaminicogamer.jp/news/261024q",
-          "source": {
-            "name": "電ファミニコゲーマー"
-          },
-          "publishedAt": "2026-10-24T09:00:00Z",
-          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/Sub2_BioHazard.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Joao Pedro out of Chelsea team to face Tottenham in London derby",
-          "description": "Chelsea are without their top goalscorer for the clash with Spurs",
-          "url": "https://sports.yahoo.com/articles/joao-pedro-chelsea-team-face-152648630.html",
+          "title": "F1 Qualifying Results for the 2026 United States Grand Prix",
+          "description": "Full results and report from qualifying at the 2026 United States Grand Prix at the Circuit of the Americas, Texas.",
+          "url": "https://www.si.com/onsi/f1/news/f1-qualifying-results-for-the-2026-united-states-grand-prix",
+          "source": {
+            "name": "Sports Illustrated"
+          },
+          "publishedAt": "2026-10-24T22:51:27Z",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4494,h_2527/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/f1briefings/01m5qzze7gc0nk7xgc2m.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Singapore palliative care nurse on caring for dying patients at home",
+          "description": "End-of-life care has taught nurse Mariam Jumaat that dying peacefully at home can mean being comfortable, surrounded by loved ones and ready to let go.",
+          "url": "https://cnalifestyle.channelnewsasia.com/women/home-palliative-care-nurse-dying-patients-happy-death-589991",
+          "source": {
+            "name": "CNA Lifestyle"
+          },
+          "publishedAt": "2026-10-24T22:45:46Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--UYYynoey--/c_crop,h_720,w_1280,x_0,y_81/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/05/home-palliative-care-nurse-mariam-jumaat-home-nursing-foundation.jpg?itok=P_U15eba",
+          "language": "en"
+        },
+        {
+          "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+          "description": "Nigerian police say a large group carried out the attack on Binnari village in Taraba State.",
+          "url": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say",
+          "source": {
+            "name": "Al Jazeera"
+          },
+          "publishedAt": "2026-10-24T22:41:27Z",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6add2796635cf-1792878486.jpg?resize=1920%2C1440",
+          "language": "en"
+        },
+        {
+          "title": "Alexander Volkanovski stuns the world with epic KO win over Movsar Evloev at UFC 333",
+          "description": "Alexander “The Great” Volkanovski has emphatically proven he is the greatest featherweight of all time with a thunderous TKO win over Movsar Evloev at UFC 333.",
+          "url": "https://www.news.com.au/sport/ufc/ufc-333-alexander-volkanovski-vs-movsar-evloev-live-updates/live-coverage/bb6ba9c4bb2eae386f99e18fe5da399d",
+          "source": {
+            "name": "News.com.au"
+          },
+          "publishedAt": "2026-10-24T22:41:15Z",
+          "image": "https://content.api.news/v3/images/bin/1ddf73322e51b2b4421f094da667f687",
+          "language": "en"
+        },
+        {
+          "title": "Dana White explains interim title with Islam Makhachev not fighting at UFC 336",
+          "description": "Dana White didn't appear too pleased with Islam Makhachev not defending his belt at UFC 336.",
+          "url": "https://sports.yahoo.com/articles/dana-white-explains-interim-title-224028113.html",
           "source": {
             "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-10-24T15:35:03Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/9e0a4440dcf5b2fda701a33f30f678b1452931b497d307bceaf71d5966da94df/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2F631b83b189f29301e5434c2784da7169.jpg",
+          "publishedAt": "2026-10-24T22:40:28Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/3b5ab6759ea4d406af4be59af721d4df725b8eef20ca68fa2ea46b4e41decc45/lightyear_networkapi/resizefill_w1024_h682%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_junkie_usa_today_articles_344%2F99ad7967708f8fb3b50c2ff3730e7d5d.jpg",
           "language": "en"
         },
         {
-          "title": "On this day in space! Oct. 24, 1946: V-2 rocket takes 1st photos of Earth from space",
-          "description": "On October 24, 1946, a V-2 rocket captured the first-ever photo of Earth from space. Here's why it mattered.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-24-2026",
+          "title": "NC State fires Dave Doeren after 14 years as Wolfpack football coach following loss to Stanford",
+          "description": "NC State football fired head coach Dave Doeren after the Wolfpack's loss to Stanford dropped them to 3-4. A national coaching search will begin immediately.",
+          "url": "https://www.foxnews.com/outkick-sports/nc-state-fires-dave-doeren-14-years-wolfpack-football-coach-following-loss-stanford",
           "source": {
-            "name": "Space"
+            "name": "Fox News"
           },
-          "publishedAt": "2026-10-24T15:33:08Z",
-          "image": "https://cdn.mos.cms.futurecdn.net/gyqZmq6G2J32EA2wYwRMi5-2048-80.jpg",
+          "publishedAt": "2026-10-24T22:40:08Z",
+          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/dave-doeren-north-carolina-state-virginia.jpg",
           "language": "en"
         },
         {
-          "title": "Skeem Saam and House of Zwide writer passes away!",
-          "description": "Sibusisiwe Gugu Manqele, a SAFTA-winning actress, screenwriter, and advocate for South African storytelling, has died at 35 after a cardiac illness. Known for her work on major television productions,",
-          "url": "https://www.snl24.com/news/skeem-saam-and-house-of-zwide-writer-passes-away-20261024/",
+          "title": "SGLT2 Inhibitors Benefit Older Adults With Chronic Kidney Disease",
+          "description": "New research uncovers the potential benefits and risks of sodium-glucose cotransporter 2 (SGLT2) inhibitors for adults aged 80 years or older with",
+          "url": "https://www.miragenews.com/sglt2-inhibitors-benefit-older-adults-with-1766039/",
           "source": {
-            "name": "Daily Sun"
+            "name": "Mirage News"
           },
-          "publishedAt": "2026-10-24T15:32:34Z",
-          "image": "https://media24-dailysun-prod.web.arc-cdn.net/resizer/v2/EW75VI77RRC5JBJPLMGXYQ2INU.jpg?smart=true&auth=bf6a56069cd9de01567f8310ce1596e303265c496e4a22c7c8adb952e672afc1&width=1200&height=630",
+          "publishedAt": "2026-10-24T22:38:00Z",
+          "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1532619675605-1ede6c2ed2b0%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
           "language": "en"
         },
         {
-          "title": "Destiny's Child Reunites at Jay-Z's Los Angeles Concert to Cheer On Rapper",
-          "description": "Destiny's Child rejoined forces in the crowd attending Jay-Z's Los Angeles show ... and we don't think you're ready for this reunion!",
-          "url": "https://www.tmz.com/2026/10/24/destinys-child-rihanna-attend-jay-z-show-blue-performs/",
+          "title": "‘No line he will not cross’: Obama slams Ramaswamy’s ‘cruel’ ad, hits out at Trump",
+          "description": "Former US President Barack Obama has criticised President Donald Trump and his Republican allies, accusing them of abandoning basic standards of decency",
+          "url": "https://timesofindia.indiatimes.com/world/us/no-line-he-will-not-cross-obama-slams-ramaswamys-cruel-ad-hits-out-at-trump/articleshow/135179870.cms",
           "source": {
-            "name": "TMZ"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-10-24T15:31:48Z",
-          "image": "https://imagez.tmz.com/image/84/16by9/2026/10/24/846c20f01948435fab9918f13c0e7d07_xl.jpg",
+          "publishedAt": "2026-10-24T22:38:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-135179927,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Mid Island Mycological Symbionts host upcoming fall fungi events",
-          "description": "AI identification and medicinal uses highlight autumn series",
-          "url": "https://comoxvalleyrecord.com/2026/10/24/mid-island-mycological-symbionts-host-upcoming-fall-fungi-events/",
+          "title": "Four people seriously injured in drive",
+          "description": "A shooting in the Logan suburb of Loganholme on Saturday night has left four people injured, police say.",
+          "url": "https://www.abc.net.au/news/2026-10-25/four-injured-in-logan-drive-by-shooting/107305464",
           "source": {
-            "name": "Comox Valley Record"
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation"
           },
-          "publishedAt": "2026-10-24T15:31:38Z",
-          "image": "https://comoxvalleyrecord.com/wp-content/uploads/sites/13/2026/10/johnstonmush.jpg?w=1024",
+          "publishedAt": "2026-10-24T22:32:59Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/e2d63b5264dc2328dbe45c47fd931799?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485&imformat=generic",
           "language": "en"
         },
         {
-          "title": "Oppo Find X10 and X10 Pro Max go global, OLED MacBook coming on Oct 28",
-          "description": "The iQOO Neo12 will launch on October 28. Apple will launch its first touchscreen OLED MacBook on October 28. The company sent out the official invite with...",
-          "url": "https://www.gsmarena.com/oppo_find_x10_and_x10_pro_max_go_global_oled_macbook_coming_on_oct_28-news-75191.php",
+          "title": "Mercedes’ Antonelli earns surprise pole for U.S. Grand Prix as he chases F1 title",
+          "description": "Kimi Antonelli earned a surprise pole position Saturday for the United States Grand Prix, giving the championship leader a chance to close out the season title with a victory if his closest rivals falter.",
+          "url": "https://www.tsn.ca/motorsports/article/mercedes-driver-antonelli-earns-surprise-pole-for-the-us-grand-prix-as-he-chases-the-f1-title/",
           "source": {
-            "name": "GSMArena.com"
+            "name": "TSN"
           },
-          "publishedAt": "2026-10-24T15:31:02Z",
-          "image": "https://fdn.gsmarena.com/imgroot/news/26/10/week-44-in-review/-952x498w6/gsmarena_000.jpg",
-          "language": "en"
-        },
-        {
-          "title": "One key midterms race in all 50 states and why they matter",
-          "description": "These are the midterm races to watch in each state, from Alabama to Wyoming.",
-          "url": "https://www.usatoday.com/story/news/politics/2026/10/24/key-midterm-elections-by-state-voter-guide-2026/92284737007/",
-          "source": {
-            "name": "USA Today"
-          },
-          "publishedAt": "2026-10-24T15:31:00Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/22/USAT/92386632007-election-guide.jpg?crop=3555,1999,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-          "language": "en"
-        },
-        {
-          "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
-          "description": "Volodymyr Zelenskyy offers thanks to US allies for restoring system key to air defence and ‘frontline logistics’",
-          "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
-          "source": {
-            "name": "The Guardian"
-          },
-          "publishedAt": "2026-10-24T15:31:00Z",
-          "image": "https://i.guim.co.uk/img/media/0d51da8a70a218cd186de054b9f5706103605242/86_0_3672_2937/master/3672.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b3d9bf54e925277c3258b3b456f388fc",
-          "language": "en"
-        },
-        {
-          "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
-          "description": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
-          "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-          "source": {
-            "name": "TechCrunch"
-          },
-          "publishedAt": "2026-10-24T15:30:00Z",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/10/php-web-bug-padlock-2300746159.jpg?resize=1200,800",
-          "language": "en"
-        },
-        {
-          "title": "College football schedule 2026: What to watch in Week 8, TV channels, streaming",
-          "description": "Will we see even more college football craziness in Week 8's best games?",
-          "url": "https://www.cbssports.com/college-football/news/college-football-schedule-2026-what-to-watch-week-8-tv-channels-streaming-saturday-kickoff-times/",
-          "source": {
-            "name": "CBS Sports"
-          },
-          "publishedAt": "2026-10-24T15:30:00Z",
-          "image": "https://sportshub.cbsistatic.com/i/r/2026/10/22/6b4be8d4-212e-4d4b-a1ea-7e3577f881e9/thumbnail/1200x675/7a31b3933dec5a77c91b0313a14e9972/gettyimages-2243956066-2.jpg",
+          "publishedAt": "2026-10-24T22:32:08Z",
+          "image": "https://www.tsn.ca/resizer/v2/HRHREOVHPRCHFL523IOHNLWTDQ.jpg?smart=true&auth=0a72152b5bb7908b4ecf4a1c75a349b362f4d84d0208f40fb528186abe5433b6&width=1200&height=630",
           "language": "en"
         }
       ]
