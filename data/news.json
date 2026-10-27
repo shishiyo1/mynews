@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-10-26T20:19:44.131Z",
+  "updatedAt": "2026-10-27T00:15:04.147Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "巨大なブラックホールはどうやってジェットを噴き出す？ JAXA天文衛星「XRISM」などの観測成果",
+          "description": "東北大学などの研究チームが、X線衛星XRISMと電波望遠鏡で銀河「3C 120」を観測。超大質量ブラックホールの近くで低温の円盤が途切れ、内側が高温のプラズマ流になっていることを示しました。強力なジェットが生まれる仕組みと、降着円盤との関係を探る研究成果です",
+          "url": "https://sorae.info/astronomy/20261026-jet-of-3c-120.html",
+          "source": {
+            "name": "sorae 宇宙へのポータルサイト"
+          },
+          "publishedAt": "2026-10-26T11:13:51Z",
+          "image": "https://sorae.info/wp-content/uploads/2026/10/jet-of-smbh-tohoku-university-2026-10-26-1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【BCクラシック】有馬参戦？引退後は？藤田晋オーナー明かす「一石を投じたい」「迷っている」 - 海外",
+          "description": "さぁ、かかってこい。ダート世界最強馬フォーエバーヤング（牡5、矢作）がBCクラシック（G1、ダート2000メートル、31日＝キーンランド）に3年連続で参戦する… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+          "url": "https://www.nikkansports.com/keiba/news/202610260001518.html",
+          "source": {
+            "name": "日刊スポーツ"
+          },
+          "publishedAt": "2026-10-26T10:55:48Z",
+          "image": "https://www.nikkansports.com/keiba/news/img/202610260001518-w500_0.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "松井秀喜新監督でも難しい…？巨人・織田翔希の強行指名に賛否…チームメートの3位指名に浮かぶ“もう一つの思惑”（ベースボールチャンネル）",
+          "description": "米国挑戦を表明した横浜高・織田翔希を、読売ジャイアンツはドラフト1位で“強行指名”した。翌日には日米で活躍した松井秀喜新監督が就任し、3位では織田と同校の池田聖摩も指名。新監督と高校時代の仲間という",
+          "url": "https://news.yahoo.co.jp/articles/261de6bb8280f7e0268bc38b286522e15ec4ba0a",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-10-26T10:31:01Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-00010042-baseballc-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【矢作調教師・直撃（前編）】「とにかく、やってみたい」フォーエバーヤングが２年越しの“宿敵”と最初で最後の対戦へ（馬トク報知）",
+          "description": "ブリーダーズカップ（ＢＣ）クラシック（日本時間１１月１日、米国キーンランド競馬場・ダート２０００メートル）で、連覇を目指すフォーエバーヤング（牡５歳、父リアルスティール）を管理する矢作芳人調教師が、",
+          "url": "https://news.yahoo.co.jp/articles/320c333ddb2b71e146711a4353dee9800e0cbc57",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-10-26T10:30:03Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-10261196-umatokuh-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【独自】国分太一が築40年マンションのオーナーになっていた！「即賃料１万円アップ」で住人困惑（週刊女性PRIME）",
+          "description": "2025年6月、突如として日本テレビの番組からの降板が発表された国分太一。長年出演してきた『ザ!鉄腕!DASH!!』（日本テレビ系）をはじめ、すべての番組を降板する事態となり、3人で活動していたTO",
+          "url": "https://news.yahoo.co.jp/articles/8d57dfe150fd1991f94f016a5aa2cb88beaab67f",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-10-26T10:00:35Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-00044300-jprime-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "【終了まで残り5日！】タッチで操る次世代ドッキングステーション「SmartView Dock」、CAMPFIRE先行販売がラストスパート！",
+          "description": "株式会社RTのプレスリリース（2026年10月26日 18時30分）【終了まで残り5日！】タッチで操る次世代ドッキングステーション「SmartView Dock」、CAMPFIRE先行販売がラストスパート！",
+          "url": "https://prtimes.jp/main/html/rd/p/000000069.000184990.html",
+          "source": {
+            "name": "PR TIMES"
+          },
+          "publishedAt": "2026-10-26T09:30:01Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/184990/69/184990-69-843dc73c0a3049f7267f7ca3aa5836cc-1448x1086.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+          "language": "ja"
+        },
+        {
+          "title": "折りたたみ「iPhone Duo」対応ケース12選 ヒンジ保護、スタンド付き、耐衝撃性能など多彩なラインアップ（1/3 ページ）",
+          "description": "Apple初の折りたたみ機「iPhone Duo」向けケース選びは、ヒンジや画面の保護構造が重要になる。純正からサードパーティーまで12製品をピックアップ。高価な端末を守りつつ利便性を損なわないために、用途や機能に応じた最適な製品選びが求められる。 (1/3)",
+          "url": "https://www.itmedia.co.jp/mobile/articles/2610/26/news075.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-10-26T09:13:00Z",
+          "image": "https://image.itmedia.co.jp/mobile/articles/2610/26/cover_news075.jpg",
+          "language": "ja"
+        },
         {
           "title": "「斎藤知事の元側近」はなぜ敗北したのか SNS熱狂の舞台裏",
           "description": "候補者の周りには、熱気と対立が入り交じった。 　25日に投開票された兵庫県議の補欠選挙（高砂市選挙区）。人口8万人あまりの地方都市の補選に異例の注目が集まった。 　すべての始まりは、斎藤元彦知事の側近とされ、文書告発問題の渦中で辞職した元副知事の出馬だった。",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-10-26T06:45:00Z",
           "image": "https://japan.cnet.com/storage/2026/10/26/29b274de8b2af553bd327537e3234c28/large.jpg",
           "language": "ja"
-        },
-        {
-          "title": "日本ハムは161キロ右腕、期待の和製大砲など4名が戦力外…合計9名に通告｜記事一覧｜高校野球ドットコム",
-          "description": "頑張っている球児を応援する高校野球報道サイト。コラムや試合記事など高校野球情報を公開中。",
-          "url": "https://www.hb-nippon.com/articles/18666",
-          "source": {
-            "name": "高校野球ドットコム"
-          },
-          "publishedAt": "2026-10-26T06:03:28Z",
-          "image": "https://cdn.hb-nippon.com/article-img/OHd6OP7bietvaXQeEPFPpO94pdeJPf2AZ0Or18xj.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ブラジル大統領選、現職ルラ氏が決選投票で当選 敗れた右派候補は「あり得ない」",
-          "description": "南米ブラジルの大統領選挙の決選投票で、選挙管理当局は25日、左派で現職のルイス・イナシオ・「ルラ」・ダ・シルヴァ氏（80）が再選されたと発表した。ルラ大統領は勝利演説で、「（ブラジルは）誰の裏庭にも決してならない」と述べた。これはアメリカのトランプ政権を念頭に置いたものと受け止められている。一方、第1回投票では勝った右派候補のフラヴィオ・ボルソナロ氏は、今回の結果を「あり得ない」ものだとし、無効にするべきだと主張した。",
-          "url": "https://www.bbc.com/japanese/articles/cky83ywyx5yjo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-10-26T04:41:46Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/4ed9/live/2720f160-d0e3-11f1-ad70-07daa2562508.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "パックン、妻が昨年46歳で死去「闘病の末…」 憔悴の末に決意「いい思い出を心にしまいながら」",
-          "description": "ニュース｜「世界一かわいい大好きな奥さんでした」　お笑いコンビ・パックンマックンの“パックン”こと、パトリック・ハーランが、26日放送のテレビ朝日系トーク番組『徹子の部屋』（月～金　後1：00）に出演。2004年に結婚した妻が、46歳の若さで昨年亡くなっていたことを初告白した。",
-          "url": "https://www.oricon.co.jp/news/2488837/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-10-26T04:37:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2489000/2488837/20261026_132508_p_o_45337315.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "セルビア総選挙、学生主導の抗議運動が与党倒す 前大統領は敗北認める",
-          "description": "東欧セルビアで25日、議会（一院制、定数250）総選挙が投開票され、14年ぶりの政権交代が確実となった。与党を率いるヴチッチ前大統領は、学生主導の中道勢力「学生リスト」に敗れたことを認めた。国内で学生主導の抗議活動が1年以上続き、政府の汚職疑惑に対する国民の不満が高まっていた。",
-          "url": "https://www.bbc.com/japanese/articles/c820vdyddwk4o",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-10-26T03:01:14Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/e676/live/8534e970-d0c8-11f1-b441-2b33b063138f.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "横山由依、第1子出産「尊く幼い彼女が健やかな日々を過ごしていけるよう…」 夫・後上翔太と連名で発表",
-          "description": "ニュース｜　元AKB48の横山由依（33）が26日、自身のSNSを更新し、第1子出産を報告した。夫のコーラスグループ・純烈の後上翔太（40）と連名でのコメントで報告した。　Xでは足形の写真とともに「先日、私達の元に第一子が誕生いたしました。多くの皆様の応援やお力添えのおかげでこの日を迎えることが出来ました。支えてくださった全ての皆様には感謝の気持ちでいっぱいです。尊く幼い彼女が健やかな日々を過ごしていけるよう、力を合わせて精進してまいります」とつづった。",
-          "url": "https://www.oricon.co.jp/news/2488802/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-10-26T03:01:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2489000/2488802/20261026_120938_p_o_14190273.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【為替】10/26～10/30の米ドル／円を予想する",
-          "description": "米ドル／円は先週（10月19日週）、約1ヶ月続いた157～159円中心のレンジを「下放れ」した。世界的な株安が一段と広がり、長期金利が世界的に低下したことなどが影響したか。。米ドル／円の行方は引き続き世界的株安が鍵になりそう。。今週（10月26日週）の米ドル／円は1...",
-          "url": "https://media.monex.co.jp/articles/-/30377",
-          "source": {
-            "name": "マネクリ"
-          },
-          "publishedAt": "2026-10-26T02:48:00Z",
-          "image": "https://media.monex.co.jp/mwimgs/a/7/-/img_a7c9ac1cbc7b099076c75c9fb3211e45544367.png",
-          "language": "ja"
-        },
-        {
-          "title": "トランプ大統領、支持率が最低 露骨バラマキ 夫人も前面に オバマ元大統領痛烈批判",
-          "description": "アメリカの中間選挙を目前に控え、トランプ大統領の支持率は31％と過去最低を更新しました。票を金で買うかのようなバラマキ政策を連発。さらには、ファーストレディーの存在感も増しています。【画像】トランプ",
-          "url": "https://news.yahoo.co.jp/articles/27cb03f7006e1fd40f9d91c0a53e83d3f9d2211e",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-10-26T02:30:37Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-90202758-ann-000-1-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Call for expansion of lymphoedema services nationwide",
-          "description": "Around one-quarter of breast cancer survivors in Ireland go on to develop secondary lymphoedema, a long-term and progressive condition which causes swelling in the body's tissues, especially the arms and legs.",
-          "url": "https://www.rte.ie/news/ireland/2026/1026/1596826-lymphoedema-patients-ireland/",
+          "title": "Series set for dramatic finish as Australia return to Cape Town",
+          "description": "SA vs AUS 2026/27 South Africa vs Australia Match Preview: With series up for grabs, Australia have questions marks around both disciplines while South Africa's batting has shown it can be shaky",
+          "url": "https://www.cricinfo.com/series/australia-in-south-africa-2026-27-1525634/south-africa-vs-australia-3rd-test-1525661/match-preview",
           "source": {
-            "name": "RTE.ie"
+            "name": "Cricinfo"
           },
-          "publishedAt": "2026-10-26T08:19:37Z",
-          "image": "https://www.rte.ie/images/00253bd1-1600.jpg",
+          "publishedAt": "2026-10-26T12:14:47Z",
+          "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/394800/394818.6.jpg",
           "language": "en"
         },
         {
-          "title": "Kenyans wish Uhuru Kenyatta happy birthday as he turns 65",
-          "description": "The Office of the Fourth President of the Republic of Kenya led the celebrations with a message honouring Uhuru’s life and contribution to the country",
-          "url": "https://www.the-star.co.ke/news/2026-10-26-kenyans-wish-uhuru-happy-65th-birthday",
+          "title": "Meghan Markle’s Half-Brother Apologizes for Taking Their Father’s Side",
+          "description": "Thomas Markle Jr. has reportedly apologized to Meghan Markle for not taking her side and supporting their dad. The Duchess of Sussex has had a strained relationship with her half-brother for nearly a ...",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/meghan-markle-half-brother-apologizes-121309338.html",
           "source": {
-            "name": "The Star, Kenya"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-10-26T08:19:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/10/f1fd5d62-a88a-4235-bd78-07f72c72af51.webp?1793003668187",
+          "publishedAt": "2026-10-26T12:13:09Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/2d6e299e64a20c8c8bffe40192fa9e29606759e20dfd8fbc910fef53715e4f4f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Fd4004ebf80830c4da5f6da24aedf21e1.jpg",
           "language": "en"
         },
         {
-          "title": "IGG Overrules Mao on URSB Officials, Orders Kainobwisho Interdicted, Agaba Reinstated",
-          "description": "KAMPALA — The Inspectorate of Government has directed Justice Minister Norbert Mao to interdict Uganda Registration Services Bureau (URSB) Registrar General Mercy Kainobwisho and three other senior officials as investigations into alleged abuse of office, money laundering and mismanagement continue. In a statement dated October 26, the IG said Mao had earlier been instructed to …",
-          "url": "https://chimpreports.com/igg-overrules-mao-on-ursb-officials-orders-kainobwisho-interdicted-agaba-reinstated/",
+          "title": "Translating global UN water framework into local action",
+          "description": "WATER sustains life, supports ecosystems, underpins economic activity, and shapes the wellbeing of communities worldwide. Yet, despite its fundamental importance, access to safe and reliable water rem...",
+          "url": "https://ippmedia.co.tz/the-guardian/features/read/translating-global-un-water-framework-into-local-action-2026-10-26-151234",
           "source": {
-            "name": "ChimpReports"
+            "name": "https://ippmedia.co.tz/"
           },
-          "publishedAt": "2026-10-26T08:18:48Z",
-          "image": "https://cdn-network.chimpreports.com/wp-content/uploads/2023/07/Kaino.png",
+          "publishedAt": "2026-10-26T12:12:34Z",
+          "image": "https://ippmedia.co.tz/storage/post-feature-images/5ba88e01-28fe-472e-ae32-7b74b6f2450b.webp",
           "language": "en"
         },
         {
-          "title": "Wedding bells? Not yet, says ex-TVB actress Bernice Liu, 47, after rumoured romance with Hong Kong tycoon 23 years her senior",
-          "description": "HONG KONG, Oct 26 — Bernice Liu has seemingly confirmed her romance with Hong Kong tycoon Frederick Lui, former chairman of the Tung Wah Group of Hospitals.The 47-year-old...",
-          "url": "https://www.malaymail.com/news/showbiz/2026/10/26/wedding-bells-not-yet-says-ex-tvb-actress-bernice-liu-47-after-rumoured-romance-with-hong-kong-tycoon-23-years-her-senior/240665",
+          "title": "Diesel prices up by more than P1/L as October ends",
+          "description": "Diesel prices are going up by more than P1/liter as October ends.",
+          "url": "https://www.abs-cbn.com/news/business/2026/10/26/diesel-prices-up-by-more-than-p1-l-as-october-ends-1043",
           "source": {
-            "name": "Malay Mail"
+            "name": "ABS-CBN"
           },
-          "publishedAt": "2026-10-26T08:18:39Z",
-          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/26/370572.jpg",
+          "publishedAt": "2026-10-26T12:11:39Z",
+          "image": "https://od2-image-api.abs-cbn.com/prod/20261026011036/baef2d9a55fb7437afbbc323362c2a11d6f115d1f2289e43d6f095ae3e4002c2.jpg?w=1200&h=800",
           "language": "en"
         },
         {
-          "title": "Supreme Court Seeks ECI's Response On Plea Challenging Maharashtra SIR",
-          "description": "\\\"Nobody will be prosecuted,\\\" CJI Surya Kant said when the petitioner raised apprehensions over deleted voters being asked to file Form 6.",
-          "url": "https://www.livelaw.in/top-stories/supreme-court-seeks-ecis-response-on-plea-challenging-maharashtra-sir-555950",
+          "title": "Kane is present in London for the Ballon d'Or and Messi is not expected",
+          "description": "Confidence in the English player's camp that he will receive the award tonight",
+          "url": "https://www.marca.com/en/football/2026/10/26/kane-is-present-in-london-for-the-ballon-d-or-and-messi-is-not-expected.html",
           "source": {
-            "name": "Live Law"
+            "name": "MARCA"
           },
-          "publishedAt": "2026-10-26T08:17:25Z",
-          "image": "https://www.livelaw.in/h-upload/2026/10/26/708248-sir-maharashtra-and-sc.jpg",
+          "publishedAt": "2026-10-26T12:11:28Z",
+          "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/10/26/6adf42f43029b.jpeg",
           "language": "en"
         },
         {
-          "title": "Gary Neville attacks ‘nothing’ Man United players for giving up on Michael Carrick",
-          "description": "Neville accused United’s players of walking around like ‘kings’ in a scathing attack on their professionalism and standards",
-          "url": "https://sports.yahoo.com/articles/gary-neville-attacks-nothing-man-081312969.html",
+          "title": "Ecuadorian Queer Drama 'Princess' Boarded by MMM Film Sales",
+          "description": "Director Christian Rojas discusses his debut feature, which follows an Indigenous girl from the Andes struggling with her gender identity.",
+          "url": "https://variety.com/2026/film/global/queer-drama-nusta-princess-mmm-film-sales-christian-rojas-1236904121/",
+          "source": {
+            "name": "Variety"
+          },
+          "publishedAt": "2026-10-26T12:10:43Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/Nusta_Still5.jpg?w=1000&h=563&crop=1",
+          "language": "en"
+        },
+        {
+          "title": "Police arrest a 15-year-old in shooting near Florida A&M stadium that injured 12",
+          "description": "A 15-year-old male has been arrested in connection with a shooting close to Florida A&M University’s Bragg Memorial Stadium over the weekend that injured 12 people, according to police.",
+          "url": "https://www.nbcnews.com/news/us-news/police-arrest-teenager-shooting-florida-stadium-rcna605677",
+          "source": {
+            "name": "NBC News"
+          },
+          "publishedAt": "2026-10-26T12:10:38Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261026-Tallahassee-rs-fd1c6d.jpg",
+          "language": "en"
+        },
+        {
+          "title": "LTA tasks nations sharing Lake Tanganyika to ensure its resources benefit 13m people who depend on it.",
+          "description": "DAR ES SALAAM: THE Countries sharing Lake Tanganyika have been urged to strengthen implementation of agreed decisions and strategies to ensure the lake’s resources deliver greater economic and social benefits to more than 13 million people who depend on it. The call was made by the Permanent Secretary in the Vice-President’s Office (Union and Environment), …",
+          "url": "https://dailynews.co.tz/lta-tasks-nations-sharing-lake-tanganyika-to-ensure-its-resources-benefit-13m-people-who-depend-on-it/",
+          "source": {
+            "name": "Daily News"
+          },
+          "publishedAt": "2026-10-26T12:10:21Z",
+          "image": "https://dailynews.co.tz/wp-content/uploads/2026/10/Katibu-Mkuu-Ofisi-ya-Makamu-wa-Rais-Muungano-na-Mazingira-Dkt.-Richard-Muyungi-amezitaka-nc-1.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Manager Guardiola described as ‘top-class’ is the favourite to replace Carrick as Man Utd hold emergency meeting",
+          "description": "Manchester United are seemingly on the cusp of sacking Michael Carrick, with Eddie Howe emerging as the ultimate favourite to take over.Carrick enjoyed a memorable run after replacing Ruben Amorim in ...",
+          "url": "https://sports.yahoo.com/articles/manager-guardiola-describes-top-class-121000449.html",
           "source": {
             "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-10-26T08:14:52Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/b808988905c340c369bd814b58e44f552fc58517444700ca3939847e12028312/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2F008fb2f5003516a39eda73d818c7819d.jpg",
+          "publishedAt": "2026-10-26T12:10:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/2914c5155fd82dfed46e2fd1b3f2d6839f46527e5369e71c4101161325350704/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstretty_news_articles_240%2F0ff5450ac851888e8862237a1d7abb31.jpg",
           "language": "en"
         },
         {
-          "title": "'Tell Modi to sack Gyanesh Kumar': Rahul Gandhi responds to traders' body appeal, says 'protests can end in 30 seconds'",
-          "description": "Significantly, Rahul's remark came after party president Mallikarjun Kharge on Monday indicated that the leadership will deliberate on a request made by Delhi’s business community to reschedule the opposition alliance's mega demonstration, assuring that a solution will be reached soon.",
-          "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/india/tell-modi-to-sack-gyanesh-kumar-rahul-gandhi-responds-to-traders-body-appeal-says-protests-can-end-in-30-seconds-14060177.html",
+          "title": "Cabal: Revolution - Combo InterActive’s newest mobile MMORPG announces simultaneous CBT on Nov. 5",
+          "description": "COMBO InterActive, the online game publisher behind “Cabal: Infinite Combo” and “Cabal: Ultimate Combo,” hosted Cabal: Revolution Night to unveil its new title, “Cabal: Revolution.” The MMORPG features a rebalanced experience designed to be more fun, more accessible, and fairer for every player. The Closed Beta Test (CBT) will launch simultaneously across Southeast Asia from Nov. 5–17, 2026.",
+          "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/cabal-revolution-combo-interactives-newest-mobile-mmorpg-announces-simultaneous-cbt-on-nov-5/2453953",
           "source": {
-            "name": "Moneycontrol.com"
+            "name": "The Manila Times"
           },
-          "publishedAt": "2026-10-26T08:14:45Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260725130116_Rahul-Gandhi-speaking-to-reporters-after-CJP-called-off-protest.png",
-          "language": "en"
-        },
-        {
-          "title": "NDC clears first hurdle to election 2028 - Elects constituency executive",
-          "description": "The governing National Democratic Congress (NDC) has completed the first and perhaps most decisive layer of its re-election architecture for 2028",
-          "url": "https://www.graphic.com.gh/news/politics/ghana-news-ndc-clears-first-hurdle-to-election-2028-elects-constituency-executive.html",
-          "source": {
-            "name": "Graphic Online"
-          },
-          "publishedAt": "2026-10-26T08:14:17Z",
-          "image": "https://www.graphic.com.gh/images/2026/Oct/26/ndc.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Dad 'punched' man who warned against entering sea during storm",
-          "description": "The man reportedly took his kids into the sea on a red-flagged beach, when entering the water poses a high risk of drowning or injury.",
-          "url": "https://metro.co.uk/2026/10/26/dad-punched-man-warned-entering-sea-storm-29738534/",
-          "source": {
-            "name": "Metro.co.uk"
-          },
-          "publishedAt": "2026-10-26T08:13:00Z",
-          "image": "https://metro.co.uk/wp-content/uploads/2026/10/SEI_318164872-7aa5_1793002961.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
-          "language": "en"
-        },
-        {
-          "title": "Ebola scientists to probe Nigeria case origin, Africa CDC says",
-          "description": "A team of ​leading Ebola scientists will travel to Nigeria to help investigate how the country’s first patient in more than ‌a decade got infected, Africa CDC Director-General Jean Kaseya said.",
-          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-scientists-probe-nigeria-case-origin-africa-cdc-says-2026-10-26/",
-          "source": {
-            "name": "Reuters"
-          },
-          "publishedAt": "2026-10-26T08:11:43Z",
-          "image": "https://www.reuters.com/resizer/v2/7HIBQVP3EBJMLOG54PZ4BHQMRA.jpg?auth=2abec56733851d8395bbfbb7ff5f7f09ef63b065c79e7a6f0a2e6b149d89fd0b&height=1005&width=1920&quality=80&smart=true",
+          "publishedAt": "2026-10-26T12:10:00Z",
+          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/26/1276682.jpg",
           "language": "en"
         }
       ]
