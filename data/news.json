@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-10-27T21:53:30.797Z",
+  "updatedAt": "2026-10-28T04:30:05.278Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "ユミルリンク「Cuenote FC」不正アクセスの影響広がる、JR東海、りそなグループらが相次ぎ発表",
-          "description": "ユミルリンク株式会社の同社システムへの不正アクセスの影響が各社に広がっている。インプレスがユミルリンクに委託しているメール配信のシステムにも影響が生じている可能性があると報告を受けており、インプレスでも情報を発表している。",
-          "url": "https://internet.watch.impress.co.jp/docs/news/2151621.html",
+          "title": "新「MacBook Pro」登場 M6チップ搭載で339800円から",
+          "description": "アップルは27日、M6プロセッサを搭載した14インチの「MacBook Pro」を発表した。10月29日から予約を開始し、11月6日より販売する。価格は339,800円から。",
+          "url": "https://www.watch.impress.co.jp/docs/news/2151704.html",
           "source": {
-            "name": "INTERNET Watch"
+            "name": "Impress Watch"
           },
-          "publishedAt": "2026-10-27T09:20:00Z",
-          "image": "https://internet.watch.impress.co.jp/img/iw/list/2151/621/01.png",
+          "publishedAt": "2026-10-27T16:07:08Z",
+          "image": "https://www.watch.impress.co.jp/img/ipw/list/2151/704/m01.jpg",
           "language": "ja"
         },
         {
-          "title": "28日は12月並みの寒気 北海道・東北は積雪や台風並みの暴風 関東も北風強まる",
-          "description": "28日(水)は冬型の気圧配置となり、12月上旬並みの寒気が流れ込むでしょう。北海道では日本海側を中心に平地でも積雪となりそうです。東北の平地でも雪が降り、初雪となる所があるでしょう。関東甲信の山でも雪の降る所がありそうです。また北海道や東北では台風並みの暴風が吹く恐れがあります。交通機関への影響に警戒が必要です。関東でも北風が強まり、東京地方で木枯らし1号の可能性があります。",
-          "url": "https://tenki.jp/forecaster/t_yoshida/2026/10/27/41114.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-10-27T08:34:22Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/41/411/41114/main/20261027165323/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ロシア占領下のウクライナ南部で局地的な停戦発効、メラニア米大統領夫人の発表から4日",
-          "description": "ロシアが占領するウクライナ南部へルソン州オレシュキで27日午前3時（モスクワ時間同日午前4時、日本時間同日午前10時）、局地的な停戦が発効した。停戦をめぐっては、アメリカのメラニア大統領夫人がウクライナとロシアを仲介し実現したと、ホワイトハウスが23日に発表していた。",
-          "url": "https://www.bbc.com/japanese/articles/c6p9gm7xgddyo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-10-27T07:36:16Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【解説】ルラ大統領の逆転勝利、ラテンアメリカへのトランプ氏の野望にへこみが",
-          "description": "トランプ氏とルラ氏の関係は一時に比べて改善したように見えるが、いくつかの問題が両大統領の間の緊張を再び高める可能性がある。",
-          "url": "https://www.bbc.com/japanese/articles/cqx2v4x9e29eo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-10-27T07:36:16Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/05b2/live/06753110-d192-11f1-8c41-0bbbeafdc6d4.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【F1】アストンマーティン・ホンダに希望の光 次戦メキシコシティは「得意の低速コーナー」かつ「波乱が起きがち」",
-          "description": "F1第18戦アメリカGPレビュー（後編）◆レビュー前編＞＞　オースティン（第18戦アメリカGP）の予選ではフェルナンド・アロンソが15位で、チームとしては8番手相当、そして決勝では中団最上位のチームとして5番手を争うだけの速さがあった。…",
-          "url": "https://sportiva.shueisha.co.jp/clm/motorsports/motorsports/2026/10/27/f1_74/",
-          "source": {
-            "name": "webスポルティーバ"
-          },
-          "publishedAt": "2026-10-27T07:35:00Z",
-          "image": "https://sportiva.shueisha.co.jp/clm/motorsports/motorsports/2026/images/AstonMartinHonda261027b.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Webブラウザなしでネット速度が測定可能に、Windows 11プレビュー版",
-          "description": "Microsoftは10月23日、Experimentalチャネル向けに「Windows 11 Insider Experimental Preview Build 26340.9767」を公開した。インターネット回線の速度測定と結果表示を、ブラウザを開かずにクイック設定内で行なえる機能を段階的に展開する。",
-          "url": "https://pc.watch.impress.co.jp/docs/news/2151552.html",
-          "source": {
-            "name": "PC Watch"
-          },
-          "publishedAt": "2026-10-27T07:16:32Z",
-          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2151/552/001.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "バルセロナの虚を突いた、モウリーニョの好采配「個を支えた組織と規律」マドリーが敵地クラシコを制した要因は「掴むべくして掴んだ勝利」（THE DIGEST）",
-          "description": "戦前の注目ポイントの一つがレアル・マドリーの右サイドの人選だったが、ジョゼ・モウリーニョ監督の出した答えはMFアルダ・ギュレルだった。ダブルボランチの一角には、先制点を決めるなど存在感を示した４日前",
-          "url": "https://news.yahoo.co.jp/articles/1048c32b04985d95178208a08bba15f989a8939d",
+          "title": "「どちらにも賛同できない」“分断”で行き場失う票も…迫る中間選挙“MAGA”の本音は（テレビ朝日系（ANN））",
+          "description": "1週間後に迫ったアメリカの中間選挙。2年前「戦争を終わらせ、経済を強くする」と訴え、大統領に返り咲いたトランプ氏。しかし、再び中東での戦争に足を踏み入れ、燃料をはじめとする物価の高騰が生活を直撃して",
+          "url": "https://news.yahoo.co.jp/articles/81fb74f67a0c26198740819c46b930bb3f428ced",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-10-27T06:49:00Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261027-00122042-thedigest-000-4-view.jpg?exp=10800",
+          "publishedAt": "2026-10-27T15:59:13Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-90202897-ann-000-2-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "28日は関東で木枯らし1号か この先は日ごとの寒暖差が大きい 体調管理に注意",
-          "description": "明日28日(水)は冬型の気圧配置となり、関東では晴れる所が多いでしょう。ただ、冷たい北風が強まり、東京地方では「木枯らし1号」が発表される可能性があります。最高気温は20℃前後で、空気の乾燥が進む見込みです。強風や火の取り扱いにご注意ください。29日(木)の朝は今季一番の冷え込みとなる所が多い一方、31日(土)の日中は25℃近くまで気温が上がるでしょう。その後は再び寒くなるなど、日ごとの寒暖差が大きくなりそうです。引き続き、体調管理にお気をつけください。",
-          "url": "https://tenki.jp/forecaster/a_shibamoto/2026/10/27/41113.html",
+          "title": "【市場反応】米・10月消費者信頼感指数は予想外に上昇、9月新築住宅販売件数は予想上回る、ドル続伸｜FX・為替ニュース",
+          "description": "[欧米市場の為替相場動向] コンファレンスボードが発表した米10月消費者信頼感指数は91.7となった。9月84.2から予想外の上昇で、6月来で最高。また、米9月新築住宅販売件数は前月比―0.6％の67.",
+          "url": "https://zai.diamond.jp/articles/-/498013",
           "source": {
-            "name": "tenki.jp"
+            "name": "ザイFX！"
           },
-          "publishedAt": "2026-10-27T05:57:45Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/41/411/41113/main/20261027143438/large.jpg",
+          "publishedAt": "2026-10-27T14:41:00Z",
+          "image": "https://zai.diamond.jp/mwimgs/d/e/-/img_de5845d33aad6b8661ac5aaa2d18e5ff58015.png",
           "language": "ja"
         },
         {
-          "title": "【台風情報】「非常に強い」台風31号の今後の進路予想は 31日午前9時には「非常に強い」勢力で小笠原近海に達する見込み その後の進路には幅あり",
-          "description": "気象庁によりますと、非常に強い台風31号（インファ）は27日正午現在、マーシャル諸島にあって、ほとんど停滞しています。中心気圧は960hPa、中心付近の最大風速は45m/s、最大瞬間風速は65m/s",
-          "url": "https://news.yahoo.co.jp/articles/c829749a90ef0441a0b48ac7af31d7eb228cad1c",
+          "title": "M6チップの新型「14インチMacBook Pro」登場 CPUとGPUが12コアに、バッテリー駆動はMac史上最長の24時間",
+          "description": "Appleが、M6チップを搭載した14インチMacBook Proを発表した。CPUとGPUをそれぞれ12コアに増やし、バッテリー駆動時間を最大24時間に延ばした。価格は33万9800円から。",
+          "url": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news097.html",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-10-27T14:05:00Z",
+          "image": "https://image.itmedia.co.jp/pcuser/articles/2610/27/cover_news097.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "正木智也がサヨナラホームラン 鷹が3戦連続の延長戦を制し日本一へ王手",
+          "description": "福岡ソフトバンクホークス・正木智也投手 ©パーソル パ・リーグTV　10月27日、みずほPayPayドームで行われた福岡ソフトバンクと横浜DeNAの「SMBC日本シリーズ2026」第3戦は、2対1で福岡ソフトバンクが勝利。2年連続…",
+          "url": "https://pacificleague.com/news/2026/10/87227",
+          "source": {
+            "name": "パ・リーグ.com"
+          },
+          "publishedAt": "2026-10-27T12:40:45Z",
+          "image": "https://media.insight.pacificleague.com/webp/xwAhW4f5Wmro3RyvHjBkccbxdxXIrjwtUVTgHnvL.webp",
+          "language": "ja"
+        },
+        {
+          "title": "TVモードで遊ぶならマストバイ！ 「Nintendo Switch 2 Proコントローラー」静音性や触感が最高の一品",
+          "description": "Amazon.co.jpで「Nintendo Switch 2 Proコントローラー」が売れています。その魅力を紹介しましょう。",
+          "url": "https://ascii.jp/elem/000/004/446/4446157/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-10-27T12:00:00Z",
+          "image": "https://ascii.jp/img/2026/10/27/4544269/xl/071b65c1ceecb112.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "京都がACLEで2連勝! まさかの志知2連続PK献上で2点ビハインドも…怒涛の猛反撃で5発大逆転",
+          "description": "[10.27 ACLE第3節 京都 5-2 ニューカッスル・ジェッツ サンガS]　AFCチャンピオンズリーグエリート(ACLE)は27日にリーグフェーズ第3節を行った。京都サンガF.C.はホームでニューカッスル・ジェッツ(オーストラリア)...",
+          "url": "https://web.gekisaka.jp/news/acl/detail/?461928-461928-fl",
+          "source": {
+            "name": "ゲキサカ"
+          },
+          "publishedAt": "2026-10-27T11:57:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/462000/461928/news_461928_1.jpg?time=20261027210513",
+          "language": "ja"
+        },
+        {
+          "title": "GMO、不正アクセス実行犯の手がかりに懸賞金 1億5000万円規模",
+          "description": "GMOインターネットグループが、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、事態を解明する情報に総額100万ドル（約1億5000万円）の報奨金を支払う懸賞金制度を始めると発表した。",
+          "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002642/",
+          "source": {
+            "name": "ITmedia"
+          },
+          "publishedAt": "2026-10-27T10:58:09Z",
+          "image": "https://www.itmedia.co.jp/news/article/ogp/2610/27/2000002642/10010588/2048",
+          "language": "ja"
+        },
+        {
+          "title": "俳優・おかやまはじめ、結婚を報告 ６２歳でゴールイン「年の差婚ではありますが」お相手は演出助手の杜菜摘",
+          "description": "俳優・おかやまはじめ（６２）が２７日に自身のインスタグラムを更新し、結婚を発表した。お相手は演出助手の杜菜摘と明かした。杜も自身のＸでおかやまとの結婚を報告した。【写真】およそ３３歳年下！妻の杜菜摘",
+          "url": "https://news.yahoo.co.jp/articles/53a4be00099a3c25d7364bf474a24095b91e0fff",
           "source": {
             "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-10-27T05:31:21Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261027-01240648-fnnprimev-000-3-view.jpg?exp=10800",
+          "publishedAt": "2026-10-27T10:44:25Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261027-10271308-sph-000-23-view.jpg?exp=10800",
           "language": "ja"
         },
         {
-          "title": "「不自然」「絶妙」永野芽郁 伊藤健太郎と並んだレッドカーペットで見せた“異変”にSNS騒然",
-          "description": "「皆さんが温かく迎えてくださって嬉しい気持ちと、雨で風邪を引かないかなという心配な気持ちが複雑に混ざり合っています」【投稿あり】「不自然」「絶妙」一部ファンが騒然としたレッドカーペットでの“異変”降",
-          "url": "https://news.yahoo.co.jp/articles/a85b14686cf9755f7da7744ae57ebb58f156debc",
+          "title": "将棋王座戦最終局タイムライン 伊藤匠王座vs広瀬章人九段",
+          "description": "伊藤匠王座（24、叡王との二冠）に広瀬章人九段（39）が挑む第74期将棋王座戦（日本経済新聞社主催、東海東京証券特別協賛）五番勝負の第5局が27日、甲府市の常磐ホテルで指された。両者2勝2敗、勝者がタイトルを手にする最終局。伊藤王座は初防衛、広瀬九段は初の王座獲得がかかる大一番を、生中継しつつタイムライン形式でまとめる。",
+          "url": "https://www.nikkei.com/article/DGXZQOUD226OC0S6A021C2000000/",
           "source": {
-            "name": "Yahoo!ニュース"
+            "name": "日本経済新聞"
           },
-          "publishedAt": "2026-10-27T05:15:58Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261027-00000022-jisin-000-5-view.jpg?exp=10800",
+          "publishedAt": "2026-10-27T10:41:29Z",
+          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3784896027102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.49&fp-y=0.33&h=630&w=1200&s=7e8e816d7ee620e06fbddc3147a1e10c",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Japanese manga artist Tetsuya Chiba, known for his boxing masterpiece 'Ashita no Joe,' dies at 87",
-          "description": "Tetsuya Chiba, a legendary Japanese manga artist best known for his boxing series \"Ashita no Joe,\" or \"Fighting for Tomorrow,\" has died",
-          "url": "https://www.kcra.com/article/japanese-manga-artist-tetsuya-chiba-dies-87/74257531",
+          "title": "The 7+ K-Beauty Products that Are Actually Popular in Korea",
+          "description": "American and Korean shoppers are buying different brands when it comes to K-beauty — I asked a dermatologist to find out why.",
+          "url": "https://www.nbcnews.com/select/shopping/korean-beauty-popular-in-korea-rcna597684",
           "source": {
-            "name": "KCRA"
+            "name": "NBC News"
           },
-          "publishedAt": "2026-10-27T09:53:00Z",
-          "image": "https://kubrick.htvapps.com/htv-prod/images/1da64849-2277-462c-888d-f8764b9122b0.png?crop=0.998xw%3A1.00xh%3B0.00160xw%2C0&resize=1200%3A*",
+          "publishedAt": "2026-10-27T16:30:04Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261020-K-BEAUTY-PRODS-THAT-ARE-ACTUALLY-POPULAR-IN-KOREA-lf-main-250ea6.jpg",
           "language": "en"
         },
         {
-          "title": "The return of Przewalski’s horses",
-          "description": "Return of the Przewalskis: The world's last surviving wild horse species is back in the Chinese wilderness",
-          "url": "https://tanzaniatimes.net/return-of-the-przewalskis-the-worlds-last-surviving-wild-horse-species-is-back-in-the-wild/",
+          "title": "Irishman who threatened to put bullet in Jewish woman's head in France gets suspended sentence",
+          "description": "Patrick O’Brien (60) was found guilty of “attempting to justify crimes against humanity” and “making death threats aggravated by their antisemitic nature”.",
+          "url": "https://www.thejournal.ie/irishman-threatened-jewish-woman-french-supermarket-suspended-sentence-7206303-Oct2026/",
           "source": {
-            "name": "The Tanzania Times"
+            "name": "The Journal"
           },
-          "publishedAt": "2026-10-27T09:52:28Z",
-          "image": "https://i0.wp.com/tanzaniatimes.net/wp-content/uploads/2026/10/horses-species.jpg?fit=1170%2C656&ssl=1",
+          "publishedAt": "2026-10-27T16:30:00Z",
+          "image": "https://img2.thejournal.ie/article/7206303/river/?height=400&version=7206326",
           "language": "en"
         },
         {
-          "title": "Managing Fatigue in Helicopter Maintenance",
-          "description": "Combatting three key causes of fatigue can help maintainers and supervisors reduce fatigue-related incidents.",
-          "url": "https://verticalmag.com/features/managing-fatigue-in-helicopter-maintenance/",
+          "title": "Apple to replace iPhone Duos affected by screen problem",
+          "description": "Apple has acknowledged screen problems affecting a small number of its new foldable iPhone Duo handsets, days after the highly anticipated smartphone went on",
+          "url": "https://www.citinewsroom.com/2026/10/apple-to-replace-iphone-duos-affected-by-screen-problem/",
           "source": {
-            "name": "Vertical Mag"
+            "name": "CitiNewsroom.com"
           },
-          "publishedAt": "2026-10-27T09:52:13Z",
-          "image": "https://assets.verticalmag.com/wp-content/uploads/2026/10/LHorgan_DRF_139.jpg",
+          "publishedAt": "2026-10-27T16:30:00Z",
+          "image": "https://www.citinewsroom.com/wp-content/uploads/2026/10/tyhre.png",
           "language": "en"
         },
         {
-          "title": "APA Apollo Expands Beyond Kenya With Takeover of Two Tanzanian Insurers",
-          "description": "APA Apollo Expands Beyond Kenya With Takeover of Two Tanzanian Insurers - Business Today Kenya",
-          "url": "https://businesstoday.co.ke/apa-apollo-expands-into-tanzania/",
+          "title": "Most Outstanding: CFL unveils finalists for three year",
+          "description": "The Canadian Football League has unveiled the three finalists for three year-end awards. They are listed alphabetically by last name. Most Outstanding Canadian: Brady Oliveira, Tyson Philpot, Nathan Rourke Oliveira rushed for 1,493 yards, caught 42 passes for 348 yards, and scored eight touchdowns over 18 regular-season games at running back with the Winnipeg Blue […]",
+          "url": "https://3downnation.com/2026/10/27/most-outstanding-cfl-unveils-finalists-for-three-year-end-awards/",
           "source": {
-            "name": "Business Today Kenya"
+            "name": "3DownNation"
           },
-          "publishedAt": "2026-10-27T09:50:59Z",
-          "image": "https://businesstoday.co.ke/wp-content/uploads/2026/10/Risper-Ohaga.jpg",
+          "publishedAt": "2026-10-27T16:29:31Z",
+          "image": "https://3downnation.com/wp-content/uploads/2026/07/ALOUETTES28juin_1325-scaled.jpg",
           "language": "en"
         },
         {
-          "title": "Academics, business leaders vow to examine Africa ethical dilemma",
-          "description": "Business leaders, academics, regulators and policymakers from across Africa are expected to convene in Dar es Salaam next month to examine how ethical business practices can support sustainable econom...",
-          "url": "https://ippmedia.co.tz/the-guardian/business/read/academics-business-leaders-vow-to-examine-africa-ethical-dilemma-2026-10-27-124914",
+          "title": "13-goal blitz! India show no mercy as Mandeep Singh runs riot at Asian Champions Trophy hockey tournament",
+          "description": "Five-time champions India began their title defence at the Asian Champions Trophy hockey tournament in style, crushing Bangladesh 13-0 at the Olympian",
+          "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/13-goal-blitz-india-show-no-mercy-as-mandeep-singh-runs-riot-at-asian-champions-trophy-hockey-tournament/articleshow/135240396.cms",
           "source": {
-            "name": "https://ippmedia.co.tz/"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-10-27T09:49:14Z",
-          "image": "https://ippmedia.co.tz/storage/post-feature-images/fd8d5ad4-f92e-48b5-8748-0ff21feb70c2.jpg",
+          "publishedAt": "2026-10-27T16:27:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-135240447,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "With El Niño, 2026-2027 northeast monsoon may not be as cold",
-          "description": "The intensifying El Niño is expected to lead to less pronounced cold surges during the period of the northeast monsoon",
-          "url": "https://www.rappler.com/philippines/weather/pagasa-northeast-monsoon-amihan-start-october-2026/",
+          "title": "Firefox Just Reunited Some Of The Internet's Most Iconic Early Memes In A Nostalgic New Ad",
+          "description": "The creators behind some of the internet's classic memes returned to their iconic characters for the promo video and reminisced about how much the internet has changed since their heyday. Here's who w...",
+          "url": "https://sg.news.yahoo.com/firefox-just-reunited-internets-most-162428622.html",
           "source": {
-            "name": "Rappler"
+            "name": "Yahoo News Singapore"
           },
-          "publishedAt": "2026-10-27T09:48:10Z",
-          "image": "https://www.rappler.com/tachyon/2026/08/hazy-skyline-makati-city-weather-august-24-2026-001-scaled.jpg",
+          "publishedAt": "2026-10-27T16:24:28Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/3781a1ee73bab34402439e132954cb3b9f15999c521ee6a10a87be9b09330f2e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fknow_your_meme_909%2F152e50f0dad2b6e629311e77eb1b9cc1.jpg",
           "language": "en"
         },
         {
-          "title": "Patients treated abroad waiting six months for HSE refund",
-          "description": "Irish patients on waiting lists here who have sought treatment in hospitals abroad, under an EU Scheme, have been left waiting six months or more in some cases to get their money back from the HSE.",
-          "url": "https://www.rte.ie/news/2026/1027/1596932-patients-reimbursement/",
+          "title": "Starc six-fer headlines seesaw opening day",
+          "description": "South Africa squandered a flying start as they went from 203/1 to 329 all out on Day 1",
+          "url": "https://www.cricbuzz.com/cricket-news/140678/cape-town-test-mitchell-starc-six-fer-headlines-seesaw-day",
           "source": {
-            "name": "RTE.ie"
+            "name": "Cricbuzz"
           },
-          "publishedAt": "2026-10-27T09:48:10Z",
-          "image": "https://www.rte.ie/images/0025351c-1600.jpg",
+          "publishedAt": "2026-10-27T16:24:15Z",
+          "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1108311/starc-picked-up-six-wickets.jpg",
           "language": "en"
         },
         {
-          "title": "Tanzania bolsters M&E responsibilities to mitigate potential effects of El Niño rains",
-          "description": "DODOMA: THE Ministry of Natural Resources and Tourism is strengthening its Monitoring and Evaluation (M&E) of the implementation of its responsibilities and those of institutions under its supervision by initiating the development of an M&E Framework to accelerate progress in this critical area. Speaking to M&E experts from the ministry and its institutions, Deputy Permanent …",
-          "url": "https://dailynews.co.tz/tanzania-bolsters-me-responsibilities-to-mitigate-potential-effects-of-el-nino-rains/",
+          "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+          "description": "Far-right senator on plane to US after missing deadline to hand over his passport since loss to Lula",
+          "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
           "source": {
-            "name": "Daily News"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-10-27T09:47:17Z",
-          "image": "https://dailynews.co.tz/wp-content/uploads/2026/10/▪️MALIASILI-NA-UTALII-KUJA-NA-MFUMO-WA-UFUATILIAJI-NA-TATHMINI-ME-FRAMEWORKWIZARA-ya-Maliasil.jpg",
+          "publishedAt": "2026-10-27T16:24:00Z",
+          "image": "https://i.guim.co.uk/img/media/3ef222ab0dad82e1fda7dafb6d9e2ec911a85e26/945_122_2901_2320/master/2901.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46bc03a6f28938bc88f49b70a81a94dc",
           "language": "en"
         },
         {
-          "title": "Premature to say discussion with BN leaders positive, says Wee",
-          "description": "The MCA president says an agreement has yet to be reached despite Barisan Nasional chairman Ahmad Zahid Hamidi's earlier remarks.",
-          "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/27/premature-to-say-discussion-with-bn-leaders-positive-says-wee",
+          "title": "Alessia Russo hails 'role model' Harry Kane's Ballon d'Or win for fresh Arsenal motivation",
+          "description": "Alessia Russo reveals how Harry Kane’s Ballon d’Or triumph has inspired her as Arsenal look to build momentum after ending their WSL winless run",
+          "url": "https://sports.yahoo.com/articles/alessia-russo-hails-role-model-162333075.html",
           "source": {
-            "name": "Free Malaysia Today"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-10-27T09:47:00Z",
-          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/08/67b2b7ef-2_wee_ka_siong_mca_president_moganraj_fmt_06082025-copy.webp",
+          "publishedAt": "2026-10-27T16:23:33Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/a18bfad97ac52211d57acfca4f5d96ce32618a6aa739e6cd4f5c74a9585768fd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2F83e9e81a5fc5591636bea70a967e0c2b.jpg",
           "language": "en"
         },
         {
-          "title": "Nearly half of Davao Region students struggle to read, says EDCOM 2",
-          "description": "Nearly half of students assessed in the Davao Region at the start of the school year in June were classified as struggling readers, according to a Department of Education assessment.",
-          "url": "https://www.philstar.com/headlines/2026/10/27/2566113/nearly-half-davao-region-students-struggle-read-says-edcom-2",
+          "title": "Kingdom Come dev hit by cyberattack as Capcom take Street Fighter 5 offline",
+          "description": "Warhorse Studios, the team behind Kingdom Come: Deliverance 2 and an upcoming Lord Of The Rings game, have been targeted by hackers.",
+          "url": "https://metro.co.uk/2026/10/27/kingdom-come-dev-hit-cyberattack-capcom-take-street-fighter-5-offline-29743960/",
           "source": {
-            "name": "Philstar.com"
+            "name": "Metro.co.uk"
           },
-          "publishedAt": "2026-10-27T09:47:00Z",
-          "image": "https://media.philstar.com/photos/2026/08/24/students-filipino-philippines_2026-08-24_11-44-43.jpg",
+          "publishedAt": "2026-10-27T16:22:00Z",
+          "image": "https://metro.co.uk/wp-content/uploads/2026/10/SEI_318394491-9de5_1793118154.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
           "language": "en"
         }
       ]
