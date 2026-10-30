@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-10-30T00:38:49.654Z",
+  "updatedAt": "2026-10-30T09:41:54.390Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "J2リーグのVAR導入には高い壁…JリーグとJFAが進める「レフェリング環境改善」の現在（ゲキサカ）",
+          "description": "J2リーグでのビデオ判定システム導入には依然として高い壁が立ちはだかっている。Jリーグと日本サッカー協会(JFA)審判委員会は29日、J2リーグ戦で起きた監督によるレフェリング批判を受け、緊急のメデ",
+          "url": "https://news.yahoo.co.jp/articles/8e1f2391983cd109a9f8f50da9457e8ae5a4f5d1",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-10-29T21:31:46Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261030-45977290-gekisaka-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "キオクシア、今日の決算どうなる？純利益46倍でも株価「一時7割安」のワケ（ビジネス＋IT）",
+          "description": "純利益は前年同期の約46倍。それでも株価は高値から一時約7割も下落した。半導体メモリ大手のキオクシアが10月30日、2027年3月期第2四半期決算を発表する。AI需要の拡大によってNAND型フラッシ",
+          "url": "https://news.yahoo.co.jp/articles/820edad1c01319aac0f3ee7247f7f15e39e117be",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-10-29T21:30:06Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261030-00187907-biz_plus-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "終わり近づくWindows 10搭載PC、UbuntuとChromeOSでまだ戦えるかも！",
+          "description": "2025年10月にWindows 10のサポートが終了した。しかしMicrosoftは、条件付きでWindows Updateによるセキュリティアップデートを継続できる「Extended Security Updates」(ESU)を提供しており、ひとまず2027年10月まではWindows 10搭載PCを利用できる。",
+          "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2152063.html",
+          "source": {
+            "name": "PC Watch"
+          },
+          "publishedAt": "2026-10-29T21:12:00Z",
+          "image": "https://pc.watch.impress.co.jp/img/pcw/list/2152/063/1.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "36万円の折りたたみiPhone「家族には勧めない」じゃあ誰ならオススメ？(ダイヤモンド・オンライン)",
+          "description": "Apple初の折りたたみスマホ「iPhone Duo」が、36万円超と高額ながら、予約開始直後から注文が殺到している。実際の使い勝手はどうなのか。なぜAppleは、先行するSamsungから約7年遅れで折りたたみスマホに参入したのか。実機を約1週間使ったITジャーナリストに話を聞き、iPhone Duoの実力とAppleの狙いを探った。...",
+          "url": "https://finance.yahoo.co.jp/news/detail/2c995eebcd601d7c937d67408ee253f67df4885a",
+          "source": {
+            "name": "Yahoo!ファイナンス"
+          },
+          "publishedAt": "2026-10-29T21:00:34Z",
+          "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+          "language": "ja"
+        },
+        {
+          "title": "iOS 27.3のリリース時期は12月中旬？期待される新機能とベータ配信日の予想",
+          "description": "✅この記事では、iOS 27.3のベータと正式版が来そうな時期を日本時間で並べ、27.3で待たれている新機能が日本語のiPhoneにどう関係するかを見ていきます。 要点まとめ：iOS 27.3はいつ、何が来るのか ベータは日本時間11月3日頃、正式版は12月中旬の見込み 27.1が手元に来ていないのに次が「.3」なのは、番号が1つずれただけ 27.3で待たれている2つは、どちらも日本語の画面からは遠い ベータで先に触るなら、何のためかを先に決める 海外の反応：消えた27.1と、ヘルスケアを待つ声 ひとこと：静かな27.3でも、ちゃんと待つ理由はある まとめ：27.3は12月、日本語のSiri …",
+          "url": "https://www.apple-hacks.com/entry/ios-27-3-release-date",
+          "source": {
+            "name": "https://www.apple-hacks.com/"
+          },
+          "publishedAt": "2026-10-29T15:21:37Z",
+          "image": "https://cdn.image.st-hatena.com/image/scale/57725b1fa762959e3bb1060c28059e62e9f7bc0a/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnumberhunter%2F20261029%2F20261029230532.webp",
+          "language": "ja"
+        },
+        {
+          "title": "【LIVE REPORT】GANG PARADE、12年の歴史に幕、11人と遊び人で作った最後の遊び場",
+          "description": "取材＆文：西澤裕郎 写真：外林健太 日本のアイドルカルチャーに強烈な爪痕を残し続けてきたGANG PARADE",
+          "url": "https://storywriter.tokyo/2026/10/29/9071/",
+          "source": {
+            "name": "StoryWriter"
+          },
+          "publishedAt": "2026-10-29T15:02:37Z",
+          "image": "https://storywriter.tokyo/wp-content/uploads/2026/10/035_028_BK3A0237.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【市場反応】米7-9月期GDP速報値/9月コアPCE価格指数/先週分新規失業保険申請件数はドル高値圏でもみ合い｜FX・為替ニュース",
+          "description": "[欧米市場の為替相場動向] 米商務省が発表した7-9月期国内総生産（GDP）速報値は前期比年率＋3.4％となった。4－6月期＋2.2％から予想以上に伸びが加速し、昨年7－9月期以降1年ぶり高水準となった",
+          "url": "https://zai.diamond.jp/articles/-/498173",
+          "source": {
+            "name": "ザイFX！"
+          },
+          "publishedAt": "2026-10-29T13:14:00Z",
+          "image": "https://zai.diamond.jp/mwimgs/d/e/-/img_de5845d33aad6b8661ac5aaa2d18e5ff58015.png",
+          "language": "ja"
+        },
+        {
+          "title": "Office 2年分付きで11万9800円！ Ryzen 5と16GBメモリも備えたLenovoの14型ノートが27％オフ",
+          "description": "Lenovoの14型ノートPC「IdeaPad Slim 3（83K9003KJP）」がAmazonのタイムセール対象。過去価格164,800円から27％オフの119,800円で販売中。Ryzen 5 8640HS、16GBメモリ、512GB SSDを搭載し、Microsoft 365 Personal（24か月版）も付属する。14型WUXGA IPS液晶を備え、重さは約1.39kg。",
+          "url": "https://ascii.jp/elem/000/004/445/4445137/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-10-29T13:10:00Z",
+          "image": "https://ascii.jp/img/2026/10/23/4542402/xl/ae7b652bb9470ed7.jpg?20200122",
+          "language": "ja"
+        },
         {
           "title": "『グランド・セフト・オートVI』より「マッカ・ザ・ゲーター」のプレミアムなコレクターズボックスがイーカプコン限定で発売！2026年10月30日（金）12時より予約受付開始！",
           "description": "『グランド・セフト・オートVI』より、ゲーム内の人気テレビ番組「マッカ・ザ・ゲーター」のフィギュアやサングラスを詰め込んだプレミアムなコレクターズボックスが登場！「イーカプコン」限定で10月30日（金）12時より予約受付開始！",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-10-29T12:17:53Z",
           "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-07334500-jnn-000-1-view.jpg?exp=10800",
           "language": "ja"
-        },
-        {
-          "title": "芝野虎丸挑戦者、名人を3期ぶり奪還 一力遼名人が投了",
-          "description": "一力遼名人（29）に芝野虎丸棋聖（26）が挑戦している第51期囲碁名人戦七番勝負（朝日新聞社主催）の第7局は29日午前9時、2日目が打ち継がれている。3期連続同一カードの頂上決戦は、ここまで3勝3敗…",
-          "url": "https://www.asahi.com/articles/ASVBX7603VBXUCVL03XM.html",
-          "source": {
-            "name": "朝日新聞"
-          },
-          "publishedAt": "2026-10-29T12:06:09Z",
-          "image": "https://imgopt.asahi.com/ogp/AS20261029004478_comm.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "iPhone DuoとAndroidの折りたたみスマホを徹底的にサイズ比較してみた",
-          "description": "Apple初の折りたたみスマホiPhone Duoと、Galaxy Z FoldやPixel FoldなどAndroid勢のサイズを徹底比較。折りたたみ状態や展開時のサイズ感、厚みや重量の違いを分かりやすく解説します。",
-          "url": "https://www.gizmodo.jp/article/2610-iphone-duo-android-foldable-size-comparison/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-10-29T12:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/10/28/50e45179-9a24-484d-b8c7-87e82dfe296b/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "吉田鋼太郎さんらと両陛下が懇談 秋の園遊会、主なやりとりは?",
-          "description": "秋の園遊会が29日、赤坂御苑（東京都港区）で開かれ、天皇、皇后両陛下から招かれた約1300人が出席した。季節の植物に彩られた苑内で、出席者たちは両陛下や皇族の方々と和やかに懇談した。主なやりとりは次の通り。",
-          "url": "https://mainichi.jp/articles/20261029/k00/00m/040/266000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-10-29T11:47:02Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/10/29/20261029k0000m040258000p/0c10.jpg?1",
-          "language": "ja"
-        },
-        {
-          "title": "無自覚なアウティングどう防ぐ？ 専門家が解説 李琴峰さん勝訴",
-          "description": "「深淵（しんえん）に落ちるような恐怖があった」 　SNSでトランスジェンダーだと暴露する「アウティング」にあたる投稿をしたとして、台湾出身の芥川賞作家、李琴峰（り・ことみ）さんが村松裕美・甲府市議に損害賠償などを求めた裁判。村松市議は取材に「アウティングにあたらない」と主張していたが、東京地裁は被",
-          "url": "https://mainichi.jp/articles/20261029/k00/00m/040/255000c",
-          "source": {
-            "name": "毎日新聞"
-          },
-          "publishedAt": "2026-10-29T11:30:00Z",
-          "image": "https://cdn.mainichi.jp/vol1/2026/10/29/20261029k0000m040249000p/0c10.jpg?1",
-          "language": "ja"
-        },
-        {
-          "title": "涙を浮かべたゼレンスキーは、なぜ退陣すべきなのか（ニューズウィーク日本版）",
-          "description": "2025年2月、ホワイトハウスの大統領執務室で行われた会談が、カメラの前で激しい口論に発展する直前のことだ。ある記者がウクライナのウォロディミル・ゼレンスキー大統領に、なぜスーツを着ていないのかと詰",
-          "url": "https://news.yahoo.co.jp/articles/ae898a301eaeb33ad9214dd0de0f41e723868f56",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-10-29T11:07:59Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00010011-newsweek-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "政府が「3日分の備蓄」を緊急要請へ。サイバー攻撃と関係あるの？何があった？（ギズモード・ジャパン）",
-          "description": "「最低3日分、できれば1週間分」え、何が起きるの？日本政府が11月2日、国民に食料や水などの備蓄を求める「緊急要請」を出す方針です。緊急…って、気になりますよね。じつは、英国政府も国民に3日分の備蓄",
-          "url": "https://news.yahoo.co.jp/articles/277fb7f7691a05d53820aca8f1bf488d3af6ddfc",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-10-29T10:30:01Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00000025-giz-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "高校サッカー選手権で異例の結果変更 PK判定訂正で勝敗逆転、高体連は誹謗中傷の自粛呼びかけ",
-          "description": "10月29日、東京都高体連サッカー専門部は、第105回全国高校サッカー選手権大会東京大会2次予選Bブロック準々決勝、東海大学付属高輪台高校vs駿台学園高校の試合結果を変更すると発表した。【公式リンク",
-          "url": "https://news.yahoo.co.jp/articles/24f64ecd055dad84163d582e788e208f53475a9b",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-10-29T10:04:11Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00010021-sporting-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "台風31号 31日～1日頃小笠原近海で動きが遅くなる 来週にかけて動向に注意",
-          "description": "非常に強い台風31号は、明日30日はマリアナ諸島へ進み、31日(土)に小笠原近海に達する見込みです。小笠原近海でいったん動きが遅くなったあと、11月3日(火・祝)にかけて、日本の南の海上を西寄りに進むでしょう。来週にかけて台風の動きに注意が必要です。",
-          "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/10/29/41142.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-10-29T09:23:37Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/41/411/41142/main/20261029174303/large.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Warriors’ Yaxel Lendeborg Reveals What Shocked Him About Stephen Curry",
-          "description": "Yaxel Lendeborg shared his reaction after watching Stephen Curry take over in the Warriors’ second straight win.",
-          "url": "https://heavy.com/sports/nba/golden-state-warriors/yaxel-lendeborg-stephen-curry-nba-warriors/",
+          "title": "How insurance coverage shapes access to kidney transplantation",
+          "description": "For people with kidney failure, access to transplantation can mean better survival and quality of life.",
+          "url": "https://medicalxpress.com/news/2026-10-coverage-access-kidney-transplantation.html",
           "source": {
-            "name": "Heavy.com"
+            "name": "Medical Xpress"
           },
-          "publishedAt": "2026-10-29T12:38:10Z",
-          "image": "https://heavy.com/wp-content/uploads/2026/10/1920x1080-3.png?quality=65&strip=all&w=1200",
+          "publishedAt": "2026-10-29T21:40:09Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/2026/how-insurance-coverage.jpg",
           "language": "en"
         },
         {
-          "title": "DoorDash is buying Instacart for $17 billion",
-          "description": "DoorDash is buying rival Instacart in a deal worth roughly $17 billion, signaling that the delivery wars continue to heat up.",
-          "url": "https://www.cnn.com/2026/10/29/business/doordash-instacart-acquisition",
+          "title": "Tadhg Furlong free to play in November as citing complaint not upheld",
+          "description": "Munster’s Gavin Coombes alleged that Furlong grabbed him in the groin area during last Saturday’s interpro.",
+          "url": "https://www.the42.ie/tadhg-furlong-5-7208708-Oct2026/",
           "source": {
-            "name": "CNN"
+            "name": "The 42"
           },
-          "publishedAt": "2026-10-29T12:37:36Z",
-          "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2301817600.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2026-10-29T21:39:00Z",
+          "image": "https://img2.thejournal.ie/article/7208708/river/?height=400&version=7208710",
           "language": "en"
         },
         {
-          "title": "Microsoft Says It Still Can't Make Enough Xboxes To Meet Demand",
-          "description": "The company is pushing used consoles as its supply struggles",
-          "url": "https://kotaku.com/xbox-says-theres-more-demand-than-consoles-available-as-hardware-sales-continue-to-fall-2000750981",
+          "title": "Meteorite from Mars is at least 4 billion years old",
+          "description": "A meteorite found in 2022 in the Sahara formed in the Martian crust at least 4.1 billion years ago, according to scientists | Newsreel",
+          "url": "https://newsreel.com.au/article/education/meteorite-from-mars-is-at-least-4-billion-years-old/",
           "source": {
-            "name": "Kotaku"
+            "name": "https://newsreel.com.au/"
           },
-          "publishedAt": "2026-10-29T12:35:16Z",
-          "image": "https://kotaku.com/app/uploads/2026/08/xboxs-1-1200x675.jpg",
+          "publishedAt": "2026-10-29T21:34:34Z",
+          "image": "https://newsreel.com.au/wp-content/uploads/2026/10/Mars-surface.jpg",
           "language": "en"
         },
         {
-          "title": "VIDEO: Erling Haaland’s viral moves steal the spotlight after Man City's Carabao Cup shootout survival",
-          "description": "Erling Haaland goes viral for his dancing as Manchester City beat Brighton on penalties to reach the Carabao Cup quarter-finals at the Etihad.",
-          "url": "https://www.goal.com/en/news/video-erling-haaland-man-city-carabao-cup/blt1d84ea54646ffcb9",
+          "title": "Alexis Mac Allister to Real Madrid ON as Liverpool make final contract decision",
+          "description": "Alexis Mac Allister might well move to Real Madrid, while it's been reported Liverpool have made a decision on the Argentine's contract renewal.",
+          "url": "https://www.teamtalk.com/liverpool/alexis-mac-allister-real-madrid-reds-contract-decision",
           "source": {
-            "name": "Goal.com"
+            "name": "TEAMtalk"
           },
-          "publishedAt": "2026-10-29T12:35:06Z",
-          "image": "https://assets.goal.com/images/v3/getty-2301932652/crop/MM5DEOBWGQ5DCNRRGE5G433XMU5DKNZQHIZTG===/GettyImages-2301932652.jpg",
+          "publishedAt": "2026-10-29T21:34:22Z",
+          "image": "https://images.teamtalk.com/content/uploads/2026/03/08173753/TT-Alexis-Mac-Allister-with-Real-Madrid-badge-1.jpg",
           "language": "en"
         },
         {
-          "title": "PCE inflation report September 2026:",
-          "description": "The personal consumption expenditures price index was projected to increase 0.5% in September for an annual rate of 3.7%, according to the Dow Jones consensus.",
-          "url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+          "title": "Young athlete and former minister among victims",
+          "description": "As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping across Spain.",
+          "url": "https://www.bbc.com/news/articles/cr78plp1p9yvo",
           "source": {
-            "name": "CNBC"
+            "name": "BBC"
           },
-          "publishedAt": "2026-10-29T12:32:52Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108410185-1792006325105-108410185-1792006166308-gettyimages-2300218007-2k2a3692_4j7v8aoz.jpg?v=1792006334&w=1920&h=1080",
+          "publishedAt": "2026-10-29T21:33:35Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e9c9/live/e9ad7380-d3c6-11f1-867c-77016fb236d7.jpg",
           "language": "en"
         },
         {
-          "title": "Ancelotti picks Brazil squad on Thursday for final 2026 break; react 🇧🇷",
-          "description": "Coach Carlo Ancelotti will announce his second Brazil squad since the end of the 2026 World Cup this Thursday at 3 p.m. (Brasília time). The announcement will take place at the headquarters of the Br...",
-          "url": "https://sports.yahoo.com/articles/ancelotti-picks-brazil-squad-thursday-123200340.html",
+          "title": "Spain train crash: Young athlete and former minister among victims",
+          "description": "As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping across Spain.",
+          "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "BBC"
           },
-          "publishedAt": "2026-10-29T12:32:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/eade90ddd6ea77f733fd74169277984cd1c64cdf6d369ba579fdc2a5059832d2/lightyear_networkapi/resizefill_w1024_h683%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2Fb68c2144698a1449adf01d82d3670f2e.jpg",
+          "publishedAt": "2026-10-29T21:33:35Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e9c9/live/e9ad7380-d3c6-11f1-867c-77016fb236d7.jpg",
           "language": "en"
         },
         {
-          "title": "Botswana Minerals receives approval for AI",
-          "description": "from ODIRILE TOTENG in Gaborone, Botswana Botswana Bureau GABORONE, (CAJ News) - BOTSWANA Minerals has received environmental approval from the authorities to proceed with its artificial intelligence-driven copper exploration in the north-west of the country. The exploration programme covers two licences in Ngamiland. The licences form part of the company's 7 074 km² landholding in",
-          "url": "https://cajnewsafrica.com/2026/10/29/botswana-minerals-receives-approval-for-ai-driven-exploration/",
+          "title": "Sony goes transparent with PS5 Prism Collection",
+          "description": "The new DualSense controllers and console cover plates will be available from February 4, 2027. Sony announced its Prism Collection DualSense 5 controllers...",
+          "url": "https://www.gsmarena.com/sony_goes_transparent_with_ps5_prism_collection-news-75270.php",
           "source": {
-            "name": "CAJ News Africa"
+            "name": "GSMArena.com"
           },
-          "publishedAt": "2026-10-29T12:31:05Z",
-          "image": "https://cajnewsafrica.com/wp-content/uploads/2025/11/cropped-caj-logo-new-1-32x32.jpg",
+          "publishedAt": "2026-10-29T21:31:02Z",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/10/sony-ps5-prism-collection/-952x498w6/gsmarena_00.jpg",
           "language": "en"
         },
         {
-          "title": "Water bosses stripped of bonuses after worst year for sewage pollution",
-          "description": "Regulators awarded the water sector its worst score on environmental performance since ratings began 15 years ago, down to a rating of 16 from 19 last year",
-          "url": "https://www.thetimes.com/article/water-bosses-stripped-of-bonuses-after-worst-year-for-sewage-pollution-ggfhpsz8x",
+          "title": "Kharge says CJP not coming for rally, latter says yet to take a call",
+          "description": "NEW DELHI/BENGALURU: As preparations for opposition’s Nov 1 mega rally got into full swing starting with “public impeachment” of CEC Gyanesh Kumar Friday,",
+          "url": "https://timesofindia.indiatimes.com/india/kharge-says-cjp-not-coming-for-rally-latter-says-yet-to-take-a-call/articleshow/135332471.cms",
           "source": {
-            "name": "The Times"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-10-29T12:30:00Z",
-          "image": "https://www.thetimes.com/imageserver/image/95a79a50-f6a4-462c-afac-3e6ade810d52.jpg?strip=all&format=webp&crop=4800px%2C2700px%2C0px%2C247px&resize=1200",
+          "publishedAt": "2026-10-29T21:31:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-135332512,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "Match Officials: Craig Pawson to referee Manchester City vs Brighton & Hove Albion (Premier League)",
-          "description": "It is the second match-up between the two sides in a matter of days, after their Carabao Cup fourth round meeting on Wednesday night was ultimately decided by a penalty shoot-out at the Etihad Stadium...",
-          "url": "https://sports.yahoo.com/articles/match-officials-craig-pawson-referee-123000574.html",
+          "title": "Precinct puts downtown development on ice",
+          "description": "One of Auckland's biggest proposed developments has been shelved despite strong demand for the office space, because the developer says inflation, interest rates, the weak Kiwi dollar and construction risks have made the economics no longer stack up.",
+          "url": "https://www.rnz.co.nz/news/business/2234133/precinct-puts-downtown-development-on-ice",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-10-29T12:30:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/7bea31dad32c54f71424984f70e3d85b77e4648559cf9bfe2b09106c1dd678d1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcity_xtra_articles_863%2F3b967e7a69da732c7c7145047e7f7b1c.jpg",
+          "publishedAt": "2026-10-29T21:30:51Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--gdwejh_G--/t_tohu-badge-facebook/f_auto/q_auto/4NA0N45_copyright_image_199458",
           "language": "en"
         },
         {
-          "title": "Ruto to Russia: Invest in African factories, not just raw material exports",
-          "description": "President Ruto has urged Russia to invest in African manufacturing, technology and skills, saying the continent must move beyond raw material exports to create jobs and boost industrial growth.",
-          "url": "https://www.standardmedia.co.ke/business/business/article/2001561124/ruto-to-russia-invest-in-african-factories-not-just-raw-material-exports",
+          "title": "Humans accidentally canceled the next ice age - but it's no reason to celebrate, scientists say",
+          "description": "A shrinking ice cap in Arctic Canada tells a striking story of how humans may have halted the planet's next ice age by burning fossil fuels, according to new research.",
+          "url": "https://www.ksl.com/article/51642334/humans-accidentally-canceled-the-next-ice-age--but-its-no-reason-to-celebrate-scientists-say",
           "source": {
-            "name": "The Standard"
+            "name": "KSL News"
           },
-          "publishedAt": "2026-10-29T12:29:39Z",
-          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/Pa6Wk0hlqwQdqmdEeT5bYommxrWya8wcvHYUxofW.jpg",
+          "publishedAt": "2026-10-29T21:30:01Z",
+          "image": "https://img.ksl.com/slc/3207/320736/32073613.jpg?filter=kslv2/responsive_story_lg",
           "language": "en"
         }
       ]
