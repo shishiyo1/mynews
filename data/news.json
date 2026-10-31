@@ -1,10 +1,76 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-10-31T16:56:23.574Z",
+  "updatedAt": "2026-10-31T21:07:01.172Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "台風31号 4日～5日頃に小笠原諸島へ接近・直撃か 大雨・暴風・高波など注意警戒",
+          "description": "台風31号は、11月4日(水)から5日(木)にかけて、強い勢力で小笠原諸島へ接近または直撃するおそれがあります。大雨や土砂災害、暴風、うねりを伴った高波に注意・警戒が必要です。台風の動きが遅いため、影響が長期化するおそれもあります。また、5日(木)頃は台風の間接的な影響で、東海や関東を中心に雨が強まる可能性があります。台風に関する最新の気象情報にご注意ください。",
+          "url": "https://tenki.jp/forecaster/t_fujikawa/2026/10/31/41162.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-10-31T08:38:56Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/41/411/41162/main/20261031171312/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "今年の渋谷ハロウィンはどうなる？ 現地の様子が気になる人はライブカメラでチェック",
+          "description": "2026年の渋谷ハロウィンを家にいながら楽しめる方法を紹介。ハロウィン気分は味わいたいけど、大混雑は避けたいという人は、ライブカメラでぜひ中継・配信を見てみては。",
+          "url": "https://realsound.jp/tech/2026/10/post-2570850.html",
+          "source": {
+            "name": "リアルサウンド"
+          },
+          "publishedAt": "2026-10-31T08:00:54Z",
+          "image": "https://realsound.jp/wp-content/uploads/2026/10/20261031-shibuyahelloween99.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「しょまりん」が公式戦デビュー 本田真凜・宇野昌磨組のストーリーが動き出した",
+          "description": "本田真凜・宇野昌磨組、緊張の公式戦デビュー　photo by Sunao Noto（a presto）「すごい列。今日は何かあるの？」「スケートらしいよ」 　早朝、バスの運転手同士のやりとりが非日常を物語っていた。　 満員に膨れ上が…",
+          "url": "https://sportiva.shueisha.co.jp/clm/othersports/figure/2026/10/31/post_55/",
+          "source": {
+            "name": "webスポルティーバ"
+          },
+          "publishedAt": "2026-10-31T07:36:29Z",
+          "image": "https://sportiva.shueisha.co.jp/clm/othersports/figure/2026/images/261031rd_3013_samune.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "関東は2日と5日に雨で短い間隔で天気は変化 5日は台風31号の影響で大雨の可能性",
+          "description": "明日11月1日(日)からの関東の1週間は、短い間隔で天気が変化するでしょう。気温の変化も大きく、日によっては厚手の上着と半袖の両方が活躍することもありそうです。また、5日(木)は、台風31号の接近によりまとまった雨になる可能性もあります。最新の台風情報をチェックするようにしましょう。",
+          "url": "https://tenki.jp/forecaster/y_maki/2026/10/31/41159.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-10-31T05:45:01Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/41/411/41159/main/20261031135112/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「Logic Pro」がAI機能を強化。音楽制作の環境が激変するかも",
+          "description": "AppleのLogic Pro 13が発表され、AIアシスタントやStem Splitterの進化で音楽制作環境が大きく変わります。11月リリース予定で既存ユーザーは無償アップデート可能です。",
+          "url": "https://www.gizmodo.jp/article/2610-logic-pro-ai-features/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-10-31T05:30:00Z",
+          "image": "https://media.loom-app.com/loom/2026/10/30/12b40d9a-0b64-43ab-ae24-7f71f7361a06/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "『Phantom Blade Zero』が解消した、高難度ゲームにおけるボス戦最大の不満「ヘタクソ税」とは",
+          "description": "何度も死ぬゲームだからこそ必要な工夫",
+          "url": "https://jp.ign.com/phantom-blade-zero/84517/phantom-blade-zero",
+          "source": {
+            "name": "IGN Japan"
+          },
+          "publishedAt": "2026-10-31T05:00:00Z",
+          "image": "https://sm.ign.com/t/ign_jp/feature/p/phantom-bl/phantom-blade-zero-fixes-my-biggest-annoyance-with-boss-figh_818c.1200.jpg",
+          "language": "ja"
+        },
         {
           "title": "【速報】山下美夢有が連覇へ前進中 2打リードの単独首位で3R後半へ",
           "description": "◇米国女子◇メイバンク選手権 3日目（31日）◇クアラルンプールG＆CC（マレーシア）◇6536yd（パー72） 大会連覇の懸かる山下美夢有が前半アウトをボギーなしの3バーディで通過し、後続に2打差をつける通算16アンダー単独首位で後半へ折",
@@ -48,183 +114,117 @@
           "publishedAt": "2026-10-31T03:04:00Z",
           "image": "https://contents.oricon.co.jp/upimg/news/2491000/2490081/20261031_105607_p_o_50137428.jpg",
           "language": "ja"
-        },
-        {
-          "title": "Galaxy Z Fold8はどんな人に向いているのか？ 買ってから後悔しないために知っておきたい最適解",
-          "description": "「Galaxy Z Fold8」は、電子書籍や動画が見やすい4:3のメイン画面とパスポートサイズの持ちやすさが魅力です。上位機Ultraと同じ最高峰のチップやGalaxy AIを搭載する一方、カメラは2眼でフレックスモードには非対応。コンテンツ閲覧を重視する人におすすめのモデルです。",
-          "url": "https://ascii.jp/elem/000/004/446/4446674/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-10-31T03:00:00Z",
-          "image": "https://ascii.jp/img/2026/10/28/4545402/xl/56d0d31275ba473d.jpg?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "アメリカ、ウクライナへのパトリオットミサイル500発の売却を承認",
-          "description": "アメリカは30日、ロシアの空爆激化に対して自衛するウクライナにとって不可欠な防空ミサイル「パトリオット」について、ウクライナへ500発の売却を承認した。しかし、ウクライナのウォロディミル・ゼレンスキー大統領は、ミサイルの到着には「数年」かかる可能性があると警告している。",
-          "url": "https://www.bbc.com/japanese/articles/c6y0e21x2xlwo",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-10-31T02:59:11Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "3試合ぶり復帰の八村塁が12得点5リバウンド2スティール…クリッパーズは後半突き放されウルブズに完敗（バスケットボールキング）",
-          "description": "10月31日（現地時間30日）、「エミレーツNBAカップ2026」西地区グループBの試合が行われ、八村塁が所属するロサンゼルス・クリッパーズが敵地のターゲット・センターでミネソタ・ティンバーウルブズ",
-          "url": "https://news.yahoo.co.jp/articles/3f4cc29e5bb909d453ff10122479f6ea9bf553bf",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-10-31T02:55:33Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-00640751-bballk-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "GMOトラスト・ログインで情報漏えい、対象2,492社・45,030人に拡大 公開ストレージの設定不備が原因",
-          "description": "GMOトラスト・ログインで顧客情報漏えいが判明。10月30日の第三報で対象が2,492社・45,030人へ拡大。2017年から公開状態だったクラウドストレージの設定不備と第三者取得の確認期間、対象情報、法人・個人の対策を解説",
-          "url": "https://rocket-boys.co.jp/security-measures-lab/gmo_trustlogin_data_leak_third_report_20261030/",
-          "source": {
-            "name": "合同会社ロケットボーイズ"
-          },
-          "publishedAt": "2026-10-31T02:38:37Z",
-          "image": "https://rocket-boys.co.jp/wp-content/uploads/2026/10/gmo_trustlogin_data_leak_third_report_20261030.png",
-          "language": "ja"
-        },
-        {
-          "title": "浦和ＧＫ西川周作 柏戦出場でＪ１最多出場記録タイに 遠藤保仁に並ぶ 上位２０人はレジェンド揃い",
-          "description": "浦和の元日本代表ＧＫ西川周作（４０）が、３１日の柏戦で出場すれば、Ｊ１での出場試合数が６７２試合目として、ＭＦ遠藤保仁（元Ｇ大阪、磐田、現Ｇ大阪コーチ）の持つ最多記録に並び歴代１位タイとなる。",
-          "url": "https://hochi.news/articles/20261031-OHT1T51038.html",
-          "source": {
-            "name": "スポーツ報知"
-          },
-          "publishedAt": "2026-10-31T02:04:00Z",
-          "image": "https://hochi.news/images/2026/10/31/20261031-OHT1I51105-C.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "「博多豚骨×札幌味噌」ってどっちの味が勝つの!? セブンの異色の合体ラーメンを食べてみた！",
-          "description": "2026年10月28日からセブンイレブンでスタートした「ラーメンフェア」。 「中華蕎麦とみ田」「飯田商店」などの人気店監修や「ラーメンWalker」監修の4商品がラインナッ …",
-          "url": "https://rocketnews24.com/2026/10/31/2858399/",
-          "source": {
-            "name": "ロケットニュース24"
-          },
-          "publishedAt": "2026-10-31T02:00:53Z",
-          "image": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/g1.jpg?w=1200&h=630&crop=1",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
-          "description": "Deal would be one of the most significant steps to supply defensive weapons to Kyiv since Trump took office in 2025.",
-          "url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine",
+          "title": "Love, luck and magic: Why are young people turning to online witches?",
+          "description": "One online retailer has reported a sharp rise in the amount of people buying spells to help with luck.",
+          "url": "https://www.bbc.com/news/articles/ck62yny61552o",
           "source": {
-            "name": "Al Jazeera"
+            "name": "BBC"
           },
-          "publishedAt": "2026-10-31T04:55:22Z",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2024-06-11T184031Z_1488011364_RC2698ANC965_RTRMADP_3_UKRAINE-CRISIS-GERMANY-1793417971.jpg?resize=1920%2C1440",
+          "publishedAt": "2026-10-31T09:06:51Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/48af/live/cb6c6c50-d39e-11f1-abc7-23eff3a47521.jpg",
           "language": "en"
         },
         {
-          "title": "Three arrested as Nacada raids Jericho, nets 1,000 rolls of bhang",
-          "description": "Three people have been arrested in Nairobi’s Jericho estate as NACADA intensifies its crackdown on supply points.",
-          "url": "https://www.standardmedia.co.ke/nairobi/article/2001561231/three-arrested-as-nacada-raids-jericho-nets-1000-rolls-of-bhang",
+          "title": "Man guilty of rape in Somerset after woman's secret recording",
+          "description": "Police said the recording, in which she is heard saying \"no\", provided key evidence.",
+          "url": "https://www.bbc.co.uk/news/articles/c6d93p449kngo",
           "source": {
-            "name": "The Standard"
+            "name": "BBC"
           },
-          "publishedAt": "2026-10-31T04:52:00Z",
-          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/G5wCXg3QbVzAwZDigqZU2x06I3EqMthpiECRKaGl.jpg",
+          "publishedAt": "2026-10-31T09:05:49Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/07fa/live/86478470-d506-11f1-afe6-8bc2333ca593.jpg",
           "language": "en"
         },
         {
-          "title": "Teen charged after 100-person gathering erupts at Leith Place in High Wycombe",
-          "description": "A chaotic gathering involving about 100 people descended into drunken disorder and violence in Perth’s east, with a 15-year-old girl arrested and charged over an alleged assault on police.",
-          "url": "https://thewest.com.au/news/court-justice/teen-charged-after-100-person-gathering-erupts-at-leith-place-in-high-wycombe-c-23097459",
+          "title": "Jamie Carragher Faces Bizarre Legal Action From Aston Villa",
+          "description": "Aston Villa have announced plans to take legal action against Jamie Carragher following his “unacceptable insults” about the club.",
+          "url": "https://www.thisisanfield.com/2026/10/jamie-carragher-faces-bizarre-aston-villa-legal-action-after-insults/",
           "source": {
-            "name": "The West Australian"
+            "name": "This Is Anfield"
           },
-          "publishedAt": "2026-10-31T04:51:00Z",
-          "image": "https://images.thewest.com.au/publication/C-23097459/9c2fd2c57d356328529fc2d6fd644905466c91af-16x9-x30y0w3305h1859.jpg?imwidth=1200",
+          "publishedAt": "2026-10-31T09:04:43Z",
+          "image": "https://media.thisisanfield.com/featureimage-1791292149.jpg",
           "language": "en"
         },
         {
-          "title": "Steph Curry stats, highlights: Warriors star dazzles in comeback win vs. Lakers",
-          "description": "Stephen Curry led the way as the Warriors rallied from a big early deficit to knock off the Lakers in NBA Cup play.",
-          "url": "https://sports.yahoo.com/articles/steph-curry-stats-highlights-warriors-045142814.html",
+          "title": "Israel elections: Anti-Netanyahu bloc weighs direct PM election bill to break political deadlock",
+          "description": "Israel's opposition bloc is considering legislation to introduce direct elections for prime minister in a bid to break the political deadlock following",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-elections-anti-netanyahu-bloc-weighs-direct-pm-election-bill-to-break-political-deadlock/articleshow/135394352.cms",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "The Times of India"
           },
-          "publishedAt": "2026-10-31T04:51:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/752e4014688596ad66ee58e192ba2af0c8c88ad70834381480f5ea9a10ae3a55/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fb196666c1e29e42e12cacdad7b0d9b1f.jpg",
+          "publishedAt": "2026-10-31T09:03:00Z",
+          "image": "https://static.toiimg.com/thumb/msid-135395681,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
           "language": "en"
         },
         {
-          "title": "ScienceOra Demonstrates AI-Assisted Hydrogen-Production Catalyst Design Workflow at Tencent Global Digital Ecosystem Summit",
-          "description": "The workflow spans literature analysis, candidate design, experimental planning and industrial decision support, extending AI4S into materials research",
-          "url": "https://www.manilatimes.net/2026/10/31/tmt-newswire/pr-newswire/scienceora-demonstrates-ai-assisted-hydrogen-production-catalyst-design-workflow-at-tencent-global-digital-ecosystem-summit/2458658",
+          "title": "Chelsea vs Manchester United Predictions: Hosts to edge the game",
+          "description": "Check out our soccer expert’s Chelsea vs Manchester United predictions and betting tips, prior to Saturday’s 8:30am ET Premier League clash (10/31).",
+          "url": "https://www.goal.com/en-us/betting/tips/chelsea-vs-manchester-united-predictions-10-31-2026/A%3Abltaaf60ed7d2abab50",
           "source": {
-            "name": "The Manila Times"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-10-31T04:42:39Z",
-          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/31/1285758.jpg",
+          "publishedAt": "2026-10-31T09:02:47Z",
+          "image": "https://assets.goal.com/images/v3/blt433ca55e1f1d4ba6/Chelsea%20vs%20Manchester%20United%20predictions.webp",
           "language": "en"
         },
         {
-          "title": "Trump’s administration plans to deport some Afghan immigrants",
-          "description": "The Trump administration plans to deport certain Afghan immigrants, many of whom fled Afghanistan after the Taliban took control in 2021. Advocacy groups express concern about the deportation plans.",
-          "url": "https://www.arabnews.com/world/trumps-administration-plans-to-deport-some-afghan-immigrants-3009093",
+          "title": "Proton CTO's AI Manifesto Strikes a Nerve With Engineers",
+          "description": "Proton's CTO wrote a manifesto about how software engineering jobs have \"fundamentally changed.\" Techies online said that he was dead on.",
+          "url": "https://www.businessinsider.com/protons-cto-ai-manifesto-software-engineers-coding-2026-10",
           "source": {
-            "name": "Arab News"
+            "name": "Business Insider"
           },
-          "publishedAt": "2026-10-31T04:42:20Z",
-          "image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1793421659192-c1e1d39b65bfbcd1.jpg",
+          "publishedAt": "2026-10-31T09:02:40Z",
+          "image": "https://i.insider.com/6ae49e19d8cc18cf7950f772?width=1200&format=jpeg",
           "language": "en"
         },
         {
-          "title": "El-Sayed asks Stevens not to attend final events in key Michigan race",
-          "description": "The ongoing feud between the former primary rivals escalated in the finals days of the race, after the pair agreed to campaign together Nov. 1.",
-          "url": "https://www.usatoday.com/story/news/politics/elections/2026/10/30/abdul-el-sayed-haley-stevens/92526759007/",
+          "title": "Yogi Adityanath On UP SIR",
+          "description": "Yogi Adityanath has instructed BJP workers to coordinate with BLOs to ensure that all eligible voters were included in the rolls and called for regular reviews of the exercise.",
+          "url": "https://www.ndtv.com/india-news/names-of-1-27-crore-hindus-missing-from-electoral-rolls-yogi-adityanath-on-up-sir-12262989",
           "source": {
-            "name": "USA Today"
+            "name": "NDTV"
           },
-          "publishedAt": "2026-10-31T04:42:00Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/29/USAT/91085454007-16716.jpg?crop=792,444,x43,y0&width=792&height=444&format=pjpg&auto=webp",
+          "publishedAt": "2026-10-31T09:02:31Z",
+          "image": "https://c.ndtvimg.com/2026-10/0ieq88ds_yogi_625x300_31_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
           "language": "en"
         },
         {
-          "title": "Mushroom murderer Erin Patterson could make a final bid for freedom. What are the prospects of a high court appeal?",
-          "description": "After attempt at acquittal or retrial was dismissed, Patterson has 28 days to lodge an application for special leave to appeal to Australia’s high court",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/31/erin-patterson-mushroom-murders-high-court-appeal-prospects-ntwnfb",
+          "title": "Today's NYT Strands answers, clues, and hints on October 31 (puzzle #972)",
+          "description": "Anyone stuck on the NYT Strands October 31 puzzle (#972) can check out this guide with hints, clues, and answers.",
+          "url": "https://www.pcguide.com/news/todays-nyt-strands-answers-clues-and-hints-on-october-31-puzzle-972/",
           "source": {
-            "name": "The Guardian"
+            "name": "PC Guide"
           },
-          "publishedAt": "2026-10-31T04:42:00Z",
-          "image": "https://i.guim.co.uk/img/media/76f0d098ae808619de19d79a0c23d7e3f3c237cb/359_136_2009_1608/master/2009.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c24c2b279852f90931e4370a56f71c82",
+          "publishedAt": "2026-10-31T09:02:11Z",
+          "image": "https://www.pcguide.com/wp-content/uploads/2026/06/NYT-Strands-logo-and-game-on-phones.jpg",
           "language": "en"
         },
         {
-          "title": "Namibia Raises Interest Rate to 7% as Fuel Prices Drive Inflation",
-          "description": "Namibia's central bank raised its benchmark interest rate by 25 basis points to 7%, aiming to contain inflationary pressures from rising energy",
-          "url": "https://www.ecofinagency.com/news-industry/3110-60334-namibia-raises-interest-rate-to-7-as-fuel-prices-drive-inflation",
+          "title": "Karachi court approves Iqrarul Hassan's bail plea",
+          "description": "Orders his release against surety bonds of Rs200,000, forensic report awaited",
+          "url": "https://tribune.com.pk/story/2637909/karachi-court-approves-iqrarul-hassans-bail-plea",
           "source": {
-            "name": "Ecofin Agency"
+            "name": "The Express Tribune"
           },
-          "publishedAt": "2026-10-31T04:41:57Z",
-          "image": "https://www.ecofinagency.com/media/k2/items/cache/8c5532100f596c1377808843e9e37947_S.jpg",
+          "publishedAt": "2026-10-31T09:01:26Z",
+          "image": "https://i.tribune.com.pk/media/images/journalist-iqrarul-hassan1791824490-0/journalist-iqrarul-hassan1791824490-0-640x480.webp",
           "language": "en"
         },
         {
-          "title": "OPay IPO Withdrawal and Regulatory Inquiry Explained",
-          "description": "Chinese-founded African fintech giant OPay withdraws its $304 million U.S. IPO following an undisclosed foreign regulatory inquiry.",
-          "url": "https://chinaglobalsouth.com/2026/10/31/chinese-founded-opay-withdraws-us-ipo-regulatory-probe/",
+          "title": "Three or four checks, then one big raid: How a Puchong chicken warehouse that flouted halal rules ran for 20 years",
+          "description": "KUALA LUMPUR, Oct 31 — A chicken slaughtering and processing warehouse in Puchong, raided under Ops Taring Chiller yesterday, is believed to have operated for 20 years.Bukit Aman...",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/31/three-or-four-checks-then-one-big-raid-how-a-puchong-chicken-warehouse-that-flouted-halal-rules-ran-for-20-years/241442",
           "source": {
-            "name": "The China-Global South Project"
+            "name": "Malay Mail"
           },
-          "publishedAt": "2026-10-31T04:40:45Z",
-          "image": "https://chinaglobalsouth.com/wp-content/uploads/2026/10/OPAY-768x432.jpg",
+          "publishedAt": "2026-10-31T09:00:46Z",
+          "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/31/371609.jpg",
           "language": "en"
         }
       ]
