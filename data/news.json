@@ -1,10 +1,87 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-11-01T04:51:06.117Z",
+  "updatedAt": "2026-11-01T12:48:15.817Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "おうし座「南」「北」流星群、しし座流星群が見頃 11月の星空・天文情報",
+          "description": "2026年11月の星空・天文情報です。6日頃おうし座「南」流星群が、13日頃おうし座「北」流星群が極大を迎えます。さらに、18日には、しし座流星群が見頃となります。そのほか、月と惑星の共演も楽しめるでしょう。",
+          "url": "https://tenki.jp/forecaster/t_hoshino/2026/11/01/40949.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-11-01T00:00:00Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/40/409/40949/main/20261013115922/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "「レ・サヴール志摩」乗車ルポ 近鉄レストラン列車の実力は 名古屋から美酒堪能の夢空間",
+          "description": "近畿日本鉄道は1日、名古屋と伊勢志摩を結ぶ近鉄初の本格的なレストラン列車「Les Saveurs（レ・サヴール）志摩」の運行を始める。都市部から住宅街、山並み、伊勢志摩の海へと移り変わる景色を眺めながら、こだわりのフランス料理を味わえる。…",
+          "url": "https://www.sankei.com/article/20261101-NQZGMU7ITJJGDLUTLOJIROJZTU/?outputType=asynd",
+          "source": {
+            "name": "産経ニュース"
+          },
+          "publishedAt": "2026-10-31T23:00:00Z",
+          "image": "https://www.sankei.com/resizer/v2/64V3SFEZKZJV7OCI7CEKDKWFYQ.jpg?auth=9d08815b2dc07495554b907a2c375a53b918d8e393fa8bde67eb25d6768feb98&quality=50&focal=1670%2C907&width=1200&height=675",
+          "language": "ja"
+        },
+        {
+          "title": "福島県で震度3の地震、東京など関東や宮城県では震度2観測 各市町村の震度一覧、11月1日午前7時15分ごろ発生",
+          "description": "気象庁によると2026年11月1日午前7時15分ごろ、福島県浜通りで震度3を観測する地震があった。震源地は三重県南東沖で、震源の深さは350km。この地震による津波の心配はないという。地震の規模を示すマグニチュードは6.1と推定される。揺れを観測した地域と震度は以下の通り。",
+          "url": "https://www.fukuishimbun.co.jp/articles/-/2736503",
+          "source": {
+            "name": "福井新聞社"
+          },
+          "publishedAt": "2026-10-31T22:34:00Z",
+          "image": "https://fki.ismcdn.jp/mwimgs/4/a/-/img_4a125c209da731bc831d92824e1d335e921660.png",
+          "language": "ja"
+        },
+        {
+          "title": "台風31号 5日頃に父島に最接近か 高波など影響が長引くおそれ 関東周辺も雨",
+          "description": "台風31号は5日(木)から6日(金)にかけて父島など小笠原諸島に最も接近する見通しです。小笠原諸島は4日(水)から波浪警報の可能性が高くなっています。台風の進路次第では風や雨が強まり、大荒れの天気となるおそれがあります。本州には直接的な影響はないものの、5日(木)頃は台風周辺の湿った空気が流れ込み、関東周辺で雨が強まる可能性があります。最新の台風情報を確認してください。",
+          "url": "https://tenki.jp/forecaster/y_nakagawa/2026/11/01/41163.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-10-31T22:23:53Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/41/411/41163/main/20261101063154/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【ＢＣクラシック】まさか...フォーエバーヤング敗れる ２５年ぶり史上２頭目の連覇ならず矢作調教師は呆然「分からない」",
+          "description": "◆第４３回ブリーダーズＣクラシック・Ｇ１（現地時間１０月３１日、米国キーンランド競馬場・ダート２０００メートル）【動画】フォーエバーヤングがまさかの失速…ＢＣクラシックのハイライト 新たな金字塔を打",
+          "url": "https://news.yahoo.co.jp/articles/4f72073e9be5cb1b889f139351304fe4193d80a5",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-10-31T22:21:43Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261101-11011031-umatokuh-000-14-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "早稲田大学・花田勝彦監督「5時間06分前後でいかないと勝てないんじゃないかなと」【第58回全日本大学駅伝前日取材】",
+          "description": "真の日本一を決める第58回全日本大学駅伝対校選手権大会は、25の大学と2つの選抜チームで争われます。文化放送では11月1日（日）午前8時00分より『長谷工グループスポーツスペシャル　第58回全日本大学駅伝対校選手権大会実況中継』を、解説に明治大学競走部・大志田秀次駅伝監督、ゲストに平林清澄選手...",
+          "url": "https://www.joqr.co.jp/news/article/185094/",
+          "source": {
+            "name": "文化放送"
+          },
+          "publishedAt": "2026-10-31T18:35:50Z",
+          "image": "https://www.joqr.co.jp/wp/wp-content/uploads/c5b59ed30e65757177d3d1e531add749-1024x640.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "坂元達裕がコベントリーの勝利導くプレミア初弾!! 相手に髪引っ張られたシーンは今季基準で退場誘発ならず",
+          "description": "[10.31 プレミアリーグ第9節 コベントリー 3-1 サンダーランド]　コベントリーは31日、プレミアリーグ第9節でサンダーランドを3-1で破って3試合ぶりの勝利を手にした。MF坂元達裕はプレミアリーグ初のフル出場で...",
+          "url": "https://web.gekisaka.jp/news/world/detail/?462235-462235-fl",
+          "source": {
+            "name": "ゲキサカ"
+          },
+          "publishedAt": "2026-10-31T16:58:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/463000/462235/news_462235_1.jpg?time=20261101015957",
+          "language": "ja"
+        },
         {
           "title": "【はだかんぼうたち】松田元太“鯖崎”、本気の恋を自覚 加藤ローサ“桃”との甘すぎクッキング＆“足ツン”に視聴者が悶絶",
           "description": "【はだかんぼうたち】松田元太“鯖崎”、本気の恋を自覚　加藤ローサ“桃”との甘すぎクッキング＆“足ツン”に視聴者が悶絶（ORICON NEWS）　7人組グループ・Travis Japanの松田元太が主演を務める、テレビ朝日系オシドラサタデー『はだかんぼうたち』（毎週土曜　後11：…",
@@ -37,194 +114,117 @@
           "publishedAt": "2026-10-31T13:50:00Z",
           "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/07/1752492285_GU1-scaled.jpg",
           "language": "ja"
-        },
-        {
-          "title": "もはや“デスクトップ並み”に快適、ROG20周年のポータブルゲーミングPC「ROG Xbox Ally X20」",
-          "description": "「ROG Xbox Ally X20」は、ROGブランド誕生20周年を記念して作られたプレミアムなポータブルゲーミングPCです。ポータブル機の枠を軽々と飛び越え、デスクトップPCに迫る圧倒的なパフォーマンスと最高の操作性を実現。Windows 11搭載で、Xbox Game PassなどのPCゲームライブラリをどこへでも持ち運んで遊べちゃいます",
-          "url": "https://ascii.jp/elem/000/004/445/4445700/",
-          "source": {
-            "name": "ASCII.jp"
-          },
-          "publishedAt": "2026-10-31T13:20:00Z",
-          "image": "https://ascii.jp/img/2026/10/26/4543594/xl/ba36902b0eed7c1d.png?20200122",
-          "language": "ja"
-        },
-        {
-          "title": "浦和・西川周作 なぜ「右利き」の少年は左足の名手になったのか 「特別な自分になりたい」が紡いだＪ１最多６７２試合出場",
-          "description": "◆明治安田Ｊ１リーグ▽第１３節 柏―浦和（３１日・三協Ｆ柏） ＧＫ西川周作と言えば、左足から放たれる糸を引くようなフィードを思い浮かべるファンも多いはずだ。しかし、彼が実は「右利き」だったという事実",
-          "url": "https://news.yahoo.co.jp/articles/9a73d18ecbf7fe7b336abe4d6b29b46aa5268971",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-10-31T12:30:05Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-10311336-sph-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "A.B.C-Zがデビュー15周年記念日・'27年2月1日に写真集をリリース！",
-          "description": "株式会社東京ニュース通信社のプレスリリース（2026年10月31日 21時00分）A.B.C-Zがデビュー15周年記念日・'27年2月1日に写真集をリリース！",
-          "url": "https://prtimes.jp/main/html/rd/p/000003570.000006568.html",
-          "source": {
-            "name": "PR TIMES"
-          },
-          "publishedAt": "2026-10-31T12:00:02Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/6568/3570/6568-3570-99a3925b7aec231b2ef3a2cf5eb65e77-1800x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-          "language": "ja"
-        },
-        {
-          "title": "中間選挙でトランプ大統領に“逆風” 高まる「反イスラエル感情」 揺らぐユダヤ系アメリカ人の影響力【報道特集】",
-          "description": "11月3日に行われるアメリカの中間選挙で注目されているのがイスラエルの存在です。これまでは党派を問わずイスラエルを支持することが常識とされてきましたが、その常識がいま揺らいでいます。アメリカ政治に大",
-          "url": "https://news.yahoo.co.jp/articles/af5061ce74ef7cd5c6abcc31cab8233634a942ae",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-10-31T11:30:35Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-23053510-jnn-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "Watch LIFE NEWS｜ウオッチライフを楽しむ時計総合ニュースサイト",
-          "description": "生産するたび売り切れになる、“SEIKO（セイコー）”と腕時計のセレクトショップ“TiCTAC（チックタック）”のコラボレーションシリーズから、待望の最新モデルがリリースされた。“ヴィンテージホワイト”を文字盤に採用しているのが特徴だ。",
-          "url": "https://www.powerwatch.jp/2026/10/31/seiko-329/",
-          "source": {
-            "name": "Watch LIFE NEWS"
-          },
-          "publishedAt": "2026-10-31T11:10:46Z",
-          "image": "https://www.powerwatch.jp/wp496/wp-content/uploads/2026/10/HZB002J_Top.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "火星衛星探査計画（MMX）に込められたもうひとつの目的――「最後の惑星探査」という危機感と、日本の月・惑星探査の未来｜探検された天の世界",
-          "description": "「実は、MMXにはもうひとつの目的があるんですよ」。 　それは2014年、火星衛星探査計画（MMX）がまだフィジビリティ・スタディ（実現可能性調査）の段階にあったころのことだった。当時、計画の理学面を取りまとめていた藤本正樹さん（現・JAXA宇宙科学研究所所長）と、工学面を取りまとめていた川勝康弘さん（現・MMXプロジェクト・マネージャー）に取材する機会があった。MMXの主な目的である火星の衛星フォボスからの試料の持ち帰りや、火星衛星の起源の解明などについて説明を受けたあと、藤本さんが思いがけない話を切り出した。 「これから、日本が単独で、あるいは国際協力を得ながら主導する形で、大",
-          "url": "https://note.com/celestial_worlds/n/nf06646fdea94",
-          "source": {
-            "name": "note"
-          },
-          "publishedAt": "2026-10-31T11:04:57Z",
-          "image": "https://assets.st-note.com/production/uploads/images/330574086/rectangle_large_type_2_f8336ce59b4ad985c09d35065494ae54.jpeg?fit=bounds&quality=85&width=1280",
-          "language": "ja"
-        },
-        {
-          "title": "粗品「かなり勝負気配感じた」馬が天皇賞・秋の本命！あのG1馬を消して３連単６点勝負",
-          "description": "お笑いコンビ「霜降り明星」の粗品（33）が31日、自身のYouTubeチャンネルを更新し、11月1日の天皇賞・秋（G1、芝2000メートル、東京）の予想を公開… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/keiba/news/202610310001890.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-10-31T11:02:24Z",
-          "image": "https://www.nikkansports.com/keiba/news/img/202610310001890-w500_0.jpg",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Béibhinn Parsons scores hat-trick as Ireland beat South Africa in second Test",
-          "description": "Three points adrift on the hour mark, Scott Bemand’s charges proceeded to amass 24 unanswered points",
-          "url": "https://www.irishtimes.com/sport/rugby/2026/10/31/beibhinn-parsons-scores-hat-trick-as-ireland-beat-south-africa-in-second-test/",
+          "title": "Where Is Thomas Markle Now? What to Know About Meghan Markle’s Dad’s Location amid Sex Abuse, Child Pornography Allegations",
+          "description": "Thomas Markle was reportedly asked to leave a Florida rehabilitation facility amid an investigation into the allegations",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/where-thomas-markle-now-know-004625951.html",
           "source": {
-            "name": "The Irish Times"
+            "name": "Yahoo"
           },
-          "publishedAt": "2026-10-31T16:47:07Z",
-          "image": "https://www.irishtimes.com/resizer/v2/BSCTAWZOZCHLTL7PD66DXOSQ2Q.jpg?smart=true&auth=670d4f28f6a325491d7cd821bf378148d1512fa865dbcefc551c93be98280e60&width=1200&height=630",
+          "publishedAt": "2026-11-01T00:46:25Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/0122f0fd8db2b343593b5559455d811cdcdf3fd84c44bbaaeb9d8af8ff7ec6a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fe8a8f13e20d8c0d788db3c3fb9795fd7.jpg",
           "language": "en"
         },
         {
-          "title": "KNEC outlines approved stationery and banned items for national examinations",
-          "description": "KNEC examination regulations guide candidates on approved stationery, calculators and prohibited electronic devices during the 2026 KPSEA,",
-          "url": "https://educationnews.co.ke/news/knec-outlines-approved-stationery-and-banned-items-for-national-examinations",
+          "title": "Lakers drama intensifies; Jeanie Buss accuses family of smear campaign",
+          "description": "In third Buss family court filing since August, Jeanie Buss accuses her siblings of running a \"false flag operation\" in bid to sell family's shares.",
+          "url": "https://www.usatoday.com/story/sports/nba/lakers/2026/10/31/lakers-jeanie-buss-court-filing-siblings-october/92539420007/",
           "source": {
-            "name": "Education News"
+            "name": "USA Today"
           },
-          "publishedAt": "2026-10-31T16:45:26Z",
-          "image": "https://educationnews.co.ke/storage/news/photos/2026/10/knec-outlines-approved-stationery-and-banned-items-for-national-examinations-20261031173651-50857df8-f691-4b54-a41a-8fdd3083c6f2.webp",
+          "publishedAt": "2026-11-01T00:46:22Z",
+          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/31/USAT/92539447007-20260313-t-055452-z-1433538753-mt-1-usatoday-28481247-rtrmadp-3-nbachicagobullsatlosangeleslakers-1.JPG?crop=3167,1783,x0,y164&width=3167&height=1783&format=pjpg&auto=webp",
           "language": "en"
         },
         {
-          "title": "Harry Kane praises Mourinho for career-changing guidance after Ballon d’Or win: ‘Developed my game in a different way’",
-          "description": "Real Madrid ace Kylian Mbappe fell narrowly short of the Ballon d’Or earlier this week, as he finished second to Bayern Munich superstar Harry Kane by the smallest of margins.The Frenchman was Real ...",
-          "url": "https://sports.yahoo.com/articles/harry-kane-praises-mourinho-career-164500532.html",
+          "title": "Prabowo’s Concentric Strategy",
+          "description": "The basis of Indonesia’s foreign policy, as envisioned by the country’s bebas dan aktif (free and active) principle, is to safeguard and protect its national",
+          "url": "https://www.eurasiareview.com/01112026-prabowos-concentric-strategy-oped/",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "Eurasia Review"
           },
-          "publishedAt": "2026-10-31T16:45:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/c40b43cd3154dc3c074dc33b0150a0ed355aaedb471db252a9ddfae8ad28aeba/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmadrid_universal_articles_561%2Fb2eeab7b306d7abc52eb04d4f8612acd.jpg",
+          "publishedAt": "2026-11-01T00:43:09Z",
+          "image": "https://www.eurasiareview.com/wp-content/uploads/2024/09/a-73.jpeg",
           "language": "en"
         },
         {
-          "title": "Michael Carrick insists he will still be in charge of Manchester United against Roma",
-          "description": "Michael Carrick has insisted he will still be in charge when Manchester United face Roma in the Champions League on Tuesday despite the 2-0 defeat at Chelsea",
-          "url": "https://www.theguardian.com/football/2026/oct/31/michael-carrick-chelsea-manchester-united-roma-premier-league",
+          "title": "Judge dismisses Trump's lawsuit against WSJ over Epstein birthday book",
+          "description": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo",
           "source": {
-            "name": "The Guardian"
+            "name": "BBC"
           },
-          "publishedAt": "2026-10-31T16:45:00Z",
-          "image": "https://i.guim.co.uk/img/media/8e9c77df7674dd42f99b922a40e2c3578ad3ce51/2_0_4412_3529/master/4412.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4e8d592d3476f4171d6afc0ca2c7147",
+          "publishedAt": "2026-11-01T00:41:24Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg",
           "language": "en"
         },
         {
-          "title": "Middle East on edge as fears mount the Iran war could restart after the midterms",
-          "description": "With little transparency from Washington and warmongering from Tehran, people across the Middle East have been left anxious and confused, scanning for signals on whether the conflict between Iran and the United States will reignite.",
-          "url": "https://www.cnn.com/2026/10/31/middleeast/gulf-braces-us-midterms-intl",
+          "title": "Judge dismisses Trump's lawsuit against WSJ over Epstein birthday book",
+          "description": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+          "url": "https://www.bbc.com/news/articles/cwr5yj2lj9myo",
           "source": {
-            "name": "CNN"
+            "name": "BBC"
           },
-          "publishedAt": "2026-10-31T16:44:45Z",
-          "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26276415435704.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2026-11-01T00:41:24Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg",
           "language": "en"
         },
         {
-          "title": "NASA satellite to plunge back to Earth after 22 years in space",
-          "description": "The Swift Observatory's mission is over after 22 years in orbit. NASA expects the satellite to re-enter Earth's atmosphere soon.",
-          "url": "https://www.scrippsnews.com/science-and-tech/space/nasa-satellite-to-plunge-back-to-earth-after-22-years-in-space",
+          "title": "India's Latest Move With Vaibhav Sooryavanshi \"Is Not Good News\", Mohammad Kaif Explains How",
+          "description": "Indian cricket team's strategy regarding Vaibhav Sooryavanshi is clear. The team management wants to groom the youngster and give him national team exposure as much as possible",
+          "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/indias-latest-move-with-vaibhav-sooryavanshi-is-not-good-news-mohammad-kaif-explains-how-12264693",
           "source": {
-            "name": "Scripps News"
+            "name": "NDTV Sports"
           },
-          "publishedAt": "2026-10-31T16:42:36Z",
-          "image": "https://ewscripps.brightspotcdn.com/dims4/default/180c9bb/2147483647/strip/true/crop/3839x2015+0+8/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F4d%2F21%2F40f45d554f80899c4bb19da2bc3c%2Fswift-in-space-15-ac.jpg",
+          "publishedAt": "2026-11-01T00:39:35Z",
+          "image": "https://c.ndtvimg.com/2026-10/s4pad4ac_vaibhav-sooryavanshi_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
           "language": "en"
         },
         {
-          "title": "MacBook Pro with PROLED XDR looks awesome, but I’m not rushing to upgrade",
-          "description": "After five years, Apple released its first major MacBook Pro overhaul since the M1 Pro/M1 Max models, and well… it...",
-          "url": "https://9to5mac.com/2026/10/31/heres-why-im-not-rushing-to-buy-macbook-pro-oled/",
+          "title": "Solenn, Erwan Heussaff mourn passing of father Louis",
+          "description": "Louis Paul Heussaff, the father of celebrity siblings Solenn and Erwan, has passed away.",
+          "url": "https://www.gmanetwork.com/news/lifestyle/familyandrelationships/1007881/solenn-erwan-heussaff-mourn-passing-of-father-louis/story/",
           "source": {
-            "name": "9to5Mac"
+            "name": "GMA Network"
           },
-          "publishedAt": "2026-10-31T16:42:00Z",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-touch-hand.jpg?quality=82&strip=all&resize=1200,628",
+          "publishedAt": "2026-11-01T00:39:34Z",
+          "image": "https://images.gmanews.tv/webpics/2026/11/LouisPaulHeussaff_2026_11_01_08_28_58.jpg",
           "language": "en"
         },
         {
-          "title": "Pirates down Chiefs, reclaim league summit",
-          "description": "Orlando Pirates defeated Soweto derby rivals Kaizer Chiefs 2-1 at the FNB Stadium on Saturday afternoon to reclaim top spot on the Betway Premiership log.",
-          "url": "https://supersport.com/football/news/d35a7a1c-fbc2-4bda-b42e-2b91f511c9c3/pirates-down-chiefs-reclaim-league-summit",
+          "title": "APGA candidates fear protest votes over Soludo",
+          "description": "APGA candidates in Anambra fear protest votes and losing to the NDC after Governor Soludo agreed to coordinate President Tinubu's 2027 campaign.",
+          "url": "https://punchng.com/apga-candidates-fear-protest-votes-over-soludo-tinubu-pact/",
           "source": {
-            "name": "SuperSport"
+            "name": "Punch Newspapers"
           },
-          "publishedAt": "2026-10-31T16:39:58Z",
-          "image": "https://images.supersport.com/media/emlb1zly/pirates.jpg",
+          "publishedAt": "2026-11-01T00:38:14Z",
+          "image": "https://punchng.com/wp-content/uploads/2026/08/APGA_1786490894-834x630.webp",
           "language": "en"
         },
         {
-          "title": "Asking Eric: Family friend demands hugs, despite parents’ objections",
-          "description": "Grandma is not happy the letter writer's teen daughter didn't want to hug her friend.",
-          "url": "https://www.washingtonpost.com/advice/2026/10/31/asking-eric-family-friend-demands-hugs-despite-parents-objections/",
-          "source": {
-            "name": "The Washington Post"
-          },
-          "publishedAt": "2026-10-31T16:39:13Z",
-          "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5MQ3UZKPPNC47EOER4GGCXUB7U.jpg&w=1440",
-          "language": "en"
-        },
-        {
-          "title": "'Dark mood' in Tralee after fatal stabbing at IPAS centre",
-          "description": "A man has died and a second has been injured following a stabbing at an IPAS centre in Co Kerry in the early hours of this morning.",
-          "url": "https://www.rte.ie/news/ireland/2026/1031/1597452-kerry/",
+          "title": "13 arrested as Portuguese police clash with protesters",
+          "description": "Riot police stormed protest camps in Lisbon and Porto early this morning, charging demonstrators with batons and arresting 13 people.",
+          "url": "https://www.rte.ie/news/2026/1101/1597502-germany-protests/",
           "source": {
             "name": "RTE.ie"
           },
-          "publishedAt": "2026-10-31T16:37:33Z",
-          "image": "https://www.rte.ie/images/002542ba-1600.jpg",
+          "publishedAt": "2026-11-01T00:38:05Z",
+          "image": "https://www.rte.ie/images/0025433f-1600.jpg",
+          "language": "en"
+        },
+        {
+          "title": "International Gold Price Falls Below $3,900 Mark; Chinese Jewelry Prices Retreat Nearly 550 Yuan per Gram This Year",
+          "description": "On October 30, international gold prices fell to a one-year low, with COMEX gold futures closing at $3,884.90/oz and London Gold Spot at $3,875.19/oz,…",
+          "url": "https://finance.biggo.com/news/283017b3-e972-4630-ae6f-65f005897cfe",
+          "source": {
+            "name": "BigGo Finance"
+          },
+          "publishedAt": "2026-11-01T00:35:00Z",
+          "image": "https://img.biggo.com/Ywvdw5D6jg7uycsc4EYLKvgbQGCnuM-GqCKV8Zt1qc0/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL3N0b2NrX2xpYnJhcnlfY292ZXJzLzIwMjYtMTEvMjgzMDE3YjMtZTk3Mi00NjMwLWFlNmYtNjVmMDA1ODk3Y2ZlXzE3OTM0OTM0ODBfZGVmYXVsdC53ZWJw.jpg",
           "language": "en"
         }
       ]
