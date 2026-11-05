@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-11-04T19:27:43.336Z",
+  "updatedAt": "2026-11-05T01:19:45.397Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "柴咲コウ「うまくいかなかったとしても、その工程を楽しみたい」ワクワクする日々の根源は、衰え知らずの好奇心",
+          "description": "柴咲コウさんインタビュー",
+          "url": "https://mi-mollet.com/articles/-/61865?layout=b",
+          "source": {
+            "name": "mi-mollet（ミモレ）"
+          },
+          "publishedAt": "2026-11-04T12:50:46Z",
+          "image": "https://mi-mollet.ismcdn.jp/mwimgs/c/b/-/img_cbd6d3a5af9960071d1dfc1b2fe47d88445966.jpg?rd=202610021628",
+          "language": "ja"
+        },
+        {
+          "title": "CORSAIR、わずか37gの無線ゲーミングマウス 照準をAI補正するPureVector搭載",
+          "description": "CORSAIRは無線ゲーミングマウス「SABRE v3 PRO PureVector」シリーズを発表した。最軽量のUltralightは肉抜き穴なしで約37gを実現し、日本では11月6日に2万8980…",
+          "url": "https://finance.biggo.jp/news/6f7b3a9b-9bf7-46cc-aaf1-61400c9fa8e8",
+          "source": {
+            "name": "BigGo ファイナンス"
+          },
+          "publishedAt": "2026-11-04T09:26:00Z",
+          "image": "https://img.biggo.com/RuYotqV8h4WRO43WzogGyBx4OqQeMY3u-Q4Y8jw9yw4/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzZmN2IzYTliLTliZjctNDZjYy1hYWYxLTYxNDAwYzlmYThlOF8xNzkzNzg0NjQ1X2RlZmF1bHQud2VicA.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【米中間選挙2026】 民主党、上下両院で主導権を奪う トランプ政権を有権者が否定",
+          "description": "アメリカで3日、中間選挙の投票があった。トランプ政権2期目の2年間に対して評価を下す選挙とされ、景気、生活費の上昇、中東での戦争などをめぐって、有権者が票を投じた。夜を迎えた州から順次、投票が締め切られ、開票が進められた。米メディアは同夜、連邦議会の上下両院で野党・民主党が主導権を奪い返すことが確実だと報じた。上院については選挙前、トランプ氏率いる共和党が過半数を維持するとの見方もあったが、多くの州で民主党が次々と共和党から議席を奪った。",
+          "url": "https://www.bbc.com/japanese/articles/cmly046vw000o",
+          "source": {
+            "name": "BBC"
+          },
+          "publishedAt": "2026-11-04T09:11:15Z",
+          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/f668/live/b8082060-d811-11f1-a701-fddedf244c16.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "PS Storeで「BLACK FRIDAY SALE」第一弾開催！「ACE COMBAT 8」や「モンスターハンターワイルズ」などがセール！",
+          "description": "PlayStation Storeで「BLACK FRIDAY SALE」第一弾が開催中です。「ACE COMBAT 8: WINGS OF THEVE DELUXE EDITION」などの数々のタイトルをお得な価格で購入できます。セール第一弾は2026年11月20日(金) 23時59分までです。…",
+          "url": "https://saiganak.com/ja/news/black-friday-sale-ps-store-sale-nov2026/",
+          "source": {
+            "name": "Saiga NAK"
+          },
+          "publishedAt": "2026-11-04T09:03:52Z",
+          "image": "https://i0.wp.com/uploads.saigacdn.com/2026/11/black-friday-sale-ps-store-sale2026-00.jpg?resize=1200,630",
+          "language": "ja"
+        },
+        {
+          "title": "福田師王がA代表初選出!! 神村学園から即ドイツ挑戦の22歳に森保監督も太鼓判「ブンデス1部でも十分に通用する」",
+          "description": "日本代表の森保一監督が4日、今月のシンガポール遠征に臨む招集メンバー28人を発表し、22歳のFW福田師王(カールスルーエ)を初招集した。神村学園高出身の福田は高校卒業後の2023年、Jリーグを経由せずにボルシ...",
+          "url": "https://web.gekisaka.jp/news/japan/detail/?462513-462513-fl",
+          "source": {
+            "name": "ゲキサカ"
+          },
+          "publishedAt": "2026-11-04T08:55:00Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/463000/462513/news_462513_1.jpg?time=20261104175614",
+          "language": "ja"
+        },
+        {
+          "title": "米中間選挙、民主党優勢でデータセンター規制に警戒 日経平均急落、キオクシア一時1万円割れ",
+          "description": "米中間選挙の開票が始まった11月4日の東京市場は狼狽（ろうばい）、一種のパニックともいえる相場展開となった。同日の日経平均株価は2日終値（6万3,081円86銭）を挟んで始まったが、午前に下げ幅を広げた。11月3日に投開票日を迎えた…",
+          "url": "https://media.rakuten-sec.net/articles/-/53949",
+          "source": {
+            "name": "トウシル"
+          },
+          "publishedAt": "2026-11-04T08:30:00Z",
+          "image": "https://media.rakuten-sec.net/mwimgs/c/b/-/img_cb2ac00c1e0c9f2f778f328aa52de0c6168115.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "グーグル、11月のAndroidパッチを公開：216件の脆弱性、うち23件が重大、タップ不要で到達可能なRCEが1件",
+          "description": "グーグルの11月Androidセキュリティ情報では216件の脆弱性が修正され、うち23件が「重大」と評価された。前月の25件から大幅に増加している。最も深刻なのはCVE-…",
+          "url": "https://finance.biggo.jp/news/61c37241-39c8-4c3c-85c7-60c22d2adc01",
+          "source": {
+            "name": "BigGo ファイナンス"
+          },
+          "publishedAt": "2026-11-04T08:25:00Z",
+          "image": "https://img.biggo.com/UQ0VgwER_X-tQWHJsusCSUYJ4Y7mGcL-rclAvmBS5CI/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzYxYzM3MjQxLTM5YzgtNGMzYy04NWM3LTYwYzIyZDJhZGMwMV8xNzkzNzgwOTIwX2RlZmF1bHQuanBn.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "南田南（芦田愛菜）を追い詰めた検事に「腹立つ」「最低すぎる」怒りの声 演じた俳優が心境【南田南弁護士は天才肌】",
+          "description": "ニュース｜　俳優・芦田愛菜が主演を務める、カンテレ・フジテレビ系月10ドラマ『南田南弁護士は天才肌』（毎週月曜　後10：00）の第3話が2日に放送され、主人公が追い込まれる展開となった。　同作は、Netflixシリーズ『ウ・ヨンウ弁護士は天才肌』の日本版リメイク。自閉スペクトラム症の新人弁護士・南田南（芦田）が社会という大海原へと乗り出し、さまざまな壁にぶつかりながらも、独自の視点とひらめきで数々の難題に挑むハートフル法廷ドラマ。同僚や友人、家族とのつながりを通して、弁護士として、そして一人の人間として成長していく姿を温かく描く。",
+          "url": "https://www.oricon.co.jp/news/2490755/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-11-04T08:04:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2491000/2490755/20261101_133121_p_o_28921306.jpg",
+          "language": "ja"
+        },
         {
           "title": "『南田南弁護士』第3話ゲスト俳優に大反響「演技力すさまじくて思わず検索」 自閉スペクトラム症の男性演じた大政凜の経歴／語っていたこと",
           "description": "動画ニュース｜　俳優・芦田愛菜が主演を務める、カンテレ・フジテレビ系月10ドラマ『南田南弁護士は天才肌』（毎週月曜　後10：00）の第3話が、2日に放送され、ゲストキャストを務めた大政凜に注目を浴びている。　同作は、Netflixシリーズ『ウ・ヨンウ弁護士は天才肌』の日本版リメイク。自閉スペクトラム症の新人弁護士・南田南（芦田）が社会という大海原へと乗り出し、さまざまな壁にぶつかりながらも、独自の視点とひらめきで数々の難題に挑むハートフル法廷ドラマ。同僚や友人、家族とのつながりを通して、弁護士として、そして一人の人間として成長していく姿を温かく描く。",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-11-04T07:15:00Z",
           "image": "https://japan.cnet.com/storage/2026/11/04/6463430c5f7bfc19055cfb3bc83071fb/siri_1104_large.jpg",
           "language": "ja"
-        },
-        {
-          "title": "GMO熊谷社長が被害公表当日にシャンパンパーティを満喫していた「タキシード姿で美女2人に囲まれた写真が…」（文春オンライン）",
-          "description": "GMOインターネットグループの熊谷正寿社長（63）がサイバー攻撃の被害を公表した当日の夜、豪華なシャンパンパーティに参加していたことが、「 週刊文春 」の取材でわかった。【画像】サイバー攻撃被害を公",
-          "url": "https://news.yahoo.co.jp/articles/0e09950691ea235bb745f6e56b69107caef37a26",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-11-04T07:12:16Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00093447-bunshun-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "『龍が如く極3 / 3外伝』60%オフ、Switch2版『ペルソナ3 リロード』40％オフ。セガのコンシューマー版セールが開催",
-          "description": "『龍が如く 極３ / 龍が如く３外伝 Dark Ties』や2『ペルソナ３ リロード』などがお得なセガのセールが開催されている。",
-          "url": "https://www.famitsu.com/article/202611/93007",
-          "source": {
-            "name": "ファミ通"
-          },
-          "publishedAt": "2026-11-04T07:03:00Z",
-          "image": "https://cimg.kgl-systems.io/camion/files/93007/thumbnail_QHVF.jpg?x=1280",
-          "language": "ja"
-        },
-        {
-          "title": "『GTA6』事前DLは日本時間11月10日開始！最大212GB必要―地図は公式サイトから無料ダウンロード配布",
-          "description": "最大212GBの容量確保を忘れずに。",
-          "url": "https://www.inside-games.jp/article/2026/11/04/190352.html",
-          "source": {
-            "name": "インサイド"
-          },
-          "publishedAt": "2026-11-04T06:45:02Z",
-          "image": "https://www.inside-games.jp/imgs/ogp_f/1803240.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ブラジル&パラグアイ戦に臨む日本代表メンバーが発表 南野、町田らが復帰へ ドイツ2部FW福田が初招集",
-          "description": "日本サッカー協会（JFA）は、11月の国際Aマッチに臨む代表メンバー28人を発表した。対戦するブラジル代表のメンバーはこちらワールドカップ後、初のAマッチデーとなった9・10月シリーズでは、4試合を",
-          "url": "https://news.yahoo.co.jp/articles/26927695d2e3caad5410baf3ca4050aa25cdc2d4",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-11-04T05:16:07Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00010018-theworldw-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "0.0』すべての実写映画の中で“日本歴代1位”の初日興行収入を記録、声優の黒沢ともよさんが出演していることも話題に",
-          "description": "祝日でもありゴジラの日でもある11月3日に公開された。邦画や洋画を問わない記録的な数字で、ゴジラシリーズ史上初となる100億円突破を狙えるロケットスタート。赤子を抱えつつ「助けてくださーい！」と叫んでいた女性役（※凄惨な場面）と仄めかされている。『シン・ゴジラ』総監督の庵野秀明氏のカメオ出演も話題に",
-          "url": "https://news.denfaminicogamer.jp/news/2611042a",
-          "source": {
-            "name": "電ファミニコゲーマー"
-          },
-          "publishedAt": "2026-11-04T05:10:00Z",
-          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/ogp5.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【日本代表】福田師王が初選出！久保建英、鈴木彩艶らも ブラジル、パラグアイ戦のメンバー発表",
-          "description": "日本サッカー協会（JFA）は4日、千葉市内で会見を開き、シンガポールで開催される「MIZUHO BLUE CHALLENGE THE KALLANG FOOT… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-          "url": "https://www.nikkansports.com/soccer/japan/news/202611040000352.html",
-          "source": {
-            "name": "日刊スポーツ"
-          },
-          "publishedAt": "2026-11-04T05:09:00Z",
-          "image": "https://www.nikkansports.com/soccer/japan/news/img/202611040000352-w500_0.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "日本代表、ブラジル＆パラグアイ戦へメンバー発表！ 南野拓実が復帰、福田師王が初招集",
-          "description": "日本サッカー協会（JFA）は4日、11月の活動に臨む日本代表メンバーを発表した。 　11月にシンガポール遠征を行う日本代表は、『MIZUHO BLUE CHA···",
-          "url": "https://www.soccer-king.jp/news/japan/national/20261104/2224321.html",
-          "source": {
-            "name": "サッカーキング"
-          },
-          "publishedAt": "2026-11-04T05:01:05Z",
-          "image": "https://www.soccer-king.jp/wp-content/uploads/2026/11/261104_japan.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "iPhone Duoが欲しくなってきたのはClaudeのせい",
-          "description": "そこから刺されるとは思いませんでした。Claudeの開発元Anthropicが「ClaudeアプリをアップデートしてiPhone Duoに対応させたよ〜」とXで発表しています。「2画面分割表示」に対応したという感じなのですが、よくよく想像す",
-          "url": "https://www.gizmodo.jp/article/2611-iphone-duo-claude/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-11-04T05:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/11/04/000a8015-7716-4154-a36d-a0eda583e829/original.png?w=1200&h=630",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Trump rejects blame for Republican losses in midterm electio",
-          "description": "Former US President Donald Trump has rejected blame for Republican losses in the midterm elections, saying the party's candidates failed to inspire voters.",
-          "url": "https://punchng.com/trump-rejects-blame-for-republican-losses-says-candidates-failed-to-inspire-voters/",
+          "title": "Central Bank plans to make 120",
+          "description": "The Central Bank has announced plans to make around 120 to 140 voluntary redundancies from its workforce as it seeks to reduce its overall pay costs.",
+          "url": "https://www.rte.ie/news/business/2026/1104/1597960-central-bank-set-to-cut-up-to-140-jobs/",
           "source": {
-            "name": "Punch Newspapers"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-11-04T07:27:43Z",
-          "image": "https://cdn.punchng.com/wp-content/uploads/2026/09/22162503/AFP__20260922__C8ZV3EG__v1__MidRes__DonaldTrumpSSpeechBeforeUnGeneralAssembly_1790090703-1200x630.webp",
+          "publishedAt": "2026-11-04T13:19:03Z",
+          "image": "https://www.rte.ie/images/00181cff-1600.jpg",
           "language": "en"
         },
         {
-          "title": "What to know about Abdul El-Sayed's wife and family",
-          "description": "After months of campaigning, a bruising primary and a last-minute endorsement flip, Michigan Democrat Abdul El-Sayed defeated Republican Mike Rogers.",
-          "url": "https://www.usatoday.com/story/news/politics/2026/11/04/abdul-el-sayed-wife-family-daughters/92597538007/",
+          "title": "Hearse carrying body on the Yangon-Mandalay Expressway bursts, crashes into curb",
+          "description": "YANGON: A hearse carrying a dead body on the Yangon-Mandalay Expressway suffered a puncture and crashed into a roadside curb on Wednesday (Nov 4), according to the Highway Maintenance and Supervision Committee.",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/04/hearse-carrying-body-on-the-yangon-mandalay-expressway-bursts-crashes-into-curb",
           "source": {
-            "name": "USA Today"
+            "name": "The Star"
           },
-          "publishedAt": "2026-11-04T07:26:00Z",
-          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/01/USAT/92548867007-getty-images-2302452890.jpg?crop=3871,2178,x0,y201&width=3200&height=1801&format=pjpg&auto=webp",
+          "publishedAt": "2026-11-04T13:19:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/11/04/4197218.jpg",
           "language": "en"
         },
         {
-          "title": "3 held over alleged RM1mil bribes to cops",
-          "description": "The suspects allegedly paid off police personnel to secure protection for illegal cigarette smuggling activities.",
-          "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/04/3-held-over-alleged-rm1mil-bribes-to-cops",
+          "title": "Haylou Watch Hyper review: highly competitive, budget-friendly smartwatch with advanced navigation",
+          "description": "We were pleasantly surprised by how useful a smartwatch that costs less than €80 can be",
+          "url": "https://www.irishmirror.ie/lifestyle/technology/haylou-watch-hyper-review-highly-37842564",
           "source": {
-            "name": "Free Malaysia Today"
+            "name": "Irish Mirror"
           },
-          "publishedAt": "2026-11-04T07:26:00Z",
-          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2022/10/1_SPRM_MACC_LOGO_FMT_23092021.jpg",
+          "publishedAt": "2026-11-04T13:18:45Z",
+          "image": "https://i2-prod.irishmirror.ie/article37842613.ece/ALTERNATES/s1200d/0_HaylouWatchHyper2.jpg",
           "language": "en"
         },
         {
-          "title": "Democrat Abdul El-Sayed wins Michigan’s high-stakes Senate race",
-          "description": "Abdul El-Sayed, an epidemiologist and former public health official aligned with the Democratic Party’s left flank, has won Michigan’s highly hostile Senate race, defeating his Republican rival, former Rep.",
-          "url": "https://www.nbcnews.com/politics/2026-election/democrat-abdul-el-sayed-wins-michigans-high-stakes-senate-race-rcna603315",
+          "title": "Confirmed: Real Madrid duo Brahim Diaz, Yan Diomande nominated for 2026 CAF Awards",
+          "description": "Real Madrid versatile attacker Brahim Diaz has been nominated for the 2026 Confederations of African Football (CAF) Player of the Year award.Meanwhile, the Merengues’ summer signing, Yan Diomande, f...",
+          "url": "https://sports.yahoo.com/articles/confirmed-real-madrid-duo-brahim-131700923.html",
           "source": {
-            "name": "NBC News"
+            "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-11-04T07:26:00Z",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261021-Abdul-El-Sayed-michigan-senate-midterm-vsb-1c83db.jpg",
+          "publishedAt": "2026-11-04T13:17:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/1b1128a0cd6a004a56422515e8af1ff39470dad4ca04926ede3c207f55bfd9f0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmadrid_universal_articles_561%2F9dde18f6ce18f500c91fffffdf6c657a.jpg",
           "language": "en"
         },
         {
-          "title": "BREAKING: US Midterm Elections: Democrats Dominate House Of Representatives, Take Control Of Congress",
-          "description": "Republicans have so far secured 136 seats, while Democrats have flipped 28 Republican-held seats, recording a net gain of 28 seats.",
-          "url": "https://saharareporters.com/2026/11/04/breaking-us-midterm-elections-democrats-dominate-house-representatives-take-control",
+          "title": "‘A win the size of Texas’: Democrats celebrate shrinking Republican dominance in a big state",
+          "description": "Voters watched results in near disbelief as James Talarico claimed victory in Senate race and Gina Hinojosa was elected state’s first Latina governor",
+          "url": "https://www.theguardian.com/us-news/2026/nov/04/texas-democrats-victory-talarico-hinojosa",
           "source": {
-            "name": "Sahara Reporters"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-11-04T07:25:30Z",
-          "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
+          "publishedAt": "2026-11-04T13:17:00Z",
+          "image": "https://i.guim.co.uk/img/media/4107de6b72f260e4afd687a62e5f2b64f15b2960/729_0_7209_5768/master/7209.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64d407eb1c6cb1583f9745ede2f14ad7",
           "language": "en"
         },
         {
-          "title": "Latest Chrome Release Fixes 213 Vulnerabilities, 7 Critical; 14 Reports Aided by AI",
-          "description": "Google on November 3 released \"Chrome 157,\" the stable desktop version of its Chrome browser, along with an Android version. The update includes 213…",
-          "url": "https://finance.biggo.com/news/66b1e70b-0580-4e14-b862-fafb6aa1af8a",
+          "title": "Africa Must Stop Being The Prize In World’s Games -Amandla Parapo 2026",
+          "description": "Africa holds the critical minerals powering the green transition, the land to feed a hungry world, the young people to drive the digital economy, and the markets global corporations seek. Yet it remains perpetually negotiating from a position of weakness. That contradiction dominated the inaugural Amandla Parapọ 2026, convened by the Amandla Institute for Policy...",
+          "url": "https://independent.ng/africa-must-stop-being-the-prize-in-worlds-games-amandla-parapo-2026/",
           "source": {
-            "name": "BigGo Finance"
+            "name": "Independent Newspaper Nigeria"
           },
-          "publishedAt": "2026-11-04T07:25:00Z",
-          "image": "https://img.biggo.com/kt6SdsBhj0jb1qDIQpCFHDlnmJam_8hZUOVQjvwxuzo/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzY2YjFlNzBiLTA1ODAtNGUxNC1iODYyLWZhZmI2YWExYWY4YV8xNzkzNzc3MzE3X2RlZmF1bHQud2VicA.jpg",
+          "publishedAt": "2026-11-04T13:16:13Z",
+          "image": "https://independent.ng/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-13.52.48-e1793798136703.jpeg",
           "language": "en"
         },
         {
-          "title": "Trump's midterm defeat has turned him into a 'lame duck': From Iran war to vetoes, what could he do next?",
-          "description": "Will Trump cooperate with Democrats or use his remaining powers to challenge them? From possible renewed military action against Iran to veto threats and his White House legacy projects, several battles lie ahead.",
-          "url": "https://www.moneycontrol.com/world/trump-s-midterm-defeat-has-turned-him-into-a-lame-duck-from-iran-war-to-vetoes-what-could-he-do-next-article-14068842.html",
+          "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
+          "description": "Private-sector job growth held steady in October, with gains spread across sectors",
+          "url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
           "source": {
-            "name": "Moneycontrol.com"
+            "name": "CNBC"
           },
-          "publishedAt": "2026-11-04T07:24:37Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261104072409_Trump-Midterm-3.jpg",
+          "publishedAt": "2026-11-04T13:15:03Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108476512-1793219404860-gettyimages-2301922154-US_JOBLESS_CLAIMS.jpeg?v=1793219480&w=1920&h=1080",
           "language": "en"
         },
         {
-          "title": "Accused magistrate barred from Mahalapye Magistrate Court",
-          "description": "Senior Magistrate Kedirileng Moruakgomo who faces two counts of threat to kill for threatening to kill her co-workers has been barred from entering Mahalapye Magistrate Court, as one of her bail conditions.",
-          "url": "https://www.mmegi.bw/news/accused-magistrate-barred-from-mahalapye-magistrate-court/news",
+          "title": "RTÉ sports staff 'not happy' about Newstalk presenter Ger Gilroy coming aboard, broadcaster admits",
+          "description": "RTÉ's Head of Sport Declan McBennett was informed four days before the appointment was announced, the Oireachtas Media Committee heard",
+          "url": "https://www.irishexaminer.com/news/politics/arid-41933157.html",
           "source": {
-            "name": "Mmegi Online"
+            "name": "Irish Examiner"
           },
-          "publishedAt": "2026-11-04T07:24:13Z",
-          "image": "https://www.mmegi.bw/mmegi/uploads/images/2026/11/04/183271.jpg",
+          "publishedAt": "2026-11-04T13:13:00Z",
+          "image": "https://www.irishexaminer.com/cms_media/module_img/10563/5281992_5_org_IMG-20251217-WA0004.jpg",
           "language": "en"
         },
         {
-          "title": "Abdul El-Sayed wins in high-profile Michigan race, making history as first-ever Muslim senator",
-          "description": "He is the first Muslim elected to the upper chamber of Congress.",
-          "url": "https://www.thejournal.ie/abdul-el-sayed-michigan-senate-7214623-Nov2026/",
+          "title": "World Series champion Teixeira wins US House seat as former NFL reporter Tafoya’s Senate bid fails",
+          "description": "Former World Series champion turned Republican politician Mark Teixeira will represent ⁠Texas’s 21st Congressional District in Washington",
+          "url": "https://www.theguardian.com/sport/2026/nov/04/mark-teixeira-michele-tafoya-midterm-elections",
           "source": {
-            "name": "The Journal"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-11-04T07:23:00Z",
-          "image": "https://img2.thejournal.ie/article/7214623/river/?height=400&version=7214634",
+          "publishedAt": "2026-11-04T13:13:00Z",
+          "image": "https://i.guim.co.uk/img/media/5c290c7f681df99a32040b0bb121484c8d019e42/254_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ade6a0db994f8e06454f2f1477ae021",
           "language": "en"
         },
         {
-          "title": "Diabetic Retinopathy Threatens the Sight of Millions: Grewal Eye Institute Calls for Early Screening Ahead of World Diabetes Day",
-          "description": "Diabetic Retinopathy Threatens the Sight of Millions: Grewal Eye Institute Calls for Early Screening Ahead of World Diabetes Day",
-          "url": "https://www.indianewscalling.com/news/191625-diabetic-retinopathy-threatens-the-sight-of-millions-grewal-eye-institute-calls-for-early-screening.aspx",
+          "title": "‘Not been this excited in a long time’: US expats ride the blue wave at Australian midterms watch parties",
+          "description": "US voters, their Australian partners and British spectators crowd around pub TVs to watch the historic election results roll in",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/04/not-been-this-excited-in-a-long-time-us-expats-ride-the-blue-wave-at-australian-midterms-watch-parties",
           "source": {
-            "name": ":: India News Calling ::"
+            "name": "The Guardian"
           },
-          "publishedAt": "2026-11-04T07:22:14Z",
-          "image": "https://www.indianewscalling.com/images/article/article191625.jpg",
+          "publishedAt": "2026-11-04T13:12:00Z",
+          "image": "https://i.guim.co.uk/img/media/ce46b1c0f6f221fd38efbad95ec2b74c290fcd87/1246_0_6330_5064/master/6330.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2b8219f086f74de9db5b874a002fe34d",
           "language": "en"
         }
       ]
