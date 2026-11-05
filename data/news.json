@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-11-05T01:19:45.397Z",
+  "updatedAt": "2026-11-05T10:26:50.576Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "春のiPhone 18、2nmチップと大容量バッテリー搭載の予測。値上がりもするでしょう",
+          "description": "iPhone 18の最新リーク情報を解説。2nmチップや大容量バッテリー搭載による性能向上と、気になる価格改定の予測を分かりやすく紹介します。",
+          "url": "https://www.gizmodo.jp/article/2611-iphone-18-rumors-2nm-chip-battery/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-11-04T22:15:00Z",
+          "image": "https://media.loom-app.com/loom/2026/11/04/13bc41d8-05a1-4a55-a19d-ba1fc6665a69/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "Apple Watch、会話を振り返るレコーダー機能をテスト中。便利そうで、ちょっと怖い",
+          "description": "Apple Watchで会話を15秒巻き戻す機能やAI要約機能のテストが開始。便利さの裏にあるプライバシーへの懸念を解説します。",
+          "url": "https://www.gizmodo.jp/article/2611-apple-watch-live-rewind-siri-recaps/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-11-04T22:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/11/04/b39f7ef3-8e4e-43c1-b53c-7958eda66d7d/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "麻生太郎氏の大誤算…「福岡市長選」がカオス状態に なぜ「高島宗一郎」市長は“後継指名”をしなかったのか",
+          "description": "九州を代表する政令指定都市、福岡市。国内はもちろん、海外からも多くの観光客が訪れる日本屈指の大都市の、トップを決める市長選の火蓋が切られた（11月1日告示、11月15日投開票）。今回の選挙は任期満了",
+          "url": "https://news.yahoo.co.jp/articles/044f4ffa74c0f8d42f60115c4933735d7bf13ceb",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-11-04T21:05:47Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261105-01517982-shincho-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "日本語に対応したiPhoneの「Siri AI」で名刺を文字起こし！ PFUの小型スキャナー「ScanSnap iX110」活用",
+          "description": "バッテリー内蔵でどこでも使えるハンディ型のドキュメントスキャナー「ScanSnap iX110」の活用を、第297回から実践している。",
+          "url": "https://internet.watch.impress.co.jp/docs/column/homewifi/2153078.html",
+          "source": {
+            "name": "INTERNET Watch"
+          },
+          "publishedAt": "2026-11-04T21:00:00Z",
+          "image": "https://internet.watch.impress.co.jp/img/iw/list/2153/078/housewifi2_304-01.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "今年の高校サッカー応援マネジャーは”特技・リフティング” 歴代最高４９回の現役女子高生・堀口真帆「持ち前の明るさで皆さんを楽しくハッピーに応援」",
+          "description": "日本テレビ系で今冬に中継される「第１０５回全国高校サッカー選手権大会」（１２月２８日開幕）の２２代目応援マネジャーに、現役高校生の女優・堀口真帆（１８）が就任したことが４日、分かった。",
+          "url": "https://hochi.news/articles/20261104-OHT1T51364.html",
+          "source": {
+            "name": "スポーツ報知"
+          },
+          "publishedAt": "2026-11-04T20:00:00Z",
+          "image": "https://hochi.news/images/2026/11/04/20261104-OHT1I51683-C.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ネタニヤフ氏の政敵ら、首相抜きの政権樹立狙う 米議会での民主勝利受け",
+          "description": "Steven Scheer Alexander Cornwell[エルサレム ４日 ロイター] - イスラエルのネタニヤフ首相の政敵らは、米民主党が議会を制したことは、同氏が米国による何世代にもわた",
+          "url": "https://news.yahoo.co.jp/articles/cd6dd1e2af302d1eff1b4d9f26bd0cfe33afe890",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-11-04T14:55:30Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000128-reut-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "『ポリティカルパン』香取慎吾が“内閣総理大臣役”でサプライズ登場 出演オファーに「僕が一番びっくりしています（笑）」【コメントあり】",
+          "description": "ニュース｜　俳優の石原さとみが主演を務めるフジテレビ水10ドラマ『ポリティカルパン』（毎週水曜　後10：00）が4日に放送され、第5話ラストにて新内閣総理大臣として香取慎吾がサプライズ登場した。香取演じる総理大臣は、ニッポニアの救世主になるのか。　香取が演じるのは、物語の舞台となる架空の国・ニッポニアの新内閣総理大臣・玉矢吉実（たまや・よしみ）。ニッポニアの与党・国自党の中で非主流派の二世議員だったが、キングメーカー・小早川士郎の後押しによって、誰も予想していなかった中、戦後最年少の総理大臣に就任。キャッチーで人当たりのよいイメージから高い支持率を獲得する。その実、士郎たちにとっては『軽い神輿』である。果たして玉矢は、ニッポニアの救世主になるのか。",
+          "url": "https://www.oricon.co.jp/news/2490682/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-11-04T13:54:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2491000/2490682/20261104_124915_p_o_30189523.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "タップしなくてもスマホ乗っ取られるかも。Androidの11月更新で重大な脆弱性を修正",
+          "description": "Androidの11月セキュリティ更新で重大な脆弱性を修正。タップ不要で攻撃を受けるおそれがあるため、設定画面からアップデートの適用状況を確認しましょう。",
+          "url": "https://www.gizmodo.jp/article/2611-android-nov-security-update-vulnerability/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-11-04T13:30:00Z",
+          "image": "https://media.loom-app.com/loom/2026/11/04/971602bf-f3bc-4baa-9b07-40e66c650a6f/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
         {
           "title": "柴咲コウ「うまくいかなかったとしても、その工程を楽しみたい」ワクワクする日々の根源は、衰え知らずの好奇心",
           "description": "柴咲コウさんインタビュー",
@@ -17,214 +105,126 @@
           "language": "ja"
         },
         {
-          "title": "CORSAIR、わずか37gの無線ゲーミングマウス 照準をAI補正するPureVector搭載",
-          "description": "CORSAIRは無線ゲーミングマウス「SABRE v3 PRO PureVector」シリーズを発表した。最軽量のUltralightは肉抜き穴なしで約37gを実現し、日本では11月6日に2万8980…",
-          "url": "https://finance.biggo.jp/news/6f7b3a9b-9bf7-46cc-aaf1-61400c9fa8e8",
+          "title": "冥王星を外した「惑星の定義」、実は太陽系の外で通用しない 月か惑星か天文学者が迷う天体も",
+          "description": "ある星を思い浮かべてほしい。質量は太陽の半分ほどで、ぼんやりと赤い光を放っている恒星だ。その周囲を5000年周期でゆっくりと回っている巨大な天体は褐色矮星と呼ばれており、惑星よりもはるかに重いが、恒",
+          "url": "https://news.yahoo.co.jp/articles/bd56289b60c54271bd214f9980495c2fa779a4c9",
           "source": {
-            "name": "BigGo ファイナンス"
+            "name": "Yahoo!ニュース"
           },
-          "publishedAt": "2026-11-04T09:26:00Z",
-          "image": "https://img.biggo.com/RuYotqV8h4WRO43WzogGyBx4OqQeMY3u-Q4Y8jw9yw4/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzZmN2IzYTliLTliZjctNDZjYy1hYWYxLTYxNDAwYzlmYThlOF8xNzkzNzg0NjQ1X2RlZmF1bHQud2VicA.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【米中間選挙2026】 民主党、上下両院で主導権を奪う トランプ政権を有権者が否定",
-          "description": "アメリカで3日、中間選挙の投票があった。トランプ政権2期目の2年間に対して評価を下す選挙とされ、景気、生活費の上昇、中東での戦争などをめぐって、有権者が票を投じた。夜を迎えた州から順次、投票が締め切られ、開票が進められた。米メディアは同夜、連邦議会の上下両院で野党・民主党が主導権を奪い返すことが確実だと報じた。上院については選挙前、トランプ氏率いる共和党が過半数を維持するとの見方もあったが、多くの州で民主党が次々と共和党から議席を奪った。",
-          "url": "https://www.bbc.com/japanese/articles/cmly046vw000o",
-          "source": {
-            "name": "BBC"
-          },
-          "publishedAt": "2026-11-04T09:11:15Z",
-          "image": "https://ichef.bbci.co.uk/news/1200/branded_japanese/f668/live/b8082060-d811-11f1-a701-fddedf244c16.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "PS Storeで「BLACK FRIDAY SALE」第一弾開催！「ACE COMBAT 8」や「モンスターハンターワイルズ」などがセール！",
-          "description": "PlayStation Storeで「BLACK FRIDAY SALE」第一弾が開催中です。「ACE COMBAT 8: WINGS OF THEVE DELUXE EDITION」などの数々のタイトルをお得な価格で購入できます。セール第一弾は2026年11月20日(金) 23時59分までです。…",
-          "url": "https://saiganak.com/ja/news/black-friday-sale-ps-store-sale-nov2026/",
-          "source": {
-            "name": "Saiga NAK"
-          },
-          "publishedAt": "2026-11-04T09:03:52Z",
-          "image": "https://i0.wp.com/uploads.saigacdn.com/2026/11/black-friday-sale-ps-store-sale2026-00.jpg?resize=1200,630",
-          "language": "ja"
-        },
-        {
-          "title": "福田師王がA代表初選出!! 神村学園から即ドイツ挑戦の22歳に森保監督も太鼓判「ブンデス1部でも十分に通用する」",
-          "description": "日本代表の森保一監督が4日、今月のシンガポール遠征に臨む招集メンバー28人を発表し、22歳のFW福田師王(カールスルーエ)を初招集した。神村学園高出身の福田は高校卒業後の2023年、Jリーグを経由せずにボルシ...",
-          "url": "https://web.gekisaka.jp/news/japan/detail/?462513-462513-fl",
-          "source": {
-            "name": "ゲキサカ"
-          },
-          "publishedAt": "2026-11-04T08:55:00Z",
-          "image": "https://f.image.geki.jp/data/image/news/2560/463000/462513/news_462513_1.jpg?time=20261104175614",
-          "language": "ja"
-        },
-        {
-          "title": "米中間選挙、民主党優勢でデータセンター規制に警戒 日経平均急落、キオクシア一時1万円割れ",
-          "description": "米中間選挙の開票が始まった11月4日の東京市場は狼狽（ろうばい）、一種のパニックともいえる相場展開となった。同日の日経平均株価は2日終値（6万3,081円86銭）を挟んで始まったが、午前に下げ幅を広げた。11月3日に投開票日を迎えた…",
-          "url": "https://media.rakuten-sec.net/articles/-/53949",
-          "source": {
-            "name": "トウシル"
-          },
-          "publishedAt": "2026-11-04T08:30:00Z",
-          "image": "https://media.rakuten-sec.net/mwimgs/c/b/-/img_cb2ac00c1e0c9f2f778f328aa52de0c6168115.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "グーグル、11月のAndroidパッチを公開：216件の脆弱性、うち23件が重大、タップ不要で到達可能なRCEが1件",
-          "description": "グーグルの11月Androidセキュリティ情報では216件の脆弱性が修正され、うち23件が「重大」と評価された。前月の25件から大幅に増加している。最も深刻なのはCVE-…",
-          "url": "https://finance.biggo.jp/news/61c37241-39c8-4c3c-85c7-60c22d2adc01",
-          "source": {
-            "name": "BigGo ファイナンス"
-          },
-          "publishedAt": "2026-11-04T08:25:00Z",
-          "image": "https://img.biggo.com/UQ0VgwER_X-tQWHJsusCSUYJ4Y7mGcL-rclAvmBS5CI/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzYxYzM3MjQxLTM5YzgtNGMzYy04NWM3LTYwYzIyZDJhZGMwMV8xNzkzNzgwOTIwX2RlZmF1bHQuanBn.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "南田南（芦田愛菜）を追い詰めた検事に「腹立つ」「最低すぎる」怒りの声 演じた俳優が心境【南田南弁護士は天才肌】",
-          "description": "ニュース｜　俳優・芦田愛菜が主演を務める、カンテレ・フジテレビ系月10ドラマ『南田南弁護士は天才肌』（毎週月曜　後10：00）の第3話が2日に放送され、主人公が追い込まれる展開となった。　同作は、Netflixシリーズ『ウ・ヨンウ弁護士は天才肌』の日本版リメイク。自閉スペクトラム症の新人弁護士・南田南（芦田）が社会という大海原へと乗り出し、さまざまな壁にぶつかりながらも、独自の視点とひらめきで数々の難題に挑むハートフル法廷ドラマ。同僚や友人、家族とのつながりを通して、弁護士として、そして一人の人間として成長していく姿を温かく描く。",
-          "url": "https://www.oricon.co.jp/news/2490755/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-11-04T08:04:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2491000/2490755/20261101_133121_p_o_28921306.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "『南田南弁護士』第3話ゲスト俳優に大反響「演技力すさまじくて思わず検索」 自閉スペクトラム症の男性演じた大政凜の経歴／語っていたこと",
-          "description": "動画ニュース｜　俳優・芦田愛菜が主演を務める、カンテレ・フジテレビ系月10ドラマ『南田南弁護士は天才肌』（毎週月曜　後10：00）の第3話が、2日に放送され、ゲストキャストを務めた大政凜に注目を浴びている。　同作は、Netflixシリーズ『ウ・ヨンウ弁護士は天才肌』の日本版リメイク。自閉スペクトラム症の新人弁護士・南田南（芦田）が社会という大海原へと乗り出し、さまざまな壁にぶつかりながらも、独自の視点とひらめきで数々の難題に挑むハートフル法廷ドラマ。同僚や友人、家族とのつながりを通して、弁護士として、そして一人の人間として成長していく姿を温かく描く。",
-          "url": "https://www.oricon.co.jp/news/2490735/full/",
-          "source": {
-            "name": "オリコンニュース"
-          },
-          "publishedAt": "2026-11-04T07:21:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2491000/2490735/20261101_133120_p_o_61561289.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Siri AI、他社アプリで「予約・注文操作」が可能に 連携機能を全開発者に開放",
-          "description": "Appleは11月3日（米国時間）、音声アシスタント「Siri AI」から他社アプリの機能を利用できる連携機能について、全開発者向けのプレビュー提供を開始した。アプリ側が対応することで、利用者は自分の言葉で話しかけ、配送状況の確認や予約、商品の注文などを実行できるようになる。",
-          "url": "https://japan.cnet.com/article/35254366/",
-          "source": {
-            "name": "CNET Japan"
-          },
-          "publishedAt": "2026-11-04T07:15:00Z",
-          "image": "https://japan.cnet.com/storage/2026/11/04/6463430c5f7bfc19055cfb3bc83071fb/siri_1104_large.jpg",
+          "publishedAt": "2026-11-04T12:03:30Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00010000-nknatiogeo-000-1-view.jpg?exp=10800",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Central Bank plans to make 120",
-          "description": "The Central Bank has announced plans to make around 120 to 140 voluntary redundancies from its workforce as it seeks to reduce its overall pay costs.",
-          "url": "https://www.rte.ie/news/business/2026/1104/1597960-central-bank-set-to-cut-up-to-140-jobs/",
+          "title": "Hackers exploited iOS and Android flaws to infect phones",
+          "description": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+          "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
           "source": {
-            "name": "RTE.ie"
+            "name": "Ars Technica"
           },
-          "publishedAt": "2026-11-04T13:19:03Z",
-          "image": "https://www.rte.ie/images/00181cff-1600.jpg",
+          "publishedAt": "2026-11-04T22:26:49Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg",
           "language": "en"
         },
         {
-          "title": "Hearse carrying body on the Yangon-Mandalay Expressway bursts, crashes into curb",
-          "description": "YANGON: A hearse carrying a dead body on the Yangon-Mandalay Expressway suffered a puncture and crashed into a roadside curb on Wednesday (Nov 4), according to the Highway Maintenance and Supervision Committee.",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/04/hearse-carrying-body-on-the-yangon-mandalay-expressway-bursts-crashes-into-curb",
-          "source": {
-            "name": "The Star"
-          },
-          "publishedAt": "2026-11-04T13:19:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/11/04/4197218.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Haylou Watch Hyper review: highly competitive, budget-friendly smartwatch with advanced navigation",
-          "description": "We were pleasantly surprised by how useful a smartwatch that costs less than €80 can be",
-          "url": "https://www.irishmirror.ie/lifestyle/technology/haylou-watch-hyper-review-highly-37842564",
-          "source": {
-            "name": "Irish Mirror"
-          },
-          "publishedAt": "2026-11-04T13:18:45Z",
-          "image": "https://i2-prod.irishmirror.ie/article37842613.ece/ALTERNATES/s1200d/0_HaylouWatchHyper2.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Confirmed: Real Madrid duo Brahim Diaz, Yan Diomande nominated for 2026 CAF Awards",
-          "description": "Real Madrid versatile attacker Brahim Diaz has been nominated for the 2026 Confederations of African Football (CAF) Player of the Year award.Meanwhile, the Merengues’ summer signing, Yan Diomande, f...",
-          "url": "https://sports.yahoo.com/articles/confirmed-real-madrid-duo-brahim-131700923.html",
+          "title": "Fabregas: ‘A wonderful night for Como, but must stay humble’ after 9-1 victory",
+          "description": "Cesc Fabregas admits the 9-1 win in Lens was ‘a wonderful night for Como, but we need to keep our feet on the ground’ as Champions League ambition starts to genuinely build.The Lariani had won bot...",
+          "url": "https://sports.yahoo.com/articles/fabregas-wonderful-night-como-must-222300586.html",
           "source": {
             "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-11-04T13:17:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/1b1128a0cd6a004a56422515e8af1ff39470dad4ca04926ede3c207f55bfd9f0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmadrid_universal_articles_561%2F9dde18f6ce18f500c91fffffdf6c657a.jpg",
+          "publishedAt": "2026-11-04T22:23:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/7ebee23e8dc80b039fbc44b1ac9d0fb6b8379bb1034b5ca9498d927d605c56b9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_italia_articles_132%2Fc2b1aab8cd895822f4aad8ba456f2ba2.jpg",
           "language": "en"
         },
         {
-          "title": "‘A win the size of Texas’: Democrats celebrate shrinking Republican dominance in a big state",
-          "description": "Voters watched results in near disbelief as James Talarico claimed victory in Senate race and Gina Hinojosa was elected state’s first Latina governor",
-          "url": "https://www.theguardian.com/us-news/2026/nov/04/texas-democrats-victory-talarico-hinojosa",
+          "title": "Jamie Foxx and girlfriend Alyce Huckstepp welcome their first child together",
+          "description": "The news comes just days after he was partying up a storm at the Melbourne Cup.",
+          "url": "https://www.nine.com.au/entertainment/celebrity/jamie-foxx-alyce-huckstepp-welcome-first-child-reports-20261105-p61bkr.html",
           "source": {
-            "name": "The Guardian"
+            "name": "Nine.com.au"
           },
-          "publishedAt": "2026-11-04T13:17:00Z",
-          "image": "https://i.guim.co.uk/img/media/4107de6b72f260e4afd687a62e5f2b64f15b2960/729_0_7209_5768/master/7209.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64d407eb1c6cb1583f9745ede2f14ad7",
+          "publishedAt": "2026-11-04T22:22:24Z",
+          "image": "https://static.ffx.io/images/$zoom_0.4191%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_190%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/476d91875e276ab404eda9217ba554923975aa58",
           "language": "en"
         },
         {
-          "title": "Africa Must Stop Being The Prize In World’s Games -Amandla Parapo 2026",
-          "description": "Africa holds the critical minerals powering the green transition, the land to feed a hungry world, the young people to drive the digital economy, and the markets global corporations seek. Yet it remains perpetually negotiating from a position of weakness. That contradiction dominated the inaugural Amandla Parapọ 2026, convened by the Amandla Institute for Policy...",
-          "url": "https://independent.ng/africa-must-stop-being-the-prize-in-worlds-games-amandla-parapo-2026/",
+          "title": "'Nothing to do': Young people hit hard by job shortage - youth worker",
+          "description": "Young jobless people are left feeling bored and apathetic as they struggle to find jobs or training opportunities, a youth worker says.",
+          "url": "https://www.rnz.co.nz/news/business/2355246/nothing-to-do-young-people-hit-hard-by-job-shortage-youth-worker",
           "source": {
-            "name": "Independent Newspaper Nigeria"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-11-04T13:16:13Z",
-          "image": "https://independent.ng/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-13.52.48-e1793798136703.jpeg",
+          "publishedAt": "2026-11-04T22:21:38Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--Y1P92R3R--/t_tohu-badge-facebook/f_auto/q_auto/4KPH1FV_census03_jpg",
           "language": "en"
         },
         {
-          "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
-          "description": "Private-sector job growth held steady in October, with gains spread across sectors",
-          "url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
+          "title": "Marooned in paradise: Albanese and the summit that could not have come at a worse time",
+          "description": "On balance, the PM had to go to CHOGM. But it cost him. There is no time to change plans for 2026. There is still time to be ruthless with the diary for 2027.",
+          "url": "https://www.theage.com.au/national/marooned-in-paradise-albanese-and-the-summit-that-could-not-have-come-at-a-worse-time-20261105-p61biq.html",
           "source": {
-            "name": "CNBC"
+            "name": "The Age"
           },
-          "publishedAt": "2026-11-04T13:15:03Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108476512-1793219404860-gettyimages-2301922154-US_JOBLESS_CLAIMS.jpeg?v=1793219480&w=1920&h=1080",
+          "publishedAt": "2026-11-04T22:20:37Z",
+          "image": "https://static.ffx.io/images/$zoom_0.2389%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_26/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/16776c842ca03d56f9d44a41c467797920269622",
           "language": "en"
         },
         {
-          "title": "RTÉ sports staff 'not happy' about Newstalk presenter Ger Gilroy coming aboard, broadcaster admits",
-          "description": "RTÉ's Head of Sport Declan McBennett was informed four days before the appointment was announced, the Oireachtas Media Committee heard",
-          "url": "https://www.irishexaminer.com/news/politics/arid-41933157.html",
+          "title": "President JD Vance says Republicans lost big because of war in Iran",
+          "description": "President Donald Trump earlier acknowledged the Iran war was a factor but stood defiant on his decision to launch the attacks.",
+          "url": "https://www.bbc.com/news/articles/cq9vz9de7yelo",
           "source": {
-            "name": "Irish Examiner"
+            "name": "BBC"
           },
-          "publishedAt": "2026-11-04T13:13:00Z",
-          "image": "https://www.irishexaminer.com/cms_media/module_img/10563/5281992_5_org_IMG-20251217-WA0004.jpg",
+          "publishedAt": "2026-11-04T22:20:35Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/75ae/live/39eb1dd0-d871-11f1-85ab-b3cc3b5498c6.jpg",
           "language": "en"
         },
         {
-          "title": "World Series champion Teixeira wins US House seat as former NFL reporter Tafoya’s Senate bid fails",
-          "description": "Former World Series champion turned Republican politician Mark Teixeira will represent ⁠Texas’s 21st Congressional District in Washington",
-          "url": "https://www.theguardian.com/sport/2026/nov/04/mark-teixeira-michele-tafoya-midterm-elections",
+          "title": "Ireland’s Population Crash on RTÉ One: Miriam O’Callaghan is compelling at the heart of this doc",
+          "description": "Television: The presenter explores plunging global birth rates with a gregarious, slightly anarchic presenting style",
+          "url": "https://www.irishtimes.com/culture/tv-radio/2026/11/04/irelands-population-crash-on-rte-one-miriam-ocallaghan-is-compelling-at-the-heart-of-this-doc/",
           "source": {
-            "name": "The Guardian"
+            "name": "The Irish Times"
           },
-          "publishedAt": "2026-11-04T13:13:00Z",
-          "image": "https://i.guim.co.uk/img/media/5c290c7f681df99a32040b0bb121484c8d019e42/254_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ade6a0db994f8e06454f2f1477ae021",
+          "publishedAt": "2026-11-04T22:20:14Z",
+          "image": "https://www.irishtimes.com/resizer/v2/WUBDKEPN3VAIRHNQTAIQ3O5PIQ.png?smart=true&auth=420cf0e171d1609cd3c5d6060755f0c3e33b3a1025be0de11970ad5bf8fdd614&width=1200&height=630",
           "language": "en"
         },
         {
-          "title": "‘Not been this excited in a long time’: US expats ride the blue wave at Australian midterms watch parties",
-          "description": "US voters, their Australian partners and British spectators crowd around pub TVs to watch the historic election results roll in",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/04/not-been-this-excited-in-a-long-time-us-expats-ride-the-blue-wave-at-australian-midterms-watch-parties",
+          "title": "Mississippi Senate race heads to an extended vote count and possible ballot battle",
+          "description": "The Mississippi Senate race may take days to resolve, as Democrat Scott Colom leads GOP Sen.",
+          "url": "https://www.nbcnews.com/politics/2026-election/mississippi-senate-race-heads-extended-vote-count-possible-ballot-batt-rcna607463",
           "source": {
-            "name": "The Guardian"
+            "name": "NBC News"
           },
-          "publishedAt": "2026-11-04T13:12:00Z",
-          "image": "https://i.guim.co.uk/img/media/ce46b1c0f6f221fd38efbad95ec2b74c290fcd87/1246_0_6330_5064/master/6330.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2b8219f086f74de9db5b874a002fe34d",
+          "publishedAt": "2026-11-04T22:20:09Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261104-mississippi-hyde-smith-colom-mn-1345-cf3081.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Feejee Mermaid on display in Colorado may shock and intrigue-but no longer considered a 'missing link'",
+          "description": "Mermaids have inhabited world folklore and mythology for centuries. Ancient Babylonians worshiped Oannes, a human-fish hybrid; sirens populated Greek mythology; and fairy tales such as \"The Little Mermaid\" have made this figure a pop culture icon.",
+          "url": "https://phys.org/news/2026-11-feejee-mermaid-display-colorado-intrigue.html",
+          "source": {
+            "name": "Phys.org"
+          },
+          "publishedAt": "2026-11-04T22:20:06Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-feejee-mermaid-on-di.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Cosmic hydrogen measurement marks breakthrough in mapping the universe",
+          "description": "An international research project is bringing scientists closer to mapping the universe. The MeerKLASS Collaboration has reported its first measurement of the large-scale clustering of cosmic hydrogen, advancing a technique that could transform how cosmologists chart the universe.",
+          "url": "https://phys.org/news/2026-11-cosmic-hydrogen-breakthrough-universe.html",
+          "source": {
+            "name": "Phys.org"
+          },
+          "publishedAt": "2026-11-04T22:20:01Z",
+          "image": "https://scx2.b-cdn.net/gfx/news/2026/breakthrough-cosmic-hy.jpg",
           "language": "en"
         }
       ]
