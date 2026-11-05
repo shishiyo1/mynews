@@ -1,230 +1,230 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-11-05T10:26:50.576Z",
+  "updatedAt": "2026-11-05T19:37:26.670Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
         {
-          "title": "春のiPhone 18、2nmチップと大容量バッテリー搭載の予測。値上がりもするでしょう",
-          "description": "iPhone 18の最新リーク情報を解説。2nmチップや大容量バッテリー搭載による性能向上と、気になる価格改定の予測を分かりやすく紹介します。",
-          "url": "https://www.gizmodo.jp/article/2611-iphone-18-rumors-2nm-chip-battery/",
+          "title": "11月上旬は北海道で雪が多い 11月中旬は関東から西で寒さから一転して高温に",
+          "description": "今日5日に気象庁が発表した1か月予報によると、11月7日から12月6日の1か月は、平均気温は、北日本で平年並み、東日本と西日本、沖縄・奄美で平年より高いでしょう。降水量は広い範囲でほぼ平年並みですが、西日本の太平洋側では平年並みか多く、日照時間は平年並みか少ない見込みです。期間のはじめは北日本で冷え込みが強まり、雪の量がかなり多くなる可能性があります。11月中旬には東日本と西日本は平年を大きく上回る暖かさとなるでしょう。",
+          "url": "https://tenki.jp/forecaster/s_ono/2026/11/05/41216.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-11-05T07:35:30Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/41/412/41216/main/20261105160124/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Claude Codeのサブエージェントが進化。一部のコストを99%カット",
+          "description": "コスパよくなったって。2026年11月5日、Anthropicが「Claude Codeのサブエージェント、利用量を今まで食わないようにしたよ」とXで投稿しています。サブエージェントは、エージェントが必要に応じて起動し、作業を割り当てる部下",
+          "url": "https://www.gizmodo.jp/article/2611-claude-code-subagents-cost-reduction/",
           "source": {
             "name": "Gizmodo"
           },
-          "publishedAt": "2026-11-04T22:15:00Z",
-          "image": "https://media.loom-app.com/loom/2026/11/04/13bc41d8-05a1-4a55-a19d-ba1fc6665a69/original.jpg?w=1200&h=630",
+          "publishedAt": "2026-11-05T07:20:00Z",
+          "image": "https://media.loom-app.com/loom/2026/11/05/6fe89341-74d7-4cb0-ae3e-35f57c9c9fa8/original.png?w=1200&h=630",
           "language": "ja"
         },
         {
-          "title": "Apple Watch、会話を振り返るレコーダー機能をテスト中。便利そうで、ちょっと怖い",
-          "description": "Apple Watchで会話を15秒巻き戻す機能やAI要約機能のテストが開始。便利さの裏にあるプライバシーへの懸念を解説します。",
-          "url": "https://www.gizmodo.jp/article/2611-apple-watch-live-rewind-siri-recaps/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-11-04T22:00:00Z",
-          "image": "https://media.loom-app.com/loom/2026/11/04/b39f7ef3-8e4e-43c1-b53c-7958eda66d7d/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "麻生太郎氏の大誤算…「福岡市長選」がカオス状態に なぜ「高島宗一郎」市長は“後継指名”をしなかったのか",
-          "description": "九州を代表する政令指定都市、福岡市。国内はもちろん、海外からも多くの観光客が訪れる日本屈指の大都市の、トップを決める市長選の火蓋が切られた（11月1日告示、11月15日投開票）。今回の選挙は任期満了",
-          "url": "https://news.yahoo.co.jp/articles/044f4ffa74c0f8d42f60115c4933735d7bf13ceb",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-11-04T21:05:47Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261105-01517982-shincho-000-1-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "日本語に対応したiPhoneの「Siri AI」で名刺を文字起こし！ PFUの小型スキャナー「ScanSnap iX110」活用",
-          "description": "バッテリー内蔵でどこでも使えるハンディ型のドキュメントスキャナー「ScanSnap iX110」の活用を、第297回から実践している。",
-          "url": "https://internet.watch.impress.co.jp/docs/column/homewifi/2153078.html",
-          "source": {
-            "name": "INTERNET Watch"
-          },
-          "publishedAt": "2026-11-04T21:00:00Z",
-          "image": "https://internet.watch.impress.co.jp/img/iw/list/2153/078/housewifi2_304-01.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "今年の高校サッカー応援マネジャーは”特技・リフティング” 歴代最高４９回の現役女子高生・堀口真帆「持ち前の明るさで皆さんを楽しくハッピーに応援」",
-          "description": "日本テレビ系で今冬に中継される「第１０５回全国高校サッカー選手権大会」（１２月２８日開幕）の２２代目応援マネジャーに、現役高校生の女優・堀口真帆（１８）が就任したことが４日、分かった。",
-          "url": "https://hochi.news/articles/20261104-OHT1T51364.html",
-          "source": {
-            "name": "スポーツ報知"
-          },
-          "publishedAt": "2026-11-04T20:00:00Z",
-          "image": "https://hochi.news/images/2026/11/04/20261104-OHT1I51683-C.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ネタニヤフ氏の政敵ら、首相抜きの政権樹立狙う 米議会での民主勝利受け",
-          "description": "Steven Scheer Alexander Cornwell[エルサレム ４日 ロイター] - イスラエルのネタニヤフ首相の政敵らは、米民主党が議会を制したことは、同氏が米国による何世代にもわた",
-          "url": "https://news.yahoo.co.jp/articles/cd6dd1e2af302d1eff1b4d9f26bd0cfe33afe890",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-11-04T14:55:30Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000128-reut-000-2-view.jpg?exp=10800",
-          "language": "ja"
-        },
-        {
-          "title": "『ポリティカルパン』香取慎吾が“内閣総理大臣役”でサプライズ登場 出演オファーに「僕が一番びっくりしています（笑）」【コメントあり】",
-          "description": "ニュース｜　俳優の石原さとみが主演を務めるフジテレビ水10ドラマ『ポリティカルパン』（毎週水曜　後10：00）が4日に放送され、第5話ラストにて新内閣総理大臣として香取慎吾がサプライズ登場した。香取演じる総理大臣は、ニッポニアの救世主になるのか。　香取が演じるのは、物語の舞台となる架空の国・ニッポニアの新内閣総理大臣・玉矢吉実（たまや・よしみ）。ニッポニアの与党・国自党の中で非主流派の二世議員だったが、キングメーカー・小早川士郎の後押しによって、誰も予想していなかった中、戦後最年少の総理大臣に就任。キャッチーで人当たりのよいイメージから高い支持率を獲得する。その実、士郎たちにとっては『軽い神輿』である。果たして玉矢は、ニッポニアの救世主になるのか。",
-          "url": "https://www.oricon.co.jp/news/2490682/full/",
+          "title": "鳥羽水族館のラッコ「キラ」死ぬ「飼育係に見守られながら…」国内で唯一飼育となるメイの様子も伝える",
+          "description": "ニュース｜　三重県鳥羽市の鳥羽水族館は5日、公式サイトを更新。メスのラッコ「キラ」が天国へと旅立ったと発表した。18歳だった。　サイトでは「2026年11月5日午前10時40分、鳥羽水族館で飼育していたメスのラッコ『キラ』が天国へと旅立ちました」と発表。「キラは2008年4月21日にアドベンチャーワールド（和歌山県白浜町）で誕生しました。2021年3月17日に鳥羽水族館に入館し、そのゆったりしたマイペースな姿で、一緒に暮らす『メイ』と共に多くの方々に愛されてきました」と伝えた。",
+          "url": "https://www.oricon.co.jp/news/2490927/full/",
           "source": {
             "name": "オリコンニュース"
           },
-          "publishedAt": "2026-11-04T13:54:00Z",
-          "image": "https://contents.oricon.co.jp/upimg/news/2491000/2490682/20261104_124915_p_o_30189523.jpg",
+          "publishedAt": "2026-11-05T05:58:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2491000/2490927/20261105_151034_p_o_31957591.jpg",
           "language": "ja"
         },
         {
-          "title": "タップしなくてもスマホ乗っ取られるかも。Androidの11月更新で重大な脆弱性を修正",
-          "description": "Androidの11月セキュリティ更新で重大な脆弱性を修正。タップ不要で攻撃を受けるおそれがあるため、設定画面からアップデートの適用状況を確認しましょう。",
-          "url": "https://www.gizmodo.jp/article/2611-android-nov-security-update-vulnerability/",
+          "title": "モスやワークマン、IIJmioも アララへの不正アクセスで顧客情報の流出発表相次ぐ",
+          "description": "メール配信サービスを提供するアララへの不正アクセスを巡り、モスフードサービスやワークマン、IIJなど利用企業による顧客情報流出の発表が相次いでいる。当初は影響がないと案内していた企業が、後から流出を公表したケースもある。",
+          "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002907/",
           "source": {
-            "name": "Gizmodo"
+            "name": "ITmedia"
           },
-          "publishedAt": "2026-11-04T13:30:00Z",
-          "image": "https://media.loom-app.com/loom/2026/11/04/971602bf-f3bc-4baa-9b07-40e66c650a6f/original.jpg?w=1200&h=630",
+          "publishedAt": "2026-11-05T05:11:54Z",
+          "image": "https://www.itmedia.co.jp/news/article/ogp/2611/05/2000002907/10011388/2048",
           "language": "ja"
         },
         {
-          "title": "柴咲コウ「うまくいかなかったとしても、その工程を楽しみたい」ワクワクする日々の根源は、衰え知らずの好奇心",
-          "description": "柴咲コウさんインタビュー",
-          "url": "https://mi-mollet.com/articles/-/61865?layout=b",
+          "title": "東京都心で明日6日は夏日に 8日は今季初めて10℃を下回る予想 寒暖差に注意",
+          "description": "関東は明日6日(金)は夏日となる所が多いですが、8日(日)以降、寒気が流れ込み、東京都心では今シーズン初めて10℃を下回りそうです。寒暖差が大きくなるため体調管理に注意し、服装選びは慎重になさってください。",
+          "url": "https://tenki.jp/forecaster/tanaka_masashi/2026/11/05/41214.html",
           "source": {
-            "name": "mi-mollet（ミモレ）"
+            "name": "tenki.jp"
           },
-          "publishedAt": "2026-11-04T12:50:46Z",
-          "image": "https://mi-mollet.ismcdn.jp/mwimgs/c/b/-/img_cbd6d3a5af9960071d1dfc1b2fe47d88445966.jpg?rd=202610021628",
+          "publishedAt": "2026-11-05T04:42:36Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/41/412/41214/main/20261105133218/large.jpg",
           "language": "ja"
         },
         {
-          "title": "冥王星を外した「惑星の定義」、実は太陽系の外で通用しない 月か惑星か天文学者が迷う天体も",
-          "description": "ある星を思い浮かべてほしい。質量は太陽の半分ほどで、ぼんやりと赤い光を放っている恒星だ。その周囲を5000年周期でゆっくりと回っている巨大な天体は褐色矮星と呼ばれており、惑星よりもはるかに重いが、恒",
-          "url": "https://news.yahoo.co.jp/articles/bd56289b60c54271bd214f9980495c2fa779a4c9",
+          "title": "優勝目指した中央大学は全日本大学駅伝5位 箱根に向けて求められる、選手たちの発奮",
+          "description": "「真っ向勝負して優勝」を目標に掲げて全日本大学駅伝に臨んだ中央大学。しかし前半区間で遅れ、最終的に5位でのフィニッシュとなった。「駅伝にならなかった」と、レース後の藤原正和監督のコメントは非常に厳しいものだった。",
+          "url": "https://4years.asahi.com/article/17019585",
           "source": {
-            "name": "Yahoo!ニュース"
+            "name": "4years"
           },
-          "publishedAt": "2026-11-04T12:03:30Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00010000-nknatiogeo-000-1-view.jpg?exp=10800",
+          "publishedAt": "2026-11-05T04:10:42Z",
+          "image": "https://p.potaufeu.asahi.com/3f0a-p/picture/31522609/ea583c8f7283d992f591f86e1415271c.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ASCII.jp：『グランド・セフト・オートVI』のプリロードを11月10日より開始！ファイルサイズは最大212GB",
+          "description": "ASCII.jp － ゲーム",
+          "url": "https://ascii.jp/elem/000/004/448/4448726/",
+          "source": {
+            "name": "ASCII.jp"
+          },
+          "publishedAt": "2026-11-05T03:55:00Z",
+          "image": "https://ascii.jp/img/2026/11/05/4548053/xl/aef28dd1590fa3a3.jpg?20200122",
+          "language": "ja"
+        },
+        {
+          "title": "芋洗坂係長、マネージャーの妻との2ショット公開「奥さま美人」「かわゆい」 誕生日＆プロポーズ10周年の記念でお祝い",
+          "description": "ニュース｜　お笑いタレントの芋洗坂係長（58）が4日、自身のインスタグラムを更新し、マネージャーを務める妻と記念日を祝ったことを報告。夫婦2ショットを“顔出し”で公開し、笑顔あふれる姿にファンから祝福の声が寄せられている。　「先月、妻の誕生日＆プロポーズ10周年という事で、稽古の前にショッピング 稽古の後に食事に行って来ました」と説明し、夫婦で食事を楽しんだ際の写真を披露した。公開された写真には、色鮮やかなエビや脂ののったマグロ、イカなどの握りずしをはじめ、卵焼きや巻きずし、魚料理、土瓶蒸しなど、豪華な料理の数々が収められている。",
+          "url": "https://www.oricon.co.jp/news/2490808/full/",
+          "source": {
+            "name": "オリコンニュース"
+          },
+          "publishedAt": "2026-11-05T03:35:00Z",
+          "image": "https://contents.oricon.co.jp/upimg/news/2491000/2490808/20261104_192954_p_o_78887160.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "ナンバー「17」のボールはXVからダイヤモンドへ 渋野日向子の最新ギアセッティング",
+          "description": "◇日米女子ツアー◇TOTOジャパンクラシック 初日（5日）◇太平洋クラブ美野里コース （茨城）◇6598yd（パー72） 渋野日向子は秋のアジアシリーズ2戦目を戦う。昨年は同シリーズに出場できず、日本開催の「TOTOジャパンクラシック」には2年ぶりの出場となった。 ギアはシーズン中盤戦に大きな変化が",
+          "url": "https://news.golfdigest.co.jp/news/tgt/lpga/article/196804/1/",
+          "source": {
+            "name": "GDOゴルフニュース"
+          },
+          "publishedAt": "2026-11-05T03:00:09Z",
+          "image": "https://i.gimg.jp/cmsimg/442881.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Unreal Fest Tokyo 2026レポート:Unreal Engine 6でブループリントからVerseに一本化",
+          "description": "Epic社内のデザイナーを含め多くの開発者が愛用してきた。今後はAIがコードを読み書きしやすいテキストベースの「Verse」に一本化。次世代のゲーム制作の大幅な効率化が狙い",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261105t",
+          "source": {
+            "name": "電ファミニコゲーマー"
+          },
+          "publishedAt": "2026-11-05T03:00:00Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/image_001-5.jpg",
           "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Hackers exploited iOS and Android flaws to infect phones",
-          "description": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
-          "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+          "title": "Enverga takes up cudgels for House, says it's agencies' job to provide accurate project data",
+          "description": "Government agencies, not lawmakers, bear primary responsibility for ensuring the accuracy of project details submitted for congressional approval, Quezon 1st...",
+          "url": "https://mb.com.ph/2026/11/05/enverga-takes-up-cudgels-for-house-says-its-agencies-job-to-provide-accurate-project-data",
           "source": {
-            "name": "Ars Technica"
+            "name": "Manila Bulletin"
           },
-          "publishedAt": "2026-11-04T22:26:49Z",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg",
+          "publishedAt": "2026-11-05T07:36:37Z",
+          "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/11/05/144280.webp",
           "language": "en"
         },
         {
-          "title": "Fabregas: ‘A wonderful night for Como, but must stay humble’ after 9-1 victory",
-          "description": "Cesc Fabregas admits the 9-1 win in Lens was ‘a wonderful night for Como, but we need to keep our feet on the ground’ as Champions League ambition starts to genuinely build.The Lariani had won bot...",
-          "url": "https://sports.yahoo.com/articles/fabregas-wonderful-night-como-must-222300586.html",
+          "title": "Biggest risk to the Baltic states identified following Democrats' victory in US midterm elections",
+          "description": "For the Baltic states, one of the most significant potential benefits of the election results could be a more predictable US security policy.",
+          "url": "https://bnn-news.com/world/biggest-risk-to-the-baltic-states-identified-following-democrats-victory-in-us-midterm-elections-nemfyqd",
           "source": {
-            "name": "Yahoo Sports"
+            "name": "Baltic News Network"
           },
-          "publishedAt": "2026-11-04T22:23:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/7ebee23e8dc80b039fbc44b1ac9d0fb6b8379bb1034b5ca9498d927d605c56b9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_italia_articles_132%2Fc2b1aab8cd895822f4aad8ba456f2ba2.jpg",
+          "publishedAt": "2026-11-05T07:36:22Z",
+          "image": "https://media.bnn.lv/WhatsApp%20Image%202026-11-05%20at%2009.09.23-1200x675.jpg",
           "language": "en"
         },
         {
-          "title": "Jamie Foxx and girlfriend Alyce Huckstepp welcome their first child together",
-          "description": "The news comes just days after he was partying up a storm at the Melbourne Cup.",
-          "url": "https://www.nine.com.au/entertainment/celebrity/jamie-foxx-alyce-huckstepp-welcome-first-child-reports-20261105-p61bkr.html",
-          "source": {
-            "name": "Nine.com.au"
-          },
-          "publishedAt": "2026-11-04T22:22:24Z",
-          "image": "https://static.ffx.io/images/$zoom_0.4191%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_190%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/476d91875e276ab404eda9217ba554923975aa58",
-          "language": "en"
-        },
-        {
-          "title": "'Nothing to do': Young people hit hard by job shortage - youth worker",
-          "description": "Young jobless people are left feeling bored and apathetic as they struggle to find jobs or training opportunities, a youth worker says.",
-          "url": "https://www.rnz.co.nz/news/business/2355246/nothing-to-do-young-people-hit-hard-by-job-shortage-youth-worker",
-          "source": {
-            "name": "RNZ"
-          },
-          "publishedAt": "2026-11-04T22:21:38Z",
-          "image": "https://media.rnztools.nz/rnz/image/upload/s--Y1P92R3R--/t_tohu-badge-facebook/f_auto/q_auto/4KPH1FV_census03_jpg",
-          "language": "en"
-        },
-        {
-          "title": "Marooned in paradise: Albanese and the summit that could not have come at a worse time",
-          "description": "On balance, the PM had to go to CHOGM. But it cost him. There is no time to change plans for 2026. There is still time to be ruthless with the diary for 2027.",
-          "url": "https://www.theage.com.au/national/marooned-in-paradise-albanese-and-the-summit-that-could-not-have-come-at-a-worse-time-20261105-p61biq.html",
+          "title": "Why the Coalition leader is avoiding the press and what it means for the Victorian election campaign",
+          "description": "The opposition leader has avoided a debate with One Nation’s Warren Pickering and cut back on questions from reporters. It may work against her.",
+          "url": "https://www.theage.com.au/politics/victoria/gone-in-four-minutes-and-39-seconds-why-wilson-should-embrace-the-chaos-of-campaigning-20261105-p61bp7.html",
           "source": {
             "name": "The Age"
           },
-          "publishedAt": "2026-11-04T22:20:37Z",
-          "image": "https://static.ffx.io/images/$zoom_0.2389%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_26/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/16776c842ca03d56f9d44a41c467797920269622",
+          "publishedAt": "2026-11-05T07:36:04Z",
+          "image": "https://static.ffx.io/images/$zoom_0.43879971484316366%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_869%2C$y_161/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/a0aa98390d3f77f57cd4bb5f5df9134002151f6d",
           "language": "en"
         },
         {
-          "title": "President JD Vance says Republicans lost big because of war in Iran",
-          "description": "President Donald Trump earlier acknowledged the Iran war was a factor but stood defiant on his decision to launch the attacks.",
-          "url": "https://www.bbc.com/news/articles/cq9vz9de7yelo",
+          "title": "Ireland's game has to grow in 'every area'",
+          "description": "If there is concern that Ireland are not where they need to be less than a year out from the World Cup, then at least there is some reassurance that Andy Farrell and his coaches know it.",
+          "url": "https://www.rte.ie/sport/rugby/2026/1104/1598022-irelands-game-has-to-grow-in-every-area-farrell/",
           "source": {
-            "name": "BBC"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-11-04T22:20:35Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/75ae/live/39eb1dd0-d871-11f1-85ab-b3cc3b5498c6.jpg",
+          "publishedAt": "2026-11-05T07:36:01Z",
+          "image": "https://www.rte.ie/images/0025494e-1600.jpg",
           "language": "en"
         },
         {
-          "title": "Ireland’s Population Crash on RTÉ One: Miriam O’Callaghan is compelling at the heart of this doc",
-          "description": "Television: The presenter explores plunging global birth rates with a gregarious, slightly anarchic presenting style",
-          "url": "https://www.irishtimes.com/culture/tv-radio/2026/11/04/irelands-population-crash-on-rte-one-miriam-ocallaghan-is-compelling-at-the-heart-of-this-doc/",
+          "title": "'I overthink it' - Federico Valverde reveals secret behind Champions League stunner as Real Madrid complete another epic comeback",
+          "description": "Federico Valverde scored a stunning late winner from outside the box as Real Madrid completed a dramatic Champions League comeback against AEK Athens.",
+          "url": "https://www.goal.com/en/news/federico-valverde-goal-real-madrid-aek-athens-champions-league/blte59f0600eabc5a76",
           "source": {
-            "name": "The Irish Times"
+            "name": "Goal.com"
           },
-          "publishedAt": "2026-11-04T22:20:14Z",
-          "image": "https://www.irishtimes.com/resizer/v2/WUBDKEPN3VAIRHNQTAIQ3O5PIQ.png?smart=true&auth=420cf0e171d1609cd3c5d6060755f0c3e33b3a1025be0de11970ad5bf8fdd614&width=1200&height=630",
+          "publishedAt": "2026-11-05T07:35:48Z",
+          "image": "https://assets.goal.com/images/v3/getty-2303526594/crop/MM5DGNRZGA5DEMBXGY5G433XMU5DAORWGU======/GettyImages-2303526594.jpg",
           "language": "en"
         },
         {
-          "title": "Mississippi Senate race heads to an extended vote count and possible ballot battle",
-          "description": "The Mississippi Senate race may take days to resolve, as Democrat Scott Colom leads GOP Sen.",
-          "url": "https://www.nbcnews.com/politics/2026-election/mississippi-senate-race-heads-extended-vote-count-possible-ballot-batt-rcna607463",
+          "title": "M&M Q2 results: Consolidated profit rises 25% to Rs 4,588 crore, revenue jumps 25%; shares gain nearly 5%",
+          "description": "Mahindra & Mahindra Q2 FY27 results: Consolidated net profit rose 25 percent to Rs 4,588 crore, while revenue jumped 25 percent to Rs 57,553 crore. Strong auto sales drove growth, while farm earnings declined. M&M shares gained nearly 5 percent.",
+          "url": "https://www.moneycontrol.com/news/business/earnings/m-stock-surges-nearly-6-14071380.html",
           "source": {
-            "name": "NBC News"
+            "name": "Moneycontrol.com"
           },
-          "publishedAt": "2026-11-04T22:20:09Z",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261104-mississippi-hyde-smith-colom-mn-1345-cf3081.jpg",
+          "publishedAt": "2026-11-05T07:35:40Z",
+          "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260415165559_Mahindra-plant.png",
           "language": "en"
         },
         {
-          "title": "Feejee Mermaid on display in Colorado may shock and intrigue-but no longer considered a 'missing link'",
-          "description": "Mermaids have inhabited world folklore and mythology for centuries. Ancient Babylonians worshiped Oannes, a human-fish hybrid; sirens populated Greek mythology; and fairy tales such as \"The Little Mermaid\" have made this figure a pop culture icon.",
-          "url": "https://phys.org/news/2026-11-feejee-mermaid-display-colorado-intrigue.html",
+          "title": "Oil spill after major fire at Auckland power substation",
+          "description": "Auckland Council is responding to an oil spill after a large fire at a Vector electrical substation in the Auckland suburb of Penrose on Thursday.",
+          "url": "https://www.rnz.co.nz/news/emergencies_local/2357212/oil-spill-after-major-fire-at-auckland-power-substation",
           "source": {
-            "name": "Phys.org"
+            "name": "RNZ"
           },
-          "publishedAt": "2026-11-04T22:20:06Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-feejee-mermaid-on-di.jpg",
+          "publishedAt": "2026-11-05T07:35:10Z",
+          "image": "https://media.rnztools.nz/rnz/image/upload/s--B5eOJQE0--/t_tohu-badge-facebook/f_auto/q_auto/4JFMUSN_Fire_Penrose_01_jpg",
           "language": "en"
         },
         {
-          "title": "Cosmic hydrogen measurement marks breakthrough in mapping the universe",
-          "description": "An international research project is bringing scientists closer to mapping the universe. The MeerKLASS Collaboration has reported its first measurement of the large-scale clustering of cosmic hydrogen, advancing a technique that could transform how cosmologists chart the universe.",
-          "url": "https://phys.org/news/2026-11-cosmic-hydrogen-breakthrough-universe.html",
+          "title": "‘Calm down’: Former Isidingo actor Tumisho Masha responds to ballot-photo backlash",
+          "description": "Veteran actor and producer Tumisho Masha has asked South Africans to “calm down” after a storm erupted over a picture of his marked ballot paper on social media.",
+          "url": "https://www.news24.com/southafrica/news/calm-down-former-isidingo-actor-tumisho-masha-responds-to-ballot-photo-backlash-20261105-0411",
           "source": {
-            "name": "Phys.org"
+            "name": "News24"
           },
-          "publishedAt": "2026-11-04T22:20:01Z",
-          "image": "https://scx2.b-cdn.net/gfx/news/2026/breakthrough-cosmic-hy.jpg",
+          "publishedAt": "2026-11-05T07:35:00Z",
+          "image": "https://news24cobalt.24.co.za/resources/02ab-21ff10052c9f-23fcc4cbeaa0-1000/format/inline/ed_549229_1_.jpeg",
+          "language": "en"
+        },
+        {
+          "title": "MIC opposes proposed cut in teaching hours for Tamil",
+          "description": "The party’s deputy president, M Saravanan, suggests incorporating the new Character Building module into existing Moral Education periods instead.",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/05/mic-opposes-proposed-cut-in-teaching-hours-for-tamil",
+          "source": {
+            "name": "Free Malaysia Today"
+          },
+          "publishedAt": "2026-11-05T07:35:00Z",
+          "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/03/79338ea7-3_saravanan_mp_tapah_moganraj_fmt_11032025-copy-4.webp",
+          "language": "en"
+        },
+        {
+          "title": "Google and NPA disable Chinese company’s backdoor into internet-connected devices",
+          "description": "Over 1.3 million devices were affected by the backdoor and botnet.",
+          "url": "https://www.japantimes.co.jp/business/2026/11/05/tech/google-residential-proxies/",
+          "source": {
+            "name": "The Japan Times"
+          },
+          "publishedAt": "2026-11-05T07:35:00Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572428.JPG?v=3.1",
           "language": "en"
         }
       ]
