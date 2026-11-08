@@ -1,10 +1,65 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-11-07T21:31:14.554Z",
+  "updatedAt": "2026-11-08T04:54:31.536Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "関東・東北・中部で地震 Ｍ５．６ 東京、神奈川、埼玉、千葉、静岡などで揺れ 最大震度３ 震源は茨城県沖 地震が及んだ地域人口３３４８万人",
+          "description": "７日午後８時７分ごろ、茨城県沖を震源とする地震があった。最大震度３、地震の規模を示すマグニチュード（Ｍ）は５．６と推定される。震源の深さは約２０キロ。千葉県内は銚子市、東金市、旭市などで震度２を観測",
+          "url": "https://www.chibanippo.co.jp/articles/1689649",
+          "source": {
+            "name": "千葉日報オンライン"
+          },
+          "publishedAt": "2026-11-07T13:50:29Z",
+          "image": "https://www.chibanippo.co.jp/sites/default/files/image/202611/zisin_map20261107201222.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "優勝の千葉百音「不安が演技ににじみ出て…」 中国杯女子フリー",
+          "description": "フィギュアスケートのグランプリ（GP）シリーズ第3戦中国杯は7日、中国・深圳で女子フリーがあり、ショートプログラム（SP）首位の千葉百音選手（木下グループ）が148・40点、合計224・48点で優勝した。千葉選手はGPシリーズ3勝目を挙げた。",
+          "url": "https://mainichi.jp/articles/20261107/k00/00m/050/232000c",
+          "source": {
+            "name": "毎日新聞"
+          },
+          "publishedAt": "2026-11-07T12:50:00Z",
+          "image": "https://cdn.mainichi.jp/vol1/2026/11/07/20261107k0000m050235000p/0c10.jpg?1",
+          "language": "ja"
+        },
+        {
+          "title": "首位・FC東京が王者・鹿島を2-0撃破!! エースFW長倉幹樹が決勝弾、J1史上最長「847分間」無失点の大記録",
+          "description": "[11.7 J1第14節 FC東京 2-0 鹿島 味スタ]　J1リーグは7日、第14節を各地で行い、首位のFC東京が鹿島アントラーズを2-0で破った。後半15分にエースのFW長倉幹樹が先制ゴールを奪うと、J1史上最長「847分間」連...",
+          "url": "https://web.gekisaka.jp/news/jleague/detail/?462715-462715-fl",
+          "source": {
+            "name": "ゲキサカ"
+          },
+          "publishedAt": "2026-11-07T12:03:34Z",
+          "image": "https://f.image.geki.jp/data/image/news/2560/463000/462715/news_462715_1.jpg?time=20261107210334",
+          "language": "ja"
+        },
+        {
+          "title": "気温14度の寒さでも、冷めやらぬ“万博盆踊り”熱…ドローンも登場、エモい演出に観客沸く「なんか感動した」",
+          "description": "関西のおいしい、楽しい、知りたい…がいっぱい。関西人による、関西が好きな人のための、関西を24時間遊ぶニュースサイトです。",
+          "url": "https://www.lmaga.jp/news/2026/11/1118093/",
+          "source": {
+            "name": "Lmaga.jp"
+          },
+          "publishedAt": "2026-11-07T11:40:04Z",
+          "image": "https://www.lmaga.jp/wp-content/uploads/2026/11/takurobanpaku1107_49.JPG",
+          "language": "ja"
+        },
+        {
+          "title": "減税法案採決を退席した石破氏 14年前は増税反対の鳩山氏らに「さっさと離党を」と批判",
+          "description": "消費税の増税と減税を巡り、14年の月日を隔てて2人の首相経験者が所属政党の方針に反する行動を取った。自民党の石破茂前首相は6日、飲食料品の消費税減税関連法案の衆院本会議採決を前に退席した。民主党の鳩山由紀夫元首相は平成24年6月、消費税率…",
+          "url": "https://www.sankei.com/article/20261107-2OZHIHAEP5EWHG4GAPIIJJKKNI/?outputType=asynd",
+          "source": {
+            "name": "産経ニュース"
+          },
+          "publishedAt": "2026-11-07T09:39:27Z",
+          "image": "https://www.sankei.com/resizer/v2/OF7QH5NRUFB7PBDKPRSSKRG36M.jpg?auth=108343400031db5fc48195a77248d25f53d19fd64f608d7c6a095c607a40b299&quality=50&focal=609%2C380&width=1200&height=675",
+          "language": "ja"
+        },
         {
           "title": "《「ゴールインしてほしかったカップル」ランキング》豪華ペアの1位は、圧倒的な“男性票”を集めた惜しまれる2人（週刊女性PRIME）",
           "description": "芸能人同士の交際は、世間の関心を集めながらも、さまざまな事情でゴールインに至らなかったケースも少なくない。「あの二人が結婚していたら」という思いは、時が経っても人々の心の中で静かに生き続けるものだ。",
@@ -59,172 +114,117 @@
           "publishedAt": "2026-11-07T07:30:00Z",
           "image": "https://f.image.geki.jp/data/image/news/2560/463000/462711/news_462711_1.jpg?time=20261107163048",
           "language": "ja"
-        },
-        {
-          "title": "【続報】外部メール配信サービスへの不正アクセスについて",
-          "description": "スターダストプロモーション所属・EBiDAN(恵比寿学園男子部)オフィシャルサイト。各グループの出演情報やリリース情報など、EBiDANのすべての情報がここに。",
-          "url": "https://ebidan.jp/news/detail/3002545",
-          "source": {
-            "name": "EBiDAN（恵比寿学園男子部）"
-          },
-          "publishedAt": "2026-11-07T07:04:05Z",
-          "image": "https://ebidan.jp/og_image.png",
-          "language": "ja"
-        },
-        {
-          "title": "9日は東北～九州で冷たい雨 東京は12月並みの寒さ 日ごとの寒暖差大 2週間天気",
-          "description": "9日(月)は北海道では雪、東北から九州では冷たい雨となる所が多いでしょう。東京都心の最高気温は11℃と12月中旬並みの寒さとなりそうです。12日(木)以降は寒さが和らぎそうです。日ごとの寒暖差が大きいので、体調管理にご注意ください。",
-          "url": "https://tenki.jp/forecaster/t_yoshida/2026/11/07/41237.html",
-          "source": {
-            "name": "tenki.jp"
-          },
-          "publishedAt": "2026-11-07T06:50:46Z",
-          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/41/412/41237/main/20261107152917/large.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "木村拓哉、たくろうの主宰イベントに「祝い花」プレゼント…きむバン感無量「プレート持って帰ります」",
-          "description": "関西のおいしい、楽しい、知りたい…がいっぱい。関西人による、関西が好きな人のための、関西を24時間遊ぶニュースサイトです。",
-          "url": "https://www.lmaga.jp/news/2026/11/1118317/",
-          "source": {
-            "name": "Lmaga.jp"
-          },
-          "publishedAt": "2026-11-07T06:42:45Z",
-          "image": "https://www.lmaga.jp/wp-content/uploads/2026/11/takurobanpaku1107_3.JPG",
-          "language": "ja"
-        },
-        {
-          "title": "『GTA6』日本版の必要容量が約1GB少ないと話題に。XBOXストアページから判明",
-          "description": "日本向けXBOX版は208.74GBと表記されています。",
-          "url": "https://www.gamespark.jp/article/2026/11/07/174606.html",
-          "source": {
-            "name": "Game*Spark"
-          },
-          "publishedAt": "2026-11-07T06:15:03Z",
-          "image": "https://www.gamespark.jp/imgs/ogp_f/1216635.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "【柔道】７８キロ超の朝比奈沙羅が１０年ぶり決勝進出、パリ五輪銅の舟久保遥香も初優勝王手、１９年大会以来の決勝進出…講道館杯女子７階級（スポーツ報知）",
-          "description": "◆柔道 講道館杯・全日本体重別選手権 第１日（７日、千葉・ちばぎんアリーナ） グランドスラム東京（１２月５日開幕、東京体育館）の代表選考会を兼ねて行われ、第１日に実施された女子７階級で、決勝進出者が",
-          "url": "https://news.yahoo.co.jp/articles/d0177137f52bd5c5724e0ca42e404b5cbe61b1a0",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-11-07T05:47:16Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-11071129-sph-000-2-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Inmate killed on way to rehabilitation program factory job in northern Israel",
-          "description": "As Heib approached the bus stop on his way to work, a vehicle pulled up beside him, and shots were fired from inside. He was critically wounded and pronounced dead at the scene.",
-          "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914117",
+          "title": "ZIMRA sniffer dog detects guns, ammunition concealed inside bus at Beitbridge Border Post, driver taken into custody",
+          "description": "A ZIMBABWE Revenue Authority (ZIMRA) sniffer dog has foiled an attempt to smuggle seven pistols and ammunition into Zimbabwe through Beitbridge Border Post. The pistols and 170 rounds of 9mm blank ammunition were intercepted in the early hours of November 6, 2026, concealed on a Bulawayo-bound bus travelling from South Africa. In a statement at […]",
+          "url": "https://www.newzimbabwe.com/zimra-sniffer-dog-detects-guns-ammunition-concealed-inside-bus-at-beitbridge-border-post-driver-taken-into-custody/",
+          "source": {
+            "name": "NewZimbabwe.com"
+          },
+          "publishedAt": "2026-11-07T16:54:22Z",
+          "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2026/11/07165147/Screenshot_20261107_184736_Phoenix.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Schedule, Time, Card",
+          "description": "WWE Crown Jewel 2026 is here and wrestling fans can watch Roman Reigns, Sami Zayn and Liv Morgan , Chelsea Green streaming live online free, no PPV.",
+          "url": "https://www.billboard.com/culture/product-recommendations/wwe-crown-jewel-2026-how-to-watch-live-online-free-1236372909/",
+          "source": {
+            "name": "Billboard"
+          },
+          "publishedAt": "2026-11-07T16:53:58Z",
+          "image": "https://www.billboard.com/wp-content/uploads/2026/07/WWE-Liv-Morgan-Getty-Billboard-1548.jpg?w=1024",
+          "language": "en"
+        },
+        {
+          "title": "'Mammoth' Malcolm Marx leads Italian mauling as 'swaggering' Sacha Feinberg-Mngomezulu shines",
+          "description": "Following the Springboks' comprehensive 66-7 victory over Italy, here is how we rated Rassie Erasmus' charges",
+          "url": "https://www.planetrugby.com/news/springboks-player-ratings-v-italy-sacha-shines-mamoth-marx",
+          "source": {
+            "name": "Planet Rugby"
+          },
+          "publishedAt": "2026-11-07T16:53:35Z",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/07133248/Springboks-hooker-Malcolm-Marx-and-an-inset-of-fly-half-Sacha-Feinberg-Mngomezulu-1.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Five takeaways as All Blacks pass litmus test with 'flying colours' despite benefitting from 'clear and obvious' obsession",
+          "description": "Following the All Blacks' 43-21 victory over Scotland, here are our five takeaways from the Nations Championship victory at Murrayfield.",
+          "url": "https://www.planetrugby.com/news/scotland-v-all-blacks-five-takeaways-from-the-43-21-victory-for-new-zealand",
+          "source": {
+            "name": "Planet Rugby"
+          },
+          "publishedAt": "2026-11-07T16:51:57Z",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/07163133/All-Blacks-back-rower-Wallace-Sititi-and-an-inset-of-Scotland-hooker-Ewan-Ashman-1.jpg",
+          "language": "en"
+        },
+        {
+          "title": "MotoGP Qatar Grand Prix: Marc Marquez wins thrilling sprint as Jorge Martin fights to third",
+          "description": "Marc Marquez claimed MotoGP sprint victory after a clash with Marco Bezzecchi, setting up a chance to win the title on Sunday in the Qatar GP",
+          "url": "https://sports.yahoo.com/articles/motogp-qatar-grand-prix-marc-165156190.html",
+          "source": {
+            "name": "Yahoo Sports"
+          },
+          "publishedAt": "2026-11-07T16:51:56Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/119abff312bfaef3537024be3503c5f01729bb139d16e578054562168c28cc8b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotorsport_articles_445%2Ff22de69b81e7f63ea7f55e75d31c8a07.jpg",
+          "language": "en"
+        },
+        {
+          "title": "28 km of desert and mountain: The renewed Gush Etzion singletrack",
+          "description": "Built nearly 20 years ago, the Gush Etzion bike singletrack is restored. On Nov 13, it features at the Tour de Gush riding event with a 28 km route and an easier option.",
+          "url": "https://www.jpost.com/travel/article-913997",
           "source": {
             "name": "The Jerusalem Post"
           },
-          "publishedAt": "2026-11-07T09:30:45Z",
-          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/723532",
+          "publishedAt": "2026-11-07T16:51:47Z",
+          "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745118",
           "language": "en"
         },
         {
-          "title": "JJ Gabriel breaks silence on Man Utd exit with eight",
-          "description": "JJ Gabriel gave a brief interview to a Spanish newspaper in Madrid as his protracted and bitter move from Manchester United to Real Madrid edges closer to completion",
-          "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-real-madrid-explanation-37853578",
-          "source": {
-            "name": "The Mirror"
-          },
-          "publishedAt": "2026-11-07T09:29:03Z",
-          "image": "https://i2-prod.mirror.co.uk/article37735317.ece/ALTERNATES/s1200d/1_GettyImages-2290590482.jpg",
-          "language": "en"
-        },
-        {
-          "title": "LRT-1 offers free rides during Asean Summit",
-          "description": "MANILA, Philippines — The management of the Light Rail Transit Line 1 (LRT-1) announced on Saturday that it would offer free rides on three separate days in connection with the holding of the Association of Southeast Asian Nations (Asean Summit.",
-          "url": "https://www.manilatimes.net/2026/11/07/news/lrt-1-offers-free-rides-during-asean-summit/2464479",
-          "source": {
-            "name": "The Manila Times"
-          },
-          "publishedAt": "2026-11-07T09:29:00Z",
-          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/07/1296767.jpg",
-          "language": "en"
-        },
-        {
-          "title": "Africa, Europe adopt new plan to boost trade, investment and development",
-          "description": "The new implementation plan identifies four priority areas: prosperity; peace, security and governance; people; and multilateralism.",
-          "url": "https://www.the-star.co.ke/news/africa/2026-11-07-au-eu-adopt-new-plan-to-boost-trade-investment-and-development",
-          "source": {
-            "name": "The Star, Kenya"
-          },
-          "publishedAt": "2026-11-07T09:28:00Z",
-          "image": "https://cdn.radioafrica.digital/image/2026/11/b5dca538-9ae1-405d-8607-13e72acc66ec.webp?1794061348923",
-          "language": "en"
-        },
-        {
-          "title": "Prisons Dept will comply with any court order involving Najib's house arrest, says Home Minister",
-          "description": "KUALA LUMPUR: The Prisons Department will comply with any court order on former prime minister Datuk Seri Najib Razak's house arrest.",
-          "url": "https://www.thestar.com.my/news/nation/2026/11/07/prisons-dept-will-comply-with-any-court-order-involving-najib039s-house-arrest-says-home-minister",
-          "source": {
-            "name": "The Star"
-          },
-          "publishedAt": "2026-11-07T09:27:00Z",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/11/07/4201589.JPG",
-          "language": "en"
-        },
-        {
-          "title": "Monty Don leaves Gardeners’ World viewers in tears after leaving BBC series",
-          "description": "Presenter has officially left BBC series after 24 years",
-          "url": "https://www.the-independent.com/arts-entertainment/tv/news/monty-don-gardeners-world-bbc-b3080921.html",
-          "source": {
-            "name": "The Independent"
-          },
-          "publishedAt": "2026-11-07T09:26:00Z",
-          "image": "https://static.the-independent.com/2026/11/07/9/45/Screenshot-2026-11-07-at-09-23-19.png?trim=57,0,57,0&width=1200&height=800&crop=1200:800",
-          "language": "en"
-        },
-        {
-          "title": "Will it be too late? - Doctors clarified when the flu vaccines will appear",
-          "description": "According to the president of the Latvian Association of Family Doctors, Alise Nicmane-Aishpure, family doctors currently have mainly high-dose flu vaccines intended for people over 60 years old. However, there are no free or paid vaccines available",
-          "url": "https://news.inbox.eu/150yrik-will-it-be-too-late-doctors-clarified-when-the-flu-vaccines-will-appear?language=en",
-          "source": {
-            "name": "Inbox.eu"
-          },
-          "publishedAt": "2026-11-07T09:25:01Z",
-          "image": "https://news.inbox.eu/w/img/96/65/96658296e9818c21f8.webp",
-          "language": "en"
-        },
-        {
-          "title": "Connected Headphones That Play Music Without a Smartphone; Sony Goes Back to Walkman Roots With USB",
-          "description": "Sonos has launched its second-generation headphones, the Sonos Ace Ultra, featuring the ability to stream music directly over Wi-Fi without a…",
-          "url": "https://finance.biggo.com/news/07263f63-e984-4545-a64f-b832ccab634d",
-          "source": {
-            "name": "BigGo Finance"
-          },
-          "publishedAt": "2026-11-07T09:25:00Z",
-          "image": "https://img.biggo.com/IZQkfa37ZluXT8cEZZKPiTd7R2U8nqf4ZgsFflQwtzk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzA3MjYzZjYzLWU5ODQtNDU0NS1hNjRmLWI4MzJjY2FiNjM0ZF8xNzk0MDQzNzA2X2RlZmF1bHQud2VicA.jpg",
-          "language": "en"
-        },
-        {
-          "title": "World Record: Indian Air Force's IL-76MD Makes Historic Landing At 13,629 Feet In Ladakh",
-          "description": "The Indian Air Force's IL-76MD heavy-lift transport aircraft has created aviation history by successfully landing at Nyoma airfield in Ladakh at 13,629 feet.",
-          "url": "https://www.ndtv.com/india-news/world-record-indian-air-forces-il-76md-makes-historic-landing-at-13-629-feet-in-ladakh-12296535",
-          "source": {
-            "name": "NDTV"
-          },
-          "publishedAt": "2026-11-07T09:24:10Z",
-          "image": "https://c.ndtvimg.com/2026-11/m57f4bv4_httpsxcomiafmcc_625x300_07_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-          "language": "en"
-        },
-        {
-          "title": "'I wrote a plan and stuck to it'",
-          "description": "Steven Beattie left Scotland's most violent prison 20 years ago vowing to turn his life around.",
-          "url": "https://www.bbc.com/news/articles/cm9qz9r8d9wlo",
+          "title": "Krakow shooting updates: Five killed, police say",
+          "description": "Poland's interior minister says two police officers are among the injured, with one in a \"critical condition\". The suspect has been taken to hospital.",
+          "url": "https://www.bbc.com/news/live/cq3dj1xv02vyt",
           "source": {
             "name": "BBC"
           },
-          "publishedAt": "2026-11-07T09:23:39Z",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d5a1/live/faecd800-d9e5-11f1-93e1-3b657b665bcf.jpg",
+          "publishedAt": "2026-11-07T16:49:54Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca3a/live/dfcdc0b0-dac2-11f1-8c3b-f3c0d6bd7c4f.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Six people killed, at least a dozen injured in shooting at main market square of Krakow, Poland",
+          "description": "Authorities in Poland are investigating a shooting that left six people dead and at least a 15 injured in the Main Market Square in Krakow, a cultural center of the historic city, according to officials.",
+          "url": "https://www.nbcnews.com/world/europe/poland-krakow-shooting-rcna608001",
+          "source": {
+            "name": "NBC News"
+          },
+          "publishedAt": "2026-11-07T16:49:06Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261107-main-market-square-of-Krakow-ch-1034-beb3c4.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Pope Leo urges South America to bridge divides on Uruguay-Argentina border",
+          "description": "Leo urged South American countries to ​set an example ⁠for international cooperation.",
+          "url": "https://www.reuters.com/world/americas/pope-leo-urges-south-america-bridge-divides-uruguay-argentina-border-2026-11-07/",
+          "source": {
+            "name": "Reuters"
+          },
+          "publishedAt": "2026-11-07T16:47:49Z",
+          "image": "https://www.reuters.com/resizer/v2/L5GJQSQKR5MVBN5LOZOSOCX2FA.jpg?auth=3370e18544e5d5725b93224a488d537d8923d41397bd10ea26d4ab352be0d603&height=1005&width=1920&quality=80&smart=true",
+          "language": "en"
+        },
+        {
+          "title": "Arsenal vs Hull highlights",
+          "description": "Arsenal finally found a way through late in the game against Hull City.",
+          "url": "https://www.usatoday.com/story/sports/soccer/epl/2026/11/07/arsenal-vs-hull-score-odegaard-goal-premier-league-standings/92660824007/",
+          "source": {
+            "name": "USA Today"
+          },
+          "publishedAt": "2026-11-07T16:47:00Z",
+          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/07/USAT/92661105007-afp-2303507625.jpg?crop=2061,1159,x1592,y362&width=2061&height=1159&format=pjpg&auto=webp",
           "language": "en"
         }
       ]
