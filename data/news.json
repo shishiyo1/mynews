@@ -1,10 +1,98 @@
 {
   "provider": "GNews via GitHub Actions",
-  "updatedAt": "2026-11-08T19:22:13.040Z",
+  "updatedAt": "2026-11-09T00:35:42.480Z",
   "windowLabel": "GitHub Pages 互換版",
   "categories": {
     "general": {
       "jp": [
+        {
+          "title": "彗星が地球に「生命の種」を運んだ説、実はかなり無理があったかも（ギズモード・ジャパン）",
+          "description": "今までの定説が覆るかもしれません…。彗星には、生命のもとになる成分を作るための原料が含まれています。いわば「生命の種」です。地球の生命に必要な原料を彗星が宇宙から運んできたという説は、長年にわたって",
+          "url": "https://news.yahoo.co.jp/articles/ce42df4f0b47b4b451644ef73aed4d584a6aaf30",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-11-08T11:30:01Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261108-00000011-giz-000-1-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "米中間選挙で形勢逆転 複数州がデータセンター許可を凍結 マスク氏は計算力の「核ボタン」を握る",
+          "description": "米中間選挙で民主党が大勝した後、複数州の新たに当選した州知事が新規制が整うまでデータセンターの新設許可を停止すると約束した。11月5日、ナスダック総合指…",
+          "url": "https://finance.biggo.jp/news/62a2e4fb-c0f1-457e-8511-577ff304ba56",
+          "source": {
+            "name": "BigGo ファイナンス"
+          },
+          "publishedAt": "2026-11-08T10:25:00Z",
+          "image": "https://img.biggo.com/5v5_loIbIhxItUZSgQBvtQhpmU5zmZVF3eBIONbrMPE/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzYyYTJlNGZiLWMwZjEtNDU3ZS04NTExLTU3N2ZmMzA0YmE1Nl8xNzk0MTMzODY2X2RlZmF1bHQuanBn.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "赤ちゃんを必死で守る保護者の姿も “見守りカメラ”が捉えた地震の瞬間 愛知で約30年ぶり震度5強",
+          "description": "8日未明、愛知県で最大震度5強を観測する強い地震があり、静岡県を含め、少なくとも22人がけがをしました。愛知県内で震度5強を観測するのは約30年ぶり。その瞬間をカメラが捉えていました。多くの人が寝ていた午前1時過ぎ、静岡県西部を震源とするマグニチュード5.7の強い地震が発生しました。愛知・知多市で震度5強、豊田市や静岡・浜松市浜名区など、11の市町村で震度5弱が観測されました。知多市の市民からは「体感では20秒くらい。実際は10秒くらい。長かったし大きく感じた」「怖かったなんてもんじゃない」な…",
+          "url": "https://www.fnn.jp/articles/-/1148455",
+          "source": {
+            "name": "FNNプライムオンライン"
+          },
+          "publishedAt": "2026-11-08T09:57:00Z",
+          "image": "https://fnn.ismcdn.jp/mwimgs/5/4/600/img_5420da7729bd1f8b4acef96fc5f37ea82562121.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "【分析】中間選挙で惨敗のトランプ氏、かつてのトルーマンと同様の境遇で求められるものとは（CNN.co.jp）",
+          "description": "（CNN） 第2次世界大戦の終結から間もない頃、米国はソ連の台頭、欧州の荒廃、そして冷戦の幕開けという状況に直面していた。こうした中、ハリー・S・トルーマン大統領率いる民主党は、中間選挙で歴史的な大",
+          "url": "https://news.yahoo.co.jp/articles/2cea99f9523bafa008f526c0a5fb94f31ca4f99d",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-11-08T09:40:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261108-35254567-cnn-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
+        {
+          "title": "台風32号は非常に強い勢力へ トロピカルストームPenaは越境台風となる可能性",
+          "description": "8日(日)15時現在、日本の南の台風32号は「強い」勢力となりました。台風はさらに発達し、10日(火)には「非常に強い」勢力となるでしょう。10日(火)から11日(水)にかけては小笠原諸島に接近する恐れがあり、土砂災害や暴風、高波に警戒が必要です。また、ハワイの南の海上のトロピカルストーム「Pena」が西よりへ進み、今後、越境台風となる可能性があります。",
+          "url": "https://tenki.jp/forecaster/t_yoshida/2026/11/08/41250.html",
+          "source": {
+            "name": "tenki.jp"
+          },
+          "publishedAt": "2026-11-08T09:15:49Z",
+          "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/41/412/41250/main/20261108180246/large.jpg",
+          "language": "ja"
+        },
+        {
+          "title": "Xbox、ワニに丸のみされる。世界に1台の特注モデルが完成、ちゃんと遊べます",
+          "description": "こんなの、欲しくなるに決まってるじゃないですか全長5フィート超（約1.5m超）のワニの模型に、Xbox Series Xを丸ごと入れた特注モデルが登場しました。名前は「Xbox Series X-BITE」。Microsoft（マイクロソフ",
+          "url": "https://www.gizmodo.jp/article/2611-xbox-series-x-alligator-edition/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-11-08T09:00:00Z",
+          "image": "https://media.loom-app.com/loom/2026/11/06/3243c6c9-b7d8-4828-8212-77ec8361ca49/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "“キャッシュレス対応”のフィットネストラッカー、新たに登場か。新Galaxy Fit 4が大進化を遂げそう",
+          "description": "サムスンの新型スマートバンド「Galaxy Fit 4」のリーク情報を解説。キャッシュレス決済対応の可能性やスマートウォッチとの違いについて紹介します。",
+          "url": "https://www.gizmodo.jp/article/2611-galaxy-fit-4-nfc-cashless/",
+          "source": {
+            "name": "Gizmodo"
+          },
+          "publishedAt": "2026-11-08T08:35:00Z",
+          "image": "https://media.loom-app.com/loom/2026/11/07/686a826f-d5b1-4489-90b3-348f8f8a681d/original.jpg?w=1200&h=630",
+          "language": "ja"
+        },
+        {
+          "title": "M!LK・塩崎太智 子ども転倒後にトランポリンで“大はしゃぎ”動画が波紋、「元気キャラ」裏目続くいっぽうで注目集めた“別メンバー”",
+          "description": "11月7日、5人組アイドルグループ「M!LK」の冠バラエティ番組『M!LKの爆裂ミッション』（TBS系）が放送された。テレビ番組で引っ張りだこになっているM!LKだが、塩崎太智は過去の冠番組での言動",
+          "url": "https://news.yahoo.co.jp/articles/ed51b372a3dba4ca45422bdec1cd3ad382f9633f",
+          "source": {
+            "name": "Yahoo!ニュース"
+          },
+          "publishedAt": "2026-11-08T08:25:00Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261108-00000036-flash-000-2-view.jpg?exp=10800",
+          "language": "ja"
+        },
         {
           "title": "西川周作 J1リーグ歴代最多673試合出場達成!",
           "description": "西川周作が8日にMUFGスタジアムで行われた明治安田J1リーグ 第14節 ヴィッセル神戸戦に出場し、J1リーグ通算試合出場数を673試合として、歴代最多記録を更新した。高校3年生だった2004年に大分トリニータの2種登録選手としてJ1リーグで1試合のベンチ入りを経験した西川は、翌2005年にプロとしてトップチーム入り。",
@@ -26,205 +114,117 @@
           "publishedAt": "2026-11-08T06:41:23Z",
           "image": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/4/41/412/41248/main/20261108142505/large.jpg",
           "language": "ja"
-        },
-        {
-          "title": "スマホがデジタル使い捨てカメラに。フィルム選びから撮影までを再現した新サービス「FilmLog.」公開。IT専門学校1年生が独自のシステムを開発",
-          "description": "あの頃の一枚に、もう一度出会う。スマホで楽しむデジタル使い捨てカメラスマートフォンで写真を撮ることが当たり前になった現代…",
-          "url": "https://www.rbbtoday.com/release/prtimes2-today/20261108/1398067.html",
-          "source": {
-            "name": "RBB TODAY"
-          },
-          "publishedAt": "2026-11-08T06:16:34Z",
-          "image": "https://www.rbbtoday.com/release/imgs/list/8213367.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "ゲーム機、タオルで包むのやめました。Belkin「Nintendo Switch 2のためのケース」が長旅の味方",
-          "description": "BelkinのNintendo Switch 2用充電ケースProをレビュー。モバイルバッテリーとスタンド機能が一体化し、長距離移動のゲーム体験を快適にする頼れる相棒です。",
-          "url": "https://www.gizmodo.jp/article/2611-belkin-nintendo-switch-2-charging-case-pro/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-11-08T05:35:00Z",
-          "image": "https://media.loom-app.com/loom/2026/11/04/5d5fb8db-f77d-4e02-9050-e1f197662286/original.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "押井守監督、『ボトムズ』2人の女性主人公を描いた理由 15年ぶり完全新作「謎をたっぷり仕込んだ」",
-          "description": "映画『装甲騎兵ボトムズ　灰色の魔女（ヘクセ）』を手がけた押井守監督が8日、TOHOシネマズ 六本木ヒルズにて行われた完成披露上映会に出席。",
-          "url": "https://www.cinematoday.jp/news/N0157853",
-          "source": {
-            "name": "シネマトゥデイ"
-          },
-          "publishedAt": "2026-11-08T04:34:47Z",
-          "image": "https://img.cinematoday.jp/a/MQBdymCZstu0/_size_r1200x630/_v_1794112487/main.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "Perfume・のっち 38歳、結婚を報告 相手は俳優・渋谷謙人 コメント発表【全文】",
-          "description": "3⼈組ユニット・Perfumeののっちさん（38）が8日、結婚したことを所属事務所のオフィシャルサイトを通じて発表しました。",
-          "url": "https://news.ntv.co.jp/category/culture/776d9d9c3df8452aadfdd926395ef4da",
-          "source": {
-            "name": "日テレNEWS NNN"
-          },
-          "publishedAt": "2026-11-08T03:06:01Z",
-          "image": "https://news.ntv.co.jp/gimage/n24/articles/d8082d5fc2f049aba06a7f002d51b05e/dc27bed3-7ffe-4cb1-9b2b-22a7ac11e8de.jpg?w=1200",
-          "language": "ja"
-        },
-        {
-          "title": "【卓球】女子4強決定 張本美和、早田ひな、大藤沙月の日本勢3人が勝ち上がる 中国勢はベスト8で敗退＜WTTチャンピオンズ フランクフルト＞",
-          "description": "◇卓球 WTTチャンピオンズ フランクフルト(11月3日～8日、ドイツ)",
-          "url": "https://news.ntv.co.jp/category/sports/4f7eefc0f4d34d1ebef829ad54ee4c86",
-          "source": {
-            "name": "日テレNEWS NNN"
-          },
-          "publishedAt": "2026-11-08T03:00:00Z",
-          "image": "https://news.ntv.co.jp/gimage/n24/articles/b76d4f3bb2174799910c314a0336c821/0fe2d617-195e-4422-8ac7-fc2d7fa91177.jpg?w=1200",
-          "language": "ja"
-        },
-        {
-          "title": "太陽の“500兆倍”。見逃されてきた宇宙一明るい天体",
-          "description": "太陽の500兆倍の明るさを誇る宇宙一明るい天体「J0529-4351」の発見について解説します。40年間見逃されていた超巨大クエーサーの驚きの正体に迫ります。",
-          "url": "https://www.gizmodo.jp/article/2611-brightest-quasar-sun-500-trillion-times/",
-          "source": {
-            "name": "Gizmodo"
-          },
-          "publishedAt": "2026-11-08T02:35:00Z",
-          "image": "https://media.loom-app.com/gizmodo/dist/images/2024/02/27/main_image_7c5720d234883d7a90e2afc1ada5e468903ab13b.jpg%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC.jpg?w=1200&h=630",
-          "language": "ja"
-        },
-        {
-          "title": "フランツィスカ 世界1位の松島輝空を破る大金星！「ファンが僕に翼を与えてくれる」地元での4強入りに感激【卓球 WTTフランクフルト】",
-          "description": "＜2026年11月7日 WTTチャンピオンズ フランクフルト2026 男子シングルス準々決勝＞ 卓球の「WTTチャンピオンズ フランクフルト」は7日、男子シングルス準々決勝が行われ、世界ランキング15位のパトリック・フランツィスカ（ドイツ…",
-          "url": "https://www.tv-tokyo.co.jp/tabletennis/news/2026/11/042887.html",
-          "source": {
-            "name": "テレビ東京"
-          },
-          "publishedAt": "2026-11-08T02:34:56Z",
-          "image": "https://www.tv-tokyo.co.jp/tabletennis/assets/2026/11/Patrick-FRANZISKA_WTT-Champions-Frankfurt-2026_Day-5_0E6A0549-thumb-900x600-62119.jpg",
-          "language": "ja"
-        },
-        {
-          "title": "中国卓球に衝撃！男女ともにベスト8で全滅 中国メディアも異例の結果を報道「9人全員が敗退」日本勢5人が4強入り【卓球 WTTフランクフルト】",
-          "description": "＜2026年11月7日 WTTチャンピオンズ フランクフルト2026 男女シングルス準々決勝＞【LIVE配信】卓球 WTTチャンピオンズフランクフルト2026｜11月3日（火）〜11月8日（日）開催",
-          "url": "https://news.yahoo.co.jp/articles/eea01c6b681feaf610ae4521e9f5c3c356788d22",
-          "source": {
-            "name": "Yahoo!ニュース"
-          },
-          "publishedAt": "2026-11-08T02:28:47Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261108-00010009-tvtokyos-000-1-view.jpg?exp=10800",
-          "language": "ja"
         }
       ],
       "world": [
         {
-          "title": "Nigeria beat Japan to claim historic under-17 world title",
-          "description": "A second-half Oluebube Umejiaku goal proved the difference as Nigeria edged Japan to clinch a maiden FIFA U-17 Women's World Cup™ crown, and a first title for an African nation at this event.",
-          "url": "https://supersport.com/football/news/c4103850-7c80-44a9-96c7-d78a924e7451/nigeria-beat-japan-to-claim-historic-under-17-world-title",
+          "title": "Amitabh Bachchan addresses health concerns, cites hand pain amid KBC 18 absence",
+          "description": "Veteran actor Amitabh Bachchan has finally broken his silence regarding concerns over his health following his recent absence from the Kaun Banega Crorepati 18 set. The 84-year-old attributed delays in his routine fan outreach to physical discomfort.",
+          "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-addresses-health-concerns-cites-hand-pain-amid-kbc-18-absence-3034904-2026-11-08",
           "source": {
-            "name": "SuperSport"
+            "name": "India Today"
           },
-          "publishedAt": "2026-11-08T07:20:10Z",
-          "image": "https://images.supersport.com/media/xnfpzkjc/oluebube-umejiaku-2000g.jpg",
+          "publishedAt": "2026-11-08T12:35:23Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/amitabh-bachchan-addresses-health-concerns--cites-hand-pain-amid-kbc-18-absence-083239465-16x9_0.png?VersionId=5V8Z6q71jk5l4EFBid5LXS_NKWvqhjwm",
           "language": "en"
         },
         {
-          "title": "Abu Dhabi Aldar Championship Prize Money Payout 2026",
-          "description": "The first of the season-closing Play-Offs events features high stakes and a big purse",
-          "url": "https://www.yahoo.com/lifestyle/articles/abu-dhabi-aldar-championship-prize-072000143.html",
+          "title": "School appeals for information after chapel vandalised",
+          "description": "The principal of a secondary school in Belmullet Co Mayo has issued an appeal for information after vandals targeted its chapel and convent.",
+          "url": "https://www.rte.ie/news/regional/2026/1108/1598427-belmullet-mayo-vandalism/",
           "source": {
-            "name": "Yahoo"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-11-08T07:20:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/205ce348a3afb220e1f93c127f3b7d475fa12f61ff36a37a48218de689cff202/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgolf_monthly_808%2F7462d903033295bac85647564fdd5580.jpg",
+          "publishedAt": "2026-11-08T12:33:24Z",
+          "image": "https://www.rte.ie/images/00254dc8-1600.jpg",
           "language": "en"
         },
         {
-          "title": "Five problems that Malaysian liberals should recognise (Part 1)",
-          "description": "The US may have just experienced a 'blue tsunami'; Malaysia should not expect the same.",
-          "url": "https://www.malaysiakini.com/news/888754-comment-five-problems-that-malaysian-liberals-should-recognise-part-1",
+          "title": "Philippines: After spike in leptospirosis, sustained decline recently reported",
+          "description": "According to the Philippines Department of Health, from the beginning of the year through October 24, 13,880 leptospirosis cases have been reported, a 49 percent increase from the 9,303 cases during the same period last year.",
+          "url": "https://outbreaknewstoday.substack.com/p/philippines-after-spike-in-leptospirosis",
           "source": {
-            "name": "Malaysiakini"
+            "name": "Outbreak News Today"
           },
-          "publishedAt": "2026-11-08T07:19:00Z",
-          "image": "https://s.malaysiakini.com/i/h1_sNOD066eZLAtpaEyZpQ_kmuM=/1200x0/filters:strip_exif()/file/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2024/10/18cc2e3bb61a2719103c4bd97831ad41.jpg",
+          "publishedAt": "2026-11-08T12:32:51Z",
+          "image": "https://images.unsplash.com/photo-1649087897570-9a9eae3d9995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxfHxwaGlsaXBwaW5lcyUyMG1hcHxlbnwwfHx8fDE3OTQxNDExMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
           "language": "en"
         },
         {
-          "title": "DIY Dalek to be auctioned for Yorkshire Cancer Research",
-          "description": "Carpenter and Doctor Who fan Martin Williams donates Rustic the Dalek for a charity auction.",
-          "url": "https://www.bbc.co.uk/news/articles/cmwy42qp4e5jo",
+          "title": "Cash for file clearance? HD Kumaraswamy releases alleged WhatsApp exchanges",
+          "description": "Kumaraswamy alleged that of the Rs 60 lakh demanded for the crusher-related files, Rs 50 lakh was meant for a senior official and Rs 10 lakh for other staff.",
+          "url": "https://www.indiatoday.in/india/karnataka/story/hassan-karnataka-corruption-allegations-kumaraswamy-whatsapp-chats-cash-demands-3034864-2026-11-08",
           "source": {
-            "name": "BBC"
+            "name": "India Today"
           },
-          "publishedAt": "2026-11-08T07:17:43Z",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3628/live/4c04eaf0-d457-11f1-906a-add2117fe3e6.jpg",
+          "publishedAt": "2026-11-08T12:32:15Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/hd-kumaraswamy-02514738-16x9_1.jpg?VersionId=BKA2pzRN1z9WwOrV76zaKimnwzMVRbce",
           "language": "en"
         },
         {
-          "title": "Patidar withdraws from | Cricbuzz.com",
-          "description": "Ayush Badoni has been named replacement; Rinku Singh to serve as deputy to Tilak Varma",
-          "url": "https://www.cricbuzz.com/cricket-news/140829/patidar-withdraws-from-india-a-squad-for-rising-stars-asia-cup",
+          "title": "Arrests, man hospitalised after influencer boxing event",
+          "description": "One man was taken to hospital and two people were arrested after a controversial boxing event involving influencers in Co Kilkenny ended abruptly last night following a brawl at the venue.",
+          "url": "https://www.rte.ie/news/ireland/2026/1108/1598426-arrests-kilkenny/",
           "source": {
-            "name": "Cricbuzz"
+            "name": "RTE.ie"
           },
-          "publishedAt": "2026-11-08T07:17:19Z",
-          "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1118641/rajat-patidar-wants-to-manage-his-existing-injuries.jpg",
+          "publishedAt": "2026-11-08T12:32:06Z",
+          "image": "https://www.rte.ie/images/00254dbe-1600.jpg",
           "language": "en"
         },
         {
-          "title": "The DIY Dalek raising funds for cancer research",
-          "description": "Carpenter and Doctor Who fan Martin Williams donates Rustic the Dalek for a charity auction.",
-          "url": "https://ca.style.yahoo.com/diy-dalek-raising-funds-cancer-071748638.html",
+          "title": "Number of big babies born drops by 71 per cent since 2010",
+          "description": "Doctors increasingly inducing labour earlier to avoid complications associated with large newborns",
+          "url": "https://www.telegraph.co.uk/news/2026/11/08/big-babies-born-falls-71-per-cent-since-2010/",
           "source": {
-            "name": "Yahoo Lifestyle Canada"
+            "name": "The Telegraph"
           },
-          "publishedAt": "2026-11-08T07:17:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/dda165bb880f910319a72e7e48da1f6219a50bf0058809b668bb4cf1ba7ba61c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F9d4b86e0056e1788021431685ccacc5e.jpg",
+          "publishedAt": "2026-11-08T12:32:00Z",
+          "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/04/23/TELEMMGLPICT000480444878_17769495153000_trans_NvBQzQNjv4BqC3_kSeTIOhA_2EmUwrnnGf4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=OG-Standard",
           "language": "en"
         },
         {
-          "title": "Parts of makeshift scrap warehouse destroyed in Circle Railway fire",
-          "description": "Firefighters from the National Headquarters and Makola stations of the Ghana National Fire Service (GNFS) have brought a fire at Circle Railway in Accra under",
-          "url": "https://www.citinewsroom.com/2026/11/parts-of-makeshift-scrap-warehouse-destroyed-in-circle-railway-fire/",
+          "title": "Man dies in suspected fall from Bayan Lepas hotel balcony",
+          "description": "GEORGE TOWN: A man was found dead on the ground floor of Bayan Lepas hotel near here early Sunday (Nov 8), believed to have fallen from the balcony of his room on the building's 23rd floor.",
+          "url": "https://www.thestar.com.my/news/nation/2026/11/08/man-dies-in-suspected-fall-from-bayan-lepas-hotel-balcony",
           "source": {
-            "name": "CitiNewsroom.com"
+            "name": "The Star"
           },
-          "publishedAt": "2026-11-08T07:16:18Z",
-          "image": "https://www.citinewsroom.com/wp-content/uploads/2026/11/Screenshot-2026-11-08-053558.png",
+          "publishedAt": "2026-11-08T12:32:00Z",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/11/08/4202346.jpg",
           "language": "en"
         },
         {
-          "title": "Wheat Hits Lowest Since June Ahead of Black Sea Peace Talks",
-          "description": "Wheat futures touched the lowest since the end of June as traders anticipate next week’s planned US-led talks with delegations from Ukraine and Russia.",
-          "url": "https://www.livemint.com/market/wheat-hits-lowest-since-june-ahead-of-black-sea-peace-talks-11794122080754.html",
-          "source": {
-            "name": "Livemint"
-          },
-          "publishedAt": "2026-11-08T07:14:40Z",
-          "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
-          "language": "en"
-        },
-        {
-          "title": "Güler scores and assists as Real Madrid win at Mestalla to draw level with Barcelona",
-          "description": "Arda Güler scored once and set up another as José Mourinho's Real Madrid beat Valencia 3-0 to reach 30 points, level with Barcelona, before the international break. Valencia are second from bottom i...",
-          "url": "https://sports.yahoo.com/articles/g-ler-scores-assists-real-071300720.html",
+          "title": "Man Utd behind vs Aston Villa; Liverpool win; Chelsea stunned",
+          "description": "2026-11-08T16:55:35ZDespite getting one back, this is the earliest Manchester United have ever been 2-0 behind in a Premier League match – conceding twice in the opening three minutes and 40 second...",
+          "url": "https://sports.yahoo.com/articles/five-games-round-off-final-123000860.html",
           "source": {
             "name": "Yahoo Sports"
           },
-          "publishedAt": "2026-11-08T07:13:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/cade03373aa37c5e74f8d16fa7ce58af879d6d92004acd96554727a09bfa2362/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_espana_articles_993%2F23ed0723914afc7793b619bcdf95ab26.jpg",
+          "publishedAt": "2026-11-08T12:30:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/f3b7eb5189d11be25cf3595743b56929d5eedd47b9e97c3d1fd1a03f447c8bfb/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2Fc251f5a2a83ed67d7f5a751f5f1e23cd.jpg",
           "language": "en"
         },
         {
-          "title": "Political Parties Must Lead Africa’s Economic Transformation: Pan-African Parliament President",
-          "description": "Addis Ababa, November 8, 2026 (ENA)— African political parties must play a greater role in driving economic transformation and strengthening the continent’s sovereignty and institutions, Said President of the Pan-African Parliament, Dr. Fateh Boutbig.\nHe made the remarks in his closing address yesterday at the Second African Political Parties Summit, held in Addis Ababa on its third and final day under the theme “Governance for Growth.”\nBoutbig expressed his appreciation to the Ethiopian government and people for hosting the second edition of the summit.\nHe also commended Prime Minister Abiy Ahmed for his commitment to Africa’s development and economic transformation.\nParliament President noted that holding the summit at the Adwa Victory Memorial Museum carries profound historical significance, recalling Africa’s resistance against colonialism.\nHe said the site highlights the sacrifices made for freedom and the need to advance from political liberation to economic emancipation.\nBoutbig stressed that Africa must control its economic decisions and strengthen its capacity to produce wealth, knowledge, and technology.\nHe called on political parties to move beyond competition for power and focus on building productive and prosperous economies.\n“The true value of a political party is not measured solely by the number of seats it secures in legislative bodies, but by its ability to develop skilled human resources, build institutions, and translate citizens' aspirations into public policies,” he said.\nBoutbig added that democracy goes beyond elections, requiring accountability, responsibility, and respect for political pluralism.\nHe highlighted the need to shift African economies from raw material exports to manufacturing, innovation, and value addition.\nParliament President also emphasized investment in African people, particularly young people and women, and their participation in decision-making.\nHe noted that the African Continental Free Trade Area (AfCFTA) offers opportunities to strengthen regional markets and advance the African Union’s Agenda 2063.\nHe said achieving these goals requires political will, effective institutions, investment-friendly legislation, and lasting stability.\nParliament President also highlighted the Addis Ababa Declaration and initiatives to strengthen political training and develop African leadership.\nBoutbig affirmed that the Pan-African Parliament would support these efforts through parliamentary diplomacy and legislative cooperation.\nHe announced plans to launch the African Center for Legislative Studies and Research in December and establish the first African Parliamentary University next year.\nHe also unveiled an initiative to organize an African Conference of Political Parties in 2027, in coordination with the African Governance Center, to promote conflict prevention and peacebuilding.\nBoutbig said the conference would bring together political and parliamentary leaders to exchange experiences and strengthen early warning mechanisms.He further announced plans to organize an African Women Parliamentarians Conference next year.\nHe called for translating summit outcomes into practical programs through stronger coordination among political parties, parliaments, and governments.\nParliament President stressed that global economic, technological, and geopolitical changes require Africa to actively shape its future rather than simply receive decisions made elsewhere.\nConcluding his address, he said, “The Africa we want is not an Africa we wait to arrive, but an Africa we build today.”\nHe called for greater African unity and solidarity, emphasizing the importance of making Addis Ababa a starting point for a new era of collective action towards a free, united, and strong Africa.",
-          "url": "https://www.ena.et/web/eng/w/eng_9893566",
+          "title": "Russell Brand talks of being 'tired and lonely' in police cell in unearthed clip",
+          "description": "Russell Brand has been described as 'shaken and quiet' during his first days in prison, but as his 2014 appearance on The Jonathan Ross Show shows, it's not his first taste of a cell",
+          "url": "https://www.mirror.co.uk/3am/celebrity-news/russell-brand-prison-jail-rape-37855210",
           "source": {
-            "name": "ENA English"
+            "name": "The Mirror"
           },
-          "publishedAt": "2026-11-08T07:12:50Z",
-          "image": "https://www.ena.et/documents/42142/0/895091496_2142164546395562_8329478685829189285_n.jpg/5f9b1900-627c-7e6c-a87a-2cf9af44e958?version=1.0&t=1794121626578&download=true",
+          "publishedAt": "2026-11-08T12:30:00Z",
+          "image": "https://i2-prod.mirror.co.uk/article37855306.ece/ALTERNATES/s1200d/0_Screenshot-2026-11-08-at-093658.jpg",
+          "language": "en"
+        },
+        {
+          "title": "Gachagua: Campaign peacefully, avoid hate speech ahead of elections",
+          "description": "Gachagua called on political leaders and their supporters to conduct peaceful campaigns and respect one another",
+          "url": "https://www.the-star.co.ke/news/2026-11-08-rigathi-campaign-peacefully-avoid-hate-speech",
+          "source": {
+            "name": "The Star, Kenya"
+          },
+          "publishedAt": "2026-11-08T12:30:00Z",
+          "image": "https://cdn.radioafrica.digital/image/2026/11/f2390ca4-a9bd-40c6-b476-e83d053729eb.webp?1794146765022",
           "language": "en"
         }
       ]
